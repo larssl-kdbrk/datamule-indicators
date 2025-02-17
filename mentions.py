@@ -25,7 +25,9 @@ def search_filings(search_term, output_path, start_year=2001, end_year=2024,mont
         if month_flag:
             for month in range(1, 13):
                 book = Book(filing_date=(f"{year}-{str(month).zfill(2)}-01",f"{year}-{str(month).zfill(2)}-31"))
+                book.EFTSQuery.set_limiter(5) 
                 book.filter_text(text=search_term, callback=search_callback)
         else:
             book = Book(filing_date=(f"{year}-01-01", f"{year}-12-31"))
+            book.EFTSQuery.set_limiter(5) 
             book.filter_text(text=search_term, callback=search_callback)

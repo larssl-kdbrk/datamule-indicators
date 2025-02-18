@@ -4,17 +4,17 @@ import shutil
 from time import sleep
 
 #shutil.rmtree("mentions", ignore_errors=True)
-#os.makedirs("mentions", exist_ok=True)
+os.makedirs("mentions", exist_ok=True)
 
 # economic
-#search_filings("tariffs", "mentions/tariffs.csv")
-#search_filings("recession", "mentions/recession.csv")
-#search_filings("cryptocurrency", "mentions/cryptocurrency.csv",month_flag=False)
-#search_filings("labor shortage", "mentions/labor_shortage.csv")
+search_filings("tariffs", "mentions/tariffs.csv")
+search_filings("recession", "mentions/recession.csv")
+search_filings("cryptocurrency", "mentions/cryptocurrency.csv",month_flag=False)
+search_filings("labor shortage", "mentions/labor_shortage.csv")
 
 
 # terror
-#search_filings("hamas", "mentions/hamas.csv")
+search_filings("hamas", "mentions/hamas.csv")
 search_filings("houthi", "mentions/houthi.csv",month_flag=False)
 
 # disasters
@@ -48,8 +48,3 @@ search_filings("water scarcity", "mentions/water_scarcity.csv")
 search_filings("pandemic", "mentions/pandemic.csv")
 search_filings("vaccine", "mentions/vaccine.csv")
 search_filings("mental health", "mentions/mental_health.csv")
-
-# country
-# search_filings("canada", "mentions/canada.csv")
-# search_filings("mexico", "mentions/mexico.csv")
-# search_filings("australia", "mentions/australia.csv")

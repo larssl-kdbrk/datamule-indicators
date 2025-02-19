@@ -3,7 +3,7 @@
 Analytics MVP using the entire SEC: [indicators](https://datamule.xyz/indicators)
 
 ## mentions
-exact mentions found in SEC documents. May be boilerplate.
+Exact mentions found in SEC documents. May be boilerplate. [Suggest More](https://github.com/john-friedman/datamule-indicators/issues/1)
 
 ## future
 founder ownership of companies via forms 345.

@@ -7,9 +7,11 @@ def search_filings(search_term, output_path, start_year=2001, end_year=2024,mont
     def search_callback(data):
         # Transform the data
         transformed = [
-            {**{k: v for k, v in item.items() if k != 'ciks'}, 'cik': cik}
+            {**{k: v for k, v in item.items() if k not in ['ciks', 'display_names']}, 
+            'cik': cik, 
+            'display_name': display_name}
             for item in data
-            for cik in item['ciks']
+            for cik, display_name in zip(item['ciks'], item['display_names'])
         ]
         
         if not transformed:

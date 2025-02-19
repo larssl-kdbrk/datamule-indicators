@@ -38,7 +38,6 @@ search_filings("sustainability", "mentions/sustainability.csv")
 # regulatory
 search_filings("antitrust", "mentions/antitrust.csv")
 search_filings("GDPR", "mentions/GDPR.csv")
-search_filings("sanctions", "mentions/sanctions.csv")
 
 # risks
 search_filings("political instability", "mentions/political_instability.csv")

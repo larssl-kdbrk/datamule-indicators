@@ -355,17 +355,7 @@ def calculate_ownership_metrics():
     print("Metrics saved to holdings/345/gender_ownership_metrics.csv")
     
     return gender_pivot
-    
-def construct_ciks():
-    # create a .txt file with all ciks from ciks/
-    ciks = []
-    for file in glob.glob('holdings/345/ciks/*.csv'):
-        cik = file.split('/')[-1].split('.')[0].split(('\\'))[-1]
-        ciks.append(cik)
 
-    with open('holdings/345/ciks.txt', 'w') as f:
-        for cik in ciks:
-            f.write(f'{cik}\n')
 
 if __name__ == "__main__":
     #download_holdings()
@@ -376,4 +366,4 @@ if __name__ == "__main__":
     # get_stocks()
     # merge_stocks()
     #calculate_ownership_metrics()
-    construct_ciks()
+    pass

@@ -1,251 +1,641 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-503.0,4083.0,827052,edison international,,1.0,,,20100106,clarke mark,112760210001003,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,scilacci w james,112760210007806,"Exec VP, CFO & Treas.",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,litzinger ronald l,112760210007800,"Chairman, Pres. & CEO of EMG",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,gault polly l,112760210007796,Executive Vice President,female,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,david daryl d,112760210007790,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,parsky barbara j,112760210007811,Senior Vice President,female,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,fielder john r,112760210007777,"Pres., So. Calif Edison Co.",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,adler robert l,112760210007762,Exec. VP and General Counsel,male,325811206.0
-0.0,0.0,827052,edison international,1.0,1.0,,,20100305,craver theodore f jr,112760210007767,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20100305,fohrer alan j,112760210007785,"Chairman & CEO, SCE Co.",male,325811206.0
-5800.0,583.0,827052,edison international,,1.0,,,20100305,clarke mark,112760210007772,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100326,nogales luis g,112760210009570,,male,325811206.0
-10714.0,0.0,827052,edison international,,1.0,,,20100401,parsky barbara j,112760210009884,Senior Vice President,female,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,bindra jagjeet s.,112760210011886,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,white w brett,112760210011879,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,schlosberg richard t iii,112760210011876,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,sutton thomas c,112760210011878,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,nogales luis g,112760210011873,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,freeman bradford m,112760210011872,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,curtis b charles,112760210011871,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,cordova france a,112760210011868,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,chang vanessa c l,112760210011859,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,olson ronald l,112760210011874,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20100423,rosser james m,112760210011875,,male,325811206.0
+503.0,4083.0,827052,edison international,,1.0,,,20100106,clarke mark,112760210001003,Vice President and Controller,male,
+,,827052,edison international,,1.0,,,20100305,litzinger ronald l,112760210007800,"Chairman, Pres. & CEO of EMG",male,
+,,827052,edison international,,1.0,,,20100305,adler robert l,112760210007762,Exec. VP and General Counsel,male,
+,,827052,edison international,1.0,1.0,,,20100305,craver theodore f jr,112760210007767,"Chairman, President and CEO",male,
+5800.0,583.0,827052,edison international,,1.0,,,20100305,clarke mark,112760210007772,Vice President and Controller,male,
+,,827052,edison international,,1.0,,,20100305,fielder john r,112760210007777,"Pres., So. Calif Edison Co.",male,
+,,827052,edison international,,1.0,,,20100305,fohrer alan j,112760210007785,"Chairman & CEO, SCE Co.",male,
+,,827052,edison international,,1.0,,,20100305,david daryl d,112760210007790,Senior Vice President,male,
+,,827052,edison international,,1.0,,,20100305,gault polly l,112760210007796,Executive Vice President,female,
+,,827052,edison international,,1.0,,,20100305,scilacci w james,112760210007806,"Exec VP, CFO & Treas.",male,
+,,827052,edison international,,1.0,,,20100305,parsky barbara j,112760210007811,Senior Vice President,female,
+0.0,,827052,edison international,1.0,,,,20100326,nogales luis g,112760210009570,,male,
+10714.0,,827052,edison international,,1.0,,,20100401,parsky barbara j,112760210009884,Senior Vice President,female,325811206.0
+,,827052,edison international,1.0,,,,20100423,sutton thomas c,112760210011878,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,white w brett,112760210011879,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,chang vanessa c l,112760210011859,,female,325811206.0
+,,827052,edison international,1.0,,,,20100423,schlosberg richard t iii,112760210011876,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,bindra jagjeet s.,112760210011886,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,rosser james m,112760210011875,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,curtis b charles,112760210011871,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,nogales luis g,112760210011873,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,freeman bradford m,112760210011872,,male,325811206.0
+,,827052,edison international,1.0,,,,20100423,cordova france a,112760210011868,,female,325811206.0
+,,827052,edison international,1.0,,,,20100423,olson ronald l,112760210011874,,male,325811206.0
 45700.0,31161.8198,827052,edison international,,1.0,,,20100514,fohrer alan j,112760210014395,"Chairman & CEO, SCE Co.",male,325811206.0
 4779.0,77135.61170000001,827052,edison international,,1.0,,,20100517,fohrer alan j,112760210014513,"Chairman & CEO, SCE Co.",male,325811206.0
-29975.0555,0.0,827052,edison international,,1.0,,,20100524,scilacci w james,112760210015283,"Exec VP, CFO & Treas.",male,325811206.0
+29975.0555,,827052,edison international,,1.0,,,20100524,scilacci w james,112760210015283,"Exec VP, CFO & Treas.",male,325811206.0
 20727.2367,3157.499,827052,edison international,,1.0,,,20100701,gault polly l,112760210018276,Executive Vice President,female,325811206.0
 4779.0,77399.239,827052,edison international,,1.0,,,20100929,fohrer alan j,112760210023971,"Chairman & CEO, SCE Co.",male,325811206.0
 4779.0,77650.109,827052,edison international,,1.0,,,20101104,fohrer alan j,112760210026980,"Chairman & CEO, SCE Co.",male,325811206.0
-50000.0,0.0,827052,edison international,1.0,,,,20101223,freeman bradford m,112760210031496,,male,325811206.0
+50000.0,,827052,edison international,1.0,,,,20101223,freeman bradford m,112760210031496,,male,325811206.0
 0.0,45700.0,827052,edison international,,1.0,,,20101227,fohrer alan j,112760210031529,"Chairman & CEO, SCE Co.",male,325811206.0
 564.0,5800.0,827052,edison international,,1.0,,,20110105,clarke mark,112760211001066,Vice President and Controller,male,325811206.0
 14701.1823,33167.0,827052,edison international,,1.0,,,20110304,litzinger ronald l,112760211008959,"President, So. Cal. Edison Co.",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110307,david daryl d,112760211009162,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110307,litzinger ronald l,112760211009172,"President, So. Cal. Edison Co.",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110307,pizarro pedro,112760211009196,"President, EMG",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110307,gault polly l,112760211009200,Executive Vice President,female,325811206.0
+,,827052,edison international,,1.0,,,20110307,clarke mark,112760211009156,Vice President and Controller,male,325811206.0
+,,827052,edison international,,1.0,,,20110307,david daryl d,112760211009162,Senior Vice President,male,325811206.0
+,,827052,edison international,,1.0,,,20110307,litzinger ronald l,112760211009172,"President, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,,1.0,,,20110307,pizarro pedro,112760211009196,"President, EMG",male,325811206.0
+,,827052,edison international,,1.0,,,20110307,gault polly l,112760211009200,Executive Vice President,female,325811206.0
 2175.4015,10000.0,827052,edison international,,1.0,,,20110307,adler robert l,112760211009264,Exec. VP and General Counsel,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110307,scilacci w james,112760211009269,"Exec VP, CFO & Treas.",male,325811206.0
-0.0,0.0,827052,edison international,1.0,1.0,,,20110307,craver theodore f jr,112760211009298,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110307,clarke mark,112760211009156,Vice President and Controller,male,325811206.0
+,,827052,edison international,,1.0,,,20110307,scilacci w james,112760211009269,"Exec VP, CFO & Treas.",male,325811206.0
+,,827052,edison international,1.0,1.0,,,20110307,craver theodore f jr,112760211009298,"Chairman, President and CEO",male,325811206.0
 1078.0,30666.8627,827052,edison international,,1.0,,,20110310,scilacci w james,112760211009906,"Exec VP, CFO & Treas.",male,325811206.0
+,,827052,edison international,,1.0,,,20110404,valdman bertrand a,112760211011910,Senior Vice President,male,325811206.0
 1650.0,5800.0,827052,edison international,,1.0,,,20110404,clarke mark,112760211011926,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110404,valdman bertrand a,112760211011910,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,rosser james m,112760211014181,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,schlosberg richard t iii,112760211014183,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,sutton thomas c,112760211014185,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,white w brett,112760211014187,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,chang vanessa c l,112760211014192,,female,325811206.0
-2535.0,0.0,827052,edison international,1.0,,,,20110429,bindra jagjeet s.,112760211014194,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,cordova france a,112760211014199,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,freeman bradford m,112760211014195,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,nogales luis g,112760211014197,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,olson ronald l,112760211014179,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20110429,curtis b charles,112760211014201,,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110505,david daryl d,112760211015250,Senior Vice President,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,freeman bradford m,112760211014195,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,nogales luis g,112760211014197,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,cordova france a,112760211014199,,female,325811206.0
+,,827052,edison international,1.0,,,,20110429,curtis b charles,112760211014201,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,sutton thomas c,112760211014185,,male,325811206.0
+2535.0,,827052,edison international,1.0,,,,20110429,bindra jagjeet s.,112760211014194,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,schlosberg richard t iii,112760211014183,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,rosser james m,112760211014181,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,olson ronald l,112760211014179,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,white w brett,112760211014187,,male,325811206.0
+,,827052,edison international,1.0,,,,20110429,chang vanessa c l,112760211014192,,female,325811206.0
+0.0,,827052,edison international,,1.0,,,20110505,david daryl d,112760211015250,Senior Vice President,male,325811206.0
 9219.0,9567.5216,827052,edison international,,1.0,,,20110602,pizarro pedro,112760211018428,"President, EMG",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20110701,clayton janet,112760211020360,Senior Vice President,female,325811206.0
+,,827052,edison international,,1.0,,,20110701,clayton janet,112760211020360,Senior Vice President,female,325811206.0
 7378.1411,6886.0,827052,edison international,,1.0,,,20110812,clarke mark,112760211023505,Vice President and Controller,male,325811206.0
-32367.1564,0.0,827052,edison international,,1.0,,,20110816,scilacci w james,112760211023751,"Exec VP, CFO & Treas.",male,325811206.0
+32367.1564,,827052,edison international,,1.0,,,20110816,scilacci w james,112760211023751,"Exec VP, CFO & Treas.",male,325811206.0
 0.0,12600.0,827052,edison international,1.0,,,,20111104,rosser james m,112760211028699,,male,325811206.0
 20727.2367,3585.1155,827052,edison international,,1.0,,,20111107,gault polly l,112760211028812,Executive Vice President,female,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20111129,nogales luis g,112760211030621,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20111212,taylor peter j.,118143111060022,,male,325811206.0
+0.0,,827052,edison international,1.0,,,,20111129,nogales luis g,112760211030621,,male,325811206.0
+,,827052,edison international,1,0,0,0,20111212,taylor peter j.,118143111060022,,male,325811206.0
 18494.0,39711.716,827052,edison international,1.0,,,,20120104,sutton thomas c,112760212000893,,male,325811206.0
-1495.0,14305.9425,827052,edison international,,1.0,,,20120105,clarke mark,112760212001177,Vice President and Controller,male,325811206.0
 20031.0,131289.0,827052,edison international,1.0,1.0,,,20120105,craver theodore f jr,112760212001187,"Chairman, President and CEO",male,325811206.0
-1862.0,0.0,827052,edison international,,1.0,,,20120105,david daryl d,112760212001193,Senior Vice President,male,325811206.0
+1862.0,,827052,edison international,,1.0,,,20120105,david daryl d,112760212001193,Senior Vice President,male,325811206.0
 3359.0,19013.7819,827052,edison international,,1.0,,,20120105,pizarro pedro,112760212001196,"President, EMG",male,325811206.0
 5145.0,12770.7183,827052,edison international,,1.0,,,20120105,adler robert l,112760212001199,Exec. VP and General Counsel,male,325811206.0
 24174.2367,3615.5491,827052,edison international,,1.0,,,20120105,gault polly l,112760212001204,Executive Vice President,female,325811206.0
 5973.0,32832.8017,827052,edison international,,1.0,,,20120105,scilacci w james,112760212001220,"Exec VP, CFO & Treas.",male,325811206.0
 5044.0,48326.9079,827052,edison international,,1.0,,,20120105,litzinger ronald l,112760212001225,"President, So. Cal. Edison Co.",male,325811206.0
+1495.0,14305.9425,827052,edison international,,1.0,,,20120105,clarke mark,112760212001177,Vice President and Controller,male,325811206.0
 2000.0,50000.0,827052,edison international,1.0,,,,20120208,freeman bradford m,112760212004759,,male,325811206.0
-26146.2367,3649.7279,827052,edison international,,1.0,,,20120223,gault polly l,112760212007725,Executive Vice President,female,325811206.0
 6934.0,48323.7452,827052,edison international,,1.0,,,20120223,litzinger ronald l,112760212007727,"President, So. Cal. Edison Co.",male,325811206.0
+26146.2367,3649.7279,827052,edison international,,1.0,,,20120223,gault polly l,112760212007725,Executive Vice President,female,325811206.0
+7808.0,32825.9516,827052,edison international,,1.0,,,20120223,scilacci w james,112760212007723,"Exec VP, CFO & Treas.",male,325811206.0
 8259.0,13009.0983,827052,edison international,,1.0,,,20120223,adler robert l,112760212007721,Exec. VP and General Counsel,male,325811206.0
 4632.0,19011.7383,827052,edison international,,1.0,,,20120223,pizarro pedro,112760212007719,"President, EMG",male,325811206.0
 2209.0,14247.064,827052,edison international,,1.0,,,20120223,clarke mark,112760212007717,Vice President and Controller,male,325811206.0
-2397.0,0.0,827052,edison international,,1.0,,,20120223,david daryl d,112760212007715,Senior Vice President,male,325811206.0
-7808.0,32825.9516,827052,edison international,,1.0,,,20120223,scilacci w james,112760212007723,"Exec VP, CFO & Treas.",male,325811206.0
+2397.0,,827052,edison international,,1.0,,,20120223,david daryl d,112760212007715,Senior Vice President,male,325811206.0
 32490.0,131289.0,827052,edison international,1.0,1.0,,,20120224,craver theodore f jr,112760212007742,"Chairman, President and CEO",male,325811206.0
-2397.0,0.0,827052,edison international,,1.0,,,20120305,david daryl d,112760212009458,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,scilacci w james,112760212009970,"Exec VP, CFO & Treas.",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,litzinger ronald l,112760212009951,"President, So. Cal. Edison Co.",male,325811206.0
-535.0,0.0,827052,edison international,,1.0,,,20120307,david daryl d,112760212009964,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,1.0,1.0,,,20120307,craver theodore f jr,112760212010080,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,pizarro pedro,112760212010077,"President, EMG",male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,clayton janet,112760212010073,Senior Vice President,female,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,clarke mark,112760212009958,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,valdman bertrand a,112760212010070,Senior Vice President,male,325811206.0
+2397.0,,827052,edison international,,1.0,,,20120305,david daryl d,112760212009458,Senior Vice President,male,325811206.0
+,,827052,edison international,1.0,1.0,,,20120307,craver theodore f jr,112760212010080,"Chairman, President and CEO",male,325811206.0
+,,827052,edison international,,1.0,,,20120307,pizarro pedro,112760212010077,"President, EMG",male,325811206.0
+,,827052,edison international,,1.0,,,20120307,adler robert l,112760212010075,Exec. VP and General Counsel,male,325811206.0
+,,827052,edison international,,1.0,,,20120307,clayton janet,112760212010073,Senior Vice President,female,325811206.0
+,,827052,edison international,,1.0,,,20120307,valdman bertrand a,112760212010070,Senior Vice President,male,325811206.0
+,,827052,edison international,,1.0,,,20120307,litzinger ronald l,112760212009951,"President, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,,1.0,,,20120307,gault polly l,112760212009975,Executive Vice President,female,325811206.0
+,,827052,edison international,,1.0,,,20120307,scilacci w james,112760212009970,"Exec VP, CFO & Treas.",male,325811206.0
+535.0,,827052,edison international,,1.0,,,20120307,david daryl d,112760212009964,Senior Vice President,male,325811206.0
+,,827052,edison international,,1.0,,,20120307,clarke mark,112760212009958,Vice President and Controller,male,325811206.0
 18494.0,40026.584,827052,edison international,1.0,,,,20120307,sutton thomas c,112760212009979,,male,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,gault polly l,112760212009975,Executive Vice President,female,325811206.0
-0.0,0.0,827052,edison international,,1.0,,,20120307,adler robert l,112760212010075,Exec. VP and General Counsel,male,325811206.0
 7808.0,33449.1236,827052,edison international,,1.0,,,20120327,scilacci w james,112760212011943,"Exec VP, CFO & Treas.",male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20120403,schlosberg richard t iii,112760212012716,,male,325811206.0
+0.0,,827052,edison international,1.0,,,,20120403,schlosberg richard t iii,112760212012716,,male,325811206.0
 0.0,16064.428,827052,edison international,1.0,,,,20120403,olson ronald l,112760212012857,,male,325811206.0
 13851.0,9863.6807,827052,edison international,,1.0,,,20120409,pizarro pedro,112760212013521,"President, EMG",male,325811206.0
 40101.0,15265.8295,827052,edison international,,1.0,,,20120412,litzinger ronald l,112760212013665,"President, So. Cal. Edison Co.",male,325811206.0
-163779.0,0.0,827052,edison international,1.0,1.0,,,20120417,craver theodore f jr,112760212014024,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,taylor peter j.,153652812000002,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20120430,freeman bradford m,112760212015010,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,white w brett,112814412000004,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,schlosberg richard t iii,118452912000001,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,sutton thomas c,118668812000002,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,nogales luis g,118701812000001,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,olson ronald l,119266812000002,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,chang vanessa c l,122648712000002,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,cordova france a,123321012000002,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,,,,20120430,curtis b charles,112760212015007,,male,325811206.0
-4941.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20120430,bindra jagjeet s.,149007912000002,,male,325811206.0
-0.0,14241.3806,827052,edison international,0.0,1.0,0.0,0.0,20120510,clarke mark,82705212000052,Vice President and Controller,male,325811206.0
-26146.2367,3723.8666,827052,edison international,0.0,1.0,0.0,0.0,20120514,gault polly l,82705212000055,Executive Vice President,female,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20120809,david daryl d,82705212000085,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20121227,clayton janet,82705212000112,Senior Vice President,female,325811206.0
-7808.0,34377.2888,827052,edison international,0.0,1.0,0.0,0.0,20121231,scilacci w james,82705212000114,"Exec VP, CFO & Treas.",male,325811206.0
-21211.007,40887.597,827052,edison international,1.0,0.0,0.0,0.0,20130103,sutton thomas c,82705213000002,,male,325811206.0
-28978.2367,3903.3178,827052,edison international,0.0,1.0,0.0,0.0,20130104,gault polly l,82705213000010,Executive Vice President,female,325811206.0
-850.0,14234.1676,827052,edison international,0.0,1.0,0.0,0.0,20130104,clarke mark,82705213000004,Vice President and Controller,male,325811206.0
-1738.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130104,david daryl d,82705213000006,Senior Vice President,male,325811206.0
-13423.0,13567.3858,827052,edison international,0.0,1.0,0.0,0.0,20130104,adler robert l,82705213000008,Exec. VP and General Counsel,male,325811206.0
-22035.0,163779.0,827052,edison international,1.0,1.0,0.0,0.0,20130104,craver theodore f jr,82705213000012,"Chairman, President and CEO",male,325811206.0
-13177.0,34365.8824,827052,edison international,0.0,1.0,0.0,0.0,20130104,scilacci w james,82705213000014,"Exec VP, CFO & Treas.",male,325811206.0
-5018.0,55676.0413,827052,edison international,0.0,1.0,0.0,0.0,20130104,litzinger ronald l,82705213000016,"President, So. Cal. Edison Co.",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130305,scilacci w james,82705213000032,"Exec VP, CFO & Treas.",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130305,clayton janet,82705213000030,Senior Vice President,female,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130305,clarke mark,82705213000028,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130305,valdman bertrand a.,82705213000026,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130305,adler robert l,82705213000034,Exec. VP and General Counsel,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130305,litzinger ronald l,82705213000038,"President, So. Cal. Edison Co.",male,325811206.0
-185814.0,0.0,827052,edison international,1.0,1.0,0.0,0.0,20130305,craver theodore f jr,82705213000036,"Chairman, President and CEO",male,325811206.0
-28978.2367,3938.1707,827052,edison international,0.0,1.0,0.0,0.0,20130306,gault polly l,82705213000040,Executive Vice President,female,325811206.0
-5000.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130307,schlosberg richard t iii,82705213000043,,male,325811206.0
-0.0,34339.7526,827052,edison international,0.0,1.0,0.0,0.0,20130308,scilacci w james,82705213000045,"Exec VP, CFO & Treas.",male,325811206.0
-1000.0,16203.967,827052,edison international,1.0,0.0,0.0,0.0,20130312,olson ronald l,82705213000047,,male,325811206.0
-0.0,185814.0,827052,edison international,1.0,1.0,0.0,0.0,20130312,craver theodore f jr,82705213000049,"Chairman, President and CEO",male,325811206.0
-7203.967,10000.0,827052,edison international,1.0,0.0,0.0,0.0,20130318,olson ronald l,82705213000057,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,schlosberg richard t iii,82705213000101,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,chang vanessa c l,82705213000097,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,sutton thomas c,82705213000095,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,olson ronald l,82705213000093,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,taylor peter j.,82705213000099,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,white w brett,82705213000089,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,cordova france a,82705213000087,,female,325811206.0
-7010.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,bindra jagjeet s.,82705213000083,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,freeman bradford m,82705213000085,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130429,nogales luis g,82705213000091,,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20130508,clayton janet,82705213000111,Senior Vice President,female,325811206.0
-7010.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130613,bindra jagjeet s.,82705213000117,,male,325811206.0
-13423.0,14187.8846,827052,edison international,0.0,1.0,0.0,0.0,20130813,adler robert l,82705213000134,Exec. VP and General Counsel,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20130906,tauscher ellen o.,82705213000150,,female,325811206.0
-23835.478,41998.408,827052,edison international,1.0,0.0,0.0,0.0,20140106,sutton thomas c,82705214000021,,male,325811206.0
-963.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140106,clayton janet,82705214000019,Senior Vice President,female,325811206.0
-33517.0,185814.0,827052,edison international,1.0,1.0,0.0,0.0,20140106,craver theodore f jr,82705214000017,"Chairman, President and CEO",male,325811206.0
-4850.0,35322.0203,827052,edison international,0.0,1.0,0.0,0.0,20140106,scilacci w james,82705214000015,"Exec VP, CFO & Treas.",male,325811206.0
-5154.0,45119.0,827052,edison international,0.0,1.0,0.0,0.0,20140106,litzinger ronald l,82705214000009,"President, So. Cal. Edison Co.",male,325811206.0
-3633.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140106,valdman bertrand a.,82705214000011,Senior Vice President,male,325811206.0
-610.0,1803.4955,827052,edison international,0.0,1.0,0.0,0.0,20140106,vasquez gaddi h.,82705214000007,Senior Vice President,male,325811206.0
-3251.0,14230.3042,827052,edison international,0.0,1.0,0.0,0.0,20140106,clarke mark,82705214000005,Vice President and Controller,male,325811206.0
-18435.0,14253.4955,827052,edison international,0.0,1.0,0.0,0.0,20140106,adler robert l,82705214000013,Exec. VP and General Counsel,male,325811206.0
-19160.0,14444.4333,827052,edison international,0.0,1.0,0.0,0.0,20140228,adler robert l,82705214000044,Exec. VP and General Counsel,male,325811206.0
-3376.0,14223.1346,827052,edison international,0.0,1.0,0.0,0.0,20140228,clarke mark,82705214000046,Vice President and Controller,male,325811206.0
-1149.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140228,clayton janet,82705214000042,Senior Vice President,female,325811206.0
-4307.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140228,valdman bertrand a.,82705214000032,Senior Vice President,male,325811206.0
-704.0,1803.1202,827052,edison international,0.0,1.0,0.0,0.0,20140228,vasquez gaddi h.,82705214000038,Senior Vice President,male,325811206.0
-36089.0,185814.0,827052,edison international,1.0,1.0,0.0,0.0,20140228,craver theodore f jr,82705214000036,"Chairman, President and CEO",male,325811206.0
-5937.0,45119.0,827052,edison international,0.0,1.0,0.0,0.0,20140228,litzinger ronald l,82705214000034,"President, So. Cal. Edison Co.",male,325811206.0
-5588.0,35288.1583,827052,edison international,0.0,1.0,0.0,0.0,20140228,scilacci w james,82705214000040,"Exec VP, CFO & Treas.",male,325811206.0
-5500.0,50000.0,827052,edison international,1.0,0.0,0.0,0.0,20140303,freeman bradford m,82705214000048,,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,adler robert l,82705214000064,Exec. VP and General Counsel,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,clayton janet,82705214000050,Senior Vice President,female,325811206.0
-0.0,0.0,827052,edison international,1.0,1.0,0.0,0.0,20140305,craver theodore f jr,82705214000052,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,clarke mark,82705214000054,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,scilacci w james,82705214000056,"Exec VP, CFO & Treas.",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,litzinger ronald l,82705214000058,"President, So. Cal. Edison Co.",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,valdman bertrand a.,82705214000060,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140305,vasquez gaddi h.,82705214000062,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140305,cordova france a,82705214000066,,female,325811206.0
-19160.0,14494.0129,827052,edison international,0.0,1.0,0.0,0.0,20140311,adler robert l,82705214000071,Exec. VP and General Counsel,male,325811206.0
-221903.0,0.0,827052,edison international,1.0,1.0,0.0,0.0,20140320,craver theodore f jr,82705214000077,"Chairman, President and CEO",male,325811206.0
-51056.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140321,litzinger ronald l,82705214000081,"President, So. Cal. Edison Co.",male,325811206.0
-5000.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140402,schlosberg richard t iii,82705214000088,,male,325811206.0
-0.0,221903.0,827052,edison international,1.0,1.0,0.0,0.0,20140402,craver theodore f jr,82705214000090,"Chairman, President and CEO",male,325811206.0
-5588.0,35482.6116,827052,edison international,0.0,1.0,0.0,0.0,20140402,scilacci w james,82705214000092,"Exec VP, CFO & Treas.",male,325811206.0
-1000.0,17341.597999999998,827052,edison international,1.0,0.0,0.0,0.0,20140402,olson ronald l,82705214000094,,male,325811206.0
-8341.598,10000.0,827052,edison international,1.0,0.0,0.0,0.0,20140418,olson ronald l,82705214000104,,male,325811206.0
-1014.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,tauscher ellen o.,82705214000129,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,nogales luis g,82705214000127,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,schlosberg richard t iii,82705214000125,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,freeman bradford m,82705214000123,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,chang vanessa c l,82705214000121,,female,325811206.0
-2027.0,7010.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,bindra jagjeet s.,82705214000117,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,sutton thomas c,82705214000115,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,stuntz linda g,82705214000113,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,white w brett,82705214000110,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20140428,taylor peter j.,82705214000119,,male,325811206.0
-0.0,51056.0,827052,edison international,0.0,1.0,0.0,0.0,20140506,litzinger ronald l,82705214000140,"President, So. Cal. Edison Co.",male,325811206.0
-1149.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20140506,clayton janet,82705214000142,Senior Vice President,female,325811206.0
-19160.0,14753.8128,827052,edison international,0.0,1.0,0.0,0.0,20140514,adler robert l,82705214000144,Exec. VP and General Counsel,male,325811206.0
-19160.0,14880.265,827052,edison international,0.0,1.0,0.0,0.0,20140820,adler robert l,82705214000158,Exec. VP and General Counsel,male,325811206.0
-844.827,1419.0,827052,edison international,0.0,1.0,0.0,0.0,20140827,vasquez gaddi h.,82705214000165,Senior Vice President,male,325811206.0
-6246.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20141003,pizarro pedro,82705214000179,President So. Cal. Edison Co.,male,325811206.0
-1149.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20141112,clayton janet,82705214000194,Senior Vice President,female,325811206.0
-50056.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20141113,litzinger ronald l,82705214000196,"EVP; Pres. Edison Energy, Inc",male,325811206.0
-19160.0,14927.3838,827052,edison international,0.0,1.0,0.0,0.0,20141114,adler robert l,82705214000198,Exec. VP and General Counsel,male,325811206.0
-0.0,8407.009699999999,827052,edison international,0.0,1.0,0.0,0.0,20141217,clarke mark,82705214000204,Vice President and Controller,male,325811206.0
-31331.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20141222,pizarro pedro,82705214000206,President So. Cal. Edison Co.,male,325811206.0
-9037.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20141229,bindra jagjeet s.,82705214000211,,male,325811206.0
-26401.413,43090.609,827052,edison international,1.0,0.0,0.0,0.0,20150105,sutton thomas c,82705215000002,,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150105,pizarro pedro,82705215000004,President So. Cal. Edison Co.,male,325811206.0
-9960.0,36073.4097,827052,edison international,0.0,1.0,0.0,0.0,20150106,scilacci w james,82705215000006,Exec VP and CFO,male,325811206.0
-4211.0,8405.202000000001,827052,edison international,0.0,1.0,0.0,0.0,20150106,clarke mark,82705215000008,Vice President and Controller,male,325811206.0
-5976.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150106,valdman bertrand a.,82705215000010,Senior Vice President,male,325811206.0
-4474.0,50056.0,827052,edison international,0.0,1.0,0.0,0.0,20150106,litzinger ronald l,82705215000013,"EVP; Pres. Edison Energy, Inc",male,325811206.0
-1291.0,2273.109,827052,edison international,0.0,1.0,0.0,0.0,20150106,vasquez gaddi h.,82705215000017,Senior Vice President,male,325811206.0
-19115.0,221903.0,827052,edison international,1.0,1.0,0.0,0.0,20150106,craver theodore f jr,82705215000019,"Chairman, President and CEO",male,325811206.0
-2024.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150106,clayton janet,82705215000015,Senior Vice President,female,325811206.0
-30745.0,221903.0,827052,edison international,1.0,1.0,0.0,0.0,20150227,craver theodore f jr,82705215000053,"Chairman, President and CEO",male,325811206.0
-13174.0,36062.0521,827052,edison international,0.0,1.0,0.0,0.0,20150227,scilacci w james,82705215000040,Exec VP and CFO,male,325811206.0
-2726.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150227,clayton janet,82705215000042,Senior Vice President,female,325811206.0
-1768.0,2272.8351,827052,edison international,0.0,1.0,0.0,0.0,20150227,vasquez gaddi h.,82705215000044,Senior Vice President,male,325811206.0
-7761.0,50056.0,827052,edison international,0.0,1.0,0.0,0.0,20150227,litzinger ronald l,82705215000046,"EVP; Pres. Edison Energy, Inc",male,325811206.0
-33921.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150227,pizarro pedro,82705215000048,President So. Cal. Edison Co.,male,325811206.0
-4878.0,8402.8562,827052,edison international,0.0,1.0,0.0,0.0,20150227,clarke mark,82705215000051,Vice President and Controller,male,325811206.0
-1000.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150303,stuntz linda g,82705215000055,,female,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,clarke mark,82705215000057,Vice President and Controller,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,scilacci w james,82705215000059,Exec VP and CFO,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,litzinger ronald l,82705215000061,"EVP; Pres. Edison Energy, Inc",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,pizarro pedro,82705215000063,President So. Cal. Edison Co.,male,325811206.0
-0.0,0.0,827052,edison international,1.0,1.0,0.0,0.0,20150304,craver theodore f jr,82705215000065,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,umanoff adam s,82705215000067,EVP and General Counsel,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,vasquez gaddi h.,82705215000069,Senior Vice President,male,325811206.0
-0.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150304,clayton janet,82705215000071,Senior Vice President,female,325811206.0
-26522.642,43354.927,827052,edison international,1.0,0.0,0.0,0.0,20150319,sutton thomas c,82705215000076,,male,325811206.0
-252648.0,0.0,827052,edison international,1.0,1.0,0.0,0.0,20150323,craver theodore f jr,82705215000078,"Chairman, President and CEO",male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,chang vanessa c l,82705215000090,,female,325811206.0
-2069.0,9037.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,bindra jagjeet s.,82705215000088,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,schlosberg richard t iii,82705215000093,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,stuntz linda g,82705215000095,,female,325811206.0
-2049.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,tauscher ellen o.,82705215000098,,female,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,taylor peter j.,82705215000100,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,sullivan william p,82705215000101,,male,325811206.0
-0.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150427,white w brett,82705215000103,,male,325811206.0
-2069.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150505,sullivan william p,82705215000120,,male,325811206.0
-5000.0,0.0,827052,edison international,1.0,0.0,0.0,0.0,20150505,schlosberg richard t iii,82705215000122,,male,325811206.0
-12301.0283,1086.0,827052,edison international,0.0,1.0,0.0,0.0,20150819,clarke mark,82705215000149,Vice President and Controller,male,325811206.0
-56817.0,0.0,827052,edison international,0.0,1.0,0.0,0.0,20150819,litzinger ronald l,82705215000151,EVP; Pres. Edison Energy Group,male,325811206.0
-3608.8263,1419.0,827052,edison international,0.0,1.0,0.0,0.0,20150831,vasquez gaddi h.,82705215000153,Senior Vice President,male,325811206.0
-0.0,56817.0,827052,edison international,0.0,1.0,0.0,0.0,20150911,litzinger ronald l,82705215000160,EVP; Pres. Edison Energy Group,male,325811206.0
+163779.0,,827052,edison international,1.0,1.0,,,20120417,craver theodore f jr,112760212014024,"Chairman, President and CEO",male,325811206.0
+,,827052,edison international,1,0,0,0,20120430,taylor peter j.,153652812000002,,male,325811206.0
+4941.0,,827052,edison international,1,0,0,0,20120430,bindra jagjeet s.,149007912000002,,male,325811206.0
+,,827052,edison international,1.0,,,,20120430,freeman bradford m,112760212015010,,male,325811206.0
+,,827052,edison international,1,0,0,0,20120430,white w brett,112814412000004,,male,325811206.0
+,,827052,edison international,1,0,0,0.0,20120430,schlosberg richard t iii,118452912000001,,male,325811206.0
+,,827052,edison international,1,0,0,0.0,20120430,sutton thomas c,118668812000002,,male,325811206.0
+,,827052,edison international,1,0,0,0.0,20120430,nogales luis g,118701812000001,,male,325811206.0
+,,827052,edison international,1,0,0,0.0,20120430,olson ronald l,119266812000002,,male,325811206.0
+,,827052,edison international,1.0,0.0,0.0,0.0,20120430,chang vanessa c l,122648712000002,,female,325811206.0
+,,827052,edison international,1.0,,,,20120430,curtis b charles,112760212015007,,male,325811206.0
+,,827052,edison international,1.0,0.0,0.0,0.0,20120430,cordova france a,123321012000002,,female,325811206.0
+0.0,14241.3806,827052,edison international,0,1,0,0,20120510,clarke mark,82705212000052,Vice President and Controller,male,325811206.0
+26146.2367,3723.8666,827052,edison international,0,1,0,0,20120514,gault polly l,82705212000055,Executive Vice President,female,325811206.0
+0.0,,827052,edison international,0,1,0,0,20120809,david daryl d,82705212000085,Senior Vice President,male,325811206.0
+0.0,,827052,edison international,0,1,0,0,20121227,clayton janet,82705212000112,Senior Vice President,female,325811206.0
+7808.0,34377.2888,827052,edison international,0,1,0,0,20121231,scilacci w james,82705212000114,"Exec VP, CFO & Treas.",male,325811206.0
+21211.007,40887.597,827052,edison international,1,0,0,0,20130103,sutton thomas c,82705213000002,,male,325811206.0
+13177.0,34365.8824,827052,edison international,0,1,0,0,20130104,scilacci w james,82705213000014,"Exec VP, CFO & Treas.",male,325811206.0
+22035.0,163779.0,827052,edison international,1,1,0,0,20130104,craver theodore f jr,82705213000012,"Chairman, President and CEO",male,325811206.0
+5018.0,55676.0413,827052,edison international,0,1,0,0,20130104,litzinger ronald l,82705213000016,"President, So. Cal. Edison Co.",male,325811206.0
+13423.0,13567.3858,827052,edison international,0,1,0,0,20130104,adler robert l,82705213000008,Exec. VP and General Counsel,male,325811206.0
+850.0,14234.1676,827052,edison international,0,1,0,0,20130104,clarke mark,82705213000004,Vice President and Controller,male,325811206.0
+1738.0,,827052,edison international,0,1,0,0,20130104,david daryl d,82705213000006,Senior Vice President,male,325811206.0
+28978.2367,3903.3178,827052,edison international,0,1,0,0,20130104,gault polly l,82705213000010,Executive Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20130305,valdman bertrand a.,82705213000026,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20130305,clarke mark,82705213000028,Vice President and Controller,male,325811206.0
+,,827052,edison international,0,1,0,0,20130305,clayton janet,82705213000030,Senior Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20130305,scilacci w james,82705213000032,"Exec VP, CFO & Treas.",male,325811206.0
+,,827052,edison international,0,1,0,0,20130305,adler robert l,82705213000034,Exec. VP and General Counsel,male,325811206.0
+185814.0,,827052,edison international,1,1,0,0,20130305,craver theodore f jr,82705213000036,"Chairman, President and CEO",male,325811206.0
+0.0,,827052,edison international,0,1,0,0,20130305,litzinger ronald l,82705213000038,"President, So. Cal. Edison Co.",male,325811206.0
+28978.2367,3938.1707,827052,edison international,0,1,0,0,20130306,gault polly l,82705213000040,Executive Vice President,female,325811206.0
+5000.0,,827052,edison international,1,0,0,0,20130307,schlosberg richard t iii,82705213000043,,male,325811206.0
+0.0,34339.7526,827052,edison international,0,1,0,0,20130308,scilacci w james,82705213000045,"Exec VP, CFO & Treas.",male,325811206.0
+1000.0,16203.967,827052,edison international,1,0,0,0,20130312,olson ronald l,82705213000047,,male,325811206.0
+0.0,185814.0,827052,edison international,1,1,0,0,20130312,craver theodore f jr,82705213000049,"Chairman, President and CEO",male,325811206.0
+7203.967,10000.0,827052,edison international,1,0,0,0,20130318,olson ronald l,82705213000057,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,sutton thomas c,82705213000095,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,schlosberg richard t iii,82705213000101,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,taylor peter j.,82705213000099,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,olson ronald l,82705213000093,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,chang vanessa c l,82705213000097,,female,325811206.0
+,,827052,edison international,1,0,0,0,20130429,white w brett,82705213000089,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,freeman bradford m,82705213000085,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,nogales luis g,82705213000091,,male,325811206.0
+7010.0,,827052,edison international,1,0,0,0,20130429,bindra jagjeet s.,82705213000083,,male,325811206.0
+,,827052,edison international,1,0,0,0,20130429,cordova france a,82705213000087,,female,325811206.0
+0.0,,827052,edison international,0,1,0,0,20130508,clayton janet,82705213000111,Senior Vice President,female,325811206.0
+7010.0,,827052,edison international,1,0,0,0,20130613,bindra jagjeet s.,82705213000117,,male,325811206.0
+13423.0,14187.8846,827052,edison international,0,1,0,0,20130813,adler robert l,82705213000134,Exec. VP and General Counsel,male,325811206.0
+,,827052,edison international,1,0,0,0,20130906,tauscher ellen o.,82705213000150,,female,325811206.0
+23835.478,41998.408,827052,edison international,1,0,0,0,20140106,sutton thomas c,82705214000021,,male,325811206.0
+963.0,,827052,edison international,0,1,0,0,20140106,clayton janet,82705214000019,Senior Vice President,female,325811206.0
+33517.0,185814.0,827052,edison international,1,1,0,0,20140106,craver theodore f jr,82705214000017,"Chairman, President and CEO",male,325811206.0
+4850.0,35322.0203,827052,edison international,0,1,0,0,20140106,scilacci w james,82705214000015,"Exec VP, CFO & Treas.",male,325811206.0
+3633.0,,827052,edison international,0,1,0,0,20140106,valdman bertrand a.,82705214000011,Senior Vice President,male,325811206.0
+610.0,1803.4955,827052,edison international,0,1,0,0,20140106,vasquez gaddi h.,82705214000007,Senior Vice President,male,325811206.0
+3251.0,14230.3042,827052,edison international,0,1,0,0,20140106,clarke mark,82705214000005,Vice President and Controller,male,325811206.0
+18435.0,14253.4955,827052,edison international,0,1,0,0,20140106,adler robert l,82705214000013,Exec. VP and General Counsel,male,325811206.0
+5154.0,45119.0,827052,edison international,0,1,0,0,20140106,litzinger ronald l,82705214000009,"President, So. Cal. Edison Co.",male,325811206.0
+1149.0,,827052,edison international,0,1,0,0,20140228,clayton janet,82705214000042,Senior Vice President,female,325811206.0
+3376.0,14223.1346,827052,edison international,0,1,0,0,20140228,clarke mark,82705214000046,Vice President and Controller,male,325811206.0
+19160.0,14444.4333,827052,edison international,0,1,0,0,20140228,adler robert l,82705214000044,Exec. VP and General Counsel,male,325811206.0
+5588.0,35288.1583,827052,edison international,0,1,0,0,20140228,scilacci w james,82705214000040,"Exec VP, CFO & Treas.",male,325811206.0
+36089.0,185814.0,827052,edison international,1,1,0,0,20140228,craver theodore f jr,82705214000036,"Chairman, President and CEO",male,325811206.0
+5937.0,45119.0,827052,edison international,0,1,0,0,20140228,litzinger ronald l,82705214000034,"President, So. Cal. Edison Co.",male,325811206.0
+4307.0,,827052,edison international,0,1,0,0,20140228,valdman bertrand a.,82705214000032,Senior Vice President,male,325811206.0
+704.0,1803.1202,827052,edison international,0,1,0,0,20140228,vasquez gaddi h.,82705214000038,Senior Vice President,male,325811206.0
+5500.0,50000.0,827052,edison international,1,0,0,0,20140303,freeman bradford m,82705214000048,,male,325811206.0
+0.0,,827052,edison international,1,0,0,0,20140305,cordova france a,82705214000066,,female,325811206.0
+,,827052,edison international,0,1,0,0,20140305,adler robert l,82705214000064,Exec. VP and General Counsel,male,325811206.0
+,,827052,edison international,0,1,0,0,20140305,valdman bertrand a.,82705214000060,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20140305,vasquez gaddi h.,82705214000062,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20140305,scilacci w james,82705214000056,"Exec VP, CFO & Treas.",male,325811206.0
+,,827052,edison international,0,1,0,0,20140305,clarke mark,82705214000054,Vice President and Controller,male,325811206.0
+,,827052,edison international,1,1,0,0,20140305,craver theodore f jr,82705214000052,"Chairman, President and CEO",male,325811206.0
+,,827052,edison international,0,1,0,0,20140305,clayton janet,82705214000050,Senior Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20140305,litzinger ronald l,82705214000058,"President, So. Cal. Edison Co.",male,325811206.0
+19160.0,14494.0129,827052,edison international,0,1,0,0,20140311,adler robert l,82705214000071,Exec. VP and General Counsel,male,325811206.0
+221903.0,,827052,edison international,1,1,0,0,20140320,craver theodore f jr,82705214000077,"Chairman, President and CEO",male,325811206.0
+51056.0,,827052,edison international,0,1,0,0,20140321,litzinger ronald l,82705214000081,"President, So. Cal. Edison Co.",male,325811206.0
+1000.0,17341.597999999998,827052,edison international,1,0,0,0,20140402,olson ronald l,82705214000094,,male,325811206.0
+5588.0,35482.6116,827052,edison international,0,1,0,0,20140402,scilacci w james,82705214000092,"Exec VP, CFO & Treas.",male,325811206.0
+0.0,221903.0,827052,edison international,1,1,0,0,20140402,craver theodore f jr,82705214000090,"Chairman, President and CEO",male,325811206.0
+5000.0,,827052,edison international,1,0,0,0,20140402,schlosberg richard t iii,82705214000088,,male,325811206.0
+8341.598,10000.0,827052,edison international,1,0,0,0,20140418,olson ronald l,82705214000104,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,stuntz linda g,82705214000113,,female,325811206.0
+1014.0,,827052,edison international,1,0,0,0,20140428,tauscher ellen o.,82705214000129,,female,325811206.0
+,,827052,edison international,1,0,0,0,20140428,nogales luis g,82705214000127,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,schlosberg richard t iii,82705214000125,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,freeman bradford m,82705214000123,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,white w brett,82705214000110,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,taylor peter j.,82705214000119,,male,325811206.0
+2027.0,7010.0,827052,edison international,1,0,0,0,20140428,bindra jagjeet s.,82705214000117,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,sutton thomas c,82705214000115,,male,325811206.0
+,,827052,edison international,1,0,0,0,20140428,chang vanessa c l,82705214000121,,female,325811206.0
+0.0,51056.0,827052,edison international,0,1,0,0,20140506,litzinger ronald l,82705214000140,"President, So. Cal. Edison Co.",male,325811206.0
+1149.0,,827052,edison international,0,1,0,0,20140506,clayton janet,82705214000142,Senior Vice President,female,325811206.0
+19160.0,14753.8128,827052,edison international,0,1,0,0,20140514,adler robert l,82705214000144,Exec. VP and General Counsel,male,325811206.0
+19160.0,14880.265,827052,edison international,0,1,0,0,20140820,adler robert l,82705214000158,Exec. VP and General Counsel,male,325811206.0
+844.827,1419.0,827052,edison international,0,1,0,0,20140827,vasquez gaddi h.,82705214000165,Senior Vice President,male,325811206.0
+6246.0,,827052,edison international,0,1,0,0,20141003,pizarro pedro,82705214000179,President So. Cal. Edison Co.,male,325811206.0
+1149.0,,827052,edison international,0,1,0,0,20141112,clayton janet,82705214000194,Senior Vice President,female,325811206.0
+50056.0,,827052,edison international,0,1,0,0,20141113,litzinger ronald l,82705214000196,"EVP; Pres. Edison Energy, Inc",male,325811206.0
+19160.0,14927.3838,827052,edison international,0,1,0,0,20141114,adler robert l,82705214000198,Exec. VP and General Counsel,male,325811206.0
+0.0,8407.009699999999,827052,edison international,0,1,0,0,20141217,clarke mark,82705214000204,Vice President and Controller,male,325811206.0
+31331.0,,827052,edison international,0,1,0,0,20141222,pizarro pedro,82705214000206,President So. Cal. Edison Co.,male,325811206.0
+9037.0,,827052,edison international,1,0,0,0,20141229,bindra jagjeet s.,82705214000211,,male,325811206.0
+26401.413,43090.609,827052,edison international,1,0,0,0,20150105,sutton thomas c,82705215000002,,male,325811206.0
+,,827052,edison international,0,1,0,0,20150105,pizarro pedro,82705215000004,President So. Cal. Edison Co.,male,325811206.0
+9960.0,36073.4097,827052,edison international,0,1,0,0,20150106,scilacci w james,82705215000006,Exec VP and CFO,male,325811206.0
+4211.0,8405.202000000001,827052,edison international,0,1,0,0,20150106,clarke mark,82705215000008,Vice President and Controller,male,325811206.0
+5976.0,,827052,edison international,0,1,0,0,20150106,valdman bertrand a.,82705215000010,Senior Vice President,male,325811206.0
+4474.0,50056.0,827052,edison international,0,1,0,0,20150106,litzinger ronald l,82705215000013,"EVP; Pres. Edison Energy, Inc",male,325811206.0
+2024.0,,827052,edison international,0,1,0,0,20150106,clayton janet,82705215000015,Senior Vice President,female,325811206.0
+1291.0,2273.109,827052,edison international,0,1,0,0,20150106,vasquez gaddi h.,82705215000017,Senior Vice President,male,325811206.0
+19115.0,221903.0,827052,edison international,1,1,0,0,20150106,craver theodore f jr,82705215000019,"Chairman, President and CEO",male,325811206.0
+33921.0,,827052,edison international,0,1,0,0,20150227,pizarro pedro,82705215000048,President So. Cal. Edison Co.,male,325811206.0
+30745.0,221903.0,827052,edison international,1,1,0,0,20150227,craver theodore f jr,82705215000053,"Chairman, President and CEO",male,325811206.0
+4878.0,8402.8562,827052,edison international,0,1,0,0,20150227,clarke mark,82705215000051,Vice President and Controller,male,325811206.0
+7761.0,50056.0,827052,edison international,0,1,0,0,20150227,litzinger ronald l,82705215000046,"EVP; Pres. Edison Energy, Inc",male,325811206.0
+2726.0,,827052,edison international,0,1,0,0,20150227,clayton janet,82705215000042,Senior Vice President,female,325811206.0
+13174.0,36062.0521,827052,edison international,0,1,0,0,20150227,scilacci w james,82705215000040,Exec VP and CFO,male,325811206.0
+1768.0,2272.8351,827052,edison international,0,1,0,0,20150227,vasquez gaddi h.,82705215000044,Senior Vice President,male,325811206.0
+1000.0,,827052,edison international,1,0,0,0,20150303,stuntz linda g,82705215000055,,female,325811206.0
+,,827052,edison international,0,1,0,0,20150304,clayton janet,82705215000071,Senior Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20150304,vasquez gaddi h.,82705215000069,Senior Vice President,male,325811206.0
+,,827052,edison international,1,1,0,0,20150304,craver theodore f jr,82705215000065,"Chairman, President and CEO",male,325811206.0
+,,827052,edison international,0,1,0,0,20150304,umanoff adam s,82705215000067,EVP and General Counsel,male,325811206.0
+,,827052,edison international,0,1,0,0,20150304,litzinger ronald l,82705215000061,"EVP; Pres. Edison Energy, Inc",male,325811206.0
+,,827052,edison international,0,1,0,0,20150304,scilacci w james,82705215000059,Exec VP and CFO,male,325811206.0
+,,827052,edison international,0,1,0,0,20150304,clarke mark,82705215000057,Vice President and Controller,male,325811206.0
+,,827052,edison international,0,1,0,0,20150304,pizarro pedro,82705215000063,President So. Cal. Edison Co.,male,325811206.0
+26522.642,43354.927,827052,edison international,1,0,0,0,20150319,sutton thomas c,82705215000076,,male,325811206.0
+252648.0,,827052,edison international,1,1,0,0,20150323,craver theodore f jr,82705215000078,"Chairman, President and CEO",male,325811206.0
+,,827052,edison international,1,0,0,0,20150427,white w brett,82705215000103,,male,325811206.0
+,,827052,edison international,1,0,0,0,20150427,sullivan william p,82705215000101,,male,325811206.0
+,,827052,edison international,1,0,0,0,20150427,taylor peter j.,82705215000100,,male,325811206.0
+,,827052,edison international,1,0,0,0,20150427,stuntz linda g,82705215000095,,female,325811206.0
+,,827052,edison international,1,0,0,0,20150427,chang vanessa c l,82705215000090,,female,325811206.0
+2069.0,9037.0,827052,edison international,1,0,0,0,20150427,bindra jagjeet s.,82705215000088,,male,325811206.0
+2049.0,,827052,edison international,1,0,0,0,20150427,tauscher ellen o.,82705215000098,,female,325811206.0
+,,827052,edison international,1,0,0,0,20150427,schlosberg richard t iii,82705215000093,,male,325811206.0
+2069.0,,827052,edison international,1,0,0,0,20150505,sullivan william p,82705215000120,,male,325811206.0
+5000.0,,827052,edison international,1,0,0,0,20150505,schlosberg richard t iii,82705215000122,,male,325811206.0
+12301.0283,1086.0,827052,edison international,0,1,0,0,20150819,clarke mark,82705215000149,Vice President and Controller,male,325811206.0
+56817.0,,827052,edison international,0,1,0,0,20150819,litzinger ronald l,82705215000151,EVP; Pres. Edison Energy Group,male,325811206.0
+12301.0283,1086.0,827052,edison international,0,1,0,0,20150819,clarke mark,82705215000149,Vice President and Controller,male,325811206.0
+56817.0,,827052,edison international,0,1,0,0,20150819,litzinger ronald l,82705215000151,EVP; Pres. Edison Energy Group,male,325811206.0
+3608.8263,1419.0,827052,edison international,0,1,0,0,20150831,vasquez gaddi h.,82705215000153,Senior Vice President,male,325811206.0
+3608.8263,1419.0,827052,edison international,0,1,0,0,20150831,vasquez gaddi h.,82705215000153,Senior Vice President,male,325811206.0
+0.0,56817.0,827052,edison international,0,1,0,0,20150911,litzinger ronald l,82705215000160,EVP; Pres. Edison Energy Group,male,325811206.0
+0.0,56817.0,827052,edison international,0,1,0,0,20150911,litzinger ronald l,82705215000160,EVP; Pres. Edison Energy Group,male,325811206.0
+,,827052,edison international,0,1,0,0,20151002,murphy j andrew,82705215000165,Senior Vice President,male,325811206.0
+0.0,56817.0,827052,edison international,0,1,0,0,20151117,litzinger ronald l,82705215000190,EVP; Pres. Edison Energy Group,male,325811206.0
+800.0,13584.3244,827052,edison international,0,1,0,0,20160105,clarke mark,82705216000199,Vice President and Controller,male,325811206.0
+3528.0,,827052,edison international,0,1,0,0,20160105,clayton janet,82705216000201,Senior Vice President,female,325811206.0
+3878.0,56817.0,827052,edison international,0,1,0,0,20160105,litzinger ronald l,82705216000203,EVP; Pres. Edison Energy Group,male,325811206.0
+2346.0,5085.397199999999,827052,edison international,0,1,0,0,20160105,vasquez gaddi h.,82705216000205,Senior Vice President,male,325811206.0
+17640.0,252648.0,827052,edison international,1,1,0,0,20160105,craver theodore f jr,82705216000207,"Chairman, President and CEO",male,325811206.0
+17155.0,37127.2667,827052,edison international,0,1,0,0,20160105,scilacci w james,82705216000209,Exec VP and CFO,male,325811206.0
+24664.0,252648.0,827052,edison international,1,1,0,0,20160106,craver theodore f jr,82705216000211,"Chairman, President and CEO",male,325811206.0
+19626.0,37129.4819,827052,edison international,0,1,0,0,20160106,scilacci w james,82705216000213,Exec VP and CFO,male,325811206.0
+3878.0,56817.0,827052,edison international,0,1,0,0,20160217,litzinger ronald l,82705216000215,EVP; Pres. Edison Energy Group,male,325811206.0
+1413.0,13562.1959,827052,edison international,0,1,0,0,20160226,clarke mark,82705216000227,Vice President and Controller,male,325811206.0
+2777.0,5078.9058,827052,edison international,0,1,0,0,20160226,vasquez gaddi h.,82705216000233,Senior Vice President,male,325811206.0
+22414.0,37062.6547,827052,edison international,0,1,0,0,20160226,scilacci w james,82705216000231,Exec VP and CFO,male,325811206.0
+34520.0,252648.0,827052,edison international,1,1,0,0,20160226,craver theodore f jr,82705216000240,"Chairman, President and CEO",male,325811206.0
+6372.0,56817.0,827052,edison international,0,1,0,0,20160226,litzinger ronald l,82705216000229,EVP; Pres. Edison Energy Group,male,325811206.0
+4143.0,,827052,edison international,0,1,0,0,20160226,clayton janet,82705216000237,Senior Vice President,female,325811206.0
+22414.0,37062.4746,827052,edison international,0,1,0,0,20160229,scilacci w james,82705216000242,Exec VP and CFO,male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,pizarro pedro,82705216000261,President So. Cal. Edison Co.,male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,litzinger ronald l,82705216000259,EVP; Pres. Edison Energy Group,male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,nichols ronald owen,82705216000257,"Senior Vice President, SCE",male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,vasquez gaddi h.,82705216000254,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,clarke mark,82705216000263,Vice President and Controller,male,325811206.0
+535.4064,,827052,edison international,0,1,0,0,20160303,umanoff adam s,82705216000255,EVP and General Counsel,male,325811206.0
+,,827052,edison international,1,1,0,0,20160303,craver theodore f jr,82705216000252,"Chairman, President and CEO",male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,murphy j andrew,82705216000245,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,scilacci w james,82705216000247,Exec VP and CFO,male,325811206.0
+,,827052,edison international,0,1,0,0,20160303,clayton janet,82705216000249,Senior Vice President,female,325811206.0
+1171.7547,,827052,edison international,0,1,0,0,20160308,nichols ronald owen,82705216000268,"Senior Vice President, SCE",male,325811206.0
+9240.0,37060.0511,827052,edison international,0,1,0,0,20160309,scilacci w james,82705216000273,Exec VP and CFO,male,325811206.0
+513.9446,,827052,edison international,0,1,0,0,20160309,clayton janet,82705216000277,Senior Vice President,female,325811206.0
+287168.0,,827052,edison international,1,1,0,0,20160310,craver theodore f jr,82705216000281,"Chairman, President and CEO",male,325811206.0
+5000.0,,827052,edison international,1,0,0,0,20160324,schlosberg richard t iii,82705216000287,,male,325811206.0
+3995.0,,827052,edison international,1,0,0,0,20160502,sullivan william p,82705216000329,,male,325811206.0
+3012.0,,827052,edison international,1,0,0,0,20160502,tauscher ellen o.,82705216000316,,female,325811206.0
+,,827052,edison international,1,0,0,0,20160502,stuntz linda g,82705216000303,,female,325811206.0
+,,827052,edison international,1,0,0,0,20160502,schlosberg richard t iii,82705216000305,,male,325811206.0
+,,827052,edison international,1,0,0,0,20160502,chang vanessa c l,82705216000307,,female,325811206.0
+,,827052,edison international,1,0,0,0,20160502,taylor peter j.,82705216000310,,male,325811206.0
+,,827052,edison international,1,0,0,0,20160502,white w brett,82705216000311,,male,325811206.0
+3995.0,9037.0,827052,edison international,1,0,0,0,20160502,bindra jagjeet s.,82705216000313,,male,325811206.0
+,,827052,edison international,1,0,0,0,20160502,morris james t,82705216000326,,male,325811206.0
+0.0,,827052,edison international,0,1,0,0,20160517,litzinger ronald l,82705216000333,"Pres. Edison Energy Group, Inc",male,325811206.0
+2777.0,5101.2286,827052,edison international,0,1,0,0,20160613,vasquez gaddi h.,82705216000342,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20160701,trapp jacqueline,82705216000353,Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20160701,payne kevin m,82705216000349,"CEO, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,0,1,0,0,20160701,nichols ronald owen,82705216000354,"President, SCE",male,325811206.0
+,,827052,edison international,1,0,0,0,20160829,hernandez louis jr,82705216000373,,male,325811206.0
+8357.0,,827052,edison international,1,0,0,0,20160908,bindra jagjeet s.,82705216000380,,male,325811206.0
+0.0,63189.0,827052,edison international,0,1,0,0,20160913,litzinger ronald l,82705216000382,"Pres. Edison Energy Group, Inc",male,325811206.0
+0.0,,827052,edison international,1,0,0,0,20160915,tauscher ellen o.,82705216000384,,female,325811206.0
+,,827052,edison international,1,1,0,0,20161003,pizarro pedro,82705216000390,President & CEO,male,325811206.0
+,,827052,edison international,0,1,0,0,20161003,rigatti maria c.,82705216000388,Executive Vice President & CFO,female,325811206.0
+4214.0,,827052,edison international,1,0,0,0,20161004,sullivan william p,82705216000392,,male,325811206.0
+0.0,63189.0,827052,edison international,0,1,0,0,20161116,litzinger ronald l,82705216000408,"Pres. Edison Energy Group, Inc",male,325811206.0
+217.0,,827052,edison international,1,0,0,0,20170103,tauscher ellen o.,82705217000002,,female,325811206.0
+3399.0,5175.6608,827052,edison international,0,1,0,0,20170104,vasquez gaddi h.,82705217000004,Senior Vice President,male,325811206.0
+2334.0,,827052,edison international,0,1,0,0,20170104,moss aaron d,82705217000006,Vice President and Controller,male,325811206.0
+36770.0,,827052,edison international,1,1,0,0,20170104,pizarro pedro,82705217000008,President and CEO,male,325811206.0
+2934.063,3185.9509,827052,edison international,0,1,0,0,20170105,payne kevin m,82705217000021,"CEO, So. Cal. Edison Co.",male,325811206.0
+5004.0,777.4962,827052,edison international,0,1,0,0,20170105,clayton janet,82705217000018,Senior Vice President,female,325811206.0
+8755.926,5533.0,827052,edison international,0,1,0,0,20170105,rigatti maria c.,82705217000016,Executive Vice President & CFO,female,325811206.0
+3715.0,,827052,edison international,0,1,0,0,20170105,litzinger ronald l,82705217000012,"Pres. Edison Energy Group, Inc",male,325811206.0
+796.058,87.0,827052,edison international,0,1,0,0,20170105,trapp jacqueline,82705217000014,Vice President,female,325811206.0
+891.0,1951.3469,827052,edison international,0,1,0,0,20170105,nichols ronald owen,82705217000010,"President, So. Cal. Edison Co.",male,325811206.0
+3715.0,61389.0,827052,edison international,0,1,0,0,20170216,litzinger ronald l,82705217000026,"Pres. Edison Energy Group, Inc",male,325811206.0
+3465.104,3184.5746,827052,edison international,0,1,0,0,20170224,payne kevin m,82705217000056,"CEO, So. Cal. Edison Co.",male,325811206.0
+9334.926,5533.0,827052,edison international,0,1,0,0,20170224,rigatti maria c.,82705217000054,Executive Vice President & CFO,female,325811206.0
+1145.788,87.0,827052,edison international,0,1,0,0,20170224,trapp jacqueline,82705217000052,Vice President,female,325811206.0
+2603.0,,827052,edison international,0,1,0,0,20170224,moss aaron d,82705217000050,Vice President and Controller,male,325811206.0
+1297.0,2045.3456,827052,edison international,0,1,0,0,20170224,nichols ronald owen,82705217000043,"President, So. Cal. Edison Co.",male,325811206.0
+3809.0,5174.0378,827052,edison international,0,1,0,0,20170224,vasquez gaddi h.,82705217000046,Senior Vice President,male,325811206.0
+5594.0,777.1604,827052,edison international,0,1,0,0,20170224,clayton janet,82705217000039,Senior Vice President,female,325811206.0
+38734.0,,827052,edison international,1,1,0,0,20170224,pizarro pedro,82705217000037,President and CEO,male,325811206.0
+5801.0,61389.0,827052,edison international,0,1,0,0,20170224,litzinger ronald l,82705217000041,"Pres. Edison Energy Group, Inc",male,325811206.0
+1965.0,,827052,edison international,1,0,0,0,20170302,taylor peter j.,82705217000058,,male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,litzinger ronald l,82705217000070,"Pres. Edison Energy Group, Inc",male,325811206.0
+,,827052,edison international,1,1,0,0,20170303,pizarro pedro,82705217000078,President and CEO,male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,payne kevin m,82705217000080,"CEO, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,trapp jacqueline,82705217000076,Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20170303,nichols ronald owen,82705217000074,"President, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,murphy j andrew,82705217000072,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,moss aaron d,82705217000068,Vice President and Controller,male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,umanoff adam s,82705217000066,EVP and General Counsel,male,325811206.0
+,,827052,edison international,0,1,0,0,20170303,rigatti maria c.,82705217000064,Executive Vice President & CFO,female,325811206.0
+,,827052,edison international,0,1,0,0,20170303,clayton janet,82705217000062,Senior Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20170303,vasquez gaddi h.,82705217000060,Senior Vice President,male,325811206.0
+0.0,113.0,827052,edison international,1,0,0,0,20170317,chang vanessa c l,82705217000086,,female,325811206.0
+3809.0,5198.5735,827052,edison international,0,1,0,0,20170403,vasquez gaddi h.,82705217000095,Senior Vice President,male,325811206.0
+1681.0,,827052,edison international,1,0,0,0,20170428,morris james t,82705217000109,,male,325811206.0
+,,827052,edison international,1,0,0,0,20170428,chang vanessa c l,82705217000110,,female,325811206.0
+,,827052,edison international,1,0,0,0,20170428,hernandez louis jr,82705217000112,,male,325811206.0
+,,827052,edison international,1,0,0,0,20170501,taylor peter j.,82705217000114,,male,325811206.0
+,,827052,edison international,1,0,0,0,20170501,white w brett,82705217000116,,male,325811206.0
+,,827052,edison international,1,0,0,0,20170501,stuntz linda g,82705217000118,,female,325811206.0
+1058.0,,827052,edison international,1,0,0,0,20170501,tauscher ellen o.,82705217000124,,female,325811206.0
+6672.0,,827052,edison international,1,0,0,0,20170501,sullivan william p,82705217000126,,male,325811206.0
+0.0,,827052,edison international,0,1,0,0,20170516,litzinger ronald l,82705217000132,"Pres. Edison Energy Group, Inc",male,325811206.0
+0.0,,827052,edison international,1,0,0,0,20170609,white w brett,82705217000136,,male,325811206.0
+3809.0,5198.3746,827052,edison international,0,1,0,0,20170609,vasquez gaddi h.,82705217000138,Senior Vice President,male,325811206.0
+,,827052,edison international,1,0,0,0,20170619,camunez michael c,82705217000143,,male,325811206.0
+,,827052,edison international,1,0,0,0,20170803,o'toole timothy,82705217000172,,male,325811206.0
+0.0,,827052,edison international,0,1,0,0,20170817,litzinger ronald l,82705217000174,"Pres. Edison Energy Group, Inc",male,325811206.0
+0.0,65615.0,827052,edison international,0,1,0,0,20171117,litzinger ronald l,82705217000203,"Pres. Edison Energy Group, Inc",male,325811206.0
+1483.0,,827052,edison international,1,0,0,0,20180103,tauscher ellen o.,82705218000002,,female,325811206.0
+10149.926,5533.0,827052,edison international,0,1,0,0,20180104,rigatti maria c.,82705218000018,Executive Vice President & CFO,female,325811206.0
+4343.0,5292.8675,827052,edison international,0,1,0,0,20180104,vasquez gaddi h.,82705218000004,Senior Vice President,male,325811206.0
+6299.0,801.754,827052,edison international,0,1,0,0,20180104,clayton janet,82705218000006,Senior Vice President,female,325811206.0
+1533.488,87.0,827052,edison international,0,1,0,0,20180104,trapp jacqueline,82705218000008,Vice President,female,325811206.0
+2954.0,,827052,edison international,0,1,0,0,20180104,moss aaron d,82705218000010,Vice President and Controller,male,325811206.0
+43121.0,,827052,edison international,1,1,0,0,20180104,pizarro pedro,82705218000012,President and CEO,male,325811206.0
+800.0,,827052,edison international,0,1,0,0,20180104,murphy j andrew,82705218000014,Senior Vice President,male,325811206.0
+1804.0,2528.6141,827052,edison international,0,1,0,0,20180104,nichols ronald owen,82705218000016,"President, So. Cal. Edison Co.",male,325811206.0
+3256.0,1479.4621,827052,edison international,0,1,0,0,20180104,umanoff adam s,82705218000020,EVP and General Counsel,male,325811206.0
+4123.776,3285.3519,827052,edison international,0,1,0,0,20180104,payne kevin m,82705218000022,"CEO, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,1,1,0,0,20180302,pizarro pedro,82705218000062,President and CEO,male,325811206.0
+,,827052,edison international,0,1,0,0,20180302,clayton janet,82705218000060,Senior Vice President,female,325811206.0
+3685.0,,827052,edison international,1,0,0,0,20180302,taylor peter j.,82705218000055,,male,325811206.0
+,,827052,edison international,0,1,0,0,20180302,murphy j andrew,82705218000057,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20180305,umanoff adam s,82705218000072,EVP and General Counsel,male,325811206.0
+,,827052,edison international,0,1,0,0,20180305,vasquez gaddi h.,82705218000076,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20180305,moss aaron d,82705218000074,Vice President and Controller,male,325811206.0
+,,827052,edison international,0,1,0,0,20180305,nichols ronald owen,82705218000068,"President, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,0,1,0,0,20180305,trapp jacqueline,82705218000070,Senior Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20180305,rigatti maria c.,82705218000064,Executive Vice President & CFO,female,325811206.0
+,,827052,edison international,0,1,0,0,20180305,payne kevin m,82705218000066,"CEO, So. Cal. Edison Co.",male,325811206.0
+2500.0,,827052,edison international,1,0,0,0,20180329,white w brett,82705218000082,,male,325811206.0
+2500.0,113.0,827052,edison international,1,0,0,0,20180419,chang vanessa c l,82705218000084,,female,325811206.0
+2147.0,1000.0,827052,edison international,1,0,0,0,20180430,stuntz linda g,82705218000102,,female,325811206.0
+,,827052,edison international,1,0,0,0,20180430,sullivan william p,82705218000105,,male,325811206.0
+,,827052,edison international,1,0,0,0,20180430,morris james t,82705218000098,,male,325811206.0
+,,827052,edison international,1,0,0,0,20180430,camunez michael c,82705218000100,,male,325811206.0
+,,827052,edison international,1,0,0,0,20180430,white w brett,82705218000096,,male,325811206.0
+,,827052,edison international,1,0,0,0,20180430,o'toole timothy,82705218000107,,male,325811206.0
+,,827052,edison international,1,0,0,0,20180430,chang vanessa c l,82705218000092,,female,325811206.0
+3630.0,,827052,edison international,1,0,0,0,20180430,tauscher ellen o.,82705218000094,,female,325811206.0
+,,827052,edison international,1,0,0,0,20180430,taylor peter j.,82705218000090,,male,325811206.0
+5265.0,,827052,edison international,1,0,0,0,20180703,taylor peter j.,82705218000126,,male,325811206.0
+,,827052,edison international,1,0,0,0,20181029,trent keith,82705218000144,,male,325811206.0
+4250.0,,827052,edison international,1,0,0,0,20190103,tauscher ellen o.,82705219000002,,female,325811206.0
+2717.0,3297.2759,827052,edison international,0,1,0,0,20190104,nichols ronald owen,82705219000004,"President, So. Cal. Edison Co.",male,325811206.0
+5710.886,3420.738,827052,edison international,0,1,0,0,20190104,payne kevin m,82705219000006,"CEO, So. Cal. Edison Co.",male,325811206.0
+11860.926,5533.0,827052,edison international,0,1,0,0,20190104,rigatti maria c.,82705219000008,Executive Vice President & CFO,female,325811206.0
+1894.0,,827052,edison international,0,1,0,0,20190104,murphy j andrew,82705219000010,Senior Vice President,male,325811206.0
+6296.0,2204.9454,827052,edison international,0,1,0,0,20190104,umanoff adam s,82705219000012,EVP and General Counsel,male,325811206.0
+51024.0,,827052,edison international,1,1,0,0,20190104,pizarro pedro,82705219000014,President and CEO,male,325811206.0
+2026.472,87.0,827052,edison international,0,1,0,0,20190104,trapp jacqueline,82705219000016,Senior Vice President,female,325811206.0
+3311.0,,827052,edison international,0,1,0,0,20190104,moss aaron d,82705219000018,Vice President and Controller,male,325811206.0
+4886.0,5452.5057,827052,edison international,0,1,0,0,20190104,vasquez gaddi h.,82705219000020,Senior Vice President,male,325811206.0
+,,827052,edison international,1,0,0,0,20190304,beliveau-dunn jeanne,82705219000043,,female,325811206.0
+7475.0,,827052,edison international,1,0,0,0,20190305,taylor peter j.,82705219000045,,male,325811206.0
+,,827052,edison international,0,1,0,0,20190307,choi caroline,82705219000047,Senior Vice President,female,325811206.0
+,,827052,edison international,1,1,0,0,20190307,pizarro pedro,82705219000049,President and CEO,male,325811206.0
+,,827052,edison international,0,1,0,0,20190307,nichols ronald owen,82705219000051,"President, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,0,1,0,0,20190307,rigatti maria c.,82705219000053,Executive Vice President & CFO,female,325811206.0
+,,827052,edison international,0,1,0,0,20190307,trapp jacqueline,82705219000055,Senior Vice President,female,325811206.0
+,,827052,edison international,0,1,0,0,20190307,payne kevin m,82705219000057,"CEO, So. Cal. Edison Co.",male,325811206.0
+,,827052,edison international,0,1,0,0,20190307,umanoff adam s,82705219000059,EVP and General Counsel,male,325811206.0
+,,827052,edison international,0,1,0,0,20190307,murphy j andrew,82705219000061,Senior Vice President,male,325811206.0
+,,827052,edison international,0,1,0,0,20190307,moss aaron d,82705219000063,Vice President and Controller,male,325811206.0
+5000.0,113.0,827052,edison international,1,0,0,0,20190315,chang vanessa c l,82705219000068,,female,325811206.0
+5000.0,,827052,edison international,1,0,0,0,20190321,white w brett,82705219000074,,male,325811206.0
+,,827052,edison international,1,0,0,0,20190426,morris james t,82705219000084,,male,325811206.0
+4546.0,1131.0,827052,edison international,1,0,0,0,20190426,stuntz linda g,82705219000082,,female,325811206.0
+,,827052,edison international,1,0,0,0,20190426,chang vanessa c l,82705219000080,,female,325811206.0
+,,827052,edison international,1,0,0,0,20190429,sullivan william p,82705219000089,,male,325811206.0
+,,827052,edison international,1,0,0,0,20190429,camunez michael c,82705219000091,,male,325811206.0
+2399.0,,827052,edison international,1,0,0,0,20190429,trent keith,82705219000094,,male,325811206.0
+,,827052,edison international,1,0,0,0,20190429,taylor peter j.,82705219000096,,male,325811206.0
+,,827052,edison international,1,0,0,0,20190429,o'toole timothy,82705219000098,,male,325811206.0
+6649.0,,827052,edison international,1,0,0,0,20190429,tauscher ellen o.,82705219000100,,female,325811206.0
+10586.0,,827052,edison international,1,0,0,0,20190703,taylor peter j.,82705219000124,,male,325811206.0
+,,827052,edison international,0,1,0,0,20191002,powell steven d,82705219000151,"Executive Vice President, SCE",male,358522961.0
+,,827052,edison international,1,0,0,0,20191025,smith carey a.,82705219000160,,male,358601135.0
+8264.73,3535.0877,827052,edison international,0,1,0,0,20200106,payne kevin m,82705220000006,"CEO, So. Cal. Edison Co.",male,361985133.0
+5125.0,,827052,edison international,0,1,0,0,20200106,choi caroline,82705220000002,Senior Vice President,female,361985133.0
+3703.0,,827052,edison international,0,1,0,0,20200106,moss aaron d,82705220000004,Vice President and Controller,male,361985133.0
+3013.0,,827052,edison international,0,1,0,0,20200106,murphy j andrew,82705220000018,Senior Vice President,male,361985133.0
+8763.0,2987.4472,827052,edison international,0,1,0,0,20200106,umanoff adam s,82705220000016,EVP and General Counsel,male,361985133.0
+14695.926,5533.0,827052,edison international,0,1,0,0,20200106,rigatti maria c.,82705220000012,Executive Vice President & CFO,female,361985133.0
+2803.0,,827052,edison international,0,1,0,0,20200106,powell steven d,82705220000010,"EVP, So. Cal. Edison Co.",male,361985133.0
+62351.0,,827052,edison international,1,1,0,0,20200106,pizarro pedro,82705220000008,President and CEO,male,361985133.0
+2930.366,87.0,827052,edison international,0,1,0,0,20200106,trapp jacqueline,82705220000014,Senior Vice President,female,361985133.0
+13047.0,,827052,edison international,1,0,0,0,20200302,taylor peter j.,82705220000030,,male,361985133.0
+,,827052,edison international,0,1,0,0,20200306,rigatti maria c.,82705220000034,Executive Vice President & CFO,female,361985133.0
+,,827052,edison international,0,1,0,0,20200306,umanoff adam s,82705220000036,EVP and General Counsel,male,361985133.0
+,,827052,edison international,0,1,0,0,20200306,moss aaron d,82705220000032,Vice President and Controller,male,361985133.0
+,,827052,edison international,0,1,0,0,20200309,powell steven d,82705220000046,"EVP, So. Cal. Edison",male,361985133.0
+,,827052,edison international,0,1,0,0,20200309,murphy j andrew,82705220000038,Senior Vice President,male,361985133.0
+,,827052,edison international,0,1,0,0,20200309,trapp jacqueline,82705220000040,Senior Vice President,female,361985133.0
+,,827052,edison international,0,1,0,0,20200309,payne kevin m,82705220000042,"Pres. and CEO, So. Cal. Edison",male,361985133.0
+,,827052,edison international,1,1,0,0,20200309,pizarro pedro,82705220000044,President and CEO,male,361985133.0
+,,827052,edison international,0,1,0,0,20200309,choi caroline,82705220000048,Senior Vice President,female,361985133.0
+,,827052,edison international,1,0,0,0,20200427,camunez michael c,82705220000066,,male,363560677.0
+5018.0,,827052,edison international,1,0,0,0,20200427,trent keith,82705220000082,,male,363560677.0
+,,827052,edison international,1,0,0,0,20200427,taylor peter j.,82705220000080,,male,363560677.0
+,,827052,edison international,1,0,0,0,20200427,sullivan william p,82705220000078,,male,363560677.0
+,,827052,edison international,1,0,0,0,20200427,beliveau-dunn jeanne,82705220000064,,female,363560677.0
+,,827052,edison international,1,0,0,0,20200427,smith carey a.,82705220000074,,male,363560677.0
+,,827052,edison international,1,0,0,0,20200427,chang vanessa c l,82705220000068,,female,363560677.0
+,,827052,edison international,1,0,0,0,20200427,stuntz linda g,82705220000076,,female,363560677.0
+,,827052,edison international,1,0,0,0,20200427,o'toole timothy,82705220000072,,male,363560677.0
+,,827052,edison international,1,0,0,0,20200427,morris james t,82705220000070,,male,363560677.0
+12817.0,,827052,edison international,1,0,0,0,20200505,taylor peter j.,82705220000096,,male,363560677.0
+15643.0,,827052,edison international,1,0,0,0,20200706,taylor peter j.,82705220000102,,male,378207496.0
+15413.0,,827052,edison international,1,0,0,0,20200804,taylor peter j.,82705220000121,,male,378220989.0
+15183.0,,827052,edison international,1,0,0,0,20201103,taylor peter j.,82705220000148,,male,378513912.0
+4799.0,1131.0,827052,edison international,true,false,false,false,20210105,stuntz linda g,141588921000068,,female,378907147.0
+3326.0,,827052,edison international,false,true,false,false,20210106,powell steven d,141588921000222,"EXECUTIVE VICE PRESIDENT, SCE",male,378907147.0
+12062.316,3695.0512,827052,edison international,false,true,false,false,20210106,payne kevin m,141588921000220,"PRESIDENT AND CEO, SCE",male,378907147.0
+4454.374,87.0,827052,edison international,false,true,false,false,20210106,trapp jacqueline,141588921000218,SENIOR VICE PRESIDENT,female,378907147.0
+4393.0,,827052,edison international,false,true,false,false,20210106,moss aaron d,141588921000216,VICE PRESIDENT AND CONTROLLER,male,378907147.0
+18986.926,5533.0,827052,edison international,false,true,false,false,20210106,rigatti maria c.,141588921000210,EXEC. VP AND CFO,female,378907147.0
+5719.0,,827052,edison international,false,true,false,false,20210106,choi caroline,141588921000209,SENIOR VICE PRESIDENT,female,378907147.0
+12225.0,3852.7967,827052,edison international,false,true,false,false,20210106,umanoff adam s,141588921000206,EXEC. VP & GENERAL COUNSEL,male,378907147.0
+5051.0,,827052,edison international,false,true,false,false,20210106,murphy j andrew,141588921000215,SENIOR VICE PRESIDENT,male,378907147.0
+79062.0,,827052,edison international,true,true,false,false,20210106,pizarro pedro,141588921000212,PRESIDENT AND CEO,male,378907147.0
+,,827052,edison international,false,true,false,false,20210303,powell steven d,141588921001258,"EXECUTIVE VICE PRESIDENT, SCE",male,378907147.0
+,,827052,edison international,false,true,false,false,20210303,umanoff adam s,141588921001271,EXEC. VP & GENERAL COUNSEL,male,378907147.0
+,,827052,edison international,false,true,false,false,20210303,murphy j andrew,141588921001266,SENIOR VICE PRESIDENT,male,378907147.0
+17663.0,,827052,edison international,true,false,false,false,20210303,taylor peter j.,141588921001264,,male,378907147.0
+,,827052,edison international,false,true,false,false,20210303,choi caroline,141588921001261,SENIOR VICE PRESIDENT,female,378907147.0
+,,827052,edison international,true,true,false,false,20210303,pizarro pedro,141588921001256,PRESIDENT AND CEO,male,378907147.0
+,,827052,edison international,false,true,false,false,20210303,trapp jacqueline,141588921001252,SENIOR VICE PRESIDENT,female,378907147.0
+,,827052,edison international,false,true,false,false,20210303,rigatti maria c.,141588921001254,EXEC. VP AND CFO,female,378907147.0
+,,827052,edison international,false,true,false,false,20210303,payne kevin m,141588921001251,"PRESIDENT AND CEO, SCE",male,378907147.0
+,,827052,edison international,false,true,false,false,20210303,moss aaron d,141588921001246,VICE PRESIDENT AND CONTROLLER,male,378907147.0
+5289.0,,827052,edison international,true,false,false,false,20210310,trent keith,141588921001418,,male,378907147.0
+12225.0,4168.9133,827052,edison international,false,true,false,false,20210315,umanoff adam s,141588921001476,EXEC. VP & GENERAL COUNSEL,male,378907147.0
+,,827052,edison international,true,false,false,false,20210426,stuntz linda g,141588921002101,,female,379438053.0
+7853.0,,827052,edison international,true,false,false,false,20210426,trent keith,141588921002107,,male,379438053.0
+20227.0,,827052,edison international,true,false,false,false,20210426,taylor peter j.,141588921002105,,male,379438053.0
+10497.0,,827052,edison international,true,false,false,false,20210426,sullivan william p,141588921002103,,male,379438053.0
+,,827052,edison international,true,false,false,false,20210426,o'toole timothy,141588921002097,,male,379438053.0
+,,827052,edison international,true,false,false,false,20210426,smith carey a.,141588921002099,,male,379438053.0
+,,827052,edison international,true,false,false,false,20210426,chang vanessa c l,141588921002093,,female,379438053.0
+,,827052,edison international,true,false,false,false,20210426,camunez michael c,141588921002091,,male,379438053.0
+,,827052,edison international,true,false,false,false,20210426,beliveau-dunn jeanne,141588921002089,,female,379438053.0
+,,827052,edison international,true,false,false,false,20210426,morris james t,141588921002095,,male,379438053.0
+19997.0,,827052,edison international,true,false,false,false,20210504,taylor peter j.,141588921002238,,male,379438053.0
+22626.0,,827052,edison international,true,false,false,false,20210706,taylor peter j.,141588921003502,,male,379695134.0
+22396.0,,827052,edison international,true,false,false,false,20210804,taylor peter j.,141588921003779,,male,379704799.0
+22176.0,,827052,edison international,true,false,false,false,20211108,taylor peter j.,141588921005101,,male,379908256.0
+19076.0,,827052,edison international,true,false,false,false,20211119,taylor peter j.,141588921005323,,male,379908256.0
+0.0,,827052,edison international,true,false,false,false,20211223,chang vanessa c l,141588921006203,,female,379908256.0
+5327.0,1131.0,827052,edison international,true,false,false,false,20220103,stuntz linda g,141588922000060,,female,380378145.0
+,,827052,edison international,false,true,false,false,20220104,powell steven d,141588922000140,"PRESIDENT AND CEO, SCE",male,380378145.0
+,,827052,edison international,false,true,false,false,20220104,anderson jill charlotte,141588922000156,"EXECUTIVE VICE PRESIDENT, SCE",female,380378145.0
+5282.0,,827052,edison international,false,true,false,false,20220105,moss aaron d,141588922000336,VICE PRESIDENT AND CONTROLLER,male,380378145.0
+3994.0,17430.5544,827052,edison international,false,true,false,false,20220105,umanoff adam s,141588922000330,EXEC. VP & GENERAL COUNSEL,male,380378145.0
+97261.0,,827052,edison international,true,true,false,false,20220105,pizarro pedro,141588922000332,PRESIDENT AND CEO,male,380378145.0
+4368.351,,827052,edison international,false,true,false,false,20220105,powell steven d,141588922000392,"PRESIDENT AND CEO, SCE",male,380378145.0
+24259.926,5533.0,827052,edison international,false,true,false,false,20220105,rigatti maria c.,141588922000351,EXEC. VP AND CFO,female,380378145.0
+4348.5354,285.4657,827052,edison international,false,true,false,false,20220105,anderson jill charlotte,141588922000334,"EXECUTIVE VICE PRESIDENT, SCE",female,380378145.0
+7416.138,,827052,edison international,false,true,false,false,20220105,murphy j andrew,141588922000340,SENIOR VICE PRESIDENT,male,380378145.0
+14803.904,,827052,edison international,false,true,false,false,20220105,choi caroline,141588922000338,SENIOR VICE PRESIDENT,female,380378145.0
+6267.47,87.0,827052,edison international,false,true,false,false,20220105,trapp jacqueline,141588922000342,SENIOR VICE PRESIDENT,female,380378145.0
+16629.897,4800.9495,827052,edison international,false,true,false,false,20220126,umanoff adam s,141588922000776,EXEC. VP & GENERAL COUNSEL,male,380378145.0
+4942.7297,285.8348,827052,edison international,false,true,false,false,20220225,anderson jill charlotte,141588922001875,"EXECUTIVE VICE PRESIDENT, SCE",female,380378145.0
+5342.568,,827052,edison international,false,true,false,false,20220225,powell steven d,141588922001870,"PRESIDENT AND CEO, SCE",male,380378145.0
+9617.694,,827052,edison international,false,true,false,false,20220225,murphy j andrew,141588922001819,SENIOR VICE PRESIDENT,male,380378145.0
+7941.394,87.0,827052,edison international,false,true,false,false,20220225,trapp jacqueline,141588922001821,SENIOR VICE PRESIDENT,female,380378145.0
+15920.336,,827052,edison international,false,true,false,false,20220225,choi caroline,141588922001815,SENIOR VICE PRESIDENT,female,380378145.0
+3499.0,21573.748,827052,edison international,false,true,false,false,20220225,umanoff adam s,141588922001813,EXEC. VP & GENERAL COUNSEL,male,380378145.0
+29219.926,5533.0,827052,edison international,false,true,false,false,20220225,rigatti maria c.,141588922001811,EXEC. VP AND CFO,female,380378145.0
+112101.0,,827052,edison international,true,true,false,false,20220225,pizarro pedro,141588922001809,PRESIDENT AND CEO,male,380378145.0
+6196.0,,827052,edison international,false,true,false,false,20220225,moss aaron d,141588922001817,VICE PRESIDENT AND CONTROLLER,male,380378145.0
+,,827052,edison international,true,false,false,false,20220228,reed marcy l.,141588922001956,,female,380378145.0
+,,827052,edison international,false,true,false,false,20220303,moss aaron d,141588922002373,VICE PRESIDENT AND CONTROLLER,male,380378145.0
+,,827052,edison international,false,true,false,false,20220303,rigatti maria c.,141588922002383,EXEC. VP AND CFO,female,380378145.0
+,,827052,edison international,false,true,false,false,20220303,murphy j andrew,141588922002380,SENIOR VICE PRESIDENT,male,380378145.0
+,,827052,edison international,false,true,false,false,20220303,choi caroline,141588922002368,SENIOR VICE PRESIDENT,female,380378145.0
+22.0,,827052,edison international,true,false,false,false,20220303,sullivan william p,141588922002269,,male,380378145.0
+,,827052,edison international,false,true,false,false,20220303,schilling natalie k,141588922002356,SENIOR VICE PRESIDENT,female,380378145.0
+,,827052,edison international,false,true,false,false,20220303,anderson jill charlotte,141588922002352,"EXECUTIVE VICE PRESIDENT, SCE",female,380378145.0
+,,827052,edison international,false,true,false,false,20220303,powell steven d,141588922002343,"PRESIDENT AND CEO, SCE",male,380378145.0
+,,827052,edison international,true,true,false,false,20220303,pizarro pedro,141588922002339,PRESIDENT AND CEO,male,380378145.0
+20271.889,4799.9492,827052,edison international,false,true,false,false,20220303,umanoff adam s,141588922002360,EXEC. VP & GENERAL COUNSEL,male,380378145.0
+,,827052,edison international,true,false,false,false,20220502,o'toole timothy,141588922004458,,male,381200257.0
+10407.01,,827052,edison international,true,false,false,false,20220502,trent keith,141588922004454,,male,381200257.0
+,,827052,edison international,true,false,false,false,20220502,camunez michael c,141588922004460,,male,381200257.0
+,,827052,edison international,true,false,false,false,20220502,smith carey a.,141588922004450,,male,381200257.0
+,,827052,edison international,true,false,false,false,20220502,beliveau-dunn jeanne,141588922004442,,female,381200257.0
+,,827052,edison international,true,false,false,false,20220502,stuntz linda g,141588922004452,,female,381200257.0
+22360.0,,827052,edison international,true,false,false,false,20220502,taylor peter j.,141588922004456,,male,381200257.0
+,,827052,edison international,true,false,false,false,20220502,chang vanessa c l,141588922004444,,female,381200257.0
+,,827052,edison international,true,false,false,false,20220502,morris james t,141588922004447,,male,381200257.0
+6177.833,,827052,edison international,true,false,false,false,20220616,chang vanessa c l,141588922006638,,female,381200257.0
+,,827052,edison international,false,true,false,false,20220701,sturgess kate,141588922007154,VICE PRESIDENT AND CONTROLLER,female,381397456.0
+25032.0,,827052,edison international,true,false,false,false,20220701,taylor peter j.,141588922007205,,male,381397456.0
+6128.0,1131.0,827052,edison international,true,false,false,false,20230104,stuntz linda g,141588923000219,,female,382208498.0
+3666.0,25944.6883,827052,edison international,false,true,false,false,20230105,umanoff adam s,141588923000514,EXEC. VP & GENERAL COUNSEL,male,382208498.0
+551.0,,827052,edison international,false,true,false,false,20230105,schilling natalie k,141588923000512,SENIOR VICE PRESIDENT,female,382208498.0
+34032.926,5533.0,827052,edison international,false,true,false,false,20230105,rigatti maria c.,141588923000509,EXEC. VP AND CFO,female,382208498.0
+7334.406,,827052,edison international,false,true,false,false,20230105,powell steven d,141588923000504,"PRESIDENT AND CEO, SCE",male,382208498.0
+129790.0,,827052,edison international,true,true,false,false,20230105,pizarro pedro,141588923000501,PRESIDENT AND CEO,male,382208498.0
+11929.835,,827052,edison international,false,true,false,false,20230105,murphy j andrew,141588923000499,SENIOR VICE PRESIDENT,male,382208498.0
+20157.373,,827052,edison international,false,true,false,false,20230105,choi caroline,141588923000495,SENIOR VICE PRESIDENT,female,382208498.0
+5771.2882,298.3359,827052,edison international,false,true,false,false,20230105,anderson jill charlotte,141588923000493,"EXECUTIVE VICE PRESIDENT, SCE",female,382208498.0
+24599.861,5006.0321,827052,edison international,false,true,false,false,20230112,umanoff adam s,141588923000856,EXEC. VP & GENERAL COUNSEL,male,382208498.0
+12989.209,,827052,edison international,false,true,false,false,20230224,murphy j andrew,141588923003293,SENIOR VICE PRESIDENT,male,382208498.0
+21081.111,,827052,edison international,false,true,false,false,20230224,choi caroline,141588923003291,SENIOR VICE PRESIDENT,female,382208498.0
+6236.0493,298.0452,827052,edison international,false,true,false,false,20230224,anderson jill charlotte,141588923003289,"EXECUTIVE VICE PRESIDENT, SCE",female,382208498.0
+36685.926,5533.0,827052,edison international,false,true,false,false,20230224,rigatti maria c.,141588923003271,EXEC. VP AND CFO,female,382208498.0
+846.0,,827052,edison international,false,true,false,false,20230224,schilling natalie k,141588923003275,SENIOR VICE PRESIDENT,female,382208498.0
+8095.051,,827052,edison international,false,true,false,false,20230224,powell steven d,141588923003268,"PRESIDENT AND CEO, SCE",male,382208498.0
+1840.0,29605.8054,827052,edison international,false,true,false,false,20230224,umanoff adam s,141588923003279,EXEC. VP & GENERAL COUNSEL,male,382208498.0
+138084.0,,827052,edison international,true,true,false,false,20230224,pizarro pedro,141588923003264,PRESIDENT AND CEO,male,382208498.0
+,,827052,edison international,false,true,false,false,20230303,anderson jill charlotte,141588923003984,"EXECUTIVE VICE PRESIDENT, SCE",female,382208498.0
+,,827052,edison international,false,true,false,false,20230303,choi caroline,141588923003988,SENIOR VICE PRESIDENT,female,382208498.0
+,,827052,edison international,false,true,false,false,20230303,murphy j andrew,141588923003992,SENIOR VICE PRESIDENT,male,382208498.0
+,,827052,edison international,true,true,false,false,20230303,pizarro pedro,141588923003998,PRESIDENT AND CEO,male,382208498.0
+,,827052,edison international,false,true,false,false,20230303,powell steven d,141588923004010,"PRESIDENT AND CEO, SCE",male,382208498.0
+,,827052,edison international,false,true,false,false,20230303,rigatti maria c.,141588923004013,EXEC. VP AND CFO,female,382208498.0
+,,827052,edison international,false,true,false,false,20230303,umanoff adam s,141588923004026,EXEC. VP & GENERAL COUNSEL,male,382208498.0
+,,827052,edison international,false,true,false,false,20230303,sturgess kate,141588923004022,VICE PRESIDENT AND CONTROLLER,female,382208498.0
+,,827052,edison international,false,true,false,false,20230303,schilling natalie k,141588923004020,SENIOR VICE PRESIDENT,female,382208498.0
+26664.328,5005.5116,827052,edison international,false,true,false,false,20230306,umanoff adam s,141588923004327,EXEC. VP & GENERAL COUNSEL,male,382208498.0
+12989.209,,827052,edison international,false,true,false,false,20230406,murphy j andrew,141588923006333,SENIOR VICE PRESIDENT,male,382659081.0
+13115.973,,827052,edison international,true,false,false,false,20230501,trent keith,141588923007062,,male,382983023.0
+28567.0,,827052,edison international,true,false,false,false,20230501,taylor peter j.,141588923007060,,male,382983023.0
+,,827052,edison international,true,false,false,false,20230501,stuntz linda g,141588923007058,,female,382983023.0
+2277.0,,827052,edison international,true,false,false,false,20230501,smith carey a.,141588923007056,,male,382983023.0
+,,827052,edison international,true,false,false,false,20230501,beliveau-dunn jeanne,141588923007044,,female,382983023.0
+,,827052,edison international,true,false,false,false,20230501,o'toole timothy,141588923007052,,male,382983023.0
+,,827052,edison international,true,false,false,false,20230501,morris james t,141588923007050,,male,382983023.0
+,,827052,edison international,true,false,false,false,20230501,chang vanessa c l,141588923007048,,female,382983023.0
+,,827052,edison international,true,false,false,false,20230501,camunez michael c,141588923007046,,male,382983023.0
+,,827052,edison international,true,false,false,false,20230501,reed marcy l.,141588923007054,,female,382983023.0
+29961.0,,827052,edison international,true,false,false,false,20230705,taylor peter j.,141588923010811,,male,383248837.0
+20880.722,,827052,edison international,false,true,false,false,20230919,choi caroline,141588923013382,SENIOR VICE PRESIDENT,female,383288769.0
+,,827052,edison international,false,true,false,false,20231003,ryan kara gostenhofer,141588923013875,"VP, CAO AND CONTROLLER",female,383567856.0
+23200.406,,827052,edison international,false,true,false,false,20240104,choi caroline,141588924000664,SENIOR VICE PRESIDENT,female,383924912.0
+162723.0,,827052,edison international,true,true,false,false,20240104,pizarro pedro,141588924000666,PRESIDENT AND CEO,male,383924912.0
+12384.229,,827052,edison international,false,true,false,false,20240104,powell steven d,141588924000668,"PRESIDENT AND CEO, SCE",male,383924912.0
+45183.926,5533.0,827052,edison international,false,true,false,false,20240104,rigatti maria c.,141588924000670,EXEC. VP AND CFO,female,383924912.0
+4688.0,32744.2969,827052,edison international,false,true,false,false,20240104,umanoff adam s,141588924000673,"EXEC. VP, GC AND CORP. SEC.",male,383924912.0
+15915.689,,827052,edison international,false,true,false,false,20240104,murphy j andrew,141588924000675,"PRESIDENT & CEO, EDISON ENERGY",male,383924912.0
+1507.0,,827052,edison international,false,true,false,false,20240104,schilling natalie k,141588924000679,SENIOR VICE PRESIDENT,female,383924912.0
+2558.0,,827052,edison international,true,false,false,false,20240104,smith carey a.,141588924000660,,male,383924912.0
+7186.0,1131.0,827052,edison international,true,false,false,false,20240104,stuntz linda g,141588924000647,,female,383924912.0
+7516.143,310.781,827052,edison international,false,true,false,false,20240104,anderson jill charlotte,141588924000662,"EXECUTIVE VICE PRESIDENT, SCE",female,383924912.0
+32212.442,5219.0079,827052,edison international,false,true,false,false,20240110,umanoff adam s,141588924000950,"EXEC. VP, GC AND CORP. SEC.",male,383924912.0
+19442.971,,827052,edison international,false,true,false,false,20240223,murphy j andrew,141588924005042,"PRESIDENT & CEO, EDISON ENERGY",male,383924912.0
+5979.0,37758.0511,827052,edison international,false,true,false,false,20240223,umanoff adam s,141588924005060,"EXEC. VP, GC AND CORP. SEC.",male,383924912.0
+2539.0,,827052,edison international,false,true,false,false,20240223,schilling natalie k,141588924005057,SENIOR VICE PRESIDENT,female,383924912.0
+191039.0,,827052,edison international,true,true,false,false,20240223,pizarro pedro,141588924005045,PRESIDENT AND CEO,male,383924912.0
+26621.619,,827052,edison international,false,true,false,false,20240223,choi caroline,141588924005039,SENIOR VICE PRESIDENT,female,383924912.0
+51789.926,5533.0,827052,edison international,false,true,false,false,20240223,rigatti maria c.,141588924005075,EXEC. VP AND CFO,female,383924912.0
+9230.2394,311.1156,827052,edison international,false,true,false,false,20240223,anderson jill charlotte,141588924005022,"EXECUTIVE VICE PRESIDENT, SCE",female,383924912.0
+1272.0,,827052,edison international,false,true,false,false,20240223,bowman erica s,141588924005033,VICE PRESIDENT,female,383924912.0
+16667.626,,827052,edison international,false,true,false,false,20240223,powell steven d,141588924005050,"PRESIDENT AND CEO, SCE",male,383924912.0
+,,827052,edison international,false,true,false,false,20240305,schilling natalie k,141588924006522,SENIOR VICE PRESIDENT,female,383924912.0
+,,827052,edison international,false,true,false,false,20240305,anderson jill charlotte,141588924006512,"EXECUTIVE VICE PRESIDENT, SCE",female,383924912.0
+,,827052,edison international,false,true,false,false,20240305,bowman erica s,141588924006514,VICE PRESIDENT,female,383924912.0
+,,827052,edison international,true,true,false,false,20240305,pizarro pedro,141588924006516,PRESIDENT AND CEO,male,383924912.0
+,,827052,edison international,false,true,false,false,20240305,powell steven d,141588924006518,"PRESIDENT AND CEO, SCE",male,383924912.0
+,,827052,edison international,false,true,false,false,20240305,rigatti maria c.,141588924006520,EXEC. VP AND CFO,female,383924912.0
+,,827052,edison international,false,true,false,false,20240305,choi caroline,141588924006787,SENIOR VICE PRESIDENT,female,383924912.0
+38511.575,5225.5516,827052,edison international,false,true,false,false,20240305,umanoff adam s,141588924006525,"EXEC. VP, GC AND CORP. SEC.",male,383924912.0
+,,827052,edison international,false,true,false,false,20240305,ryan kara gostenhofer,141588924006530,"VP, CAO AND CONTROLLER",female,383924912.0
+,,827052,edison international,false,true,false,false,20240305,murphy j andrew,141588924006779,"PRESIDENT & CEO, EDISON ENERGY",male,383924912.0
+,,827052,edison international,true,false,false,false,20240429,smith carey a.,141588924011658,,male,384753060.0
+16168.959,,827052,edison international,true,false,false,false,20240429,trent keith,141588924011660,,male,384753060.0
+,,827052,edison international,true,false,false,false,20240429,reed marcy l.,141588924011650,,female,384753060.0
+,,827052,edison international,true,false,false,false,20240429,beliveau-dunn jeanne,141588924011668,,female,384753060.0
+,,827052,edison international,true,false,false,false,20240429,o'toole timothy,141588924011670,,male,384753060.0
+33757.0,,827052,edison international,true,false,false,false,20240429,taylor peter j.,141588924011654,,male,384753060.0
+,,827052,edison international,true,false,false,false,20240429,stuntz linda g,141588924011652,,female,384753060.0
+,,827052,edison international,true,false,false,false,20240429,morris james t,141588924011648,,male,384753060.0
+,,827052,edison international,true,false,false,false,20240429,chang vanessa c l,141588924011646,,female,384753060.0
+,,827052,edison international,true,false,false,false,20240429,camunez michael c,141588924011643,,male,384753060.0
+19659.556,,827052,edison international,false,true,false,false,20240513,murphy j andrew,141588924013010,"PRESIDENT & CEO, EDISON ENERGY",male,384753060.0
+19659.556,,827052,edison international,false,true,false,false,20240515,murphy j andrew,141588924013188,"PRESIDENT & CEO, EDISON ENERGY",male,384753060.0
+33622.0,,827052,edison international,true,false,false,false,20240516,taylor peter j.,141588924013291,,male,384753060.0
+26918.17,,827052,edison international,false,true,false,false,20240607,choi caroline,141588924016032,SENIOR VICE PRESIDENT,female,384753060.0
+19659.556,,827052,edison international,false,true,false,false,20240729,murphy j andrew,141588924020248,"PRESIDENT & CEO, EDISON ENERGY",male,386176746.0
+6337.859,,827052,edison international,false,true,false,false,20240801,schilling natalie k,141588924020490,SENIOR VP & CHIEF HR OFFICER,female,386176746.0
+19659.556,,827052,edison international,false,true,false,false,20240802,murphy j andrew,141588924020575,"PRESIDENT & CEO, EDISON ENERGY",male,386176746.0
+19849.821,,827052,edison international,false,true,false,false,20240826,murphy j andrew,141588924022190,"PRESIDENT & CEO, EDISON ENERGY",male,386176746.0
+19849.821,,827052,edison international,false,true,false,false,20240827,murphy j andrew,141588924022283,"PRESIDENT & CEO, EDISON ENERGY",male,386176746.0
+0.0,44699.5049,827052,edison international,false,true,false,false,20241104,umanoff adam s,141588924025969,"EXEC. VP, GC AND CORP. SEC.",male,387150269.0
+57322.0,,827052,edison international,false,true,false,false,20241106,rigatti maria c.,141588924026232,EXEC. VP AND CFO,female,387150269.0
+16168.0,,827052,edison international,true,false,false,false,20241108,trent keith,141588924026441,,male,387150269.0
+32372.0,,827052,edison international,true,false,false,false,20241118,taylor peter j.,141588924027102,,male,387150269.0
+1287.0,,827052,edison international,false,true,false,false,20241125,bowman erica s,141588924027619,VICE PRESIDENT,female,387150269.0

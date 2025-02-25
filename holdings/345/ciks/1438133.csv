@@ -1,42 +1,614 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-1739154.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20140102,cahill edward l,120919114000134,,male,22926000.0
-2653.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140606,anacone robert,120919114039651,EVP & CHIEF COMMERICAL OFFICER,male,22980784.0
-17260.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140606,berger david b,120919114039655,GENERAL COUNSEL,male,22980784.0
-44154.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140606,cajigas john,120919114039659,CHIEF FINANCIAL OFFICER,male,22980784.0
-6929.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140606,morrison susan,120919114039665,CHIEF ADMINSTRATIVE OFFICER,female,22980784.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140606,sheridan john f,120919114039673,EVP & CHIEF OPERATING OFFICER,male,22980784.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140620,sheridan john f,120919114042788,EVP & CHIEF OPERATING OFFICER,male,22980784.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140702,sheridan john f,120919114045555,EVP & CHIEF OPERATING OFFICER,male,23455483.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140804,sheridan john f,120919114050412,EVP & CHIEF OPERATING OFFICER,male,23463233.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20140903,sheridan john f,120919114055539,EVP & CHIEF OPERATING OFFICER,male,23463233.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141003,sheridan john f,120919114061914,EVP & CHIEF OPERATING OFFICER,male,23491770.0
-1198.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141105,sheridan john f,120919114066598,EVP & CHIEF OPERATING OFFICER,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20141119,allen dick,120919114070190,,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,1,0,20141119,treu jesse i,90445414000761,,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,1,0,20141119,roeder douglas a,120919114070189,,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20141119,twomey christopher j,120919114070195,,male,23500687.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141119,sheridan john f,120919114070175,EVP & CHIEF OPERATING OFFICER,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20141119,smith lonnie m,120919114070194,,male,23500687.0
-3332.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141119,cajigas john,120919114070173,CHIEF FINANCIAL OFFICER,male,23500687.0
-16930.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141119,berger david b,120919114070172,GENERAL COUNSEL,male,23500687.0
-8209.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141119,morrison susan,120919114070174,CHIEF ADMINSTRATIVE OFFICER,female,23500687.0
-2811.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141119,anacone robert,120919114070171,EVP & CHIEF COMMERICAL OFFICER,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,1,0,20141120,cohen fred e,120919114070456,,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20141125,greene howard e jr,120919114071122,,male,23500687.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20141202,sheridan john f,120919114072473,EVP & CHIEF OPERATING OFFICER,male,23500687.0
-0.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20141204,cahill edward l,120919114073012,,male,23500687.0
-121598.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20141215,allen dick,120919114075438,,male,23500687.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150105,sheridan john f,120919115001064,EVP & CHIEF OPERATING OFFICER,male,23655000.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150203,sheridan john f,120919115009092,EVP & CHIEF OPERATING OFFICER,male,23655000.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150304,sheridan john f,120919115022466,EVP & CHIEF OPERATING OFFICER,male,23655000.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150403,sheridan john f,120919115032390,EVP & CHIEF OPERATING OFFICER,male,29780000.0
-2235.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150501,sheridan john f,120919115037992,EVP & CHIEF OPERATING OFFICER,male,29801681.0
-0.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150522,anacone robert,120919115046361,EVP & CHIEF COMMERICAL OFFICER,male,29801681.0
+1739154.0,,1438133,tandem diabetes care inc,1,0,0,0,20140102,cahill edward l,120919114000134,,male,22926000.0
+44154.0,,1438133,tandem diabetes care inc,0,1,0,0,20140606,cajigas john,120919114039659,CHIEF FINANCIAL OFFICER,male,22980784.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20140606,sheridan john f,120919114039673,EVP & CHIEF OPERATING OFFICER,male,22980784.0
+6929.0,,1438133,tandem diabetes care inc,0,1,0,0,20140606,morrison susan,120919114039665,CHIEF ADMINSTRATIVE OFFICER,female,22980784.0
+2653.0,,1438133,tandem diabetes care inc,0,1,0,0,20140606,anacone robert,120919114039651,EVP & CHIEF COMMERICAL OFFICER,male,22980784.0
+17260.0,,1438133,tandem diabetes care inc,0,1,0,0,20140606,berger david b,120919114039655,GENERAL COUNSEL,male,22980784.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20140620,sheridan john f,120919114042788,EVP & CHIEF OPERATING OFFICER,male,22980784.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20140702,sheridan john f,120919114045555,EVP & CHIEF OPERATING OFFICER,male,23455483.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20140804,sheridan john f,120919114050412,EVP & CHIEF OPERATING OFFICER,male,23463233.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20140903,sheridan john f,120919114055539,EVP & CHIEF OPERATING OFFICER,male,23463233.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20141003,sheridan john f,120919114061914,EVP & CHIEF OPERATING OFFICER,male,23491770.0
+1198.0,,1438133,tandem diabetes care inc,0,1,0,0,20141105,sheridan john f,120919114066598,EVP & CHIEF OPERATING OFFICER,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20141119,smith lonnie m,120919114070194,,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20141119,allen dick,120919114070190,,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20141119,roeder douglas a,120919114070189,,male,23500687.0
+16930.0,,1438133,tandem diabetes care inc,0,1,0,0,20141119,berger david b,120919114070172,GENERAL COUNSEL,male,23500687.0
+8209.0,,1438133,tandem diabetes care inc,0,1,0,0,20141119,morrison susan,120919114070174,CHIEF ADMINSTRATIVE OFFICER,female,23500687.0
+3332.0,,1438133,tandem diabetes care inc,0,1,0,0,20141119,cajigas john,120919114070173,CHIEF FINANCIAL OFFICER,male,23500687.0
+2811.0,,1438133,tandem diabetes care inc,0,1,0,0,20141119,anacone robert,120919114070171,EVP & CHIEF COMMERICAL OFFICER,male,23500687.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20141119,sheridan john f,120919114070175,EVP & CHIEF OPERATING OFFICER,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20141119,treu jesse i,90445414000761,,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20141119,twomey christopher j,120919114070195,,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20141120,cohen fred e,120919114070456,,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20141125,greene howard e jr,120919114071122,,male,23500687.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20141202,sheridan john f,120919114072473,EVP & CHIEF OPERATING OFFICER,male,23500687.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20141204,cahill edward l,120919114073012,,male,23500687.0
+121598.0,,1438133,tandem diabetes care inc,1,0,0,0,20141215,allen dick,120919114075438,,male,23500687.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20150105,sheridan john f,120919115001064,EVP & CHIEF OPERATING OFFICER,male,23655000.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20150203,sheridan john f,120919115009092,EVP & CHIEF OPERATING OFFICER,male,23655000.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20150304,sheridan john f,120919115022466,EVP & CHIEF OPERATING OFFICER,male,23655000.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20150403,sheridan john f,120919115032390,EVP & CHIEF OPERATING OFFICER,male,29780000.0
+2235.0,,1438133,tandem diabetes care inc,0,1,0,0,20150501,sheridan john f,120919115037992,EVP & CHIEF OPERATING OFFICER,male,29801681.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20150522,anacone robert,120919115046361,EVP & CHIEF COMMERICAL OFFICER,male,29801681.0
 3979.0,16930.0,1438133,tandem diabetes care inc,0,1,0,0,20150522,berger david b,120919115046362,GENERAL COUNSEL,male,29801681.0
-0.0,0.0,1438133,tandem diabetes care inc,1,1,0,0,20150522,blickenstaff kim d,120919115046363,CHIEF EXECUTIVE OFFICER,female,29801681.0
+,,1438133,tandem diabetes care inc,1,1,0,0,20150522,blickenstaff kim d,120919115046363,CHIEF EXECUTIVE OFFICER,female,29801681.0
 5053.0,41463.0,1438133,tandem diabetes care inc,0,1,0,0,20150522,cajigas john,120919115046364,CHIEF FINANCIAL OFFICER,male,29801681.0
-9930.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150522,morrison susan,120919115046365,CHIEF ADMINSTRATIVE OFFICER,female,29801681.0
-4084.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150522,sheridan john f,120919115046366,EVP & CHIEF OPERATING OFFICER,male,29801681.0
-117865.0,0.0,1438133,tandem diabetes care inc,1,0,0,0,20150804,greene howard e jr,120919115063677,,male,30014450.0
-4084.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150807,sheridan john f,120919115064625,EVP & CHIEF OPERATING OFFICER,male,30014450.0
-4084.0,0.0,1438133,tandem diabetes care inc,0,1,0,0,20150916,sheridan john f,120919115070949,EVP & CHIEF OPERATING OFFICER,male,30014450.0
+9930.0,,1438133,tandem diabetes care inc,0,1,0,0,20150522,morrison susan,120919115046365,CHIEF ADMINSTRATIVE OFFICER,female,29801681.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20150522,sheridan john f,120919115046366,EVP & CHIEF OPERATING OFFICER,male,29801681.0
+117865.0,,1438133,tandem diabetes care inc,1,0,0,0,20150804,greene howard e jr,120919115063677,,male,30014450.0
+117865.0,,1438133,tandem diabetes care inc,1,0,0,0,20150804,greene howard e jr,120919115063677,,male,30014450.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20150807,sheridan john f,120919115064625,EVP & CHIEF OPERATING OFFICER,male,30014450.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20150807,sheridan john f,120919115064625,EVP & CHIEF OPERATING OFFICER,male,30014450.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20150916,sheridan john f,120919115070949,EVP & CHIEF OPERATING OFFICER,male,30014450.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20150916,sheridan john f,120919115070949,EVP & CHIEF OPERATING OFFICER,male,30014450.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20151103,sheridan john f,120919115078185,EVP & CHIEF OPERATING OFFICER,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20151117,treu jesse i,90445415000704,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20151117,allen dick,120919115080657,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20151117,twomey christopher j,120919115080664,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20151117,smith lonnie m,120919115080663,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20151117,roeder douglas a,120919115080661,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20151117,greene howard e jr,120919115080659,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20151117,cahill edward l,120919115080658,,male,30074979.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20151117,cohen fred e,120919115080655,,male,30074979.0
+4084.0,,1438133,tandem diabetes care inc,0,1,0,0,20151202,sheridan john f,120919115082853,EVP & CHIEF OPERATING OFFICER,male,30074979.0
+3295.0,,1438133,tandem diabetes care inc,0,1,0,0,20160105,sheridan john f,120919116089012,EVP & CHIEF OPERATING OFFICER,male,30255000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20160217,cajigas john,120919116099288,"EVP, CFO & TREASURER",male,30255000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20160217,morrison susan,120919116099295,CHIEF ADMINSTRATIVE OFFICER,female,30255000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20160217,sheridan john f,120919116099303,"EVP, CHIEF OPERATING OFFICER",male,30255000.0
+,,1438133,tandem diabetes care inc,1,1,0,0,20160217,blickenstaff kim d,120919116099283,PRESIDENT & CEO,female,30255000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20160217,berger david b,120919116099272,"EVP, GEN. COUNSEL & SECRETARY",male,30255000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20160229,hansen brian b,120919116103481,EVP & CHIEF COMMERCIAL OFFICER,male,30255000.0
+131598.0,,1438133,tandem diabetes care inc,1,0,0,0,20160229,allen dick,120919116103480,,male,30255000.0
+5295.0,,1438133,tandem diabetes care inc,0,1,0,0,20160309,sheridan john f,120919116107452,"EVP, CHIEF OPERATING OFFICER",male,30255000.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20160314,allen dick,120919116108282,,male,30255000.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20160314,anhalt henry,120919116108307,,male,30255000.0
+5295.0,,1438133,tandem diabetes care inc,0,1,0,0,20160422,sheridan john f,120919116115372,"EVP, CHIEF OPERATING OFFICER",male,30348000.0
+5295.0,,1438133,tandem diabetes care inc,0,1,0,0,20160502,sheridan john f,120919116116763,"EVP, CHIEF OPERATING OFFICER",male,30351361.0
+7988.0,16930.0,1438133,tandem diabetes care inc,0,1,0,0,20160516,berger david b,120919116120322,"EVP, GEN. COUNSEL & SECRETARY",male,30351361.0
+7522.0,41463.0,1438133,tandem diabetes care inc,0,1,0,0,20160516,cajigas john,120919116120325,"EVP, CFO & TREASURER",male,30351361.0
+12399.0,,1438133,tandem diabetes care inc,0,1,0,0,20160516,morrison susan,120919116120329,CHIEF ADMINSTRATIVE OFFICER,female,30351361.0
+7763.0,,1438133,tandem diabetes care inc,0,1,0,0,20160516,sheridan john f,120919116120332,"EVP, CHIEF OPERATING OFFICER",male,30351361.0
+7763.0,,1438133,tandem diabetes care inc,0,1,0,0,20160803,sheridan john f,120919116135310,"EVP, CHIEF OPERATING OFFICER",male,30613826.0
+3671.0,,1438133,tandem diabetes care inc,0,1,0,0,20161116,hansen brian b,120919116150719,EVP & CHIEF COMMERCIAL OFFICER,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20161116,allen dick,120919116150720,,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20161116,twomey christopher j,120919116150725,,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20161116,roeder douglas a,120919116150724,,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20161116,greene howard e jr,120919116150723,,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20161116,cohen fred e,120919116150722,,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20161116,cahill edward l,120919116150721,,male,30642276.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20161117,treu jesse i,90445416001576,,male,30642276.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20161216,sheridan john f,120919116155753,"EVP, CHIEF OPERATING OFFICER",male,30642276.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20161216,morrison susan,120919116155752,CHIEF ADMINSTRATIVE OFFICER,female,30642276.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20161216,cajigas john,120919116155750,"EVP, CFO & TREASURER",male,30642276.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20161216,hansen brian b,120919116155751,EVP & CHIEF COMMERCIAL OFFICER,male,30642276.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20161216,berger david b,120919116155749,"EVP, GEN. COUNSEL & SECRETARY",male,30642276.0
+2007939.0,,1438133,tandem diabetes care inc,1,1,0,0,20170323,blickenstaff kim d,120919117022685,PRESIDENT & CEO,female,3110000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20170518,sheridan john f,120919117033638,"EVP, CHIEF OPERATING OFFICER",male,49839650.0
+24900.0,,1438133,tandem diabetes care inc,0,1,0,0,20170518,morrison susan,120919117033636,CHIEF ADMINSTRATIVE OFFICER,female,49839650.0
+8974.0,,1438133,tandem diabetes care inc,0,1,0,0,20170518,hansen brian b,120919117033634,EVP & CHIEF COMMERCIAL OFFICER,male,49839650.0
+18353.0,41463.0,1438133,tandem diabetes care inc,0,1,0,0,20170518,cajigas john,120919117033633,"EVP, CFO & TREASURER",male,49839650.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20170518,berger david b,120919117033630,"EVP, GEN. COUNSEL & SECRETARY",male,49839650.0
+,,1438133,tandem diabetes care inc,1,1,0,0,20170518,blickenstaff kim d,120919117033628,PRESIDENT & CEO,female,49839650.0
+486494.0,,1438133,tandem diabetes care inc,1,1,0,0,20171017,blickenstaff kim d,120919117057210,PRESIDENT & CEO,female,5487000.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171117,cahill edward l,120919117061612,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171117,allen dick,120919117061605,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171117,greene howard e jr,120919117061625,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171117,twomey christopher j,120919117061635,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,1,0,20171117,roeder douglas a,120919117061668,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171117,cohen fred e,120919117061618,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171205,greene howard e jr,120919117064034,,male,10118659.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20171205,berger david b,120919117064028,"EVP, GEN. COUNSEL & SECRETARY",male,10118659.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20171205,sheridan john f,120919117064029,"EVP, CHIEF OPERATING OFFICER",male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171205,roeder douglas a,120919117064038,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171205,allen dick,120919117064037,,male,10118659.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20171205,hansen brian b,120919117064030,EVP & CHIEF COMMERCIAL OFFICER,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171205,twomey christopher j,120919117064036,,male,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171205,cohen fred e,120919117064033,,male,10118659.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20171205,morrison susan,120919117064032,CHIEF ADMINSTRATIVE OFFICER,female,10118659.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20171205,cahill edward l,120919117064031,,male,10118659.0
+13217.0,,1438133,tandem diabetes care inc,1,0,0,0,20180213,roeder douglas a,120919118009618,,male,10119000.0
+1236494.0,,1438133,tandem diabetes care inc,1,1,0,0,20180213,blickenstaff kim d,120919118009597,PRESIDENT & CEO,female,10119000.0
+26758.0,,1438133,tandem diabetes care inc,1,0,0,0,20180213,twomey christopher j,120919118009605,,male,10119000.0
+61787.0,,1438133,tandem diabetes care inc,1,0,0,0,20180213,greene howard e jr,120919118009610,,male,10119000.0
+13898.0,,1438133,tandem diabetes care inc,1,0,0,0,20180213,allen dick,120919118009613,,male,10119000.0
+22001.0,,1438133,tandem diabetes care inc,1,0,0,0,20180307,allen dick,120919118017674,,male,10119000.0
+1389750.0,,1438133,tandem diabetes care inc,1,1,0,0,20180417,blickenstaff kim d,120919118025269,PRESIDENT & CEO,female,46636000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20180615,berger david b,120919118038166,"EVP, GEN. COUNSEL & SECRETARY",male,50067860.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20180615,morrison susan,120919118038168,EVP & CAO,female,50067860.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20180615,sheridan john f,120919118038175,"EVP, CHIEF OPERATING OFFICER",male,50067860.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20180615,vosseller leigh,120919118038177,EVP and CFO,female,50067860.0
+,,1438133,tandem diabetes care inc,1,1,0,0,20180615,blickenstaff kim d,120919118038170,PRESIDENT & CEO,female,50067860.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20180615,hansen brian b,120919118038173,EVP & CHIEF COMMERCIAL OFFICER,male,50067860.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20180618,valencia richard p.,120919118038352,,male,50067860.0
+1754.0,,1438133,tandem diabetes care inc,1,0,0,0,20180803,valencia richard p.,120919118045335,,male,53190159.0
+1191750.0,,1438133,tandem diabetes care inc,1,1,0,0,20181107,blickenstaff kim d,120919118057614,PRESIDENT & CEO,female,57369283.0
+52000.0,,1438133,tandem diabetes care inc,1,0,0,0,20181107,allen dick,120919118057613,,male,57369283.0
+3054.0,,1438133,tandem diabetes care inc,1,0,0,0,20181107,valencia richard p.,120919118057618,,male,57369283.0
+50000.0,,1438133,tandem diabetes care inc,1,0,0,0,20181107,greene howard e jr,120919118057617,,male,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,roeder douglas a,120919118059320,,male,57369283.0
+2145.0,,1438133,tandem diabetes care inc,0,1,0,0,20181119,vosseller leigh,120919118059313,EVP and CFO,female,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,valencia richard p.,120919118059312,,male,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,twomey christopher j,120919118059311,,male,57369283.0
+1765.0,1693.0,1438133,tandem diabetes care inc,0,1,0,0,20181119,berger david b,120919118059302,"EVP, GEN. COUNSEL & SECRETARY",male,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,allen dick,120919118059301,,male,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,cahill edward l,120919118059303,,male,57369283.0
+3745.0,,1438133,tandem diabetes care inc,0,1,0,0,20181119,morrison susan,120919118059308,EVP & CAO,female,57369283.0
+1381.0,,1438133,tandem diabetes care inc,0,1,0,0,20181119,hansen brian b,120919118059306,EVP & CHIEF COMMERCIAL OFFICER,male,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,greene howard e jr,120919118059305,,male,57369283.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20181119,cohen fred e,120919118059304,,male,57369283.0
+1454.0,,1438133,tandem diabetes care inc,0,1,0,0,20181119,sheridan john f,120919118059310,"EVP, CHIEF OPERATING OFFICER",male,57369283.0
+17400.0,,1438133,tandem diabetes care inc,1,0,0,0,20181130,cahill edward l,120919118060492,,male,57369283.0
+200.0,,1438133,tandem diabetes care inc,0,1,0,0,20181207,berger david b,120919118061645,"EVP, GEN. COUNSEL & SECRETARY",male,57369283.0
+1381.0,,1438133,tandem diabetes care inc,0,1,0,0,20181213,hansen brian b,120919118062531,EVP & CHIEF COMMERCIAL OFFICER,male,57369283.0
+666.0,,1438133,tandem diabetes care inc,0,1,0,0,20190103,sheridan john f,120919119000918,"EVP, CHIEF OPERATING OFFICER",male,57554000.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190108,robertson rebecca b,120919119002852,,female,57554000.0
+1765.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190109,berger david b,120919119003104,"EVP, GEN. COUNSEL & SECRETARY",male,57554000.0
+1381.0,,1438133,tandem diabetes care inc,0,1,0,0,20190115,hansen brian b,120919119003728,EVP & CHIEF COMMERCIAL OFFICER,male,57554000.0
+666.0,,1438133,tandem diabetes care inc,0,1,0,0,20190125,sheridan john f,120919119005412,"EVP, CHIEF OPERATING OFFICER",male,57554000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20190220,vosseller leigh,120919119011506,EVP and CFO,female,57554000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20190220,hansen brian b,120919119011499,EVP & CHIEF COMMERCIAL OFFICER,male,57554000.0
+,,1438133,tandem diabetes care inc,1,1,0,0,20190220,blickenstaff kim d,120919119011496,PRESIDENT & CEO,female,57554000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20190220,morrison susan,120919119011500,EVP & CAO,female,57554000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20190220,berger david b,120919119011492,"EVP, GEN. COUNSEL & SECRETARY",male,57554000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20190220,sheridan john f,120919119011505,"EVP, CHIEF OPERATING OFFICER",male,57554000.0
+666.0,,1438133,tandem diabetes care inc,0,1,0,0,20190227,sheridan john f,120919119014215,"EVP, CHIEF OPERATING OFFICER",male,57554000.0
+40000.0,,1438133,tandem diabetes care inc,1,0,0,0,20190301,greene howard e jr,120919119015149,,male,57554000.0
+3745.0,,1438133,tandem diabetes care inc,0,1,0,0,20190304,morrison susan,120919119016013,EVP & CAO,female,57554000.0
+3982.0,,1438133,tandem diabetes care inc,1,0,0,0,20190308,cahill edward l,120919119018219,,male,57554000.0
+14000.0,52000.0,1438133,tandem diabetes care inc,1,0,0,0,20190311,allen dick,120919119018408,,male,57554000.0
+991750.0,,1438133,tandem diabetes care inc,1,1,0,0,20190313,blickenstaff kim d,120919119019237,Executive Chairman,female,57554000.0
+1381.0,,1438133,tandem diabetes care inc,0,1,0,0,20190315,hansen brian b,120919119019842,EVP & CHIEF COMMERCIAL OFFICER,male,57554000.0
+1765.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190404,berger david b,120919119023629,"EVP, GEN. COUNSEL & SECRETARY",male,57982000.0
+10000.0,,1438133,tandem diabetes care inc,1,0,0,0,20190503,allen dick,120919119027493,,male,58067241.0
+1765.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190506,berger david b,120919119027804,"EVP, Chief Legal & Compliance",male,58067241.0
+2009.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20190506,vosseller leigh,120919119027810,EVP and CFO,female,58067241.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190517,berger david b,120919119030971,"EVP, Chief Legal & Compliance",male,58067241.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20190517,hansen brian b,120919119030976,EVP & CHIEF COMMERCIAL OFFICER,male,58067241.0
+5001.0,,1438133,tandem diabetes care inc,0,1,0,0,20190517,morrison susan,120919119030981,EVP & CAO,female,58067241.0
+2501.0,,1438133,tandem diabetes care inc,0,1,0,0,20190517,sheridan john f,120919119030989,PRESIDENT & CEO,male,58067241.0
+3265.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20190517,vosseller leigh,120919119030992,EVP and CFO,female,58067241.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190604,berger david b,120919119034342,"EVP, Chief Legal & Compliance",male,58067241.0
+12872.0,,1438133,tandem diabetes care inc,1,0,0,0,20190617,roeder douglas a,89924319017205,,male,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,valencia richard p.,120919119038314,,male,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,allen dick,120919119038298,,male,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,greene howard e jr,120919119038301,,male,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,cahill edward l,120919119038303,,male,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,robertson rebecca b,120919119038305,,female,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,roeder douglas a,120919119038308,,male,58067241.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20190620,twomey christopher j,120919119038311,,male,58067241.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190708,berger david b,120919119041400,"EVP, Chief Legal & Compliance",male,58589000.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20190712,hansen brian b,120919119041979,EVP & CHIEF COMMERCIAL OFFICER,male,58589000.0
+12743.0,,1438133,tandem diabetes care inc,1,0,0,0,20190715,roeder douglas a,89924319019620,,male,58589000.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20190806,hansen brian b,120919119044799,EVP & CHIEF COMMERCIAL OFFICER,male,58652286.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190806,berger david b,120919119044804,"EVP, Chief Legal & Compliance",male,58652286.0
+12651.0,,1438133,tandem diabetes care inc,1,0,0,0,20190806,roeder douglas a,89924319021162,,male,58652286.0
+30000.0,,1438133,tandem diabetes care inc,1,0,0,0,20190806,greene howard e jr,120919119044796,,male,58652286.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20190813,hansen brian b,120919119045769,EVP & CHIEF COMMERCIAL OFFICER,male,58652286.0
+3982.0,,1438133,tandem diabetes care inc,1,0,0,0,20190814,cahill edward l,120919119045883,,male,58652286.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20190828,hansen brian b,120919119047601,EVP & CHIEF COMMERCIAL OFFICER,male,58652286.0
+9670.0,,1438133,tandem diabetes care inc,1,0,0,0,20190829,roeder douglas a,89924319022590,,male,58652286.0
+37000.0,13000.0,1438133,tandem diabetes care inc,1,0,0,0,20190829,allen dick,120919119047772,,male,58652286.0
+891750.0,,1438133,tandem diabetes care inc,1,1,0,0,20190830,blickenstaff kim d,120919119047825,Executive Chairman,female,58652286.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20190903,berger david b,120919119048039,"EVP, Chief Legal & Compliance",male,58652286.0
+2501.0,,1438133,tandem diabetes care inc,0,1,0,0,20190909,sheridan john f,120919119048892,PRESIDENT & CEO,male,58652286.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20191106,hansen brian b,143813319000020,EVP & CHIEF COMMERCIAL OFFICER,male,59092861.0
+3265.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20191118,vosseller leigh,143813319000022,EVP & CHIEF FINANCIAL OFFICER,female,59092861.0
+2501.0,,1438133,tandem diabetes care inc,0,1,0,0,20191126,sheridan john f,143813319000025,PRESIDENT & CEO,male,59092861.0
+3265.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20191126,vosseller leigh,143813319000026,EVP & CHIEF FINANCIAL OFFICER,female,59092861.0
+691750.0,,1438133,tandem diabetes care inc,1,1,0,0,20191218,blickenstaff kim d,143813319000032,Executive Chairman,female,59092861.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20200117,hansen brian b,143813320000002,EVP & CHIEF COMMERCIAL OFFICER,male,59396000.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200117,berger david b,143813320000004,"EVP, Chief Legal & Compliance",male,59396000.0
+641750.0,,1438133,tandem diabetes care inc,1,1,0,0,20200131,blickenstaff kim d,143813320000006,Executive Chairman,female,59396000.0
+0.0,50000.0,1438133,tandem diabetes care inc,1,0,0,0,20200131,allen dick,143813320000009,,male,59396000.0
+3265.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200131,vosseller leigh,143813320000007,EVP & CHIEF FINANCIAL OFFICER,female,59396000.0
+2991.0,,1438133,tandem diabetes care inc,0,1,0,0,20200131,hansen brian b,143813320000008,EVP & CHIEF COMMERCIAL OFFICER,male,59396000.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200131,berger david b,143813320000005,"EVP, Chief Legal & Compliance",male,59396000.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200204,berger david b,143813320000011,"EVP, Chief Legal & Compliance",male,59396000.0
+3265.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200212,vosseller leigh,143813320000012,EVP & CHIEF FINANCIAL OFFICER,female,59396000.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200214,berger david b,143813320000013,"EVP, Chief Legal & Compliance",male,59726471.0
+2501.0,,1438133,tandem diabetes care inc,0,1,0,0,20200224,sheridan john f,143813320000017,PRESIDENT & CEO,male,59726471.0
+37179.0,3000.0,1438133,tandem diabetes care inc,1,0,0,0,20200228,allen dick,143813320000019,,male,59726471.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200304,berger david b,143813320000020,"EVP, Chief Legal & Compliance",male,59726471.0
+634593.0,,1438133,tandem diabetes care inc,1,0,0,0,20200312,blickenstaff kim d,143813320000021,,female,59726471.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200408,berger david b,143813320000028,"EVP, Chief Legal & Compliance",male,60071000.0
+25000.0,,1438133,tandem diabetes care inc,1,0,0,0,20200504,twomey christopher j,143813320000041,,male,60102978.0
+3311.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200504,berger david b,143813320000042,"EVP, Chief Legal & Compliance",male,60102978.0
+1000.0,37179.0,1438133,tandem diabetes care inc,1,0,0,0,20200508,allen dick,143813320000045,,male,60102978.0
+3265.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200508,vosseller leigh,143813320000043,EVP & CHIEF FINANCIAL OFFICER,female,60102978.0
+22500.0,,1438133,tandem diabetes care inc,1,0,0,0,20200508,twomey christopher j,143813320000044,,male,60102978.0
+4566.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200519,berger david b,143813320000060,"EVP, Chief Legal & Compliance",male,60102978.0
+4665.0,,1438133,tandem diabetes care inc,0,1,0,0,20200519,hansen brian b,143813320000059,EVP & CHIEF COMMERCIAL OFFICER,male,60102978.0
+4520.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200519,vosseller leigh,143813320000058,EVP & CHIEF FINANCIAL OFFICER,female,60102978.0
+3756.0,,1438133,tandem diabetes care inc,0,1,0,0,20200519,sheridan john f,143813320000061,PRESIDENT & CEO,male,60102978.0
+6256.0,,1438133,tandem diabetes care inc,0,1,0,0,20200519,morrison susan,143813320000057,EVP & Chief Admin. Officer,female,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200529,blickenstaff kim d,143813320000076,,female,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200529,twomey christopher j,143813320000079,,male,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200529,roeder douglas a,143813320000080,,male,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200529,allen dick,143813320000081,,male,60102978.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20200529,sheridan john f,143813320000075,PRESIDENT & CEO,male,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200529,robertson rebecca b,143813320000077,,female,60102978.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20200529,morrison susan,143813320000073,EVP & Chief Admin. Officer,female,60102978.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20200529,hansen brian b,143813320000072,EVP & CHIEF COMMERCIAL OFFICER,male,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200529,cahill edward l,143813320000071,,male,60102978.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20200529,berger david b,143813320000078,"EVP, Chief Legal & Compliance",male,60102978.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20200529,vosseller leigh,143813320000074,EVP & CHIEF FINANCIAL OFFICER,female,60102978.0
+4566.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200604,berger david b,143813320000086,"EVP, Chief Legal & Compliance",male,60102978.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200610,mcgroddy-goetz kathleen,143813320000092,,female,60102978.0
+584593.0,,1438133,tandem diabetes care inc,1,0,0,0,20200702,blickenstaff kim d,143813320000103,,female,60787000.0
+4520.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200702,vosseller leigh,143813320000102,EVP & CHIEF FINANCIAL OFFICER,female,60787000.0
+4566.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20200707,berger david b,143813320000105,"EVP, Chief Legal & Compliance",male,60787000.0
+20000.0,,1438133,tandem diabetes care inc,1,0,0,0,20200707,twomey christopher j,143813320000106,,male,60787000.0
+4520.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200707,vosseller leigh,143813320000104,EVP & CHIEF FINANCIAL OFFICER,female,60787000.0
+17500.0,,1438133,tandem diabetes care inc,1,0,0,0,20200804,twomey christopher j,143813320000123,,male,60906146.0
+4520.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20200804,vosseller leigh,143813320000122,EVP & CHIEF FINANCIAL OFFICER,female,60906146.0
+6256.0,,1438133,tandem diabetes care inc,0,1,0,0,20200804,morrison susan,143813320000124,EVP & Chief Admin. Officer,female,60906146.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20200804,howell peyton r,143813320000127,,male,60906146.0
+3756.0,,1438133,tandem diabetes care inc,0,1,0,0,20200804,sheridan john f,143813320000120,PRESIDENT & CEO,male,60906146.0
+4665.0,,1438133,tandem diabetes care inc,0,1,0,0,20200804,hansen brian b,143813320000121,EVP & CHIEF COMMERCIAL OFFICER,male,60906146.0
+873636.0,,1438133,tandem diabetes care inc,1,0,0,0,20200810,blickenstaff kim d,143813320000129,,female,60906146.0
+30000.0,9526.0,1438133,tandem diabetes care inc,1,0,0,0,20200810,allen dick,143813320000128,,male,60906146.0
+876322.0,,1438133,tandem diabetes care inc,1,0,0,0,20200812,blickenstaff kim d,143813320000130,,female,60906146.0
+885342.0,,1438133,tandem diabetes care inc,1,0,0,0,20200819,blickenstaff kim d,143813320000131,,female,60906146.0
+6256.0,,1438133,tandem diabetes care inc,0,1,0,0,20200901,morrison susan,143813320000134,EVP & Chief Admin. Officer,female,60906146.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20200904,robertson rebecca b,143813320000138,,female,60906146.0
+4665.0,,1438133,tandem diabetes care inc,0,1,0,0,20200904,hansen brian b,143813320000139,EVP & CHIEF COMMERCIAL OFFICER,male,60906146.0
+3756.0,,1438133,tandem diabetes care inc,0,1,0,0,20200917,sheridan john f,143813320000140,PRESIDENT & CEO,male,60906146.0
+4665.0,,1438133,tandem diabetes care inc,0,1,0,0,20200917,hansen brian b,143813320000141,EVP & CHIEF COMMERCIAL OFFICER,male,60906146.0
+4665.0,,1438133,tandem diabetes care inc,0,1,0,0,20200930,hansen brian b,143813320000142,EVP & CHIEF COMMERCIAL OFFICER,male,62116000.0
+4665.0,,1438133,tandem diabetes care inc,0,1,0,0,20201009,hansen brian b,143813320000143,EVP & CHIEF COMMERCIAL OFFICER,male,62116000.0
+3756.0,,1438133,tandem diabetes care inc,0,1,0,0,20201015,sheridan john f,143813320000144,PRESIDENT & CEO,male,62116000.0
+4520.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20201015,vosseller leigh,143813320000145,EVP & CHIEF FINANCIAL OFFICER,female,62116000.0
+4566.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20201015,berger david b,143813320000146,"EVP, Chief Legal & Compliance",male,62116000.0
+25000.0,9526.0,1438133,tandem diabetes care inc,1,0,0,0,20201112,allen dick,143813320000156,,male,62194609.0
+866390.0,,1438133,tandem diabetes care inc,1,0,0,0,20201112,blickenstaff kim d,143813320000157,,female,62194609.0
+849588.0,,1438133,tandem diabetes care inc,1,0,0,0,20201116,blickenstaff kim d,143813320000158,,female,62194609.0
+824588.0,,1438133,tandem diabetes care inc,1,0,0,0,20201203,blickenstaff kim d,143813320000164,,female,62194609.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20201203,robertson rebecca b,143813320000163,,female,62194609.0
+769738.0,,1438133,tandem diabetes care inc,1,0,0,0,20201210,blickenstaff kim d,143813320000166,,female,62194609.0
+760588.0,,1438133,tandem diabetes care inc,1,0,0,0,20201215,blickenstaff kim d,143813320000171,,female,62194609.0
+652390.0,,1438133,tandem diabetes care inc,1,0,0,0,20201217,blickenstaff kim d,143813320000172,,female,62194609.0
+5874.0,,1438133,tandem diabetes care inc,1,0,0,0,20210105,cahill edward l,143813321000004,,male,62335000.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210105,sodhi rajwant,143813321000003,,male,62335000.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20210303,robertson rebecca b,143813321000017,,female,62335000.0
+4566.0,200.0,1438133,tandem diabetes care inc,0,1,0,0,20210312,berger david b,143813321000019,"EVP, Chief Business/Compliance",male,62335000.0
+452390.0,,1438133,tandem diabetes care inc,1,0,0,0,20210317,blickenstaff kim d,143813321000021,,female,62335000.0
+14500.0,,1438133,tandem diabetes care inc,1,0,0,0,20210423,twomey christopher j,143813321000028,,male,62571000.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210520,robertson rebecca b,143813321000053,,female,62637925.0
+6552.0,,1438133,tandem diabetes care inc,0,1,0,0,20210520,morrison susan,143813321000057,EVP & Chief Admin. Officer,female,62637925.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210520,mcgroddy-goetz kathleen,143813321000038,,female,62637925.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210520,allen dick,143813321000040,,male,62637925.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210520,blickenstaff kim d,143813321000043,,female,62637925.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210520,sodhi rajwant,143813321000045,,male,62637925.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210520,howell peyton r,143813321000048,,male,62637925.0
+14523.0,,1438133,tandem diabetes care inc,1,0,0,0,20210520,twomey christopher j,143813321000050,,male,62637925.0
+4816.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20210520,vosseller leigh,143813321000055,EVP & CHIEF FINANCIAL OFFICER,female,62637925.0
+4961.0,,1438133,tandem diabetes care inc,0,1,0,0,20210520,hansen brian b,143813321000059,EVP & CHIEF COMMERCIAL OFFICER,male,62637925.0
+242.0,,1438133,tandem diabetes care inc,0,1,0,0,20210520,berger david b,143813321000060,"EVP, Chief Business/Compliance",male,62637925.0
+4052.0,,1438133,tandem diabetes care inc,1,1,0,0,20210520,sheridan john f,143813321000062,PRESIDENT & CEO,male,62637925.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20210521,roeder douglas a,143813321000064,,male,62637925.0
+7712.0,,1438133,tandem diabetes care inc,0,1,0,0,20210601,morrison susan,143813321000070,EVP & Chief Admin. Officer,female,62637925.0
+1892.0,,1438133,tandem diabetes care inc,1,0,0,0,20210601,robertson rebecca b,143813321000078,,female,62637925.0
+5879.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20210601,vosseller leigh,143813321000073,EVP & CHIEF FINANCIAL OFFICER,female,62637925.0
+6197.0,,1438133,tandem diabetes care inc,1,1,0,0,20210601,sheridan john f,143813321000068,PRESIDENT & CEO,male,62637925.0
+6059.0,,1438133,tandem diabetes care inc,0,1,0,0,20210601,hansen brian b,143813321000077,EVP & CHIEF COMMERCIAL OFFICER,male,62637925.0
+4042.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20210601,berger david b,143813321000084,"EVP, Chief Business/Compliance",male,62637925.0
+1892.0,452390.0,1438133,tandem diabetes care inc,1,0,0,0,20210601,blickenstaff kim d,143813321000081,,female,62637925.0
+1892.0,34555.0,1438133,tandem diabetes care inc,1,0,0,0,20210601,twomey christopher j,143813321000082,,male,62637925.0
+1892.0,34526.0,1438133,tandem diabetes care inc,1,0,0,0,20210601,allen dick,143813321000074,,male,62637925.0
+1892.0,1000000.0,1438133,tandem diabetes care inc,1,0,0,0,20210601,roeder douglas a,143813321000086,,male,62637925.0
+1892.0,,1438133,tandem diabetes care inc,1,0,0,0,20210603,robertson rebecca b,143813321000088,,female,62637925.0
+414390.0,,1438133,tandem diabetes care inc,1,0,0,0,20210610,blickenstaff kim d,143813321000096,,female,62637925.0
+1219.0,,1438133,tandem diabetes care inc,1,0,0,0,20210610,mcgroddy-goetz kathleen,143813321000095,,female,62637925.0
+1892.0,,1438133,tandem diabetes care inc,1,0,0,0,20210610,robertson rebecca b,143813321000098,,female,62637925.0
+26892.0,9526.0,1438133,tandem diabetes care inc,1,0,0,0,20210614,allen dick,143813321000100,,male,62637925.0
+402390.0,,1438133,tandem diabetes care inc,1,0,0,0,20210615,blickenstaff kim d,143813321000102,,female,62637925.0
+992222.0,9670.0,1438133,tandem diabetes care inc,1,0,0,0,20210625,roeder douglas a,143813321000104,,male,62637925.0
+3596.0,,1438133,tandem diabetes care inc,0,1,0,0,20210630,leal james,143813321000106,"SVP, Operations",male,62952000.0
+3596.0,,1438133,tandem diabetes care inc,0,1,0,0,20210729,leal james,143813321000108,"SVP, Operations",male,62952000.0
+11523.0,,1438133,tandem diabetes care inc,1,0,0,0,20210730,twomey christopher j,143813321000110,,male,63029361.0
+392.0,,1438133,tandem diabetes care inc,1,0,0,0,20210803,robertson rebecca b,143813321000114,,female,63029361.0
+5000.0,28892.0,1438133,tandem diabetes care inc,1,0,0,0,20210803,allen dick,143813321000112,,male,63029361.0
+948.0,,1438133,tandem diabetes care inc,1,0,0,0,20210805,howell peyton r,143813321000123,,male,63029361.0
+319590.0,,1438133,tandem diabetes care inc,1,0,0,0,20210810,blickenstaff kim d,143813321000125,,female,63029361.0
+6197.0,,1438133,tandem diabetes care inc,1,1,0,0,20210810,sheridan john f,143813321000127,PRESIDENT & CEO,male,63029361.0
+316380.0,,1438133,tandem diabetes care inc,1,0,0,0,20210812,blickenstaff kim d,143813321000129,,female,63029361.0
+252390.0,,1438133,tandem diabetes care inc,1,0,0,0,20210816,blickenstaff kim d,143813321000133,,female,63029361.0
+21892.0,7000.0,1438133,tandem diabetes care inc,1,0,0,0,20210816,allen dick,143813321000131,,male,63029361.0
+4042.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20210818,berger david b,143813321000137,"EVP, Chief Business/Compliance",male,63029361.0
+202390.0,,1438133,tandem diabetes care inc,1,0,0,0,20210818,blickenstaff kim d,143813321000135,,female,63029361.0
+7792.0,,1438133,tandem diabetes care inc,0,1,0,0,20210818,morrison susan,143813321000139,EVP & Chief Admin. Officer,female,63029361.0
+6610.0,,1438133,tandem diabetes care inc,1,1,0,0,20210831,sheridan john f,143813321000147,PRESIDENT & CEO,male,63029361.0
+4247.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20210831,berger david b,143813321000141,"EVP, Chief Business/Compliance",male,63029361.0
+6145.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20210831,vosseller leigh,143813321000143,EVP & CHIEF FINANCIAL OFFICER,female,63029361.0
+8082.0,,1438133,tandem diabetes care inc,0,1,0,0,20210831,morrison susan,143813321000145,EVP & Chief Admin. Officer,female,63029361.0
+1218.0,,1438133,tandem diabetes care inc,0,1,0,0,20210831,gasser elizabeth anne,143813321000149,"EVP, Chief Strategy Officer",female,63029361.0
+3751.0,,1438133,tandem diabetes care inc,0,1,0,0,20210831,leal james,143813321000151,"SVP, Operations",male,63029361.0
+6333.0,,1438133,tandem diabetes care inc,0,1,0,0,20210831,hansen brian b,143813321000153,EVP & CHIEF COMMERCIAL OFFICER,male,63029361.0
+231090.0,,1438133,tandem diabetes care inc,1,0,0,0,20210831,blickenstaff kim d,143813321000155,,female,63029361.0
+202390.0,,1438133,tandem diabetes care inc,1,0,0,0,20210903,blickenstaff kim d,143813321000157,,female,63029361.0
+7836.0,,1438133,tandem diabetes care inc,1,0,0,0,20210903,twomey christopher j,143813321000159,,male,63029361.0
+5032.0,7523.0,1438133,tandem diabetes care inc,1,0,0,0,20210909,twomey christopher j,143813321000161,,male,63029361.0
+3751.0,,1438133,tandem diabetes care inc,0,1,0,0,20210909,leal james,143813321000163,"SVP, Operations",male,63029361.0
+6145.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20210915,vosseller leigh,143813321000167,EVP & CHIEF FINANCIAL OFFICER,female,63029361.0
+6333.0,,1438133,tandem diabetes care inc,0,1,0,0,20210915,hansen brian b,143813321000165,EVP & CHIEF COMMERCIAL OFFICER,male,63029361.0
+6145.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20210917,vosseller leigh,143813321000176,EVP & CHIEF FINANCIAL OFFICER,female,63029361.0
+4247.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20210917,berger david b,143813321000174,"EVP, Bus Ops & Compliance",male,63029361.0
+3751.0,,1438133,tandem diabetes care inc,0,1,0,0,20210929,leal james,143813321000178,"SVP, Operations",male,63029361.0
+4247.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20211004,berger david b,143813321000180,"EVP, Bus Ops & Compliance",male,63451000.0
+8082.0,,1438133,tandem diabetes care inc,0,1,0,0,20211014,morrison susan,143813321000186,EVP & Chief Admin. Officer,female,63451000.0
+4247.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20211014,berger david b,143813321000182,"EVP, Bus Ops & Compliance",male,63451000.0
+6145.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20211014,vosseller leigh,143813321000184,EVP & CHIEF FINANCIAL OFFICER,female,63451000.0
+3766.0,,1438133,tandem diabetes care inc,1,0,0,0,20211020,roeder douglas a,110465921128113,,male,63451000.0
+3751.0,,1438133,tandem diabetes care inc,0,1,0,0,20211028,leal james,143813321000188,"SVP, Operations",male,63451000.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20211103,robertson rebecca b,143813321000199,,female,63532716.0
+4247.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20211103,berger david b,143813321000197,"EVP, Bus Ops & Compliance",male,63532716.0
+8082.0,,1438133,tandem diabetes care inc,0,1,0,0,20211105,morrison susan,143813321000205,EVP & Chief Admin. Officer,female,63532716.0
+243.0,,1438133,tandem diabetes care inc,0,1,0,0,20211105,gasser elizabeth anne,143813321000203,"EVP, Chief Strategy Officer",female,63532716.0
+6145.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20211105,vosseller leigh,143813321000201,EVP & CHIEF FINANCIAL OFFICER,female,63532716.0
+3852.0,,1438133,tandem diabetes care inc,0,1,0,0,20211117,leal james,143813321000207,"SVP, Operations",male,63532716.0
+8082.0,,1438133,tandem diabetes care inc,0,1,0,0,20211117,morrison susan,143813321000209,EVP & Chief Admin. Officer,female,63532716.0
+8310.0,,1438133,tandem diabetes care inc,0,1,0,0,20211201,morrison susan,143813321000220,EVP & Chief Admin. Officer,female,63532716.0
+431.0,,1438133,tandem diabetes care inc,0,1,0,0,20211201,gasser elizabeth anne,143813321000218,"EVP, Chief Strategy Officer",female,63532716.0
+4451.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20211201,berger david b,143813321000216,"EVP, Bus Ops & Compliance",male,63532716.0
+6546.0,,1438133,tandem diabetes care inc,0,1,0,0,20211201,hansen brian b,143813321000214,EVP & CHIEF COMMERCIAL OFFICER,male,63532716.0
+4008.0,,1438133,tandem diabetes care inc,0,1,0,0,20211201,leal james,143813321000226,"SVP, Operations",male,63532716.0
+7023.0,,1438133,tandem diabetes care inc,1,1,0,0,20211201,sheridan john f,143813321000224,PRESIDENT & CEO,male,63532716.0
+6349.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20211201,vosseller leigh,143813321000222,EVP & CHIEF FINANCIAL OFFICER,female,63532716.0
+431.0,,1438133,tandem diabetes care inc,0,1,0,0,20211209,gasser elizabeth anne,143813321000228,"EVP, Chief Strategy Officer",female,63532716.0
+4451.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20211217,berger david b,143813321000230,"EVP, Bus Ops & Compliance",male,63532716.0
+431.0,,1438133,tandem diabetes care inc,0,1,0,0,20211229,gasser elizabeth anne,143813321000234,"EVP, Chief Strategy Officer",female,63532716.0
+4008.0,,1438133,tandem diabetes care inc,0,1,0,0,20211229,leal james,143813321000232,"SVP, Operations",male,63532716.0
+1069.0,,1438133,tandem diabetes care inc,1,0,0,0,20220105,sodhi rajwant,143813322000004,,male,63833000.0
+4451.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220105,berger david b,143813322000002,"EVP, Bus Ops & Compliance",male,63833000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220127,carpenter rick,143813322000006,Chief Technical Officer,male,63833000.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20220203,robertson rebecca b,143813322000010,,female,63833000.0
+4451.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220203,berger david b,143813322000008,"EVP, Bus Ops & Compliance",male,63833000.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220217,hansen shannon marie,143813322000016,SVP & General Counsel,female,63833000.0
+650.0,,1438133,tandem diabetes care inc,0,1,0,0,20220302,gasser elizabeth anne,143813322000023,"EVP, Chief Strategy Officer",female,63833000.0
+6618.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20220302,vosseller leigh,143813322000029,EVP & CHIEF FINANCIAL OFFICER,female,63833000.0
+6807.0,,1438133,tandem diabetes care inc,0,1,0,0,20220302,hansen brian b,143813322000031,EVP & CHIEF COMMERCIAL OFFICER,male,63833000.0
+8606.0,,1438133,tandem diabetes care inc,0,1,0,0,20220302,morrison susan,143813322000033,EVP & Chief Admin. Officer,female,63833000.0
+4717.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220302,berger david b,143813322000035,EVP & Chief Operating Officer,male,63833000.0
+7558.0,,1438133,tandem diabetes care inc,1,1,0,0,20220302,sheridan john f,143813322000027,PRESIDENT & CEO,male,63833000.0
+4170.0,,1438133,tandem diabetes care inc,0,1,0,0,20220302,leal james,143813322000025,"SVP, Operations",male,63833000.0
+814.0,,1438133,tandem diabetes care inc,1,0,0,0,20220316,mcgroddy-goetz kathleen,143813322000039,,female,63833000.0
+4717.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220321,berger david b,143813322000041,EVP & Chief Operating Officer,male,63833000.0
+4717.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220405,berger david b,143813322000046,EVP & Chief Operating Officer,male,63941000.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20220504,robertson rebecca b,143813322000062,,female,63962732.0
+0.0,,1438133,tandem diabetes care inc,1,0,0,0,20220504,robertson rebecca b,143813322000063,,female,63962732.0
+7568.0,,1438133,tandem diabetes care inc,1,0,0,0,20220510,twomey christopher j,143813322000065,,male,63962732.0
+2948.0,,1438133,tandem diabetes care inc,1,0,0,0,20220510,howell peyton r,143813322000067,,male,63962732.0
+10058.0,,1438133,tandem diabetes care inc,1,1,0,0,20220510,sheridan john f,143813322000069,PRESIDENT & CEO,male,63962732.0
+9118.0,145.0,1438133,tandem diabetes care inc,0,1,0,0,20220510,vosseller leigh,143813322000071,EVP & CHIEF FINANCIAL OFFICER,female,63962732.0
+5350.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220518,berger david b,143813322000079,EVP & Chief Operating Officer,male,63962732.0
+7552.0,,1438133,tandem diabetes care inc,0,1,0,0,20220518,hansen brian b,143813322000075,EVP & CHIEF COMMERCIAL OFFICER,male,63962732.0
+4852.0,,1438133,tandem diabetes care inc,0,1,0,0,20220518,leal james,143813322000085,"SVP, Operations",male,63962732.0
+7349.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20220518,vosseller leigh,143813322000083,EVP & CHIEF FINANCIAL OFFICER,female,63962732.0
+9376.0,,1438133,tandem diabetes care inc,0,1,0,0,20220518,morrison susan,143813322000081,EVP & Chief Admin. Officer,female,63962732.0
+1075.0,,1438133,tandem diabetes care inc,0,1,0,0,20220518,gasser elizabeth anne,143813322000073,"EVP, Chief Strategy Officer",female,63962732.0
+11962.0,,1438133,tandem diabetes care inc,1,1,0,0,20220518,sheridan john f,143813322000077,PRESIDENT & CEO,male,63962732.0
+1804.0,,1438133,tandem diabetes care inc,1,0,0,0,20220519,sodhi rajwant,143813322000101,,male,63962732.0
+2835.0,,1438133,tandem diabetes care inc,1,0,0,0,20220519,mcgroddy-goetz kathleen,143813322000099,,female,63962732.0
+4601.0,,1438133,tandem diabetes care inc,1,0,0,0,20220519,howell peyton r,143813322000097,,male,63962732.0
+2205.0,,1438133,tandem diabetes care inc,1,0,0,0,20220519,robertson rebecca b,143813322000095,,female,63962732.0
+2205.0,5658.0,1438133,tandem diabetes care inc,1,0,0,0,20220519,roeder douglas a,143813322000093,,male,63962732.0
+4097.0,12680.0,1438133,tandem diabetes care inc,1,0,0,0,20220519,twomey christopher j,143813322000091,,male,63962732.0
+2205.0,28892.0,1438133,tandem diabetes care inc,1,0,0,0,20220519,allen dick,143813322000089,,male,63962732.0
+205190.0,,1438133,tandem diabetes care inc,1,0,0,0,20220519,blickenstaff kim d,143813322000087,,female,63962732.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20220527,mcgroddy-goetz kathleen,143813322000119,,female,63962732.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220527,hansen brian b,143813322000134,EVP & CHIEF COMMERCIAL OFFICER,male,63962732.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220527,carpenter rick,143813322000110,Chief Technical Officer,male,63962732.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20220527,sodhi rajwant,143813322000112,,male,63962732.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20220527,howell peyton r,143813322000115,,male,63962732.0
+,205190.0,1438133,tandem diabetes care inc,1,0,0,0,20220527,blickenstaff kim d,143813322000118,,female,63962732.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220527,leal james,143813322000123,"SVP, Operations",male,63962732.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220527,gasser elizabeth anne,143813322000124,"EVP, Chief Strategy Officer",female,63962732.0
+,28892.0,1438133,tandem diabetes care inc,1,0,0,0,20220527,allen dick,143813322000125,,male,63962732.0
+,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220527,berger david b,143813322000128,EVP & Chief Operating Officer,male,63962732.0
+,12680.0,1438133,tandem diabetes care inc,1,0,0,0,20220527,twomey christopher j,143813322000129,,male,63962732.0
+,,1438133,tandem diabetes care inc,1,1,0,0,20220527,sheridan john f,143813322000135,PRESIDENT & CEO,male,63962732.0
+,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20220527,vosseller leigh,143813322000136,EVP & CHIEF FINANCIAL OFFICER,female,63962732.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20220527,morrison susan,143813322000137,EVP & Chief Admin. Officer,female,63962732.0
+5024.0,,1438133,tandem diabetes care inc,0,1,0,0,20220601,leal james,143813322000149,"SVP, Operations",male,63962732.0
+12375.0,,1438133,tandem diabetes care inc,1,1,0,0,20220601,sheridan john f,143813322000153,PRESIDENT & CEO,male,63962732.0
+7614.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20220601,vosseller leigh,143813322000155,EVP & CHIEF FINANCIAL OFFICER,female,63962732.0
+9665.0,,1438133,tandem diabetes care inc,0,1,0,0,20220601,morrison susan,143813322000151,EVP & Chief Admin. Officer,female,63962732.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20220601,robertson rebecca b,143813322000141,,female,63962732.0
+7826.0,,1438133,tandem diabetes care inc,0,1,0,0,20220601,hansen brian b,143813322000147,EVP & CHIEF COMMERCIAL OFFICER,male,63962732.0
+5554.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220601,berger david b,143813322000143,EVP & Chief Operating Officer,male,63962732.0
+1319.0,,1438133,tandem diabetes care inc,0,1,0,0,20220601,gasser elizabeth anne,143813322000145,"EVP, Chief Strategy Officer",female,63962732.0
+2457.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220610,berger david b,143813322000159,EVP & Chief Operating Officer,male,63962732.0
+4055.0,,1438133,tandem diabetes care inc,1,0,0,0,20220610,mcgroddy-goetz kathleen,143813322000158,,female,63962732.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20220617,cha myoungil,143813322000167,,male,63962732.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20220712,malagueira joao paulo falcao,143813322000171,,male,64210000.0
+5550.0,,1438133,tandem diabetes care inc,1,0,0,0,20220805,howell peyton r,143813322000183,,male,64221212.0
+7719.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20220817,vosseller leigh,143813322000197,EVP & CHIEF FINANCIAL OFFICER,female,64221212.0
+12774.0,,1438133,tandem diabetes care inc,1,1,0,0,20220817,sheridan john f,143813322000195,PRESIDENT & CEO,male,64221212.0
+9780.0,,1438133,tandem diabetes care inc,0,1,0,0,20220817,morrison susan,143813322000193,EVP & Chief Admin. Officer,female,64221212.0
+5117.0,,1438133,tandem diabetes care inc,0,1,0,0,20220817,leal james,143813322000191,"SVP, Operations",male,64221212.0
+7935.0,,1438133,tandem diabetes care inc,0,1,0,0,20220817,hansen brian b,143813322000189,EVP & CHIEF COMMERCIAL OFFICER,male,64221212.0
+1424.0,,1438133,tandem diabetes care inc,0,1,0,0,20220817,gasser elizabeth anne,143813322000187,"EVP, Chief Strategy Officer",female,64221212.0
+2538.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220817,berger david b,143813322000185,EVP & Chief Operating Officer,male,64221212.0
+13187.0,,1438133,tandem diabetes care inc,1,1,0,0,20220831,sheridan john f,143813322000209,PRESIDENT & CEO,male,64221212.0
+10070.0,,1438133,tandem diabetes care inc,0,1,0,0,20220831,morrison susan,143813322000207,EVP & Chief Admin. Officer,female,64221212.0
+5288.0,,1438133,tandem diabetes care inc,0,1,0,0,20220831,leal james,143813322000205,"SVP, Operations",male,64221212.0
+8209.0,,1438133,tandem diabetes care inc,0,1,0,0,20220831,hansen brian b,143813322000203,EVP & CHIEF COMMERCIAL OFFICER,male,64221212.0
+1668.0,,1438133,tandem diabetes care inc,0,1,0,0,20220831,gasser elizabeth anne,143813322000201,"EVP, Chief Strategy Officer",female,64221212.0
+2743.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20220831,berger david b,143813322000199,EVP & Chief Operating Officer,male,64221212.0
+7985.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20220831,vosseller leigh,143813322000211,EVP & CHIEF FINANCIAL OFFICER,female,64221212.0
+10186.0,,1438133,tandem diabetes care inc,0,1,0,0,20221117,morrison susan,143813322000235,EVP & Chief Admin. Officer,female,64298785.0
+333.0,,1438133,tandem diabetes care inc,0,1,0,0,20221117,carpenter rick,143813322000225,Chief Technical Officer,male,64298785.0
+8320.0,,1438133,tandem diabetes care inc,0,1,0,0,20221117,hansen brian b,143813322000229,EVP & CHIEF COMMERCIAL OFFICER,male,64298785.0
+334.0,,1438133,tandem diabetes care inc,0,1,0,0,20221117,hansen shannon marie,143813322000231,SVP & General Counsel,female,64298785.0
+5380.0,,1438133,tandem diabetes care inc,0,1,0,0,20221117,leal james,143813322000233,"SVP, Operations",male,64298785.0
+13586.0,,1438133,tandem diabetes care inc,1,1,0,0,20221117,sheridan john f,143813322000237,PRESIDENT & CEO,male,64298785.0
+8091.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20221117,vosseller leigh,143813322000239,EVP & CHIEF FINANCIAL OFFICER,female,64298785.0
+2825.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20221117,berger david b,143813322000223,EVP & Chief Operating Officer,male,64298785.0
+1774.0,,1438133,tandem diabetes care inc,0,1,0,0,20221117,gasser elizabeth anne,143813322000227,"EVP, Chief Strategy Officer",female,64298785.0
+3029.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20221130,berger david b,143813322000241,EVP & Chief Operating Officer,male,64298785.0
+5552.0,,1438133,tandem diabetes care inc,0,1,0,0,20221130,leal james,143813322000247,"SVP, Operations",male,64298785.0
+10475.0,,1438133,tandem diabetes care inc,0,1,0,0,20221130,morrison susan,143813322000249,EVP & Chief Admin. Officer,female,64298785.0
+13999.0,,1438133,tandem diabetes care inc,1,1,0,0,20221130,sheridan john f,143813322000251,PRESIDENT & CEO,male,64298785.0
+8356.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20221130,vosseller leigh,143813322000253,EVP & CHIEF FINANCIAL OFFICER,female,64298785.0
+8594.0,,1438133,tandem diabetes care inc,0,1,0,0,20221130,hansen brian b,143813322000245,EVP & CHIEF COMMERCIAL OFFICER,male,64298785.0
+2017.0,,1438133,tandem diabetes care inc,0,1,0,0,20221130,gasser elizabeth anne,143813322000243,"EVP, Chief Strategy Officer",female,64298785.0
+1395.0,,1438133,tandem diabetes care inc,0,1,0,0,20221219,carpenter rick,143813322000259,Chief Technical Officer,male,64298785.0
+3029.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20221219,berger david b,143813322000261,EVP & Chief Operating Officer,male,64298785.0
+2873.0,,1438133,tandem diabetes care inc,1,0,0,0,20230106,sodhi rajwant,143813323000002,,male,64513000.0
+3124.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230217,berger david b,143813323000010,EVP & Chief Operating Officer,male,64513000.0
+8694.0,,1438133,tandem diabetes care inc,0,1,0,0,20230217,hansen brian b,143813323000014,EVP & CHIEF COMMERCIAL OFFICER,male,64513000.0
+2112.0,,1438133,tandem diabetes care inc,0,1,0,0,20230217,gasser elizabeth anne,143813323000012,"EVP, Chief Strategy Officer",female,64513000.0
+1591.0,,1438133,tandem diabetes care inc,0,1,0,0,20230217,hansen shannon marie,143813323000016,SVP & General Counsel,female,64513000.0
+5641.0,,1438133,tandem diabetes care inc,0,1,0,0,20230217,leal james,143813323000018,"SVP, Operations",male,64513000.0
+10582.0,,1438133,tandem diabetes care inc,0,1,0,0,20230217,morrison susan,143813323000020,EVP & Chief Admin. Officer,female,64513000.0
+14468.0,,1438133,tandem diabetes care inc,1,1,0,0,20230217,sheridan john f,143813323000022,PRESIDENT & CEO,male,64513000.0
+8451.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20230217,vosseller leigh,143813323000024,EVP & CHIEF FINANCIAL OFFICER,female,64513000.0
+14979.0,,1438133,tandem diabetes care inc,1,1,0,0,20230301,sheridan john f,143813323000046,PRESIDENT & CEO,male,64513000.0
+3365.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230301,berger david b,143813323000036,EVP & Chief Operating Officer,male,64513000.0
+2332.0,,1438133,tandem diabetes care inc,0,1,0,0,20230301,gasser elizabeth anne,143813323000038,"EVP, Chief Strategy Officer",female,64513000.0
+8692.0,2645.0,1438133,tandem diabetes care inc,0,1,0,0,20230301,vosseller leigh,143813323000048,EVP & CHIEF FINANCIAL OFFICER,female,64513000.0
+8947.0,,1438133,tandem diabetes care inc,0,1,0,0,20230301,hansen brian b,143813323000040,EVP & CHIEF COMMERCIAL OFFICER,male,64513000.0
+10851.0,,1438133,tandem diabetes care inc,0,1,0,0,20230301,morrison susan,143813323000044,EVP & Chief Admin. Officer,female,64513000.0
+5806.0,,1438133,tandem diabetes care inc,0,1,0,0,20230301,leal james,143813323000042,"SVP, Operations",male,64513000.0
+3365.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230307,berger david b,143813323000050,EVP & Chief Operating Officer,male,64513000.0
+1663.0,,1438133,tandem diabetes care inc,0,1,0,0,20230317,carpenter rick,143813323000052,Chief Technical Officer,male,64513000.0
+5660.0,,1438133,tandem diabetes care inc,0,1,0,0,20230516,vosseller leigh,143813323000070,EVP & CHIEF FINANCIAL OFFICER,female,64621839.0
+2570.0,,1438133,tandem diabetes care inc,0,1,0,0,20230517,hansen shannon marie,143813323000085,SVP & General Counsel,female,64621839.0
+8415.0,,1438133,tandem diabetes care inc,0,1,0,0,20230517,leal james,143813323000080,Chief Manufacturing Officer,male,64621839.0
+10672.0,5660.0,1438133,tandem diabetes care inc,0,1,0,0,20230517,vosseller leigh,143813323000081,EVP & CHIEF FINANCIAL OFFICER,female,64621839.0
+3679.0,,1438133,tandem diabetes care inc,0,1,0,0,20230517,gasser elizabeth anne,143813323000082,"EVP, Chief Strategy Officer",female,64621839.0
+21908.0,,1438133,tandem diabetes care inc,1,1,0,0,20230517,sheridan john f,143813323000088,PRESIDENT & CEO,male,64621839.0
+12958.0,,1438133,tandem diabetes care inc,0,1,0,0,20230517,morrison susan,143813323000087,EVP & Chief Admin. Officer,female,64621839.0
+3675.0,,1438133,tandem diabetes care inc,0,1,0,0,20230517,carpenter rick,143813323000083,Chief Technical Officer,male,64621839.0
+10957.0,,1438133,tandem diabetes care inc,0,1,0,0,20230517,hansen brian b,143813323000084,EVP & CHIEF COMMERCIAL OFFICER,male,64621839.0
+4712.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230517,berger david b,143813323000086,EVP & Chief Operating Officer,male,64621839.0
+8550.0,,1438133,tandem diabetes care inc,1,0,0,0,20230519,howell peyton r,143813323000090,,male,64621839.0
+0.0,27892.0,1438133,tandem diabetes care inc,1,0,0,0,20230522,allen dick,143813323000092,,male,64621839.0
+13414.0,205190.0,1438133,tandem diabetes care inc,1,0,0,0,20230526,blickenstaff kim d,143813323000111,,female,64621839.0
+11307.0,,1438133,tandem diabetes care inc,1,0,0,0,20230526,howell peyton r,143813323000106,,male,64621839.0
+6812.0,,1438133,tandem diabetes care inc,1,0,0,0,20230526,mcgroddy-goetz kathleen,143813323000107,,female,64621839.0
+6854.0,12680.0,1438133,tandem diabetes care inc,1,0,0,0,20230526,twomey christopher j,143813323000108,,male,64621839.0
+4962.0,,1438133,tandem diabetes care inc,1,0,0,0,20230526,robertson rebecca b,143813323000109,,female,64621839.0
+5630.0,,1438133,tandem diabetes care inc,1,0,0,0,20230526,sodhi rajwant,143813323000110,,male,64621839.0
+14962.0,27892.0,1438133,tandem diabetes care inc,1,0,0,0,20230526,allen dick,143813323000112,,male,64621839.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20230526,cha myoungil,143813323000105,,male,64621839.0
+,,1438133,tandem diabetes care inc,1,0,0,0,20230526,malagueira joao paulo falcao,143813323000104,,male,64621839.0
+8596.0,,1438133,tandem diabetes care inc,0,1,0,0,20230530,leal james,143813323000125,Chief Manufacturing Officer,male,64621839.0
+22444.0,,1438133,tandem diabetes care inc,1,1,0,0,20230530,sheridan john f,143813323000123,PRESIDENT & CEO,male,64621839.0
+4977.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230530,berger david b,143813323000126,EVP & Chief Operating Officer,male,64621839.0
+13248.0,,1438133,tandem diabetes care inc,0,1,0,0,20230530,morrison susan,143813323000127,EVP & Chief Admin. Officer,female,64621839.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20230530,carpenter rick,143813323000128,Chief Technical Officer,male,64621839.0
+3923.0,,1438133,tandem diabetes care inc,0,1,0,0,20230530,gasser elizabeth anne,143813323000129,"EVP, Chief Strategy Officer",female,64621839.0
+11228.0,,1438133,tandem diabetes care inc,0,1,0,0,20230530,hansen brian b,143813323000130,EVP & CHIEF COMMERCIAL OFFICER,male,64621839.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20230530,hansen shannon marie,143813323000131,SVP & General Counsel,female,64621839.0
+10937.0,5660.0,1438133,tandem diabetes care inc,0,1,0,0,20230530,vosseller leigh,143813323000124,EVP & CHIEF FINANCIAL OFFICER,female,64621839.0
+8032.0,,1438133,tandem diabetes care inc,1,0,0,0,20230612,mcgroddy-goetz kathleen,143813323000135,,female,64621839.0
+3940.0,,1438133,tandem diabetes care inc,0,1,0,0,20230616,carpenter rick,143813323000139,Chief Technical Officer,male,64621839.0
+1749.0,,1438133,tandem diabetes care inc,1,0,0,0,20230616,malagueira joao paulo falcao,143813323000140,,male,64621839.0
+1749.0,,1438133,tandem diabetes care inc,1,0,0,0,20230616,cha myoungil,143813323000141,,male,64621839.0
+12256.0,,1438133,tandem diabetes care inc,1,0,0,0,20230807,howell peyton r,143813323000157,,male,65077705.0
+4338.0,,1438133,tandem diabetes care inc,0,1,0,0,20230817,gasser elizabeth anne,143813323000170,"EVP, Chief Strategy Officer",female,65077705.0
+5392.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230817,berger david b,143813323000159,EVP & Chief Operating Officer,male,65077705.0
+2917.0,,1438133,tandem diabetes care inc,0,1,0,0,20230817,hansen shannon marie,143813323000161,SVP & General Counsel,female,65077705.0
+4329.0,,1438133,tandem diabetes care inc,0,1,0,0,20230817,carpenter rick,143813323000164,Chief Technical Officer,male,65077705.0
+11352.0,5660.0,1438133,tandem diabetes care inc,0,1,0,0,20230817,vosseller leigh,143813323000166,EVP & CHIEF FINANCIAL OFFICER,female,65077705.0
+24425.0,,1438133,tandem diabetes care inc,1,1,0,0,20230817,sheridan john f,143813323000168,PRESIDENT & CEO,male,65077705.0
+11653.0,,1438133,tandem diabetes care inc,0,1,0,0,20230817,hansen brian b,143813323000172,EVP & CHIEF COMMERCIAL OFFICER,male,65077705.0
+13702.0,,1438133,tandem diabetes care inc,0,1,0,0,20230817,morrison susan,143813323000176,EVP & Chief Admin. Officer,female,65077705.0
+9165.0,,1438133,tandem diabetes care inc,0,1,0,0,20230817,leal james,143813323000174,Chief Manufacturing Officer,male,65077705.0
+24961.0,,1438133,tandem diabetes care inc,1,1,0,0,20230830,sheridan john f,143813323000188,PRESIDENT & CEO,male,65077705.0
+4581.0,,1438133,tandem diabetes care inc,0,1,0,0,20230830,gasser elizabeth anne,143813323000194,"EVP, Chief Strategy Officer",female,65077705.0
+13993.0,,1438133,tandem diabetes care inc,0,1,0,0,20230830,morrison susan,143813323000193,EVP & Chief Admin. Officer,female,65077705.0
+11618.0,5660.0,1438133,tandem diabetes care inc,0,1,0,0,20230830,vosseller leigh,143813323000192,EVP & CHIEF FINANCIAL OFFICER,female,65077705.0
+9346.0,,1438133,tandem diabetes care inc,0,1,0,0,20230830,leal james,143813323000191,Chief Manufacturing Officer,male,65077705.0
+5658.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20230830,berger david b,143813323000187,EVP & Chief Operating Officer,male,65077705.0
+11925.0,,1438133,tandem diabetes care inc,0,1,0,0,20230830,hansen brian b,143813323000189,EVP & CHIEF COMMERCIAL OFFICER,male,65077705.0
+9032.0,,1438133,tandem diabetes care inc,1,0,0,0,20230919,mcgroddy-goetz kathleen,143813323000197,,female,65077705.0
+4594.0,,1438133,tandem diabetes care inc,0,1,0,0,20230919,carpenter rick,143813323000198,Chief Technical Officer,male,65077705.0
+11860.0,,1438133,tandem diabetes care inc,0,1,0,0,20231113,vosseller leigh,143813323000214,EVP & CHIEF FINANCIAL OFFICER,female,65209703.0
+1935.0,,1438133,tandem diabetes care inc,0,1,0,0,20231113,hansen shannon marie,143813323000213,Chief Legal Officer,female,65209703.0
+27039.0,,1438133,tandem diabetes care inc,1,1,0,0,20231117,sheridan john f,143813323000232,PRESIDENT & CEO,male,65209703.0
+6073.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20231117,berger david b,143813323000227,EVP & Chief Operating Officer,male,65209703.0
+12034.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20231117,vosseller leigh,143813323000228,EVP & CHIEF FINANCIAL OFFICER,female,65209703.0
+5224.0,,1438133,tandem diabetes care inc,0,1,0,0,20231117,carpenter rick,143813323000225,Chief Technology Officer,male,65209703.0
+3263.0,1935.0,1438133,tandem diabetes care inc,0,1,0,0,20231117,hansen shannon marie,143813323000229,Chief Legal Officer,female,65209703.0
+12351.0,,1438133,tandem diabetes care inc,0,1,0,0,20231117,hansen brian b,143813323000230,EVP & CHIEF COMMERCIAL OFFICER,male,65209703.0
+9932.0,,1438133,tandem diabetes care inc,0,1,0,0,20231117,leal james,143813323000231,Chief Manufacturing Officer,male,65209703.0
+14447.0,,1438133,tandem diabetes care inc,0,1,0,0,20231117,morrison susan,143813323000233,EVP & Chief Admin. Officer,female,65209703.0
+5561.0,,1438133,tandem diabetes care inc,0,1,0,0,20231117,gasser elizabeth anne,143813323000226,"EVP, Chief Strategy Officer",female,65209703.0
+19962.0,27892.0,1438133,tandem diabetes care inc,1,0,0,0,20231129,allen dick,143813323000250,,male,65209703.0
+12622.0,,1438133,tandem diabetes care inc,0,1,0,0,20231129,hansen brian b,143813323000245,EVP & CHIEF COMMERCIAL OFFICER,male,65209703.0
+5805.0,,1438133,tandem diabetes care inc,0,1,0,0,20231129,gasser elizabeth anne,143813323000246,"EVP, Chief Strategy Officer",female,65209703.0
+10113.0,,1438133,tandem diabetes care inc,0,1,0,0,20231129,leal james,143813323000247,Chief Manufacturing Officer,male,65209703.0
+27575.0,,1438133,tandem diabetes care inc,1,1,0,0,20231129,sheridan john f,143813323000248,PRESIDENT & CEO,male,65209703.0
+6338.0,242.0,1438133,tandem diabetes care inc,0,1,0,0,20231129,berger david b,143813323000249,EVP & Chief Operating Officer,male,65209703.0
+14737.0,,1438133,tandem diabetes care inc,0,1,0,0,20231129,morrison susan,143813323000244,EVP & Chief Admin. Officer,female,65209703.0
+12299.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20231129,vosseller leigh,143813323000243,EVP & CHIEF FINANCIAL OFFICER,female,65209703.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20231219,novara mark david,143813323000258,EVP & CHIEF COMMERCIAL OFFICER,male,65209703.0
+5489.0,,1438133,tandem diabetes care inc,0,1,0,0,20231219,carpenter rick,143813323000257,Chief Technology Officer,male,65209703.0
+6700.0,,1438133,tandem diabetes care inc,1,0,0,0,20240108,sodhi rajwant,143813324000002,,male,65552000.0
+5840.0,,1438133,tandem diabetes care inc,0,1,0,0,20240220,carpenter rick,143813324000015,Chief Technology Officer,male,65552000.0
+12675.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20240220,vosseller leigh,143813324000014,EVP & CHIEF FINANCIAL OFFICER,female,65552000.0
+10632.0,,1438133,tandem diabetes care inc,0,1,0,0,20240220,leal james,143813324000013,Chief Manufacturing Officer,male,65552000.0
+29362.0,,1438133,tandem diabetes care inc,1,1,0,0,20240220,sheridan john f,143813324000011,PRESIDENT & CEO,male,65552000.0
+3576.0,1935.0,1438133,tandem diabetes care inc,0,1,0,0,20240220,hansen shannon marie,143813324000010,Chief Legal Officer,female,65552000.0
+15157.0,,1438133,tandem diabetes care inc,0,1,0,0,20240220,morrison susan,143813324000016,EVP & Chief Admin. Officer,female,65552000.0
+6181.0,,1438133,tandem diabetes care inc,0,1,0,0,20240220,gasser elizabeth anne,143813324000012,"EVP, Chief Strategy Officer",female,65552000.0
+10816.0,,1438133,tandem diabetes care inc,0,1,0,0,20240229,leal james,143813324000034,Chief Manufacturing Officer,male,65552000.0
+6423.0,,1438133,tandem diabetes care inc,0,1,0,0,20240229,gasser elizabeth anne,143813324000035,"EVP, Chief Strategy Officer",female,65552000.0
+12940.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20240229,vosseller leigh,143813324000036,EVP & CHIEF FINANCIAL OFFICER,female,65552000.0
+29888.0,,1438133,tandem diabetes care inc,1,1,0,0,20240229,sheridan john f,143813324000037,PRESIDENT & CEO,male,65552000.0
+15451.0,,1438133,tandem diabetes care inc,0,1,0,0,20240229,morrison susan,143813324000038,EVP & Chief Admin. Officer,female,65552000.0
+6100.0,,1438133,tandem diabetes care inc,0,1,0,0,20240319,carpenter rick,143813324000044,Chief Technology Officer,male,65552000.0
+10975.0,,1438133,tandem diabetes care inc,0,1,0,0,20240517,carpenter rick,143813324000100,Chief Technology Officer,male,64589518.0
+45171.0,,1438133,tandem diabetes care inc,1,1,0,0,20240517,sheridan john f,143813324000096,PRESIDENT & CEO,male,64589518.0
+16695.0,,1438133,tandem diabetes care inc,0,1,0,0,20240517,leal james,143813324000097,Chief Manufacturing Officer,male,64589518.0
+8413.0,1935.0,1438133,tandem diabetes care inc,0,1,0,0,20240517,hansen shannon marie,143813324000098,Chief Legal Officer,female,64589518.0
+18572.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20240517,vosseller leigh,143813324000099,EVP & CHIEF FINANCIAL OFFICER,female,64589518.0
+21556.0,,1438133,tandem diabetes care inc,0,1,0,0,20240517,morrison susan,143813324000101,EVP & Chief Admin. Officer,female,64589518.0
+11510.0,,1438133,tandem diabetes care inc,0,1,0,0,20240517,gasser elizabeth anne,143813324000102,"EVP, Chief Strategy Officer",female,64589518.0
+11288.0,12680.0,1438133,tandem diabetes care inc,1,0,0,0,20240524,twomey christopher j,143813324000125,,male,64589518.0
+13466.0,,1438133,tandem diabetes care inc,1,0,0,0,20240524,mcgroddy-goetz kathleen,143813324000124,,female,64589518.0
+5814.0,,1438133,tandem diabetes care inc,1,0,0,0,20240524,malagueira joao paulo falcao,143813324000123,,male,64589518.0
+11134.0,,1438133,tandem diabetes care inc,1,0,0,0,20240524,sodhi rajwant,143813324000122,,male,64589518.0
+24396.0,27892.0,1438133,tandem diabetes care inc,1,0,0,0,20240524,allen dick,143813324000120,,male,64589518.0
+17848.0,205190.0,1438133,tandem diabetes care inc,1,0,0,0,20240524,blickenstaff kim d,143813324000119,,female,64589518.0
+16690.0,,1438133,tandem diabetes care inc,1,0,0,0,20240524,howell peyton r,143813324000126,,male,64589518.0
+9396.0,,1438133,tandem diabetes care inc,1,0,0,0,20240524,robertson rebecca b,143813324000121,,female,64589518.0
+5814.0,,1438133,tandem diabetes care inc,1,0,0,0,20240524,cha myoungil,143813324000127,,male,64589518.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20240528,carpenter rick,143813324000137,Chief Technology Officer,male,64589518.0
+21845.0,,1438133,tandem diabetes care inc,0,1,0,0,20240528,morrison susan,143813324000138,EVP & Chief Admin. Officer,female,64589518.0
+11749.0,,1438133,tandem diabetes care inc,0,1,0,0,20240528,gasser elizabeth anne,143813324000139,"EVP, Chief Strategy Officer",female,64589518.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20240528,novara mark david,143813324000140,EVP & CHIEF COMMERCIAL OFFICER,male,64589518.0
+45575.0,,1438133,tandem diabetes care inc,1,1,0,0,20240528,sheridan john f,143813324000141,PRESIDENT & CEO,male,64589518.0
+16876.0,,1438133,tandem diabetes care inc,0,1,0,0,20240528,leal james,143813324000142,Chief Manufacturing Officer,male,64589518.0
+18833.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20240528,vosseller leigh,143813324000143,EVP & CHIEF FINANCIAL OFFICER,female,64589518.0
+,1935.0,1438133,tandem diabetes care inc,0,1,0,0,20240528,hansen shannon marie,143813324000136,Chief Legal Officer,female,64589518.0
+0.0,22892.0,1438133,tandem diabetes care inc,1,0,0,0,20240603,allen dick,143813324000148,,male,64589518.0
+20000.0,1000.0,1438133,tandem diabetes care inc,1,0,0,0,20240610,allen dick,143813324000150,,male,64589518.0
+11749.0,,1438133,tandem diabetes care inc,0,1,0,0,20240612,gasser elizabeth anne,143813324000153,"EVP, Chief Strategy Officer",female,64589518.0
+29396.0,1000.0,1438133,tandem diabetes care inc,1,0,0,0,20240613,allen dick,143813324000155,,male,64589518.0
+7563.0,,1438133,tandem diabetes care inc,1,0,0,0,20240620,malagueira joao paulo falcao,143813324000162,,male,64589518.0
+7563.0,,1438133,tandem diabetes care inc,1,0,0,0,20240620,cha myoungil,143813324000163,,male,64589518.0
+11236.0,,1438133,tandem diabetes care inc,0,1,0,0,20240620,carpenter rick,143813324000164,Chief Technology Officer,male,64589518.0
+,,1438133,tandem diabetes care inc,0,1,0,0,20240717,kyrillos jean-claude,143813324000170,EVP & Chief Operating Officer,male,65435000.0
+22757.0,1000.0,1438133,tandem diabetes care inc,1,0,0,0,20240809,allen dick,143813324000180,,male,65464900.0
+9678.0,1935.0,1438133,tandem diabetes care inc,0,1,0,0,20240819,hansen shannon marie,143813324000192,EVP & Chief Legal Officer,female,65464900.0
+12543.0,,1438133,tandem diabetes care inc,0,1,0,0,20240819,carpenter rick,143813324000191,Chief Technology Officer,male,65464900.0
+20207.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20240819,vosseller leigh,143813324000187,EVP & CHIEF FINANCIAL OFFICER,female,65464900.0
+23372.0,,1438133,tandem diabetes care inc,0,1,0,0,20240819,morrison susan,143813324000188,EVP & Chief Admin. Officer,female,65464900.0
+1374.0,11749.0,1438133,tandem diabetes care inc,0,1,0,0,20240819,gasser elizabeth anne,143813324000189,"EVP, Chief Strategy Officer",female,65464900.0
+49766.0,,1438133,tandem diabetes care inc,1,1,0,0,20240819,sheridan john f,143813324000190,PRESIDENT & CEO,male,65464900.0
+12804.0,,1438133,tandem diabetes care inc,0,1,0,0,20240918,carpenter rick,143813324000194,Chief Technology Officer,male,65464900.0
+532.0,,1438133,tandem diabetes care inc,0,1,0,0,20241119,novara mark david,143813324000215,EVP & CHIEF COMMERCIAL OFFICER,male,65676532.0
+14674.0,,1438133,tandem diabetes care inc,0,1,0,0,20241119,carpenter rick,143813324000214,Chief Technology Officer,male,65676532.0
+24899.0,,1438133,tandem diabetes care inc,0,1,0,0,20241119,morrison susan,143813324000213,EVP & Chief Admin. Officer,female,65676532.0
+11503.0,1935.0,1438133,tandem diabetes care inc,0,1,0,0,20241119,hansen shannon marie,143813324000212,EVP & Chief Legal Officer,female,65676532.0
+21582.0,11860.0,1438133,tandem diabetes care inc,0,1,0,0,20241119,vosseller leigh,143813324000211,EVP & CHIEF FINANCIAL OFFICER,female,65676532.0
+54337.0,,1438133,tandem diabetes care inc,1,1,0,0,20241119,sheridan john f,143813324000210,PRESIDENT & CEO,male,65676532.0
+2988.0,11749.0,1438133,tandem diabetes care inc,0,1,0,0,20241119,gasser elizabeth anne,143813324000209,"EVP, Chief Strategy Officer",female,65676532.0
+165190.0,,1438133,tandem diabetes care inc,1,0,0,0,20241122,blickenstaff kim d,143813324000217,,female,65676532.0
+14935.0,,1438133,tandem diabetes care inc,0,1,0,0,20241218,carpenter rick,143813324000220,Chief Technology Officer,male,65676532.0
+19458.0,,1438133,tandem diabetes care inc,0,1,0,0,20241218,novara mark david,143813324000221,EVP & CHIEF COMMERCIAL OFFICER,male,65676532.0

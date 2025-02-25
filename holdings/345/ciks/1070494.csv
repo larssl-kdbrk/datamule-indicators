@@ -1,147 +1,420 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,1,0,0,20100316,hacksell uli,118143110016674,CEO,male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,0,1,0,0,20100316,aasen thomas h,118143110016675,"Exec. VP, CFO & CBO",male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,0,1,0,0,20100316,mills roger,118143110016676,"Executive VP, Development",male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,0,1,0,0,20100316,baity glenn,118143110016679,"VP, GC & Sec.",male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,rasmussen torsten,118143110033158,,male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,kaplan lester j ph d,118143110033160,,male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,iversen leslie l,118143110033161,,female,
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,gray mary ann,118143110033163,,female,
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,brege laura,118143110033164,,female,
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,borer michael t,118143110033165,,male,
-0.0,0.0,1070494,acadia pharmaceuticals inc,0,1,0,0,20110329,baity glenn,118143111020611,"VP, GC & Sec.",male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,0,1,0,0,20110329,mills roger,118143111020612,"Executive VP, Development",male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,0,1,0,0,20110329,aasen thomas h,118143111020613,"Exec. VP, CFO & CBO",male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,1,1,0,0,20110329,hacksell uli,118143111020614,CEO,male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,iversen leslie l,141588911000534,,female,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,rasmussen torsten,141588911000536,,male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,kaplan lester j ph d,141588911000535,,male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,borer michael t,141588911000531,,male,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,gray mary ann,141588911000533,,female,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,brege laura,141588911000532,,female,39350561.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120131,wells william mcdowall,141588912000113,,male,52898659.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20120326,baity glenn,141588912000423,VP AND GC,male,52898659.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20120326,aasen thomas h,141588912000424,"EXEC VP, CFO AND CBO",male,52898659.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20120326,mills roger,141588912000425,EXEC VP,male,52898659.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20120326,hacksell uli,141588912000426,CEO,male,52898659.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,borer michael t,141588912000868,,male,52927119.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,kaplan lester j ph d,141588912000869,,male,52927119.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,iversen leslie l,141588912000870,,female,52927119.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,wells william mcdowall,141588912000866,,male,52927119.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,brege laura,141588912000871,,female,52927119.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,rasmussen torsten,141588912000867,,male,52927119.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,gray mary ann,141588912000865,,female,52927119.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20100316,hacksell uli,118143110016674,CEO,male,
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20100316,aasen thomas h,118143110016675,"Exec. VP, CFO & CBO",male,
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20100316,mills roger,118143110016676,"Executive VP, Development",male,
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20100316,baity glenn,118143110016679,"VP, GC & Sec.",male,
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,iversen leslie l,118143110033161,,female,
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,borer michael t,118143110033165,,male,
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,kaplan lester j ph d,118143110033160,,male,
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,brege laura,118143110033164,,female,
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,gray mary ann,118143110033163,,female,
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20100615,rasmussen torsten,118143110033158,,male,
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20110329,aasen thomas h,118143111020613,"Exec. VP, CFO & CBO",male,39350561.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20110329,hacksell uli,118143111020614,CEO,male,39350561.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20110329,mills roger,118143111020612,"Executive VP, Development",male,39350561.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20110329,baity glenn,118143111020611,"VP, GC & Sec.",male,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,borer michael t,141588911000531,,male,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,brege laura,141588911000532,,female,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,gray mary ann,141588911000533,,female,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,iversen leslie l,141588911000534,,female,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,kaplan lester j ph d,141588911000535,,male,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20110614,rasmussen torsten,141588911000536,,male,39350561.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120131,wells william mcdowall,141588912000113,,male,52898659.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20120326,hacksell uli,141588912000426,CEO,male,52898659.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20120326,aasen thomas h,141588912000424,"EXEC VP, CFO AND CBO",male,52898659.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20120326,baity glenn,141588912000423,VP AND GC,male,52898659.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20120326,mills roger,141588912000425,EXEC VP,male,52898659.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,wells william mcdowall,141588912000866,,male,52927119.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,rasmussen torsten,141588912000867,,male,52927119.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,borer michael t,141588912000868,,male,52927119.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,kaplan lester j ph d,141588912000869,,male,52927119.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,iversen leslie l,141588912000870,,female,52927119.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,brege laura,141588912000871,,female,52927119.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20120611,gray mary ann,141588912000865,,female,52927119.0
 54602.0,1369.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20120806,aasen thomas h,141588912001138,"EXEC VP, CFO AND CBO",male,53030009.0
-101549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20120822,hacksell uli,141588912001306,CEO,male,53030009.0
+101549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20120822,hacksell uli,141588912001306,CEO,male,53030009.0
 62102.0,1369.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20120911,aasen thomas h,141588912001365,"EXEC VP, CFO AND CBO",male,53030009.0
-43163.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20121129,baity glenn,141588912001793,VP AND GC,male,56621575.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20121129,aasen thomas h,141588912001792,"EXEC VP, CFO AND CBO",male,56621575.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130110,rasmussen torsten,141588913000047,,male,73334216.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130115,kaplan lester j ph d,141588913000071,,male,73334216.0
-50471.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130118,aasen thomas h,141588913000092,"EXEC VP, CFO AND CBO",male,73334216.0
-109049.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20130118,hacksell uli,141588913000094,CEO,male,73334216.0
-13500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130222,iversen leslie l,141588913000294,,female,73334216.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130403,aasen thomas h,141588913000632,"EXEC VP, CFO AND CBO",male,73455860.0
-40000.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130403,baity glenn,141588913000633,VP AND GC,male,73455860.0
-109049.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20130403,hacksell uli,141588913000634,CEO,male,73455860.0
-14017.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130403,mills roger,141588913000635,"EVP, DEVELOPMENT AND CMO",male,73455860.0
-40000.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130412,baity glenn,141588913000740,VP AND GC,male,73455860.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130412,aasen thomas h,141588913000739,"EXEC VP, CFO AND CBO",male,73455860.0
-109049.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20130417,hacksell uli,141588913000777,CEO,male,73455860.0
-40000.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130417,baity glenn,141588913000778,VP AND GC,male,73455860.0
-40000.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130424,baity glenn,141588913000817,VP AND GC,male,73455860.0
-109049.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20130503,hacksell uli,141588913000873,CEO,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130611,mills roger,141588913001165,"EVP, DEVELOPMENT AND CMO",male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,wells william mcdowall,141588913001173,,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,borer michael t,141588913001172,,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,gray mary ann,141588913001170,,female,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,kaplan lester j ph d,141588913001169,,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,rasmussen torsten,141588913001164,,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130611,aasen thomas h,141588913001167,"EXEC VP, CFO AND CBO",male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130611,baity glenn,141588913001166,VP AND GC,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,iversen leslie l,141588913001163,,female,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20130611,hacksell uli,141588913001168,CEO,male,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,brege laura,141588913001171,,female,79164885.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130815,aasen thomas h,141588913001643,"EXEC VP, CFO AND CBO",male,88783766.0
-109049.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20130815,hacksell uli,141588913001644,CEO,male,88783766.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130820,moore terrence o,141588913001681,"EVP, CHIEF COMMERCIAL OFFICER",male,88783766.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130828,gray mary ann,141588913001739,,female,88783766.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130905,rasmussen torsten,141588913001766,,male,88783766.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130912,brege laura,141588913001811,,female,88783766.0
-13500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130913,iversen leslie l,141588913001821,,female,88783766.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20130913,kaplan lester j ph d,141588913001820,,male,88783766.0
-15775.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20130920,mills roger,141588913001869,"EVP, DEVELOPMENT AND CMO",male,88783766.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20131003,aasen thomas h,141588913001969,"EXEC VP, CFO AND CBO",male,88972357.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20131011,brege laura,141588913002028,,female,88972357.0
-109049.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20131204,hacksell uli,141588913002513,CEO,male,90866470.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20131212,brege laura,141588913002565,,female,90866470.0
-39348.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20131216,aasen thomas h,141588913002575,"EXEC VP, CFO AND CBO",male,90866470.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20131218,hacksell uli,141588913002611,CEO,male,90866470.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140103,aasen thomas h,141588914000033,"EXEC VP, CFO AND CBO",male,91102618.0
-13500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140103,iversen leslie l,141588914000035,,female,91102618.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140117,hacksell uli,141588914000167,CEO,male,91102618.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140117,brege laura,141588914000168,,female,91102618.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140220,hacksell uli,141588914000662,CEO,male,91348503.0
-47788.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140228,baity glenn,141588914000708,VP AND GC,male,91348503.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140311,hacksell uli,141588914000785,CEO,male,91348503.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140311,mills roger,141588914000786,"EVP, DEVELOPMENT AND CMO",male,91348503.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140311,baity glenn,141588914000787,VP AND GC,male,91348503.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140311,moore terrence o,141588914000788,"EVP, CHIEF COMMERCIAL OFFICER",male,91348503.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140404,aasen thomas h,141588914001112,"EXEC VP, CFO AND CBO",male,98835635.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140404,rasmussen torsten,141588914001113,,male,98835635.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140404,brege laura,141588914001114,,female,98835635.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140417,hacksell uli,141588914001212,CEO,male,98835635.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140502,rasmussen torsten,141588914001329,,male,98976326.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140604,kaplan lester j ph d,141588914001758,,male,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,kaplan lester j ph d,141588914001820,,male,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,rasmussen torsten,141588914001821,,male,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,iversen leslie l,141588914001822,,female,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,borer michael t,141588914001817,,male,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,brege laura,141588914001818,,female,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,gray mary ann,141588914001819,,female,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,wells william mcdowall,141588914001823,,male,98976326.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,wells william mcdowall,141588914001824,,male,98976326.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140618,hacksell uli,141588914001886,CEO,male,98976326.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140716,hacksell uli,141588914002158,CEO,male,99300702.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140716,davis stephen,141588914002159,"EVP, CFO AND CBO",male,99300702.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140815,hacksell uli,141588914002539,CEO,male,99436825.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140904,kaplan lester j ph d,141588914002691,,male,99436825.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140904,wells william mcdowall,141588914002690,,male,99436825.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20140909,baity glenn,141588914002742,EVP AND GC,male,99436825.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20140912,hacksell uli,141588914002797,CEO,male,99436825.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140916,wells william mcdowall,141588914002814,,male,99436825.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20140916,brege laura,141588914002815,,female,99436825.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20141010,hacksell uli,141588914003050,CEO,male,99701621.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20141121,wells william mcdowall,141588914003660,,male,99770300.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20141126,hacksell uli,141588914003735,CEO,male,99770300.0
-18550.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20141126,mills roger,141588914003736,"EVP, DEVELOPMENT AND CMO",male,99770300.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20141126,borer michael t,141588914003737,,male,99770300.0
-62423.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20141210,baity glenn,141588914003850,EVP AND GC,male,99770300.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20141217,gray mary ann,141588914003916,,female,99770300.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20141217,hacksell uli,141588914003915,CEO,male,99770300.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150115,gray mary ann,141588915000152,,female,100047331.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150115,rasmussen torsten,141588915000153,,male,100047331.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20150116,hacksell uli,141588915000169,CEO,male,100047331.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150116,borer michael t,141588915000170,,male,100047331.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150213,brege laura,141588915000537,,female,100171719.0
-115549.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20150219,hacksell uli,141588915000614,CEO,male,100171719.0
-8500.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150219,rasmussen torsten,141588915000615,,male,100171719.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,davis stephen,141588915001018,INTERIM CEO,male,100171719.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,moore terrence o,141588915001022,"EVP, CHIEF COMMERCIAL OFFICER",male,100171719.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,mills roger,141588915001020,"EVP, DEVELOPMENT AND CMO",male,100171719.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,baity glenn,141588915001019,EVP AND GC,male,100171719.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150324,soland daniel b,141588915001026,,male,100171719.0
-27627.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150603,iversen leslie l,141588915001975,,female,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,borer michael t,141588915002083,,male,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,brege laura,141588915002084,,female,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,kaplan lester j ph d,141588915002085,,male,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,kaplan lester j ph d,141588915002086,,male,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,gray mary ann,141588915002087,,female,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,iversen leslie l,141588915002088,,female,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,rasmussen torsten,141588915002089,,male,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,soland daniel b,141588915002090,,male,100297426.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,wells william mcdowall,141588915002091,,male,100297426.0
-17000.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150813,kaplan lester j ph d,141588915002684,,male,100714851.0
-36127.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150821,iversen leslie l,141588915002845,,female,100714851.0
-36127.0,0.0,1070494,acadia pharmaceuticals inc,true,false,false,false,20150821,iversen leslie l,141588915002844,,female,100714851.0
-0.0,0.0,1070494,acadia pharmaceuticals inc,true,true,false,false,20150903,davis stephen,141588915002978,PRESIDENT AND CEO,male,100714851.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20121129,aasen thomas h,141588912001792,"EXEC VP, CFO AND CBO",male,56621575.0
+43163.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20121129,baity glenn,141588912001793,VP AND GC,male,56621575.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130110,rasmussen torsten,141588913000047,,male,73334216.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130115,kaplan lester j ph d,141588913000071,,male,73334216.0
+50471.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130118,aasen thomas h,141588913000092,"EXEC VP, CFO AND CBO",male,73334216.0
+109049.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20130118,hacksell uli,141588913000094,CEO,male,73334216.0
+13500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130222,iversen leslie l,141588913000294,,female,73334216.0
+14017.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130403,mills roger,141588913000635,"EVP, DEVELOPMENT AND CMO",male,73455860.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130403,aasen thomas h,141588913000632,"EXEC VP, CFO AND CBO",male,73455860.0
+109049.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20130403,hacksell uli,141588913000634,CEO,male,73455860.0
+40000.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130403,baity glenn,141588913000633,VP AND GC,male,73455860.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130412,aasen thomas h,141588913000739,"EXEC VP, CFO AND CBO",male,73455860.0
+40000.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130412,baity glenn,141588913000740,VP AND GC,male,73455860.0
+109049.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20130417,hacksell uli,141588913000777,CEO,male,73455860.0
+40000.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130417,baity glenn,141588913000778,VP AND GC,male,73455860.0
+40000.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130424,baity glenn,141588913000817,VP AND GC,male,73455860.0
+109049.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20130503,hacksell uli,141588913000873,CEO,male,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,wells william mcdowall,141588913001173,,male,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,borer michael t,141588913001172,,male,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,gray mary ann,141588913001170,,female,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,brege laura,141588913001171,,female,79164885.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130611,aasen thomas h,141588913001167,"EXEC VP, CFO AND CBO",male,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20130611,hacksell uli,141588913001168,CEO,male,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,iversen leslie l,141588913001163,,female,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,kaplan lester j ph d,141588913001169,,male,79164885.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130611,mills roger,141588913001165,"EVP, DEVELOPMENT AND CMO",male,79164885.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130611,baity glenn,141588913001166,VP AND GC,male,79164885.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130611,rasmussen torsten,141588913001164,,male,79164885.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130815,aasen thomas h,141588913001643,"EXEC VP, CFO AND CBO",male,88783766.0
+109049.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20130815,hacksell uli,141588913001644,CEO,male,88783766.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130820,moore terrence o,141588913001681,"EVP, CHIEF COMMERCIAL OFFICER",male,88783766.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130828,gray mary ann,141588913001739,,female,88783766.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130905,rasmussen torsten,141588913001766,,male,88783766.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130912,brege laura,141588913001811,,female,88783766.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130913,kaplan lester j ph d,141588913001820,,male,88783766.0
+13500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20130913,iversen leslie l,141588913001821,,female,88783766.0
+15775.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20130920,mills roger,141588913001869,"EVP, DEVELOPMENT AND CMO",male,88783766.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20131003,aasen thomas h,141588913001969,"EXEC VP, CFO AND CBO",male,88972357.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20131011,brege laura,141588913002028,,female,88972357.0
+109049.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20131204,hacksell uli,141588913002513,CEO,male,90866470.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20131212,brege laura,141588913002565,,female,90866470.0
+39348.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20131216,aasen thomas h,141588913002575,"EXEC VP, CFO AND CBO",male,90866470.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20131218,hacksell uli,141588913002611,CEO,male,90866470.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140103,aasen thomas h,141588914000033,"EXEC VP, CFO AND CBO",male,91102618.0
+13500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140103,iversen leslie l,141588914000035,,female,91102618.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140117,hacksell uli,141588914000167,CEO,male,91102618.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140117,brege laura,141588914000168,,female,91102618.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140220,hacksell uli,141588914000662,CEO,male,91348503.0
+47788.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140228,baity glenn,141588914000708,VP AND GC,male,91348503.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140311,hacksell uli,141588914000785,CEO,male,91348503.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140311,mills roger,141588914000786,"EVP, DEVELOPMENT AND CMO",male,91348503.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140311,baity glenn,141588914000787,VP AND GC,male,91348503.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140311,moore terrence o,141588914000788,"EVP, CHIEF COMMERCIAL OFFICER",male,91348503.0
+0.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140404,aasen thomas h,141588914001112,"EXEC VP, CFO AND CBO",male,98835635.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140404,rasmussen torsten,141588914001113,,male,98835635.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140404,brege laura,141588914001114,,female,98835635.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140417,hacksell uli,141588914001212,CEO,male,98835635.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140502,rasmussen torsten,141588914001329,,male,98976326.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140604,kaplan lester j ph d,141588914001758,,male,98976326.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,wells william mcdowall,141588914001824,,male,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,wells william mcdowall,141588914001823,,male,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,iversen leslie l,141588914001822,,female,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,kaplan lester j ph d,141588914001820,,male,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,gray mary ann,141588914001819,,female,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,borer michael t,141588914001817,,male,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,rasmussen torsten,141588914001821,,male,98976326.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140610,brege laura,141588914001818,,female,98976326.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140618,hacksell uli,141588914001886,CEO,male,98976326.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140716,hacksell uli,141588914002158,CEO,male,99300702.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140716,davis stephen,141588914002159,"EVP, CFO AND CBO",male,99300702.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140815,hacksell uli,141588914002539,CEO,male,99436825.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140904,wells william mcdowall,141588914002690,,male,99436825.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140904,kaplan lester j ph d,141588914002691,,male,99436825.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20140909,baity glenn,141588914002742,EVP AND GC,male,99436825.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20140912,hacksell uli,141588914002797,CEO,male,99436825.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140916,brege laura,141588914002815,,female,99436825.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20140916,wells william mcdowall,141588914002814,,male,99436825.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20141010,hacksell uli,141588914003050,CEO,male,99701621.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20141121,wells william mcdowall,141588914003660,,male,99770300.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20141126,borer michael t,141588914003737,,male,99770300.0
+18550.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20141126,mills roger,141588914003736,"EVP, DEVELOPMENT AND CMO",male,99770300.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20141126,hacksell uli,141588914003735,CEO,male,99770300.0
+62423.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20141210,baity glenn,141588914003850,EVP AND GC,male,99770300.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20141217,hacksell uli,141588914003915,CEO,male,99770300.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20141217,gray mary ann,141588914003916,,female,99770300.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150115,gray mary ann,141588915000152,,female,100047331.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150115,rasmussen torsten,141588915000153,,male,100047331.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20150116,hacksell uli,141588915000169,CEO,male,100047331.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150116,borer michael t,141588915000170,,male,100047331.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150213,brege laura,141588915000537,,female,100171719.0
+115549.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20150219,hacksell uli,141588915000614,CEO,male,100171719.0
+8500.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150219,rasmussen torsten,141588915000615,,male,100171719.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150324,soland daniel b,141588915001026,,male,100171719.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,moore terrence o,141588915001022,"EVP, CHIEF COMMERCIAL OFFICER",male,100171719.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,davis stephen,141588915001018,INTERIM CEO,male,100171719.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,baity glenn,141588915001019,EVP AND GC,male,100171719.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20150324,mills roger,141588915001020,"EVP, DEVELOPMENT AND CMO",male,100171719.0
+27627.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150603,iversen leslie l,141588915001975,,female,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,borer michael t,141588915002083,,male,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,brege laura,141588915002084,,female,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,kaplan lester j ph d,141588915002085,,male,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,kaplan lester j ph d,141588915002086,,male,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,gray mary ann,141588915002087,,female,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,iversen leslie l,141588915002088,,female,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,rasmussen torsten,141588915002089,,male,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,soland daniel b,141588915002090,,male,100297426.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150617,wells william mcdowall,141588915002091,,male,100297426.0
+17000.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150813,kaplan lester j ph d,141588915002684,,male,100714851.0
+17000.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150813,kaplan lester j ph d,141588915002684,,male,100714851.0
+36127.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150821,iversen leslie l,141588915002845,,female,100714851.0
+36127.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150821,iversen leslie l,141588915002845,,female,100714851.0
+36127.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150821,iversen leslie l,141588915002844,,female,100714851.0
+36127.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20150821,iversen leslie l,141588915002844,,female,100714851.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20150903,davis stephen,141588915002978,PRESIDENT AND CEO,male,100714851.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20150903,davis stephen,141588915002978,PRESIDENT AND CEO,male,100714851.0
+36127.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20151113,iversen leslie l,141588915003713,,female,100911625.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20151130,stankovic srdjan r.,141588915003941,EXECUTIVE VICE PRESIDENT,male,100911625.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20151130,harrigan edmund,141588915003943,,male,100911625.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160111,daly james m,141588916004391,,male,101938702.0
+62921.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20160304,baity glenn,141588916004978,EVP AND GC,male,112636457.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20160317,moore terrence o,141588916005151,"EVP, CHIEF COMMERCIAL OFFICER",male,112636457.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20160317,davis stephen,141588916005148,PRESIDENT AND CEO,male,112636457.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20160317,baity glenn,141588916005149,EVP AND GC,male,112636457.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20160317,stankovic srdjan r.,141588916005150,EVP,male,112636457.0
+132839.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160407,gray mary ann,141588916005465,,female,112773316.0
+36127.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160420,iversen leslie l,141588916005582,,female,112773316.0
+149476.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160609,gray mary ann,141588916006147,,female,113163010.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160610,soland daniel b,141588916006165,,male,113163010.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160610,daly james m,141588916006163,,male,113163010.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160610,brege laura,141588916006162,,female,113163010.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160610,harrigan edmund,141588916006164,,male,113163010.0
+62921.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20160713,baity glenn,141588916006486,EVP AND GC,male,113685986.0
+1000.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20160818,harrigan edmund,141588916006910,,male,114005664.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20160824,young todd s.,141588916006957,EVP AND CFO,male,114005664.0
+62921.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20161114,baity glenn,141588916007417,EVP AND GC,male,121113846.0
+71563.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20161221,baity glenn,141588916007629,EVP AND GC,male,121113846.0
+77063.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20161229,baity glenn,141588916007636,EVP AND GC,male,121113846.0
+67063.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170203,baity glenn,141588917000182,EVP AND GC,male,121407626.0
+67063.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170216,baity glenn,141588917000281,EVP AND GC,male,121407626.0
+1671.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170216,moore terrence o,141588917000282,"EVP, CHIEF COMMERCIAL OFFICER",male,121407626.0
+1671.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170223,moore terrence o,141588917000308,"EVP, CHIEF COMMERCIAL OFFICER",male,121407626.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170310,baity glenn,141588917000406,EVP AND GC,male,121407626.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170310,young todd s.,141588917000409,EVP AND CFO,male,121407626.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170310,stankovic srdjan r.,141588917000408,EVP,male,121407626.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170310,moore terrence o,141588917000407,"EVP, CHIEF COMMERCIAL OFFICER",male,121407626.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20170310,davis stephen,141588917000405,PRESIDENT AND CEO,male,121407626.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170331,yang michael j.,141588917000528,EVP AND CCO,male,121986842.0
+81156.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170517,baity glenn,141588917000785,EVP AND GC,male,122046442.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170614,brege laura,141588917000991,,female,122046442.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170614,soland daniel b,141588917000993,,male,122046442.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170614,harrigan edmund,141588917000990,,male,122046442.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170614,daly james m,141588917000992,,male,122046442.0
+81156.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170626,baity glenn,141588917001046,EVP AND GC,male,122046442.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170719,daly james m,141588917001229,,male,122336580.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170719,soland daniel b,141588917001230,,male,122336580.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20170719,harrigan edmund,141588917001228,,male,122336580.0
+71156.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170721,baity glenn,141588917001265,EVP AND GC,male,122336580.0
+77656.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170808,baity glenn,141588917001348,EVP AND GC,male,122400306.0
+77656.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170811,baity glenn,141588917001378,EVP AND GC,male,122400306.0
+67656.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170901,baity glenn,141588917001447,EVP AND GC,male,122400306.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20170908,davis stephen,141588917001469,PRESIDENT AND CEO,male,122400306.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170908,young todd s.,141588917001473,EVP AND CFO,male,122400306.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170908,baity glenn,141588917001472,EVP AND GC,male,122400306.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170908,yang michael j.,141588917001471,EVP AND CCO,male,122400306.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20170908,stankovic srdjan r.,141588917001470,EVP,male,122400306.0
+69656.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20171006,baity glenn,141588917001636,EVP AND GC,male,122717018.0
+70113.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180104,baity glenn,141588918000014,EVP AND GC,male,124410552.0
+0.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20180104,brege laura,141588918000013,,female,124410552.0
+120292.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180111,baity glenn,141588918000043,EVP AND GC,male,124410552.0
+83734.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180131,baity glenn,141588918000158,EVP AND GC,male,124701944.0
+10000.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20180302,soland daniel b,141588918000338,,male,124701944.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180420,young todd s.,141588918000658,EVP AND CFO,male,124799500.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180420,baity glenn,141588918000659,EVP AND GC,male,124799500.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180420,yang michael j.,141588918000657,EVP AND CCO,male,124799500.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180420,stankovic srdjan r.,141588918000656,EVP,male,124799500.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20180420,davis stephen,141588918000655,PRESIDENT AND CEO,male,124799500.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20180608,brege laura,141588918000910,,female,124825969.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20180608,daly james m,141588918000911,,male,124825969.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20180608,soland daniel b,141588918000913,,male,124825969.0
+,,1070494,acadia pharmaceuticals inc,true,false,false,false,20180608,harrigan edmund,141588918000912,,male,124825969.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20180720,kim austin d.,141588918001160,EVP AND GENERAL COUNSEL,male,124999365.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20181024,young todd s.,89924318027363,EVP AND CFO,male,125023015.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20181024,stankovic srdjan r.,89924318027360,EVP,male,125023015.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20181024,davis stephen,89924318027358,PRESIDENT AND CEO,male,125023015.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20181024,yang michael j.,89924318027361,EVP AND CCO,male,125023015.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20181120,stankovic srdjan r.,120919118059445,President,male,125074557.0
+0.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20190111,brege laura,120919119003427,,female,143853597.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190402,ridloff elena,120919119022500,EVP and CFO,female,144127644.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20190501,davis stephen,120919119026842,President and CEO,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190501,ridloff elena,120919119026846,EVP and CFO,female,144165923.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190501,stankovic srdjan r.,120919119026844,President,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190501,kim austin d.,120919119026845,EVP & General Counsel,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190501,miller eric alejandro,120919119026848,Controller & PAO,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190501,yang michael j.,120919119026847,EVP and CCO,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20190628,brege laura,120919119039522,,female,144165923.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20190628,harrigan edmund,120919119039523,,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20190628,soland daniel b,120919119039525,,male,144165923.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20190628,daly james m,120919119039524,,male,144165923.0
+0.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20190911,miller eric alejandro,120919119049231,Controller & PAO,male,144487428.0
+0.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20190911,daly james m,120919119049230,,male,144487428.0
+0.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20191011,davis stephen,120919119053060,CEO,male,153539153.0
+270.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191017,miller eric alejandro,120919119053494,Controller & PAO,male,153539153.0
+1623.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191017,yang michael j.,120919119053493,EVP and CCO,male,153539153.0
+1937.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191017,stankovic srdjan r.,120919119053492,President,male,153539153.0
+2954.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20191017,davis stephen,120919119053491,CEO,male,153539153.0
+6027.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191121,stankovic srdjan r.,120919119057636,President,male,154025462.0
+2954.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20191206,davis stephen,120919119059526,CEO,male,154025462.0
+0.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191211,ridloff elena,120919119060100,EVP and CFO,female,154025462.0
+1623.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191211,yang michael j.,120919119060101,EVP and CCO,male,154025462.0
+2499.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191213,yang michael j.,120919119060476,EVP and CCO,male,154025462.0
+509.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20191213,kim austin d.,120919119060475,EVP & General Counsel,male,154025462.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20200108,davis stephen,120919120002597,CEO,male,155275300.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200108,yang michael j.,120919120002604,EVP and CCO,male,155275300.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200108,ridloff elena,120919120002602,EVP and CFO,female,155275300.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200108,kim austin d.,120919120002600,EVP & General Counsel,male,155275300.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200108,stankovic srdjan r.,120919120002598,President,male,155275300.0
+0.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20200108,brege laura,120919120002595,,female,155275300.0
+6027.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200422,stankovic srdjan r.,120919120025379,President,male,155724104.0
+6027.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200424,stankovic srdjan r.,120919120025677,President,male,155724104.0
+5204.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200501,yang michael j.,120919120026618,EVP and CCO,male,155724104.0
+11809.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20200501,davis stephen,120919120026617,CEO,male,155724104.0
+2195.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200501,ridloff elena,120919120026615,EVP and CFO,female,155724104.0
+11334.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200501,stankovic srdjan r.,120919120026614,President,male,155724104.0
+2441.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200501,kim austin d.,120919120026619,EVP & General Counsel,male,155724104.0
+0.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20200513,daly james m,120919120028940,,male,155724104.0
+11809.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20200515,davis stephen,120919120029858,CEO,male,155724104.0
+11334.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200619,stankovic srdjan r.,120919120038065,President,male,155724104.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20200625,soland daniel b,120919120038979,,male,155724104.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20200625,harrigan edmund,120919120038978,,male,155724104.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20200625,brege laura,120919120038976,,female,155724104.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20200625,daly james m,120919120038977,,male,155724104.0
+5204.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20200709,yang michael j.,120919120042022,EVP and CCO,male,157383379.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20201001,garofalo elizabeth a.,120919120052665,,female,158863541.0
+6457.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20201019,yang michael j.,120919120055317,EVP and CCO,male,158863541.0
+13006.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20201019,stankovic srdjan r.,120919120055316,President,male,158863541.0
+14786.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20201019,davis stephen,120919120055315,CEO,male,158863541.0
+3851.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20201029,kim austin d.,120919120056219,EVP & General Counsel,male,158978087.0
+16528.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20201120,stankovic srdjan r.,120919120059854,President,male,158978087.0
+24482.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20210108,davis stephen,120919121002830,CEO,male,159637771.0
+20247.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210108,stankovic srdjan r.,120919121002831,President,male,159637771.0
+3901.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210108,ridloff elena,120919121002832,EVP and CFO,female,159637771.0
+5518.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210108,kim austin d.,120919121002834,EVP & General Counsel,male,159637771.0
+8059.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210108,yang michael j.,120919121002836,EVP and CCO,male,159637771.0
+20247.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210114,stankovic srdjan r.,120919121003678,President,male,159637771.0
+28900.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20210208,davis stephen,120919121008659,CEO,male,159637771.0
+9911.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210208,kim austin d.,120919121008658,EVP & General Counsel,male,159637771.0
+8340.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210208,ridloff elena,120919121008661,EVP and CFO,female,159637771.0
+31049.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210208,stankovic srdjan r.,120919121008660,President,male,159637771.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210225,stankovic srdjan r.,120919121014561,President,male,160047470.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210225,kihara james,120919121014560,Principal Accounting Officer,male,160047470.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210225,kim austin d.,120919121014558,EVP & General Counsel,male,160047470.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210225,ridloff elena,120919121014559,EVP and CFO,female,160047470.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20210225,davis stephen,120919121014557,CEO,male,160047470.0
+11371.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210430,kim austin d.,120919121029358,EVP & General Counsel,male,160179036.0
+49312.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20210430,davis stephen,120919121029356,CEO,male,160179036.0
+36434.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210430,stankovic srdjan r.,120919121029357,President,male,160179036.0
+10553.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20210430,ridloff elena,120919121029359,EVP and CFO,female,160179036.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20210624,garofalo elizabeth a.,120919121043039,,female,160179036.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20210624,harrigan edmund,120919121043041,,male,160179036.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20210624,soland daniel b,120919121043043,,male,160179036.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20210624,daly james m,120919121043037,,male,160179036.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20210624,brege laura,120919121043035,,female,160179036.0
+1918.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20211001,garofalo elizabeth a.,120919121058556,,female,160690916.0
+52906.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20211019,davis stephen,120919121060957,CEO,male,160690916.0
+38065.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20211019,stankovic srdjan r.,120919121060958,President,male,160690916.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20211119,kihara james,120919121065928,Principal Accounting Officer,male,160755971.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20211119,teehan brendan,120919121065926,"EVP, COO, Head of Commercial",male,160755971.0
+41512.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20211123,stankovic srdjan r.,120919121066570,President,male,160755971.0
+45019.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220110,stankovic srdjan r.,120919122002749,President,male,161012695.0
+13200.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220110,kim austin d.,120919122002750,EVP & General Counsel,male,161012695.0
+1788.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220110,teehan brendan,120919122002751,"EVP, COO, Head of Commercial",male,161012695.0
+58716.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20220110,davis stephen,120919122002748,CEO,male,161012695.0
+481.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220225,kihara james,120919122013286,Principal Accounting Officer,male,161012695.0
+2422.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220225,teehan brendan,120919122013284,"EVP, COO, Head of Commercial",male,161012695.0
+2102.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220225,schneyer mark c.,120919122013281,Chief Financial Officer,male,161012695.0
+48437.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220225,stankovic srdjan r.,120919122013275,President,male,161012695.0
+14631.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220225,kim austin d.,120919122013277,EVP & General Counsel,male,161012695.0
+65733.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20220225,davis stephen,120919122013273,CEO,male,161012695.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220407,teehan brendan,120919122023742,"EVP, COO, Head of Commercial",male,161381813.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20220407,davis stephen,120919122023737,CEO,male,161381813.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220407,stankovic srdjan r.,120919122023739,President,male,161381813.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220407,kim austin d.,120919122023740,"EVP,General Counsel, Secretary",male,161381813.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220407,schneyer mark c.,120919122023741,"EVP, Chief Financial Officer",male,161381813.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220407,kihara james,120919122023743,Principal Accounting Officer,male,161381813.0
+2433.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220411,kihara james,120919122024064,Principal Accounting Officer,male,161381813.0
+3437.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220503,teehan brendan,120919122026937,"EVP, COO, Head of Commercial",male,161429360.0
+75875.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20220503,davis stephen,120919122026941,CEO,male,161429360.0
+55188.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220503,stankovic srdjan r.,120919122026940,President,male,161429360.0
+16742.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220503,kim austin d.,120919122026938,"EVP,General Counsel, Secretary",male,161429360.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20220609,garofalo elizabeth a.,120919122035670,,female,161429360.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20220609,brege laura,120919122035662,,female,161429360.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20220609,soland daniel b,120919122035663,,male,161429360.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20220609,harrigan edmund,120919122035666,,male,161429360.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20220609,daly james m,120919122035668,,male,161429360.0
+3342.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20220610,schneyer mark c.,120919122036176,"EVP, Chief Financial Officer",male,161429360.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20221014,ndu adora,120919122053710,,male,161871806.0
+56831.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20221018,stankovic srdjan r.,120919122054027,President,male,161871806.0
+79009.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20221018,davis stephen,120919122054026,CEO,male,161871806.0
+61234.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20221122,stankovic srdjan r.,120919122058391,President,male,161930994.0
+18697.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230110,kim austin d.,120919123002894,"EVP,General Counsel, Secretary",male,162064872.0
+4549.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230110,teehan brendan,120919123002895,"EVP, COO, Head of Commercial",male,162064872.0
+84633.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230110,davis stephen,120919123002900,CEO,male,162064872.0
+0.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230117,brege laura,120919123003554,,female,162064872.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230213,williamson douglas j,120919123008875,"Executive VP, Research & Dev",male,162064872.0
+5195.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230227,teehan brendan,120919123013468,"EVP, COO, Head of Commercial",male,162064872.0
+20108.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230227,kim austin d.,120919123013469,"EVP,General Counsel, Secretary",male,162064872.0
+4118.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230227,schneyer mark c.,120919123013470,"EVP, Chief Financial Officer",male,162064872.0
+2923.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230227,kihara james,120919123013471,Principal Accounting Officer,male,162064872.0
+91727.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230227,davis stephen,120919123013472,CEO,male,162064872.0
+8468.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230407,teehan brendan,120919123023865,"EVP, COO, Head of Commercial",male,162384178.0
+23425.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230407,kim austin d.,120919123023861,"EVP,General Counsel, Secretary",male,162384178.0
+100478.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230407,davis stephen,120919123023862,CEO,male,162384178.0
+7477.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230407,schneyer mark c.,120919123023863,"EVP, Chief Financial Officer",male,162384178.0
+4231.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230407,kihara james,120919123023864,Principal Accounting Officer,male,162384178.0
+5197.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230411,kihara james,120919123024061,Principal Accounting Officer,male,162384178.0
+25513.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230502,kim austin d.,120919123026746,"EVP,General Counsel, Secretary",male,162625379.0
+9487.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230502,teehan brendan,120919123026744,"EVP, COO, Head of Commercial",male,162625379.0
+108297.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230502,davis stephen,120919123026742,CEO,male,162625379.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230503,kihara james,120919123027203,Principal Accounting Officer,male,162625379.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230503,teehan brendan,120919123027207,"EVP, COO, Head of Commercial",male,162625379.0
+,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230503,davis stephen,120919123027206,CEO,male,162625379.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230503,schneyer mark c.,120919123027205,"EVP, Chief Financial Officer",male,162625379.0
+,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230503,kim austin d.,120919123027204,"EVP,General Counsel, Secretary",male,162625379.0
+11144.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230519,kihara james,120919123031245,Principal Accounting Officer,male,162625379.0
+21905.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230519,schneyer mark c.,120919123031243,"EVP, Chief Financial Officer",male,162625379.0
+24356.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230519,teehan brendan,120919123031241,"EVP, COO, Head of Commercial",male,162625379.0
+18002.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230605,brege laura,120919123034697,,female,162625379.0
+28002.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230605,soland daniel b,120919123034699,,male,162625379.0
+19002.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230605,harrigan edmund,120919123034696,,male,162625379.0
+18780.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230605,garofalo elizabeth a.,120919123034694,,female,162625379.0
+,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230605,ndu adora,120919123034698,,male,162625379.0
+18002.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230605,daly james m,120919123034695,,male,162625379.0
+22824.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230612,schneyer mark c.,120919123036529,"EVP, Chief Financial Officer",male,162625379.0
+13502.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20230614,brege laura,120919123037106,,female,162625379.0
+9144.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230616,kihara james,120919123037932,Principal Accounting Officer,male,162625379.0
+36695.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230713,davis stephen,120919123042246,CEO,male,163355787.0
+36695.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20230718,davis stephen,120919123042641,CEO,male,163355787.0
+15682.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230823,schneyer mark c.,120919123047125,"EVP, Chief Financial Officer",male,163728859.0
+10778.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20230919,kihara james,120919123050072,Principal Accounting Officer,male,163728859.0
+89131.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20231006,davis stephen,120919123052389,CEO,male,163968949.0
+45857.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20231006,kim austin d.,120919123052390,"EVP,General Counsel, Secretary",male,163968949.0
+4381.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20231016,ndu adora,120919123052884,,male,163968949.0
+13025.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20231121,kihara james,120919123056354,Principal Accounting Officer,male,164180377.0
+20486.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20231121,schneyer mark c.,120919123056357,"EVP, Chief Financial Officer",male,164180377.0
+30393.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20231121,teehan brendan,120919123056355,"EVP, COO, Head of Commercial",male,164180377.0
+15862.0,,1070494,acadia pharmaceuticals inc,1,0,0,0,20231128,garofalo elizabeth a.,120919123056827,,female,164180377.0
+11025.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20231215,kihara james,120919123058891,Principal Accounting Officer,male,164180377.0
+96521.0,,1070494,acadia pharmaceuticals inc,1,1,0,0,20240109,davis stephen,120919124001269,CEO,male,164650219.0
+30949.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20240109,teehan brendan,120919124001268,"EVP, COO, Head of Commercial",male,164650219.0
+46901.0,,1070494,acadia pharmaceuticals inc,0,1,0,0,20240109,kim austin d.,120919124001267,"EVP,General Counsel, Secretary",male,164650219.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240208,rhodes jennifer j,141588924003039,"EVP, CHIEF LEGAL OFFICER, SEC",female,164650219.0
+101890.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20240227,davis stephen,141588924005572,CEO,male,164650219.0
+21067.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240227,schneyer mark c.,141588924005577,"EVP, CHIEF FINANCIAL OFFICER",male,164650219.0
+11391.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240227,kihara james,141588924005574,PRINCIPAL ACCOUNTING OFFICER,male,164650219.0
+31432.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240227,teehan brendan,141588924005575,"EVP, COO, HEAD OF COMMERCIAL",male,164650219.0
+26183.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240327,schneyer mark c.,141588924009270,"EVP, CHIEF FINANCIAL OFFICER",male,164650219.0
+118842.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20240327,davis stephen,141588924009271,CEO,male,164650219.0
+36340.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240327,teehan brendan,141588924009272,"EVP, COO, HEAD OF COMMERCIAL",male,164650219.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240327,kihara james,141588924009273,PRINCIPAL ACCOUNTING OFFICER,male,164650219.0
+28742.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240409,schneyer mark c.,141588924010601,"EVP, CHIEF FINANCIAL OFFICER",male,164959736.0
+13100.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240409,kihara james,141588924010602,PRINCIPAL ACCOUNTING OFFICER,male,164959736.0
+38796.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240409,teehan brendan,141588924010603,"EVP, COO, HEAD OF COMMERCIAL",male,164959736.0
+144267.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20240409,davis stephen,141588924010604,CEO,male,164959736.0
+42133.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240503,teehan brendan,141588924012239,"EVP, COO, HEAD OF COMMERCIAL",male,165220884.0
+155231.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20240503,davis stephen,141588924012238,CEO,male,165220884.0
+32053.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240503,schneyer mark c.,141588924012237,"EVP, CHIEF FINANCIAL OFFICER",male,165220884.0
+14370.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240503,kihara james,141588924012236,PRINCIPAL ACCOUNTING OFFICER,male,165220884.0
+20154.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20240531,brege laura,141588924015084,,female,165220884.0
+34654.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20240531,soland daniel b,141588924015085,,male,165220884.0
+25654.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20240531,harrigan edmund,141588924015086,,male,165220884.0
+24654.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20240531,daly james m,141588924015087,,male,165220884.0
+22514.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20240531,garofalo elizabeth a.,141588924015088,,female,165220884.0
+11033.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20240531,ndu adora,141588924015089,,male,165220884.0
+34564.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240611,schneyer mark c.,141588924016416,"EVP, CHIEF FINANCIAL OFFICER",male,165220884.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240813,thompson elizabeth h.z.,141588924021243,"EVP, Head of Research & Dev",female,165876052.0
+43735.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240820,schneyer mark c.,141588924021731,"EVP, CHIEF FINANCIAL OFFICER",male,165876052.0
+52177.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20240820,teehan brendan,141588924021726,"EVP, COO, HEAD OF COMMERCIAL",male,165876052.0
+186555.0,,1070494,acadia pharmaceuticals inc,true,true,false,false,20240820,davis stephen,141588924021724,CEO,male,165876052.0
+,,1070494,acadia pharmaceuticals inc,true,true,false,false,20240925,adams catherine owen,141588924023975,Chief Executive Officer,female,165876052.0
+15414.0,,1070494,acadia pharmaceuticals inc,true,false,false,false,20241015,ndu adora,141588924025148,,male,166351715.0
+53302.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20241119,schneyer mark c.,141588924027292,"EVP, CHIEF FINANCIAL OFFICER",male,166391891.0
+19863.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20241119,kihara james,141588924027293,PRINCIPAL ACCOUNTING OFFICER,male,166391891.0
+62105.0,,1070494,acadia pharmaceuticals inc,false,true,false,false,20241119,teehan brendan,141588924027294,"EVP, COO, HEAD OF COMMERCIAL",male,166391891.0
+,,1070494,acadia pharmaceuticals inc,false,true,false,false,20241210,garner thomas,141588924028884,"EVP, Chief Commercial Officer",male,166391891.0

@@ -1,238 +1,551 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-25315.0,577.7378,860748,unitrin inc,0,1,0,0,20100204,boschelli john michael,86074810000003,VP & Chief Investment Officer,male,62357016.0
-118961.0,0.0,860748,unitrin inc,1,1,0,0,20100204,draut eric john,86074810000004,Executive Vice President & CFO,male,62357016.0
-4447.0,941.9412,860748,unitrin inc,0,1,0,0,20100204,king lisa marie,86074810000005,Vice President,female,62357016.0
-4447.0,941.9412,860748,unitrin inc,0,1,0,0,20100204,king lisa marie,86074810000006,Vice President,female,62357016.0
-3487.0,187.2896,860748,unitrin inc,0,1,0,0,20100204,moses christopher lamont,86074810000007,Vice President and Treasurer,male,62357016.0
-59614.1482,0.0,860748,unitrin inc,0,1,0,0,20100204,renwick scott,86074810000008,"Sr. V.P., Gen. Counsel & Secy.",male,62357016.0
-56795.155,0.0,860748,unitrin inc,0,1,0,1,20100204,roeske richard,86074810000010,Vice President &,male,62357016.0
-8890.0,2566.2,860748,unitrin inc,0,1,0,0,20100204,sodaro frank joseph,86074810000011,Vice President,male,62357016.0
-150806.0,0.0,860748,unitrin inc,1,1,0,0,20100204,southwell donald gene,86074810000012,"Chairman, President, CEO",male,62357016.0
-33966.0,8641.597399999999,860748,unitrin inc,0,1,0,0,20100204,konar edward james,86074810000013,Vice President,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100204,howard julie,86074810000015,,female,62357016.0
-3587.0,187.333,860748,unitrin inc,0,1,0,0,20100225,moses christopher lamont,86074810000019,Vice President and Treasurer,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,hedlund reuben lee,86074810000029,,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,storch david p,86074810000028,,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,ziegler ann elizabeth,86074810000026,,female,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,vie richard carl,86074810000025,,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,howard julie,86074810000023,,female,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,geoga douglas gerard,86074810000022,,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,annable james edward,86074810000021,,male,62357016.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20100505,kauth wayne,86074810000024,,male,62357016.0
-7000.0,0.0,860748,unitrin inc,1,0,0,0,20100510,kauth wayne,86074810000031,,male,62357016.0
-5000.0,0.0,860748,unitrin inc,1,0,0,0,20100510,storch david p,86074810000035,,male,62357016.0
-197876.0,0.0,860748,unitrin inc,1,0,0,0,20100624,vie richard carl,86074810000037,,male,62357016.0
-115361.0,0.0,860748,unitrin inc,1,1,0,0,20100628,draut eric john,86074810000038,Executive Vice President & CFO,male,62357016.0
-16597.0,4706.755,860748,unitrin inc,0,1,0,0,20100804,sandelski dennis joseph,86074810000055,Vice President,male,61924608.0
+4447.0,941.9412,860748,unitrin inc,0,1,0,0,20100204,king lisa marie,86074810000006,Vice President,female,
+25315.0,577.7378,860748,unitrin inc,0,1,0,0,20100204,boschelli john michael,86074810000003,VP & Chief Investment Officer,male,
+4447.0,941.9412,860748,unitrin inc,0,1,0,0,20100204,king lisa marie,86074810000005,Vice President,female,
+118961.0,,860748,unitrin inc,1,1,0,0,20100204,draut eric john,86074810000004,Executive Vice President & CFO,male,
+,,860748,unitrin inc,1,0,0,0,20100204,howard julie,86074810000015,,female,
+3487.0,187.2896,860748,unitrin inc,0,1,0,0,20100204,moses christopher lamont,86074810000007,Vice President and Treasurer,male,
+150806.0,,860748,unitrin inc,1,1,0,0,20100204,southwell donald gene,86074810000012,"Chairman, President, CEO",male,
+33966.0,8641.597399999999,860748,unitrin inc,0,1,0,0,20100204,konar edward james,86074810000013,Vice President,male,
+56795.155,,860748,unitrin inc,0,1,0,1,20100204,roeske richard,86074810000010,Vice President &,male,
+8890.0,2566.2,860748,unitrin inc,0,1,0,0,20100204,sodaro frank joseph,86074810000011,Vice President,male,
+59614.1482,,860748,unitrin inc,0,1,0,0,20100204,renwick scott,86074810000008,"Sr. V.P., Gen. Counsel & Secy.",male,
+3587.0,187.333,860748,unitrin inc,0,1,0,0,20100225,moses christopher lamont,86074810000019,Vice President and Treasurer,male,
+,,860748,unitrin inc,1,0,0,0,20100505,howard julie,86074810000023,,female,
+,,860748,unitrin inc,1,0,0,0,20100505,hedlund reuben lee,86074810000029,,male,
+,,860748,unitrin inc,1,0,0,0,20100505,storch david p,86074810000028,,male,
+,,860748,unitrin inc,1,0,0,0,20100505,geoga douglas gerard,86074810000022,,male,
+,,860748,unitrin inc,1,0,0,0,20100505,vie richard carl,86074810000025,,male,
+,,860748,unitrin inc,1,0,0,0,20100505,kauth wayne,86074810000024,,male,
+,,860748,unitrin inc,1,0,0,0,20100505,annable james edward,86074810000021,,male,
+,,860748,unitrin inc,1,0,0,0,20100505,ziegler ann elizabeth,86074810000026,,female,
+7000.0,,860748,unitrin inc,1,0,0,0,20100510,kauth wayne,86074810000031,,male,
+5000.0,,860748,unitrin inc,1,0,0,0,20100510,storch david p,86074810000035,,male,
+197876.0,,860748,unitrin inc,1,0,0,0,20100624,vie richard carl,86074810000037,,male,
+115361.0,,860748,unitrin inc,1,1,0,0,20100628,draut eric john,86074810000038,Executive Vice President & CFO,male,
 4395.0,959.4934,860748,unitrin inc,0,1,0,0,20100804,king lisa marie,86074810000052,Vice President,female,61924608.0
 8744.0,2614.0189,860748,unitrin inc,0,1,0,0,20100804,sodaro frank joseph,86074810000053,Vice President,male,61924608.0
 3503.0,190.7641,860748,unitrin inc,0,1,0,0,20100804,moses christopher lamont,86074810000054,Vice President and Treasurer,male,61924608.0
-8715.0,2614.0189,860748,unitrin inc,0,1,0,0,20100806,sodaro frank joseph,86074810000059,Vice President,male,61924608.0
-4257.0,959.4934,860748,unitrin inc,0,1,0,0,20100806,king lisa marie,86074810000058,Vice President,female,61924608.0
+16597.0,4706.755,860748,unitrin inc,0,1,0,0,20100804,sandelski dennis joseph,86074810000055,Vice President,male,61924608.0
 3475.0,190.7641,860748,unitrin inc,0,1,0,0,20100806,moses christopher lamont,86074810000057,Vice President and Treasurer,male,61924608.0
+4257.0,959.4934,860748,unitrin inc,0,1,0,0,20100806,king lisa marie,86074810000058,Vice President,female,61924608.0
+8715.0,2614.0189,860748,unitrin inc,0,1,0,0,20100806,sodaro frank joseph,86074810000059,Vice President,male,61924608.0
 16532.0,4706.755,860748,unitrin inc,0,1,0,0,20100809,sandelski dennis joseph,86074810000060,Vice President,male,61924608.0
-52378.155,0.0,860748,unitrin inc,0,1,0,1,20100902,roeske richard,86074810000071,Vice President &,male,61924608.0
 22370.0,593.9457,860748,unitrin inc,0,1,0,0,20100902,boschelli john michael,86074810000072,VP & Chief Investment Officer,male,61924608.0
-109171.0,0.0,860748,unitrin inc,1,1,0,0,20100903,draut eric john,86074810000074,Executive Vice President & CFO,male,61924608.0
-15000.0,0.0,860748,unitrin inc,0,1,0,0,20101105,vigneau dennis robert,86074810000079,Senior Vice President and CFO,male,61450138.0
-20000.0,0.0,860748,unitrin inc,0,1,0,0,20110203,vigneau dennis robert,86074811000024,Senior Vice President and CFO,male,61066587.0
+52378.155,,860748,unitrin inc,0,1,0,1,20100902,roeske richard,86074810000071,Vice President &,male,61924608.0
+109171.0,,860748,unitrin inc,1,1,0,0,20100903,draut eric john,86074810000074,Executive Vice President & CFO,male,61924608.0
+15000.0,,860748,unitrin inc,0,1,0,0,20101105,vigneau dennis robert,86074810000079,Senior Vice President and CFO,male,61450138.0
+20000.0,,860748,unitrin inc,0,1,0,0,20110203,vigneau dennis robert,86074811000024,Senior Vice President and CFO,male,61066587.0
+165806.0,,860748,unitrin inc,1,1,0,0,20110203,southwell donald gene,86074811000023,"Chairman, President, CEO",male,61066587.0
 11715.0,2652.3148,860748,unitrin inc,0,1,0,0,20110203,sodaro frank joseph,86074811000022,Vice President,male,61066587.0
 18532.0,4775.7092,860748,unitrin inc,0,1,0,0,20110203,sandelski dennis joseph,86074811000021,Vice President,male,61066587.0
-53978.155,0.0,860748,unitrin inc,0,1,0,1,20110203,roeske richard,86074811000020,Vice President &,male,61066587.0
-165806.0,0.0,860748,unitrin inc,1,1,0,0,20110203,southwell donald gene,86074811000023,"Chairman, President, CEO",male,61066587.0
+24370.0,597.1244,860748,unitrin inc,0,1,0,0,20110203,boschelli john michael,86074811000015,VP & Chief Investment Officer,male,61066587.0
+64606.1156,,860748,unitrin inc,0,1,0,0,20110203,renwick scott,86074811000019,"Sr. V.P., Gen. Counsel & Secy.",male,61066587.0
 5475.0,193.5471,860748,unitrin inc,0,1,0,0,20110203,moses christopher lamont,86074811000018,Vice President and Treasurer,male,61066587.0
 36966.0,8830.913199999999,860748,unitrin inc,0,1,0,0,20110203,konar edward james,86074811000017,Vice President,male,61066587.0
 6257.0,973.5493,860748,unitrin inc,0,1,0,0,20110203,king lisa marie,86074811000016,Vice President,female,61066587.0
-24370.0,597.1244,860748,unitrin inc,0,1,0,0,20110203,boschelli john michael,86074811000015,VP & Chief Investment Officer,male,61066587.0
-64606.1156,0.0,860748,unitrin inc,0,1,0,0,20110203,renwick scott,86074811000019,"Sr. V.P., Gen. Counsel & Secy.",male,61066587.0
-6020.0,0.0,860748,unitrin inc,1,0,0,0,20110209,hedlund reuben lee,86074811000027,,male,61066587.0
-181236.0,0.0,860748,unitrin inc,1,0,0,0,20110218,vie richard carl,86074811000030,,male,61066587.0
-181061.0,0.0,860748,unitrin inc,1,0,0,0,20110301,vie richard carl,86074811000032,,male,61066587.0
-7030.0,0.0,860748,unitrin inc,1,0,0,0,20110331,ziegler ann elizabeth,86074811000036,,female,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,vie richard carl,86074811000058,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,storch david p,86074811000057,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,sarofim fayez,86074811000056,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,kauth wayne,86074811000055,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,annable james edward,86074811000051,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,hedlund reuben lee,86074811000053,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,geoga douglas gerard,86074811000052,,male,60452971.0
-0.0,0.0,860748,unitrin inc,1,0,0,0,20110505,howard julie,86074811000054,,female,60452971.0
+53978.155,,860748,unitrin inc,0,1,0,1,20110203,roeske richard,86074811000020,Vice President &,male,61066587.0
+6020.0,,860748,unitrin inc,1,0,0,0,20110209,hedlund reuben lee,86074811000027,,male,61066587.0
+181236.0,,860748,unitrin inc,1,0,0,0,20110218,vie richard carl,86074811000030,,male,61066587.0
+181061.0,,860748,unitrin inc,1,0,0,0,20110301,vie richard carl,86074811000032,,male,61066587.0
+,,860748,unitrin inc,1,0,0,0,20110331,ziegler ann elizabeth,86074811000036,,female,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,annable james edward,86074811000051,,male,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,hedlund reuben lee,86074811000053,,male,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,howard julie,86074811000054,,female,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,kauth wayne,86074811000055,,male,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,sarofim fayez,86074811000056,,male,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,storch david p,86074811000057,,male,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,vie richard carl,86074811000058,,male,60452971.0
+,,860748,unitrin inc,1,0,0,0,20110505,geoga douglas gerard,86074811000052,,male,60452971.0
 5338.0,196.49,860748,unitrin inc,0,1,0,0,20110803,moses christopher lamont,86074811000090,Vice President and Treasurer,male,60459691.0
-6117.0,985.05,860748,unitrin inc,0,1,0,0,20110803,king lisa marie,86074811000089,Vice President,female,60459691.0
 18392.0,4834.39,860748,unitrin inc,0,1,0,0,20110803,sandelski dennis joseph,86074811000086,Vice President,male,60459691.0
+6117.0,985.05,860748,unitrin inc,0,1,0,0,20110803,king lisa marie,86074811000089,Vice President,female,60459691.0
 11536.0,2681.76,860748,unitrin inc,0,1,0,0,20110803,sodaro frank joseph,86074811000084,Vice President,male,60459691.0
+11442.0,2681.76,860748,unitrin inc,0,1,0,0,20110804,sodaro frank joseph,86074811000094,Vice President,male,60459691.0
+18330.0,4834.39,860748,unitrin inc,0,1,0,0,20110804,sandelski dennis joseph,86074811000093,Vice President,male,60459691.0
 6070.0,985.05,860748,unitrin inc,0,1,0,0,20110804,king lisa marie,86074811000091,Vice President,female,60459691.0
 5307.0,196.49,860748,unitrin inc,0,1,0,0,20110804,moses christopher lamont,86074811000092,Vice President and Treasurer,male,60459691.0
-18330.0,4834.39,860748,unitrin inc,0,1,0,0,20110804,sandelski dennis joseph,86074811000093,Vice President,male,60459691.0
-11442.0,2681.76,860748,unitrin inc,0,1,0,0,20110804,sodaro frank joseph,86074811000094,Vice President,male,60459691.0
 5292.0,196.89,860748,unitrin inc,0,1,0,0,20110808,moses christopher lamont,86074811000095,Vice President and Treasurer,male,60459691.0
 18291.0,4844.38,860748,unitrin inc,0,1,0,0,20110808,sandelski dennis joseph,86074811000096,Vice President,male,60459691.0
 11411.0,2687.3,860748,unitrin inc,0,1,0,0,20110808,sodaro frank joseph,86074811000097,Vice President,male,60459691.0
 6023.0,987.08,860748,unitrin inc,0,1,0,0,20110808,king lisa marie,86074811000098,Vice President,female,60459691.0
-177586.0,0.0,860748,kemper corp,1,0,0,0,20111208,vie richard carl,86074811000147,,male,60460402.0
-162806.0,0.0,860748,kemper corp,1,1,0,0,20111215,southwell donald gene,86074811000150,"Chairman, President, CEO",male,60460402.0
-21000.0,0.0,860748,kemper corp,0,1,0,0,20111222,vigneau dennis robert,86074811000155,Senior Vice President and CFO,male,60460402.0
-177486.0,0.0,860748,kemper corp,1,0,0,0,20111227,vie richard carl,86074811000157,,male,60460402.0
-7020.0,0.0,860748,kemper corp,1,0,0,0,20111228,hedlund reuben lee,86074811000158,,male,60460402.0
-26370.0,613.14,860748,kemper corp,0,1,0,0,20120202,boschelli john michael,86074812000008,VP & Chief Investment Officer,male,60367195.0
-7292.0,199.53,860748,kemper corp,0,1,0,0,20120202,moses christopher lamont,86074812000009,Vice President and Treasurer,male,60367195.0
-69621.7787,0.0,860748,kemper corp,0,1,0,0,20120202,renwick scott,86074812000010,Sr. V.P. & General Counsel,male,60367195.0
-20291.0,4909.19,860748,kemper corp,0,1,0,0,20120202,sandelski dennis joseph,86074812000011,Vice President,male,60367195.0
-14411.0,2723.26,860748,kemper corp,0,1,0,0,20120202,sodaro frank joseph,86074812000012,Vice President,male,60367195.0
-177806.0,0.0,860748,kemper corp,1,1,0,0,20120202,southwell donald gene,86074812000013,"Chairman, President, CEO",male,60367195.0
-26000.0,0.0,860748,kemper corp,0,1,0,0,20120202,vigneau dennis robert,86074812000014,Senior Vice President and CFO,male,60367195.0
-55578.155,0.0,860748,kemper corp,0,1,0,1,20120202,roeske richard,86074812000015,Vice President &,male,60367195.0
-9023.0,1000.29,860748,kemper corp,0,1,0,0,20120202,king lisa marie,86074812000016,Vice President,female,60367195.0
+177586.0,,860748,kemper corp,1,0,0,0,20111208,vie richard carl,86074811000147,,male,60460402.0
+162806.0,,860748,kemper corp,1,1,0,0,20111215,southwell donald gene,86074811000150,"Chairman, President, CEO",male,60460402.0
+21000.0,,860748,kemper corp,0,1,0,0,20111222,vigneau dennis robert,86074811000155,Senior Vice President and CFO,male,60460402.0
+177486.0,,860748,kemper corp,1,0,0,0,20111227,vie richard carl,86074811000157,,male,60460402.0
+7020.0,,860748,kemper corp,1,0,0,0,20111228,hedlund reuben lee,86074811000158,,male,60460402.0
 39966.0,8994.18,860748,kemper corp,0,1,0,0,20120202,konar edward james,86074812000017,Vice President,male,60367195.0
-181583.0,0.0,860748,kemper corp,1,1,0,0,20120207,southwell donald gene,86074812000030,"Chairman, President, CEO",male,60367195.0
+9023.0,1000.29,860748,kemper corp,0,1,0,0,20120202,king lisa marie,86074812000016,Vice President,female,60367195.0
+55578.155,,860748,kemper corp,0,1,0,1,20120202,roeske richard,86074812000015,Vice President &,male,60367195.0
+26000.0,,860748,kemper corp,0,1,0,0,20120202,vigneau dennis robert,86074812000014,Senior Vice President and CFO,male,60367195.0
+69621.7787,,860748,kemper corp,0,1,0,0,20120202,renwick scott,86074812000010,Sr. V.P. & General Counsel,male,60367195.0
+14411.0,2723.26,860748,kemper corp,0,1,0,0,20120202,sodaro frank joseph,86074812000012,Vice President,male,60367195.0
+20291.0,4909.19,860748,kemper corp,0,1,0,0,20120202,sandelski dennis joseph,86074812000011,Vice President,male,60367195.0
+7292.0,199.53,860748,kemper corp,0,1,0,0,20120202,moses christopher lamont,86074812000009,Vice President and Treasurer,male,60367195.0
+26370.0,613.14,860748,kemper corp,0,1,0,0,20120202,boschelli john michael,86074812000008,VP & Chief Investment Officer,male,60367195.0
+177806.0,,860748,kemper corp,1,1,0,0,20120202,southwell donald gene,86074812000013,"Chairman, President, CEO",male,60367195.0
+70288.7787,,860748,kemper corp,0,1,0,0,20120207,renwick scott,86074812000029,Sr. V.P. & General Counsel,male,60367195.0
 20434.0,4914.7,860748,kemper corp,0,1,0,0,20120207,sandelski dennis joseph,86074812000028,Vice President,male,60367195.0
-55845.155,0.0,860748,kemper corp,0,1,0,1,20120207,roeske richard,86074812000027,Vice President &,male,60367195.0
-70288.7787,0.0,860748,kemper corp,0,1,0,0,20120207,renwick scott,86074812000029,Sr. V.P. & General Counsel,male,60367195.0
-9130.0,1001.41,860748,kemper corp,0,1,0,0,20120207,king lisa marie,86074812000025,Vice President,female,60367195.0
+181583.0,,860748,kemper corp,1,1,0,0,20120207,southwell donald gene,86074812000030,"Chairman, President, CEO",male,60367195.0
 40313.0,9000.9,860748,kemper corp,0,1,0,0,20120207,konar edward james,86074812000026,Vice President,male,60367195.0
+9130.0,1001.41,860748,kemper corp,0,1,0,0,20120207,king lisa marie,86074812000025,Vice President,female,60367195.0
 26548.0,613.83,860748,kemper corp,0,1,0,0,20120207,boschelli john michael,86074812000024,VP & Chief Investment Officer,male,60367195.0
-3500.0,0.0,860748,kemper corp,1,0,0,0,20120223,howard julie,86074812000035,,female,60367195.0
-171900.0,0.0,860748,kemper corp,1,0,0,0,20120328,vie richard carl,86074812000042,,male,60367195.0
-165900.0,0.0,860748,kemper corp,1,0,0,0,20120329,vie richard carl,86074812000043,,male,60367195.0
-157486.0,0.0,860748,kemper corp,1,0,0,0,20120402,vie richard carl,86074812000044,,male,59723362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,annable james edward,86074812000051,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,geoga douglas gerard,86074812000052,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,hedlund reuben lee,86074812000053,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,howard julie,86074812000054,,female,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,kauth wayne,86074812000055,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,storch david p,86074812000056,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,vie richard carl,86074812000057,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120503,sarofim fayez,86074812000058,,male,59725362.0
-5000.0,0.0,860748,kemper corp,1,0,0,0,20120629,hedlund reuben lee,86074812000067,,male,59725362.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20120802,joyce robert joseph,86074812000073,,male,58664911.0
+55845.155,,860748,kemper corp,0,1,0,1,20120207,roeske richard,86074812000027,Vice President &,male,60367195.0
+3500.0,,860748,kemper corp,1,0,0,0,20120223,howard julie,86074812000035,,female,60367195.0
+171900.0,,860748,kemper corp,1,0,0,0,20120328,vie richard carl,86074812000042,,male,60367195.0
+165900.0,,860748,kemper corp,1,0,0,0,20120329,vie richard carl,86074812000043,,male,60367195.0
+157486.0,,860748,kemper corp,1,0,0,0,20120402,vie richard carl,86074812000044,,male,59723362.0
+,,860748,kemper corp,1,0,0,0,20120503,annable james edward,86074812000051,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,geoga douglas gerard,86074812000052,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,hedlund reuben lee,86074812000053,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,howard julie,86074812000054,,female,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,kauth wayne,86074812000055,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,storch david p,86074812000056,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,vie richard carl,86074812000057,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120503,sarofim fayez,86074812000058,,male,59725362.0
+5000.0,,860748,kemper corp,1,0,0,0,20120629,hedlund reuben lee,86074812000067,,male,59725362.0
+,,860748,kemper corp,1,0,0,0,20120802,joyce robert joseph,86074812000073,,male,58664911.0
 8935.0,1010.91,860748,kemper corp,0,1,0,0,20120802,king lisa marie,86074812000077,Vice President,female,58664911.0
 8826.0,1010.91,860748,kemper corp,0,1,0,0,20120806,king lisa marie,86074812000081,Vice President,female,58664911.0
-166583.0,0.0,860748,kemper corp,1,1,0,0,20120810,southwell donald gene,86074812000085,"Chairman, President, CEO",male,58664911.0
-75911.2558,0.0,860748,kemper corp,0,1,0,0,20121115,renwick scott,86074812000091,Sr. V.P. & General Counsel,male,58353230.0
-206912.0,0.0,860748,kemper corp,1,1,0,0,20121130,southwell donald gene,86074812000095,"Chairman, President, CEO",male,58353230.0
+166583.0,,860748,kemper corp,1,1,0,0,20120810,southwell donald gene,86074812000085,"Chairman, President, CEO",male,58664911.0
+75911.2558,,860748,kemper corp,0,1,0,0,20121115,renwick scott,86074812000091,Sr. V.P. & General Counsel,male,58353230.0
+206912.0,,860748,kemper corp,1,1,0,0,20121130,southwell donald gene,86074812000095,"Chairman, President, CEO",male,58353230.0
 28404.0,629.8142,860748,kemper corp,0,1,0,0,20121210,boschelli john michael,86074812000098,VP & Chief Investment Officer,male,58353230.0
-157176.0,0.0,860748,kemper corp,1,0,0,0,20121211,vie richard carl,86074812000099,,male,58353230.0
-198000.0,0.0,860748,kemper corp,1,1,0,0,20121212,southwell donald gene,86074812000100,"Chairman, President, CEO",male,58353230.0
-53742.0,0.0,860748,kemper corp,1,0,0,0,20121221,annable james edward,86074812000103,,male,58353230.0
+157176.0,,860748,kemper corp,1,0,0,0,20121211,vie richard carl,86074812000099,,male,58353230.0
+198000.0,,860748,kemper corp,1,1,0,0,20121212,southwell donald gene,86074812000100,"Chairman, President, CEO",male,58353230.0
+53742.0,,860748,kemper corp,1,0,0,0,20121221,annable james edward,86074812000103,,male,58353230.0
 9186.0,1027.56,860748,kemper corp,0,1,0,0,20130102,king lisa marie,86074813000001,Vice President,female,58454390.0
-209528.0,0.0,860748,kemper corp,1,1,0,0,20130205,southwell donald gene,86074813000009,"Chairman, President, CEO",male,58558898.0
-31000.0,0.0,860748,kemper corp,0,1,0,0,20130205,vigneau dennis robert,86074813000008,Senior Vice President and CFO,male,58558898.0
-78620.2558,0.0,860748,kemper corp,0,1,0,0,20130205,renwick scott,86074813000007,Sr. V.P. & General Counsel,male,58558898.0
-57012.155,0.0,860748,kemper corp,0,1,0,1,20130205,roeske richard,86074813000006,Vice President &,male,58558898.0
-29971.0,628.75,860748,kemper corp,0,1,0,0,20130205,boschelli john michael,86074813000004,VP & Chief Investment Officer,male,58558898.0
-24322.0,0.0,860748,kemper corp,0,1,0,0,20130205,lynch denise idell,86074813000005,Group Executive,female,58558898.0
-42224.0,9151.327,860748,kemper corp,0,1,0,0,20130205,konar edward james,86074813000003,Vice President,male,58558898.0
 10455.0,1026.17,860748,kemper corp,0,1,0,0,20130205,king lisa marie,86074813000002,Vice President,female,58558898.0
-73627.9661,0.0,860748,kemper corp,0,1,0,0,20130308,renwick scott,86074813000022,Sr. V.P. & General Counsel,male,58558898.0
-203528.0,0.0,860748,kemper corp,1,1,0,0,20130319,southwell donald gene,86074813000025,"Chairman, President, CEO",male,58558898.0
-27011.0,0.0,860748,kemper corp,0,1,0,0,20130325,lynch denise idell,86074813000027,Vice President,female,58558898.0
-7830.0,0.0,860748,kemper corp,1,0,0,0,20130327,geoga douglas gerard,86074813000028,,male,58558898.0
-5830.0,0.0,860748,kemper corp,1,0,0,0,20130327,hedlund reuben lee,86074813000029,,male,58558898.0
-157676.0,0.0,860748,kemper corp,1,0,0,0,20130501,vie richard carl,86074813000041,,male,58041289.0
-5500.0,0.0,860748,kemper corp,1,0,0,0,20130501,storch david p,86074813000040,,male,58041289.0
-500.0,0.0,860748,kemper corp,1,0,0,0,20130501,joyce robert joseph,86074813000038,,male,58041289.0
-11500.0,0.0,860748,kemper corp,1,0,0,0,20130501,kauth wayne,86074813000039,,male,58041289.0
-8330.0,0.0,860748,kemper corp,1,0,0,0,20130501,geoga douglas gerard,86074813000036,,male,58041289.0
-500.0,0.0,860748,kemper corp,1,0,0,0,20130501,sarofim christopher binyon,86074813000035,,male,58041289.0
-54242.0,0.0,860748,kemper corp,1,0,0,0,20130501,annable james edward,86074813000033,,male,58041289.0
-4000.0,0.0,860748,kemper corp,1,0,0,0,20130501,howard julie,86074813000037,,female,58041289.0
-195918.0,0.0,860748,kemper corp,1,1,0,0,20130508,southwell donald gene,86074813000050,"Chairman, President, CEO",male,58041289.0
-142676.0,0.0,860748,kemper corp,1,0,0,0,20130508,vie richard carl,86074813000051,,male,58041289.0
-141185.0,0.0,860748,kemper corp,1,0,0,0,20130531,vie richard carl,86074813000053,,male,58041289.0
-132676.0,0.0,860748,kemper corp,1,0,0,0,20130603,vie richard carl,86074813000054,,male,58041289.0
+42224.0,9151.327,860748,kemper corp,0,1,0,0,20130205,konar edward james,86074813000003,Vice President,male,58558898.0
+29971.0,628.75,860748,kemper corp,0,1,0,0,20130205,boschelli john michael,86074813000004,VP & Chief Investment Officer,male,58558898.0
+24322.0,,860748,kemper corp,0,1,0,0,20130205,lynch denise idell,86074813000005,Group Executive,female,58558898.0
+57012.155,,860748,kemper corp,0,1,0,1,20130205,roeske richard,86074813000006,Vice President &,male,58558898.0
+209528.0,,860748,kemper corp,1,1,0,0,20130205,southwell donald gene,86074813000009,"Chairman, President, CEO",male,58558898.0
+78620.2558,,860748,kemper corp,0,1,0,0,20130205,renwick scott,86074813000007,Sr. V.P. & General Counsel,male,58558898.0
+31000.0,,860748,kemper corp,0,1,0,0,20130205,vigneau dennis robert,86074813000008,Senior Vice President and CFO,male,58558898.0
+73627.9661,,860748,kemper corp,0,1,0,0,20130308,renwick scott,86074813000022,Sr. V.P. & General Counsel,male,58558898.0
+,,860748,kemper corp,1,1,0,0,20130319,southwell donald gene,86074813000025,"Chairman, President, CEO",male,58558898.0
+27011.0,,860748,kemper corp,0,1,0,0,20130325,lynch denise idell,86074813000027,Vice President,female,58558898.0
+7830.0,,860748,kemper corp,1,0,0,0,20130327,geoga douglas gerard,86074813000028,,male,58558898.0
+5830.0,,860748,kemper corp,1,0,0,0,20130327,hedlund reuben lee,86074813000029,,male,58558898.0
+157676.0,,860748,kemper corp,1,0,0,0,20130501,vie richard carl,86074813000041,,male,58041289.0
+5500.0,,860748,kemper corp,1,0,0,0,20130501,storch david p,86074813000040,,male,58041289.0
+11500.0,,860748,kemper corp,1,0,0,0,20130501,kauth wayne,86074813000039,,male,58041289.0
+54242.0,,860748,kemper corp,1,0,0,0,20130501,annable james edward,86074813000033,,male,58041289.0
+4000.0,,860748,kemper corp,1,0,0,0,20130501,howard julie,86074813000037,,female,58041289.0
+8330.0,,860748,kemper corp,1,0,0,0,20130501,geoga douglas gerard,86074813000036,,male,58041289.0
+500.0,,860748,kemper corp,1,0,0,0,20130501,sarofim christopher binyon,86074813000035,,male,58041289.0
+500.0,,860748,kemper corp,1,0,0,0,20130501,joyce robert joseph,86074813000038,,male,58041289.0
+,,860748,kemper corp,1,1,0,0,20130508,southwell donald gene,86074813000050,"Chairman, President, CEO",male,58041289.0
+142676.0,,860748,kemper corp,1,0,0,0,20130508,vie richard carl,86074813000051,,male,58041289.0
+141185.0,,860748,kemper corp,1,0,0,0,20130531,vie richard carl,86074813000053,,male,58041289.0
+132676.0,,860748,kemper corp,1,0,0,0,20130603,vie richard carl,86074813000054,,male,58041289.0
 4000.0,164.0,860748,kemper corp,1,0,0,0,20130605,vie richard carl,86074813000056,,male,58041289.0
-16056.0,0.0,860748,kemper corp,0,1,0,0,20130802,sodaro frank joseph,86074813000066,Senior Vice President & CFO,male,56914532.0
+16056.0,,860748,kemper corp,0,1,0,0,20130802,sodaro frank joseph,86074813000066,Senior Vice President & CFO,male,56914532.0
 10260.0,1039.81,860748,kemper corp,0,1,0,0,20130802,king lisa marie,86074813000067,Vice President,female,56914532.0
+15877.0,,860748,kemper corp,0,1,0,0,20130805,sodaro frank joseph,86074813000069,Senior Vice President & CFO,male,56914532.0
 10198.0,1039.81,860748,kemper corp,0,1,0,0,20130805,king lisa marie,86074813000068,Vice President,female,56914532.0
-15877.0,0.0,860748,kemper corp,0,1,0,0,20130805,sodaro frank joseph,86074813000069,Senior Vice President & CFO,male,56914532.0
-185614.0,0.0,860748,kemper corp,1,1,0,0,20130806,southwell donald gene,86074813000070,"Chairman, President, CEO",male,56914532.0
+185614.0,,860748,kemper corp,1,1,0,0,20130806,southwell donald gene,86074813000070,"Chairman, President, CEO",male,56914532.0
 127512.0,4164.0,860748,kemper corp,1,0,0,0,20130807,vie richard carl,86074813000071,,male,56914532.0
-76970.9661,0.0,860748,kemper corp,0,1,0,0,20130808,renwick scott,86074813000074,Sr. V.P. & General Counsel,male,56914532.0
 117512.0,4164.0,860748,kemper corp,1,0,0,0,20130808,vie richard carl,86074813000072,,male,56914532.0
-198208.0,0.0,860748,kemper corp,1,1,0,0,20130808,southwell donald gene,86074813000073,"Chairman, President, CEO",male,56914532.0
+198208.0,,860748,kemper corp,1,1,0,0,20130808,southwell donald gene,86074813000073,"Chairman, President, CEO",male,56914532.0
+76970.9661,,860748,kemper corp,0,1,0,0,20130808,renwick scott,86074813000074,Sr. V.P. & General Counsel,male,56914532.0
 114012.0,4164.0,860748,kemper corp,1,0,0,0,20130812,vie richard carl,86074813000075,,male,56914532.0
-27898.0,0.0,860748,kemper corp,0,1,0,0,20130813,lynch denise idell,86074813000076,Vice President,female,56914532.0
-98312.0,4164.0,860748,kemper corp,1,0,0,0,20130815,vie richard carl,86074813000077,,male,56914532.0
+27898.0,,860748,kemper corp,0,1,0,0,20130813,lynch denise idell,86074813000076,Vice President,female,56914532.0
 31660.0,637.2,860748,kemper corp,0,1,0,0,20130815,boschelli john michael,86074813000078,VP & Chief Investment Officer,male,56914532.0
+98312.0,4164.0,860748,kemper corp,1,0,0,0,20130815,vie richard carl,86074813000077,,male,56914532.0
 92512.0,4164.0,860748,kemper corp,1,0,0,0,20130821,vie richard carl,86074813000079,,male,56914532.0
 8000.0,4164.0,860748,kemper corp,1,0,0,0,20130829,vie richard carl,86074813000080,,male,56914532.0
 42512.0,16164.0,860748,kemper corp,1,0,0,0,20131206,vie richard carl,86074813000097,,male,55682955.0
-53242.0,0.0,860748,kemper corp,1,0,0,0,20131210,annable james edward,86074813000098,,male,55682955.0
-206141.0,0.0,860748,kemper corp,1,1,0,0,20131210,southwell donald gene,86074813000099,"Chairman, President, CEO",male,55682955.0
-201141.0,0.0,860748,kemper corp,1,1,0,0,20131211,southwell donald gene,86074813000100,"Chairman, President, CEO",male,55682955.0
+206141.0,,860748,kemper corp,1,1,0,0,20131210,southwell donald gene,86074813000099,"Chairman, President, CEO",male,55682955.0
+53242.0,,860748,kemper corp,1,0,0,0,20131210,annable james edward,86074813000098,,male,55682955.0
+201141.0,,860748,kemper corp,1,1,0,0,20131211,southwell donald gene,86074813000100,"Chairman, President, CEO",male,55682955.0
 39224.0,6298.59,860748,kemper corp,0,1,0,0,20131213,konar edward james,86074813000101,Vice President,male,55682955.0
-198641.0,0.0,860748,kemper corp,1,1,0,0,20131217,southwell donald gene,86074813000103,"Chairman, President, CEO",male,55682955.0
+198641.0,,860748,kemper corp,1,1,0,0,20131217,southwell donald gene,86074813000103,"Chairman, President, CEO",male,55682955.0
 32512.0,16164.0,860748,kemper corp,1,0,0,0,20131223,vie richard carl,86074813000104,,male,55682955.0
 22512.0,16164.0,860748,kemper corp,1,0,0,0,20131227,vie richard carl,86074813000106,,male,55682955.0
-76183.9661,0.0,860748,kemper corp,0,1,0,0,20140204,renwick scott,86074814000003,Sr. V.P. & General Counsel,male,55653437.0
-195583.0,0.0,860748,kemper corp,1,1,0,0,20140204,southwell donald gene,86074814000004,"Chairman, President, CEO",male,55653437.0
-31132.0,644.4925,860748,kemper corp,0,1,0,0,20140204,boschelli john michael,86074814000005,VP & Chief Investment Officer,male,55653437.0
-56590.155,0.0,860748,kemper corp,0,1,0,1,20140204,roeske richard,86074814000006,Vice President &,male,55653437.0
-38479.0,6305.3469,860748,kemper corp,0,1,0,0,20140204,konar edward james,86074814000007,Vice President,male,55653437.0
-27191.0,0.0,860748,kemper corp,0,1,0,0,20140204,lynch denise idell,86074814000008,Vice President,female,55653437.0
+15481.0,,860748,kemper corp,0,1,0,0,20140204,sodaro frank joseph,86074814000010,Senior Vice President & CFO,male,55653437.0
 9934.0,1051.8631,860748,kemper corp,0,1,0,0,20140204,king lisa marie,86074814000009,Vice President,female,55653437.0
-15481.0,0.0,860748,kemper corp,0,1,0,0,20140204,sodaro frank joseph,86074814000010,Senior Vice President & CFO,male,55653437.0
-0.0,0.0,860748,kemper corp,1,1,0,0,20140206,southwell donald gene,86074814000018,"Chairman, President, CEO",male,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20140206,sodaro frank joseph,86074814000019,Senior Vice President & CFO,male,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,1,20140206,roeske richard,86074814000017,Vice President &,male,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20140206,renwick scott,86074814000016,Sr. V.P. & General Counsel,male,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20140206,konar edward james,86074814000014,Vice President,male,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20140206,king lisa marie,86074814000013,Vice President,female,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20140206,boschelli john michael,86074814000012,VP & Chief Investment Officer,male,55653437.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20140206,lynch denise idell,86074814000015,Vice President,female,55653437.0
-29165.0,0.0,860748,kemper corp,0,1,0,0,20140324,lynch denise idell,86074814000029,Vice President,female,55510825.0
-53742.0,0.0,860748,kemper corp,1,0,0,0,20140508,annable james edward,86074814000034,,male,55338831.0
-8830.0,0.0,860748,kemper corp,1,0,0,0,20140508,geoga douglas gerard,86074814000035,,male,55338831.0
-4500.0,0.0,860748,kemper corp,1,0,0,0,20140508,howard julie,86074814000036,,female,55338831.0
-1000.0,0.0,860748,kemper corp,1,0,0,0,20140508,joyce robert joseph,86074814000037,,male,55338831.0
-12000.0,0.0,860748,kemper corp,1,0,0,0,20140508,kauth wayne,86074814000038,,male,55338831.0
-1000.0,0.0,860748,kemper corp,1,0,0,0,20140508,sarofim christopher binyon,86074814000039,,male,55338831.0
-6000.0,0.0,860748,kemper corp,1,0,0,0,20140508,storch david p,86074814000040,,male,55338831.0
+27191.0,,860748,kemper corp,0,1,0,0,20140204,lynch denise idell,86074814000008,Vice President,female,55653437.0
+31132.0,644.4925,860748,kemper corp,0,1,0,0,20140204,boschelli john michael,86074814000005,VP & Chief Investment Officer,male,55653437.0
+195583.0,,860748,kemper corp,1,1,0,0,20140204,southwell donald gene,86074814000004,"Chairman, President, CEO",male,55653437.0
+76183.9661,,860748,kemper corp,0,1,0,0,20140204,renwick scott,86074814000003,Sr. V.P. & General Counsel,male,55653437.0
+56590.155,,860748,kemper corp,0,1,0,1,20140204,roeske richard,86074814000006,Vice President &,male,55653437.0
+38479.0,6305.3469,860748,kemper corp,0,1,0,0,20140204,konar edward james,86074814000007,Vice President,male,55653437.0
+,,860748,kemper corp,0,1,0,0,20140206,boschelli john michael,86074814000012,VP & Chief Investment Officer,male,55653437.0
+,,860748,kemper corp,0,1,0,0,20140206,king lisa marie,86074814000013,Vice President,female,55653437.0
+,,860748,kemper corp,0,1,0,0,20140206,konar edward james,86074814000014,Vice President,male,55653437.0
+,,860748,kemper corp,0,1,0,0,20140206,lynch denise idell,86074814000015,Vice President,female,55653437.0
+,,860748,kemper corp,0,1,0,0,20140206,renwick scott,86074814000016,Sr. V.P. & General Counsel,male,55653437.0
+,,860748,kemper corp,0,1,0,1,20140206,roeske richard,86074814000017,Vice President &,male,55653437.0
+,,860748,kemper corp,1,1,0,0,20140206,southwell donald gene,86074814000018,"Chairman, President, CEO",male,55653437.0
+,,860748,kemper corp,0,1,0,0,20140206,sodaro frank joseph,86074814000019,Senior Vice President & CFO,male,55653437.0
+29165.0,,860748,kemper corp,0,1,0,0,20140324,lynch denise idell,86074814000029,Vice President,female,55510825.0
+4500.0,,860748,kemper corp,1,0,0,0,20140508,howard julie,86074814000036,,female,55338831.0
+53742.0,,860748,kemper corp,1,0,0,0,20140508,annable james edward,86074814000034,,male,55338831.0
 23012.0,16164.0,860748,kemper corp,1,0,0,0,20140508,vie richard carl,86074814000041,,male,55338831.0
-73183.9661,0.0,860748,kemper corp,0,1,0,0,20140529,renwick scott,86074814000050,Sr. V.P. & General Counsel,male,55338831.0
-72183.9661,0.0,860748,kemper corp,0,1,0,0,20140602,renwick scott,86074814000053,Sr. V.P. & General Counsel,male,55338831.0
-70183.9661,0.0,860748,kemper corp,0,1,0,0,20140606,renwick scott,86074814000054,Sr. V.P. & General Counsel,male,55338831.0
-64183.9661,0.0,860748,kemper corp,0,1,0,0,20140610,renwick scott,86074814000055,Sr. V.P. & General Counsel,male,55338831.0
-58183.9661,0.0,860748,kemper corp,0,1,0,0,20140612,renwick scott,86074814000058,Sr. V.P. & General Counsel,male,55338831.0
-52183.9661,0.0,860748,kemper corp,0,1,0,0,20140616,renwick scott,86074814000059,Sr. V.P. & General Counsel,male,55338831.0
-46183.9661,0.0,860748,kemper corp,0,1,0,0,20140618,renwick scott,86074814000063,Sr. V.P. & General Counsel,male,55338831.0
-40183.9661,0.0,860748,kemper corp,0,1,0,0,20140620,renwick scott,86074814000064,Sr. V.P. & General Counsel,male,55338831.0
-30319.9661,0.0,860748,kemper corp,0,1,0,0,20140624,renwick scott,86074814000065,Sr. V.P. & General Counsel,male,55338831.0
-15360.0,0.0,860748,kemper corp,0,1,0,0,20140801,sodaro frank joseph,86074814000066,Senior Vice President & CFO,male,52671743.0
+6000.0,,860748,kemper corp,1,0,0,0,20140508,storch david p,86074814000040,,male,55338831.0
+8830.0,,860748,kemper corp,1,0,0,0,20140508,geoga douglas gerard,86074814000035,,male,55338831.0
+12000.0,,860748,kemper corp,1,0,0,0,20140508,kauth wayne,86074814000038,,male,55338831.0
+1000.0,,860748,kemper corp,1,0,0,0,20140508,joyce robert joseph,86074814000037,,male,55338831.0
+1000.0,,860748,kemper corp,1,0,0,0,20140508,sarofim christopher binyon,86074814000039,,male,55338831.0
+73183.9661,,860748,kemper corp,0,1,0,0,20140529,renwick scott,86074814000050,Sr. V.P. & General Counsel,male,55338831.0
+72183.9661,,860748,kemper corp,0,1,0,0,20140602,renwick scott,86074814000053,Sr. V.P. & General Counsel,male,55338831.0
+70183.9661,,860748,kemper corp,0,1,0,0,20140606,renwick scott,86074814000054,Sr. V.P. & General Counsel,male,55338831.0
+64183.9661,,860748,kemper corp,0,1,0,0,20140610,renwick scott,86074814000055,Sr. V.P. & General Counsel,male,55338831.0
+58183.9661,,860748,kemper corp,0,1,0,0,20140612,renwick scott,86074814000058,Sr. V.P. & General Counsel,male,55338831.0
+52183.9661,,860748,kemper corp,0,1,0,0,20140616,renwick scott,86074814000059,Sr. V.P. & General Counsel,male,55338831.0
+46183.9661,,860748,kemper corp,0,1,0,0,20140618,renwick scott,86074814000063,Sr. V.P. & General Counsel,male,55338831.0
+40183.9661,,860748,kemper corp,0,1,0,0,20140620,renwick scott,86074814000064,Sr. V.P. & General Counsel,male,55338831.0
+30319.9661,,860748,kemper corp,0,1,0,0,20140624,renwick scott,86074814000065,Sr. V.P. & General Counsel,male,55338831.0
+15360.0,,860748,kemper corp,0,1,0,0,20140801,sodaro frank joseph,86074814000066,Senior Vice President & CFO,male,52671743.0
 9813.0,1065.43,860748,kemper corp,0,1,0,0,20140801,king lisa marie,86074814000067,Vice President,female,52671743.0
 9733.0,1065.35,860748,kemper corp,0,1,0,0,20140805,king lisa marie,86074814000068,Vice President,female,52671743.0
-15118.0,0.0,860748,kemper corp,0,1,0,0,20140805,sodaro frank joseph,86074814000069,Senior Vice President & CFO,male,52671743.0
-191083.0,0.0,860748,kemper corp,1,1,0,0,20141218,southwell donald gene,86074814000097,"Chairman, President, CEO",male,52665615.0
-54990.155,0.0,860748,kemper corp,0,1,0,1,20150202,roeske richard,86074815000012,Vice President &,male,52418246.0
-176083.0,0.0,860748,kemper corp,1,1,0,0,20150202,southwell donald gene,86074815000015,"Chairman, President, CEO",male,52418246.0
-29132.0,661.7,860748,kemper corp,0,1,0,0,20150202,boschelli john michael,86074815000014,VP & Chief Investment Officer,male,52418246.0
+15118.0,,860748,kemper corp,0,1,0,0,20140805,sodaro frank joseph,86074814000069,Senior Vice President & CFO,male,52671743.0
+191083.0,,860748,kemper corp,1,1,0,0,20141218,southwell donald gene,86074814000097,"Chairman, President, CEO",male,52665615.0
 8233.0,1079.79,860748,kemper corp,0,1,0,0,20150202,king lisa marie,86074815000011,Vice President,female,52418246.0
-26165.0,0.0,860748,kemper corp,0,1,0,0,20150202,lynch denise idell,86074815000013,Vice President,female,52418246.0
-13618.0,0.0,860748,kemper corp,0,1,0,0,20150203,sodaro frank joseph,86074815000017,Senior Vice President & CFO,male,52418246.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20150206,cochran george n,86074815000024,,male,52418246.0
-0.0,0.0,860748,kemper corp,1,0,0,0,20150206,cronin kathleen m,86074815000026,,female,52418246.0
-0.0,0.0,860748,kemper corp,1,1,0,0,20150206,southwell donald gene,86074815000027,"Chairman, President, CEO",male,52418246.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20150206,sodaro frank joseph,86074815000028,Senior Vice President & CFO,male,52418246.0
-0.0,0.0,860748,kemper corp,0,1,0,1,20150206,roeske richard,86074815000029,Vice President &,male,52418246.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20150206,lynch denise idell,86074815000030,Vice President,female,52418246.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20150206,king lisa marie,86074815000031,Vice President,female,52418246.0
-0.0,0.0,860748,kemper corp,0,1,0,0,20150206,boschelli john michael,86074815000032,VP & Chief Investment Officer,male,52418246.0
-184404.0,0.0,860748,kemper corp,1,1,0,0,20150224,southwell donald gene,86074815000042,"Chairman, President, CEO",male,51874886.0
-30849.0,0.0,860748,kemper corp,0,1,0,0,20150227,boschelli john michael,86074815000043,VP & Chief Investment Officer,male,51874886.0
-58273.155,0.0,860748,kemper corp,1,1,0,1,20150302,roeske richard,86074815000044,Vice President &,male,51874886.0
-27579.0,0.0,860748,kemper corp,0,1,0,0,20150320,lynch denise idell,86074815000051,Vice President,female,51874886.0
-189889.0,0.0,860748,kemper corp,1,1,0,0,20150323,southwell donald gene,86074815000052,"Chairman, President, CEO",male,51874886.0
+54990.155,,860748,kemper corp,0,1,0,1,20150202,roeske richard,86074815000012,Vice President &,male,52418246.0
+26165.0,,860748,kemper corp,0,1,0,0,20150202,lynch denise idell,86074815000013,Vice President,female,52418246.0
+29132.0,661.7,860748,kemper corp,0,1,0,0,20150202,boschelli john michael,86074815000014,VP & Chief Investment Officer,male,52418246.0
+176083.0,,860748,kemper corp,1,1,0,0,20150202,southwell donald gene,86074815000015,"Chairman, President, CEO",male,52418246.0
+13618.0,,860748,kemper corp,0,1,0,0,20150203,sodaro frank joseph,86074815000017,Senior Vice President & CFO,male,52418246.0
+,,860748,kemper corp,0,1,0,0,20150206,boschelli john michael,86074815000032,VP & Chief Investment Officer,male,52418246.0
+,,860748,kemper corp,0,1,0,0,20150206,king lisa marie,86074815000031,Vice President,female,52418246.0
+,,860748,kemper corp,0,1,0,0,20150206,lynch denise idell,86074815000030,Vice President,female,52418246.0
+,,860748,kemper corp,0,1,0,1,20150206,roeske richard,86074815000029,Vice President &,male,52418246.0
+,,860748,kemper corp,1,0,0,0,20150206,cronin kathleen m,86074815000026,,female,52418246.0
+,,860748,kemper corp,0,1,0,0,20150206,sodaro frank joseph,86074815000028,Senior Vice President & CFO,male,52418246.0
+,,860748,kemper corp,1,1,0,0,20150206,southwell donald gene,86074815000027,"Chairman, President, CEO",male,52418246.0
+,,860748,kemper corp,1,0,0,0,20150206,cochran george n,86074815000024,,male,52418246.0
+184404.0,,860748,kemper corp,1,1,0,0,20150224,southwell donald gene,86074815000042,"Chairman, President, CEO",male,51874886.0
+30849.0,,860748,kemper corp,0,1,0,0,20150227,boschelli john michael,86074815000043,VP & Chief Investment Officer,male,51874886.0
+58273.155,,860748,kemper corp,1,1,0,1,20150302,roeske richard,86074815000044,Vice President &,male,51874886.0
+27579.0,,860748,kemper corp,0,1,0,0,20150320,lynch denise idell,86074815000051,Vice President,female,51874886.0
+189889.0,,860748,kemper corp,1,1,0,0,20150323,southwell donald gene,86074815000052,"Chairman, President, CEO",male,51874886.0
 0.0,16000.0,860748,kemper corp,1,0,0,0,20150325,vie richard carl,86074815000053,,male,51874886.0
-53242.0,0.0,860748,kemper corp,1,0,0,0,20150506,annable james edward,86074815000060,,male,51826732.0
-1708.05,0.0,860748,kemper corp,1,0,0,0,20150506,cochran george n,86074815000061,,male,51826732.0
-500.0,0.0,860748,kemper corp,1,0,0,0,20150506,cronin kathleen m,86074815000062,,female,51826732.0
-9330.0,0.0,860748,kemper corp,1,0,0,0,20150506,geoga douglas gerard,86074815000063,,male,51826732.0
-1500.0,0.0,860748,kemper corp,1,0,0,0,20150506,joyce robert joseph,86074815000064,,male,51826732.0
-1500.0,0.0,860748,kemper corp,1,0,0,0,20150506,sarofim christopher binyon,86074815000065,,male,51826732.0
-6500.0,0.0,860748,kemper corp,1,0,0,0,20150506,storch david p,86074815000066,,male,51826732.0
-13502.0,0.0,860748,kemper corp,0,1,0,0,20150803,sodaro frank joseph,86074815000088,Senior Vice President & CFO,male,51800200.0
+6500.0,,860748,kemper corp,1,0,0,0,20150506,storch david p,86074815000066,,male,51826732.0
+1500.0,,860748,kemper corp,1,0,0,0,20150506,sarofim christopher binyon,86074815000065,,male,51826732.0
+1500.0,,860748,kemper corp,1,0,0,0,20150506,joyce robert joseph,86074815000064,,male,51826732.0
+500.0,,860748,kemper corp,1,0,0,0,20150506,cronin kathleen m,86074815000062,,female,51826732.0
+1708.05,,860748,kemper corp,1,0,0,0,20150506,cochran george n,86074815000061,,male,51826732.0
+53242.0,,860748,kemper corp,1,0,0,0,20150506,annable james edward,86074815000060,,male,51826732.0
+9330.0,,860748,kemper corp,1,0,0,0,20150506,geoga douglas gerard,86074815000063,,male,51826732.0
+13502.0,,860748,kemper corp,0,1,0,0,20150803,sodaro frank joseph,86074815000088,Senior Vice President & CFO,male,51800200.0
+13502.0,,860748,kemper corp,0,1,0,0,20150803,sodaro frank joseph,86074815000088,Senior Vice President & CFO,male,51800200.0
 8117.0,1091.43,860748,kemper corp,0,1,0,0,20150804,king lisa marie,86074815000089,Vice President,female,51800200.0
-13386.0,0.0,860748,kemper corp,0,1,0,0,20150805,sodaro frank joseph,86074815000091,Senior Vice President & CFO,male,51800200.0
+8117.0,1091.43,860748,kemper corp,0,1,0,0,20150804,king lisa marie,86074815000089,Vice President,female,51800200.0
+13386.0,,860748,kemper corp,0,1,0,0,20150805,sodaro frank joseph,86074815000091,Senior Vice President & CFO,male,51800200.0
+13386.0,,860748,kemper corp,0,1,0,0,20150805,sodaro frank joseph,86074815000091,Senior Vice President & CFO,male,51800200.0
 25849.0,669.07,860748,kemper corp,0,1,0,0,20150820,boschelli john michael,86074815000100,VP & Chief Investment Officer,male,51800200.0
-183889.0,0.0,860748,kemper corp,1,1,0,0,20150821,southwell donald gene,86074815000101,"Chairman, President, CEO",male,51800200.0
-21447.0,0.0,860748,kemper corp,0,1,0,0,20150821,evans carl thomas jr.,86074815000105,"VP, Secretary & Gen. Counsel",male,51800200.0
+25849.0,669.07,860748,kemper corp,0,1,0,0,20150820,boschelli john michael,86074815000100,VP & Chief Investment Officer,male,51800200.0
+21447.0,,860748,kemper corp,0,1,0,0,20150821,evans carl thomas jr.,86074815000105,"VP, Secretary & Gen. Counsel",male,51800200.0
+183889.0,,860748,kemper corp,1,1,0,0,20150821,southwell donald gene,86074815000101,"Chairman, President, CEO",male,51800200.0
+21447.0,,860748,kemper corp,0,1,0,0,20150821,evans carl thomas jr.,86074815000105,"VP, Secretary & Gen. Counsel",male,51800200.0
+183889.0,,860748,kemper corp,1,1,0,0,20150821,southwell donald gene,86074815000101,"Chairman, President, CEO",male,51800200.0
+,,860748,kemper corp,1,1,0,0,20151123,lacher joseph p jr,86074815000119,President and CEO,male,51254173.0
+,,860748,kemper corp,1,0,0,0,20151123,cochran george n,86074815000120,,male,51254173.0
+,,860748,kemper corp,1,0,0,0,20151123,geoga douglas gerard,86074815000121,,male,51254173.0
+,,860748,kemper corp,1,0,0,0,20151123,joyce robert joseph,86074815000122,,male,51254173.0
+,,860748,kemper corp,1,0,0,0,20151123,storch david p,86074815000123,,male,51254173.0
+27748.0,671.32,860748,kemper corp,0,1,0,0,20151124,boschelli john michael,86074815000124,SVP & Chief Investment Officer,male,51254173.0
+43291.0,,860748,kemper corp,0,1,0,0,20151125,lynch denise idell,86074815000125,Vice President,female,51254173.0
+6617.0,1111.33,860748,kemper corp,0,1,0,0,20160205,king lisa marie,86074816000135,Vice President,female,51325205.0
+11886.0,,860748,kemper corp,0,1,0,0,20160205,sodaro frank joseph,86074816000138,Senior Vice President & CFO,male,51325205.0
+56673.155,,860748,kemper corp,0,1,0,0,20160205,roeske richard,86074816000137,VP & Chief Accounting Officer,male,51325205.0
+25748.0,681.03,860748,kemper corp,0,1,0,0,20160205,boschelli john michael,86074816000133,SVP & Chief Investment Officer,male,51325205.0
+39291.0,,860748,kemper corp,0,1,0,0,20160205,lynch denise idell,86074816000136,Vice President,female,51325205.0
+20647.0,,860748,kemper corp,0,1,0,0,20160205,evans carl thomas jr.,86074816000134,"VP, Secretary & Gen. Counsel",male,51325205.0
+3500.0,,860748,kemper corp,1,0,0,0,20160219,joyce robert joseph,86074816000147,,male,51325205.0
+2208.05,,860748,kemper corp,1,0,0,0,20160223,cochran george n,86074816000148,,male,51325205.0
+,,860748,kemper corp,0,1,0,0,20160303,roeske richard,86074816000155,VP & Chief Accounting Officer,male,51325205.0
+,,860748,kemper corp,0,1,0,0,20160303,boschelli john michael,86074816000151,SVP & Chief Investment Officer,male,51325205.0
+,,860748,kemper corp,0,1,0,0,20160303,evans carl thomas jr.,86074816000152,"VP, Secretary & Gen. Counsel",male,51325205.0
+,,860748,kemper corp,0,1,0,0,20160303,king lisa marie,86074816000153,Vice President,female,51325205.0
+,,860748,kemper corp,1,1,0,0,20160303,lacher joseph p jr,86074816000154,President and CEO,male,51325205.0
+,,860748,kemper corp,0,1,0,0,20160303,sodaro frank joseph,86074816000156,Senior Vice President & CFO,male,51325205.0
+4628.05,,860748,kemper corp,1,0,0,0,20160506,cochran george n,86074816000172,,male,51132723.0
+11750.0,,860748,kemper corp,1,0,0,0,20160506,geoga douglas gerard,86074816000174,,male,51132723.0
+5920.0,,860748,kemper corp,1,0,0,0,20160506,joyce robert joseph,86074816000175,,male,51132723.0
+3920.0,,860748,kemper corp,1,0,0,0,20160506,sarofim christopher binyon,86074816000176,,male,51132723.0
+8920.0,,860748,kemper corp,1,0,0,0,20160506,storch david p,86074816000177,,male,51132723.0
+2920.0,,860748,kemper corp,1,0,0,0,20160506,cronin kathleen m,86074816000173,,female,51132723.0
+,,860748,kemper corp,0,1,0,0,20160509,brooks charles tipton,86074816000179,V.P. and CIO,male,51132723.0
+,,860748,kemper corp,0,1,0,0,20160606,green mark a.,86074816000184,"President, Life & Health Div.",male,51132723.0
+,,860748,kemper corp,0,1,0,0,20160617,green mark a.,86074816000185,"President, Life & Health Div.",male,51132723.0
+50000.0,,860748,kemper corp,0,1,0,0,20160722,dufala george d,86074816000192,"President, P&C Division",male,51132698.0
+11770.0,,860748,kemper corp,0,1,0,0,20160805,sodaro frank joseph,86074816000206,Senior Vice President & CFO,male,51132673.0
+20523.0,,860748,kemper corp,0,1,0,0,20160805,evans carl thomas jr.,86074816000207,"Sr. VP, Sec. & Gen. Counsel",male,51132673.0
+,,860748,kemper corp,0,1,0,0,20161014,mullins christine f.,86074816000221,SVP & Chief HR Officer,female,51184531.0
+16000.0,,860748,kemper corp,0,1,0,0,20161118,mckinney james j.,86074816000232,Senior Vice President and CFO,male,51187031.0
+26659.0,692.92,860748,kemper corp,0,1,0,0,20161208,boschelli john michael,86074816000239,SVP & Chief Investment Officer,male,51187031.0
+58172.155,,860748,kemper corp,0,1,0,0,20161209,roeske richard,86074816000240,VP & Chief Accounting Officer,male,51187031.0
+20823.0,,860748,kemper corp,0,1,0,0,20161209,evans carl thomas jr.,86074816000241,"Sr. VP, Sec. & Gen. Counsel",male,51187031.0
+28362.0,692.92,860748,kemper corp,0,1,0,0,20161213,boschelli john michael,86074816000242,SVP & Chief Investment Officer,male,51187031.0
+48172.155,,860748,kemper corp,0,1,0,0,20161214,roeske richard,86074816000243,VP & Chief Accounting Officer,male,51187031.0
+,,860748,kemper corp,0,1,0,0,20170209,brooks charles tipton,86074817000006,SVP and CIO,male,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,evans carl thomas jr.,86074817000008,"Sr. VP, Sec. & Gen. Counsel",male,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,boschelli john michael,86074817000005,SVP & Chief Investment Officer,male,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,roeske richard,86074817000004,VP & Chief Accounting Officer,male,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,dufala george d,86074817000007,"President, P&C Division",male,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,mullins christine f.,86074817000012,SVP & Chief HR Officer,female,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,mckinney james j.,86074817000013,Senior Vice President and CFO,male,51294172.0
+,,860748,kemper corp,0,1,0,0,20170209,green mark a.,86074817000009,"President, Life & Health Div.",male,51294172.0
+,,860748,kemper corp,1,1,0,0,20170209,lacher joseph p jr,86074817000010,President and CEO,male,51294172.0
+22612.0,692.95,860748,kemper corp,0,1,0,0,20170228,boschelli john michael,86074817000026,SVP & Chief Investment Officer,male,51294172.0
+22612.0,692.95,860748,kemper corp,0,1,0,0,20170228,boschelli john michael,86074817000027,SVP & Chief Investment Officer,male,51294172.0
+5128.05,,860748,kemper corp,1,0,0,0,20170315,cochran george n,86074817000028,,male,51294172.0
+2880.0,,860748,kemper corp,1,0,0,0,20170505,goldstein thomas m,86074817000042,,male,51293006.0
+8008.05,,860748,kemper corp,1,0,0,0,20170505,cochran george n,86074817000039,,male,51293006.0
+5800.0,,860748,kemper corp,1,0,0,0,20170505,cronin kathleen m,86074817000040,,female,51293006.0
+14630.0,,860748,kemper corp,1,0,0,0,20170505,geoga douglas gerard,86074817000041,,male,51293006.0
+2880.0,,860748,kemper corp,1,0,0,0,20170505,johnson lacy m.,86074817000043,,female,51293006.0
+6800.0,,860748,kemper corp,1,0,0,0,20170505,sarofim christopher binyon,86074817000044,,male,51293006.0
+11800.0,,860748,kemper corp,1,0,0,0,20170505,storch david p,86074817000045,,male,51293006.0
+8800.0,,860748,kemper corp,1,0,0,0,20170505,joyce robert joseph,86074817000046,,male,51293006.0
+2000.0,,860748,kemper corp,0,1,0,0,20170511,green mark a.,86074817000048,"President, Life & Health Div.",male,51293006.0
+16275.0,,860748,kemper corp,0,1,0,0,20170524,mckinney james j.,86074817000050,Senior Vice President and CFO,male,51293006.0
+40642.0,,860748,kemper corp,0,1,0,0,20170724,dufala george d,86074817000055,"President, P&C Division",male,51293951.0
+5257.0,,860748,kemper corp,0,1,0,0,20170802,lau kan yuk andy,86074817000070,"SVP, Chief Data & Analytics",male,51309698.0
+136.0,20623.0,860748,kemper corp,0,1,0,0,20170807,evans carl thomas jr.,86074817000074,"Sr. VP, Sec. & Gen. Counsel",male,51309698.0
+27199.0,700.91,860748,kemper corp,0,1,0,0,20170821,boschelli john michael,86074817000080,SVP & Chief Investment Officer,male,51309698.0
+1000.0,,860748,kemper corp,1,0,1,0,20170824,whiting susan d,86074817000083,,female,51309698.0
+56430.155,,860748,kemper corp,0,1,0,0,20170829,roeske richard,86074817000085,VP & Chief Accounting Officer,male,51309698.0
+2096.0,20623.0,860748,kemper corp,0,1,0,0,20170913,evans carl thomas jr.,86074817000087,"Sr. VP, Sec. & Gen. Counsel",male,51309698.0
+,,860748,kemper corp,0,1,0,0,20180205,sanders duane a.,86074818000003,"President, P & C Division",male,51463199.0
+31375.0,701.27,860748,kemper corp,0,1,0,0,20180206,boschelli john michael,86074818000011,SVP & Chief Investment Officer,male,51463199.0
+58627.155,,860748,kemper corp,0,1,0,0,20180206,roeske richard,86074818000007,VP & Chief Accounting Officer,male,51463199.0
+10039.0,20623.0,860748,kemper corp,0,1,0,0,20180206,evans carl thomas jr.,86074818000009,"Sr. VP, Sec. & Gen. Counsel",male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,mullins christine f.,86074818000030,SVP & Chief HR Officer,female,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,roeske richard,86074818000034,VP & Chief Accounting Officer,male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,lau kan yuk andy,86074818000032,"SVP, Chief Data & Analytics",male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,evans carl thomas jr.,86074818000027,"Sr. VP, Sec. & Gen. Counsel",male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,brooks charles tipton,86074818000021,SVP and CIO,male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,sanders duane a.,86074818000023,"President, P & C Division",male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,boschelli john michael,86074818000015,SVP & Chief Investment Officer,male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,green mark a.,86074818000019,"President, Life & Health Div.",male,51463199.0
+,,860748,kemper corp,1,1,0,0,20180208,lacher joseph p jr,86074818000017,President and CEO,male,51463199.0
+,,860748,kemper corp,0,1,0,0,20180208,mckinney james j.,86074818000025,Senior Vice President and CFO,male,51463199.0
+14554.0,,860748,kemper corp,0,1,0,0,20180402,mckinney james j.,86074818000053,Senior Vice President and CFO,male,51533086.0
+8508.05,,860748,kemper corp,1,0,0,0,20180504,cochran george n,86074818000068,,male,51536698.0
+1572.0,,860748,kemper corp,0,1,0,0,20180504,mullins christine f.,86074818000069,SVP & Chief HR Officer,female,51536698.0
+11513.0,,860748,kemper corp,1,0,0,0,20180504,geoga douglas gerard,86074818000070,,male,51536698.0
+16800.0,,860748,kemper corp,1,0,0,0,20180504,storch david p,86074818000071,,male,51536698.0
+35936.0,700.12,860748,kemper corp,0,1,0,0,20180507,boschelli john michael,86074818000073,SVP & Chief Investment Officer,male,51536698.0
+17293.0,,860748,kemper corp,0,1,0,0,20180511,mckinney james j.,86074818000077,Senior Vice President and CFO,male,51536698.0
+18220.0,,860748,kemper corp,1,0,0,0,20180605,storch david p,86074818000089,,male,51536698.0
+2420.0,,860748,kemper corp,1,0,0,0,20180605,whiting susan d,86074818000088,,female,51536698.0
+4300.0,,860748,kemper corp,1,0,0,0,20180605,johnson lacy m.,86074818000087,,female,51536698.0
+4300.0,,860748,kemper corp,1,0,0,0,20180605,goldstein thomas m,86074818000086,,male,51536698.0
+10220.0,,860748,kemper corp,1,0,0,0,20180605,joyce robert joseph,86074818000084,,male,51536698.0
+12933.0,,860748,kemper corp,1,0,0,0,20180605,geoga douglas gerard,86074818000083,,male,51536698.0
+7220.0,,860748,kemper corp,1,0,0,0,20180605,cronin kathleen m,86074818000082,,female,51536698.0
+8220.0,,860748,kemper corp,1,0,0,0,20180605,sarofim christopher binyon,86074818000085,,male,51536698.0
+9928.05,,860748,kemper corp,1,0,0,0,20180605,cochran george n,86074818000081,,male,51536698.0
+10910.0,,860748,kemper corp,1,0,0,0,20180705,canida teresa alvarez,86074818000098,,female,51558608.0
+4744.0,,860748,kemper corp,0,1,0,0,20180802,lau kan yuk andy,86074818000110,"SVP, Chief Data & Analytics",male,64747142.0
+2671.0,,860748,kemper corp,0,1,0,0,20180808,mullins christine f.,86074818000112,SVP & Chief HR Officer,female,64747142.0
+14436.0,701.02,860748,kemper corp,0,1,0,0,20180809,boschelli john michael,86074818000113,SVP & Chief Investment Officer,male,64747142.0
+965.0,,860748,kemper corp,0,1,0,0,20180823,evans carl thomas jr.,86074818000119,"Sr. VP, Sec. & Gen. Counsel",male,64747142.0
+28662.0,,860748,kemper corp,0,1,0,0,20180827,evans carl thomas jr.,86074818000121,"Sr. VP, Sec. & Gen. Counsel",male,64747142.0
+3870.0,,860748,kemper corp,0,1,0,0,20180910,mullins christine f.,86074818000123,SVP & Chief HR Officer,female,64747142.0
+9428.05,,860748,kemper corp,1,0,0,0,20180913,cochran george n,86074818000125,,male,64747142.0
+,,860748,kemper corp,0,1,0,0,20190207,mullins christine f.,86074819000019,SVP & Chief HR Officer,female,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,holmes kimberly a.,86074819000030,"SVP, Chief Actuary &",female,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,sanders duane a.,86074819000024,"President, P & C Division",male,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,mckinney james j.,86074819000017,Senior Vice President and CFO,male,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,roeske richard,86074819000021,VP & Chief Accounting Officer,male,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,evans carl thomas jr.,86074819000013,"Sr. VP, Sec. & Gen. Counsel",male,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,green mark a.,86074819000011,"President, Life & Health Div.",male,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,brooks charles tipton,86074819000009,SVP and CIO,male,64757594.0
+,,860748,kemper corp,0,1,0,0,20190207,boschelli john michael,86074819000006,SVP & Chief Investment Officer,male,64757594.0
+,,860748,kemper corp,1,1,0,0,20190207,lacher joseph p jr,86074819000015,President and CEO,male,64757594.0
+2008.0,28662.0,860748,kemper corp,0,1,0,0,20190214,evans carl thomas jr.,86074819000043,"Sr. VP, Sec. & Gen. Counsel",male,64757594.0
+21089.0,,860748,kemper corp,0,1,0,0,20190214,mckinney james j.,86074819000045,Senior Vice President and CFO,male,64757594.0
+21688.0,702.45,860748,kemper corp,0,1,0,0,20190220,boschelli john michael,86074819000054,SVP & Chief Investment Officer,male,64757594.0
+8209.0,,860748,kemper corp,0,1,0,0,20190308,brooks charles tipton,86074819000058,SVP and CIO,male,64757594.0
+53604.0,,860748,kemper corp,1,1,0,0,20190308,lacher joseph p jr,86074819000060,President and CEO,male,64757594.0
+26916.0,704.644,860748,kemper corp,0,1,0,0,20190308,boschelli john michael,86074819000062,SVP & Chief Investment Officer,male,64757594.0
+62415.155,,860748,kemper corp,0,1,0,0,20190308,roeske richard,86074819000064,VP & Chief Accounting Officer,male,64757594.0
+7502.0,,860748,kemper corp,0,1,0,0,20190308,mullins christine f.,86074819000066,SVP & Chief HR Officer,female,64757594.0
+27746.0,,860748,kemper corp,0,1,0,0,20190308,mckinney james j.,86074819000068,Senior Vice President and CFO,male,64757594.0
+8398.0,2000.0,860748,kemper corp,0,1,0,0,20190308,green mark a.,86074819000070,"President, Life & Health Div.",male,64757594.0
+8133.0,28662.0,860748,kemper corp,0,1,0,0,20190308,evans carl thomas jr.,86074819000072,"Sr. VP, Sec. & Gen. Counsel",male,64757594.0
+8933.0,,860748,kemper corp,1,0,0,0,20190318,geoga douglas gerard,86074819000074,,male,64757594.0
+25384.0,,860748,kemper corp,0,1,0,0,20190403,mckinney james j.,86074819000085,Senior Vice President and CFO,male,64930663.0
+3896.0,,860748,kemper corp,1,0,0,0,20190502,whiting susan d,86074819000112,,female,64930663.0
+9696.0,,860748,kemper corp,1,0,0,0,20190502,sarofim christopher binyon,86074819000108,,male,64930663.0
+11696.0,,860748,kemper corp,1,0,0,0,20190502,joyce robert joseph,86074819000106,,male,64930663.0
+5776.0,,860748,kemper corp,1,0,0,0,20190502,johnson lacy m.,86074819000114,,female,64930663.0
+11904.05,,860748,kemper corp,1,0,0,0,20190502,cochran george n,86074819000102,,male,64930663.0
+12386.0,,860748,kemper corp,1,0,0,0,20190502,canida teresa alvarez,86074819000100,,female,64930663.0
+8696.0,,860748,kemper corp,1,0,0,0,20190502,cronin kathleen m,86074819000104,,female,64930663.0
+19696.0,,860748,kemper corp,1,0,0,0,20190503,storch david p,86074819000120,,male,64930663.0
+18025.0,2000.0,860748,kemper corp,0,1,0,0,20190507,green mark a.,86074819000122,"President, Life & Health Div.",male,64930663.0
+8410.0,,860748,kemper corp,0,1,0,0,20190507,mullins christine f.,86074819000124,SVP & Chief HR Officer,female,64930663.0
+12580.0,701.91,860748,kemper corp,0,1,0,0,20190507,boschelli john michael,86074819000126,SVP & Chief Investment Officer,male,64930663.0
+12196.0,,860748,kemper corp,1,0,0,0,20190904,joyce robert joseph,86074819000145,,male,66618655.0
+2600.0,,860748,kemper corp,0,1,0,0,20190916,holmes kimberly a.,86074819000148,"EVP, Chief Actuary &",female,66618655.0
+2495.0,,860748,kemper corp,0,1,0,1,20191003,omiridis anastasios,86074819000155,"SVP, Deputy CFO &",male,66641693.0
+,,860748,kemper corp,0,1,0,0,20200206,holmes kimberly a.,86074820000017,"EVP, Chief Actuary &",female,66668172.0
+26203.0,2000.0,860748,kemper corp,0,1,0,0,20200206,green mark a.,86074820000016,"EVP, Bus Dev & Reinsurance",male,66668172.0
+71613.0,,860748,kemper corp,1,1,0,0,20200206,lacher joseph p jr,86074820000018,President and CEO,male,66668172.0
+12850.0,,860748,kemper corp,0,1,0,0,20200206,brooks charles tipton,86074820000014,"EVP, Operations & Systems",male,66668172.0
+20361.0,712.54,860748,kemper corp,0,1,0,0,20200206,boschelli john michael,86074820000013,EVP & Chief Investment Officer,male,66668172.0
+13124.0,28662.0,860748,kemper corp,0,1,0,0,20200206,evans carl thomas jr.,86074820000015,"EVP, Sec. & General Counsel",male,66668172.0
+13273.0,,860748,kemper corp,0,1,0,0,20200206,mullins christine f.,86074820000020,EVP & Chief HR Officer,female,66668172.0
+34158.0,,860748,kemper corp,0,1,0,0,20200206,mckinney james j.,86074820000019,EVP and CFO,male,66668172.0
+8273.0,,860748,kemper corp,0,1,0,0,20200206,sanders duane a.,86074820000022,"EVP, Property & Casualty",male,66668172.0
+,,860748,kemper corp,0,1,0,0,20200206,omiridis anastasios,86074820000021,"SVP, Deputy CFO &",male,66668172.0
+,,860748,kemper corp,0,1,0,0,20200227,holmes kimberly a.,86074820000041,"EVP, Chief Actuary &",female,66668172.0
+35561.0,2000.0,860748,kemper corp,0,1,0,0,20200227,green mark a.,86074820000045,"EVP, Bus Dev & Reinsurance",male,66668172.0
+12696.0,,860748,kemper corp,1,0,0,0,20200311,joyce robert joseph,86074820000049,,male,66668172.0
+0.0,148072.0,860748,kemper corp,0,1,0,0,20200312,evans carl thomas jr.,86074820000051,"EVP, Sec. & General Counsel",male,66668172.0
+0.0,37561.0,860748,kemper corp,0,1,0,0,20200312,green mark a.,86074820000053,"EVP, Bus Dev & Reinsurance",male,66668172.0
+19696.0,,860748,kemper corp,1,0,0,0,20200318,storch david p,86074820000055,,male,66668172.0
+,,860748,kemper corp,0,1,0,0,20200402,sternberg erich,86074820000061,"EVP, Life & Health",male,65365417.0
+31795.0,,860748,kemper corp,0,1,0,0,20200402,mckinney james j.,86074820000063,EVP and CFO,male,65365417.0
+2007.0,,860748,kemper corp,1,0,0,0,20200506,laderman gerald,86074820000092,,male,65250705.0
+14703.0,,860748,kemper corp,1,0,0,0,20200506,joyce robert joseph,86074820000091,,male,65250705.0
+7783.0,,860748,kemper corp,1,0,0,0,20200506,johnson lacy m.,86074820000090,,female,65250705.0
+10703.0,,860748,kemper corp,1,0,0,0,20200506,cronin kathleen m,86074820000089,,female,65250705.0
+5903.0,,860748,kemper corp,1,0,0,0,20200506,whiting susan d,86074820000095,,female,65250705.0
+14393.0,,860748,kemper corp,1,0,0,0,20200506,canida teresa alvarez,86074820000086,,female,65250705.0
+11703.0,,860748,kemper corp,1,0,0,0,20200506,sarofim christopher binyon,86074820000093,,male,65250705.0
+13911.05,,860748,kemper corp,1,0,0,0,20200506,cochran george n,86074820000088,,male,65250705.0
+21703.0,,860748,kemper corp,1,0,0,0,20200506,storch david p,86074820000094,,male,65250705.0
+11766.0,,860748,kemper corp,0,1,0,0,20200609,mullins christine f.,86074820000111,EVP & Chief HR Officer,female,65250705.0
+14411.05,,860748,kemper corp,1,0,0,0,20200616,cochran george n,86074820000113,,male,65250705.0
+13287.0,719.25,860748,kemper corp,0,1,0,0,20200807,boschelli john michael,86074820000128,EVP & Chief Investment Officer,male,65330828.0
+3560.0,,860748,kemper corp,0,1,0,0,20200807,evans carl thomas jr.,86074820000129,"EVP, Sec. & General Counsel",male,65330828.0
+12084.0,,860748,kemper corp,0,1,0,0,20200807,mullins christine f.,86074820000130,EVP & Chief HR Officer,female,65330828.0
+28736.0,,860748,kemper corp,0,1,0,0,20200811,green mark a.,86074820000132,"EVP, Bus Dev & Reinsurance",male,65330828.0
+2251.0,,860748,kemper corp,0,1,0,0,20201005,omiridis anastasios,86074820000143,"SVP, Deputy CFO &",male,65406442.0
+1024.0,,860748,kemper corp,1,0,0,0,20201106,parker stuart b.,86074820000164,,male,65408416.0
+,,860748,kemper corp,0,1,0,0,20210204,omiridis anastasios,86074821000031,"SVP, Deputy CFO &",male,65454685.0
+16929.0,,860748,kemper corp,0,1,0,0,20210204,mullins christine f.,86074821000029,EVP & Chief HR Officer,female,65454685.0
+,,860748,kemper corp,0,1,0,0,20210204,sternberg erich,86074821000027,"EVP, Life & Health",male,65454685.0
+17121.0,,860748,kemper corp,0,1,0,0,20210204,sanders duane a.,86074821000022,"EVP, Property & Casualty",male,65454685.0
+100033.0,,860748,kemper corp,1,1,0,0,20210204,lacher joseph p jr,86074821000020,President and CEO,male,65454685.0
+39457.0,,860748,kemper corp,0,1,0,0,20210204,mckinney james j.,86074821000019,EVP and CFO,male,65454685.0
+5894.0,,860748,kemper corp,0,1,0,0,20210204,holmes kimberly a.,86074821000024,"EVP, Chief Actuary &",female,65454685.0
+8980.0,36486.0,860748,kemper corp,0,1,0,0,20210204,evans carl thomas jr.,86074821000014,"EVP, Sec. & General Counsel",male,65454685.0
+18272.0,,860748,kemper corp,0,1,0,0,20210204,brooks charles tipton,86074821000012,"EVP, Operations & Systems",male,65454685.0
+20079.0,728.88,860748,kemper corp,0,1,0,0,20210204,boschelli john michael,86074821000010,EVP & Chief Investment Officer,male,65454685.0
+8727.0,28736.0,860748,kemper corp,0,1,0,0,20210204,green mark a.,86074821000016,"EVP, Bus Dev & Reinsurance",male,65454685.0
+23703.0,,860748,kemper corp,1,0,0,0,20210208,storch david p,86074821000033,,male,65454685.0
+14911.05,,860748,kemper corp,1,0,0,0,20210216,cochran george n,86074821000046,,male,65454685.0
+24463.0,,860748,kemper corp,0,1,0,0,20210303,green mark a.,86074821000048,"EVP, Bus Dev & Reinsurance",male,65454685.0
+16581.05,,860748,kemper corp,1,0,0,0,20210506,cochran george n,86074821000093,,male,64566506.0
+16063.0,,860748,kemper corp,1,0,0,0,20210506,canida teresa alvarez,86074821000092,,female,64566506.0
+9453.0,,860748,kemper corp,1,0,0,0,20210506,johnson lacy m.,86074821000091,,female,64566506.0
+13373.0,,860748,kemper corp,1,0,0,0,20210506,sarofim christopher binyon,86074821000090,,male,64566506.0
+2694.0,,860748,kemper corp,1,0,0,0,20210506,parker stuart b.,86074821000089,,male,64566506.0
+3677.0,,860748,kemper corp,1,0,0,0,20210506,laderman gerald,86074821000086,,male,64566506.0
+25373.0,,860748,kemper corp,1,0,0,0,20210506,storch david p,86074821000087,,male,64566506.0
+7573.0,,860748,kemper corp,1,0,0,0,20210506,whiting susan d,86074821000094,,female,64566506.0
+16373.0,,860748,kemper corp,1,0,0,0,20210506,joyce robert joseph,86074821000088,,male,64566506.0
+12373.0,,860748,kemper corp,1,0,0,0,20210506,cronin kathleen m,86074821000095,,female,64566506.0
+14793.0,728.53,860748,kemper corp,0,1,0,0,20210510,boschelli john michael,86074821000101,EVP & Chief Investment Officer,male,64566506.0
+27694.0,,860748,kemper corp,1,0,0,0,20210806,parker stuart b.,86074821000133,,male,63626870.0
+16623.0,,860748,kemper corp,1,0,0,0,20210810,joyce robert joseph,86074821000135,,male,63626870.0
+16873.0,,860748,kemper corp,1,0,0,0,20210813,joyce robert joseph,86074821000140,,male,63626870.0
+18081.05,,860748,kemper corp,1,0,0,0,20210910,cochran george n,86074821000142,,male,63626870.0
+1248.0,,860748,kemper corp,0,1,0,0,20211123,omiridis anastasios,86074821000158,"SVP, Deputy CFO &",male,63653144.0
+17373.0,,860748,kemper corp,1,0,0,0,20211129,joyce robert joseph,86074821000160,,male,63653144.0
+19081.05,,860748,kemper corp,1,0,0,0,20211213,cochran george n,86074821000162,,male,63653144.0
+5446.0,,860748,kemper corp,0,1,0,0,20220103,aziz ismat,86074822000002,"EVP, CHRO & CAO",male,63684628.0
+5703.0,,860748,kemper corp,0,1,0,0,20220203,omiridis anastasios,86074822000031,"SVP, Deputy CFO &",male,63684628.0
+,,860748,kemper corp,0,1,0,0,20220203,aziz ismat,86074822000030,"EVP, CHRO & CAO",male,63684628.0
+,,860748,kemper corp,0,1,0,0,20220203,sternberg erich,86074822000029,"EVP, Life & Health",male,63684628.0
+18442.0,,860748,kemper corp,0,1,0,0,20220203,boschelli john michael,86074822000028,EVP & Chief Investment Officer,male,63684628.0
+44160.0,,860748,kemper corp,0,1,0,0,20220203,mckinney james j.,86074822000027,EVP and CFO,male,63684628.0
+22386.0,,860748,kemper corp,0,1,0,0,20220203,sanders duane a.,86074822000026,"EVP, Property & Casualty",male,63684628.0
+119240.0,,860748,kemper corp,1,1,0,0,20220203,lacher joseph p jr,86074822000024,President and CEO,male,63684628.0
+21196.0,,860748,kemper corp,0,1,0,0,20220203,brooks charles tipton,86074822000023,"EVP, Operations & Systems",male,63684628.0
+6614.0,,860748,kemper corp,1,0,0,0,20220203,gorevic jason n,86074822000021,,male,63684628.0
+11736.0,,860748,kemper corp,0,1,0,0,20220203,evans carl thomas jr.,86074822000025,"EVP, Sec. & General Counsel",male,63684628.0
+20081.05,,860748,kemper corp,1,0,0,0,20220216,cochran george n,86074822000042,,male,63688550.0
+27125.0,,860748,kemper corp,1,0,0,0,20220310,storch david p,86074822000044,,male,63688550.0
+15898.0,,860748,kemper corp,1,0,0,0,20220505,sarofim christopher binyon,86074822000092,,male,63800711.0
+6202.0,,860748,kemper corp,1,0,0,0,20220505,laderman gerald,86074822000091,,male,63800711.0
+9139.0,,860748,kemper corp,1,0,0,0,20220505,gorevic jason n,86074822000090,,male,63800711.0
+18588.0,,860748,kemper corp,1,0,0,0,20220505,canida teresa alvarez,86074822000089,,female,63800711.0
+11978.0,,860748,kemper corp,1,0,0,0,20220505,johnson lacy m.,86074822000088,,female,63800711.0
+14898.0,,860748,kemper corp,1,0,0,0,20220505,cronin kathleen m,86074822000095,,female,63800711.0
+30219.0,,860748,kemper corp,1,0,0,0,20220505,parker stuart b.,86074822000086,,male,63800711.0
+10098.0,,860748,kemper corp,1,0,0,0,20220505,whiting susan d,86074822000085,,female,63800711.0
+22606.05,,860748,kemper corp,1,0,0,0,20220505,cochran george n,86074822000084,,male,63800711.0
+19898.0,,860748,kemper corp,1,0,0,0,20220505,joyce robert joseph,86074822000087,,male,63800711.0
+12139.0,,860748,kemper corp,1,0,0,0,20220803,gorevic jason n,86074822000140,,male,63851935.0
+35219.0,,860748,kemper corp,1,0,0,0,20220808,parker stuart b.,86074822000144,,male,63851935.0
+19898.0,,860748,kemper corp,1,0,0,0,20221108,joyce robert joseph,86074822000178,,male,63885142.0
+7461.0,,860748,kemper corp,0,1,0,0,20221108,alexander james allen,86074822000177,Chief Accounting Officer,male,63885142.0
+26984.0,,860748,kemper corp,0,1,0,0,20230202,sanders duane a.,86074823000030,"EVP, Property & Casualty",male,63912762.0
+22274.0,728.53,860748,kemper corp,0,1,0,0,20230202,boschelli john michael,86074823000031,EVP & Chief Investment Officer,male,63912762.0
+,,860748,kemper corp,1,1,0,0,20230202,lacher joseph p jr,86074823000032,President and CEO,male,63912762.0
+23736.0,,860748,kemper corp,0,0,0,1,20230202,hunton matthew a,86074823000039,,male,63912762.0
+48566.0,,860748,kemper corp,0,1,0,0,20230202,mckinney james j.,86074823000033,EVP and CFO,male,63912762.0
+10356.0,,860748,kemper corp,0,1,0,0,20230202,alexander james allen,86074823000034,Chief Accounting Officer,male,63912762.0
+13347.0,,860748,kemper corp,0,0,0,1,20230202,stonehocker timmy l,86074823000035,,male,63912762.0
+24432.0,,860748,kemper corp,0,1,0,0,20230202,brooks charles tipton,86074823000036,"EVP, Operations & Systems",male,63912762.0
+51287.0,,860748,kemper corp,0,1,0,0,20230202,evans carl thomas jr.,86074823000037,"EVP, Sec. & General Counsel",male,63912762.0
+565.0,,860748,kemper corp,1,0,0,0,20230202,paracchini alberto j,86074823000014,,male,63912762.0
+8511.0,,860748,kemper corp,0,1,0,0,20230202,aziz ismat,86074823000038,"EVP, CHRO & CAO",male,63912762.0
+23513.0,,860748,kemper corp,0,0,0,1,20230203,hunton matthew a,86074823000050,,male,63912762.0
+13176.0,,860748,kemper corp,0,0,0,1,20230203,stonehocker timmy l,86074823000049,,male,63912762.0
+9098.0,,860748,kemper corp,1,0,0,0,20230208,whiting susan d,86074823000052,,female,63959923.0
+1065.0,,860748,kemper corp,1,0,0,0,20230214,paracchini alberto j,86074823000063,,male,63959923.0
+18831.0,,860748,kemper corp,1,0,0,0,20230504,sarofim christopher binyon,86074823000100,,male,63991262.0
+15072.0,,860748,kemper corp,1,0,0,0,20230504,gorevic jason n,86074823000101,,male,63991262.0
+9135.0,,860748,kemper corp,1,0,0,0,20230504,laderman gerald,86074823000102,,male,63991262.0
+17831.0,,860748,kemper corp,1,0,0,0,20230504,cronin kathleen m,86074823000103,,female,63991262.0
+12031.0,,860748,kemper corp,1,0,0,0,20230504,whiting susan d,86074823000105,,female,63991262.0
+25621.75,,860748,kemper corp,1,0,0,0,20230504,cochran george n,86074823000106,,male,63991262.0
+14911.0,,860748,kemper corp,1,0,0,0,20230504,johnson lacy m.,86074823000107,,female,63991262.0
+3998.0,,860748,kemper corp,1,0,0,0,20230504,paracchini alberto j,86074823000108,,male,63991262.0
+38152.0,,860748,kemper corp,1,0,0,0,20230504,parker stuart b.,86074823000099,,male,63991262.0
+21521.0,,860748,kemper corp,1,0,0,0,20230504,canida teresa alvarez,86074823000104,,female,63991262.0
+20013.0,,860748,kemper corp,0,0,0,1,20230511,hunton matthew a,86074823000125,,male,63991262.0
+34831.0,3194090.0,860748,kemper corp,1,0,0,0,20230525,sarofim christopher binyon,86074823000128,,male,63991262.0
+10531.0,,860748,kemper corp,1,0,0,0,20230612,whiting susan d,86074823000130,,female,63991262.0
+2522.0,,860748,kemper corp,0,1,0,0,20230901,flint christopher wade,86074823000162,"EVP, President, Kemper Life",male,64056329.0
+10099.0,,860748,kemper corp,0,1,0,0,20231004,alexander james allen,86074823000171,Chief Accounting Officer,male,64081099.0
+48152.0,,860748,kemper corp,1,0,0,0,20231121,parker stuart b.,86074823000194,,male,64087148.0
+26621.75,,860748,kemper corp,1,0,0,0,20231127,cochran george n,86074823000197,,male,64087148.0
+5000.0,,860748,kemper corp,1,1,0,0,20231128,lacher joseph p jr,86074823000199,President and CEO,male,64087148.0
+4398.0,,860748,kemper corp,1,0,0,0,20231211,paracchini alberto j,86074823000201,,male,64087148.0
+26529.0,,860748,kemper corp,0,1,0,0,20240202,sanders duane a.,86074824000033,"EVP, Property & Casualty",male,64111555.0
+15567.0,,860748,kemper corp,0,0,0,1,20240202,hunton matthew a,86074824000031,,male,64111555.0
+50933.0,,860748,kemper corp,0,1,0,0,20240202,evans carl thomas jr.,86074824000029,"EVP, Sec. & General Counsel",male,64111555.0
+17270.0,,860748,kemper corp,0,1,0,0,20240202,camden bradley t,86074824000027,SVP and Interim CFO,male,64111555.0
+8144.0,,860748,kemper corp,0,1,0,0,20240202,aziz ismat,86074824000021,"EVP, CHRO & CAO",male,64111555.0
+21832.0,,860748,kemper corp,0,1,0,0,20240202,boschelli john michael,86074824000023,EVP & Chief Investment Officer,male,64111555.0
+9699.0,,860748,kemper corp,0,1,0,0,20240202,alexander james allen,86074824000019,Chief Accounting Officer,male,64111555.0
+24059.0,,860748,kemper corp,0,1,0,0,20240202,brooks charles tipton,86074824000025,"EVP, Operations & Systems",male,64111555.0
+27354.0,,860748,kemper corp,0,1,0,0,20240208,brooks charles tipton,86074824000066,"EVP, Operations & Systems",male,64323693.0
+11266.0,,860748,kemper corp,0,1,0,0,20240208,aziz ismat,86074824000061,"EVP, CHRO & CAO",male,64323693.0
+25734.0,728.53,860748,kemper corp,0,1,0,0,20240208,boschelli john michael,86074824000064,EVP & Chief Investment Officer,male,64323693.0
+54055.0,,860748,kemper corp,0,1,0,0,20240208,evans carl thomas jr.,86074824000069,"EVP, Sec. & General Counsel",male,64323693.0
+21757.0,,860748,kemper corp,0,1,0,0,20240208,camden bradley t,86074824000067,SVP and Interim CFO,male,64323693.0
+20054.0,,860748,kemper corp,0,0,0,1,20240208,hunton matthew a,86074824000073,,male,64323693.0
+140916.0,5000.0,860748,kemper corp,1,1,0,0,20240208,lacher joseph p jr,86074824000075,President and CEO,male,64323693.0
+31211.0,,860748,kemper corp,0,1,0,0,20240208,sanders duane a.,86074824000077,"EVP, Property & Casualty",male,64323693.0
+12647.0,,860748,kemper corp,0,1,0,0,20240208,alexander james allen,86074824000079,Chief Accounting Officer,male,64323693.0
+564.0,,860748,kemper corp,1,0,0,0,20240208,mckinney suzet m,86074824000081,,male,64323693.0
+5323.0,,860748,kemper corp,0,1,0,0,20240208,flint christopher wade,86074824000071,"EVP, President, Kemper Life",male,64323693.0
+11024.0,,860748,kemper corp,0,1,0,0,20240304,alexander james allen,86074824000096,Chief Accounting Officer,male,64323693.0
+17476.0,,860748,kemper corp,1,0,0,0,20240502,johnson lacy m.,86074824000155,,female,64375352.0
+29186.75,,860748,kemper corp,1,0,0,0,20240502,cochran george n,86074824000160,,male,64375352.0
+50717.0,,860748,kemper corp,1,0,0,0,20240502,parker stuart b.,86074824000159,,male,64375352.0
+11700.0,,860748,kemper corp,1,0,0,0,20240502,laderman gerald,86074824000158,,male,64375352.0
+3129.0,,860748,kemper corp,1,0,0,0,20240502,mckinney suzet m,86074824000157,,male,64375352.0
+24086.0,,860748,kemper corp,1,0,0,0,20240502,canida teresa alvarez,86074824000154,,female,64375352.0
+6963.0,,860748,kemper corp,1,0,0,0,20240502,paracchini alberto j,86074824000156,,male,64375352.0
+17637.0,,860748,kemper corp,1,0,0,0,20240502,gorevic jason n,86074824000153,,male,64375352.0
+13096.0,,860748,kemper corp,1,0,0,0,20240502,whiting susan d,86074824000152,,female,64375352.0
+7388.0,,860748,kemper corp,1,0,0,0,20240506,paracchini alberto j,86074824000163,,male,64375352.0
+16700.0,,860748,kemper corp,1,0,0,0,20240510,laderman gerald,86074824000166,,male,64375352.0
+6121.0,,860748,kemper corp,0,1,0,0,20240603,rock laura a,86074824000174,"EVP, Chief HR Officer",female,64375352.0
+20717.0,,860748,kemper corp,1,0,0,0,20240823,parker stuart b.,86074824000210,,male,64426693.0
+5076.0,,860748,kemper corp,0,1,0,0,20240830,flint christopher wade,86074824000212,"EVP, President, Kemper Life",male,64426693.0
+9352.0,,860748,kemper corp,0,1,0,0,20241021,rock laura a,86074824000214,"EVP, Chief HR Officer",female,64043801.0

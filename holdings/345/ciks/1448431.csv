@@ -1,37 +1,337 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-469000.0,0.0,1448431,optimizerx corp,1,1,0,0,20100421,hamilton terrence,125529410000312,VP of Sales,male,
-3536250.0,0.0,1448431,optimizerx corp,1,1,0,0,20100421,harrell david,125529410000311,Vice President,male,
-18000.0,0.0,1448431,optimizerx corp,1,1,0,0,20100421,lester david,125529410000310,Chairman of the Board,male,
-3836250.0,0.0,1448431,optimizerx corp,1,1,0,0,20100426,harrell david,125529410000325,Chairman of the Board,male,
-3136250.0,0.0,1448431,optimizerx corp,1,1,0,0,20100927,harrell david,125529410000827,Chairman,male,
-0.0,0.0,1448431,optimizerx corp,1,1,0,0,20110601,lester david,125529411000324,"President, CEO and Secretary",male,
-0.0,0.0,1448431,optimizerx corp,1,1,0,0,20110601,harrell david,125529411000323,President and CEO,male,
-0.0,0.0,1448431,optimizerx corp,1,0,0,0,20110601,hamilton terrence,125529411000322,,male,
-1362250.0,0.0,1448431,optimizerx corp,0,0,1,0,20111017,kraniak richard,125529411000623,,male,13969202.0
-742000.0,0.0,1448431,optimizerx corp,1,0,0,0,20130524,hamilton terrence,125529413000392,,male,14232496.0
-697000.0,0.0,1448431,optimizerx corp,1,0,0,0,20130530,hamilton terrence,125529413000405,,male,14232496.0
-250000.0,0.0,1448431,optimizerx corp,0,0,0,1,20131001,stastney shadron l.,114420413053332,,male,14252496.0
-428348.0,0.0,1448431,optimizerx corp,1,1,0,0,20140128,lester david,150416714000053,COO,male,14817496.0
-2705625.0,0.0,1448431,optimizerx corp,1,1,1,0,20140428,harrell david,125529414000370,Chief Executive Officer,male,22809586.0
-373348.0,0.0,1448431,optimizerx corp,1,1,0,0,20140429,lester david,125529414000379,COO,male,22809586.0
-472312.0,0.0,1448431,optimizerx corp,1,0,0,0,20140501,hamilton terrence,125529414000385,,male,22809586.0
-423348.0,0.0,1448431,optimizerx corp,1,1,0,0,20140522,lester david,125529414000489,COO,male,22809586.0
-630125.0,0.0,1448431,optimizerx corp,1,0,0,0,20140604,hamilton terrence,125529414000542,,male,22809586.0
-10000.0,0.0,1448431,optimizerx corp,0,1,0,0,20140605,baker douglas p,125529414000548,Chief Financial Officer,male,22809586.0
-2920300.0,0.0,1448431,optimizerx corp,0,0,1,0,20140605,radoff bradley louis,120919114039186,,male,22809586.0
-2866563.0,0.0,1448431,optimizerx corp,1,1,1,0,20140609,harrell david,125529414000554,Chief Executive Officer,male,22809586.0
-2289200.0,0.0,1448431,optimizerx corp,0,0,1,0,20140724,radoff bradley louis,138058514000001,,male,22809586.0
-13769.0,0.0,1448431,optimizerx corp,1,0,0,0,20141017,halas gus d,125529414001076,,male,23362377.0
-745829.0,0.0,1448431,optimizerx corp,1,0,0,0,20141017,pinney jack t,125529414001074,,male,23362377.0
-20000.0,0.0,1448431,optimizerx corp,0,1,0,0,20141117,baker douglas p,121390014008362,Chief Financial Officer,male,23404819.0
-752079.0,0.0,1448431,optimizerx corp,1,0,0,0,20150127,pinney jack t,121390015000537,,male,22867319.0
-20019.0,0.0,1448431,optimizerx corp,1,0,0,0,20150127,halas gus d,121390015000539,,male,22867319.0
-758329.0,0.0,1448431,optimizerx corp,1,0,0,0,20150429,pinney jack t,121390015003115,,male,22924819.0
-26269.0,0.0,1448431,optimizerx corp,1,0,0,0,20150429,halas gus d,121390015003117,,male,22924819.0
-2884667.0,0.0,1448431,optimizerx corp,1,1,1,0,20150626,harrell david,121390015004801,Chief Executive Officer,male,22924819.0
-748688.0,0.0,1448431,optimizerx corp,1,1,0,0,20150626,hamilton terrence,121390015004803,Vice President,male,22924819.0
-0.0,0.0,1448431,optimizerx corp,0,1,0,0,20150626,baker douglas p,121390015004805,Chief Financial Officer,male,22924819.0
-32519.0,0.0,1448431,optimizerx corp,1,0,0,0,20150702,halas gus d,121390015004924,,male,22949819.0
-764579.0,0.0,1448431,optimizerx corp,1,0,0,0,20150702,pinney jack t,121390015004926,,male,22949819.0
-38769.0,0.0,1448431,optimizerx corp,1,0,0,0,20150930,halas gus d,121390015007398,,male,29018425.0
-770829.0,0.0,1448431,optimizerx corp,1,0,0,0,20150930,pinney jack t,121390015007396,,male,29018425.0
+18000.0,,1448431,optimizerx corp,1,1,0,0,20100421,lester david,125529410000310,Chairman of the Board,male,
+3536250.0,,1448431,optimizerx corp,1,1,0,0,20100421,harrell david,125529410000311,Vice President,male,
+469000.0,,1448431,optimizerx corp,1,1,0,0,20100421,hamilton terrence,125529410000312,VP of Sales,male,
+3836250.0,,1448431,optimizerx corp,1,1,0,0,20100426,harrell david,125529410000325,Chairman of the Board,male,
+3136250.0,,1448431,optimizerx corp,1,1,0,0,20100927,harrell david,125529410000827,Chairman,male,
+,,1448431,optimizerx corp,1,0,0,0,20110601,hamilton terrence,125529411000322,,male,
+,,1448431,optimizerx corp,1,1,0,0,20110601,harrell david,125529411000323,President and CEO,male,
+,,1448431,optimizerx corp,1,1,0,0,20110601,lester david,125529411000324,"President, CEO and Secretary",male,
+1362250.0,,1448431,optimizerx corp,0,0,1,0,20111017,kraniak richard,125529411000623,,male,13969202.0
+742000.0,,1448431,optimizerx corp,1,0,0,0,20130524,hamilton terrence,125529413000392,,male,14232496.0
+697000.0,,1448431,optimizerx corp,1,0,0,0,20130530,hamilton terrence,125529413000405,,male,14232496.0
+250000.0,,1448431,optimizerx corp,0,0,0,1,20131001,stastney shadron l.,114420413053332,,male,14252496.0
+428348.0,,1448431,optimizerx corp,1,1,0,0,20140128,lester david,150416714000053,COO,male,14817496.0
+2705625.0,,1448431,optimizerx corp,1,1,1,0,20140428,harrell david,125529414000370,Chief Executive Officer,male,22809586.0
+373348.0,,1448431,optimizerx corp,1,1,0,0,20140429,lester david,125529414000379,COO,male,22809586.0
+472312.0,,1448431,optimizerx corp,1,0,0,0,20140501,hamilton terrence,125529414000385,,male,22809586.0
+423348.0,,1448431,optimizerx corp,1,1,0,0,20140522,lester david,125529414000489,COO,male,22809586.0
+630125.0,,1448431,optimizerx corp,1,0,0,0,20140604,hamilton terrence,125529414000542,,male,22809586.0
+10000.0,,1448431,optimizerx corp,0,1,0,0,20140605,baker douglas p,125529414000548,Chief Financial Officer,male,22809586.0
+,,1448431,optimizerx corp,0,0,1,0,20140605,radoff bradley louis,120919114039186,,male,22809586.0
+2866563.0,,1448431,optimizerx corp,1,1,1,0,20140609,harrell david,125529414000554,Chief Executive Officer,male,22809586.0
+,,1448431,optimizerx corp,0,0,1,0,20140724,radoff bradley louis,138058514000001,,male,22809586.0
+13769.0,,1448431,optimizerx corp,1,0,0,0,20141017,halas gus d,125529414001076,,male,23362377.0
+745829.0,,1448431,optimizerx corp,1,0,0,0,20141017,pinney jack t,125529414001074,,male,23362377.0
+20000.0,,1448431,optimizerx corp,0,1,0,0,20141117,baker douglas p,121390014008362,Chief Financial Officer,male,23404819.0
+20019.0,,1448431,optimizerx corp,1,0,0,0,20150127,halas gus d,121390015000539,,male,22867319.0
+752079.0,,1448431,optimizerx corp,1,0,0,0,20150127,pinney jack t,121390015000537,,male,22867319.0
+26269.0,,1448431,optimizerx corp,1,0,0,0,20150429,halas gus d,121390015003117,,male,22924819.0
+758329.0,,1448431,optimizerx corp,1,0,0,0,20150429,pinney jack t,121390015003115,,male,22924819.0
+,,1448431,optimizerx corp,0,1,0,0,20150626,baker douglas p,121390015004805,Chief Financial Officer,male,22924819.0
+748688.0,,1448431,optimizerx corp,1,1,0,0,20150626,hamilton terrence,121390015004803,Vice President,male,22924819.0
+2884667.0,,1448431,optimizerx corp,1,1,1,0,20150626,harrell david,121390015004801,Chief Executive Officer,male,22924819.0
+32519.0,,1448431,optimizerx corp,1,0,0,0,20150702,halas gus d,121390015004924,,male,22949819.0
+764579.0,,1448431,optimizerx corp,1,0,0,0,20150702,pinney jack t,121390015004926,,male,22949819.0
+770829.0,,1448431,optimizerx corp,1,0,0,0,20150930,pinney jack t,121390015007396,,male,29018425.0
+38769.0,,1448431,optimizerx corp,1,0,0,0,20150930,halas gus d,121390015007398,,male,29018425.0
+770829.0,,1448431,optimizerx corp,1,0,0,0,20150930,pinney jack t,121390015007396,,male,29018425.0
+38769.0,,1448431,optimizerx corp,1,0,0,0,20150930,halas gus d,121390015007398,,male,29018425.0
+48769.0,,1448431,optimizerx corp,1,0,0,0,20151007,halas gus d,121390015007522,,male,29018425.0
+,,1448431,optimizerx corp,0,1,0,0,20160202,brooks james m,121390016010536,SVP of Business Development,male,29030925.0
+380413.0,,1448431,optimizerx corp,0,1,0,0,20160531,hamilton terrence,121390016013913,SVP of Sales,male,29043425.0
+30000.0,,1448431,optimizerx corp,0,1,0,0,20160608,baker douglas p,121390016014079,CHIEF FINANCIAL OFFICER,male,29043425.0
+10000.0,,1448431,optimizerx corp,0,1,0,0,20160609,brooks james m,121390016014112,SVP of Business Development,male,29043425.0
+31000.0,,1448431,optimizerx corp,1,1,0,0,20160610,febbo william j,121390016014139,CHIEF EXECUTIVE OFFICER,male,29043425.0
+55019.0,,1448431,optimizerx corp,1,0,0,0,20160715,halas gus d,121390016015017,,male,29262944.0
+,,1448431,optimizerx corp,0,1,0,0,20160715,hamilton terrence,121390016015019,VP OF SALES,male,29262944.0
+777079.0,,1448431,optimizerx corp,1,0,0,0,20160715,pinney jack t,121390016015021,,male,29262944.0
+,,1448431,optimizerx corp,0,1,0,0,20160729,dillon brian j,121390016015411,SR. VP OF PRODUCT & STRATEGY,male,29262944.0
+,,1448431,optimizerx corp,0,1,0,0,20160729,hamilton terrence,121390016015413,SVP OF SALES,male,29262944.0
+40000.0,,1448431,optimizerx corp,1,1,0,0,20161114,febbo william j,121390016018324,CHIEF EXECUTIVE OFFICER,male,29672132.0
+40000.0,,1448431,optimizerx corp,0,1,0,0,20161114,baker douglas p,121390016018398,CHIEF FINANCIAL OFFICER,male,29672132.0
+387413.0,,1448431,optimizerx corp,0,1,0,0,20161115,hamilton terrence,121390016018580,SENIOR VP OF SALES,male,29672132.0
+44000.0,,1448431,optimizerx corp,1,1,0,0,20161205,febbo william j,121390016019141,Chief Executive Officer,male,29672132.0
+781079.0,,1448431,optimizerx corp,1,0,0,0,20161221,pinney jack t,121390016019604,,male,29672132.0
+787329.0,,1448431,optimizerx corp,1,0,0,0,20170104,pinney jack t,121390017000070,,male,29718867.0
+61269.0,,1448431,optimizerx corp,1,0,0,0,20170104,halas gus d,121390017000068,,male,29718867.0
+69279.0,,1448431,optimizerx corp,1,0,0,0,20170315,halas gus d,121390017002336,,male,29718867.0
+91269.0,,1448431,optimizerx corp,1,0,0,0,20170321,halas gus d,121390017002655,,male,29718867.0
+,,1448431,optimizerx corp,0,1,0,0,20170404,hamilton terrence,121390017003339,SVP OF SALES,male,29737617.0
+793579.0,,1448431,optimizerx corp,1,0,0,0,20170404,pinney jack t,121390017003341,,male,29737617.0
+,,1448431,optimizerx corp,0,1,0,0,20170404,baker douglas p,121390017003334,CHIEF FINANCIAL OFFICER,male,29737617.0
+97519.0,,1448431,optimizerx corp,1,0,0,0,20170404,halas gus d,121390017003336,,male,29737617.0
+6250.0,,1448431,optimizerx corp,1,0,0,0,20170406,lang james paul,121390017003442,,male,29737617.0
+50000.0,,1448431,optimizerx corp,0,1,0,0,20170515,baker douglas p,121390017005131,CHIEF FINANCIAL OFFICER,male,29737617.0
+28000.0,,1448431,optimizerx corp,1,0,0,0,20170531,vos ellen o'connor,121390017006023,,female,29737617.0
+2090750.0,,1448431,optimizerx corp,1,0,0,0,20170602,harrell david,121390017006118,,male,29737617.0
+103769.0,,1448431,optimizerx corp,1,0,0,0,20170630,halas gus d,121390017007051,,male,29256367.0
+12500.0,,1448431,optimizerx corp,1,0,0,0,20170630,lang james paul,121390017007052,,male,29256367.0
+799829.0,,1448431,optimizerx corp,1,0,0,0,20170630,pinney jack t,121390017007053,,male,29256367.0
+806079.0,,1448431,optimizerx corp,1,0,0,0,20171002,pinney jack t,121390017010177,,male,29275117.0
+18750.0,,1448431,optimizerx corp,1,0,0,0,20171002,lang james paul,121390017010181,,male,29275117.0
+110019.0,,1448431,optimizerx corp,1,0,0,0,20171002,halas gus d,121390017010179,,male,29275117.0
+8690.0,,1448431,optimizerx corp,0,1,0,0,20171006,paramore miriam j,121390017010341,PRESIDENT,female,29275117.0
+812329.0,,1448431,optimizerx corp,1,0,0,0,20180112,pinney jack t,121390018000484,,male,9772694.0
+116269.0,,1448431,optimizerx corp,1,0,0,0,20180112,halas gus d,121390018000486,,male,9772694.0
+25000.0,,1448431,optimizerx corp,1,0,0,0,20180112,lang james paul,121390018000485,,male,9772694.0
+,,1448431,optimizerx corp,0,1,0,0,20180202,baker douglas p,121390018001239,Chief Financial Officer,male,9772694.0
+,,1448431,optimizerx corp,1,1,0,0,20180202,febbo william j,121390018001238,Chief Executive Officer,male,9772694.0
+,,1448431,optimizerx corp,0,1,0,0,20180202,hamilton terrence,121390018001237,SVP of Sales,male,9772694.0
+,,1448431,optimizerx corp,0,1,0,0,20180202,paramore miriam j,121390018001236,President,female,9772694.0
+7897.0,,1448431,optimizerx corp,0,1,0,0,20180618,paramore miriam j,121390018007817,PRESIDENT,female,29636831.0
+15667.0,,1448431,optimizerx corp,1,1,0,0,20180625,febbo william j,121390018008163,CHIEF EXECUTIVE OFFICER,male,29636831.0
+6397.0,,1448431,optimizerx corp,0,1,0,0,20180626,paramore miriam j,121390018008259,PRESIDENT,female,29636831.0
+11134.0,,1448431,optimizerx corp,1,0,0,0,20180627,vos ellen o'connor,121390018008317,,female,29636831.0
+95.0,,1448431,optimizerx corp,1,0,0,0,20180628,spangler patrick d,121390018008414,,male,29636831.0
+13218.0,,1448431,optimizerx corp,1,0,0,0,20180703,vos ellen o'connor,121390018008681,,female,11556858.0
+2179.0,,1448431,optimizerx corp,1,0,0,0,20180703,spangler patrick d,121390018008680,,male,11556858.0
+10417.0,,1448431,optimizerx corp,1,0,0,0,20180703,lang james paul,121390018008679,,male,11556858.0
+40840.0,,1448431,optimizerx corp,1,0,0,0,20180703,halas gus d,121390018008677,,male,11556858.0
+11884.0,,1448431,optimizerx corp,0,1,0,0,20180810,baker douglas p,121390018010721,CHIEF FINANCIAL OFFICER,male,11637546.0
+42924.0,,1448431,optimizerx corp,1,0,0,0,20181010,halas gus d,121390018013765,,male,11970976.0
+15302.0,,1448431,optimizerx corp,1,0,0,0,20181010,vos ellen o'connor,121390018013770,,female,11970976.0
+4263.0,,1448431,optimizerx corp,1,0,0,0,20181010,spangler patrick d,121390018013768,,male,11970976.0
+12501.0,,1448431,optimizerx corp,1,0,0,0,20181012,lang james paul,121390018013822,,male,11970976.0
+16267.0,,1448431,optimizerx corp,1,1,0,0,20181108,febbo william j,121390018015112,CHIEF EXECUTIVE OFFICER,male,12013682.0
+45924.0,,1448431,optimizerx corp,1,0,0,0,20181120,halas gus d,121390018016264,,male,12013682.0
+18267.0,,1448431,optimizerx corp,1,1,0,0,20181220,febbo william j,121390018017585,CHIEF EXECUTIVE OFFICER,male,12013682.0
+7412.0,,1448431,optimizerx corp,0,1,0,0,20181220,paramore miriam j,121390018017586,PRESIDENT,female,12013682.0
+31884.0,,1448431,optimizerx corp,0,1,0,0,20190103,baker douglas p,121390019000132,CHIEF FINANCIAL OFFICER,male,12038618.0
+,,1448431,optimizerx corp,0,1,0,0,20190226,baker douglas p,121390019003162,CHIEF FINANCIAL OFFICER,male,12038618.0
+,,1448431,optimizerx corp,1,1,0,0,20190226,febbo william j,121390019003164,CHIEF EXECUTIVE OFFICER,male,12038618.0
+,,1448431,optimizerx corp,0,1,0,0,20190226,paramore miriam j,121390019003166,PRESIDENT,female,12038618.0
+1346528.0,,1448431,optimizerx corp,0,0,1,0,20190319,"awm investment company, inc.",153526419000038,,male,12095111.0
+24079.0,,1448431,optimizerx corp,0,1,0,0,20190329,paramore miriam j,121390019005237,RESIDENT,female,12095111.0
+98267.0,,1448431,optimizerx corp,1,1,0,0,20190329,febbo william j,121390019005239,CHIEF EXECUTIVE OFFICER,male,12095111.0
+48008.0,,1448431,optimizerx corp,1,0,0,0,20190329,halas gus d,121390019005240,,male,12095111.0
+141471.0,,1448431,optimizerx corp,0,1,0,0,20190329,hamilton terrence,121390019005235,SVP OF SALES,male,12095111.0
+14585.0,,1448431,optimizerx corp,1,0,0,0,20190329,lang james paul,121390019005244,,male,12095111.0
+6347.0,,1448431,optimizerx corp,1,0,0,0,20190329,spangler patrick d,121390019005245,,male,12095111.0
+17386.0,,1448431,optimizerx corp,1,0,0,0,20190329,vos ellen o'connor,121390019005248,,female,12095111.0
+48551.0,,1448431,optimizerx corp,0,1,0,0,20190329,baker douglas p,121390019005250,CHIEF FINANCIAL OFFICER,male,12095111.0
+,,1448431,optimizerx corp,0,1,0,0,20190503,silvestro stephen l,121390019007808,CHIEF COMMERCIAL OFFICER,male,12278833.0
+53551.0,,1448431,optimizerx corp,0,1,0,0,20190503,baker douglas p,121390019007810,CHIEF FINANCIAL OFFICER,male,12278833.0
+1264402.0,,1448431,optimizerx corp,0,0,1,0,20190513,"awm investment company, inc.",153526419000041,,male,12278833.0
+61885.0,,1448431,optimizerx corp,0,1,0,0,20190513,baker douglas p,121390019008357,CHIEF FINANCIAL OFFICER,male,12278833.0
+1221528.0,,1448431,optimizerx corp,0,0,1,0,20190517,"awm investment company, inc.",153526419000043,,male,12278833.0
+22924.0,,1448431,optimizerx corp,1,0,0,0,20191002,lang james paul,121390019019542,,male,14173850.0
+12599.0,,1448431,optimizerx corp,1,0,0,0,20191002,spangler patrick d,121390019019543,,male,14173850.0
+50092.0,,1448431,optimizerx corp,1,0,0,0,20191002,halas gus d,121390019019541,,male,14173850.0
+21554.0,,1448431,optimizerx corp,1,0,0,0,20191002,vos ellen o'connor,121390019019545,,female,14173850.0
+103267.0,,1448431,optimizerx corp,1,1,0,0,20191106,febbo william j,121390019022200,CHIEF EXECUTIVE OFFICER,male,14173850.0
+66885.0,,1448431,optimizerx corp,0,1,0,0,20191107,baker douglas p,121390019022369,Chief Financial Officer,male,14173850.0
+55092.0,,1448431,optimizerx corp,1,0,0,0,20191113,halas gus d,121390019023179,,male,14173850.0
+22154.0,,1448431,optimizerx corp,1,0,0,0,20191114,vos ellen o'connor,121390019023370,,female,14173850.0
+133267.0,,1448431,optimizerx corp,1,1,0,0,20191205,febbo william j,121390019025356,CHIEF EXECUTIVE OFFICER,male,14173850.0
+24238.0,,1448431,optimizerx corp,1,0,0,0,20200107,vos ellen o'connor,121390020000385,,female,14609579.0
+25008.0,,1448431,optimizerx corp,1,0,0,0,20200107,lang james paul,121390020000382,,male,14609579.0
+14683.0,,1448431,optimizerx corp,1,0,0,0,20200107,spangler patrick d,121390020000384,,male,14609579.0
+57176.0,,1448431,optimizerx corp,1,0,0,0,20200107,halas gus d,121390020000381,,male,14609579.0
+71917.0,,1448431,optimizerx corp,0,1,0,0,20200130,baker douglas p,121390020002149,Chief Financial Officer,male,14609579.0
+163267.0,,1448431,optimizerx corp,1,1,0,0,20200305,febbo william j,121390020005495,CHIEF EXECUTIVE OFFICER,male,14609579.0
+,,1448431,optimizerx corp,1,1,0,0,20200313,febbo william j,121390020006361,CHIEF EXECUTIVE OFFICER,male,14609579.0
+,,1448431,optimizerx corp,0,1,0,0,20200313,baker douglas p,121390020006358,CHIEF FINANCIAL OFFICER,male,14609579.0
+,,1448431,optimizerx corp,0,1,0,0,20200313,paramore miriam j,121390020006356,PRESIDENT,female,14609579.0
+,,1448431,optimizerx corp,0,1,0,0,20200313,silvestro stephen l,121390020006360,CHIEF COMMERCIAL OFFICER,male,14609579.0
+27022.0,,1448431,optimizerx corp,1,0,0,0,20200331,vos ellen o'connor,121390020008138,,female,14646747.0
+59960.0,,1448431,optimizerx corp,1,0,0,0,20200331,halas gus d,121390020008139,,male,14646747.0
+17467.0,,1448431,optimizerx corp,1,0,0,0,20200331,spangler patrick d,121390020008140,,male,14646747.0
+27792.0,,1448431,optimizerx corp,1,0,0,0,20200331,lang james paul,121390020008137,,male,14646747.0
+28022.0,,1448431,optimizerx corp,1,0,0,0,20200401,vos ellen o'connor,121390020008316,,female,14646747.0
+89338.0,,1448431,optimizerx corp,0,1,0,0,20200604,baker douglas p,121390020014108,CHIEF FINANCIAL OFFICER,male,14646747.0
+208528.0,,1448431,optimizerx corp,1,1,0,0,20200626,febbo william j,121390020015899,CHIEF EXECUTIVE OFFICER,male,14646747.0
+29729.0,,1448431,optimizerx corp,1,0,0,0,20200702,lang james paul,121390020016582,,male,14752600.0
+229719.0,,1448431,optimizerx corp,1,1,0,0,20200702,febbo william j,121390020016579,CHIEF EXECUTIVE OFFICER,male,14752600.0
+61897.0,,1448431,optimizerx corp,1,0,0,0,20200702,halas gus d,121390020016581,,male,14752600.0
+19404.0,,1448431,optimizerx corp,1,0,0,0,20200702,spangler patrick d,121390020016584,,male,14752600.0
+29959.0,,1448431,optimizerx corp,1,0,0,0,20200702,vos ellen o'connor,121390020016585,,female,14752600.0
+90671.0,,1448431,optimizerx corp,0,1,0,0,20200717,baker douglas p,121390020017818,CHIEF FINANCIAL OFFICER,male,14752600.0
+110671.0,,1448431,optimizerx corp,0,1,0,0,20200807,baker douglas p,121390020020933,CHIEF FINANCIAL OFFICER,male,14816861.0
+15000.0,,1448431,optimizerx corp,1,0,0,0,20200811,wasson gregory d,121390020021359,,male,14816861.0
+110671.0,,1448431,optimizerx corp,0,1,0,0,20200814,baker douglas p,121390020022333,CHIEF FINANCIAL OFFICER,male,14816861.0
+90705.0,,1448431,optimizerx corp,0,1,0,0,20200904,baker douglas p,121390020025434,CHIEF FINANCIAL OFFICER,male,14816861.0
+90705.0,,1448431,optimizerx corp,0,1,0,0,20201113,baker douglas p,121390020036981,CHIEF FINANCIAL OFFICER,male,15108646.0
+31944.0,,1448431,optimizerx corp,1,0,0,0,20210105,vos ellen o'connor,121390021000457,,female,15223340.0
+21389.0,,1448431,optimizerx corp,1,0,0,0,20210105,spangler patrick d,121390021000456,,male,15223340.0
+63882.0,,1448431,optimizerx corp,1,0,0,0,20210105,halas gus d,121390021000455,,male,15223340.0
+293278.0,,1448431,optimizerx corp,1,1,0,0,20210105,febbo william j,121390021000454,CHIEF EXECUTIVE OFFICER,male,15223340.0
+16985.0,,1448431,optimizerx corp,1,0,0,0,20210105,wasson gregory d,121390021000458,,male,15223340.0
+90937.0,,1448431,optimizerx corp,0,1,0,0,20210105,baker douglas p,121390021000459,CHIEF FINANCIAL OFFICER,male,15223340.0
+,,1448431,optimizerx corp,0,1,0,0,20210111,baker douglas p,121390021001537,CHIEF FINANCIAL OFFICER,male,15223340.0
+,,1448431,optimizerx corp,1,1,0,0,20210111,febbo william j,121390021001538,CHIEF EXECUTIVE OFFICER,male,15223340.0
+,,1448431,optimizerx corp,0,1,0,0,20210111,paramore miriam j,121390021001539,PRESIDENT,female,15223340.0
+,,1448431,optimizerx corp,0,1,0,0,20210111,silvestro stephen l,121390021001540,CHIEF COMMERCIAL OFFICER,male,15223340.0
+90937.0,,1448431,optimizerx corp,0,1,0,0,20210115,baker douglas p,121390021002568,CHIEF FINANCIAL OFFICER,male,15223340.0
+31714.0,,1448431,optimizerx corp,1,0,0,0,20210120,lang james paul,121390021003294,,male,15223340.0
+90217.0,,1448431,optimizerx corp,0,1,0,0,20210129,baker douglas p,121390021005406,CHIEF FINANCIAL OFFICER,male,15223340.0
+,,1448431,optimizerx corp,0,1,0,0,20210212,odence-ford marion,121390021009036,General Counsel and CCO,female,15223340.0
+561307.0,,1448431,optimizerx corp,1,1,0,0,20210326,febbo william j,121390021018006,CHIEF EXECUTIVE OFFICER,male,16806637.0
+17524.0,,1448431,optimizerx corp,1,0,0,0,20210402,wasson gregory d,121390021019884,,male,17260588.0
+32483.0,,1448431,optimizerx corp,1,0,0,0,20210402,vos ellen o'connor,121390021019882,,female,17260588.0
+21928.0,,1448431,optimizerx corp,1,0,0,0,20210402,spangler patrick d,121390021019880,,male,17260588.0
+32253.0,,1448431,optimizerx corp,1,0,0,0,20210402,lang james paul,121390021019878,,male,17260588.0
+64421.0,,1448431,optimizerx corp,1,0,0,0,20210402,halas gus d,121390021019875,,male,17260588.0
+9079.0,,1448431,optimizerx corp,0,1,0,0,20210519,paramore miriam j,121390021027937,PRESIDENT,female,17260588.0
+13242.0,,1448431,optimizerx corp,0,1,0,0,20210519,silvestro stephen l,121390021027936,CHIEF COMMERCIAL OFFICER,male,17260588.0
+90217.0,,1448431,optimizerx corp,0,1,0,0,20210519,baker douglas p,121390021027935,CHIEF FINANCIAL OFFICER,male,17260588.0
+90217.0,,1448431,optimizerx corp,0,1,0,0,20210608,baker douglas p,121390021031479,CHIEF FINANCIAL OFFICER,male,17260588.0
+20745.0,,1448431,optimizerx corp,0,1,0,0,20210608,paramore miriam j,121390021031476,PRESIDENT,female,17260588.0
+13242.0,,1448431,optimizerx corp,0,1,0,0,20210621,silvestro stephen l,121390021033297,CHIEF COMMERCIAL OFFICER,male,17260588.0
+,,1448431,optimizerx corp,0,1,0,0,20210625,baker douglas p,121390021034239,CHIEF FINANCIAL OFFICER,male,17260588.0
+17931.0,,1448431,optimizerx corp,1,0,0,0,20210630,wasson gregory d,121390021035083,,male,17495429.0
+32890.0,,1448431,optimizerx corp,1,0,0,0,20210630,vos ellen o'connor,121390021035082,,female,17495429.0
+22335.0,,1448431,optimizerx corp,1,0,0,0,20210630,spangler patrick d,121390021035080,,male,17495429.0
+32660.0,,1448431,optimizerx corp,1,0,0,0,20210630,lang james paul,121390021035078,,male,17495429.0
+,,1448431,optimizerx corp,0,1,0,0,20210630,baker douglas p,121390021035072,CHIEF FINANCIAL OFFICER,male,17495429.0
+64828.0,,1448431,optimizerx corp,1,0,0,0,20210630,halas gus d,121390021035076,,male,17495429.0
+22412.0,,1448431,optimizerx corp,0,1,0,0,20210702,paramore miriam j,121390021035593,PRESIDENT AND CSO,female,17495429.0
+82796.0,,1448431,optimizerx corp,0,1,0,0,20210709,baker douglas p,121390021036374,CHIEF FINANCIAL OFFICER,male,17495429.0
+74607.0,,1448431,optimizerx corp,0,1,0,0,20210719,paramore miriam j,121390021037492,PRESIDENT,female,17495429.0
+13242.0,,1448431,optimizerx corp,0,1,0,0,20210721,silvestro stephen l,121390021037937,CHIEF COMMERCIAL OFFICER,male,17495429.0
+,,1448431,optimizerx corp,0,1,0,0,20210721,baker douglas p,121390021037938,CHIEF FINANCIAL OFFICER,male,17495429.0
+,,1448431,optimizerx corp,0,1,0,0,20210728,baker douglas p,121390021039109,CHIEF FINANCIAL OFFICER,male,17495429.0
+89607.0,,1448431,optimizerx corp,0,1,0,0,20210803,paramore miriam j,121390021040134,PRESIDENT AND CSO,female,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210803,baker douglas p,121390021040133,CHIEF FINANCIAL OFFICER,male,17618607.0
+74796.0,,1448431,optimizerx corp,0,1,0,0,20210810,baker douglas p,121390021041400,CHIEF FINANCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210817,baker douglas p,121390021043479,CHIEF FINANCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,1,1,0,0,20210817,febbo william j,121390021043480,CHIEF EXECUTIVE OFFICER,male,17618607.0
+13242.0,,1448431,optimizerx corp,0,1,0,0,20210819,silvestro stephen l,121390021043903,CHIEF COMMERCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210824,baker douglas p,121390021044609,CHIEF FINANCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210902,baker douglas p,121390021046409,CHIEF FINANCIAL OFFICER,male,17618607.0
+89607.0,,1448431,optimizerx corp,0,1,0,0,20210903,paramore miriam j,121390021046665,PRESIDENT AND CSO,female,17618607.0
+58564.0,,1448431,optimizerx corp,0,1,0,0,20210909,baker douglas p,121390021047223,CHIEF FINANCIAL OFFICER,male,17618607.0
+536041.0,,1448431,optimizerx corp,1,1,0,0,20210915,febbo william j,121390021048251,CHIEF EXECUTIVE OFFICER,male,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210915,baker douglas p,121390021048250,CHIEF FINANCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,1,1,0,0,20210917,febbo william j,121390021048613,CHIEF EXECUTIVE OFFICER,male,17618607.0
+13242.0,,1448431,optimizerx corp,0,1,0,0,20210921,silvestro stephen l,121390021049127,CCO,male,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210922,baker douglas p,121390021049366,CHIEF FINANCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,0,1,0,0,20210929,baker douglas p,121390021050600,CHIEF FINANCIAL OFFICER,male,17618607.0
+,,1448431,optimizerx corp,1,0,0,0,20211001,halas gus d,121390021051140,,male,17727769.0
+,,1448431,optimizerx corp,1,0,0,0,20211001,lang james paul,121390021051142,,male,17727769.0
+,,1448431,optimizerx corp,1,0,0,0,20211001,vos ellen o'connor,121390021051139,,female,17727769.0
+,,1448431,optimizerx corp,1,0,0,0,20211001,wasson gregory d,121390021051141,,male,17727769.0
+,,1448431,optimizerx corp,1,0,0,0,20211001,spangler patrick d,121390021051138,,male,17727769.0
+44796.0,,1448431,optimizerx corp,0,1,0,0,20211005,baker douglas p,121390021051449,CHIEF FINANCIAL OFFICER,male,17727769.0
+89607.0,,1448431,optimizerx corp,0,1,0,0,20211005,paramore miriam j,121390021051450,PRESIDENT AND CSO,female,17727769.0
+,,1448431,optimizerx corp,0,1,0,0,20211013,stelmakh edward,121390021052644,COO and CFO,male,17727769.0
+,,1448431,optimizerx corp,1,1,0,0,20211019,febbo william j,121390021053524,CHIEF EXECUTIVE OFFICER,male,17727769.0
+13241.0,,1448431,optimizerx corp,0,1,0,0,20211019,silvestro stephen l,121390021053526,CHIEF COMMERCIAL OFFICER,male,17727769.0
+89607.0,,1448431,optimizerx corp,0,1,0,0,20211103,paramore miriam j,121390021056471,PRES. & CHIEF STRATEGY OFFICER,female,17727769.0
+,,1448431,optimizerx corp,0,1,0,0,20211110,odence-ford marion,121390021058166,General Counsel and CCO,female,17769544.0
+,,1448431,optimizerx corp,1,0,0,0,20211115,spangler patrick d,121390021059450,,male,17769544.0
+,,1448431,optimizerx corp,1,1,0,0,20211117,febbo william j,121390021060341,CHIEF EXECUTIVE OFFICER,male,17769544.0
+13241.0,,1448431,optimizerx corp,0,1,0,0,20211119,silvestro stephen l,121390021060876,CHIEF COMMERCIAL OFFICER,male,17769544.0
+74607.0,,1448431,optimizerx corp,0,1,0,0,20211203,paramore miriam j,121390021063363,PRESIDENT AND CSO,female,17769544.0
+,,1448431,optimizerx corp,1,1,0,0,20211217,febbo william j,121390021066031,CHIEF EXECUTIVE OFFICER,male,17769544.0
+13241.0,,1448431,optimizerx corp,0,1,0,0,20211221,silvestro stephen l,121390021066731,CHIEF COMMERCIAL OFFICER,male,17769544.0
+,,1448431,optimizerx corp,1,0,0,0,20220103,halas gus d,121390022000274,,male,17860975.0
+,,1448431,optimizerx corp,1,0,0,0,20220103,spangler patrick d,121390022000275,,male,17860975.0
+,,1448431,optimizerx corp,1,0,0,0,20220103,lang james paul,121390022000276,,male,17860975.0
+,,1448431,optimizerx corp,1,0,0,0,20220103,vos ellen o'connor,121390022000277,,female,17860975.0
+,,1448431,optimizerx corp,1,0,0,0,20220103,wasson gregory d,121390022000278,,male,17860975.0
+479004.0,,1448431,optimizerx corp,1,1,0,0,20220111,febbo william j,121390022001562,CHIEF EXECUTIVE OFFICER,male,17860975.0
+462338.0,,1448431,optimizerx corp,1,1,0,0,20220120,febbo william j,121390022002854,CHIEF EXECUTIVE OFFICER,male,17860975.0
+4000.0,,1448431,optimizerx corp,0,1,0,0,20220215,odence-ford marion,121390022007910,General Counsel and CCO,female,17860975.0
+445672.0,,1448431,optimizerx corp,1,1,0,0,20220223,febbo william j,121390022008987,CHIEF EXECUTIVE OFFICER,male,17860975.0
+,,1448431,optimizerx corp,0,1,0,0,20220303,odence-ford marion,121390022010597,General Counsel and CCO,female,17860975.0
+,,1448431,optimizerx corp,0,1,0,0,20220303,inman todd,121390022010598,Chief Technology Officer,male,17860975.0
+,,1448431,optimizerx corp,0,1,0,0,20220303,silvestro stephen l,121390022010599,Chief Commercial Officer,male,17860975.0
+,,1448431,optimizerx corp,1,0,0,0,20220401,spangler patrick d,121390022017502,,male,17902608.0
+,,1448431,optimizerx corp,1,0,0,0,20220401,lang james paul,121390022017501,,male,17902608.0
+,,1448431,optimizerx corp,1,0,0,0,20220401,halas gus d,121390022017500,,male,17902608.0
+,,1448431,optimizerx corp,1,0,0,0,20220401,vos ellen o'connor,121390022017499,,female,17902608.0
+,,1448431,optimizerx corp,1,0,0,0,20220401,wasson gregory d,121390022017498,,male,17902608.0
+,,1448431,optimizerx corp,1,0,0,0,20220613,halas gus d,121390022032529,,male,18152349.0
+,,1448431,optimizerx corp,1,0,0,0,20220613,vos ellen o'connor,121390022032532,,female,18152349.0
+,,1448431,optimizerx corp,1,0,0,0,20220613,spangler patrick d,121390022032531,,male,18152349.0
+,,1448431,optimizerx corp,1,0,0,0,20220613,lang james paul,121390022032530,,male,18152349.0
+,,1448431,optimizerx corp,1,0,0,0,20220613,wasson gregory d,121390022032528,,male,18152349.0
+3200.0,,1448431,optimizerx corp,0,1,0,0,20220817,silvestro stephen l,121390022049032,CCO,male,18023056.0
+500.0,,1448431,optimizerx corp,1,0,0,0,20220817,vos ellen o'connor,121390022049031,,female,18023056.0
+3000.0,,1448431,optimizerx corp,0,1,0,0,20220817,stelmakh edward,121390022049030,CFO/COO,male,18023056.0
+461772.0,,1448431,optimizerx corp,1,1,0,0,20220823,febbo william j,121390022050555,CEO,male,18023056.0
+38660.0,,1448431,optimizerx corp,1,0,0,0,20220823,lang james paul,121390022050556,,male,18023056.0
+5000.0,,1448431,optimizerx corp,0,1,0,0,20220830,odence-ford marion,121390022052320,General Counsel and CCO,female,18023056.0
+16417.0,,1448431,optimizerx corp,1,0,0,0,20220930,spangler patrick d,162828022025812,,male,18261239.0
+33724.0,,1448431,optimizerx corp,1,0,0,0,20220930,vos ellen o'connor,162828022025807,,female,18261239.0
+18265.0,,1448431,optimizerx corp,1,0,0,0,20220930,wasson gregory d,162828022025808,,male,18261239.0
+65162.0,,1448431,optimizerx corp,1,0,0,0,20220930,halas gus d,162828022025810,,male,18261239.0
+38994.0,,1448431,optimizerx corp,1,0,0,0,20220930,lang james paul,162828022025811,,male,18261239.0
+,,1448431,optimizerx corp,0,1,0,0,20221005,silvestro stephen l,162828022026033,Chief Commercial Officer,male,18261239.0
+,,1448431,optimizerx corp,0,1,0,0,20221005,stelmakh edward,162828022026032,CFO/COO,male,18261239.0
+,,1448431,optimizerx corp,0,1,0,0,20221005,inman todd,162828022026029,Chief Technology Officer,male,18261239.0
+,,1448431,optimizerx corp,0,1,0,0,20221005,odence-ford marion,162828022026031,General Counsel and CCO,female,18261239.0
+,,1448431,optimizerx corp,0,1,0,0,20221005,besch doug,162828022026030,Chief Product Officer,male,18261239.0
+6075.0,,1448431,optimizerx corp,0,1,0,0,20221110,odence-ford marion,162828022029460,General Counsel and CCO,female,17152717.0
+34133.0,,1448431,optimizerx corp,1,0,0,0,20230104,vos ellen o'connor,162828023000213,,female,18288571.0
+39403.0,,1448431,optimizerx corp,1,0,0,0,20230104,lang james paul,162828023000210,,male,18288571.0
+65571.0,,1448431,optimizerx corp,1,0,0,0,20230104,halas gus d,162828023000220,,male,18288571.0
+18674.0,,1448431,optimizerx corp,1,0,0,0,20230104,wasson gregory d,162828023000216,,male,18288571.0
+16826.0,,1448431,optimizerx corp,1,0,0,0,20230104,spangler patrick d,162828023000211,,male,18288571.0
+471400.0,,1448431,optimizerx corp,1,1,0,0,20230131,febbo william j,162828023001817,CEO,male,18288571.0
+8653.0,,1448431,optimizerx corp,0,1,0,0,20230214,odence-ford marion,162828023003460,General Counsel and CCO,female,18288571.0
+538.0,,1448431,optimizerx corp,0,1,0,0,20230303,inman todd,162828023006252,Chief Technology Officer,male,17100097.0
+4459.0,,1448431,optimizerx corp,0,1,0,0,20230303,silvestro stephen l,162828023006261,Chief Commercial Officer,male,17100097.0
+9156.0,,1448431,optimizerx corp,0,1,0,0,20230303,odence-ford marion,162828023006262,General Counsel and CCO,female,17100097.0
+4682.0,,1448431,optimizerx corp,0,1,0,0,20230330,stelmakh edward,162828023009820,CFO/COO,male,17100097.0
+19331.0,,1448431,optimizerx corp,1,0,0,0,20230403,wasson gregory d,162828023010321,,male,18158282.0
+66228.0,,1448431,optimizerx corp,1,0,0,0,20230403,halas gus d,162828023010322,,male,18158282.0
+40060.0,,1448431,optimizerx corp,1,0,0,0,20230403,lang james paul,162828023010323,,male,18158282.0
+17483.0,,1448431,optimizerx corp,1,0,0,0,20230403,spangler patrick d,162828023010320,,male,18158282.0
+34790.0,,1448431,optimizerx corp,1,0,0,0,20230403,vos ellen o'connor,162828023010319,,female,18158282.0
+,,1448431,optimizerx corp,1,1,0,0,20230420,febbo william j,162828023012245,CEO,male,18158282.0
+70865.0,,1448431,optimizerx corp,1,0,0,0,20230818,halas gus d,162828023029934,,male,16637891.0
+22120.0,,1448431,optimizerx corp,1,0,0,0,20230818,spangler patrick d,162828023029930,,male,16637891.0
+44697.0,,1448431,optimizerx corp,1,0,0,0,20230818,lang james paul,162828023029928,,male,16637891.0
+39427.0,,1448431,optimizerx corp,1,0,0,0,20230818,vos ellen o'connor,162828023029926,,female,16637891.0
+23968.0,,1448431,optimizerx corp,1,0,0,0,20230818,wasson gregory d,162828023029924,,male,16637891.0
+13853.0,,1448431,optimizerx corp,0,1,0,0,20231006,odence-ford marion,162828023034061,General Counsel and CCO,female,18386920.0
+3848.0,,1448431,optimizerx corp,0,1,0,0,20231006,besch doug,162828023034058,Chief Product Officer,male,18386920.0
+17227.0,,1448431,optimizerx corp,0,1,0,0,20231006,stelmakh edward,162828023034059,CFO/COO,male,18386920.0
+4697.0,,1448431,optimizerx corp,0,1,0,0,20231006,silvestro stephen l,162828023034060,Chief Commercial Officer,male,18386920.0
+29537.0,,1448431,optimizerx corp,0,1,0,0,20231012,stelmakh edward,162828023034277,CFO/COO,male,18386920.0
+37038.0,,1448431,optimizerx corp,0,1,0,0,20231103,greco theresa,162828023036588,Chief Commercial Officer,female,18386920.0
+15114.0,,1448431,optimizerx corp,0,1,0,0,20231113,odence-ford marion,162828023038536,General Counsel and CCO,female,18152478.0
+11114.0,,1448431,optimizerx corp,0,1,0,0,20240111,odence-ford marion,162828024001190,General Counsel and CCO,female,18158282.0
+478144.0,,1448431,optimizerx corp,1,1,0,0,20240118,febbo william j,162828024001718,CEO,male,18158282.0
+,,1448431,optimizerx corp,1,0,0,0,20240206,klema cathy,162828024003584,,female,18158282.0
+13728.0,,1448431,optimizerx corp,0,1,0,0,20240213,odence-ford marion,162828024004575,General Counsel and CCO,female,18158282.0
+,,1448431,optimizerx corp,0,1,0,0,20240221,stelmakh edward,162828024006020,CFO/COO,male,18158282.0
+,,1448431,optimizerx corp,0,1,0,0,20240221,odence-ford marion,162828024006019,General Counsel and CCO,female,18158282.0
+,,1448431,optimizerx corp,0,1,0,0,20240221,besch doug,162828024006021,Chief Product Officer,male,18158282.0
+,,1448431,optimizerx corp,0,1,0,0,20240221,silvestro stephen l,162828024006018,Chief Commercial Officer,male,18158282.0
+14231.0,,1448431,optimizerx corp,0,1,0,0,20240306,odence-ford marion,162828024009405,General Counsel and CCO,female,18158282.0
+5956.0,,1448431,optimizerx corp,0,1,0,0,20240306,silvestro stephen l,162828024009407,Chief Commercial Officer,male,18158282.0
+538144.0,,1448431,optimizerx corp,1,1,0,0,20240417,febbo william j,162828024016621,CEO,male,18183914.0
+7848.0,,1448431,optimizerx corp,0,1,0,0,20240424,besch doug,162828024017551,Chief Product Officer,male,18183914.0
+18498.0,,1448431,optimizerx corp,0,1,0,0,20240424,odence-ford marion,162828024017550,General Counsel and CCO,female,18183914.0
+14765.0,,1448431,optimizerx corp,0,1,0,0,20240424,stelmakh edward,162828024017549,CFO/COO,male,18183914.0
+13706.0,,1448431,optimizerx corp,0,1,0,0,20240424,silvestro stephen l,162828024017545,Chief Commercial Officer,male,18183914.0
+553144.0,,1448431,optimizerx corp,1,1,0,0,20240424,febbo william j,162828024017552,CEO,male,18183914.0
+72846.0,,1448431,optimizerx corp,0,1,0,0,20240506,silvestro stephen l,162828024020821,Chief Commercial Officer,male,18183914.0
+80926.0,,1448431,optimizerx corp,1,0,0,0,20240611,halas gus d,162828024027712,,male,18183914.0
+47315.0,,1448431,optimizerx corp,1,0,0,0,20240611,wasson gregory d,162828024027714,,male,18183914.0
+6643.0,,1448431,optimizerx corp,1,0,0,0,20240611,klema cathy,162828024027710,,female,18183914.0
+45467.0,,1448431,optimizerx corp,1,0,0,0,20240611,spangler patrick d,162828024027716,,male,18183914.0
+62774.0,,1448431,optimizerx corp,1,0,0,0,20240611,vos ellen o'connor,162828024027715,,female,18183914.0
+68044.0,,1448431,optimizerx corp,1,0,0,0,20240611,lang james paul,162828024027709,,male,18183914.0
+581253.0,,1448431,optimizerx corp,1,1,0,0,20240612,febbo william j,162828024027755,CEO,male,18183914.0
+,,1448431,optimizerx corp,0,1,0,0,20240805,mccarthy brian clark,162828024034830,Chief Revenue Officer,male,18183914.0
+10196.0,,1448431,optimizerx corp,0,1,0,0,20241007,besch doug,162828024042474,Chief Product Officer,male,18321886.0
+76878.0,,1448431,optimizerx corp,0,1,0,0,20241007,silvestro stephen l,162828024042475,Chief Commercial Officer,male,18321886.0
+23195.0,,1448431,optimizerx corp,0,1,0,0,20241007,odence-ford marion,162828024042476,General Counsel and CCO,female,18321886.0
+27210.0,,1448431,optimizerx corp,0,1,0,0,20241007,stelmakh edward,162828024042477,CFO/COO,male,18321886.0
+33366.0,,1448431,optimizerx corp,0,1,0,0,20241015,stelmakh edward,162828024042848,CFO/COO,male,18321886.0
+35345.0,,1448431,optimizerx corp,0,1,0,0,20241105,greco theresa,162828024045424,Chief Commercial Officer,female,18321886.0
+24456.0,,1448431,optimizerx corp,0,1,0,0,20241112,odence-ford marion,162828024046917,General Counsel and CCO,female,18420906.0
+601253.0,,1448431,optimizerx corp,1,1,0,0,20241216,febbo william j,162828024051352,CEO,male,18420906.0
+37287.0,,1448431,optimizerx corp,0,1,0,0,20241220,stelmakh edward,162828024052284,CFO/COO,male,18420906.0
+27230.0,,1448431,optimizerx corp,0,1,0,0,20241220,odence-ford marion,162828024052287,General Counsel and CCO,female,18420906.0
+11583.0,,1448431,optimizerx corp,0,1,0,0,20241220,besch doug,162828024052285,Chief Product Officer,male,18420906.0
+80848.0,,1448431,optimizerx corp,0,1,0,0,20241220,silvestro stephen l,162828024052286,Chief Commercial Officer,male,18420906.0
+52991.0,,1448431,optimizerx corp,0,1,0,0,20241227,besch doug,162828024052485,Chief Product Officer,male,18420906.0
+68638.0,,1448431,optimizerx corp,0,1,0,0,20241227,odence-ford marion,162828024052486,General Counsel and CCO,female,18420906.0
+50873.0,,1448431,optimizerx corp,0,1,0,0,20241227,greco theresa,162828024052487,Chief Commercial Officer,female,18420906.0
+122256.0,,1448431,optimizerx corp,0,1,0,0,20241227,silvestro stephen l,162828024052490,Chief Commercial Officer,male,18420906.0
+97295.0,,1448431,optimizerx corp,0,1,0,0,20241227,stelmakh edward,162828024052522,CFO/COO,male,18420906.0

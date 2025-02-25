@@ -1,378 +1,947 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,colligan joan,139726710000007,Principal Accounting Officer,female,
-137923.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100310,myers robert m,139726710000004,President,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100310,cozadd bruce c,139726710000003,Executive Chairman,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,wissel janne lt,139726710000002,"SVP, Chief Regulatory Officer",female,
-18492.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,gamble carol a,139726710000001,"SVP, GC and Secretary",female,
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,falberg kathryn e,139726710000005,SVP and CFO,female,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100505,winningham rick e,123252410000003,,male,
-56667.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100513,enright patrick g,118143110026724,,male,
-105830.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100601,wissel janne lt,123252410000005,"SVP, Chief Regulatory Officer",female,
-20623.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100601,gamble carol a,123252410000008,"SVP, GC and Secretary",female,
-11227.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100601,colligan joan,123252410000004,Principal Accounting Officer,female,
-270181.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100601,cozadd bruce c,123252410000007,Chairman and CEO,male,
-146206.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100601,myers robert m,123252410000006,President,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100608,berns paul l,123252410000010,,male,
-11634.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100817,colligan joan,123252410000011,Principal Accounting Officer,female,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,zilkha nathaniel m,120919110044277,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,tananbaum james b,123252410000012,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,momtazee james c,120919110044279,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,1.0,20100827,michelson michael w,120919110044278,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,cressey bryan c,123252410000020,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,winningham rick e,123252410000015,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,o'keefe kenneth w,123252410000018,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,colella samuel d,123252410000019,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,sebulsky alan,123252410000017,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,enright patrick g,123252410000016,,male,
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,berns paul l,123252410000014,,male,
-50000.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100901,falberg kathryn e,123252410000021,SVP and CFO,female,
-280181.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100901,cozadd bruce c,123252410000022,Chairman and CEO,male,
-152206.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100910,myers robert m,123252410000023,President,male,
-4494.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101119,gamble carol a,123252410000024,"SVP, GC and Secretary",female,
-105830.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101119,wissel janne lt,123252410000025,"SVP, Chief Regulatory Officer",female,
-7204.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,gamble carol a,123252410000028,"SVP, GC and Secretary",female,
-284775.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20101202,cozadd bruce c,123252410000027,Chairman and CEO,male,
-14424.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,colligan joan,123252410000026,Principal Accounting Officer,female,
-156898.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20101202,myers robert m,123252410000029,President,male,
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,colligan joan,139726710000007,Principal Accounting Officer,female,
+18492.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,gamble carol a,139726710000001,"SVP, GC and Secretary",female,
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,wissel janne lt,139726710000002,"SVP, Chief Regulatory Officer",female,
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100310,falberg kathryn e,139726710000005,SVP and CFO,female,
+137923.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100310,myers robert m,139726710000004,President,male,
+,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100310,cozadd bruce c,139726710000003,Executive Chairman,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100505,winningham rick e,123252410000003,,male,
+56667.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100513,enright patrick g,118143110026724,,male,
+11227.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100601,colligan joan,123252410000004,Principal Accounting Officer,female,
+20623.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100601,gamble carol a,123252410000008,"SVP, GC and Secretary",female,
+270181.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100601,cozadd bruce c,123252410000007,Chairman and CEO,male,
+146206.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100601,myers robert m,123252410000006,President,male,
+105830.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100601,wissel janne lt,123252410000005,"SVP, Chief Regulatory Officer",female,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100608,berns paul l,123252410000010,,male,
+11634.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100817,colligan joan,123252410000011,Principal Accounting Officer,female,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,o'keefe kenneth w,123252410000018,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,sebulsky alan,123252410000017,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,enright patrick g,123252410000016,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,winningham rick e,123252410000015,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,berns paul l,123252410000014,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,tananbaum james b,123252410000012,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,cressey bryan c,123252410000020,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,colella samuel d,123252410000019,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,momtazee james c,120919110044279,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,1.0,20100827,michelson michael w,120919110044278,,male,
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20100827,zilkha nathaniel m,120919110044277,,male,
+280181.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100901,cozadd bruce c,123252410000022,Chairman and CEO,male,
+50000.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20100901,falberg kathryn e,123252410000021,SVP and CFO,female,
+152206.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20100910,myers robert m,123252410000023,President,male,
+105830.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101119,wissel janne lt,123252410000025,"SVP, Chief Regulatory Officer",female,
+4494.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101119,gamble carol a,123252410000024,"SVP, GC and Secretary",female,
 586.0,50000.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,falberg kathryn e,123252410000031,SVP and CFO,female,
-107221.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,wissel janne lt,123252410000030,"SVP, Chief Regulatory Officer",female,
-7204.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101203,gamble carol a,123252410000032,"SVP, GC and Secretary",female,
-47221.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101208,wissel janne lt,123252410000033,"SVP, Chief Regulatory Officer",female,
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,desjardin michael a.,123252411000011,"SVP, Product Development",male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,cox russell j.,123252411000010,"SVP, Sales and Marketing",male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,wissel janne lt,123252411000009,"SVP, Chief Regulatory Officer",female,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,gamble carol a,123252411000008,"SVP, GC and Secretary",female,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,falberg kathryn e,123252411000007,SVP and CFO,female,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20110311,cozadd bruce c,123252411000006,Chairman and CEO,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,eller mark g.,123252411000012,"SVP, Research & Clinical Dev.",male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,wilson karen j,123252411000013,VP of Finance & PAO,female,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,zilkha nathaniel m,120919111017903,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,1.0,20110314,michelson michael w,120919111017900,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,o'keefe kenneth w,123252411000016,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,berns paul l,123252411000015,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,momtazee james c,120919111017902,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,colella samuel d,123252411000018,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,sebulsky alan,123252411000014,,male,39959000.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,1.0,0.0,20110314,enright patrick g,123252411000019,,male,39959000.0
-3461.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,eller mark g.,123252411000028,"SVP, Research & Clinical Dev.",male,39959000.0
+107221.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,wissel janne lt,123252410000030,"SVP, Chief Regulatory Officer",female,
+156898.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20101202,myers robert m,123252410000029,President,male,
+284775.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20101202,cozadd bruce c,123252410000027,Chairman and CEO,male,
+14424.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,colligan joan,123252410000026,Principal Accounting Officer,female,
+7204.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101202,gamble carol a,123252410000028,"SVP, GC and Secretary",female,
+7204.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101203,gamble carol a,123252410000032,"SVP, GC and Secretary",female,
+47221.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20101208,wissel janne lt,123252410000033,"SVP, Chief Regulatory Officer",female,
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,eller mark g.,123252411000012,"SVP, Research & Clinical Dev.",male,39959000.0
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,cox russell j.,123252411000010,"SVP, Sales and Marketing",male,39959000.0
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,wissel janne lt,123252411000009,"SVP, Chief Regulatory Officer",female,39959000.0
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,gamble carol a,123252411000008,"SVP, GC and Secretary",female,39959000.0
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,desjardin michael a.,123252411000011,"SVP, Product Development",male,39959000.0
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,falberg kathryn e,123252411000007,SVP and CFO,female,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20110311,cozadd bruce c,123252411000006,Chairman and CEO,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110311,wilson karen j,123252411000013,VP of Finance & PAO,female,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,zilkha nathaniel m,120919111017903,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,o'keefe kenneth w,123252411000016,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,1.0,20110314,michelson michael w,120919111017900,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,1.0,0.0,20110314,enright patrick g,123252411000019,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,sebulsky alan,123252411000014,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,berns paul l,123252411000015,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,colella samuel d,123252411000018,,male,39959000.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20110314,momtazee james c,120919111017902,,male,39959000.0
+288415.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20110602,cozadd bruce c,123252411000026,Chairman and CEO,male,39959000.0
+13865.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,desjardin michael a.,123252411000025,"SVP, Product Development",male,39959000.0
+10530.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,gamble carol a,123252411000024,"SVP, GC and Secretary",female,39959000.0
+48544.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,wissel janne lt,123252411000023,"SVP, Chief Regulatory Officer",female,39959000.0
+208.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,cox russell j.,123252411000020,"SVP, Sales and Marketing",male,39959000.0
+3461.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,eller mark g.,123252411000028,"SVP, Research & Clinical Dev.",male,39959000.0
 1065.0,50000.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,falberg kathryn e,123252411000027,SVP and CFO,female,39959000.0
-288415.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20110602,cozadd bruce c,123252411000026,Chairman and CEO,male,39959000.0
-10530.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,gamble carol a,123252411000024,"SVP, GC and Secretary",female,39959000.0
-48544.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,wissel janne lt,123252411000023,"SVP, Chief Regulatory Officer",female,39959000.0
-208.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,cox russell j.,123252411000020,"SVP, Sales and Marketing",male,39959000.0
-13865.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110602,desjardin michael a.,123252411000025,"SVP, Product Development",male,39959000.0
-14574.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110815,desjardin michael a.,123252411000029,"SVP, Product Development",male,41739279.0
-4151.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110815,eller mark g.,123252411000030,"SVP, Research & Clinical Dev.",male,41739279.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,cressey bryan c,123252411000040,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,berns paul l,123252411000042,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,colella samuel d,123252411000041,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,sebulsky alan,123252411000035,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,winningham rick e,123252411000034,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,michelson michael w,123252411000038,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,momtazee james c,123252411000037,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,enright patrick g,123252411000039,,male,42157349.0
-0.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,o'keefe kenneth w,123252411000036,,male,42157349.0
-53000.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111114,falberg kathryn e,123252411000043,SVP and CFO,female,42157349.0
-289011.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20111202,cozadd bruce c,123252411000044,Chairman and CEO,male,42157349.0
+4151.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110815,eller mark g.,123252411000030,"SVP, Research & Clinical Dev.",male,41739279.0
+14574.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20110815,desjardin michael a.,123252411000029,"SVP, Product Development",male,41739279.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,berns paul l,123252411000042,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,colella samuel d,123252411000041,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,cressey bryan c,123252411000040,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,enright patrick g,123252411000039,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,michelson michael w,123252411000038,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,momtazee james c,123252411000037,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,o'keefe kenneth w,123252411000036,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,sebulsky alan,123252411000035,,male,42157349.0
+,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111108,winningham rick e,123252411000034,,male,42157349.0
+53000.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111114,falberg kathryn e,123252411000043,SVP and CFO,female,42157349.0
+289011.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20111202,cozadd bruce c,123252411000044,Chairman and CEO,male,42157349.0
+206.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,wilson karen j,123252411000048,"VP, Finance & PAO",female,42157349.0
+10674.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,gamble carol a,123252411000047,"SVP, GC and Secretary",female,42157349.0
 3428.0,53000.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,falberg kathryn e,123252411000046,SVP and CFO,female,42157349.0
-206.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,wilson karen j,123252411000048,"VP, Finance & PAO",female,42157349.0
-10674.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,gamble carol a,123252411000047,"SVP, GC and Secretary",female,42157349.0
-1215.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,cox russell j.,123252411000045,"SVP, Sales and Marketing",male,42157349.0
-54355.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111216,sebulsky alan,123252411000049,,male,42157349.0
-85521.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,sebulsky alan,123252412000008,,male,42468000.0
-10292.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,wilson karen j,123252412000014,"VP, Finance & PAO",female,42468000.0
-82213.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,gamble carol a,123252412000013,"SVP, GC and Secretary",female,42468000.0
-19005.0,0.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,cox russell j.,123252412000011,"SVP, Sales and Marketing",male,42468000.0
-546811.0,0.0,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20120113,cozadd bruce c,123252412000010,Chairman and CEO,male,42468000.0
-37657.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,winningham rick e,123252412000009,,male,42468000.0
-58201.0,53000.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,falberg kathryn e,123252412000012,SVP and CFO,female,42468000.0
-13885.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,momtazee james c,123252412000006,,male,42468000.0
-13885.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,michelson michael w,123252412000005,,male,42468000.0
-38347.0,1330890.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,o'keefe kenneth w,123252412000007,,male,42468000.0
-38347.0,1530183.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,colella samuel d,123252412000002,,male,42468000.0
-39200.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,berns paul l,123252412000001,,male,42468000.0
+1215.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20111202,cox russell j.,123252411000045,"SVP, Sales and Marketing",male,42157349.0
+54355.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20111216,sebulsky alan,123252411000049,,male,42157349.0
 49985.0,2884057.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,enright patrick g,123252412000004,,male,42468000.0
-35635.0,0.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,cressey bryan c,123252412000003,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,momtazee james c,120919112004337,,male,42468000.0
-56667.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,enright patrick g,123252412000041,,male,42468000.0
-37657.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,winningham rick e,123252412000044,,male,42468000.0
-35635.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,cressey bryan c,123252412000040,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,cox russell j.,123252412000022,"SVP, Sales and Marketing",male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,gamble carol a,123252412000025,"SVP, GC and Secretary",female,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,falberg kathryn e,123252412000024,SVP and CFO,female,42468000.0
-39200.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,berns paul l,123252412000039,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,sebulsky alan,123252412000020,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,wilson karen j,123252412000026,"VP, Finance & PAO",female,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,o'keefe kenneth w,123252412000019,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,cressey bryan c,123252412000017,,male,42468000.0
-19005.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,cox russell j.,123252412000045,"SVP, Sales and Marketing",male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120118,cozadd bruce c,123252412000023,Chairman and CEO,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,berns paul l,123252412000016,,male,42468000.0
-546811.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120118,cozadd bruce c,123252412000046,Chairman and CEO,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,winningham rick e,123252412000021,,male,42468000.0
-1330890.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,o'keefe kenneth w,123252412000042,,male,42468000.0
-10292.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,wilson karen j,123252412000049,"VP, Finance & PAO",female,42468000.0
-85521.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,sebulsky alan,123252412000043,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,enright patrick g,123252412000018,,male,42468000.0
-53000.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,falberg kathryn e,123252412000047,SVP and CFO,female,42468000.0
-82213.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,gamble carol a,123252412000048,SVP and General Counsel,female,42468000.0
-547066.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120201,cozadd bruce c,123252412000050,Chairman and CEO,male,42468000.0
-35052.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,1.0,0.0,20120309,enright patrick g,114420412014055,,male,42468000.0
-32213.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120313,gamble carol a,123252412000056,SVP and General Counsel,female,42468000.0
-14005.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120313,cox russell j.,123252412000057,EVP & Chief Commercial Officer,male,42468000.0
-497066.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120313,cozadd bruce c,123252412000055,Chairman and CEO,male,42468000.0
-27631.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,1.0,20120313,cressey bryan c,118143112017017,,male,42468000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,berns paul l,123252412000053,,male,42468000.0
-769237.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,o'keefe kenneth w,110465912017926,,male,42468000.0
-864954.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,mulligan seamus,118143112016997,,male,42468000.0
-54355.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,sebulsky alan,123252412000054,,male,42468000.0
-2292.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120313,wilson karen j,123252412000058,"VP, Finance & PAO",female,42468000.0
-861212.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120330,o'keefe kenneth w,110465912022566,,male,42468000.0
-497662.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120604,cozadd bruce c,123252412000060,Chairman and CEO,male,56732899.0
-60782.0,53000.0,1232524,jazz pharmaceuticals plc,0.0,1.0,1.0,0.0,20120604,falberg kathryn e,123252412000061,EVP and CFO,female,56732899.0
-15012.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120604,cox russell j.,123252412000062,EVP & Chief Commercial Officer,male,56732899.0
-2443555.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,mulligan seamus,123252412000073,,male,57536632.0
-597662.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120813,cozadd bruce c,123252412000066,Chairman and CEO,male,57536632.0
-95782.0,53000.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,falberg kathryn e,123252412000067,EVP and CFO,female,57536632.0
-50012.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,cox russell j.,123252412000068,EVP & Chief Commercial Officer,male,57536632.0
-35000.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,tobias jeffrey k,123252412000071,"EVP, Research & Dev and CMO",male,57536632.0
-17292.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,wilson karen j,123252412000072,"VP, Finance & PAO",female,57536632.0
-2250.0,861212.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,o'keefe kenneth w,123252412000077,,male,57536632.0
-2250.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,berns paul l,123252412000074,,male,57536632.0
-2250.0,1784042.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,enright patrick g,123252412000075,,male,57536632.0
-4000.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,sohn catherine a.,123252412000078,,female,57536632.0
-39907.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,winningham rick e,123252412000079,,male,57536632.0
-16135.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,momtazee james c,123252412000081,,male,57536632.0
-35000.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,hooper suzanne sawochka,123252412000069,EVP and General Counsel,female,57536632.0
-12586.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,keegan fintan,123252412000070,"EVP, Technical Operations",male,57536632.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120817,falberg kathryn e,123252412000082,EVP and CFO,female,57536632.0
-661212.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120831,o'keefe kenneth w,123252412000083,,male,57536632.0
-45012.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20121003,cox russell j.,120919112048091,EVP & Chief Commercial Officer,male,57536632.0
-33752.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20121004,enright patrick g,114420412054720,,male,57536632.0
-593662.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20121011,cozadd bruce c,120919112049107,Chairman and CEO,male,57536632.0
-589662.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20121115,cozadd bruce c,123252412000089,Chairman and CEO,male,57888180.0
-586161.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20121213,cozadd bruce c,123252412000091,Chairman and CEO,male,57888180.0
-582161.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130110,cozadd bruce c,123252413000002,Chairman and CEO,male,58014000.0
-32929.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130111,enright patrick g,114420413001956,,male,58014000.0
-32898.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130114,enright patrick g,114420413002308,,male,58014000.0
-32442.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130116,enright patrick g,114420413002654,,male,58014000.0
-578161.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130213,cozadd bruce c,123252413000006,Chairman and CEO,male,58014000.0
-31142.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130220,enright patrick g,114420413010336,,male,58014000.0
-133417.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130305,falberg kathryn e,123252413000013,EVP and CFO,female,58014000.0
-2003305.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130306,mulligan seamus,123252413000016,,male,58014000.0
-149417.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,falberg kathryn e,123252413000017,EVP and CFO,female,58014000.0
-51419.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,hooper suzanne sawochka,123252413000018,EVP and General Counsel,female,58014000.0
-48086.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,keegan fintan,123252413000019,"EVP, Technical Operations",male,58014000.0
-59769.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,cox russell j.,123252413000020,EVP & Chief Commercial Officer,male,58014000.0
-47500.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,tobias jeffrey k,123252413000021,"EVP, Research & Dev and CMO",male,58014000.0
-23888.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,wilson karen j,123252413000023,"SVP, Finance & PAO",female,58014000.0
-627161.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130306,cozadd bruce c,123252413000015,Chairman and CEO,male,58014000.0
-15422.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130307,enright patrick g,114420413013522,,male,58014000.0
-261212.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130312,o'keefe kenneth w,110465913019566,,male,58014000.0
-622161.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130312,cozadd bruce c,123252413000025,Chairman and CEO,male,58014000.0
-670643.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130322,cozadd bruce c,123252413000026,Chairman and CEO,male,58014000.0
-666643.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130411,cozadd bruce c,123252413000027,Chairman and CEO,male,58014000.0
-665643.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130506,cozadd bruce c,123252413000029,Chairman and CEO,male,58850434.0
-4000.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130513,riedel norbert g,123252413000042,,male,58850434.0
-4000.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130513,mcsharry heather ann,123252413000041,,female,58850434.0
-4000.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130513,gray peter,123252413000040,,male,58850434.0
-661643.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130515,cozadd bruce c,123252413000043,Chairman and CEO,male,58850434.0
-58769.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130522,cox russell j.,123252413000045,EVP & Chief Commercial Officer,male,58850434.0
-660643.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130523,cozadd bruce c,123252413000046,Chairman and CEO,male,58850434.0
-662691.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130604,cozadd bruce c,123252413000048,Chairman and CEO,male,58850434.0
-657691.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130611,cozadd bruce c,123252413000049,Chairman and CEO,male,58850434.0
-652691.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130710,cozadd bruce c,123252413000051,Chairman and CEO,male,58850434.0
-146836.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130712,falberg kathryn e,123252413000053,EVP and CFO,female,58850434.0
-57046.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130802,cox russell j.,123252413000056,EVP & Chief Commercial Officer,male,58153546.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130809,o'keefe kenneth w,110465913062401,,male,58153546.0
-2005555.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,mulligan seamus,123252413000061,,male,58153546.0
-4500.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,berns paul l,123252413000063,,male,58153546.0
-4500.0,784092.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,enright patrick g,123252413000065,,male,58153546.0
-18385.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,momtazee james c,123252413000067,,male,58153546.0
-6250.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,sohn catherine a.,123252413000069,,female,58153546.0
-42157.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,winningham rick e,123252413000071,,male,58153546.0
-53736.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,cox russell j.,123252413000079,EVP & Chief Commercial Officer,male,58153546.0
-143372.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,falberg kathryn e,123252413000081,EVP and CFO,female,58153546.0
-23075.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,wilson karen j,123252413000084,"SVP, Finance & PAO",female,58153546.0
-44405.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,tobias jeffrey k,123252413000083,"EVP, Research & Dev and CMO",male,58153546.0
-48333.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,hooper suzanne sawochka,123252413000082,EVP and General Counsel,female,58153546.0
-634647.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130813,cozadd bruce c,123252413000080,Chairman and CEO,male,58153546.0
-36412.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130814,keegan fintan,123252413000098,"EVP, Technical Operations",male,58153546.0
-140372.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130814,falberg kathryn e,123252413000096,EVP and CFO,female,58153546.0
-41087.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,winningham rick e,123252413000094,,male,58153546.0
-5610.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,sohn catherine a.,123252413000092,,female,58153546.0
-17315.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,momtazee james c,123252413000090,,male,58153546.0
-3430.0,784092.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,enright patrick g,123252413000088,,male,58153546.0
-3430.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,berns paul l,123252413000086,,male,58153546.0
-21075.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130904,wilson karen j,123252413000099,"SVP, Finance & PAO",female,58153546.0
-52736.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130904,cox russell j.,123252413000100,EVP & Chief Commercial Officer,male,58153546.0
-44405.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130910,tobias jeffrey k,123252413000101,"EVP, Research & Dev and CMO",male,58153546.0
-629647.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130910,cozadd bruce c,123252413000102,Chairman and CEO,male,58153546.0
-137372.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130913,falberg kathryn e,123252413000103,EVP and CFO,female,58153546.0
-625647.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20131010,cozadd bruce c,123252413000104,Chairman and CEO,male,58153546.0
-134372.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131011,falberg kathryn e,123252413000105,EVP and CFO,female,58153546.0
-44405.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131016,tobias jeffrey k,123252413000106,"EVP, Research & Dev and CMO",male,58153546.0
-44777.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131211,tobias jeffrey k,123252413000117,"EVP, Research & Dev and CMO",male,57789719.0
-128721.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131213,falberg kathryn e,123252413000118,EVP and CFO,female,57789719.0
-126721.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140110,falberg kathryn e,123252414000001,EVP and CFO,female,57854000.0
-44777.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140212,tobias jeffrey k,123252414000003,"EVP, Research & Dev and CMO",male,57854000.0
-124721.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140214,falberg kathryn e,123252414000006,EVP and CFO,female,57854000.0
-134925.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140227,falberg kathryn e,123252414000013,EVP and CFO,female,57854000.0
-60024.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,cox russell j.,123252414000014,EVP & Chief Commercial Officer,male,57854000.0
-623332.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140303,cozadd bruce c,123252414000015,Chairman and CEO,male,57854000.0
-58682.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,hooper suzanne sawochka,123252414000016,EVP and General Counsel,female,57854000.0
-49277.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,tobias jeffrey k,123252414000018,"EVP, Research & Dev and CMO",male,57854000.0
-25082.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,wilson karen j,123252414000019,"SVP, Finance & PAO",female,57854000.0
-43912.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,keegan fintan,123252414000017,"EVP, Technical Operations",male,57854000.0
-0.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140304,enright patrick g,114420414013331,,male,57854000.0
-1455555.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140305,mulligan seamus,123252414000020,,male,57854000.0
-39272.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,keegan fintan,123252414000021,"EVP, Technical Operations",male,57854000.0
-58733.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,cox russell j.,123252414000022,EVP & Chief Commercial Officer,male,57854000.0
-616810.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140306,cozadd bruce c,123252414000023,Chairman and CEO,male,57854000.0
-133387.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,falberg kathryn e,123252414000024,EVP and CFO,female,57854000.0
-57135.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,hooper suzanne sawochka,123252414000025,EVP and General Counsel,female,57854000.0
-48103.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,tobias jeffrey k,123252414000026,"EVP, Research & Dev and CMO",male,57854000.0
-24300.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,wilson karen j,123252414000027,"SVP, Finance & PAO",female,57854000.0
-23412.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140311,wilson karen j,123252414000028,"SVP, Finance & PAO",female,57854000.0
-48103.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140312,tobias jeffrey k,123252414000029,"EVP, Research & Dev and CMO",male,57854000.0
-611810.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140410,cozadd bruce c,123252414000033,Chairman and CEO,male,57854000.0
-38522.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140410,keegan fintan,123252414000034,"EVP, Technical Operations",male,57854000.0
-48103.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140416,tobias jeffrey k,123252414000035,"EVP, Research & Dev and CMO",male,57854000.0
-13587.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140421,winningham rick e,123252414000038,,male,57854000.0
-57135.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140421,hooper suzanne sawochka,123252414000039,EVP and General Counsel,female,57854000.0
-15630.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140507,young matthew p.,123252414000044,SVP & CFO,male,59391915.0
-37772.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140512,keegan fintan,123252414000050,"EVP, Technical Operations",male,59391915.0
-21880.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140514,young matthew p.,123252414000051,SVP & CFO,male,59391915.0
-606810.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140514,cozadd bruce c,123252414000052,Chairman and CEO,male,59391915.0
-47103.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140520,tobias jeffrey k,123252414000056,"EVP, Research & Dev and CMO",male,59391915.0
-57135.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140529,hooper suzanne sawochka,123252414000057,EVP and General Counsel,female,59391915.0
-3356.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140529,riedel norbert g,123252414000058,,male,59391915.0
-47103.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140611,tobias jeffrey k,123252414000065,"EVP, Research & Dev and CMO",male,59391915.0
-602067.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140611,cozadd bruce c,123252414000060,Chairman and CEO,male,59391915.0
-37022.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140611,keegan fintan,123252414000062,"EVP, Technical Operations",male,59391915.0
-33272.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140619,keegan fintan,120919114042564,"EVP, Technical Operations",male,59391915.0
-57032.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140624,cox russell j.,123252414000066,EVP & Chief Operating Officer,male,59391915.0
-1405555.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140626,mulligan seamus,123252414000067,,male,59391915.0
-23669.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140709,wilson karen j,123252414000068,"SVP, Finance & PAO",female,59391915.0
-597067.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140710,cozadd bruce c,123252414000069,Chairman and CEO,male,59391915.0
-31750.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140710,keegan fintan,123252414000071,"EVP, Technical Operations",male,59391915.0
-57554.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140710,hooper suzanne sawochka,123252414000070,EVP and General Counsel,female,59391915.0
-1407205.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,mulligan seamus,123252414000101,,male,60221128.0
-15237.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,winningham rick e,123252414000106,,male,60221128.0
-2500.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,schnee elmar,123252414000105,,male,60221128.0
-7260.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,sohn catherine a.,123252414000104,,female,60221128.0
-6150.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,o'keefe kenneth w,123252414000102,,male,60221128.0
-5006.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,riedel norbert g,123252414000103,,male,60221128.0
-10000.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140811,treacy paul,123252414000095,"SVP, Technical Operations",male,60221128.0
-5080.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,berns paul l,123252414000097,,male,60221128.0
-64532.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140811,cox russell j.,123252414000096,EVP & Chief Operating Officer,male,60221128.0
-5650.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,mcsharry heather ann,123252414000100,,female,60221128.0
-5080.0,400000.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,enright patrick g,123252414000098,,male,60221128.0
-5650.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,gray peter,123252414000099,,male,60221128.0
-579023.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140813,cozadd bruce c,123252414000108,Chairman and CEO,male,60221128.0
-21713.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,wilson karen j,123252414000112,"SVP, Finance & PAO",female,60221128.0
-42538.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,tobias jeffrey k,123252414000111,"EVP, Research & Dev and CMO",male,60221128.0
-51804.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,hooper suzanne sawochka,123252414000109,EVP and General Counsel,female,60221128.0
-24824.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,mcgill iain,123252414000110,Head of EUSA Int'l & SVP,male,60221128.0
-60059.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,cox russell j.,123252414000107,EVP & Chief Operating Officer,male,60221128.0
-3993.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,berns paul l,123252414000113,,male,60221128.0
-3993.0,400000.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,enright patrick g,123252414000114,,male,60221128.0
-5529.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,sohn catherine a.,123252414000115,,female,60221128.0
-14150.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,winningham rick e,123252414000116,,male,60221128.0
-51804.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140819,hooper suzanne sawochka,123252414000117,EVP and General Counsel,female,60221128.0
-7661.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140904,enright patrick g,114420414054303,,male,60221128.0
-21713.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140910,wilson karen j,123252414000119,"SVP, Finance & PAO",female,60221128.0
-574023.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140910,cozadd bruce c,123252414000120,Chairman and CEO,male,60221128.0
-50619.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140910,hooper suzanne sawochka,123252414000118,EVP and General Counsel,female,60221128.0
-21713.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140915,wilson karen j,123252414000121,"SVP, Finance & PAO",female,60221128.0
-1357205.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140915,mulligan seamus,123252414000122,,male,60221128.0
-41538.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140915,tobias jeffrey k,123252414000123,"EVP, Research & Dev and CMO",male,60221128.0
-1307205.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140926,mulligan seamus,123252414000124,,male,60221128.0
-7465.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141008,enright patrick g,114420414060042,,male,60221128.0
-40538.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141014,tobias jeffrey k,123252414000125,"EVP, Research & Dev and CMO",male,60221128.0
-569023.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20141016,cozadd bruce c,123252414000127,Chairman and CEO,male,60221128.0
-49434.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141016,hooper suzanne sawochka,123252414000129,EVP and General Counsel,female,60221128.0
-21117.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141110,wilson karen j,123252414000140,"SVP, Finance & PAO",female,60491676.0
-23424.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141110,mcgill iain,123252414000142,Head of EUSA Int'l & SVP,male,60491676.0
-7268.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141112,enright patrick g,114420414067151,,male,60491676.0
-48249.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141113,hooper suzanne sawochka,123252414000144,EVP and General Counsel,female,60491676.0
-564023.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20141113,cozadd bruce c,123252414000143,Chairman and CEO,male,60491676.0
-39538.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141118,tobias jeffrey k,123252414000145,"EVP, Research & Dev and CMO",male,60491676.0
-34940.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141125,tobias jeffrey k,123252414000146,"EVP, Research & Dev and CMO",male,60491676.0
-7072.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141203,enright patrick g,114420414072064,,male,60491676.0
-47795.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141211,hooper suzanne sawochka,123252414000149,EVP and General Counsel,female,60491676.0
-559131.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20141211,cozadd bruce c,123252414000148,Chairman and CEO,male,60491676.0
-1650.0,360000.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141216,enright patrick g,114420414074228,,male,60491676.0
-1257205.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141229,mulligan seamus,123252414000151,,male,60491676.0
-6875.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150107,enright patrick g,114420415001108,,male,60643000.0
-554131.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150115,cozadd bruce c,123252415000008,Chairman and CEO,male,60643000.0
-47575.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150115,hooper suzanne sawochka,123252415000009,EVP and General Counsel,female,60643000.0
-47575.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150212,hooper suzanne sawochka,123252415000015,EVP & General Counsel,female,60643000.0
-35063.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150212,tobias jeffrey k,123252415000017,"EVP, R&D & CMO",male,60643000.0
-549131.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150212,cozadd bruce c,123252415000013,Chairman & CEO,male,60643000.0
-6679.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150212,enright patrick g,114420415008370,,male,60643000.0
-12685.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,treacy paul,123252415000046,"SVP, Technical Operations",male,60643000.0
-67124.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,cox russell j.,123252415000034,EVP & COO,male,60643000.0
-23644.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,wilson karen j,123252415000048,"SVP, Finance & PAO",female,60643000.0
-14860.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,miller michael patrick,123252415000040,"SVP, US Commercial",male,60643000.0
-29590.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,young matthew p.,123252415000050,EVP & CFO,male,60643000.0
-25514.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,mcgill iain,123252415000042,Head of EUSA Int'l & SVP,male,60643000.0
-54311.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,hooper suzanne sawochka,123252415000038,EVP & General Counsel,female,60643000.0
-573489.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150302,cozadd bruce c,123252415000036,Chairman & CEO,male,60643000.0
-40114.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,tobias jeffrey k,123252415000044,"EVP, R&D & CMO",male,60643000.0
-6482.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150304,enright patrick g,114420415013928,,male,60643000.0
-26205.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150305,wilson karen j,123252415000052,"SVP, Finance & PAO",female,60643000.0
-38484.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,tobias jeffrey k,123252415000062,"EVP, R&D & CMO",male,60643000.0
-65053.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,cox russell j.,123252415000056,EVP & COO,male,60643000.0
-24696.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,mcgill iain,123252415000060,Head of EUSA Int'l & SVP,male,60643000.0
-25642.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,wilson karen j,123252415000064,"SVP, Finance & PAO",female,60643000.0
-566967.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150309,cozadd bruce c,123252415000054,Chairman & CEO,male,60643000.0
-52224.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,hooper suzanne sawochka,123252415000058,EVP & General Counsel,female,60643000.0
-52224.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150312,hooper suzanne sawochka,123252415000068,EVP & General Counsel,female,60643000.0
-561967.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150312,cozadd bruce c,123252415000066,Chairman & CEO,male,60643000.0
-1207205.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150320,mulligan seamus,123252415000070,,male,60643000.0
-1157205.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150327,mulligan seamus,123252415000076,,male,60643000.0
-6286.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150408,enright patrick g,114420415021794,,male,60643000.0
-48224.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150416,hooper suzanne sawochka,123252415000080,EVP & General Counsel,female,60643000.0
-556967.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150416,cozadd bruce c,123252415000078,Chairman & CEO,male,60643000.0
-64553.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150416,cox russell j.,123252415000082,EVP & COO,male,60643000.0
-13921.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150506,miller michael patrick,123252415000098,"SVP, US Commercial",male,61066950.0
-28463.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150506,young matthew p.,123252415000096,EVP & CFO,male,61066950.0
-7105.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150513,smith karen l.,123252415000105,Global Head of R&D and CMO,female,61066950.0
-6089.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150513,enright patrick g,114420415030132,,male,61066950.0
-4356.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150514,riedel norbert g,123252415000109,,male,61066950.0
-4946.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150514,gray peter,123252415000107,,male,61066950.0
-551967.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150514,cozadd bruce c,123252415000113,Chairman & CEO,male,61066950.0
-9432.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150514,o'keefe kenneth w,123252415000111,,male,61066950.0
-46297.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150514,hooper suzanne sawochka,123252415000115,EVP & General Counsel,female,61066950.0
-27662.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150514,young matthew p.,123252415000117,EVP & CFO,male,61066950.0
-24696.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150528,mcgill iain,123252415000120,"SVP, Europe and Rest of World",male,61066950.0
-25642.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150603,wilson karen j,123252415000122,"SVP, Finance & PAO",female,61066950.0
-5893.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150603,enright patrick g,120919115049534,,male,61066950.0
-46420.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150611,hooper suzanne sawochka,123252415000126,EVP & General Counsel,female,61066950.0
-547224.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150611,cozadd bruce c,123252415000125,Chairman & CEO,male,61066950.0
-5696.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150708,enright patrick g,120919115060098,,male,61066950.0
-46420.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150716,hooper suzanne sawochka,123252415000130,EVP & General Counsel,female,61066950.0
-542224.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150716,cozadd bruce c,123252415000129,Chairman & CEO,male,61066950.0
-23686.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,wilson karen j,120919115065361,"SVP, Finance & PAO",female,61339267.0
-3810.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,schnee elmar,120919115065339,,male,61339267.0
-5589.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,berns paul l,120919115065322,,male,61339267.0
-21967.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,mcgill iain,120919115065359,"SVP, Europe and Rest of World",male,61339267.0
-41855.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,hooper suzanne sawochka,120919115065356,EVP and General Counsel,female,61339267.0
-11401.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,treacy paul,120919115065363,"SVP, Technical Operations",male,61339267.0
-5384.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,sohn catherine a.,120919115065341,,female,61339267.0
-14659.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,winningham rick e,120919115065346,,male,61339267.0
-59102.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,cox russell j.,120919115065352,EVP & Chief Commercial Officer,male,61339267.0
-1158515.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,mulligan seamus,120919115065330,,male,61339267.0
-6093.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,mcsharry heather ann,120919115065328,,female,61339267.0
-5389.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,gray peter,120919115065327,,male,61339267.0
-5500.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,enright patrick g,120919115065325,,male,61339267.0
-4865.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,riedel norbert g,120919115065336,,male,61339267.0
-10742.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,o'keefe kenneth w,120919115065332,,male,61339267.0
-58602.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150812,cox russell j.,120919115065648,EVP & Chief Commercial Officer,male,61339267.0
-37855.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150812,hooper suzanne sawochka,120919115065649,EVP and General Counsel,female,61339267.0
-296855.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150812,cozadd bruce c,120919115065653,Chairman and CEO,male,61339267.0
-1734.0,280000.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150831,enright patrick g,120919115068604,,male,61339267.0
-5304.0,0.0,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150903,enright patrick g,120919115069410,,male,61339267.0
-294355.0,0.0,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150909,cozadd bruce c,120919115069985,Chairman and CEO,male,61339267.0
-13890.0,0.0,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150929,miller michael patrick,123252415000145,"SVP, US Commercial",male,61339267.0
+35635.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,cressey bryan c,123252412000003,,male,42468000.0
+38347.0,1530183.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,colella samuel d,123252412000002,,male,42468000.0
+38347.0,1330890.0,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,o'keefe kenneth w,123252412000007,,male,42468000.0
+13885.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,michelson michael w,123252412000005,,male,42468000.0
+39200.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,berns paul l,123252412000001,,male,42468000.0
+37657.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,winningham rick e,123252412000009,,male,42468000.0
+546811.0,,1232524,jazz pharmaceuticals inc,1.0,1.0,0.0,0.0,20120113,cozadd bruce c,123252412000010,Chairman and CEO,male,42468000.0
+19005.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,cox russell j.,123252412000011,"SVP, Sales and Marketing",male,42468000.0
+58201.0,53000.0,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,falberg kathryn e,123252412000012,SVP and CFO,female,42468000.0
+82213.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,gamble carol a,123252412000013,"SVP, GC and Secretary",female,42468000.0
+10292.0,,1232524,jazz pharmaceuticals inc,0.0,1.0,0.0,0.0,20120113,wilson karen j,123252412000014,"VP, Finance & PAO",female,42468000.0
+85521.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,sebulsky alan,123252412000008,,male,42468000.0
+13885.0,,1232524,jazz pharmaceuticals inc,1.0,0.0,0.0,0.0,20120113,momtazee james c,123252412000006,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,wilson karen j,123252412000026,"VP, Finance & PAO",female,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,gamble carol a,123252412000025,"SVP, GC and Secretary",female,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,falberg kathryn e,123252412000024,SVP and CFO,female,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,o'keefe kenneth w,123252412000042,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,berns paul l,123252412000039,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,cressey bryan c,123252412000040,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,enright patrick g,123252412000041,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,sebulsky alan,123252412000043,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,winningham rick e,123252412000044,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,cox russell j.,123252412000045,"SVP, Sales and Marketing",male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120118,cozadd bruce c,123252412000046,Chairman and CEO,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,falberg kathryn e,123252412000047,SVP and CFO,female,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,gamble carol a,123252412000048,SVP and General Counsel,female,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,wilson karen j,123252412000049,"VP, Finance & PAO",female,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120118,cozadd bruce c,123252412000023,Chairman and CEO,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120118,cox russell j.,123252412000022,"SVP, Sales and Marketing",male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,winningham rick e,123252412000021,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,sebulsky alan,123252412000020,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,o'keefe kenneth w,123252412000019,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,enright patrick g,123252412000018,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,cressey bryan c,123252412000017,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,berns paul l,123252412000016,,male,42468000.0
+0.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120118,momtazee james c,120919112004337,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120201,cozadd bruce c,123252412000050,Chairman and CEO,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,1.0,0.0,20120309,enright patrick g,114420412014055,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120313,wilson karen j,123252412000058,"VP, Finance & PAO",female,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120313,cox russell j.,123252412000057,EVP & Chief Commercial Officer,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120313,gamble carol a,123252412000056,SVP and General Counsel,female,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120313,cozadd bruce c,123252412000055,Chairman and CEO,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,berns paul l,123252412000053,,male,42468000.0
+27631.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,1.0,20120313,cressey bryan c,118143112017017,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,sebulsky alan,123252412000054,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,mulligan seamus,118143112016997,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120313,o'keefe kenneth w,110465912017926,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120330,o'keefe kenneth w,110465912022566,,male,42468000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,1.0,0.0,20120604,falberg kathryn e,123252412000061,EVP and CFO,female,56732899.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120604,cozadd bruce c,123252412000060,Chairman and CEO,male,56732899.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120604,cox russell j.,123252412000062,EVP & Chief Commercial Officer,male,56732899.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,winningham rick e,123252412000079,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,momtazee james c,123252412000081,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,enright patrick g,123252412000075,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20120813,cozadd bruce c,123252412000066,Chairman and CEO,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,falberg kathryn e,123252412000067,EVP and CFO,female,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,cox russell j.,123252412000068,EVP & Chief Commercial Officer,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,hooper suzanne sawochka,123252412000069,EVP and General Counsel,female,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,keegan fintan,123252412000070,"EVP, Technical Operations",male,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,tobias jeffrey k,123252412000071,"EVP, Research & Dev and CMO",male,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120813,wilson karen j,123252412000072,"VP, Finance & PAO",female,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,mulligan seamus,123252412000073,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,berns paul l,123252412000074,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,sohn catherine a.,123252412000078,,female,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120813,o'keefe kenneth w,123252412000077,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20120817,falberg kathryn e,123252412000082,EVP and CFO,female,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20120831,o'keefe kenneth w,123252412000083,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20121003,cox russell j.,120919112048091,EVP & Chief Commercial Officer,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20121004,enright patrick g,114420412054720,,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20121011,cozadd bruce c,120919112049107,Chairman and CEO,male,57536632.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20121115,cozadd bruce c,123252412000089,Chairman and CEO,male,57888180.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20121213,cozadd bruce c,123252412000091,Chairman and CEO,male,57888180.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130110,cozadd bruce c,123252413000002,Chairman and CEO,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130111,enright patrick g,114420413001956,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130114,enright patrick g,114420413002308,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130116,enright patrick g,114420413002654,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130213,cozadd bruce c,123252413000006,Chairman and CEO,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130220,enright patrick g,114420413010336,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130305,falberg kathryn e,123252413000013,EVP and CFO,female,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,falberg kathryn e,123252413000017,EVP and CFO,female,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,hooper suzanne sawochka,123252413000018,EVP and General Counsel,female,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130306,cozadd bruce c,123252413000015,Chairman and CEO,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,cox russell j.,123252413000020,EVP & Chief Commercial Officer,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130306,mulligan seamus,123252413000016,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,wilson karen j,123252413000023,"SVP, Finance & PAO",female,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,keegan fintan,123252413000019,"EVP, Technical Operations",male,58014000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130306,tobias jeffrey k,123252413000021,"EVP, Research & Dev and CMO",male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130307,enright patrick g,114420413013522,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130312,o'keefe kenneth w,110465913019566,,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130312,cozadd bruce c,123252413000025,Chairman and CEO,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130322,cozadd bruce c,123252413000026,Chairman and CEO,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130411,cozadd bruce c,123252413000027,Chairman and CEO,male,58014000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130506,cozadd bruce c,123252413000029,Chairman and CEO,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130513,mcsharry heather ann,123252413000041,,female,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130513,riedel norbert g,123252413000042,,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130513,gray peter,123252413000040,,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130515,cozadd bruce c,123252413000043,Chairman and CEO,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130522,cox russell j.,123252413000045,EVP & Chief Commercial Officer,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130523,cozadd bruce c,123252413000046,Chairman and CEO,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130604,cozadd bruce c,123252413000048,Chairman and CEO,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130611,cozadd bruce c,123252413000049,Chairman and CEO,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130710,cozadd bruce c,123252413000051,Chairman and CEO,male,58850434.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130712,falberg kathryn e,123252413000053,EVP and CFO,female,58850434.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130802,cox russell j.,123252413000056,EVP & Chief Commercial Officer,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130809,o'keefe kenneth w,110465913062401,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,mulligan seamus,123252413000061,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,enright patrick g,123252413000065,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,momtazee james c,123252413000067,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,sohn catherine a.,123252413000069,,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,winningham rick e,123252413000071,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130812,berns paul l,123252413000063,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,cox russell j.,123252413000079,EVP & Chief Commercial Officer,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130813,cozadd bruce c,123252413000080,Chairman and CEO,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,falberg kathryn e,123252413000081,EVP and CFO,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,hooper suzanne sawochka,123252413000082,EVP and General Counsel,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,tobias jeffrey k,123252413000083,"EVP, Research & Dev and CMO",male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130813,wilson karen j,123252413000084,"SVP, Finance & PAO",female,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,winningham rick e,123252413000094,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,sohn catherine a.,123252413000092,,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130814,keegan fintan,123252413000098,"EVP, Technical Operations",male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,berns paul l,123252413000086,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,enright patrick g,123252413000088,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20130814,momtazee james c,123252413000090,,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130814,falberg kathryn e,123252413000096,EVP and CFO,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130904,wilson karen j,123252413000099,"SVP, Finance & PAO",female,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130904,cox russell j.,123252413000100,EVP & Chief Commercial Officer,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130910,tobias jeffrey k,123252413000101,"EVP, Research & Dev and CMO",male,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20130910,cozadd bruce c,123252413000102,Chairman and CEO,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20130913,falberg kathryn e,123252413000103,EVP and CFO,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20131010,cozadd bruce c,123252413000104,Chairman and CEO,male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131011,falberg kathryn e,123252413000105,EVP and CFO,female,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131016,tobias jeffrey k,123252413000106,"EVP, Research & Dev and CMO",male,58153546.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131211,tobias jeffrey k,123252413000117,"EVP, Research & Dev and CMO",male,57789719.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20131213,falberg kathryn e,123252413000118,EVP and CFO,female,57789719.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140110,falberg kathryn e,123252414000001,EVP and CFO,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140212,tobias jeffrey k,123252414000003,"EVP, Research & Dev and CMO",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140214,falberg kathryn e,123252414000006,EVP and CFO,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140227,falberg kathryn e,123252414000013,EVP and CFO,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,cox russell j.,123252414000014,EVP & Chief Commercial Officer,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140303,cozadd bruce c,123252414000015,Chairman and CEO,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,hooper suzanne sawochka,123252414000016,EVP and General Counsel,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,keegan fintan,123252414000017,"EVP, Technical Operations",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,tobias jeffrey k,123252414000018,"EVP, Research & Dev and CMO",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140303,wilson karen j,123252414000019,"SVP, Finance & PAO",female,57854000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140304,enright patrick g,114420414013331,,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140305,mulligan seamus,123252414000020,,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,tobias jeffrey k,123252414000026,"EVP, Research & Dev and CMO",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,wilson karen j,123252414000027,"SVP, Finance & PAO",female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,falberg kathryn e,123252414000024,EVP and CFO,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140306,cozadd bruce c,123252414000023,Chairman and CEO,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,keegan fintan,123252414000021,"EVP, Technical Operations",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,hooper suzanne sawochka,123252414000025,EVP and General Counsel,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140306,cox russell j.,123252414000022,EVP & Chief Commercial Officer,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140311,wilson karen j,123252414000028,"SVP, Finance & PAO",female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140312,tobias jeffrey k,123252414000029,"EVP, Research & Dev and CMO",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140410,keegan fintan,123252414000034,"EVP, Technical Operations",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140410,cozadd bruce c,123252414000033,Chairman and CEO,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140416,tobias jeffrey k,123252414000035,"EVP, Research & Dev and CMO",male,57854000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140421,winningham rick e,123252414000038,,male,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140421,hooper suzanne sawochka,123252414000039,EVP and General Counsel,female,57854000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140507,young matthew p.,123252414000044,SVP & CFO,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140512,keegan fintan,123252414000050,"EVP, Technical Operations",male,59391915.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140514,cozadd bruce c,123252414000052,Chairman and CEO,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140514,young matthew p.,123252414000051,SVP & CFO,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140520,tobias jeffrey k,123252414000056,"EVP, Research & Dev and CMO",male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140529,hooper suzanne sawochka,123252414000057,EVP and General Counsel,female,59391915.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140529,riedel norbert g,123252414000058,,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140611,cozadd bruce c,123252414000060,Chairman and CEO,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140611,tobias jeffrey k,123252414000065,"EVP, Research & Dev and CMO",male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140611,keegan fintan,123252414000062,"EVP, Technical Operations",male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140619,keegan fintan,120919114042564,"EVP, Technical Operations",male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140624,cox russell j.,123252414000066,EVP & Chief Operating Officer,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140626,mulligan seamus,123252414000067,,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140709,wilson karen j,123252414000068,"SVP, Finance & PAO",female,59391915.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140710,cozadd bruce c,123252414000069,Chairman and CEO,male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140710,hooper suzanne sawochka,123252414000070,EVP and General Counsel,female,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140710,keegan fintan,123252414000071,"EVP, Technical Operations",male,59391915.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140811,treacy paul,123252414000095,"SVP, Technical Operations",male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140811,cox russell j.,123252414000096,EVP & Chief Operating Officer,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,winningham rick e,123252414000106,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,berns paul l,123252414000097,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,sohn catherine a.,123252414000104,,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,enright patrick g,123252414000098,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,gray peter,123252414000099,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,riedel norbert g,123252414000103,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,mcsharry heather ann,123252414000100,,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,mulligan seamus,123252414000101,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,o'keefe kenneth w,123252414000102,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140811,schnee elmar,123252414000105,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,cox russell j.,123252414000107,EVP & Chief Operating Officer,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140813,cozadd bruce c,123252414000108,Chairman and CEO,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,hooper suzanne sawochka,123252414000109,EVP and General Counsel,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,mcgill iain,123252414000110,Head of EUSA Int'l & SVP,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,tobias jeffrey k,123252414000111,"EVP, Research & Dev and CMO",male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140813,wilson karen j,123252414000112,"SVP, Finance & PAO",female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,sohn catherine a.,123252414000115,,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,winningham rick e,123252414000116,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,enright patrick g,123252414000114,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140814,berns paul l,123252414000113,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140819,hooper suzanne sawochka,123252414000117,EVP and General Counsel,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140904,enright patrick g,114420414054303,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140910,hooper suzanne sawochka,123252414000118,EVP and General Counsel,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140910,wilson karen j,123252414000119,"SVP, Finance & PAO",female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20140910,cozadd bruce c,123252414000120,Chairman and CEO,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140915,wilson karen j,123252414000121,"SVP, Finance & PAO",female,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140915,mulligan seamus,123252414000122,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20140915,tobias jeffrey k,123252414000123,"EVP, Research & Dev and CMO",male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20140926,mulligan seamus,123252414000124,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141008,enright patrick g,114420414060042,,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141014,tobias jeffrey k,123252414000125,"EVP, Research & Dev and CMO",male,60221128.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20141016,cozadd bruce c,123252414000127,Chairman and CEO,male,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141016,hooper suzanne sawochka,123252414000129,EVP and General Counsel,female,60221128.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141110,mcgill iain,123252414000142,Head of EUSA Int'l & SVP,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141110,wilson karen j,123252414000140,"SVP, Finance & PAO",female,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141112,enright patrick g,114420414067151,,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141113,hooper suzanne sawochka,123252414000144,EVP and General Counsel,female,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20141113,cozadd bruce c,123252414000143,Chairman and CEO,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141118,tobias jeffrey k,123252414000145,"EVP, Research & Dev and CMO",male,60491676.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141125,tobias jeffrey k,123252414000146,"EVP, Research & Dev and CMO",male,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141203,enright patrick g,114420414072064,,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20141211,hooper suzanne sawochka,123252414000149,EVP and General Counsel,female,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20141211,cozadd bruce c,123252414000148,Chairman and CEO,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141216,enright patrick g,114420414074228,,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20141229,mulligan seamus,123252414000151,,male,60491676.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150107,enright patrick g,114420415001108,,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150115,hooper suzanne sawochka,123252415000009,EVP and General Counsel,female,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150115,cozadd bruce c,123252415000008,Chairman and CEO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150212,tobias jeffrey k,123252415000017,"EVP, R&D & CMO",male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150212,hooper suzanne sawochka,123252415000015,EVP & General Counsel,female,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150212,cozadd bruce c,123252415000013,Chairman & CEO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150212,enright patrick g,114420415008370,,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150302,cozadd bruce c,123252415000036,Chairman & CEO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,miller michael patrick,123252415000040,"SVP, US Commercial",male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,young matthew p.,123252415000050,EVP & CFO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,wilson karen j,123252415000048,"SVP, Finance & PAO",female,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,treacy paul,123252415000046,"SVP, Technical Operations",male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,tobias jeffrey k,123252415000044,"EVP, R&D & CMO",male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,mcgill iain,123252415000042,Head of EUSA Int'l & SVP,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,hooper suzanne sawochka,123252415000038,EVP & General Counsel,female,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150302,cox russell j.,123252415000034,EVP & COO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150304,enright patrick g,114420415013928,,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150305,wilson karen j,123252415000052,"SVP, Finance & PAO",female,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,tobias jeffrey k,123252415000062,"EVP, R&D & CMO",male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,cox russell j.,123252415000056,EVP & COO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150309,cozadd bruce c,123252415000054,Chairman & CEO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,mcgill iain,123252415000060,Head of EUSA Int'l & SVP,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,hooper suzanne sawochka,123252415000058,EVP & General Counsel,female,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150309,wilson karen j,123252415000064,"SVP, Finance & PAO",female,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150312,cozadd bruce c,123252415000066,Chairman & CEO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150312,hooper suzanne sawochka,123252415000068,EVP & General Counsel,female,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150320,mulligan seamus,123252415000070,,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150327,mulligan seamus,123252415000076,,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150408,enright patrick g,114420415021794,,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150416,cozadd bruce c,123252415000078,Chairman & CEO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150416,hooper suzanne sawochka,123252415000080,EVP & General Counsel,female,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150416,cox russell j.,123252415000082,EVP & COO,male,60643000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150506,young matthew p.,123252415000096,EVP & CFO,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150506,miller michael patrick,123252415000098,"SVP, US Commercial",male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150513,enright patrick g,114420415030132,,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150513,smith karen l.,123252415000105,Global Head of R&D and CMO,female,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150514,hooper suzanne sawochka,123252415000115,EVP & General Counsel,female,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150514,young matthew p.,123252415000117,EVP & CFO,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150514,riedel norbert g,123252415000109,,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150514,o'keefe kenneth w,123252415000111,,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150514,gray peter,123252415000107,,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150514,cozadd bruce c,123252415000113,Chairman & CEO,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150528,mcgill iain,123252415000120,"SVP, Europe and Rest of World",male,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150603,wilson karen j,123252415000122,"SVP, Finance & PAO",female,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150603,enright patrick g,120919115049534,,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150611,cozadd bruce c,123252415000125,Chairman & CEO,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150611,hooper suzanne sawochka,123252415000126,EVP & General Counsel,female,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150708,enright patrick g,120919115060098,,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150716,cozadd bruce c,123252415000129,Chairman & CEO,male,61066950.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150716,hooper suzanne sawochka,123252415000130,EVP & General Counsel,female,61066950.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,sohn catherine a.,120919115065341,,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,schnee elmar,120919115065339,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,riedel norbert g,120919115065336,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,gray peter,120919115065327,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,mulligan seamus,120919115065330,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,mcsharry heather ann,120919115065328,,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,enright patrick g,120919115065325,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,berns paul l,120919115065322,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,o'keefe kenneth w,120919115065332,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,winningham rick e,120919115065346,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,o'keefe kenneth w,120919115065332,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,hooper suzanne sawochka,120919115065356,EVP and General Counsel,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,treacy paul,120919115065363,"SVP, Technical Operations",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,cox russell j.,120919115065352,EVP & Chief Commercial Officer,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,treacy paul,120919115065363,"SVP, Technical Operations",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,wilson karen j,120919115065361,"SVP, Finance & PAO",female,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,mcgill iain,120919115065359,"SVP, Europe and Rest of World",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,hooper suzanne sawochka,120919115065356,EVP and General Counsel,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,mcgill iain,120919115065359,"SVP, Europe and Rest of World",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,winningham rick e,120919115065346,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,cox russell j.,120919115065352,EVP & Chief Commercial Officer,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,schnee elmar,120919115065339,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,riedel norbert g,120919115065336,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,mulligan seamus,120919115065330,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,mcsharry heather ann,120919115065328,,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,gray peter,120919115065327,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,enright patrick g,120919115065325,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,berns paul l,120919115065322,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150811,sohn catherine a.,120919115065341,,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150811,wilson karen j,120919115065361,"SVP, Finance & PAO",female,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150812,cozadd bruce c,120919115065653,Chairman and CEO,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150812,hooper suzanne sawochka,120919115065649,EVP and General Counsel,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150812,cox russell j.,120919115065648,EVP & Chief Commercial Officer,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150812,cozadd bruce c,120919115065653,Chairman and CEO,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150812,hooper suzanne sawochka,120919115065649,EVP and General Counsel,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150812,cox russell j.,120919115065648,EVP & Chief Commercial Officer,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150831,enright patrick g,120919115068604,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150831,enright patrick g,120919115068604,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150903,enright patrick g,120919115069410,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20150903,enright patrick g,120919115069410,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150909,cozadd bruce c,120919115069985,Chairman and CEO,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20150909,cozadd bruce c,120919115069985,Chairman and CEO,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150929,miller michael patrick,123252415000145,"SVP, US Commercial",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20150929,miller michael patrick,123252415000145,"SVP, US Commercial",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20151007,enright patrick g,120919115074571,,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20151015,cozadd bruce c,120919115075557,Chairman and CEO,male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20151016,miller michael patrick,120919115075725,"SVP, US Commercial",male,61339267.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20151023,hooper suzanne sawochka,154458915000002,EVP & General Counsel,female,61339267.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20151112,enright patrick g,120919115079700,,male,61497753.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20151112,cozadd bruce c,151298415000002,Chairman & CEO,male,61497753.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20151117,miller michael patrick,123252415000159,"SVP, US Commercial",male,61497753.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20151117,mcgill iain,161576415000002,"SVP, Europe & Rest of World",male,61497753.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20151124,mulligan seamus,123252415000169,,male,61497753.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20151203,enright patrick g,120919115083208,,male,61497753.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20151209,cozadd bruce c,123252415000171,Chairman & CEO,male,61497753.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20151217,miller michael patrick,123252415000173,"SVP, US Commercial",male,61497753.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160107,enright patrick g,120919116090363,,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20160114,cozadd bruce c,154458916000004,Chairman & CEO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160121,miller michael patrick,123252416000178,"SVP, US Commercial",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20160211,cozadd bruce c,123252416000180,Chairman & CEO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160212,enright patrick g,120919116098131,,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160217,miller michael patrick,123252416000184,"SVP, US Commercial",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160224,mulligan seamus,123252416000196,,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,mcgill iain,123252416000205,"SVP, Europe & Rest of World",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,wilson karen j,123252416000212,"SVP, Finance & PAO",female,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20160229,cozadd bruce c,123252416000201,Chairman & CEO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,cox russell j.,123252416000199,EVP & COO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,hooper suzanne sawochka,123252416000203,EVP & General Counsel,female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,young matthew p.,123252416000216,EVP & CFO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,miller michael patrick,123252416000207,"SVP, US Commercial",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,smith karen l.,123252416000214,Global Head of R&D and CMO,female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160229,treacy paul,123252416000210,"SVP, Technical Operations",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20160302,cozadd bruce c,123252416000218,Chairman & CEO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160302,hooper suzanne sawochka,123252416000220,EVP & General Counsel,female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160302,mcgill iain,123252416000222,"SVP, Europe & Rest of World",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160302,treacy paul,123252416000228,"SVP, Technical Operations",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160302,cox russell j.,123252416000232,EVP & COO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160302,wilson karen j,123252416000224,"SVP, Finance & PAO",female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160302,young matthew p.,123252416000230,EVP & CFO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160309,mcgill iain,123252416000238,"SVP, Europe & Rest of World",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160309,wilson karen j,123252416000240,"SVP, Finance & PAO",female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160309,cox russell j.,123252416000242,EVP & COO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160309,hooper suzanne sawochka,123252416000236,EVP & General Counsel,female,61305000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20160309,cozadd bruce c,123252416000234,Chairman & CEO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160316,miller michael patrick,123252416000244,"SVP, US Commercial",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160408,wilson karen j,123252416000246,"SVP, Finance & PAO",female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160413,cox russell j.,151298416000004,EVP & COO,male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160415,wilson karen j,123252416000248,"SVP, Finance & PAO",female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160415,smith karen l.,163963716000002,Global Head of R&D and CMO,female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160418,miller michael patrick,123252416000250,"SVP, US Commercial",male,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160427,wilson karen j,123252416000257,"SVP, Finance & PAO",female,61305000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160505,young matthew p.,160158316000002,EVP & CFO,male,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160506,miller michael patrick,123252416000262,"SVP, US Commercial",male,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160512,smith karen l.,123252416000273,Global Head of R&D and CMO,female,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160513,young matthew p.,160158316000004,EVP & CFO,male,60421794.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160517,riedel norbert g,123252416000277,,male,60421794.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160517,mcsharry heather ann,123252416000275,,female,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160517,miller michael patrick,123252416000279,"SVP, US Commercial",male,60421794.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160526,mulligan seamus,123252416000281,,male,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160615,smith karen l.,163963716000004,Global Head of R&D and CMO,female,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160616,miller michael patrick,123252416000283,"SVP, US Commercial",male,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160713,smith karen l.,163963716000006,Global Head of R&D and CMO,female,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160718,miller michael patrick,123252416000285,"SVP, US Commercial",male,60421794.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160810,cox russell j.,123252416000307,EVP & COO,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160811,wilson karen j,123252416000314,"SVP, Finance & PAO",female,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160811,hooper suzanne sawochka,123252416000313,EVP & General Counsel,female,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160811,mcgill iain,123252416000312,"SVP, Europe & Rest of World",male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20160811,cozadd bruce c,123252416000315,Chairman & CEO,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160812,smith karen l.,123252416000319,Global Head of R&D and CMO,female,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,riedel norbert g,123252416000335,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,mcsharry heather ann,123252416000329,,female,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,schnee elmar,123252416000337,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,sohn catherine a.,123252416000339,,female,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,winningham rick e,123252416000341,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,berns paul l,123252416000323,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,enright patrick g,123252416000325,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,gray peter,123252416000327,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,o'keefe kenneth w,123252416000333,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160815,mulligan seamus,123252416000331,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160816,miller michael patrick,123252416000343,"SVP, US Commercial",male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160817,mcsharry heather ann,123252416000349,,female,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160817,winningham rick e,123252416000355,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160817,sohn catherine a.,123252416000353,,female,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160817,riedel norbert g,123252416000351,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160817,enright patrick g,123252416000347,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160817,berns paul l,123252416000345,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160818,treacy paul,123252416000360,"SVP, Technical Operations",male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20160826,mulligan seamus,123252416000362,,male,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20160920,miller michael patrick,123252416000364,"SVP, US Commercial",male,60532109.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20161018,miller michael patrick,123252416000374,"SVP, US Commercial",male,60532109.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20161115,o'keefe kenneth w,123252416000386,,male,59892335.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20161116,miller michael patrick,123252416000388,"SVP, US Commercial",male,59892335.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20161206,enright patrick g,123252416000390,,male,59892335.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20161216,miller michael patrick,123252416000392,"SVP, US Commercial",male,59892335.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170118,miller michael patrick,123252417000002,"SVP, US Commercial",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170119,cox russell j.,123252417000004,EVP & COO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170216,miller michael patrick,123252417000006,"SVP, US Commercial",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,young matthew p.,123252417000039,EVP & CFO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,wilson karen j,123252417000038,"SVP, Finance & PAO",female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,smith karen l.,123252417000037,Global Head of R&D and CMO,female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,mcgill iain,123252417000035,"SVP, Europe & Rest of World",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,hooper suzanne sawochka,123252417000034,EVP & General Counsel,female,59820000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20170301,cozadd bruce c,123252417000027,Chairman & CEO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,miller michael patrick,123252417000036,"SVP, US Commercial",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170301,cox russell j.,151298417000002,EVP & COO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,hooper suzanne sawochka,123252417000065,EVP & General Counsel,female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,young matthew p.,123252417000064,EVP & CFO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,wilson karen j,123252417000063,"SVP, Finance & PAO",female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,treacy paul,123252417000062,"SVP, Technical Operations",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,miller michael patrick,123252417000060,"SVP, US Commercial",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,mcgill iain,123252417000059,"SVP, Europe & Rest of World",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20170306,cozadd bruce c,123252417000058,Chairman & CEO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,smith karen l.,123252417000061,Global Head of R&D and CMO,female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170306,cox russell j.,123252417000057,EVP & COO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170308,cox russell j.,123252417000067,EVP & COO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20170308,cozadd bruce c,123252417000069,Chairman & CEO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170308,mcgill iain,123252417000071,"SVP, Europe & Rest of World",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170308,treacy paul,123252417000073,"SVP, Technical Operations",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170308,wilson karen j,123252417000076,"SVP, Finance & PAO",female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170308,hooper suzanne sawochka,123252417000077,EVP & General Counsel,female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170316,miller michael patrick,123252417000079,"SVP, US Commercial",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170411,wilson karen j,123252417000082,"SVP, Finance & PAO",female,59820000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20170413,cozadd bruce c,123252417000084,Chairman & CEO,male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170419,miller michael patrick,123252417000085,"SVP, US Commercial",male,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170427,wilson karen j,123252417000087,"SVP, Finance & PAO",female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170428,hooper suzanne sawochka,154458917000004,EVP & General Counsel,female,59820000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170505,young matthew p.,160158317000003,EVP & CFO,male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170508,miller michael patrick,123252417000100,"EVP, US Commercial",male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170510,hooper suzanne sawochka,154458917000006,EVP & General Counsel,female,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170512,smith karen l.,163963717000004,"EVP, R&D and CMO",female,60028816.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20170512,cozadd bruce c,123252417000113,Chairman & CEO,male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170515,miller michael patrick,123252417000115,"EVP, US Commercial",male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170516,young matthew p.,123252417000117,EVP & CFO,male,60028816.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170602,winningham rick e,123252417000119,,male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170616,miller michael patrick,123252417000121,"EVP, US Commercial",male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170626,hooper suzanne sawochka,154458917000008,EVP & General Counsel,female,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170718,miller michael patrick,123252417000123,"EVP, US Commercial",male,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170721,hooper suzanne sawochka,154458917000010,EVP & General Counsel,female,60028816.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170809,cox russell j.,151298417000005,EVP & COO,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,riedel norbert g,123252417000148,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,mcsharry heather ann,123252417000142,,female,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,schnee elmar,123252417000150,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,sohn catherine a.,123252417000152,,female,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,winningham rick e,123252417000154,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,berns paul l,123252417000136,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,enright patrick g,123252417000138,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,gray peter,123252417000140,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,o'keefe kenneth w,123252417000146,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170814,mulligan seamus,123252417000144,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170815,treacy paul,161576317000003,"SVP, Technical Operations",male,60064963.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20170816,miller michael patrick,123252417000156,"EVP, US Commercial",male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20170828,enright patrick g,123252417000158,,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20170913,cozadd bruce c,123252417000160,Chairman & CEO,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20171004,cozadd bruce c,123252417000166,Chairman & CEO,male,60064963.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20171121,enright patrick g,123252417000181,,male,59950496.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20171121,mcgill iain,123252417000183,"SVP, Europe & Rest of World",male,59950496.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20171213,miller michael patrick,123252417000187,"EVP, US Commercial",male,59950496.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20171213,enright patrick g,123252417000185,,male,59950496.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20171213,cox russell j.,162828017012316,EVP & COO,male,59950496.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180117,cozadd bruce c,123252418000002,Chairman & CEO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180117,miller michael patrick,123252418000004,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180118,young matthew p.,160158318000002,EVP & CFO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180216,miller michael patrick,160158318000004,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180228,young matthew p.,123252418000032,EVP & CFO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180228,smith karen l.,123252418000029,"EVP, R&D and CMO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180228,miller michael patrick,123252418000028,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180228,mcgill iain,123252418000027,"SVP, Europe & Rest of World",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180228,hooper suzanne sawochka,123252418000026,EVP & General Counsel,female,58898000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180228,cozadd bruce c,123252418000025,Chairman & CEO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180228,wilson karen j,123252418000030,"SVP, Finance & PAO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,hooper suzanne sawochka,123252418000043,EVP & General Counsel,female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,mcgill iain,123252418000044,"SVP, Europe & Rest of World",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,smith karen l.,123252418000046,"EVP, R&D and CMO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,swisher daniel n jr,123252418000047,President and COO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,treacy paul,123252418000048,"SVP, Technical Operations",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,wilson karen j,123252418000049,"SVP, Finance & PAO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,young matthew p.,123252418000050,EVP & CFO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180305,cozadd bruce c,123252418000042,Chairman & CEO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180305,miller michael patrick,123252418000045,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180307,cozadd bruce c,123252418000066,Chairman & CEO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,hooper suzanne sawochka,123252418000065,EVP & General Counsel,female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,mcgill iain,123252418000064,"SVP, Europe & Rest of World",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,treacy paul,123252418000061,"SVP, Technical Operations",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,wilson karen j,123252418000060,"SVP, Finance & PAO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,smith karen l.,123252418000062,"EVP, R&D and CMO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,young matthew p.,123252418000059,EVP & CFO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180307,miller michael patrick,123252418000063,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180313,cozadd bruce c,123252418000068,Chairman & CEO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180316,miller michael patrick,123252418000070,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180319,young matthew p.,123252418000072,EVP & CFO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180404,cozadd bruce c,123252418000074,Chairman & CEO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180412,wilson karen j,123252418000076,"SVP, Finance & PAO",female,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180413,miller michael patrick,123252418000078,"EVP, US Commercial",male,58898000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180418,young matthew p.,123252418000080,EVP & CFO,male,58898000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180503,cozadd bruce c,123252418000085,Chairman & CEO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180509,miller michael patrick,123252418000096,"EVP, US Commercial",male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180515,wilson karen j,123252418000103,"SVP, Finance & PAO",female,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180515,hooper suzanne sawochka,123252418000099,EVP & General Counsel,female,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180515,miller michael patrick,123252418000101,"EVP, US Commercial",male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180516,young matthew p.,123252418000105,EVP & CFO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180605,cozadd bruce c,123252418000107,Chairman & CEO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180605,young matthew p.,123252418000109,EVP & CFO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180607,miller michael patrick,123252418000111,"EVP, US Commercial",male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180618,miller michael patrick,123252418000113,"EVP, US Commercial",male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180619,young matthew p.,123252418000115,EVP & CFO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180705,cozadd bruce c,123252418000117,Chairman & CEO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180717,miller michael patrick,123252418000119,"EVP, US Commercial",male,59996224.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180718,young matthew p.,123252418000121,EVP & CFO,male,59996224.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180803,cozadd bruce c,123252418000126,Chairman & CEO,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,sohn catherine a.,123252418000140,,female,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,schnee elmar,123252418000142,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,mcsharry heather ann,123252418000146,,female,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,riedel norbert g,123252418000160,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,gray peter,123252418000150,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,berns paul l,123252418000152,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180813,treacy paul,123252418000154,"SVP, Technical Operations",male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,o'keefe kenneth w,123252418000148,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,enright patrick g,123252418000138,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,mulligan seamus,123252418000156,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180813,winningham rick e,123252418000136,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180816,young matthew p.,123252418000165,EVP & CFO,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180816,miller michael patrick,123252418000162,"EVP, US Commercial",male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20180907,enright patrick g,123252418000167,,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180917,miller michael patrick,123252418000169,"EVP, US Commercial",male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20180919,young matthew p.,123252418000171,EVP & CFO,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20180925,cozadd bruce c,123252418000174,Chairman & CEO,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20181003,cozadd bruce c,123252418000176,Chairman & CEO,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20181016,miller michael patrick,123252418000178,"EVP, US Commercial",male,60409148.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20181017,young matthew p.,123252418000180,EVP & CFO,male,60409148.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20181105,cozadd bruce c,123252418000185,Chairman & CEO,male,60321590.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20181114,miller michael patrick,123252418000194,"EVP, US Commercial",male,60321590.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20181119,mulligan seamus,123252418000196,,male,60321590.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20181127,young matthew p.,123252418000198,EVP & CFO,male,60321590.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20181206,cozadd bruce c,123252418000200,Chairman & CEO,male,60321590.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20181214,hooper suzanne sawochka,123252418000202,EVP & General Counsel,female,60321590.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190107,swisher daniel n jr,123252419000002,President and COO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20190227,cozadd bruce c,176558119000004,Chairman & CEO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190227,mcgill iain,176558119000006,"SVP, Europe & Rest of World",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190227,miller michael patrick,176558119000008,"EVP, US Commercial",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190227,wilson karen j,176558119000010,"SVP, Finance & PAO",female,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190227,young matthew p.,176558119000012,EVP & CFO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190227,hooper suzanne sawochka,176558119000015,EVP & General Counsel,female,57704000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190304,oriordan anne,176558119000031,,female,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190304,young matthew p.,176558119000029,EVP & CFO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190304,wilson karen j,176558119000027,"SVP, Finance & PAO",female,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190304,swisher daniel n jr,176558119000023,President and COO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190304,miller michael patrick,176558119000021,"EVP, US Commercial",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190304,mcgill iain,176558119000019,"SVP, Europe & Rest of World",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20190304,cozadd bruce c,176558119000017,Chairman & CEO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190304,treacy paul,176558119000025,"SVP, Technical Operations",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20190307,cozadd bruce c,176558119000033,Chairman & CEO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190307,mcgill iain,176558119000035,"SVP, Europe & Rest of World",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190307,miller michael patrick,176558119000037,"EVP, US Commercial",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190307,wilson karen j,176558119000039,"SVP, Finance & PAO",female,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190307,young matthew p.,176558119000041,EVP & CFO,male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190307,treacy paul,176558119000043,"SVP, Technical Operations",male,57704000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190607,miller michael patrick,176558119000049,"EVP, US Commercial",male,56660701.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,winningham rick e,176558119000080,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,sohn catherine a.,176558119000078,,female,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,schnee elmar,176558119000076,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,riedel norbert g,176558119000074,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,oriordan anne,176558119000072,,female,56621139.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190812,patil neena m,176558119000058,"SVP, General Counsel",female,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,mulligan seamus,176558119000068,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,mcsharry heather ann,176558119000066,,female,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,gray peter,176558119000064,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,berns paul l,176558119000060,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190812,iannone robert,176558119000056,"EVP, Research & Development",male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,o'keefe kenneth w,176558119000070,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190812,carr patricia,176558119000084,"VP, Finance& PAO",female,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20190812,enright patrick g,176558119000082,,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20190814,treacy paul,176558119000086,"SVP, Technical Operations",male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20191003,cozadd bruce c,176558119000088,Chairman & CEO,male,56621139.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20191107,cozadd bruce c,176558119000092,Chairman & CEO,male,56572721.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20191108,larkin finbar,176558119000094,"SVP, Technical Operations",male,56572721.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20191204,cozadd bruce c,176558119000096,Chairman & CEO,male,56572721.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20191206,o'keefe kenneth w,176558119000098,,male,56572721.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20191209,carr patricia,176558119000100,"VP, Finance & PAO",female,56572721.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20191210,miller michael patrick,176558119000102,"EVP, US Commercial",male,56572721.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200106,swisher daniel n jr,176558120000004,President and COO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200106,cozadd bruce c,176558120000002,Chairman & CEO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200115,miller michael patrick,176558120000006,"EVP, US Commercial",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200205,cozadd bruce c,176558120000008,Chairman & CEO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200214,miller michael patrick,176558120000010,"EVP, US Commercial",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200226,miller michael patrick,176558120000012,"EVP, US Commercial",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200226,cozadd bruce c,176558120000014,Chairman & CEO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200302,cozadd bruce c,176558120000018,Chairman & CEO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200302,patil neena m,176558120000024,"SVP, General Counsel",female,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200302,swisher daniel n jr,176558120000026,President and COO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200302,larkin finbar,176558120000022,"SVP, Technical Operations",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200302,carr patricia,176558120000016,"VP, Finance & PAO",female,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200302,iannone robert,176558120000020,"EVP, Research & Development",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200305,carr patricia,176558120000028,"VP, Finance & PAO",female,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200305,larkin finbar,176558120000030,"SVP, Technical Operations",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200309,swisher daniel n jr,176558120000037,President and COO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200309,miller michael patrick,176558120000034,"EVP, US Commercial",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200309,cozadd bruce c,176558120000032,Chairman & CEO,male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200310,carr patricia,176558120000042,"VP, Finance & PAO",female,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200310,larkin finbar,176558120000043,"SVP, Technical Operations",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200313,miller michael patrick,176558120000045,"EVP, US Commercial",male,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200313,carr patricia,176558120000047,"VP, Finance & PAO",female,56140000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200511,pearce samantha,176558120000051,"SVP, Europe and Rest of World",female,55346997.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200511,gala renee d,176558120000053,EVP & CFO,female,55346997.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200527,mulligan seamus,176558120000055,,male,55346997.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200605,carr patricia,176558120000059,"VP, Finance & PAO",female,55346997.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200605,iannone robert,176558120000061,"EVP, Research & Development",male,55346997.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200807,sablich kim,176558120000065,"EVP & GM, North America",female,55458631.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200807,patil neena m,176558120000063,"SVP, General Counsel",female,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,mcsharry heather ann,176558120000073,,female,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,gray peter,176558120000071,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,enright patrick g,176558120000069,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,berns paul l,176558120000067,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,riedel norbert g,176558120000079,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,mulligan seamus,176558120000075,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,oriordan anne,176558120000087,,female,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,schnee elmar,176558120000081,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,winningham rick e,176558120000085,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,sohn catherine a.,176558120000083,,female,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20200810,o'keefe kenneth w,176558120000077,,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200811,carr patricia,176558120000089,"VP, Finance & PAO",female,55458631.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200814,carr patricia,176558120000091,"VP, Finance & PAO",female,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200831,cozadd bruce c,176558120000093,Chairman & CEO,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20200903,cozadd bruce c,176558120000095,Chairman & CEO,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20200910,larkin finbar,176558120000097,"SVP, Technical Operations",male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20201005,cozadd bruce c,176558120000099,Chairman & CEO,male,55458631.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20201104,enright patrick g,176558120000103,,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20201104,berns paul l,176558120000107,,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20201104,o'keefe kenneth w,176558120000105,,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20201104,cozadd bruce c,176558120000101,Chairman & CEO,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20201106,sohn catherine a.,176558120000109,,female,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20201109,o'keefe kenneth w,176558120000111,,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20201110,larkin finbar,176558120000113,"SVP, Technical Operations",male,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20201113,enright patrick g,176558120000120,,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20201203,cozadd bruce c,176558120000123,Chairman & CEO,male,55714006.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20201208,carr patricia,176558120000129,"VP, Finance & PAO",female,55714006.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210106,cozadd bruce c,176558121000004,Chairman & CEO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210106,swisher daniel n jr,176558121000002,President and COO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210203,cozadd bruce c,176558121000006,Chairman & CEO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,swisher daniel n jr,176558121000030,President and COO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,sablich kim,176558121000028,"EVP & GM, North America",female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,pearce samantha,176558121000026,"SVP,  Head of Europe & Intl",female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,larkin finbar,176558121000022,"SVP, Technical Operations",male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,patil neena m,176558121000024,Chief Legal Officer (CLO) and,female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,gala renee d,176558121000018,EVP & CFO,female,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210301,cozadd bruce c,176558121000016,Chairman & CEO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,carr patricia,176558121000014,"VP, Finance & PAO",female,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210301,smith mark douglas,176558121000011,,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210301,cook jennifer e.,176558121000009,,female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210301,iannone robert,176558121000020,"EVP, Research & Development",male,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210303,cozadd bruce c,176558121000032,Chairman & CEO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210309,pearce samantha,176558121000040,"SVP,  Head of Europe & Intl",female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210309,swisher daniel n jr,176558121000042,President and COO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210309,iannone robert,176558121000036,"EVP R&D, Chief Medical Officer",male,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210309,cozadd bruce c,176558121000034,Chairman & CEO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210309,patil neena m,176558121000038,"SVP, General Counsel",female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210310,carr patricia,176558121000044,"VP, Finance & PAO",female,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210310,larkin finbar,176558121000046,"SVP, Technical Operations",male,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210406,cozadd bruce c,176558121000048,Chairman & CEO,male,56171000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210407,gala renee d,176558121000050,EVP & CFO,female,56171000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210505,cozadd bruce c,176558121000052,Chairman & CEO,male,56891728.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210507,tovey christopher j.,176558121000057,EVP COO & Managing Dir EUR/INT,male,56891728.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210603,cozadd bruce c,176558121000059,Chairman & CEO,male,56891728.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210609,iannone robert,176558121000063,"EVP R&D, Chief Medical Officer",male,56891728.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210609,sablich kim,176558121000061,"EVP & GM, North America",female,56891728.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210706,cozadd bruce c,176558121000065,Chairman & CEO,male,56891728.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,winningham rick e,176558121000087,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,sohn catherine a.,176558121000085,,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,riedel norbert g,176558121000081,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,oriordan anne,176558121000079,,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,mulligan seamus,176558121000075,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,mcsharry heather ann,176558121000073,,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,gray peter,176558121000071,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,enright patrick g,176558121000069,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,o'keefe kenneth w,176558121000077,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,smith mark douglas,176558121000083,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210802,cook jennifer e.,176558121000067,,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210804,cozadd bruce c,176558121000090,Chairman & CEO,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210809,cozadd bruce c,176558121000092,Chairman & CEO,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210809,schnee elmar,176558121000098,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210809,berns paul l,176558121000096,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210809,patil neena m,176558121000094,CLO&SVP Legal and Corp Affairs,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210810,mcsharry heather ann,176558121000104,,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210810,gray peter,176558121000102,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210810,carr patricia,176558121000100,"SVP, Finance & PAO",female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210810,sohn catherine a.,176558121000110,,female,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210810,o'keefe kenneth w,176558121000106,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210810,winningham rick e,176558121000112,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210810,riedel norbert g,176558121000108,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20210820,enright patrick g,176558121000114,,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20210903,cozadd bruce c,176558121000116,Chairman & CEO,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20210910,larkin finbar,176558121000118,"SVP, Technical Operations",male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20211006,cozadd bruce c,176558121000120,Chairman & CEO,male,61148558.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20211103,cozadd bruce c,176558121000122,Chairman & CEO,male,61469645.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20211115,sablich kim,176558121000125,"EVP & GM, North America",female,61469645.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20211116,larkin finbar,176558121000127,"SVP, Technical Operations",male,61469645.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20211203,cozadd bruce c,176558121000129,Chairman & CEO,male,61469645.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20211206,cook jennifer e.,176558121000131,,female,61469645.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20211206,smith mark douglas,176558121000133,,male,61469645.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220105,cozadd bruce c,176558122000002,Chairman & CEO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220105,swisher daniel n jr,176558122000004,President and COO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220203,cozadd bruce c,176558122000009,Chairman & CEO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220303,cozadd bruce c,176558122000011,Chairman & CEO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,tovey christopher j.,176558122000032,EVP & Chief Operating Officer,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,swisher daniel n jr,176558122000030,President and COO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,sablich kim,176558122000028,"EVP & GM, North America",female,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,pearce samantha,176558122000026,"SVP,  Head of Europe & Interna",female,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,patil neena m,176558122000024,Chief Legal Officer (CLO) and,female,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,larkin finbar,176558122000021,"SVP, Technical Operations",male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,iannone robert,176558122000019,"EVP, Global Head of R&D and Ch",male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,gala renee d,176558122000017,EVP & CFO,female,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220309,carr patricia,176558122000013,"SVP, Chief Accounting Officer",female,61633000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220309,cozadd bruce c,176558122000015,Chairman & CEO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220321,cozadd bruce c,176558122000034,Chairman & CEO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220406,cozadd bruce c,176558122000036,Chairman & CEO,male,61633000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220407,gala renee d,176558122000038,EVP & CFO,female,61633000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220504,cozadd bruce c,176558122000041,Chairman & CEO,male,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220509,tovey christopher j.,176558122000043,"EVP, COO & Managing Director E",male,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220510,patil neena m,176558122000045,Chief Legal Officer,female,62311104.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220511,oriordan anne,176558122000051,,female,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220511,carr patricia,176558122000047,"SVP, Chief Accounting Officer",female,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220511,larkin finbar,176558122000049,"SVP, Technical Operations",male,62311104.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220603,cozadd bruce c,176558122000053,Chairman & CEO,male,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220603,carr patricia,176558122000055,"SVP, Chief Accounting Officer",female,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220608,sablich kim,176558122000057,"EVP & GM, North America",female,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220608,patil neena m,176558122000059,Chief Legal Officer (CLO),female,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220608,iannone robert,176558122000061,"EVP, Global Head of R&D",male,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220610,pearce samantha,176558122000063,"SVP, Head of Europe & Internat",female,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220629,pearce samantha,176558122000065,"SVP, Head of Europe & Internat",female,62311104.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220707,cozadd bruce c,176558122000067,Chairman & CEO,male,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220707,tovey christopher j.,176558122000069,"EVP, COO & Managing Director E",male,62311104.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220714,pearce samantha,176558122000071,"SVP, Head of Europe & Internat",female,62311104.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220803,cozadd bruce c,176558122000073,Chairman & CEO,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220808,pearce samantha,176558122000075,"SVP, Head of Europe & Internat",female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,sohn catherine a.,176558122000100,,female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,smith mark douglas,176558122000098,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,riedel norbert g,176558122000096,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,oriordan anne,176558122000094,,female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,winningham rick e,176558122000102,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,mcsharry heather ann,176558122000088,,female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,gray peter,176558122000086,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,enright patrick g,176558122000084,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,cook jennifer e.,176558122000082,,female,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220809,carr patricia,176558122000079,"SVP, Chief Accounting Officer",female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,mulligan seamus,176558122000090,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220809,patil neena m,176558122000077,EVP and Chief Legal Officer,female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220809,o'keefe kenneth w,176558122000092,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220817,carr patricia,176558122000104,"SVP, Chief Accounting Officer",female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20220822,gray peter,176558122000106,,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220907,pearce samantha,176558122000109,"SVP, Head of Europe & Internat",female,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20220908,cozadd bruce c,176558122000111,Chairman & CEO,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20220909,larkin finbar,176558122000114,"SVP, Technical Operations",male,62680737.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20221005,cozadd bruce c,176558122000116,Chairman & CEO,male,62680737.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221114,pearce samantha,176558122000120,"SVP, Head of Europe & Internat",female,62966320.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20221114,cozadd bruce c,176558122000118,Chairman & CEO,male,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221116,larkin finbar,176558122000122,"SVP, Technical Operations",male,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221118,patil neena m,176558122000124,EVP & Chief Legal Officer,female,62966320.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20221125,enright patrick g,176558122000126,,male,62966320.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20221205,cozadd bruce c,176558122000128,Chairman & CEO,male,62966320.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20221206,smith mark douglas,176558122000130,,male,62966320.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20221206,cook jennifer e.,176558122000132,,female,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221207,carr patricia,176558122000134,"SVP, Chief Accounting Officer",female,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221207,swisher daniel n jr,176558122000136,President and COO,male,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221213,iannone robert,176558122000138,"EVP, Global Head of R&D",male,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221215,pearce samantha,176558122000140,"SVP, Head of Europe & Internat",female,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20221222,gala renee d,176558122000143,EVP & Chief Financial Officer,female,62966320.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230105,pearce samantha,176558123000004,"SVP, Head of Europe & Internat",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20230105,cozadd bruce c,176558123000002,Chairman & CEO,male,63214000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20230203,cozadd bruce c,176558123000006,Chairman & CEO,male,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230206,pearce samantha,176558123000008,"SVP, Head of Europe & Internat",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,larkin finbar,176558123000032,"SVP, Technical Operations",male,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,swisher daniel n jr,176558123000030,President and COO,male,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,iannone robert,176558123000028,"EVP, Global Head of Research a",male,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,carr patricia,176558123000026,"SVP, Chief Accounting Officer",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,patil neena m,176558123000021,EVP & Chief Legal Officer,female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,pearce samantha,176558123000019,"SVP, Head of Europe & Internat",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,sablich kim,176558123000017,"EVP, GM of U.S., Commercial Ma",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230307,mulligan seamus,176558123000010,,male,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230307,gala renee d,176558123000024,EVP & Chief Financial Officer,female,63214000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20230307,cozadd bruce c,176558123000015,Chairman & CEO,male,63214000.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230309,o'keefe kenneth w,176558123000034,,male,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230310,sablich kim,176558123000036,"EVP, GM of U.S., Commercial Ma",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230317,carr patricia,176558123000038,"SVP, Chief Accounting Officer",female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230407,gala renee d,176558123000040,EVP & Chief Financial Officer,female,63214000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230519,gala renee d,176558123000042,EVP & Chief Financial Officer,female,64001142.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230605,patil neena m,176558123000044,EVP & Chief Legal Officer,female,64001142.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230607,iannone robert,176558123000048,"EVP, Global Head of Research a",male,64001142.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230607,sablich kim,176558123000046,"EVP, GM of U.S.",female,64001142.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230609,carr patricia,176558123000050,"SVP, Chief Accounting Officer",female,64001142.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230612,mulligan seamus,176558123000052,,male,64001142.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230809,patil neena m,176558123000054,EVP & Chief Legal Officer,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,mulligan seamus,176558123000086,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,gray peter,176558123000080,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,enright patrick g,176558123000078,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,cook jennifer e.,176558123000076,,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230815,carr patricia,176558123000074,"SVP, Chief Accounting Officer",female,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,mcsharry heather ann,176558123000084,,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,oriordan anne,176558123000098,,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,o'keefe kenneth w,176558123000096,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,winningham rick e,176558123000094,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,sohn catherine a.,176558123000092,,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,smith mark douglas,176558123000090,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20230815,riedel norbert g,176558123000088,,male,63134812.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230815,henderson mary elizabeth,176558123000082,"SVP, Technical Operations",female,63134812.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230817,patil neena m,176558123000100,EVP & Chief Legal Officer,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230831,carr patricia,176558123000102,"SVP, Chief Accounting Officer",female,63134812.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20230906,patil neena m,176558123000104,EVP & Chief Legal Officer,female,63134812.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20231114,gala renee d,176558123000106,President & COO,female,62956913.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20231206,smith mark douglas,176558123000110,,male,62956913.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20231206,cook jennifer e.,176558123000108,,female,62956913.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240119,pearce samantha,178460624000012,"SVP, Head of Europe & Internat",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20240119,cozadd bruce c,178460624000004,Chairman & CEO,male,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240119,carr patricia,178460624000002,"SVP, Chief Accounting Officer",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240119,gala renee d,178460624000006,President & COO,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240119,iannone robert,178460624000008,"EVP, Global Head of R&D",male,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240119,patil neena m,178460624000010,EVP & Chief Legal Officer,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,patil neena m,176558124000020,EVP & Chief Legal Officer,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,johnson philip l,176558124000009,EVP & Chief Financial Officer,male,62255000.0
+1423.0,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240305,kennedy patrick,176558124000011,,male,62255000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20240305,cozadd bruce c,176558124000013,Chairman & CEO,male,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,pearce samantha,176558124000022,"SVP, Head of Europe & Internat",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,iannone robert,176558124000017,"EVP, Global Head of R&D",male,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,gala renee d,176558124000015,President & COO,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,carr patricia,176558124000024,"SVP, Chief Accounting Officer",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240305,henderson mary elizabeth,176558124000026,"SVP, Technical Operations",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240307,gala renee d,176558124000036,President & COO,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20240307,cozadd bruce c,176558124000028,Chairman & CEO,male,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240307,iannone robert,176558124000031,"EVP, Global Head of R&D",male,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240307,pearce samantha,176558124000035,"SVP, Head of Europe & Internat",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240307,patil neena m,176558124000033,EVP & Chief Legal Officer,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240308,carr patricia,176558124000038,"SVP, Chief Accounting Officer",female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240409,gala renee d,176558124000040,President & COO,female,62255000.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240507,patil neena m,176558124000042,EVP & Chief Legal Officer,female,63039537.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240611,carr patricia,176558124000044,"SVP, Chief Accounting Officer",female,63039537.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,enright patrick g,176558124000080,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,winningham rick e,176558124000079,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,smith mark douglas,176558124000078,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,riedel norbert g,176558124000077,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,oriordan anne,176558124000076,,female,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,o'keefe kenneth w,176558124000075,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,mcsharry heather ann,176558124000074,,female,61753510.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240806,pearce samantha,176558124000072,"EVP, Chief Commercial Officer",female,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,mulligan seamus,176558124000070,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,kennedy patrick,176558124000068,,male,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,hamill laura,176558124000066,,female,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,0.0,0.0,0.0,20240806,cook jennifer e.,176558124000073,,female,61753510.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20240911,henderson mary elizabeth,176558124000084,"SVP, Technical Operations",female,61753510.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20241105,cozadd bruce c,176558124000086,Chairman & CEO,male,60454592.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20241113,patil neena m,176558124000088,EVP & Chief Legal Officer,female,60454592.0
+,,1232524,jazz pharmaceuticals plc,1.0,1.0,0.0,0.0,20241204,cozadd bruce c,176558124000092,Chairman & CEO,male,60454592.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20241204,carr patricia,176558124000090,"SVP, Chief Accounting Officer",female,60454592.0
+,,1232524,jazz pharmaceuticals plc,0.0,1.0,0.0,0.0,20241209,gala renee d,176558124000094,President & COO,female,60454592.0

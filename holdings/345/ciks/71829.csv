@@ -1,165 +1,448 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-16765.0,4000.0,71829,newpark resources inc,0,1,0.0,0.0,20100308,piontek gregg,118143110014403,VP & Principal Acctng Officer,male,91673000.0
-192033.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20100324,howes paul l,118143110017959,President & CEO,male,91673000.0
-14765.0,4000.0,71829,newpark resources inc,0,1,0.0,0.0,20100506,piontek gregg,118143110024767,VP & Principal Acctng Officer,male,91673000.0
-21511.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100506,smith bruce campbell,118143110024754,"VP & Pres, Drilling Fluids",male,91673000.0
-34710.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100604,moss william d,118143110031483,Vice President,male,91673000.0
-26131.0,4000.0,71829,newpark resources inc,0,1,0.0,0.0,20100611,piontek gregg,118143110032696,VP & Principal Acctng Officer,male,91673000.0
-136069.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100611,braun james e,118143110032698,VP & CFO,male,91673000.0
-276053.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20100611,howes paul l,118143110032697,President & CEO,male,91673000.0
-140296.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100611,airola mark j,118143110032694,"VP, Chief Adm Off & Gen Counse",male,91673000.0
-61181.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100611,moss william d,118143110032692,Vice President,male,91673000.0
-54555.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100611,smith bruce campbell,118143110032691,"VP & Pres, Drilling Fluids",male,91673000.0
-97958.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100614,anderson david c,118143110032766,,male,91673000.0
-96058.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100614,box jerry,118143110032765,,male,91673000.0
-82958.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100614,finley g stephen,118143110032764,,male,91673000.0
-112958.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100614,mcfarland james,118143110032763,,male,91673000.0
-77958.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100614,warren gary l,118143110032762,,male,91673000.0
-72958.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100615,finley g stephen,118143110033218,,male,91673000.0
-65991.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20100615,anderson david c,118143110033146,,male,91673000.0
-126069.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100805,braun james e,7182910000004,Vice President and CFO,male,91673000.0
-236053.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20100805,howes paul l,7182910000007,President and CEO,male,91673000.0
-54555.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100818,smith bruce campbell,105383010000002,"VP & Pres, Drilling Fluids",male,91673000.0
-61181.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20100820,moss william d,7182910000009,Vice President,male,91673000.0
-50000.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20101019,juergens jeffery l,7182910000017,VP & Pres of NMIS & NES,male,91673000.0
+16765.0,4000.0,71829,newpark resources inc,0,1,0.0,0.0,20100308,piontek gregg,118143110014403,VP & Principal Acctng Officer,male,
+192033.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20100324,howes paul l,118143110017959,President & CEO,male,
+21511.0,,71829,newpark resources inc,0,1,0.0,0.0,20100506,smith bruce campbell,118143110024754,"VP & Pres, Drilling Fluids",male,
+14765.0,4000.0,71829,newpark resources inc,0,1,0.0,0.0,20100506,piontek gregg,118143110024767,VP & Principal Acctng Officer,male,
+34710.0,,71829,newpark resources inc,0,1,0.0,0.0,20100604,moss william d,118143110031483,Vice President,male,
+54555.0,,71829,newpark resources inc,0,1,0.0,0.0,20100611,smith bruce campbell,118143110032691,"VP & Pres, Drilling Fluids",male,
+61181.0,,71829,newpark resources inc,0,1,0.0,0.0,20100611,moss william d,118143110032692,Vice President,male,
+140296.0,,71829,newpark resources inc,0,1,0.0,0.0,20100611,airola mark j,118143110032694,"VP, Chief Adm Off & Gen Counse",male,
+26131.0,4000.0,71829,newpark resources inc,0,1,0.0,0.0,20100611,piontek gregg,118143110032696,VP & Principal Acctng Officer,male,
+136069.0,,71829,newpark resources inc,0,1,0.0,0.0,20100611,braun james e,118143110032698,VP & CFO,male,
+276053.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20100611,howes paul l,118143110032697,President & CEO,male,
+77958.0,,71829,newpark resources inc,1,0,0.0,0.0,20100614,warren gary l,118143110032762,,male,
+112958.0,,71829,newpark resources inc,1,0,0.0,0.0,20100614,mcfarland james,118143110032763,,male,
+82958.0,,71829,newpark resources inc,1,0,0.0,0.0,20100614,finley g stephen,118143110032764,,male,
+96058.0,,71829,newpark resources inc,1,0,0.0,0.0,20100614,box jerry,118143110032765,,male,
+97958.0,,71829,newpark resources inc,1,0,0.0,0.0,20100614,anderson david c,118143110032766,,male,
+72958.0,,71829,newpark resources inc,1,0,0.0,0.0,20100615,finley g stephen,118143110033218,,male,
+65991.0,,71829,newpark resources inc,1,0,0.0,0.0,20100615,anderson david c,118143110033146,,male,
+126069.0,,71829,newpark resources inc,0,1,0.0,0.0,20100805,braun james e,7182910000004,Vice President and CFO,male,
+236053.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20100805,howes paul l,7182910000007,President and CEO,male,
+54555.0,,71829,newpark resources inc,0,1,0.0,0.0,20100818,smith bruce campbell,105383010000002,"VP & Pres, Drilling Fluids",male,
+61181.0,,71829,newpark resources inc,0,1,0.0,0.0,20100820,moss william d,7182910000009,Vice President,male,
+50000.0,,71829,newpark resources inc,0,1,0.0,0.0,20101019,juergens jeffery l,7182910000017,VP & Pres of NMIS & NES,male,
 223631.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20110324,howes paul l,105383011000002,President and CEO,male,93143000.0
-0.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110510,piontek gregg,7182911000002,"VP, Controller, PAO",male,93143000.0
-78210.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110613,moss william d,7182911000027,Vice President,male,93143000.0
-67660.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110613,juergens jeffery l,7182911000026,VP &amp Pres of NMIS &amp NES,male,93143000.0
-160479.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110613,airola mark j,7182911000023,"Vice President, General Counse",male,93143000.0
-34031.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110613,piontek gregg,7182911000028,"VP, Controller, PAO",male,93143000.0
-80357.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110613,smith bruce campbell,7182911000029,"VP &amp Pres, Drilling Fluids",male,93143000.0
-91649.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20110613,warren gary l,7182911000014,,male,93143000.0
+0.0,,71829,newpark resources inc,0,1,0.0,0.0,20110510,piontek gregg,7182911000002,"VP, Controller, PAO",male,93143000.0
+80357.0,,71829,newpark resources inc,0,1,0.0,0.0,20110613,smith bruce campbell,7182911000029,"VP &amp Pres, Drilling Fluids",male,93143000.0
+78210.0,,71829,newpark resources inc,0,1,0.0,0.0,20110613,moss william d,7182911000027,Vice President,male,93143000.0
+67660.0,,71829,newpark resources inc,0,1,0.0,0.0,20110613,juergens jeffery l,7182911000026,VP &amp Pres of NMIS &amp NES,male,93143000.0
 297449.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20110613,howes paul l,7182911000025,President and CEO,male,93143000.0
+146567.0,,71829,newpark resources inc,0,1,0.0,0.0,20110613,braun james e,7182911000024,Vice President and CFO,male,93143000.0
+160479.0,,71829,newpark resources inc,0,1,0.0,0.0,20110613,airola mark j,7182911000023,"Vice President, General Counse",male,93143000.0
+34031.0,,71829,newpark resources inc,0,1,0.0,0.0,20110613,piontek gregg,7182911000028,"VP, Controller, PAO",male,93143000.0
 91649.0,35000.0,71829,newpark resources inc,1,0,0.0,0.0,20110613,mcfarland james,7182911000013,,male,93143000.0
 71649.0,15000.0,71829,newpark resources inc,1,0,0.0,0.0,20110613,finley g stephen,7182911000012,,male,93143000.0
-119749.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20110613,box jerry,7182911000011,,male,93143000.0
-99682.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20110613,anderson david c,7182911000010,,male,93143000.0
-146567.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110613,braun james e,7182911000024,Vice President and CFO,male,93143000.0
-157964.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110614,airola mark j,7182911000037,"Vice President, General Counse",male,93143000.0
+119749.0,,71829,newpark resources inc,1,0,0.0,0.0,20110613,box jerry,7182911000011,,male,93143000.0
+99682.0,,71829,newpark resources inc,1,0,0.0,0.0,20110613,anderson david c,7182911000010,,male,93143000.0
+91649.0,,71829,newpark resources inc,1,0,0.0,0.0,20110613,warren gary l,7182911000014,,male,93143000.0
+143984.0,,71829,newpark resources inc,0,1,0.0,0.0,20110614,braun james e,7182911000042,Vice President and CFO,male,93143000.0
+33029.0,,71829,newpark resources inc,0,1,0.0,0.0,20110614,piontek gregg,7182911000040,"VP, Controller, PAO",male,93143000.0
+77444.0,,71829,newpark resources inc,0,1,0.0,0.0,20110614,smith bruce campbell,7182911000039,"VP &amp Pres, Drilling Fluids",male,93143000.0
 287027.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20110614,howes paul l,7182911000038,President and CEO,male,93143000.0
-143984.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110614,braun james e,7182911000042,Vice President and CFO,male,93143000.0
-75877.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110614,moss william d,7182911000041,Vice President,male,93143000.0
-33029.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110614,piontek gregg,7182911000040,"VP, Controller, PAO",male,93143000.0
-77444.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20110614,smith bruce campbell,7182911000039,"VP &amp Pres, Drilling Fluids",male,93143000.0
+75877.0,,71829,newpark resources inc,0,1,0.0,0.0,20110614,moss william d,7182911000041,Vice President,male,93143000.0
 64149.0,15000.0,71829,newpark resources inc,1,0,0.0,0.0,20110614,finley g stephen,7182911000036,,male,93143000.0
-112749.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20110901,box jerry,7182911000044,,male,91103751.0
-53029.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20111019,piontek gregg,7182911000046,"VP, Controller, PAO",male,91138722.0
-99682.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20111102,anderson david c,7182911000049,,male,91138722.0
-99682.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20111107,anderson david c,7182911000051,,male,91138722.0
-117660.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20111222,juergens jeffery l,91048411000020,VP & Pres of NMIS & NES,male,91138722.0
-151444.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20111222,smith bruce campbell,91048411000019,Ex. VP & Pres. Drilling Fluids,male,91138722.0
-73029.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20111222,piontek gregg,91048411000018,"VP, CFO and PAO",male,91138722.0
-231964.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20111222,airola mark j,91048411000017,Sr. VP & General Counsel,male,91138722.0
-71041.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120309,piontek gregg,7182912000002,"VP, CFO, PAO",male,94498000.0
-102572.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20120608,finley g stephen,7182912000026,,male,89897208.0
-123105.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20120608,anderson david c,7182912000030,,male,89897208.0
-136172.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20120608,box jerry,7182912000029,,male,89897208.0
-150072.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20120608,mcfarland james,7182912000028,,male,89897208.0
-115072.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20120608,warren gary l,7182912000027,,male,89897208.0
-278575.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120608,airola mark j,7182912000020,"Sr Vice Pres, General Counsel",male,89897208.0
+157964.0,,71829,newpark resources inc,0,1,0.0,0.0,20110614,airola mark j,7182911000037,"Vice President, General Counse",male,93143000.0
+112749.0,,71829,newpark resources inc,1,0,0.0,0.0,20110901,box jerry,7182911000044,,male,91103751.0
+53029.0,,71829,newpark resources inc,0,1,0.0,0.0,20111019,piontek gregg,7182911000046,"VP, Controller, PAO",male,91138722.0
+99682.0,,71829,newpark resources inc,1,0,0.0,0.0,20111102,anderson david c,7182911000049,,male,91138722.0
+99682.0,,71829,newpark resources inc,1,0,0.0,0.0,20111107,anderson david c,7182911000051,,male,91138722.0
+73029.0,,71829,newpark resources inc,0,1,0.0,0.0,20111222,piontek gregg,91048411000018,"VP, CFO and PAO",male,91138722.0
+231964.0,,71829,newpark resources inc,0,1,0.0,0.0,20111222,airola mark j,91048411000017,Sr. VP & General Counsel,male,91138722.0
+151444.0,,71829,newpark resources inc,0,1,0.0,0.0,20111222,smith bruce campbell,91048411000019,Ex. VP & Pres. Drilling Fluids,male,91138722.0
+117660.0,,71829,newpark resources inc,0,1,0.0,0.0,20111222,juergens jeffery l,91048411000020,VP & Pres of NMIS & NES,male,91138722.0
+71041.0,,71829,newpark resources inc,0,1,0.0,0.0,20120309,piontek gregg,7182912000002,"VP, CFO, PAO",male,94498000.0
+150072.0,,71829,newpark resources inc,1,0,0.0,0.0,20120608,mcfarland james,7182912000028,,male,89897208.0
+123105.0,,71829,newpark resources inc,1,0,0.0,0.0,20120608,anderson david c,7182912000030,,male,89897208.0
+136172.0,,71829,newpark resources inc,1,0,0.0,0.0,20120608,box jerry,7182912000029,,male,89897208.0
+115072.0,,71829,newpark resources inc,1,0,0.0,0.0,20120608,warren gary l,7182912000027,,male,89897208.0
 387027.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20120608,howes paul l,7182912000019,President and CEO,male,89897208.0
-148113.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120608,juergens jeffery l,7182912000018,VP & Pres of NMIS & NES,male,89897208.0
-51678.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120608,kendrick lee ann,7182912000017,"Vice President, HR",male,89897208.0
-114128.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120608,piontek gregg,7182912000016,"VP, CFO, PAO",male,89897208.0
-219711.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120608,smith bruce campbell,7182912000015,Exec Vice President &,male,89897208.0
-214524.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120612,smith bruce campbell,7182912000036,Exec Vice President &,male,89897208.0
+278575.0,,71829,newpark resources inc,0,1,0.0,0.0,20120608,airola mark j,7182912000020,"Sr Vice Pres, General Counsel",male,89897208.0
+102572.0,,71829,newpark resources inc,1,0,0.0,0.0,20120608,finley g stephen,7182912000026,,male,89897208.0
+51678.0,,71829,newpark resources inc,0,1,0.0,0.0,20120608,kendrick lee ann,7182912000017,"Vice President, HR",male,89897208.0
+114128.0,,71829,newpark resources inc,0,1,0.0,0.0,20120608,piontek gregg,7182912000016,"VP, CFO, PAO",male,89897208.0
+219711.0,,71829,newpark resources inc,0,1,0.0,0.0,20120608,smith bruce campbell,7182912000015,Exec Vice President &,male,89897208.0
+148113.0,,71829,newpark resources inc,0,1,0.0,0.0,20120608,juergens jeffery l,7182912000018,VP & Pres of NMIS & NES,male,89897208.0
+214524.0,,71829,newpark resources inc,0,1,0.0,0.0,20120612,smith bruce campbell,7182912000036,Exec Vice President &,male,89897208.0
+112196.0,,71829,newpark resources inc,0,1,0.0,0.0,20120612,piontek gregg,7182912000037,"VP, CFO, PAO",male,89897208.0
+146144.0,,71829,newpark resources inc,0,1,0.0,0.0,20120612,juergens jeffery l,7182912000038,VP & Pres of NMIS & NES,male,89897208.0
 367333.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20120612,howes paul l,7182912000039,President and CEO,male,89897208.0
-274281.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120612,airola mark j,7182912000040,"Sr Vice Pres, General Counsel",male,89897208.0
-146144.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120612,juergens jeffery l,7182912000038,VP & Pres of NMIS & NES,male,89897208.0
-112196.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20120612,piontek gregg,7182912000037,"VP, CFO, PAO",male,89897208.0
-110785.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20120802,anderson david c,7182912000042,,male,88135978.0
-110433.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20121018,piontek gregg,7182912000044,"VP, CFO, PAO",male,86877903.0
-137782.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20121019,juergens jeffery l,7182912000046,VP & Pres of NMIS & NES,male,86877903.0
-121172.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20121121,box jerry,7182912000048,,male,86877903.0
-207329.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20121207,juergens jeffery l,7182912000050,VP & Pres of NMIS & NES,male,86877903.0
-121172.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130221,box jerry,7182913000002,,male,85652284.0
-495368.0,0.0,71829,newpark resources inc,1,1,0.0,0.0,20130307,howes paul l,7182913000005,President and CEO,male,85652284.0
+274281.0,,71829,newpark resources inc,0,1,0.0,0.0,20120612,airola mark j,7182912000040,"Sr Vice Pres, General Counsel",male,89897208.0
+110785.0,,71829,newpark resources inc,1,0,0.0,0.0,20120802,anderson david c,7182912000042,,male,88135978.0
+110433.0,,71829,newpark resources inc,0,1,0.0,0.0,20121018,piontek gregg,7182912000044,"VP, CFO, PAO",male,86877903.0
+137782.0,,71829,newpark resources inc,0,1,0.0,0.0,20121019,juergens jeffery l,7182912000046,VP & Pres of NMIS & NES,male,86877903.0
+121172.0,,71829,newpark resources inc,1,0,0.0,0.0,20121121,box jerry,7182912000048,,male,86877903.0
+207329.0,,71829,newpark resources inc,0,1,0.0,0.0,20121207,juergens jeffery l,7182912000050,VP & Pres of NMIS & NES,male,86877903.0
+121172.0,,71829,newpark resources inc,1,0,0.0,0.0,20130221,box jerry,7182913000002,,male,85652284.0
+495368.0,,71829,newpark resources inc,1,1,0.0,0.0,20130307,howes paul l,7182913000005,President and CEO,male,85652284.0
 367333.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20130307,howes paul l,7182913000006,President and CEO,male,85652284.0
 367333.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20130311,howes paul l,7182913000008,President and CEO,male,85652284.0
-111172.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130507,box jerry,7182913000010,,male,86156321.0
-110785.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130514,anderson david c,7182913000012,,male,86156321.0
-110958.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130515,piontek gregg,7182913000014,"VP, CFO, PAO",male,86156321.0
-111172.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130517,box jerry,7182913000017,,male,86156321.0
-64523.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130607,kendrick lee ann,7182913000025,"Vice President, HR",male,86156321.0
-128195.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130607,warren gary l,7182913000039,,male,86156321.0
-260250.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130607,juergens jeffery l,7182913000029,VP & Pres of NMIS & NES,male,86156321.0
-126045.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130607,box jerry,7182913000031,,male,86156321.0
-123908.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130607,anderson david c,7182913000033,,male,86156321.0
-115695.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130607,finley g stephen,7182913000035,,male,86156321.0
-163195.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130607,mcfarland james,7182913000037,,male,86156321.0
+111172.0,,71829,newpark resources inc,1,0,0.0,0.0,20130507,box jerry,7182913000010,,male,86156321.0
+110785.0,,71829,newpark resources inc,1,0,0.0,0.0,20130514,anderson david c,7182913000012,,male,86156321.0
+110958.0,,71829,newpark resources inc,0,1,0.0,0.0,20130515,piontek gregg,7182913000014,"VP, CFO, PAO",male,86156321.0
+111172.0,,71829,newpark resources inc,1,0,0.0,0.0,20130517,box jerry,7182913000017,,male,86156321.0
+303942.0,,71829,newpark resources inc,0,1,0.0,0.0,20130607,airola mark j,7182913000020,"Sr Vice Pres, General Counsel",male,86156321.0
 469384.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20130607,howes paul l,7182913000021,President and CEO,male,86156321.0
-249314.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130607,smith bruce campbell,7182913000027,Exec Vice President &,male,86156321.0
-137853.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130607,piontek gregg,7182913000023,"VP, CFO, PAO",male,86156321.0
-303942.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130607,airola mark j,7182913000020,"Sr Vice Pres, General Counsel",male,86156321.0
-437413.0,0.0,71829,newpark resources inc,1,1,0.0,0.0,20130611,howes paul l,7182913000042,President and CEO,male,86156321.0
-131928.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130611,piontek gregg,7182913000047,"VP, CFO, PAO",male,86156321.0
-62596.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130611,kendrick lee ann,7182913000049,"Vice President, HR",male,86156321.0
-254742.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130611,juergens jeffery l,7182913000052,VP & Pres of NMIS & NES,male,86156321.0
-237727.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130611,smith bruce campbell,7182913000053,Exec Vice President &,male,86156321.0
-295252.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130611,airola mark j,7182913000045,"Sr Vice Pres, General Counsel",male,86156321.0
+137853.0,,71829,newpark resources inc,0,1,0.0,0.0,20130607,piontek gregg,7182913000023,"VP, CFO, PAO",male,86156321.0
+64523.0,,71829,newpark resources inc,0,1,0.0,0.0,20130607,kendrick lee ann,7182913000025,"Vice President, HR",male,86156321.0
+249314.0,,71829,newpark resources inc,0,1,0.0,0.0,20130607,smith bruce campbell,7182913000027,Exec Vice President &,male,86156321.0
+260250.0,,71829,newpark resources inc,0,1,0.0,0.0,20130607,juergens jeffery l,7182913000029,VP & Pres of NMIS & NES,male,86156321.0
+126045.0,,71829,newpark resources inc,1,0,0.0,0.0,20130607,box jerry,7182913000031,,male,86156321.0
+123908.0,,71829,newpark resources inc,1,0,0.0,0.0,20130607,anderson david c,7182913000033,,male,86156321.0
+115695.0,,71829,newpark resources inc,1,0,0.0,0.0,20130607,finley g stephen,7182913000035,,male,86156321.0
+163195.0,,71829,newpark resources inc,1,0,0.0,0.0,20130607,mcfarland james,7182913000037,,male,86156321.0
+128195.0,,71829,newpark resources inc,1,0,0.0,0.0,20130607,warren gary l,7182913000039,,male,86156321.0
+131928.0,,71829,newpark resources inc,0,1,0.0,0.0,20130611,piontek gregg,7182913000047,"VP, CFO, PAO",male,86156321.0
 432735.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20130611,howes paul l,7182913000043,President and CEO,male,86156321.0
+295252.0,,71829,newpark resources inc,0,1,0.0,0.0,20130611,airola mark j,7182913000045,"Sr Vice Pres, General Counsel",male,86156321.0
+62596.0,,71829,newpark resources inc,0,1,0.0,0.0,20130611,kendrick lee ann,7182913000049,"Vice President, HR",male,86156321.0
+254742.0,,71829,newpark resources inc,0,1,0.0,0.0,20130611,juergens jeffery l,7182913000052,VP & Pres of NMIS & NES,male,86156321.0
+237727.0,,71829,newpark resources inc,0,1,0.0,0.0,20130611,smith bruce campbell,7182913000053,Exec Vice President &,male,86156321.0
+437413.0,,71829,newpark resources inc,1,1,0.0,0.0,20130611,howes paul l,7182913000042,President and CEO,male,86156321.0
 432735.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20130612,howes paul l,7182913000055,President and CEO,male,86156321.0
-237727.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130613,smith bruce campbell,7182913000059,Exec Vice President &,male,86156321.0
-323295.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20130613,smith bruce campbell,7182913000058,Exec Vice President &,male,86156321.0
-119308.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130823,anderson david c,7182913000061,,male,87509478.0
-126045.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20130905,box jerry,7182913000063,,male,87509478.0
-130105.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20131021,piontek gregg,7182913000065,"VP, CFO, PAO",male,87370515.0
-284751.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20131223,airola mark j,7182913000071,"Sr Vice Pres, General Counsel",male,87370515.0
-246400.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20131223,juergens jeffery l,7182913000073,VP & Pres of NMIS & NES,male,87370515.0
-127370.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20131223,piontek gregg,7182913000075,"VP, CFO, PAO",male,87370515.0
-222206.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20131223,smith bruce campbell,7182913000077,Exec Vice President &,male,87370515.0
-58070.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140122,kendrick lee ann,7182914000002,"Vice President, HR",male,98031000.0
-49070.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140224,kendrick lee ann,7182914000004,"Vice President, HR",male,86358856.0
-125045.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140501,box jerry,7182914000016,,male,84852299.0
-62827.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140522,kendrick lee ann,7182914000022,"Vice President, HR",male,84852299.0
+323295.0,,71829,newpark resources inc,0,1,0.0,0.0,20130613,smith bruce campbell,7182913000058,Exec Vice President &,male,86156321.0
+237727.0,,71829,newpark resources inc,0,1,0.0,0.0,20130613,smith bruce campbell,7182913000059,Exec Vice President &,male,86156321.0
+119308.0,,71829,newpark resources inc,1,0,0.0,0.0,20130823,anderson david c,7182913000061,,male,87509478.0
+126045.0,,71829,newpark resources inc,1,0,0.0,0.0,20130905,box jerry,7182913000063,,male,87509478.0
+130105.0,,71829,newpark resources inc,0,1,0.0,0.0,20131021,piontek gregg,7182913000065,"VP, CFO, PAO",male,87370515.0
+127370.0,,71829,newpark resources inc,0,1,0.0,0.0,20131223,piontek gregg,7182913000075,"VP, CFO, PAO",male,87370515.0
+246400.0,,71829,newpark resources inc,0,1,0.0,0.0,20131223,juergens jeffery l,7182913000073,VP & Pres of NMIS & NES,male,87370515.0
+284751.0,,71829,newpark resources inc,0,1,0.0,0.0,20131223,airola mark j,7182913000071,"Sr Vice Pres, General Counsel",male,87370515.0
+222206.0,,71829,newpark resources inc,0,1,0.0,0.0,20131223,smith bruce campbell,7182913000077,Exec Vice President &,male,87370515.0
+58070.0,,71829,newpark resources inc,0,1,0.0,0.0,20140122,kendrick lee ann,7182914000002,"Vice President, HR",male,98031000.0
+49070.0,,71829,newpark resources inc,0,1,0.0,0.0,20140224,kendrick lee ann,7182914000004,"Vice President, HR",male,86358856.0
+125045.0,,71829,newpark resources inc,1,0,0.0,0.0,20140501,box jerry,7182914000016,,male,84852299.0
+271310.0,,71829,newpark resources inc,0,1,0.0,0.0,20140522,juergens jeffery l,7182914000018,VP & Pres of NMIS & NES,male,84852299.0
+258420.0,,71829,newpark resources inc,0,1,0.0,0.0,20140522,smith bruce campbell,7182914000020,Exec Vice President &,male,84852299.0
+62827.0,,71829,newpark resources inc,0,1,0.0,0.0,20140522,kendrick lee ann,7182914000022,"Vice President, HR",male,84852299.0
+316907.0,,71829,newpark resources inc,0,1,0.0,0.0,20140522,airola mark j,7182914000024,"Sr Vice Pres, General Counsel",male,84852299.0
+316907.0,,71829,newpark resources inc,0,1,0.0,0.0,20140522,airola mark j,7182914000026,"Sr Vice Pres, General Counsel",male,84852299.0
 743226.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20140522,howes paul l,7182914000028,President and CEO,male,84852299.0
-316907.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140522,airola mark j,7182914000024,"Sr Vice Pres, General Counsel",male,84852299.0
-316907.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140522,airola mark j,7182914000026,"Sr Vice Pres, General Counsel",male,84852299.0
-271310.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140522,juergens jeffery l,7182914000018,VP & Pres of NMIS & NES,male,84852299.0
-258420.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140522,smith bruce campbell,7182914000020,Exec Vice President &,male,84852299.0
-156981.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140523,piontek gregg,7182914000033,Vice President and CFO,male,84852299.0
-131432.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140523,anderson david c,7182914000035,,male,84852299.0
-13345.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140523,best anthony james,7182914000037,,male,84852299.0
-129040.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140523,finley g stephen,7182914000040,,male,84852299.0
-176540.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140523,mcfarland james,7182914000042,,male,84852299.0
-141540.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140523,warren gary l,7182914000045,,male,84852299.0
-13345.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140523,larson roderick a.,7182914000048,,male,84852299.0
-127932.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140610,anderson david c,7182914000050,,male,84852299.0
-308115.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140611,airola mark j,7182914000054,"Sr Vice Pres, General Counsel",male,84852299.0
+13345.0,,71829,newpark resources inc,1,0,0.0,0.0,20140523,larson roderick a.,7182914000048,,male,84852299.0
+141540.0,,71829,newpark resources inc,1,0,0.0,0.0,20140523,warren gary l,7182914000045,,male,84852299.0
+131432.0,,71829,newpark resources inc,1,0,0.0,0.0,20140523,anderson david c,7182914000035,,male,84852299.0
+129040.0,,71829,newpark resources inc,1,0,0.0,0.0,20140523,finley g stephen,7182914000040,,male,84852299.0
+13345.0,,71829,newpark resources inc,1,0,0.0,0.0,20140523,best anthony james,7182914000037,,male,84852299.0
+176540.0,,71829,newpark resources inc,1,0,0.0,0.0,20140523,mcfarland james,7182914000042,,male,84852299.0
+156981.0,,71829,newpark resources inc,0,1,0.0,0.0,20140523,piontek gregg,7182914000033,Vice President and CFO,male,84852299.0
+127932.0,,71829,newpark resources inc,1,0,0.0,0.0,20140610,anderson david c,7182914000050,,male,84852299.0
+263419.0,,71829,newpark resources inc,0,1,0.0,0.0,20140611,juergens jeffery l,7182914000061,VP & Pres of NMIS & NES,male,84852299.0
+59680.0,,71829,newpark resources inc,0,1,0.0,0.0,20140611,kendrick lee ann,7182914000063,"Vice President, HR",male,84852299.0
+149641.0,,71829,newpark resources inc,0,1,0.0,0.0,20140611,piontek gregg,7182914000058,Vice President and CFO,male,84852299.0
+308115.0,,71829,newpark resources inc,0,1,0.0,0.0,20140611,airola mark j,7182914000054,"Sr Vice Pres, General Counsel",male,84852299.0
 707035.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20140611,howes paul l,7182914000052,President and CEO,male,84852299.0
-246674.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140611,smith bruce campbell,7182914000056,Exec Vice President &,male,84852299.0
-149641.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140611,piontek gregg,7182914000058,Vice President and CFO,male,84852299.0
-263419.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140611,juergens jeffery l,7182914000061,VP & Pres of NMIS & NES,male,84852299.0
-59680.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140611,kendrick lee ann,7182914000063,"Vice President, HR",male,84852299.0
+246674.0,,71829,newpark resources inc,0,1,0.0,0.0,20140611,smith bruce campbell,7182914000056,Exec Vice President &,male,84852299.0
 634343.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20140806,howes paul l,7182914000067,President and CEO,male,83667901.0
-122932.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20140814,anderson david c,7182914000069,,male,83667901.0
-308115.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20140828,airola mark j,7182914000073,"Sr Vice Pres, General Counsel",male,83667901.0
-147818.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20141021,piontek gregg,7182914000076,Vice President and CFO,male,83667901.0
-255032.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20141021,juergens jeffery l,7182914000079,VP & Pres of NMIS & NES,male,83667901.0
-241562.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20141209,juergens jeffery l,7182914000083,VP & Pres of NMIS,male,83990240.0
-30011.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20150526,best anthony james,7182915000006,,male,84108492.0
-141820.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20150526,anderson david c,7182915000002,,male,84108492.0
-30011.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20150526,larson roderick a.,7182915000008,,male,84108492.0
-145706.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20150526,finley g stephen,7182915000010,,male,84108492.0
-158206.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20150526,warren gary l,7182915000012,,male,84108492.0
-193206.0,0.0,71829,newpark resources inc,1,0,0.0,0.0,20150526,mcfarland james,7182915000004,,male,84108492.0
-0.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150527,smith bruce campbell,7182915000016,Exec Vice President &,male,84108492.0
-0.0,0.0,71829,newpark resources inc,1,1,0.0,0.0,20150527,howes paul l,7182915000014,President and CEO,male,84108492.0
-0.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150527,piontek gregg,7182915000020,Vice President and CFO,male,84108492.0
-0.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150527,juergens jeffery l,7182915000022,VP & Pres of NMIS,male,84108492.0
-0.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150527,airola mark j,7182915000024,"Sr Vice Pres, General Counsel",male,84108492.0
-0.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150527,white douglas l,7182915000018,"Controller, CAO, PAO",male,84108492.0
-236454.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150608,juergens jeffery l,7182915000026,VP & Pres of NMIS,male,84108492.0
-305138.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150609,airola mark j,7182915000035,"Sr Vice Pres, General Counsel",male,84108492.0
+122932.0,,71829,newpark resources inc,1,0,0.0,0.0,20140814,anderson david c,7182914000069,,male,83667901.0
+308115.0,,71829,newpark resources inc,0,1,0.0,0.0,20140828,airola mark j,7182914000073,"Sr Vice Pres, General Counsel",male,83667901.0
+147818.0,,71829,newpark resources inc,0,1,0.0,0.0,20141021,piontek gregg,7182914000076,Vice President and CFO,male,83667901.0
+255032.0,,71829,newpark resources inc,0,1,0.0,0.0,20141021,juergens jeffery l,7182914000079,VP & Pres of NMIS & NES,male,83667901.0
+241562.0,,71829,newpark resources inc,0,1,0.0,0.0,20141209,juergens jeffery l,7182914000083,VP & Pres of NMIS,male,83990240.0
+141820.0,,71829,newpark resources inc,1,0,0.0,0.0,20150526,anderson david c,7182915000002,,male,84108492.0
+193206.0,,71829,newpark resources inc,1,0,0.0,0.0,20150526,mcfarland james,7182915000004,,male,84108492.0
+30011.0,,71829,newpark resources inc,1,0,0.0,0.0,20150526,best anthony james,7182915000006,,male,84108492.0
+30011.0,,71829,newpark resources inc,1,0,0.0,0.0,20150526,larson roderick a.,7182915000008,,male,84108492.0
+145706.0,,71829,newpark resources inc,1,0,0.0,0.0,20150526,finley g stephen,7182915000010,,male,84108492.0
+158206.0,,71829,newpark resources inc,1,0,0.0,0.0,20150526,warren gary l,7182915000012,,male,84108492.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20150527,airola mark j,7182915000024,"Sr Vice Pres, General Counsel",male,84108492.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20150527,juergens jeffery l,7182915000022,VP & Pres of NMIS,male,84108492.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20150527,piontek gregg,7182915000020,Vice President and CFO,male,84108492.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20150527,smith bruce campbell,7182915000016,Exec Vice President &,male,84108492.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20150527,howes paul l,7182915000014,President and CEO,male,84108492.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20150527,white douglas l,7182915000018,"Controller, CAO, PAO",male,84108492.0
+236454.0,,71829,newpark resources inc,0,1,0.0,0.0,20150608,juergens jeffery l,7182915000026,VP & Pres of NMIS,male,84108492.0
+145119.0,,71829,newpark resources inc,0,1,0.0,0.0,20150609,piontek gregg,7182915000031,Vice President and CFO,male,84108492.0
+238777.0,,71829,newpark resources inc,0,1,0.0,0.0,20150609,juergens jeffery l,7182915000033,VP & Pres of NMIS,male,84108492.0
+305138.0,,71829,newpark resources inc,0,1,0.0,0.0,20150609,airola mark j,7182915000035,"Sr Vice Pres, General Counsel",male,84108492.0
+243373.0,,71829,newpark resources inc,0,1,0.0,0.0,20150609,smith bruce campbell,7182915000037,Exec Vice President &,male,84108492.0
+9827.0,,71829,newpark resources inc,0,1,0.0,0.0,20150609,white douglas l,7182915000039,"Controller, CAO, PAO",male,84108492.0
 619555.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20150609,howes paul l,7182915000029,President and CEO,male,84108492.0
-145119.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150609,piontek gregg,7182915000031,Vice President and CFO,male,84108492.0
-9827.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150609,white douglas l,7182915000039,"Controller, CAO, PAO",male,84108492.0
-243373.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150609,smith bruce campbell,7182915000037,Exec Vice President &,male,84108492.0
-238777.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150609,juergens jeffery l,7182915000033,VP & Pres of NMIS,male,84108492.0
+233979.0,,71829,newpark resources inc,0,1,0.0,0.0,20150611,smith bruce campbell,7182915000045,Exec Vice President &,male,84108492.0
+227752.0,,71829,newpark resources inc,0,1,0.0,0.0,20150611,juergens jeffery l,7182915000046,VP & Pres of NMIS,male,84108492.0
+298185.0,,71829,newpark resources inc,0,1,0.0,0.0,20150611,airola mark j,7182915000047,"Sr Vice Pres, General Counsel",male,84108492.0
+138740.0,,71829,newpark resources inc,0,1,0.0,0.0,20150611,piontek gregg,7182915000048,Vice President and CFO,male,84108492.0
 591302.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20150611,howes paul l,7182915000049,President and CEO,male,84108492.0
-138740.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150611,piontek gregg,7182915000048,Vice President and CFO,male,84108492.0
-298185.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150611,airola mark j,7182915000047,"Sr Vice Pres, General Counsel",male,84108492.0
-227752.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150611,juergens jeffery l,7182915000046,VP & Pres of NMIS,male,84108492.0
-233979.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150611,smith bruce campbell,7182915000045,Exec Vice President &,male,84108492.0
-10492.0,0.0,71829,newpark resources inc,0,1,0.0,0.0,20150702,white douglas l,7182915000051,"Controller, CAO, PAO",male,84108492.0
+10492.0,,71829,newpark resources inc,0,1,0.0,0.0,20150702,white douglas l,7182915000051,"Controller, CAO, PAO",male,84108492.0
+549352.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20151109,howes paul l,7182915000053,President and CEO,male,84149552.0
+136005.0,,71829,newpark resources inc,0,1,0.0,0.0,20151223,piontek gregg,7182915000058,Vice President and CFO,male,84149552.0
+219365.0,,71829,newpark resources inc,0,1,0.0,0.0,20151223,juergens jeffery l,7182915000059,VP & Pres of NMIS,male,84149552.0
+223860.0,,71829,newpark resources inc,0,1,0.0,0.0,20151223,smith bruce campbell,7182915000060,Exec Vice President &,male,84149552.0
+288066.0,,71829,newpark resources inc,0,1,0.0,0.0,20151223,airola mark j,7182915000061,"Sr Vice Pres, General Counsel",male,84149552.0
+11407.0,,71829,newpark resources inc,0,1,0.0,0.0,20160107,white douglas l,7182916000063,"Controller, CAO, PAO",male,99377000.0
+50000.0,,71829,newpark resources inc,0,1,0.0,0.0,20160425,lanigan matthew,7182916000068,VP and Pres of NMIS,male,99377000.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20160520,lanigan matthew,7182916000084,VP and Pres of NMIS,male,84111567.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20160520,piontek gregg,7182916000090,Vice President and CFO,male,84111567.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20160520,howes paul l,7182916000082,President and CEO,male,84111567.0
+192928.0,,71829,newpark resources inc,1,0,0.0,0.0,20160520,warren gary l,7182916000080,,male,84111567.0
+227928.0,,71829,newpark resources inc,1,0,0.0,0.0,20160520,mcfarland james,7182916000078,,male,84111567.0
+64733.0,,71829,newpark resources inc,1,0,0.0,0.0,20160520,larson roderick a.,7182916000076,,male,84111567.0
+181171.0,,71829,newpark resources inc,1,0,0.0,0.0,20160520,anderson david c,7182916000070,,male,84111567.0
+64733.0,,71829,newpark resources inc,1,0,0.0,0.0,20160520,best anthony james,7182916000072,,male,84111567.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20160520,smith bruce campbell,7182916000086,Exec Vice President &,male,84111567.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20160520,airola mark j,7182916000092,"Sr Vice Pres, General Counsel",male,84111567.0
+180428.0,,71829,newpark resources inc,1,0,0.0,0.0,20160520,finley g stephen,7182916000074,,male,84111567.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20160520,white douglas l,7182916000088,"Controller, CAO, PAO",male,84111567.0
+560246.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20160602,howes paul l,7182916000094,President and CEO,male,84111567.0
+142175.0,,71829,newpark resources inc,0,1,0.0,0.0,20160602,piontek gregg,7182916000096,Vice President and CFO,male,84111567.0
+294853.0,,71829,newpark resources inc,0,1,0.0,0.0,20160603,airola mark j,7182916000099,"Sr Vice Pres, General Counsel",male,84111567.0
+231365.0,,71829,newpark resources inc,0,1,0.0,0.0,20160603,smith bruce campbell,7182916000101,Exec Vice President &,male,84111567.0
+13714.0,,71829,newpark resources inc,0,1,0.0,0.0,20160603,white douglas l,7182916000103,"Controller, CAO, PAO",male,84111567.0
+545976.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20160613,howes paul l,7182916000105,President and CEO,male,84111567.0
+292149.0,,71829,newpark resources inc,0,1,0.0,0.0,20160613,airola mark j,7182916000106,"Sr Vice Pres, General Counsel",male,84111567.0
+139724.0,,71829,newpark resources inc,0,1,0.0,0.0,20160613,piontek gregg,7182916000107,Vice President and CFO,male,84111567.0
+228194.0,,71829,newpark resources inc,0,1,0.0,0.0,20160613,smith bruce campbell,7182916000108,Exec Vice President &,male,84111567.0
+15384.0,,71829,newpark resources inc,0,1,0.0,0.0,20160705,white douglas l,7182916000110,"Controller, CAO, PAO",male,84111567.0
+145592.0,,71829,newpark resources inc,0,1,0.0,0.0,20160812,piontek gregg,7182916000127,Vice President and CFO,male,84519550.0
+298620.0,,71829,newpark resources inc,0,1,0.0,0.0,20160812,airola mark j,7182916000121,"Sr Vice Pres, General Counsel",male,84519550.0
+563765.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20160812,howes paul l,7182916000123,President and CEO,male,84519550.0
+235784.0,,71829,newpark resources inc,0,1,0.0,0.0,20160812,smith bruce campbell,7182916000125,Exec Vice President &,male,84519550.0
+193523.0,,71829,newpark resources inc,1,0,0.0,0.0,20161207,warren gary l,7182916000153,,male,84653570.0
+228748.0,,71829,newpark resources inc,1,0,0.0,0.0,20161209,mcfarland james,7182916000155,,male,84653570.0
+16454.0,,71829,newpark resources inc,0,1,0.0,0.0,20170109,white douglas l,7182917000002,"Controller, CAO, PAO",male,99843000.0
+235784.0,,71829,newpark resources inc,0,1,0.0,0.0,20170404,smith bruce campbell,7182917000016,Exec Vice President &,male,99843000.0
+224934.0,,71829,newpark resources inc,0,1,0.0,0.0,20170406,smith bruce campbell,7182917000024,Exec Vice President &,male,99843000.0
+224934.0,,71829,newpark resources inc,0,1,0.0,0.0,20170411,smith bruce campbell,7182917000026,Exec Vice President &,male,99843000.0
+224934.0,,71829,newpark resources inc,0,1,0.0,0.0,20170413,smith bruce campbell,7182917000028,Exec Vice President &,male,99843000.0
+224934.0,,71829,newpark resources inc,0,1,0.0,0.0,20170516,smith bruce campbell,7182917000039,Exec Vice President &,male,88847081.0
+502625.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20170517,howes paul l,7182917000041,President and CEO,male,88847081.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20170518,lanigan matthew,167297817000002,VP and Pres of NMIS,male,88847081.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20170518,smith bruce campbell,136556717000002,Exec Vice President &,male,88847081.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20170518,piontek gregg,135722017000004,Vice President and CFO,male,88847081.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20170518,howes paul l,135722017000002,President and CEO,male,88847081.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20170518,airola mark j,124037117000003,"Sr Vice Pres, General Counsel",male,88847081.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20170518,white douglas l,160894417000002,"Controller, CAO, PAO",male,88847081.0
+83963.0,,71829,newpark resources inc,1,0,0.0,0.0,20170519,larson roderick a.,7182917000048,,male,88847081.0
+199658.0,,71829,newpark resources inc,1,0,0.0,0.0,20170519,finley g stephen,115864317000002,,male,88847081.0
+212753.0,,71829,newpark resources inc,1,0,0.0,0.0,20170519,warren gary l,118879217000002,,male,88847081.0
+202965.0,,71829,newpark resources inc,1,0,0.0,0.0,20170519,anderson david c,136342217000003,,male,88847081.0
+83963.0,,71829,newpark resources inc,1,0,0.0,0.0,20170519,best anthony james,136484317000002,,male,88847081.0
+111220.0,,71829,newpark resources inc,0,1,0.0,0.0,20170523,piontek gregg,7182917000056,Vice President and CFO,male,88847081.0
+24596.0,,71829,newpark resources inc,0,1,0.0,0.0,20170602,white douglas l,7182917000068,"Controller, CAO, PAO",male,88847081.0
+55823.0,,71829,newpark resources inc,0,1,0.0,0.0,20170602,lanigan matthew,7182917000066,VP and Pres of NMIS,male,88847081.0
+252261.0,,71829,newpark resources inc,0,1,0.0,0.0,20170602,smith bruce campbell,7182917000065,Exec Vice President &,male,88847081.0
+133564.0,,71829,newpark resources inc,0,1,0.0,0.0,20170602,piontek gregg,7182917000064,Vice President and CFO,male,88847081.0
+561839.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20170602,howes paul l,7182917000062,President and CEO,male,88847081.0
+323076.0,,71829,newpark resources inc,0,1,0.0,0.0,20170602,airola mark j,7182917000063,"Sr Vice Pres, General Counsel",male,88847081.0
+187841.0,,71829,newpark resources inc,1,0,0.0,0.0,20170605,anderson david c,7182917000070,,male,88847081.0
+25443.0,,71829,newpark resources inc,0,1,0.0,0.0,20170719,white douglas l,7182917000082,"Controller, CAO, PAO",male,88847081.0
+50000.0,,71829,newpark resources inc,0,1,0.0,0.0,20170802,lanigan matthew,7182917000090,VP and Pres of NMIS,male,85608159.0
+269870.0,,71829,newpark resources inc,0,1,0.0,0.0,20170818,smith bruce campbell,7182917000099,Exec Vice President &,male,85608159.0
+338955.0,,71829,newpark resources inc,0,1,0.0,0.0,20170818,airola mark j,7182917000096,"Sr Vice Pres, General Counsel",male,85608159.0
+147963.0,,71829,newpark resources inc,0,1,0.0,0.0,20170818,piontek gregg,7182917000098,Vice President and CFO,male,85608159.0
+25618.0,,71829,newpark resources inc,0,1,0.0,0.0,20170818,white douglas l,7182917000100,"Controller, CAO, PAO",male,85608159.0
+604769.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20170818,howes paul l,7182917000097,President and CEO,male,85608159.0
+41832.0,,71829,newpark resources inc,0,1,0.0,0.0,20171017,vollands phillip t,7182917000108,Vice President and President,male,85608159.0
+562819.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20171108,howes paul l,7182917000126,President and CEO,male,85836916.0
+170841.0,,71829,newpark resources inc,1,0,0.0,0.0,20171115,anderson david c,7182917000134,,male,85836916.0
+197658.0,,71829,newpark resources inc,1,0,0.0,0.0,20171128,finley g stephen,7182917000140,,male,85836916.0
+186358.0,,71829,newpark resources inc,1,0,0.0,0.0,20171130,finley g stephen,7182917000142,,male,85836916.0
+179058.0,,71829,newpark resources inc,1,0,0.0,0.0,20171204,finley g stephen,7182917000146,,male,85836916.0
+176235.0,,71829,newpark resources inc,1,0,0.0,0.0,20171206,finley g stephen,7182917000148,,male,85836916.0
+269870.0,,71829,newpark resources inc,0,1,0.0,0.0,20180223,smith bruce campbell,7182918000018,Exec Vice President & Chief,male,104572000.0
+26548.0,,71829,newpark resources inc,0,1,0.0,0.0,20180226,white douglas l,7182918000023,"Controller, CAO, PAO",male,104572000.0
+43913.0,,71829,newpark resources inc,0,1,0.0,0.0,20180424,lanigan matthew,7182918000038,VP and Pres of NMIS,male,104572000.0
+338955.0,,71829,newpark resources inc,0,1,0.0,0.0,20180502,airola mark j,7182918000047,"Sr Vice Pres, General Counsel",male,89310403.0
+562819.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20180503,howes paul l,7182918000054,President and CEO,male,89310403.0
+150841.0,,71829,newpark resources inc,1,0,0.0,0.0,20180503,anderson david c,7182918000056,,male,89310403.0
+25000.0,,71829,newpark resources inc,0,1,0.0,0.0,20180503,lanigan matthew,7182918000052,VP and Pres of NMIS,male,89310403.0
+147963.0,,71829,newpark resources inc,0,1,0.0,0.0,20180503,piontek gregg,7182918000050,Senior Vice President and CFO,male,89310403.0
+562819.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20180507,howes paul l,7182918000062,President and CEO,male,89310403.0
+269870.0,,71829,newpark resources inc,0,1,0.0,0.0,20180507,smith bruce campbell,7182918000063,Exec Vice President & Chief,male,89310403.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20180518,white douglas l,7182918000075,"Controller, CAO, PAO",male,89310403.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20180518,piontek gregg,7182918000071,Senior Vice President and CFO,male,89310403.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20180518,howes paul l,7182918000072,President and CEO,male,89310403.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20180518,vollands phillip t,7182918000073,Vice President and President,male,89310403.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20180518,lanigan matthew,7182918000074,VP and Pres of NMIS,male,89310403.0
+13953.0,,71829,newpark resources inc,1,0,0.0,0.0,20180521,robeson rose m,7182918000087,,female,89310403.0
+13953.0,,71829,newpark resources inc,1,0,0.0,0.0,20180521,minge john c,7182918000086,,male,89310403.0
+99776.0,,71829,newpark resources inc,1,0,0.0,0.0,20180521,best anthony james,7182918000084,,male,89310403.0
+97916.0,,71829,newpark resources inc,1,0,0.0,0.0,20180521,larson roderick a.,7182918000085,,male,89310403.0
+190188.0,,71829,newpark resources inc,1,0,0.0,0.0,20180521,finley g stephen,7182918000082,,male,89310403.0
+226706.0,,71829,newpark resources inc,1,0,0.0,0.0,20180521,warren gary l,7182918000083,,male,89310403.0
+39498.0,,71829,newpark resources inc,0,1,0.0,0.0,20180605,lanigan matthew,7182918000102,VP and Pres of NMIS,male,89310403.0
+70866.0,,71829,newpark resources inc,0,1,0.0,0.0,20180605,vollands phillip t,7182918000101,Vice President and President,male,89310403.0
+38663.0,,71829,newpark resources inc,0,1,0.0,0.0,20180605,white douglas l,7182918000103,"Controller, CAO, PAO",male,89310403.0
+371493.0,,71829,newpark resources inc,0,1,0.0,0.0,20180605,airola mark j,7182918000099,"Sr Vice Pres, General Counsel",male,89310403.0
+309677.0,,71829,newpark resources inc,0,1,0.0,0.0,20180605,smith bruce campbell,7182918000100,Exec Vice President & Chief,male,89310403.0
+672903.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20180605,howes paul l,7182918000097,President and CEO,male,89310403.0
+182330.0,,71829,newpark resources inc,0,1,0.0,0.0,20180605,piontek gregg,7182918000098,Senior Vice President and CFO,male,89310403.0
+197178.0,,71829,newpark resources inc,0,1,0.0,0.0,20180815,piontek gregg,7182918000118,Senior Vice President and CFO,male,90557449.0
+387868.0,,71829,newpark resources inc,0,1,0.0,0.0,20180815,airola mark j,7182918000113,"Sr Vice Pres, General Counsel",male,90557449.0
+728307.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20180815,howes paul l,7182918000116,President and CEO,male,90557449.0
+327836.0,,71829,newpark resources inc,0,1,0.0,0.0,20180815,smith bruce campbell,7182918000120,Exec Vice President & Chief,male,90557449.0
+50000.0,,71829,newpark resources inc,0,1,0.0,0.0,20180816,earle edward chipman,7182918000124,VP and Special Advisor to CEO,male,90557449.0
+39521.0,,71829,newpark resources inc,0,1,0.0,0.0,20180816,white douglas l,7182918000126,"Controller, CAO, PAO",male,90557449.0
+15253.0,,71829,newpark resources inc,1,0,0.0,0.0,20181120,minge john c,7182918000150,,male,90807687.0
+40260.0,,71829,newpark resources inc,0,1,0.0,0.0,20190219,white douglas l,7182919000014,"Controller, CAO, PAO",male,106363000.0
+728307.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20190403,howes paul l,7182919000028,President and CEO,male,106363000.0
+621820.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20190408,howes paul l,7182919000037,President and CEO,male,106363000.0
+636983.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20190520,howes paul l,7182919000048,President and CEO,male,90505971.0
+44348.0,,71829,newpark resources inc,0,1,0.0,0.0,20190520,lanigan matthew,7182919000050,VP and Pres of NMIS,male,90505971.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20190528,piontek gregg,7182919000075,Senior Vice President and CFO,male,90505971.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20190528,lanigan matthew,7182919000072,VP and Pres of NMIS,male,90505971.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20190528,howes paul l,7182919000073,President and CEO,male,90505971.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20190528,white douglas l,7182919000074,"Controller, CAO, PAO",male,90505971.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20190528,earle edward chipman,7182919000071,"VP, General Counsel, CAO",male,90505971.0
+118351.0,,71829,newpark resources inc,1,0,0.0,0.0,20190528,larson roderick a.,7182919000078,,male,90505971.0
+210623.0,,71829,newpark resources inc,1,0,0.0,0.0,20190528,finley g stephen,7182919000063,,male,90505971.0
+122936.0,,71829,newpark resources inc,1,0,0.0,0.0,20190528,best anthony james,7182919000064,,male,90505971.0
+34388.0,,71829,newpark resources inc,1,0,0.0,0.0,20190528,robeson rose m,7182919000061,,female,90505971.0
+35688.0,,71829,newpark resources inc,1,0,0.0,0.0,20190528,minge john c,7182919000062,,male,90505971.0
+358562.0,,71829,newpark resources inc,0,1,0.0,0.0,20190604,smith bruce campbell,7182919000091,Exec Vice President & Chief,male,90505971.0
+65945.0,,71829,newpark resources inc,0,1,0.0,0.0,20190604,lanigan matthew,7182919000089,VP and Pres of NMIS,male,90505971.0
+236341.0,,71829,newpark resources inc,0,1,0.0,0.0,20190604,piontek gregg,7182919000088,Senior Vice President and CFO,male,90505971.0
+52624.0,,71829,newpark resources inc,0,1,0.0,0.0,20190604,white douglas l,7182919000090,"Controller, CAO, PAO",male,90505971.0
+745482.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20190604,howes paul l,7182919000087,President and CEO,male,90505971.0
+840354.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20190705,howes paul l,7182919000098,President and CEO,male,90505971.0
+263492.0,,71829,newpark resources inc,0,1,0.0,0.0,20190705,piontek gregg,7182919000099,Senior Vice President and CFO,male,90505971.0
+84057.0,,71829,newpark resources inc,0,1,0.0,0.0,20190705,lanigan matthew,7182919000100,VP and Pres of NMIS,male,90505971.0
+397267.0,,71829,newpark resources inc,0,1,0.0,0.0,20190705,smith bruce campbell,7182919000101,Exec Vice President & Chief,male,90505971.0
+100000.0,,71829,newpark resources inc,0,1,0.0,0.0,20190717,paterson david a,7182919000107,"VP & President, Fluid Systems",male,90505971.0
+53725.0,,71829,newpark resources inc,0,1,0.0,0.0,20190925,white douglas l,7182919000121,"Controller, CAO, PAO",male,90062087.0
+855354.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20191119,howes paul l,7182919000129,President and CEO,male,89713692.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20191121,white douglas l,7182919000131,"Controller, CAO, PAO",male,89713692.0
+47580.0,,71829,newpark resources inc,0,1,0.0,0.0,20191129,white douglas l,7182919000133,"Controller, CAO, PAO",male,89713692.0
+49580.0,,71829,newpark resources inc,0,1,0.0,0.0,20200220,white douglas l,7182920000006,"Controller, CAO, PAO",male,106697000.0
+40000.0,,71829,newpark resources inc,0,1,0.0,0.0,20200512,piontek gregg,7182920000033,Senior Vice President and CFO,male,89899053.0
+62500.0,,71829,newpark resources inc,0,1,0.0,0.0,20200512,earle edward chipman,7182920000031,"VP, General Counsel, CAO",male,89899053.0
+64950.0,,71829,newpark resources inc,1,0,0.0,0.0,20200522,robeson rose m,7182920000056,,female,89899053.0
+66250.0,,71829,newpark resources inc,1,0,0.0,0.0,20200522,minge john c,7182920000055,,male,89899053.0
+148913.0,,71829,newpark resources inc,1,0,0.0,0.0,20200522,larson roderick a.,7182920000054,,male,89899053.0
+241185.0,,71829,newpark resources inc,1,0,0.0,0.0,20200522,finley g stephen,7182920000053,,male,89899053.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20200522,white douglas l,7182920000046,"Controller, CAO, PAO",male,89899053.0
+157574.0,,71829,newpark resources inc,1,0,0.0,0.0,20200522,best anthony james,7182920000052,,male,89899053.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20200522,paterson david a,7182920000044,"VP & President, Fluid Systems",male,89899053.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20200522,lanigan matthew,7182920000043,VP and Pres of NMIS,male,89899053.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20200522,howes paul l,7182920000042,President and CEO,male,89899053.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20200522,earle edward chipman,7182920000041,"VP, General Counsel, CAO",male,89899053.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20200522,piontek gregg,7182920000045,Senior Vice President and CFO,male,89899053.0
+978726.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20200603,howes paul l,7182920000074,President and CEO,male,89899053.0
+366044.0,40000.0,71829,newpark resources inc,0,1,0.0,0.0,20200603,piontek gregg,7182920000075,Senior Vice President and CFO,male,89899053.0
+83847.0,,71829,newpark resources inc,0,1,0.0,0.0,20200603,earle edward chipman,7182920000076,"VP, General Counsel, CAO",male,89899053.0
+146394.0,,71829,newpark resources inc,0,1,0.0,0.0,20200603,lanigan matthew,7182920000077,VP and Pres of NMIS,male,89899053.0
+63347.0,,71829,newpark resources inc,0,1,0.0,0.0,20200603,white douglas l,7182920000078,"Controller, CAO, PAO",male,89899053.0
+65347.0,,71829,newpark resources inc,0,1,0.0,0.0,20200820,white douglas l,7182920000096,"Controller, CAO, PAO",male,90650353.0
+55000.0,,71829,newpark resources inc,0,1,0.0,0.0,20201112,piontek gregg,7182920000109,Senior Vice President and CFO,male,90803610.0
+1036226.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20201117,howes paul l,7182920000113,President and CEO,male,90803610.0
+67347.0,,71829,newpark resources inc,0,1,0.0,0.0,20210301,white douglas l,7182921000021,"Controller, CAO, PAO",male,107588000.0
+1055501.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20210520,howes paul l,7182921000047,President and CEO,male,90960314.0
+152804.0,,71829,newpark resources inc,0,1,0.0,0.0,20210520,lanigan matthew,7182921000048,VP and President of,male,90960314.0
+196446.0,,71829,newpark resources inc,1,0,0.0,0.0,20210521,best anthony james,7182921000064,,male,90960314.0
+275484.0,,71829,newpark resources inc,1,0,0.0,0.0,20210521,finley g stephen,7182921000065,,male,90960314.0
+183212.0,,71829,newpark resources inc,1,0,0.0,0.0,20210521,larson roderick a.,7182921000066,,male,90960314.0
+34299.0,,71829,newpark resources inc,1,0,0.0,0.0,20210521,lewis michael a,7182921000067,,male,90960314.0
+100549.0,,71829,newpark resources inc,1,0,0.0,0.0,20210521,minge john c,7182921000068,,male,90960314.0
+99249.0,,71829,newpark resources inc,1,0,0.0,0.0,20210521,robeson rose m,7182921000069,,female,90960314.0
+120116.0,,71829,newpark resources inc,0,1,0.0,0.0,20210603,paterson david a,7182921000089,"VP & President, Fluid Systems",male,90960314.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210603,white douglas l,7182921000105,"Controller, CAO, PAO",male,90960314.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210603,paterson david a,7182921000104,"VP & President, Fluid Systems",male,90960314.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210603,lanigan matthew,7182921000103,VP and President of,male,90960314.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210603,piontek gregg,7182921000102,Senior Vice President and CFO,male,90960314.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210603,earle edward chipman,7182921000101,"VP, General Counsel, CAO",male,90960314.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20210603,howes paul l,7182921000100,President and CEO,male,90960314.0
+189494.0,,71829,newpark resources inc,0,1,0.0,0.0,20210603,lanigan matthew,7182921000087,VP and President of,male,90960314.0
+94986.0,,71829,newpark resources inc,0,1,0.0,0.0,20210603,white douglas l,7182921000088,"Controller, CAO, PAO",male,90960314.0
+417706.0,55000.0,71829,newpark resources inc,0,1,0.0,0.0,20210603,piontek gregg,7182921000086,Senior Vice President and CFO,male,90960314.0
+1206325.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20210603,howes paul l,7182921000085,President and CEO,male,90960314.0
+133163.0,,71829,newpark resources inc,0,1,0.0,0.0,20210603,earle edward chipman,7182921000093,"VP, General Counsel, CAO",male,90960314.0
+157941.0,,71829,newpark resources inc,0,1,0.0,0.0,20210716,paterson david a,7182921000107,"VP & President, Fluid Systems",male,90960314.0
+96986.0,,71829,newpark resources inc,0,1,0.0,0.0,20210818,white douglas l,7182921000121,"Vice President, CAO",male,92080085.0
+1236325.0,25000.0,71829,newpark resources inc,1,1,0.0,0.0,20210827,howes paul l,7182921000126,President & CEO,male,92080085.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210901,briggs lori,7182921000131,"VP & President, Industrial",female,92080085.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20210901,lanigan matthew,7182921000129,President & COO,male,92080085.0
+106443.0,,71829,newpark resources inc,0,1,0.0,0.0,20211123,white douglas l,7182921000145,"Vice President, CAO",male,92257408.0
+33164.0,,71829,newpark resources inc,0,1,0.0,0.0,20211217,briggs lori,7182921000154,"VP & President, Industrial",female,92257408.0
+107691.0,,71829,newpark resources inc,0,1,0.0,0.0,20211217,white douglas l,7182921000156,"Vice President, CAO",male,92257408.0
+68450.0,,71829,newpark resources inc,1,0,0.0,0.0,20220510,young donald win,7182922000047,,male,92353104.0
+87702.0,,71829,newpark resources inc,1,0,0.0,0.0,20220516,young donald win,7182922000053,,male,92353104.0
+70795.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,lewis michael a,7182922000089,,male,92353104.0
+185409.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,larson roderick a.,7182922000088,,male,92353104.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20220520,white douglas l,7182922000099,"Vice President, CAO",male,92353104.0
+237809.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,best anthony james,7182922000087,,male,92353104.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20220520,paterson david a,7182922000097,"VP & President, Fluid Systems",male,92353104.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20220520,lanigan matthew,7182922000096,President & COO,male,92353104.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20220520,piontek gregg,7182922000098,Senior Vice President and CFO,male,92353104.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20220520,briggs lori,7182922000094,"VP & President, Industrial",female,92353104.0
+124198.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,young donald win,7182922000093,,male,92353104.0
+135745.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,robeson rose m,7182922000092,,female,92353104.0
+137045.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,minge john c,7182922000091,,male,92353104.0
+36496.0,,71829,newpark resources inc,1,0,0.0,0.0,20220520,meer claudia michel,7182922000090,,female,92353104.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20220520,earle edward chipman,7182922000095,"VP, General Counsel, CAO",male,92353104.0
+218265.0,,71829,newpark resources inc,0,1,0.0,0.0,20220603,earle edward chipman,7182922000118,"VP, General Counsel, CAO",male,92353104.0
+258152.0,,71829,newpark resources inc,1,1,0.0,0.0,20220603,lanigan matthew,7182922000119,President & CEO,male,92353104.0
+521850.0,55000.0,71829,newpark resources inc,0,1,0.0,0.0,20220603,piontek gregg,7182922000120,Senior Vice President and CFO,male,92353104.0
+210107.0,,71829,newpark resources inc,0,1,0.0,0.0,20220603,paterson david a,7182922000121,"VP & President, Fluids Systems",male,92353104.0
+139154.0,,71829,newpark resources inc,0,1,0.0,0.0,20220603,white douglas l,7182922000122,"Vice President, CAO",male,92353104.0
+50872.0,,71829,newpark resources inc,0,1,0.0,0.0,20220603,briggs lori,7182922000117,"VP & President, Industrial",female,92353104.0
+52872.0,,71829,newpark resources inc,0,1,0.0,0.0,20220616,briggs lori,7182922000125,"VP & President, Industrial",female,92353104.0
+140939.0,,71829,newpark resources inc,0,1,0.0,0.0,20220616,white douglas l,7182922000126,"Vice President, CAO",male,92353104.0
+228265.0,,71829,newpark resources inc,0,1,0.0,0.0,20220809,earle edward chipman,7182922000146,"VP, General Counsel, CAO",male,93999672.0
+277152.0,,71829,newpark resources inc,1,1,0.0,0.0,20220809,lanigan matthew,7182922000147,President & CEO,male,93999672.0
+65000.0,,71829,newpark resources inc,0,1,0.0,0.0,20220809,piontek gregg,7182922000148,Senior Vice President and CFO,male,93999672.0
+152045.0,,71829,newpark resources inc,1,0,0.0,0.0,20220817,minge john c,7182922000151,,male,93999672.0
+213801.0,,71829,newpark resources inc,1,0,0.0,0.0,20220817,young donald win,7182922000152,,male,93999672.0
+217601.0,,71829,newpark resources inc,1,0,0.0,0.0,20220819,young donald win,7182922000154,,male,93999672.0
+310486.0,,71829,newpark resources inc,1,1,0.0,0.0,20220906,lanigan matthew,7182922000158,President & CEO,male,93999672.0
+62981.0,,71829,newpark resources inc,0,1,0.0,0.0,20220906,briggs lori,7182922000157,"VP & President, Industrial",female,93999672.0
+157045.0,,71829,newpark resources inc,1,0,0.0,0.0,20221114,minge john c,7182922000174,,male,94046877.0
+41496.0,,71829,newpark resources inc,1,0,0.0,0.0,20221118,meer claudia michel,7182922000179,,female,94046877.0
+162045.0,,71829,newpark resources inc,1,0,0.0,0.0,20221121,minge john c,7182922000182,,male,94046877.0
+247601.0,,71829,newpark resources inc,1,0,0.0,0.0,20221121,young donald win,7182922000183,,male,94046877.0
+76046.0,,71829,newpark resources inc,1,0,0.0,0.0,20221212,lewis michael a,7182922000192,,male,94046877.0
+64981.0,,71829,newpark resources inc,0,1,0.0,0.0,20221216,briggs lori,7182922000196,"VP & President, Ind. Solutions",female,94046877.0
+230265.0,,71829,newpark resources inc,0,1,0.0,0.0,20221216,earle edward chipman,7182922000197,"VP, General Counsel, CAO",male,94046877.0
+142306.0,,71829,newpark resources inc,0,1,0.0,0.0,20221216,white douglas l,7182922000198,"Vice President, CAO",male,94046877.0
+172045.0,,71829,newpark resources inc,1,0,0.0,0.0,20230317,minge john c,7182923000019,,male,111452000.0
+210605.0,,71829,newpark resources inc,1,0,0.0,0.0,20230522,minge john c,7182923000071,,male,85083920.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20230522,briggs lori,7182923000067,"VP & President, Ind. Solutions",female,85083920.0
+80056.0,,71829,newpark resources inc,1,0,0.0,0.0,20230522,meer claudia michel,7182923000054,,female,85083920.0
+114606.0,,71829,newpark resources inc,1,0,0.0,0.0,20230522,lewis michael a,7182923000070,,male,85083920.0
+,,71829,newpark resources inc,1,1,0.0,0.0,20230522,lanigan matthew,7182923000068,President & CEO,male,85083920.0
+223969.0,,71829,newpark resources inc,1,0,0.0,0.0,20230522,larson roderick a.,7182923000069,,male,85083920.0
+286161.0,,71829,newpark resources inc,1,0,0.0,0.0,20230522,young donald win,7182923000076,,male,85083920.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20230522,white douglas l,7182923000075,"Vice President, CAO",male,85083920.0
+182017.0,,71829,newpark resources inc,1,0,0.0,0.0,20230522,robeson rose m,7182923000074,,female,85083920.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20230522,piontek gregg,7182923000073,Senior Vice President and CFO,male,85083920.0
+,,71829,newpark resources inc,0,1,0.0,1.0,20230522,paterson david a,7182923000072,"VP & President, Fluids Systems",male,85083920.0
+,,71829,newpark resources inc,0,1,0.0,0.0,20230522,fruge mary celeste,7182923000078,"VP, General Counsel",female,85083920.0
+99187.0,,71829,newpark resources inc,0,1,0.0,0.0,20230605,briggs lori,7182923000098,"VP & President, Ind. Solutions",female,85083920.0
+195022.0,,71829,newpark resources inc,0,1,0.0,0.0,20230605,fruge mary celeste,7182923000099,"VP, General Counsel",female,85083920.0
+285437.0,,71829,newpark resources inc,0,1,0.0,1.0,20230605,paterson david a,7182923000101,"VP & President, Fluids Systems",male,85083920.0
+641130.0,65000.0,71829,newpark resources inc,0,1,0.0,0.0,20230605,piontek gregg,7182923000102,Senior Vice President and CFO,male,85083920.0
+182655.0,,71829,newpark resources inc,0,1,0.0,0.0,20230605,white douglas l,7182923000103,"Vice President, CAO",male,85083920.0
+419728.0,,71829,newpark resources inc,1,1,0.0,0.0,20230605,lanigan matthew,7182923000100,President & CEO,male,85083920.0
+101187.0,,71829,newpark resources inc,0,1,0.0,0.0,20230616,briggs lori,7182923000107,"VP & President, Ind. Solutions",female,85083920.0
+183975.0,,71829,newpark resources inc,0,1,0.0,0.0,20230616,white douglas l,7182923000109,"VP, CAO & Treasurer",male,85083920.0
+197022.0,,71829,newpark resources inc,0,1,0.0,0.0,20230616,fruge mary celeste,7182923000108,"VP, General Counsel",female,85083920.0
+268012.0,,71829,newpark resources inc,0,1,0.0,1.0,20230718,paterson david a,7182923000118,"VP & President, Fluids Systems",male,85083920.0
+81630.0,,71829,newpark resources inc,1,0,0.0,0.0,20230817,meer claudia michel,7182923000130,,female,86812902.0
+82930.0,,71829,newpark resources inc,1,0,0.0,0.0,20230822,meer claudia michel,7182923000133,,female,86812902.0
+439945.0,,71829,newpark resources inc,1,1,0.0,0.0,20230906,lanigan matthew,7182923000137,President & CEO,male,86812902.0
+111296.0,,71829,newpark resources inc,0,1,0.0,0.0,20230906,briggs lori,7182923000136,"VP & President, Ind. Solutions",female,86812902.0
+193432.0,,71829,newpark resources inc,0,1,0.0,0.0,20231121,white douglas l,7182923000147,"VP, CAO & Treasurer",male,85088163.0
+194635.0,,71829,newpark resources inc,0,1,0.0,0.0,20231215,white douglas l,7182923000153,"VP, CAO & Treasurer",male,85088163.0
+113261.0,,71829,newpark resources inc,0,1,0.0,0.0,20231215,briggs lori,7182923000151,"VP & President, Ind. Solutions",female,85088163.0
+199022.0,,71829,newpark resources inc,0,1,0.0,0.0,20231215,fruge mary celeste,7182923000152,"VP, General Counsel",female,85088163.0
+149333.0,,71829,newpark resources inc,0,1,0.0,0.0,20240517,briggs lori,7182924000045,"VP & President, Ind. Solutions",female,85201652.0
+228245.0,,71829,newpark resources inc,0,1,0.0,0.0,20240517,fruge mary celeste,7182924000046,"VP, General Counsel",female,85201652.0
+609441.0,,71829,newpark resources inc,1,1,0.0,0.0,20240517,lanigan matthew,7182924000047,President & CEO,male,85201652.0
+315779.0,,71829,newpark resources inc,0,1,0.0,1.0,20240517,paterson david a,7182924000048,"VP & President, Fluids Systems",male,85201652.0
+709438.0,65000.0,71829,newpark resources inc,0,1,0.0,0.0,20240517,piontek gregg,7182924000049,Senior Vice President and CFO,male,85201652.0
+218435.0,,71829,newpark resources inc,0,1,0.0,0.0,20240517,white douglas l,7182924000050,"VP, CAO & Treasurer",male,85201652.0
+295843.0,,71829,newpark resources inc,1,0,0.0,0.0,20240520,young donald win,7182924000068,,male,85201652.0
+195565.0,,71829,newpark resources inc,1,0,0.0,0.0,20240520,robeson rose m,7182924000067,,female,85201652.0
+16108.0,217543.0,71829,newpark resources inc,1,0,0.0,0.0,20240520,larson roderick a.,7182924000070,,male,85201652.0
+99038.0,,71829,newpark resources inc,1,0,0.0,0.0,20240520,meer claudia michel,7182924000065,,female,85201652.0
+124288.0,,71829,newpark resources inc,1,0,0.0,0.0,20240520,lewis michael a,7182924000064,,male,85201652.0
+220287.0,,71829,newpark resources inc,1,0,0.0,0.0,20240520,minge john c,7182924000066,,male,85201652.0
+189810.0,,71829,newpark resources inc,0,1,0.0,0.0,20240604,briggs lori,7182924000077,"VP & President, Ind. Solutions",female,85201652.0
+225606.0,,71829,newpark resources inc,0,1,0.0,0.0,20240604,fruge mary celeste,7182924000078,"VP, General Counsel",female,85201652.0
+758599.0,,71829,newpark resources inc,1,1,0.0,0.0,20240604,lanigan matthew,7182924000079,President & CEO,male,85201652.0
+256765.0,,71829,newpark resources inc,0,1,0.0,0.0,20240604,white douglas l,7182924000080,"VP, CAO & Treasurer",male,85201652.0
+386245.0,,71829,newpark resources inc,0,1,0.0,1.0,20240604,paterson david a,7182924000081,"VP & President, Fluids Systems",male,85201652.0
+791530.0,65000.0,71829,newpark resources inc,0,1,0.0,0.0,20240604,piontek gregg,7182924000082,Senior Vice President and CFO,male,85201652.0
+191188.0,,71829,newpark resources inc,0,1,0.0,0.0,20240617,briggs lori,7182924000085,"VP & President, Ind. Solutions",female,85201652.0
+257606.0,,71829,newpark resources inc,0,1,0.0,0.0,20240617,white douglas l,7182924000086,"VP, CAO & Treasurer",male,85201652.0
+201296.0,,71829,newpark resources inc,0,1,0.0,0.0,20240904,briggs lori,7182924000102,"VP & President, Ind. Solutions",female,86465506.0
+778816.0,,71829,newpark resources inc,1,1,0.0,0.0,20240904,lanigan matthew,7182924000103,President & CEO,male,86465506.0
+258328.0,,71829,npk international inc.,0,1,0.0,0.0,20241217,white douglas l,7182924000129,"VP, CAO & Treasurer",male,86497298.0

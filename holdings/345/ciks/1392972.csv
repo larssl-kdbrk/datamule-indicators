@@ -1,180 +1,536 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-5000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,keszler ellen,120919110001343,,female,
-12500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,petersen greg,120919110001346,,male,
-77787.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100105,reiner andres,120919110001356,Executive Vice President,male,
-23232.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100105,robinson jeff,120919110001370,Sr. VP Pricing Solutions,male,
-15000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,russell william,120919110001377,,male,
-10000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,williams timothy v,120919110001391,,male,
-1303043.0,3500000.0,1392972,"pros holdings, inc.",1,1,1,0.0,20100105,woestemeyer ronald f,120919110001399,"EVP, Strategic Business Planni",male,
+12500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,petersen greg,120919110001346,,male,
+5000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,keszler ellen,120919110001343,,female,
 1303043.0,3500000.0,1392972,"pros holdings, inc.",1,0,1,0.0,20100105,woestemeyer mariette m,120919110001400,,female,
-20732.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100107,robinson jeff,120919110002365,Sr. VP Pricing Solutions,male,
-18232.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100111,robinson jeff,120919110002683,Sr. VP Pricing Solutions,male,
-15732.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100112,robinson jeff,120919110002847,Sr. VP Pricing Solutions,male,
-13232.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100113,robinson jeff,120919110003030,Sr. VP Pricing Solutions,male,
-12032.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100114,robinson jeff,120919110003213,Sr. VP Pricing Solutions,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20100315,winemiller albert e,120919110017063,"Chairman, President & CEO",male,
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100315,murphy charles h,120919110017066,EVP & Chief Financial Officer,male,
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100315,reiner andres,120919110017068,Executive Vice President,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,keszler ellen,120919110017072,,female,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,petersen greg,120919110017074,,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,russell william,120919110017077,,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20100315,woestemeyer mariette m,120919110017079,,female,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,williams timothy v,120919110017081,,male,
-18161.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100317,robinson jeff,120919110017600,Sr. VP Pricing Solutions,male,
-83916.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100317,reiner andres,120919110017601,Executive Vice President,male,
-16161.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100319,robinson jeff,120919110017972,Sr. VP Pricing Solutions,male,
-14161.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100322,robinson jeff,120919110018195,Sr. VP Pricing Solutions,male,
-12561.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100323,robinson jeff,120919110018416,Sr. VP Pricing Solutions,male,
-80916.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100413,reiner andres,120919110022117,Executive Vice President,male,
-65916.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100414,reiner andres,120919110022332,Executive Vice President,male,
+1303043.0,3500000.0,1392972,"pros holdings, inc.",1,1,1,0.0,20100105,woestemeyer ronald f,120919110001399,"EVP, Strategic Business Planni",male,
+77787.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100105,reiner andres,120919110001356,Executive Vice President,male,
+15000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,russell william,120919110001377,,male,
+23232.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100105,robinson jeff,120919110001370,Sr. VP Pricing Solutions,male,
+10000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100105,williams timothy v,120919110001391,,male,
+20732.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100107,robinson jeff,120919110002365,Sr. VP Pricing Solutions,male,
+18232.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100111,robinson jeff,120919110002683,Sr. VP Pricing Solutions,male,
+15732.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100112,robinson jeff,120919110002847,Sr. VP Pricing Solutions,male,
+13232.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100113,robinson jeff,120919110003030,Sr. VP Pricing Solutions,male,
+12032.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100114,robinson jeff,120919110003213,Sr. VP Pricing Solutions,male,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,williams timothy v,120919110017081,,male,
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20100315,woestemeyer mariette m,120919110017079,,female,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,russell william,120919110017077,,male,
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20100315,reiner andres,120919110017068,Executive Vice President,male,
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20100315,murphy charles h,120919110017066,EVP & Chief Financial Officer,male,
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20100315,winemiller albert e,120919110017063,"Chairman, President & CEO",male,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,keszler ellen,120919110017072,,female,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20100315,petersen greg,120919110017074,,male,
+18161.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100317,robinson jeff,120919110017600,Sr. VP Pricing Solutions,male,
+83916.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100317,reiner andres,120919110017601,Executive Vice President,male,
+16161.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100319,robinson jeff,120919110017972,Sr. VP Pricing Solutions,male,
+14161.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100322,robinson jeff,120919110018195,Sr. VP Pricing Solutions,male,
+12561.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100323,robinson jeff,120919110018416,Sr. VP Pricing Solutions,male,
+80916.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100413,reiner andres,120919110022117,Executive Vice President,male,
+65916.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100414,reiner andres,120919110022332,Executive Vice President,male,
+241025.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20100517,murphy charles h,120919110028261,EVP & Chief Financial Officer,male,
 35000.0,1500000.0,1392972,"pros holdings, inc.",1,1,0,0.0,20100517,winemiller albert e,120919110028257,"Chairman, President & CEO",male,
-241025.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20100517,murphy charles h,120919110028261,EVP & Chief Financial Officer,male,
-7700.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,keszler ellen,120919110042373,,female,
-17700.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,russell william,120919110042371,,male,
-15200.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,petersen greg,120919110042375,,male,
-12700.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,williams timothy v,120919110042374,,male,
-9450.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,keszler ellen,120919110042583,,female,
-16950.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,petersen greg,120919110042584,,male,
-19450.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,russell william,120919110042585,,male,
-14450.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,williams timothy v,120919110042586,,male,
-25000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,russell william,120919110042719,,male,
-15000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,keszler ellen,120919110042720,,female,
-22500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,petersen greg,120919110042721,,male,
-20000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,williams timothy v,120919110042722,,male,
-17000.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20101201,murphy charles h,120919110057609,EVP & Chief Financial Officer,male,
-30000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20101206,russell william,120919110058613,,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,russell william,120919110060738,,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,petersen greg,120919110060736,,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20101215,woestemeyer mariette m,120919110060741,,female,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,williams timothy v,120919110060740,,male,
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,keszler ellen,120919110060733,,female,
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20101216,murphy charles h,120919110061090,EVP & Chief Financial Officer,male,
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20101216,reiner andres,120919110061092,President & CEO,male,
+17700.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,russell william,120919110042371,,male,
+7700.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,keszler ellen,120919110042373,,female,
+12700.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,williams timothy v,120919110042374,,male,
+15200.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100812,petersen greg,120919110042375,,male,
+14450.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,williams timothy v,120919110042586,,male,
+16950.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,petersen greg,120919110042584,,male,
+9450.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,keszler ellen,120919110042583,,female,
+19450.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100813,russell william,120919110042585,,male,
+25000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,russell william,120919110042719,,male,
+15000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,keszler ellen,120919110042720,,female,
+22500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,petersen greg,120919110042721,,male,
+20000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20100816,williams timothy v,120919110042722,,male,
+17000.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20101201,murphy charles h,120919110057609,EVP & Chief Financial Officer,male,
+30000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20101206,russell william,120919110058613,,male,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,williams timothy v,120919110060740,,male,
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20101215,woestemeyer mariette m,120919110060741,,female,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,keszler ellen,120919110060733,,female,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,russell william,120919110060738,,male,
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20101215,petersen greg,120919110060736,,male,
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20101216,reiner andres,120919110061092,President & CEO,male,
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20101216,murphy charles h,120919110061090,EVP & Chief Financial Officer,male,
 92600.0,1535000.0,1392972,"pros holdings, inc.",1,1,0,0.0,20110103,winemiller albert e,120919111000198,"Chairman, President & CEO",male,26359415.0
-77687.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20110105,reiner andres,120919111001945,President & CEO,male,26359415.0
-20000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,keszler ellen,120919111001937,,female,26359415.0
-30000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,williams timothy v,120919111001951,,male,26359415.0
-30000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,petersen greg,120919111001939,,male,26359415.0
+77687.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20110105,reiner andres,120919111001945,President & CEO,male,26359415.0
+40000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,russell william,120919111001949,,male,26359415.0
+30000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,williams timothy v,120919111001951,,male,26359415.0
 1308043.0,3500000.0,1392972,"pros holdings, inc.",1,0,1,0.0,20110105,woestemeyer mariette m,120919111001954,,female,26359415.0
 1308043.0,3500000.0,1392972,"pros holdings, inc.",1,1,1,0.0,20110105,woestemeyer ronald f,120919111001957,"EVP, Strategic Business Planni",male,26359415.0
-40000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,russell william,120919111001949,,male,26359415.0
+20000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,keszler ellen,120919111001937,,female,26359415.0
+30000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20110105,petersen greg,120919111001939,,male,26359415.0
 92600.0,1535000.0,1392972,"pros holdings, inc.",0,0,0,1.0,20110216,winemiller albert e,120919111010313,,male,26359415.0
 237600.0,1535000.0,1392972,"pros holdings, inc.",0,0,0,1.0,20110216,winemiller albert e,120919111010315,,male,26359415.0
-233945.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20110228,murphy charles h,120919111013303,EVP & Chief Financial Officer,male,26359415.0
-82453.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20110228,reiner andres,120919111013304,President & CEO,male,26359415.0
+233945.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20110228,murphy charles h,120919111013303,EVP & Chief Financial Officer,male,26359415.0
+82453.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20110228,reiner andres,120919111013304,President & CEO,male,26359415.0
 261120.0,1535000.0,1392972,"pros holdings, inc.",0,0,0,1.0,20110311,winemiller albert e,120919111017420,,male,26359415.0
-87749.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20110315,reiner andres,120919111018050,President & CEO,male,26359415.0
+87749.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20110315,reiner andres,120919111018050,President & CEO,male,26359415.0
 15000.0,1500000.0,1392972,"pros holdings, inc.",0,0,0,1.0,20110317,winemiller albert e,120919111018684,,male,26359415.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20110511,murphy charles h,120919111027611,EVP & Chief Financial Officer,male,26359415.0
-0.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20110511,reiner andres,120919111027612,President & CEO,male,26359415.0
-265720.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20110516,murphy charles h,120919111028720,EVP & Chief Financial Officer,male,26359415.0
-264720.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20110531,murphy charles h,120919111031865,EVP & Chief Financial Officer,male,26359415.0
-48500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20110819,russell william,120919111044998,,male,26934529.0
-53500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20111121,russell william,120919111057401,,male,26938304.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,petersen greg,120919111059209,,male,26938304.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,russell william,120919111059212,,male,26938304.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,williams timothy v,120919111059203,,male,26938304.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20111202,woestemeyer mariette m,120919111059204,,female,26938304.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,keszler ellen,120919111059206,,female,26938304.0
-95692.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20111216,reiner andres,120919111061668,President & CEO,male,26938304.0
-266785.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20111216,murphy charles h,120919111061671,EVP & Chief Financial Officer,male,26938304.0
-105973.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20120103,reiner andres,120919112000556,President & CEO,male,27014845.0
-37500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,petersen greg,120919112000557,,male,27014845.0
-4810743.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20120103,woestemeyer mariette m,120919112000560,,female,27014845.0
-37500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,williams timothy v,120919112000562,,male,27014845.0
-61000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,russell william,120919112000565,,male,27014845.0
-27500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,keszler ellen,120919112000568,,female,27014845.0
-0.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20120216,reiner andres,120919112010805,President & CEO,male,27014845.0
-4315443.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20120216,woestemeyer ronald f,120919112010803,"EVP, Strategic Business Planni",male,27014845.0
-4315443.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20120216,woestemeyer mariette m,120919112010804,,female,27014845.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20120216,murphy charles h,120919112010807,EVP & Chief Financial Officer,male,27014845.0
-206785.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20120222,murphy charles h,120919112012156,EVP & Chief Financial Officer,male,27014845.0
-110739.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20120227,reiner andres,120919112013261,President & CEO,male,27014845.0
-209570.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20120227,murphy charles h,120919112013264,EVP & Chief Financial Officer,male,27014845.0
-116034.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20120315,reiner andres,120919112018560,President & CEO,male,27014845.0
-245316.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20120514,murphy charles h,120919112027938,EVP & Chief Financial Officer,male,27337577.0
-121594.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20120514,reiner andres,120919112027940,President & CEO,male,27337577.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,williams timothy v,120919112053880,,male,27457781.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,keszler ellen,120919112053884,,female,27457781.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,petersen greg,120919112053887,,male,27457781.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,russell william,120919112053891,,male,27457781.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20121119,woestemeyer mariette m,120919112053894,,female,27457781.0
-247380.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20121218,murphy charles h,120919112058295,EVP & Chief Financial Officer,male,27457781.0
-129537.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20121218,reiner andres,120919112058319,President & CEO,male,27457781.0
-4313443.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20130103,woestemeyer ronald f,120919113001297,"EVP, Strategic Business Planni",male,27548847.0
-4313443.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20130103,woestemeyer mariette m,120919113001302,,female,27548847.0
-33500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,keszler ellen,120919113001317,,female,27548847.0
-4319443.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20130103,woestemeyer mariette m,120919113001352,,female,27548847.0
-251284.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20130103,murphy charles h,120919113001330,EVP & Chief Financial Officer,male,27548847.0
-141779.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20130103,reiner andres,120919113001343,President & CEO,male,27548847.0
-67000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,russell william,120919113001347,,male,27548847.0
-43500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,williams timothy v,120919113001348,,male,27548847.0
-43500.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,petersen greg,120919113001337,,male,27548847.0
-0.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20130123,reiner andres,120919113004072,President & CEO,male,27548847.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20130123,murphy charles h,120919113004078,EVP & Chief Financial Officer,male,27548847.0
-4168123.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20130220,woestemeyer ronald f,120919113010297,"EVP, Strategic Business Planni",male,27548847.0
-4168123.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20130220,woestemeyer mariette m,120919113010300,,female,27548847.0
-238922.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20130226,murphy charles h,120919113011714,EVP & Chief Financial Officer,male,27548847.0
-146132.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20130226,reiner andres,120919113011715,President & CEO,male,27548847.0
-4166123.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20130312,woestemeyer mariette m,120919113015833,,female,27548847.0
-4166123.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20130312,woestemeyer ronald f,120919113015834,"EVP, Strategic Business Planni",male,27548847.0
-4129760.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20130513,woestemeyer mariette m,120919113025833,,female,27918133.0
-4129760.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20130513,woestemeyer ronald f,120919113025836,"EVP, Strategic Business Planni",male,27918133.0
-151211.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20130513,reiner andres,120919113025839,President & CEO,male,27918133.0
-220980.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20130513,murphy charles h,120919113025841,EVP & Chief Financial Officer,male,27918133.0
-4121140.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20130614,woestemeyer ronald f,120919113032182,"EVP, Strategic Business Planni",male,27918133.0
-4121140.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20130614,woestemeyer mariette m,120919113032183,,female,27918133.0
-205980.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20130816,murphy charles h,120919113041189,EVP & Chief Financial Officer,male,28072266.0
-159635.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20131216,reiner andres,139297213000048,President and CEO,male,28123763.0
-193044.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20131216,murphy charles h,139297213000049,Executive VP and CFO,male,28123763.0
-74151.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,russell william,139297214000002,,male,28188643.0
-40651.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,keszler ellen,139297214000001,,female,28188643.0
-4128291.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20140103,woestemeyer mariette m,139297214000007,,female,28188643.0
-50651.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,williams timothy v,139297214000003,,male,28188643.0
-202339.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140103,murphy charles h,139297214000006,Exec VP and CFO,male,28188643.0
-186346.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140103,reiner andres,139297214000005,President and CEO,male,28188643.0
-47843.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,petersen greg,139297214000004,,male,28188643.0
-233686.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140203,murphy charles h,139297214000012,Exec VP and CFO,male,28188643.0
-279226.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140203,reiner andres,139297214000013,President and CEO,male,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,williams timothy v,139297214000020,,male,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20140213,woestemeyer mariette m,139297214000021,,female,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140213,reiner andres,139297214000026,President and CEO,male,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,keszler ellen,139297214000022,,female,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,russell william,139297214000024,,male,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140213,murphy charles h,139297214000025,Exec VP and CFO,male,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,petersen greg,139297214000023,,male,28188643.0
-218686.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140221,murphy charles h,139297214000030,Exec VP and CFO,male,28188643.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140226,crump daniel blair,139297214000039,Chief Operating Officer,male,29186722.0
-221298.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140226,murphy charles h,139297214000040,Exec VP and CFO,male,29186722.0
-283579.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140226,reiner andres,139297214000041,President & CEO,male,29186722.0
-215898.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140314,murphy charles h,139297214000046,Executive VP and CFO,male,29186722.0
-5000.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140314,crump daniel blair,139297214000047,Chief Operating Officer,male,29186722.0
-4127891.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20140317,woestemeyer mariette m,139297214000048,,female,29186722.0
-4127891.0,0.0,1392972,"pros holdings, inc.",1,1,1,0.0,20140317,woestemeyer ronald f,139297214000049,Executive VP and Founder,male,29186722.0
-281235.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140317,murphy charles h,139297214000050,Executive VP and CFO,male,29186722.0
-284863.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140513,murphy charles h,139297214000067,EVP & Chief Financial Officer,male,28933673.0
-287490.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20140513,reiner andres,139297214000068,President & CEO,male,28933673.0
-269863.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140516,murphy charles h,139297214000070,EVP & Chief Financial Officer,male,28933673.0
-255062.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20140814,murphy charles h,139297214000081,EVP & Chief Financial Officer,male,28983698.0
-240062.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20141114,murphy charles h,139297214000092,EVP & Chief Financial Officer,male,29018286.0
-241948.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20141216,murphy charles h,139297214000101,EVP & Chief Financial Officer,male,29018286.0
-294746.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20141216,reiner andres,139297214000103,President & CEO,male,29018286.0
-51671.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,petersen greg,139297215000002,,male,29060225.0
-54479.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,williams timothy v,139297215000004,,male,29060225.0
-44479.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,keszler ellen,139297215000006,,female,29060225.0
-77979.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,russell william,139297215000008,,male,29060225.0
-18420.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20150105,crump daniel blair,139297215000010,Chief Operating Officer,male,29060225.0
-326747.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20150105,reiner andres,139297215000012,President & CEO,male,29060225.0
-258434.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20150105,murphy charles h,139297215000014,EVP & Chief Financial Officer,male,29060225.0
-4131719.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20150105,woestemeyer mariette m,139297215000016,,female,29060225.0
-343779.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20150109,reiner andres,139297215000024,President & CEO,male,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,williams timothy v,139297215000026,,male,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,1,0.0,20150113,woestemeyer mariette m,139297215000028,,female,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,keszler ellen,139297215000030,,female,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,petersen greg,139297215000032,,male,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,russell william,139297215000034,,male,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20150227,murphy charles h,139297215000044,EVP & Chief Financial Officer,male,29060225.0
-0.0,0.0,1392972,"pros holdings, inc.",1,1,0,0.0,20150304,reiner andres,139297215000051,President & CEO,male,29060225.0
-46700.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20150304,crump daniel blair,139297215000052,Chief Operating Officer,male,29060225.0
-3500.0,0.0,1392972,"pros holdings, inc.",0,1,0,0.0,20150601,schulz stefan b,139297215000072,EVP and CFO,male,29520236.0
-10000.0,0.0,1392972,"pros holdings, inc.",1,0,0,0.0,20150901,rechan leslie j,139297215000085,,female,29628433.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20110511,murphy charles h,120919111027611,EVP & Chief Financial Officer,male,26359415.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20110511,reiner andres,120919111027612,President & CEO,male,26359415.0
+265720.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20110516,murphy charles h,120919111028720,EVP & Chief Financial Officer,male,26359415.0
+264720.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20110531,murphy charles h,120919111031865,EVP & Chief Financial Officer,male,26359415.0
+48500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20110819,russell william,120919111044998,,male,26934529.0
+53500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20111121,russell william,120919111057401,,male,26938304.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,keszler ellen,120919111059206,,female,26938304.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,petersen greg,120919111059209,,male,26938304.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,russell william,120919111059212,,male,26938304.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20111202,williams timothy v,120919111059203,,male,26938304.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20111202,woestemeyer mariette m,120919111059204,,female,26938304.0
+95692.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20111216,reiner andres,120919111061668,President & CEO,male,26938304.0
+266785.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20111216,murphy charles h,120919111061671,EVP & Chief Financial Officer,male,26938304.0
+105973.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20120103,reiner andres,120919112000556,President & CEO,male,27014845.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20120103,woestemeyer mariette m,120919112000560,,female,27014845.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,williams timothy v,120919112000562,,male,27014845.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,russell william,120919112000565,,male,27014845.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,keszler ellen,120919112000568,,female,27014845.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20120103,petersen greg,120919112000557,,male,27014845.0
+,,1392972,"pros holdings, inc.",1,1,1,0.0,20120216,woestemeyer ronald f,120919112010803,"EVP, Strategic Business Planni",male,27014845.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20120216,woestemeyer mariette m,120919112010804,,female,27014845.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20120216,reiner andres,120919112010805,President & CEO,male,27014845.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20120216,murphy charles h,120919112010807,EVP & Chief Financial Officer,male,27014845.0
+206785.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20120222,murphy charles h,120919112012156,EVP & Chief Financial Officer,male,27014845.0
+110739.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20120227,reiner andres,120919112013261,President & CEO,male,27014845.0
+209570.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20120227,murphy charles h,120919112013264,EVP & Chief Financial Officer,male,27014845.0
+116034.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20120315,reiner andres,120919112018560,President & CEO,male,27014845.0
+121594.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20120514,reiner andres,120919112027940,President & CEO,male,27337577.0
+245316.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20120514,murphy charles h,120919112027938,EVP & Chief Financial Officer,male,27337577.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,petersen greg,120919112053887,,male,27457781.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,russell william,120919112053891,,male,27457781.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20121119,woestemeyer mariette m,120919112053894,,female,27457781.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,williams timothy v,120919112053880,,male,27457781.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20121119,keszler ellen,120919112053884,,female,27457781.0
+247380.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20121218,murphy charles h,120919112058295,EVP & Chief Financial Officer,male,27457781.0
+129537.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20121218,reiner andres,120919112058319,President & CEO,male,27457781.0
+4313443.0,,1392972,"pros holdings, inc.",1,1,1,0.0,20130103,woestemeyer ronald f,120919113001297,"EVP, Strategic Business Planni",male,27548847.0
+33500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,keszler ellen,120919113001317,,female,27548847.0
+251284.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20130103,murphy charles h,120919113001330,EVP & Chief Financial Officer,male,27548847.0
+43500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,petersen greg,120919113001337,,male,27548847.0
+141779.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20130103,reiner andres,120919113001343,President & CEO,male,27548847.0
+67000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,russell william,120919113001347,,male,27548847.0
+43500.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20130103,williams timothy v,120919113001348,,male,27548847.0
+4319443.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20130103,woestemeyer mariette m,120919113001352,,female,27548847.0
+4313443.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20130103,woestemeyer mariette m,120919113001302,,female,27548847.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20130123,murphy charles h,120919113004078,EVP & Chief Financial Officer,male,27548847.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20130123,reiner andres,120919113004072,President & CEO,male,27548847.0
+4168123.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20130220,woestemeyer mariette m,120919113010300,,female,27548847.0
+4168123.0,,1392972,"pros holdings, inc.",1,1,1,0.0,20130220,woestemeyer ronald f,120919113010297,"EVP, Strategic Business Planni",male,27548847.0
+238922.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20130226,murphy charles h,120919113011714,EVP & Chief Financial Officer,male,27548847.0
+146132.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20130226,reiner andres,120919113011715,President & CEO,male,27548847.0
+4166123.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20130312,woestemeyer mariette m,120919113015833,,female,27548847.0
+4166123.0,,1392972,"pros holdings, inc.",1,1,1,0.0,20130312,woestemeyer ronald f,120919113015834,"EVP, Strategic Business Planni",male,27548847.0
+220980.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20130513,murphy charles h,120919113025841,EVP & Chief Financial Officer,male,27918133.0
+4129760.0,,1392972,"pros holdings, inc.",1,1,1,0.0,20130513,woestemeyer ronald f,120919113025836,"EVP, Strategic Business Planni",male,27918133.0
+4129760.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20130513,woestemeyer mariette m,120919113025833,,female,27918133.0
+151211.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20130513,reiner andres,120919113025839,President & CEO,male,27918133.0
+4121140.0,,1392972,"pros holdings, inc.",1,1,1,0.0,20130614,woestemeyer ronald f,120919113032182,"EVP, Strategic Business Planni",male,27918133.0
+4121140.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20130614,woestemeyer mariette m,120919113032183,,female,27918133.0
+205980.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20130816,murphy charles h,120919113041189,EVP & Chief Financial Officer,male,28072266.0
+159635.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20131216,reiner andres,139297213000048,President and CEO,male,28123763.0
+193044.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20131216,murphy charles h,139297213000049,Executive VP and CFO,male,28123763.0
+202339.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140103,murphy charles h,139297214000006,Exec VP and CFO,male,28188643.0
+186346.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140103,reiner andres,139297214000005,President and CEO,male,28188643.0
+4128291.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20140103,woestemeyer mariette m,139297214000007,,female,28188643.0
+50651.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,williams timothy v,139297214000003,,male,28188643.0
+74151.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,russell william,139297214000002,,male,28188643.0
+47843.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,petersen greg,139297214000004,,male,28188643.0
+40651.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20140103,keszler ellen,139297214000001,,female,28188643.0
+279226.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140203,reiner andres,139297214000013,President and CEO,male,28188643.0
+233686.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140203,murphy charles h,139297214000012,Exec VP and CFO,male,28188643.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20140213,woestemeyer mariette m,139297214000021,,female,28188643.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20140213,reiner andres,139297214000026,President and CEO,male,28188643.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20140213,murphy charles h,139297214000025,Exec VP and CFO,male,28188643.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,williams timothy v,139297214000020,,male,28188643.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,petersen greg,139297214000023,,male,28188643.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,keszler ellen,139297214000022,,female,28188643.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20140213,russell william,139297214000024,,male,28188643.0
+218686.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140221,murphy charles h,139297214000030,Exec VP and CFO,male,28188643.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20140226,crump daniel blair,139297214000039,Chief Operating Officer,male,29186722.0
+221298.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140226,murphy charles h,139297214000040,Exec VP and CFO,male,29186722.0
+283579.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140226,reiner andres,139297214000041,President & CEO,male,29186722.0
+215898.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140314,murphy charles h,139297214000046,Executive VP and CFO,male,29186722.0
+5000.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140314,crump daniel blair,139297214000047,Chief Operating Officer,male,29186722.0
+4127891.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20140317,woestemeyer mariette m,139297214000048,,female,29186722.0
+4127891.0,,1392972,"pros holdings, inc.",1,1,1,0.0,20140317,woestemeyer ronald f,139297214000049,Executive VP and Founder,male,29186722.0
+281235.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140317,murphy charles h,139297214000050,Executive VP and CFO,male,29186722.0
+284863.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140513,murphy charles h,139297214000067,EVP & Chief Financial Officer,male,28933673.0
+287490.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20140513,reiner andres,139297214000068,President & CEO,male,28933673.0
+269863.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140516,murphy charles h,139297214000070,EVP & Chief Financial Officer,male,28933673.0
+255062.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20140814,murphy charles h,139297214000081,EVP & Chief Financial Officer,male,28983698.0
+240062.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20141114,murphy charles h,139297214000092,EVP & Chief Financial Officer,male,29018286.0
+241948.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20141216,murphy charles h,139297214000101,EVP & Chief Financial Officer,male,29018286.0
+294746.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20141216,reiner andres,139297214000103,President & CEO,male,29018286.0
+54479.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,williams timothy v,139297215000004,,male,29060225.0
+44479.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,keszler ellen,139297215000006,,female,29060225.0
+77979.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,russell william,139297215000008,,male,29060225.0
+18420.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20150105,crump daniel blair,139297215000010,Chief Operating Officer,male,29060225.0
+326747.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20150105,reiner andres,139297215000012,President & CEO,male,29060225.0
+258434.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20150105,murphy charles h,139297215000014,EVP & Chief Financial Officer,male,29060225.0
+4131719.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20150105,woestemeyer mariette m,139297215000016,,female,29060225.0
+51671.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20150105,petersen greg,139297215000002,,male,29060225.0
+343779.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20150109,reiner andres,139297215000024,President & CEO,male,29060225.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,keszler ellen,139297215000030,,female,29060225.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,petersen greg,139297215000032,,male,29060225.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,russell william,139297215000034,,male,29060225.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20150113,woestemeyer mariette m,139297215000028,,female,29060225.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20150113,williams timothy v,139297215000026,,male,29060225.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20150227,murphy charles h,139297215000044,EVP & Chief Financial Officer,male,29060225.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20150304,reiner andres,139297215000051,President & CEO,male,29060225.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20150304,crump daniel blair,139297215000052,Chief Operating Officer,male,29060225.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20150601,schulz stefan b,139297215000072,EVP and CFO,male,29520236.0
+10000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20150901,rechan leslie j,139297215000085,,female,29628433.0
+10000.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20150901,rechan leslie j,139297215000085,,female,29628433.0
+83393.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20160104,russell william,139297216000092,,male,29738976.0
+59893.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20160104,williams timothy v,139297216000094,,male,29738976.0
+54941.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20160104,petersen greg,139297216000096,,male,29738976.0
+35840.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20160104,crump daniel blair,139297216000098,Chief Operating Officer,male,29738976.0
+384042.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20160104,reiner andres,139297216000100,President & CEO,male,29738976.0
+4137133.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20160104,woestemeyer mariette m,139297216000102,,female,29738976.0
+49893.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20160104,keszler ellen,139297216000104,,female,29738976.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20160104,rechan leslie j,139297216000106,,female,29738976.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20160126,williams timothy v,139297216000124,,male,29738976.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20160126,keszler ellen,139297216000125,,female,29738976.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20160126,woestemeyer mariette m,139297216000126,,female,29738976.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20160126,russell william,139297216000127,,male,29738976.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20160126,rechan leslie j,139297216000128,,female,29738976.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20160126,petersen greg,139297216000129,,male,29738976.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20160126,woestemeyer ronald f,139297216000130,,male,29738976.0
+108393.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20160216,russell william,139297216000140,,male,29738976.0
+389121.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20160216,reiner andres,139297216000138,President & CEO,male,29738976.0
+45840.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20160216,crump daniel blair,139297216000136,Chief Operating Officer,male,29738976.0
+18269.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20160307,schulz stefan b,139297216000145,EVP and CFO,male,29738976.0
+418691.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20160315,reiner andres,139297216000147,President & CEO,male,29738976.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20160328,reiner andres,139297216000149,President & CEO,male,29738976.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20160328,schulz stefan b,139297216000151,EVP and CFO,male,29738976.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20160909,reiner andres,139297216000176,President & CEO,male,30389109.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20160909,schulz stefan b,139297216000178,EVP and CFO,male,30389109.0
+66167.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170103,williams timothy v,139297217000002,,male,30583651.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20170103,rechan leslie j,139297217000004,,female,30583651.0
+114667.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170103,russell william,139297217000006,,male,30583651.0
+56167.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170103,keszler ellen,139297217000008,,female,30583651.0
+447302.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170103,reiner andres,139297217000010,President & CEO,male,30583651.0
+61233.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170104,petersen greg,139297217000017,,male,30583651.0
+4149681.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20170104,woestemeyer mariette m,139297217000013,,female,30583651.0
+4149681.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20170104,woestemeyer ronald f,139297217000015,,male,30583651.0
+91233.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170117,petersen greg,139297217000019,,male,30583651.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20170124,schulz stefan b,139297217000027,EVP and CFO,male,30583651.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20170124,reiner andres,139297217000025,President & CEO,male,30583651.0
+29620.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20170303,schulz stefan b,139297217000040,EVP and CFO,male,30877466.0
+460363.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170303,reiner andres,139297217000042,President & CEO,male,30877466.0
+43246.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20170307,schulz stefan b,139297217000044,EVP and CFO,male,30877466.0
+4157214.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20170310,woestemeyer mariette m,139297217000046,,female,30877466.0
+460363.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170315,reiner andres,139297217000048,President & CEO,male,30877466.0
+452188.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170405,reiner andres,139297217000053,President & CEO,male,31403656.0
+419490.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170503,reiner andres,139297217000068,President & CEO,male,31434025.0
+96167.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170509,williams timothy v,139297217000070,,male,31434025.0
+24334.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20170515,rechan leslie j,139297217000074,,female,31434025.0
+411315.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170605,reiner andres,139297217000078,President & CEO,male,31434025.0
+403140.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170706,reiner andres,139297217000089,President & CEO,male,31706390.0
+394965.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170803,reiner andres,139297217000095,President & CEO,male,31788932.0
+423990.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170811,reiner andres,139297217000104,President & CEO,male,31788932.0
+52643.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20170811,schulz stefan b,139297217000106,EVP and CFO,male,31788932.0
+4107214.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20170825,woestemeyer mariette m,139297217000110,,female,31788932.0
+4107214.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20170825,woestemeyer ronald f,139297217000109,,male,31788932.0
+415815.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20170906,reiner andres,139297217000112,President & CEO,male,31788932.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20171012,dziersk thomas,117911017013273,"EVP, Worldwide Sales",male,31901550.0
+4175250.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20180103,woestemeyer ronald f,139297218000018,,male,31939175.0
+4175250.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20180103,woestemeyer mariette m,139297218000016,,female,31939175.0
+62477.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180103,keszler ellen,139297218000014,,female,31939175.0
+30644.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180103,rechan leslie j,139297218000012,,female,31939175.0
+102477.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180103,williams timothy v,139297218000010,,male,31939175.0
+441428.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180103,reiner andres,139297218000008,President & CEO,male,31939175.0
+120977.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180103,russell william,139297218000006,,male,31939175.0
+97543.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180103,petersen greg,139297218000004,,male,31939175.0
+58549.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20180103,schulz stefan b,139297218000002,EVP and CFO,male,31939175.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20180110,reiner andres,139297218000045,President & CEO,male,31939175.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20180110,woestemeyer mariette m,139297218000043,,female,31939175.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20180110,dziersk thomas,139297218000042,"EVP, Worldwide Sales",male,31939175.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20180110,herscher penny,139297218000040,,female,31939175.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20180110,schulz stefan b,139297218000038,EVP and CFO,male,31939175.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20180110,woestemeyer ronald f,139297218000035,,male,31939175.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20180110,rechan leslie j,139297218000033,,female,31939175.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20180110,petersen greg,139297218000031,,male,31939175.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20180110,russell william,139297218000029,,male,31939175.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20180110,keszler ellen,139297218000027,,female,31939175.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20180110,williams timothy v,139297218000025,,male,31939175.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20180116,dziersk thomas,139297218000049,"EVP, Worldwide Sales",male,31939175.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20180116,schulz stefan b,139297218000046,EVP and CFO,male,31939175.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20180116,reiner andres,139297218000048,President & CEO,male,31939175.0
+3870801.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20180214,woestemeyer ronald f,139297218000059,,male,32255997.0
+3870801.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20180214,woestemeyer mariette m,139297218000061,,female,32255997.0
+441428.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180215,reiner andres,139297218000067,President & CEO,male,32255997.0
+81464.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20180305,schulz stefan b,139297218000072,EVP and CFO,male,32255997.0
+455074.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180305,reiner andres,139297218000070,President & CEO,male,32255997.0
+86883.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20180308,schulz stefan b,139297218000074,EVP and CFO,male,32255997.0
+455074.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180315,reiner andres,139297218000076,President & CEO,male,32255997.0
+455074.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180420,reiner andres,139297218000088,President & CEO,male,32588924.0
+85212.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180510,keszler ellen,139297218000096,,female,32600099.0
+87087.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20180514,keszler ellen,139297218000100,,female,32600099.0
+485399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180607,reiner andres,139297218000102,President & CEO,male,32600099.0
+96280.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20180607,schulz stefan b,139297218000104,EVP and CFO,male,32600099.0
+475399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180613,reiner andres,139297218000106,President & CEO,male,32600099.0
+465399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180719,reiner andres,139297218000108,President & CEO,male,32711339.0
+455399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180816,reiner andres,139297218000119,President & CEO,male,32749930.0
+445399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20180911,reiner andres,139297218000121,President & CEO,male,32749930.0
+11253.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20181011,dziersk thomas,139297218000123,"EVP, Worldwide Sales",male,37139035.0
+435399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20181018,reiner andres,139297218000125,President & CEO,male,37139035.0
+425399.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20181113,reiner andres,139297218000134,President & CEO,male,37149951.0
+7077.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20181210,dziersk thomas,139297218000138,"EVP, Worldwide Sales",male,37149951.0
+424999.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20181217,reiner andres,139297218000140,President & CEO,male,37149951.0
+102214.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190103,schulz stefan b,139297219000002,EVP and CFO,male,37155906.0
+446202.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190103,reiner andres,139297219000004,President & CEO,male,37155906.0
+3189.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190114,herscher penny,139297219000030,,female,37155906.0
+108071.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190114,williams timothy v,139297219000027,,male,37155906.0
+30704.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190114,rechan leslie j,139297219000023,,female,37155906.0
+126571.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190114,russell william,139297219000018,,male,37155906.0
+458778.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190114,reiner andres,139297219000016,President & CEO,male,37155906.0
+8357.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190114,dziersk thomas,139297219000014,"EVP, Worldwide Sales",male,37155906.0
+108739.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190114,schulz stefan b,139297219000012,EVP and CFO,male,37155906.0
+103119.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190114,petersen greg,139297219000010,,male,37155906.0
+3881989.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20190114,woestemeyer mariette m,139297219000008,,female,37155906.0
+3881989.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20190114,woestemeyer ronald f,139297219000006,,male,37155906.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20190117,rechan leslie j,139297219000046,,female,37155906.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20190117,reiner andres,139297219000048,President & CEO,male,37155906.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20190117,petersen greg,139297219000047,,male,37155906.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20190117,schulz stefan b,139297219000049,EVP and CFO,male,37155906.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20190117,woestemeyer mariette m,139297219000045,,female,37155906.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20190117,williams timothy v,139297219000041,,male,37155906.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20190117,dziersk thomas,139297219000043,"EVP, Worldwide Sales",male,37155906.0
+,,1392972,"pros holdings, inc.",1,0,1,0.0,20190117,woestemeyer ronald f,139297219000042,,male,37155906.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20190117,herscher penny,139297219000040,,female,37155906.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20190117,russell william,139297219000044,,male,37155906.0
+131449.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190305,schulz stefan b,139297219000069,EVP and CFO,male,37475474.0
+477252.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190305,reiner andres,139297219000071,President & CEO,male,37475474.0
+586422.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190325,reiner andres,139297219000078,President & CEO,male,37475474.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20190325,schulz stefan b,139297219000076,EVP and CFO,male,37475474.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20190508,schulz stefan b,139297219000101,EVP and CFO,male,37872836.0
+647072.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190508,reiner andres,139297219000099,President & CEO,male,37872836.0
+5357.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190801,dziersk thomas,139297219000114,"EVP, Worldwide Sales",male,40223687.0
+107071.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190801,williams timothy v,139297219000112,,male,40223687.0
+621099.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190802,reiner andres,139297219000118,President & CEO,male,40223687.0
+225956.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190802,schulz stefan b,139297219000116,EVP and CFO,male,40223687.0
+3131989.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20190812,woestemeyer ronald f,139297219000124,,male,40223687.0
+3131989.0,,1392972,"pros holdings, inc.",1,0,1,0.0,20190812,woestemeyer mariette m,139297219000122,,female,40223687.0
+223956.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20190905,schulz stefan b,139297219000133,EVP and CFO,male,40223687.0
+647072.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20190905,reiner andres,139297219000131,President & CEO,male,40223687.0
+2846855.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190927,woestemeyer mariette m,139297219000135,,female,40223687.0
+2846855.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20190927,woestemeyer ronald f,139297219000137,,male,40223687.0
+647072.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20191004,reiner andres,139297219000139,President & CEO,male,42042627.0
+221956.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20191004,schulz stefan b,139297219000138,EVP and CFO,male,42042627.0
+14728.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20191010,dziersk thomas,139297219000141,"EVP, Worldwide Sales",male,42042627.0
+2405.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20191104,herscher penny,139297219000153,,female,42076535.0
+210706.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20191105,schulz stefan b,139297219000157,EVP and CFO,male,42076535.0
+647072.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20191105,reiner andres,139297219000155,President & CEO,male,42076535.0
+194456.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20191204,schulz stefan b,139297219000165,EVP and CFO,male,42076535.0
+646872.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20191217,reiner andres,139297219000167,President & CEO,male,42076535.0
+45772.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200103,reiner roberto d,139297220000002,"EVP, Chief Technology Officer",male,42630123.0
+198290.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200103,schulz stefan b,139297220000004,EVP and CFO,male,42630123.0
+685904.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20200103,reiner andres,139297220000006,President & CEO,male,42630123.0
+698480.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20200113,reiner andres,139297220000008,President & CEO,male,42630123.0
+16021.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200113,dziersk thomas,139297220000010,"EVP, Worldwide Sales",male,42630123.0
+204607.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200113,schulz stefan b,139297220000012,EVP and CFO,male,42630123.0
+53961.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200113,reiner roberto d,139297220000014,"EVP, Chief Technology Officer",male,42630123.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200115,cook scott william,139297220000022,"Sr.VP,Chief Accounting Officer",male,42630123.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200115,dziersk thomas,139297220000018,"EVP, Worldwide Sales",male,42630123.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200115,allessio john c. p.,139297220000017,"EVP, Chief Customer Officer",male,42630123.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20200115,reiner andres,139297220000019,President & CEO,male,42630123.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200115,reiner roberto d,139297220000015,"EVP, Chief Technology Officer",male,42630123.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200115,schulz stefan b,139297220000016,EVP and CFO,male,42630123.0
+709146.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20200117,reiner andres,139297220000034,President & CEO,male,42630123.0
+30788.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200117,cook scott william,139297220000023,"Sr.VP,Chief Accounting Officer",male,42630123.0
+20429.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200117,dziersk thomas,139297220000024,"EVP, Worldwide Sales",male,42630123.0
+210112.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200117,schulz stefan b,139297220000025,EVP and CFO,male,42630123.0
+62218.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200117,reiner roberto d,139297220000026,"EVP, Chief Technology Officer",male,42630123.0
+2856815.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,woestemeyer mariette m,139297220000027,,female,42630123.0
+2856815.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,woestemeyer ronald f,139297220000028,,male,42630123.0
+8582.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,herscher penny,139297220000029,,female,42630123.0
+33692.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,rechan leslie j,139297220000030,,female,42630123.0
+131551.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,russell william,139297220000031,,male,42630123.0
+106356.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,petersen greg,139297220000032,,male,42630123.0
+112051.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200117,williams timothy v,139297220000033,,male,42630123.0
+110308.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200121,williams timothy v,139297220000037,,male,42630123.0
+208112.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200204,schulz stefan b,139297220000038,EVP and CFO,male,42630123.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200211,schulz stefan b,139297220000047,EVP and CFO,male,43006462.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200211,dziersk thomas,139297220000046,"EVP, Worldwide Sales",male,43006462.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20200211,reiner andres,139297220000048,President & CEO,male,43006462.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200211,reiner roberto d,139297220000045,"EVP, Chief Technology Officer",male,43006462.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200211,allessio john c. p.,139297220000049,"EVP, Chief Customer Officer",male,43006462.0
+80143.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200303,reiner roberto d,139297220000063,"EVP, Chief Technology Officer",male,43006462.0
+246636.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200303,schulz stefan b,139297220000064,EVP and CFO,male,43006462.0
+33476.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200303,cook scott william,139297220000062,"Sr.VP,Chief Accounting Officer",male,43006462.0
+791730.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20200303,reiner andres,139297220000065,President & CEO,male,43006462.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20200430,dominguez carlos,139297220000083,,male,43291660.0
+133211.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200430,russell william,139297220000084,,male,43291660.0
+10242.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200430,herscher penny,139297220000085,,female,43291660.0
+34688.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200430,rechan leslie j,139297220000086,,female,43291660.0
+107435.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200501,petersen greg,139297220000089,,male,43291660.0
+2860135.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200501,woestemeyer ronald f,139297220000088,,male,43291660.0
+111387.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200501,williams timothy v,139297220000090,,male,43291660.0
+2860135.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200501,woestemeyer mariette m,139297220000087,,female,43291660.0
+9578.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20200504,herscher penny,139297220000092,,female,43291660.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20200513,rechan leslie j,139297220000101,Chief Operating Officer,female,43291660.0
+240636.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200603,schulz stefan b,139297220000102,EVP and CFO,male,43291660.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20200609,hammoud raja,139297220000112,,male,43291660.0
+238636.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20200702,schulz stefan b,139297220000115,EVP and CFO,male,43304461.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20200805,lesjak catherine a,139297220000124,,female,43343144.0
+9658.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20201110,allessio john c. p.,139297220000148,"EVP, Chief Customer Officer",male,43434985.0
+7202.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20201116,allessio john c. p.,139297220000152,"EVP, Chief Customer Officer",male,43434985.0
+34153.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210104,cook scott william,139297221000001,"Sr.VP,Chief Accounting Officer",male,43461544.0
+812730.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20210104,reiner andres,139297221000002,President & CEO,male,43461544.0
+96468.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210104,reiner roberto d,139297221000003,"EVP, Chief Technology Officer",male,43461544.0
+248436.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210104,schulz stefan b,139297221000004,EVP and CFO,male,43461544.0
+244320.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210106,schulz stefan b,139297221000008,EVP and CFO,male,43461544.0
+89122.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210106,reiner roberto d,139297221000007,"EVP, Chief Technology Officer",male,43461544.0
+803280.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20210106,reiner andres,139297221000006,President & CEO,male,43461544.0
+32634.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210106,cook scott william,139297221000005,"Sr.VP,Chief Accounting Officer",male,43461544.0
+310303.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210111,schulz stefan b,139297221000009,EVP and CFO,male,43461544.0
+989913.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20210111,reiner andres,139297221000010,President & CEO,male,43461544.0
+102625.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210111,reiner roberto d,139297221000011,"EVP, Chief Technology Officer",male,43461544.0
+35527.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210111,cook scott william,139297221000012,"Sr.VP,Chief Accounting Officer",male,43461544.0
+96549.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210113,reiner roberto d,139297221000013,"EVP, Chief Technology Officer",male,43461544.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20210113,rechan leslie j,139297221000014,Chief Operating Officer,female,43461544.0
+34356.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210113,cook scott william,139297221000015,"Sr.VP,Chief Accounting Officer",male,43461544.0
+905928.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20210113,reiner andres,139297221000016,President & CEO,male,43461544.0
+282594.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210113,schulz stefan b,139297221000017,EVP and CFO,male,43461544.0
+285871.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210115,schulz stefan b,139297221000021,EVP and CFO,male,43461544.0
+98790.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210115,reiner roberto d,139297221000020,"EVP, Chief Technology Officer",male,43461544.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20210115,cook scott william,139297221000018,"Sr.VP,Chief Accounting Officer",male,43461544.0
+911359.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20210115,reiner andres,139297221000019,President & CEO,male,43461544.0
+921032.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20210120,reiner andres,139297221000022,President & CEO,male,43461544.0
+106279.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210120,reiner roberto d,139297221000023,"EVP, Chief Technology Officer",male,43461544.0
+291136.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210120,schulz stefan b,139297221000024,EVP and CFO,male,43461544.0
+36429.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210120,cook scott william,139297221000025,"Sr.VP,Chief Accounting Officer",male,43461544.0
+138022.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,russell william,139297221000051,,male,44252856.0
+2864946.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,woestemeyer mariette m,139297221000053,,female,44252856.0
+113792.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,williams timothy v,139297221000052,,male,44252856.0
+3428.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,hammoud raja,139297221000050,,male,44252856.0
+3576.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,lesjak catherine a,139297221000047,,female,44252856.0
+12465.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,herscher penny,139297221000048,,female,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,dominguez carlos,139297221000046,,male,44252856.0
+110562.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20210503,petersen greg,139297221000049,,male,44252856.0
+256136.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210510,schulz stefan b,139297221000060,EVP and CFO,male,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,dominguez carlos,139297221000061,,male,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,lesjak catherine a,139297221000062,,female,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,petersen greg,139297221000063,,male,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,hammoud raja,139297221000064,,male,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,russell william,139297221000065,,male,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,woestemeyer mariette m,139297221000067,,female,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210513,williams timothy v,139297221000066,,male,44252856.0
+54549.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210517,rechan leslie j,139297221000077,Chief Operating Officer,female,44252856.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20210602,jourdan leland,139297221000082,,male,44252856.0
+33429.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210609,cook scott william,139297221000083,"Sr.VP,Chief Accounting Officer",male,44252856.0
+31929.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20210621,cook scott william,139297221000084,"Sr.VP,Chief Accounting Officer",male,44252856.0
+268220.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220112,schulz stefan b,139297222000003,EVP and CFO,male,44520542.0
+33613.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220112,cook scott william,139297222000001,"Sr.VP,Chief Accounting Officer",male,44520542.0
+932437.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20220112,reiner andres,139297222000002,President & CEO,male,44520542.0
+273622.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220113,schulz stefan b,139297222000011,EVP and CFO,male,44520542.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20220113,reiner andres,139297222000010,President & CEO,male,44520542.0
+35605.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220113,cook scott william,139297222000008,"Sr.VP,Chief Accounting Officer",male,44520542.0
+60510.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220113,rechan leslie j,139297222000009,Chief Operating Officer,female,44520542.0
+36430.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220118,cook scott william,139297222000012,"Sr.VP,Chief Accounting Officer",male,44520542.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20220118,reiner andres,139297222000013,President & CEO,male,44520542.0
+276899.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220118,schulz stefan b,139297222000014,EVP and CFO,male,44520542.0
+37678.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220120,cook scott william,139297222000015,"Sr.VP,Chief Accounting Officer",male,44520542.0
+986186.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20220120,reiner andres,139297222000016,President & CEO,male,44520542.0
+293776.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220120,schulz stefan b,139297222000017,EVP and CFO,male,44520542.0
+293576.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220208,schulz stefan b,139297222000018,EVP and CFO,male,44520542.0
+258776.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20220225,schulz stefan b,139297222000032,EVP and CFO,male,45038234.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20220302,cook scott william,139297222000033,"Sr.VP,Chief Accounting Officer",male,45038234.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20220513,dominguez carlos,139297222000052,,male,45179193.0
+3504.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20220513,jourdan leland,139297222000054,,male,45179193.0
+7816.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20220513,hammoud raja,139297222000055,,male,45179193.0
+142410.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20220513,russell william,139297222000056,,male,45179193.0
+7964.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20220516,lesjak catherine a,139297222000060,,female,45179193.0
+113414.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20220516,petersen greg,139297222000061,,male,45179193.0
+115986.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20220516,williams timothy v,139297222000062,,male,45179193.0
+107414.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20221104,petersen greg,139297222000078,,male,45322105.0
+140130.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20221108,russell william,139297222000079,,male,45322105.0
+42548.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230112,cook scott william,139297223000001,"Sr.VP,Chief Accounting Officer",male,45638003.0
+269841.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230112,schulz stefan b,139297223000003,EVP and CFO,male,45638003.0
+1007674.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20230112,reiner andres,139297223000002,President & CEO,male,45638003.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20230117,cook scott william,139297223000004,"Sr.VP,Chief Accounting Officer",male,45638003.0
+,,1392972,"pros holdings, inc.",1,1,0,0.0,20230117,reiner andres,139297223000005,President & CEO,male,45638003.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20230117,schulz stefan b,139297223000006,EVP and CFO,male,45638003.0
+43457.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230118,cook scott william,139297223000007,"Sr.VP,Chief Accounting Officer",male,45638003.0
+1013663.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20230118,reiner andres,139297223000008,President & CEO,male,45638003.0
+272914.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230118,schulz stefan b,139297223000009,EVP and CFO,male,45638003.0
+44833.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230119,cook scott william,139297223000010,"Sr.VP,Chief Accounting Officer",male,45638003.0
+1024329.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20230119,reiner andres,139297223000011,President & CEO,male,45638003.0
+277852.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230119,schulz stefan b,139297223000012,EVP and CFO,male,45638003.0
+41833.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230213,cook scott william,139297223000021,"Sr.VP,Chief Accounting Officer",male,45872928.0
+43306.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230303,cook scott william,139297223000027,"Sr.VP,Chief Accounting Officer",male,45872928.0
+1027571.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20230412,reiner andres,139297223000063,President & CEO,male,46031241.0
+44072.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230412,cook scott william,139297223000062,"Sr.VP,Chief Accounting Officer",male,46031241.0
+279438.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230412,schulz stefan b,139297223000064,EVP and CFO,male,46031241.0
+14773.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,lesjak catherine a,139297223000081,,female,46044260.0
+119731.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,williams timothy v,139297223000079,,male,46044260.0
+146939.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,russell william,139297223000078,,male,46044260.0
+111840.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,petersen greg,139297223000077,,male,46044260.0
+8270.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,jourdan leland,139297223000075,,male,46044260.0
+16008.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,dominguez carlos,139297223000073,,male,46044260.0
+14625.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20230515,hammoud raja,139297223000074,,male,46044260.0
+45206.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230711,cook scott william,139297223000087,"Sr.VP,Chief Accounting Officer",male,46140736.0
+281024.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230711,schulz stefan b,139297223000085,EVP and CFO,male,46140736.0
+1030813.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20230711,reiner andres,139297223000086,President & CEO,male,46140736.0
+40206.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230724,cook scott william,139297223000089,"Sr.VP,Chief Accounting Officer",male,46202671.0
+38303.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230727,cook scott william,139297223000099,"Sr.VP,Chief Accounting Officer",male,46202671.0
+37206.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230801,cook scott william,139297223000100,"Sr.VP,Chief Accounting Officer",male,46202671.0
+37574.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20230905,cook scott william,139297223000106,"Sr.VP,Chief Accounting Officer",male,46202671.0
+1034055.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20231012,reiner andres,139297223000111,President & CEO,male,46248409.0
+282610.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20231012,schulz stefan b,139297223000112,EVP and CFO,male,46248409.0
+38340.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20231012,cook scott william,139297223000110,"Sr.VP,Chief Accounting Officer",male,46248409.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20231113,johnson cynthia,139297223000123,,female,46261428.0
+242610.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20231114,schulz stefan b,139297223000125,EVP and CFO,male,46261428.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20231117,benfer michelle hughes,139297223000131,,female,46261428.0
+984055.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20231201,reiner andres,139297223000133,President & CEO,male,46261428.0
+38708.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20231204,cook scott william,139297223000135,"Sr.VP,Chief Accounting Officer",male,46261428.0
+995947.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240112,reiner andres,139297224000002,President & CEO,male,46503861.0
+41433.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240112,cook scott william,139297224000003,"Sr.VP,Chief Accounting Officer",male,46503861.0
+249038.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240112,schulz stefan b,139297224000004,EVP and CFO,male,46503861.0
+47053.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240116,cook scott william,139297224000005,"Sr.VP,Chief Accounting Officer",male,46503861.0
+259111.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240116,schulz stefan b,139297224000006,EVP and CFO,male,46503861.0
+1017099.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240116,reiner andres,139297224000007,President & CEO,male,46503861.0
+1023088.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240117,reiner andres,139297224000010,President & CEO,male,46503861.0
+262184.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240117,schulz stefan b,139297224000009,EVP and CFO,male,46503861.0
+47962.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240117,cook scott william,139297224000008,"Sr.VP,Chief Accounting Officer",male,46503861.0
+1033692.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240201,reiner andres,139297224000012,President & CEO,male,46503861.0
+266223.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240201,schulz stefan b,139297224000014,EVP and CFO,male,46503861.0
+983692.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240304,reiner andres,139297224000027,President & CEO,male,46737830.0
+48330.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240304,cook scott william,139297224000026,"Sr.VP,Chief Accounting Officer",male,46737830.0
+260223.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240305,schulz stefan b,139297224000028,EVP and CFO,male,46737830.0
+49096.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240411,cook scott william,139297224000044,"Sr.VP,Chief Accounting Officer",male,46968440.0
+261809.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240411,schulz stefan b,139297224000043,EVP and CFO,male,46968440.0
+986934.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240411,reiner andres,139297224000042,President & CEO,male,46968440.0
+50499.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240415,cook scott william,139297224000047,"Sr.VP,Chief Accounting Officer",male,46968440.0
+992222.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240415,reiner andres,139297224000046,President & CEO,male,46968440.0
+264327.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240415,schulz stefan b,139297224000045,EVP and CFO,male,46968440.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20240422,mcnabb todd,139297224000056,Chief Revenue Officer,male,46968440.0
+119045.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,petersen greg,139297224000070,,male,47004361.0
+21830.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,hammoud raja,139297224000072,,male,47004361.0
+13313.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,jourdan leland,139297224000071,,male,47004361.0
+23213.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,dominguez carlos,139297224000069,,male,47004361.0
+2605.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,johnson cynthia,139297224000068,,female,47004361.0
+2432.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,benfer michelle hughes,139297224000067,,female,47004361.0
+258327.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240515,schulz stefan b,139297224000066,EVP and CFO,male,47004361.0
+21978.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,lesjak catherine a,139297224000073,,female,47004361.0
+124054.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,williams timothy v,139297224000065,,male,47004361.0
+154144.0,,1392972,"pros holdings, inc.",1,0,0,0.0,20240515,russell william,139297224000074,,male,47004361.0
+50867.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240604,cook scott william,139297224000082,"Sr.VP,Chief Accounting Officer",male,47004361.0
+259913.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240711,schulz stefan b,139297224000084,EVP and CFO,male,47129558.0
+995464.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240711,reiner andres,139297224000085,President & CEO,male,47129558.0
+51633.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240711,cook scott william,139297224000083,"Sr.VP,Chief Accounting Officer",male,47129558.0
+262431.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240715,schulz stefan b,139297224000088,EVP and CFO,male,47129558.0
+53036.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240715,cook scott william,139297224000089,"Sr.VP,Chief Accounting Officer",male,47129558.0
+1000752.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240715,reiner andres,139297224000090,President & CEO,male,47129558.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20240827,biry jennifer s,139297224000104,,female,47206310.0
+53404.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20240904,cook scott william,139297224000105,"Sr.VP,Chief Accounting Officer",male,47206310.0
+1008252.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240912,reiner andres,139297224000106,President & CEO,male,47206310.0
+1015752.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20240916,reiner andres,139297224000107,President & CEO,male,47206310.0
+1018994.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20241011,reiner andres,139297224000108,President & CEO,male,47272509.0
+264017.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20241011,schulz stefan b,139297224000109,EVP and CFO,male,47272509.0
+54170.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20241011,cook scott william,139297224000110,"Sr.VP,Chief Accounting Officer",male,47272509.0
+55574.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20241015,cook scott william,139297224000111,"Sr.VP,Chief Accounting Officer",male,47272509.0
+1024282.0,,1392972,"pros holdings, inc.",1,1,0,0.0,20241015,reiner andres,139297224000112,President & CEO,male,47272509.0
+266535.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20241015,schulz stefan b,139297224000113,EVP and CFO,male,47272509.0
+,,1392972,"pros holdings, inc.",0,1,0,0.0,20241017,mcnabb todd,139297224000114,Chief Revenue Officer,male,47272509.0
+55942.0,,1392972,"pros holdings, inc.",0,1,0,0.0,20241203,cook scott william,139297224000131,"Sr.VP,Chief Accounting Officer",male,47305965.0
+,,1392972,"pros holdings, inc.",1,0,0,0.0,20241203,strosahl john,139297224000130,,male,47305965.0

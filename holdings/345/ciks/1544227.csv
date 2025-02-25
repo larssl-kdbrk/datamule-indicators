@@ -1,123 +1,352 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20120814,capello jeffrey d,117911012012832,,male,14262276.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20120814,kraus stephen,118143112045356,,male,14262276.0
-1090908.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20120815,simon john g,118143112045610,,male,14262276.0
-3301127.0,0.0,1544227,"ovascience, inc.",0,0,1.0,0.0,20120815,"longwood fund, l.p.",117911012012930,,male,14262276.0
-3476608.0,175481.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20120815,aldrich richard,117911012012929,,male,14262276.0
-3301127.0,0.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20120815,westphal christoph h,117911012012928,,male,14262276.0
-3301127.0,0.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20120815,dipp michelle,117911012012927,President and CEO,female,14262276.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20121026,malley thomas,117911012015425,,male,12452612.0
-830132.0,3301127.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20121207,dipp michelle,117911012017123,President and CEO,female,14262276.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20121207,bleck christopher a,117911012017122,VP and COO,male,14262276.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130212,stock harald f.,117911013002519,,male,14268068.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20130311,lawton alison francis,117911013004825,Chief Operating Officer,female,14268068.0
-3720571.0,0.0,1544227,"ovascience, inc.",0,0,1.0,0.0,20130320,"longwood fund, l.p.",117911013005561,,male,14268068.0
-11111.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130320,capello jeffrey d,117911013005559,,male,14268068.0
-81819.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130320,malley thomas,117911013005558,,male,14268068.0
-824269.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20130402,dipp michelle,117911013006282,President and CEO,female,16710525.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,fisher mary,110465913048347,,female,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,tilly jonathan l,110465913048363,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20130611,lindblom christopher m,110465913048348,Vice President of Finance,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20130611,lawton alison frances,110465913048355,Chief Operating Officer,female,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,kraus stephen,110465913048356,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20130611,deer management co. llc,110465913048357,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,capello jeffrey d,110465913048360,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,malley thomas,110465913048361,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,stock harald f.,110465913048362,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20130611,westphal christoph h,110465913048364,,male,18192318.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20130611,aldrich richard,110465913048367,,male,18192318.0
+0.0,,1544227,"ovascience, inc.",1,0,0,0,20120814,kraus stephen,118143112045356,,male,14262276.0
+,,1544227,"ovascience, inc.",1,0,0,0,20120814,capello jeffrey d,117911012012832,,male,14262276.0
+3301127.0,,1544227,"ovascience, inc.",1,1,1,0,20120815,dipp michelle,117911012012927,President and CEO,female,14262276.0
+3301127.0,,1544227,"ovascience, inc.",1,0,1,0,20120815,westphal christoph h,117911012012928,,male,14262276.0
+3476608.0,175481.0,1544227,"ovascience, inc.",1,0,1,0,20120815,aldrich richard,117911012012929,,male,14262276.0
+3301127.0,,1544227,"ovascience, inc.",0,0,1,0,20120815,"longwood fund, l.p.",117911012012930,,male,14262276.0
+1090908.0,,1544227,"ovascience, inc.",1,0,0,0,20120815,simon john g,118143112045610,,male,14262276.0
+,,1544227,"ovascience, inc.",1,0,0,0,20121026,malley thomas,117911012015425,,male,12452612.0
+830132.0,3301127.0,1544227,"ovascience, inc.",1,1,1,0,20121207,dipp michelle,117911012017123,President and CEO,female,14262276.0
+,,1544227,"ovascience, inc.",0,1,0,0,20121207,bleck christopher a,117911012017122,VP and COO,male,14262276.0
+,,1544227,"ovascience, inc.",1,0,0,0,20130212,stock harald f.,117911013002519,,male,14268068.0
+,,1544227,"ovascience, inc.",0,1,0,0,20130311,lawton alison francis,117911013004825,Chief Operating Officer,female,14268068.0
+11111.0,,1544227,"ovascience, inc.",1,0,0,0,20130320,capello jeffrey d,117911013005559,,male,14268068.0
+81819.0,,1544227,"ovascience, inc.",1,0,0,0,20130320,malley thomas,117911013005558,,male,14268068.0
+3720571.0,,1544227,"ovascience, inc.",0,0,1,0,20130320,"longwood fund, l.p.",117911013005561,,male,14268068.0
+824269.0,3720571.0,1544227,"ovascience, inc.",1,1,1,0,20130402,dipp michelle,117911013006282,President and CEO,female,16710525.0
+,,1544227,"ovascience, inc.",1,0,1.0,0.0,20130611,aldrich richard,110465913048367,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,fisher mary,110465913048347,,female,18192318.0
+,,1544227,"ovascience, inc.",0,1,0.0,0.0,20130611,lindblom christopher m,110465913048348,Vice President of Finance,male,18192318.0
+,,1544227,"ovascience, inc.",0,1,0.0,0.0,20130611,lawton alison frances,110465913048355,Chief Operating Officer,female,18192318.0
+,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,kraus stephen,110465913048356,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,1.0,0.0,20130611,deer management co. llc,110465913048357,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,tilly jonathan l,110465913048363,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,capello jeffrey d,110465913048360,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,malley thomas,110465913048361,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130611,stock harald f.,110465913048362,,male,18192318.0
+,,1544227,"ovascience, inc.",1,0,1.0,0.0,20130611,westphal christoph h,110465913048364,,male,18192318.0
 819081.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20130701,dipp michelle,110465913052692,President & CEO,female,16887037.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20130912,tzianabos arthur,110465913069615,Chief Scientific Officer,male,18203156.0
-4850.0,3896052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20130912,aldrich richard,110465913069403,,male,18203156.0
+,,1544227,"ovascience, inc.",0,1,0.0,0.0,20130912,tzianabos arthur,110465913069615,Chief Scientific Officer,male,18203156.0
+1000.0,,1544227,"ovascience, inc.",0,1,0.0,0.0,20130912,tzianabos arthur,110465913069617,Chief Scientific Officer,male,18203156.0
+4500.0,,1544227,"ovascience, inc.",1,0,0.0,0.0,20130912,stock harald f.,110465913069574,,male,18203156.0
+2000.0,,1544227,"ovascience, inc.",0,1,0.0,0.0,20130912,bleck christopher a,110465913069573,Chief Commercial Officer,male,18203156.0
 4850.0,3720571.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20130912,westphal christoph h,110465913069404,,male,18203156.0
-2000.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20130912,bleck christopher a,110465913069573,Chief Commercial Officer,male,18203156.0
-4500.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20130912,stock harald f.,110465913069574,,male,18203156.0
-1000.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20130912,tzianabos arthur,110465913069617,Chief Scientific Officer,male,18203156.0
+4850.0,3896052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20130912,aldrich richard,110465913069403,,male,18203156.0
 813857.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20131001,dipp michelle,110465913073466,President and CEO,female,17072569.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20131206,tzianabos arthur,110465913088941,Chief Scientific Officer,male,18231548.0
+,,1544227,"ovascience, inc.",0,1,0.0,0.0,20131206,tzianabos arthur,110465913088941,Chief Scientific Officer,male,18231548.0
 814557.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20131226,dipp michelle,110465913092459,President and CEO,female,18231548.0
 821974.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140103,dipp michelle,110465914000383,President and CEO,female,17541126.0
 814557.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140110,dipp michelle,110465914001755,President and CEO,female,17541126.0
 822274.0,3720571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140128,dipp michelle,110465914004599,President and CEO,female,17541126.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140306,kozin marc d,110465914017074,,male,18563215.0
-3820571.0,0.0,1544227,"ovascience, inc.",0,0,1.0,0.0,20140311,"longwood fund, l.p.",110465914018529,,male,18563215.0
-3820571.0,180331.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140311,aldrich richard,110465914018530,,male,18563215.0
-3820571.0,4850.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140311,westphal christoph h,110465914018531,,male,18563215.0
-3820571.0,0.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140311,dipp michelle,110465914018532,President & CEO,female,18563215.0
-817193.0,3820571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140402,dipp michelle,110465914025182,Pres & Chief Executive Officer,female,23345082.0
-6850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140521,aldrich richard,110465914040692,,male,24202656.0
-6950.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140521,stock harald f.,110465914040693,,male,24202656.0
-817643.0,3820571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140521,dipp michelle,110465914040694,President and Chief Executive,female,24202656.0
-8850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140529,aldrich richard,110465914042273,,male,24202656.0
-10850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140603,aldrich richard,110465914043615,,male,24202656.0
-8013.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140605,stock harald f.,110465914044131,,male,24202656.0
-12850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140611,aldrich richard,110465914045253,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140617,stock harald f.,110465914046599,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140617,aldrich richard,110465914046591,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140617,deer management co. llc,110465914046592,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140617,capello jeffrey d,110465914046593,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140617,dipp michelle,110465914046594,President and C.E.O.,female,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140617,kozin marc d,110465914046595,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140617,fisher mary,110465914046596,,female,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140617,malley thomas,110465914046598,,male,24202656.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140617,kraus stephen,110465914046597,,male,24202656.0
-14850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140618,aldrich richard,110465914046649,,male,24202656.0
-8846.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140619,stock harald f.,110465914046977,,male,24202656.0
-818093.0,3820571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140625,dipp michelle,110465914048312,President and CEO,female,24202656.0
-16850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140625,aldrich richard,110465914048311,,male,24202656.0
-18850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140702,aldrich richard,110465914049848,,male,23595481.0
-812155.0,3820571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140702,dipp michelle,110465914049845,President and CEO,female,23595481.0
-9652.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140703,stock harald f.,110465914050051,,male,23595481.0
-20850.0,3996052.0,1544227,"ovascience, inc.",1,0,1.0,0.0,20140709,aldrich richard,110465914050669,,male,23595481.0
-10412.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140717,stock harald f.,110465914051937,,male,23595481.0
-812605.0,3820571.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20140730,dipp michelle,110465914054665,President and CEO,female,23595481.0
-11242.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140731,stock harald f.,110465914055223,,male,23595481.0
-11920.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140814,stock harald f.,110465914060717,,male,24269976.0
-12500.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140828,stock harald f.,110465914063545,,male,24269976.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20140918,young jeffrey e,110465914066969,Chief Financial Officer,male,24269976.0
-50021.0,0.0,1544227,"ovascience, inc.",0,0,1.0,0.0,20140919,"longwood fund, l.p.",110465914067307,,male,24269976.0
-13022.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20140925,stock harald f.,110465914068103,,male,24269976.0
-807368.0,2870628.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20141002,dipp michelle,110465914069798,President & CEO,female,23787221.0
-807668.0,2870628.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20141126,dipp michelle,117911014017128,President and CEO,female,24316817.0
-838570.0,2870628.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20141211,dipp michelle,117911014017997,Chief Executive Officer,female,24316817.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20141211,tzianabos arthur,117911014017998,President and CSO,male,24316817.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20141211,young jeffrey e,117911014017999,Chief Financial Officer,male,24316817.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20141211,mcneely theresa,117911014017996,"EVP, Chief Comm. Officer",female,24316817.0
-0.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20141211,harding david,117911014017994,Chief Commercial Officer,male,24316817.0
-849394.0,2870628.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20150102,dipp michelle,117911015000073,Chief Executive Officer,female,24084637.0
-116819.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150115,malley thomas,117911015000927,,male,24084637.0
-319082.0,0.0,1544227,"ovascience, inc.",0,0,1.0,0.0,20150116,"longwood fund, l.p.",117911015000996,,male,24084637.0
-850871.0,1839689.0,1544227,"ovascience, inc.",1,1,1.0,0.0,20150305,dipp michelle,117911015004302,Chief Executive Officer,female,26955670.0
-850608.0,684027.0,1544227,"ovascience, inc.",1,1,0.0,0.0,20150402,dipp michelle,117911015005718,Chief Executive Officer,female,27030370.0
-849608.0,684027.0,1544227,"ovascience, inc.",1,1,0.0,0.0,20150402,dipp michelle,117911015005717,Chief Executive Officer,female,27030370.0
-143.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150402,fisher mary,117911015005705,,female,27030370.0
-8278.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150402,kozin marc d,117911015005707,,male,27030370.0
-526750.0,879358.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150402,aldrich richard,117911015005706,,male,27030370.0
-117200.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150402,malley thomas,117911015005704,,male,27030370.0
-345.0,13022.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150402,stock harald f.,117911015005710,,male,27030370.0
-175.0,1000.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20150408,tzianabos arthur,117911015006087,President and CSO,male,27030370.0
-400.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20150409,mcneely theresa,117911015006171,"EVP, Chief Comm. Officer",female,27030370.0
-300.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20150409,young jeffrey e,117911015006173,Chief Financial Officer,male,27030370.0
-122200.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150409,malley thomas,117911015006166,,male,27030370.0
-22350.0,859508.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150409,aldrich richard,117911015006167,,male,27030370.0
-400.0,1000.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20150409,tzianabos arthur,117911015006172,President and CSO,male,27030370.0
-11278.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150409,kozin marc d,117911015006165,,male,27030370.0
-2290.0,0.0,1544227,"ovascience, inc.",0,1,0.0,0.0,20150414,harding david,117911015006272,Chief Commercial Officer,male,27030370.0
-987713.0,0.0,1544227,"ovascience, inc.",1,1,0.0,0.0,20150528,dipp michelle,117911015008656,Chief Executive Officer,female,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,stock harald f.,117911015009341,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,malley thomas,117911015009340,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,kozin marc d,117911015009343,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,aldrich richard,117911015009338,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,capello jeffrey d,117911015009337,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,sexton john,117911015009336,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,howe john p md,117911015009334,,male,27030370.0
-0.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150608,fisher mary,117911015009339,,female,27030370.0
-122658.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150702,malley thomas,117911015010854,,male,27263100.0
-986457.0,0.0,1544227,"ovascience, inc.",1,1,0.0,0.0,20150702,dipp michelle,117911015010855,Chief Executive Officer,female,27263100.0
-800728.0,197831.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150702,aldrich richard,117911015010856,,male,27263100.0
-11612.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150702,kozin marc d,117911015010857,,male,27263100.0
-759.0,13022.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150702,stock harald f.,117911015010858,,male,27263100.0
-315.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150702,fisher mary,117911015010846,,female,27263100.0
-986757.0,0.0,1544227,"ovascience, inc.",1,1,0.0,0.0,20150825,dipp michelle,117911015012569,Chief Executive Officer,female,27266850.0
-14612.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150910,kozin marc d,117911015013175,,male,27266850.0
-6415.0,0.0,1544227,"ovascience, inc.",1,0,0.0,0.0,20150911,fisher mary,117911015013219,,female,27266850.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140306,kozin marc d,110465914017074,,male,18563215.0
+3820571.0,4850.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140311,westphal christoph h,110465914018531,,male,18563215.0
+3820571.0,,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140311,dipp michelle,110465914018532,President & CEO,female,18563215.0
+3820571.0,,1544227,"ovascience, inc.",0.0,0.0,1.0,0.0,20140311,"longwood fund, l.p.",110465914018529,,male,18563215.0
+3820571.0,180331.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140311,aldrich richard,110465914018530,,male,18563215.0
+817193.0,3820571.0,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140402,dipp michelle,110465914025182,Pres & Chief Executive Officer,female,23345082.0
+6850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140521,aldrich richard,110465914040692,,male,24202656.0
+817643.0,3820571.0,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140521,dipp michelle,110465914040694,President and Chief Executive,female,24202656.0
+6950.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140521,stock harald f.,110465914040693,,male,24202656.0
+8850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140529,aldrich richard,110465914042273,,male,24202656.0
+10850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140603,aldrich richard,110465914043615,,male,24202656.0
+8013.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140605,stock harald f.,110465914044131,,male,24202656.0
+12850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140611,aldrich richard,110465914045253,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140617,deer management co. llc,110465914046592,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140617,stock harald f.,110465914046599,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140617,aldrich richard,110465914046591,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140617,dipp michelle,110465914046594,President and C.E.O.,female,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140617,kozin marc d,110465914046595,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140617,fisher mary,110465914046596,,female,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140617,kraus stephen,110465914046597,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140617,malley thomas,110465914046598,,male,24202656.0
+,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140617,capello jeffrey d,110465914046593,,male,24202656.0
+14850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140618,aldrich richard,110465914046649,,male,24202656.0
+8846.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140619,stock harald f.,110465914046977,,male,24202656.0
+16850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140625,aldrich richard,110465914048311,,male,24202656.0
+818093.0,3820571.0,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140625,dipp michelle,110465914048312,President and CEO,female,24202656.0
+18850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140702,aldrich richard,110465914049848,,male,23595481.0
+812155.0,3820571.0,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140702,dipp michelle,110465914049845,President and CEO,female,23595481.0
+9652.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140703,stock harald f.,110465914050051,,male,23595481.0
+20850.0,3996052.0,1544227,"ovascience, inc.",1.0,0.0,1.0,0.0,20140709,aldrich richard,110465914050669,,male,23595481.0
+10412.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140717,stock harald f.,110465914051937,,male,23595481.0
+812605.0,3820571.0,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20140730,dipp michelle,110465914054665,President and CEO,female,23595481.0
+11242.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140731,stock harald f.,110465914055223,,male,23595481.0
+11920.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140814,stock harald f.,110465914060717,,male,24269976.0
+12500.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140828,stock harald f.,110465914063545,,male,24269976.0
+,,1544227,"ovascience, inc.",0.0,1.0,0.0,0.0,20140918,young jeffrey e,110465914066969,Chief Financial Officer,male,24269976.0
+50021.0,,1544227,"ovascience, inc.",0.0,0.0,1.0,0.0,20140919,"longwood fund, l.p.",110465914067307,,male,24269976.0
+13022.0,,1544227,"ovascience, inc.",1.0,0.0,0.0,0.0,20140925,stock harald f.,110465914068103,,male,24269976.0
+807368.0,2870628.0,1544227,"ovascience, inc.",1.0,1.0,1.0,0.0,20141002,dipp michelle,110465914069798,President & CEO,female,23787221.0
+807668.0,2870628.0,1544227,"ovascience, inc.",1,1,1,0,20141126,dipp michelle,117911014017128,President and CEO,female,24316817.0
+,,1544227,"ovascience, inc.",0,1,0,0,20141211,young jeffrey e,117911014017999,Chief Financial Officer,male,24316817.0
+,,1544227,"ovascience, inc.",0,1,0,0,20141211,tzianabos arthur,117911014017998,President and CSO,male,24316817.0
+838570.0,2870628.0,1544227,"ovascience, inc.",1,1,1,0,20141211,dipp michelle,117911014017997,Chief Executive Officer,female,24316817.0
+,,1544227,"ovascience, inc.",0,1,0,0,20141211,harding david,117911014017994,Chief Commercial Officer,male,24316817.0
+,,1544227,"ovascience, inc.",0,1,0,0,20141211,mcneely theresa,117911014017996,"EVP, Chief Comm. Officer",female,24316817.0
+849394.0,2870628.0,1544227,"ovascience, inc.",1,1,1,0,20150102,dipp michelle,117911015000073,Chief Executive Officer,female,24084637.0
+116819.0,,1544227,"ovascience, inc.",1,0,0,0,20150115,malley thomas,117911015000927,,male,24084637.0
+319082.0,,1544227,"ovascience, inc.",0,0,1,0,20150116,"longwood fund, l.p.",117911015000996,,male,24084637.0
+850871.0,1839689.0,1544227,"ovascience, inc.",1,1,1,0,20150305,dipp michelle,117911015004302,Chief Executive Officer,female,26955670.0
+8278.0,,1544227,"ovascience, inc.",1,0,0,0,20150402,kozin marc d,117911015005707,,male,27030370.0
+117200.0,,1544227,"ovascience, inc.",1,0,0,0,20150402,malley thomas,117911015005704,,male,27030370.0
+345.0,13022.0,1544227,"ovascience, inc.",1,0,0,0,20150402,stock harald f.,117911015005710,,male,27030370.0
+849608.0,684027.0,1544227,"ovascience, inc.",1,1,0,0,20150402,dipp michelle,117911015005717,Chief Executive Officer,female,27030370.0
+850608.0,684027.0,1544227,"ovascience, inc.",1,1,0,0,20150402,dipp michelle,117911015005718,Chief Executive Officer,female,27030370.0
+526750.0,879358.0,1544227,"ovascience, inc.",1,0,0,0,20150402,aldrich richard,117911015005706,,male,27030370.0
+143.0,,1544227,"ovascience, inc.",1,0,0,0,20150402,fisher mary,117911015005705,,female,27030370.0
+175.0,1000.0,1544227,"ovascience, inc.",0,1,0,0,20150408,tzianabos arthur,117911015006087,President and CSO,male,27030370.0
+400.0,,1544227,"ovascience, inc.",0,1,0,0,20150409,mcneely theresa,117911015006171,"EVP, Chief Comm. Officer",female,27030370.0
+11278.0,,1544227,"ovascience, inc.",1,0,0,0,20150409,kozin marc d,117911015006165,,male,27030370.0
+122200.0,,1544227,"ovascience, inc.",1,0,0,0,20150409,malley thomas,117911015006166,,male,27030370.0
+22350.0,859508.0,1544227,"ovascience, inc.",1,0,0,0,20150409,aldrich richard,117911015006167,,male,27030370.0
+400.0,1000.0,1544227,"ovascience, inc.",0,1,0,0,20150409,tzianabos arthur,117911015006172,President and CSO,male,27030370.0
+300.0,,1544227,"ovascience, inc.",0,1,0,0,20150409,young jeffrey e,117911015006173,Chief Financial Officer,male,27030370.0
+2290.0,,1544227,"ovascience, inc.",0,1,0,0,20150414,harding david,117911015006272,Chief Commercial Officer,male,27030370.0
+987713.0,,1544227,"ovascience, inc.",1,1,0,0,20150528,dipp michelle,117911015008656,Chief Executive Officer,female,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,capello jeffrey d,117911015009337,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,sexton john,117911015009336,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,malley thomas,117911015009340,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,howe john p md,117911015009334,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,stock harald f.,117911015009341,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,kozin marc d,117911015009343,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,aldrich richard,117911015009338,,male,27030370.0
+,,1544227,"ovascience, inc.",1,0,0,0,20150608,fisher mary,117911015009339,,female,27030370.0
+315.0,,1544227,"ovascience, inc.",1,0,0,0,20150702,fisher mary,117911015010846,,female,27263100.0
+122658.0,,1544227,"ovascience, inc.",1,0,0,0,20150702,malley thomas,117911015010854,,male,27263100.0
+759.0,13022.0,1544227,"ovascience, inc.",1,0,0,0,20150702,stock harald f.,117911015010858,,male,27263100.0
+800728.0,197831.0,1544227,"ovascience, inc.",1,0,0,0,20150702,aldrich richard,117911015010856,,male,27263100.0
+11612.0,,1544227,"ovascience, inc.",1,0,0,0,20150702,kozin marc d,117911015010857,,male,27263100.0
+986457.0,,1544227,"ovascience, inc.",1,1,0,0,20150702,dipp michelle,117911015010855,Chief Executive Officer,female,27263100.0
+986757.0,,1544227,"ovascience, inc.",1,1,0,0,20150825,dipp michelle,117911015012569,Chief Executive Officer,female,27266850.0
+986757.0,,1544227,"ovascience, inc.",1,1,0,0,20150825,dipp michelle,117911015012569,Chief Executive Officer,female,27266850.0
+14612.0,,1544227,"ovascience, inc.",1,0,0,0,20150910,kozin marc d,117911015013175,,male,27266850.0
+14612.0,,1544227,"ovascience, inc.",1,0,0,0,20150910,kozin marc d,117911015013175,,male,27266850.0
+6415.0,,1544227,"ovascience, inc.",1,0,0,0,20150911,fisher mary,117911015013219,,female,27266850.0
+6415.0,,1544227,"ovascience, inc.",1,0,0,0,20150911,fisher mary,117911015013219,,female,27266850.0
+985501.0,,1544227,"ovascience, inc.",1,1,0,0,20151002,dipp michelle,117911015013550,Chief Executive Officer,female,27276410.0
+801979.0,197831.0,1544227,"ovascience, inc.",1,0,0,0,20151002,aldrich richard,117911015013551,,male,27276410.0
+7003.0,,1544227,"ovascience, inc.",1,0,0,0,20151002,fisher mary,117911015013552,,female,27276410.0
+15753.0,,1544227,"ovascience, inc.",1,0,0,0,20151002,kozin marc d,117911015013553,,male,27276410.0
+124218.0,,1544227,"ovascience, inc.",1,0,0,0,20151002,malley thomas,117911015013554,,male,27276410.0
+1413.0,,1544227,"ovascience, inc.",1,0,0,0,20151002,stock harald f.,117911015013555,,male,27276410.0
+20553.0,,1544227,"ovascience, inc.",1,0,0,0,20151006,kozin marc d,117911015013872,,male,27276410.0
+3750.0,,1544227,"ovascience, inc.",0,1,0,0,20151007,young jeffrey e,117911015013904,Chief Financial Officer,male,27276410.0
+53750.0,,1544227,"ovascience, inc.",0,1,0,0,20151207,young jeffrey e,117911015015929,Chief Financial Officer,male,27278284.0
+25400.0,1000.0,1544227,"ovascience, inc.",0,1,0,0,20151207,tzianabos arthur,117911015015930,President and CSO,male,27278284.0
+125574.0,,1544227,"ovascience, inc.",1,0,0,0,20160105,malley thomas,117911016017273,,male,27296747.0
+7514.0,,1544227,"ovascience, inc.",1,0,0,0,20160105,fisher mary,117911016017274,,female,27296747.0
+987373.0,,1544227,"ovascience, inc.",1,1,0,0,20160105,dipp michelle,117911016017276,Chief Executive Officer,female,27296747.0
+1228.0,,1544227,"ovascience, inc.",1,0,0,0,20160105,stock harald f.,117911016017277,,male,27296747.0
+603066.0,197831.0,1544227,"ovascience, inc.",1,0,0,0,20160105,aldrich richard,117911016017278,,male,27296747.0
+21544.0,,1544227,"ovascience, inc.",1,0,0,0,20160105,kozin marc d,117911016017279,,male,27296747.0
+971921.0,,1544227,"ovascience, inc.",1,1,0,0,20160107,dipp michelle,117911016017507,Chief Executive Officer,female,27296747.0
+251228.0,15194.0,1544227,"ovascience, inc.",1,0,0,0,20160107,stock harald f.,117911016017506,,male,27296747.0
+,,1544227,"ovascience, inc.",0,1,0,0,20160307,chapman paul w.d.,117911016021198,Chief Operating Officer,male,27296747.0
+162732.0,,1544227,"ovascience, inc.",1,1,0,0,20160315,dipp michelle,117911016021665,Chief Executive Officer,female,27296747.0
+162732.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160315,aldrich richard,117911016021666,,male,27296747.0
+221761.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160317,aldrich richard,117911016021776,,male,27296747.0
+221761.0,,1544227,"ovascience, inc.",1,1,0,0,20160317,dipp michelle,117911016021775,Chief Executive Officer,female,27296747.0
+281461.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160321,aldrich richard,117911016022003,,male,27296747.0
+281461.0,,1544227,"ovascience, inc.",1,1,0,0,20160321,dipp michelle,117911016022004,Chief Executive Officer,female,27296747.0
+341261.0,,1544227,"ovascience, inc.",1,1,0,0,20160323,dipp michelle,117911016022098,Chief Executive Officer,female,27296747.0
+341261.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160323,aldrich richard,117911016022099,,male,27296747.0
+401061.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160325,aldrich richard,117911016022184,,male,27296747.0
+401061.0,,1544227,"ovascience, inc.",1,1,0,0,20160325,dipp michelle,117911016022185,Chief Executive Officer,female,27296747.0
+22564.0,,1544227,"ovascience, inc.",1,0,0,0,20160404,kozin marc d,117911016022597,,male,27307759.0
+126970.0,,1544227,"ovascience, inc.",1,0,0,0,20160404,malley thomas,117911016022598,,male,27307759.0
+604185.0,798892.0,1544227,"ovascience, inc.",1,0,0,0,20160404,aldrich richard,117911016022595,,male,27307759.0
+8040.0,,1544227,"ovascience, inc.",1,0,0,0,20160404,fisher mary,117911016022596,,female,27307759.0
+420961.0,,1544227,"ovascience, inc.",1,1,0,0,20160512,dipp michelle,117911016024352,Chief Executive Officer,female,27328779.0
+3100.0,,1544227,"ovascience, inc.",0,1,0,0,20160512,chapman paul w.d.,117911016024356,Chief Operating Officer,male,27328779.0
+420961.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160512,aldrich richard,117911016024353,,male,27328779.0
+440961.0,,1544227,"ovascience, inc.",1,1,0,0,20160513,dipp michelle,117911016024522,Chief Executive Officer,female,27328779.0
+440961.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160513,aldrich richard,117911016024521,,male,27328779.0
+477056.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160516,aldrich richard,117911016024698,,male,27328779.0
+477056.0,,1544227,"ovascience, inc.",1,1,0,0,20160516,dipp michelle,117911016024699,Chief Executive Officer,female,27328779.0
+517056.0,,1544227,"ovascience, inc.",1,1,0,0,20160518,dipp michelle,117911016024969,Chief Executive Officer,female,27328779.0
+517056.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160518,aldrich richard,117911016024970,,male,27328779.0
+537056.0,,1544227,"ovascience, inc.",1,1,0,0,20160520,dipp michelle,117911016025106,Chief Executive Officer,female,27328779.0
+537056.0,397831.0,1544227,"ovascience, inc.",1,0,0,0,20160520,aldrich richard,117911016025107,,male,27328779.0
+962056.0,,1544227,"ovascience, inc.",1,1,0,0,20160603,dipp michelle,117911016025985,Chief Executive Officer,female,27328779.0
+962056.0,375481.0,1544227,"ovascience, inc.",1,0,0,0,20160603,aldrich richard,117911016025986,,male,27328779.0
+176970.0,,1544227,"ovascience, inc.",1,0,0,0,20160603,malley thomas,117911016025987,,male,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,kozin marc d,117911016026069,,male,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,howe john p md,117911016026070,,male,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,fisher mary,117911016026071,,female,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,capello jeffrey d,117911016026072,,male,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,malley thomas,117911016026068,,male,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,aldrich richard,117911016026067,,male,27328779.0
+,,1544227,"ovascience, inc.",1,0,0,0,20160606,sexton john,117911016026066,,male,27328779.0
+8999.0,,1544227,"ovascience, inc.",1,0,0,0,20160705,fisher mary,117911016027258,,female,35560346.0
+606224.0,1359887.0,1544227,"ovascience, inc.",1,0,0,0,20160705,aldrich richard,117911016027259,,male,35560346.0
+24423.0,,1544227,"ovascience, inc.",1,0,0,0,20160705,kozin marc d,117911016027260,,male,35560346.0
+179513.0,,1544227,"ovascience, inc.",1,0,0,0,20160705,malley thomas,117911016027261,,male,35560346.0
+50600.0,,1544227,"ovascience, inc.",0,1,0,0,20160912,couturier christophe,117911016029578,Chief Financial Officer,male,35561179.0
+607707.0,1359887.0,1544227,"ovascience, inc.",1,0,0,0,20161004,aldrich richard,117911016030320,,male,35607059.0
+9697.0,,1544227,"ovascience, inc.",1,0,0,0,20161004,fisher mary,117911016030319,,female,35607059.0
+25776.0,,1544227,"ovascience, inc.",1,0,0,0,20161004,kozin marc d,117911016030318,,male,35607059.0
+181363.0,,1544227,"ovascience, inc.",1,0,0,0,20161004,malley thomas,117911016030317,,male,35607059.0
+0.0,962056.0,1544227,"ovascience, inc.",1,0,0,0,20170104,aldrich richard,117911017000417,,male,35641505.0
+12964.0,,1544227,"ovascience, inc.",1,0,0,0,20170104,fisher mary,117911017000418,,female,35641505.0
+32107.0,,1544227,"ovascience, inc.",1,0,0,0,20170104,kozin marc d,117911017000419,,male,35641505.0
+190023.0,,1544227,"ovascience, inc.",1,0,0,0,20170104,malley thomas,117911017000420,,male,35641505.0
+,,1544227,"ovascience, inc.",0,1,0,0,20170109,couturier christophe,117911017000824,Chief Financial Officer,male,35641505.0
+,,1544227,"ovascience, inc.",0,1,0,0,20170306,couturier christophe,117911017004065,Chief Financial Officer,male,35641505.0
+,,1544227,"ovascience, inc.",1,1,0,0,20170306,dipp michelle,117911017004066,Executive Chair,female,35641505.0
+50900.0,,1544227,"ovascience, inc.",0,1,0,0,20170313,couturier christophe,117911017004542,Chief Financial Officer,male,35641505.0
+15637.0,,1544227,"ovascience, inc.",1,0,0,0,20170404,fisher mary,117911017005739,,female,35662124.0
+197108.0,,1544227,"ovascience, inc.",1,0,0,0,20170404,malley thomas,117911017005740,,male,35662124.0
+37287.0,,1544227,"ovascience, inc.",1,0,0,0,20170404,kozin marc d,117911017005741,,male,35662124.0
+19971.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20170404,aldrich richard,117911017005742,,male,35662124.0
+,,1544227,"ovascience, inc.",1,0,0,0,20170623,fisher mary,117911017009557,,female,35662124.0
+,,1544227,"ovascience, inc.",1,0,0,0,20170623,aldrich richard,117911017009556,,male,35662124.0
+,,1544227,"ovascience, inc.",1,0,0,0,20170623,sexton john,117911017009553,,male,35662124.0
+,,1544227,"ovascience, inc.",1,0,0,0,20170623,capello jeffrey d,117911017009555,,male,35662124.0
+,,1544227,"ovascience, inc.",0,1,0,0,20170623,gillis jonathan,117911017009550,Vice President Finance,male,35662124.0
+,,1544227,"ovascience, inc.",1,1,0,0,20170623,dipp michelle,117911017009551,Executive Chair,female,35662124.0
+,,1544227,"ovascience, inc.",1,0,0,0,20170623,kozin marc d,117911017009552,,male,35662124.0
+,,1544227,"ovascience, inc.",1,0,0,0,20170623,howe john p md,117911017009554,,male,35662124.0
+204981.0,,1544227,"ovascience, inc.",1,0,0,0,20170705,malley thomas,117911017010097,,male,35686489.0
+43764.0,,1544227,"ovascience, inc.",1,0,0,0,20170705,kozin marc d,117911017010099,,male,35686489.0
+26781.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20170705,aldrich richard,117911017010098,,male,35686489.0
+18842.0,,1544227,"ovascience, inc.",1,0,0,0,20170705,fisher mary,117911017010100,,female,35686489.0
+51994.0,,1544227,"ovascience, inc.",1,0,0,0,20171003,kozin marc d,117911017013053,,male,35705722.0
+34263.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20171003,aldrich richard,117911017013052,,male,35705722.0
+22363.0,,1544227,"ovascience, inc.",1,0,0,0,20171003,fisher mary,117911017013054,,female,35705722.0
+41852.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20180103,aldrich richard,117911018000448,,male,246347.0
+60342.0,,1544227,"ovascience, inc.",1,0,0,0,20180103,kozin marc d,117911018000450,,male,246347.0
+25934.0,,1544227,"ovascience, inc.",1,0,0,0,20180103,fisher mary,117911018000449,,female,246347.0
+,,1544227,"ovascience, inc.",0,1,0,0,20180209,gillis jonathan,117911018001912,"Senior Vice President, Finance",male,246347.0
+,,1544227,"ovascience, inc.",0,1,0,0,20180306,lillie james woodruff,117911018003673,Chief Scientific Officer,male,246347.0
+54953.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20180403,aldrich richard,117911018005301,,male,35758907.0
+32099.0,,1544227,"ovascience, inc.",1,0,0,0,20180403,fisher mary,117911018005302,,female,35758907.0
+74753.0,,1544227,"ovascience, inc.",1,0,0,0,20180403,kozin marc d,117911018005303,,male,35758907.0
+66662.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20180703,aldrich richard,117911018009346,,male,35789006.0
+37609.0,,1544227,"ovascience, inc.",1,0,0,0,20180703,fisher mary,117911018009348,,female,35789006.0
+87633.0,,1544227,"ovascience, inc.",1,0,0,0,20180703,kozin marc d,117911018009350,,male,35789006.0
+,,1544227,"ovascience, inc.",1,0,0,0,20180706,howe john p md,117911018009535,,male,35789006.0
+,,1544227,"ovascience, inc.",1,0,0,0,20180706,aldrich richard,117911018009532,,male,35789006.0
+,,1544227,"ovascience, inc.",1,0,0,0,20180706,capello jeffrey d,117911018009533,,male,35789006.0
+,,1544227,"ovascience, inc.",1,0,0,0,20180706,kozin marc d,117911018009536,,male,35789006.0
+,,1544227,"ovascience, inc.",1,0,0,0,20180706,sexton john,117911018009537,,male,35789006.0
+,,1544227,"ovascience, inc.",1,0,0,0,20180706,fisher mary,117911018009534,,female,35789006.0
+81220.0,1960248.0,1544227,"ovascience, inc.",1,0,0,0,20181002,aldrich richard,117911018011954,,male,35826429.0
+44460.0,,1544227,"ovascience, inc.",1,0,0,0,20181002,fisher mary,117911018011955,,female,35826429.0
+103647.0,,1544227,"ovascience, inc.",1,0,0,0,20181002,kozin marc d,117911018011956,,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20181211,gillis jonathan,120919118062113,"Senior Vice President, Finance",male,35826429.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,dable habib j,120919118062107,,male,35826429.0
+3319.0,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,fisher mary,120919118062108,,female,35826429.0
+23684.0,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,gallagher carol giltner,120919118062111,,female,35826429.0
+6169.0,130683.0,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,aldrich richard,120919118062104,,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,hedley mary lynne,120919118062116,,female,35826429.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,hindman james m.,120919118062117,,male,35826429.0
+7740.0,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,kozin marc d,120919118062119,,male,35826429.0
+7440.0,,1544227,"millendo therapeutics, inc.",0,1,0,0,20181211,mohideen pharis,120919118062125,Chief Medical Officer,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20181211,lillie james woodruff,120919118062124,Chief Scientific Officer,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20181211,brinza jeffery m.,120919118062106,"Sec., CAO and General Counsel",male,35826429.0
+74400.0,,1544227,"millendo therapeutics, inc.",1,1,0,0,20181211,owens julia c.,120919118062126,President and CEO,female,35826429.0
+15784.0,,1544227,"millendo therapeutics, inc.",1,0,0,0,20181211,whitcomb randall w,120919118062127,,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20181211,kroeger christopher a.,120919118062120,Chief Executive Officer,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20181211,arcudi iii louis j,120919118062105,Chief Financial Officer,male,35826429.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20190117,mohideen pharis,120919119004242,Chief Medical Officer,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,nuechterlein carole,120919119004243,,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,1,0,0,20190117,owens julia c.,120919119004245,President and CEO,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,whitcomb randall w,120919119004246,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,howe john p md,120919119004241,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,hindman james m.,120919119004239,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,hedley mary lynne,120919119004237,,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,gallagher carol giltner,120919119004235,,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190117,dable habib j,120919119004231,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20190117,brinza jeffery m.,120919119004228,"Sec., CAO and General Counsel",male,13357999.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20190117,arcudi iii louis j,120919119004226,Chief Financial Officer,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,whitcomb randall w,120919119038489,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,1,0,0,20190621,owens julia c.,120919119038488,President and CEO,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,howe john p md,120919119038485,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,hindman james m.,120919119038482,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,nuechterlein carole,120919119038486,,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,gallagher carol giltner,120919119038479,,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,dable habib j,120919119038478,,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20190621,arcudi iii louis j,120919119038475,Chief Financial Officer,male,13357999.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20190621,hedley mary lynne,120919119038481,,female,13357999.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20190820,zeidan ryan,120919119046917,Chief Development Officer,male,13412058.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20190820,joseph tamara l,120919119046918,General Counsel and  Secretary,female,13412058.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20191219,nichol geoffrey,120919119061358,,male,13472937.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200204,arcudi iii louis j,120919120006345,Chief Financial Officer,male,18266545.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200204,zeidan ryan,120919120006355,Chief Development Officer,male,18266545.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200204,joseph tamara l,120919120006361,General Counsel and  Secretary,female,18266545.0
+,,1544227,"millendo therapeutics, inc.",1,1,0,0,20200204,owens julia c.,120919120006367,President and CEO,female,18266545.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200211,arbet-engels christophe,120919120008370,Chief Medical Officer,male,18266545.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200331,zeidan ryan,120919120021851,Chief Development Officer,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,1,0,0,20200527,owens julia c.,120919120032485,President and CEO,female,18998252.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200527,arbet-engels christophe,120919120032486,Chief Medical Officer,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200527,joseph tamara l,120919120032487,General Counsel and  Secretary,female,18998252.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200527,zeidan ryan,120919120032488,Chief Development Officer,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20200527,arcudi iii louis j,120919120032489,Chief Financial Officer,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,hindman james m.,154422720000029,,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,nichol geoffrey,154422720000030,,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,dable habib j,154422720000031,,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,hedley mary lynne,154422720000032,,female,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,gallagher carol giltner,154422720000033,,female,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,howe john p md,154422720000034,,male,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,0,0,0,20200623,nuechterlein carole,154422720000035,,female,18998252.0
+,,1544227,"millendo therapeutics, inc.",1,1,0,0,20210302,arcudi iii louis j,154422721000010,President and CEO,male,527265.0
+,,1544227,"millendo therapeutics, inc.",0,1,0,0,20210302,minai-azary jennifer lynn,154422721000011,Chief Financial Officer,female,527265.0
+,,1544227,"millendo therapeutics, inc.",1,1,0,0,20210319,owens julia c.,154422721000013,Executive Chair,female,19043034.0
+579710.0,,1544227,"millendo therapeutics, inc.",true,,,,20210629,xu stella,114036121022786,,female,19043034.0
+,,1544227,"millendo therapeutics, inc.",true,,,,20210629,raab michael,114036121022785,,male,19043034.0
+,,1544227,"millendo therapeutics, inc.",true,true,,,20210629,brady stephen r,114036121022783,Chief Executive Officer,male,19043034.0
+7377.0,,1544227,"millendo therapeutics, inc.",true,,true,,20210629,woiwode thomas,114036121022782,,male,19043034.0
+53.0,,1544227,"millendo therapeutics, inc.",,true,,,20210629,lorenzo pierre,114036121022781,Corporate Controller,male,19043034.0
+111343.0,,1544227,"millendo therapeutics, inc.",true,true,,,20210629,dubensky thomas w.,114036121022784,President,male,19043034.0
+201.0,,1544227,"millendo therapeutics, inc.",,true,,,20210630,whiting samuel,114036121022931,Chief Medical Officer,male,6637081.0
+,,1544227,"tempest therapeutics, inc.",true,,,,20210706,xu stella,114036121023544,,female,6637081.0
+,,1544227,"tempest therapeutics, inc.",true,,true,,20210706,woiwode thomas,114036121023542,,male,6637081.0
+,,1544227,"tempest therapeutics, inc.",true,,,,20210706,nichol geoffrey,114036121023540,,male,6637081.0
+,,1544227,"tempest therapeutics, inc.",true,,,,20210706,pellizzari christine a,114036121023538,,female,6637081.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20210714,maestas nicholas,156761921013380,VP of Strategy and Finance,male,6637081.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20210810,simantov ronit,117911021008097,,female,6703242.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20210923,raab michael,120919121057511,,male,6703242.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20220106,dubensky thomas w.,120919122002245,President,male,6910324.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20220106,brady stephen r,120919122002247,Chief Executive Officer,male,6910324.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220106,whiting samuel,120919122002249,Chief Medical Officer,male,6910324.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220106,maestas nicholas,120919122002251,VP of Strategy and Finance,male,6910324.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220106,lorenzo pierre,120919122002253,Corporate Controller,male,6910324.0
+1901.0,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220110,whiting samuel,120919122002753,Chief Medical Officer,male,6910324.0
+113343.0,,1544227,"tempest therapeutics, inc.",1,1,0,0,20220111,dubensky thomas w.,120919122002963,President,male,6910324.0
+2118644.0,2176411.0,1544227,"tempest therapeutics, inc.",1,0,1,0,20220503,woiwode thomas,89924322016387,,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220622,lorenzo pierre,117911022003402,Corporate Controller,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220622,maestas nicholas,117911022003401,VP of Strategy and Finance,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20220622,whiting samuel,117911022003400,Chief Medical Officer,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20220622,dubensky thomas w.,117911022003399,President,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20220622,brady stephen r,117911022003398,Chief Executive Officer,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20220622,simantov ronit,117911022003377,,female,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20220622,nichol geoffrey,117911022003380,,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20220622,woiwode thomas,117911022003378,,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20220622,raab michael,117911022003376,,male,7173094.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20220622,pellizzari christine a,117911022003383,,female,7173094.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20221004,trojanowski justin,120919122052025,Corporate Controller,male,10517099.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20230105,whiting samuel,120919123002148,Chief Medical Officer,male,10518539.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20230105,dubensky thomas w.,120919123002146,President,male,10518539.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20230105,brady stephen r,120919123002144,Chief Executive Officer,male,10518539.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20230105,maestas nicholas,120919123002142,VP of Strategy and Finance,male,10518539.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20230105,trojanowski justin,120919123002141,Corporate Controller,male,10518539.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20230620,simantov ronit,120919123038440,,female,10561700.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20230620,pellizzari christine a,120919123038443,,female,10561700.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20230620,nichol geoffrey,120919123038448,,male,10561700.0
+,,1544227,"tempest therapeutics, inc.",1,0,0,0,20230620,raab michael,120919123038453,,male,10561700.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20231013,maestas nicholas,120919123052780,VP of Strategy and Finance,male,14323405.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20231013,whiting samuel,120919123052781,Chief Medical Officer,male,14323405.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20231013,trojanowski justin,120919123052782,Corporate Controller,male,14323405.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20231013,brady stephen r,120919123052783,President and CEO,male,14323405.0
+,,1544227,"tempest therapeutics, inc.",1,1,0,0,20240105,brady stephen r,120919124001040,President and CEO,male,22045255.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20240105,whiting samuel,120919124001038,Chief Medical Officer,male,22045255.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20240105,maestas nicholas,120919124001035,VP of Strategy and Finance,male,22045255.0
+,,1544227,"tempest therapeutics, inc.",0,1,0,0,20240105,trojanowski justin,120919124001036,Principal Accounting Officer,male,22045255.0
+,,1544227,"tempest therapeutics, inc.",true,false,false,false,20240614,raab michael,141588924017009,,male,22217265.0
+,,1544227,"tempest therapeutics, inc.",true,false,false,false,20240614,simantov ronit,141588924017010,,female,22217265.0
+,,1544227,"tempest therapeutics, inc.",true,false,false,false,20240614,nichol geoffrey,141588924017011,,male,22217265.0
+,,1544227,"tempest therapeutics, inc.",true,false,false,false,20240614,pellizzari christine a,141588924017012,,female,22217265.0
+22168.0,,1544227,"tempest therapeutics, inc.",false,true,false,false,20240702,trojanowski justin,141588924018866,Corporate Controller,male,24475799.0
+9573.0,,1544227,"tempest therapeutics, inc.",false,true,false,false,20240703,whiting samuel,141588924019279,Chief Medical Officer,male,24475799.0
+46376.0,,1544227,"tempest therapeutics, inc.",true,true,false,false,20240708,brady stephen r,141588924019339,President and CEO,male,24475799.0

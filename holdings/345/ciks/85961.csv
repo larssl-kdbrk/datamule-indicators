@@ -1,266 +1,839 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-5104.0,0.0,85961,ryder system inc,1,0,0,0.0,20100106,beard james s,120919110001931,,male,53419721.0
-19926.0,0.0,85961,ryder system inc,0,1,0,0.0,20100212,fatovic robert d,120919110009075,"EVP, CLO & Corp. Secretary",male,53419721.0
-13798.0,2677.0,85961,ryder system inc,0,1,0,0.0,20100212,garcia art a,120919110009076,SVP and Controller,male,53419721.0
-15676.0,0.0,85961,ryder system inc,0,1,0,0.0,20100212,greene gregory f,120919110009077,EVP and Chief HR Officer,male,53419721.0
-39763.0,3886.0,85961,ryder system inc,0,1,0,0.0,20100212,sanchez robert e,120919110009078,EVP & Chief Financial Officer,male,53419721.0
-114069.0,4431.0,85961,ryder system inc,1,1,0,0.0,20100212,swienton gregory t,120919110009079,Chairman & CEO,male,53419721.0
-35718.0,2708.0,85961,ryder system inc,0,1,0,0.0,20100212,tegnelia anthony g,120919110009081,President -  Global FMS,male,53419721.0
-14050.0,0.0,85961,ryder system inc,0,1,0,0.0,20100212,williford john h,120919110009082,"President, Global Supply Chain",male,53419721.0
-114069.0,4430.0,85961,ryder system inc,1,1,0,0.0,20100218,swienton gregory t,120919110010546,Chairman & CEO,male,53419721.0
-114069.0,4586.0,85961,ryder system inc,1,1,0,0.0,20100316,swienton gregory t,120919110017241,Chairman & CEO,male,53419721.0
-39554.0,3895.0,85961,ryder system inc,0,1,0,0.0,20100505,sanchez robert e,120919110025358,EVP & Chief Financial Officer,male,53419721.0
-15995.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,tookes hansel e ii,120919110028345,,male,53419721.0
-11401.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,smith e follin,120919110028295,,male,53419721.0
-15153.0,7064.0,85961,ryder system inc,1,0,0,0.0,20100517,smith abbie j,120919110028293,,female,53419721.0
-8200.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,nieto luis p jr,120919110028286,,male,53419721.0
-20376.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,renna eugene a,120919110028292,,male,53419721.0
-9803.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,hassey l patrick,120919110028281,,male,53419721.0
-21307.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,martin lynn m,120919110028284,,female,53419721.0
-19165.0,1582.0,85961,ryder system inc,1,0,0,0.0,20100517,fuente david i,120919110028278,,male,53419721.0
-14721.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,berra john m,120919110028275,,male,53419721.0
-7091.0,0.0,85961,ryder system inc,1,0,0,0.0,20100517,beard james s,120919110028267,,male,53419721.0
-114234.0,4721.0,85961,ryder system inc,1,1,0,0.0,20100518,swienton gregory t,120919110028708,Chairman & CEO,male,53419721.0
-77093.0,41890.0,85961,ryder system inc,1,1,0,0.0,20100617,swienton gregory t,120919110034795,Chairman & CEO,male,53419721.0
+5104.0,,85961,ryder system inc,1,0,0,0.0,20100106,beard james s,120919110001931,,male,
+15676.0,,85961,ryder system inc,0,1,0,0.0,20100212,greene gregory f,120919110009077,EVP and Chief HR Officer,male,
+13798.0,2677.0,85961,ryder system inc,0,1,0,0.0,20100212,garcia art a,120919110009076,SVP and Controller,male,
+19926.0,,85961,ryder system inc,0,1,0,0.0,20100212,fatovic robert d,120919110009075,"EVP, CLO & Corp. Secretary",male,
+39763.0,3886.0,85961,ryder system inc,0,1,0,0.0,20100212,sanchez robert e,120919110009078,EVP & Chief Financial Officer,male,
+14050.0,,85961,ryder system inc,0,1,0,0.0,20100212,williford john h,120919110009082,"President, Global Supply Chain",male,
+35718.0,2708.0,85961,ryder system inc,0,1,0,0.0,20100212,tegnelia anthony g,120919110009081,President -  Global FMS,male,
+114069.0,4431.0,85961,ryder system inc,1,1,0,0.0,20100212,swienton gregory t,120919110009079,Chairman & CEO,male,
+114069.0,4430.0,85961,ryder system inc,1,1,0,0.0,20100218,swienton gregory t,120919110010546,Chairman & CEO,male,
+114069.0,4586.0,85961,ryder system inc,1,1,0,0.0,20100316,swienton gregory t,120919110017241,Chairman & CEO,male,
+39554.0,3895.0,85961,ryder system inc,0,1,0,0.0,20100505,sanchez robert e,120919110025358,EVP & Chief Financial Officer,male,
+7091.0,,85961,ryder system inc,1,0,0,0.0,20100517,beard james s,120919110028267,,male,
+14721.0,,85961,ryder system inc,1,0,0,0.0,20100517,berra john m,120919110028275,,male,
+19165.0,1582.0,85961,ryder system inc,1,0,0,0.0,20100517,fuente david i,120919110028278,,male,
+9803.0,,85961,ryder system inc,1,0,0,0.0,20100517,hassey l patrick,120919110028281,,male,
+21307.0,,85961,ryder system inc,1,0,0,0.0,20100517,martin lynn m,120919110028284,,female,
+8200.0,,85961,ryder system inc,1,0,0,0.0,20100517,nieto luis p jr,120919110028286,,male,
+20376.0,,85961,ryder system inc,1,0,0,0.0,20100517,renna eugene a,120919110028292,,male,
+15153.0,7064.0,85961,ryder system inc,1,0,0,0.0,20100517,smith abbie j,120919110028293,,female,
+11401.0,,85961,ryder system inc,1,0,0,0.0,20100517,smith e follin,120919110028295,,male,
+15995.0,,85961,ryder system inc,1,0,0,0.0,20100517,tookes hansel e ii,120919110028345,,male,
+114234.0,4721.0,85961,ryder system inc,1,1,0,0.0,20100518,swienton gregory t,120919110028708,Chairman & CEO,male,
+77093.0,41890.0,85961,ryder system inc,1,1,0,0.0,20100617,swienton gregory t,120919110034795,Chairman & CEO,male,
 77093.0,41894.0,85961,ryder system inc,1,1,0,0.0,20100819,swienton gregory t,120919110043344,Chairman & CEO,male,52417216.0
-23798.0,2723.0,85961,ryder system inc,0,1,0,0.0,20100903,garcia art a,120919110045117,EVP & Chief Financial Officer,male,52417216.0
 54554.0,3947.0,85961,ryder system inc,0,1,0,0.0,20100903,sanchez robert e,120919110045110,EVP & Chief Financial Officer,male,52417216.0
+23798.0,2723.0,85961,ryder system inc,0,1,0,0.0,20100903,garcia art a,120919110045117,EVP & Chief Financial Officer,male,52417216.0
 77093.0,41923.0,85961,ryder system inc,1,1,0,0.0,20100917,swienton gregory t,120919110046799,Chairman & CEO,male,52417216.0
 53509.0,3936.0,85961,ryder system inc,0,1,0,0.0,20101104,sanchez robert e,120919110053215,President - Global FMS,male,51737643.0
 77140.0,42157.0,85961,ryder system inc,1,1,0,0.0,20101118,swienton gregory t,120919110055865,Chairman & CEO,male,51737643.0
 77140.0,42179.0,85961,ryder system inc,1,1,0,0.0,20101216,swienton gregory t,120919110061176,Chairman & CEO,male,51737643.0
-20694.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,renna eugene a,120919110061832,,male,51737643.0
-16313.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,tookes hansel e ii,120919110061836,,male,51737643.0
-11647.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,smith e follin,120919110061835,,male,51737643.0
 15457.0,7152.0,85961,ryder system inc,1,0,0,0.0,20101220,smith abbie j,120919110061833,,female,51737643.0
-8382.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,nieto luis p jr,120919110061831,,male,51737643.0
-15025.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,berra john m,120919110061826,,male,51737643.0
-10024.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,hassey l patrick,120919110061829,,male,51737643.0
+16313.0,,85961,ryder system inc,1,0,0,0.0,20101220,tookes hansel e ii,120919110061836,,male,51737643.0
+11647.0,,85961,ryder system inc,1,0,0,0.0,20101220,smith e follin,120919110061835,,male,51737643.0
+20694.0,,85961,ryder system inc,1,0,0,0.0,20101220,renna eugene a,120919110061832,,male,51737643.0
+8382.0,,85961,ryder system inc,1,0,0,0.0,20101220,nieto luis p jr,120919110061831,,male,51737643.0
+21783.0,,85961,ryder system inc,1,0,0,0.0,20101220,martin lynn m,120919110061830,,female,51737643.0
+10024.0,,85961,ryder system inc,1,0,0,0.0,20101220,hassey l patrick,120919110061829,,male,51737643.0
 19517.0,1602.0,85961,ryder system inc,1,0,0,0.0,20101220,fuente david i,120919110061828,,male,51737643.0
 7219.0,784.0,85961,ryder system inc,1,0,0,0.0,20101220,beard james s,120919110061824,,male,51737643.0
-21783.0,0.0,85961,ryder system inc,1,0,0,0.0,20101220,martin lynn m,120919110061830,,female,51737643.0
+15025.0,,85961,ryder system inc,1,0,0,0.0,20101220,berra john m,120919110061826,,male,51737643.0
 8066.0,803.0,85961,ryder system inc,1,0,0,0.0,20110104,beard james s,120919111001144,,male,51174757.0
 21746.0,2741.0,85961,ryder system inc,0,1,0,0.0,20110202,garcia art a,120919111006465,EVP & Chief Financial Officer,male,51227648.0
-12890.0,0.0,85961,ryder system inc,0,1,0,0.0,20110210,greene gregory f,120919111008633,EVP and CAO,male,51227648.0
-17228.0,0.0,85961,ryder system inc,0,1,0,0.0,20110211,fatovic robert d,120919111008950,"EVP, CLO & Corp. Secretary",male,51227648.0
-13650.0,0.0,85961,ryder system inc,0,1,0,0.0,20110214,williford john h,120919111009495,"President, Global Supply Chain",male,51227648.0
+12890.0,,85961,ryder system inc,0,1,0,0.0,20110210,greene gregory f,120919111008633,EVP and CAO,male,51227648.0
+17228.0,,85961,ryder system inc,0,1,0,0.0,20110211,fatovic robert d,120919111008950,"EVP, CLO & Corp. Secretary",male,51227648.0
+13650.0,,85961,ryder system inc,0,1,0,0.0,20110214,williford john h,120919111009495,"President, Global Supply Chain",male,51227648.0
 76510.0,42465.0,85961,ryder system inc,1,1,0,0.0,20110214,swienton gregory t,120919111009499,Chairman & CEO,male,51227648.0
 53213.0,3952.0,85961,ryder system inc,0,1,0,0.0,20110214,sanchez robert e,120919111009503,President - Global FMS,male,51227648.0
-5160.0,0.0,85961,ryder system inc,0,1,0,0.0,20110215,gallo-aquino cristina a,120919111009935,VP and Controller,female,51227648.0
-15421.0,0.0,85961,ryder system inc,0,1,0,0.0,20110215,greene gregory f,120919111009933,EVP and CAO,male,51227648.0
-20668.0,0.0,85961,ryder system inc,0,1,0,0.0,20110215,fatovic robert d,120919111009929,"EVP, CLO & Corp. Secretary",male,51227648.0
-16022.0,0.0,85961,ryder system inc,0,1,0,0.0,20110215,williford john h,120919111009924,"President, Global Supply Chain",male,51227648.0
+5160.0,,85961,ryder system inc,0,1,0,0.0,20110215,gallo-aquino cristina a,120919111009935,VP and Controller,female,51227648.0
+15421.0,,85961,ryder system inc,0,1,0,0.0,20110215,greene gregory f,120919111009933,EVP and CAO,male,51227648.0
+56626.0,3952.0,85961,ryder system inc,0,1,0,0.0,20110215,sanchez robert e,120919111009927,President - Global FMS,male,51227648.0
+16022.0,,85961,ryder system inc,0,1,0,0.0,20110215,williford john h,120919111009924,"President, Global Supply Chain",male,51227648.0
 22320.0,2741.0,85961,ryder system inc,0,1,0,0.0,20110215,garcia art a,120919111009922,EVP & Chief Financial Officer,male,51227648.0
 91046.0,42465.0,85961,ryder system inc,1,1,0,0.0,20110215,swienton gregory t,120919111009920,Chairman & CEO,male,51227648.0
-56626.0,3952.0,85961,ryder system inc,0,1,0,0.0,20110215,sanchez robert e,120919111009927,President - Global FMS,male,51227648.0
+20668.0,,85961,ryder system inc,0,1,0,0.0,20110215,fatovic robert d,120919111009929,"EVP, CLO & Corp. Secretary",male,51227648.0
 20220.0,2755.0,85961,ryder system inc,0,1,0,0.0,20110218,garcia art a,120919111011019,EVP & Chief Financial Officer,male,51227648.0
-5124.0,0.0,85961,ryder system inc,0,1,0,0.0,20110222,gallo-aquino cristina a,120919111011554,VP and Controller,female,51227648.0
-10421.0,0.0,85961,ryder system inc,0,1,0,0.0,20110301,greene gregory f,120919111014022,EVP and CAO,male,51227648.0
-5000.0,0.0,85961,ryder system inc,0,1,0,0.0,20110504,gallo-aquino cristina,120919111026163,VP and Controller,female,51343469.0
+5124.0,,85961,ryder system inc,0,1,0,0.0,20110222,gallo-aquino cristina a,120919111011554,VP and Controller,female,51227648.0
+10421.0,,85961,ryder system inc,0,1,0,0.0,20110301,greene gregory f,120919111014022,EVP and CAO,male,51227648.0
+5000.0,,85961,ryder system inc,0,1,0,0.0,20110504,gallo-aquino cristina,120919111026163,VP and Controller,female,51343469.0
 56626.0,3967.0,85961,ryder system inc,0,1,0,0.0,20110504,sanchez robert e,120919111026186,President - Global FMS,male,51343469.0
-22584.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,renna eugene a,120919111026967,,male,51343469.0
-18203.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,tookes hansel e ii,120919111026973,,male,51343469.0
-13537.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,smith e follin,120919111026971,,male,51343469.0
+22584.0,,85961,ryder system inc,1,0,0,0.0,20110509,renna eugene a,120919111026967,,male,51343469.0
+18203.0,,85961,ryder system inc,1,0,0,0.0,20110509,tookes hansel e ii,120919111026973,,male,51343469.0
+13537.0,,85961,ryder system inc,1,0,0,0.0,20110509,smith e follin,120919111026971,,male,51343469.0
+10272.0,,85961,ryder system inc,1,0,0,0.0,20110509,nieto luis p jr,120919111026966,,male,51343469.0
 17347.0,7180.0,85961,ryder system inc,1,0,0,0.0,20110509,smith abbie j,120919111026969,,female,51343469.0
-23673.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,martin lynn m,120919111026964,,female,51343469.0
-10272.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,nieto luis p jr,120919111026966,,male,51343469.0
-11914.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,hassey l patrick,120919111026960,,male,51343469.0
+11914.0,,85961,ryder system inc,1,0,0,0.0,20110509,hassey l patrick,120919111026960,,male,51343469.0
 21407.0,1608.0,85961,ryder system inc,1,0,0,0.0,20110509,fuente david i,120919111026956,,male,51343469.0
-16915.0,0.0,85961,ryder system inc,1,0,0,0.0,20110509,berra john m,120919111026954,,male,51343469.0
+16915.0,,85961,ryder system inc,1,0,0,0.0,20110509,berra john m,120919111026954,,male,51343469.0
 9956.0,807.0,85961,ryder system inc,1,0,0,0.0,20110509,beard james s,120919111026950,,male,51343469.0
-10421.0,0.0,85961,ryder system inc,0,1,0,0.0,20110509,greene gregory f,120919111026822,EVP and CAO,male,51343469.0
-3109.0,0.0,85961,ryder system inc,1,0,0,0.0,20110516,eck robert j.,120919111028656,,male,51343469.0
+10421.0,,85961,ryder system inc,0,1,0,0.0,20110509,greene gregory f,120919111026822,EVP and CAO,male,51343469.0
+23673.0,,85961,ryder system inc,1,0,0,0.0,20110509,martin lynn m,120919111026964,,female,51343469.0
+3109.0,,85961,ryder system inc,1,0,0,0.0,20110516,eck robert j.,120919111028656,,male,51343469.0
 91133.0,42743.0,85961,ryder system inc,1,1,0,0.0,20110518,swienton gregory t,120919111029507,Chairman & CEO,male,51343469.0
 99400.0,34506.0,85961,ryder system inc,1,1,0,0.0,20110608,swienton gregory t,120919111033723,Chairman & CEO,male,51343469.0
-11375.0,0.0,85961,ryder system inc,0,1,0,0.0,20110624,williford john h,120919111036213,"President, Global Supply Chain",male,51343469.0
+11375.0,,85961,ryder system inc,0,1,0,0.0,20110624,williford john h,120919111036213,"President, Global Supply Chain",male,51343469.0
 99847.0,34699.0,85961,ryder system inc,1,1,0,0.0,20110701,swienton gregory t,120919111037059,Chairman & CEO,male,51132027.0
-26375.0,0.0,85961,ryder system inc,0,1,0,0.0,20110722,williford john h,120919111040618,"President, Global Supply Chain",male,51132027.0
-4127.0,0.0,85961,ryder system inc,0,1,0,0.0,20110808,fatovic robert d,120919111042937,"EVP, CLO & Corp. Secretary",male,51132027.0
-6280.0,0.0,85961,ryder system inc,0,1,0,0.0,20110816,fatovic robert d,120919111044475,"EVP, CLO & Corp. Secretary",male,51132027.0
+26375.0,,85961,ryder system inc,0,1,0,0.0,20110722,williford john h,120919111040618,"President, Global Supply Chain",male,51132027.0
+4127.0,,85961,ryder system inc,0,1,0,0.0,20110808,fatovic robert d,120919111042937,"EVP, CLO & Corp. Secretary",male,51132027.0
+6280.0,,85961,ryder system inc,0,1,0,0.0,20110816,fatovic robert d,120919111044475,"EVP, CLO & Corp. Secretary",male,51132027.0
 100462.0,34942.0,85961,ryder system inc,1,1,0,0.0,20111109,swienton gregory t,120919111055304,Chairman & CEO,male,51125400.0
 56326.0,4035.0,85961,ryder system inc,0,1,0,0.0,20111114,sanchez robert e,120919111055916,President - Global FMS,male,51125400.0
 100462.0,34964.0,85961,ryder system inc,1,1,0,0.0,20111207,swienton gregory t,120919111060155,Chairman & CEO,male,51125400.0
-18562.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,tookes hansel e ii,120919111062407,,male,51125400.0
-13824.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,smith e follin,120919111062406,,male,51125400.0
+18562.0,,85961,ryder system inc,1,0,0,0.0,20111220,tookes hansel e ii,120919111062407,,male,51125400.0
+13824.0,,85961,ryder system inc,1,0,0,0.0,20111220,smith e follin,120919111062406,,male,51125400.0
 17692.0,7359.0,85961,ryder system inc,1,0,0,0.0,20111220,smith abbie j,120919111062404,,female,51125400.0
-22943.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,renna eugene a,120919111062401,,male,51125400.0
-10496.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,nieto luis p jr,120919111062400,,male,51125400.0
+22943.0,,85961,ryder system inc,1,0,0,0.0,20111220,renna eugene a,120919111062401,,male,51125400.0
+24187.0,,85961,ryder system inc,1,0,0,0.0,20111220,martin lynn m,120919111062399,,female,51125400.0
+12176.0,,85961,ryder system inc,1,0,0,0.0,20111220,hassey l patrick,120919111062396,,male,51125400.0
+3128.0,,85961,ryder system inc,1,0,0,0.0,20111220,eck robert j.,120919111062393,,male,51125400.0
+17260.0,,85961,ryder system inc,1,0,0,0.0,20111220,berra john m,120919111062389,,male,51125400.0
 10126.0,1488.0,85961,ryder system inc,1,0,0,0.0,20111220,beard james s,120919111062386,,male,51125400.0
-12176.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,hassey l patrick,120919111062396,,male,51125400.0
-3128.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,eck robert j.,120919111062393,,male,51125400.0
-17260.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,berra john m,120919111062389,,male,51125400.0
-24187.0,0.0,85961,ryder system inc,1,0,0,0.0,20111220,martin lynn m,120919111062399,,female,51125400.0
+10496.0,,85961,ryder system inc,1,0,0,0.0,20111220,nieto luis p jr,120919111062400,,male,51125400.0
 21087.0,8484.0,85961,ryder system inc,0,1,0,0.0,20120104,fatovic robert d,120919112001700,"EVP, CLO & Corp. Secretary",male,51143946.0
 10948.0,1506.0,85961,ryder system inc,1,0,0,0.0,20120104,beard james s,120919112001706,,male,51143946.0
-20466.0,0.0,85961,ryder system inc,0,1,0,0.0,20120214,greene gregory f,120919112010197,EVP and CAO,male,51169546.0
-26055.0,0.0,85961,ryder system inc,0,1,0,0.0,20120214,williford john h,120919112010211,"President, Global Supply Chain",male,51169546.0
-0.0,2808.0,85961,ryder system inc,0,1,0,0.0,20120214,garcia art a,120919112010205,EVP & Chief Financial Officer,male,51169546.0
+26055.0,,85961,ryder system inc,0,1,0,0.0,20120214,williford john h,120919112010211,"President, Global Supply Chain",male,51169546.0
+,2808.0,85961,ryder system inc,0,1,0,0.0,20120214,garcia art a,120919112010205,EVP & Chief Financial Officer,male,51169546.0
+20466.0,,85961,ryder system inc,0,1,0,0.0,20120214,greene gregory f,120919112010197,EVP and CAO,male,51169546.0
 56036.0,4058.0,85961,ryder system inc,0,1,0,0.0,20120214,sanchez robert e,120919112010204,President and COO,male,51169546.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20120214,gallo-aquino cristina,120919112010187,VP and Controller,female,51169546.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20120214,cooke dennis c,120919112010183,"President, Global FMS",male,51169546.0
-100368.0,35217.0,85961,ryder system inc,1,1,0,0.0,20120214,swienton gregory t,120919112010133,Chairman & CEO,male,51169546.0
-24187.0,0.0,85961,ryder system inc,1,0,0,0.0,20120214,martin lynn m,120919112009769,,female,51169546.0
 30927.0,8487.0,85961,ryder system inc,0,1,0,0.0,20120214,fatovic robert d,120919112010185,"EVP, CLO & Corp. Secretary",male,51169546.0
-26055.0,0.0,85961,ryder system inc,0,1,0,0.0,20120215,williford john h,120919112010596,"President, Global Supply Chain",male,51169546.0
+,,85961,ryder system inc,0,1,0,0.0,20120214,cooke dennis c,120919112010183,"President, Global FMS",male,51169546.0
+100368.0,35217.0,85961,ryder system inc,1,1,0,0.0,20120214,swienton gregory t,120919112010133,Chairman & CEO,male,51169546.0
+24187.0,,85961,ryder system inc,1,0,0,0.0,20120214,martin lynn m,120919112009769,,female,51169546.0
+,,85961,ryder system inc,0,1,0,0.0,20120214,gallo-aquino cristina,120919112010187,VP and Controller,female,51169546.0
+26055.0,,85961,ryder system inc,0,1,0,0.0,20120215,williford john h,120919112010596,"President, Global Supply Chain",male,51169546.0
 100368.0,35288.0,85961,ryder system inc,1,1,0,0.0,20120307,swienton gregory t,120919112016347,Chairman & CEO,male,51169546.0
 100368.0,35284.0,85961,ryder system inc,1,1,0,0.0,20120319,swienton gregory t,120919112019043,Chairman & CEO,male,51169546.0
 56036.0,4078.0,85961,ryder system inc,0,1,0,0.0,20120319,sanchez robert e,120919112019056,President and COO,male,51169546.0
-19807.0,8223.0,85961,ryder system inc,1,0,0,0.0,20120508,smith abbie j,120919112026566,,female,51273569.0
-20677.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,tookes hansel e ii,120919112026578,,male,51273569.0
-15939.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,smith e follin,120919112026570,,male,51273569.0
-12611.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,nieto luis p jr,120919112026558,,male,51273569.0
-25058.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,renna eugene a,120919112026560,,male,51273569.0
-5243.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,eck robert j.,120919112026553,,male,51273569.0
-19375.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,berra john m,120919112026549,,male,51273569.0
 13063.0,1519.0,85961,ryder system inc,1,0,0,0.0,20120508,beard james s,120919112026540,,male,51273569.0
-14291.0,0.0,85961,ryder system inc,1,0,0,0.0,20120508,hassey l patrick,120919112026557,,male,51273569.0
-1427.0,0.0,85961,ryder system inc,1,0,0,0.0,20120705,hilton michael f,120919112037309,,male,51123202.0
+19375.0,,85961,ryder system inc,1,0,0,0.0,20120508,berra john m,120919112026549,,male,51273569.0
+5243.0,,85961,ryder system inc,1,0,0,0.0,20120508,eck robert j.,120919112026553,,male,51273569.0
+14291.0,,85961,ryder system inc,1,0,0,0.0,20120508,hassey l patrick,120919112026557,,male,51273569.0
+12611.0,,85961,ryder system inc,1,0,0,0.0,20120508,nieto luis p jr,120919112026558,,male,51273569.0
+25058.0,,85961,ryder system inc,1,0,0,0.0,20120508,renna eugene a,120919112026560,,male,51273569.0
+19807.0,8223.0,85961,ryder system inc,1,0,0,0.0,20120508,smith abbie j,120919112026566,,female,51273569.0
+15939.0,,85961,ryder system inc,1,0,0,0.0,20120508,smith e follin,120919112026570,,male,51273569.0
+20677.0,,85961,ryder system inc,1,0,0,0.0,20120508,tookes hansel e ii,120919112026578,,male,51273569.0
+1427.0,,85961,ryder system inc,1,0,0,0.0,20120705,hilton michael f,120919112037309,,male,51123202.0
 55051.0,4156.0,85961,ryder system inc,0,1,0,0.0,20120830,sanchez robert e,120919112043757,President and COO,male,51123202.0
-11523.0,0.0,85961,ryder system inc,0,1,0,0.0,20120831,fatovic robert d,120919112043950,"EVP, CLO & Corp. Secretary",male,51123202.0
-641.0,0.0,85961,ryder system inc,1,0,0,0.0,20121003,lundgren tamara l.,120919112047908,,female,51112478.0
+11523.0,,85961,ryder system inc,0,1,0,0.0,20120831,fatovic robert d,120919112043950,"EVP, CLO & Corp. Secretary",male,51123202.0
+641.0,,85961,ryder system inc,1,0,0,0.0,20121003,lundgren tamara l.,120919112047908,,female,51112478.0
 102381.0,25178.0,85961,ryder system inc,1,1,0,0.0,20121107,swienton gregory t,120919112052183,Chairman & CEO,male,51112478.0
-5000.0,0.0,85961,ryder system inc,0,1,0,0.0,20121108,gallo-aquino cristina,120919112052254,VP and Controller,female,51112478.0
+5000.0,,85961,ryder system inc,0,1,0,0.0,20121108,gallo-aquino cristina,120919112052254,VP and Controller,female,51112478.0
 55057.0,4173.0,85961,ryder system inc,0,1,0,0.0,20121205,sanchez robert e,120919112056036,President and COO,male,51112478.0
 102381.0,25209.0,85961,ryder system inc,1,1,0,0.0,20121207,swienton gregory t,120919112056332,Chairman & CEO,male,51112478.0
 20220.0,2885.0,85961,ryder system inc,0,1,0,0.0,20121207,garcia art a,120919112056358,EVP & Chief Financial Officer,male,51112478.0
-20654.0,0.0,85961,ryder system inc,0,1,0,0.0,20121218,greene gregory f,120919112058329,EVP and CAO,male,51112478.0
 102381.0,25207.0,85961,ryder system inc,1,1,0,0.0,20121218,swienton gregory t,120919112058242,Chairman & CEO,male,51112478.0
-20265.0,8434.0,85961,ryder system inc,1,0,0,0.0,20121226,smith abbie j,120919112059287,,female,51112478.0
-25531.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,renna eugene a,120919112059286,,male,51112478.0
-21150.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,tookes hansel e ii,120919112059289,,male,51112478.0
-16330.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,smith e follin,120919112059288,,male,51112478.0
-644.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,lundgren tamara l.,120919112059284,,female,51112478.0
-12928.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,nieto luis p jr,120919112059285,,male,51112478.0
-1446.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,hilton michael f,120919112059282,,male,51112478.0
-14653.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,hassey l patrick,120919112059281,,male,51112478.0
-5316.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,eck robert j.,120919112059280,,male,51112478.0
-19833.0,0.0,85961,ryder system inc,1,0,0,0.0,20121226,berra john m,120919112059279,,male,51112478.0
+20654.0,,85961,ryder system inc,0,1,0,0.0,20121218,greene gregory f,120919112058329,EVP and CAO,male,51112478.0
 13318.0,2353.0,85961,ryder system inc,1,0,0,0.0,20121226,beard james s,120919112059278,,male,51112478.0
+19833.0,,85961,ryder system inc,1,0,0,0.0,20121226,berra john m,120919112059279,,male,51112478.0
+5316.0,,85961,ryder system inc,1,0,0,0.0,20121226,eck robert j.,120919112059280,,male,51112478.0
+14653.0,,85961,ryder system inc,1,0,0,0.0,20121226,hassey l patrick,120919112059281,,male,51112478.0
+1446.0,,85961,ryder system inc,1,0,0,0.0,20121226,hilton michael f,120919112059282,,male,51112478.0
+644.0,,85961,ryder system inc,1,0,0,0.0,20121226,lundgren tamara l.,120919112059284,,female,51112478.0
+12928.0,,85961,ryder system inc,1,0,0,0.0,20121226,nieto luis p jr,120919112059285,,male,51112478.0
+16330.0,,85961,ryder system inc,1,0,0,0.0,20121226,smith e follin,120919112059288,,male,51112478.0
+25531.0,,85961,ryder system inc,1,0,0,0.0,20121226,renna eugene a,120919112059286,,male,51112478.0
+20265.0,8434.0,85961,ryder system inc,1,0,0,0.0,20121226,smith abbie j,120919112059287,,female,51112478.0
+21150.0,,85961,ryder system inc,1,0,0,0.0,20121226,tookes hansel e ii,120919112059289,,male,51112478.0
 31423.0,17726.0,85961,ryder system inc,0,1,0,0.0,20130104,fatovic robert d,120919113002178,"EVP, CLO & Corp. Secretary",male,51371696.0
-20712.0,0.0,85961,ryder system inc,0,1,0,0.0,20130104,greene gregory f,120919113002196,EVP and CAO,male,51371696.0
+20712.0,,85961,ryder system inc,0,1,0,0.0,20130104,greene gregory f,120919113002196,EVP and CAO,male,51371696.0
 20220.0,2881.0,85961,ryder system inc,0,1,0,0.0,20130122,garcia art a,120919113003869,EVP & Chief Financial Officer,male,51371696.0
+26307.0,,85961,ryder system inc,0,1,0,0.0,20130206,williford john h,120919113006771,"President, Global Supply Chain",male,51477492.0
 103051.0,25367.0,85961,ryder system inc,1,1,0,0.0,20130206,swienton gregory t,120919113006768,Chairman & CEO,male,51477492.0
-26307.0,0.0,85961,ryder system inc,0,1,0,0.0,20130206,williford john h,120919113006771,"President, Global Supply Chain",male,51477492.0
-25531.0,0.0,85961,ryder system inc,1,0,0,0.0,20130208,renna eugene a,120919113007297,,male,51477492.0
-5395.0,0.0,85961,ryder system inc,0,1,0,0.0,20130212,gallo-aquino cristina,120919113008224,VP and Controller,female,51477492.0
-25786.0,0.0,85961,ryder system inc,0,1,0,0.0,20130212,williford john h,120919113008221,"President, Global Supply Chain",male,51477492.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20130212,cooke dennis c,120919113008209,"President, Global FMS",male,51477492.0
-20546.0,0.0,85961,ryder system inc,0,1,0,0.0,20130212,greene gregory f,120919113008208,EVP and CAO,male,51477492.0
-0.0,2881.0,85961,ryder system inc,0,1,0,0.0,20130212,garcia art a,120919113008206,EVP & Chief Financial Officer,male,51477492.0
+25531.0,,85961,ryder system inc,1,0,0,0.0,20130208,renna eugene a,120919113007297,,male,51477492.0
+5395.0,,85961,ryder system inc,0,1,0,0.0,20130212,gallo-aquino cristina,120919113008224,VP and Controller,female,51477492.0
+,,85961,ryder system inc,0,1,0,0.0,20130212,cooke dennis c,120919113008209,"President, Global FMS",male,51477492.0
+25786.0,,85961,ryder system inc,0,1,0,0.0,20130212,williford john h,120919113008221,"President, Global Supply Chain",male,51477492.0
+31257.0,17702.0,85961,ryder system inc,0,1,0,0.0,20130212,fatovic robert d,120919113008207,"EVP, CLO & Corp. Secretary",male,51477492.0
+,2881.0,85961,ryder system inc,0,1,0,0.0,20130212,garcia art a,120919113008206,EVP & Chief Financial Officer,male,51477492.0
 49319.0,4160.0,85961,ryder system inc,0,1,0,0.0,20130212,sanchez robert e,120919113008205,President and COO,male,51477492.0
 102131.0,25145.0,85961,ryder system inc,1,1,0,0.0,20130212,swienton gregory t,120919113008202,Chairman & CEO,male,51477492.0
-31257.0,17702.0,85961,ryder system inc,0,1,0,0.0,20130212,fatovic robert d,120919113008207,"EVP, CLO & Corp. Secretary",male,51477492.0
+20546.0,,85961,ryder system inc,0,1,0,0.0,20130212,greene gregory f,120919113008208,EVP and CAO,male,51477492.0
 20220.0,2895.0,85961,ryder system inc,0,1,0,0.0,20130315,garcia art a,120919113016972,EVP & Chief Financial Officer,male,51477492.0
-18211.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,smith e follin,120919113024662,,male,51922227.0
-21714.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,berra john m,120919113024640,,male,51922227.0
-23031.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,tookes hansel e ii,120919113024644,,male,51922227.0
-7197.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,eck robert j.,120919113024646,,male,51922227.0
-16534.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,hassey l patrick,120919113024647,,male,51922227.0
-3327.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,hilton michael f,120919113024648,,male,51922227.0
-2525.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,lundgren tamara l.,120919113024650,,female,51922227.0
-14809.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,nieto luis p jr,120919113024651,,male,51922227.0
-27412.0,0.0,85961,ryder system inc,1,0,0,0.0,20130507,renna eugene a,120919113024654,,male,51922227.0
+18211.0,,85961,ryder system inc,1,0,0,0.0,20130507,smith e follin,120919113024662,,male,51922227.0
 22146.0,9752.0,85961,ryder system inc,1,0,0,0.0,20130507,smith abbie j,120919113024658,,female,51922227.0
-353.0,0.0,85961,ryder system inc,0,1,0,0.0,20130514,gallo-aquino cristina,120919113026208,VP and Controller,female,51922227.0
+27412.0,,85961,ryder system inc,1,0,0,0.0,20130507,renna eugene a,120919113024654,,male,51922227.0
+14809.0,,85961,ryder system inc,1,0,0,0.0,20130507,nieto luis p jr,120919113024651,,male,51922227.0
+3327.0,,85961,ryder system inc,1,0,0,0.0,20130507,hilton michael f,120919113024648,,male,51922227.0
+7197.0,,85961,ryder system inc,1,0,0,0.0,20130507,eck robert j.,120919113024646,,male,51922227.0
+23031.0,,85961,ryder system inc,1,0,0,0.0,20130507,tookes hansel e ii,120919113024644,,male,51922227.0
+21714.0,,85961,ryder system inc,1,0,0,0.0,20130507,berra john m,120919113024640,,male,51922227.0
+2525.0,,85961,ryder system inc,1,0,0,0.0,20130507,lundgren tamara l.,120919113024650,,female,51922227.0
+16534.0,,85961,ryder system inc,1,0,0,0.0,20130507,hassey l patrick,120919113024647,,male,51922227.0
+353.0,,85961,ryder system inc,0,1,0,0.0,20130514,gallo-aquino cristina,120919113026208,VP and Controller,female,51922227.0
+6034.0,,85961,ryder system inc,0,1,0,0.0,20130521,fatovic robert d,120919113027894,"EVP, CLO & Corp. Secretary",male,51922227.0
 48618.0,4200.0,85961,ryder system inc,1,1,0,0.0,20130521,sanchez robert e,120919113027911,"Chair, CEO and President",male,51922227.0
-6034.0,0.0,85961,ryder system inc,0,1,0,0.0,20130521,fatovic robert d,120919113027894,"EVP, CLO & Corp. Secretary",male,51922227.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20130604,fatovic robert d,120919113030598,"EVP, CLO & Corp. Secretary",male,51922227.0
+0.0,,85961,ryder system inc,0,1,0,0.0,20130604,fatovic robert d,120919113030598,"EVP, CLO & Corp. Secretary",male,51922227.0
 48618.0,4200.0,85961,ryder system inc,1,1,0,0.0,20130805,sanchez robert e,120919113039290,"Chair, CEO and President",male,52326720.0
-20651.0,0.0,85961,ryder system inc,0,1,0,0.0,20130807,greene gregory f,120919113039738,EVP and CAO,male,52326720.0
+20651.0,,85961,ryder system inc,0,1,0,0.0,20130807,greene gregory f,120919113039738,EVP and CAO,male,52326720.0
 23859.0,10695.0,85961,ryder system inc,1,0,0,0.0,20130830,smith abbie j,120919113042424,,female,52326720.0
 42326.0,4233.0,85961,ryder system inc,1,1,0,0.0,20130904,sanchez robert e,120919113042991,"Chair, CEO and President",male,52326720.0
 17394.0,2930.0,85961,ryder system inc,0,1,0,0.0,20130904,garcia art a,120919113042996,EVP & Chief Financial Officer,male,52326720.0
-7000.0,0.0,85961,ryder system inc,0,1,0,0.0,20130918,jones karen m.,120919113044763,SVP & Chief Marketing Officer,female,52326720.0
-17394.0,2922.0,85961,ryder system inc,0,1,0,0.0,20131025,garcia art a,120919113049412,EVP & Chief Financial Officer,male,52593266.0
-15000.0,0.0,85961,ryder system inc,0,1,0,0.0,20131203,cooke dennis c,120919113055037,"President, Global FMS",male,52593266.0
-17394.0,2934.0,85961,ryder system inc,0,1,0,0.0,20131203,garcia art a,120919113055038,EVP & Chief Financial Officer,male,52593266.0
-15103.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,nieto luis p jr,120919113058372,,male,52593266.0
-22553.0,10634.0,85961,ryder system inc,1,0,0,0.0,20131223,smith abbie j,120919113058376,,female,52593266.0
-23450.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,tookes hansel e ii,120919113058375,,male,52593266.0
-18563.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,smith e follin,120919113058374,,male,52593266.0
-27831.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,renna eugene a,120919113058373,,male,52593266.0
-2566.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,lundgren tamara l.,120919113058371,,female,52593266.0
-3385.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,hilton michael f,120919113058370,,male,52593266.0
-16862.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,hassey l patrick,120919113058369,,male,52593266.0
-7293.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,eck robert j.,120919113058359,,male,52593266.0
-22121.0,0.0,85961,ryder system inc,1,0,0,0.0,20131223,berra john m,120919113058357,,male,52593266.0
-15000.0,0.0,85961,ryder system inc,0,1,0,0.0,20140123,cooke dennis c,120919114004527,"President, Global FMS",male,53335386.0
-0.0,4220.0,85961,ryder system inc,1,1,0,0.0,20140211,sanchez robert e,120919114009220,"Chair, CEO and President",male,53399863.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20140211,cooke dennis c,120919114009222,"President, Global FMS",male,53399863.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20140211,williford john h,120919114009223,"President, Global Supply Chain",male,53399863.0
-0.0,2931.0,85961,ryder system inc,0,1,0,0.0,20140211,garcia art a,120919114009226,EVP & Chief Financial Officer,male,53399863.0
-0.0,324.0,85961,ryder system inc,0,1,0,0.0,20140211,fatovic robert d,120919114009229,"EVP, CLO & Corp. Secretary",male,53399863.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20140211,greene gregory f,120919114009231,EVP and CAO,male,53399863.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20140211,jones karen m.,120919114009232,SVP & Chief Marketing Officer,female,53399863.0
-1033.0,0.0,85961,ryder system inc,0,1,0,0.0,20140211,gallo-aquino cristina,120919114009235,VP and Controller,female,53399863.0
-26000.0,0.0,85961,ryder system inc,0,1,0,0.0,20140213,williford john h,120919114010165,"President, Global Supply Chain",male,53399863.0
+7000.0,,85961,ryder system inc,0,1,0,0.0,20130918,jones karen m.,120919113044763,SVP & Chief Marketing Officer,female,52326720.0
+17394.0,2922.0,85961,ryder system inc,0,1,0,0.0,20131025,garcia art a,120919113049412,EVP & Chief Financial Officer,male,53593266.0
+17394.0,2934.0,85961,ryder system inc,0,1,0,0.0,20131203,garcia art a,120919113055038,EVP & Chief Financial Officer,male,53593266.0
+15000.0,,85961,ryder system inc,0,1,0,0.0,20131203,cooke dennis c,120919113055037,"President, Global FMS",male,53593266.0
+22553.0,10634.0,85961,ryder system inc,1,0,0,0.0,20131223,smith abbie j,120919113058376,,female,53593266.0
+23450.0,,85961,ryder system inc,1,0,0,0.0,20131223,tookes hansel e ii,120919113058375,,male,53593266.0
+27831.0,,85961,ryder system inc,1,0,0,0.0,20131223,renna eugene a,120919113058373,,male,53593266.0
+18563.0,,85961,ryder system inc,1,0,0,0.0,20131223,smith e follin,120919113058374,,male,53593266.0
+2566.0,,85961,ryder system inc,1,0,0,0.0,20131223,lundgren tamara l.,120919113058371,,female,53593266.0
+3385.0,,85961,ryder system inc,1,0,0,0.0,20131223,hilton michael f,120919113058370,,male,53593266.0
+16862.0,,85961,ryder system inc,1,0,0,0.0,20131223,hassey l patrick,120919113058369,,male,53593266.0
+7293.0,,85961,ryder system inc,1,0,0,0.0,20131223,eck robert j.,120919113058359,,male,53593266.0
+22121.0,,85961,ryder system inc,1,0,0,0.0,20131223,berra john m,120919113058357,,male,53593266.0
+15103.0,,85961,ryder system inc,1,0,0,0.0,20131223,nieto luis p jr,120919113058372,,male,53593266.0
+15000.0,,85961,ryder system inc,0,1,0,0.0,20140123,cooke dennis c,120919114004527,"President, Global FMS",male,53335386.0
+1033.0,,85961,ryder system inc,0,1,0,0.0,20140211,gallo-aquino cristina,120919114009235,VP and Controller,female,53399863.0
+,,85961,ryder system inc,0,1,0,0.0,20140211,jones karen m.,120919114009232,SVP & Chief Marketing Officer,female,53399863.0
+,,85961,ryder system inc,0,1,0,0.0,20140211,greene gregory f,120919114009231,EVP and CAO,male,53399863.0
+,2931.0,85961,ryder system inc,0,1,0,0.0,20140211,garcia art a,120919114009226,EVP & Chief Financial Officer,male,53399863.0
+,,85961,ryder system inc,0,1,0,0.0,20140211,williford john h,120919114009223,"President, Global Supply Chain",male,53399863.0
+,,85961,ryder system inc,0,1,0,0.0,20140211,cooke dennis c,120919114009222,"President, Global FMS",male,53399863.0
+,4220.0,85961,ryder system inc,1,1,0,0.0,20140211,sanchez robert e,120919114009220,"Chair, CEO and President",male,53399863.0
+,324.0,85961,ryder system inc,0,1,0,0.0,20140211,fatovic robert d,120919114009229,"EVP, CLO & Corp. Secretary",male,53399863.0
+26000.0,,85961,ryder system inc,0,1,0,0.0,20140213,williford john h,120919114010165,"President, Global Supply Chain",male,53399863.0
 4308.0,1033.0,85961,ryder system inc,0,1,0,0.0,20140213,gallo-aquino cristina,120919114010167,VP and Controller,female,53399863.0
 730.0,1038.0,85961,ryder system inc,0,1,0,0.0,20140224,gallo-aquino cristina,120919114013389,VP and Controller,female,53399863.0
 16394.0,2944.0,85961,ryder system inc,0,1,0,0.0,20140225,garcia art a,120919114014041,EVP & Chief Financial Officer,male,53399863.0
-26000.0,0.0,85961,ryder system inc,0,1,0,0.0,20140307,williford john h,120919114018456,"President, Global Supply Chain",male,53399863.0
-15359.0,0.0,85961,ryder system inc,0,1,0,0.0,20140505,greene gregory f,120919114030983,EVP and CAO,male,53184496.0
-3245.0,1036.0,85961,ryder system inc,0,1,0,0.0,20140505,gallo-aquino cristina,120919114030985,VP and Controller,female,53184496.0
-23462.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,berra john m,120919114030993,,male,53184496.0
-8634.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,eck robert j.,120919114030994,,male,53184496.0
-18203.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,hassey l patrick,120919114030995,,male,53184496.0
-4726.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,hilton michael f,120919114030996,,male,53184496.0
-3907.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,lundgren tamara l.,120919114030997,,female,53184496.0
-16444.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,nieto luis p jr,120919114030998,,male,53184496.0
-29172.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,renna eugene a,120919114030999,,male,53184496.0
+26000.0,,85961,ryder system inc,0,1,0,0.0,20140307,williford john h,120919114018456,"President, Global Supply Chain",male,53399863.0
+24791.0,,85961,ryder system inc,1,0,0,0.0,20140505,tookes hansel e ii,120919114031002,,male,53184496.0
+29172.0,,85961,ryder system inc,1,0,0,0.0,20140505,renna eugene a,120919114030999,,male,53184496.0
+19904.0,,85961,ryder system inc,1,0,0,0.0,20140505,smith e follin,120919114031001,,male,53184496.0
 23894.0,10673.0,85961,ryder system inc,1,0,0,0.0,20140505,smith abbie j,120919114031000,,female,53184496.0
-19904.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,smith e follin,120919114031001,,male,53184496.0
-24791.0,0.0,85961,ryder system inc,1,0,0,0.0,20140505,tookes hansel e ii,120919114031002,,male,53184496.0
-15000.0,0.0,85961,ryder system inc,0,1,0,0.0,20140508,cooke dennis c,120919114032097,"President, Global FMS",male,53184496.0
-15359.0,0.0,85961,ryder system inc,0,1,0,0.0,20140509,greene gregory f,120919114032621,EVP and CAO,male,53184496.0
+16444.0,,85961,ryder system inc,1,0,0,0.0,20140505,nieto luis p jr,120919114030998,,male,53184496.0
+23462.0,,85961,ryder system inc,1,0,0,0.0,20140505,berra john m,120919114030993,,male,53184496.0
+4726.0,,85961,ryder system inc,1,0,0,0.0,20140505,hilton michael f,120919114030996,,male,53184496.0
+3907.0,,85961,ryder system inc,1,0,0,0.0,20140505,lundgren tamara l.,120919114030997,,female,53184496.0
+3245.0,1036.0,85961,ryder system inc,0,1,0,0.0,20140505,gallo-aquino cristina,120919114030985,VP and Controller,female,53184496.0
+15359.0,,85961,ryder system inc,0,1,0,0.0,20140505,greene gregory f,120919114030983,EVP and CAO,male,53184496.0
+18203.0,,85961,ryder system inc,1,0,0,0.0,20140505,hassey l patrick,120919114030995,,male,53184496.0
+8634.0,,85961,ryder system inc,1,0,0,0.0,20140505,eck robert j.,120919114030994,,male,53184496.0
+15000.0,,85961,ryder system inc,0,1,0,0.0,20140508,cooke dennis c,120919114032097,"President, Global FMS",male,53184496.0
+15359.0,,85961,ryder system inc,0,1,0,0.0,20140509,greene gregory f,120919114032621,EVP and CAO,male,53184496.0
 41602.0,4229.0,85961,ryder system inc,1,1,0,0.0,20140514,sanchez robert e,120919114033873,"Chair, CEO and President",male,53184496.0
-41602.0,4245.0,85961,ryder system inc,1,1,0,0.0,20140529,sanchez robert e,120919114037712,Chair and CEO,male,53184496.0
 3245.0,1040.0,85961,ryder system inc,0,1,0,0.0,20140529,gallo-aquino cristina,120919114037682,VP and Controller,female,53184496.0
 10820.0,691.0,85961,ryder system inc,0,1,0,0.0,20140529,fatovic robert d,120919114037705,"EVP, CLO & Corp. Secretary",male,53184496.0
-18261.0,0.0,85961,ryder system inc,0,1,0,0.0,20140723,williford john h,120919114048661,"President, Global Supply Chain",male,53067722.0
-18708.0,0.0,85961,ryder system inc,0,1,0,0.0,20140724,cooke dennis c,120919114048855,"President, Global FMS",male,53067722.0
-10000.0,0.0,85961,ryder system inc,0,1,0,0.0,20140730,cooke dennis c,120919114049496,"President, Global FMS",male,53067722.0
-528.0,0.0,85961,ryder system inc,1,0,0,0.0,20140805,hagemann robert,120919114050484,,male,53067722.0
-18331.0,0.0,85961,ryder system inc,0,1,0,0.0,20141029,williford john h,120919114065231,"President, Global Supply Chain",male,53039595.0
+41602.0,4245.0,85961,ryder system inc,1,1,0,0.0,20140529,sanchez robert e,120919114037712,Chair and CEO,male,53184496.0
+18261.0,,85961,ryder system inc,0,1,0,0.0,20140723,williford john h,120919114048661,"President, Global Supply Chain",male,53067722.0
+18708.0,,85961,ryder system inc,0,1,0,0.0,20140724,cooke dennis c,120919114048855,"President, Global FMS",male,53067722.0
+10000.0,,85961,ryder system inc,0,1,0,0.0,20140730,cooke dennis c,120919114049496,"President, Global FMS",male,53067722.0
+528.0,,85961,ryder system inc,1,0,0,0.0,20140805,hagemann robert,120919114050484,,male,53067722.0
+18331.0,,85961,ryder system inc,0,1,0,0.0,20141029,williford john h,120919114065231,"President, Global Supply Chain",male,53039595.0
+10000.0,,85961,ryder system inc,0,1,0,0.0,20141112,cooke dennis c,120919114068213,"President, Global FMS",male,53039595.0
 16394.0,2958.0,85961,ryder system inc,0,1,0,0.0,20141112,garcia art a,120919114067870,EVP & Chief Financial Officer,male,53039595.0
-10000.0,0.0,85961,ryder system inc,0,1,0,0.0,20141112,cooke dennis c,120919114068213,"President, Global FMS",male,53039595.0
 41602.0,4277.0,85961,ryder system inc,1,1,0,0.0,20141121,sanchez robert e,120919114070682,Chair and CEO,male,53039595.0
-10010.0,0.0,85961,ryder system inc,0,1,0,0.0,20141125,greene gregory f,120919114071180,EVP and CAO,male,53039595.0
-16702.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,nieto luis p jr,120919114077276,,male,53039595.0
-25152.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,tookes hansel e ii,120919114077285,,male,53039595.0
-20210.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,smith e follin,120919114077283,,male,53039595.0
+10010.0,,85961,ryder system inc,0,1,0,0.0,20141125,greene gregory f,120919114071180,EVP and CAO,male,53039595.0
 24244.0,10790.0,85961,ryder system inc,1,0,0,0.0,20141222,smith abbie j,120919114077280,,female,53039595.0
-3963.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,lundgren tamara l.,120919114077275,,female,53039595.0
-4795.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,hilton michael f,120919114077273,,male,53039595.0
-18490.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,hassey l patrick,120919114077271,,male,53039595.0
-532.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,hagemann robert,120919114077270,,male,53039595.0
-8734.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,eck robert j.,120919114077269,,male,53039595.0
-23812.0,0.0,85961,ryder system inc,1,0,0,0.0,20141222,berra john m,120919114077267,,male,53039595.0
-1236.0,0.0,85961,ryder system inc,1,0,0,0.0,20150106,hagemann robert,120919115001803,,male,53039688.0
-3636.0,0.0,85961,ryder system inc,1,0,0,0.0,20150210,hagemann robert,120919115011486,,male,52988075.0
-18401.0,0.0,85961,ryder system inc,0,1,0,0.0,20150211,williford john h,120919115011859,"President, Global Supply Chain",male,52988075.0
-6822.0,0.0,85961,ryder system inc,0,1,0,0.0,20150212,greene gregory f,120919115012463,EVP and CAO,male,52988075.0
+20210.0,,85961,ryder system inc,1,0,0,0.0,20141222,smith e follin,120919114077283,,male,53039595.0
+16702.0,,85961,ryder system inc,1,0,0,0.0,20141222,nieto luis p jr,120919114077276,,male,53039595.0
+25152.0,,85961,ryder system inc,1,0,0,0.0,20141222,tookes hansel e ii,120919114077285,,male,53039595.0
+4795.0,,85961,ryder system inc,1,0,0,0.0,20141222,hilton michael f,120919114077273,,male,53039595.0
+18490.0,,85961,ryder system inc,1,0,0,0.0,20141222,hassey l patrick,120919114077271,,male,53039595.0
+532.0,,85961,ryder system inc,1,0,0,0.0,20141222,hagemann robert,120919114077270,,male,53039595.0
+8734.0,,85961,ryder system inc,1,0,0,0.0,20141222,eck robert j.,120919114077269,,male,53039595.0
+23812.0,,85961,ryder system inc,1,0,0,0.0,20141222,berra john m,120919114077267,,male,53039595.0
+3963.0,,85961,ryder system inc,1,0,0,0.0,20141222,lundgren tamara l.,120919114077275,,female,53039595.0
+1236.0,,85961,ryder system inc,1,0,0,0.0,20150106,hagemann robert,120919115001803,,male,53039688.0
+3636.0,,85961,ryder system inc,1,0,0,0.0,20150210,hagemann robert,120919115011486,,male,52988075.0
+18401.0,,85961,ryder system inc,0,1,0,0.0,20150211,williford john h,120919115011859,"President, Global Supply Chain",male,52988075.0
 8046.0,734.0,85961,ryder system inc,0,1,0,0.0,20150212,fatovic robert d,120919115012464,"EVP, CLO & Corp. Secretary",male,52988075.0
-16479.0,2971.0,85961,ryder system inc,0,1,0,0.0,20150217,garcia art a,120919115014438,EVP & Chief Financial Officer,male,52988075.0
-20511.0,0.0,85961,ryder system inc,0,1,0,0.0,20150217,williford john h,120919115014436,"President, Global Supply Chain",male,52988075.0
-0.0,0.0,85961,ryder system inc,0,1,0,0.0,20150217,jones karen m.,120919115014429,EVP & Chief Marketing Officer,female,52988075.0
+6822.0,,85961,ryder system inc,0,1,0,0.0,20150212,greene gregory f,120919115012463,EVP and CAO,male,52988075.0
 3856.0,1048.0,85961,ryder system inc,0,1,0,0.0,20150217,gallo-aquino cristina,120919115014437,VP and Controller,female,52988075.0
-8282.0,0.0,85961,ryder system inc,0,1,0,0.0,20150217,greene gregory f,120919115014416,EVP and CAO,male,52988075.0
-23732.0,0.0,85961,ryder system inc,0,1,0,0.0,20150217,cooke dennis c,120919115014410,"President, Global FMS",male,52988075.0
-44471.0,4277.0,85961,ryder system inc,1,1,0,0.0,20150217,sanchez robert e,120919115014404,Chair and CEO,male,52988075.0
+20511.0,,85961,ryder system inc,0,1,0,0.0,20150217,williford john h,120919115014436,"President, Global Supply Chain",male,52988075.0
+16479.0,2971.0,85961,ryder system inc,0,1,0,0.0,20150217,garcia art a,120919115014438,EVP & Chief Financial Officer,male,52988075.0
 9653.0,734.0,85961,ryder system inc,0,1,0,0.0,20150217,fatovic robert d,120919115014422,"EVP, CLO & Corp. Secretary",male,52988075.0
-8282.0,0.0,85961,ryder system inc,0,1,0,0.0,20150220,greene gregory f,120919115016532,EVP and CAO,male,52988075.0
+8282.0,,85961,ryder system inc,0,1,0,0.0,20150217,greene gregory f,120919115014416,EVP and CAO,male,52988075.0
+23732.0,,85961,ryder system inc,0,1,0,0.0,20150217,cooke dennis c,120919115014410,"President, Global FMS",male,52988075.0
+44471.0,4277.0,85961,ryder system inc,1,1,0,0.0,20150217,sanchez robert e,120919115014404,Chair and CEO,male,52988075.0
+,,85961,ryder system inc,0,1,0,0.0,20150217,jones karen m.,120919115014429,EVP & Chief Marketing Officer,female,52988075.0
+8282.0,,85961,ryder system inc,0,1,0,0.0,20150220,greene gregory f,120919115016532,EVP and CAO,male,52988075.0
 3520.0,1051.0,85961,ryder system inc,0,1,0,0.0,20150223,gallo-aquino cristina,120919115017351,VP and Controller,female,52988075.0
 5653.0,754.0,85961,ryder system inc,0,1,0,0.0,20150302,fatovic robert d,120919115020117,"EVP, CLO & Corp. Secretary",male,52988075.0
-21347.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,smith e follin,120919115038800,,male,53309221.0
+26289.0,,85961,ryder system inc,1,0,0,0.0,20150505,tookes hansel e ii,120919115038802,,male,53309221.0
+21347.0,,85961,ryder system inc,1,0,0,0.0,20150505,smith e follin,120919115038800,,male,53309221.0
 25381.0,10827.0,85961,ryder system inc,1,0,0,0.0,20150505,smith abbie j,120919115038799,,female,53309221.0
-17839.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,nieto luis p jr,120919115038797,,male,53309221.0
-5100.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,lundgren tamara l.,120919115038796,,female,53309221.0
-9871.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,eck robert j.,120919115038792,,male,53309221.0
-19627.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,hassey l patrick,120919115038794,,male,53309221.0
-4773.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,hagemann robert,120919115038793,,male,53309221.0
-24949.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,berra john m,120919115038790,,male,53309221.0
-26289.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,tookes hansel e ii,120919115038802,,male,53309221.0
-5932.0,0.0,85961,ryder system inc,1,0,0,0.0,20150505,hilton michael f,120919115038795,,male,53309221.0
+17839.0,,85961,ryder system inc,1,0,0,0.0,20150505,nieto luis p jr,120919115038797,,male,53309221.0
+19627.0,,85961,ryder system inc,1,0,0,0.0,20150505,hassey l patrick,120919115038794,,male,53309221.0
+5932.0,,85961,ryder system inc,1,0,0,0.0,20150505,hilton michael f,120919115038795,,male,53309221.0
+4773.0,,85961,ryder system inc,1,0,0,0.0,20150505,hagemann robert,120919115038793,,male,53309221.0
+9871.0,,85961,ryder system inc,1,0,0,0.0,20150505,eck robert j.,120919115038792,,male,53309221.0
+5100.0,,85961,ryder system inc,1,0,0,0.0,20150505,lundgren tamara l.,120919115038796,,female,53309221.0
+24949.0,,85961,ryder system inc,1,0,0,0.0,20150505,berra john m,120919115038790,,male,53309221.0
 43643.0,4290.0,85961,ryder system inc,1,1,0,0.0,20150506,sanchez robert e,120919115039450,Chair and CEO,male,53309221.0
-5000.0,0.0,85961,ryder system inc,0,1,0,0.0,20150902,allen scott r.,120919115069211,VP and Controller,male,53374025.0
 1886.0,287.0,85961,ryder system inc,0,1,0,0.0,20150902,fatovic robert d,120919115069213,"EVP, CLO & Corp. Secretary",male,53374025.0
+5000.0,,85961,ryder system inc,0,1,0,0.0,20150902,allen scott r.,120919115069211,VP and Controller,male,53374025.0
+1886.0,287.0,85961,ryder system inc,0,1,0,0.0,20150902,fatovic robert d,120919115069213,"EVP, CLO & Corp. Secretary",male,53374025.0
+5000.0,,85961,ryder system inc,0,1,0,0.0,20150902,allen scott r.,120919115069211,VP and Controller,male,53374025.0
+25420.0,,85961,ryder system inc,1,0,0,0.0,20151222,berra john m,120919115086549,,male,53425097.0
+20021.0,,85961,ryder system inc,1,0,0,0.0,20151222,hassey l patrick,120919115086552,,male,53425097.0
+10026.0,,85961,ryder system inc,1,0,0,0.0,20151222,eck robert j.,120919115086550,,male,53425097.0
+26774.0,,85961,ryder system inc,1,0,0,0.0,20151222,tookes hansel e ii,120919115086558,,male,53425097.0
+21763.0,,85961,ryder system inc,1,0,0,0.0,20151222,smith e follin,120919115086557,,male,53425097.0
+25852.0,11068.0,85961,ryder system inc,1,0,0,0.0,20151222,smith abbie j,120919115086556,,female,53425097.0
+18195.0,,85961,ryder system inc,1,0,0,0.0,20151222,nieto luis p jr,120919115086555,,male,53425097.0
+5199.0,,85961,ryder system inc,1,0,0,0.0,20151222,lundgren tamara l.,120919115086554,,female,53425097.0
+6048.0,,85961,ryder system inc,1,0,0,0.0,20151222,hilton michael f,120919115086553,,male,53425097.0
+4801.0,,85961,ryder system inc,1,0,0,0.0,20151222,hagemann robert,120919115086551,,male,53425097.0
+5520.0,289.0,85961,ryder system inc,0,1,0,0.0,20160208,fatovic robert d,120919116096492,"EVP, CLO & Corp. Secretary",male,53493748.0
+65178.0,4381.0,85961,ryder system inc,1,1,0,0.0,20160212,sanchez robert e,120919116098336,Chair and CEO,male,53493748.0
+20954.0,3043.0,85961,ryder system inc,0,1,0,0.0,20160212,garcia art a,120919116098339,EVP & Chief Financial Officer,male,53493748.0
+7691.0,,85961,ryder system inc,0,1,0,0.0,20160212,diez john j.,120919116098343,"President, Ryder Dedicated",male,53493748.0
+6660.0,265.0,85961,ryder system inc,0,1,0,0.0,20160212,sensing john s.,120919116098346,"President, Global Supply Chain",male,53493748.0
+17624.0,,85961,ryder system inc,0,1,0,0.0,20160212,gleason john j,120919116098347,EVP Chief Sales Officer,male,53493748.0
+7796.0,,85961,ryder system inc,0,1,0,0.0,20160212,kirk melvin l.,120919116098349,SVP & CIO,male,53493748.0
+17707.0,,85961,ryder system inc,0,1,0,0.0,20160212,cooke dennis c,120919116098353,"President, Global FMS",male,53493748.0
+12304.0,,85961,ryder system inc,0,1,0,0.0,20160212,greene gregory f,120919116098356,EVP and CAO,male,53493748.0
+9626.0,5812.0,85961,ryder system inc,0,1,0,0.0,20160212,fatovic robert d,120919116098358,"EVP, CLO & Corp. Secretary",male,53493748.0
+5435.0,7.0,85961,ryder system inc,0,1,0,0.0,20160212,allen scott r.,120919116098366,VP and Controller,male,53493748.0
+9319.0,74.0,85961,ryder system inc,0,1,0,0.0,20160212,jones karen m.,120919116098361,EVP & Chief Marketing Officer,female,53493748.0
+18954.0,3065.0,85961,ryder system inc,0,1,0,0.0,20160222,garcia art a,120919116101086,EVP & Chief Financial Officer,male,53493748.0
+0.0,,85961,ryder system inc,0,1,0,0.0,20160224,sensing john s.,120919116102004,"President, Global Supply Chain",male,53493748.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,nieto luis p jr,8596116000122,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,tookes hansel e ii,8596116000125,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,smith e follin,8596116000124,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,smith abbie j,8596116000123,,female,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,lundgren tamara l.,8596116000121,,female,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,hassey l patrick,8596116000119,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,hagemann robert,8596116000118,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,eck robert j.,8596116000117,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,berra john m,8596116000116,,male,53703407.0
+,,85961,ryder system inc,1,0,0,0.0,20160510,hilton michael f,8596116000120,,male,53703407.0
+,,85961,ryder system inc,0,1,0,0.0,20160513,jones karen m.,8596116000129,EVP & Chief Marketing Officer,female,53703407.0
+,,85961,ryder system inc,1,1,0,0.0,20160526,sanchez robert e,8596116000133,Chair and CEO,male,53703407.0
+,,85961,ryder system inc,0,1,0,0.0,20160920,jones karen m.,8596116000148,EVP & Chief Marketing Officer,female,53478452.0
+,,85961,ryder system inc,0,1,0,0.0,20161031,jones karen m.,8596116000157,EVP & Chief Marketing Officer,female,53468413.0
+,,85961,ryder system inc,0,1,0,0.0,20161114,fatovic robert d,8596116000163,"EVP, CLO & Corp. Secretary",male,53468413.0
+,,85961,ryder system inc,0,1,0,0.0,20161115,gleason john j,8596116000165,EVP Chief Sales Officer,male,53468413.0
+,,85961,ryder system inc,0,1,0,0.0,20161116,cooke dennis c,8596116000167,"President, Global FMS",male,53468413.0
+,,85961,ryder system inc,0,1,0,0.0,20161116,garcia art a,8596116000169,EVP & Chief Financial Officer,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,berra john m,8596116000170,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,eck robert j.,8596116000171,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,hagemann robert,8596116000172,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,hassey l patrick,8596116000173,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,hilton michael f,8596116000174,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,lundgren tamara l.,8596116000175,,female,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,nieto luis p jr,8596116000176,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,smith abbie j,8596116000177,,female,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,smith e follin,8596116000178,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20161220,tookes hansel e ii,8596116000179,,male,53468413.0
+,,85961,ryder system inc,1,0,0,0.0,20170105,smith abbie j,8596117000002,,female,53463118.0
+,,85961,ryder system inc,0,1,0,0.0,20170209,sensing john s.,8596117000006,"President, Global Supply Chain",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170209,gleason john j,8596117000008,EVP Chief Sales Officer,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170209,lopez francisco jr.,8596117000007,SVP & Chief HR Officer,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170209,kirk melvin l.,8596117000010,SVP & CIO,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170209,diez john j.,8596117000009,"President, Ryder Dedicated",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170210,jones karen m.,8596117000011,EVP & Chief Marketing Officer,female,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,sanchez robert e,8596117000014,Chair and CEO,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,cooke dennis c,8596117000015,"President, Global FMS",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,sensing john s.,8596117000016,"President, Global Supply Chain",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,gleason john j,8596117000017,SVP & Chief HR Officer,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,diez john j.,8596117000018,"President, Ryder Dedicated",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,fatovic robert d,8596117000019,"EVP, CLO & Corp. Secretary",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,garcia art a,8596117000020,EVP & Chief Financial Officer,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,jones karen m.,8596117000021,EVP & Chief Marketing Officer,female,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,kirk melvin l.,8596117000022,SVP & CIO,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170214,lopez francisco jr.,8596117000023,SVP & Chief HR Officer,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170216,garcia art a,8596117000026,EVP & Chief Financial Officer,male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170221,sensing john s.,8596117000029,"President, Global Supply Chain",male,53464988.0
+,,85961,ryder system inc,0,1,0,0.0,20170503,lopez francisco jr.,162828017004827,SVP & Chief HR Officer,male,53560199.0
+,,85961,ryder system inc,0,1,0,0.0,20170503,kirk melvin l.,162828017004824,SVP & CIO,male,53560199.0
+,,85961,ryder system inc,0,1,0,0.0,20170503,diez john j.,162828017004823,"President, Ryder Dedicated",male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,smith e follin,8596117000052,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,lundgren tamara l.,8596117000053,,female,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,hagemann robert,8596117000054,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,berra john m,8596117000056,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,hilton michael f,8596117000057,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,nieto luis p jr,8596117000058,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,tookes hansel e ii,8596117000059,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,hassey l patrick,8596117000061,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,eck robert j.,8596117000055,,male,53560199.0
+,,85961,ryder system inc,1,0,0,0.0,20170509,smith abbie j,8596117000063,,female,53560199.0
+,,85961,ryder system inc,0,1,0,0.0,20170601,fatovic robert d,8596117000070,"EVP, CLO & Corp. Secretary",male,53560199.0
+,,85961,ryder system inc,0,1,0,0.0,20170725,cooke dennis c,8596117000072,"President, Global FMS",male,52983373.0
+,,85961,ryder system inc,0,1,0,0.0,20170801,gleason john j,8596117000080,EVP & Chief Sales Officer,male,52983373.0
+,,85961,ryder system inc,0,1,0,0.0,20170802,cooke dennis c,8596117000083,"President, Global FMS",male,52983373.0
+,,85961,ryder system inc,1,1,0,0.0,20170808,sanchez robert e,8596117000084,Chair and CEO,male,52983373.0
+,,85961,ryder system inc,0,1,0,0.0,20170817,jones karen m.,8596117000086,EVP & Chief Marketing Officer,female,52983373.0
+,,85961,ryder system inc,0,1,0,0.0,20170828,sensing john s.,8596117000088,"President, Global Supply Chain",male,52983373.0
+,,85961,ryder system inc,0,1,0,0.0,20170918,mullen frank,8596117000094,Vice President and Controller,male,52983373.0
+,,85961,ryder system inc,0,1,0,0.0,20171102,cooke dennis c,8596117000099,"President, Global FMS",male,52947715.0
+,,85961,ryder system inc,0,1,0,0.0,20171103,jones karen m.,8596117000103,EVP & Chief Marketing Officer,female,52947715.0
+,,85961,ryder system inc,0,1,0,0.0,20171117,gleason john j,8596117000105,EVP & Chief Sales Officer,male,52947715.0
+,,85961,ryder system inc,0,1,0,0.0,20171204,fatovic robert d,8596117000107,"EVP, CLO & Corp. Secretary",male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,hagemann robert,8596117000127,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,smith e follin,8596117000111,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,smith abbie j,8596117000113,,female,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,tookes hansel e ii,8596117000115,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,hassey l patrick,8596117000117,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,nieto luis p jr,8596117000119,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,eck robert j.,8596117000121,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,hilton michael f,8596117000123,,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,lundgren tamara l.,8596117000125,,female,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20171219,berra john m,8596117000109,,male,52947715.0
+,,85961,ryder system inc,0,1,0,0.0,20171226,ravindran rajeev,8596117000131,SVP & CIO,male,52947715.0
+,,85961,ryder system inc,1,0,0,0.0,20180103,smith abbie j,8596118000002,,female,52955314.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,sensing john s.,8596118000020,"President, Global Supply Chain",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,cooke dennis c,8596118000008,"President, Global FMS",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,diez john j.,8596118000010,"President, Ryder Dedicated",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,fatovic robert d,8596118000012,"EVP, CLO & Corp. Secretary",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,garcia art a,8596118000014,EVP & Chief Financial Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,gleason john j,8596118000016,EVP & Chief Sales Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,jones karen m.,8596118000018,EVP & Chief Marketing Officer,female,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180213,lopez francisco jr.,8596118000022,SVP & Chief HR Officer,male,52977548.0
+,,85961,ryder system inc,1,1,0,0.0,20180213,sanchez robert e,8596118000024,Chair and CEO,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180214,gleason john j,8596118000030,EVP & Chief Sales Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180214,lopez francisco jr.,8596118000032,SVP & Chief HR Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180222,fiore timothy r.,8596118000044,SVP & CPO,male,52977548.0
+,,85961,ryder system inc,1,1,0,0.0,20180223,sanchez robert e,8596118000064,Chair and CEO,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,ravindran rajeev,8596118000062,SVP & CIO,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,lopez francisco jr.,8596118000058,EVP & Chief HR Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,sensing john s.,8596118000066,"President, Global Supply Chain",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,jones karen m.,8596118000056,EVP & Chief Marketing Officer,female,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,mullen frank,8596118000060,Vice President and Controller,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,garcia art a,8596118000052,EVP & Chief Financial Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,fatovic robert d,8596118000050,"EVP, CLO & Corp. Secretary",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,gleason john j,8596118000054,EVP & Chief Sales Officer,male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,diez john j.,8596118000048,"President, Ryder Dedicated",male,52977548.0
+,,85961,ryder system inc,0,1,0,0.0,20180223,cooke dennis c,8596118000046,"President, Global FMS",male,52977548.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,smith e follin,8596118000112,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,hilton michael f,8596118000096,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,lundgren tamara l.,8596118000098,,female,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,nord david g,8596118000102,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,smith abbie j,8596118000104,,female,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,stockton dmitri l,8596118000106,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,berra john m,8596118000090,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,tookes hansel e ii,8596118000108,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,nieto luis p jr,8596118000110,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,eck robert j.,8596118000092,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180507,hagemann robert,8596118000094,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180509,nieto luis p jr,8596118000119,,male,53094898.0
+,,85961,ryder system inc,1,0,0,0.0,20180509,berra john m,8596118000117,,male,53094898.0
+,,85961,ryder system inc,0,1,0,0.0,20180801,garcia art a,8596118000138,EVP & Chief Financial Officer,male,53094736.0
+,,85961,ryder system inc,0,1,0,0.0,20180806,jones karen m.,8596118000140,EVP & Chief Marketing Officer,female,53094736.0
+,,85961,ryder system inc,1,1,0,0.0,20180808,sanchez robert e,8596118000142,Chair and CEO,male,53094736.0
+,,85961,ryder system inc,1,1,0,0.0,20180810,sanchez robert e,8596118000144,Chair and CEO,male,53094736.0
+,,85961,ryder system inc,0,1,0,0.0,20180822,diez john j.,8596118000146,"President, Ryder Dedicated",male,53094736.0
+,,85961,ryder system inc,1,0,0,0.0,20181109,nord david g,8596118000161,,male,53088113.0
+,,85961,ryder system inc,1,1,0,0.0,20181114,sanchez robert e,8596118000163,Chair and CEO,male,53088113.0
+,,85961,ryder system inc,0,1,0,0.0,20181126,cooke dennis c,8596118000165,"President, Global FMS",male,53088113.0
+,,85961,ryder system inc,0,1,0,0.0,20181128,gleason john j,8596118000167,EVP & Chief Sales Officer,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,berra john m,8596118000169,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,stockton dmitri l,8596118000186,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,tookes hansel e ii,8596118000188,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,smith abbie j,8596118000182,,female,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,nord david g,8596118000180,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,smith e follin,8596118000184,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,lundgren tamara l.,8596118000176,,female,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,eck robert j.,8596118000170,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,hagemann robert,8596118000172,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,hilton michael f,8596118000174,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20181226,nieto luis p jr,8596118000178,,male,53088113.0
+,,85961,ryder system inc,1,0,0,0.0,20190103,nord david g,8596119000002,,male,53116485.0
+,,85961,ryder system inc,1,0,0,0.0,20190103,stockton dmitri l,8596119000004,,male,53116485.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,ravindran rajeev,8596119000026,SVP & CIO,male,53116787.0
+,,85961,ryder system inc,1,1,0,0.0,20190212,sanchez robert e,8596119000027,Chair and CEO,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,sensing john s.,8596119000028,"President, Global Supply Chain",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,gleason john j,8596119000022,EVP & Chief Sales Officer,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,jones karen m.,8596119000023,EVP & Chief Marketing Officer,female,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,garcia art a,8596119000021,EVP & Chief Financial Officer,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,fiore timothy r.,8596119000020,SVP & CPO,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,diez john j.,8596119000018,"President, Ryder Dedicated",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,cooke dennis c,8596119000017,"President, Global FMS",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,lopez francisco jr.,8596119000024,EVP & Chief HR Officer,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,fatovic robert d,8596119000019,"EVP, CLO & Corp. Secretary",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190212,mullen frank,8596119000025,Vice President and Controller,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190222,fiore timothy r.,8596119000035,SVP & CPO,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,fatovic robert d,8596119000065,"EVP, CLO & Corp. Secretary",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,sensing john s.,8596119000063,"President, Global Supply Chain",male,53116787.0
+,,85961,ryder system inc,1,1,0,0.0,20190225,sanchez robert e,8596119000062,Chair and CEO,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,ravindran rajeev,8596119000061,SVP & CIO,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,mullen frank,8596119000060,Vice President and Controller,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,lopez francisco jr.,8596119000059,EVP & Chief HR Officer,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,gleason john j,8596119000057,EVP & Chief Sales Officer,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,jones karen m.,8596119000058,EVP & Chief Marketing Officer,female,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,fiore timothy r.,8596119000055,SVP & CPO,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,fatovic robert d,8596119000054,"EVP, CLO & Corp. Secretary",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,diez john j.,8596119000053,"President, Ryder Dedicated",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,cooke dennis c,8596119000052,"President, Global FMS",male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190225,garcia art a,8596119000056,EVP & Chief Financial Officer,male,53116787.0
+,,85961,ryder system inc,0,1,0,0.0,20190409,parker scott t,8596119000082,EVP & CFO,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,smith abbie j,8596119000098,,female,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,smith e follin,8596119000102,,male,53300205.0
+,,85961,ryder system inc,0,1,0,0.0,20190507,diez john j.,8596119000103,"President, Ryder Dedicated",male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,nieto luis p jr,8596119000101,,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,tookes hansel e ii,8596119000100,,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,stockton dmitri l,8596119000099,,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,lundgren tamara l.,8596119000097,,female,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,hagemann robert,8596119000095,,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,eck robert j.,8596119000094,,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,nord david g,8596119000093,,male,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190507,hilton michael f,8596119000096,,male,53300205.0
+,,85961,ryder system inc,0,1,0,0.0,20190531,jones karen m.,8596119000115,EVP & Chief Marketing Officer,female,53300205.0
+,,85961,ryder system inc,1,0,0,0.0,20190828,nieto luis p jr,8596119000131,,male,53334512.0
+,,85961,ryder system inc,1,0,0,0.0,20191107,smith e follin,8596119000151,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,lundgren tamara l.,8596119000166,,female,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,nieto luis p jr,8596119000167,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,hilton michael f,8596119000165,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,stockton dmitri l,8596119000172,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,nord david g,8596119000168,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,smith e follin,8596119000171,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,smith abbie j,8596119000170,,female,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,hagemann robert,8596119000164,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,tookes hansel e ii,8596119000173,,male,53292045.0
+,,85961,ryder system inc,0,1,0,0.0,20191223,ravindran rajeev,8596119000169,SVP & CIO,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20191223,eck robert j.,8596119000163,,male,53292045.0
+,,85961,ryder system inc,1,0,0,0.0,20200106,nord david g,8596120000002,,male,53278316.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,jones karen m.,8596120000018,EVP & Chief Marketing Officer,female,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,diez john j.,8596120000014,"President, Global FMS and DTS",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,fatovic robert d,8596120000015,"EVP, CLO & Corp. Secretary",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,fiore timothy r.,8596120000016,SVP & CPO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,gleason john j,8596120000017,EVP & Chief Sales Officer,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,lopez francisco jr.,8596120000019,EVP & Chief HR Officer,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,mullen frank,8596120000020,Vice President and Controller,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,ravindran rajeev,8596120000021,SVP & CIO,male,53271759.0
+,,85961,ryder system inc,1,1,0,0.0,20200211,sanchez robert e,8596120000022,Chair and CEO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200211,sensing john s.,8596120000023,"President, Global Supply Chain",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,diez john j.,8596120000043,"President, Global FMS and DTS",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,fiore timothy r.,8596120000045,SVP & CPO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,ravindran rajeev,8596120000051,SVP & CIO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,fatovic robert d,8596120000044,"EVP, CLO & Corp. Secretary",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,gleason john j,8596120000046,EVP & Chief Sales Officer,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,jones karen m.,8596120000047,EVP & Chief Marketing Officer,female,53271759.0
+,,85961,ryder system inc,1,1,0,0.0,20200220,sanchez robert e,8596120000052,Chair and CEO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,lopez francisco jr.,8596120000048,EVP & Chief HR Officer,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,mullen frank,8596120000049,Vice President and Controller,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,parker scott t,8596120000050,EVP & CFO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200220,sensing john s.,8596120000053,"President, Global Supply Chain",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200224,fiore timothy r.,8596120000056,SVP & CPO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,ravindran rajeev,8596120000074,SVP & CIO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,mullen frank,8596120000073,Vice President and Controller,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,lopez francisco jr.,8596120000072,EVP & Chief HR Officer,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,jones karen m.,8596120000071,EVP & Chief Marketing Officer,female,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,fiore timothy r.,8596120000069,SVP & CPO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,fatovic robert d,8596120000068,"EVP, CLO & Corp. Secretary",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,sensing john s.,8596120000076,"President, Global SCS & DTS",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,diez john j.,8596120000067,"President, Global FMS",male,53271759.0
+,,85961,ryder system inc,1,1,0,0.0,20200225,sanchez robert e,8596120000075,Chair and CEO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200225,gleason john j,8596120000070,EVP & Chief Sales Officer,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200226,fatovic robert d,8596120000082,"EVP, CLO & Corp. Secretary",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200226,parker scott t,8596120000083,EVP & CFO,male,53271759.0
+,,85961,ryder system inc,1,0,0,0.0,20200226,tookes hansel e ii,8596120000085,,male,53271759.0
+,,85961,ryder system inc,1,1,0,0.0,20200226,sanchez robert e,8596120000084,Chair and CEO,male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200228,diez john j.,8596120000091,"President, Global FMS",male,53271759.0
+,,85961,ryder system inc,0,1,0,0.0,20200406,parker scott t,8596120000110,EVP & CFO,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,nieto luis p jr,8596120000146,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,lundgren tamara l.,8596120000145,,female,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,hilton michael f,8596120000144,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,hagemann robert,8596120000143,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,eck robert j.,8596120000142,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,smith abbie j,8596120000148,,female,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,smith e follin,8596120000149,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,stockton dmitri l,8596120000150,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,tookes hansel e ii,8596120000151,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200505,nord david g,8596120000147,,male,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200512,smith e follin,8596120000155,,male,53735964.0
+,,85961,ryder system inc,0,1,0,0.0,20200512,jones karen m.,8596120000154,EVP & Chief Marketing Officer,female,53735964.0
+,,85961,ryder system inc,1,0,0,0.0,20200702,nord david g,8596120000166,,male,53818841.0
+,,85961,ryder system inc,0,1,0,0.0,20200804,jones karen m.,8596120000178,EVP & Chief Marketing Officer,female,53818841.0
+,,85961,ryder system inc,0,1,0,0.0,20200821,gallo-aquino cristina,8596120000183,SVP and Controller,female,53818841.0
+,,85961,ryder system inc,1,0,0,0.0,20201005,nord david g,8596120000187,,male,53889123.0
+,,85961,ryder system inc,0,1,0,0.0,20201005,sensing john s.,8596120000188,"President, Global SCS & DTS",male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,eck robert j.,8596120000222,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,tookes hansel e ii,8596120000226,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,nieto luis p jr,8596120000224,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,lundgren tamara l.,8596120000220,,female,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,stockton dmitri l,8596120000218,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,hilton michael f,8596120000216,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,smith abbie j,8596120000212,,female,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,nord david g,8596120000210,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,hagemann robert,8596120000208,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201221,smith e follin,8596120000214,,male,53889123.0
+,,85961,ryder system inc,1,0,0,0.0,20201223,nord david g,8596120000230,,male,53889123.0
+,,85961,ryder system inc,0,1,0,0.0,20201223,ravindran rajeev,8596120000228,SVP & CIO,male,53889123.0
+,,85961,ryder system inc,0,1,0,0.0,20210105,gallo-aquino cristina,8596121000002,SVP and Controller,female,53732033.0
+,,85961,ryder system inc,1,0,0,0.0,20210106,nord david g,8596121000004,,male,53732033.0
+,,85961,ryder system inc,1,1,0,0.0,20210209,sanchez robert e,8596121000020,Chair and CEO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,gallo-aquino cristina,8596121000022,SVP and Controller,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,ravindran rajeev,8596121000018,SVP & CIO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,fiore timothy r.,8596121000024,SVP & CPO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,gleason john j,8596121000014,EVP & Chief Sales Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,sensing john s.,8596121000012,"President, Global SCS & DTS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,diez john j.,8596121000010,"President, Global FMS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,lopez francisco jr.,8596121000008,EVP & Chief HR Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,fatovic robert d,8596121000006,"EVP, CLO & Corp. Secretary",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210209,jones karen m.,8596121000016,EVP & Chief Marketing Officer,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,gleason john j,8596121000044,EVP & Chief Sales Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,ravindran rajeev,8596121000043,SVP & CIO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,fiore timothy r.,8596121000041,SVP & CPO,male,53697961.0
+,,85961,ryder system inc,1,1,0,0.0,20210210,sanchez robert e,8596121000034,Chair and CEO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,diez john j.,8596121000036,"President, Global FMS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,jones karen m.,8596121000032,EVP & Chief Marketing Officer,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,fatovic robert d,8596121000030,"EVP, CLO & Corp. Secretary",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,gallo-aquino cristina,8596121000026,SVP and Controller,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,lopez francisco jr.,8596121000028,EVP & Chief HR Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210210,sensing john s.,8596121000038,"President, Global SCS & DTS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,fatovic robert d,8596121000068,"EVP, CLO & Corp. Secretary",male,53697961.0
+,,85961,ryder system inc,1,1,0,0.0,20210216,sanchez robert e,8596121000066,Chair and CEO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,ravindran rajeev,8596121000064,SVP & CIO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,parker scott t,8596121000060,EVP & CFO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,gallo-aquino cristina,8596121000058,SVP and Controller,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,sensing john s.,8596121000056,"President, Global SCS & DTS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,lopez francisco jr.,8596121000054,EVP & Chief HR Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,diez john j.,8596121000052,"President, Global FMS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210216,jones karen m.,8596121000062,EVP & Chief Marketing Officer,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,gleason john j,8596121000091,EVP & Chief Sales Officer,male,53697961.0
+,,85961,ryder system inc,1,1,0,0.0,20210222,sanchez robert e,8596121000095,Chair and CEO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,diez john j.,8596121000093,"President, Global FMS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,fatovic robert d,8596121000089,"EVP, CLO & Corp. Secretary",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,lopez francisco jr.,8596121000077,EVP & Chief HR Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,gallo-aquino cristina,8596121000085,SVP and Controller,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,sensing john s.,8596121000083,"President, Global SCS & DTS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,ravindran rajeev,8596121000081,SVP & CIO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,parker scott t,8596121000079,EVP & CFO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,jones karen m.,8596121000075,EVP & Chief Marketing Officer,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210222,fiore timothy r.,8596121000087,SVP & CPO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,sensing john s.,8596121000113,"President, Global SCS & DTS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,fiore timothy r.,8596121000115,SVP & CPO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,fatovic robert d,8596121000111,"EVP, CLO & Corp. Secretary",male,53697961.0
+,,85961,ryder system inc,1,1,0,0.0,20210223,sanchez robert e,8596121000099,Chair and CEO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,gleason john j,8596121000107,EVP & Chief Sales Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,diez john j.,8596121000105,"President, Global FMS",male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,lopez francisco jr.,8596121000103,EVP & Chief HR Officer,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,ravindran rajeev,8596121000101,SVP & CIO,male,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,gallo-aquino cristina,8596121000109,SVP and Controller,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210223,jones karen m.,8596121000097,EVP & Chief Marketing Officer,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210224,gallo-aquino cristina,8596121000117,SVP and Controller,female,53697961.0
+,,85961,ryder system inc,0,1,0,0.0,20210225,diez john j.,8596121000120,"President, Global FMS",male,53697961.0
+,,85961,ryder system inc,1,0,0,0.0,20210401,nord david g,8596121000136,,male,53870387.0
+,,85961,ryder system inc,0,1,0,0.0,20210407,parker scott t,8596121000138,EVP & CFO,male,53870387.0
+,,85961,ryder system inc,0,1,0,0.0,20210510,gleason john j,8596121000161,EVP & Chief Sales Officer,male,53870387.0
+,,85961,ryder system inc,0,1,0,0.0,20210510,gallo-aquino cristina,8596121000159,SVP and Controller,female,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,lundgren tamara l.,8596121000172,,female,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,stockton dmitri l,8596121000170,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,eck robert j.,8596121000168,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,tookes hansel e ii,8596121000166,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,hilton michael f,8596121000176,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,nieto luis p jr,8596121000174,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,nord david g,8596121000180,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,smith e follin,8596121000184,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,smith abbie j,8596121000178,,female,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210511,hagemann robert,8596121000182,,male,53870387.0
+,,85961,ryder system inc,0,0,0,1.0,20210519,parker scott t,8596121000191,,male,53870387.0
+,,85961,ryder system inc,0,1,0,0.0,20210527,jones karen m.,8596121000199,EVP & Chief Marketing Officer,female,53870387.0
+,,85961,ryder system inc,0,0,0,1.0,20210528,parker scott t,8596121000201,,male,53870387.0
+,,85961,ryder system inc,0,1,0,0.0,20210601,sensing john s.,8596121000205,"President, Global SCS & DTS",male,53870387.0
+,,85961,ryder system inc,0,0,0,1.0,20210601,parker scott t,8596121000203,,male,53870387.0
+,,85961,ryder system inc,1,0,0,0.0,20210706,nord david g,8596121000210,,male,53773599.0
+,,85961,ryder system inc,0,1,0,0.0,20210830,ravindran rajeev,8596121000225,SVP & CIO,male,53773599.0
+,,85961,ryder system inc,1,0,0,0.0,20211004,nord david g,8596121000227,,male,53693263.0
+,,85961,ryder system inc,0,1,0,0.0,20211108,gallo-aquino cristina,8596121000236,SVP and Controller,female,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,smith abbie j,8596121000245,,female,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,stockton dmitri l,8596121000259,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,nord david g,8596121000257,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,lundgren tamara l.,8596121000255,,female,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,hagemann robert,8596121000253,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,eck robert j.,8596121000251,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,hilton michael f,8596121000249,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,tookes hansel e ii,8596121000241,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,smith e follin,8596121000243,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20211220,nieto luis p jr,8596121000247,,male,53693263.0
+,,85961,ryder system inc,1,0,0,0.0,20220104,nord david g,8596122000002,,male,53789036.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,diez john j.,8596122000022,EVP & Chief Financial Officer,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,jones karen m.,8596122000020,EVP & Chief Marketing Officer,female,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,gallo-aquino cristina,8596122000018,SVP and Controller,female,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,sensing john s.,8596122000016,"President, Global SCS & DTS",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,lopez francisco jr.,8596122000006,EVP & Chief HR Officer,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,fatovic robert d,8596122000012,"EVP, CLO & Corp. Secretary",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,fiore timothy r.,8596122000010,SVP & CPO,male,53799759.0
+,,85961,ryder system inc,1,1,0,0.0,20220209,sanchez robert e,8596122000008,Chair and CEO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,ravindran rajeev,8596122000014,SVP & CIO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220209,havens thomas m.,8596122000024,"President, Global FMS",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,fatovic robert d,8596122000046,"EVP, CLO & Corp. Secretary",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,ravindran rajeev,8596122000034,SVP & CIO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,gallo-aquino cristina,8596122000030,SVP and Controller,female,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,sensing john s.,8596122000028,"President, Global SCS & DTS",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,jones karen m.,8596122000036,EVP & Chief Marketing Officer,female,53799759.0
+,,85961,ryder system inc,1,1,0,0.0,20220215,sanchez robert e,8596122000038,Chair and CEO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,havens thomas m.,8596122000040,"President, Global FMS",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,lopez francisco jr.,8596122000042,EVP & Chief HR Officer,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,diez john j.,8596122000032,EVP & Chief Financial Officer,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220215,fiore timothy r.,8596122000044,SVP & CPO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,jones karen m.,8596122000077,EVP & Chief Marketing Officer,female,53799759.0
+,,85961,ryder system inc,1,1,0,0.0,20220222,sanchez robert e,8596122000075,Chair and CEO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,fiore timothy r.,8596122000061,SVP & CPO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,lopez francisco jr.,8596122000063,EVP & Chief HR Officer,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,havens thomas m.,8596122000065,"President, Global FMS",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,gallo-aquino cristina,8596122000067,SVP and Controller,female,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,fatovic robert d,8596122000071,"EVP, CLO & Corp. Secretary",male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,diez john j.,8596122000073,EVP & Chief Financial Officer,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,ravindran rajeev,8596122000069,SVP & CIO,male,53799759.0
+,,85961,ryder system inc,0,1,0,0.0,20220222,sensing john s.,8596122000079,"President, Global SCS & DTS",male,53799759.0
+,,85961,ryder system inc,1,0,0,0.0,20220404,nord david g,8596122000094,,male,51136680.0
+,,85961,ryder system inc,0,1,0,0.0,20220504,diez john j.,8596122000110,EVP & Chief Financial Officer,male,51136680.0
+,,85961,ryder system inc,0,1,0,0.0,20220506,jones karen m.,8596122000112,EVP & Chief Marketing Officer,female,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,stockton dmitri l,8596122000126,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,nieto luis p jr,8596122000132,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,nord david g,8596122000130,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,smith e follin,8596122000128,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,tookes hansel e ii,8596122000124,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,smith abbie j,8596122000120,,female,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,hagemann robert,8596122000122,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,hilton michael f,8596122000116,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,lundgren tamara l.,8596122000118,,female,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220509,eck robert j.,8596122000114,,male,51136680.0
+,,85961,ryder system inc,1,0,0,0.0,20220705,nord david g,8596122000147,,male,51194660.0
+,,85961,ryder system inc,0,1,0,0.0,20220729,ravindran rajeev,8596122000155,EVP & CIO,male,51194660.0
+,,85961,ryder system inc,1,0,0,0.0,20221003,nord david g,8596122000157,,male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221102,diez john j.,8596122000176,EVP & Chief Financial Officer,male,50251092.0
+,,85961,ryder system inc,1,1,0,0.0,20221102,sanchez robert e,8596122000174,Chair and CEO,male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221102,jones karen m.,8596122000172,EVP & Chief Marketing Officer,female,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221102,fatovic robert d,8596122000170,"EVP, CLO & Corp. Secretary",male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221102,lopez francisco jr.,8596122000168,EVP & Chief HR Officer,male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221115,havens thomas m.,8596122000178,"President, Global FMS",male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221116,havens thomas m.,8596122000180,"President, Global FMS",male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221123,gallo-aquino cristina,8596122000182,SVP and Controller,female,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221129,ravindran rajeev,8596122000184,EVP & CIO,male,50251092.0
+,,85961,ryder system inc,0,1,0,0.0,20221130,sensing john s.,8596122000186,"President, Global SCS & DTS",male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221212,nord david g,8596122000191,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,stockton dmitri l,8596122000210,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,nord david g,8596122000214,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,lundgren tamara l.,8596122000212,,female,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,nieto luis p jr,8596122000196,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,eck robert j.,8596122000208,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,tookes hansel e ii,8596122000206,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,hilton michael f,8596122000204,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,swoboda charles m,8596122000202,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,smith e follin,8596122000200,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221219,hagemann robert,8596122000198,,male,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20221220,smith abbie j,8596122000216,,female,50251092.0
+,,85961,ryder system inc,1,0,0,0.0,20230104,swoboda charles m,8596123000002,,male,46286664.0
+,,85961,ryder system inc,1,0,0,0.0,20230104,nord david g,8596123000004,,male,46286664.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,hodes sanford j.,8596123000025,"SVP, C Procur Of, Corp Dev Of",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,diez john j.,8596123000022,EVP & Chief Financial Officer,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,fatovic robert d,8596123000020,"EVP, CLO & Corp. Secretary",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,gallo-aquino cristina,8596123000018,SVP and Controller,female,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,havens thomas m.,8596123000016,"President, Global FMS",male,46289738.0
+,,85961,ryder system inc,1,1,0,0.0,20230214,sanchez robert e,8596123000012,Chair and CEO,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,jones karen m.,8596123000010,EVP & Chief Marketing Officer,female,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,ravindran rajeev,8596123000008,EVP & CIO,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,lopez francisco jr.,8596123000006,EVP & Chief HR Officer,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230214,sensing john s.,8596123000014,"President, Global SCS & DTS",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,sensing john s.,8596123000039,"President, Global SCS & DTS",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,fatovic robert d,8596123000041,"EVP, CLO & Corp. Secretary",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,gallo-aquino cristina,8596123000043,SVP and Controller,female,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,jones karen m.,8596123000045,EVP & Chief Marketing Officer,female,46289738.0
+,,85961,ryder system inc,1,1,0,0.0,20230222,sanchez robert e,8596123000047,Chair and CEO,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,ravindran rajeev,8596123000053,EVP & CIO,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,lopez francisco jr.,8596123000049,EVP & Chief HR Officer,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,diez john j.,8596123000051,EVP & Chief Financial Officer,male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,hodes sanford j.,8596123000055,"SVP, C Procur Of, Corp Dev Of",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230222,havens thomas m.,8596123000037,"President, Global FMS",male,46289738.0
+,,85961,ryder system inc,0,1,0,0.0,20230227,diez john j.,8596123000057,EVP & Chief Financial Officer,male,46289738.0
+,,85961,ryder system inc,1,0,0,0.0,20230403,swoboda charles m,8596123000092,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230403,nord david g,8596123000090,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,nieto luis p jr,8596123000109,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,smith e follin,8596123000111,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,eck robert j.,8596123000127,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,stockton dmitri l,8596123000125,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,lundgren tamara l.,8596123000123,,female,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,nord david g,8596123000121,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,hilton michael f,8596123000117,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,smith abbie j,8596123000119,,female,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,swoboda charles m,8596123000113,,male,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230509,hagemann robert,8596123000115,,male,46492233.0
+,,85961,ryder system inc,1,1,0,0.0,20230511,sanchez robert e,8596123000129,Chair and CEO,male,46492233.0
+,,85961,ryder system inc,0,1,0,0.0,20230517,jones karen m.,8596123000131,EVP & Chief Marketing Officer,female,46492233.0
+,,85961,ryder system inc,1,0,0,0.0,20230705,swoboda charles m,8596123000139,,male,45527262.0
+,,85961,ryder system inc,1,0,0,0.0,20230705,nord david g,8596123000141,,male,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230801,havens thomas m.,8596123000149,"President, Global FMS",male,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230802,fatovic robert d,8596123000151,"EVP, CLO & Corp. Secretary",male,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230803,lopez francisco jr.,8596123000153,EVP & Chief HR Officer,male,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230803,diez john j.,8596123000155,EVP & Chief Financial Officer,male,45527262.0
+,,85961,ryder system inc,1,1,0,0.0,20230807,sanchez robert e,8596123000157,Chair and CEO,male,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230810,jones karen m.,8596123000161,EVP & Chief Marketing Officer,female,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230810,sensing john s.,8596123000159,"President, Global SCS & DTS",male,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230823,gallo-aquino cristina,8596123000163,SVP and Controller,female,45527262.0
+,,85961,ryder system inc,0,1,0,0.0,20230905,fatovic robert d,8596123000165,"EVP, CLO & Corp. Secretary",male,45527262.0
+,,85961,ryder system inc,1,0,0,0.0,20231003,nord david g,8596123000167,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231003,swoboda charles m,8596123000169,,male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231005,hodes sanford j.,8596123000171,"SVP, C Procur Of, Corp Dev Of",male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231005,sensing john s.,8596123000173,"President, Global SCS & DTS",male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231005,havens thomas m.,8596123000175,"President, Global FMS",male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231101,havens thomas m.,8596123000184,"President, Global FMS",male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231101,eck robert j.,8596123000186,,male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231116,gallo-aquino cristina,8596123000190,SVP and Controller,female,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231116,havens thomas m.,8596123000188,"President, Global FMS",male,44322243.0
+,,85961,ryder system inc,1,1,0,0.0,20231121,sanchez robert e,8596123000192,Chair and CEO,male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231130,fatovic robert d,8596123000194,"EVP, CLO & Corp. Secretary",male,44322243.0
+,,85961,ryder system inc,0,1,0,0.0,20231201,fatovic robert d,8596123000196,"EVP, CLO & Corp. Secretary",male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,swoboda charles m,8596123000216,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,stockton dmitri l,8596123000214,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,smith e follin,8596123000212,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,smith abbie j,8596123000210,,female,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,eck robert j.,8596123000198,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,nieto luis p jr,8596123000206,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,lundgren tamara l.,8596123000204,,female,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,hilton michael f,8596123000202,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,nord david g,8596123000208,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20231219,hagemann robert,8596123000200,,male,44322243.0
+,,85961,ryder system inc,1,0,0,0.0,20240104,nord david g,8596124000002,,male,43902065.0
+,,85961,ryder system inc,1,0,0,0.0,20240104,swoboda charles m,8596124000004,,male,43902065.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,sensing john s.,8596124000026,"President, Global SCS & DTS",male,43913498.0
+,,85961,ryder system inc,1,1,0,0.0,20240213,sanchez robert e,8596124000024,Chair and CEO,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,lopez francisco jr.,8596124000020,EVP & Chief HR Officer,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,ravindran rajeev,8596124000022,EVP & CIO,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,havens thomas m.,8596124000015,"President, Global FMS",male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,hodes sanford j.,8596124000010,"SVP, C Procur Of, Corp Dev Of",male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,fatovic robert d,8596124000008,"EVP, CLO & Corp. Secretary",male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,diez john j.,8596124000006,EVP & Chief Financial Officer,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,jones karen m.,8596124000018,EVP & Chief Marketing Officer,female,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240213,gallo-aquino cristina,8596124000012,SVP and Controller,female,43913498.0
+,,85961,ryder system inc,1,0,0,0.0,20240223,eck robert j.,8596124000034,,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240228,ravindran rajeev,8596124000036,EVP & CIO,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240228,martin steve w.,8596124000038,EVP of DTS,male,43913498.0
+,,85961,ryder system inc,0,1,0,0.0,20240301,jones karen m.,8596124000040,EVP & Chief Marketing Officer,female,43913498.0
+,,85961,ryder system inc,1,0,0,0.0,20240403,nord david g,8596124000059,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240403,swoboda charles m,8596124000061,,male,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240429,havens thomas m.,8596124000080,"President, Global FMS",male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240429,smith e follin,8596124000082,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,hagemann robert,8596124000088,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,hilton michael f,8596124000090,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,nieto luis p jr,8596124000094,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,nord david g,8596124000096,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,smith abbie j,8596124000098,,female,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,smith e follin,8596124000100,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,stockton dmitri l,8596124000102,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,swoboda charles m,8596124000104,,male,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240507,hodes sanford j.,8596124000106,"SVP, C Procur Of, Corp Dev Of",male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,eck robert j.,8596124000086,,male,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240507,lundgren tamara l.,8596124000092,,female,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240509,sensing john s.,8596124000110,"President, Global SCS & DTS",male,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240509,gallo-aquino cristina,8596124000108,SVP and Controller,female,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240513,fatovic robert d,8596124000112,"EVP, CLO & Corp. Secretary",male,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240513,diez john j.,8596124000114,EVP & Chief Financial Officer,male,43828793.0
+,,85961,ryder system inc,1,1,0,0.0,20240514,sanchez robert e,8596124000116,Chair and CEO,male,43828793.0
+,,85961,ryder system inc,0,1,0,0.0,20240528,jones karen m.,8596124000118,EVP & Chief Marketing Officer,female,43828793.0
+,,85961,ryder system inc,1,0,0,0.0,20240702,nord david g,8596124000130,,male,43283183.0
+,,85961,ryder system inc,1,0,0,0.0,20240702,swoboda charles m,8596124000132,,male,43283183.0
+,,85961,ryder system inc,0,1,0,0.0,20240731,gallo-aquino cristina,8596124000140,SVP and Controller,female,43283183.0
+,,85961,ryder system inc,0,1,0,0.0,20240805,lopez francisco jr.,8596124000142,EVP & Chief HR Officer,male,43283183.0
+,,85961,ryder system inc,1,1,0,0.0,20240820,sanchez robert e,8596124000144,Chair and CEO,male,43283183.0
+,,85961,ryder system inc,1,0,0,0.0,20241003,nord david g,8596124000146,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241003,swoboda charles m,8596124000148,,male,42290213.0
+,,85961,ryder system inc,0,1,0,0.0,20241108,havens thomas m.,8596124000158,"President, Global FMS",male,42290213.0
+,,85961,ryder system inc,0,1,0,0.0,20241113,martin steve w.,8596124000160,EVP of DTS,male,42290213.0
+,,85961,ryder system inc,0,1,0,0.0,20241203,fatovic robert d,8596124000162,"EVP, CLO & Corp. Secretary",male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241216,swoboda charles m,8596124000166,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241216,nord david g,8596124000168,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,eck robert j.,8596124000171,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,swoboda charles m,8596124000189,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,lundgren tamara l.,8596124000177,,female,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,nieto luis p jr,8596124000179,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,nord david g,8596124000181,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,smith abbie j,8596124000183,,female,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,smith e follin,8596124000185,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,stockton dmitri l,8596124000187,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,hilton michael f,8596124000175,,male,42290213.0
+,,85961,ryder system inc,1,0,0,0.0,20241223,hagemann robert,8596124000173,,male,42290213.0

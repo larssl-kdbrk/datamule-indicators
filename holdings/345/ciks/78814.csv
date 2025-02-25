@@ -1,208 +1,596 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-15853.3999,6166.8843,78814,pitney bowes inc /de/,,1,,,20100203,green steven j,122520810003456,VP-Fin and CAO,male,207197828.0
-9075.0,3130.0091,78814,pitney bowes inc /de/,,1,,,20100203,abi-karam leslie,122520810003449,"EVP & President, MSM",female,207197828.0
-17967.0,6197.7249,78814,pitney bowes inc /de/,,1,,,20100203,buoncontri gregory e,122520810003450,EVP & Chief Info Officer,male,207197828.0
-11739.2527,0.0,78814,pitney bowes inc /de/,,1,,,20100203,keddy patrick j,122520810003451,"EVP & Pres, Mailstrm Intl",male,207197828.0
-6843.0,0.0,78814,pitney bowes inc /de/,,1,,,20100203,o meara vicki a,122520810003452,EVP & Chf Lgl & Compl Officer,male,207197828.0
-27232.0,7660.9217,78814,pitney bowes inc /de/,,1,,,20100203,torsone johnna g,122520810003453,EVP & Chief HR Officer,female,207197828.0
-9214.3467,209.5469,78814,pitney bowes inc /de/,,1,,,20100203,debois elise,122520810003454,"EVP & President, GFS",female,207197828.0
-7350.882,0.0,78814,pitney bowes inc /de/,,1,,,20100203,dobson david c,122520810003455,"EVP & President, PBMS",male,207197828.0
-112112.0,801.2877,78814,pitney bowes inc /de/,1,1,,,20100203,martin murray d,122520810003457,"Chairman,President and CEO",male,207197828.0
-13357.0345,7117.8572,78814,pitney bowes inc /de/,,1,,,20100203,monahan michael,122520810003458,EVP & CFO,male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,o meara vicki a,122520810003798,EVP & Chf Lgl & Compl Officer,male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,keddy patrick j,122520810003804,"EVP & Pres, Mailstrm Intl",male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,timko joseph h,122520810003800,EVP& Chf Strat& Innov Officer,male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,torsone johnna g,122520810003808,EVP & Chief HR Officer,female,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,green steven j,122520810003799,VP-Fin and CAO,male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,monahan michael,122520810003806,EVP & CFO,male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,dobson david c,122520810003805,"EVP & President, PBMS",male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,1,1,,,20100209,martin murray d,122520810003807,"Chairman,President and CEO",male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,debois elise,122520810003803,"EVP & President, GFS",female,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,buoncontri gregory e,122520810003802,EVP & Chief Info Officer,male,207197828.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100209,abi-karam leslie,122520810003801,"EVP & President, MSM",female,207197828.0
-19292.0,0.0,78814,pitney bowes inc /de/,1,,,,20100510,shedlarz david l,122520810012486,,male,207528336.0
-30828.2594,0.0,78814,pitney bowes inc /de/,1,,,,20100510,alvarado linda g,122520810012480,,female,207528336.0
-9282.0,0.0,78814,pitney bowes inc /de/,1,,,,20100510,busquet anne,122520810012481,,female,207528336.0
-23902.0,0.0,78814,pitney bowes inc /de/,1,,,,20100510,keyes james h,122520810012482,,male,207528336.0
-23167.3333,0.0,78814,pitney bowes inc /de/,1,,,,20100510,mcfarlane john s,122520810012483,,male,207528336.0
-17492.0,0.0,78814,pitney bowes inc /de/,1,,,,20100510,menasce eduardo s,122520810012484,,male,207528336.0
-31775.7775,0.0,78814,pitney bowes inc /de/,1,,,,20100510,roth michael isor,122520810012485,,male,207528336.0
-21752.1994,0.0,78814,pitney bowes inc /de/,1,,,,20100510,weissman robert evan,122520810012479,,male,207528336.0
-8367.77,0.0,78814,pitney bowes inc /de/,1,,,,20100510,adkins rodney c,122520810012477,,male,207528336.0
-12163.0,0.0,78814,pitney bowes inc /de/,1,,,,20100510,fuchs anne sutherland,122520810012478,,female,207528336.0
-29239.4323,0.0,78814,pitney bowes inc /de/,1,,,,20100511,green ernie,122520810012504,,male,207528336.0
-11200.0,0.0,78814,pitney bowes inc /de/,1,,,,20100511,snow david b jr,122520810012505,,male,207528336.0
+9075.0,3130.0091,78814,pitney bowes inc /de/,,1,,,20100203,abi-karam leslie,122520810003449,"EVP & President, MSM",female,
+17967.0,6197.7249,78814,pitney bowes inc /de/,,1,,,20100203,buoncontri gregory e,122520810003450,EVP & Chief Info Officer,male,
+11739.2527,,78814,pitney bowes inc /de/,,1,,,20100203,keddy patrick j,122520810003451,"EVP & Pres, Mailstrm Intl",male,
+6843.0,,78814,pitney bowes inc /de/,,1,,,20100203,o meara vicki a,122520810003452,EVP & Chf Lgl & Compl Officer,male,
+27232.0,7660.9217,78814,pitney bowes inc /de/,,1,,,20100203,torsone johnna g,122520810003453,EVP & Chief HR Officer,female,
+9214.3467,209.5469,78814,pitney bowes inc /de/,,1,,,20100203,debois elise,122520810003454,"EVP & President, GFS",female,
+7350.882,,78814,pitney bowes inc /de/,,1,,,20100203,dobson david c,122520810003455,"EVP & President, PBMS",male,
+15853.3999,6166.8843,78814,pitney bowes inc /de/,,1,,,20100203,green steven j,122520810003456,VP-Fin and CAO,male,
+112112.0,801.2877,78814,pitney bowes inc /de/,1,1,,,20100203,martin murray d,122520810003457,"Chairman,President and CEO",male,
+13357.0345,7117.8572,78814,pitney bowes inc /de/,,1,,,20100203,monahan michael,122520810003458,EVP & CFO,male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,keddy patrick j,122520810003804,"EVP & Pres, Mailstrm Intl",male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,torsone johnna g,122520810003808,EVP & Chief HR Officer,female,
+,,78814,pitney bowes inc /de/,1,1,,,20100209,martin murray d,122520810003807,"Chairman,President and CEO",male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,monahan michael,122520810003806,EVP & CFO,male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,dobson david c,122520810003805,"EVP & President, PBMS",male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,debois elise,122520810003803,"EVP & President, GFS",female,
+,,78814,pitney bowes inc /de/,,1,,,20100209,abi-karam leslie,122520810003801,"EVP & President, MSM",female,
+,,78814,pitney bowes inc /de/,,1,,,20100209,timko joseph h,122520810003800,EVP& Chf Strat& Innov Officer,male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,green steven j,122520810003799,VP-Fin and CAO,male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,o meara vicki a,122520810003798,EVP & Chf Lgl & Compl Officer,male,
+,,78814,pitney bowes inc /de/,,1,,,20100209,buoncontri gregory e,122520810003802,EVP & Chief Info Officer,male,
+31775.7775,,78814,pitney bowes inc /de/,1,,,,20100510,roth michael isor,122520810012485,,male,207528336.0
+12163.0,,78814,pitney bowes inc /de/,1,,,,20100510,fuchs anne sutherland,122520810012478,,female,207528336.0
+21752.1994,,78814,pitney bowes inc /de/,1,,,,20100510,weissman robert evan,122520810012479,,male,207528336.0
+30828.2594,,78814,pitney bowes inc /de/,1,,,,20100510,alvarado linda g,122520810012480,,female,207528336.0
+9282.0,,78814,pitney bowes inc /de/,1,,,,20100510,busquet anne,122520810012481,,female,207528336.0
+23902.0,,78814,pitney bowes inc /de/,1,,,,20100510,keyes james h,122520810012482,,male,207528336.0
+23167.3333,,78814,pitney bowes inc /de/,1,,,,20100510,mcfarlane john s,122520810012483,,male,207528336.0
+17492.0,,78814,pitney bowes inc /de/,1,,,,20100510,menasce eduardo s,122520810012484,,male,207528336.0
+19292.0,,78814,pitney bowes inc /de/,1,,,,20100510,shedlarz david l,122520810012486,,male,207528336.0
+8367.77,,78814,pitney bowes inc /de/,1,,,,20100510,adkins rodney c,122520810012477,,male,207528336.0
+29239.4323,,78814,pitney bowes inc /de/,1,,,,20100511,green ernie,122520810012504,,male,207528336.0
+11200.0,,78814,pitney bowes inc /de/,1,,,,20100511,snow david b jr,122520810012505,,male,207528336.0
 24939.1431,7660.9217,78814,pitney bowes inc /de/,,1,,,20100526,torsone johnna g,122520810014000,EVP & Chief HR Officer,female,207528336.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20100923,o meara vicki a,122520810021300,"EVP, Pres PBMS & Govt & Posta",male,206693115.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20101019,goldstein daniel j,122520810023213,EVP&Chief Legal Cmplc Officer,male,203353768.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20101110,o meara vicki a,122520810024634,"EVP, Pres PBMS & Govt & Post",male,203353768.0
-2180.0,0.0,78814,pitney bowes inc /de/,,1,,,20110203,timko joseph h,122520811004768,EVP& Chf Strat& Innov Officer,male,203431002.0
-13406.152,3130.0091,78814,pitney bowes inc /de/,,1,,,20110203,abi-karam leslie,122520811004772,"EVP & President, MSM",female,203431002.0
-19922.6856,6197.7249,78814,pitney bowes inc /de/,,1,,,20110203,buoncontri gregory e,122520811004771,EVP & Chief Info Officer,male,203431002.0
-26868.7415,7660.9217,78814,pitney bowes inc /de/,,1,,,20110203,torsone johnna g,122520811004769,EVP & Chief HR Officer,female,203431002.0
-9116.0,0.0,78814,pitney bowes inc /de/,,1,,,20110203,o meara vicki a,122520811004770,"EVP, Pres PBMS & Govt & Post",male,203431002.0
-129553.0314,801.2877,78814,pitney bowes inc /de/,1,1,,,20110203,martin murray d,122520811004766,"Chairman,President and CEO",male,203431002.0
-18833.8279,7117.8572,78814,pitney bowes inc /de/,,1,,,20110203,monahan michael,122520811004735,EVP & CFO,male,203431002.0
-17427.1438,6166.8843,78814,pitney bowes inc /de/,,1,,,20110203,green steven j,122520811004767,VP-Fin and CAO,male,203431002.0
-0.0,3337.1911,78814,pitney bowes inc /de/,,1,,,20110216,abi-karam leslie,122520811006164,"EVP & President, MSM",female,203431002.0
-0.0,6663.6283,78814,pitney bowes inc /de/,,1,,,20110216,green steven j,122520811006145,VP-Fin and CAO,male,203431002.0
-0.0,6776.4105,78814,pitney bowes inc /de/,,1,,,20110216,buoncontri gregory e,122520811006146,EVP & Chief Info Officer,male,203431002.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20110216,timko joseph h,122520811006147,EVP& Chf Strat& Innov Officer,male,203431002.0
-0.0,7704.6632,78814,pitney bowes inc /de/,,1,,,20110216,torsone johnna g,122520811006148,EVP & Chief HR Officer,female,203431002.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20110216,goldstein daniel j,122520811006149,EVP&Chief Legal Cmplc Officer,male,203431002.0
-0.0,0.0,78814,pitney bowes inc /de/,,1,,,20110216,o meara vicki a,122520811006150,"EVP, Pres PBMS & Govt & Post",male,203431002.0
-0.0,7588.9349,78814,pitney bowes inc /de/,,1,,,20110216,monahan michael,122520811006151,EVP & CFO,male,203431002.0
-0.0,854.311,78814,pitney bowes inc /de/,1,1,,,20110216,martin murray d,122520811006152,"Chairman,President and CEO",male,203431002.0
-26015.0,7704.6632,78814,pitney bowes inc /de/,,1,,,20110330,torsone johnna g,122520811010460,EVP & Chief HR Officer,female,203431002.0
-33028.2594,0.0,78814,pitney bowes inc /de/,1,,,,20110510,alvarado linda g,122520811013839,,female,203853433.0
-10567.77,0.0,78814,pitney bowes inc /de/,1,,,,20110510,adkins rodney c,122520811013838,,male,203853433.0
-13400.0,0.0,78814,pitney bowes inc /de/,1,,,,20110510,snow david b jr,122520811013846,,male,203853433.0
-21492.0,0.0,78814,pitney bowes inc /de/,1,,,,20110510,shedlarz david l,122520811013845,,male,203853433.0
-34119.1885,0.0,78814,pitney bowes inc /de/,1,,,,20110510,roth michael isor,122520811013844,,male,203853433.0
-25254.1185,0.0,78814,pitney bowes inc /de/,1,,,,20110510,weissman robert evan,122520811013847,,male,203853433.0
-26102.0,0.0,78814,pitney bowes inc /de/,1,,,,20110510,keyes james h,122520811013842,,male,203853433.0
-14363.0,0.0,78814,pitney bowes inc /de/,1,,,,20110510,fuchs anne sutherland,122520811013841,,female,203853433.0
-11482.0,0.0,78814,pitney bowes inc /de/,1,,,,20110510,busquet anne,122520811013840,,female,203853433.0
-19692.0,0.0,78814,pitney bowes inc /de/,1,,,,20110510,menasce eduardo s,122520811013843,,male,203853433.0
-7543.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20110830,o meara vicki a,122520811020895,"EVP, Pres PBMS & Govt & Post",male,202143443.0
-2460.1142,0.0,78814,pitney bowes inc /de/,,1.0,,,20110907,o'hara john e,122520811021473,"EVP&President, PB Software S",male,202143443.0
+,,78814,pitney bowes inc /de/,,1.0,,,20100923,o meara vicki a,122520810021300,"EVP, Pres PBMS & Govt & Posta",male,206693115.0
+,,78814,pitney bowes inc /de/,,1.0,,,20101019,goldstein daniel j,122520810023213,EVP&Chief Legal Cmplc Officer,male,203353768.0
+,,78814,pitney bowes inc /de/,,1.0,,,20101110,o meara vicki a,122520810024634,"EVP, Pres PBMS & Govt & Post",male,203353768.0
+26868.7415,7660.9217,78814,pitney bowes inc /de/,,1.0,,,20110203,torsone johnna g,122520811004769,EVP & Chief HR Officer,female,203431002.0
+2180.0,,78814,pitney bowes inc /de/,,1.0,,,20110203,timko joseph h,122520811004768,EVP& Chf Strat& Innov Officer,male,203431002.0
+13406.152,3130.0091,78814,pitney bowes inc /de/,,1.0,,,20110203,abi-karam leslie,122520811004772,"EVP & President, MSM",female,203431002.0
+19922.6856,6197.7249,78814,pitney bowes inc /de/,,1.0,,,20110203,buoncontri gregory e,122520811004771,EVP & Chief Info Officer,male,203431002.0
+129553.0314,801.2877,78814,pitney bowes inc /de/,1.0,1.0,,,20110203,martin murray d,122520811004766,"Chairman,President and CEO",male,203431002.0
+18833.8279,7117.8572,78814,pitney bowes inc /de/,,1.0,,,20110203,monahan michael,122520811004735,EVP & CFO,male,203431002.0
+17427.1438,6166.8843,78814,pitney bowes inc /de/,,1.0,,,20110203,green steven j,122520811004767,VP-Fin and CAO,male,203431002.0
+9116.0,,78814,pitney bowes inc /de/,,1.0,,,20110203,o meara vicki a,122520811004770,"EVP, Pres PBMS & Govt & Post",male,203431002.0
+,3337.1911,78814,pitney bowes inc /de/,,1.0,,,20110216,abi-karam leslie,122520811006164,"EVP & President, MSM",female,203431002.0
+,6663.6283,78814,pitney bowes inc /de/,,1.0,,,20110216,green steven j,122520811006145,VP-Fin and CAO,male,203431002.0
+,6776.4105,78814,pitney bowes inc /de/,,1.0,,,20110216,buoncontri gregory e,122520811006146,EVP & Chief Info Officer,male,203431002.0
+,7704.6632,78814,pitney bowes inc /de/,,1.0,,,20110216,torsone johnna g,122520811006148,EVP & Chief HR Officer,female,203431002.0
+,,78814,pitney bowes inc /de/,,1.0,,,20110216,goldstein daniel j,122520811006149,EVP&Chief Legal Cmplc Officer,male,203431002.0
+,,78814,pitney bowes inc /de/,,1.0,,,20110216,o meara vicki a,122520811006150,"EVP, Pres PBMS & Govt & Post",male,203431002.0
+,7588.9349,78814,pitney bowes inc /de/,,1.0,,,20110216,monahan michael,122520811006151,EVP & CFO,male,203431002.0
+,854.311,78814,pitney bowes inc /de/,1.0,1.0,,,20110216,martin murray d,122520811006152,"Chairman,President and CEO",male,203431002.0
+,,78814,pitney bowes inc /de/,,1.0,,,20110216,timko joseph h,122520811006147,EVP& Chf Strat& Innov Officer,male,203431002.0
+26015.0,7704.6632,78814,pitney bowes inc /de/,,1.0,,,20110330,torsone johnna g,122520811010460,EVP & Chief HR Officer,female,203431002.0
+25254.1185,,78814,pitney bowes inc /de/,1.0,,,,20110510,weissman robert evan,122520811013847,,male,203853433.0
+13400.0,,78814,pitney bowes inc /de/,1.0,,,,20110510,snow david b jr,122520811013846,,male,203853433.0
+21492.0,,78814,pitney bowes inc /de/,1.0,,,,20110510,shedlarz david l,122520811013845,,male,203853433.0
+34119.1885,,78814,pitney bowes inc /de/,1.0,,,,20110510,roth michael isor,122520811013844,,male,203853433.0
+19692.0,,78814,pitney bowes inc /de/,1.0,,,,20110510,menasce eduardo s,122520811013843,,male,203853433.0
+26102.0,,78814,pitney bowes inc /de/,1.0,,,,20110510,keyes james h,122520811013842,,male,203853433.0
+14363.0,,78814,pitney bowes inc /de/,1.0,,,,20110510,fuchs anne sutherland,122520811013841,,female,203853433.0
+11482.0,,78814,pitney bowes inc /de/,1.0,,,,20110510,busquet anne,122520811013840,,female,203853433.0
+33028.2594,,78814,pitney bowes inc /de/,1.0,,,,20110510,alvarado linda g,122520811013839,,female,203853433.0
+10567.77,,78814,pitney bowes inc /de/,1.0,,,,20110510,adkins rodney c,122520811013838,,male,203853433.0
+7543.0,,78814,pitney bowes inc /de/,,1.0,,,20110830,o meara vicki a,122520811020895,"EVP, Pres PBMS & Govt & Post",male,202143443.0
+2460.1142,,78814,pitney bowes inc /de/,,1.0,,,20110907,o'hara john e,122520811021473,"EVP&President, PB Software S",male,202143443.0
 25480.0,7727.0266,78814,pitney bowes inc /de/,,1.0,,,20110921,torsone johnna g,122520811022054,EVP & Chief HR Officer,female,202143443.0
-5597.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120202,fradin roger,122520812002849,,male,199751070.0
-3493.994,0.0,78814,pitney bowes inc /de/,,1.0,,,20120209,o'hara john e,122520812003574,"EVP&President, PB Software S",male,199751070.0
-28172.0,7755.9071,78814,pitney bowes inc /de/,,1.0,,,20120209,torsone johnna g,122520812003577,EVP & Chief HR Officer,female,199751070.0
-5250.3312,0.0,78814,pitney bowes inc /de/,,1.0,,,20120209,timko joseph h,122520812003576,EVP& Chf Strat& Innov Officer,male,199751070.0
-11165.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120209,o meara vicki a,122520812003575,"EVP, Pres PBMS & Govt & Post",male,199751070.0
-25762.7043,8140.9267,78814,pitney bowes inc /de/,,1.0,,,20120209,monahan michael,122520812003573,EVP & CFO,male,199751070.0
-19268.0,3580.4235,78814,pitney bowes inc /de/,,1.0,,,20120209,abi-karam leslie,122520812003568,"EVP & President, MSM",female,199751070.0
-18376.3998,7100.3828,78814,pitney bowes inc /de/,,1.0,,,20120209,green steven j,122520812003571,VP-Fin and CAO,male,199751070.0
-3659.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120209,goldstein daniel j,122520812003570,EVP&Chief Legal Cmplc Officer,male,199751070.0
+5597.0,,78814,pitney bowes inc /de/,1.0,,,,20120202,fradin roger,122520812002849,,male,199751070.0
 21285.0,7269.3014,78814,pitney bowes inc /de/,,1.0,,,20120209,buoncontri gregory e,122520812003569,EVP & Chief Info Officer,male,199751070.0
+3659.0,,78814,pitney bowes inc /de/,,1.0,,,20120209,goldstein daniel j,122520812003570,EVP&Chief Legal Cmplc Officer,male,199751070.0
+18376.3998,7100.3828,78814,pitney bowes inc /de/,,1.0,,,20120209,green steven j,122520812003571,VP-Fin and CAO,male,199751070.0
 90501.6094,65916.4504,78814,pitney bowes inc /de/,1.0,1.0,,,20120209,martin murray d,122520812003572,"Chairman,President and CEO",male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,green steven j,122520812004271,VP-Fin and CAO,male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,timko joseph h,122520812004269,EVP& Chf Strat& Innov Officer,male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,torsone johnna g,122520812004270,EVP & Chief HR Officer,female,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,buoncontri gregory e,122520812004264,EVP & Chief Info Officer,male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,o'hara john e,122520812004267,"EVP&President, PB Software S",male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,monahan michael,122520812004266,EVP & CFO,male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,o meara vicki a,122520812004268,"EVP, Pres PBMS & Govt & Post",male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,abi-karam leslie,122520812004262,"EVP & President, MSM",female,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,1.0,1.0,,,20120215,martin murray d,122520812004263,"Chairman,President and CEO",male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120215,goldstein daniel j,122520812004265,EVP&Chief Legal Cmplc Officer,male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120410,o'hara john e,122520812009610,"EVP&President, PB Software S",male,199751070.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120410,timko joseph h,122520812009611,EVP& Chf Tech& Strat Officer,male,199751070.0
-13682.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,busquet anne,122520812012364,,female,200214743.0
-29265.4364,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,weissman robert evan,122520812012362,,male,200214743.0
-23692.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,shedlarz david l,122520812012360,,male,200214743.0
-35228.2594,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,alvarado linda g,122520812012363,,female,200214743.0
-21892.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,menasce eduardo s,122520812012358,,male,200214743.0
-28302.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,keyes james h,122520812012357,,male,200214743.0
-7797.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,fradin roger,122520812012356,,male,200214743.0
-16563.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,fuchs anne sutherland,122520812012355,,female,200214743.0
-12767.77,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,adkins rodney c,122520812012354,,male,200214743.0
-36499.8349,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,roth michael isor,122520812012359,,male,200214743.0
-15600.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120515,snow david b jr,122520812012361,,male,200214743.0
-136941.6094,39495.3698,78814,pitney bowes inc /de/,1.0,1.0,,,20120522,martin murray d,122520812012935,"Chairman,President and CEO",male,200214743.0
-36288.0453,8308.9852,78814,pitney bowes inc /de/,,1.0,,,20120522,monahan michael,122520812012936,EVP & CFO,male,200214743.0
-5562.721,0.0,78814,pitney bowes inc /de/,,1.0,,,20120522,goldstein daniel j,122520812012937,EVP&Chief Legal Cmplc Officer,male,200214743.0
+25762.7043,8140.9267,78814,pitney bowes inc /de/,,1.0,,,20120209,monahan michael,122520812003573,EVP & CFO,male,199751070.0
+3493.994,,78814,pitney bowes inc /de/,,1.0,,,20120209,o'hara john e,122520812003574,"EVP&President, PB Software S",male,199751070.0
+11165.0,,78814,pitney bowes inc /de/,,1.0,,,20120209,o meara vicki a,122520812003575,"EVP, Pres PBMS & Govt & Post",male,199751070.0
+5250.3312,,78814,pitney bowes inc /de/,,1.0,,,20120209,timko joseph h,122520812003576,EVP& Chf Strat& Innov Officer,male,199751070.0
+28172.0,7755.9071,78814,pitney bowes inc /de/,,1.0,,,20120209,torsone johnna g,122520812003577,EVP & Chief HR Officer,female,199751070.0
+19268.0,3580.4235,78814,pitney bowes inc /de/,,1.0,,,20120209,abi-karam leslie,122520812003568,"EVP & President, MSM",female,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,green steven j,122520812004271,VP-Fin and CAO,male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,abi-karam leslie,122520812004262,"EVP & President, MSM",female,199751070.0
+,,78814,pitney bowes inc /de/,1.0,1.0,,,20120215,martin murray d,122520812004263,"Chairman,President and CEO",male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,buoncontri gregory e,122520812004264,EVP & Chief Info Officer,male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,goldstein daniel j,122520812004265,EVP&Chief Legal Cmplc Officer,male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,monahan michael,122520812004266,EVP & CFO,male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,o'hara john e,122520812004267,"EVP&President, PB Software S",male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,o meara vicki a,122520812004268,"EVP, Pres PBMS & Govt & Post",male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,timko joseph h,122520812004269,EVP& Chf Strat& Innov Officer,male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120215,torsone johnna g,122520812004270,EVP & Chief HR Officer,female,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120410,timko joseph h,122520812009611,EVP& Chf Tech& Strat Officer,male,199751070.0
+,,78814,pitney bowes inc /de/,,1.0,,,20120410,o'hara john e,122520812009610,"EVP&President, PB Software S",male,199751070.0
+13682.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,busquet anne,122520812012364,,female,200214743.0
+35228.2594,,78814,pitney bowes inc /de/,1.0,,,,20120515,alvarado linda g,122520812012363,,female,200214743.0
+29265.4364,,78814,pitney bowes inc /de/,1.0,,,,20120515,weissman robert evan,122520812012362,,male,200214743.0
+23692.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,shedlarz david l,122520812012360,,male,200214743.0
+15600.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,snow david b jr,122520812012361,,male,200214743.0
+21892.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,menasce eduardo s,122520812012358,,male,200214743.0
+28302.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,keyes james h,122520812012357,,male,200214743.0
+7797.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,fradin roger,122520812012356,,male,200214743.0
+16563.0,,78814,pitney bowes inc /de/,1.0,,,,20120515,fuchs anne sutherland,122520812012355,,female,200214743.0
+12767.77,,78814,pitney bowes inc /de/,1.0,,,,20120515,adkins rodney c,122520812012354,,male,200214743.0
+36499.8349,,78814,pitney bowes inc /de/,1.0,,,,20120515,roth michael isor,122520812012359,,male,200214743.0
 28622.0,7771.522,78814,pitney bowes inc /de/,,1.0,,,20120522,torsone johnna g,122520812012938,EVP & Chief HR Officer,female,200214743.0
-13665.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20120525,o meara vicki a,122520812013162,"EVP, Pres PBMS & Govt & Post",male,200214743.0
+36288.0453,8308.9852,78814,pitney bowes inc /de/,,1.0,,,20120522,monahan michael,122520812012936,EVP & CFO,male,200214743.0
+5562.721,,78814,pitney bowes inc /de/,,1.0,,,20120522,goldstein daniel j,122520812012937,EVP&Chief Legal Cmplc Officer,male,200214743.0
+136941.6094,39495.3698,78814,pitney bowes inc /de/,1.0,1.0,,,20120522,martin murray d,122520812012935,"Chairman,President and CEO",male,200214743.0
+13665.0,,78814,pitney bowes inc /de/,,1.0,,,20120525,o meara vicki a,122520812013162,"EVP, Pres PBMS & Govt & Post",male,200214743.0
 21218.0,3653.7956,78814,pitney bowes inc /de/,,1.0,,,20120530,abi-karam leslie,122520812013353,"EVP & President, MSM",female,200214743.0
-2056.0,0.0,78814,pitney bowes inc /de/,1.0,,,,20120710,hutcheson stewart d,122520812016129,,male,200214743.0
-0.0,0.0,78814,pitney bowes inc /de/,,1.0,,,20121204,lautenbach marc bradley,122520812024468,President & Chief Executive Of,male,200751672.0
-20223.3999,7818.3256,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,green steven j,118248913000117,VP  Finance,male,200751672.0
-30053.0,3978.9008,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,abi-karam leslie,118248913000126,"EVP & Pres., Comm. Solutions.",female,200751672.0
+2056.0,,78814,pitney bowes inc /de/,1.0,,,,20120710,hutcheson stewart d,122520812016129,,male,200214743.0
+,,78814,pitney bowes inc /de/,,1.0,,,20121204,lautenbach marc bradley,122520812024468,President & Chief Executive Of,male,200751672.0
 47479.8269,9048.2958,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,monahan michael,118248913000118,VP/Finance & CAO,male,200751672.0
-172934.0936,39578.6054,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,martin murray d,118248913000119,Executive Vice President,male,200751672.0
 32404.0,7840.1699,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,torsone johnna g,118248913000120,EVP/Chief HR Officer,female,200751672.0
-22892.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,o meara vicki a,118248913000121,EVP/Pres. PBMS & Gov & Postal,male,200751672.0
-9816.2685,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,timko joseph h,118248913000122,EVP/Chief Strategy& Innovation,male,200751672.0
-10761.0689,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,goldstein daniel j,118248913000123,EVP/Chief Legal & Compliance,male,200751672.0
+22892.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,o meara vicki a,118248913000121,EVP/Pres. PBMS & Gov & Postal,male,200751672.0
+172934.0936,39578.6054,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,martin murray d,118248913000119,Executive Vice President,male,200751672.0
+9816.2685,,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,timko joseph h,118248913000122,EVP/Chief Strategy& Innovation,male,200751672.0
 23983.0,8079.5186,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,buoncontri gregory e,118248913000124,EVP/Chief Information Officer,male,200751672.0
-5842.6507,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,o'hara john e,118248913000125,EVP & CFO,male,200751672.0
+5842.6507,,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,o'hara john e,118248913000125,EVP & CFO,male,200751672.0
+30053.0,3978.9008,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,abi-karam leslie,118248913000126,"EVP & Pres., Comm. Solutions.",female,200751672.0
+20223.3999,7818.3256,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,green steven j,118248913000117,VP  Finance,male,200751672.0
+10761.0689,,78814,pitney bowes inc /de/,0,1,0,0.0,20130206,goldstein daniel j,118248913000123,EVP/Chief Legal & Compliance,male,200751672.0
 253020.0936,8378.6054,78814,pitney bowes inc /de/,0,1,0,0.0,20130207,martin murray d,118248913000146,Executive Vice President,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,lautenbach marc bradley,118248913000192,President and CEO,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,torsone johnna g,118248913000195,EVP/Chief HR Officer,female,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,o'hara john e,118248913000196,EVP & Pres of PB Software Sol,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,timko joseph h,118248913000197,EVP/Chief Strategy& Innovation,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,goldstein daniel j,118248913000198,EVP/Chief Legal & Compliance,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,o meara vicki a,118248913000199,EVP/Pres. PBMS & Gov & Postal,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,monahan michael,118248913000200,EVP Finance and CFO,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,green steven j,118248913000193,VP Finance & CAO,male,200751672.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,abi-karam leslie,118248913000194,"EVP & Pres., Comm. Solutions.",female,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,lautenbach marc bradley,118248913000192,President and CEO,male,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,green steven j,118248913000193,VP Finance & CAO,male,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,abi-karam leslie,118248913000194,"EVP & Pres., Comm. Solutions.",female,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,torsone johnna g,118248913000195,EVP/Chief HR Officer,female,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,o'hara john e,118248913000196,EVP & Pres of PB Software Sol,male,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,timko joseph h,118248913000197,EVP/Chief Strategy& Innovation,male,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,goldstein daniel j,118248913000198,EVP/Chief Legal & Compliance,male,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,o meara vicki a,118248913000199,EVP/Pres. PBMS & Gov & Postal,male,200751672.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130213,monahan michael,118248913000200,EVP Finance and CFO,male,200751672.0
 28669.0,8079.5186,78814,pitney bowes inc /de/,0,1,0,0.0,20130304,buoncontri gregory e,118248913000258,EVP/Chief Information Officer,male,201346302.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130502,wright mark f,118248913000442,Exec VP & Pres PB Software Sol,male,201473817.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130502,shearer mark,118248913000443,Exec VP & Pres SMB Mail Sol,male,201473817.0
-66000.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130508,lautenbach marc bradley,118248913000456,President and CEO,male,201473817.0
-9997.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,fradin roger,118248913000493,,male,201473817.0
-24092.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,menasce eduardo s,118248913000494,,male,201473817.0
-38992.946,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,roth michael isor,118248913000495,,male,201473817.0
-37428.2594,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,alvarado linda g,118248913000496,,female,201473817.0
-15882.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,busquet anne,118248913000497,,female,201473817.0
-17800.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,snow david b jr,118248913000498,,male,201473817.0
-25892.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,shedlarz david l,118248913000499,,male,201473817.0
-18763.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,fuchs anne sutherland,118248913000492,,female,201473817.0
-4256.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,hutcheson stewart d,118248913000491,,male,201473817.0
-10000.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130517,shearer mark,118248913000505,Exec VP & Pres SMB Mail Sol,male,201473817.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130604,pilc roger j,118248913000545,Exec VP & Chief Innov Officer,male,201473817.0
-15000.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130607,wright mark f,118248913000562,Exec VP & Pres PB Software Sol,male,201473817.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130702,monahan michael,118248913000629,EVP Finance and CFO,male,201473817.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20130702,kohnstamm abby f,118248913000630,Exec VP & Chief Marketing Ofcr,female,201473817.0
-32920.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20131001,o meara vicki a,118248913000856,EVP/Pres. PBMS & Gov & Postal,male,201812523.0
-84981.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,lautenbach marc bradley,118248914000133,President and CEO,male,201992623.0
-38145.0,7890.0662,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,torsone johnna g,118248914000135,EVP/Chief HR Officer,female,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130502,wright mark f,118248913000442,Exec VP & Pres PB Software Sol,male,201473817.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130502,shearer mark,118248913000443,Exec VP & Pres SMB Mail Sol,male,201473817.0
+66000.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20130508,lautenbach marc bradley,118248913000456,President and CEO,male,201473817.0
+25892.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,shedlarz david l,118248913000499,,male,201473817.0
+17800.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,snow david b jr,118248913000498,,male,201473817.0
+15882.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,busquet anne,118248913000497,,female,201473817.0
+37428.2594,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,alvarado linda g,118248913000496,,female,201473817.0
+38992.946,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,roth michael isor,118248913000495,,male,201473817.0
+24092.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,menasce eduardo s,118248913000494,,male,201473817.0
+9997.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,fradin roger,118248913000493,,male,201473817.0
+18763.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,fuchs anne sutherland,118248913000492,,female,201473817.0
+4256.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20130514,hutcheson stewart d,118248913000491,,male,201473817.0
+10000.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20130517,shearer mark,118248913000505,Exec VP & Pres SMB Mail Sol,male,201473817.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130604,pilc roger j,118248913000545,Exec VP & Chief Innov Officer,male,201473817.0
+15000.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20130607,wright mark f,118248913000562,Exec VP & Pres PB Software Sol,male,201473817.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130702,kohnstamm abby f,118248913000630,Exec VP & Chief Marketing Ofcr,female,201473817.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20130702,monahan michael,118248913000629,EVP Finance and CFO,male,201473817.0
+32920.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20131001,o meara vicki a,118248913000856,EVP/Pres. PBMS & Gov & Postal,male,201812523.0
+18672.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,wright mark f,118248914000132,Exec VP & Pres PB Software Sol,male,201992623.0
+84981.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,lautenbach marc bradley,118248914000133,President and CEO,male,201992623.0
 62976.0046,9585.6592,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,monahan michael,118248914000134,EVP Finance and CFO,male,201992623.0
-19254.0698,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,goldstein daniel j,118248914000136,EVP/Chief Legal & Compliance,male,201992623.0
-18672.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,wright mark f,118248914000132,Exec VP & Pres PB Software Sol,male,201992623.0
-15884.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,shearer mark,118248914000138,Exec VP & Pres SMB Mail Sol,male,201992623.0
+38145.0,7890.0662,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,torsone johnna g,118248914000135,EVP/Chief HR Officer,female,201992623.0
+19254.0698,,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,goldstein daniel j,118248914000136,EVP/Chief Legal & Compliance,male,201992623.0
 22799.3999,8243.5056,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,green steven j,118248914000137,VP Finance & CAO,male,201992623.0
-9256.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140211,hutcheson stewart d,118248914000162,,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,lautenbach marc bradley,118248914000180,President and CEO,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,monahan michael,118248914000179,EVP Finance and CFO,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,shearer mark,118248914000178,Exec VP & Pres SMB Mail Sol,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,torsone johnna g,118248914000173,EVP/Chief HR Officer,female,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,goldstein daniel j,118248914000176,EVP/Chief Legal & Compliance,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,wright mark f,118248914000175,Exec VP & Pres PB Software Sol,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,pilc roger j,118248914000174,Exec VP & Chief Innov Officer,male,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,kohnstamm abby f,118248914000177,Exec VP & Chief Marketing Ofcr,female,201992623.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,green steven j,118248914000172,VP Finance & CAO,male,201992623.0
-28866.2962,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140502,wright mark f,118248914000547,Exec VP & Pres PB Commerce Sol,male,202640173.0
-14256.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140508,hutcheson stewart d,118248914000572,,male,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,busquet anne,118248914000614,,female,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,fradin roger,118248914000613,,male,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,fuchs anne sutherland,118248914000612,,female,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,alvarado linda g,118248914000615,,female,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,roth michael isor,118248914000609,,male,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,shedlarz david l,118248914000608,,male,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,snow david b jr,118248914000607,,male,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,menasce eduardo s,118248914000610,,male,202640173.0
-0.0,0.0,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,hutcheson stewart d,118248914000611,,male,202640173.0
-5133.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140604,pilc roger j,118248914000688,Exec VP & Chief Innov Officer,male,202640173.0
-16852.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20140702,kohnstamm abby f,118248914000758,Exec VP & Chief Marketing Ofcr,female,202640173.0
+15884.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20140206,shearer mark,118248914000138,Exec VP & Pres SMB Mail Sol,male,201992623.0
+9256.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20140211,hutcheson stewart d,118248914000162,,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,torsone johnna g,118248914000173,EVP/Chief HR Officer,female,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,green steven j,118248914000172,VP Finance & CAO,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,wright mark f,118248914000175,Exec VP & Pres PB Software Sol,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,pilc roger j,118248914000174,Exec VP & Chief Innov Officer,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,goldstein daniel j,118248914000176,EVP/Chief Legal & Compliance,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,kohnstamm abby f,118248914000177,Exec VP & Chief Marketing Ofcr,female,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,shearer mark,118248914000178,Exec VP & Pres SMB Mail Sol,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,monahan michael,118248914000179,EVP Finance and CFO,male,201992623.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20140212,lautenbach marc bradley,118248914000180,President and CEO,male,201992623.0
+28866.2962,,78814,pitney bowes inc /de/,0,1,0,0.0,20140502,wright mark f,118248914000547,Exec VP & Pres PB Commerce Sol,male,202640173.0
+14256.0,,78814,pitney bowes inc /de/,1,0,0,0.0,20140508,hutcheson stewart d,118248914000572,,male,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,busquet anne,118248914000614,,female,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,fradin roger,118248914000613,,male,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,fuchs anne sutherland,118248914000612,,female,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,hutcheson stewart d,118248914000611,,male,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,snow david b jr,118248914000607,,male,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,roth michael isor,118248914000609,,male,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,shedlarz david l,118248914000608,,male,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,alvarado linda g,118248914000615,,female,202640173.0
+,,78814,pitney bowes inc /de/,1,0,0,0.0,20140514,menasce eduardo s,118248914000610,,male,202640173.0
+5133.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20140604,pilc roger j,118248914000688,Exec VP & Chief Innov Officer,male,202640173.0
+16852.0,,78814,pitney bowes inc /de/,0,1,0,0.0,20140702,kohnstamm abby f,118248914000758,Exec VP & Chief Marketing Ofcr,female,202640173.0
 51852.0,7800.3437,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,torsone johnna g,118248915000232,EVP/Chief HR Officer,female,200989991.0
-115827.0909,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,lautenbach marc bradley,118248915000233,President and CEO,male,200989991.0
-28414.3199,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,kohnstamm abby f,118248915000234,Exec VP & Chief Marketing Ofcr,female,200989991.0
-34489.2983,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,goldstein daniel j,118248915000235,EVP/Chief Legal & Compliance,male,200989991.0
-29908.399,8464.6427,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,green steven j,118248915000236,VP Finance & CAO,male,200989991.0
+25333.9416,,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,shearer mark,118248915000239,Exec VP & Pres SMB Mail Sol,male,200989991.0
+43302.5727,,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,wright mark f,118248915000238,Exec VP & Pres. Dig. Com. Sol,male,200989991.0
 95353.1226,9865.3027,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,monahan michael,118248915000237,EVP Finance and CFO,male,200989991.0
-43302.5727,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,wright mark f,118248915000238,Exec VP & Pres. Dig. Com. Sol,male,200989991.0
-25333.9416,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,shearer mark,118248915000239,Exec VP & Pres SMB Mail Sol,male,200989991.0
-11492.2459,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,pilc roger j,118248915000240,Exec VP & Chief Innov Officer,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,lautenbach marc bradley,118248915000292,President and CEO,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,green steven j,118248915000284,VP Finance & CAO,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,torsone johnna g,118248915000285,EVP/Chief HR Officer,female,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,pilc roger j,118248915000286,Exec VP & Chief Innov Officer,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,wright mark f,118248915000287,Exec VP & Pres PB Software Sol,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,goldstein daniel j,118248915000288,EVP/Chief Legal & Compliance,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,kohnstamm abby f,118248915000289,Exec VP & Chief Marketing Ofcr,female,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,shearer mark,118248915000290,Exec VP & Pres SMB Mail Sol,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,monahan michael,118248915000291,EVP Finance and CFO,male,200989991.0
-0.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,menasce eduardo s,156218015000352,,male,201683304.0
-0.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,snow david b jr,156218015000351,,male,201683304.0
-22579.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,fuchs anne sutherland,156218015000350,,female,201683304.0
-29708.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,shedlarz david l,156218015000349,,male,201683304.0
-41244.2594,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,alvarado linda g,156218015000345,,female,201683304.0
-13813.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,fradin roger,156218015000347,,male,201683304.0
-19698.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,busquet anne,156218015000346,,female,201683304.0
-0.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,hutcheson stewart d,156218015000353,,male,201683304.0
-43010.6277,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150512,roth michael isor,156218015000348,,male,201683304.0
-0.0,0.0,78814,pitney bowes inc /de/,true,false,false,false,20150922,sanford linda s,156218015000787,,female,201918974.0
+11492.2459,,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,pilc roger j,118248915000240,Exec VP & Chief Innov Officer,male,200989991.0
+34489.2983,,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,goldstein daniel j,118248915000235,EVP/Chief Legal & Compliance,male,200989991.0
+28414.3199,,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,kohnstamm abby f,118248915000234,Exec VP & Chief Marketing Ofcr,female,200989991.0
+115827.0909,,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,lautenbach marc bradley,118248915000233,President and CEO,male,200989991.0
+29908.399,8464.6427,78814,pitney bowes inc /de/,0,1,0,0.0,20150205,green steven j,118248915000236,VP Finance & CAO,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,lautenbach marc bradley,118248915000292,President and CEO,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,green steven j,118248915000284,VP Finance & CAO,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,torsone johnna g,118248915000285,EVP/Chief HR Officer,female,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,pilc roger j,118248915000286,Exec VP & Chief Innov Officer,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,wright mark f,118248915000287,Exec VP & Pres PB Software Sol,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,goldstein daniel j,118248915000288,EVP/Chief Legal & Compliance,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,kohnstamm abby f,118248915000289,Exec VP & Chief Marketing Ofcr,female,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,shearer mark,118248915000290,Exec VP & Pres SMB Mail Sol,male,200989991.0
+,,78814,pitney bowes inc /de/,0,1,0,0.0,20150211,monahan michael,118248915000291,EVP Finance and CFO,male,200989991.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20150512,hutcheson stewart d,156218015000353,,male,201683304.0
+19698.0,,78814,pitney bowes inc /de/,true,false,false,false,20150512,busquet anne,156218015000346,,female,201683304.0
+13813.0,,78814,pitney bowes inc /de/,true,false,false,false,20150512,fradin roger,156218015000347,,male,201683304.0
+43010.6277,,78814,pitney bowes inc /de/,true,false,false,false,20150512,roth michael isor,156218015000348,,male,201683304.0
+29708.0,,78814,pitney bowes inc /de/,true,false,false,false,20150512,shedlarz david l,156218015000349,,male,201683304.0
+22579.0,,78814,pitney bowes inc /de/,true,false,false,false,20150512,fuchs anne sutherland,156218015000350,,female,201683304.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20150512,snow david b jr,156218015000351,,male,201683304.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20150512,menasce eduardo s,156218015000352,,male,201683304.0
+41244.2594,,78814,pitney bowes inc /de/,true,false,false,false,20150512,alvarado linda g,156218015000345,,female,201683304.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20150922,sanford linda s,156218015000787,,female,201918974.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20150922,sanford linda s,156218015000787,,female,201918974.0
+132432.1095,,78814,pitney bowes inc /de/,false,true,false,false,20151102,lautenbach marc bradley,156218015000912,President and CEO,male,201918974.0
+57100.0,7829.3281,78814,pitney bowes inc /de/,false,true,false,false,20160203,torsone johnna g,156218016001489,EVP/Chief HR Officer,female,197050227.0
+5533.4853,,78814,pitney bowes inc /de/,false,true,false,false,20160203,snyder lila,156218016001495,"Exec VP, Glbl Ecomm & Shipping",female,197050227.0
+160271.8976,3370.6351,78814,pitney bowes inc /de/,false,true,false,false,20160203,lautenbach marc bradley,156218016001494,President and CEO,male,197050227.0
+109961.0969,10222.5794,78814,pitney bowes inc /de/,false,true,false,false,20160203,monahan michael,156218016001485,EVP Finance and CFO,male,197050227.0
+41456.9468,,78814,pitney bowes inc /de/,false,true,false,false,20160203,goldstein daniel j,156218016001486,EVP/Chief Legal & Compliance,male,197050227.0
+32245.3999,8744.3278,78814,pitney bowes inc /de/,false,true,false,false,20160203,green steven j,156218016001487,VP Finance & CAO,male,197050227.0
+3039.7232,,78814,pitney bowes inc /de/,false,true,false,false,20160203,christoph stehmann,156218016001488,"Exec VP, Enterprise Sol Group",male,197050227.0
+15243.3709,,78814,pitney bowes inc /de/,false,true,false,false,20160203,pilc roger j,156218016001493,Exec VP & Chief Innov Officer,male,197050227.0
+30674.7233,,78814,pitney bowes inc /de/,false,true,false,false,20160203,kohnstamm abby f,156218016001490,Exec VP & Chief Marketing Ofcr,female,197050227.0
+49999.3298,,78814,pitney bowes inc /de/,false,true,false,false,20160203,wright mark f,156218016001491,Exec VP & Pres PB Commerce So,male,197050227.0
+35088.1222,,78814,pitney bowes inc /de/,false,true,false,false,20160203,shearer mark,156218016001492,Exec VP & Pres SMB Mail Sol,male,197050227.0
+3910.7232,,78814,pitney bowes inc /de/,false,true,false,false,20160210,christoph stehmann,156218016001595,"Exec VP, Enterprise Sol Group",male,197050227.0
+6665.4853,,78814,pitney bowes inc /de/,false,true,false,false,20160210,snyder lila,156218016001594,"Exec VP, Glbl Ecomm & Shipping",female,197050227.0
+33009.3999,8744.3278,78814,pitney bowes inc /de/,false,true,false,false,20160210,green steven j,156218016001596,VP Finance & CAO,male,197050227.0
+52229.3298,,78814,pitney bowes inc /de/,false,true,false,false,20160210,wright mark f,156218016001597,Exec VP & Pres PB Commerce So,male,197050227.0
+58619.0,7829.3281,78814,pitney bowes inc /de/,false,true,false,false,20160210,torsone johnna g,156218016001598,EVP/Chief HR Officer,female,197050227.0
+38654.1222,,78814,pitney bowes inc /de/,false,true,false,false,20160210,shearer mark,156218016001593,Exec VP & Pres SMB Mail Sol,male,197050227.0
+115595.0969,10222.5794,78814,pitney bowes inc /de/,false,true,false,false,20160210,monahan michael,156218016001591,EVP Finance and CFO,male,197050227.0
+16842.3709,,78814,pitney bowes inc /de/,false,true,false,false,20160210,pilc roger j,156218016001592,Exec VP & Chief Innov Officer,male,197050227.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20160210,guidotti robert,156218016001589,EVP & Pres Software Solutions,male,197050227.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20160210,goldstein daniel j,156218016001588,EVP/Chief Legal & Compliance,male,197050227.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20160210,lautenbach marc bradley,156218016001587,President and CEO,male,197050227.0
+32135.7233,,78814,pitney bowes inc /de/,false,true,false,false,20160210,kohnstamm abby f,156218016001590,Exec VP & Chief Marketing Ofcr,female,197050227.0
+41456.9468,,78814,pitney bowes inc /de/,false,true,false,false,20160211,goldstein daniel j,156218016001603,EVP/Chief Legal & Compliance,male,197050227.0
+160271.8976,,78814,pitney bowes inc /de/,false,true,false,false,20160211,lautenbach marc bradley,156218016001604,President and CEO,male,197050227.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20160510,shedlarz david l,156218016002278,,male,188620368.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20160510,hutcheson stewart d,156218016002277,,male,188620368.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20160510,menasce eduardo s,156218016002276,,male,188620368.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20160510,sanford linda s,156218016002275,,female,188620368.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20160510,busquet anne,156218016002274,,female,188620368.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20160510,alvarado linda g,156218016002273,,female,188620368.0
+27121.8607,,78814,pitney bowes inc /de/,true,false,false,false,20160510,fuchs anne sutherland,156218016002272,,female,188620368.0
+47666.6954,,78814,pitney bowes inc /de/,true,false,false,false,20160510,roth michael isor,156218016002270,,male,188620368.0
+18355.8607,,78814,pitney bowes inc /de/,true,false,false,false,20160510,fradin roger,156218016002269,,male,188620368.0
+22203.0,,78814,pitney bowes inc /de/,true,false,false,false,20160510,snow david b jr,156218016002271,,male,188620368.0
+61519.3965,,78814,pitney bowes inc /de/,false,true,false,false,20160705,wright mark f,156218016002748,Exec VP & Pres PB Commerce So,male,188620368.0
+8123.0,,78814,pitney bowes inc /de/,true,false,false,false,20160921,sanford linda s,156218016003156,,female,185589844.0
+86502.8602,80937.0,78814,pitney bowes inc /de/,false,true,false,false,20161103,lautenbach marc bradley,156218016003374,President and CEO,male,185758673.0
+44334.9181,,78814,pitney bowes inc /de/,false,true,false,false,20161103,goldstein daniel j,156218016003375,EVP/Chief Legal & Compliance,male,185758673.0
+3405.0,,78814,pitney bowes inc /de/,false,true,false,false,20161121,guidotti robert,156218016003589,EVP & Pres Software Solutions,male,185758673.0
+37028.3999,9090.0713,78814,pitney bowes inc /de/,false,true,false,false,20170208,green steven j,156218017000564,VP Finance & CAO,male,185758673.0
+25945.7692,,78814,pitney bowes inc /de/,false,true,false,false,20170208,pilc roger j,156218017000565,Exec VP & Chief Innov Officer,male,185758673.0
+68355.0,7846.468,78814,pitney bowes inc /de/,false,true,false,false,20170208,torsone johnna g,156218017000563,EVP/Chief HR Officer,female,185758673.0
+6429.8851,,78814,pitney bowes inc /de/,false,true,false,false,20170208,christoph stehmann,156218017000562,"Exec VP, Enterprise Sol Group",male,185758673.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20170208,sutula stanley j iii,156218017000566,Exec. VP & Chief Fin'l Officer,male,185758673.0
+11626.4174,,78814,pitney bowes inc /de/,false,true,false,false,20170208,snyder lila,156218017000561,"Exec VP, Glbl Ecomm & Shipping",female,185758673.0
+141757.1568,10655.7603,78814,pitney bowes inc /de/,false,true,false,false,20170208,monahan michael,156218017000559,EVP & Chief Operating Officer,male,185758673.0
+62286.7001,,78814,pitney bowes inc /de/,false,true,false,false,20170208,shearer mark,156218017000560,Exec VP & Pres SMB Mail Sol,male,185758673.0
+39623.5448,,78814,pitney bowes inc /de/,false,true,false,false,20170208,kohnstamm abby f,156218017000558,Exec VP & Chief Marketing Ofcr,female,185758673.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20170208,guidotti robert,156218017000557,EVP & Pres Software Solutions,male,185758673.0
+157241.9989,84450.821,78814,pitney bowes inc /de/,false,true,false,false,20170208,lautenbach marc bradley,156218017000556,President and CEO,male,185758673.0
+55525.8606,,78814,pitney bowes inc /de/,false,true,false,false,20170208,goldstein daniel j,156218017000555,EVP/Chief Legal & Compliance,male,185758673.0
+69438.7001,,78814,pitney bowes inc /de/,false,true,false,false,20170215,shearer mark,156218017000709,Exec VP & Pres SMB Mail Sol,male,185758673.0
+12875.4174,,78814,pitney bowes inc /de/,false,true,false,false,20170215,snyder lila,156218017000708,"Exec VP, Glbl Ecomm & Shipping",female,185758673.0
+29896.7692,,78814,pitney bowes inc /de/,false,true,false,false,20170215,pilc roger j,156218017000706,Exec VP & Chief Innov Officer,male,185758673.0
+152761.1568,10655.7603,78814,pitney bowes inc /de/,false,true,false,false,20170215,monahan michael,156218017000705,EVP & Chief Operating Officer,male,185758673.0
+7300.8851,,78814,pitney bowes inc /de/,false,true,false,false,20170215,christoph stehmann,156218017000707,"Exec VP, Enterprise Sol Group",male,185758673.0
+42395.5448,,78814,pitney bowes inc /de/,false,true,false,false,20170215,kohnstamm abby f,156218017000703,Exec VP & Chief Marketing Ofcr,female,185758673.0
+38635.3999,9090.0713,78814,pitney bowes inc /de/,false,true,false,false,20170215,green steven j,156218017000702,VP Finance & CAO,male,185758673.0
+71491.0,7846.468,78814,pitney bowes inc /de/,false,true,false,false,20170215,torsone johnna g,156218017000704,EVP/Chief HR Officer,female,185758673.0
+55525.8606,,78814,pitney bowes inc /de/,false,true,false,false,20170221,goldstein daniel j,156218017000823,EVP/Chief Legal & Compliance,male,185758673.0
+157241.9989,80937.0,78814,pitney bowes inc /de/,false,true,false,false,20170221,lautenbach marc bradley,156218017000824,President and CEO,male,185758673.0
+12875.4174,,78814,pitney bowes inc /de/,false,true,false,false,20170221,snyder lila,156218017000825,"Exec VP, Glbl Ecomm & Shipping",female,185758673.0
+3405.0,,78814,pitney bowes inc /de/,false,true,false,false,20170221,guidotti robert,156218017000826,EVP & Pres Software Solutions,male,185758673.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20170509,snow david b jr,156218017001905,,male,186500998.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20170509,alvarado linda g,156218017001909,,female,186500998.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20170509,menasce eduardo s,156218017001908,,male,186500998.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20170509,busquet anne,156218017001907,,female,186500998.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20170509,hutcheson stewart d,156218017001906,,male,186500998.0
+32879.4837,,78814,pitney bowes inc /de/,true,false,false,false,20170509,fuchs anne sutherland,156218017001904,,female,186500998.0
+13645.0,,78814,pitney bowes inc /de/,true,false,false,false,20170509,sanford linda s,156218017001902,,female,186500998.0
+53531.5069,,78814,pitney bowes inc /de/,true,false,false,false,20170509,roth michael isor,156218017001901,,male,186500998.0
+24113.4837,,78814,pitney bowes inc /de/,true,false,false,false,20170509,fradin roger,156218017001900,,male,186500998.0
+35459.4372,,78814,pitney bowes inc /de/,true,false,false,false,20170509,shedlarz david l,156218017001903,,male,186500998.0
+18689.8581,,78814,pitney bowes inc /de/,true,false,false,false,20170517,sanford linda s,156218017001970,,female,186500998.0
+40968.3999,9273.0847,78814,pitney bowes inc /de/,false,true,false,false,20170807,green steven j,156218017002606,Former VP Finance & CAO,male,186681977.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,dies jason,156218018000654,EVP & Pres. of SMB Solutions,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,torsone johnna g,156218018000653,EVP/Chief HR Officer,female,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,sutula stanley j iii,156218018000652,Exec. VP & Chief Fin'l Officer,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,christoph stehmann,156218018000651,"Exec VP, Enterprise Sol Group",male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,snyder lila,156218018000650,"Exec VP, Glbl Ecomm & Shipping",female,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,guidotti robert,156218018000647,EVP & Pres Software Solutions,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,monahan michael,156218018000648,EVP & Chief Operating Officer,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,lautenbach marc bradley,156218018000646,President and CEO,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,goldstein daniel j,156218018000645,EVP/Chief Legal & Compliance,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,pilc roger j,156218018000649,Exec VP & Chief Innov Officer,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180206,catapano joseph ronald,156218018000655,"VP, Chief Accounting Officer",male,186779761.0
+184487.4145,11285.0448,78814,pitney bowes inc /de/,false,true,false,false,20180215,monahan michael,156218018001021,EVP & Chief Operating Officer,male,186779761.0
+40414.5799,,78814,pitney bowes inc /de/,false,true,false,false,20180215,pilc roger j,156218018001020,Exec VP & Chief Innov Officer,male,186779761.0
+88848.7053,,78814,pitney bowes inc /de/,false,true,false,false,20180215,shearer mark,156218018001023,Exec VP & Pres SMB Mail Sol,male,186779761.0
+50795.2272,,78814,pitney bowes inc /de/,false,true,false,false,20180215,kohnstamm abby f,156218018001022,Exec VP & Chief Marketing Ofcr,female,186779761.0
+78300.0,7915.5205,78814,pitney bowes inc /de/,false,true,false,false,20180215,torsone johnna g,156218018001019,EVP/Chief HR Officer,female,186779761.0
+8009.6153,665.888,78814,pitney bowes inc /de/,false,true,false,false,20180215,dies jason,156218018001016,EVP & Pres. of SMB Solutions,male,186779761.0
+18300.6356,,78814,pitney bowes inc /de/,false,true,false,false,20180215,snyder lila,156218018001017,"Exec VP, Glbl Ecomm & Shipping",female,186779761.0
+5655.7543,1010.1863,78814,pitney bowes inc /de/,false,true,false,false,20180215,catapano joseph ronald,156218018001015,"VP, Chief Accounting Officer",male,186779761.0
+9590.686,,78814,pitney bowes inc /de/,false,true,false,false,20180215,christoph stehmann,156218018001018,"Exec VP, Enterprise Sol Group",male,186779761.0
+3405.0,,78814,pitney bowes inc /de/,false,true,false,false,20180223,guidotti robert,156218018001165,EVP & Pres Software Solutions,male,186779761.0
+8009.6153,665.888,78814,pitney bowes inc /de/,false,true,false,false,20180223,dies jason,156218018001164,EVP & Pres. of SMB Solutions,male,186779761.0
+18300.6356,,78814,pitney bowes inc /de/,false,true,false,false,20180223,snyder lila,156218018001163,"Exec VP, Glbl Ecomm & Shipping",female,186779761.0
+0.0,,78814,pitney bowes inc /de/,false,true,false,false,20180223,sutula stanley j iii,156218018001166,Exec. VP & Chief Fin'l Officer,male,186779761.0
+55525.8606,,78814,pitney bowes inc /de/,false,true,false,false,20180223,goldstein daniel j,156218018001161,EVP/Chief Legal & Compliance,male,186779761.0
+157241.9989,84450.821,78814,pitney bowes inc /de/,false,true,false,false,20180223,lautenbach marc bradley,156218018001162,President and CEO,male,186779761.0
+101429.7053,,78814,pitney bowes inc /de/,false,true,false,false,20180307,shearer mark,156218018001533,Exec VP & Pres SMB Mail Sol,male,186779761.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20180308,snyder lila,156218018001549,"Exec VP, Glbl Ecomm & Shipping",female,186779761.0
+26569.3598,,78814,pitney bowes inc /de/,true,false,false,false,20180508,busquet anne,156218018002354,,female,187550191.0
+31389.1672,,78814,pitney bowes inc /de/,true,false,false,false,20180508,fradin roger,156218018002355,,male,187550191.0
+30401.0,,78814,pitney bowes inc /de/,true,false,false,false,20180508,menasce eduardo s,156218018002356,,male,187550191.0
+61058.494,,78814,pitney bowes inc /de/,true,false,false,false,20180508,roth michael isor,156218018002357,,male,187550191.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20180508,snow david b jr,156218018002358,,male,187550191.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20180508,hutcheson stewart d,156218018002359,,male,187550191.0
+42393.6773,,78814,pitney bowes inc /de/,true,false,false,false,20180508,shedlarz david l,156218018002360,,male,187550191.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20180508,alvarado linda g,156218018002361,,female,187550191.0
+40155.1679,,78814,pitney bowes inc /de/,true,false,false,false,20180508,fuchs anne sutherland,156218018002362,,female,187550191.0
+25520.5958,,78814,pitney bowes inc /de/,true,false,false,false,20180508,sanford linda s,156218018002409,,female,187550191.0
+10000.0,,78814,pitney bowes inc /de/,false,true,false,false,20180509,sutula stanley j iii,156218018002414,Exec. VP & Chief Fin'l Officer,male,187550191.0
+97860.1635,158208.032,78814,pitney bowes inc /de/,false,true,false,false,20180509,lautenbach marc bradley,156218018002413,President and CEO,male,187550191.0
+57160.9879,,78814,pitney bowes inc /de/,false,true,false,false,20180703,kohnstamm abby f,156218018003183,Exec VP & Chief Marketing Ofcr,female,187550191.0
+209058.5336,11673.1188,78814,pitney bowes inc /de/,false,true,false,false,20180710,monahan michael,156218018003268,EVP & Chief Operating Officer,male,187550191.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20180711,dutkowsky robert m,156218018003273,,male,187550191.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20180711,guilfoile mary,156218018003274,,female,187550191.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,catapano joseph ronald,156218019000812,"VP, Chief Accounting Officer",male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,dies jason,156218019000811,EVP & Pres. of SMB Solutions,male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,torsone johnna g,156218019000810,EVP/Chief HR Officer,female,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,sutula stanley j iii,156218019000809,Exec. VP & Chief Fin'l Officer,male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,christoph stehmann,156218019000808,"Exec VP, Enterprise Sol Group",male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,snyder lila,156218019000807,"Exec VP, Glbl Ecomm & Shipping",female,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,pilc roger j,156218019000806,Exec VP & Chief Innov Officer,male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,guidotti robert,156218019000804,EVP & Pres Software Solutions,male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,goldstein daniel j,156218019000803,EVP/Chief Legal & Compliance,male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,lautenbach marc bradley,156218019000802,President and CEO,male,188243432.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20190207,borrelle william a,156218019000805,"SVP, Chief Marketing Officer",male,188243432.0
+25280.815,,78814,pitney bowes inc /de/,false,true,false,false,20190214,snyder lila,156218019000960,"Exec VP, Glbl Ecomm & Shipping",female,188243432.0
+15551.4428,5689.661,78814,pitney bowes inc /de/,false,true,false,false,20190214,dies jason,156218019000958,EVP & Pres. of SMB Solutions,male,188243432.0
+51860.6969,,78814,pitney bowes inc /de/,false,true,false,false,20190214,pilc roger j,156218019000959,Exec VP & Chief Innov Officer,male,188243432.0
+9105.1957,1101.2537,78814,pitney bowes inc /de/,false,true,false,false,20190214,catapano joseph ronald,156218019000957,"VP, Chief Accounting Officer",male,188243432.0
+83464.0,8020.0891,78814,pitney bowes inc /de/,false,true,false,false,20190214,torsone johnna g,156218019000961,EVP/Chief HR Officer,female,188243432.0
+30979.4672,,78814,pitney bowes inc /de/,false,true,false,false,20190214,borrelle william a,156218019000956,"SVP, Chief Marketing Officer",male,188243432.0
+55525.8606,,78814,pitney bowes inc /de/,false,true,false,false,20190221,goldstein daniel j,156218019001164,EVP/Chief Legal & Compliance,male,188243432.0
+97860.1635,158208.032,78814,pitney bowes inc /de/,false,true,false,false,20190221,lautenbach marc bradley,156218019001165,President and CEO,male,188243432.0
+25280.815,,78814,pitney bowes inc /de/,false,true,false,false,20190221,snyder lila,156218019001166,"Exec VP, Glbl Ecomm & Shipping",female,188243432.0
+15551.4428,5689.661,78814,pitney bowes inc /de/,false,true,false,false,20190221,dies jason,156218019001167,EVP & Pres. of SMB Solutions,male,188243432.0
+3405.0,,78814,pitney bowes inc /de/,false,true,false,false,20190221,guidotti robert,156218019001168,EVP & Pres Software Solutions,male,188243432.0
+10000.0,,78814,pitney bowes inc /de/,false,true,false,false,20190221,sutula stanley j iii,156218019001169,Exec. VP & Chief Fin'l Officer,male,188243432.0
+9590.686,,78814,pitney bowes inc /de/,false,true,false,false,20190221,christoph stehmann,156218019001170,"Exec VP, Enterprise Sol Group",male,188243432.0
+15000.0,,78814,pitney bowes inc /de/,false,true,false,false,20190503,sutula stanley j iii,156218019002509,Exec. VP & Chief Fin'l Officer,male,180725731.0
+19258.146,10184.592,78814,pitney bowes inc /de/,false,true,false,false,20190506,dies jason,156218019002604,EVP & Pres. of SMB Solutions,male,180725731.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20190507,dutkowsky robert m,156218019002677,,male,180725731.0
+34399.8647,,78814,pitney bowes inc /de/,true,false,false,false,20190507,snow david b jr,156218019002676,,male,180725731.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20190507,hutcheson stewart d,156218019002674,,male,180725731.0
+38008.9389,,78814,pitney bowes inc /de/,true,false,false,false,20190507,sanford linda s,156218019002673,,female,180725731.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20190507,guilfoile mary,156218019002672,,female,180725731.0
+54943.6636,,78814,pitney bowes inc /de/,true,false,false,false,20190507,shedlarz david l,156218019002670,,male,180725731.0
+53063.5278,,78814,pitney bowes inc /de/,true,false,false,false,20190507,fuchs anne sutherland,156218019002675,,female,180725731.0
+38693.2768,,78814,pitney bowes inc /de/,true,false,false,false,20190507,busquet anne,156218019002668,,female,180725731.0
+44297.527,,78814,pitney bowes inc /de/,true,false,false,false,20190507,fradin roger,156218019002667,,male,180725731.0
+42214.3208,,78814,pitney bowes inc /de/,true,false,false,false,20190507,menasce eduardo s,156218019002666,,male,180725731.0
+74234.9412,,78814,pitney bowes inc /de/,true,false,false,false,20190507,roth michael isor,156218019002669,,male,180725731.0
+10000.0,,78814,pitney bowes inc /de/,true,false,false,false,20190509,dutkowsky robert m,156218019002726,,male,180725731.0
+20935.3877,10184.592,78814,pitney bowes inc /de/,false,true,false,false,20190701,dies jason,156218019003683,EVP & Pres. of SMB Solutions,male,180725731.0
+8955.0,,78814,pitney bowes inc /de/,true,false,false,false,20190709,guilfoile mary,156218019003895,,female,180725731.0
+18955.0,,78814,pitney bowes inc /de/,true,false,false,false,20190709,dutkowsky robert m,156218019003896,,male,180725731.0
+55073.533,,78814,pitney bowes inc /de/,true,false,false,false,20191129,sanford linda s,156218019005770,,female,170848234.0
+3405.0,,78814,pitney bowes inc /de/,false,true,false,false,20191209,guidotti robert,156218019005940,EVP & Pres Software Solutions,male,170848234.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,dies jason,156218020000933,EVP & Pres. of SMB Solutions,male,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,lautenbach marc bradley,156218020000926,President and CEO,male,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,goldstein daniel j,156218020000927,EVP/Chief Legal & Compliance,male,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,borrelle william a,156218020000928,"SVP, Chief Marketing Officer",male,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,snyder lila,156218020000929,"Exec VP, Glbl Ecomm & Shipping",female,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,christoph stehmann,156218020000930,"Exec VP, Enterprise Sol Group",male,171147940.0
+25000.0,,78814,pitney bowes inc /de/,false,true,false,false,20200206,sutula stanley j iii,156218020000931,Exec. VP & Chief Fin'l Officer,male,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,torsone johnna g,156218020000932,EVP/Chief HR Officer,female,171147940.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20200206,catapano joseph ronald,156218020000934,"VP, Chief Accounting Officer",male,171147940.0
+47963.1994,,78814,pitney bowes inc /de/,false,true,false,false,20200213,borrelle william a,156218020001145,"SVP, Chief Marketing Officer",male,171147940.0
+15882.3639,1144.9798,78814,pitney bowes inc /de/,false,true,false,false,20200213,catapano joseph ronald,156218020001141,"VP, Chief Accounting Officer",male,171147940.0
+59267.4774,10522.403,78814,pitney bowes inc /de/,false,true,false,false,20200213,dies jason,156218020001142,EVP & Pres. of SMB Solutions,male,171147940.0
+46129.6028,,78814,pitney bowes inc /de/,false,true,false,false,20200213,snyder lila,156218020001143,"Exec VP, Glbl Ecomm & Shipping",female,171147940.0
+97624.0,8030.385099999999,78814,pitney bowes inc /de/,false,true,false,false,20200213,torsone johnna g,156218020001144,EVP/Chief HR Officer,female,171147940.0
+3405.0,,78814,pitney bowes inc /de/,false,true,false,false,20200221,guidotti robert,156218020001455,EVP & Pres Software Solutions,male,171147940.0
+21319.4774,10522.403,78814,pitney bowes inc /de/,false,true,false,false,20200221,dies jason,156218020001456,EVP & Pres. of SMB Solutions,male,171147940.0
+252421.8766,4223.749,78814,pitney bowes inc /de/,false,true,false,false,20200221,lautenbach marc bradley,156218020001452,President and CEO,male,171147940.0
+10877.9176,,78814,pitney bowes inc /de/,false,true,false,false,20200221,christoph stehmann,156218020001453,"Exec VP, Enterprise Sol Group",male,171147940.0
+25000.0,,78814,pitney bowes inc /de/,false,true,false,false,20200221,sutula stanley j iii,156218020001454,Exec. VP & Chief Fin'l Officer,male,171147940.0
+66008.1775,,78814,pitney bowes inc /de/,false,true,false,false,20200221,goldstein daniel j,156218020001451,EVP/Chief Legal & Compliance,male,171147940.0
+60256.0,,78814,pitney bowes inc /de/,false,true,false,false,20200227,sutula stanley j iii,156218020001795,Exec. VP & Chief Fin'l Officer,male,171147940.0
+62256.0,,78814,pitney bowes inc /de/,false,true,false,false,20200311,sutula stanley j iii,156218020002404,Exec. VP & Chief Fin'l Officer,male,171147940.0
+26527.2782,,78814,pitney bowes inc /de/,true,false,false,false,20200505,dutkowsky robert m,156218020003367,,male,172626898.0
+26614.036,,78814,pitney bowes inc /de/,true,false,false,false,20200505,guilfoile mary,156218020003368,,female,172626898.0
+53406.0,,78814,pitney bowes inc /de/,true,false,false,false,20200505,roth michael isor,156218020003370,,male,172626898.0
+47845.3796,,78814,pitney bowes inc /de/,true,false,false,false,20200505,shedlarz david l,156218020003371,,male,172626898.0
+46888.7799,,78814,pitney bowes inc /de/,true,false,false,false,20200505,sanford linda s,156218020003373,,female,172626898.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20200505,hutcheson stewart d,156218020003375,,male,172626898.0
+53406.6273,,78814,pitney bowes inc /de/,true,false,false,false,20200505,fuchs anne sutherland,156218020003374,,female,172626898.0
+41233.6023,,78814,pitney bowes inc /de/,true,false,false,false,20200505,busquet anne,156218020003365,,female,172626898.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20200902,stamps sheila a,156218020005774,,female,173082121.0
+81913.2378,,78814,pitney bowes inc /de/,true,false,false,false,20200909,sanford linda s,156218020005940,,female,173082121.0
+33115.4478,1196.4704,78814,pitney bowes inc /de/,false,true,false,false,20210210,catapano joseph ronald,156218021001053,"VP, Chief Accounting Officer",male,173274463.0
+107768.0411,11087.724,78814,pitney bowes inc /de/,false,true,false,false,20210210,dies jason,156218021001054,EVP & Pres. of SMB Solutions,male,173274463.0
+122619.0,8076.5285,78814,pitney bowes inc /de/,false,true,false,false,20210210,torsone johnna g,156218021001055,EVP/Chief HR Officer,female,173274463.0
+66326.0183,,78814,pitney bowes inc /de/,false,true,false,false,20210210,borrelle william a,156218021001056,"SVP, Chief Marketing Officer",male,173274463.0
+40164.4082,,78814,pitney bowes inc /de/,false,true,false,false,20210210,zegras gregg,156218021001057,"Exec. VP & P, Global Ecommerce",male,173274463.0
+10877.9176,,78814,pitney bowes inc /de/,false,true,false,false,20210217,christoph stehmann,156218021001183,"Exec VP, Enterprise Sol Group",male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210217,chadwick ana maria,156218021001181,EVP & Chief Financial Officer,female,173274463.0
+252421.8766,,78814,pitney bowes inc /de/,false,true,false,false,20210217,lautenbach marc bradley,156218021001182,President and CEO,male,173274463.0
+66008.1775,,78814,pitney bowes inc /de/,false,true,false,false,20210217,goldstein daniel j,156218021001184,EVP/Chief Legal & Compliance,male,173274463.0
+37304.4082,,78814,pitney bowes inc /de/,false,true,false,false,20210303,zegras gregg,156218021001924,"Exec. VP & P, Global Ecommerce",male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,borrelle william a,156218021002002,"SVP, Chief Marketing Officer",male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,goldstein daniel j,156218021002001,EVP/Chief Legal & Compliance,male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,catapano joseph ronald,156218021002008,"VP, Chief Accounting Officer",male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,zegras gregg,156218021002007,"Exec. VP & P, Global Ecommerce",male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,chadwick ana maria,156218021002006,EVP & Chief Financial Officer,female,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,lautenbach marc bradley,156218021002000,President and CEO,male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,torsone johnna g,156218021002004,EVP/Chief HR Officer,female,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,christoph stehmann,156218021002003,"Exec VP, Enterprise Sol Group",male,173274463.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20210305,dies jason,156218021002005,EVP & Pres. of SMB Solutions,male,173274463.0
+92663.3397,,78814,pitney bowes inc /de/,true,false,false,false,20210504,busquet anne,156218021003122,,female,175493000.0
+71192.1058,,78814,pitney bowes inc /de/,true,false,false,false,20210504,dutkowsky robert m,156218021003123,,male,175493000.0
+61410.4163,,78814,pitney bowes inc /de/,true,false,false,false,20210504,guilfoile mary,156218021003124,,female,175493000.0
+129784.6543,,78814,pitney bowes inc /de/,true,false,false,false,20210504,roth michael isor,156218021003125,,male,175493000.0
+116761.4006,,78814,pitney bowes inc /de/,true,false,false,false,20210504,sanford linda s,156218021003126,,female,175493000.0
+109481.2493,,78814,pitney bowes inc /de/,true,false,false,false,20210504,shedlarz david l,156218021003127,,male,175493000.0
+108125.0413,,78814,pitney bowes inc /de/,true,false,false,false,20210504,fuchs anne sutherland,156218021003128,,female,175493000.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20210504,hutcheson stewart d,156218021003129,,male,175493000.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20210504,stamps sheila a,156218021003130,,female,175493000.0
+3500.0,,78814,pitney bowes inc /de/,false,true,false,false,20210505,chadwick ana maria,156218021003194,EVP & Chief Financial Officer,female,175493000.0
+11859.0,,78814,pitney bowes inc /de/,true,false,false,false,20210901,stamps sheila a,156218021005680,,female,175915380.0
+119428.0,,78814,pitney bowes inc /de/,false,true,false,false,20220209,fairweather james arthur,156218022001301,EVP & Chief Innovation Officer,male,174855086.0
+59652.0,,78814,pitney bowes inc /de/,false,true,false,false,20220209,zegras gregg,156218022001302,"Exec. VP & P, Global Ecommerce",male,174855086.0
+42536.0,1238.0,78814,pitney bowes inc /de/,false,true,false,false,20220209,catapano joseph ronald,156218022001300,"VP, Chief Accounting Officer",male,174855086.0
+169426.0,14294.0,78814,pitney bowes inc /de/,false,true,false,false,20220209,dies jason,156218022001298,EVP & Pres. of SMB Solutions,male,174855086.0
+98056.0,,78814,pitney bowes inc /de/,false,true,false,false,20220209,borrelle william a,156218022001297,"SVP, Chief Marketing Officer",male,174855086.0
+163584.0,8123.0,78814,pitney bowes inc /de/,false,true,false,false,20220209,torsone johnna g,156218022001299,EVP/Chief HR Officer,female,174855086.0
+13300.0,,78814,pitney bowes inc /de/,false,true,false,false,20220211,chadwick ana maria,156218022001351,EVP & Chief Financial Officer,female,174855086.0
+252421.8766,,78814,pitney bowes inc /de/,false,true,false,false,20220215,lautenbach marc bradley,156218022001466,President and CEO,male,174855086.0
+10877.9176,,78814,pitney bowes inc /de/,false,true,false,false,20220215,christoph stehmann,156218022001467,"Exec VP, Enterprise Sol Group",male,174855086.0
+66008.1775,,78814,pitney bowes inc /de/,false,true,false,false,20220215,goldstein daniel j,156218022001468,EVP/Chief Legal & Compliance,male,174855086.0
+25508.0,,78814,pitney bowes inc /de/,false,true,false,false,20220217,chadwick ana maria,156218022001593,EVP & Chief Financial Officer,female,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,fairweather james arthur,156218022001558,EVP & Chief Innovation Officer,male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,catapano joseph ronald,156218022001557,"VP, Chief Accounting Officer",male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,zegras gregg,156218022001556,"Exec. VP & P, Global Ecommerce",male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,chadwick ana maria,156218022001555,EVP & Chief Financial Officer,female,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,christoph stehmann,156218022001552,"Exec VP, Enterprise Sol Group",male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,torsone johnna g,156218022001553,EVP/Chief HR Officer,female,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,goldstein daniel j,156218022001551,EVP/Chief Legal & Compliance,male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,borrelle william a,156218022001550,"SVP, Chief Marketing Officer",male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,lautenbach marc bradley,156218022001549,President and CEO,male,174855086.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20220217,dies jason,156218022001554,EVP & Pres. of SMB Solutions,male,174855086.0
+31958.0,,78814,pitney bowes inc /de/,false,true,false,false,20220309,chadwick ana maria,156218022002487,EVP & Chief Financial Officer,female,174855086.0
+15845.0,,78814,pitney bowes inc /de/,false,true,false,false,20220309,christoph stehmann,156218022002486,"Exec VP, Enterprise Sol Group",male,174855086.0
+76340.0,,78814,pitney bowes inc /de/,false,true,false,false,20220309,goldstein daniel j,156218022002485,EVP/Chief Legal & Compliance,male,174855086.0
+168486.0,8123.0,78814,pitney bowes inc /de/,false,true,false,false,20220309,torsone johnna g,156218022002484,EVP/Chief HR Officer,female,174855086.0
+177239.0,14294.0,78814,pitney bowes inc /de/,false,true,false,false,20220309,dies jason,156218022002482,EVP & Pres. of SMB Solutions,male,174855086.0
+46599.0,1239.0,78814,pitney bowes inc /de/,false,true,false,false,20220309,catapano joseph ronald,156218022002481,"VP, Chief Accounting Officer",male,174855086.0
+100747.0,,78814,pitney bowes inc /de/,false,true,false,false,20220309,borrelle william a,156218022002480,"SVP, Chief Marketing Officer",male,174855086.0
+140292.0,,78814,pitney bowes inc /de/,false,true,false,false,20220309,fairweather james arthur,156218022002483,EVP & Chief Innovation Officer,male,174855086.0
+252421.8766,,78814,pitney bowes inc /de/,false,true,false,false,20220311,lautenbach marc bradley,156218022002536,President and CEO,male,174855086.0
+59652.0,,78814,pitney bowes inc /de/,false,true,false,false,20220311,zegras gregg,156218022002537,"Exec. VP & P, Global Ecommerce",male,174855086.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20220503,shedlarz david l,156218022003683,,male,173432129.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20220503,hutcheson stewart d,156218022003682,,male,173432129.0
+123670.7803,,78814,pitney bowes inc /de/,true,false,false,false,20220503,fuchs anne sutherland,156218022003680,,female,173432129.0
+25562.9477,,78814,pitney bowes inc /de/,true,false,false,false,20220503,stamps sheila a,156218022003681,,female,173432129.0
+145369.3946,,78814,pitney bowes inc /de/,true,false,false,false,20220503,roth michael isor,156218022003678,,male,173432129.0
+76315.535,,78814,pitney bowes inc /de/,true,false,false,false,20220503,guilfoile mary,156218022003677,,female,173432129.0
+86590.828,,78814,pitney bowes inc /de/,true,false,false,false,20220503,dutkowsky robert m,156218022003676,,male,173432129.0
+108480.0784,,78814,pitney bowes inc /de/,true,false,false,false,20220503,busquet anne,156218022003675,,female,173432129.0
+132754.2902,,78814,pitney bowes inc /de/,true,false,false,false,20220503,sanford linda s,156218022003679,,female,173432129.0
+80821.9586,,78814,pitney bowes inc /de/,false,true,false,false,20220801,goldstein daniel j,156218022005769,EVP/Chief Legal & Compliance,male,173876935.0
+143259.797,,78814,pitney bowes inc /de/,false,true,false,false,20220801,fairweather james arthur,156218022005782,EVP & Chief Innovation Officer,male,173876935.0
+101930.2001,,78814,pitney bowes inc /de/,true,false,false,false,20220816,guilfoile mary,156218022006116,,female,173876935.0
+45833.857,,78814,pitney bowes inc /de/,true,false,false,false,20220909,stamps sheila a,156218022006571,,female,173876935.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20230216,goldstein daniel j,156218023001453,EVP/Chief Legal & Compliance,male,174184551.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20230216,chadwick ana maria,156218023001452,EVP & Chief Financial Officer,female,174184551.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20230216,christoph stehmann,156218023001451,"Exec VP, Enterprise Sol Group",male,174184551.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20230216,lautenbach marc bradley,156218023001450,President and CEO,male,174184551.0
+175592.0,,78814,pitney bowes inc /de/,false,true,false,false,20230216,fairweather james arthur,156218023001448,EVP & Chief Innovation Officer,male,174184551.0
+200347.0,20614.0,78814,pitney bowes inc /de/,false,true,false,false,20230216,dies jason,156218023001447,EVP & Pres. of SMB Solutions,male,174184551.0
+54361.0,1303.0,78814,pitney bowes inc /de/,false,true,false,false,20230216,catapano joseph ronald,156218023001446,"VP, Chief Accounting Officer",male,174184551.0
+111546.0,,78814,pitney bowes inc /de/,false,true,false,false,20230216,borrelle william a,156218023001445,"SVP, Chief Marketing Officer",male,174184551.0
+69930.0,,78814,pitney bowes inc /de/,false,true,false,false,20230216,zegras gregg,156218023001449,"Exec. VP & P, Global Ecommerce",male,174184551.0
+44596.0,,78814,pitney bowes inc /de/,false,true,false,false,20230217,chadwick ana maria,156218023001489,EVP & Chief Financial Officer,female,174184551.0
+80821.9586,,78814,pitney bowes inc /de/,false,true,false,false,20230221,goldstein daniel j,156218023001582,EVP/Chief Legal & Compliance,male,174184551.0
+15845.0,,78814,pitney bowes inc /de/,false,true,false,false,20230221,christoph stehmann,156218023001583,"Exec VP, Enterprise Sol Group",male,174184551.0
+252421.8766,,78814,pitney bowes inc /de/,false,true,false,false,20230221,lautenbach marc bradley,156218023001584,President and CEO,male,174184551.0
+62518.0,1303.0,78814,pitney bowes inc /de/,false,true,false,false,20230302,catapano joseph ronald,156218023002115,"VP, Chief Accounting Officer",male,174184551.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230306,brill steven,156218023002468,,male,174184551.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230306,thomas james darrell,156218023002467,,male,174184551.0
+114275.0,,78814,pitney bowes inc /de/,false,true,false,false,20230316,borrelle william a,156218023002818,"SVP, Chief Marketing Officer",male,174184551.0
+66581.0,1303.0,78814,pitney bowes inc /de/,false,true,false,false,20230316,catapano joseph ronald,156218023002819,"VP, Chief Accounting Officer",male,174184551.0
+51046.0,,78814,pitney bowes inc /de/,false,true,false,false,20230316,chadwick ana maria,156218023002820,EVP & Chief Financial Officer,female,174184551.0
+191824.0,,78814,pitney bowes inc /de/,false,true,false,false,20230316,fairweather james arthur,156218023002821,EVP & Chief Innovation Officer,male,174184551.0
+207055.0,20614.0,78814,pitney bowes inc /de/,false,true,false,false,20230316,dies jason,156218023002822,EVP & Group Executive,male,174184551.0
+88557.0,,78814,pitney bowes inc /de/,false,true,false,false,20230316,goldstein daniel j,156218023002823,EVP/Chief Legal & Compliance,male,174184551.0
+20765.0,,78814,pitney bowes inc /de/,false,true,false,false,20230316,christoph stehmann,156218023002824,"EVP, Int'l Sendtech Solutions",male,174184551.0
+69930.0,,78814,pitney bowes inc /de/,false,true,false,false,20230317,zegras gregg,156218023002922,Exec. VP & P. Global Ecommerce,male,174184551.0
+252421.8766,,78814,pitney bowes inc /de/,false,true,false,false,20230317,lautenbach marc bradley,156218023002923,President and CEO,male,174184551.0
+110664.6129,,78814,pitney bowes inc /de/,true,false,false,false,20230501,dutkowsky robert m,156218023003749,,male,175625660.0
+124346.8696,,78814,pitney bowes inc /de/,true,false,false,false,20230501,guilfoile mary,156218023003751,,female,175625660.0
+169838.9048,,78814,pitney bowes inc /de/,true,false,false,false,20230501,roth michael isor,156218023003752,,male,175625660.0
+158050.8146,,78814,pitney bowes inc /de/,true,false,false,false,20230501,sanford linda s,156218023003753,,female,175625660.0
+134802.9519,,78814,pitney bowes inc /de/,true,false,false,false,20230501,shedlarz david l,156218023003754,,male,175625660.0
+133442.2191,,78814,pitney bowes inc /de/,true,false,false,false,20230501,busquet anne,156218023003750,,female,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,guilfoile mary,156218023004351,,female,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,brill steven,156218023004352,,male,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,everett todd a.,156218023004353,,male,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,thomas james darrell,156218023004354,,male,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,stamps sheila a,156218023004355,,female,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,may katie,156218023004356,,female,175625660.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20230522,alberti-perez milena,156218023004357,,female,175625660.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20231004,dies jason,156218023007191,Interim CEO,male,176026252.0
+252421.8766,,78814,pitney bowes inc /de/,false,true,false,false,20231005,lautenbach marc bradley,156218023007217,President and CEO,male,176026252.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240202,simon william s,156218024001005,,male,176528703.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240202,sutton jill,156218024001004,,female,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,nurmohamed shemin,156218024001426,"EVP & Pres, SendTech Solutions",male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,fairweather james arthur,156218024001423,EVP & Chief Innovation Officer,male,176528703.0
+65449.0,,78814,pitney bowes inc /de/,false,true,false,false,20240220,chadwick ana maria,156218024001420,EVP & Chief Financial Officer,female,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,gold andrew robert,156218024001430,"SVP, Chief HR Officer",male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,dies jason,156218024001418,Interim CEO,male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,goldstein daniel j,156218024001414,EVP/Chief Legal & Compliance,male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,zegras gregg,156218024001428,Exec. VP & P. Global Ecommerce,male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,pfeiffer deborah,156218024001431,"EVP & Pres, Presort Services",female,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,johnson christopher,156218024001436,"SVP & President, GFS",male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,schmitt joseph,156218024001435,"SVP, Chief Information Officer",male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240220,catapano joseph ronald,156218024001437,"VP, Chief Accounting Officer",male,176528703.0
+132153.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,borrelle william a,156218024001965,"SVP, Chief Marketing Officer",male,176528703.0
+91385.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,chadwick ana maria,156218024001966,EVP & Chief Financial Officer,female,176528703.0
+235518.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,fairweather james arthur,156218024001967,EVP & Chief Innovation Officer,male,176528703.0
+79605.0,1363.0,78814,pitney bowes inc /de/,false,true,false,false,20240229,catapano joseph ronald,156218024001969,"VP, Chief Accounting Officer",male,176528703.0
+90710.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,gold andrew robert,156218024001970,"SVP, Chief HR Officer",male,176528703.0
+145677.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,johnson christopher,156218024001971,"SVP & President, GFS",male,176528703.0
+148129.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,pfeiffer deborah,156218024001972,"EVP & Pres, Presort Services",female,176528703.0
+12628.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,nurmohamed shemin,156218024001974,"EVP & Pres, SendTech Solutions",male,176528703.0
+259545.0,28117.0,78814,pitney bowes inc /de/,false,true,false,false,20240229,dies jason,156218024001968,Interim CEO,male,176528703.0
+162778.0,,78814,pitney bowes inc /de/,false,true,false,false,20240229,schmitt joseph,156218024001973,"SVP, Chief Information Officer",male,176528703.0
+3725.0,,78814,pitney bowes inc /de/,true,false,false,false,20240304,brill steven,156218024002087,,male,176528703.0
+3725.0,,78814,pitney bowes inc /de/,true,false,false,false,20240304,thomas james darrell,156218024002141,,male,176528703.0
+88557.0,,78814,pitney bowes inc /de/,false,true,false,false,20240311,goldstein daniel j,156218024002559,EVP/Chief Legal & Compliance,male,176528703.0
+12628.0,,78814,pitney bowes inc /de/,false,true,false,false,20240311,nurmohamed shemin,156218024002560,"EVP & Pres, SendTech Solutions",male,176528703.0
+20765.0,,78814,pitney bowes inc /de/,false,true,false,false,20240311,christoph stehmann,156218024002561,"EVP, Int'l Sendtech Solutions",male,176528703.0
+69930.0,,78814,pitney bowes inc /de/,false,true,false,false,20240311,zegras gregg,156218024002562,Exec. VP & P. Global Ecommerce,male,176528703.0
+25991.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,christoph stehmann,156218024002683,"EVP, Int'l Sendtech Solutions",male,176528703.0
+170324.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,schmitt joseph,156218024002682,"SVP, Chief Information Officer",male,176528703.0
+153823.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,pfeiffer deborah,156218024002681,"EVP & Pres, Presort Services",female,176528703.0
+153004.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,johnson christopher,156218024002680,"SVP & President, GFS",male,176528703.0
+97493.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,goldstein daniel j,156218024002679,EVP/Chief Legal & Corp Sec.,male,176528703.0
+95167.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,gold andrew robert,156218024002678,"SVP, Chief HR Officer",male,176528703.0
+96379.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,chadwick ana maria,156218024002676,EVP & Chief Financial Officer,female,176528703.0
+264739.0,28117.0,78814,pitney bowes inc /de/,false,true,false,false,20240314,dies jason,156218024002675,Interim CEO,male,176528703.0
+83639.0,1363.0,78814,pitney bowes inc /de/,false,true,false,false,20240314,catapano joseph ronald,156218024002674,"VP, Chief Accounting Officer",male,176528703.0
+134955.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,borrelle william a,156218024002673,"SVP, Chief Marketing Officer",male,176528703.0
+256137.0,,78814,pitney bowes inc /de/,false,true,false,false,20240314,fairweather james arthur,156218024002677,EVP & Chief Innovation Officer,male,176528703.0
+12628.0,,78814,pitney bowes inc /de/,false,true,false,false,20240318,nurmohamed shemin,156218024002757,"EVP & Pres, SendTech Solutions",male,176528703.0
+73919.0,,78814,pitney bowes inc /de/,false,true,false,false,20240318,zegras gregg,156218024002758,Exec. VP & P. Global Ecommerce,male,176528703.0
+159347.9149,,78814,pitney bowes inc /de/,false,true,false,false,20240411,borrelle william a,156218024003391,"SVP, Chief Marketing Officer",male,176528703.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240412,rosenzweig lance,156218024003395,,male,176528703.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20240422,freemen-bosworth lauren,156218024003484,EVP/Gen Counsel & Corp Sec,female,176528703.0
+34494.0,,78814,pitney bowes inc /de/,true,false,false,false,20240506,thomas james darrell,156218024003848,,male,178875218.0
+33069.0,,78814,pitney bowes inc /de/,true,false,false,false,20240506,may katie,156218024003847,,female,178875218.0
+160692.4647,,78814,pitney bowes inc /de/,true,false,false,false,20240506,guilfoile mary,156218024003846,,female,178875218.0
+41240.826,,78814,pitney bowes inc /de/,true,false,false,false,20240506,everett todd a.,156218024003845,,male,178875218.0
+31269.0,,78814,pitney bowes inc /de/,true,false,false,false,20240506,alberti-perez milena,156218024003844,,female,178875218.0
+34494.0,,78814,pitney bowes inc /de/,true,false,false,false,20240506,brill steven,156218024003843,,male,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240507,rosenzweig lance,156218024003868,,male,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240507,everett todd a.,156218024003867,,male,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240507,sutton jill,156218024003870,,female,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240507,alberti-perez milena,156218024003869,,female,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240508,wolf kurt james,156218024003916,,male,178875218.0
+56988.0,,78814,pitney bowes inc /de/,true,true,false,false,20240524,rosenzweig lance,156218024004356,Interim CEO,male,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240528,sutton jill,156218024004424,,female,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240528,everett todd a.,156218024004423,,male,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240528,wolf kurt james,156218024004422,,male,178875218.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20240528,alberti-perez milena,156218024004421,,female,178875218.0
+126704.0,,78814,pitney bowes inc /de/,false,true,false,false,20240708,gold andrew robert,156218024005634,"SVP, Chief HR Officer",male,178875218.0
+75535.0,,78814,pitney bowes inc /de/,false,true,false,false,20240708,zegras gregg,156218024005633,Exec. VP & P. Global Ecommerce,male,178875218.0
+106067.0,,78814,pitney bowes inc /de/,true,true,false,false,20240821,rosenzweig lance,156218024006442,Interim CEO,male,179509852.0
+191939.0,,78814,pitney bowes inc /de/,false,true,false,false,20240905,schmitt joseph,156218024006699,"SVP, Chief Information Officer",male,179509852.0
+95998.0,1406.0,78814,pitney bowes inc /de/,false,true,false,false,20240910,catapano joseph ronald,156218024006753,"VP, Chief Accounting Officer",male,179509852.0
+267000.0,,78814,pitney bowes inc /de/,true,true,false,false,20241030,rosenzweig lance,156218024007472,CEO,male,181700821.0
+29000.0,,78814,pitney bowes inc /de/,true,false,false,false,20241122,evans paul j.,156218024007868,,male,181700821.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20241125,evans paul j.,156218024007969,,male,181700821.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20241125,levene catherine,156218024007970,,female,181700821.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20241125,schoenfeld julie,156218024007971,,female,181700821.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20241125,alberti-perez milena,156218024007972,,female,181700821.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20241125,everett todd a.,156218024007973,,male,181700821.0
+,,78814,pitney bowes inc /de/,true,false,false,false,20241125,wolf kurt james,156218024007974,,male,181700821.0
+291659.0,,78814,pitney bowes inc /de/,true,true,false,false,20241125,rosenzweig lance,156218024007977,CEO,male,181700821.0
+18663.582,,78814,pitney bowes inc /de/,false,true,false,false,20241203,freemen-bosworth lauren,156218024008087,EVP/Gen Counsel & Corp Sec,female,181700821.0
+,,78814,pitney bowes inc /de/,false,true,false,false,20241217,morris judith ann,156218024008442,SVP & Chief HR Officer,female,181700821.0

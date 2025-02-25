@@ -1,316 +1,833 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3592.0,1921.0,828944,wsfs financial corp,0,1,0,0,20100202,fowle stephen a,94627510000088,EVP & CFO,male,
-3919.0,220.0,828944,wsfs financial corp,0,1,0,0,20100202,levenson rodger,94627510000090,Executive Vice President,male,
-24.0,3877.0,828944,wsfs financial corp,0,1,0,0,20100202,immesberger richard j,94627510000092,Executive Vice President,male,
-3566.0,1712.0,828944,wsfs financial corp,0,1,0,0,20100202,wright richard,94627510000094,Executive Vice President,male,
-9113.0,12764.0,828944,wsfs financial corp,1,1,0,0,20100202,turner mark a,94627510000096,Chief Executive Officer,male,
-1363.0,0.0,828944,wsfs financial corp,1,0,0,0,20100224,davis jennifer w,94627510000147,,female,
-4084.0,1921.0,828944,wsfs financial corp,0,1,0,0,20100226,fowle stephen a,94627510000151,EVP & CFO,male,
-3951.0,2072.0,828944,wsfs financial corp,0,1,0,0,20100226,wright richard,94627510000158,Executive Vice President,male,
-969.0,79.0,828944,wsfs financial corp,0,1,0,0,20100226,eddens peggy h,94627510000150,Executive Vice President,female,
-10839.0,12875.0,828944,wsfs financial corp,1,1,0,0,20100226,turner mark a,94627510000157,Chief Executive Officer,male,
-589.0,3877.0,828944,wsfs financial corp,0,1,0,0,20100226,immesberger richard j,94627510000152,Executive Vice President,male,
-4534.0,220.0,828944,wsfs financial corp,0,1,0,0,20100226,levenson rodger,94627510000153,Executive Vice President,male,
-0.0,0.0,828944,wsfs financial corp,0,1,0,0,20100226,mazarakis s james,94627510000155,Executive Vice President,male,
-11763.0,21994.0,828944,wsfs financial corp,1,1,0,0,20100226,schoenhals marvin n,94627510000156,Chairman,male,
-3075.0,8900.0,828944,wsfs financial corp,1,0,0,0,20100315,cheleden charles g,94627510000203,,male,
-1563.0,0.0,828944,wsfs financial corp,1,0,0,0,20100325,davis jennifer w,114036110013587,,female,
-0.0,6070.0,828944,wsfs financial corp,0,1,0,0,20100401,wright richard,114036110014604,Executive Vice President,male,
-0.0,23906.0,828944,wsfs financial corp,1,1,0,0,20100401,turner mark a,114036110014602,Chief Executive Officer,male,
-0.0,34284.0,828944,wsfs financial corp,1,0,0,0,20100401,schoenhals marvin n,114036110014600,,male,
-0.0,4847.0,828944,wsfs financial corp,0,1,0,0,20100401,levenson rodger,114036110014598,Executive Vice President,male,
-0.0,7023.0,828944,wsfs financial corp,0,1,0,0,20100401,fowle stephen a,114036110014594,Executive Vice President,male,
-0.0,4485.0,828944,wsfs financial corp,0,1,0,0,20100401,immesberger richard j,114036110014596,Executive Vice President,male,
-10675.0,0.0,828944,wsfs financial corp,1,0,0,0,20100507,hollowell david e,114036110019701,,male,
+3919.0,220.0,828944,wsfs financial corp,0,1,0.0,0.0,20100202,levenson rodger,94627510000090,Executive Vice President,male,
+3566.0,1712.0,828944,wsfs financial corp,0,1,0.0,0.0,20100202,wright richard,94627510000094,Executive Vice President,male,
+9113.0,12764.0,828944,wsfs financial corp,1,1,0.0,0.0,20100202,turner mark a,94627510000096,Chief Executive Officer,male,
+3592.0,1921.0,828944,wsfs financial corp,0,1,0.0,0.0,20100202,fowle stephen a,94627510000088,EVP & CFO,male,
+24.0,3877.0,828944,wsfs financial corp,0,1,0.0,0.0,20100202,immesberger richard j,94627510000092,Executive Vice President,male,
+1363.0,,828944,wsfs financial corp,1,0,0.0,0.0,20100224,davis jennifer w,94627510000147,,female,
+3951.0,2072.0,828944,wsfs financial corp,0,1,0.0,0.0,20100226,wright richard,94627510000158,Executive Vice President,male,
+10839.0,12875.0,828944,wsfs financial corp,1,1,0.0,0.0,20100226,turner mark a,94627510000157,Chief Executive Officer,male,
+11763.0,21994.0,828944,wsfs financial corp,1,1,0.0,0.0,20100226,schoenhals marvin n,94627510000156,Chairman,male,
+,,828944,wsfs financial corp,0,1,0.0,0.0,20100226,mazarakis s james,94627510000155,Executive Vice President,male,
+4534.0,220.0,828944,wsfs financial corp,0,1,0.0,0.0,20100226,levenson rodger,94627510000153,Executive Vice President,male,
+589.0,3877.0,828944,wsfs financial corp,0,1,0.0,0.0,20100226,immesberger richard j,94627510000152,Executive Vice President,male,
+4084.0,1921.0,828944,wsfs financial corp,0,1,0.0,0.0,20100226,fowle stephen a,94627510000151,EVP & CFO,male,
+969.0,79.0,828944,wsfs financial corp,0,1,0.0,0.0,20100226,eddens peggy h,94627510000150,Executive Vice President,female,
+3075.0,8900.0,828944,wsfs financial corp,1,0,0.0,0.0,20100315,cheleden charles g,94627510000203,,male,
+1563.0,,828944,wsfs financial corp,1,0,0,0,20100325,davis jennifer w,114036110013587,,female,
+,6070.0,828944,wsfs financial corp,0,1,0,0,20100401,wright richard,114036110014604,Executive Vice President,male,
+,34284.0,828944,wsfs financial corp,1,0,0,0,20100401,schoenhals marvin n,114036110014600,,male,
+,23906.0,828944,wsfs financial corp,1,1,0,0,20100401,turner mark a,114036110014602,Chief Executive Officer,male,
+,4485.0,828944,wsfs financial corp,0,1,0,0,20100401,immesberger richard j,114036110014596,Executive Vice President,male,
+,4847.0,828944,wsfs financial corp,0,1,0,0,20100401,levenson rodger,114036110014598,Executive Vice President,male,
+,7023.0,828944,wsfs financial corp,0,1,0,0,20100401,fowle stephen a,114036110014594,Executive Vice President,male,
+10675.0,,828944,wsfs financial corp,1,0,0,0,20100507,hollowell david e,114036110019701,,male,
 15279.0,23906.0,828944,wsfs financial corp,1,1,0,0,20100512,turner mark a,114036110020706,Chief Executive Officer,male,
-7337.0,0.0,828944,wsfs financial corp,1,0,0,0,20100517,preston thomas p,114036110021562,,male,
-52851.0,0.0,828944,wsfs financial corp,1,0,0,0,20100521,julian joseph r,114036110022585,,male,
+7337.0,,828944,wsfs financial corp,1,0,0,0,20100517,preston thomas p,114036110021562,,male,
+52851.0,,828944,wsfs financial corp,1,0,0,0,20100521,julian joseph r,114036110022585,,male,
 160.0,284.0,828944,wsfs financial corp,0,1,0,0,20100604,eddens peggy h,114036110024286,Executive Vice President,female,
-7205.0,0.0,828944,wsfs financial corp,1,0,0,0,20100609,smith claibourne d,114036110024812,,male,
-1833.0,0.0,828944,wsfs financial corp,1,0,0,0,20100923,davis jennifer w,114036110038337,,female,
+7205.0,,828944,wsfs financial corp,1,0,0,0,20100609,smith claibourne d,114036110024812,,male,
+1833.0,,828944,wsfs financial corp,1,0,0,0,20100923,davis jennifer w,114036110038337,,female,
 0.0,1043.0,828944,wsfs financial corp,0,1,0,0,20100928,eddens peggy h,114036110038819,Executive Vice President,female,
-7205.0,0.0,828944,wsfs financial corp,1,0,0,0,20101108,smith claibourne d,114036110044115,,male,
+7205.0,,828944,wsfs financial corp,1,0,0,0,20101108,smith claibourne d,114036110044115,,male,
 14309.0,34284.0,828944,wsfs financial corp,1,0,0,0,20101112,schoenhals marvin n,114036110045359,,male,
-6905.0,0.0,828944,wsfs financial corp,1,0,0,0,20101129,smith claibourne d,114036110047323,,male,
-3400.0,0.0,828944,wsfs financial corp,1,0,0,0,20101203,morgan calvert a jr,114036110048019,,male,
-53851.0,0.0,828944,wsfs financial corp,1,0,0,0,20101213,julian joseph r,114036110049343,,male,
-372.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,bird anat,114036110050469,,female,
-42.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,frangopoulos zissimos a,114036110050437,,male,
-7400.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,smith claibourne d,114036110050433,,male,
-4620.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,reed scott e,114036110050428,,male,
+6905.0,,828944,wsfs financial corp,1,0,0,0,20101129,smith claibourne d,114036110047323,,male,
+3400.0,,828944,wsfs financial corp,1,0,0,0,20101203,morgan calvert a jr,114036110048019,,male,
+53851.0,,828944,wsfs financial corp,1,0,0,0,20101213,julian joseph r,114036110049343,,male,
+372.0,,828944,wsfs financial corp,1,0,0,0,20101220,bird anat,114036110050469,,female,
+42.0,,828944,wsfs financial corp,1,0,0,0,20101220,frangopoulos zissimos a,114036110050437,,male,
+7400.0,,828944,wsfs financial corp,1,0,0,0,20101220,smith claibourne d,114036110050433,,male,
+4620.0,,828944,wsfs financial corp,1,0,0,0,20101220,reed scott e,114036110050428,,male,
 7832.0,1275.0,828944,wsfs financial corp,1,0,0,0,20101220,preston thomas p,114036110050422,,male,
-54346.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,julian joseph r,114036110050420,,male,
-2328.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,davis jennifer w,114036110050401,,female,
+54346.0,,828944,wsfs financial corp,1,0,0,0,20101220,julian joseph r,114036110050420,,male,
 4170.0,3400.0,828944,wsfs financial corp,1,0,0,0,20101220,morgan calvert a jr,114036110050399,,male,
 3570.0,8900.0,828944,wsfs financial corp,1,0,0,0,20101220,cheleden charles g,114036110050397,,male,
-3355.0,0.0,828944,wsfs financial corp,1,0,0,0,20101220,delson donald w,114036110050395,,male,
+3355.0,,828944,wsfs financial corp,1,0,0,0,20101220,delson donald w,114036110050395,,male,
 9970.0,600.0,828944,wsfs financial corp,1,0,0,0,20101220,downey john f,114036110050393,,male,
 4720.0,2200.0,828944,wsfs financial corp,1,0,0,0,20101220,klima dennis e,114036110050391,,male,
-1716.0,0.0,828944,wsfs financial corp,1,0,0,0,20101227,delson donald w,114036110051310,,male,
-2500.0,0.0,828944,wsfs financial corp,0,1,0,0,20110105,mazarakis s james,114036111001230,Executive Vice President,male,
-6451.0,2119.0,828944,wsfs financial corp,0,1,0,0,20110105,wright richard,114036111001235,Executive Vice President,male,
-7034.0,313.0,828944,wsfs financial corp,0,1,0,0,20110105,levenson rodger,114036111001238,Executive Vice President,male,
+2328.0,,828944,wsfs financial corp,1,0,0,0,20101220,davis jennifer w,114036110050401,,female,
+1716.0,,828944,wsfs financial corp,1,0,0,0,20101227,delson donald w,114036110051310,,male,
 6584.0,2939.0,828944,wsfs financial corp,0,1,0,0,20110105,fowle stephen a,114036111001248,Executive Vice President,male,
-3259.0,284.0,828944,wsfs financial corp,0,1,0,0,20110105,eddens peggy h,114036111001249,Executive Vice President,female,
-34035.0,22521.0,828944,wsfs financial corp,1,0,0,0,20110105,schoenhals marvin n,114036111001330,,male,
 15756.0,13067.0,828944,wsfs financial corp,1,1,0,0,20110105,turner mark a,114036111001348,Chief Executive Officer,male,
-7049.0,313.0,828944,wsfs financial corp,0,1,0,0,20110201,levenson rodger,114036111005317,Executive Vice President,male,
+34035.0,22521.0,828944,wsfs financial corp,1,0,0,0,20110105,schoenhals marvin n,114036111001330,,male,
+3259.0,284.0,828944,wsfs financial corp,0,1,0,0,20110105,eddens peggy h,114036111001249,Executive Vice President,female,
+7034.0,313.0,828944,wsfs financial corp,0,1,0,0,20110105,levenson rodger,114036111001238,Executive Vice President,male,
+6451.0,2119.0,828944,wsfs financial corp,0,1,0,0,20110105,wright richard,114036111001235,Executive Vice President,male,
+2500.0,,828944,wsfs financial corp,0,1,0,0,20110105,mazarakis s james,114036111001230,Executive Vice President,male,
+2515.0,,828944,wsfs financial corp,0,1,0,0,20110201,mazarakis s james,114036111005311,Executive Vice President,male,
 15771.0,13067.0,828944,wsfs financial corp,1,1,0,0,20110201,turner mark a,114036111005313,Chief Executive Officer,male,
-2515.0,0.0,828944,wsfs financial corp,0,1,0,0,20110201,mazarakis s james,114036111005311,Executive Vice President,male,
-1000.0,0.0,828944,wsfs financial corp,1,0,0,0,20110209,frangopoulos zissimos a,114036111007485,,male,
-23223.0,13067.0,828944,wsfs financial corp,1,1,0,0,20110228,turner mark a,114036111012659,Chief Executive Officer,male,
+7049.0,313.0,828944,wsfs financial corp,0,1,0,0,20110201,levenson rodger,114036111005317,Executive Vice President,male,
+1000.0,,828944,wsfs financial corp,1,0,0,0,20110209,frangopoulos zissimos a,114036111007485,,male,
 10576.0,313.0,828944,wsfs financial corp,0,1,0,0,20110228,levenson rodger,114036111012662,Executive Vice President,male,
-5509.0,0.0,828944,wsfs financial corp,0,1,0,0,20110228,mazarakis s james,114036111012664,Executive Vice President,male,
-9920.0,2119.0,828944,wsfs financial corp,0,1,0,0,20110228,wright richard,114036111012667,Executive Vice President,male,
-3454.0,284.0,828944,wsfs financial corp,0,1,0,0,20110228,eddens peggy h,114036111012706,Executive Vice President,female,
 6988.0,2939.0,828944,wsfs financial corp,0,1,0,0,20110228,fowle stephen a,114036111012707,Executive Vice President,male,
-2434.0,0.0,828944,wsfs financial corp,1,0,0,0,20110325,davis jennifer w,114036111018566,,female,
-7200.0,0.0,828944,wsfs financial corp,1,0,0,0,20110504,smith claibourne d,114036111024870,,male,
-2676.0,0.0,828944,wsfs financial corp,1,0,0,0,20110519,davis jennifer w,114036111028819,,female,
+3454.0,284.0,828944,wsfs financial corp,0,1,0,0,20110228,eddens peggy h,114036111012706,Executive Vice President,female,
+23223.0,13067.0,828944,wsfs financial corp,1,1,0,0,20110228,turner mark a,114036111012659,Chief Executive Officer,male,
+5509.0,,828944,wsfs financial corp,0,1,0,0,20110228,mazarakis s james,114036111012664,Executive Vice President,male,
+9920.0,2119.0,828944,wsfs financial corp,0,1,0,0,20110228,wright richard,114036111012667,Executive Vice President,male,
+2434.0,,828944,wsfs financial corp,1,0,0,0,20110325,davis jennifer w,114036111018566,,female,
+7200.0,,828944,wsfs financial corp,1,0,0,0,20110504,smith claibourne d,114036111024870,,male,
+2676.0,,828944,wsfs financial corp,1,0,0,0,20110519,davis jennifer w,114036111028819,,female,
 164.0,979.0,828944,wsfs financial corp,0,1,0,0,20110526,eddens peggy h,114036111030096,Executive Vice President,female,
 15818.0,13170.0,828944,wsfs financial corp,1,1,0,0,20110527,turner mark a,114036111030264,Chief Executive Officer,male,
 2982.0,3661.0,828944,wsfs financial corp,0,1,0,0,20110606,fowle stephen a,114036111031514,Executive Vice President,male,
-472.0,388.0,828944,wsfs financial corp,0,1,0,0,20110607,levenson rodger,114036111031705,Executive Vice President,male,
 253.0,2386.0,828944,wsfs financial corp,0,1,0,0,20110607,wright richard,114036111031688,Executive Vice President,male,
-1500.0,0.0,828944,wsfs financial corp,1,0,0,0,20110802,frangopoulos zissimos a,114036111038959,,male,8604239.0
-2926.0,0.0,828944,wsfs financial corp,1,0,0,0,20110805,davis jennifer w,114036111039969,,female,8604239.0
-7200.0,0.0,828944,wsfs financial corp,1,0,0,0,20110809,smith claibourne d,114036111040487,,male,8604239.0
+472.0,388.0,828944,wsfs financial corp,0,1,0,0,20110607,levenson rodger,114036111031705,Executive Vice President,male,
+1500.0,,828944,wsfs financial corp,1,0,0,0,20110802,frangopoulos zissimos a,114036111038959,,male,8604239.0
+2926.0,,828944,wsfs financial corp,1,0,0,0,20110805,davis jennifer w,114036111039969,,female,8604239.0
+7200.0,,828944,wsfs financial corp,1,0,0,0,20110809,smith claibourne d,114036111040487,,male,8604239.0
 13604.0,55761.0,828944,wsfs financial corp,1,0,0,0,20110809,schoenhals marvin n,114036111040514,,male,8604239.0
 1100.0,5509.0,828944,wsfs financial corp,0,1,0,0,20110907,mazarakis s james,114036111044883,Executive Vice President,male,8604239.0
-0.0,0.0,828944,wsfs financial corp,0,1,0,0,20111013,geraghty paul d,114036111049350,Executive Vice President,male,8604239.0
-154.0,0.0,828944,wsfs financial corp,0,1,0,0,20111031,geraghty paul d,114036111051025,Executive Vice President,male,8604239.0
+,,828944,wsfs financial corp,0,1,0,0,20111013,geraghty paul d,114036111049350,Executive Vice President,male,8604239.0
+154.0,,828944,wsfs financial corp,0,1,0,0,20111031,geraghty paul d,114036111051025,Executive Vice President,male,8604239.0
 22004.0,35239.0,828944,wsfs financial corp,1,1,0,0,20111104,turner mark a,114036111051908,Chief Executive Officer,male,8612876.0
 24601.0,55761.0,828944,wsfs financial corp,1,0,0,0,20111110,schoenhals marvin n,114036111052808,,male,8612876.0
 0.0,5281.0,828944,wsfs financial corp,0,1,0,0,20111129,kearney thomas w,114036111055277,Executive Vice President,male,8612876.0
+,,828944,wsfs financial corp,1,0,1,0,20111214,"weschler, r. ted",91957411006752,,male,8612876.0
 2372.0,55761.0,828944,wsfs financial corp,1,0,0,0,20111214,schoenhals marvin n,114036111057438,,male,8612876.0
-1497628.0,0.0,828944,wsfs financial corp,1,0,1,0,20111214,"weschler, r. ted",91957411006752,,male,8612876.0
-3205.0,0.0,828944,wsfs financial corp,1,0,0,0,20111215,davis jennifer w,114036111057622,,female,8612876.0
-1015.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,bird anat,114036111057894,,female,8612876.0
-4213.0,8900.0,828944,wsfs financial corp,1,0,0,0,20111216,cheleden charles g,114036111057897,,male,8612876.0
-4813.0,3400.0,828944,wsfs financial corp,1,0,0,0,20111216,morgan calvert a jr,114036111057902,,male,8612876.0
-7843.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,smith claibourne d,114036111057904,,male,8612876.0
-2359.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,delson donald w,114036111057907,,male,8612876.0
-5363.0,2200.0,828944,wsfs financial corp,1,0,0,0,20111216,klima dennis e,114036111057909,,male,8612876.0
-3848.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,davis jennifer w,114036111057911,,female,8612876.0
-461.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,chandler william b iii,114036111057913,,male,8612876.0
-8475.0,1275.0,828944,wsfs financial corp,1,0,0,0,20111216,preston thomas p,114036111057916,,male,8612876.0
-2143.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,frangopoulos zissimos a,114036111057920,,male,8612876.0
-5263.0,0.0,828944,wsfs financial corp,1,0,0,0,20111216,reed scott e,114036111057923,,male,8612876.0
+3205.0,,828944,wsfs financial corp,1,0,0,0,20111215,davis jennifer w,114036111057622,,female,8612876.0
 24708.0,55761.0,828944,wsfs financial corp,1,0,0,0,20111216,schoenhals marvin n,114036111057926,,male,8612876.0
-521234.0,0.0,828944,wsfs financial corp,1,0,1,0,20111219,"weschler, r. ted",91957411006808,,male,8612876.0
-7643.0,0.0,828944,wsfs financial corp,1,0,0,0,20111220,smith claibourne d,114036111058295,,male,8612876.0
-7543.0,0.0,828944,wsfs financial corp,1,0,0,0,20111221,smith claibourne d,114036111058429,,male,8612876.0
+5263.0,,828944,wsfs financial corp,1,0,0,0,20111216,reed scott e,114036111057923,,male,8612876.0
+8475.0,1275.0,828944,wsfs financial corp,1,0,0,0,20111216,preston thomas p,114036111057916,,male,8612876.0
+461.0,,828944,wsfs financial corp,1,0,0,0,20111216,chandler william b iii,114036111057913,,male,8612876.0
+3848.0,,828944,wsfs financial corp,1,0,0,0,20111216,davis jennifer w,114036111057911,,female,8612876.0
+2143.0,,828944,wsfs financial corp,1,0,0,0,20111216,frangopoulos zissimos a,114036111057920,,male,8612876.0
+2359.0,,828944,wsfs financial corp,1,0,0,0,20111216,delson donald w,114036111057907,,male,8612876.0
+7843.0,,828944,wsfs financial corp,1,0,0,0,20111216,smith claibourne d,114036111057904,,male,8612876.0
+4813.0,3400.0,828944,wsfs financial corp,1,0,0,0,20111216,morgan calvert a jr,114036111057902,,male,8612876.0
+4213.0,8900.0,828944,wsfs financial corp,1,0,0,0,20111216,cheleden charles g,114036111057897,,male,8612876.0
+1015.0,,828944,wsfs financial corp,1,0,0,0,20111216,bird anat,114036111057894,,female,8612876.0
+5363.0,2200.0,828944,wsfs financial corp,1,0,0,0,20111216,klima dennis e,114036111057909,,male,8612876.0
+,,828944,wsfs financial corp,1,0,1,0,20111219,"weschler, r. ted",91957411006808,,male,8612876.0
+7643.0,,828944,wsfs financial corp,1,0,0,0,20111220,smith claibourne d,114036111058295,,male,8612876.0
+7543.0,,828944,wsfs financial corp,1,0,0,0,20111221,smith claibourne d,114036111058429,,male,8612876.0
 45973.0,37360.0,828944,wsfs financial corp,1,0,0,0,20120216,schoenhals marvin n,114036112008952,,male,8612876.0
-350.0,979.0,828944,wsfs financial corp,0,1,0,0,20120227,eddens peggy h,114036112011144,Executive Vice President,female,8612876.0
-1146.0,0.0,828944,wsfs financial corp,0,1,0,0,20120227,mazarakis s james,114036112011147,Executive Vice President,male,8612876.0
-2696.0,2781.0,828944,wsfs financial corp,0,1,0,0,20120227,kearney thomas w,114036112011151,Executive Vice President,male,8612876.0
-0.0,0.0,828944,wsfs financial corp,0,1,0,0,20120227,geraghty paul d,114036112011156,Executive Vice President,male,8612876.0
-22776.0,13170.0,828944,wsfs financial corp,1,1,0,0,20120227,turner mark a,114036112011262,Chief Executive Officer,male,8612876.0
-3247.0,3661.0,828944,wsfs financial corp,0,1,0,0,20120227,fowle stephen a,114036112011263,Executive Vice President,male,8612876.0
-798.0,388.0,828944,wsfs financial corp,0,1,0,0,20120227,levenson rodger,114036112011264,Executive Vice President,male,8612876.0
 560.0,2394.0,828944,wsfs financial corp,0,1,0,0,20120227,wright richard,114036112011267,Executive Vice President,male,8612876.0
 46787.0,4120.0,828944,wsfs financial corp,1,0,0,0,20120227,schoenhals marvin n,114036112011270,,male,8612876.0
+798.0,388.0,828944,wsfs financial corp,0,1,0,0,20120227,levenson rodger,114036112011264,Executive Vice President,male,8612876.0
+2696.0,2781.0,828944,wsfs financial corp,0,1,0,0,20120227,kearney thomas w,114036112011151,Executive Vice President,male,8612876.0
+22776.0,13170.0,828944,wsfs financial corp,1,1,0,0,20120227,turner mark a,114036112011262,Chief Executive Officer,male,8612876.0
+,,828944,wsfs financial corp,0,1,0,0,20120227,geraghty paul d,114036112011156,Executive Vice President,male,8612876.0
+1146.0,,828944,wsfs financial corp,0,1,0,0,20120227,mazarakis s james,114036112011147,Executive Vice President,male,8612876.0
+3247.0,3661.0,828944,wsfs financial corp,0,1,0,0,20120227,fowle stephen a,114036112011263,Executive Vice President,male,8612876.0
+350.0,979.0,828944,wsfs financial corp,0,1,0,0,20120227,eddens peggy h,114036112011144,Executive Vice President,female,8612876.0
 30376.0,13170.0,828944,wsfs financial corp,1,1,0,0,20120308,turner mark a,114036112014076,Chief Executive Officer,male,8703945.0
 13503.0,2394.0,828944,wsfs financial corp,0,1,0,0,20120308,wright richard,114036112014082,Executive Vice President,male,8703945.0
 13271.0,388.0,828944,wsfs financial corp,0,1,0,0,20120308,levenson rodger,114036112014087,Executive Vice President,male,8703945.0
-8926.0,0.0,828944,wsfs financial corp,0,1,0,0,20120308,mazarakis s james,114036112014091,Executive Vice President,male,8703945.0
-13521.0,2394.0,828944,wsfs financial corp,0,1,0,0,20120319,wright richard,114036112016433,Executive Vice President,male,8703945.0
-8944.0,0.0,828944,wsfs financial corp,0,1,0,0,20120319,mazarakis s james,114036112016434,Executive Vice President,male,8703945.0
+8926.0,,828944,wsfs financial corp,0,1,0,0,20120308,mazarakis s james,114036112014091,Executive Vice President,male,8703945.0
 30394.0,13170.0,828944,wsfs financial corp,1,1,0,0,20120319,turner mark a,114036112016428,Chief Executive Officer,male,8703945.0
 13289.0,388.0,828944,wsfs financial corp,0,1,0,0,20120319,levenson rodger,114036112016432,Executive Vice President,male,8703945.0
+13521.0,2394.0,828944,wsfs financial corp,0,1,0,0,20120319,wright richard,114036112016433,Executive Vice President,male,8703945.0
+8944.0,,828944,wsfs financial corp,0,1,0,0,20120319,mazarakis s james,114036112016434,Executive Vice President,male,8703945.0
 100.0,4568.0,828944,wsfs financial corp,0,1,0,0,20120829,eddens peggy h,114036112038747,Executive Vice President,female,8705604.0
 1528.0,8944.0,828944,wsfs financial corp,0,1,0,0,20120914,mazarakis s james,114036112040433,Executive Vice President,male,8705604.0
 39787.0,36169.0,828944,wsfs financial corp,1,0,0,0,20120919,schoenhals marvin n,114036112040957,,male,8705604.0
-961.0,0.0,828944,wsfs financial corp,1,0,0,0,20120924,chandler william b iii,114036112041295,,male,8705604.0
+961.0,,828944,wsfs financial corp,1,0,0,0,20120924,chandler william b iii,114036112041295,,male,8705604.0
 2696.0,2781.0,828944,wsfs financial corp,0,1,0,0,20121120,kearney thomas w,151666512000001,EVP,male,8735520.0
 51310.0,13170.0,828944,wsfs financial corp,0,1,0,0,20121121,turner mark a,151666512000002,CEO,male,8735520.0
 4213.0,8900.0,828944,wsfs financial corp,1,0,0,0,20121211,cheleden charles g,151666512000003,,male,8735520.0
-2914.0,0.0,828944,wsfs financial corp,1,0,0,0,20121219,delson donald w,151666512000012,,male,8735520.0
-4403.0,0.0,828944,wsfs financial corp,1,0,0,0,20121219,davis jennifer w,151666512000011,,female,8735520.0
-1516.0,0.0,828944,wsfs financial corp,1,0,0,0,20121219,chandler william b iii,151666512000010,,male,8735520.0
-1570.0,0.0,828944,wsfs financial corp,1,0,0,0,20121219,bird anat,151666512000009,,female,8735520.0
-5368.0,3400.0,828944,wsfs financial corp,1,0,0,0,20121219,morgan calvert a jr,151666512000008,,male,8735520.0
-4768.0,8900.0,828944,wsfs financial corp,1,0,0,0,20121219,cheleden charles g,151666512000006,,male,8735520.0
-5918.0,2200.0,828944,wsfs financial corp,1,0,0,0,20121219,klima dennis e,151666512000007,,male,8735520.0
-2698.0,0.0,828944,wsfs financial corp,1,0,0,0,20121219,frangopoulos zissimos a,151666512000004,,male,8735520.0
 52555.0,4120.0,828944,wsfs financial corp,1,0,0,0,20121219,schoenhals marvin n,151666512000005,,male,8735520.0
-8672.0,4403.0,828944,wsfs financial corp,0,1,0,0,20130109,fowle stephen a,151666513000007,Executive Vice President,male,8735520.0
-12641.0,2616.0,828944,wsfs financial corp,0,1,0,0,20130109,wright richard,151666513000006,Executive Vice President,male,8735520.0
-12851.0,454.0,828944,wsfs financial corp,0,1,0,0,20130109,levenson rodger,151666513000005,Executive Vice President,male,8735520.0
-10001.0,0.0,828944,wsfs financial corp,0,1,0,0,20130109,mazarakis s james,151666513000004,Executive Vice President,male,8735520.0
+2698.0,,828944,wsfs financial corp,1,0,0,0,20121219,frangopoulos zissimos a,151666512000004,,male,8735520.0
+2914.0,,828944,wsfs financial corp,1,0,0,0,20121219,delson donald w,151666512000012,,male,8735520.0
+1516.0,,828944,wsfs financial corp,1,0,0,0,20121219,chandler william b iii,151666512000010,,male,8735520.0
+4403.0,,828944,wsfs financial corp,1,0,0,0,20121219,davis jennifer w,151666512000011,,female,8735520.0
+5368.0,3400.0,828944,wsfs financial corp,1,0,0,0,20121219,morgan calvert a jr,151666512000008,,male,8735520.0
+5918.0,2200.0,828944,wsfs financial corp,1,0,0,0,20121219,klima dennis e,151666512000007,,male,8735520.0
+4768.0,8900.0,828944,wsfs financial corp,1,0,0,0,20121219,cheleden charles g,151666512000006,,male,8735520.0
+1570.0,,828944,wsfs financial corp,1,0,0,0,20121219,bird anat,151666512000009,,female,8735520.0
 2209.0,2781.0,828944,wsfs financial corp,0,1,0,0,20130109,kearney thomas w,151666513000002,Executive Vice President,male,8735520.0
 50337.0,13170.0,828944,wsfs financial corp,0,1,0,0,20130109,turner mark a,151666513000003,Chief Executive Officer,male,8735520.0
+10001.0,,828944,wsfs financial corp,0,1,0,0,20130109,mazarakis s james,151666513000004,Executive Vice President,male,8735520.0
+12851.0,454.0,828944,wsfs financial corp,0,1,0,0,20130109,levenson rodger,151666513000005,Executive Vice President,male,8735520.0
+12641.0,2616.0,828944,wsfs financial corp,0,1,0,0,20130109,wright richard,151666513000006,Executive Vice President,male,8735520.0
+8672.0,4403.0,828944,wsfs financial corp,0,1,0,0,20130109,fowle stephen a,151666513000007,Executive Vice President,male,8735520.0
 2821.0,1360.0,828944,wsfs financial corp,0,1,0,0,20130109,eddens peggy h,151666513000001,Executive Vice President,female,8735520.0
 12848.0,454.0,828944,wsfs financial corp,0,1,0,0,20130131,levenson rodger,151666513000008,Executive Vice President,male,8735520.0
 50335.0,13170.0,828944,wsfs financial corp,0,1,0,0,20130131,turner mark a,151666513000009,Chief Executive Officer,male,8735520.0
-9998.0,0.0,828944,wsfs financial corp,0,1,0,0,20130204,mazarakis s james,151666513000011,Executive Vice President,male,8735520.0
-50332.0,13170.0,828944,wsfs financial corp,0,1,0,0,20130204,turner mark a,151666513000010,Chief Executive Officer,male,8735520.0
+9998.0,,828944,wsfs financial corp,0,1,0,0,20130204,mazarakis s james,151666513000011,Executive Vice President,male,8735520.0
 12845.0,454.0,828944,wsfs financial corp,0,1,0,0,20130204,levenson rodger,151666513000012,Executive Vice President,male,8735520.0
-11866.0,2625.0,828944,wsfs financial corp,0,1,0,0,20130307,wright richard,151666513000019,EVP,male,8782933.0
-8516.0,4403.0,828944,wsfs financial corp,0,1,0,0,20130307,fowle stephen a,151666513000017,EVP,male,8782933.0
-12187.0,454.0,828944,wsfs financial corp,0,1,0,0,20130307,levenson rodger,151666513000016,EVP,male,8782933.0
-2754.0,1360.0,828944,wsfs financial corp,0,1,0,0,20130307,eddens peggy h,151666513000015,EVP,female,8782933.0
-2191.0,2781.0,828944,wsfs financial corp,0,1,0,0,20130307,kearney thomas w,151666513000014,EVP,male,8782933.0
-9462.0,0.0,828944,wsfs financial corp,0,1,0,0,20130307,mazarakis s james,151666513000018,EVP,male,8782933.0
+50332.0,13170.0,828944,wsfs financial corp,0,1,0,0,20130204,turner mark a,151666513000010,Chief Executive Officer,male,8735520.0
 48801.0,13170.0,828944,wsfs financial corp,0,1,0,0,20130307,turner mark a,151666513000013,CEO,male,8782933.0
+2191.0,2781.0,828944,wsfs financial corp,0,1,0,0,20130307,kearney thomas w,151666513000014,EVP,male,8782933.0
+2754.0,1360.0,828944,wsfs financial corp,0,1,0,0,20130307,eddens peggy h,151666513000015,EVP,female,8782933.0
+12187.0,454.0,828944,wsfs financial corp,0,1,0,0,20130307,levenson rodger,151666513000016,EVP,male,8782933.0
+8516.0,4403.0,828944,wsfs financial corp,0,1,0,0,20130307,fowle stephen a,151666513000017,EVP,male,8782933.0
+9462.0,,828944,wsfs financial corp,0,1,0,0,20130307,mazarakis s james,151666513000018,EVP,male,8782933.0
+11866.0,2625.0,828944,wsfs financial corp,0,1,0,0,20130307,wright richard,151666513000019,EVP,male,8782933.0
 2754.0,1360.0,828944,wsfs financial corp,0,1,0,0,20130311,eddens peggy h,151666513000020,EVP,female,8782933.0
 8084.0,4403.0,828944,wsfs financial corp,0,1,0,0,20130314,fowle stephen a,151666513000021,EVP,male,8782933.0
 45555.0,4120.0,828944,wsfs financial corp,1,0,0,0,20130320,schoenhals marvin n,157242613000001,,male,8782933.0
-52889.0,13173.0,828944,wsfs financial corp,0,1,0,0,20130417,turner mark a,157242613000020,CEO,male,8782933.0
-2475.0,3117.0,828944,wsfs financial corp,0,1,0,0,20130417,kearney thomas w,157242613000018,EVP,male,8782933.0
-629.0,0.0,828944,wsfs financial corp,0,1,0,0,20130417,geraghty paul d,157242613000017,EVP,male,8782933.0
-3062.0,3357.0,828944,wsfs financial corp,0,1,0,0,20130417,eddens peggy h,157242613000016,EVP,female,8782933.0
 9594.0,5223.0,828944,wsfs financial corp,0,1,0,0,20130417,fowle stephen a,157242613000015,EVP,male,8782933.0
+629.0,,828944,wsfs financial corp,0,1,0,0,20130417,geraghty paul d,157242613000017,EVP,male,8782933.0
+10678.0,,828944,wsfs financial corp,0,1,0,0,20130417,mazarakis s james,157242613000014,EVP,male,8782933.0
 13849.0,530.0,828944,wsfs financial corp,0,1,0,0,20130417,levenson rodger,157242613000019,EVP,male,8782933.0
+2475.0,3117.0,828944,wsfs financial corp,0,1,0,0,20130417,kearney thomas w,157242613000018,EVP,male,8782933.0
+3062.0,3357.0,828944,wsfs financial corp,0,1,0,0,20130417,eddens peggy h,157242613000016,EVP,female,8782933.0
+52889.0,13173.0,828944,wsfs financial corp,0,1,0,0,20130417,turner mark a,157242613000020,CEO,male,8782933.0
 13438.0,2893.0,828944,wsfs financial corp,0,1,0,0,20130417,wright richard,157242613000021,EVP,male,8782933.0
-10678.0,0.0,828944,wsfs financial corp,0,1,0,0,20130417,mazarakis s james,157242613000014,EVP,male,8782933.0
-0.0,2893.0,828944,wsfs financial corp,0,1,0,0,20130429,wright richard,157242613000026,EVP,male,8782933.0
-0.0,3357.0,828944,wsfs financial corp,0,1,0,0,20130429,eddens peggy h,157242613000027,EVP,female,8782933.0
-0.0,0.0,828944,wsfs financial corp,0,1,0,0,20130429,mazarakis s james,157242613000028,EVP,male,8782933.0
-0.0,530.0,828944,wsfs financial corp,0,1,0,0,20130429,levenson rodger,157242613000025,EVP,male,8782933.0
-0.0,3117.0,828944,wsfs financial corp,0,1,0,0,20130429,kearney thomas w,157242613000029,EVP,male,8782933.0
-0.0,0.0,828944,wsfs financial corp,0,1,0,0,20130429,geraghty paul d,157242613000024,EVP,male,8782933.0
-0.0,5223.0,828944,wsfs financial corp,0,1,0,0,20130429,fowle stephen a,157242613000022,EVP,male,8782933.0
+,3117.0,828944,wsfs financial corp,0,1,0,0,20130429,kearney thomas w,157242613000029,EVP,male,8782933.0
+,,828944,wsfs financial corp,0,1,0,0,20130429,mazarakis s james,157242613000028,EVP,male,8782933.0
+,3357.0,828944,wsfs financial corp,0,1,0,0,20130429,eddens peggy h,157242613000027,EVP,female,8782933.0
+,5223.0,828944,wsfs financial corp,0,1,0,0,20130429,fowle stephen a,157242613000022,EVP,male,8782933.0
+,530.0,828944,wsfs financial corp,0,1,0,0,20130429,levenson rodger,157242613000025,EVP,male,8782933.0
+,,828944,wsfs financial corp,0,1,0,0,20130429,geraghty paul d,157242613000024,EVP,male,8782933.0
+,2893.0,828944,wsfs financial corp,0,1,0,0,20130429,wright richard,157242613000026,EVP,male,8782933.0
 49963.0,13173.0,828944,wsfs financial corp,1,1,0,0,20130429,turner mark a,157242613000023,CEO,male,8782933.0
 2864.0,3357.0,828944,wsfs financial corp,0,1,0,0,20130523,eddens peggy h,157242613000031,EVP,female,8782933.0
-10983.0,0.0,828944,wsfs financial corp,0,1,0,0,20130523,mazarakis s james,157242613000032,EVP,male,8782933.0
+10983.0,,828944,wsfs financial corp,0,1,0,0,20130523,mazarakis s james,157242613000032,EVP,male,8782933.0
 38555.0,4120.0,828944,wsfs financial corp,1,0,0,0,20130619,schoenhals marvin n,117100013000028,,male,8782933.0
 32344.0,4120.0,828944,wsfs financial corp,1,0,0,0,20130819,schoenhals marvin n,157242613000043,,male,8818590.0
 49963.0,13173.0,828944,wsfs financial corp,1,1,0,0,20131204,turner mark a,157242613000044,CEO,male,8850368.0
-2070.0,0.0,828944,wsfs financial corp,1,0,0,0,20131205,bird anat,157242613000046,,female,8850368.0
+2070.0,,828944,wsfs financial corp,1,0,0,0,20131205,bird anat,157242613000046,,female,8850368.0
 4768.0,8900.0,828944,wsfs financial corp,1,0,0,0,20131205,cheleden charles g,157242613000047,,male,8850368.0
 5368.0,3400.0,828944,wsfs financial corp,1,0,0,0,20131205,morgan calvert a jr,157242613000045,,male,8850368.0
 32344.0,4120.0,828944,wsfs financial corp,1,0,0,0,20131209,schoenhals marvin n,157242613000048,,male,8850368.0
 30344.0,4120.0,828944,wsfs financial corp,1,0,0,0,20131210,schoenhals marvin n,157242613000049,,male,8850368.0
-5680.0,3400.0,828944,wsfs financial corp,1,0,0,0,20131216,morgan calvert a jr,157242613000056,,male,8850368.0
-3226.0,0.0,828944,wsfs financial corp,1,0,0,0,20131216,delson donald w,157242613000055,,male,8850368.0
+312.0,,828944,wsfs financial corp,1,0,0,0,20131216,turner david g,157242613000058,,male,8850368.0
 30656.0,4120.0,828944,wsfs financial corp,1,0,0,0,20131216,schoenhals marvin n,157242613000057,,male,8850368.0
-312.0,0.0,828944,wsfs financial corp,1,0,0,0,20131216,turner david g,157242613000058,,male,8850368.0
-4715.0,0.0,828944,wsfs financial corp,1,0,0,0,20131216,davis jennifer w,157242613000054,,female,8850368.0
+5680.0,3400.0,828944,wsfs financial corp,1,0,0,0,20131216,morgan calvert a jr,157242613000056,,male,8850368.0
+3226.0,,828944,wsfs financial corp,1,0,0,0,20131216,delson donald w,157242613000055,,male,8850368.0
+4715.0,,828944,wsfs financial corp,1,0,0,0,20131216,davis jennifer w,157242613000054,,female,8850368.0
 5080.0,8900.0,828944,wsfs financial corp,1,0,0,0,20131216,cheleden charles g,157242613000053,,male,8850368.0
-2382.0,0.0,828944,wsfs financial corp,1,0,0,0,20131216,bird anat,157242613000052,,female,8850368.0
-2412.0,0.0,828944,wsfs financial corp,1,0,0,0,20131216,du pont eleuthere i,157242613000051,,male,8850368.0
-3010.0,0.0,828944,wsfs financial corp,1,0,0,0,20131216,frangopoulos zissimos a,157242613000050,,male,8850368.0
-735.0,0.0,828944,wsfs financial corp,1,0,0,0,20131218,du pont eleuthere i,157242613000059,,male,8850368.0
+2382.0,,828944,wsfs financial corp,1,0,0,0,20131216,bird anat,157242613000052,,female,8850368.0
+2412.0,,828944,wsfs financial corp,1,0,0,0,20131216,du pont eleuthere i,157242613000051,,male,8850368.0
+3010.0,,828944,wsfs financial corp,1,0,0,0,20131216,frangopoulos zissimos a,157242613000050,,male,8850368.0
+735.0,,828944,wsfs financial corp,1,0,0,0,20131218,du pont eleuthere i,157242613000059,,male,8850368.0
 13166.0,2893.0,828944,wsfs financial corp,0,1,0,0,20140107,wright richard,157242614000007,EVP,male,8850368.0
 49419.0,13173.0,828944,wsfs financial corp,1,1,0,0,20140107,turner mark a,157242614000006,CEO,male,8850368.0
-10718.0,0.0,828944,wsfs financial corp,0,1,0,0,20140107,mazarakis s james,157242614000005,EVP,male,8850368.0
+2592.0,3357.0,828944,wsfs financial corp,0,1,0,0,20140107,eddens peggy h,157242614000001,EVP,female,8850368.0
 13577.0,530.0,828944,wsfs financial corp,0,1,0,0,20140107,levenson rodger,157242614000004,EVP,male,8850368.0
 2203.0,3117.0,828944,wsfs financial corp,0,1,0,0,20140107,kearney thomas w,157242614000003,EVP,male,8850368.0
 9322.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140107,fowle stephen a,157242614000002,EVP,male,8850368.0
-2592.0,3357.0,828944,wsfs financial corp,0,1,0,0,20140107,eddens peggy h,157242614000001,EVP,female,8850368.0
-2882.0,0.0,828944,wsfs financial corp,1,0,0,0,20140206,bird anat,157242614000008,,female,8850368.0
+10718.0,,828944,wsfs financial corp,0,1,0,0,20140107,mazarakis s james,157242614000005,EVP,male,8850368.0
+2882.0,,828944,wsfs financial corp,1,0,0,0,20140206,bird anat,157242614000008,,female,8850368.0
 3880.0,8900.0,828944,wsfs financial corp,1,0,0,0,20140224,cheleden charles g,157242614000014,,male,8850368.0
-46657.0,13173.0,828944,wsfs financial corp,1,1,0,0,20140226,turner mark a,157242614000018,CEO,male,8850368.0
-12307.0,2893.0,828944,wsfs financial corp,0,1,0,0,20140226,wright richard,157242614000019,EVP,male,8850368.0
-10046.0,0.0,828944,wsfs financial corp,0,1,0,0,20140226,mazarakis s james,157242614000020,EVP,male,8850368.0
 2181.0,3117.0,828944,wsfs financial corp,0,1,0,0,20140226,kearney thomas w,157242614000021,EVP,male,8850368.0
+10046.0,,828944,wsfs financial corp,0,1,0,0,20140226,mazarakis s james,157242614000020,EVP,male,8850368.0
+46657.0,13173.0,828944,wsfs financial corp,1,1,0,0,20140226,turner mark a,157242614000018,CEO,male,8850368.0
 12862.0,530.0,828944,wsfs financial corp,0,1,0,0,20140226,levenson rodger,157242614000017,EVP,male,8850368.0
-9293.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140226,fowle stephen a,157242614000016,EVP,male,8850368.0
+12307.0,2893.0,828944,wsfs financial corp,0,1,0,0,20140226,wright richard,157242614000019,EVP,male,8850368.0
 2554.0,3357.0,828944,wsfs financial corp,0,1,0,0,20140226,eddens peggy h,157242614000015,EVP,female,8850368.0
+9293.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140226,fowle stephen a,157242614000016,EVP,male,8850368.0
 33062.0,4120.0,828944,wsfs financial corp,1,0,0,0,20140303,schoenhals marvin n,157242614000022,,male,8850368.0
-4642.0,3117.0,828944,wsfs financial corp,0,1,0,0,20140304,kearney thomas w,157242614000026,EVP,male,8850368.0
-13167.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140304,fowle stephen a,157242614000024,EVP,male,8850368.0
-6228.0,3357.0,828944,wsfs financial corp,0,1,0,0,20140304,eddens peggy h,157242614000023,EVP,female,8850368.0
-2345.0,0.0,828944,wsfs financial corp,0,1,0,0,20140304,geraghty paul d,157242614000025,EVP,male,8850368.0
-16718.0,530.0,828944,wsfs financial corp,0,1,0,0,20140304,levenson rodger,117100014000001,EVP,male,8850368.0
-12568.0,0.0,828944,wsfs financial corp,0,1,0,0,20140304,mazarakis s james,117100014000002,EVP,male,8850368.0
+12568.0,,828944,wsfs financial corp,0,1,0,0,20140304,mazarakis s james,117100014000002,EVP,male,8850368.0
 16139.0,2893.0,828944,wsfs financial corp,0,1,0,0,20140304,wright richard,117100014000003,EVP,male,8850368.0
+6228.0,3357.0,828944,wsfs financial corp,0,1,0,0,20140304,eddens peggy h,157242614000023,EVP,female,8850368.0
+13167.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140304,fowle stephen a,157242614000024,EVP,male,8850368.0
+2345.0,,828944,wsfs financial corp,0,1,0,0,20140304,geraghty paul d,157242614000025,EVP,male,8850368.0
+16718.0,530.0,828944,wsfs financial corp,0,1,0,0,20140304,levenson rodger,117100014000001,EVP,male,8850368.0
+4642.0,3117.0,828944,wsfs financial corp,0,1,0,0,20140304,kearney thomas w,157242614000026,EVP,male,8850368.0
 16419.0,530.0,828944,wsfs financial corp,0,1,0,0,20140310,levenson rodger,157242614000027,EVP,male,8911334.0
-12272.0,0.0,828944,wsfs financial corp,0,1,0,0,20140310,mazarakis s james,157242614000028,EVP,male,8911334.0
+12272.0,,828944,wsfs financial corp,0,1,0,0,20140310,mazarakis s james,157242614000028,EVP,male,8911334.0
 45598.0,13173.0,828944,wsfs financial corp,0,1,0,0,20140310,turner mark a,157242614000029,CEO,male,8911334.0
 15470.0,2893.0,828944,wsfs financial corp,0,1,0,0,20140310,wright richard,157242614000030,EVP,male,8911334.0
 33062.0,4120.0,828944,wsfs financial corp,1,0,0,0,20140317,schoenhals marvin n,157242614000031,,male,8911334.0
-12268.0,0.0,828944,wsfs financial corp,0,1,0,0,20140319,mazarakis s james,157242614000033,EVP,male,8911334.0
+12268.0,,828944,wsfs financial corp,0,1,0,0,20140319,mazarakis s james,157242614000033,EVP,male,8911334.0
 45594.0,13173.0,828944,wsfs financial corp,0,1,0,0,20140319,turner mark a,157242614000032,CEO,male,8911334.0
-0.0,0.0,828944,wsfs financial corp,0,0,0,1,20140425,frangopoulos zissimos a,157242614000034,,male,8911334.0
-4000.0,0.0,828944,wsfs financial corp,1,0,0,0,20140502,bird anat,157242614000035,,female,8911334.0
+,,828944,wsfs financial corp,0,0,0,1,20140425,frangopoulos zissimos a,157242614000034,,male,8911334.0
+4000.0,,828944,wsfs financial corp,1,0,0,0,20140502,bird anat,157242614000035,,female,8911334.0
 13156.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140529,fowle stephen a,157242614000038,EVP,male,8911334.0
-12965.0,0.0,828944,wsfs financial corp,0,1,0,0,20140602,mazarakis s james,157242614000039,EVP,male,8911334.0
+12965.0,,828944,wsfs financial corp,0,1,0,0,20140602,mazarakis s james,157242614000039,EVP,male,8911334.0
 5680.0,3400.0,828944,wsfs financial corp,1,0,0,0,20140612,morgan calvert a jr,157242614000040,,male,8911334.0
 23379.0,4120.0,828944,wsfs financial corp,1,0,0,0,20140807,schoenhals marvin n,157242614000042,,male,8926544.0
-6047.0,3400.0,828944,wsfs financial corp,1,0,0,0,20140812,morgan calvert a jr,157242614000050,,male,8926544.0
-679.0,0.0,828944,wsfs financial corp,1,0,0,0,20140812,turner david g,157242614000049,,male,8926544.0
-23746.0,4120.0,828944,wsfs financial corp,1,0,0,0,20140812,schoenhals marvin n,157242614000048,,male,8926544.0
-2044.0,735.0,828944,wsfs financial corp,1,0,0,0,20140812,du pont eleuthere i,157242614000051,,male,8926544.0
-367.0,0.0,828944,wsfs financial corp,1,0,0,0,20140812,brake francis b.,157242614000047,,male,8926544.0
-5082.0,0.0,828944,wsfs financial corp,1,0,0,0,20140812,davis jennifer w,157242614000045,,female,8926544.0
+4367.0,,828944,wsfs financial corp,1,0,0,0,20140812,bird anat,157242614000043,,female,8926544.0
 4247.0,8900.0,828944,wsfs financial corp,1,0,0,0,20140812,cheleden charles g,157242614000044,,male,8926544.0
-4367.0,0.0,828944,wsfs financial corp,1,0,0,0,20140812,bird anat,157242614000043,,female,8926544.0
-3593.0,0.0,828944,wsfs financial corp,1,0,0,0,20140812,delson donald w,157242614000046,,male,8926544.0
+5082.0,,828944,wsfs financial corp,1,0,0,0,20140812,davis jennifer w,157242614000045,,female,8926544.0
+3593.0,,828944,wsfs financial corp,1,0,0,0,20140812,delson donald w,157242614000046,,male,8926544.0
+367.0,,828944,wsfs financial corp,1,0,0,0,20140812,brake francis b.,157242614000047,,male,8926544.0
+23746.0,4120.0,828944,wsfs financial corp,1,0,0,0,20140812,schoenhals marvin n,157242614000048,,male,8926544.0
+679.0,,828944,wsfs financial corp,1,0,0,0,20140812,turner david g,157242614000049,,male,8926544.0
+6047.0,3400.0,828944,wsfs financial corp,1,0,0,0,20140812,morgan calvert a jr,157242614000050,,male,8926544.0
+2044.0,735.0,828944,wsfs financial corp,1,0,0,0,20140812,du pont eleuthere i,157242614000051,,male,8926544.0
 13506.0,5223.0,828944,wsfs financial corp,0,1,0,0,20140815,fowle stephen a,157242614000052,EVP,male,8926544.0
-1979.0,0.0,828944,wsfs financial corp,1,0,0,0,20140820,turner david g,157242614000053,,male,8926544.0
+1979.0,,828944,wsfs financial corp,1,0,0,0,20140820,turner david g,157242614000053,,male,8926544.0
 3047.0,8900.0,828944,wsfs financial corp,1,0,0,0,20140822,cheleden charles g,157242614000054,,male,8926544.0
 45594.0,13173.0,828944,wsfs financial corp,0,1,0,0,20141107,turner mark a,157242614000056,CEO,male,9398662.0
 4642.0,3117.0,828944,wsfs financial corp,0,1,0,0,20141107,kearney thomas w,157242614000055,EVP,male,9398662.0
 14700.0,4120.0,828944,wsfs financial corp,1,0,0,0,20141112,schoenhals marvin n,157242614000057,,male,9398662.0
 6047.0,3400.0,828944,wsfs financial corp,1,0,0,0,20141114,morgan calvert a jr,157242614000058,,male,9398662.0
 4047.0,8900.0,828944,wsfs financial corp,1,0,0,0,20141201,cheleden charles g,157242614000059,,male,9398662.0
-1485.0,0.0,828944,wsfs financial corp,1,0,0,0,20141209,du pont eleuthere i,157242614000060,,male,9398662.0
+1485.0,,828944,wsfs financial corp,1,0,0,0,20141209,du pont eleuthere i,157242614000060,,male,9398662.0
 3447.0,8900.0,828944,wsfs financial corp,1,0,0,0,20141216,cheleden charles g,157242614000061,,male,9398662.0
-2463.0,0.0,828944,wsfs financial corp,1,0,0,0,20141216,turner david g,157242614000062,,male,9398662.0
-1447.0,1485.0,828944,wsfs financial corp,1,0,0,0,20141218,du pont eleuthere i,157242614000068,,male,9398662.0
+2463.0,,828944,wsfs financial corp,1,0,0,0,20141216,turner david g,157242614000062,,male,9398662.0
+2616.0,,828944,wsfs financial corp,1,0,0,0,20141218,turner david g,157242614000071,,male,9398662.0
 14853.0,4120.0,828944,wsfs financial corp,1,0,0,0,20141218,schoenhals marvin n,157242614000070,,male,9398662.0
 6200.0,3400.0,828944,wsfs financial corp,1,0,0,0,20141218,morgan calvert a jr,157242614000069,,male,9398662.0
-2616.0,0.0,828944,wsfs financial corp,1,0,0,0,20141218,turner david g,157242614000071,,male,9398662.0
-3746.0,0.0,828944,wsfs financial corp,1,0,0,0,20141218,delson donald w,157242614000067,,male,9398662.0
-4520.0,0.0,828944,wsfs financial corp,1,0,0,0,20141218,bird anat,157242614000063,,female,9398662.0
+1447.0,1485.0,828944,wsfs financial corp,1,0,0,0,20141218,du pont eleuthere i,157242614000068,,male,9398662.0
 3600.0,8900.0,828944,wsfs financial corp,1,0,0,0,20141218,cheleden charles g,157242614000065,,male,9398662.0
-520.0,0.0,828944,wsfs financial corp,1,0,0,0,20141218,brake francis b.,157242614000064,,male,9398662.0
-5235.0,0.0,828944,wsfs financial corp,1,0,0,0,20141218,davis jennifer w,157242614000066,,female,9398662.0
+5235.0,,828944,wsfs financial corp,1,0,0,0,20141218,davis jennifer w,157242614000066,,female,9398662.0
+520.0,,828944,wsfs financial corp,1,0,0,0,20141218,brake francis b.,157242614000064,,male,9398662.0
+4520.0,,828944,wsfs financial corp,1,0,0,0,20141218,bird anat,157242614000063,,female,9398662.0
+3746.0,,828944,wsfs financial corp,1,0,0,0,20141218,delson donald w,157242614000067,,male,9398662.0
+13234.0,5223.0,828944,wsfs financial corp,0,1,0,0,20150106,fowle stephen a,157242615000007,EVP,male,9398662.0
+5956.0,3357.0,828944,wsfs financial corp,0,1,0,0,20150106,eddens peggy h,157242615000005,EVP,female,9398662.0
 15198.0,2893.0,828944,wsfs financial corp,0,1,0,0,20150106,wright richard,157242615000006,EVP,male,9398662.0
+12700.0,,828944,wsfs financial corp,0,1,0,0,20150106,mazarakis s james,157242615000003,EVP,male,9398662.0
 45050.0,13173.0,828944,wsfs financial corp,0,1,0,0,20150106,turner mark a,157242615000001,CEO,male,9398662.0
 4370.0,3117.0,828944,wsfs financial corp,0,1,0,0,20150106,kearney thomas w,157242615000002,EVP,male,9398662.0
-12700.0,0.0,828944,wsfs financial corp,0,1,0,0,20150106,mazarakis s james,157242615000003,EVP,male,9398662.0
 15794.0,530.0,828944,wsfs financial corp,0,1,0,0,20150106,levenson rodger,157242615000004,EVP,male,9398662.0
-5956.0,3357.0,828944,wsfs financial corp,0,1,0,0,20150106,eddens peggy h,157242615000005,EVP,female,9398662.0
-13234.0,5223.0,828944,wsfs financial corp,0,1,0,0,20150106,fowle stephen a,157242615000007,EVP,male,9398662.0
-45048.0,13173.0,828944,wsfs financial corp,0,1,0,0,20150203,turner mark a,157242615000009,CEO,male,9398662.0
-12698.0,0.0,828944,wsfs financial corp,0,1,0,0,20150203,mazarakis s james,157242615000010,EVP,male,9398662.0
 16145.0,530.0,828944,wsfs financial corp,0,1,0,0,20150203,levenson rodger,157242615000008,EVP,male,9398662.0
-5902.0,5757.0,828944,wsfs financial corp,0,1,0,0,20150225,eddens peggy h,157242615000011,EVP,female,9398662.0
-13136.0,6175.0,828944,wsfs financial corp,0,1,0,0,20150225,fowle stephen a,157242615000012,EVP,male,9398662.0
-4348.0,3921.0,828944,wsfs financial corp,0,1,0,0,20150225,kearney thomas w,157242615000013,EVP,male,9398662.0
-15524.0,611.0,828944,wsfs financial corp,0,1,0,0,20150225,levenson rodger,157242615000014,EVP,male,9398662.0
-12184.0,0.0,828944,wsfs financial corp,0,1,0,0,20150225,mazarakis s james,157242615000015,EVP,male,9398662.0
-43506.0,13340.0,828944,wsfs financial corp,0,1,0,0,20150225,turner mark a,157242615000016,CEO,male,9398662.0
+45048.0,13173.0,828944,wsfs financial corp,0,1,0,0,20150203,turner mark a,157242615000009,CEO,male,9398662.0
+12698.0,,828944,wsfs financial corp,0,1,0,0,20150203,mazarakis s james,157242615000010,EVP,male,9398662.0
 14594.0,3232.0,828944,wsfs financial corp,0,1,0,0,20150225,wright richard,157242615000017,EVP,male,9398662.0
-3029.0,0.0,828944,wsfs financial corp,0,1,0,0,20150302,geraghty paul d,157242615000018,EVP,male,9398662.0
+12184.0,,828944,wsfs financial corp,0,1,0,0,20150225,mazarakis s james,157242615000015,EVP,male,9398662.0
+43506.0,13340.0,828944,wsfs financial corp,0,1,0,0,20150225,turner mark a,157242615000016,CEO,male,9398662.0
+4348.0,3921.0,828944,wsfs financial corp,0,1,0,0,20150225,kearney thomas w,157242615000013,EVP,male,9398662.0
+13136.0,6175.0,828944,wsfs financial corp,0,1,0,0,20150225,fowle stephen a,157242615000012,EVP,male,9398662.0
+5902.0,5757.0,828944,wsfs financial corp,0,1,0,0,20150225,eddens peggy h,157242615000011,EVP,female,9398662.0
+15524.0,611.0,828944,wsfs financial corp,0,1,0,0,20150225,levenson rodger,157242615000014,EVP,male,9398662.0
+3029.0,,828944,wsfs financial corp,0,1,0,0,20150302,geraghty paul d,157242615000018,EVP,male,9398662.0
 6494.0,5757.0,828944,wsfs financial corp,0,1,0,0,20150302,eddens peggy h,157242615000019,EVP,female,9398662.0
 4922.0,3921.0,828944,wsfs financial corp,0,1,0,0,20150302,kearney thomas w,157242615000020,EVP,male,9398662.0
-12826.0,0.0,828944,wsfs financial corp,0,1,0,0,20150302,mazarakis s james,157242615000021,EVP,male,9398662.0
+12826.0,,828944,wsfs financial corp,0,1,0,0,20150302,mazarakis s james,157242615000021,EVP,male,9398662.0
 15349.0,3232.0,828944,wsfs financial corp,0,1,0,0,20150302,wright richard,157242615000022,EVP,male,9398662.0
 16304.0,611.0,828944,wsfs financial corp,0,1,0,0,20150302,levenson rodger,157242615000023,EVP,male,9398662.0
-43772.0,13340.0,828944,wsfs financial corp,0,1,0,0,20150303,turner mark a,157242615000029,CEO,male,9398662.0
-15737.0,611.0,828944,wsfs financial corp,0,1,0,0,20150303,levenson rodger,157242615000026,EVP,male,9398662.0
+12688.0,,828944,wsfs financial corp,0,1,0,0,20150303,mazarakis s james,157242615000030,EVP,male,9398662.0
 12541.0,6175.0,828944,wsfs financial corp,0,1,0,0,20150303,fowle stephen a,157242615000031,EVP,male,9398662.0
-12688.0,0.0,828944,wsfs financial corp,0,1,0,0,20150303,mazarakis s james,157242615000030,EVP,male,9398662.0
-14985.0,3248.0,828944,wsfs financial corp,0,1,0,0,20150303,wright richard,157242615000028,EVP,male,9398662.0
+43772.0,13340.0,828944,wsfs financial corp,0,1,0,0,20150303,turner mark a,157242615000029,CEO,male,9398662.0
 4634.0,3921.0,828944,wsfs financial corp,0,1,0,0,20150303,kearney thomas w,157242615000024,EVP,male,9398662.0
+19249.0,,828944,wsfs financial corp,1,0,0,0,20150303,schoenhals marvin n,157242615000027,,male,9398662.0
 6096.0,5757.0,828944,wsfs financial corp,0,1,0,0,20150303,eddens peggy h,157242615000025,EVP,female,9398662.0
-19249.0,0.0,828944,wsfs financial corp,1,0,0,0,20150303,schoenhals marvin n,157242615000027,,male,9398662.0
+14985.0,3248.0,828944,wsfs financial corp,0,1,0,0,20150303,wright richard,157242615000028,EVP,male,9398662.0
+15737.0,611.0,828944,wsfs financial corp,0,1,0,0,20150303,levenson rodger,157242615000026,EVP,male,9398662.0
 15592.0,611.0,828944,wsfs financial corp,0,1,0,0,20150310,levenson rodger,157242615000033,EVP,male,9412395.0
-12305.0,0.0,828944,wsfs financial corp,0,1,0,0,20150310,mazarakis s james,157242615000034,EVP,male,9412395.0
+12305.0,,828944,wsfs financial corp,0,1,0,0,20150310,mazarakis s james,157242615000034,EVP,male,9412395.0
 43508.0,13340.0,828944,wsfs financial corp,0,1,0,0,20150310,turner mark a,157242615000035,CEO,male,9412395.0
 14791.0,3248.0,828944,wsfs financial corp,0,1,0,0,20150310,wright richard,157242615000036,EVP,male,9412395.0
+3100.0,,828944,wsfs financial corp,1,0,0,0,20150313,turner david g,157242615000037,,male,9412395.0
 15566.0,3248.0,828944,wsfs financial corp,0,1,0,0,20150313,wright richard,157242615000039,EVP,male,9412395.0
-3100.0,0.0,828944,wsfs financial corp,1,0,0,0,20150313,turner david g,157242615000037,,male,9412395.0
-4000.0,0.0,828944,wsfs financial corp,1,0,0,0,20150313,delson donald w,157242615000038,,male,9412395.0
+4000.0,,828944,wsfs financial corp,1,0,0,0,20150313,delson donald w,157242615000038,,male,9412395.0
 14064.0,3248.0,828944,wsfs financial corp,0,1,0,0,20150512,wright richard,157242615000044,EVP,male,9412395.0
-130518.0,40020.0,828944,wsfs financial corp,0,1,0,0,20150602,turner mark a,157242615000067,CEO,male,9412395.0
 39192.0,9744.0,828944,wsfs financial corp,0,1,0,0,20150602,wright richard,157242615000073,EVP,male,9412395.0
-43648.0,0.0,828944,wsfs financial corp,0,1,0,0,20150602,mazarakis s james,157242615000069,EVP,male,9412395.0
 14487.0,5376.0,828944,wsfs financial corp,0,1,0,0,20150602,geraghty paul d,157242615000065,EVP,male,9412395.0
+130518.0,40020.0,828944,wsfs financial corp,0,1,0,0,20150602,turner mark a,157242615000067,CEO,male,9412395.0
+43648.0,,828944,wsfs financial corp,0,1,0,0,20150602,mazarakis s james,157242615000069,EVP,male,9412395.0
 46770.0,1833.0,828944,wsfs financial corp,0,1,0,0,20150602,levenson rodger,157242615000071,EVP,male,9412395.0
 39192.0,9744.0,828944,wsfs financial corp,0,1,0,0,20150729,wright richard,117100015000062,EVP,male,9412395.0
-10758.0,0.0,828944,wsfs financial corp,1,0,0,0,20150804,turner david g,157242615000084,,male,27898384.0
-11684.0,0.0,828944,wsfs financial corp,1,0,0,0,20150817,turner david g,157242615000086,,male,27898384.0
-14486.0,0.0,828944,wsfs financial corp,1,0,0,0,20150817,bird anat,157242615000088,,female,27898384.0
-2284.0,0.0,828944,wsfs financial corp,1,0,0,0,20150817,brake francis b.,157242615000090,,male,27898384.0
-16631.0,0.0,828944,wsfs financial corp,1,0,0,0,20150817,davis jennifer w,157242615000092,,female,27898384.0
-5267.0,4455.0,828944,wsfs financial corp,1,0,0,0,20150817,du pont eleuthere i,157242615000094,,male,27898384.0
-12926.0,0.0,828944,wsfs financial corp,1,0,0,0,20150817,delson donald w,157242615000096,,male,27898384.0
+10758.0,,828944,wsfs financial corp,1,0,0,0,20150804,turner david g,157242615000084,,male,27898384.0
+10758.0,,828944,wsfs financial corp,1,0,0,0,20150804,turner david g,157242615000084,,male,27898384.0
+14486.0,,828944,wsfs financial corp,1,0,0,0,20150817,bird anat,157242615000088,,female,27898384.0
+58673.0,,828944,wsfs financial corp,1,0,0,0,20150817,schoenhals marvin n,157242615000100,,male,27898384.0
 19526.0,10200.0,828944,wsfs financial corp,1,0,0,0,20150817,morgan calvert a jr,157242615000098,,male,27898384.0
-58673.0,0.0,828944,wsfs financial corp,1,0,0,0,20150817,schoenhals marvin n,157242615000100,,male,27898384.0
+11684.0,,828944,wsfs financial corp,1,0,0,0,20150817,turner david g,157242615000086,,male,27898384.0
+14486.0,,828944,wsfs financial corp,1,0,0,0,20150817,bird anat,157242615000088,,female,27898384.0
+2284.0,,828944,wsfs financial corp,1,0,0,0,20150817,brake francis b.,157242615000090,,male,27898384.0
+16631.0,,828944,wsfs financial corp,1,0,0,0,20150817,davis jennifer w,157242615000092,,female,27898384.0
+5267.0,4455.0,828944,wsfs financial corp,1,0,0,0,20150817,du pont eleuthere i,157242615000094,,male,27898384.0
+19526.0,10200.0,828944,wsfs financial corp,1,0,0,0,20150817,morgan calvert a jr,157242615000098,,male,27898384.0
+58673.0,,828944,wsfs financial corp,1,0,0,0,20150817,schoenhals marvin n,157242615000100,,male,27898384.0
+12926.0,,828944,wsfs financial corp,1,0,0,0,20150817,delson donald w,157242615000096,,male,27898384.0
+5267.0,4455.0,828944,wsfs financial corp,1,0,0,0,20150817,du pont eleuthere i,157242615000094,,male,27898384.0
+16631.0,,828944,wsfs financial corp,1,0,0,0,20150817,davis jennifer w,157242615000092,,female,27898384.0
+2284.0,,828944,wsfs financial corp,1,0,0,0,20150817,brake francis b.,157242615000090,,male,27898384.0
+12926.0,,828944,wsfs financial corp,1,0,0,0,20150817,delson donald w,157242615000096,,male,27898384.0
+11684.0,,828944,wsfs financial corp,1,0,0,0,20150817,turner david g,157242615000086,,male,27898384.0
+8126.0,26700.0,828944,wsfs financial corp,1,0,0,0,20150818,cheleden charles g,157242615000102,,male,27898384.0
 8126.0,26700.0,828944,wsfs financial corp,1,0,0,0,20150818,cheleden charles g,157242615000102,,male,27898384.0
 4126.0,26700.0,828944,wsfs financial corp,1,0,0,0,20150820,cheleden charles g,157242615000104,,male,27898384.0
+4126.0,26700.0,828944,wsfs financial corp,1,0,0,0,20150820,cheleden charles g,157242615000104,,male,27898384.0
+0.0,,828944,wsfs financial corp,0,1,0,0,20151204,kearney thomas w,157242615000131,Executive Vice President,male,29853215.0
+14487.0,5376.0,828944,wsfs financial corp,0,1,0,0,20151211,geraghty paul d,157242615000133,EVP,male,29853215.0
+21732.0,5376.0,828944,wsfs financial corp,0,1,0,0,20151228,geraghty paul d,157242615000136,EVP,male,29853215.0
+6105.0,,828944,wsfs financial corp,1,0,0,0,20160104,du pont eleuthere i,157242616000148,,male,29853215.0
+13902.0,,828944,wsfs financial corp,false,true,false,false,20160208,kearney thomas w,156218016001539,Executive Vice President,male,29853215.0
+18288.0,19454.0,828944,wsfs financial corp,false,true,false,false,20160223,eddens peggy h,156218016001755,EVP,female,29853215.0
+38337.0,10441.0,828944,wsfs financial corp,false,true,false,false,20160225,wright richard,156218016001793,EVP,male,29853215.0
+9141.0,41377.0,828944,wsfs financial corp,false,true,false,false,20160225,turner mark a,156218016001792,CEO,male,29853215.0
+42899.0,,828944,wsfs financial corp,false,true,false,false,20160225,mazarakis s james,156218016001791,EVP,male,29853215.0
+45875.0,2011.0,828944,wsfs financial corp,false,true,false,false,20160225,levenson rodger,156218016001790,EVP,male,29853215.0
+13842.0,,828944,wsfs financial corp,false,true,false,false,20160225,kearney thomas w,156218016001789,Executive Vice President,male,29853215.0
+18200.0,19454.0,828944,wsfs financial corp,false,true,false,false,20160225,eddens peggy h,156218016001788,EVP,female,29853215.0
+19175.0,19454.0,828944,wsfs financial corp,false,true,false,false,20160308,eddens peggy h,156218016001940,EVP,female,29853215.0
+37820.0,10441.0,828944,wsfs financial corp,false,true,false,false,20160308,wright richard,156218016001943,EVP,male,29853215.0
+126599.0,41377.0,828944,wsfs financial corp,false,true,false,false,20160308,turner mark a,156218016001938,CEO,male,29853215.0
+23863.0,7069.0,828944,wsfs financial corp,false,true,false,false,20160308,geraghty paul d,156218016001937,EVP,male,29853215.0
+14751.0,,828944,wsfs financial corp,false,true,false,false,20160308,kearney thomas w,156218016001939,Executive Vice President,male,29853215.0
+42872.0,,828944,wsfs financial corp,false,true,false,false,20160308,mazarakis s james,156218016001941,EVP,male,29853215.0
+45589.0,2011.0,828944,wsfs financial corp,false,true,false,false,20160308,levenson rodger,156218016001942,EVP,male,29853215.0
+45581.0,2011.0,828944,wsfs financial corp,false,true,false,false,20160316,levenson rodger,156218016001981,EVP,male,29853215.0
+42864.0,,828944,wsfs financial corp,false,true,false,false,20160316,mazarakis s james,156218016001982,EVP,male,29853215.0
+37812.0,10441.0,828944,wsfs financial corp,false,true,false,false,20160316,wright richard,156218016001983,EVP,male,29853215.0
+126591.0,41377.0,828944,wsfs financial corp,false,true,false,false,20160317,turner mark a,156218016001991,CEO,male,29853215.0
+19018.0,19454.0,828944,wsfs financial corp,false,true,false,false,20160419,eddens peggy h,156218016002123,EVP,female,29853215.0
+45289.0,2011.0,828944,wsfs financial corp,false,true,false,false,20160419,levenson rodger,156218016002125,EVP,male,29853215.0
+42630.0,,828944,wsfs financial corp,false,true,false,false,20160419,mazarakis s james,156218016002126,EVP,male,29853215.0
+37529.0,10441.0,828944,wsfs financial corp,false,true,false,false,20160419,wright richard,156218016002127,EVP,male,29853215.0
+14599.0,,828944,wsfs financial corp,false,true,false,false,20160419,kearney thomas w,156218016002124,Executive Vice President,male,29853215.0
+37529.0,10501.0,828944,wsfs financial corp,false,true,false,false,20160511,wright richard,156218016002312,EVP,male,29536577.0
+42630.0,,828944,wsfs financial corp,false,true,false,false,20160511,mazarakis s james,156218016002311,EVP,male,29536577.0
+2000.0,7982.0,828944,wsfs financial corp,false,true,false,false,20160511,geraghty paul d,156218016002310,EVP,male,29536577.0
+23863.0,9982.0,828944,wsfs financial corp,false,true,false,false,20160524,geraghty paul d,156218016002420,EVP,male,29536577.0
+27927.0,9982.0,828944,wsfs financial corp,false,true,false,false,20160527,geraghty paul d,156218016002433,EVP,male,29536577.0
+19418.0,19825.0,828944,wsfs financial corp,false,true,false,false,20160610,eddens peggy h,156218016002616,EVP,female,29536577.0
+42481.0,10501.0,828944,wsfs financial corp,false,true,false,false,20160614,wright richard,156218016002627,EVP,male,29536577.0
+1000.0,,828944,wsfs financial corp,false,true,false,false,20160627,canuso dominic c,156218016002711,EVP & CFO,male,29536577.0
+54273.0,,828944,wsfs financial corp,true,false,false,false,20160804,schoenhals marvin n,156218016002902,,male,29536577.0
+8420.0,,828944,wsfs financial corp,false,true,false,false,20160811,clark stephen p,156218016002959,EVP,male,29550150.0
+,26700.0,828944,wsfs financial corp,false,false,false,true,20160816,cheleden charles g,156218016002984,,male,29550150.0
+20248.0,10200.0,828944,wsfs financial corp,true,false,false,false,20160816,morgan calvert a jr,156218016002990,,male,29550150.0
+4339.0,6105.0,828944,wsfs financial corp,true,false,false,false,20160816,du pont eleuthere i,156218016002989,,male,29550150.0
+13648.0,,828944,wsfs financial corp,true,false,false,false,20160816,delson donald w,156218016002988,,male,29550150.0
+17353.0,,828944,wsfs financial corp,true,false,false,false,20160816,davis jennifer w,156218016002987,,female,29550150.0
+3006.0,,828944,wsfs financial corp,true,false,false,false,20160816,brake francis b.,156218016002986,,male,29550150.0
+54995.0,,828944,wsfs financial corp,true,false,false,false,20160816,schoenhals marvin n,156218016002991,,male,29550150.0
+12406.0,,828944,wsfs financial corp,true,false,false,false,20160816,turner david g,156218016002992,,male,29550150.0
+15208.0,,828944,wsfs financial corp,true,false,false,false,20160816,bird anat,156218016002985,,female,29550150.0
+1531.0,,828944,wsfs financial corp,0,1,0,0,20160816,ward patrick joseph,157242616000210,Executive Vice President,male,29550150.0
+15434.0,,828944,wsfs financial corp,true,false,false,false,20160829,bird anat,156218016003050,,female,29550150.0
+12632.0,,828944,wsfs financial corp,true,false,false,false,20160829,turner david g,156218016003058,,male,29550150.0
+13874.0,,828944,wsfs financial corp,true,false,false,false,20160829,delson donald w,156218016003057,,male,29550150.0
+3232.0,,828944,wsfs financial corp,true,false,false,false,20160829,brake francis b.,156218016003051,,male,29550150.0
+17579.0,,828944,wsfs financial corp,true,false,false,false,20160829,davis jennifer w,156218016003052,,female,29550150.0
+13874.0,,828944,wsfs financial corp,true,false,false,false,20160829,delson donald w,156218016003053,,male,29550150.0
+4565.0,,828944,wsfs financial corp,true,false,false,false,20160829,du pont eleuthere i,156218016003054,,male,29550150.0
+20474.0,,828944,wsfs financial corp,true,false,false,false,20160829,morgan calvert a jr,156218016003055,,male,29550150.0
+55221.0,,828944,wsfs financial corp,true,false,false,false,20160829,schoenhals marvin n,156218016003056,,male,29550150.0
+6974.0,,828944,wsfs financial corp,false,true,false,false,20161108,kearney thomas w,156218016003421,Executive Vice President,male,31324432.0
+83519.0,,828944,wsfs financial corp,false,true,false,false,20161114,ward patrick joseph,156218016003477,Executive Vice President,male,31324432.0
+53229.0,,828944,wsfs financial corp,true,false,false,false,20161116,schoenhals marvin n,156218016003553,,male,31324432.0
+42481.0,10501.0,828944,wsfs financial corp,false,true,false,false,20161116,wright richard,156218016003552,EVP,male,31324432.0
+27927.0,9982.0,828944,wsfs financial corp,false,true,false,false,20161117,geraghty paul d,156218016003556,EVP,male,31324432.0
+45436.0,1923.0,828944,wsfs financial corp,false,true,false,false,20161122,levenson rodger,156218016003604,EVP,male,31324432.0
+88568.0,,828944,wsfs financial corp,false,true,false,false,20161206,ward patrick joseph,156218016003691,Executive Vice President,male,31324432.0
+42395.0,,828944,wsfs financial corp,false,true,false,false,20161206,mazarakis s james,156218016003675,EVP,male,31324432.0
+19418.0,20265.0,828944,wsfs financial corp,false,true,false,false,20170201,eddens peggy h,156218017000454,EVP,female,31324432.0
+42481.0,10471.0,828944,wsfs financial corp,false,true,false,false,20170201,wright richard,156218017000453,EVP,male,31324432.0
+850.0,7950.0,828944,wsfs financial corp,false,true,false,false,20170201,geraghty paul d,156218017000460,EVP,male,31324432.0
+40395.0,,828944,wsfs financial corp,false,true,false,false,20170203,mazarakis s james,156218017000482,EVP,male,31324432.0
+6974.0,,828944,wsfs financial corp,false,true,false,false,20170213,kearney thomas w,156218017000621,Executive Vice President,male,31324432.0
+27927.0,8800.0,828944,wsfs financial corp,false,true,false,false,20170217,geraghty paul d,156218017000772,EVP,male,31324432.0
+45619.0,1914.0,828944,wsfs financial corp,false,true,false,false,20170301,levenson rodger,156218017001014,EVP,male,31324432.0
+126973.0,39836.0,828944,wsfs financial corp,false,true,false,false,20170301,turner mark a,156218017001018,CEO,male,31324432.0
+41738.0,10502.0,828944,wsfs financial corp,false,true,false,false,20170301,wright richard,156218017001017,EVP,male,31324432.0
+89019.0,,828944,wsfs financial corp,false,true,false,false,20170301,ward patrick joseph,156218017001016,Executive Vice President,male,31324432.0
+39979.0,,828944,wsfs financial corp,false,true,false,false,20170301,mazarakis s james,156218017001015,EVP,male,31324432.0
+7100.0,,828944,wsfs financial corp,false,true,false,false,20170301,kearney thomas w,156218017001013,Executive Vice President,male,31324432.0
+28218.0,8803.0,828944,wsfs financial corp,false,true,false,false,20170301,geraghty paul d,156218017001011,EVP,male,31324432.0
+19422.0,20341.0,828944,wsfs financial corp,false,true,false,false,20170301,eddens peggy h,156218017001010,EVP,female,31324432.0
+9098.0,1079.0,828944,wsfs financial corp,false,true,false,false,20170301,clark stephen p,156218017001009,EVP,male,31324432.0
+2173.0,27.0,828944,wsfs financial corp,false,true,false,false,20170301,canuso dominic c,156218017001008,EVP & CFO,male,31324432.0
+34069.0,,828944,wsfs financial corp,true,false,false,false,20170302,schoenhals marvin n,156218017001054,,male,31324432.0
+48062.0,10502.0,828944,wsfs financial corp,false,true,false,false,20170302,wright richard,156218017001062,EVP,male,31324432.0
+28105.0,7958.0,828944,wsfs financial corp,false,true,false,false,20170306,geraghty paul d,156218017001107,EVP,male,31324432.0
+46001.0,10502.0,828944,wsfs financial corp,false,true,false,false,20170308,wright richard,156218017001205,EVP,male,31324432.0
+39657.0,,828944,wsfs financial corp,false,true,false,false,20170310,mazarakis s james,156218017001235,EVP,male,31324432.0
+38601.0,,828944,wsfs financial corp,false,true,false,false,20170315,mazarakis s james,156218017001259,EVP,male,31324432.0
+45030.0,1914.0,828944,wsfs financial corp,false,true,false,false,20170418,levenson rodger,156218017001515,EVP,male,31324432.0
+19079.0,20341.0,828944,wsfs financial corp,false,true,false,false,20170418,eddens peggy h,156218017001512,EVP,female,31324432.0
+3479.0,8252.0,828944,wsfs financial corp,false,true,false,false,20170418,greenplate paul s,156218017001519,EVP,male,31324432.0
+38128.0,,828944,wsfs financial corp,false,true,false,false,20170418,mazarakis s james,156218017001516,EVP,male,31324432.0
+27583.0,8308.0,828944,wsfs financial corp,false,true,false,false,20170418,geraghty paul d,156218017001513,EVP,male,31324432.0
+45430.0,10502.0,828944,wsfs financial corp,false,true,false,false,20170418,wright richard,156218017001517,EVP,male,31324432.0
+6792.0,,828944,wsfs financial corp,false,true,false,false,20170418,kearney thomas w,156218017001514,Executive Vice President,male,31324432.0
+5932.0,,828944,wsfs financial corp,true,false,false,false,20170503,brake francis b.,156218017001704,,male,31324432.0
+0.0,7958.0,828944,wsfs financial corp,false,true,false,false,20170511,geraghty paul d,156218017001932,EVP,male,31452055.0
+27449.0,7958.0,828944,wsfs financial corp,false,true,false,false,20170516,geraghty paul d,156218017001955,EVP,male,31452055.0
+41626.0,,828944,wsfs financial corp,false,true,false,false,20170522,mazarakis s james,156218017002054,EVP,male,31452055.0
+41626.0,,828944,wsfs financial corp,false,true,false,false,20170524,mazarakis s james,156218017002066,EVP,male,31452055.0
+88519.0,,828944,wsfs financial corp,false,true,false,false,20170531,ward patrick joseph,156218017002103,Executive Vice President,male,31452055.0
+19079.0,20341.0,828944,wsfs financial corp,false,true,false,false,20170605,eddens peggy h,156218017002195,EVP,female,31452055.0
+3479.0,8281.0,828944,wsfs financial corp,false,true,false,false,20170609,greenplate paul s,156218017002243,EVP,male,31452055.0
+132.0,,828944,wsfs financial corp,1,0,0,0,20170629,gheysens christopher,117100017000037,,male,31452055.0
+18388.0,,828944,wsfs financial corp,true,false,false,false,20170815,davis jennifer w,156218017002681,,female,31418069.0
+6741.0,,828944,wsfs financial corp,true,false,false,false,20170815,brake francis b.,156218017002680,,male,31418069.0
+16243.0,,828944,wsfs financial corp,true,false,false,false,20170815,bird anat,156218017002679,,female,31418069.0
+941.0,,828944,wsfs financial corp,true,false,false,false,20170815,gheysens christopher,156218017002687,,male,31418069.0
+21283.0,,828944,wsfs financial corp,true,false,false,false,20170815,morgan calvert a jr,156218017002684,,male,31418069.0
+34878.0,,828944,wsfs financial corp,true,false,false,false,20170815,schoenhals marvin n,156218017002685,,male,31418069.0
+13441.0,,828944,wsfs financial corp,true,false,false,false,20170815,turner david g,156218017002686,,male,31418069.0
+14683.0,,828944,wsfs financial corp,true,false,false,false,20170815,delson donald w,156218017002682,,male,31418069.0
+5374.0,,828944,wsfs financial corp,true,false,false,false,20170815,du pont eleuthere i,156218017002683,,male,31418069.0
+41127.0,,828944,wsfs financial corp,false,true,false,false,20170818,mazarakis s james,156218017002768,EVP,male,31418069.0
+19079.0,20341.0,828944,wsfs financial corp,false,true,false,false,20170818,eddens peggy h,156218017002769,EVP,female,31418069.0
+41127.0,,828944,wsfs financial corp,false,true,false,false,20170905,mazarakis s james,156218017002837,EVP,male,31418069.0
+9098.0,1079.0,828944,wsfs financial corp,false,true,false,false,20170920,clark stephen p,156218017002990,EVP,male,31418069.0
+6231.0,,828944,wsfs financial corp,false,true,false,false,20171117,kearney thomas w,156218017003611,Executive Vice President,male,31389882.0
+88519.0,,828944,wsfs financial corp,false,true,false,false,20171122,ward patrick joseph,156218017003665,Executive Vice President,male,31389882.0
+40927.0,,828944,wsfs financial corp,false,true,false,false,20171201,mazarakis s james,156218017003707,EVP,male,31389882.0
+95442.0,1531.0,828944,wsfs financial corp,false,true,false,false,20171206,ward patrick joseph,156218017003782,Executive Vice President,male,31389882.0
+20561.0,20597.0,828944,wsfs financial corp,false,true,false,false,20180226,eddens peggy h,156218018001247,EVP,female,31389882.0
+47512.0,1917.0,828944,wsfs financial corp,false,true,false,false,20180301,levenson rodger,156218018001343,EVP,male,31389882.0
+19690.0,20597.0,828944,wsfs financial corp,false,true,false,false,20180301,eddens peggy h,156218018001342,EVP,female,31389882.0
+96853.0,1531.0,828944,wsfs financial corp,false,true,false,false,20180301,ward patrick joseph,156218018001341,Executive Vice President,male,31389882.0
+15958.0,,828944,wsfs financial corp,false,true,false,false,20180301,kearney thomas w,156218018001340,Executive Vice President,male,31389882.0
+26738.0,7982.0,828944,wsfs financial corp,false,true,false,false,20180301,geraghty paul d,156218018001339,EVP,male,31389882.0
+41221.0,,828944,wsfs financial corp,false,true,false,false,20180301,mazarakis s james,156218018001338,EVP,male,31389882.0
+10064.0,1225.0,828944,wsfs financial corp,false,true,false,false,20180301,clark stephen p,156218018001336,EVP,male,31389882.0
+3638.0,208.0,828944,wsfs financial corp,false,true,false,false,20180301,canuso dominic c,156218018001335,EVP & CFO,male,31389882.0
+4199.0,8270.0,828944,wsfs financial corp,false,true,false,false,20180301,greenplate paul s,156218018001337,EVP,male,31389882.0
+18333.0,,828944,wsfs financial corp,false,true,false,false,20180306,kearney thomas w,156218018001512,Executive Vice President,male,31389882.0
+131636.0,39944.0,828944,wsfs financial corp,false,true,false,false,20180306,turner mark a,156218018001470,CEO,male,31389882.0
+0.0,6998.0,828944,wsfs financial corp,false,true,false,false,20180306,wright richard,156218018001471,EVP,male,31389882.0
+29621.0,,828944,wsfs financial corp,false,true,false,false,20180306,geraghty paul d,156218018001511,EVP,male,31389882.0
+17051.0,,828944,wsfs financial corp,false,true,false,false,20180309,kearney thomas w,156218018001594,Executive Vice President,male,31389882.0
+22743.0,,828944,wsfs financial corp,false,true,false,false,20180309,geraghty paul d,156218018001593,EVP,male,31389882.0
+45452.0,6998.0,828944,wsfs financial corp,false,true,false,false,20180313,wright richard,156218018001618,EVP,male,31389882.0
+19743.0,,828944,wsfs financial corp,false,true,false,false,20180313,geraghty paul d,156218018001626,EVP,male,31389882.0
+16029.0,,828944,wsfs financial corp,false,true,false,false,20180405,kearney thomas w,156218018001869,Executive Vice President,male,31389882.0
+4126.0,8270.0,828944,wsfs financial corp,false,true,false,false,20180420,greenplate paul s,156218018001932,EVP,male,31389882.0
+40615.0,,828944,wsfs financial corp,false,true,false,false,20180420,mazarakis s james,156218018001934,EVP,male,31389882.0
+20719.0,,828944,wsfs financial corp,false,true,false,false,20180420,geraghty paul d,156218018001937,EVP,male,31389882.0
+44718.0,6998.0,828944,wsfs financial corp,false,true,false,false,20180420,wright richard,156218018001936,EVP,male,31389882.0
+46621.0,1917.0,828944,wsfs financial corp,false,true,false,false,20180420,levenson rodger,156218018001933,EVP,male,31389882.0
+19282.0,20597.0,828944,wsfs financial corp,false,true,false,false,20180420,eddens peggy h,156218018001931,EVP,female,31389882.0
+96821.0,1531.0,828944,wsfs financial corp,false,true,false,false,20180420,ward patrick joseph,156218018001935,Executive Vice President,male,31389882.0
+3543.0,208.0,828944,wsfs financial corp,false,true,false,false,20180420,canuso dominic c,156218018001929,EVP & CFO,male,31389882.0
+9722.0,1225.0,828944,wsfs financial corp,false,true,false,false,20180420,clark stephen p,156218018001930,EVP,male,31389882.0
+42037.0,6998.0,828944,wsfs financial corp,false,true,false,false,20180427,wright richard,156218018002038,EVP,male,31389882.0
+39081.0,,828944,wsfs financial corp,false,true,false,false,20180427,mazarakis s james,156218018002037,EVP,male,31389882.0
+48361.0,6998.0,828944,wsfs financial corp,false,true,false,false,20180503,wright richard,156218018002153,EVP,male,31389882.0
+94821.0,1531.0,828944,wsfs financial corp,false,true,false,false,20180507,ward patrick joseph,156218018002309,Executive Vice President,male,31539507.0
+28923.0,,828944,wsfs financial corp,true,false,false,false,20180514,schoenhals marvin n,156218018002461,,male,31539507.0
+131636.0,39944.0,828944,wsfs financial corp,false,true,false,false,20180517,turner mark a,156218018002552,CEO,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180522,turner mark a,156218018002611,CEO,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180525,turner mark a,156218018002688,CEO,male,31539507.0
+131636.0,,828944,wsfs financial corp,false,true,false,false,20180607,turner mark a,156218018002922,CEO,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180612,turner mark a,156218018002971,CEO,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180620,turner mark a,156218018003065,CEO,male,31539507.0
+3447.0,208.0,828944,wsfs financial corp,false,true,false,false,20180625,canuso dominic c,156218018003096,EVP & CFO,male,31539507.0
+2500.0,,828944,wsfs financial corp,false,true,false,false,20180628,bacci arthur j,156218018003117,Executive Vice President,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180709,turner mark a,156218018003256,CEO,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180712,turner mark a,156218018003280,CEO,male,31539507.0
+131636.0,39909.0,828944,wsfs financial corp,false,true,false,false,20180724,turner mark a,156218018003393,CEO,male,31539507.0
+131636.0,39895.0,828944,wsfs financial corp,false,true,false,false,20180808,turner mark a,156218018003530,CEO,male,31771831.0
+1633.0,,828944,wsfs financial corp,true,false,false,false,20180814,gheysens christopher,156218018003582,,male,31771831.0
+29615.0,,828944,wsfs financial corp,true,false,false,false,20180814,schoenhals marvin n,156218018003584,,male,31771831.0
+14133.0,,828944,wsfs financial corp,true,false,false,false,20180814,turner david g,156218018003585,,male,31771831.0
+6066.0,6105.0,828944,wsfs financial corp,true,false,false,false,20180814,du pont eleuthere i,156218018003581,,male,31771831.0
+19080.0,,828944,wsfs financial corp,true,false,false,false,20180814,davis jennifer w,156218018003580,,female,31771831.0
+21975.0,10200.0,828944,wsfs financial corp,true,false,false,false,20180814,morgan calvert a jr,156218018003583,,male,31771831.0
+16935.0,,828944,wsfs financial corp,true,false,false,false,20180814,bird anat,156218018003578,,female,31771831.0
+7433.0,,828944,wsfs financial corp,true,false,false,false,20180814,brake francis b.,156218018003579,,male,31771831.0
+45265.0,6987.0,828944,wsfs financial corp,false,true,false,false,20180823,wright richard,156218018003754,EVP,male,31771831.0
+4646.0,,828944,wsfs financial corp,false,true,false,false,20180904,canuso dominic c,156218018003807,EVP & CFO,male,31771831.0
+131636.0,39895.0,828944,wsfs financial corp,false,true,false,false,20180907,turner mark a,156218018003867,CEO,male,31771831.0
+131636.0,39895.0,828944,wsfs financial corp,false,true,false,false,20181009,turner mark a,156218018004203,CEO,male,31771831.0
+99134.0,1531.0,828944,wsfs financial corp,false,true,false,false,20181214,ward patrick joseph,156218018004940,Executive Vice President,male,31369448.0
+48897.0,7095.0,828944,wsfs financial corp,false,true,false,false,20190304,wright richard,156218019001616,EVP,male,31369448.0
+102415.0,1531.0,828944,wsfs financial corp,false,true,false,false,20190304,ward patrick joseph,156218019001615,Executive Vice President,male,31369448.0
+6949.0,8378.0,828944,wsfs financial corp,false,true,false,false,20190304,greenplate paul s,156218019001609,EVP,male,31369448.0
+13297.0,1397.0,828944,wsfs financial corp,false,true,false,false,20190304,clark stephen p,156218019001607,EVP,male,31369448.0
+7087.0,4697.0,828944,wsfs financial corp,false,true,false,false,20190304,canuso dominic c,156218019001605,EVP & CFO,male,31369448.0
+13680.0,1972.0,828944,wsfs financial corp,false,true,false,false,20190304,brubaker lisa m,156218019001602,"EVP, Chief Technology Officer",female,31369448.0
+22932.0,20972.0,828944,wsfs financial corp,false,true,false,false,20190304,eddens peggy h,156218019001608,EVP,female,31369448.0
+140870.0,40401.0,828944,wsfs financial corp,false,true,false,false,20190304,turner mark a,156218019001618,CEO,male,31369448.0
+50576.0,1939.0,828944,wsfs financial corp,false,true,false,false,20190304,levenson rodger,156218019001619,President & CEO,male,31369448.0
+5311.0,,828944,wsfs financial corp,false,true,false,false,20190304,bacci arthur j,156218019001601,Executive Vice President,male,31369448.0
+16214.0,,828944,wsfs financial corp,true,false,false,false,20190305,donahue michael j,156218019001693,,male,31369448.0
+9365.0,,828944,wsfs financial corp,true,false,false,false,20190305,cuddy gerard p,156218019001700,,male,31369448.0
+21326.0,,828944,wsfs financial corp,true,false,false,false,20190305,buchholz karen dougherty,156218019001703,,female,31369448.0
+140870.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190306,turner mark a,156218019001736,,male,31369448.0
+13563.0,1972.0,828944,wsfs financial corp,false,true,false,false,20190417,brubaker lisa m,156218019002301,"EVP, Chief Technology Officer",female,31369448.0
+6874.0,4697.0,828944,wsfs financial corp,false,true,false,false,20190417,canuso dominic c,156218019002302,EVP & CFO,male,31369448.0
+12798.0,1397.0,828944,wsfs financial corp,false,true,false,false,20190417,clark stephen p,156218019002303,EVP,male,31369448.0
+102285.0,1531.0,828944,wsfs financial corp,false,true,false,false,20190417,ward patrick joseph,156218019002308,Executive Vice President,male,31369448.0
+49464.0,1939.0,828944,wsfs financial corp,false,true,false,false,20190417,levenson rodger,156218019002306,President & CEO,male,31369448.0
+140333.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190417,turner mark a,156218019002307,,male,31369448.0
+47969.0,7095.0,828944,wsfs financial corp,false,true,false,false,20190417,wright richard,156218019002309,EVP,male,31369448.0
+6788.0,8378.0,828944,wsfs financial corp,false,true,false,false,20190417,greenplate paul s,156218019002305,EVP,male,31369448.0
+22405.0,20972.0,828944,wsfs financial corp,false,true,false,false,20190417,eddens peggy h,156218019002304,EVP,female,31369448.0
+140333.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190422,turner mark a,156218019002325,,male,31369448.0
+140333.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190425,turner mark a,156218019002342,,male,31369448.0
+140333.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190426,turner mark a,156218019002383,,male,31369448.0
+0.0,,828944,wsfs financial corp,1,0,0,0,20190501,cuddy gerard p,155278119000222,,male,31369448.0
+140333.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190501,turner mark a,156218019002459,,male,31369448.0
+65577.0,1939.0,828944,wsfs financial corp,false,true,false,false,20190510,levenson rodger,156218019002748,President & CEO,male,53407015.0
+16486.0,,828944,wsfs financial corp,1,0,0,0,20190613,donahue michael j,155278119000283,,male,53407015.0
+48072.0,,828944,wsfs financial corp,1,0,0,0,20190613,cuddy gerard p,155278119000284,,male,53407015.0
+21598.0,,828944,wsfs financial corp,1,0,0,0,20190613,buchholz karen dougherty,155278119000285,,female,53407015.0
+6793.0,4697.0,828944,wsfs financial corp,false,true,false,false,20190626,canuso dominic c,156218019003642,EVP & CFO,male,53407015.0
+5114.0,2106.0,828944,wsfs financial corp,false,true,false,false,20190702,bacci arthur j,156218019003753,Executive Vice President,male,53407015.0
+30455.0,,828944,wsfs financial corp,true,false,false,false,20190813,schoenhals marvin n,156218019004258,,male,52988084.0
+22438.0,,828944,wsfs financial corp,true,false,false,false,20190813,buchholz karen dougherty,156218019004261,,female,52988084.0
+48912.0,,828944,wsfs financial corp,true,false,false,false,20190813,cuddy gerard p,156218019004262,,male,52988084.0
+14973.0,,828944,wsfs financial corp,true,false,false,false,20190813,turner david g,156218019004259,,male,52988084.0
+19920.0,,828944,wsfs financial corp,true,false,false,false,20190813,davis jennifer w,156218019004255,,female,52988084.0
+6906.0,6105.0,828944,wsfs financial corp,true,false,false,false,20190813,du pont eleuthere i,156218019004256,,male,52988084.0
+8273.0,,828944,wsfs financial corp,true,false,false,false,20190813,brake francis b.,156218019004254,,male,52988084.0
+17775.0,,828944,wsfs financial corp,true,false,false,false,20190813,bird anat,156218019004253,,female,52988084.0
+2473.0,,828944,wsfs financial corp,true,false,false,false,20190813,gheysens christopher,156218019004257,,male,52988084.0
+17326.0,,828944,wsfs financial corp,true,false,false,false,20190813,donahue michael j,156218019004260,,male,52988084.0
+140333.0,40401.0,828944,wsfs financial corp,true,false,false,false,20190829,turner mark a,156218019004522,,male,52988084.0
+102285.0,1531.0,828944,wsfs financial corp,false,true,false,false,20190909,ward patrick joseph,156218019004697,Executive Vice President,male,52988084.0
+9925.0,,828944,wsfs financial corp,true,false,false,false,20190911,brake francis b.,156218019004747,,male,52988084.0
+19608.0,,828944,wsfs financial corp,true,false,false,false,20190911,bird anat,156218019004746,,female,52988084.0
+3997.0,,828944,wsfs financial corp,true,false,false,false,20190911,gheysens christopher,156218019004748,,male,52988084.0
+52041.0,,828944,wsfs financial corp,false,true,false,false,20190916,wright richard,156218019004829,EVP,male,52988084.0
+121220.0,1531.0,828944,wsfs financial corp,false,true,false,false,20191023,ward patrick joseph,156218019005216,Executive Vice President,male,52988084.0
+10687.0,,828944,wsfs financial corp,true,false,false,false,20191029,donahue michael j,156218019005269,,male,52988084.0
+5288.0,8378.0,828944,wsfs financial corp,false,true,false,false,20191206,greenplate paul s,156218019005932,EVP,male,52148734.0
+134459.0,40401.0,828944,wsfs financial corp,true,false,false,false,20200106,turner mark a,156218020000238,,male,52148734.0
+31738.0,20972.0,828944,wsfs financial corp,false,true,false,false,20200127,eddens peggy h,156218020000583,EVP,female,52148734.0
+45717.0,7122.0,828944,wsfs financial corp,false,true,false,false,20200207,wright richard,156218020001003,EVP,male,52148734.0
+34389.0,21060.0,828944,wsfs financial corp,false,true,false,false,20200304,eddens peggy h,156218020002179,EVP,female,52148734.0
+9424.0,4961.0,828944,wsfs financial corp,false,true,false,false,20200304,canuso dominic c,156218020002181,EVP & CFO,male,52148734.0
+7460.0,8402.0,828944,wsfs financial corp,false,true,false,false,20200304,greenplate paul s,156218020002180,EVP,male,52148734.0
+123559.0,1531.0,828944,wsfs financial corp,false,true,false,false,20200304,ward patrick joseph,156218020002178,Executive Vice President,male,52148734.0
+15535.0,1979.0,828944,wsfs financial corp,false,true,false,false,20200305,brubaker lisa m,156218020002249,"EVP, Chief Technology Officer",female,52148734.0
+15348.0,1594.0,828944,wsfs financial corp,false,true,false,false,20200305,clark stephen p,156218020002251,EVP,male,52148734.0
+7392.0,2112.0,828944,wsfs financial corp,false,true,false,false,20200309,bacci arthur j,156218020002308,Executive Vice President,male,52148734.0
+48307.0,7122.0,828944,wsfs financial corp,false,true,false,false,20200309,wright richard,156218020002309,EVP,male,52148734.0
+72571.0,1942.0,828944,wsfs financial corp,false,true,false,false,20200309,levenson rodger,156218020002310,President & CEO,male,52148734.0
+14224.0,1879.0,828944,wsfs financial corp,false,true,false,false,20200417,clark stephen p,156218020003057,EVP,male,52148734.0
+14765.0,2015.0,828944,wsfs financial corp,false,true,false,false,20200417,brubaker lisa m,156218020003050,"EVP, Chief Technology Officer",female,52148734.0
+7018.0,8559.0,828944,wsfs financial corp,false,true,false,false,20200417,greenplate paul s,156218020003051,EVP,male,52148734.0
+8145.0,5839.0,828944,wsfs financial corp,false,true,false,false,20200417,canuso dominic c,156218020003058,EVP & CFO,male,52148734.0
+71034.0,1977.0,828944,wsfs financial corp,false,true,false,false,20200417,levenson rodger,156218020003053,President & CEO,male,52148734.0
+33605.0,21519.0,828944,wsfs financial corp,false,true,false,false,20200417,eddens peggy h,156218020003054,EVP,female,52148734.0
+7103.0,3520.0,828944,wsfs financial corp,false,true,false,false,20200417,bacci arthur j,156218020003055,Executive Vice President,male,52148734.0
+47047.0,7258.0,828944,wsfs financial corp,false,true,false,false,20200417,wright richard,156218020003056,EVP,male,52148734.0
+123124.0,1531.0,828944,wsfs financial corp,false,true,false,false,20200417,ward patrick joseph,156218020003052,Executive Vice President,male,52148734.0
+12222.0,,828944,wsfs financial corp,0,1,0,0,20200505,reed michael paul,155278120000323,"EVP, Chief Risk Officer",male,50659443.0
+6901.0,3520.0,828944,wsfs financial corp,false,true,false,false,20200701,bacci arthur j,156218020004736,Executive Vice President,male,50659443.0
+20730.0,,828944,wsfs financial corp,true,false,false,false,20200818,bird anat,156218020005514,,female,50660203.0
+16095.0,,828944,wsfs financial corp,true,false,false,false,20200818,turner david g,156218020005522,,male,50660203.0
+31577.0,,828944,wsfs financial corp,true,false,false,false,20200818,schoenhals marvin n,156218020005521,,male,50660203.0
+5119.0,,828944,wsfs financial corp,true,false,false,false,20200818,gheysens christopher,156218020005520,,male,50660203.0
+8028.0,6105.0,828944,wsfs financial corp,true,false,false,false,20200818,du pont eleuthere i,156218020005519,,male,50660203.0
+11809.0,,828944,wsfs financial corp,true,false,false,false,20200818,donahue michael j,156218020005518,,male,50660203.0
+21042.0,,828944,wsfs financial corp,true,false,false,false,20200818,davis jennifer w,156218020005517,,female,50660203.0
+23560.0,,828944,wsfs financial corp,true,false,false,false,20200818,buchholz karen dougherty,156218020005516,,female,50660203.0
+136001.0,41030.0,828944,wsfs financial corp,true,false,false,false,20200818,turner mark a,156218020005523,,male,50660203.0
+11047.0,,828944,wsfs financial corp,true,false,false,false,20200818,brake francis b.,156218020005515,,male,50660203.0
+3344.0,,828944,wsfs financial corp,0,1,0,0,20200831,conklin michael,155278120000467,"EVP, Chief Human Resources Off",male,50660203.0
+72446.0,1977.0,828944,wsfs financial corp,false,true,false,false,20200831,levenson rodger,156218020005696,President & CEO,male,50660203.0
+48868.0,7258.0,828944,wsfs financial corp,false,true,false,false,20201103,wright richard,156218020006526,EVP,male,50402351.0
+14224.0,1879.0,828944,wsfs financial corp,false,true,false,false,20201125,clark stephen p,156218020006900,EVP,male,50402351.0
+5560.0,8380.0,828944,wsfs financial corp,false,true,false,false,20201204,greenplate paul s,156218020007071,EVP,male,50402351.0
+17293.0,21099.0,828944,wsfs financial corp,false,true,false,false,20201209,eddens peggy h,156218020007130,EVP,female,50402351.0
+21950.0,21099.0,828944,wsfs financial corp,false,true,false,false,20201214,eddens peggy h,156218020007251,EVP,female,50402351.0
+12778.0,5725.0,828944,wsfs financial corp,false,true,false,false,20201214,canuso dominic c,156218020007252,EVP & CFO,male,50402351.0
+53430.0,7112.0,828944,wsfs financial corp,false,true,false,false,20201214,wright richard,156218020007253,EVP,male,50402351.0
+18714.0,1880.0,828944,wsfs financial corp,false,true,false,false,20201214,clark stephen p,156218020007254,EVP,male,50402351.0
+127232.0,1531.0,828944,wsfs financial corp,false,true,false,false,20201214,ward patrick joseph,156218020007256,Executive Vice President,male,50402351.0
+10913.0,3542.0,828944,wsfs financial corp,false,true,false,false,20201214,bacci arthur j,156218020007257,Executive Vice President,male,50402351.0
+9381.0,8380.0,828944,wsfs financial corp,false,true,false,false,20201214,greenplate paul s,156218020007264,EVP,male,50402351.0
+18228.0,1974.0,828944,wsfs financial corp,false,true,false,false,20201214,brubaker lisa m,156218020007265,"EVP, Chief Technology Officer",female,50402351.0
+89881.0,1934.0,828944,wsfs financial corp,false,true,false,false,20201214,levenson rodger,156218020007248,President & CEO,male,50402351.0
+136569.0,41030.0,828944,wsfs financial corp,true,false,false,false,20201228,turner mark a,156218020007461,,male,50402351.0
+544.0,,828944,wsfs financial corp,true,false,false,false,20210104,foster nancy j,156218021000014,,female,50402351.0
+22344.0,1965.0,828944,wsfs financial corp,false,true,false,false,20210201,brubaker lisa m,156218021000650,"EVP, Chief Technology Officer",female,50402351.0
+26002.0,21003.0,828944,wsfs financial corp,false,true,false,false,20210303,eddens peggy h,156218021001847,EVP,female,50402351.0
+94094.0,1925.0,828944,wsfs financial corp,false,true,false,false,20210303,levenson rodger,156218021001838,President & CEO,male,50402351.0
+59468.0,7079.0,828944,wsfs financial corp,false,true,false,false,20210305,wright richard,156218021002045,EVP,male,50402351.0
+132724.0,1531.0,828944,wsfs financial corp,false,true,false,false,20210305,ward patrick joseph,156218021002044,Executive Vice President,male,50402351.0
+14124.0,,828944,wsfs financial corp,false,true,false,false,20210305,reed michael paul,156218021002043,Executive Vice President,male,50402351.0
+14329.0,8341.0,828944,wsfs financial corp,false,true,false,false,20210305,greenplate paul s,156218021002042,EVP,male,50402351.0
+32187.0,,828944,wsfs financial corp,false,true,false,false,20210305,eddens peggy h,156218021002041,EVP,female,50402351.0
+25238.0,1871.0,828944,wsfs financial corp,false,true,false,false,20210305,clark stephen p,156218021002040,EVP,male,50402351.0
+19110.0,5725.0,828944,wsfs financial corp,false,true,false,false,20210305,canuso dominic c,156218021002039,EVP & CFO,male,50402351.0
+27292.0,1965.0,828944,wsfs financial corp,false,true,false,false,20210305,brubaker lisa m,156218021002034,"EVP, Chief Technology Officer",female,50402351.0
+16214.0,3526.0,828944,wsfs financial corp,false,true,false,false,20210305,bacci arthur j,156218021002033,Executive Vice President,male,50402351.0
+112035.0,1925.0,828944,wsfs financial corp,false,true,false,false,20210305,levenson rodger,156218021002032,President & CEO,male,50402351.0
+4935.0,,828944,wsfs financial corp,0,1,0,0,20210305,conklin michael,155278121000078,"EVP, Chief Human Resources Off",male,50402351.0
+59468.0,7079.0,828944,wsfs financial corp,false,true,false,false,20210305,wright richard,156218021002046,EVP,male,50402351.0
+103654.0,33530.0,828944,wsfs financial corp,true,false,false,false,20210315,turner mark a,156218021002237,,male,50402351.0
+56369.0,7079.0,828944,wsfs financial corp,false,true,false,false,20210316,wright richard,156218021002251,EVP,male,50402351.0
+17827.0,5696.0,828944,wsfs financial corp,false,true,false,false,20210419,canuso dominic c,156218021002866,EVP & CFO,male,50402351.0
+24523.0,2001.0,828944,wsfs financial corp,false,true,false,false,20210419,clark stephen p,156218021002876,EVP,male,50402351.0
+13727.0,,828944,wsfs financial corp,false,true,false,false,20210419,reed michael paul,156218021002875,Executive Vice President,male,50402351.0
+132128.0,1531.0,828944,wsfs financial corp,false,true,false,false,20210419,ward patrick joseph,156218021002874,Executive Vice President,male,50402351.0
+55075.0,7073.0,828944,wsfs financial corp,false,true,false,false,20210419,wright richard,156218021002873,EVP,male,50402351.0
+109953.0,1921.0,828944,wsfs financial corp,false,true,false,false,20210419,levenson rodger,156218021002872,President & CEO,male,50402351.0
+13738.0,8330.0,828944,wsfs financial corp,false,true,false,false,20210419,greenplate paul s,156218021002871,EVP,male,50402351.0
+31362.0,21006.0,828944,wsfs financial corp,false,true,false,false,20210419,eddens peggy h,156218021002870,EVP,female,50402351.0
+26812.0,1963.0,828944,wsfs financial corp,false,true,false,false,20210419,brubaker lisa m,156218021002869,"EVP, Chief Technology Officer",female,50402351.0
+15742.0,3673.0,828944,wsfs financial corp,false,true,false,false,20210419,bacci arthur j,156218021002868,Executive Vice President,male,50402351.0
+53841.0,7073.0,828944,wsfs financial corp,false,true,false,false,20210427,wright richard,156218021002971,EVP,male,50402351.0
+73654.0,33530.0,828944,wsfs financial corp,true,false,false,false,20210429,turner mark a,156218021003007,,male,50402351.0
+50613.0,7073.0,828944,wsfs financial corp,false,true,false,false,20210503,wright richard,156218021003085,EVP,male,47532042.0
+46541.0,7073.0,828944,wsfs financial corp,false,true,false,false,20210507,wright richard,156218021003317,EVP,male,47532042.0
+43654.0,33530.0,828944,wsfs financial corp,true,false,false,false,20210511,turner mark a,156218021003382,,male,47532042.0
+24523.0,2001.0,828944,wsfs financial corp,false,true,false,false,20210511,clark stephen p,156218021003383,EVP,male,47532042.0
+12506.0,8330.0,828944,wsfs financial corp,false,true,false,false,20210517,greenplate paul s,156218021003496,EVP,male,47532042.0
+14742.0,33530.0,828944,wsfs financial corp,true,false,false,false,20210519,turner mark a,156218021003597,,male,47532042.0
+131651.0,1531.0,828944,wsfs financial corp,false,true,false,false,20210527,ward patrick joseph,156218021003787,Executive Vice President,male,47532042.0
+23340.0,,828944,wsfs financial corp,true,false,false,false,20210603,turner mark a,156218021003973,,male,47532042.0
+43477.0,7073.0,828944,wsfs financial corp,false,true,false,false,20210603,wright richard,156218021003974,EVP,male,47532042.0
+10000.0,,828944,wsfs financial corp,true,false,false,false,20210609,turner mark a,156218021004146,,male,47532042.0
+15540.0,3673.0,828944,wsfs financial corp,false,true,false,false,20210629,bacci arthur j,156218021004555,Executive Vice President,male,47532042.0
+10769.0,,828944,wsfs financial corp,true,false,false,false,20210817,turner mark a,156218021005344,,male,47535215.0
+16864.0,,828944,wsfs financial corp,true,false,false,false,20210817,turner david g,156218021005345,,male,47535215.0
+7651.0,,828944,wsfs financial corp,true,false,false,false,20210817,gheysens christopher,156218021005346,,male,47535215.0
+3213.0,,828944,wsfs financial corp,true,false,false,false,20210817,foster nancy j,156218021005347,,female,47535215.0
+8797.0,6105.0,828944,wsfs financial corp,true,false,false,false,20210817,du pont eleuthere i,156218021005348,,male,47535215.0
+12578.0,,828944,wsfs financial corp,true,false,false,false,20210817,donahue michael j,156218021005349,,male,47535215.0
+21811.0,,828944,wsfs financial corp,true,false,false,false,20210817,davis jennifer w,156218021005350,,female,47535215.0
+24329.0,,828944,wsfs financial corp,true,false,false,false,20210817,buchholz karen dougherty,156218021005351,,female,47535215.0
+11816.0,,828944,wsfs financial corp,true,false,false,false,20210817,brake francis b.,156218021005352,,male,47535215.0
+21499.0,,828944,wsfs financial corp,true,false,false,false,20210817,bird anat,156218021005353,,female,47535215.0
+4648.0,,828944,wsfs financial corp,false,true,false,false,20210830,conklin michael,156218021005624,Chief Human Resources Officer,male,47535215.0
+43477.0,7073.0,828944,wsfs financial corp,false,true,false,false,20211027,wright richard,156218021006661,EVP,male,47535215.0
+20390.0,21006.0,828944,wsfs financial corp,false,true,false,false,20211027,eddens peggy h,156218021006660,EVP,female,47535215.0
+41744.0,7073.0,828944,wsfs financial corp,false,true,false,false,20211104,wright richard,156218021006850,EVP,male,47567898.0
+111317.0,2011.0,828944,wsfs financial corp,false,true,false,false,20211110,levenson rodger,156218021006963,President & CEO,male,47567898.0
+11585.0,8330.0,828944,wsfs financial corp,false,true,false,false,20211112,greenplate paul s,156218021007007,EVP,male,47567898.0
+24523.0,2001.0,828944,wsfs financial corp,false,true,false,false,20211112,clark stephen p,156218021007008,EVP,male,47567898.0
+131091.0,1531.0,828944,wsfs financial corp,false,true,false,false,20211112,ward patrick joseph,156218021007012,Executive Vice President,male,47567898.0
+133195.0,1531.0,828944,wsfs financial corp,false,true,false,false,20211119,ward patrick joseph,156218021007178,Executive Vice President,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,clark stephen p,162828021025072,EVP,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,bacci arthur j,162828021025066,EVP,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,brubaker lisa m,162828021025067,"EVP, Chief Technology Officer",female,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,ward patrick joseph,162828021025068,EVP,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,greenplate paul s,162828021025069,EVP,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,wright richard,162828021025070,EVP,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,canuso dominic c,162828021025065,EVP & CFO,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211214,levenson rodger,162828021025071,President & CEO,male,47567898.0
+,,828944,wsfs financial corp,0,1,0,0,20211215,eddens peggy h,162828021025146,EVP,female,47567898.0
+40224.0,7073.0,828944,wsfs financial corp,false,true,false,false,20211230,wright richard,156218021007907,EVP,male,47567898.0
+10440.0,,828944,wsfs financial corp,1,0,0,0,20220103,mckee lynn,155278122000050,,female,47567898.0
+8117.0,,828944,wsfs financial corp,1,0,0,0,20220103,calderin diego f.,155278122000051,,male,47567898.0
+14645.0,20265.0,828944,wsfs financial corp,false,true,false,false,20220103,eddens peggy h,156218022000046,EVP,female,47567898.0
+1009.0,,828944,wsfs financial corp,1,0,0,0,20220103,leto francis j,155278122000049,,male,47567898.0
+7647.0,6105.0,828944,wsfs financial corp,true,false,false,false,20220103,du pont eleuthere i,156218022000045,,male,47567898.0
+,8252.0,828944,wsfs financial corp,false,true,false,false,20220106,greenplate paul s,156218022000327,EVP,male,47567898.0
+69375.0,1009.0,828944,wsfs financial corp,true,false,false,false,20220131,leto francis j,156218022000782,,male,47567898.0
+,,828944,wsfs financial corp,false,true,false,false,20220131,eddens peggy h,156218022000787,EVP,female,47567898.0
+50395.0,1015.0,828944,wsfs financial corp,true,false,false,false,20220204,leto francis j,156218022001141,,male,47567898.0
+27885.0,1979.0,828944,wsfs financial corp,false,true,false,false,20220210,brubaker lisa m,156218022001335,"EVP, Chief Technology Officer",female,47567898.0
+0.0,,828944,wsfs financial corp,true,false,false,false,20220218,leto francis j,156218022001628,,male,47567898.0
+138171.0,1531.0,828944,wsfs financial corp,false,true,false,false,20220228,ward patrick joseph,156218022001978,Executive Vice President,male,47567898.0
+127063.0,1934.0,828944,wsfs financial corp,false,true,false,false,20220228,levenson rodger,156218022001980,President & CEO,male,47567898.0
+46136.0,7131.0,828944,wsfs financial corp,false,true,false,false,20220228,wright richard,156218022001979,EVP,male,47567898.0
+19685.0,,828944,wsfs financial corp,false,true,false,false,20220228,reed michael paul,156218022001981,Executive Vice President,male,47567898.0
+20300.0,3705.0,828944,wsfs financial corp,false,true,false,false,20220228,bacci arthur j,156218022001974,Executive Vice President,male,47567898.0
+23171.0,5746.0,828944,wsfs financial corp,false,true,false,false,20220228,canuso dominic c,156218022001975,EVP & CFO,male,47567898.0
+9980.0,,828944,wsfs financial corp,false,true,false,false,20220228,conklin michael,156218022001977,Chief Human Resources Officer,male,47567898.0
+32950.0,1979.0,828944,wsfs financial corp,false,true,false,false,20220228,brubaker lisa m,156218022001973,"EVP, Chief Technology Officer",female,47567898.0
+29647.0,2052.0,828944,wsfs financial corp,false,true,false,false,20220228,clark stephen p,156218022001972,EVP,male,47567898.0
+19045.0,3705.0,828944,wsfs financial corp,false,true,false,false,20220419,bacci arthur j,156218022003442,Executive Vice President,male,47567898.0
+32051.0,1979.0,828944,wsfs financial corp,false,true,false,false,20220419,brubaker lisa m,156218022003443,"EVP, Chief Technology Officer",female,47567898.0
+44169.0,7131.0,828944,wsfs financial corp,false,true,false,false,20220419,wright richard,156218022003444,EVP,male,47567898.0
+137186.0,1531.0,828944,wsfs financial corp,false,true,false,false,20220419,ward patrick joseph,156218022003445,Executive Vice President,male,47567898.0
+19133.0,,828944,wsfs financial corp,false,true,false,false,20220419,reed michael paul,156218022003446,Executive Vice President,male,47567898.0
+122468.0,1934.0,828944,wsfs financial corp,false,true,false,false,20220419,levenson rodger,156218022003447,President & CEO,male,47567898.0
+10061.0,,828944,wsfs financial corp,false,true,false,false,20220419,conklin michael,156218022003448,Chief Human Resources Officer,male,47567898.0
+27584.0,2052.0,828944,wsfs financial corp,false,true,false,false,20220419,clark stephen p,156218022003449,EVP,male,47567898.0
+20533.0,5746.0,828944,wsfs financial corp,false,true,false,false,20220419,canuso dominic c,156218022003450,EVP & CFO,male,47567898.0
+42196.0,7131.0,828944,wsfs financial corp,false,true,false,false,20220421,wright richard,156218022003502,EVP,male,47567898.0
+4213.0,,828944,wsfs financial corp,true,false,false,false,20220427,foster nancy j,156218022003550,,female,47567898.0
+47514.0,,828944,wsfs financial corp,true,false,false,false,20220427,leto francis j,156218022003549,,male,47567898.0
+39328.0,,828944,wsfs financial corp,true,false,false,false,20220513,leto francis j,156218022004017,,male,64676475.0
+18793.0,3705.0,828944,wsfs financial corp,false,true,false,false,20220630,bacci arthur j,156218022005410,Executive Vice President,male,64676475.0
+38456.0,7131.0,828944,wsfs financial corp,false,true,false,false,20220812,wright richard,156218022006064,EVP,male,63512527.0
+36241.0,,828944,wsfs financial corp,true,false,false,false,20220812,leto francis j,156218022006063,,male,63512527.0
+22191.0,,828944,wsfs financial corp,true,false,false,false,20220817,bird anat,156218022006148,,female,63512527.0
+14382.0,,828944,wsfs financial corp,true,false,false,false,20220817,brake francis b.,156218022006149,,male,63512527.0
+25021.0,,828944,wsfs financial corp,true,false,false,false,20220817,buchholz karen dougherty,156218022006150,,female,63512527.0
+8809.0,,828944,wsfs financial corp,true,false,false,false,20220817,calderin diego f.,156218022006151,,male,63512527.0
+22503.0,,828944,wsfs financial corp,true,false,false,false,20220817,davis jennifer w,156218022006152,,female,63512527.0
+13270.0,,828944,wsfs financial corp,true,false,false,false,20220817,donahue michael j,156218022006153,,male,63512527.0
+8343.0,,828944,wsfs financial corp,true,false,false,false,20220817,gheysens christopher,156218022006155,,male,63512527.0
+11132.0,,828944,wsfs financial corp,true,false,false,false,20220817,mckee lynn,156218022006156,,female,63512527.0
+20141.0,,828944,wsfs financial corp,true,false,false,false,20220817,leto francis j,156218022006157,,male,63512527.0
+17556.0,,828944,wsfs financial corp,true,false,false,false,20220817,turner david g,156218022006158,,male,63512527.0
+8339.0,,828944,wsfs financial corp,true,false,false,false,20220817,du pont eleuthere i,156218022006159,,male,63512527.0
+4905.0,,828944,wsfs financial corp,true,false,false,false,20220817,foster nancy j,156218022006154,,female,63512527.0
+2311.0,2188.0,828944,wsfs financial corp,false,true,false,false,20220902,kruzinski shari,156218022006436,"EVP, Chief Customer Officer",female,63512527.0
+29316.0,2052.0,828944,wsfs financial corp,false,true,false,false,20220902,clark stephen p,156218022006440,EVP,male,63512527.0
+40216.0,7131.0,828944,wsfs financial corp,false,true,false,false,20220902,wright richard,156218022006439,EVP,male,63512527.0
+138776.0,1531.0,828944,wsfs financial corp,false,true,false,false,20220902,ward patrick joseph,156218022006438,Executive Vice President,male,63512527.0
+129224.0,2011.0,828944,wsfs financial corp,false,true,false,false,20220902,levenson rodger,156218022006437,President & CEO,male,63512527.0
+22321.0,5746.0,828944,wsfs financial corp,false,true,false,false,20220902,canuso dominic c,156218022006435,EVP & CFO,male,63512527.0
+33391.0,1979.0,828944,wsfs financial corp,false,true,false,false,20220902,brubaker lisa m,156218022006434,"EVP, Chief Technology Officer",female,63512527.0
+20377.0,3705.0,828944,wsfs financial corp,false,true,false,false,20220902,bacci arthur j,156218022006433,Executive Vice President,male,63512527.0
+9774.0,,828944,wsfs financial corp,false,true,false,false,20221003,conklin michael,156218022006897,Chief Human Resources Officer,male,63512527.0
+9753.0,,828944,wsfs financial corp,true,false,false,false,20221108,leto francis j,156218022007536,,male,61586798.0
+130369.0,2011.0,828944,wsfs financial corp,false,true,false,false,20221115,levenson rodger,156218022007665,President & CEO,male,61586798.0
+2054.0,2188.0,828944,wsfs financial corp,false,true,false,false,20221213,kruzinski shari,156218022008235,"EVP, Chief Customer Officer",female,61586798.0
+28570.0,2052.0,828944,wsfs financial corp,false,true,false,false,20221213,clark stephen p,156218022008234,EVP,male,61586798.0
+21313.0,5746.0,828944,wsfs financial corp,false,true,false,false,20221213,canuso dominic c,156218022008233,EVP & CFO,male,61586798.0
+33033.0,1979.0,828944,wsfs financial corp,false,true,false,false,20221213,brubaker lisa m,156218022008232,"EVP, Chief Technology Officer",female,61586798.0
+39457.0,7131.0,828944,wsfs financial corp,false,true,false,false,20221213,wright richard,156218022008238,EVP,male,61586798.0
+138399.0,1531.0,828944,wsfs financial corp,false,true,false,false,20221213,ward patrick joseph,156218022008236,Executive Vice President,male,61586798.0
+127625.0,2011.0,828944,wsfs financial corp,false,true,false,false,20221213,levenson rodger,156218022008230,President & CEO,male,61586798.0
+19839.0,3705.0,828944,wsfs financial corp,false,true,false,false,20221213,bacci arthur j,156218022008231,Executive Vice President,male,61586798.0
+140881.0,1531.0,828944,wsfs financial corp,false,true,false,false,20221216,ward patrick joseph,156218022008327,Executive Vice President,male,61586798.0
+34124.0,1979.0,828944,wsfs financial corp,false,true,false,false,20230104,brubaker lisa m,156218023000071,"EVP, Chief Technology Officer",female,61586798.0
+32678.0,7131.0,828944,wsfs financial corp,false,true,false,false,20230113,wright richard,156218023000414,EVP,male,61586798.0
+12043.0,,828944,wsfs financial corp,false,true,false,false,20230227,conklin michael,156218023001924,Chief Human Resources Officer,male,61586798.0
+24196.0,5826.0,828944,wsfs financial corp,false,true,false,false,20230227,canuso dominic c,156218023001925,EVP & CFO,male,61586798.0
+36390.0,2005.0,828944,wsfs financial corp,false,true,false,false,20230227,brubaker lisa m,156218023001926,"EVP, Chief Technology Officer",female,61586798.0
+22195.0,3813.0,828944,wsfs financial corp,false,true,false,false,20230227,bacci arthur j,156218023001927,Executive Vice President,male,61586798.0
+141330.0,1957.0,828944,wsfs financial corp,false,true,false,false,20230227,levenson rodger,156218023001921,President & CEO,male,61586798.0
+10395.0,2180.0,828944,wsfs financial corp,false,true,false,false,20230227,kruzinski shari,156218023001920,"EVP, Chief Customer Officer",female,61586798.0
+143132.0,1531.0,828944,wsfs financial corp,false,true,false,false,20230227,ward patrick joseph,156218023001919,Executive Vice President,male,61586798.0
+6568.0,394.0,828944,wsfs financial corp,false,true,false,false,20230227,davis christine elizabeth,156218023001922,"EVP, Chief Risk Officer",female,61586798.0
+31067.0,2248.0,828944,wsfs financial corp,false,true,false,false,20230227,clark stephen p,156218023001923,EVP,male,61586798.0
+10395.0,2180.0,828944,wsfs financial corp,false,true,false,false,20230303,kruzinski shari,156218023002436,"EVP, Chief Customer Officer",female,61586798.0
+143045.0,1531.0,828944,wsfs financial corp,false,true,false,false,20230317,ward patrick joseph,156218023002889,Executive Vice President,male,61586798.0
+36309.0,2005.0,828944,wsfs financial corp,false,true,false,false,20230317,brubaker lisa m,156218023002886,"EVP, Chief Technology Officer",female,61586798.0
+30908.0,2248.0,828944,wsfs financial corp,false,true,false,false,20230317,clark stephen p,156218023002887,EVP,male,61586798.0
+24030.0,5826.0,828944,wsfs financial corp,false,true,false,false,20230317,canuso dominic c,156218023002885,EVP & CFO,male,61586798.0
+140807.0,2011.0,828944,wsfs financial corp,false,true,false,false,20230317,levenson rodger,156218023002884,President & CEO,male,61586798.0
+22077.0,3813.0,828944,wsfs financial corp,false,true,false,false,20230317,bacci arthur j,156218023002883,Executive Vice President,male,61586798.0
+10337.0,2180.0,828944,wsfs financial corp,false,true,false,false,20230317,kruzinski shari,156218023002888,"EVP, Chief Customer Officer",female,61586798.0
+141790.0,1531.0,828944,wsfs financial corp,false,true,false,false,20230418,ward patrick joseph,156218023003599,Executive Vice President,male,61586798.0
+134242.0,2011.0,828944,wsfs financial corp,false,true,false,false,20230418,levenson rodger,156218023003598,President & CEO,male,61586798.0
+20299.0,3813.0,828944,wsfs financial corp,false,true,false,false,20230418,bacci arthur j,156218023003591,Executive Vice President,male,61586798.0
+6181.0,394.0,828944,wsfs financial corp,false,true,false,false,20230418,davis christine elizabeth,156218023003596,"EVP, Chief Risk Officer",female,61586798.0
+21382.0,5826.0,828944,wsfs financial corp,false,true,false,false,20230418,canuso dominic c,156218023003592,EVP & CFO,male,61586798.0
+35051.0,2005.0,828944,wsfs financial corp,false,true,false,false,20230418,brubaker lisa m,156218023003593,"EVP, Chief Technology Officer",female,61586798.0
+28293.0,2248.0,828944,wsfs financial corp,false,true,false,false,20230418,clark stephen p,156218023003594,EVP,male,61586798.0
+11544.0,,828944,wsfs financial corp,false,true,false,false,20230418,conklin michael,156218023003595,Chief Human Resources Officer,male,61586798.0
+9816.0,2180.0,828944,wsfs financial corp,false,true,false,false,20230418,kruzinski shari,156218023003597,"EVP, Chief Customer Officer",female,61586798.0
+1753.0,,828944,wsfs financial corp,false,true,false,false,20230501,davis christine elizabeth,156218023003737,"EVP, Chief Risk Officer",female,61448797.0
+18929.0,,828944,wsfs financial corp,true,false,false,false,20230815,turner david g,156218023006337,,male,61056600.0
+9716.0,,828944,wsfs financial corp,true,false,false,false,20230815,gheysens christopher,156218023006335,,male,61056600.0
+14643.0,,828944,wsfs financial corp,true,false,false,false,20230815,donahue michael j,156218023006334,,male,61056600.0
+6278.0,,828944,wsfs financial corp,true,false,false,false,20230815,foster nancy j,156218023006332,,female,61056600.0
+9712.0,,828944,wsfs financial corp,true,false,false,false,20230815,du pont eleuthere i,156218023006331,,male,61056600.0
+10182.0,,828944,wsfs financial corp,true,false,false,false,20230815,calderin diego f.,156218023006330,,male,61056600.0
+26394.0,,828944,wsfs financial corp,true,false,false,false,20230815,buchholz karen dougherty,156218023006329,,female,61056600.0
+18065.0,,828944,wsfs financial corp,true,false,false,false,20230815,brake francis b.,156218023006328,,male,61056600.0
+23564.0,,828944,wsfs financial corp,true,false,false,false,20230815,bird anat,156218023006327,,female,61056600.0
+14220.0,,828944,wsfs financial corp,true,false,false,false,20230815,mckee lynn,156218023006336,,female,61056600.0
+23876.0,,828944,wsfs financial corp,true,false,false,false,20230815,davis jennifer w,156218023006333,,female,61056600.0
+11495.0,,828944,wsfs financial corp,true,false,false,false,20231204,donahue michael j,156218023008041,,male,60731884.0
+19777.0,3813.0,828944,wsfs financial corp,false,true,false,false,20231212,bacci arthur j,156218023008283,Executive Vice President,male,60731884.0
+34693.0,2005.0,828944,wsfs financial corp,false,true,false,false,20231212,brubaker lisa m,156218023008284,"EVP, Chief Technology Officer",female,60731884.0
+131571.0,2011.0,828944,wsfs financial corp,false,true,false,false,20231212,levenson rodger,156218023008288,President & CEO,male,60731884.0
+139186.0,1531.0,828944,wsfs financial corp,false,true,false,false,20231212,ward patrick joseph,156218023008287,Executive Vice President,male,60731884.0
+9569.0,2180.0,828944,wsfs financial corp,false,true,false,false,20231212,kruzinski shari,156218023008286,"EVP, Chief Customer Officer",female,60731884.0
+27566.0,2248.0,828944,wsfs financial corp,false,true,false,false,20231212,clark stephen p,156218023008285,EVP,male,60731884.0
+143610.0,1531.0,828944,wsfs financial corp,false,true,false,false,20231214,ward patrick joseph,156218023008365,Executive Vice President,male,60731884.0
+37157.0,2005.0,828944,wsfs financial corp,false,true,false,false,20231220,brubaker lisa m,156218023008501,"EVP, Chief Technology Officer",female,60731884.0
+20990.0,3706.0,828944,wsfs financial corp,false,true,false,false,20240131,bacci arthur j,156218024000854,Executive Vice President,male,60731884.0
+23837.0,3706.0,828944,wsfs financial corp,false,true,false,false,20240304,bacci arthur j,156218024002128,Executive Vice President,male,60731884.0
+30579.0,2406.0,828944,wsfs financial corp,false,true,false,false,20240304,clark stephen p,156218024002134,EVP,male,60731884.0
+149142.0,1903.0,828944,wsfs financial corp,false,true,false,false,20240304,levenson rodger,156218024002133,President & CEO,male,60731884.0
+39892.0,1949.0,828944,wsfs financial corp,false,true,false,false,20240304,brubaker lisa m,156218024002138,"EVP, CHRO",female,60731884.0
+12225.0,2120.0,828944,wsfs financial corp,false,true,false,false,20240304,kruzinski shari,156218024002131,"EVP, Chief Customer Officer",female,60731884.0
+8830.0,1728.0,828944,wsfs financial corp,false,true,false,false,20240304,davis christine elizabeth,156218024002129,"EVP, Chief Risk Officer",female,60731884.0
+150323.0,1531.0,828944,wsfs financial corp,false,true,false,false,20240304,ward patrick joseph,156218024002132,Executive Vice President,male,60731884.0
+39822.0,1949.0,828944,wsfs financial corp,false,true,false,false,20240319,brubaker lisa m,156218024002847,"EVP, CHRO",female,60731884.0
+148624.0,1903.0,828944,wsfs financial corp,false,true,false,false,20240319,levenson rodger,156218024002849,President & CEO,male,60731884.0
+150250.0,1531.0,828944,wsfs financial corp,false,true,false,false,20240319,ward patrick joseph,156218024002850,Executive Vice President,male,60731884.0
+23736.0,3706.0,828944,wsfs financial corp,false,true,false,false,20240319,bacci arthur j,156218024002851,Executive Vice President,male,60731884.0
+30438.0,2406.0,828944,wsfs financial corp,false,true,false,false,20240319,clark stephen p,156218024002852,EVP,male,60731884.0
+12177.0,2120.0,828944,wsfs financial corp,false,true,false,false,20240319,kruzinski shari,156218024002848,"EVP, Chief Customer Officer",female,60731884.0
+150601.0,1021.0,828944,wsfs financial corp,false,true,false,false,20240410,ward patrick joseph,156218024003377,Executive Vice President,male,60731884.0
+142583.0,1903.0,828944,wsfs financial corp,false,true,false,false,20240417,levenson rodger,156218024003461,President & CEO,male,60731884.0
+11486.0,2120.0,828944,wsfs financial corp,false,true,false,false,20240417,kruzinski shari,156218024003460,"EVP, Chief Customer Officer",female,60731884.0
+28671.0,2406.0,828944,wsfs financial corp,false,true,false,false,20240417,clark stephen p,156218024003459,EVP,male,60731884.0
+149687.0,1021.0,828944,wsfs financial corp,false,true,false,false,20240417,ward patrick joseph,156218024003458,Executive Vice President,male,60731884.0
+22315.0,3706.0,828944,wsfs financial corp,false,true,false,false,20240417,bacci arthur j,156218024003455,Executive Vice President,male,60731884.0
+8286.0,1728.0,828944,wsfs financial corp,false,true,false,false,20240417,davis christine elizabeth,156218024003457,"EVP, Chief Risk Officer",female,60731884.0
+38863.0,1949.0,828944,wsfs financial corp,false,true,false,false,20240417,brubaker lisa m,156218024003456,"EVP, CHRO",female,60731884.0
+25671.0,2406.0,828944,wsfs financial corp,false,true,false,false,20240509,clark stephen p,156218024003939,EVP,male,60093741.0
+25671.0,2406.0,828944,wsfs financial corp,false,true,false,false,20240801,clark stephen p,156218024005932,EVP,male,59269460.0
+22315.0,3706.0,828944,wsfs financial corp,false,true,false,false,20240801,bacci arthur j,156218024005933,Executive Vice President,male,59269460.0
+21530.0,,828944,wsfs financial corp,true,false,false,false,20240813,turner david g,156218024006209,,male,59269460.0
+15421.0,,828944,wsfs financial corp,true,false,false,false,20240813,mckee lynn,156218024006208,,female,59269460.0
+10917.0,,828944,wsfs financial corp,true,false,false,false,20240813,gheysens christopher,156218024006207,,male,59269460.0
+7479.0,,828944,wsfs financial corp,true,false,false,false,20240813,foster nancy j,156218024006206,,female,59269460.0
+9359.0,6105.0,828944,wsfs financial corp,true,false,false,false,20240813,du pont eleuthere i,156218024006205,,male,59269460.0
+12696.0,,828944,wsfs financial corp,true,false,false,false,20240813,donahue michael j,156218024006204,,male,59269460.0
+25077.0,,828944,wsfs financial corp,true,false,false,false,20240813,davis jennifer w,156218024006203,,female,59269460.0
+27595.0,,828944,wsfs financial corp,true,false,false,false,20240813,buchholz karen dougherty,156218024006201,,female,59269460.0
+19266.0,,828944,wsfs financial corp,true,false,false,false,20240813,brake francis b.,156218024006200,,male,59269460.0
+24765.0,,828944,wsfs financial corp,true,false,false,false,20240813,bird anat,156218024006199,,female,59269460.0
+11383.0,,828944,wsfs financial corp,true,false,false,false,20240813,calderin diego f.,156218024006202,,male,59269460.0
+27685.0,,828944,wsfs financial corp,false,true,false,false,20240819,burg david,156218024006368,Executive Vice President,male,59269460.0
+10143.0,,828944,wsfs financial corp,false,true,false,false,20241108,hopkins jamie patrick,156218024007618,Executive Vice President,female,58897850.0
+7285.0,,828944,wsfs financial corp,true,false,false,false,20241209,du pont eleuthere i,156218024008271,,male,58897850.0

@@ -1,67 +1,170 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,grais linda s,118143110007739,,female,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,sobel burton e,118143110007745,,male,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,1.0,0.0,20100209,formela jean francois,118143110007743,,male,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,zabriskie john l,118143110007741,,male,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,pendergast mary k,118143110007736,,female,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,brewer richard b,118143110007734,,male,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,freytag j william,118143110007729,,male,
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,love ted w,118143110007730,,male,
-0.0,0.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20100222,bristow michael r,118143110010950,President and CEO,male,
-0.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100222,wheeler patrick m,118143110010946,acting Chief Financial Officer,male,
-0.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100222,ozeroff christopher david,118143110010942,SVP & GENERAL COUNSEL,male,
-491889.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100330,grais linda s,141330610000001,,female,
-1337612.0,0.0,907654,"arca biopharma, inc.",0,0,1.0,0.0,20100331,atlas venture fund vii l p,110465910017668,,male,
-1337612.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100331,formela jean francois,110465910017667,,male,
-39708.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100528,ozeroff christopher david,118143110030229,SVP & GENERAL COUNSEL,male,
-41758.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100707,ozeroff christopher david,118143110036838,SVP & GENERAL COUNSEL,male,
-0.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20110524,ozeroff christopher david,118143111032440,SVP and General Counsel,male,8834535.0
-0.0,0.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20110524,bristow michael r,118143111032441,President and CEO,male,8834535.0
-0.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20110524,wheeler patrick m,118143111032442,Chief Financial Officer,male,8834535.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,brewer richard b,120919112010201,,male,2030500.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,1.0,0.0,20120214,formela jean francois,120919112010195,,male,2030500.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,grais linda s,120919112010203,,female,2030500.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,sobel burton e,120919112010199,,male,2030500.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,zabriskie john l,120919112010198,,male,2030500.0
-105233.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20121024,ozeroff christopher david,120919112050500,SVP and General Counsel,male,14619598.0
-317379.0,0.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20121024,bristow michael r,120919112050502,President and CEO,male,14619598.0
-1579542.0,0.0,907654,"arca biopharma, inc.",1,0,1.0,0.0,20121024,formela jean francois,120919112050519,,male,14619598.0
-156131.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20121024,zabriskie john l,120919112050503,,male,14619598.0
-834495.0,0.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20121220,bristow michael r,120919112058885,President and CEO,male,15444782.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,freytag j william,118143110007729,,male,
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,love ted w,118143110007730,,male,
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,brewer richard b,118143110007734,,male,
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,pendergast mary k,118143110007736,,female,
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,grais linda s,118143110007739,,female,
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,zabriskie john l,118143110007741,,male,
+,,907654,"arca biopharma, inc.",1,0,1.0,0.0,20100209,formela jean francois,118143110007743,,male,
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100209,sobel burton e,118143110007745,,male,
+,,907654,"arca biopharma, inc.",1,1,0.0,0.0,20100222,bristow michael r,118143110010950,President and CEO,male,
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100222,wheeler patrick m,118143110010946,acting Chief Financial Officer,male,
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100222,ozeroff christopher david,118143110010942,SVP & GENERAL COUNSEL,male,
+491889.0,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100330,grais linda s,141330610000001,,female,
+1337612.0,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20100331,formela jean francois,110465910017667,,male,
+1337612.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20100331,atlas venture fund vii l p,110465910017668,,male,
+39708.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100528,ozeroff christopher david,118143110030229,SVP & GENERAL COUNSEL,male,
+41758.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20100707,ozeroff christopher david,118143110036838,SVP & GENERAL COUNSEL,male,
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20110524,ozeroff christopher david,118143111032440,SVP and General Counsel,male,8834535.0
+,,907654,"arca biopharma, inc.",1,1,0.0,0.0,20110524,bristow michael r,118143111032441,President and CEO,male,8834535.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20110524,wheeler patrick m,118143111032442,Chief Financial Officer,male,8834535.0
+,,907654,"arca biopharma, inc.",1,0,1.0,0.0,20120214,formela jean francois,120919112010195,,male,2030500.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,zabriskie john l,120919112010198,,male,2030500.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,sobel burton e,120919112010199,,male,2030500.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,brewer richard b,120919112010201,,male,2030500.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20120214,grais linda s,120919112010203,,female,2030500.0
+156131.0,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20121024,zabriskie john l,120919112050503,,male,14619598.0
+105233.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20121024,ozeroff christopher david,120919112050500,SVP and General Counsel,male,14619598.0
+317379.0,,907654,"arca biopharma, inc.",1,1,0.0,0.0,20121024,bristow michael r,120919112050502,President and CEO,male,14619598.0
+1579542.0,,907654,"arca biopharma, inc.",1,0,1.0,0.0,20121024,formela jean francois,120919112050519,,male,14619598.0
+834495.0,,907654,"arca biopharma, inc.",1,1,0.0,0.0,20121220,bristow michael r,120919112058885,President and CEO,male,15444782.0
 1069290.0,834495.0,907654,"arca biopharma, inc.",1,1,1.0,0.0,20130128,bristow michael r,120919113004660,President and CEO,male,2660315.0
-0.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20130606,bristow michael r,120919113031109,President and CEO,male,3185562.0
+,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20130606,bristow michael r,120919113031109,President and CEO,male,3185562.0
 124778.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20130614,bristow michael r,120919113032224,President and CEO,male,3185562.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130730,zabriskie john l,120919113038351,,male,10096162.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130730,grais linda s,120919113038352,,female,10096162.0
-75556.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20130919,wheeler patrick m,120919113044980,Chief Financial Officer,male,10950762.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,woosley raymond l.,120919113044979,,male,10950762.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130730,grais linda s,120919113038352,,female,10096162.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130730,zabriskie john l,120919113038351,,male,10096162.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,conway robert e,120919113044976,,male,10950762.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,grais linda s,120919113044977,,female,10950762.0
 249778.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20130919,bristow michael r,120919113044978,Pres & CEO,male,10950762.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,grais linda s,120919113044977,,female,10950762.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,conway robert e,120919113044976,,male,10950762.0
-92537.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20130919,ozeroff christopher david,120919113044975,"S.V.P., General Counsel",male,10950762.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,zabriskie john l,120919113044981,,male,10950762.0
-3000000.0,0.0,907654,"arca biopharma, inc.",0,0,1.0,0.0,20140204,mccormack riley,113626114000042,,male,15685562.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20140213,grais linda s,120919114010352,,female,15685562.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20140213,conway robert e,120919114010360,,male,15685562.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20140213,woosley raymond l.,120919114010362,,male,15685562.0
-126737.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20140303,ozeroff christopher david,120919114015847,"S.V.P., General Counsel",male,15685562.0
-109756.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20140303,wheeler patrick m,120919114015851,Chief Financial Officer,male,15685562.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,woosley raymond l.,120919113044979,,male,10950762.0
+75556.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20130919,wheeler patrick m,120919113044980,Chief Financial Officer,male,10950762.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20130919,zabriskie john l,120919113044981,,male,10950762.0
+92537.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20130919,ozeroff christopher david,120919113044975,"S.V.P., General Counsel",male,10950762.0
+,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20140204,mccormack riley,113626114000042,,male,15685562.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20140213,woosley raymond l.,120919114010362,,male,15685562.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20140213,grais linda s,120919114010352,,female,15685562.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20140213,conway robert e,120919114010360,,male,15685562.0
 306478.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20140303,bristow michael r,120919114015845,President and CEO,male,15685562.0
+126737.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20140303,ozeroff christopher david,120919114015847,"S.V.P., General Counsel",male,15685562.0
+109756.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20140303,wheeler patrick m,120919114015851,Chief Financial Officer,male,15685562.0
 292625.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20140919,bristow michael r,120919114058829,President and CEO,male,21010815.0
-101510.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20140919,wheeler patrick m,120919114058834,Chief Financial Officer,male,21010815.0
-2450000.0,0.0,907654,"arca biopharma, inc.",0,0,1.0,0.0,20150107,mccormack riley,113626115000009,,male,3021498.0
-2100000.0,0.0,907654,"arca biopharma, inc.",0,0,1.0,0.0,20150116,mccormack riley,113626115000010,,male,3021498.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,mitchell daniel j,120919115014704,,male,3021498.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,grais linda s,120919115014711,,female,3021498.0
-34566.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150217,selby brian l.,120919115014712,"VP, Finance",male,3021498.0
+101510.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20140919,wheeler patrick m,120919114058834,Chief Financial Officer,male,21010815.0
+,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20150107,mccormack riley,113626115000009,,male,3021498.0
+,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20150116,mccormack riley,113626115000010,,male,3021498.0
+126626.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150217,keuer thomas a,120919115014734,Chief Operating Officer,male,3021498.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,conway robert e,120919115014729,,male,3021498.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,mitchell daniel j,120919115014704,,male,3021498.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,woosley raymond l.,120919115014714,,male,3021498.0
 340725.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20150217,bristow michael r,120919115014713,President and CEO,male,3021498.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,woosley raymond l.,120919115014714,,male,3021498.0
-150787.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150217,ozeroff christopher david,120919115014720,"S.V.P., General Counsel",male,3021498.0
-0.0,0.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,conway robert e,120919115014729,,male,3021498.0
-126626.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150217,keuer thomas a,120919115014734,Chief Operating Officer,male,3021498.0
+34566.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150217,selby brian l.,120919115014712,"VP, Finance",male,3021498.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20150217,grais linda s,120919115014711,,female,3021498.0
+150787.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150217,ozeroff christopher david,120919115014720,"S.V.P., General Counsel",male,3021498.0
+33441.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150302,selby brian l.,120919115020299,"VP, Finance",male,3021498.0
 335279.0,317297.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20150302,bristow michael r,120919115020302,See Remarks,male,3021498.0
-33441.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150302,selby brian l.,120919115020299,"VP, Finance",male,3021498.0
-20409.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,ozeroff christopher david,89924315005095,"S.V.P., General Counsel",male,63219990.0
-4300.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,selby brian l.,89924315005096,"VP, Finance",male,63219990.0
 46086.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20150921,bristow michael r,89924315005097,See Remarks,male,63219990.0
-17407.0,0.0,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,keuer thomas a,89924315005094,Chief Operating Officer,male,63219990.0
+4300.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,selby brian l.,89924315005096,"VP, Finance",male,63219990.0
+17407.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,keuer thomas a,89924315005094,Chief Operating Officer,male,63219990.0
+20409.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,ozeroff christopher david,89924315005095,"S.V.P., General Counsel",male,63219990.0
+17407.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,keuer thomas a,89924315005094,Chief Operating Officer,male,63219990.0
+46086.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20150921,bristow michael r,89924315005097,See Remarks,male,63219990.0
+4300.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,selby brian l.,89924315005096,"VP, Finance",male,63219990.0
+20409.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20150921,ozeroff christopher david,89924315005095,"S.V.P., General Counsel",male,63219990.0
+16938.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20151019,keuer thomas a,89924315006854,Chief Operating Officer,male,9049789.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20160216,conway robert e,89924316013383,,male,9051217.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20160216,mitchell daniel j,89924316013384,,male,9051217.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20160216,woosley raymond l.,89924316013385,,male,9051217.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20160216,grais linda s,89924316013386,,female,9051217.0
+4140.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160302,selby brian l.,89924316014984,"VP, Finance",male,9051217.0
+45334.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20160302,bristow michael r,89924316014985,See Remarks,male,9051217.0
+19951.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160302,ozeroff christopher david,89924316014987,"S.V.P., General Counsel",male,9051217.0
+16481.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160302,keuer thomas a,89924316014988,Chief Operating Officer,male,9051217.0
+16097.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160406,keuer thomas a,89924316017728,Chief Operating Officer,male,9056647.0
+3026.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160406,selby brian l.,89924316017726,"VP, Finance",male,9056647.0
+19585.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160406,ozeroff christopher david,89924316017727,"S.V.P., General Counsel",male,9056647.0
+44610.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20160406,bristow michael r,89924316017729,See Remarks,male,9056647.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160613,keuer thomas a,120919116127438,Chief Operating Officer,male,9056647.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160613,ozeroff christopher david,120919116127436,"S.V.P., General Counsel",male,9056647.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160613,selby brian l.,120919116127434,"VP, Finance",male,9056647.0
+,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20160613,bristow michael r,120919116127439,Pres. & Chief Executive Offic,male,9056647.0
+2550.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160921,selby brian l.,120919116142255,"VP, Finance",male,9066348.0
+18400.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160921,ozeroff christopher david,120919116142259,"S.V.P., General Counsel",male,9066348.0
+15383.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20160921,keuer thomas a,120919116142260,Chief Operating Officer,male,9066348.0
+42638.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20160921,bristow michael r,120919116142261,Pres. & Chief Executive Offic,male,9066348.0
+14900.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20161018,keuer thomas a,120919116146208,Chief Operating Officer,male,9080703.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170221,conway robert e,120919117012758,,male,9082366.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170221,selby brian l.,120919117012760,"VP, Finance",male,9082366.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170221,ozeroff christopher david,120919117012759,"S.V.P., General Counsel",male,9082366.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170221,grais linda s,120919117012803,,female,9082366.0
+,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20170221,bristow michael r,120919117012757,Pres. & Chief Executive Offic,male,9082366.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170221,mitchell daniel j,120919117012763,,male,9082366.0
+,1541331.0,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170221,hove anders d,120919117012755,,male,9082366.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170221,keuer thomas a,120919117012752,Chief Operating Officer,male,9082366.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170221,woosley raymond l.,120919117012756,,male,9082366.0
+2389.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170301,selby brian l.,120919117015990,"VP, Finance",male,9082366.0
+41875.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20170301,bristow michael r,120919117015978,Pres. & Chief Executive Offic,male,9082366.0
+14435.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170301,keuer thomas a,120919117015981,Chief Operating Officer,male,9082366.0
+17935.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170301,ozeroff christopher david,120919117015984,"S.V.P., General Counsel",male,9082366.0
+25000.0,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170327,conway robert e,120919117022934,,male,9130926.0
+1275.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170405,selby brian l.,120919117025624,"VP, Finance",male,9172868.0
+17517.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170405,ozeroff christopher david,120919117025622,"S.V.P., General Counsel",male,9172868.0
+41155.0,45445.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20170405,bristow michael r,120919117025617,Pres. & Chief Executive Offic,male,9172868.0
+14045.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20170405,keuer thomas a,120919117025619,Chief Operating Officer,male,9172868.0
+11000.0,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20170503,mitchell daniel j,120919117029621,,male,9172868.0
+35000.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20170717,conway robert e,120919117045336,,male,10116586.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,sakoda jon,120919118013937,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,barris peter j,120919118013928,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,baskett forest,120919118013931,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,florence anthony a. jr.,120919118013932,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,makower joshua,120919118013935,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,mott david m,120919118013936,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,sandell scott d,120919118013939,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,viswanathan ravi,120919118013942,,male,11775062.0
+0.0,,907654,"arca biopharma, inc.",0,0,1.0,0.0,20180227,sonsini peter w.,120919118013940,,male,11775062.0
+1114.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20180301,selby brian l.,120919118015074,"VP, Finance",male,11775062.0
+13635.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20180301,keuer thomas a,120919118015077,Chief Operating Officer,male,11775062.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20180305,hove anders d,120919118016685,,male,11775062.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20180305,mitchell daniel j,120919118016689,,male,11775062.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20180305,grais linda s,120919118016691,,female,11775062.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20180305,woosley raymond l.,120919118016693,,male,11775062.0
+,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20180305,conway robert e,120919118016698,,male,11775062.0
+13153.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20180403,keuer thomas a,120919118023122,Chief Operating Officer,male,13914320.0
+0.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20180403,selby brian l.,120919118023118,"VP, Finance",male,13914320.0
+11944.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20200921,conway robert e,120919120051302,,male,5905284.0
+15000.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20200924,conway robert e,120919120051890,,male,5905284.0
+20000.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20200925,conway robert e,120919120052094,,male,5905284.0
+30000.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20201221,conway robert e,120919120064624,,male,9321470.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20201223,selby brian l.,120919120065001,"VP, Finance",male,9321470.0
+,2523.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20201223,bristow michael r,120919120065002,Pres. & Chief Executive Offic,male,9321470.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20201223,ozeroff christopher david,120919120065003,"S.V.P., General Counsel",male,9321470.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20201223,keuer thomas a,120919120065028,Chief Operating Officer,male,9321470.0
+,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20210113,conway robert e,120919121003468,,male,9548150.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20210113,mitchell daniel j,120919121003469,,male,9548150.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20210113,grais linda,120919121003470,,female,9548150.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20210113,woosley raymond l.,120919121003471,,male,9548150.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20210113,hove anders d,120919121003472,,male,9548150.0
+40000.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20210506,conway robert e,120919121030629,,male,14410143.0
+50000.0,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20210513,conway robert e,120919121032381,,male,14410143.0
+50970.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20211123,ozeroff christopher david,120919121066497,"S.V.P., General Counsel",male,14410143.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20211216,ozeroff christopher david,120919121069964,"S.V.P., General Counsel",male,14410143.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20211216,keuer thomas a,120919121069963,Chief Operating Officer,male,14410143.0
+,2523.0,907654,"arca biopharma, inc.",1,1,0.0,0.0,20211216,bristow michael r,120919121069960,Pres. & Chief Executive Offic,male,14410143.0
+,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20211216,dekker c. jeffrey,120919121069962,Chief Financial Officer,male,14410143.0
+1944993.0,,907654,"arca biopharma, inc.",0,0,0.0,1.0,20220404,"funicular fund, lp",92189522001091,,male,14410143.0
+,2580452.0,907654,"arca biopharma, inc.",1,0,1.0,1.0,20220621,ma-weaver jacob,92189522002055,,male,14410143.0
+2580452.0,,907654,"arca biopharma, inc.",0,0,1.0,1.0,20220708,"funicular funds, lp",92189522002200,,male,14410143.0
+40730.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20221209,keuer thomas a,120919122060498,Chief Operating Officer,male,14410143.0
+40000.0,,907654,"arca biopharma, inc.",0,1,0.0,0.0,20221209,dekker c. jeffrey,120919122060497,Chief Financial Officer,male,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20221219,conway robert e,120919122061901,,male,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20221219,grais linda,120919122061908,,female,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20221219,mitchell daniel j,120919122061919,,male,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20221219,woosley raymond l.,120919122061923,,male,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20221219,flynn james p,120919122061897,,male,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20221219,hove anders d,120919122061911,,male,14410143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20240131,woosley raymond l.,120919124002476,,male,14501143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20240131,grais linda,120919124002477,,female,14501143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,1.0,20240131,conway robert e,120919124002478,,male,14501143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20240131,flynn james p,120919124002479,,male,14501143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20240131,mitchell daniel j,120919124002480,,male,14501143.0
+,,907654,"arca biopharma, inc.",1,0,0.0,0.0,20240131,hove anders d,120919124002481,,male,14501143.0
+,,907654,"arca biopharma, inc.",1,0,1.0,1.0,20240131,ma-weaver jacob,192214024000001,,male,14501143.0
+,,907654,"arca biopharma, inc.",0,0,0.0,1.0,20240830,ma-weaver jacob,193714724000007,,male,14507143.0

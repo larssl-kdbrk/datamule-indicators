@@ -1,195 +1,525 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-8034.0,0.0,31235,eastman kodak co,0,1,0,0,20100105,taber terry r,3123510000002,Chief Technical Officer,male,268630514.0
-55425.0,0.0,31235,eastman kodak co,0,1,0,0,20100105,sklarsky frank s,3123510000004,Executive Vice President,male,268630514.0
-408.0,0.0,31235,eastman kodak co,0,1,0,0,20100105,samuels eric,3123510000006,Controller,male,268630514.0
-194560.0,0.0,31235,eastman kodak co,1,1,0,0,20100105,perez antonio m,3123510000009,"President, Chairman & CEO",male,268630514.0
-2214.0,53.239,31235,eastman kodak co,0,1,0,0,20100105,kruchten brad,3123510000011,Senior Vice President,male,268630514.0
-18998.01,14698.5292,31235,eastman kodak co,0,1,0,0,20100105,haag joyce p,3123510000013,Senior Vice President,female,268630514.0
-42543.0,0.0,31235,eastman kodak co,0,1,0,0,20100105,faraci philip j,3123510000015,President & COO,male,268630514.0
-23948.0,23.282,31235,eastman kodak co,0,1,0,0,20100105,berman robert l,3123510000017,Senior Vice President,male,268630514.0
-142265.0,0.0,31235,eastman kodak co,1,0,0,0,20100106,braddock richard s,3123510000019,,male,268630514.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20100106,clammer adam,3123510000021,,male,268630514.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20100106,lebda douglas r,3123510000023,,male,268630514.0
-19034.0,0.0,31235,eastman kodak co,1,0,0,0,20100106,seligman joel,3123510000025,,male,268630514.0
-0.0,23.282,31235,eastman kodak co,0,1,0,0,20100224,berman robert l,3123510000054,Senior Vice President,male,268630514.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20100224,faraci philip j,3123510000052,President & COO,male,268630514.0
-0.0,14698.5292,31235,eastman kodak co,0,1,0,0,20100224,haag joyce p,3123510000050,Senior Vice President,female,268630514.0
-0.0,2267.239,31235,eastman kodak co,0,1,0,0,20100224,kruchten brad,3123510000048,Senior Vice President,male,268630514.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20100224,taber terry r,3123510000040,Chief Technical Officer,male,268630514.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20100224,samuels eric,3123510000044,Controller,male,268630514.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20100224,sklarsky frank s,3123510000042,Executive Vice President,male,268630514.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20100224,perez antonio m,3123510000046,"President, Chairman & CEO",male,268630514.0
-41892.0,0.0,31235,eastman kodak co,0,1,0,0,20100302,faraci philip j,3123510000056,President & COO,male,268630514.0
-191120.0,0.0,31235,eastman kodak co,1,1,0,0,20100302,perez antonio m,3123510000058,"President, Chairman & CEO",male,268630514.0
-6609.0,2267.239,31235,eastman kodak co,0,1,0,0,20100514,kruchten brad,3123510000066,Senior Vice President,male,268630514.0
-177254.0,0.0,31235,eastman kodak co,1,1,0,0,20100603,perez antonio m,3123510000071,"President, Chairman & CEO",male,268630514.0
-21322.0,0.0,31235,eastman kodak co,1,0,0,0,20100702,seligman joel,3123510000084,,male,268630514.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20100702,lebda douglas r,3123510000082,,male,268630514.0
-151418.0,0.0,31235,eastman kodak co,1,0,0,0,20100702,braddock richard s,3123510000078,,male,268630514.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20100702,clammer adam,3123510000080,,male,268630514.0
+8034.0,,31235,eastman kodak co,0,1,0,0,20100105,taber terry r,3123510000002,Chief Technical Officer,male,
+42543.0,,31235,eastman kodak co,0,1,0,0,20100105,faraci philip j,3123510000015,President & COO,male,
+18998.01,14698.5292,31235,eastman kodak co,0,1,0,0,20100105,haag joyce p,3123510000013,Senior Vice President,female,
+2214.0,53.239,31235,eastman kodak co,0,1,0,0,20100105,kruchten brad,3123510000011,Senior Vice President,male,
+23948.0,23.282,31235,eastman kodak co,0,1,0,0,20100105,berman robert l,3123510000017,Senior Vice President,male,
+194560.0,,31235,eastman kodak co,1,1,0,0,20100105,perez antonio m,3123510000009,"President, Chairman & CEO",male,
+408.0,,31235,eastman kodak co,0,1,0,0,20100105,samuels eric,3123510000006,Controller,male,
+55425.0,,31235,eastman kodak co,0,1,0,0,20100105,sklarsky frank s,3123510000004,Executive Vice President,male,
+,,31235,eastman kodak co,1,0,0,0,20100106,lebda douglas r,3123510000023,,male,
+142265.0,,31235,eastman kodak co,1,0,0,0,20100106,braddock richard s,3123510000019,,male,
+,,31235,eastman kodak co,1,0,0,0,20100106,clammer adam,3123510000021,,male,
+19034.0,,31235,eastman kodak co,1,0,0,0,20100106,seligman joel,3123510000025,,male,
+,2267.239,31235,eastman kodak co,0,1,0,0,20100224,kruchten brad,3123510000048,Senior Vice President,male,
+,,31235,eastman kodak co,1,1,0,0,20100224,perez antonio m,3123510000046,"President, Chairman & CEO",male,
+,,31235,eastman kodak co,0,1,0,0,20100224,samuels eric,3123510000044,Controller,male,
+,,31235,eastman kodak co,0,1,0,0,20100224,sklarsky frank s,3123510000042,Executive Vice President,male,
+,,31235,eastman kodak co,0,1,0,0,20100224,faraci philip j,3123510000052,President & COO,male,
+,14698.5292,31235,eastman kodak co,0,1,0,0,20100224,haag joyce p,3123510000050,Senior Vice President,female,
+,23.282,31235,eastman kodak co,0,1,0,0,20100224,berman robert l,3123510000054,Senior Vice President,male,
+,,31235,eastman kodak co,0,1,0,0,20100224,taber terry r,3123510000040,Chief Technical Officer,male,
+191120.0,,31235,eastman kodak co,1,1,0,0,20100302,perez antonio m,3123510000058,"President, Chairman & CEO",male,
+41892.0,,31235,eastman kodak co,0,1,0,0,20100302,faraci philip j,3123510000056,President & COO,male,
+6609.0,2267.239,31235,eastman kodak co,0,1,0,0,20100514,kruchten brad,3123510000066,Senior Vice President,male,
+177254.0,,31235,eastman kodak co,1,1,0,0,20100603,perez antonio m,3123510000071,"President, Chairman & CEO",male,
+151418.0,,31235,eastman kodak co,1,0,0,0,20100702,braddock richard s,3123510000078,,male,
+,,31235,eastman kodak co,1,0,0,0,20100702,clammer adam,3123510000080,,male,
+,,31235,eastman kodak co,1,0,0,0,20100702,lebda douglas r,3123510000082,,male,
+21322.0,,31235,eastman kodak co,1,0,0,0,20100702,seligman joel,3123510000084,,male,
 10988.0,53.239,31235,eastman kodak co,0,1,0,0,20100920,kruchten brad,3123510000092,Senior Vice President,male,268652912.0
-4427.0,0.0,31235,eastman kodak co,0,1,0,0,20100920,samuels eric,3123510000094,Controller,male,268652912.0
-100000.0,0.0,31235,eastman kodak co,0,1,0,0,20101021,jotwani pradeep,3123510000105,Senior Vice President,male,268652912.0
-46369.0,0.0,31235,eastman kodak co,0,1,0,0,20101102,sklarsky frank s,3123510000114,Executive Vice President,male,268876597.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20101215,mccorvey antoinette p,3123510000121,Senior Vice President,female,268876597.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20101215,taber terry r,3123510000123,Chief Technical Officer,male,268876597.0
-158511.0,0.0,31235,eastman kodak co,1,0,0,0,20110105,braddock richard s,3123511000004,,male,268898978.0
-23095.0,0.0,31235,eastman kodak co,1,0,0,0,20110105,seligman joel,3123511000002,,male,268898978.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110105,lebda douglas r,3123511000006,,male,268898978.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110105,clammer adam,3123511000008,,male,268898978.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110105,chen herald y,3123511000010,,male,268898978.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110127,quatela laura,3123511000018,Senior Vice President,female,268898978.0
-6973.0,0.0,31235,eastman kodak co,1,0,0,0,20110215,parrett william g,3123511000022,,male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,taber terry r,3123511000056,Chief Technical Officer,male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,samuels eric,3123511000058,Controller,male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,quatela laura,3123511000060,Senior Vice President,female,268882900.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20110302,perez antonio m,3123511000062,"President, Chairman & CEO",male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,oviedo gustavo,3123511000064,Vice President,male,268882900.0
-177848.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,braddock richard s,3123511000054,,male,268882900.0
-0.0,11041.239,31235,eastman kodak co,0,1,0,0,20110302,kruchten brad,3123511000068,Senior Vice President,male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,jotwani pradeep,3123511000070,Senior Vice President,male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,faraci philip j,3123511000072,President & COO,male,268882900.0
-0.0,23.282,31235,eastman kodak co,0,1,0,0,20110302,berman robert l,3123511000074,Senior Vice President,male,268882900.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20110302,mccorvey antoinette p,3123511000066,Senior Vice President,female,268882900.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,chen herald y,3123511000052,,male,268882900.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,hernandez william h,3123511000044,,male,268882900.0
-53403.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,donahue timothy m,3123511000048,,male,268882900.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,tyson laura d,3123511000028,,female,268882900.0
-42432.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,seligman joel,3123511000032,,male,268882900.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,parrett william g,3123511000034,,male,268882900.0
-44877.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,lewis delano e,3123511000036,,male,268882900.0
-42707.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,strigl dennis f,3123511000030,,male,268882900.0
-29095.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,lee debra l,3123511000040,,female,268882900.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,lebda douglas r,3123511000042,,male,268882900.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,clammer adam,3123511000050,,male,268882900.0
-47790.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,hawley michael,3123511000046,,male,268882900.0
-19337.0,0.0,31235,eastman kodak co,1,0,0,0,20110302,legg kyle p,3123511000038,,female,268882900.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20110318,perez antonio m,3123511000080,"President, Chairman & CEO",male,268882900.0
-24651.0,0.0,31235,eastman kodak co,1,0,0,0,20110505,legg kyle p,3123511000087,,female,269038172.0
-246848.0,0.0,31235,eastman kodak co,1,0,0,0,20110513,braddock richard s,3123511000089,,male,269038172.0
-35655.0,0.0,31235,eastman kodak co,0,1,0,0,20110517,mccorvey antoinette p,3123511000093,Senior Vice President,female,269038172.0
-203921.0,0.0,31235,eastman kodak co,1,1,0,0,20110517,perez antonio m,3123511000095,"President, Chairman & CEO",male,269038172.0
-241919.9542,0.0,31235,eastman kodak co,1,1,0,0,20110519,perez antonio m,3123511000097,"President, Chairman & CEO",male,269038172.0
-2582.0,0.0,31235,eastman kodak co,0,1,0,0,20110520,jotwani pradeep,3123511000099,Senior Vice President,male,269038172.0
-31582.0,0.0,31235,eastman kodak co,0,1,0,0,20110606,jotwani pradeep,3123511000101,Senior Vice President,male,269038172.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110708,chen herald y,3123511000111,,male,269038172.0
-261032.0,0.0,31235,eastman kodak co,1,0,0,0,20110708,braddock richard s,3123511000113,,male,269038172.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110708,lebda douglas r,3123511000107,,male,269038172.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20110708,clammer adam,3123511000109,,male,269038172.0
+4427.0,,31235,eastman kodak co,0,1,0,0,20100920,samuels eric,3123510000094,Controller,male,268652912.0
+100000.0,,31235,eastman kodak co,0,1,0,0,20101021,jotwani pradeep,3123510000105,Senior Vice President,male,268652912.0
+46369.0,,31235,eastman kodak co,0,1,0,0,20101102,sklarsky frank s,3123510000114,Executive Vice President,male,268876597.0
+,,31235,eastman kodak co,0,1,0,0,20101215,mccorvey antoinette p,3123510000121,Senior Vice President,female,268876597.0
+,,31235,eastman kodak co,0,1,0,0,20101215,taber terry r,3123510000123,Chief Technical Officer,male,268876597.0
+,,31235,eastman kodak co,1,0,0,0,20110105,chen herald y,3123511000010,,male,268898978.0
+,,31235,eastman kodak co,1,0,0,0,20110105,clammer adam,3123511000008,,male,268898978.0
+,,31235,eastman kodak co,1,0,0,0,20110105,lebda douglas r,3123511000006,,male,268898978.0
+158511.0,,31235,eastman kodak co,1,0,0,0,20110105,braddock richard s,3123511000004,,male,268898978.0
+23095.0,,31235,eastman kodak co,1,0,0,0,20110105,seligman joel,3123511000002,,male,268898978.0
+,,31235,eastman kodak co,0,1,0,0,20110127,quatela laura,3123511000018,Senior Vice President,female,268898978.0
+6973.0,,31235,eastman kodak co,1,0,0,0,20110215,parrett william g,3123511000022,,male,268882900.0
+,,31235,eastman kodak co,1,1,0,0,20110302,perez antonio m,3123511000062,"President, Chairman & CEO",male,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,quatela laura,3123511000060,Senior Vice President,female,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,oviedo gustavo,3123511000064,Vice President,male,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,mccorvey antoinette p,3123511000066,Senior Vice President,female,268882900.0
+,23.282,31235,eastman kodak co,0,1,0,0,20110302,berman robert l,3123511000074,Senior Vice President,male,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,jotwani pradeep,3123511000070,Senior Vice President,male,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,faraci philip j,3123511000072,President & COO,male,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,samuels eric,3123511000058,Controller,male,268882900.0
+,,31235,eastman kodak co,1,0,0,0,20110302,clammer adam,3123511000050,,male,268882900.0
+,11041.239,31235,eastman kodak co,0,1,0,0,20110302,kruchten brad,3123511000068,Senior Vice President,male,268882900.0
+47790.0,,31235,eastman kodak co,1,0,0,0,20110302,hawley michael,3123511000046,,male,268882900.0
+53403.0,,31235,eastman kodak co,1,0,0,0,20110302,donahue timothy m,3123511000048,,male,268882900.0
+,,31235,eastman kodak co,1,0,0,0,20110302,lebda douglas r,3123511000042,,male,268882900.0
+,,31235,eastman kodak co,1,0,0,0,20110302,hernandez william h,3123511000044,,male,268882900.0
+,,31235,eastman kodak co,1,0,0,0,20110302,chen herald y,3123511000052,,male,268882900.0
+177848.0,,31235,eastman kodak co,1,0,0,0,20110302,braddock richard s,3123511000054,,male,268882900.0
+,,31235,eastman kodak co,0,1,0,0,20110302,taber terry r,3123511000056,Chief Technical Officer,male,268882900.0
+,,31235,eastman kodak co,1,0,0,0,20110302,tyson laura d,3123511000028,,female,268882900.0
+29095.0,,31235,eastman kodak co,1,0,0,0,20110302,lee debra l,3123511000040,,female,268882900.0
+42432.0,,31235,eastman kodak co,1,0,0,0,20110302,seligman joel,3123511000032,,male,268882900.0
+,,31235,eastman kodak co,1,0,0,0,20110302,parrett william g,3123511000034,,male,268882900.0
+44877.0,,31235,eastman kodak co,1,0,0,0,20110302,lewis delano e,3123511000036,,male,268882900.0
+42707.0,,31235,eastman kodak co,1,0,0,0,20110302,strigl dennis f,3123511000030,,male,268882900.0
+19337.0,,31235,eastman kodak co,1,0,0,0,20110302,legg kyle p,3123511000038,,female,268882900.0
+,,31235,eastman kodak co,1,1,0,0,20110318,perez antonio m,3123511000080,"President, Chairman & CEO",male,268882900.0
+24651.0,,31235,eastman kodak co,1,0,0,0,20110505,legg kyle p,3123511000087,,female,269038172.0
+246848.0,,31235,eastman kodak co,1,0,0,0,20110513,braddock richard s,3123511000089,,male,269038172.0
+35655.0,,31235,eastman kodak co,0,1,0,0,20110517,mccorvey antoinette p,3123511000093,Senior Vice President,female,269038172.0
+203921.0,,31235,eastman kodak co,1,1,0,0,20110517,perez antonio m,3123511000095,"President, Chairman & CEO",male,269038172.0
+241919.9542,,31235,eastman kodak co,1,1,0,0,20110519,perez antonio m,3123511000097,"President, Chairman & CEO",male,269038172.0
+2582.0,,31235,eastman kodak co,0,1,0,0,20110520,jotwani pradeep,3123511000099,Senior Vice President,male,269038172.0
+31582.0,,31235,eastman kodak co,0,1,0,0,20110606,jotwani pradeep,3123511000101,Senior Vice President,male,269038172.0
+,,31235,eastman kodak co,1,0,0,0,20110708,lebda douglas r,3123511000107,,male,269038172.0
+,,31235,eastman kodak co,1,0,0,0,20110708,clammer adam,3123511000109,,male,269038172.0
+,,31235,eastman kodak co,1,0,0,0,20110708,chen herald y,3123511000111,,male,269038172.0
+261032.0,,31235,eastman kodak co,1,0,0,0,20110708,braddock richard s,3123511000113,,male,269038172.0
+29192.0,,31235,eastman kodak co,0,1,0,0,20110920,quatela laura,3123511000125,Senior Vice President,female,269038172.0
+8447.0,,31235,eastman kodak co,0,1,0,0,20110920,samuels eric,3123511000127,Controller,male,269038172.0
+42874.0,,31235,eastman kodak co,0,1,0,0,20110920,mccorvey antoinette p,3123511000121,Senior Vice President,female,269038172.0
+20790.0,,31235,eastman kodak co,0,1,0,0,20110920,oviedo gustavo,3123511000123,Vice President,male,269038172.0
 19762.0,53.239,31235,eastman kodak co,0,1,0,0,20110920,kruchten brad,3123511000119,Senior Vice President,male,269038172.0
-42874.0,0.0,31235,eastman kodak co,0,1,0,0,20110920,mccorvey antoinette p,3123511000121,Senior Vice President,female,269038172.0
-20790.0,0.0,31235,eastman kodak co,0,1,0,0,20110920,oviedo gustavo,3123511000123,Vice President,male,269038172.0
-29192.0,0.0,31235,eastman kodak co,0,1,0,0,20110920,quatela laura,3123511000125,Senior Vice President,female,269038172.0
-8447.0,0.0,31235,eastman kodak co,0,1,0,0,20110920,samuels eric,3123511000127,Controller,male,269038172.0
-21158.0,0.0,31235,eastman kodak co,0,1,0,0,20110930,samuels eric,3123511000132,Controller,male,269038172.0
-52036.0,0.0,31235,eastman kodak co,0,1,0,0,20110930,mccorvey antoinette p,3123511000134,Senior Vice President,female,269038172.0
+52036.0,,31235,eastman kodak co,0,1,0,0,20110930,mccorvey antoinette p,3123511000134,Senior Vice President,female,269038172.0
+21158.0,,31235,eastman kodak co,0,1,0,0,20110930,samuels eric,3123511000132,Controller,male,269038172.0
 22740.0,23.282,31235,eastman kodak co,0,1,0,0,20111214,berman robert l,3123511000140,Senior Vice President,male,269954791.0
 44695.0,23.282,31235,eastman kodak co,0,1,0,0,20120105,berman robert l,3123512000022,Senior Vice President,male,271379883.0
-95671.0,0.0,31235,eastman kodak co,0,1,0,0,20120105,faraci philip j,3123512000020,President & COO,male,271379883.0
+95671.0,,31235,eastman kodak co,0,1,0,0,20120105,faraci philip j,3123512000020,President & COO,male,271379883.0
+57218.0,,31235,eastman kodak co,0,1,0,0,20120105,mccorvey antoinette p,3123512000016,Senior Vice President,female,271379883.0
 30687.0,53.239,31235,eastman kodak co,0,1,0,0,20120105,kruchten brad,3123512000018,Senior Vice President,male,271379883.0
-57218.0,0.0,31235,eastman kodak co,0,1,0,0,20120105,mccorvey antoinette p,3123512000016,Senior Vice President,female,271379883.0
-36356.0,0.0,31235,eastman kodak co,0,1,0,0,20120105,oviedo gustavo,3123512000014,Vice President,male,271379883.0
-22779.0,0.0,31235,eastman kodak co,0,1,0,0,20120105,samuels eric,3123512000008,Controller,male,271379883.0
-32854.0,0.0,31235,eastman kodak co,0,1,0,0,20120105,quatela laura,3123512000010,Senior Vice President,female,271379883.0
-18732.0,0.0,31235,eastman kodak co,0,1,0,0,20120105,taber terry r,3123512000006,Chief Technical Officer,male,271379883.0
-322570.0,0.0,31235,eastman kodak co,1,0,0,0,20120105,braddock richard s,3123512000004,,male,271379883.0
-407012.0,0.0,31235,eastman kodak co,1,1,0,0,20120105,perez antonio m,3123512000012,"President, Chairman & CEO",male,271379883.0
-44168.0,0.0,31235,eastman kodak co,0,1,0,0,20120224,quatela laura,3123512000032,President,female,271379883.0
-26893.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,samuels eric,3123512000051,Controller,male,271379883.0
-24697.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,taber terry r,3123512000055,Chief Technical Officer,male,271379883.0
-14495.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,sheller patrick m,3123512000053,Senior Vice President,male,271379883.0
-53767.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,quatela laura,3123512000049,President,female,271379883.0
-123563.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,faraci philip j,3123512000039,President & COO,male,271379883.0
-45135.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,oviedo gustavo,3123512000045,Vice President,male,271379883.0
-54901.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,jotwani pradeep,3123512000041,Senior Vice President,male,271379883.0
-491970.0,0.0,31235,eastman kodak co,1,1,0,0,20120301,perez antonio m,3123512000047,"President, Chairman & CEO",male,271379883.0
-70932.0,0.0,31235,eastman kodak co,0,1,0,0,20120301,mccorvey antoinette p,3123512000043,Senior Vice President,female,271379883.0
-74564.0,0.0,31235,eastman kodak co,0,1,0,0,20121002,quatela laura,3123512000098,President,female,271856537.0
-357998.0,0.0,31235,eastman kodak co,0,1,0,0,20121002,faraci philip j,3123512000099,President & COO,male,271856537.0
-46359.0,0.0,31235,eastman kodak co,0,1,0,0,20121002,taber terry r,3123512000100,Chief Technical Officer,male,271856537.0
-62619.0,0.0,31235,eastman kodak co,0,1,0,0,20121002,edwards douglas j,3123512000101,Vice President,male,271856537.0
+32854.0,,31235,eastman kodak co,0,1,0,0,20120105,quatela laura,3123512000010,Senior Vice President,female,271379883.0
+22779.0,,31235,eastman kodak co,0,1,0,0,20120105,samuels eric,3123512000008,Controller,male,271379883.0
+18732.0,,31235,eastman kodak co,0,1,0,0,20120105,taber terry r,3123512000006,Chief Technical Officer,male,271379883.0
+322570.0,,31235,eastman kodak co,1,0,0,0,20120105,braddock richard s,3123512000004,,male,271379883.0
+407012.0,,31235,eastman kodak co,1,1,0,0,20120105,perez antonio m,3123512000012,"President, Chairman & CEO",male,271379883.0
+36356.0,,31235,eastman kodak co,0,1,0,0,20120105,oviedo gustavo,3123512000014,Vice President,male,271379883.0
+44168.0,,31235,eastman kodak co,0,1,0,0,20120224,quatela laura,3123512000032,President,female,271379883.0
+491970.0,,31235,eastman kodak co,1,1,0,0,20120301,perez antonio m,3123512000047,"President, Chairman & CEO",male,271379883.0
+123563.0,,31235,eastman kodak co,0,1,0,0,20120301,faraci philip j,3123512000039,President & COO,male,271379883.0
+54901.0,,31235,eastman kodak co,0,1,0,0,20120301,jotwani pradeep,3123512000041,Senior Vice President,male,271379883.0
+70932.0,,31235,eastman kodak co,0,1,0,0,20120301,mccorvey antoinette p,3123512000043,Senior Vice President,female,271379883.0
+45135.0,,31235,eastman kodak co,0,1,0,0,20120301,oviedo gustavo,3123512000045,Vice President,male,271379883.0
+53767.0,,31235,eastman kodak co,0,1,0,0,20120301,quatela laura,3123512000049,President,female,271379883.0
+14495.0,,31235,eastman kodak co,0,1,0,0,20120301,sheller patrick m,3123512000053,Senior Vice President,male,271379883.0
+24697.0,,31235,eastman kodak co,0,1,0,0,20120301,taber terry r,3123512000055,Chief Technical Officer,male,271379883.0
+26893.0,,31235,eastman kodak co,0,1,0,0,20120301,samuels eric,3123512000051,Controller,male,271379883.0
+74564.0,,31235,eastman kodak co,0,1,0,0,20121002,quatela laura,3123512000098,President,female,271856537.0
+357998.0,,31235,eastman kodak co,0,1,0,0,20121002,faraci philip j,3123512000099,President & COO,male,271856537.0
+46359.0,,31235,eastman kodak co,0,1,0,0,20121002,taber terry r,3123512000100,Chief Technical Officer,male,271856537.0
+62619.0,,31235,eastman kodak co,0,1,0,0,20121002,edwards douglas j,3123512000101,Vice President,male,271856537.0
 33252.0,53.239,31235,eastman kodak co,0,1,0,0,20121002,kruchten brad,3123512000102,Senior Vice President,male,271856537.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20121002,perez antonio m,3123512000103,"President, Chairman & CEO",male,271856537.0
-85499.0,0.0,31235,eastman kodak co,0,1,0,0,20130225,quatela laura,3123513000006,President,female,272373920.0
-69931.0,0.0,31235,eastman kodak co,0,1,0,0,20130301,edwards douglas j,3123513000014,Vice President,male,272373920.0
-38367.0,0.0,31235,eastman kodak co,0,1,0,0,20130301,kruchten brad,3123513000015,Senior Vice President,male,272373920.0
-575729.0,0.0,31235,eastman kodak co,1,1,0,0,20130301,perez antonio m,3123513000013,"President, Chairman & CEO",male,272373920.0
-52123.0,0.0,31235,eastman kodak co,0,1,0,0,20130301,taber terry r,3123513000009,Chief Technical Officer,male,272373920.0
-30868.0,0.0,31235,eastman kodak co,0,1,0,0,20130301,samuels eric,3123513000011,Controller,male,272373920.0
-118426.0,0.0,31235,eastman kodak co,0,1,0,0,20130301,quatela laura,3123513000012,President,female,272373920.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,samuels eric,3123513000056,Controller,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,taber terry r,3123513000057,Chief Technical Officer,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,sheller patrick m,3123513000058,Senior Vice President,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,edwards douglas j,3123513000059,Vice President,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,seligman joel,3123513000049,,male,272782187.0
-53043.0,0.0,31235,eastman kodak co,1,1,0,0,20130905,perez antonio m,3123513000061,Chairman & CEO,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,samuels eric,3123513000062,Controller,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,sheller patrick m,3123513000063,Senior Vice President,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,taber terry r,3123513000064,Chief Technical Officer,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,quatela laura,3123513000055,President,female,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,kruchten brad,3123513000060,Senior Vice President,male,272782187.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20130905,perez antonio m,3123513000054,Chairman & CEO,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,legg kyle p,3123513000047,,female,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,edwards douglas j,3123513000052,Vice President,male,272782187.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20130905,parrett william g,3123513000051,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,strigl dennis f,3123513000050,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,lewis delano e,3123513000048,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,lebda douglas r,3123513000046,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,hernandez william h,3123513000045,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,hawley michael,3123513000044,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,donahue timothy m,3123513000043,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,0,0,1,20130905,braddock richard s,3123513000042,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20130905,kruchten brad,3123513000053,Senior Vice President,male,272782187.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20130906,perez antonio m,3123513000066,Chairman & CEO,male,272782187.0
-2189078.0,0.0,31235,eastman kodak co,1,0,0,0,20130912,karfunkel george,3123513000073,,male,272782187.0
-1245844.0,0.0,31235,eastman kodak co,1,0,0,0,20131015,karfunkel george,114420413055061,,male,272782187.0
-4806.75,0.0,31235,eastman kodak co,0,0,1,0,20131025,marx moses,114420413056832,,male,272782187.0
-1317950.0,0.0,31235,eastman kodak co,1,0,0,0,20131028,karfunkel george,114420413057129,,male,272782187.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20140102,parrett william g,89183914000010,,male,41600000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20140102,karfunkel george,89183914000009,,male,41600000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20140102,doheny matthew a.,89183914000007,,male,41600000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20140102,burgess mark s,89183914000005,,male,41600000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20140102,continenza james v,89183914000006,,male,41600000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20140102,janitz john a.,89183914000008,,male,41600000.0
-960138.0,0.0,31235,eastman kodak co,0,0,1,0,20140205,bluemountain long/short credit master fund l.p.,120919114007427,,male,41600000.0
-0.0,0.0,31235,eastman kodak co,1,1,0,0,20140314,clarke jeff,89183914000056,Chief Executive Officer,male,41673710.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20140516,kruchten brad,89183914000059,Senior Vice President,male,41600000.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20140618,mcmullen john n,89183914000079,CFO and Executive VP,male,41600000.0
-97.0,0.0,31235,eastman kodak co,0,1,0,0,20140728,kruchten brad,89183914000081,Senior Vice President,male,41700000.0
-26.0,0.0,31235,eastman kodak co,0,1,0,0,20140728,samuels eric,89183914000082,Controller,male,41700000.0
-213.0,0.0,31235,eastman kodak co,0,1,0,0,20140728,sheller patrick m,89183914000083,Senior Vice President,male,41700000.0
-1589.0,0.0,31235,eastman kodak co,0,1,0,0,20140728,taber terry r,89183914000084,Chief Technical Officer,male,41700000.0
-5436.75,0.0,31235,eastman kodak co,0,0,1,0,20140818,marx moses,114420414051155,,male,41729327.0
-2837.0,0.0,31235,eastman kodak co,0,1,0,0,20140905,samuels eric,89183914000095,Controller,male,41729327.0
-4662.0,0.0,31235,eastman kodak co,0,1,0,0,20140905,sheller patrick m,89183914000096,Senior Vice President,male,41729327.0
-5230.0,0.0,31235,eastman kodak co,0,1,0,0,20140905,taber terry r,89183914000097,Chief Technical Officer,male,41729327.0
-5252.0,0.0,31235,eastman kodak co,0,1,0,0,20140905,edwards douglas j,89183914000093,Senior Vice President,male,41729327.0
-8255.0,97.0,31235,eastman kodak co,0,1,0,0,20140905,kruchten brad,89183914000094,Senior Vice President,male,41729327.0
-2318.0,0.0,31235,eastman kodak co,1,0,0,0,20150105,karfunkel george,89183915000005,,male,41900000.0
-2318.0,0.0,31235,eastman kodak co,1,0,0,0,20150105,parrett william g,89183915000006,,male,41900000.0
-2318.0,0.0,31235,eastman kodak co,1,0,0,0,20150105,janitz john a.,89183915000004,,male,41900000.0
-1304.0,0.0,31235,eastman kodak co,1,0,0,0,20150105,burgess mark s,89183915000001,,male,41900000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150106,continenza james v,89183915000014,,male,41900000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150107,doheny matthew a.,89183915000016,,male,41900000.0
+,,31235,eastman kodak co,1,1,0,0,20121002,perez antonio m,3123512000103,"President, Chairman & CEO",male,271856537.0
+85499.0,,31235,eastman kodak co,0,1,0,0,20130225,quatela laura,3123513000006,President,female,272373920.0
+38367.0,,31235,eastman kodak co,0,1,0,0,20130301,kruchten brad,3123513000015,Senior Vice President,male,272373920.0
+69931.0,,31235,eastman kodak co,0,1,0,0,20130301,edwards douglas j,3123513000014,Vice President,male,272373920.0
+575729.0,,31235,eastman kodak co,1,1,0,0,20130301,perez antonio m,3123513000013,"President, Chairman & CEO",male,272373920.0
+30868.0,,31235,eastman kodak co,0,1,0,0,20130301,samuels eric,3123513000011,Controller,male,272373920.0
+52123.0,,31235,eastman kodak co,0,1,0,0,20130301,taber terry r,3123513000009,Chief Technical Officer,male,272373920.0
+118426.0,,31235,eastman kodak co,0,1,0,0,20130301,quatela laura,3123513000012,President,female,272373920.0
+,,31235,eastman kodak co,0,1,0,0,20130905,taber terry r,3123513000064,Chief Technical Officer,male,272782187.0
+,,31235,eastman kodak co,0,1,0,0,20130905,sheller patrick m,3123513000063,Senior Vice President,male,272782187.0
+,,31235,eastman kodak co,0,1,0,0,20130905,samuels eric,3123513000062,Controller,male,272782187.0
+53043.0,,31235,eastman kodak co,1,1,0,0,20130905,perez antonio m,3123513000061,Chairman & CEO,male,272782187.0
+,,31235,eastman kodak co,0,1,0,0,20130905,kruchten brad,3123513000060,Senior Vice President,male,272782187.0
+,,31235,eastman kodak co,0,1,0,0,20130905,edwards douglas j,3123513000059,Vice President,male,272782187.0
+0.0,,31235,eastman kodak co,0,1,0,0,20130905,sheller patrick m,3123513000058,Senior Vice President,male,272782187.0
+0.0,,31235,eastman kodak co,0,1,0,0,20130905,taber terry r,3123513000057,Chief Technical Officer,male,272782187.0
+0.0,,31235,eastman kodak co,0,1,0,0,20130905,samuels eric,3123513000056,Controller,male,272782187.0
+0.0,,31235,eastman kodak co,0,1,0,0,20130905,quatela laura,3123513000055,President,female,272782187.0
+0.0,,31235,eastman kodak co,0,1,0,0,20130905,edwards douglas j,3123513000052,Vice President,male,272782187.0
+0.0,,31235,eastman kodak co,0,1,0,0,20130905,kruchten brad,3123513000053,Senior Vice President,male,272782187.0
+0.0,,31235,eastman kodak co,1,1,0,0,20130905,perez antonio m,3123513000054,Chairman & CEO,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,braddock richard s,3123513000042,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,donahue timothy m,3123513000043,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,hawley michael,3123513000044,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,hernandez william h,3123513000045,,male,272782187.0
+0.0,,31235,eastman kodak co,1,0,0,0,20130905,parrett william g,3123513000051,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,legg kyle p,3123513000047,,female,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,lewis delano e,3123513000048,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,seligman joel,3123513000049,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,strigl dennis f,3123513000050,,male,272782187.0
+0.0,,31235,eastman kodak co,0,0,0,1,20130905,lebda douglas r,3123513000046,,male,272782187.0
+,,31235,eastman kodak co,1,1,0,0,20130906,perez antonio m,3123513000066,Chairman & CEO,male,272782187.0
+2189078.0,,31235,eastman kodak co,1,0,0,0,20130912,karfunkel george,3123513000073,,male,272782187.0
+1245844.0,,31235,eastman kodak co,1,0,0,0,20131015,karfunkel george,114420413055061,,male,272782187.0
+4806.75,,31235,eastman kodak co,0,0,1,0,20131025,marx moses,114420413056832,,male,272782187.0
+1317950.0,,31235,eastman kodak co,1,0,0,0,20131028,karfunkel george,114420413057129,,male,272782187.0
+,,31235,eastman kodak co,1,0,0,0,20140102,burgess mark s,89183914000005,,male,41600000.0
+,,31235,eastman kodak co,1,0,0,0,20140102,continenza james v,89183914000006,,male,41600000.0
+,,31235,eastman kodak co,1,0,0,0,20140102,doheny matthew a.,89183914000007,,male,41600000.0
+,,31235,eastman kodak co,1,0,0,0,20140102,janitz john a.,89183914000008,,male,41600000.0
+,,31235,eastman kodak co,1,0,0,0,20140102,karfunkel george,89183914000009,,male,41600000.0
+,,31235,eastman kodak co,1,0,0,0,20140102,parrett william g,89183914000010,,male,41600000.0
+960138.0,,31235,eastman kodak co,0,0,1,0,20140205,bluemountain long/short credit master fund l.p.,120919114007427,,male,41600000.0
+,,31235,eastman kodak co,1,1,0,0,20140314,clarke jeff,89183914000056,Chief Executive Officer,male,41673710.0
+,,31235,eastman kodak co,0,1,0,0,20140516,kruchten brad,89183914000059,Senior Vice President,male,41600000.0
+,,31235,eastman kodak co,0,1,0,0,20140618,mcmullen john n,89183914000079,CFO and Executive VP,male,41600000.0
+,,31235,eastman kodak co,0,1,0,0,20140728,kruchten brad,89183914000081,Senior Vice President,male,41700000.0
+,,31235,eastman kodak co,0,1,0,0,20140728,samuels eric,89183914000082,Controller,male,41700000.0
+,,31235,eastman kodak co,0,1,0,0,20140728,sheller patrick m,89183914000083,Senior Vice President,male,41700000.0
+,,31235,eastman kodak co,0,1,0,0,20140728,taber terry r,89183914000084,Chief Technical Officer,male,41700000.0
+5436.75,,31235,eastman kodak co,0,0,1,0,20140818,marx moses,114420414051155,,male,41729327.0
+,,31235,eastman kodak co,0,1,0,0,20140905,sheller patrick m,89183914000096,Senior Vice President,male,41729327.0
+,,31235,eastman kodak co,0,1,0,0,20140905,taber terry r,89183914000097,Chief Technical Officer,male,41729327.0
+,,31235,eastman kodak co,0,1,0,0,20140905,kruchten brad,89183914000094,Senior Vice President,male,41729327.0
+,,31235,eastman kodak co,0,1,0,0,20140905,edwards douglas j,89183914000093,Senior Vice President,male,41729327.0
+,,31235,eastman kodak co,0,1,0,0,20140905,samuels eric,89183914000095,Controller,male,41729327.0
+,,31235,eastman kodak co,1,0,0,0,20150105,janitz john a.,89183915000004,,male,41900000.0
+,,31235,eastman kodak co,1,0,0,0,20150105,karfunkel george,89183915000005,,male,41900000.0
+,,31235,eastman kodak co,1,0,0,0,20150105,parrett william g,89183915000006,,male,41900000.0
+,,31235,eastman kodak co,1,0,0,0,20150105,burgess mark s,89183915000001,,male,41900000.0
+,,31235,eastman kodak co,1,0,0,0,20150106,continenza james v,89183915000014,,male,41900000.0
+,,31235,eastman kodak co,1,0,0,0,20150107,doheny matthew a.,89183915000016,,male,41900000.0
 42500.0,1491836.61,31235,eastman kodak co,0,0,1,0,20150129,marx moses,114420415004599,,male,41900000.0
 47500.0,1491836.61,31235,eastman kodak co,0,0,1,0,20150202,marx moses,114420415005230,,male,41900000.0
 6030.75,47500.0,31235,eastman kodak co,0,0,1,0,20150302,marx moses,114420415013405,,male,41873154.0
-184.0,0.0,31235,eastman kodak co,0,1,0,0,20150304,underberg sharon e.,89183915000035,"General Counsel, Sec., SVP",female,41873154.0
-90.0,0.0,31235,eastman kodak co,0,1,0,0,20150304,kruchten brad,89183915000032,Senior Vice President,male,41873154.0
-2839.0,0.0,31235,eastman kodak co,0,1,0,0,20150304,samuels eric,89183915000033,Controller,male,41873154.0
-5403.0,0.0,31235,eastman kodak co,0,1,0,0,20150304,taber terry r,89183915000034,Chief Technical Officer,male,41873154.0
-19356.0,0.0,31235,eastman kodak co,1,1,0,0,20150313,clarke jeff,89183915000036,Chief Executive Officer,male,41873154.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20150327,kruchten brad,89183915000039,Senior Vice President,male,41873154.0
-3994.0,0.0,31235,eastman kodak co,0,1,0,0,20150430,mahe eric-yves,89183915000043,Senior Vice President,male,41900000.0
-0.0,0.0,31235,eastman kodak co,0,1,0,0,20150514,mahe eric-yves,89183915000047,Senior Vice President,male,41900000.0
-6508.0,0.0,31235,eastman kodak co,0,1,0,0,20150708,mcmullen john n,89183915000079,CFO and Executive VP,male,41900000.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150813,burgess mark s,89183915000085,,male,41920455.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150813,parrett william g,89183915000090,,male,41920455.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150813,karfunkel george,89183915000089,,male,41920455.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150813,janitz john a.,89183915000088,,male,41920455.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150813,doheny matthew a.,89183915000087,,male,41920455.0
-0.0,0.0,31235,eastman kodak co,1,0,0,0,20150813,continenza james v,89183915000086,,male,41920455.0
-10974.0,0.0,31235,eastman kodak co,0,1,0,0,20150908,taber terry r,89183915000113,Chief Technical Officer,male,41920455.0
-13047.0,0.0,31235,eastman kodak co,0,1,0,0,20150908,cullimore philip,89183915000110,Senior Vice President,male,41920455.0
-18052.0,90.0,31235,eastman kodak co,0,1,0,0,20150908,kruchten brad,89183915000111,Senior Vice President,male,41920455.0
-6981.0,0.0,31235,eastman kodak co,0,1,0,0,20150908,samuels eric,89183915000112,Controller,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150304,underberg sharon e.,89183915000035,"General Counsel, Sec., SVP",female,41873154.0
+,,31235,eastman kodak co,0,1,0,0,20150304,kruchten brad,89183915000032,Senior Vice President,male,41873154.0
+,,31235,eastman kodak co,0,1,0,0,20150304,samuels eric,89183915000033,Controller,male,41873154.0
+,,31235,eastman kodak co,0,1,0,0,20150304,taber terry r,89183915000034,Chief Technical Officer,male,41873154.0
+19356.0,,31235,eastman kodak co,1,1,0,0,20150313,clarke jeff,89183915000036,Chief Executive Officer,male,41873154.0
+,,31235,eastman kodak co,0,1,0,0,20150327,kruchten brad,89183915000039,Senior Vice President,male,41873154.0
+,,31235,eastman kodak co,0,1,0,0,20150430,mahe eric-yves,89183915000043,Senior Vice President,male,41900000.0
+,,31235,eastman kodak co,0,1,0,0,20150514,mahe eric-yves,89183915000047,Senior Vice President,male,41900000.0
+6508.0,,31235,eastman kodak co,0,1,0,0,20150708,mcmullen john n,89183915000079,CFO and Executive VP,male,41900000.0
+,,31235,eastman kodak co,1,0,0,0,20150813,parrett william g,89183915000090,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,burgess mark s,89183915000085,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,continenza james v,89183915000086,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,doheny matthew a.,89183915000087,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,burgess mark s,89183915000085,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,continenza james v,89183915000086,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,doheny matthew a.,89183915000087,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,karfunkel george,89183915000089,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,janitz john a.,89183915000088,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,parrett william g,89183915000090,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,janitz john a.,89183915000088,,male,41920455.0
+,,31235,eastman kodak co,1,0,0,0,20150813,karfunkel george,89183915000089,,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,cullimore philip,89183915000110,Senior Vice President,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,samuels eric,89183915000112,Controller,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,samuels eric,89183915000112,Controller,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,taber terry r,89183915000113,Chief Technical Officer,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,taber terry r,89183915000113,Chief Technical Officer,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,kruchten brad,89183915000111,Senior Vice President,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,cullimore philip,89183915000110,Senior Vice President,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20150908,kruchten brad,89183915000111,Senior Vice President,male,41920455.0
+,,31235,eastman kodak co,0,1,0,0,20151005,overman steven,89183915000122,Senior Vice President,male,42000000.0
+39356.0,,31235,eastman kodak co,1,1,0,0,20151103,clarke jeff,89183915000124,Chief Executive Officer,male,41990867.0
+49356.0,,31235,eastman kodak co,1,1,0,0,20151109,clarke jeff,89183915000129,Chief Executive Officer,male,41990867.0
+77500.0,1510480.29,31235,eastman kodak co,0,0,1,0,20151109,marx moses,114420415063704,,male,41990867.0
+85000.0,1510480.29,31235,eastman kodak co,0,0,1,0,20151113,marx moses,114420415065103,,male,41990867.0
+,,31235,eastman kodak co,0,1,0,0,20151120,cullimore philip,89183915000131,Senior Vice President,male,41990867.0
+,,31235,eastman kodak co,0,1,0,0,20151208,samuels eric,89183915000132,Controller,male,41990867.0
+,,31235,eastman kodak co,0,1,0,0,20151217,samuels eric,89183915000133,Controller,male,41990867.0
+,,31235,eastman kodak co,0,1,0,0,20151217,underberg sharon e.,89183915000134,"General Counsel, Sec., SVP",female,41990867.0
+,,31235,eastman kodak co,1,0,0,0,20160105,continenza james v,89183916000136,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160105,burgess mark s,89183916000135,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160105,doheny matthew a.,89183916000137,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160105,janitz john a.,89183916000138,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160105,karfunkel george,89183916000139,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160105,parrett william g,89183916000140,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160112,janitz john a.,89183916000144,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160112,doheny matthew a.,89183916000143,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160112,continenza james v,89183916000142,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160112,burgess mark s,89183916000141,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160112,karfunkel george,89183916000145,,male,42000000.0
+,,31235,eastman kodak co,1,0,0,0,20160112,parrett william g,89183916000146,,male,42000000.0
+,,31235,eastman kodak co,0,1,0,0,20160119,samuels eric,89183916000153,Controller,male,42000000.0
+,,31235,eastman kodak co,0,1,0,0,20160120,kruchten brad,89183916000155,Senior Vice President,male,42000000.0
+,,31235,eastman kodak co,0,1,0,0,20160218,samuels eric,89183916000158,Controller,male,42000000.0
+68767.0,,31235,eastman kodak co,1,1,0,0,20160315,clarke jeff,89183916000177,Chief Executive Officer,male,42000000.0
+,,31235,eastman kodak co,0,1,0,0,20160317,samuels eric,89183916000178,Controller,male,42000000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,underberg sharon e.,89183916000191,"General Counsel, Sec., SVP",female,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,samuels eric,89183916000189,CAO and Corp. Controller,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,overman steven,89183916000188,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,o'grady john g.,89183916000187,"GM, WW Sales, Vice President",male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,mcmullen john n,89183916000186,Chief Financial Officer,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,mahe eric-yves,89183916000185,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,kruchten brad,89183916000184,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,cullimore philip,89183916000183,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,kruchten brad,89183916000182,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160405,taber terry r,89183916000190,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160419,kruchten brad,89183916000194,Senior Vice President,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160419,samuels eric,89183916000195,CAO and Corp. Controller,male,42100000.0
+,,31235,eastman kodak co,0,1,0,0,20160502,mahe eric-yves,89183916000196,Senior Vice President,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160513,o'grady john g.,89183916000200,"GM, WW Sales, Vice President",male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160513,mahe eric-yves,89183916000199,Senior Vice President,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160518,samuels eric,89183916000201,CAO and Corp. Controller,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160525,kruchten brad,89183916000210,Senior Vice President,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160603,cullimore philip,89183916000224,Senior Vice President,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160617,samuels eric,89183916000231,CAO and Corp. Controller,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160617,mcmullen john n,89183916000232,Chief Financial Officer,male,42220176.0
+,,31235,eastman kodak co,0,1,0,0,20160706,bullwinkle david e,89183916000239,CFO and Senior Vice President,male,42200000.0
+,,31235,eastman kodak co,0,1,0,0,20160719,kruchten brad,89183916000241,Senior Vice President,male,42200000.0
+,,31235,eastman kodak co,0,1,0,0,20160719,samuels eric,89183916000242,CAO and Corp. Controller,male,42200000.0
+,,31235,eastman kodak co,1,0,0,0,20160816,parrett william g,89183916000244,,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160817,samuels eric,89183916000245,CAO and Corp. Controller,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160826,kruchten brad,89183916000250,Senior Vice President,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160907,cullimore philip,89183916000255,Senior Vice President,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160907,kruchten brad,89183916000256,Senior Vice President,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160907,o'grady john g.,89183916000257,"GM, WW Sales, Vice President",male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160907,samuels eric,89183916000258,CAO and Corp. Controller,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160907,bullwinkle david e,89183916000254,CFO and Senior Vice President,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160907,taber terry r,89183916000259,Senior Vice President,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160912,cullimore philip,89183916000261,Senior Vice President,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20160919,samuels eric,89183916000262,CAO and Corp. Controller,male,42247470.0
+,,31235,eastman kodak co,0,1,0,0,20161004,overman steven,89183916000272,Senior Vice President,male,42300000.0
+,,31235,eastman kodak co,0,1,0,0,20161018,kruchten brad,89183916000273,Senior Vice President,male,42300000.0
+,,31235,eastman kodak co,0,1,0,0,20161117,o'grady john g.,89183916000282,"GM, WW Sales, Vice President",male,42359022.0
+,,31235,eastman kodak co,0,1,0,0,20161117,kruchten brad,89183916000281,Senior Vice President,male,42359022.0
+,,31235,eastman kodak co,0,1,0,0,20161130,o'grady john g.,89183916000285,"GM, WW Sales, Vice President",male,42359022.0
+,,31235,eastman kodak co,0,1,0,0,20161216,underberg sharon e.,89183916000287,"General Counsel, Sec., SVP",female,42359022.0
+,,31235,eastman kodak co,0,1,0,0,20161216,bullwinkle david e,89183916000286,CFO and Senior Vice President,male,42359022.0
+,,31235,eastman kodak co,0,1,0,0,20161223,samuels eric,89183916000288,CAO and Corp. Controller,male,42359022.0
+,,31235,eastman kodak co,1,0,0,0,20170104,parrett william g,89183917000008,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170104,doheny matthew a.,89183917000005,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170104,karfunkel george,89183917000007,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170104,burgess mark s,89183917000003,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170104,continenza james v,89183917000004,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170105,janitz john a.,89183917000013,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170110,burgess mark s,89183917000014,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170110,continenza james v,89183917000015,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170110,doheny matthew a.,89183917000016,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170110,janitz john a.,89183917000017,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170110,karfunkel george,89183917000018,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170110,parrett william g,89183917000019,,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170118,kruchten brad,89183917000026,Senior Vice President,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170119,samuels eric,89183917000028,CAO and Corp. Controller,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170217,samuels eric,89183917000039,CAO and Corp. Controller,male,42400000.0
+88179.0,,31235,eastman kodak co,1,1,0,0,20170314,clarke jeff,89183917000046,Chief Executive Officer,male,42430666.0
+,,31235,eastman kodak co,0,1,0,0,20170317,samuels eric,89183917000048,CAO and Corp. Controller,male,42430666.0
+,,31235,eastman kodak co,0,1,0,0,20170405,samuels eric,89183917000049,CAO and Corp. Controller,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170418,samuels eric,89183917000051,CAO and Corp. Controller,male,42400000.0
+,,31235,eastman kodak co,1,1,0,0,20170425,clarke jeff,89183917000053,Chief Executive Officer,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170426,kruchten brad,89183917000054,Senior Vice President,male,42400000.0
+460530.75,1589449.54,31235,eastman kodak co,0,0,1,0,20170426,marx moses,114420417022188,,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170428,karfunkel george,89183917000055,,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170502,mahe eric-yves,89183917000056,Senior Vice President,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170516,samuels eric,89183917000067,CAO and Corp. Controller,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170516,vandagriff randy,89183917000066,Vice President,male,42400000.0
+,,31235,eastman kodak co,1,1,0,0,20170516,clarke jeff,89183917000065,Chief Executive Officer,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170516,mahe eric-yves,89183917000064,Senior Vice President,male,42400000.0
+,,31235,eastman kodak co,1,1,0,0,20170518,clarke jeff,89183917000069,Chief Executive Officer,male,42400000.0
+,,31235,eastman kodak co,1,0,0,0,20170523,janitz john a.,89183917000070,,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170531,bullwinkle david e,89183917000076,CFO and Senior Vice President,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170616,samuels eric,89183917000098,CAO and Corp. Controller,male,42400000.0
+,,31235,eastman kodak co,0,1,0,0,20170705,bullwinkle david e,89183917000103,CFO and Senior Vice President,male,42500000.0
+,,31235,eastman kodak co,0,1,0,0,20170717,kruchten brad,89183917000104,Senior Vice President,male,42500000.0
+,,31235,eastman kodak co,0,1,0,0,20170719,samuels eric,89183917000105,CAO and Corp. Controller,male,42500000.0
+,,31235,eastman kodak co,0,1,0,0,20170816,samuels eric,89183917000110,CAO and Corp. Controller,male,42489231.0
+,,31235,eastman kodak co,1,0,0,0,20170817,engelberg jeffrey d.,89183917000113,,male,42489231.0
+,,31235,eastman kodak co,1,1,0,0,20170818,clarke jeff,89183917000118,Chief Executive Officer,male,42489231.0
+,,31235,eastman kodak co,1,1,0,0,20170821,clarke jeff,89183917000120,Chief Executive Officer,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170821,bullwinkle david e,89183917000119,CFO and Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170828,kruchten brad,89183917000121,Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170906,bullwinkle david e,89183917000127,CFO and Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170906,o'grady john g.,89183917000126,"GM, WW Sales, Senior VP",male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170906,taber terry r,89183917000125,Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170906,kruchten brad,89183917000124,Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170906,samuels eric,89183917000123,CAO and Corp. Controller,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170918,vandagriff randy,89183917000132,Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170918,samuels eric,89183917000130,CAO and Corp. Controller,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170918,payne christopher joseph,89183917000133,Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170918,bullwinkle david e,89183917000128,CFO and Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170918,taber terry r,89183917000131,Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20170918,kruchten brad,89183917000129,Senior Vice President,male,42489231.0
+,,31235,eastman kodak co,0,1,0,0,20171003,overman steven,89183917000135,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20171018,samuels eric,89183917000140,CAO and Corp. Controller,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20171018,kruchten brad,89183917000139,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20171117,payne christopher joseph,89183917000143,Vice President,male,42571360.0
+,,31235,eastman kodak co,0,1,0,0,20171219,underberg sharon e.,89183917000147,"General Counsel, Sec., SVP",female,42571360.0
+,,31235,eastman kodak co,0,1,0,0,20171219,bullwinkle david e,89183917000148,CFO and Senior Vice President,male,42571360.0
+,,31235,eastman kodak co,0,1,0,0,20171219,vandagriff randy,89183917000146,Vice President,male,42571360.0
+,,31235,eastman kodak co,1,0,0,0,20180110,engelberg jeffrey d.,89183918000012,,male,42600000.0
+,,31235,eastman kodak co,1,0,0,0,20180110,bradley richard todd,89183918000015,,male,42600000.0
+,,31235,eastman kodak co,1,0,0,0,20180110,karfunkel george,89183918000013,,male,42600000.0
+,,31235,eastman kodak co,1,0,0,0,20180110,parrett william g,89183918000014,,male,42600000.0
+,,31235,eastman kodak co,1,0,0,0,20180110,burgess mark s,89183918000009,,male,42600000.0
+,,31235,eastman kodak co,1,0,0,0,20180110,continenza james v,89183918000010,,male,42600000.0
+,,31235,eastman kodak co,1,0,0,0,20180110,doheny matthew a.,89183918000011,,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20180118,kruchten brad,89183918000016,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,1,1,0,0,20180314,clarke jeff,89183918000021,Chief Executive Officer,male,42638662.0
+,,31235,eastman kodak co,0,1,0,0,20180323,samuels eric,89183918000023,CAO and Corp. Controller,male,42638662.0
+,,31235,eastman kodak co,0,1,0,0,20180418,kruchten brad,89183918000024,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20180501,mahe eric-yves,89183918000026,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20180515,mahe eric-yves,89183918000029,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20180612,mahe eric-yves,89183918000071,Senior Vice President,male,42600000.0
+,,31235,eastman kodak co,0,1,0,0,20180703,bullwinkle david e,89183918000075,CFO and Senior Vice President,male,42700000.0
+,,31235,eastman kodak co,0,1,0,0,20180905,samuels eric,89183918000080,CAO and Corp. Controller,male,42671808.0
+,,31235,eastman kodak co,0,1,0,0,20180905,taber terry r,89183918000081,Senior Vice President,male,42671808.0
+,,31235,eastman kodak co,0,1,0,0,20180905,bullwinkle david e,89183918000078,CFO and Senior Vice President,male,42671808.0
+,,31235,eastman kodak co,0,1,0,0,20180905,o'grady john g.,89183918000079,Senior Vice President,male,42671808.0
+,,31235,eastman kodak co,0,1,0,0,20181003,overman steven,89183918000097,Senior Vice President,male,42700000.0
+,,31235,eastman kodak co,0,1,0,0,20181119,payne christopher joseph,89183918000104,Vice President,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181207,payne christopher joseph,89183918000117,Vice President,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181207,samuels eric,89183918000116,CAO and Corp. Controller,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181207,o'grady john g.,89183918000115,Senior Vice President,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181207,vandagriff randy,89183918000114,Vice President,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181207,taber terry r,89183918000113,Senior Vice President,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181207,bullwinkle david e,89183918000118,CFO and Senior Vice President,male,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181218,underberg sharon e.,89183918000120,"General Counsel, Sec., SVP",female,42726652.0
+,,31235,eastman kodak co,0,1,0,0,20181218,vandagriff randy,89183918000119,Vice President,male,42726652.0
+,,31235,eastman kodak co,1,0,0,0,20190110,karfunkel george,89183919000009,,male,42800000.0
+,,31235,eastman kodak co,1,0,0,0,20190110,parrett william g,89183919000008,,male,42800000.0
+,,31235,eastman kodak co,1,0,0,0,20190110,continenza james v,89183919000011,,male,42800000.0
+,,31235,eastman kodak co,1,0,0,0,20190110,burgess mark s,89183919000010,,male,42800000.0
+,,31235,eastman kodak co,1,0,0,0,20190110,doheny matthew a.,89183919000012,,male,42800000.0
+,,31235,eastman kodak co,1,0,0,0,20190110,bradley richard todd,89183919000013,,male,42800000.0
+,,31235,eastman kodak co,1,0,0,0,20190110,engelberg jeffrey d.,89183919000014,,male,42800000.0
+,,31235,eastman kodak co,0,1,0,0,20190118,byrd roger w.,89183919000025,"General Counsel, Sec., SVP",male,42800000.0
+,,31235,eastman kodak co,1,1,0,0,20190222,continenza james v,89183919000034,Executive Chairman,male,42800000.0
+,,31235,eastman kodak co,0,1,0,0,20190325,samuels eric,89183919000054,CAO and Corp. Controller,male,42974257.0
+,,31235,eastman kodak co,0,1,0,0,20190410,payne christopher joseph,89183919000059,Vice President,male,43000000.0
+,,31235,eastman kodak co,0,1,0,0,20190430,mahe eric-yves,89183919000061,Senior Vice President,male,43000000.0
+,,31235,eastman kodak co,0,1,0,0,20190613,mahe eric-yves,89183919000127,Senior Vice President,male,43000000.0
+,,31235,eastman kodak co,0,1,0,0,20190703,bullwinkle david e,89183919000132,CFO and Senior Vice President,male,43000000.0
+,,31235,eastman kodak co,0,1,0,0,20190815,bullwinkle david e,89183919000149,CFO and Senior Vice President,male,43015101.0
+,,31235,eastman kodak co,1,0,0,0,20190815,katz philippe d,89183919000148,,male,43015101.0
+,,31235,eastman kodak co,1,1,0,0,20190815,continenza james v,89183919000147,Executive Chairman,male,43015101.0
+,,31235,eastman kodak co,1,0,0,0,20190819,engelberg jeffrey d.,89183919000151,,male,43015101.0
+,,31235,eastman kodak co,1,0,0,0,20190823,engelberg jeffrey d.,89183919000152,,male,43015101.0
+,,31235,eastman kodak co,0,1,0,0,20190905,samuels eric,89183919000162,CAO and Corp. Controller,male,43015101.0
+,,31235,eastman kodak co,0,1,0,0,20190905,taber terry r,89183919000163,Senior Vice President,male,43015101.0
+,,31235,eastman kodak co,0,1,0,0,20190905,vandagriff randy,89183919000164,Vice President,male,43015101.0
+,,31235,eastman kodak co,0,1,0,0,20190905,o'grady john g.,89183919000161,Senior Vice President,male,43015101.0
+,,31235,eastman kodak co,0,1,0,0,20190905,bullwinkle david e,89183919000160,CFO and Senior Vice President,male,43015101.0
+,,31235,eastman kodak co,1,0,0,0,20191001,karfunkel george,89183919000190,,male,43100000.0
+,,31235,eastman kodak co,1,0,0,0,20191001,katz philippe d,89183919000189,,male,43100000.0
+,,31235,eastman kodak co,1,0,0,0,20191001,engelberg jeffrey d.,89183919000188,,male,43100000.0
+,,31235,eastman kodak co,1,0,0,0,20191001,parrett william g,89183919000187,,male,43100000.0
+,,31235,eastman kodak co,1,0,0,0,20191001,bradley richard todd,89183919000186,,male,43100000.0
+,,31235,eastman kodak co,0,1,0,0,20191113,vandagriff randy,89183919000196,Vice President,male,43223181.0
+,,31235,eastman kodak co,1,1,0,0,20191202,continenza james v,89183919000202,Executive Chairman,male,43223181.0
+,,31235,eastman kodak co,1,0,1,0,20191205,karfunkel george,89183919000208,,male,43223181.0
+,,31235,eastman kodak co,1,0,1,0,20191205,katz philippe d,89183919000207,,male,43223181.0
+,,31235,eastman kodak co,1,0,1,0,20191226,karfunkel george,89183919000213,,male,43223181.0
+,,31235,eastman kodak co,1,1,0,0,20191226,continenza james v,89183919000214,Executive Chairman,male,43223181.0
+,,31235,eastman kodak co,1,0,1,0,20200103,katz philippe d,89183920000010,,male,43200000.0
+,,31235,eastman kodak co,1,0,1,0,20200103,karfunkel george,89183920000006,,male,43200000.0
+,,31235,eastman kodak co,1,0,0,0,20200103,bradley richard todd,89183920000008,,male,43200000.0
+,,31235,eastman kodak co,1,0,0,0,20200103,parrett william g,89183920000009,,male,43200000.0
+,,31235,eastman kodak co,1,0,0,0,20200103,engelberg jeffrey d.,89183920000007,,male,43200000.0
+,,31235,eastman kodak co,0,0,1,0,20200107,karfunkel renee,89183920000020,,female,43200000.0
+,,31235,eastman kodak co,1,0,1,0,20200110,katz philippe d,89183920000028,,male,43200000.0
+,,31235,eastman kodak co,1,0,0,0,20200110,parrett william g,89183920000027,,male,43200000.0
+,,31235,eastman kodak co,1,0,1,0,20200110,karfunkel george,89183920000023,,male,43200000.0
+,,31235,eastman kodak co,1,0,0,0,20200110,engelberg jeffrey d.,89183920000025,,male,43200000.0
+,,31235,eastman kodak co,1,0,0,0,20200110,bradley richard todd,89183920000024,,male,43200000.0
+,,31235,eastman kodak co,1,1,0,0,20200110,continenza james v,89183920000026,Executive Chairman,male,43200000.0
+,,31235,eastman kodak co,0,1,0,0,20200121,byrd roger w.,89183920000031,"General Counsel, Sec., SVP",male,43200000.0
+,,31235,eastman kodak co,1,0,1,0,20200324,katz philippe d,89183920000080,,male,43578870.0
+,,31235,eastman kodak co,0,1,0,0,20200324,samuels eric,89183920000081,CAO and Corp. Controller,male,43578870.0
+,,31235,eastman kodak co,1,1,0,0,20200324,continenza james v,89183920000082,Executive Chairman,male,43578870.0
+300303.0,2015300.54,31235,eastman kodak co,0,0,1,0,20200325,marx moses,110465920038158,,male,43578870.0
+,,31235,eastman kodak co,1,0,0,0,20200402,new jason griffin,89183920000094,,male,43700000.0
+,,31235,eastman kodak co,1,0,1,0,20200402,katz philippe d,89183920000093,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200402,parrett william g,89183920000092,,male,43700000.0
+,,31235,eastman kodak co,1,0,1,0,20200402,karfunkel george,89183920000089,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200402,engelberg jeffrey d.,89183920000091,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200402,bradley richard todd,89183920000090,,male,43700000.0
+,,31235,eastman kodak co,0,1,0,0,20200520,bullwinkle david e,89183920000125,CFO and Senior Vice President,male,43700000.0
+,,31235,eastman kodak co,1,0,1,0,20200522,karfunkel george,89183920000126,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200522,bradley richard todd,89183920000127,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200522,engelberg jeffrey d.,89183920000128,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200522,new jason griffin,89183920000129,,male,43700000.0
+,,31235,eastman kodak co,1,0,1,0,20200522,katz philippe d,89183920000130,,male,43700000.0
+,,31235,eastman kodak co,1,0,0,0,20200522,parrett william g,89183920000131,,male,43700000.0
+,,31235,eastman kodak co,1,0,1,0,20200615,katz philippe d,89183920000189,,male,43700000.0
+,,31235,eastman kodak co,1,0,1,0,20200624,katz philippe d,89183920000201,,male,43700000.0
+,,31235,eastman kodak co,1,1,0,0,20200624,continenza james v,89183920000200,Executive Chairman,male,43700000.0
+,,31235,eastman kodak co,0,1,0,0,20200729,bullwinkle david e,89183920000221,CFO and Senior Vice President,male,43700000.0
+,,31235,eastman kodak co,1,1,0,0,20200729,continenza james v,89183920000218,Executive Chairman and CEO,male,43700000.0
+,,31235,eastman kodak co,0,1,0,0,20200729,vandagriff randy,89183920000219,Vice President,male,43700000.0
+,,31235,eastman kodak co,0,1,0,0,20200729,byrd roger w.,89183920000220,"General Counsel, Sec., SVP",male,43700000.0
+,,31235,eastman kodak co,0,1,0,0,20200908,bullwinkle david e,89183920000262,CFO and Senior Vice President,male,75684110.0
+,,31235,eastman kodak co,0,1,0,0,20200908,vandagriff randy,89183920000263,Vice President,male,75684110.0
+,,31235,eastman kodak co,0,1,0,0,20200908,samuels eric,89183920000264,CAO and Controller,male,75684110.0
+,,31235,eastman kodak co,0,1,0,0,20200908,o'grady john g.,89183920000265,Vice President,male,75684110.0
+,,31235,eastman kodak co,0,1,0,0,20200908,taber terry r,89183920000266,Vice President,male,75684110.0
+,,31235,eastman kodak co,0,0,0,1,20201229,bradley richard todd,89183920000323,,male,77163326.0
+,,31235,eastman kodak co,1,0,0,0,20210112,parrett william g,89183921000018,,male,77200000.0
+,,31235,eastman kodak co,1,0,0,0,20210112,karfunkel george,89183921000019,,male,77200000.0
+,,31235,eastman kodak co,1,0,0,0,20210112,new jason griffin,89183921000020,,male,77200000.0
+,,31235,eastman kodak co,1,0,0,0,20210112,engelberg jeffrey d.,89183921000021,,male,77200000.0
+,,31235,eastman kodak co,1,0,1,0,20210112,katz philippe d,89183921000022,,male,77200000.0
+,,31235,eastman kodak co,0,1,0,0,20210120,byrd roger w.,89183921000026,"General Counsel, Sec., SVP",male,77200000.0
+,,31235,eastman kodak co,1,1,0,0,20210302,continenza james v,89183921000056,Executive Chairman and CEO,male,78503476.0
+,,31235,eastman kodak co,1,0,1,0,20210402,katz philippe d,89183921000105,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210402,parrett william g,89183921000107,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210402,karfunkel george,89183921000109,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210402,engelberg jeffrey d.,89183921000111,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210402,new jason griffin,89183921000103,,male,78500000.0
+,,31235,eastman kodak co,0,1,0,0,20210506,michaels richard t,89183921000125,CAO and Corp. Controller,male,78500000.0
+,,31235,eastman kodak co,1,0,1,0,20210520,katz philippe d,89183921000159,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210520,sileck michael,89183921000160,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210520,new jason griffin,89183921000161,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210520,karfunkel george,89183921000165,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210520,engelberg jeffrey d.,89183921000163,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210520,parrett william g,89183921000164,,male,78500000.0
+,,31235,eastman kodak co,1,0,0,0,20210520,lynch kathleen b.,89183921000162,,female,78500000.0
+,,31235,eastman kodak co,1,0,1,0,20210526,golisano b thomas,184727321000002,,male,78500000.0
+,,31235,eastman kodak co,0,0,1,0,20210706,"go ek ventures iv, llc",184727321000004,,male,78500000.0
+,,31235,eastman kodak co,0,1,0,0,20210908,vandagriff randy,89183921000273,Vice President,male,78573655.0
+,,31235,eastman kodak co,0,1,0,0,20210908,taber terry r,89183921000274,Vice President,male,78573655.0
+,,31235,eastman kodak co,0,1,0,0,20210908,bullwinkle david e,89183921000272,CFO and Senior Vice President,male,78573655.0
+,,31235,eastman kodak co,0,1,0,0,20210908,o'grady john g.,89183921000271,Vice President,male,78573655.0
+,,31235,eastman kodak co,0,0,1,0,20211012,"go ek ventures iv, llc",184727321000005,,male,78600000.0
+,,31235,eastman kodak co,1,0,1,0,20220104,"go ek ventures iv, llc",184727322000001,,male,78700000.0
+,,31235,eastman kodak co,0,1,0,0,20220119,byrd roger w.,106299322001217,"General Counsel, Sec., SVP",male,78700000.0
+,,31235,eastman kodak co,1,1,0,0,20220301,continenza james v,106299322006128,Executive Chairman and CEO,male,78700000.0
+,,31235,eastman kodak co,0,1,0,0,20220324,vandagriff randy,106299322008507,Vice President,male,78739304.0
+,,31235,eastman kodak co,1,0,0,0,20220325,sileck michael,106299322008653,,male,78739304.0
+,,31235,eastman kodak co,0,1,0,0,20220429,michaels richard t,106299322011066,CAO and Corp. Controller,male,78900000.0
+19000.0,,31235,eastman kodak co,1,0,0,0,20220519,golisano b thomas,193014622000001,,male,78900000.0
+,,31235,eastman kodak co,1,0,1,0,20220519,katz philippe d,106299322013039,,male,78900000.0
+,,31235,eastman kodak co,1,0,0,0,20220519,sileck michael,106299322013038,,male,78900000.0
+,,31235,eastman kodak co,1,0,0,0,20220519,lynch kathleen b.,106299322013037,,female,78900000.0
+,,31235,eastman kodak co,1,0,0,0,20220519,new jason griffin,106299322013036,,male,78900000.0
+,,31235,eastman kodak co,1,0,1,0,20230221,katz philippe d,106299323004262,,male,79100000.0
+,,31235,eastman kodak co,0,1,0,0,20230221,byrd roger w.,106299323004261,"General Counsel, Sec., SVP",male,79100000.0
+,,31235,eastman kodak co,0,1,0,0,20230221,taber terry r,106299323004260,Vice President,male,79100000.0
+,,31235,eastman kodak co,0,1,0,0,20230221,bullwinkle david e,106299323004259,CFO and Senior Vice President,male,79100000.0
+,,31235,eastman kodak co,1,0,0,0,20230221,new jason griffin,106299323004264,,male,79100000.0
+,,31235,eastman kodak co,1,1,0,0,20230221,continenza james v,106299323004263,Executive Chairman and CEO,male,79100000.0
+,,31235,eastman kodak co,1,1,0,0,20230228,continenza james v,106299323005113,Executive Chairman and CEO,male,79100000.0
+,,31235,eastman kodak co,1,0,1,0,20230323,katz philippe d,106299323007551,,male,79140439.0
+,,31235,eastman kodak co,0,1,0,0,20230501,michaels richard t,106299323009809,CAO and Corp. Controller,male,79300000.0
+,,31235,eastman kodak co,1,0,0,0,20230518,new jason griffin,106299323011698,,male,79300000.0
+,,31235,eastman kodak co,1,0,1,0,20230518,katz philippe d,106299323011699,,male,79300000.0
+,,31235,eastman kodak co,1,0,0,0,20230518,sileck michael,106299323011700,,male,79300000.0
+,,31235,eastman kodak co,1,0,0,0,20230518,lynch kathleen b.,106299323011697,,female,79300000.0
+,,31235,eastman kodak co,0,1,0,0,20230519,byrd roger w.,106299323011853,"General Counsel, Sec., SVP",male,79300000.0
+,,31235,eastman kodak co,0,1,0,0,20230519,bullwinkle david e,106299323011854,CFO and Senior Vice President,male,79300000.0
+,,31235,eastman kodak co,0,1,0,0,20230519,michaels richard t,106299323011855,CAO and Corp. Controller,male,79300000.0
+,,31235,eastman kodak co,0,1,0,0,20230519,taber terry r,106299323011856,Vice President,male,79300000.0
+,,31235,eastman kodak co,1,0,0,0,20230519,golisano b thomas,197482923000002,,male,79300000.0
+,,31235,eastman kodak co,1,0,1,0,20230523,katz philippe d,106299323011994,,male,79300000.0
+,,31235,eastman kodak co,1,0,0,0,20230523,sileck michael,106299323011995,,male,79300000.0
+,,31235,eastman kodak co,1,0,0,0,20230825,bovenzi david,106299323017122,,male,79473557.0
+,,31235,eastman kodak co,0,0,0,1,20230825,golisano b thomas,198872623000002,,male,79473557.0
+,,31235,eastman kodak co,1,0,1,0,20231120,katz philippe d,106299323021208,,male,79552966.0
+,,31235,eastman kodak co,1,1,0,0,20231201,continenza james v,106299323021680,Executive Chairman and CEO,male,79552966.0
+,,31235,eastman kodak co,0,1,0,0,20231204,byrd roger w.,106299323021834,"General Counsel, Sec., SVP",male,79552966.0
+,,31235,eastman kodak co,1,0,1,0,20231204,katz philippe d,106299323021833,,male,79552966.0
+,,31235,eastman kodak co,0,1,0,0,20231207,bullwinkle david e,106299323022084,CFO and Senior Vice President,male,79552966.0
+,,31235,eastman kodak co,1,0,0,0,20231212,new jason griffin,106299323022441,,male,79552966.0
+,,31235,eastman kodak co,1,1,0,0,20231212,continenza james v,106299323022439,Executive Chairman and CEO,male,79552966.0
+,,31235,eastman kodak co,1,1,0,0,20240228,continenza james v,106299324004769,Executive Chairman and CEO,male,79600000.0
+,,31235,eastman kodak co,0,1,0,0,20240328,bullwinkle david e,106299324007381,CFO and Senior Vice President,male,79900000.0
+,,31235,eastman kodak co,0,1,0,0,20240328,byrd roger w.,106299324007382,"General Counsel, Sec., SVP",male,79900000.0
+,,31235,eastman kodak co,1,1,0,0,20240328,continenza james v,106299324007383,Executive Chairman and CEO,male,79900000.0
+,,31235,eastman kodak co,1,0,1,0,20240328,katz philippe d,106299324007384,,male,79900000.0
+,,31235,eastman kodak co,1,0,0,0,20240328,new jason griffin,106299324007385,,male,79900000.0
+,,31235,eastman kodak co,0,1,0,0,20240430,michaels richard t,106299324009053,CAO and Corp. Controller,male,79900000.0
+,,31235,eastman kodak co,1,0,1,0,20240516,katz philippe d,106299324010468,,male,79900000.0
+,,31235,eastman kodak co,1,0,0,0,20240516,bovenzi david,106299324010467,,male,79900000.0
+,,31235,eastman kodak co,1,0,0,0,20240516,lynch kathleen b.,106299324010469,,female,79900000.0
+,,31235,eastman kodak co,1,0,0,0,20240516,new jason griffin,106299324010470,,male,79900000.0
+,,31235,eastman kodak co,1,0,0,0,20240516,sileck michael,106299324010471,,male,79900000.0
+,,31235,eastman kodak co,0,1,0,0,20240521,bullwinkle david e,106299324010897,CFO and Senior Vice President,male,79900000.0
+,,31235,eastman kodak co,0,1,0,0,20240521,michaels richard t,106299324010894,CAO and Corp. Controller,male,79900000.0
+,,31235,eastman kodak co,0,1,0,0,20240521,taber terry r,106299324010895,Vice President,male,79900000.0
+,,31235,eastman kodak co,0,1,0,0,20240521,byrd roger w.,106299324010896,"General Counsel, Sec., SVP",male,79900000.0
+,,31235,eastman kodak co,1,1,0,0,20241202,continenza james v,106299324019875,Executive Chairman and CEO,male,80400000.0
+,,31235,eastman kodak co,1,0,1,0,20241213,katz philippe d,106299324020574,,male,80400000.0
+,,31235,eastman kodak co,1,0,0,0,20241223,sileck michael,106299324021150,,male,80400000.0

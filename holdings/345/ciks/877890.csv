@@ -1,390 +1,1269 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-294400.0,163050.0,877890,citrix systems inc,1,0,0,0,20100128,dow stephen m,117911010001621,,male,264831000.0
-13332.0,0.0,877890,citrix systems inc,1,0,0,0,20100202,sullivan godfrey,87789010000004,,male,264831000.0
-206800.0,0.0,877890,citrix systems inc,1,1,0,0,20100202,templeton mark b,87789010000005,CEO & President,male,264831000.0
-6703.0,5498.0,877890,citrix systems inc,0,1,0,0,20100202,levine peter,87789010000006,"SVP, Datacenter & Cloud Div",male,264831000.0
-18332.0,0.0,877890,citrix systems inc,1,0,0,0,20100209,demo murray j,87789010000008,,male,264831000.0
-41251.0,0.0,877890,citrix systems inc,1,0,0,0,20100211,morin gary e,87789010000012,,male,264831000.0
-70382.0,0.0,877890,citrix systems inc,0,1,0,0,20100211,caine brett,87789010000014,"SVP, Online Services Division",male,264831000.0
-38263.0,0.0,877890,citrix systems inc,0,1,0,0,20100212,wasson wesley r,87789010000030,SVP & Chief Marketing Officer,male,264831000.0
-239800.0,0.0,877890,citrix systems inc,1,1,0,0,20100212,templeton mark b,87789010000028,CEO & President,male,264831000.0
-37687.0,0.0,877890,citrix systems inc,0,1,0,0,20100212,payne john gordon,87789010000026,"SVP, Desktop Division",male,264831000.0
-16120.0,5498.0,877890,citrix systems inc,0,1,0,0,20100212,levine peter,87789010000022,"SVP, Datacenter & Cloud Div",male,264831000.0
-46532.0,0.0,877890,citrix systems inc,0,1,0,0,20100212,friedman david r,87789010000019,"General Counsel & SVP, HR",male,264831000.0
-81182.0,0.0,877890,citrix systems inc,0,1,0,0,20100212,caine brett,87789010000017,"SVP, Online Services Division",male,264831000.0
-36315.0,0.0,877890,citrix systems inc,0,1,0,0,20100212,monserrat alvaro,87789010000024,"SVP, Sales and Services",male,264831000.0
-81182.0,0.0,877890,citrix systems inc,0,1,0,0,20100222,caine brett,87789010000033,"SVP, Online Services Division",male,264831000.0
-36315.0,0.0,877890,citrix systems inc,0,1,0,0,20100222,monserrat alvaro,87789010000035,"SVP, Sales and Services",male,264831000.0
-37687.0,0.0,877890,citrix systems inc,0,1,0,0,20100222,payne john gordon,87789010000037,"SVP, Desktop Division",male,264831000.0
-79127.0,0.0,877890,citrix systems inc,0,1,0,0,20100304,caine brett,87789010000046,"SVP, Online Services Division",male,264831000.0
-36322.0,0.0,877890,citrix systems inc,0,1,0,0,20100304,wasson wesley r,87789010000047,SVP & Chief Marketing Officer,male,264831000.0
-233562.0,0.0,877890,citrix systems inc,1,1,0,0,20100304,templeton mark b,87789010000048,CEO & President,male,264831000.0
-35517.0,0.0,877890,citrix systems inc,0,1,0,0,20100305,payne john gordon,87789010000053,"SVP, Desktop Division",male,264831000.0
-34668.0,0.0,877890,citrix systems inc,0,1,0,0,20100305,monserrat alvaro,87789010000052,"SVP, Sales and Services",male,264831000.0
-44967.0,0.0,877890,citrix systems inc,0,1,0,0,20100305,friedman david r,87789010000050,"General Counsel & SVP, HR",male,264831000.0
-0.0,294400.0,877890,citrix systems inc,1,0,0,0,20100305,dow stephen m,117911010004582,,male,264831000.0
-63817.0,0.0,877890,citrix systems inc,0,1,0,0,20100305,henshall david j,87789010000049,SVP & Chief Financial Officer,male,264831000.0
-14171.0,5498.0,877890,citrix systems inc,0,1,0,0,20100305,levine peter,87789010000051,"SVP, Datacenter & Cloud Div",male,264831000.0
-41251.0,0.0,877890,citrix systems inc,1,0,0,0,20100311,morin gary e,87789010000055,,male,264831000.0
-35517.0,0.0,877890,citrix systems inc,0,1,0,0,20100316,payne john gordon,87789010000059,"SVP, Desktop Division",male,264831000.0
-36322.0,0.0,877890,citrix systems inc,0,1,0,0,20100316,wasson wesley r,87789010000060,SVP & Chief Marketing Officer,male,264831000.0
-52989.0,0.0,877890,citrix systems inc,0,1,0,0,20100405,wasson wesley r,87789010000069,SVP & Chief Marketing Officer,male,270592000.0
-280562.0,0.0,877890,citrix systems inc,1,1,0,0,20100405,templeton mark b,87789010000068,CEO & President,male,270592000.0
-53850.0,0.0,877890,citrix systems inc,0,1,0,0,20100405,payne john gordon,87789010000067,"SVP, Desktop Division",male,270592000.0
+294400.0,163050.0,877890,citrix systems inc,1,0,0,0,20100128,dow stephen m,117911010001621,,male,
+13332.0,,877890,citrix systems inc,1,0,0,0,20100202,sullivan godfrey,87789010000004,,male,
+206800.0,,877890,citrix systems inc,1,1,0,0,20100202,templeton mark b,87789010000005,CEO & President,male,
+6703.0,5498.0,877890,citrix systems inc,0,1,0,0,20100202,levine peter,87789010000006,"SVP, Datacenter & Cloud Div",male,
+18332.0,,877890,citrix systems inc,1,0,0,0,20100209,demo murray j,87789010000008,,male,
+41251.0,,877890,citrix systems inc,1,0,0,0,20100211,morin gary e,87789010000012,,male,
+70382.0,,877890,citrix systems inc,0,1,0,0,20100211,caine brett,87789010000014,"SVP, Online Services Division",male,
+38263.0,,877890,citrix systems inc,0,1,0,0,20100212,wasson wesley r,87789010000030,SVP & Chief Marketing Officer,male,
+37687.0,,877890,citrix systems inc,0,1,0,0,20100212,payne john gordon,87789010000026,"SVP, Desktop Division",male,
+36315.0,,877890,citrix systems inc,0,1,0,0,20100212,monserrat alvaro,87789010000024,"SVP, Sales and Services",male,
+239800.0,,877890,citrix systems inc,1,1,0,0,20100212,templeton mark b,87789010000028,CEO & President,male,
+46532.0,,877890,citrix systems inc,0,1,0,0,20100212,friedman david r,87789010000019,"General Counsel & SVP, HR",male,
+81182.0,,877890,citrix systems inc,0,1,0,0,20100212,caine brett,87789010000017,"SVP, Online Services Division",male,
+16120.0,5498.0,877890,citrix systems inc,0,1,0,0,20100212,levine peter,87789010000022,"SVP, Datacenter & Cloud Div",male,
+81182.0,,877890,citrix systems inc,0,1,0,0,20100222,caine brett,87789010000033,"SVP, Online Services Division",male,
+36315.0,,877890,citrix systems inc,0,1,0,0,20100222,monserrat alvaro,87789010000035,"SVP, Sales and Services",male,
+37687.0,,877890,citrix systems inc,0,1,0,0,20100222,payne john gordon,87789010000037,"SVP, Desktop Division",male,
+36322.0,,877890,citrix systems inc,0,1,0,0,20100304,wasson wesley r,87789010000047,SVP & Chief Marketing Officer,male,
+79127.0,,877890,citrix systems inc,0,1,0,0,20100304,caine brett,87789010000046,"SVP, Online Services Division",male,
+233562.0,,877890,citrix systems inc,1,1,0,0,20100304,templeton mark b,87789010000048,CEO & President,male,
+35517.0,,877890,citrix systems inc,0,1,0,0,20100305,payne john gordon,87789010000053,"SVP, Desktop Division",male,
+34668.0,,877890,citrix systems inc,0,1,0,0,20100305,monserrat alvaro,87789010000052,"SVP, Sales and Services",male,
+14171.0,5498.0,877890,citrix systems inc,0,1,0,0,20100305,levine peter,87789010000051,"SVP, Datacenter & Cloud Div",male,
+44967.0,,877890,citrix systems inc,0,1,0,0,20100305,friedman david r,87789010000050,"General Counsel & SVP, HR",male,
+63817.0,,877890,citrix systems inc,0,1,0,0,20100305,henshall david j,87789010000049,SVP & Chief Financial Officer,male,
+0.0,294400.0,877890,citrix systems inc,1,0,0,0,20100305,dow stephen m,117911010004582,,male,
+41251.0,,877890,citrix systems inc,1,0,0,0,20100311,morin gary e,87789010000055,,male,
+36322.0,,877890,citrix systems inc,0,1,0,0,20100316,wasson wesley r,87789010000060,SVP & Chief Marketing Officer,male,
+35517.0,,877890,citrix systems inc,0,1,0,0,20100316,payne john gordon,87789010000059,"SVP, Desktop Division",male,
+83817.0,,877890,citrix systems inc,0,1,0,0,20100405,henshall david j,87789010000064,SVP & Chief Financial Officer,male,270592000.0
+53850.0,,877890,citrix systems inc,0,1,0,0,20100405,payne john gordon,87789010000067,"SVP, Desktop Division",male,270592000.0
+280562.0,,877890,citrix systems inc,1,1,0,0,20100405,templeton mark b,87789010000068,CEO & President,male,270592000.0
+52989.0,,877890,citrix systems inc,0,1,0,0,20100405,wasson wesley r,87789010000069,SVP & Chief Marketing Officer,male,270592000.0
+61634.0,,877890,citrix systems inc,0,1,0,0,20100405,friedman david r,87789010000063,"General Counsel & SVP, HR",male,270592000.0
+53001.0,,877890,citrix systems inc,0,1,0,0,20100405,monserrat alvaro,87789010000066,"SVP, Sales and Services",male,270592000.0
 30838.0,5498.0,877890,citrix systems inc,0,1,0,0,20100405,levine peter,87789010000065,"SVP, Datacenter & Cloud Div",male,270592000.0
-83817.0,0.0,877890,citrix systems inc,0,1,0,0,20100405,henshall david j,87789010000064,SVP & Chief Financial Officer,male,270592000.0
-61634.0,0.0,877890,citrix systems inc,0,1,0,0,20100405,friedman david r,87789010000063,"General Counsel & SVP, HR",male,270592000.0
-97460.0,0.0,877890,citrix systems inc,0,1,0,0,20100405,caine brett,87789010000062,"SVP, Online Services Division",male,270592000.0
-53001.0,0.0,877890,citrix systems inc,0,1,0,0,20100405,monserrat alvaro,87789010000066,"SVP, Sales and Services",male,270592000.0
-2692.0,0.0,877890,citrix systems inc,0,1,0,0,20100427,levine peter,87789010000071,"SVP, Datacenter & Cloud Div",male,270592000.0
-280562.0,0.0,877890,citrix systems inc,1,1,0,0,20100428,templeton mark b,87789010000073,CEO & President,male,270592000.0
-18845.0,0.0,877890,citrix systems inc,1,0,0,0,20100504,hirji asiff s,87789010000083,,male,185747839.0
-51660.0,0.0,877890,citrix systems inc,0,1,0,0,20100504,wasson wesley r,87789010000082,SVP & Chief Marketing Officer,male,185747839.0
+97460.0,,877890,citrix systems inc,0,1,0,0,20100405,caine brett,87789010000062,"SVP, Online Services Division",male,270592000.0
+2692.0,,877890,citrix systems inc,0,1,0,0,20100427,levine peter,87789010000071,"SVP, Datacenter & Cloud Div",male,270592000.0
+280562.0,,877890,citrix systems inc,1,1,0,0,20100428,templeton mark b,87789010000073,CEO & President,male,270592000.0
+18845.0,,877890,citrix systems inc,1,0,0,0,20100504,hirji asiff s,87789010000083,,male,185747839.0
+51660.0,,877890,citrix systems inc,0,1,0,0,20100504,wasson wesley r,87789010000082,SVP & Chief Marketing Officer,male,185747839.0
 226024.0,49779.0,877890,citrix systems inc,1,1,0,0,20100504,templeton mark b,87789010000081,CEO & President,male,185747839.0
 42209.0,10682.0,877890,citrix systems inc,0,1,0,0,20100504,payne john gordon,87789010000080,"SVP, Desktop Division",male,185747839.0
-0.0,5498.0,877890,citrix systems inc,0,1,0,0,20100504,levine peter,87789010000078,"SVP, Datacenter & Cloud Div",male,185747839.0
-81715.0,0.0,877890,citrix systems inc,0,1,0,0,20100504,henshall david j,87789010000077,SVP & Chief Financial Officer,male,185747839.0
-96911.0,0.0,877890,citrix systems inc,0,1,0,0,20100504,caine brett,87789010000076,"SVP, Online Services Division",male,185747839.0
-60263.0,0.0,877890,citrix systems inc,0,1,0,0,20100504,friedman david r,87789010000075,"General Counsel & SVP, HR",male,185747839.0
-52585.0,0.0,877890,citrix systems inc,0,1,0,0,20100504,monserrat alvaro,87789010000079,"SVP, Sales and Services",male,185747839.0
-41251.0,0.0,877890,citrix systems inc,1,0,0,0,20100505,morin gary e,87789010000085,,male,185747839.0
-39432.0,0.0,877890,citrix systems inc,1,0,0,0,20100517,bogan thomas f,87789010000088,,male,185747839.0
-60263.0,0.0,877890,citrix systems inc,0,1,0,0,20100517,friedman david r,87789010000089,"General Counsel & SVP, HR",male,185747839.0
-16665.0,0.0,877890,citrix systems inc,1,0,0,0,20100603,sullivan godfrey,87789010000101,,male,185747839.0
-44584.0,0.0,877890,citrix systems inc,1,0,0,0,20100603,morin gary e,87789010000100,,male,185747839.0
+52585.0,,877890,citrix systems inc,0,1,0,0,20100504,monserrat alvaro,87789010000079,"SVP, Sales and Services",male,185747839.0
+,5498.0,877890,citrix systems inc,0,1,0,0,20100504,levine peter,87789010000078,"SVP, Datacenter & Cloud Div",male,185747839.0
+81715.0,,877890,citrix systems inc,0,1,0,0,20100504,henshall david j,87789010000077,SVP & Chief Financial Officer,male,185747839.0
+96911.0,,877890,citrix systems inc,0,1,0,0,20100504,caine brett,87789010000076,"SVP, Online Services Division",male,185747839.0
+60263.0,,877890,citrix systems inc,0,1,0,0,20100504,friedman david r,87789010000075,"General Counsel & SVP, HR",male,185747839.0
+41251.0,,877890,citrix systems inc,1,0,0,0,20100505,morin gary e,87789010000085,,male,185747839.0
+39432.0,,877890,citrix systems inc,1,0,0,0,20100517,bogan thomas f,87789010000088,,male,185747839.0
+60263.0,,877890,citrix systems inc,0,1,0,0,20100517,friedman david r,87789010000089,"General Counsel & SVP, HR",male,185747839.0
+42765.0,,877890,citrix systems inc,1,0,0,0,20100603,bogan thomas f,87789010000096,,male,185747839.0
+6666.0,,877890,citrix systems inc,1,0,0,0,20100603,caldwell nanci,87789010000097,,female,185747839.0
+21665.0,,877890,citrix systems inc,1,0,0,0,20100603,demo murray j,87789010000098,,male,185747839.0
+22178.0,,877890,citrix systems inc,1,0,0,0,20100603,hirji asiff s,87789010000099,,male,185747839.0
+44584.0,,877890,citrix systems inc,1,0,0,0,20100603,morin gary e,87789010000100,,male,185747839.0
+16665.0,,877890,citrix systems inc,1,0,0,0,20100603,sullivan godfrey,87789010000101,,male,185747839.0
 16665.0,294400.0,877890,citrix systems inc,1,0,0,0,20100603,dow stephen m,117911010009877,,male,185747839.0
-21665.0,0.0,877890,citrix systems inc,1,0,0,0,20100603,demo murray j,87789010000098,,male,185747839.0
-6666.0,0.0,877890,citrix systems inc,1,0,0,0,20100603,caldwell nanci,87789010000097,,female,185747839.0
-42765.0,0.0,877890,citrix systems inc,1,0,0,0,20100603,bogan thomas f,87789010000096,,male,185747839.0
-22178.0,0.0,877890,citrix systems inc,1,0,0,0,20100603,hirji asiff s,87789010000099,,male,185747839.0
-81715.0,0.0,877890,citrix systems inc,0,1,0,0,20100607,henshall david j,87789010000103,SVP & Chief Financial Officer,male,185747839.0
-94271.0,0.0,877890,citrix systems inc,0,1,0,0,20100615,caine brett,87789010000105,"SVP, Online Services Division",male,185747839.0
-13502.0,0.0,877890,citrix systems inc,0,1,0,0,20100615,payne john gordon,87789010000107,"SVP, Desktop Division",male,185747839.0
+81715.0,,877890,citrix systems inc,0,1,0,0,20100607,henshall david j,87789010000103,SVP & Chief Financial Officer,male,185747839.0
+94271.0,,877890,citrix systems inc,0,1,0,0,20100615,caine brett,87789010000105,"SVP, Online Services Division",male,185747839.0
+13502.0,,877890,citrix systems inc,0,1,0,0,20100615,payne john gordon,87789010000107,"SVP, Desktop Division",male,185747839.0
 30838.0,5498.0,877890,citrix systems inc,0,1,0,0,20100616,levine peter,87789010000109,"SVP & GM, Virtualization & Mgt",male,185747839.0
-94271.0,0.0,877890,citrix systems inc,0,1,0,0,20100617,caine brett,87789010000111,"SVP, Online Services Division",male,185747839.0
-44584.0,0.0,877890,citrix systems inc,1,0,0,0,20100621,morin gary e,87789010000113,,male,185747839.0
-94271.0,0.0,877890,citrix systems inc,0,1,0,0,20100621,caine brett,87789010000115,"SVP, Online Services Division",male,185747839.0
-94271.0,0.0,877890,citrix systems inc,0,1,0,0,20100623,caine brett,87789010000118,"SVP, Online Services Division",male,185747839.0
-81715.0,0.0,877890,citrix systems inc,0,1,0,0,20100623,henshall david j,87789010000119,SVP & Chief Financial Officer,male,185747839.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20100803,wasson wesley r,87789010000137,SVP & Chief Marketing Officer,male,186939548.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20100803,friedman david r,87789010000135,"General Counsel & SVP, HR",male,186939548.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20100803,monserrat alvaro,87789010000133,"SVP, Sales and Services",male,186939548.0
-83004.0,0.0,877890,citrix systems inc,0,1,0,0,20100803,henshall david j,87789010000131,SVP & Chief Financial Officer,male,186939548.0
-44584.0,0.0,877890,citrix systems inc,1,0,0,0,20100803,morin gary e,87789010000127,,male,186939548.0
-0.0,19348.0,877890,citrix systems inc,0,1,0,0,20100803,payne john gordon,87789010000125,"SVP, Desktop Division",male,186939548.0
-34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100803,caine brett,87789010000123,"SVP, Online Services Division",male,186939548.0
-31259.0,5498.0,877890,citrix systems inc,0,1,0,0,20100803,levine peter,87789010000129,"SVP, Datacenter & Cloud Div",male,186939548.0
+94271.0,,877890,citrix systems inc,0,1,0,0,20100617,caine brett,87789010000111,"SVP, Online Services Division",male,185747839.0
+44584.0,,877890,citrix systems inc,1,0,0,0,20100621,morin gary e,87789010000113,,male,185747839.0
+94271.0,,877890,citrix systems inc,0,1,0,0,20100621,caine brett,87789010000115,"SVP, Online Services Division",male,185747839.0
+81715.0,,877890,citrix systems inc,0,1,0,0,20100623,henshall david j,87789010000119,SVP & Chief Financial Officer,male,185747839.0
+94271.0,,877890,citrix systems inc,0,1,0,0,20100623,caine brett,87789010000118,"SVP, Online Services Division",male,185747839.0
+44584.0,,877890,citrix systems inc,1,0,0,0,20100803,morin gary e,87789010000127,,male,186939548.0
+,19348.0,877890,citrix systems inc,0,1,0,0,20100803,payne john gordon,87789010000125,"SVP, Desktop Division",male,186939548.0
+,,877890,citrix systems inc,0,1,0,0,20100803,caine brett,87789010000123,"SVP, Online Services Division",male,186939548.0
 165553.0,101393.0,877890,citrix systems inc,1,1,0,0,20100803,templeton mark b,87789010000121,CEO & President,male,186939548.0
-34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100805,caine brett,87789010000139,"SVP, Online Services Division",male,186939548.0
+,,877890,citrix systems inc,0,1,0,0,20100803,henshall david j,87789010000131,SVP & Chief Financial Officer,male,186939548.0
+,,877890,citrix systems inc,0,1,0,0,20100803,monserrat alvaro,87789010000133,"SVP, Sales and Services",male,186939548.0
+31259.0,5498.0,877890,citrix systems inc,0,1,0,0,20100803,levine peter,87789010000129,"SVP, Datacenter & Cloud Div",male,186939548.0
+,,877890,citrix systems inc,0,1,0,0,20100803,friedman david r,87789010000135,"General Counsel & SVP, HR",male,186939548.0
+,,877890,citrix systems inc,0,1,0,0,20100803,wasson wesley r,87789010000137,SVP & Chief Marketing Officer,male,186939548.0
 170875.0,101393.0,877890,citrix systems inc,1,1,0,0,20100805,templeton mark b,87789010000141,CEO & President,male,186939548.0
+34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100805,caine brett,87789010000139,"SVP, Online Services Division",male,186939548.0
 34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100805,caine brett,87789010000143,"SVP, Online Services Division",male,186939548.0
-52585.0,0.0,877890,citrix systems inc,0,1,0,0,20100809,monserrat alvaro,87789010000145,"SVP, Sales and Services",male,186939548.0
-21665.0,0.0,877890,citrix systems inc,1,0,0,0,20100810,demo murray j,87789010000147,,male,186939548.0
+52585.0,,877890,citrix systems inc,0,1,0,0,20100809,monserrat alvaro,87789010000145,"SVP, Sales and Services",male,186939548.0
+21665.0,,877890,citrix systems inc,1,0,0,0,20100810,demo murray j,87789010000147,,male,186939548.0
 34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100811,caine brett,87789010000149,"SVP, Online Services Division",male,186939548.0
 34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100824,caine brett,87789010000151,"SVP, Online Services Division",male,186939548.0
 34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100907,caine brett,87789010000153,"SVP, Online Services Division",male,186939548.0
-51370.0,0.0,877890,citrix systems inc,0,1,0,0,20100907,monserrat alvaro,87789010000155,"SVP, Sales and Services",male,186939548.0
+51370.0,,877890,citrix systems inc,0,1,0,0,20100907,monserrat alvaro,87789010000155,"SVP, Sales and Services",male,186939548.0
 34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100910,caine brett,87789010000157,"SVP, Online Services Division",male,186939548.0
 34518.0,13267.0,877890,citrix systems inc,0,1,0,0,20100913,caine brett,87789010000159,"SVP, Online Services Division",male,186939548.0
 31259.0,5498.0,877890,citrix systems inc,0,1,0,0,20100915,levine peter,87789010000161,"SVP, Datacenter & Cloud Div",male,186939548.0
-85856.0,0.0,877890,citrix systems inc,0,1,0,0,20100917,henshall david j,87789010000163,SVP & Chief Financial Officer,male,186939548.0
-33580.0,13267.0,877890,citrix systems inc,0,1,0,0,20101005,caine brett,87789010000167,"SVP, Online Services Division",male,276327000.0
+,,877890,citrix systems inc,0,1,0,0,20100917,henshall david j,87789010000163,SVP & Chief Financial Officer,male,186939548.0
 164176.0,101393.0,877890,citrix systems inc,1,1,0,0,20101005,templeton mark b,87789010000177,CEO & President,male,276327000.0
-50345.0,0.0,877890,citrix systems inc,0,1,0,0,20101005,monserrat alvaro,87789010000165,"SVP, Sales and Services",male,276327000.0
 37426.0,19348.0,877890,citrix systems inc,0,1,0,0,20101005,payne john gordon,87789010000173,"SVP, Desktop Division",male,276327000.0
-58889.0,0.0,877890,citrix systems inc,0,1,0,0,20101005,friedman david r,87789010000169,"General Counsel & SVP, HR",male,276327000.0
-84482.0,0.0,877890,citrix systems inc,0,1,0,0,20101005,henshall david j,87789010000171,SVP & Chief Financial Officer,male,276327000.0
-50605.0,0.0,877890,citrix systems inc,0,1,0,0,20101005,wasson wesley r,87789010000175,SVP & Chief Marketing Officer,male,276327000.0
+84482.0,,877890,citrix systems inc,0,1,0,0,20101005,henshall david j,87789010000171,SVP & Chief Financial Officer,male,276327000.0
+58889.0,,877890,citrix systems inc,0,1,0,0,20101005,friedman david r,87789010000169,"General Counsel & SVP, HR",male,276327000.0
+33580.0,13267.0,877890,citrix systems inc,0,1,0,0,20101005,caine brett,87789010000167,"SVP, Online Services Division",male,276327000.0
+50605.0,,877890,citrix systems inc,0,1,0,0,20101005,wasson wesley r,87789010000175,SVP & Chief Marketing Officer,male,276327000.0
+50345.0,,877890,citrix systems inc,0,1,0,0,20101005,monserrat alvaro,87789010000165,"SVP, Sales and Services",male,276327000.0
 31259.0,5498.0,877890,citrix systems inc,0,1,0,0,20101027,levine peter,87789010000179,"SVP, Datacenter & Cloud Div",male,276327000.0
-19561.0,0.0,877890,citrix systems inc,0,1,0,0,20101110,payne john gordon,87789010000182,"SVP, Desktop Division",male,187774447.0
-50605.0,0.0,877890,citrix systems inc,0,1,0,0,20101117,wasson wesley r,87789010000184,SVP & Chief Marketing Officer,male,187774447.0
-58889.0,0.0,877890,citrix systems inc,0,1,0,0,20101124,friedman david r,87789010000186,"General Counsel & SVP, HR",male,187774447.0
-324400.0,0.0,877890,citrix systems inc,1,0,0,0,20101124,dow stephen m,117911010016590,,male,187774447.0
-16665.0,0.0,877890,citrix systems inc,1,0,0,0,20101129,sullivan godfrey,87789010000188,,male,187774447.0
+19561.0,,877890,citrix systems inc,0,1,0,0,20101110,payne john gordon,87789010000182,"SVP, Desktop Division",male,187774447.0
+50605.0,,877890,citrix systems inc,0,1,0,0,20101117,wasson wesley r,87789010000184,SVP & Chief Marketing Officer,male,187774447.0
+58889.0,,877890,citrix systems inc,0,1,0,0,20101124,friedman david r,87789010000186,"General Counsel & SVP, HR",male,187774447.0
+324400.0,,877890,citrix systems inc,1,0,0,0,20101124,dow stephen m,117911010016590,,male,187774447.0
+16665.0,,877890,citrix systems inc,1,0,0,0,20101129,sullivan godfrey,87789010000188,,male,187774447.0
 35384.0,19561.0,877890,citrix systems inc,0,1,0,0,20101206,payne john gordon,87789010000190,"SVP, Desktop Division",male,187774447.0
 134176.0,101393.0,877890,citrix systems inc,1,1,0,0,20101213,templeton mark b,87789010000192,CEO & President,male,187774447.0
+84482.0,,877890,citrix systems inc,0,1,0,0,20101215,henshall david j,87789010000194,SVP & Chief Financial Officer,male,187774447.0
 31259.0,5498.0,877890,citrix systems inc,0,1,0,0,20101215,levine peter,87789010000196,"SVP, Datacenter & Cloud Div",male,187774447.0
-84482.0,0.0,877890,citrix systems inc,0,1,0,0,20101215,henshall david j,87789010000194,SVP & Chief Financial Officer,male,187774447.0
-50345.0,0.0,877890,citrix systems inc,0,1,0,0,20101217,monserrat alvaro,87789010000198,"SVP, Sales and Services",male,187774447.0
-84482.0,0.0,877890,citrix systems inc,0,1,0,0,20101221,henshall david j,87789010000200,SVP & Chief Financial Officer,male,187774447.0
+50345.0,,877890,citrix systems inc,0,1,0,0,20101217,monserrat alvaro,87789010000198,"SVP, Sales and Services",male,187774447.0
+84482.0,,877890,citrix systems inc,0,1,0,0,20101221,henshall david j,87789010000200,SVP & Chief Financial Officer,male,187774447.0
 134176.0,101393.0,877890,citrix systems inc,1,1,0,0,20110202,templeton mark b,87789011000002,CEO & President,male,277922000.0
-4335.0,0.0,877890,citrix systems inc,1,0,0,0,20110204,caldwell nanci,87789011000004,,female,277922000.0
-44584.0,0.0,877890,citrix systems inc,1,0,0,0,20110215,morin gary e,87789011000008,,male,277922000.0
-84788.0,0.0,877890,citrix systems inc,0,1,0,0,20110215,henshall david j,87789011000007,SVP & Chief Financial Officer,male,277922000.0
-50605.0,0.0,877890,citrix systems inc,0,1,0,0,20110216,wasson wesley r,87789011000010,SVP & Chief Marketing Officer,male,277922000.0
+4335.0,,877890,citrix systems inc,1,0,0,0,20110204,caldwell nanci,87789011000004,,female,277922000.0
+84788.0,,877890,citrix systems inc,0,1,0,0,20110215,henshall david j,87789011000007,SVP & Chief Financial Officer,male,277922000.0
+44584.0,,877890,citrix systems inc,1,0,0,0,20110215,morin gary e,87789011000008,,male,277922000.0
+50605.0,,877890,citrix systems inc,0,1,0,0,20110216,wasson wesley r,87789011000010,SVP & Chief Marketing Officer,male,277922000.0
 33511.0,13637.0,877890,citrix systems inc,0,1,0,0,20110218,caine brett,87789011000014,"SVP, Online Services Division",male,277922000.0
-47372.0,13637.0,877890,citrix systems inc,0,1,0,0,20110304,caine brett,87789011000018,"SVP, Online Services Division",male,277922000.0
-70488.0,0.0,877890,citrix systems inc,0,1,0,0,20110304,friedman david r,87789011000019,"General Counsel & SVP, HR",male,277922000.0
-102072.0,0.0,877890,citrix systems inc,0,1,0,0,20110304,henshall david j,87789011000020,SVP & Chief Financial Officer,male,277922000.0
-65162.0,0.0,877890,citrix systems inc,0,1,0,0,20110304,monserrat alvaro,87789011000021,"SVP, Sales and Services",male,277922000.0
-49823.0,19561.0,877890,citrix systems inc,0,1,0,0,20110304,payne john gordon,87789011000022,"SVP, Desktop Division",male,277922000.0
 171477.0,101393.0,877890,citrix systems inc,1,1,0,0,20110304,templeton mark b,87789011000023,CEO & President,male,277922000.0
-61839.0,0.0,877890,citrix systems inc,0,1,0,0,20110304,wasson wesley r,87789011000024,SVP & Chief Marketing Officer,male,277922000.0
-4002.0,0.0,877890,citrix systems inc,1,0,0,0,20110304,caldwell nanci,87789011000025,,female,277922000.0
-20295.0,0.0,877890,citrix systems inc,1,0,0,0,20110304,demo murray j,87789011000026,,male,277922000.0
+61839.0,,877890,citrix systems inc,0,1,0,0,20110304,wasson wesley r,87789011000024,SVP & Chief Marketing Officer,male,277922000.0
+4002.0,,877890,citrix systems inc,1,0,0,0,20110304,caldwell nanci,87789011000025,,female,277922000.0
+20295.0,,877890,citrix systems inc,1,0,0,0,20110304,demo murray j,87789011000026,,male,277922000.0
+65162.0,,877890,citrix systems inc,0,1,0,0,20110304,monserrat alvaro,87789011000021,"SVP, Sales and Services",male,277922000.0
+102072.0,,877890,citrix systems inc,0,1,0,0,20110304,henshall david j,87789011000020,SVP & Chief Financial Officer,male,277922000.0
+49823.0,19561.0,877890,citrix systems inc,0,1,0,0,20110304,payne john gordon,87789011000022,"SVP, Desktop Division",male,277922000.0
+47372.0,13637.0,877890,citrix systems inc,0,1,0,0,20110304,caine brett,87789011000018,"SVP, Online Services Division",male,277922000.0
+70488.0,,877890,citrix systems inc,0,1,0,0,20110304,friedman david r,87789011000019,"General Counsel & SVP, HR",male,277922000.0
 7667.0,13637.0,877890,citrix systems inc,0,1,0,0,20110316,caine brett,87789011000028,"SVP, Online Services Division",male,277922000.0
 179843.0,101393.0,877890,citrix systems inc,1,1,0,0,20110331,templeton mark b,87789011000030,CEO & President,male,279933000.0
-64414.0,0.0,877890,citrix systems inc,0,1,0,0,20110401,wasson wesley r,87789011000037,SVP & Chief Marketing Officer,male,279933000.0
-68755.0,0.0,877890,citrix systems inc,0,1,0,0,20110401,monserrat alvaro,87789011000035,"SVP, Sales and Services",male,279933000.0
-73073.0,0.0,877890,citrix systems inc,0,1,0,0,20110401,friedman david r,87789011000033,"General Counsel & SVP, HR",male,279933000.0
-105450.0,0.0,877890,citrix systems inc,0,1,0,0,20110401,henshall david j,87789011000034,SVP & Chief Financial Officer,male,279933000.0
-37225.0,13637.0,877890,citrix systems inc,0,1,0,0,20110401,caine brett,87789011000032,"SVP, Online Services Division",male,279933000.0
+64414.0,,877890,citrix systems inc,0,1,0,0,20110401,wasson wesley r,87789011000037,SVP & Chief Marketing Officer,male,279933000.0
 51291.0,19561.0,877890,citrix systems inc,0,1,0,0,20110401,payne john gordon,87789011000036,"SVP, Desktop Division",male,279933000.0
-103053.0,0.0,877890,citrix systems inc,0,1,0,0,20110503,henshall david j,87789011000051,SVP & Chief Financial Officer,male,187995411.0
-71151.0,0.0,877890,citrix systems inc,0,1,0,0,20110503,friedman david r,87789011000052,"General Counsel & SVP, HR",male,187995411.0
-68165.0,0.0,877890,citrix systems inc,0,1,0,0,20110503,monserrat alvaro,87789011000053,"SVP, Sales and Services",male,187995411.0
-62564.0,0.0,877890,citrix systems inc,0,1,0,0,20110503,wasson wesley r,87789011000049,SVP & Chief Marketing Officer,male,187995411.0
+68755.0,,877890,citrix systems inc,0,1,0,0,20110401,monserrat alvaro,87789011000035,"SVP, Sales and Services",male,279933000.0
+73073.0,,877890,citrix systems inc,0,1,0,0,20110401,friedman david r,87789011000033,"General Counsel & SVP, HR",male,279933000.0
+105450.0,,877890,citrix systems inc,0,1,0,0,20110401,henshall david j,87789011000034,SVP & Chief Financial Officer,male,279933000.0
+37225.0,13637.0,877890,citrix systems inc,0,1,0,0,20110401,caine brett,87789011000032,"SVP, Online Services Division",male,279933000.0
+71151.0,,877890,citrix systems inc,0,1,0,0,20110503,friedman david r,87789011000052,"General Counsel & SVP, HR",male,187995411.0
+170300.0,,877890,citrix systems inc,1,1,0,0,20110503,templeton mark b,87789011000046,CEO & President,male,187995411.0
 50051.0,19561.0,877890,citrix systems inc,0,1,0,0,20110503,payne john gordon,87789011000048,"SVP, Desktop Division",male,187995411.0
-170300.0,0.0,877890,citrix systems inc,1,1,0,0,20110503,templeton mark b,87789011000046,CEO & President,male,187995411.0
+62564.0,,877890,citrix systems inc,0,1,0,0,20110503,wasson wesley r,87789011000049,SVP & Chief Marketing Officer,male,187995411.0
 34333.0,13637.0,877890,citrix systems inc,0,1,0,0,20110503,caine brett,87789011000050,"SVP, Online Services Division",male,187995411.0
+103053.0,,877890,citrix systems inc,0,1,0,0,20110503,henshall david j,87789011000051,SVP & Chief Financial Officer,male,187995411.0
+68165.0,,877890,citrix systems inc,0,1,0,0,20110503,monserrat alvaro,87789011000053,"SVP, Sales and Services",male,187995411.0
 155467.0,76126.0,877890,citrix systems inc,1,1,0,0,20110505,templeton mark b,87789011000056,CEO & President,male,187995411.0
-3669.0,0.0,877890,citrix systems inc,1,0,0,0,20110505,caldwell nanci,87789011000055,,female,187995411.0
-42765.0,0.0,877890,citrix systems inc,1,0,0,0,20110511,bogan thomas f,87789011000060,,male,187995411.0
-16665.0,0.0,877890,citrix systems inc,1,0,0,0,20110511,sullivan godfrey,87789011000061,,male,187995411.0
-320550.0,0.0,877890,citrix systems inc,1,0,0,0,20110513,dow stephen m,117911011007976,,male,187995411.0
-71151.0,0.0,877890,citrix systems inc,0,1,0,0,20110518,friedman david r,87789011000064,"General Counsel & SVP, HR",male,187995411.0
-20665.0,0.0,877890,citrix systems inc,1,0,0,0,20110603,sullivan godfrey,87789011000072,,male,187995411.0
-26178.0,0.0,877890,citrix systems inc,1,0,0,0,20110603,hirji asiff s,87789011000070,,male,187995411.0
-24295.0,0.0,877890,citrix systems inc,1,0,0,0,20110603,demo murray j,87789011000069,,male,187995411.0
-3336.0,0.0,877890,citrix systems inc,1,0,0,0,20110603,caldwell nanci,87789011000068,,female,187995411.0
-46765.0,0.0,877890,citrix systems inc,1,0,0,0,20110603,bogan thomas f,87789011000067,,male,187995411.0
-48584.0,0.0,877890,citrix systems inc,1,0,0,0,20110603,morin gary e,87789011000071,,male,187995411.0
+3669.0,,877890,citrix systems inc,1,0,0,0,20110505,caldwell nanci,87789011000055,,female,187995411.0
+16665.0,,877890,citrix systems inc,1,0,0,0,20110511,sullivan godfrey,87789011000061,,male,187995411.0
+42765.0,,877890,citrix systems inc,1,0,0,0,20110511,bogan thomas f,87789011000060,,male,187995411.0
+320550.0,,877890,citrix systems inc,1,0,0,0,20110513,dow stephen m,117911011007976,,male,187995411.0
+71151.0,,877890,citrix systems inc,0,1,0,0,20110518,friedman david r,87789011000064,"General Counsel & SVP, HR",male,187995411.0
+20665.0,,877890,citrix systems inc,1,0,0,0,20110603,sullivan godfrey,87789011000072,,male,187995411.0
 20665.0,320550.0,877890,citrix systems inc,1,0,0,0,20110603,dow stephen m,117911011009191,,male,187995411.0
-24295.0,0.0,877890,citrix systems inc,1,0,0,0,20110607,demo murray j,87789011000074,,male,187995411.0
-68165.0,0.0,877890,citrix systems inc,0,1,0,0,20110614,monserrat alvaro,87789011000076,"SVP, Sales and Services",male,187995411.0
-68165.0,0.0,877890,citrix systems inc,0,1,0,0,20110802,monserrat alvaro,87789011000084,"SVP, Sales and Services",male,188286857.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20110802,wasson wesley r,87789011000082,SVP & Chief Marketing Officer,male,188286857.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20110802,friedman david r,87789011000081,"General Counsel & SVP, HR",male,188286857.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20110802,payne john gordon,87789011000080,"SVP, Desktop Division",male,188286857.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20110802,henshall david j,87789011000079,SVP & Chief Financial Officer,male,188286857.0
-0.0,0.0,877890,citrix systems inc,1,1,0,0,20110802,templeton mark b,87789011000078,CEO & President,male,188286857.0
-0.0,0.0,877890,citrix systems inc,0,1,0,0,20110802,caine brett,87789011000083,"SVP, Online Services Division",male,188286857.0
+46765.0,,877890,citrix systems inc,1,0,0,0,20110603,bogan thomas f,87789011000067,,male,187995411.0
+3336.0,,877890,citrix systems inc,1,0,0,0,20110603,caldwell nanci,87789011000068,,female,187995411.0
+24295.0,,877890,citrix systems inc,1,0,0,0,20110603,demo murray j,87789011000069,,male,187995411.0
+26178.0,,877890,citrix systems inc,1,0,0,0,20110603,hirji asiff s,87789011000070,,male,187995411.0
+48584.0,,877890,citrix systems inc,1,0,0,0,20110603,morin gary e,87789011000071,,male,187995411.0
+24295.0,,877890,citrix systems inc,1,0,0,0,20110607,demo murray j,87789011000074,,male,187995411.0
+68165.0,,877890,citrix systems inc,0,1,0,0,20110614,monserrat alvaro,87789011000076,"SVP, Sales and Services",male,187995411.0
+,,877890,citrix systems inc,1,1,0,0,20110802,templeton mark b,87789011000078,CEO & President,male,188286857.0
+,,877890,citrix systems inc,0,1,0,0,20110802,henshall david j,87789011000079,SVP & Chief Financial Officer,male,188286857.0
+,,877890,citrix systems inc,0,1,0,0,20110802,payne john gordon,87789011000080,"SVP, Desktop Division",male,188286857.0
+,,877890,citrix systems inc,0,1,0,0,20110802,friedman david r,87789011000081,"General Counsel & SVP, HR",male,188286857.0
+,,877890,citrix systems inc,0,1,0,0,20110802,wasson wesley r,87789011000082,SVP & Chief Marketing Officer,male,188286857.0
+,,877890,citrix systems inc,0,1,0,0,20110802,caine brett,87789011000083,"SVP, Online Services Division",male,188286857.0
+68165.0,,877890,citrix systems inc,0,1,0,0,20110802,monserrat alvaro,87789011000084,"SVP, Sales and Services",male,188286857.0
 34259.0,13637.0,877890,citrix systems inc,0,1,0,0,20110805,caine brett,87789011000086,"SVP, Online Services Division",male,188286857.0
-3003.0,0.0,877890,citrix systems inc,1,0,0,0,20110808,caldwell nanci,87789011000088,,female,188286857.0
-2670.0,0.0,877890,citrix systems inc,1,0,0,0,20110906,caldwell nanci,87789011000090,,female,188286857.0
-66950.0,0.0,877890,citrix systems inc,0,1,0,0,20110906,monserrat alvaro,87789011000091,"SVP, Sales and Services",male,188286857.0
-2336.0,0.0,877890,citrix systems inc,1,0,0,0,20111101,caldwell nanci,118143111054198,,female,186497771.0
-66950.0,0.0,877890,citrix systems inc,0,1,0,0,20111101,monserrat alvaro,118143111054196,"SVP, Sales and Services",male,186497771.0
-12054.0,0.0,877890,citrix systems inc,1,0,0,0,20111101,hirji asiff s,118143111054210,,male,186497771.0
-2002.0,0.0,877890,citrix systems inc,1,0,0,0,20111104,caldwell nanci,118143111054718,,female,186497771.0
-1668.0,0.0,877890,citrix systems inc,1,0,0,0,20111209,caldwell nanci,87789011000098,,female,186497771.0
+3003.0,,877890,citrix systems inc,1,0,0,0,20110808,caldwell nanci,87789011000088,,female,188286857.0
+66950.0,,877890,citrix systems inc,0,1,0,0,20110906,monserrat alvaro,87789011000091,"SVP, Sales and Services",male,188286857.0
+2670.0,,877890,citrix systems inc,1,0,0,0,20110906,caldwell nanci,87789011000090,,female,188286857.0
+2336.0,,877890,citrix systems inc,1,0,0,0,20111101,caldwell nanci,118143111054198,,female,186497771.0
+66950.0,,877890,citrix systems inc,0,1,0,0,20111101,monserrat alvaro,118143111054196,"SVP, Sales and Services",male,186497771.0
+12054.0,,877890,citrix systems inc,1,0,0,0,20111101,hirji asiff s,118143111054210,,male,186497771.0
+2002.0,,877890,citrix systems inc,1,0,0,0,20111104,caldwell nanci,118143111054718,,female,186497771.0
 155467.0,76126.0,877890,citrix systems inc,1,1,0,0,20111209,templeton mark b,87789011000097,CEO & President,male,186497771.0
-317750.0,0.0,877890,citrix systems inc,1,0,0,0,20111215,dow stephen m,117911011016647,,male,186497771.0
-116467.0,76126.0,877890,citrix systems inc,1,1,0,0,20120131,templeton mark b,87789012000002,CEO & President,male,282774000.0
-48195.0,0.0,877890,citrix systems inc,0,1,0,0,20120206,caine brett,87789012000004,"SVP, Online Services Division",male,282774000.0
-23705.0,0.0,877890,citrix systems inc,1,0,0,0,20120214,demo murray j,87789012000007,,male,282774000.0
+1668.0,,877890,citrix systems inc,1,0,0,0,20111209,caldwell nanci,87789011000098,,female,186497771.0
+317750.0,,877890,citrix systems inc,1,0,0,0,20111215,dow stephen m,117911011016647,,male,186497771.0
+,,877890,citrix systems inc,1,1,0,0,20120131,templeton mark b,87789012000002,CEO & President,male,282774000.0
+48195.0,,877890,citrix systems inc,0,1,0,0,20120206,caine brett,87789012000004,"SVP, Online Services Division",male,282774000.0
+23705.0,,877890,citrix systems inc,1,0,0,0,20120214,demo murray j,87789012000007,,male,282774000.0
 0.0,317750.0,877890,citrix systems inc,1,0,0,0,20120217,dow stephen m,117911012002897,,male,282774000.0
-126589.0,0.0,877890,citrix systems inc,0,1,0,0,20120221,monserrat alvaro,87789012000016,"SVP, Sales and Services",male,282774000.0
-154963.0,0.0,877890,citrix systems inc,0,1,0,0,20120221,henshall david j,87789012000012,"EVP, Operations & CFO",male,282774000.0
-261657.0,76126.0,877890,citrix systems inc,1,1,0,0,20120221,templeton mark b,87789012000011,CEO & President,male,282774000.0
-57010.0,317750.0,877890,citrix systems inc,1,0,0,0,20120221,dow stephen m,117911012003132,,male,282774000.0
-94660.0,0.0,877890,citrix systems inc,0,1,0,0,20120221,wasson wesley r,87789012000014,SVP & Chief Marketing Officer,male,282774000.0
-107955.0,0.0,877890,citrix systems inc,0,1,0,0,20120221,friedman david r,87789012000013,"General Counsel & SVP, HR",male,282774000.0
+86824.0,,877890,citrix systems inc,0,1,0,0,20120221,caine brett,87789012000017,"SVP, Online Services Division",male,282774000.0
+126589.0,,877890,citrix systems inc,0,1,0,0,20120221,monserrat alvaro,87789012000016,"SVP, Sales and Services",male,282774000.0
 89675.0,19561.0,877890,citrix systems inc,0,1,0,0,20120221,payne john gordon,87789012000015,"SVP, Desktop Division",male,282774000.0
-86824.0,0.0,877890,citrix systems inc,0,1,0,0,20120221,caine brett,87789012000017,"SVP, Online Services Division",male,282774000.0
-20665.0,0.0,877890,citrix systems inc,1,0,0,0,20120223,sullivan godfrey,87789012000021,,male,282774000.0
-84209.0,0.0,877890,citrix systems inc,0,1,0,0,20120306,caine brett,87789012000024,"SVP, Online Services Division",male,282774000.0
-105800.0,0.0,877890,citrix systems inc,0,1,0,0,20120306,friedman david r,87789012000025,"General Counsel & SVP, HR",male,282774000.0
-152468.0,0.0,877890,citrix systems inc,0,1,0,0,20120306,henshall david j,87789012000026,"EVP, Operations & CFO",male,282774000.0
-255419.0,58661.0,877890,citrix systems inc,1,1,0,0,20120306,templeton mark b,87789012000031,CEO & President,male,282774000.0
-92191.0,0.0,877890,citrix systems inc,0,1,0,0,20120306,wasson wesley r,87789012000029,SVP & Chief Marketing Officer,male,282774000.0
+94660.0,,877890,citrix systems inc,0,1,0,0,20120221,wasson wesley r,87789012000014,SVP & Chief Marketing Officer,male,282774000.0
+261657.0,76126.0,877890,citrix systems inc,1,1,0,0,20120221,templeton mark b,87789012000011,CEO & President,male,282774000.0
+154963.0,,877890,citrix systems inc,0,1,0,0,20120221,henshall david j,87789012000012,"EVP, Operations & CFO",male,282774000.0
+57010.0,317750.0,877890,citrix systems inc,1,0,0,0,20120221,dow stephen m,117911012003132,,male,282774000.0
+107955.0,,877890,citrix systems inc,0,1,0,0,20120221,friedman david r,87789012000013,"General Counsel & SVP, HR",male,282774000.0
+20665.0,,877890,citrix systems inc,1,0,0,0,20120223,sullivan godfrey,87789012000021,,male,282774000.0
 86916.0,19561.0,877890,citrix systems inc,0,1,0,0,20120306,payne john gordon,87789012000028,"SVP, Desktop Division",male,282774000.0
-124321.0,0.0,877890,citrix systems inc,0,1,0,0,20120306,monserrat alvaro,87789012000027,"SVP, Sales and Services",male,282774000.0
+255419.0,58661.0,877890,citrix systems inc,1,1,0,0,20120306,templeton mark b,87789012000031,CEO & President,male,282774000.0
+92191.0,,877890,citrix systems inc,0,1,0,0,20120306,wasson wesley r,87789012000029,SVP & Chief Marketing Officer,male,282774000.0
+124321.0,,877890,citrix systems inc,0,1,0,0,20120306,monserrat alvaro,87789012000027,"SVP, Sales and Services",male,282774000.0
+152468.0,,877890,citrix systems inc,0,1,0,0,20120306,henshall david j,87789012000026,"EVP, Operations & CFO",male,282774000.0
+105800.0,,877890,citrix systems inc,0,1,0,0,20120306,friedman david r,87789012000025,"General Counsel & SVP, HR",male,282774000.0
+84209.0,,877890,citrix systems inc,0,1,0,0,20120306,caine brett,87789012000024,"SVP, Online Services Division",male,282774000.0
+99209.0,,877890,citrix systems inc,0,1,0,0,20120403,wasson wesley r,87789012000041,SVP & Chief Marketing Officer,male,284393000.0
 94301.0,19561.0,877890,citrix systems inc,0,1,0,0,20120403,payne john gordon,87789012000039,"SVP, Desktop Division",male,284393000.0
+137217.0,,877890,citrix systems inc,0,1,0,0,20120403,monserrat alvaro,87789012000038,"SVP, Sales and Services",male,284393000.0
 289574.0,58661.0,877890,citrix systems inc,1,1,0,0,20120403,templeton mark b,87789012000040,CEO & President,male,284393000.0
-99209.0,0.0,877890,citrix systems inc,0,1,0,0,20120403,wasson wesley r,87789012000041,SVP & Chief Marketing Officer,male,284393000.0
-168141.0,0.0,877890,citrix systems inc,0,1,0,0,20120403,henshall david j,87789012000037,"EVP, Operations & CFO",male,284393000.0
-115239.0,0.0,877890,citrix systems inc,0,1,0,0,20120403,friedman david r,87789012000036,"General Counsel & SVP, HR",male,284393000.0
-89344.0,0.0,877890,citrix systems inc,0,1,0,0,20120403,caine brett,87789012000035,"SVP, Online Services Division",male,284393000.0
-137217.0,0.0,877890,citrix systems inc,0,1,0,0,20120403,monserrat alvaro,87789012000038,"SVP, Sales and Services",male,284393000.0
-48584.0,0.0,877890,citrix systems inc,1,0,0,0,20120501,morin gary e,87789012000046,,male,186190533.0
+115239.0,,877890,citrix systems inc,0,1,0,0,20120403,friedman david r,87789012000036,"General Counsel & SVP, HR",male,284393000.0
+168141.0,,877890,citrix systems inc,0,1,0,0,20120403,henshall david j,87789012000037,"EVP, Operations & CFO",male,284393000.0
+89344.0,,877890,citrix systems inc,0,1,0,0,20120403,caine brett,87789012000035,"SVP, Online Services Division",male,284393000.0
+89344.0,,877890,citrix systems inc,0,1,0,0,20120501,caine brett,87789012000045,"SVP, Online Services Division",male,186190533.0
+48584.0,,877890,citrix systems inc,1,0,0,0,20120501,morin gary e,87789012000046,,male,186190533.0
 254574.0,58661.0,877890,citrix systems inc,1,1,0,0,20120501,templeton mark b,87789012000047,CEO & President,male,186190533.0
-89344.0,0.0,877890,citrix systems inc,0,1,0,0,20120501,caine brett,87789012000045,"SVP, Online Services Division",male,186190533.0
-112217.0,0.0,877890,citrix systems inc,0,1,0,0,20120502,monserrat alvaro,87789012000049,"SVP, Sales and Services",male,186190533.0
-81784.0,0.0,877890,citrix systems inc,0,1,0,0,20120508,payne john gordon,87789012000054,"SVP, Desktop & Cloud Division",male,186190533.0
-97190.0,0.0,877890,citrix systems inc,0,1,0,0,20120521,friedman david r,87789012000056,"General Counsel & SVP, HR",male,186190533.0
-61010.0,317750.0,877890,citrix systems inc,1,0,0,0,20120605,dow stephen m,117911012009682,,male,186190533.0
-10499.0,0.0,877890,citrix systems inc,1,0,0,0,20120605,hirji asiff s,87789012000063,,male,186190533.0
-24665.0,0.0,877890,citrix systems inc,1,0,0,0,20120605,sullivan godfrey,87789012000065,,male,186190533.0
-52584.0,0.0,877890,citrix systems inc,1,0,0,0,20120605,morin gary e,87789012000064,,male,186190533.0
-27705.0,0.0,877890,citrix systems inc,1,0,0,0,20120605,demo murray j,87789012000062,,male,186190533.0
+112217.0,,877890,citrix systems inc,0,1,0,0,20120502,monserrat alvaro,87789012000049,"SVP, Sales and Services",male,186190533.0
+81784.0,,877890,citrix systems inc,0,1,0,0,20120508,payne john gordon,87789012000054,"SVP, Desktop & Cloud Division",male,186190533.0
+97190.0,,877890,citrix systems inc,0,1,0,0,20120521,friedman david r,87789012000056,"General Counsel & SVP, HR",male,186190533.0
+10499.0,,877890,citrix systems inc,1,0,0,0,20120605,hirji asiff s,87789012000063,,male,186190533.0
+52584.0,,877890,citrix systems inc,1,0,0,0,20120605,morin gary e,87789012000064,,male,186190533.0
+27705.0,,877890,citrix systems inc,1,0,0,0,20120605,demo murray j,87789012000062,,male,186190533.0
+24665.0,,877890,citrix systems inc,1,0,0,0,20120605,sullivan godfrey,87789012000065,,male,186190533.0
 9665.0,1668.0,877890,citrix systems inc,1,0,0,0,20120605,caldwell nanci,87789012000061,,female,186190533.0
-50765.0,0.0,877890,citrix systems inc,1,0,0,0,20120605,bogan thomas f,87789012000060,,male,186190533.0
-9665.0,0.0,877890,citrix systems inc,1,0,0,0,20120614,caldwell nanci,87789012000067,,female,186190533.0
-9665.0,0.0,877890,citrix systems inc,1,0,0,0,20120731,caldwell nanci,87789012000069,,female,285258000.0
-112717.0,0.0,877890,citrix systems inc,0,1,0,0,20120801,monserrat alvaro,87789012000075,"SVP, Sales and Services",male,186965376.0
-78241.0,0.0,877890,citrix systems inc,0,1,0,0,20120801,friedman david r,87789012000074,"General Counsel & SVP, HR",male,186965376.0
-81784.0,0.0,877890,citrix systems inc,0,1,0,0,20120801,payne john gordon,87789012000073,"SVP, Desktop & Cloud Division",male,186965376.0
-9665.0,0.0,877890,citrix systems inc,1,0,0,0,20120817,caldwell nanci,87789012000080,,female,186965376.0
-168141.0,0.0,877890,citrix systems inc,0,1,0,0,20120910,henshall david j,87789012000082,"EVP, Operations & CFO",male,186965376.0
-9665.0,0.0,877890,citrix systems inc,1,0,0,0,20120914,caldwell nanci,87789012000083,,female,186965376.0
-9665.0,0.0,877890,citrix systems inc,1,0,0,0,20121030,caldwell nanci,87789012000090,,female,286518000.0
-60765.0,0.0,877890,citrix systems inc,1,0,0,0,20121102,bogan thomas f,87789012000093,,male,186715829.0
+61010.0,317750.0,877890,citrix systems inc,1,0,0,0,20120605,dow stephen m,117911012009682,,male,186190533.0
+50765.0,,877890,citrix systems inc,1,0,0,0,20120605,bogan thomas f,87789012000060,,male,186190533.0
+9665.0,,877890,citrix systems inc,1,0,0,0,20120614,caldwell nanci,87789012000067,,female,186190533.0
+9665.0,,877890,citrix systems inc,1,0,0,0,20120731,caldwell nanci,87789012000069,,female,285258000.0
+81784.0,,877890,citrix systems inc,0,1,0,0,20120801,payne john gordon,87789012000073,"SVP, Desktop & Cloud Division",male,186965376.0
+112717.0,,877890,citrix systems inc,0,1,0,0,20120801,monserrat alvaro,87789012000075,"SVP, Sales and Services",male,186965376.0
+78241.0,,877890,citrix systems inc,0,1,0,0,20120801,friedman david r,87789012000074,"General Counsel & SVP, HR",male,186965376.0
+9665.0,,877890,citrix systems inc,1,0,0,0,20120817,caldwell nanci,87789012000080,,female,186965376.0
+168141.0,,877890,citrix systems inc,0,1,0,0,20120910,henshall david j,87789012000082,"EVP, Operations & CFO",male,186965376.0
+9665.0,,877890,citrix systems inc,1,0,0,0,20120914,caldwell nanci,87789012000083,,female,186965376.0
+9665.0,,877890,citrix systems inc,1,0,0,0,20121030,caldwell nanci,87789012000090,,female,286518000.0
+60765.0,,877890,citrix systems inc,1,0,0,0,20121102,bogan thomas f,87789012000093,,male,186715829.0
+78241.0,,877890,citrix systems inc,0,1,0,0,20121102,friedman david r,87789012000094,"General Counsel & SVP, HR",male,186715829.0
+112217.0,,877890,citrix systems inc,0,1,0,0,20121102,monserrat alvaro,87789012000095,"SVP, Sales and Services",male,186715829.0
 71670.0,10300.0,877890,citrix systems inc,0,1,0,0,20121102,payne john gordon,87789012000096,"SVP, Solutions",male,186715829.0
-112217.0,0.0,877890,citrix systems inc,0,1,0,0,20121102,monserrat alvaro,87789012000095,"SVP, Sales and Services",male,186715829.0
-78241.0,0.0,877890,citrix systems inc,0,1,0,0,20121102,friedman david r,87789012000094,"General Counsel & SVP, HR",male,186715829.0
-21493.0,0.0,877890,citrix systems inc,0,1,0,0,20121105,courage catherine,87789012000101,SVP of Customer Experience,female,186715829.0
-68710.0,0.0,877890,citrix systems inc,0,1,0,0,20121113,caine brett,87789012000103,"SVP, Online Services Division",male,186715829.0
+21493.0,,877890,citrix systems inc,0,1,0,0,20121105,courage catherine,87789012000101,SVP of Customer Experience,female,186715829.0
+68710.0,,877890,citrix systems inc,0,1,0,0,20121113,caine brett,87789012000103,"SVP, Online Services Division",male,186715829.0
 254574.0,58661.0,877890,citrix systems inc,1,1,0,0,20121121,templeton mark b,87789012000107,CEO & President,male,186715829.0
-8000.0,0.0,877890,citrix systems inc,1,0,0,0,20121121,caldwell nanci,87789012000105,,female,186715829.0
-50765.0,0.0,877890,citrix systems inc,1,0,0,0,20121127,bogan thomas f,87789012000109,,male,186715829.0
-60765.0,0.0,877890,citrix systems inc,1,0,0,0,20121205,bogan thomas f,87789012000111,,male,186715829.0
-42705.0,0.0,877890,citrix systems inc,1,0,0,0,20121210,demo murray j,87789012000113,,male,186715829.0
-8000.0,0.0,877890,citrix systems inc,1,0,0,0,20121214,caldwell nanci,87789012000115,,female,186715829.0
-313950.0,0.0,877890,citrix systems inc,1,0,0,0,20121218,dow stephen m,117911012017846,,male,186715829.0
-78241.0,0.0,877890,citrix systems inc,0,1,0,0,20130205,friedman david r,87789013000007,"General Counsel & SVP, HR",male,287123000.0
-68758.0,0.0,877890,citrix systems inc,0,1,0,0,20130205,caine brett,87789013000006,"SVP, Online Services Division",male,287123000.0
-35000.0,0.0,877890,citrix systems inc,0,1,0,0,20130205,daheb steve,87789013000005,SVP & CMO,male,287123000.0
-8000.0,0.0,877890,citrix systems inc,1,0,0,0,20130205,caldwell nanci,87789013000004,,female,287123000.0
-168141.0,0.0,877890,citrix systems inc,0,1,0,0,20130205,henshall david j,87789013000008,"EVP, Operations & CFO",male,287123000.0
-112217.0,0.0,877890,citrix systems inc,0,1,0,0,20130205,monserrat alvaro,87789013000009,"SVP, Sales and Services",male,287123000.0
-71828.0,10300.0,877890,citrix systems inc,0,1,0,0,20130205,payne john gordon,87789013000010,"SVP, Solutions",male,287123000.0
+8000.0,,877890,citrix systems inc,1,0,0,0,20121121,caldwell nanci,87789012000105,,female,186715829.0
+50765.0,,877890,citrix systems inc,1,0,0,0,20121127,bogan thomas f,87789012000109,,male,186715829.0
+60765.0,,877890,citrix systems inc,1,0,0,0,20121205,bogan thomas f,87789012000111,,male,186715829.0
+42705.0,,877890,citrix systems inc,1,0,0,0,20121210,demo murray j,87789012000113,,male,186715829.0
+8000.0,,877890,citrix systems inc,1,0,0,0,20121214,caldwell nanci,87789012000115,,female,186715829.0
+313950.0,,877890,citrix systems inc,1,0,0,0,20121218,dow stephen m,117911012017846,,male,186715829.0
 254574.0,58661.0,877890,citrix systems inc,1,1,0,0,20130205,templeton mark b,87789013000011,CEO & President,male,287123000.0
-334.0,0.0,877890,citrix systems inc,1,0,0,0,20130215,caldwell nanci,87789013000013,,female,287123000.0
-0.0,0.0,877890,citrix systems inc,1,0,0,0,20130307,caldwell nanci,87789013000018,,female,287123000.0
+71828.0,10300.0,877890,citrix systems inc,0,1,0,0,20130205,payne john gordon,87789013000010,"SVP, Solutions",male,287123000.0
+112217.0,,877890,citrix systems inc,0,1,0,0,20130205,monserrat alvaro,87789013000009,"SVP, Sales and Services",male,287123000.0
+168141.0,,877890,citrix systems inc,0,1,0,0,20130205,henshall david j,87789013000008,"EVP, Operations & CFO",male,287123000.0
+78241.0,,877890,citrix systems inc,0,1,0,0,20130205,friedman david r,87789013000007,"General Counsel & SVP, HR",male,287123000.0
+68758.0,,877890,citrix systems inc,0,1,0,0,20130205,caine brett,87789013000006,"SVP, Online Services Division",male,287123000.0
+35000.0,,877890,citrix systems inc,0,1,0,0,20130205,daheb steve,87789013000005,SVP & CMO,male,287123000.0
+8000.0,,877890,citrix systems inc,1,0,0,0,20130205,caldwell nanci,87789013000004,,female,287123000.0
+334.0,,877890,citrix systems inc,1,0,0,0,20130215,caldwell nanci,87789013000013,,female,287123000.0
+0.0,,877890,citrix systems inc,1,0,0,0,20130307,caldwell nanci,87789013000018,,female,287123000.0
+20649.0,,877890,citrix systems inc,0,1,0,0,20130318,courage catherine,87789013000022,SVP of Customer Experience,female,287123000.0
+168141.0,,877890,citrix systems inc,0,1,0,0,20130318,henshall david j,87789013000023,"EVP, Operations & CFO",male,287123000.0
+112217.0,,877890,citrix systems inc,0,1,0,0,20130318,monserrat alvaro,87789013000024,"SVP, Sales and Services",male,287123000.0
 9779.0,384739.0,877890,citrix systems inc,1,0,0,0,20130318,dow stephen m,117911013005346,,male,287123000.0
-20649.0,0.0,877890,citrix systems inc,0,1,0,0,20130318,courage catherine,87789013000022,SVP of Customer Experience,female,287123000.0
-168141.0,0.0,877890,citrix systems inc,0,1,0,0,20130318,henshall david j,87789013000023,"EVP, Operations & CFO",male,287123000.0
-112217.0,0.0,877890,citrix systems inc,0,1,0,0,20130318,monserrat alvaro,87789013000024,"SVP, Sales and Services",male,287123000.0
+55000.0,,877890,citrix systems inc,0,1,0,0,20130401,ramakrishna sudhakar,87789013000035,"SVP, Desktop & Cloud",male,288954000.0
 283486.0,58661.0,877890,citrix systems inc,1,1,0,0,20130401,templeton mark b,87789013000034,CEO & President,male,288954000.0
 58091.0,10300.0,877890,citrix systems inc,0,1,1,0,20130401,payne john gordon,87789013000033,"SVP, Solutions",male,288954000.0
-26148.0,0.0,877890,citrix systems inc,0,1,0,0,20130401,courage catherine,87789013000028,SVP of Customer Experience,female,288954000.0
-55413.0,0.0,877890,citrix systems inc,0,1,0,0,20130401,caine brett,87789013000030,"SVP, Online Services Division",male,288954000.0
-181833.0,0.0,877890,citrix systems inc,0,1,0,0,20130401,henshall david j,87789013000031,"EVP, Operations & CFO",male,288954000.0
-121735.0,0.0,877890,citrix systems inc,0,1,0,0,20130401,monserrat alvaro,87789013000032,"SVP, Sales and Services",male,288954000.0
-55000.0,0.0,877890,citrix systems inc,0,1,0,0,20130401,ramakrishna sudhakar,87789013000035,"SVP, Desktop & Cloud",male,288954000.0
-84690.0,0.0,877890,citrix systems inc,0,1,0,0,20130401,friedman david r,87789013000029,"General Counsel & SVP, HR",male,288954000.0
-23901.0,0.0,877890,citrix systems inc,0,1,0,0,20130430,courage catherine,87789013000039,SVP of Customer Experience,female,187123694.0
+84690.0,,877890,citrix systems inc,0,1,0,0,20130401,friedman david r,87789013000029,"General Counsel & SVP, HR",male,288954000.0
+181833.0,,877890,citrix systems inc,0,1,0,0,20130401,henshall david j,87789013000031,"EVP, Operations & CFO",male,288954000.0
+55413.0,,877890,citrix systems inc,0,1,0,0,20130401,caine brett,87789013000030,"SVP, Online Services Division",male,288954000.0
+26148.0,,877890,citrix systems inc,0,1,0,0,20130401,courage catherine,87789013000028,SVP of Customer Experience,female,288954000.0
+121735.0,,877890,citrix systems inc,0,1,0,0,20130401,monserrat alvaro,87789013000032,"SVP, Sales and Services",male,288954000.0
+23901.0,,877890,citrix systems inc,0,1,0,0,20130430,courage catherine,87789013000039,SVP of Customer Experience,female,187123694.0
 258486.0,58661.0,877890,citrix systems inc,1,1,0,0,20130430,templeton mark b,87789013000037,CEO & President,male,187123694.0
-23901.0,0.0,877890,citrix systems inc,0,1,0,0,20130503,courage catherine,87789013000041,SVP of Customer Experience,female,187123694.0
-41913.0,0.0,877890,citrix systems inc,0,1,0,0,20130503,caine brett,87789013000040,"SVP, Online Services Division",male,187123694.0
-97535.0,0.0,877890,citrix systems inc,0,1,0,0,20130521,monserrat alvaro,87789013000049,"SVP, Sales & Services",male,187123694.0
-22648.0,0.0,877890,citrix systems inc,0,1,0,0,20130603,courage catherine,87789013000051,SVP of Customer Experience,female,187123694.0
-60765.0,0.0,877890,citrix systems inc,1,0,0,0,20130603,bogan thomas f,87789013000050,,male,187123694.0
+23901.0,,877890,citrix systems inc,0,1,0,0,20130503,courage catherine,87789013000041,SVP of Customer Experience,female,187123694.0
+41913.0,,877890,citrix systems inc,0,1,0,0,20130503,caine brett,87789013000040,"SVP, Online Services Division",male,187123694.0
+97535.0,,877890,citrix systems inc,0,1,0,0,20130521,monserrat alvaro,87789013000049,"SVP, Sales & Services",male,187123694.0
+22648.0,,877890,citrix systems inc,0,1,0,0,20130603,courage catherine,87789013000051,SVP of Customer Experience,female,187123694.0
+60765.0,,877890,citrix systems inc,1,0,0,0,20130603,bogan thomas f,87789013000050,,male,187123694.0
+12000.0,,877890,citrix systems inc,1,0,0,0,20130605,caldwell nanci,87789013000055,,female,187123694.0
 4000.0,394518.0,877890,citrix systems inc,1,0,0,0,20130605,dow stephen m,117911013009716,,male,187123694.0
-10181.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,daleo robert d,87789013000053,,male,187123694.0
-20568.0,0.0,877890,citrix systems inc,0,1,0,0,20130605,courage catherine,87789013000052,SVP of Customer Experience,female,187123694.0
-64765.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,bogan thomas f,87789013000054,,male,187123694.0
-12000.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,caldwell nanci,87789013000055,,female,187123694.0
-46705.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,demo murray j,87789013000056,,male,187123694.0
-14499.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,hirji asiff s,87789013000057,,male,187123694.0
-56584.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,morin gary e,87789013000058,,male,187123694.0
-28665.0,0.0,877890,citrix systems inc,1,0,0,0,20130605,sullivan godfrey,87789013000059,,male,187123694.0
-20568.0,0.0,877890,citrix systems inc,0,1,0,0,20130731,courage catherine,87789013000063,SVP of Customer Experience,female,187382107.0
-12000.0,0.0,877890,citrix systems inc,1,0,0,0,20130731,caldwell nanci,87789013000064,,female,187382107.0
-40000.0,0.0,877890,citrix systems inc,0,1,0,0,20130805,hylen christopher,87789013000065,"SVP & General Manager, SaaS",male,187382107.0
-12000.0,0.0,877890,citrix systems inc,1,0,0,0,20130920,caldwell nanci,87789013000070,,female,187382107.0
-36705.0,0.0,877890,citrix systems inc,1,0,0,0,20130920,demo murray j,87789013000072,,male,187382107.0
-97535.0,0.0,877890,citrix systems inc,0,1,0,0,20130920,monserrat alvaro,87789013000076,"SVP, Sales and Services",male,187382107.0
-56584.0,0.0,877890,citrix systems inc,1,0,0,0,20130920,morin gary e,87789013000074,,male,187382107.0
-93298.0,0.0,877890,citrix systems inc,0,1,0,0,20131028,monserrat alvaro,87789013000078,"SVP, Sales and Services",male,290639000.0
-30533.0,0.0,877890,citrix systems inc,0,1,0,0,20140204,daheb steve,87789014000002,SVP & CMO,male,291078000.0
-74765.0,0.0,877890,citrix systems inc,1,0,0,0,20140207,bogan thomas f,87789014000004,,male,291078000.0
-95298.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,monserrat alvaro,87789014000023,"SVP, Sales and Services",male,183753307.0
-32533.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,daheb steve,87789014000021,SVP & CMO,male,183753307.0
-42000.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,hylen christopher,87789014000019,"SVP & General Manager, SaaS",male,183753307.0
-86690.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,friedman david r,87789014000017,"General Counsel & SVP, HR",male,183753307.0
-76765.0,0.0,877890,citrix systems inc,1,0,0,0,20140305,bogan thomas f,87789014000015,,male,183753307.0
-183833.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,henshall david j,87789014000013,"EVP, COO & CFO",male,183753307.0
-57000.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,ramakrishna sudhakar,87789014000011,"SVP&GM, Entrprse Serv Prov",male,183753307.0
-20993.0,0.0,877890,citrix systems inc,0,1,0,0,20140305,courage catherine,87789014000009,SVP of Customer Experience,female,183753307.0
-216825.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,henshall david j,87789014000038,"EVP, COO & CFO",male,292798000.0
-102494.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,friedman david r,87789014000034,"General Counsel & SVP, HR",male,292798000.0
-60404.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,ramakrishna sudhakar,87789014000032,"SVP&GM, Entrprse Serv Prov",male,292798000.0
-58858.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,hylen christopher,87789014000033,"SVP & General Manager, SaaS",male,292798000.0
-289795.0,0.0,877890,citrix systems inc,1,1,0,0,20140401,templeton mark b,87789014000039,CEO & President,male,292798000.0
-111919.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,monserrat alvaro,87789014000037,"SVP, Sales and Services",male,292798000.0
-33062.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,courage catherine,87789014000035,SVP of Customer Experience,female,292798000.0
-46441.0,0.0,877890,citrix systems inc,0,1,0,0,20140401,daheb steve,87789014000036,SVP & CMO,male,292798000.0
-86765.0,0.0,877890,citrix systems inc,1,0,0,0,20140429,bogan thomas f,87789014000041,,male,292798000.0
-6364.0,394518.0,877890,citrix systems inc,1,0,0,0,20140429,dow stephen m,117911014007277,,male,292798000.0
-41705.0,0.0,877890,citrix systems inc,1,0,0,0,20140506,demo murray j,87789014000044,,male,163863398.0
-39241.0,0.0,877890,citrix systems inc,0,1,0,0,20140508,daheb steve,87789014000048,SVP & CMO,male,163863398.0
-28665.0,0.0,877890,citrix systems inc,1,0,0,0,20140529,sullivan godfrey,87789014000052,,male,163863398.0
-101616.0,0.0,877890,citrix systems inc,0,1,0,0,20140529,monserrat alvaro,87789014000050,"SVP, Sales and Services",male,163863398.0
-31809.0,0.0,877890,citrix systems inc,0,1,0,0,20140602,courage catherine,87789014000056,SVP of Customer Experience,female,163863398.0
-12000.0,0.0,877890,citrix systems inc,1,0,0,0,20140602,caldwell nanci,87789014000054,,female,163863398.0
-90765.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,bogan thomas f,87789014000064,,male,163863398.0
+10181.0,,877890,citrix systems inc,1,0,0,0,20130605,daleo robert d,87789013000053,,male,187123694.0
+20568.0,,877890,citrix systems inc,0,1,0,0,20130605,courage catherine,87789013000052,SVP of Customer Experience,female,187123694.0
+64765.0,,877890,citrix systems inc,1,0,0,0,20130605,bogan thomas f,87789013000054,,male,187123694.0
+46705.0,,877890,citrix systems inc,1,0,0,0,20130605,demo murray j,87789013000056,,male,187123694.0
+14499.0,,877890,citrix systems inc,1,0,0,0,20130605,hirji asiff s,87789013000057,,male,187123694.0
+56584.0,,877890,citrix systems inc,1,0,0,0,20130605,morin gary e,87789013000058,,male,187123694.0
+28665.0,,877890,citrix systems inc,1,0,0,0,20130605,sullivan godfrey,87789013000059,,male,187123694.0
+20568.0,,877890,citrix systems inc,0,1,0,0,20130731,courage catherine,87789013000063,SVP of Customer Experience,female,187382107.0
+12000.0,,877890,citrix systems inc,1,0,0,0,20130731,caldwell nanci,87789013000064,,female,187382107.0
+40000.0,,877890,citrix systems inc,0,1,0,0,20130805,hylen christopher,87789013000065,"SVP & General Manager, SaaS",male,187382107.0
+56584.0,,877890,citrix systems inc,1,0,0,0,20130920,morin gary e,87789013000074,,male,187382107.0
+97535.0,,877890,citrix systems inc,0,1,0,0,20130920,monserrat alvaro,87789013000076,"SVP, Sales and Services",male,187382107.0
+12000.0,,877890,citrix systems inc,1,0,0,0,20130920,caldwell nanci,87789013000070,,female,187382107.0
+36705.0,,877890,citrix systems inc,1,0,0,0,20130920,demo murray j,87789013000072,,male,187382107.0
+93298.0,,877890,citrix systems inc,0,1,0,0,20131028,monserrat alvaro,87789013000078,"SVP, Sales and Services",male,290639000.0
+30533.0,,877890,citrix systems inc,0,1,0,0,20140204,daheb steve,87789014000002,SVP & CMO,male,291078000.0
+74765.0,,877890,citrix systems inc,1,0,0,0,20140207,bogan thomas f,87789014000004,,male,291078000.0
+42000.0,,877890,citrix systems inc,0,1,0,0,20140305,hylen christopher,87789014000019,"SVP & General Manager, SaaS",male,183753307.0
+95298.0,,877890,citrix systems inc,0,1,0,0,20140305,monserrat alvaro,87789014000023,"SVP, Sales and Services",male,183753307.0
+32533.0,,877890,citrix systems inc,0,1,0,0,20140305,daheb steve,87789014000021,SVP & CMO,male,183753307.0
+86690.0,,877890,citrix systems inc,0,1,0,0,20140305,friedman david r,87789014000017,"General Counsel & SVP, HR",male,183753307.0
+76765.0,,877890,citrix systems inc,1,0,0,0,20140305,bogan thomas f,87789014000015,,male,183753307.0
+183833.0,,877890,citrix systems inc,0,1,0,0,20140305,henshall david j,87789014000013,"EVP, COO & CFO",male,183753307.0
+57000.0,,877890,citrix systems inc,0,1,0,0,20140305,ramakrishna sudhakar,87789014000011,"SVP&GM, Entrprse Serv Prov",male,183753307.0
+20993.0,,877890,citrix systems inc,0,1,0,0,20140305,courage catherine,87789014000009,SVP of Customer Experience,female,183753307.0
+60404.0,,877890,citrix systems inc,0,1,0,0,20140401,ramakrishna sudhakar,87789014000032,"SVP&GM, Entrprse Serv Prov",male,292798000.0
+33062.0,,877890,citrix systems inc,0,1,0,0,20140401,courage catherine,87789014000035,SVP of Customer Experience,female,292798000.0
+46441.0,,877890,citrix systems inc,0,1,0,0,20140401,daheb steve,87789014000036,SVP & CMO,male,292798000.0
+111919.0,,877890,citrix systems inc,0,1,0,0,20140401,monserrat alvaro,87789014000037,"SVP, Sales and Services",male,292798000.0
+216825.0,,877890,citrix systems inc,0,1,0,0,20140401,henshall david j,87789014000038,"EVP, COO & CFO",male,292798000.0
+289795.0,,877890,citrix systems inc,1,1,0,0,20140401,templeton mark b,87789014000039,CEO & President,male,292798000.0
+58858.0,,877890,citrix systems inc,0,1,0,0,20140401,hylen christopher,87789014000033,"SVP & General Manager, SaaS",male,292798000.0
+102494.0,,877890,citrix systems inc,0,1,0,0,20140401,friedman david r,87789014000034,"General Counsel & SVP, HR",male,292798000.0
+6364.0,,877890,citrix systems inc,1,0,0,0,20140429,dow stephen m,117911014007277,,male,292798000.0
+86765.0,,877890,citrix systems inc,1,0,0,0,20140429,bogan thomas f,87789014000041,,male,292798000.0
+41705.0,,877890,citrix systems inc,1,0,0,0,20140506,demo murray j,87789014000044,,male,163863398.0
+39241.0,,877890,citrix systems inc,0,1,0,0,20140508,daheb steve,87789014000048,SVP & CMO,male,163863398.0
+28665.0,,877890,citrix systems inc,1,0,0,0,20140529,sullivan godfrey,87789014000052,,male,163863398.0
+101616.0,,877890,citrix systems inc,0,1,0,0,20140529,monserrat alvaro,87789014000050,"SVP, Sales and Services",male,163863398.0
+31809.0,,877890,citrix systems inc,0,1,0,0,20140602,courage catherine,87789014000056,SVP of Customer Experience,female,163863398.0
+12000.0,,877890,citrix systems inc,1,0,0,0,20140602,caldwell nanci,87789014000054,,female,163863398.0
+60584.0,,877890,citrix systems inc,1,0,0,0,20140604,morin gary e,87789014000066,,male,163863398.0
+14181.0,,877890,citrix systems inc,1,0,0,0,20140604,daleo robert d,87789014000058,,male,163863398.0
+32665.0,,877890,citrix systems inc,1,0,0,0,20140604,sullivan godfrey,87789014000062,,male,163863398.0
 18364.0,376739.0,877890,citrix systems inc,1,0,0,0,20140604,dow stephen m,117911014009644,,male,163863398.0
-18499.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,hirji asiff s,87789014000060,,male,163863398.0
-45705.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,demo murray j,87789014000070,,male,163863398.0
-16000.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,caldwell nanci,87789014000068,,female,163863398.0
-60584.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,morin gary e,87789014000066,,male,163863398.0
-14181.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,daleo robert d,87789014000058,,male,163863398.0
-32665.0,0.0,877890,citrix systems inc,1,0,0,0,20140604,sullivan godfrey,87789014000062,,male,163863398.0
-28351.0,0.0,877890,citrix systems inc,0,1,0,0,20140617,courage catherine,87789014000072,SVP of Customer Experience,female,163863398.0
-10000.0,0.0,877890,citrix systems inc,1,0,0,0,20140717,calderoni robert,87789014000076,,male,293200000.0
-44705.0,0.0,877890,citrix systems inc,1,0,0,0,20140804,demo murray j,87789014000078,,male,164470301.0
-52307.0,0.0,877890,citrix systems inc,0,1,0,0,20140805,hylen christopher,87789014000081,"SVP & General Manager, SaaS",male,164470301.0
-321612.0,0.0,877890,citrix systems inc,1,1,0,0,20140805,templeton mark b,87789014000083,CEO & President,male,164470301.0
-45931.0,0.0,877890,citrix systems inc,0,1,0,0,20140808,hylen christopher,87789014000087,"SVP & General Manager, SaaS",male,164470301.0
-43705.0,0.0,877890,citrix systems inc,1,0,0,0,20140903,demo murray j,87789014000089,,male,164470301.0
-32665.0,0.0,877890,citrix systems inc,1,0,0,0,20140915,sullivan godfrey,87789014000091,,male,164470301.0
-42705.0,0.0,877890,citrix systems inc,1,0,0,0,20141002,demo murray j,87789014000093,,male,294141000.0
+18499.0,,877890,citrix systems inc,1,0,0,0,20140604,hirji asiff s,87789014000060,,male,163863398.0
+90765.0,,877890,citrix systems inc,1,0,0,0,20140604,bogan thomas f,87789014000064,,male,163863398.0
+45705.0,,877890,citrix systems inc,1,0,0,0,20140604,demo murray j,87789014000070,,male,163863398.0
+16000.0,,877890,citrix systems inc,1,0,0,0,20140604,caldwell nanci,87789014000068,,female,163863398.0
+28351.0,,877890,citrix systems inc,0,1,0,0,20140617,courage catherine,87789014000072,SVP of Customer Experience,female,163863398.0
+10000.0,,877890,citrix systems inc,1,0,0,0,20140717,calderoni robert,87789014000076,,male,293200000.0
+44705.0,,877890,citrix systems inc,1,0,0,0,20140804,demo murray j,87789014000078,,male,164470301.0
+321612.0,,877890,citrix systems inc,1,1,0,0,20140805,templeton mark b,87789014000083,CEO & President,male,164470301.0
+52307.0,,877890,citrix systems inc,0,1,0,0,20140805,hylen christopher,87789014000081,"SVP & General Manager, SaaS",male,164470301.0
+45931.0,,877890,citrix systems inc,0,1,0,0,20140808,hylen christopher,87789014000087,"SVP & General Manager, SaaS",male,164470301.0
+43705.0,,877890,citrix systems inc,1,0,0,0,20140903,demo murray j,87789014000089,,male,164470301.0
+32665.0,,877890,citrix systems inc,1,0,0,0,20140915,sullivan godfrey,87789014000091,,male,164470301.0
+42705.0,,877890,citrix systems inc,1,0,0,0,20141002,demo murray j,87789014000093,,male,294141000.0
 19869.0,376739.0,877890,citrix systems inc,1,0,0,0,20141028,dow stephen m,117911014015790,,male,294141000.0
-41705.0,0.0,877890,citrix systems inc,1,0,0,0,20141103,demo murray j,87789014000095,,male,160970724.0
-27017.0,0.0,877890,citrix systems inc,0,1,0,0,20141104,courage catherine,87789014000099,SVP of Customer Experience,female,160970724.0
-216825.0,0.0,877890,citrix systems inc,0,1,0,0,20141105,henshall david j,87789014000102,"EVP, COO & CFO",male,160970724.0
-11499.0,0.0,877890,citrix systems inc,1,0,0,0,20141113,hirji asiff s,87789014000104,,male,160970724.0
-40705.0,0.0,877890,citrix systems inc,1,0,0,0,20141202,demo murray j,87789014000106,,male,160970724.0
-45000.0,0.0,877890,citrix systems inc,0,1,0,0,20141215,ramleth thor geir,87789014000110,SVP & Chief Strategy Officer,male,160970724.0
-10000.0,0.0,877890,citrix systems inc,1,0,0,0,20141223,desouza francis a,87789014000116,,male,160970724.0
-39705.0,0.0,877890,citrix systems inc,1,0,0,0,20150105,demo murray j,87789015000002,,male,294674000.0
-40000.0,0.0,877890,citrix systems inc,0,1,0,0,20150128,grieve robson,87789015000008,"SVP, Marketing",male,294674000.0
-38705.0,0.0,877890,citrix systems inc,1,0,0,0,20150203,demo murray j,87789015000010,,male,294674000.0
-37705.0,0.0,877890,citrix systems inc,1,0,0,0,20150303,demo murray j,87789015000018,,male,159825741.0
-26265.0,0.0,877890,citrix systems inc,0,1,0,0,20150305,courage catherine,87789015000024,SVP of Customer Experience,female,159825741.0
-216278.0,0.0,877890,citrix systems inc,0,1,0,0,20150305,henshall david j,87789015000022,"EVP, COO & CFO",male,159825741.0
-44325.0,0.0,877890,citrix systems inc,0,1,0,0,20150305,hylen christopher,87789015000026,"SVP & GM, Mobility Apps",male,159825741.0
-101947.0,0.0,877890,citrix systems inc,0,1,0,0,20150305,friedman david r,87789015000020,"General Counsel & SVP, HR",male,159825741.0
-334203.0,0.0,877890,citrix systems inc,1,0,0,0,20150326,dow stephen m,117911015005451,,male,159825741.0
-21704.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,courage catherine,87789015000030,SVP of Customer Experience,female,296384000.0
-32461.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,oestermann klaus,87789015000032,"SVP & GM, Delivery Networks",male,296384000.0
-109694.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,friedman david r,87789015000044,"General Counsel & SVP, HR",male,296384000.0
-358259.0,0.0,877890,citrix systems inc,1,1,0,0,20150331,templeton mark b,87789015000042,CEO & President,male,296384000.0
-38777.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,sartorius carlos,87789015000040,"SVP, Sales & Services",male,296384000.0
-231609.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,henshall david j,87789015000038,"EVP, COO & CFO",male,296384000.0
-54296.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,hylen christopher,87789015000036,"SVP & GM, Mobility Apps",male,296384000.0
-18546.0,0.0,877890,citrix systems inc,0,1,0,0,20150331,zalewski david,87789015000034,"VP, CAO & Corp Controller",male,296384000.0
-36705.0,0.0,877890,citrix systems inc,1,0,0,0,20150402,demo murray j,87789015000046,,male,296384000.0
-14213.0,0.0,877890,citrix systems inc,0,1,0,0,20150427,zalewski david,87789015000048,"VP, CAO & Corp Controller",male,296384000.0
-358259.0,0.0,877890,citrix systems inc,1,1,0,0,20150429,templeton mark b,87789015000050,CEO & President,male,296384000.0
-13879.0,0.0,877890,citrix systems inc,0,1,0,0,20150505,zalewski david,87789015000052,"VP, CAO & Corp Controller",male,160287615.0
-16000.0,0.0,877890,citrix systems inc,1,0,0,0,20150508,caldwell nanci,87789015000054,,female,160287615.0
-35405.0,0.0,877890,citrix systems inc,1,0,0,0,20150513,demo murray j,87789015000057,,male,160287615.0
-35405.0,0.0,877890,citrix systems inc,1,0,0,0,20150520,demo murray j,87789015000059,,male,160287615.0
-314203.0,0.0,877890,citrix systems inc,1,0,0,0,20150521,dow stephen m,117911015008278,,male,160287615.0
-358259.0,0.0,877890,citrix systems inc,1,1,0,0,20150601,templeton mark b,87789015000061,CEO & President,male,160287615.0
-34405.0,0.0,877890,citrix systems inc,1,0,0,0,20150602,demo murray j,87789015000063,,male,160287615.0
+41705.0,,877890,citrix systems inc,1,0,0,0,20141103,demo murray j,87789014000095,,male,160970724.0
+27017.0,,877890,citrix systems inc,0,1,0,0,20141104,courage catherine,87789014000099,SVP of Customer Experience,female,160970724.0
+216825.0,,877890,citrix systems inc,0,1,0,0,20141105,henshall david j,87789014000102,"EVP, COO & CFO",male,160970724.0
+11499.0,,877890,citrix systems inc,1,0,0,0,20141113,hirji asiff s,87789014000104,,male,160970724.0
+40705.0,,877890,citrix systems inc,1,0,0,0,20141202,demo murray j,87789014000106,,male,160970724.0
+45000.0,,877890,citrix systems inc,0,1,0,0,20141215,ramleth thor geir,87789014000110,SVP & Chief Strategy Officer,male,160970724.0
+10000.0,,877890,citrix systems inc,1,0,0,0,20141223,desouza francis a,87789014000116,,male,160970724.0
+39705.0,,877890,citrix systems inc,1,0,0,0,20150105,demo murray j,87789015000002,,male,294674000.0
+40000.0,,877890,citrix systems inc,0,1,0,0,20150128,grieve robson,87789015000008,"SVP, Marketing",male,294674000.0
+38705.0,,877890,citrix systems inc,1,0,0,0,20150203,demo murray j,87789015000010,,male,294674000.0
+37705.0,,877890,citrix systems inc,1,0,0,0,20150303,demo murray j,87789015000018,,male,159825741.0
+44325.0,,877890,citrix systems inc,0,1,0,0,20150305,hylen christopher,87789015000026,"SVP & GM, Mobility Apps",male,159825741.0
+216278.0,,877890,citrix systems inc,0,1,0,0,20150305,henshall david j,87789015000022,"EVP, COO & CFO",male,159825741.0
+101947.0,,877890,citrix systems inc,0,1,0,0,20150305,friedman david r,87789015000020,"General Counsel & SVP, HR",male,159825741.0
+26265.0,,877890,citrix systems inc,0,1,0,0,20150305,courage catherine,87789015000024,SVP of Customer Experience,female,159825741.0
+334203.0,,877890,citrix systems inc,1,0,0,0,20150326,dow stephen m,117911015005451,,male,159825741.0
+358259.0,,877890,citrix systems inc,1,1,0,0,20150331,templeton mark b,87789015000042,CEO & President,male,296384000.0
+109694.0,,877890,citrix systems inc,0,1,0,0,20150331,friedman david r,87789015000044,"General Counsel & SVP, HR",male,296384000.0
+38777.0,,877890,citrix systems inc,0,1,0,0,20150331,sartorius carlos,87789015000040,"SVP, Sales & Services",male,296384000.0
+231609.0,,877890,citrix systems inc,0,1,0,0,20150331,henshall david j,87789015000038,"EVP, COO & CFO",male,296384000.0
+54296.0,,877890,citrix systems inc,0,1,0,0,20150331,hylen christopher,87789015000036,"SVP & GM, Mobility Apps",male,296384000.0
+18546.0,,877890,citrix systems inc,0,1,0,0,20150331,zalewski david,87789015000034,"VP, CAO & Corp Controller",male,296384000.0
+32461.0,,877890,citrix systems inc,0,1,0,0,20150331,oestermann klaus,87789015000032,"SVP & GM, Delivery Networks",male,296384000.0
+21704.0,,877890,citrix systems inc,0,1,0,0,20150331,courage catherine,87789015000030,SVP of Customer Experience,female,296384000.0
+36705.0,,877890,citrix systems inc,1,0,0,0,20150402,demo murray j,87789015000046,,male,296384000.0
+14213.0,,877890,citrix systems inc,0,1,0,0,20150427,zalewski david,87789015000048,"VP, CAO & Corp Controller",male,296384000.0
+358259.0,,877890,citrix systems inc,1,1,0,0,20150429,templeton mark b,87789015000050,CEO & President,male,296384000.0
+13879.0,,877890,citrix systems inc,0,1,0,0,20150505,zalewski david,87789015000052,"VP, CAO & Corp Controller",male,160287615.0
+16000.0,,877890,citrix systems inc,1,0,0,0,20150508,caldwell nanci,87789015000054,,female,160287615.0
+35405.0,,877890,citrix systems inc,1,0,0,0,20150513,demo murray j,87789015000057,,male,160287615.0
+35405.0,,877890,citrix systems inc,1,0,0,0,20150520,demo murray j,87789015000059,,male,160287615.0
+314203.0,,877890,citrix systems inc,1,0,0,0,20150521,dow stephen m,117911015008278,,male,160287615.0
+358259.0,,877890,citrix systems inc,1,1,0,0,20150601,templeton mark b,87789015000061,CEO & President,male,160287615.0
+34405.0,,877890,citrix systems inc,1,0,0,0,20150602,demo murray j,87789015000063,,male,160287615.0
 23869.0,314203.0,877890,citrix systems inc,1,0,0,0,20150603,dow stephen m,117911015008950,,male,160287615.0
-38405.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,demo murray j,87789015000073,,male,160287615.0
-14000.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,desouza francis a,87789015000075,,male,160287615.0
-94765.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,bogan thomas f,87789015000065,,male,160287615.0
-36665.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,sullivan godfrey,87789015000079,,male,160287615.0
-15499.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,hirji asiff s,87789015000077,,male,160287615.0
-18181.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,daleo robert d,87789015000071,,male,160287615.0
-20000.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,caldwell nanci,87789015000069,,female,160287615.0
-14000.0,0.0,877890,citrix systems inc,1,0,0,0,20150603,calderoni robert,87789015000067,,male,160287615.0
-221609.0,0.0,877890,citrix systems inc,0,1,0,0,20150615,henshall david j,87789015000081,"EVP, COO & CFO",male,160287615.0
-36405.0,0.0,877890,citrix systems inc,1,0,0,0,20150701,demo murray j,87789015000083,,male,297179000.0
-31834.0,0.0,877890,citrix systems inc,0,1,0,0,20150706,oestermann klaus,87789015000085,"SVP & GM, Delivery Networks",male,297179000.0
-353809.0,0.0,877890,citrix systems inc,1,1,0,0,20150804,templeton mark b,87789015000091,CEO & President,male,160701338.0
-47338.0,0.0,877890,citrix systems inc,0,1,0,0,20150804,hylen christopher,87789015000089,"SVP & GM, Mobility Apps",male,160701338.0
-109303.0,0.0,877890,citrix systems inc,1,1,0,0,20150804,calderoni robert,87789015000087,Executive Chairman,male,160701338.0
-34405.0,0.0,877890,citrix systems inc,1,0,0,0,20150804,demo murray j,87789015000093,,male,160701338.0
-43460.0,0.0,877890,citrix systems inc,0,1,0,0,20150806,hylen christopher,87789015000095,"SVP & GM, Mobility Apps",male,160701338.0
-10000.0,0.0,877890,citrix systems inc,1,0,0,0,20150818,cohn jesse,114036115032739,,male,160701338.0
-3847880.0,0.0,877890,citrix systems inc,0,0,0,1,20150826,"elliott international, l.p.",114036115033575,,male,160701338.0
-1982160.0,0.0,877890,citrix systems inc,0,0,0,1,20150826,"elliott associates, l.p.",114036115033574,,male,160701338.0
-1996086.0,0.0,877890,citrix systems inc,0,0,0,1,20150831,"elliott associates, l.p.",114036115033920,,male,160701338.0
-3874914.0,0.0,877890,citrix systems inc,0,0,0,1,20150831,"elliott international, l.p.",114036115033921,,male,160701338.0
-33405.0,0.0,877890,citrix systems inc,1,0,0,0,20150901,demo murray j,87789015000100,,male,160701338.0
-107494.0,0.0,877890,citrix systems inc,1,1,0,0,20150902,calderoni robert,87789015000104,Executive Chairman,male,160701338.0
-55000.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,grieve robson,87789015000106,"SVP, Marketing",male,160701338.0
-256609.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,henshall david j,87789015000108,"EVP, COO & CFO",male,160701338.0
-63460.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,hylen christopher,87789015000110,"SVP & GM, Mobility Apps",male,160701338.0
-51834.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,oestermann klaus,87789015000112,"SVP & GM, Delivery Networks",male,160701338.0
-70428.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,ramleth thor geir,87789015000114,SVP & Chief Strategy Officer,male,160701338.0
-63777.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,sartorius carlos,87789015000116,"SVP, Sales & Services",male,160701338.0
-19779.0,0.0,877890,citrix systems inc,0,1,0,0,20150903,zalewski david,87789015000118,"VP, CAO & Corp Controller",male,160701338.0
-58777.0,0.0,877890,citrix systems inc,0,1,0,0,20150908,sartorius carlos,87789015000120,"SVP, Sales & Services",male,160701338.0
+36665.0,,877890,citrix systems inc,1,0,0,0,20150603,sullivan godfrey,87789015000079,,male,160287615.0
+15499.0,,877890,citrix systems inc,1,0,0,0,20150603,hirji asiff s,87789015000077,,male,160287615.0
+14000.0,,877890,citrix systems inc,1,0,0,0,20150603,desouza francis a,87789015000075,,male,160287615.0
+38405.0,,877890,citrix systems inc,1,0,0,0,20150603,demo murray j,87789015000073,,male,160287615.0
+18181.0,,877890,citrix systems inc,1,0,0,0,20150603,daleo robert d,87789015000071,,male,160287615.0
+20000.0,,877890,citrix systems inc,1,0,0,0,20150603,caldwell nanci,87789015000069,,female,160287615.0
+14000.0,,877890,citrix systems inc,1,0,0,0,20150603,calderoni robert,87789015000067,,male,160287615.0
+94765.0,,877890,citrix systems inc,1,0,0,0,20150603,bogan thomas f,87789015000065,,male,160287615.0
+221609.0,,877890,citrix systems inc,0,1,0,0,20150615,henshall david j,87789015000081,"EVP, COO & CFO",male,160287615.0
+36405.0,,877890,citrix systems inc,1,0,0,0,20150701,demo murray j,87789015000083,,male,297179000.0
+31834.0,,877890,citrix systems inc,0,1,0,0,20150706,oestermann klaus,87789015000085,"SVP & GM, Delivery Networks",male,297179000.0
+109303.0,,877890,citrix systems inc,1,1,0,0,20150804,calderoni robert,87789015000087,Executive Chairman,male,160701338.0
+47338.0,,877890,citrix systems inc,0,1,0,0,20150804,hylen christopher,87789015000089,"SVP & GM, Mobility Apps",male,160701338.0
+353809.0,,877890,citrix systems inc,1,1,0,0,20150804,templeton mark b,87789015000091,CEO & President,male,160701338.0
+34405.0,,877890,citrix systems inc,1,0,0,0,20150804,demo murray j,87789015000093,,male,160701338.0
+109303.0,,877890,citrix systems inc,1,1,0,0,20150804,calderoni robert,87789015000087,Executive Chairman,male,160701338.0
+47338.0,,877890,citrix systems inc,0,1,0,0,20150804,hylen christopher,87789015000089,"SVP & GM, Mobility Apps",male,160701338.0
+353809.0,,877890,citrix systems inc,1,1,0,0,20150804,templeton mark b,87789015000091,CEO & President,male,160701338.0
+34405.0,,877890,citrix systems inc,1,0,0,0,20150804,demo murray j,87789015000093,,male,160701338.0
+43460.0,,877890,citrix systems inc,0,1,0,0,20150806,hylen christopher,87789015000095,"SVP & GM, Mobility Apps",male,160701338.0
+43460.0,,877890,citrix systems inc,0,1,0,0,20150806,hylen christopher,87789015000095,"SVP & GM, Mobility Apps",male,160701338.0
+,,877890,citrix systems inc,1,0,0,0,20150818,cohn jesse,114036115032739,,male,160701338.0
+,,877890,citrix systems inc,1,0,0,0,20150818,cohn jesse,114036115032739,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150826,"elliott international, l.p.",114036115033575,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150826,"elliott associates, l.p.",114036115033574,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150826,"elliott associates, l.p.",114036115033574,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150826,"elliott international, l.p.",114036115033575,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150831,"elliott associates, l.p.",114036115033920,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150831,"elliott associates, l.p.",114036115033920,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150831,"elliott international, l.p.",114036115033921,,male,160701338.0
+,,877890,citrix systems inc,0,0,0,1,20150831,"elliott international, l.p.",114036115033921,,male,160701338.0
+33405.0,,877890,citrix systems inc,1,0,0,0,20150901,demo murray j,87789015000100,,male,160701338.0
+33405.0,,877890,citrix systems inc,1,0,0,0,20150901,demo murray j,87789015000100,,male,160701338.0
+107494.0,,877890,citrix systems inc,1,1,0,0,20150902,calderoni robert,87789015000104,Executive Chairman,male,160701338.0
+107494.0,,877890,citrix systems inc,1,1,0,0,20150902,calderoni robert,87789015000104,Executive Chairman,male,160701338.0
+55000.0,,877890,citrix systems inc,0,1,0,0,20150903,grieve robson,87789015000106,"SVP, Marketing",male,160701338.0
+19779.0,,877890,citrix systems inc,0,1,0,0,20150903,zalewski david,87789015000118,"VP, CAO & Corp Controller",male,160701338.0
+256609.0,,877890,citrix systems inc,0,1,0,0,20150903,henshall david j,87789015000108,"EVP, COO & CFO",male,160701338.0
+63460.0,,877890,citrix systems inc,0,1,0,0,20150903,hylen christopher,87789015000110,"SVP & GM, Mobility Apps",male,160701338.0
+256609.0,,877890,citrix systems inc,0,1,0,0,20150903,henshall david j,87789015000108,"EVP, COO & CFO",male,160701338.0
+70428.0,,877890,citrix systems inc,0,1,0,0,20150903,ramleth thor geir,87789015000114,SVP & Chief Strategy Officer,male,160701338.0
+63777.0,,877890,citrix systems inc,0,1,0,0,20150903,sartorius carlos,87789015000116,"SVP, Sales & Services",male,160701338.0
+55000.0,,877890,citrix systems inc,0,1,0,0,20150903,grieve robson,87789015000106,"SVP, Marketing",male,160701338.0
+19779.0,,877890,citrix systems inc,0,1,0,0,20150903,zalewski david,87789015000118,"VP, CAO & Corp Controller",male,160701338.0
+63460.0,,877890,citrix systems inc,0,1,0,0,20150903,hylen christopher,87789015000110,"SVP & GM, Mobility Apps",male,160701338.0
+51834.0,,877890,citrix systems inc,0,1,0,0,20150903,oestermann klaus,87789015000112,"SVP & GM, Delivery Networks",male,160701338.0
+70428.0,,877890,citrix systems inc,0,1,0,0,20150903,ramleth thor geir,87789015000114,SVP & Chief Strategy Officer,male,160701338.0
+63777.0,,877890,citrix systems inc,0,1,0,0,20150903,sartorius carlos,87789015000116,"SVP, Sales & Services",male,160701338.0
+51834.0,,877890,citrix systems inc,0,1,0,0,20150903,oestermann klaus,87789015000112,"SVP & GM, Delivery Networks",male,160701338.0
+58777.0,,877890,citrix systems inc,0,1,0,0,20150908,sartorius carlos,87789015000120,"SVP, Sales & Services",male,160701338.0
+58777.0,,877890,citrix systems inc,0,1,0,0,20150908,sartorius carlos,87789015000120,"SVP, Sales & Services",male,160701338.0
+32405.0,,877890,citrix systems inc,1,0,0,0,20151001,demo murray j,87789015000122,,male,298112000.0
+105691.0,,877890,citrix systems inc,1,1,0,0,20151001,calderoni robert,87789015000124,Executive Chairman,male,298112000.0
+58323.0,,877890,citrix systems inc,0,1,0,0,20151005,sartorius carlos,87789015000126,"SVP, Sales & Services",male,298112000.0
+60000.0,,877890,citrix systems inc,0,1,0,0,20151005,grieve robson,87789015000128,"SVP, Marketing",male,298112000.0
+30405.0,,877890,citrix systems inc,1,0,0,0,20151103,demo murray j,87789015000130,,male,153824447.0
+206321.0,,877890,citrix systems inc,1,1,0,0,20151103,calderoni robert,87789015000134,Interim CEO & President,male,153824447.0
+19779.0,,877890,citrix systems inc,0,1,0,0,20151123,zalewski david,87789015000139,"VP, CAO & Corp Controller",male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151123,"elliott associates, l.p.",114036115042568,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151123,"elliott international, l.p.",114036115042569,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151124,"elliott associates, l.p.",114036115042697,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151124,"elliott international, l.p.",114036115042698,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151125,"elliott international, l.p.",114036115042827,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151125,"elliott associates, l.p.",114036115042828,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151127,"elliott associates, l.p.",114036115042972,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151127,"elliott international, l.p.",114036115042973,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151130,"elliott associates, l.p.",114036115043043,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151130,"elliott international, l.p.",114036115043044,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151201,"elliott international, l.p.",114036115043164,,male,153824447.0
+,,877890,citrix systems inc,0,0,0,1,20151201,"elliott associates, l.p.",114036115043163,,male,153824447.0
+28405.0,,877890,citrix systems inc,1,0,0,0,20151202,demo murray j,87789015000141,,male,153824447.0
+200504.0,,877890,citrix systems inc,1,1,0,0,20151202,calderoni robert,87789015000143,Interim CEO & President,male,153824447.0
+40000.0,,877890,citrix systems inc,0,1,0,0,20151202,minahan timothy a.,87789015000145,CMO,male,153824447.0
+43403.0,,877890,citrix systems inc,0,1,0,0,20151203,burley william,87789015000151,"CVP & Act. GM, Workspace Serv.",male,153824447.0
+50616.0,,877890,citrix systems inc,0,1,0,0,20151203,oestermann klaus,87789015000153,"SVP & GM, Delivery Networks",male,153824447.0
+18779.0,,877890,citrix systems inc,0,1,0,0,20151203,zalewski david,87789015000147,"VP, CAO & Corp Controller",male,153824447.0
+42953.0,,877890,citrix systems inc,0,1,0,0,20151214,oestermann klaus,87789015000155,"SVP & GM, Delivery Networks",male,153824447.0
+256609.0,,877890,citrix systems inc,0,1,0,0,20151217,henshall david j,87789015000157,"EVP, COO & CFO",male,153824447.0
+42953.0,,877890,citrix systems inc,0,1,0,0,20151217,oestermann klaus,87789015000159,"SVP & GM, Delivery Networks",male,153824447.0
+194687.0,,877890,citrix systems inc,1,1,0,0,20160104,calderoni robert,87789016000167,Interim CEO & President,male,299113000.0
+6609.0,,877890,citrix systems inc,1,0,0,0,20160104,sacripanti peter john,87789016000171,,male,299113000.0
+6609.0,,877890,citrix systems inc,1,0,0,0,20160104,smith graham,87789016000169,,male,299113000.0
+25405.0,,877890,citrix systems inc,1,0,0,0,20160104,demo murray j,87789016000165,,male,299113000.0
+118588.0,,877890,citrix systems inc,1,1,0,0,20160127,tatarinov kirill,87789016000177,CEO & PRESIDENT,male,299113000.0
+23405.0,,877890,citrix systems inc,1,0,0,0,20160202,demo murray j,87789016000179,,male,299113000.0
+190878.0,,877890,citrix systems inc,1,1,0,0,20160202,calderoni robert,87789016000181,Executive Chair,male,299113000.0
+185061.0,,877890,citrix systems inc,1,1,0,0,20160302,calderoni robert,87789016000188,Executive Chair,male,153979766.0
+21405.0,,877890,citrix systems inc,1,0,0,0,20160302,demo murray j,87789016000190,,male,153979766.0
+18379.0,,877890,citrix systems inc,0,1,0,0,20160303,zalewski david,87789016000196,"VP, CAO & Corp Controller",male,153979766.0
+33399.0,,877890,citrix systems inc,0,1,0,0,20160303,lipson jesse,87789016000194,"CVP and GM, Cloud Services",male,153979766.0
+43244.0,,877890,citrix systems inc,0,1,0,0,20160303,burley william,87789016000192,"CVP & Act. GM, Workspace Serv.",male,153979766.0
+69248.0,,877890,citrix systems inc,0,1,0,0,20160330,hylen christopher,87789016000202,"SVP & GM, Mobility Apps",male,153979766.0
+275398.0,,877890,citrix systems inc,0,1,0,0,20160330,henshall david j,87789016000200,"EVP, COO & CFO",male,153979766.0
+54740.0,,877890,citrix systems inc,0,1,0,0,20160330,burley william,87789016000198,"CVP & Act. GM, Workspace Serv.",male,153979766.0
+21421.0,,877890,citrix systems inc,0,1,0,0,20160330,zalewski david,87789016000212,"VP, CAO & Corp Controller",male,153979766.0
+52504.0,,877890,citrix systems inc,0,1,0,0,20160330,minahan timothy a.,87789016000206,CMO,male,153979766.0
+53855.0,,877890,citrix systems inc,0,1,0,0,20160330,oestermann klaus,87789016000208,"SVP & GM, Delivery Networks",male,153979766.0
+42238.0,,877890,citrix systems inc,0,1,0,0,20160330,lipson jesse,87789016000204,"CVP and GM, Cloud Services",male,153979766.0
+84198.0,,877890,citrix systems inc,0,1,0,0,20160330,sartorius carlos,87789016000210,"SVP, Sales & Services",male,153979766.0
+54313.0,,877890,citrix systems inc,0,1,0,0,20160401,burley william,87789016000214,"CVP & Act. GM, Workspace Serv.",male,300698000.0
+179244.0,,877890,citrix systems inc,1,1,0,0,20160401,calderoni robert,87789016000216,Executive Chair,male,300698000.0
+271465.0,,877890,citrix systems inc,0,1,0,0,20160401,henshall david j,87789016000218,"EVP, COO & CFO",male,300698000.0
+65024.0,,877890,citrix systems inc,0,1,0,0,20160401,hylen christopher,87789016000220,"SVP & GM, Mobility Apps",male,300698000.0
+41357.0,,877890,citrix systems inc,0,1,0,0,20160401,lipson jesse,87789016000222,"CVP and GM, Cloud Services",male,300698000.0
+52174.0,,877890,citrix systems inc,0,1,0,0,20160401,oestermann klaus,87789016000224,"SVP & GM, Delivery Networks",male,300698000.0
+81363.0,,877890,citrix systems inc,0,1,0,0,20160401,sartorius carlos,87789016000226,"SVP, Sales & Services",male,300698000.0
+20994.0,,877890,citrix systems inc,0,1,0,0,20160401,zalewski david,87789016000228,"VP, CAO & Corp Controller",male,300698000.0
+76119.0,,877890,citrix systems inc,0,1,0,0,20160404,sartorius carlos,87789016000236,"SVP, Sales & Services",male,300698000.0
+264123.0,,877890,citrix systems inc,0,1,0,0,20160404,henshall david j,87789016000230,"EVP, COO & CFO",male,300698000.0
+46956.0,,877890,citrix systems inc,0,1,0,0,20160404,oestermann klaus,87789016000234,"SVP & GM, Delivery Networks",male,300698000.0
+59806.0,,877890,citrix systems inc,0,1,0,0,20160404,hylen christopher,87789016000232,"SVP & GM, Mobility Apps",male,300698000.0
+115886.0,,877890,citrix systems inc,1,1,0,0,20160404,tatarinov kirill,87789016000238,CEO & PRESIDENT,male,300698000.0
+55961.0,,877890,citrix systems inc,0,1,0,0,20160426,hylen christopher,87789016000240,"SVP & GM, Mobility Apps",male,300698000.0
+173427.0,,877890,citrix systems inc,1,1,0,0,20160502,calderoni robert,87789016000244,Executive Chair,male,155102006.0
+20405.0,,877890,citrix systems inc,1,0,0,0,20160504,demo murray j,87789016000246,,male,155102006.0
+17290.0,,877890,citrix systems inc,0,1,0,0,20160505,soisson jessica,87789016000249,VP & Corporate Controller,female,155102006.0
+53060.0,,877890,citrix systems inc,0,1,0,0,20160513,burley william,87789016000253,"CVP & Act. GM, Workspace Serv.",male,155102006.0
+263262.0,,877890,citrix systems inc,0,1,0,0,20160524,henshall david j,87789016000255,"EVP, COO & CFO",male,155102006.0
+239123.0,,877890,citrix systems inc,0,1,0,0,20160526,henshall david j,87789016000257,"EVP, COO & CFO",male,155102006.0
+167610.0,,877890,citrix systems inc,1,1,0,0,20160602,calderoni robert,87789016000259,Executive Chair,male,155102006.0
+19405.0,,877890,citrix systems inc,1,0,0,0,20160602,demo murray j,87789016000261,,male,155102006.0
+18405.0,,877890,citrix systems inc,1,0,0,0,20160630,demo murray j,87789016000263,,male,301356000.0
+21516.0,,877890,citrix systems inc,1,0,0,0,20160705,demo murray j,87789016000271,,male,301356000.0
+22894.0,,877890,citrix systems inc,1,0,0,0,20160705,daleo robert d,87789016000279,,male,301356000.0
+9720.0,,877890,citrix systems inc,1,0,0,0,20160705,smith graham,87789016000275,,male,301356000.0
+9720.0,,877890,citrix systems inc,1,0,0,0,20160705,sacripanti peter john,87789016000273,,male,301356000.0
+23111.0,,877890,citrix systems inc,1,0,0,0,20160705,caldwell nanci,87789016000269,,female,301356000.0
+161793.0,,877890,citrix systems inc,1,1,0,0,20160705,calderoni robert,87789016000267,Executive Chair,male,301356000.0
+111740.0,,877890,citrix systems inc,1,1,0,0,20160705,tatarinov kirill,87789016000265,CEO & PRESIDENT,male,301356000.0
+39776.0,,877890,citrix systems inc,1,0,0,0,20160705,sullivan godfrey,87789016000277,,male,301356000.0
+13111.0,,877890,citrix systems inc,1,0,0,0,20160706,cohn jesse,87789016000283,,male,301356000.0
+155976.0,,877890,citrix systems inc,1,1,0,0,20160801,calderoni robert,87789016000285,Executive Chair,male,155726896.0
+12650.0,,877890,citrix systems inc,0,1,0,0,20160801,soisson jessica,87789016000287,VP & Corporate Controller,female,155726896.0
+20516.0,,877890,citrix systems inc,1,0,0,0,20160802,demo murray j,87789016000289,,male,155726896.0
+49003.0,,877890,citrix systems inc,0,1,0,0,20160802,hylen christopher,87789016000291,"SVP & GM, Mobility Apps",male,155726896.0
+45125.0,,877890,citrix systems inc,0,1,0,0,20160804,hylen christopher,87789016000293,"SVP & GM, Mobility Apps",male,155726896.0
+52695.0,,877890,citrix systems inc,0,1,0,0,20160804,burley william,87789016000295,"CVP & GM, Workspace Serv.",male,155726896.0
+62987.0,,877890,citrix systems inc,0,1,0,0,20160808,sartorius carlos,87789016000299,"SVP, Sales & Services",male,155726896.0
+39714.0,,877890,citrix systems inc,0,1,0,0,20160815,oestermann klaus,87789016000301,"SVP & GM, Delivery Networks",male,155726896.0
+15276.0,,877890,citrix systems inc,1,0,0,0,20160831,demo murray j,87789016000303,,male,155726896.0
+150159.0,,877890,citrix systems inc,1,1,0,0,20160901,calderoni robert,87789016000305,Executive Chair,male,155726896.0
+40833.0,,877890,citrix systems inc,0,1,0,0,20160906,lipson jesse,87789016000307,"CVP and GM, Cloud Services",male,155726896.0
+51897.0,,877890,citrix systems inc,0,1,0,0,20160906,burley william,87789016000309,"CVP & GM, Workspace Serv.",male,155726896.0
+14741.0,,877890,citrix systems inc,0,1,0,0,20160906,soisson jessica,87789016000311,VP & Corporate Controller,female,155726896.0
+14276.0,,877890,citrix systems inc,1,0,0,0,20160930,demo murray j,87789016000313,,male,302107000.0
+144342.0,,877890,citrix systems inc,1,1,0,0,20161004,calderoni robert,87789016000315,Executive Chairman,male,302107000.0
+107594.0,,877890,citrix systems inc,1,1,0,0,20161004,tatarinov kirill,87789016000317,CEO & PRESIDENT,male,302107000.0
+57043.0,,877890,citrix systems inc,0,1,0,0,20161004,sartorius carlos,87789016000319,"EVP, Sales & Services",male,302107000.0
+34496.0,,877890,citrix systems inc,0,1,0,0,20161004,oestermann klaus,87789016000321,"SVP & GM, Delivery Networks",male,302107000.0
+39907.0,,877890,citrix systems inc,0,1,0,0,20161004,hylen christopher,87789016000323,"SVP & GM, Mobility Apps",male,302107000.0
+231781.0,,877890,citrix systems inc,0,1,0,0,20161004,henshall david j,87789016000325,"EVP, COO & CFO",male,302107000.0
+124454.0,,877890,citrix systems inc,1,1,0,0,20161025,calderoni robert,87789016000327,Executive Chairman,male,302107000.0
+37657.0,,877890,citrix systems inc,0,1,0,0,20161026,hylen christopher,87789016000329,"SVP & GM, Mobility Apps",male,302107000.0
+12353.0,,877890,citrix systems inc,0,1,0,0,20161101,soisson jessica,87789016000331,VP & Corporate Controller,female,155966012.0
+13276.0,,877890,citrix systems inc,1,0,0,0,20161101,demo murray j,87789016000333,,male,155966012.0
+118637.0,,877890,citrix systems inc,1,1,0,0,20161101,calderoni robert,87789016000335,Executive Chairman,male,155966012.0
+31308.0,,877890,citrix systems inc,0,1,0,0,20161110,oestermann klaus,87789016000340,"SVP & GM, Delivery Networks",male,155966012.0
+206781.0,,877890,citrix systems inc,0,1,0,0,20161110,henshall david j,87789016000342,"EVP, COO & CFO",male,155966012.0
+206481.0,,877890,citrix systems inc,0,1,0,0,20161114,henshall david j,87789016000344,"EVP, COO & CFO",male,155966012.0
+191781.0,,877890,citrix systems inc,0,1,0,0,20161121,henshall david j,87789016000346,"EVP, COO & CFO",male,155966012.0
+12276.0,,877890,citrix systems inc,1,0,0,0,20161130,demo murray j,87789016000348,,male,155966012.0
+116416.0,,877890,citrix systems inc,1,1,0,0,20161201,calderoni robert,87789016000350,Executive Chairman,male,155966012.0
+40450.0,,877890,citrix systems inc,0,1,0,0,20161205,lipson jesse,87789016000358,"CVP and GM, Cloud Services",male,155966012.0
+47072.0,,877890,citrix systems inc,0,1,0,0,20161205,minahan timothy a.,87789016000356,CMO,male,155966012.0
+30090.0,,877890,citrix systems inc,0,1,0,0,20161205,oestermann klaus,87789016000354,"SVP & GM, Delivery Networks",male,155966012.0
+11895.0,,877890,citrix systems inc,0,1,0,0,20161205,soisson jessica,87789016000352,VP & Corporate Controller,female,155966012.0
+29347.0,,877890,citrix systems inc,0,1,0,0,20161207,oestermann klaus,87789016000361,"SVP & GM, Delivery Networks",male,155966012.0
+189407.0,,877890,citrix systems inc,0,1,0,0,20161212,henshall david j,87789016000363,"EVP, COO & CFO",male,155966012.0
+38856.0,,877890,citrix systems inc,0,1,0,0,20161229,lipson jesse,87789016000366,"CVP and GM, Cloud Services",male,155966012.0
+114195.0,,877890,citrix systems inc,1,1,0,0,20170103,calderoni robert,87789017000002,Executive Chairman,male,302851000.0
+11276.0,,877890,citrix systems inc,1,0,0,0,20170103,demo murray j,87789017000004,,male,302851000.0
+24097.0,,877890,citrix systems inc,1,0,0,0,20170103,daleo robert d,87789017000006,,male,302851000.0
+104823.0,,877890,citrix systems inc,1,1,0,0,20170104,tatarinov kirill,87789017000008,CEO & PRESIDENT,male,302851000.0
+10276.0,,877890,citrix systems inc,1,0,0,0,20170201,demo murray j,87789017000010,,male,302851000.0
+226491.0,,877890,citrix systems inc,1,1,0,0,20170203,calderoni robert,87789017000012,Executive Chairman,male,302851000.0
+275979.0,,877890,citrix systems inc,0,1,0,0,20170215,henshall david j,87789017000020,"EVP, COO & CFO",male,156352410.0
+227200.0,,877890,citrix systems inc,1,1,0,0,20170215,calderoni robert,87789017000014,Executive Chairman,male,156352410.0
+69308.0,,877890,citrix systems inc,0,1,0,0,20170215,hylen christopher,87789017000016,"SVP & GM, Mobility Apps",male,156352410.0
+14405.0,,877890,citrix systems inc,0,1,0,0,20170215,soisson jessica,87789017000018,VP & Corporate Controller,female,156352410.0
+87944.0,,877890,citrix systems inc,0,1,0,0,20170215,sartorius carlos,87789017000022,"EVP, Sales & Services",male,156352410.0
+69833.0,,877890,citrix systems inc,0,1,0,0,20170215,minahan timothy a.,87789017000024,CMO,male,156352410.0
+260792.0,,877890,citrix systems inc,1,1,0,0,20170216,calderoni robert,87789017000028,Executive Chairman,male,156352410.0
+9606.0,,877890,citrix systems inc,1,0,0,0,20170301,demo murray j,87789017000035,,male,156352410.0
+258338.0,,877890,citrix systems inc,1,1,0,0,20170301,calderoni robert,87789017000037,Executive Chairman,male,156352410.0
+54947.0,,877890,citrix systems inc,0,1,0,0,20170314,minahan timothy a.,87789017000039,CMO,male,156352410.0
+8606.0,,877890,citrix systems inc,1,0,0,0,20170330,demo murray j,87789017000047,,male,156352410.0
+268832.0,,877890,citrix systems inc,0,1,0,0,20170330,henshall david j,87789017000045,"EVP, COO & CFO",male,156352410.0
+86872.0,,877890,citrix systems inc,0,1,0,0,20170330,sartorius carlos,87789017000043,"EVP, Sales & Services",male,156352410.0
+14248.0,,877890,citrix systems inc,0,1,0,0,20170330,soisson jessica,87789017000041,VP & Corporate Controller,female,156352410.0
+155352.0,,877890,citrix systems inc,1,1,0,0,20170403,tatarinov kirill,87789017000049,CEO & PRESIDENT,male,304775000.0
+16725.0,,877890,citrix systems inc,0,1,0,0,20170403,soisson jessica,87789017000051,VP & Corporate Controller,female,304775000.0
+106271.0,,877890,citrix systems inc,0,1,0,0,20170403,sartorius carlos,87789017000053,"EVP, Sales & Services",male,304775000.0
+66024.0,,877890,citrix systems inc,0,1,0,0,20170403,minahan timothy a.,87789017000055,CMO,male,304775000.0
+288229.0,,877890,citrix systems inc,0,1,0,0,20170403,henshall david j,87789017000057,"EVP, COO & CFO",male,304775000.0
+255884.0,,877890,citrix systems inc,1,1,0,0,20170403,calderoni robert,87789017000059,Executive Chairman,male,304775000.0
+64271.0,,877890,citrix systems inc,0,1,0,0,20170404,minahan timothy a.,87789017000061,CMO,male,304775000.0
+150360.0,,877890,citrix systems inc,1,1,0,0,20170404,tatarinov kirill,87789017000063,CEO & PRESIDENT,male,304775000.0
+253430.0,,877890,citrix systems inc,1,1,0,0,20170501,calderoni robert,87789017000065,Executive Chairman,male,151148332.0
+16437.0,,877890,citrix systems inc,0,1,0,0,20170508,soisson jessica,87789017000071,VP & Corporate Controller,female,151148332.0
+250976.0,,877890,citrix systems inc,1,1,0,0,20170602,calderoni robert,87789017000073,Executive Chairman,male,151148332.0
+33075.0,,877890,citrix systems inc,1,0,0,0,20170705,daleo robert d,87789017000081,,male,304891000.0
+11779.0,,877890,citrix systems inc,1,0,0,0,20170705,demo murray j,87789017000083,,male,304891000.0
+31195.0,,877890,citrix systems inc,1,0,0,0,20170705,caldwell nanci,87789017000077,,female,304891000.0
+19634.0,,877890,citrix systems inc,1,0,0,0,20170705,cohn jesse,87789017000079,,male,304891000.0
+145282.0,,877890,citrix systems inc,1,1,0,0,20170705,tatarinov kirill,87789017000091,CEO & PRESIDENT,male,304891000.0
+43279.0,,877890,citrix systems inc,1,0,0,0,20170705,sullivan godfrey,87789017000089,,male,304891000.0
+14959.0,,877890,citrix systems inc,1,0,0,0,20170705,smith graham,87789017000087,,male,304891000.0
+14959.0,,877890,citrix systems inc,1,0,0,0,20170705,sacripanti peter john,87789017000085,,male,304891000.0
+248522.0,,877890,citrix systems inc,1,1,0,0,20170705,calderoni robert,87789017000075,Executive Chairman,male,304891000.0
+246068.0,,877890,citrix systems inc,1,1,0,0,20170802,calderoni robert,87789017000095,Executive Chairman,male,151511325.0
+74320.0,,877890,citrix systems inc,0,1,0,0,20170803,minahan timothy a.,87789017000099,CMO,male,151511325.0
+41012.0,,877890,citrix systems inc,0,1,0,0,20170803,coyle mark m,87789017000097,Interim CFO,male,151511325.0
+19566.0,,877890,citrix systems inc,0,1,0,0,20170803,soisson jessica,87789017000101,VP & Corporate Controller,female,151511325.0
+319277.0,,877890,citrix systems inc,1,1,0,0,20170803,henshall david j,87789017000104,CEO & PRESIDENT,male,151511325.0
+74316.0,,877890,citrix systems inc,0,1,0,0,20170830,minahan timothy a.,87789017000108,SVP Business Strategy & CMO,male,151511325.0
+243614.0,,877890,citrix systems inc,1,1,0,0,20170905,calderoni robert,87789017000110,Executive Chairman,male,151511325.0
+19345.0,,877890,citrix systems inc,0,1,0,0,20170905,soisson jessica,87789017000112,VP & Corporate Controller,female,151511325.0
+105594.0,,877890,citrix systems inc,0,1,0,0,20171002,sartorius carlos,87789017000134,"EVP, Sales & Services",male,305436000.0
+6508.0,,877890,citrix systems inc,1,0,0,0,20171002,gopal ajei,87789017000130,,male,305436000.0
+241160.0,,877890,citrix systems inc,1,1,0,0,20171002,calderoni robert,87789017000132,Executive Chairman,male,305436000.0
+75652.0,,877890,citrix systems inc,0,1,0,0,20171004,van rotterdam jeroen,87789017000138,SVP of Engineering,male,305436000.0
+93205.0,,877890,citrix systems inc,0,1,0,0,20171004,gomes antonio g.,87789017000140,SVP & General Counsel,male,305436000.0
+50314.0,,877890,citrix systems inc,0,1,0,0,20171004,ferrer mark j,87789017000142,"EVP, Chief Revenue Officer",male,305436000.0
+238706.0,,877890,citrix systems inc,1,1,0,0,20171101,calderoni robert,87789017000144,Executive Chairman,male,150675226.0
+58638.0,,877890,citrix systems inc,0,1,0,0,20171102,hough paul j.,87789017000150,SVP & Chief Product Officer,male,150675226.0
+93014.0,,877890,citrix systems inc,0,1,0,0,20171106,gomes antonio g.,87789017000153,SVP & General Counsel,male,150675226.0
+38512.0,,877890,citrix systems inc,0,1,0,0,20171109,coyle mark m,87789017000157,Interim CFO,male,150675226.0
+306777.0,,877890,citrix systems inc,1,1,0,0,20171109,henshall david j,87789017000159,CEO & PRESIDENT,male,150675226.0
+67122.0,,877890,citrix systems inc,0,1,0,0,20171116,van rotterdam jeroen,87789017000161,SVP of Engineering,male,150675226.0
+178706.0,,877890,citrix systems inc,1,1,0,0,20171121,calderoni robert,87789017000163,Executive Chairman,male,150675226.0
+8279.0,,877890,citrix systems inc,1,0,0,0,20171129,demo murray j,87789017000165,,male,150675226.0
+176252.0,,877890,citrix systems inc,1,1,0,0,20171201,calderoni robert,87789017000167,Executive Chairman,male,150675226.0
+294277.0,,877890,citrix systems inc,1,1,0,0,20171204,henshall david j,87789017000169,CEO & PRESIDENT,male,150675226.0
+66562.0,,877890,citrix systems inc,0,1,0,0,20171204,minahan timothy a.,87789017000171,SVP Business Strategy & CMO,male,150675226.0
+19013.0,,877890,citrix systems inc,0,1,0,0,20171204,soisson jessica,87789017000173,VP & Corporate Controller,female,150675226.0
+33626.0,,877890,citrix systems inc,1,0,0,0,20180102,daleo robert d,87789018000010,,male,305751000.0
+20372.0,,877890,citrix systems inc,1,0,0,0,20180102,cohn jesse,87789018000008,,male,305751000.0
+173798.0,,877890,citrix systems inc,1,1,0,0,20180102,calderoni robert,87789018000002,Executive Chairman,male,305751000.0
+230823.0,,877890,citrix systems inc,1,1,0,0,20180103,calderoni robert,87789018000012,Executive Chairman,male,305751000.0
+36012.0,,877890,citrix systems inc,0,1,0,0,20180104,coyle mark m,87789018000014,Interim CFO,male,305751000.0
+58522.0,,877890,citrix systems inc,0,1,0,0,20180109,kimmel donna nappen,87789018000016,SVP & Chief People Officer,female,305751000.0
+281777.0,,877890,citrix systems inc,1,1,0,0,20180202,henshall david j,87789018000018,CEO & PRESIDENT,male,305751000.0
+229937.0,,877890,citrix systems inc,1,1,0,0,20180202,calderoni robert,87789018000020,Executive Chairman,male,305751000.0
+19762.0,,877890,citrix systems inc,0,1,0,0,20180222,soisson jessica,87789018000030,VP & Corporate Controller,female,136150856.0
+323489.0,,877890,citrix systems inc,1,1,0,0,20180222,henshall david j,87789018000032,CEO & PRESIDENT,male,136150856.0
+96187.0,,877890,citrix systems inc,0,1,0,0,20180222,gomes antonio g.,87789018000028,SVP & General Counsel,male,136150856.0
+229082.0,,877890,citrix systems inc,1,1,0,0,20180301,calderoni robert,87789018000036,Executive Chairman,male,136150856.0
+,,877890,citrix systems inc,0,1,0,0,20180305,del matto andrew h,87789018000038,EVP & CFO,male,136150856.0
+166845.0,,877890,citrix systems inc,1,1,0,0,20180314,calderoni robert,87789018000040,Executive Chairman,male,136150856.0
+65861.0,,877890,citrix systems inc,0,1,0,0,20180403,kimmel donna nappen,87789018000060,SVP & Chief People Officer,female,307575000.0
+,,877890,citrix systems inc,0,1,0,0,20180403,del matto andrew h,87789018000058,EVP & CFO,male,307575000.0
+69759.0,,877890,citrix systems inc,0,1,0,0,20180403,ferrer mark j,87789018000056,"EVP, Chief Revenue Officer",male,307575000.0
+105328.0,,877890,citrix systems inc,0,1,0,0,20180403,gomes antonio g.,87789018000054,SVP & General Counsel,male,307575000.0
+366233.0,,877890,citrix systems inc,1,1,0,0,20180403,henshall david j,87789018000052,CEO & PRESIDENT,male,307575000.0
+70686.0,,877890,citrix systems inc,0,1,0,0,20180403,hough paul j.,87789018000050,SVP & Chief Product Officer,male,307575000.0
+74993.0,,877890,citrix systems inc,0,1,0,0,20180403,minahan timothy a.,87789018000048,SVP Business Strategy & CMO,male,307575000.0
+22859.0,,877890,citrix systems inc,0,1,0,0,20180403,soisson jessica,87789018000046,VP & Corporate Controller,female,307575000.0
+79705.0,,877890,citrix systems inc,0,1,0,0,20180403,van rotterdam jeroen,87789018000044,SVP of Engineering,male,307575000.0
+165990.0,,877890,citrix systems inc,1,1,0,0,20180403,calderoni robert,87789018000042,Executive Chairman,male,307575000.0
+163335.0,,877890,citrix systems inc,1,1,0,0,20180404,calderoni robert,87789018000062,Executive Chairman,male,307575000.0
+75087.0,,877890,citrix systems inc,0,1,0,0,20180406,van rotterdam jeroen,87789018000064,SVP of Engineering,male,307575000.0
+353733.0,,877890,citrix systems inc,1,1,0,0,20180502,henshall david j,87789018000068,CEO & PRESIDENT,male,135525378.0
+159826.0,,877890,citrix systems inc,1,1,0,0,20180502,calderoni robert,87789018000066,Executive Chairman,male,135525378.0
+22603.0,,877890,citrix systems inc,0,1,0,0,20180508,soisson jessica,87789018000073,VP & Corporate Controller,female,135525378.0
+19322.0,,877890,citrix systems inc,0,1,0,0,20180516,soisson jessica,87789018000075,VP & Corporate Controller,female,135525378.0
+63305.0,,877890,citrix systems inc,0,1,0,0,20180521,minahan timothy a.,87789018000077,SVP Business Strategy & CMO,male,135525378.0
+158445.0,,877890,citrix systems inc,1,1,0,0,20180601,calderoni robert,87789018000079,Executive Chairman,male,135525378.0
+156317.0,,877890,citrix systems inc,1,1,0,0,20180604,calderoni robert,87789018000081,Executive Chairman,male,135525378.0
+104609.0,,877890,citrix systems inc,0,1,0,0,20180604,gomes antonio g.,87789018000083,SVP & General Counsel,male,135525378.0
+343733.0,,877890,citrix systems inc,1,1,0,0,20180614,henshall david j,87789018000087,CEO & PRESIDENT,male,135525378.0
+34102.0,,877890,citrix systems inc,1,0,0,0,20180702,daleo robert d,87789018000091,,male,307662000.0
+154936.0,,877890,citrix systems inc,1,1,0,0,20180702,calderoni robert,87789018000089,Executive Chairman,male,307662000.0
+20705.0,,877890,citrix systems inc,1,0,0,0,20180702,cohn jesse,87789018000093,,male,307662000.0
+23047.0,,877890,citrix systems inc,1,0,0,0,20180703,cohn jesse,87789018000105,,male,307662000.0
+17301.0,,877890,citrix systems inc,1,0,0,0,20180703,sacripanti peter john,87789018000103,,male,307662000.0
+,,877890,citrix systems inc,1,0,0,0,20180703,kilcoyne moira a.,87789018000101,,female,307662000.0
+8850.0,,877890,citrix systems inc,1,0,0,0,20180703,gopal ajei,87789018000099,,male,307662000.0
+10621.0,,877890,citrix systems inc,1,0,0,0,20180703,demo murray j,87789018000097,,male,307662000.0
+33537.0,,877890,citrix systems inc,1,0,0,0,20180703,caldwell nanci,87789018000095,,female,307662000.0
+36444.0,,877890,citrix systems inc,1,0,0,0,20180703,daleo robert d,87789018000107,,male,307662000.0
+152808.0,,877890,citrix systems inc,1,1,0,0,20180705,calderoni robert,87789018000109,Executive Chairman,male,307662000.0
+333733.0,,877890,citrix systems inc,1,1,0,0,20180716,henshall david j,87789018000111,CEO & PRESIDENT,male,307662000.0
+149299.0,,877890,citrix systems inc,1,1,0,0,20180802,calderoni robert,87789018000113,Executive Chairman,male,135658446.0
+329660.0,,877890,citrix systems inc,1,1,0,0,20180802,henshall david j,87789018000115,CEO & PRESIDENT,male,135658446.0
+18288.0,,877890,citrix systems inc,0,1,0,0,20180830,soisson jessica,87789018000119,VP & Corporate Controller,female,135658446.0
+147918.0,,877890,citrix systems inc,1,1,0,0,20180904,calderoni robert,87789018000123,Executive Chairman,male,135658446.0
+18091.0,,877890,citrix systems inc,0,1,0,0,20180904,soisson jessica,87789018000121,VP & Corporate Controller,female,135658446.0
+145790.0,,877890,citrix systems inc,1,1,0,0,20180905,calderoni robert,87789018000125,Executive Chairman,male,135658446.0
+144409.0,,877890,citrix systems inc,1,1,0,0,20181001,calderoni robert,87789018000127,Executive Chairman,male,307981000.0
+142281.0,,877890,citrix systems inc,1,1,0,0,20181003,calderoni robert,87789018000129,Executive Chairman,male,307981000.0
+64365.0,,877890,citrix systems inc,0,1,0,0,20181003,ferrer mark j,87789018000131,"EVP, Chief Revenue Officer",male,307981000.0
+67451.0,,877890,citrix systems inc,0,1,0,0,20181004,van rotterdam jeroen,87789018000135,EVP of Engineering,male,307981000.0
+103357.0,,877890,citrix systems inc,0,1,0,0,20181004,gomes antonio g.,87789018000133,EVP & General Counsel,male,307981000.0
+59685.0,,877890,citrix systems inc,0,1,0,0,20181005,van rotterdam jeroen,87789018000137,EVP of Engineering,male,307981000.0
+140900.0,,877890,citrix systems inc,1,1,0,0,20181101,calderoni robert,87789018000141,Executive Chairman,male,134761787.0
+138772.0,,877890,citrix systems inc,1,1,0,0,20181102,calderoni robert,87789018000143,Executive Chairman,male,134761787.0
+63471.0,,877890,citrix systems inc,0,1,0,0,20181102,hough paul j.,87789018000145,EVP & Chief Product Officer,male,134761787.0
+54988.0,,877890,citrix systems inc,0,1,0,0,20181105,hough paul j.,87789018000148,EVP & Chief Product Officer,male,134761787.0
+62013.0,,877890,citrix systems inc,0,1,0,0,20181128,ferrer mark j,87789018000151,"EVP, Chief Revenue Officer",male,134761787.0
+137391.0,,877890,citrix systems inc,1,1,0,0,20181203,calderoni robert,87789018000153,Executive Chairman,male,134761787.0
+55972.0,,877890,citrix systems inc,0,1,0,0,20181203,minahan timothy a.,87789018000155,EVP Business Strategy & CMO,male,134761787.0
+17992.0,,877890,citrix systems inc,0,1,0,0,20181203,soisson jessica,87789018000157,VP & Corporate Controller,female,134761787.0
+50082.0,,877890,citrix systems inc,0,1,0,0,20181204,minahan timothy a.,87789018000159,EVP Business Strategy & CMO,male,134761787.0
+19992.0,,877890,citrix systems inc,0,1,0,0,20181204,soisson jessica,87789018000161,VP & Corporate Controller,female,134761787.0
+135263.0,,877890,citrix systems inc,1,1,0,0,20181204,calderoni robert,87789018000163,Executive Chairman,male,134761787.0
+18526.0,,877890,citrix systems inc,0,1,0,0,20181214,soisson jessica,87789018000165,VP & Corporate Controller,female,134761787.0
+55134.548,,877890,citrix systems inc,0,1,0,0,20181226,hough paul j.,87789018000189,EVP & Chief Product Officer,male,134761787.0
+66123.151,,877890,citrix systems inc,0,1,0,0,20181226,kimmel donna nappen,87789018000193,EVP & Chief People Officer,female,134761787.0
+33650.1,,877890,citrix systems inc,1,0,0,0,20181226,caldwell nanci,87789018000171,,female,134761787.0
+23121.383,,877890,citrix systems inc,1,0,0,0,20181226,cohn jesse,87789018000173,,male,134761787.0
+36552.077,,877890,citrix systems inc,1,0,0,0,20181226,daleo robert d,87789018000175,,male,134761787.0
+,,877890,citrix systems inc,0,1,0,0,20181226,del matto andrew h,87789018000177,EVP & CFO,male,134761787.0
+10625.741,,877890,citrix systems inc,1,0,0,0,20181226,demo murray j,87789018000179,,male,134761787.0
+62197.056,,877890,citrix systems inc,0,1,0,0,20181226,ferrer mark j,87789018000181,"EVP, Chief Revenue Officer",male,134761787.0
+103478.263,,877890,citrix systems inc,0,1,0,0,20181226,gomes antonio g.,87789018000183,EVP & General Counsel,male,134761787.0
+135532.242,,877890,citrix systems inc,1,1,0,0,20181226,calderoni robert,87789018000169,Executive Chairman,male,134761787.0
+8880.741,,877890,citrix systems inc,1,0,0,0,20181226,gopal ajei,87789018000185,,male,134761787.0
+,,877890,citrix systems inc,1,0,0,0,20181226,kilcoyne moira a.,87789018000191,,female,134761787.0
+50196.51,,877890,citrix systems inc,0,1,0,0,20181226,minahan timothy a.,87789018000195,EVP Business Strategy & CMO,male,134761787.0
+17346.68,,877890,citrix systems inc,1,0,0,0,20181226,sacripanti peter john,87789018000197,,male,134761787.0
+18569.325,,877890,citrix systems inc,0,1,0,0,20181226,soisson jessica,87789018000199,VP & Corporate Controller,female,134761787.0
+59855.342,,877890,citrix systems inc,0,1,0,0,20181226,van rotterdam jeroen,87789018000201,EVP of Engineering,male,134761787.0
+330198.999,,877890,citrix systems inc,1,1,0,0,20181226,henshall david j,87789018000187,CEO & PRESIDENT,male,134761787.0
+60809.056,,877890,citrix systems inc,0,1,0,0,20181228,ferrer mark j,87789018000203,"EVP, Chief Revenue Officer",male,134761787.0
+23462.383,,877890,citrix systems inc,1,0,0,0,20190102,cohn jesse,87789019000004,,male,309761000.0
+111629.971,,877890,citrix systems inc,1,1,0,0,20190102,calderoni robert,87789019000002,Executive Chairman,male,309761000.0
+101236.812,,877890,citrix systems inc,0,1,0,0,20190102,gomes antonio g.,87789019000008,EVP & General Counsel,male,309761000.0
+37039.077,,877890,citrix systems inc,1,0,0,0,20190102,daleo robert d,87789019000006,,male,309761000.0
+52635.097,,877890,citrix systems inc,0,1,0,0,20190102,hough paul j.,87789019000010,EVP & Chief Product Officer,male,309761000.0
+62901.061,,877890,citrix systems inc,0,1,0,0,20190102,kimmel donna nappen,87789019000012,EVP & Chief People Officer,female,309761000.0
+47910.059,,877890,citrix systems inc,0,1,0,0,20190102,minahan timothy a.,87789019000014,EVP Business Strategy & CMO,male,309761000.0
+18209.198,,877890,citrix systems inc,0,1,0,0,20190102,soisson jessica,87789019000016,VP & Corporate Controller,female,309761000.0
+57870.891,,877890,citrix systems inc,0,1,0,0,20190102,van rotterdam jeroen,87789019000018,EVP of Engineering,male,309761000.0
+109493.971,,877890,citrix systems inc,1,1,0,0,20190103,calderoni robert,87789019000020,Executive Chairman,male,309761000.0
+46074.059,,877890,citrix systems inc,0,1,0,0,20190103,minahan timothy a.,87789019000022,EVP Business Strategy & CMO,male,309761000.0
+55852.891,,877890,citrix systems inc,0,1,0,0,20190103,van rotterdam jeroen,87789019000024,EVP of Engineering,male,309761000.0
+1373.0,,877890,citrix systems inc,1,0,0,0,20190103,hogan thomas e,87789019000026,,male,309761000.0
+61644.021,,877890,citrix systems inc,0,1,0,0,20190107,kimmel donna nappen,87789019000028,EVP & Chief People Officer,female,309761000.0
+92140.971,,877890,citrix systems inc,1,1,0,0,20190110,calderoni robert,87789019000030,Executive Chairman,male,309761000.0
+59421.056,,877890,citrix systems inc,0,1,0,0,20190129,ferrer mark j,87789019000032,"EVP, Chief Revenue Officer",male,309761000.0
+58033.056,,877890,citrix systems inc,0,1,0,0,20190301,ferrer mark j,87789019000037,"EVP, Chief Revenue Officer",male,131725833.0
+,,877890,citrix systems inc,0,1,0,0,20190305,del matto andrew h,87789019000039,EVP & CFO,male,131725833.0
+23549.818,,877890,citrix systems inc,1,0,0,0,20190325,cohn jesse,87789019000059,,male,131725833.0
+56006.771,,877890,citrix systems inc,0,1,0,0,20190325,van rotterdam jeroen,87789019000075,EVP of Engineering,male,131725833.0
+92200.324,,877890,citrix systems inc,1,0,0,0,20190325,calderoni robert,87789019000041,,male,131725833.0
+33761.887,,877890,citrix systems inc,1,0,0,0,20190325,caldwell nanci,87789019000043,,female,131725833.0
+1375.815,,877890,citrix systems inc,1,0,0,0,20190325,hogan thomas e,87789019000057,,male,131725833.0
+10628.468,,877890,citrix systems inc,1,0,0,0,20190325,demo murray j,87789019000047,,male,131725833.0
+58218.302,,877890,citrix systems inc,0,1,0,0,20190325,ferrer mark j,87789019000049,"EVP, Chief Revenue Officer",male,131725833.0
+101426.296,,877890,citrix systems inc,0,1,0,0,20190325,gomes antonio g.,87789019000051,EVP & General Counsel,male,131725833.0
+,,877890,citrix systems inc,0,1,0,0,20190325,del matto andrew h,87789019000045,EVP & CFO,male,131725833.0
+330741.486,,877890,citrix systems inc,1,1,0,0,20190325,henshall david j,87789019000055,CEO & PRESIDENT,male,131725833.0
+8911.681,,877890,citrix systems inc,1,0,0,0,20190325,gopal ajei,87789019000053,,male,131725833.0
+18303.643,,877890,citrix systems inc,0,1,0,0,20190325,soisson jessica,87789019000073,VP & Corporate Controller,female,131725833.0
+17390.612,,877890,citrix systems inc,1,0,0,0,20190325,sacripanti peter john,87789019000071,,male,131725833.0
+46171.747,,877890,citrix systems inc,0,1,0,0,20190325,minahan timothy a.,87789019000069,EVP Business Strategy & CMO,male,131725833.0
+61792.67,,877890,citrix systems inc,0,1,0,0,20190325,kimmel donna nappen,87789019000067,EVP & Chief People Officer,female,131725833.0
+,,877890,citrix systems inc,1,0,0,0,20190325,kilcoyne moira a.,87789019000065,,female,131725833.0
+52765.029,,877890,citrix systems inc,0,1,0,0,20190325,hough paul j.,87789019000063,EVP & Chief Product Officer,male,131725833.0
+37185.44,,877890,citrix systems inc,1,0,0,0,20190325,daleo robert d,87789019000061,,male,131725833.0
+56830.302,,877890,citrix systems inc,0,1,0,0,20190328,ferrer mark j,87789019000077,"EVP, Chief Revenue Officer",male,131725833.0
+,,877890,citrix systems inc,0,1,0,0,20190401,del matto andrew h,87789019000079,EVP & CFO,male,311732000.0
+53976.302,,877890,citrix systems inc,0,1,0,0,20190401,ferrer mark j,87789019000081,"EVP, Chief Revenue Officer",male,311732000.0
+96111.125,,877890,citrix systems inc,0,1,0,0,20190401,gomes antonio g.,87789019000083,EVP & General Counsel,male,311732000.0
+315007.181,,877890,citrix systems inc,1,1,0,0,20190401,henshall david j,87789019000085,CEO & PRESIDENT,male,311732000.0
+48866.029,,877890,citrix systems inc,0,1,0,0,20190401,hough paul j.,87789019000087,EVP & Chief Product Officer,male,311732000.0
+56322.499,,877890,citrix systems inc,0,1,0,0,20190401,kimmel donna nappen,87789019000089,EVP & Chief People Officer,female,311732000.0
+40256.529,,877890,citrix systems inc,0,1,0,0,20190401,minahan timothy a.,87789019000091,EVP Business Strategy & CMO,male,311732000.0
+52612.771,,877890,citrix systems inc,0,1,0,0,20190401,van rotterdam jeroen,87789019000095,EVP of Engineering,male,311732000.0
+17479.883,,877890,citrix systems inc,0,1,0,0,20190401,soisson jessica,87789019000093,VP & Corporate Controller,female,311732000.0
+70098.499,,877890,citrix systems inc,0,1,0,0,20190402,kimmel donna nappen,87789019000105,EVP & Chief People Officer,female,311732000.0
+111418.125,,877890,citrix systems inc,0,1,0,0,20190402,gomes antonio g.,87789019000099,EVP & General Counsel,male,311732000.0
+350858.181,,877890,citrix systems inc,1,1,0,0,20190402,henshall david j,87789019000101,CEO & PRESIDENT,male,311732000.0
+61712.029,,877890,citrix systems inc,0,1,0,0,20190402,hough paul j.,87789019000103,EVP & Chief Product Officer,male,311732000.0
+54032.529,,877890,citrix systems inc,0,1,0,0,20190402,minahan timothy a.,87789019000107,EVP Business Strategy & CMO,male,311732000.0
+23502.883,,877890,citrix systems inc,0,1,0,0,20190402,soisson jessica,87789019000109,VP & Corporate Controller,female,311732000.0
+67919.771,,877890,citrix systems inc,0,1,0,0,20190402,van rotterdam jeroen,87789019000111,EVP of Engineering,male,311732000.0
+72796.302,,877890,citrix systems inc,0,1,0,0,20190402,ferrer mark j,87789019000097,"EVP, Chief Revenue Officer",male,311732000.0
+,,877890,citrix systems inc,0,1,0,0,20190403,del matto andrew h,87789019000113,EVP & CFO,male,311732000.0
+80316.499,,877890,citrix systems inc,0,1,0,0,20190410,kimmel donna nappen,87789019000121,EVP & Chief People Officer,female,311732000.0
+121636.125,,877890,citrix systems inc,0,1,0,0,20190410,gomes antonio g.,87789019000119,EVP & General Counsel,male,311732000.0
+66644.529,,877890,citrix systems inc,0,1,0,0,20190410,minahan timothy a.,87789019000117,EVP Business Strategy & CMO,male,311732000.0
+382625.181,,877890,citrix systems inc,1,1,0,0,20190410,henshall david j,87789019000115,CEO & PRESIDENT,male,311732000.0
+,,877890,citrix systems inc,0,1,0,0,20190416,del matto andrew h,87789019000123,EVP & CFO,male,311732000.0
+71572.302,,877890,citrix systems inc,0,1,0,0,20190430,ferrer mark j,87789019000125,"EVP, Chief Revenue Officer",male,311732000.0
+378327.181,,877890,citrix systems inc,1,1,0,0,20190502,henshall david j,87789019000127,CEO & PRESIDENT,male,311732000.0
+38386.883,,877890,citrix systems inc,0,1,0,0,20190502,soisson jessica,87789019000129,"Interim CFO, CAO & Corp Cont",female,311732000.0
+38128.883,,877890,citrix systems inc,0,1,0,0,20190506,soisson jessica,87789019000131,"Interim CFO, CAO & Corp Cont",female,131651832.0
+70348.302,,877890,citrix systems inc,0,1,0,0,20190529,ferrer mark j,87789019000136,"EVP, Chief Revenue Officer",male,131651832.0
+373960.181,,877890,citrix systems inc,1,1,0,0,20190604,henshall david j,87789019000138,CEO & PRESIDENT,male,131651832.0
+92260.283,,877890,citrix systems inc,1,0,0,0,20190625,calderoni robert,87789019000140,,male,131651832.0
+37315.226,,877890,citrix systems inc,1,0,0,0,20190625,daleo robert d,87789019000146,,male,131651832.0
+10629.157,,877890,citrix systems inc,1,0,0,0,20190625,demo murray j,87789019000148,,male,131651832.0
+23632.414,,877890,citrix systems inc,1,0,0,0,20190625,cohn jesse,87789019000144,,male,131651832.0
+17432.927,,877890,citrix systems inc,1,0,0,0,20190625,sacripanti peter john,87789019000156,,male,131651832.0
+,,877890,citrix systems inc,1,0,0,0,20190625,kilcoyne moira a.,87789019000154,,female,131651832.0
+1376.526,,877890,citrix systems inc,1,0,0,0,20190625,hogan thomas e,87789019000152,,male,131651832.0
+121750.153,,877890,citrix systems inc,0,1,0,0,20190625,gomes antonio g.,87789019000160,EVP & General Counsel,male,131651832.0
+8942.937,,877890,citrix systems inc,1,0,0,0,20190625,gopal ajei,87789019000150,,male,131651832.0
+33872.749,,877890,citrix systems inc,1,0,0,0,20190625,caldwell nanci,87789019000142,,female,131651832.0
+374508.789,,877890,citrix systems inc,1,1,0,0,20190625,henshall david j,87789019000162,CEO & PRESIDENT,male,131651832.0
+70578.558,,877890,citrix systems inc,0,1,0,0,20190625,ferrer mark j,87789019000158,"EVP, Chief Revenue Officer",male,131651832.0
+61866.041,,877890,citrix systems inc,0,1,0,0,20190625,hough paul j.,87789019000164,EVP & Chief Product Officer,male,131651832.0
+80415.18,,877890,citrix systems inc,0,1,0,0,20190625,kimmel donna nappen,87789019000166,EVP & Chief People Officer,female,131651832.0
+66741.442,,877890,citrix systems inc,0,1,0,0,20190625,minahan timothy a.,87789019000168,EVP Business Strategy & CMO,male,131651832.0
+38225.482,,877890,citrix systems inc,0,1,0,0,20190625,soisson jessica,87789019000170,"Interim CFO, CAO & Corp Cont",female,131651832.0
+68094.443,,877890,citrix systems inc,0,1,0,0,20190625,van rotterdam jeroen,87789019000172,EVP of Engineering,male,131651832.0
+94801.283,,877890,citrix systems inc,1,0,0,0,20190702,calderoni robert,87789019000192,,male,316969000.0
+36413.749,,877890,citrix systems inc,1,0,0,0,20190702,caldwell nanci,87789019000190,,female,316969000.0
+26529.414,,877890,citrix systems inc,1,0,0,0,20190702,cohn jesse,87789019000188,,male,316969000.0
+40836.226,,877890,citrix systems inc,1,0,0,0,20190702,daleo robert d,87789019000186,,male,316969000.0
+13170.157,,877890,citrix systems inc,1,0,0,0,20190702,demo murray j,87789019000184,,male,316969000.0
+3917.526,,877890,citrix systems inc,1,0,0,0,20190702,hogan thomas e,87789019000178,,male,316969000.0
+368155.789,,877890,citrix systems inc,1,1,0,0,20190702,henshall david j,87789019000180,CEO & PRESIDENT,male,316969000.0
+,,877890,citrix systems inc,1,0,0,0,20190702,kilcoyne moira a.,87789019000176,,female,316969000.0
+19973.927,,877890,citrix systems inc,1,0,0,0,20190702,sacripanti peter john,87789019000174,,male,316969000.0
+11483.937,,877890,citrix systems inc,1,0,0,0,20190702,gopal ajei,87789019000182,,male,316969000.0
+19974.77,,877890,citrix systems inc,1,0,0,0,20190703,sacripanti peter john,87789019000202,,male,316969000.0
+,,877890,citrix systems inc,1,0,0,0,20190703,kilcoyne moira a.,87789019000200,,female,316969000.0
+3918.0,,877890,citrix systems inc,1,0,0,0,20190703,hogan thomas e,87789019000198,,male,316969000.0
+13171.0,,877890,citrix systems inc,1,0,0,0,20190703,demo murray j,87789019000196,,male,316969000.0
+36414.592,,877890,citrix systems inc,1,0,0,0,20190703,caldwell nanci,87789019000194,,female,316969000.0
+357687.789,,877890,citrix systems inc,1,1,0,0,20190805,henshall david j,87789019000208,CEO & PRESIDENT,male,130902113.0
+63806.443,,877890,citrix systems inc,0,1,0,0,20190812,van rotterdam jeroen,87789019000212,EVP of Engineering,male,130902113.0
+14248.77,,877890,citrix systems inc,1,0,0,0,20190815,sacripanti peter john,87789019000214,,male,130902113.0
+39849.881,,877890,citrix systems inc,0,1,0,0,20190903,schmitz mark j.,87789019000216,EVP & Chief Operating Officer,male,130902113.0
+38197.482,,877890,citrix systems inc,0,1,0,0,20190903,soisson jessica,87789019000218,"Interim CFO, CAO & Corp Cont",female,130902113.0
+351334.789,,877890,citrix systems inc,1,1,0,0,20190904,henshall david j,87789019000220,CEO & PRESIDENT,male,130902113.0
+32797.482,,877890,citrix systems inc,0,1,0,0,20190912,soisson jessica,87789019000222,"VP, CAO & Corp Controller",female,130902113.0
+63986.826,,877890,citrix systems inc,0,1,0,0,20190924,van rotterdam jeroen,87789019000260,EVP of Engineering,male,130902113.0
+32894.288,,877890,citrix systems inc,0,1,0,0,20190924,soisson jessica,87789019000258,"VP, CAO & Corp Controller",female,130902113.0
+39945.244,,877890,citrix systems inc,0,1,0,0,20190924,schmitz mark j.,87789019000256,EVP & Chief Operating Officer,male,130902113.0
+66841.524,,877890,citrix systems inc,0,1,0,0,20190924,minahan timothy a.,87789019000254,EVP Business Strategy & CMO,male,130902113.0
+121948.029,,877890,citrix systems inc,0,1,0,0,20190924,gomes antonio g.,87789019000252,EVP & General Counsel,male,130902113.0
+80715.087,,877890,citrix systems inc,0,1,0,0,20190924,kimmel donna nappen,87789019000251,EVP & Chief People Officer,female,130902113.0
+62025.087,,877890,citrix systems inc,0,1,0,0,20190924,hough paul j.,87789019000249,EVP & Chief Product Officer,male,130902113.0
+351863.589,,877890,citrix systems inc,1,1,0,0,20190924,henshall david j,87789019000247,CEO & PRESIDENT,male,130902113.0
+71049.341,,877890,citrix systems inc,0,1,0,0,20190924,ferrer mark j,87789019000244,"EVP, Chief Revenue Officer",male,130902113.0
+94870.843,,877890,citrix systems inc,1,0,0,0,20190924,calderoni robert,87789019000226,,male,130902113.0
+,,877890,citrix systems inc,1,0,0,0,20190924,kilcoyne moira a.,87789019000240,,female,130902113.0
+3925.641,,877890,citrix systems inc,1,0,0,0,20190924,hogan thomas e,87789019000238,,male,130902113.0
+11525.386,,877890,citrix systems inc,1,0,0,0,20190924,gopal ajei,87789019000236,,male,130902113.0
+13178.641,,877890,citrix systems inc,1,0,0,0,20190924,demo murray j,87789019000234,,male,130902113.0
+40982.964,,877890,citrix systems inc,1,0,0,0,20190924,daleo robert d,87789019000232,,male,130902113.0
+26625.167,,877890,citrix systems inc,1,0,0,0,20190924,cohn jesse,87789019000230,,male,130902113.0
+36536.008,,877890,citrix systems inc,1,0,0,0,20190924,caldwell nanci,87789019000228,,female,130902113.0
+14299.397,,877890,citrix systems inc,1,0,0,0,20190924,sacripanti peter john,87789019000242,,male,130902113.0
+52962.244,,877890,citrix systems inc,0,1,0,0,20191002,schmitz mark j.,87789019000266,EVP & Chief Operating Officer,male,317549000.0
+345510.589,,877890,citrix systems inc,1,1,0,0,20191002,henshall david j,87789019000262,CEO & PRESIDENT,male,317549000.0
+62481.0,,877890,citrix systems inc,0,1,0,0,20191002,shenkman arlen,87789019000264,EVP & CFO,male,317549000.0
+63378.341,,877890,citrix systems inc,0,1,0,0,20191003,ferrer mark j,87789019000268,"EVP, Chief Revenue Officer",male,317549000.0
+120492.286,,877890,citrix systems inc,0,1,0,0,20191004,gomes antonio g.,87789019000272,EVP & General Counsel,male,317549000.0
+56243.283,,877890,citrix systems inc,0,1,0,0,20191004,van rotterdam jeroen,87789019000270,EVP of Engineering,male,317549000.0
+48287.283,,877890,citrix systems inc,0,1,0,0,20191028,van rotterdam jeroen,87789019000276,EVP of Engineering,male,130219842.0
+47824.244,,877890,citrix systems inc,0,1,0,0,20191028,schmitz mark j.,87789019000274,EVP & Chief Operating Officer,male,130219842.0
+34185.008,,877890,citrix systems inc,1,0,0,0,20191105,caldwell nanci,87789019000283,,female,130219842.0
+54706.087,,877890,citrix systems inc,0,1,0,0,20191105,hough paul j.,87789019000281,EVP & Chief Product Officer,male,130219842.0
+11327.641,,877890,citrix systems inc,1,0,0,0,20191105,demo murray j,87789019000287,,male,130219842.0
+91536.843,,877890,citrix systems inc,1,0,0,0,20191105,calderoni robert,87789019000285,,male,130219842.0
+339155.589,,877890,citrix systems inc,1,1,0,0,20191105,henshall david j,87789019000289,CEO & PRESIDENT,male,130219842.0
+89410.843,,877890,citrix systems inc,1,0,0,0,20191107,calderoni robert,87789019000291,,male,130219842.0
+62133.341,,877890,citrix systems inc,0,1,0,0,20191107,ferrer mark j,87789019000293,"EVP, Chief Revenue Officer",male,130219842.0
+77517.843,,877890,citrix systems inc,1,0,0,0,20191108,calderoni robert,87789019000295,,male,130219842.0
+13662.397,,877890,citrix systems inc,1,0,0,0,20191127,sacripanti peter john,87789019000297,,male,130219842.0
+334905.589,,877890,citrix systems inc,1,1,0,0,20191204,henshall david j,87789019000299,CEO & PRESIDENT,male,130219842.0
+60888.341,,877890,citrix systems inc,0,1,0,0,20191204,ferrer mark j,87789019000301,"EVP, Chief Revenue Officer",male,130219842.0
+13449.397,,877890,citrix systems inc,1,0,0,0,20191204,sacripanti peter john,87789019000303,,male,130219842.0
+32729.288,,877890,citrix systems inc,0,1,0,0,20191204,soisson jessica,87789019000305,"VP, CAO & Corp Controller",female,130219842.0
+120585.14,,877890,citrix systems inc,0,1,0,0,20191223,gomes antonio g.,87789019000329,EVP & General Counsel,male,130219842.0
+80804.387,,877890,citrix systems inc,0,1,0,0,20191223,kimmel donna nappen,87789019000331,EVP & Chief People Officer,female,130219842.0
+66929.224,,877890,citrix systems inc,0,1,0,0,20191223,minahan timothy a.,87789019000333,EVP Business Strategy & CMO,male,130219842.0
+48383.333,,877890,citrix systems inc,0,1,0,0,20191223,van rotterdam jeroen,87789019000343,EVP of Engineering,male,130219842.0
+62677.906,,877890,citrix systems inc,0,1,0,0,20191223,shenkman arlen,87789019000339,EVP & CFO,male,130219842.0
+32811.988,,877890,citrix systems inc,0,1,0,0,20191223,soisson jessica,87789019000341,"VP, CAO & Corp Controller",female,130219842.0
+61043.107,,877890,citrix systems inc,0,1,0,0,20191223,ferrer mark j,87789019000327,"EVP, Chief Revenue Officer",male,130219842.0
+47948.831,,877890,citrix systems inc,0,1,0,0,20191223,schmitz mark j.,87789019000337,EVP & Chief Operating Officer,male,130219842.0
+335368.968,,877890,citrix systems inc,1,1,0,0,20191223,henshall david j,87789019000325,CEO & PRESIDENT,male,130219842.0
+54799.02,,877890,citrix systems inc,0,1,0,0,20191223,hough paul j.,87789019000335,EVP & Chief Product Officer,male,130219842.0
+3930.326,,877890,citrix systems inc,1,0,0,0,20191223,hogan thomas e,87789019000321,,male,130219842.0
+11332.326,,877890,citrix systems inc,1,0,0,0,20191223,demo murray j,87789019000319,,male,130219842.0
+13491.75,,877890,citrix systems inc,1,0,0,0,20191223,sacripanti peter john,87789019000317,,male,130219842.0
+11561.708,,877890,citrix systems inc,1,0,0,0,20191223,gopal ajei,87789019000315,,male,130219842.0
+,,877890,citrix systems inc,1,0,0,0,20191223,kilcoyne moira a.,87789019000323,,female,130219842.0
+41111.55,,877890,citrix systems inc,1,0,0,0,20191223,daleo robert d,87789019000313,,male,130219842.0
+26709.074,,877890,citrix systems inc,1,0,0,0,20191223,cohn jesse,87789019000311,,male,130219842.0
+34289.394,,877890,citrix systems inc,1,0,0,0,20191223,caldwell nanci,87789019000309,,female,130219842.0
+77576.787,,877890,citrix systems inc,1,0,0,0,20191223,calderoni robert,87789019000307,,male,130219842.0
+27024.074,,877890,citrix systems inc,1,0,0,0,20200102,cohn jesse,87789020000004,,male,318760000.0
+41809.55,,877890,citrix systems inc,1,0,0,0,20200102,daleo robert d,87789020000002,,male,318760000.0
+59798.107,,877890,citrix systems inc,0,1,0,0,20200103,ferrer mark j,87789020000006,"EVP, Chief Revenue Officer",male,318760000.0
+331055.968,,877890,citrix systems inc,1,1,0,0,20200103,henshall david j,87789020000008,CEO & PRESIDENT,male,318760000.0
+13278.75,,877890,citrix systems inc,1,0,0,0,20200106,sacripanti peter john,87789020000010,,male,318760000.0
+63738.333,,877890,citrix systems inc,0,1,0,0,20200127,van rotterdam jeroen,87789020000024,EVP of Engineering,male,318760000.0
+57951.831,,877890,citrix systems inc,0,1,0,0,20200127,schmitz mark j.,87789020000020,EVP & Chief Operating Officer,male,318760000.0
+37493.988,,877890,citrix systems inc,0,1,0,0,20200127,soisson jessica,87789020000022,"VP, CAO & Corp Controller",female,318760000.0
+99031.387,,877890,citrix systems inc,0,1,0,0,20200127,kimmel donna nappen,87789020000016,EVP & Chief People Officer,female,318760000.0
+66861.02,,877890,citrix systems inc,0,1,0,0,20200127,hough paul j.,87789020000014,EVP & Chief Product Officer,male,318760000.0
+80774.224,,877890,citrix systems inc,0,1,0,0,20200127,minahan timothy a.,87789020000018,EVP Business Strategy & CMO,male,318760000.0
+133791.14,,877890,citrix systems inc,0,1,0,0,20200127,gomes antonio g.,87789020000012,EVP & General Counsel,male,318760000.0
+51284.831,,877890,citrix systems inc,0,1,0,0,20200129,schmitz mark j.,87789020000026,EVP & Chief Operating Officer,male,318760000.0
+365231.968,,877890,citrix systems inc,1,1,0,0,20200131,henshall david j,87789020000028,CEO & PRESIDENT,male,318760000.0
+50152.831,,877890,citrix systems inc,0,1,0,0,20200203,schmitz mark j.,87789020000030,EVP & Chief Operating Officer,male,318760000.0
+13064.75,,877890,citrix systems inc,1,0,0,0,20200204,sacripanti peter john,87789020000036,,male,318760000.0
+58720.107,,877890,citrix systems inc,0,1,0,0,20200204,ferrer mark j,87789020000032,"EVP, Chief Revenue Officer",male,318760000.0
+360458.968,,877890,citrix systems inc,1,1,0,0,20200204,henshall david j,87789020000034,CEO & PRESIDENT,male,318760000.0
+49033.831,,877890,citrix systems inc,0,1,0,0,20200204,schmitz mark j.,87789020000038,EVP & Chief Operating Officer,male,318760000.0
+71545.224,,877890,citrix systems inc,0,1,0,0,20200205,minahan timothy a.,87789020000040,EVP Business Strategy & CMO,male,318760000.0
+90985.387,,877890,citrix systems inc,0,1,0,0,20200206,kimmel donna nappen,87789020000042,EVP & Chief People Officer,female,318760000.0
+48383.333,,877890,citrix systems inc,0,1,0,0,20200206,van rotterdam jeroen,87789020000044,EVP of Engineering,male,318760000.0
+33440.394,,877890,citrix systems inc,1,0,0,0,20200207,caldwell nanci,87789020000046,,female,122358166.0
+33226.394,,877890,citrix systems inc,1,0,0,0,20200211,caldwell nanci,87789020000048,,female,122358166.0
+57475.107,,877890,citrix systems inc,0,1,0,0,20200303,ferrer mark j,87789020000057,"EVP, Chief Revenue Officer",male,122358166.0
+356165.968,,877890,citrix systems inc,1,1,0,0,20200303,henshall david j,87789020000055,CEO & PRESIDENT,male,122358166.0
+12851.75,,877890,citrix systems inc,1,0,0,0,20200303,sacripanti peter john,87789020000053,,male,122358166.0
+33013.394,,877890,citrix systems inc,1,0,0,0,20200306,caldwell nanci,87789020000059,,female,122358166.0
+57619.601,,877890,citrix systems inc,0,1,0,0,20200323,ferrer mark j,87789020000083,"EVP, Chief Revenue Officer",male,122358166.0
+11595.618,,877890,citrix systems inc,1,0,0,0,20200323,gopal ajei,87789020000073,,male,122358166.0
+3932.823,,877890,citrix systems inc,1,0,0,0,20200323,hogan thomas e,87789020000075,,male,122358166.0
+356598.592,,877890,citrix systems inc,1,1,0,0,20200323,henshall david j,87789020000081,CEO & PRESIDENT,male,122358166.0
+,,877890,citrix systems inc,1,0,0,0,20200323,kilcoyne moira a.,87789020000077,,female,122358166.0
+37642.198,,877890,citrix systems inc,0,1,0,0,20200323,soisson jessica,87789020000097,"VP, CAO & Corp Controller",female,122358166.0
+62861.743,,877890,citrix systems inc,0,1,0,0,20200323,shenkman arlen,87789020000095,EVP & CFO,male,122358166.0
+49141.177,,877890,citrix systems inc,0,1,0,0,20200323,schmitz mark j.,87789020000093,EVP & Chief Operating Officer,male,122358166.0
+71627.104,,877890,citrix systems inc,0,1,0,0,20200323,minahan timothy a.,87789020000091,EVP Business Strategy & CMO,male,122358166.0
+91068.76,,877890,citrix systems inc,0,1,0,0,20200323,kimmel donna nappen,87789020000089,EVP & Chief People Officer,female,122358166.0
+66947.713,,877890,citrix systems inc,0,1,0,0,20200323,hough paul j.,87789020000087,EVP & Chief Product Officer,male,122358166.0
+133964.833,,877890,citrix systems inc,0,1,0,0,20200323,gomes antonio g.,87789020000085,EVP & General Counsel,male,122358166.0
+11334.823,,877890,citrix systems inc,1,0,0,0,20200323,demo murray j,87789020000071,,male,122358166.0
+48473.009,,877890,citrix systems inc,0,1,0,0,20200323,van rotterdam jeroen,87789020000099,EVP of Engineering,male,122358166.0
+27103.336,,877890,citrix systems inc,1,0,0,0,20200323,cohn jesse,87789020000067,,male,122358166.0
+12889.415,,877890,citrix systems inc,1,0,0,0,20200323,sacripanti peter john,87789020000079,,male,122358166.0
+41931.647,,877890,citrix systems inc,1,0,0,0,20200323,daleo robert d,87789020000069,,male,122358166.0
+33108.974,,877890,citrix systems inc,1,0,0,0,20200323,caldwell nanci,87789020000065,,female,122358166.0
+77629.942,,877890,citrix systems inc,1,0,0,0,20200323,calderoni robert,87789020000063,,male,122358166.0
+339550.713,,877890,citrix systems inc,1,1,0,0,20200331,henshall david j,87789020000105,CEO & PRESIDENT,male,320437000.0
+86709.257,,877890,citrix systems inc,0,1,0,0,20200331,kimmel donna nappen,87789020000109,EVP & Chief People Officer,female,320437000.0
+130000.742,,877890,citrix systems inc,0,1,0,0,20200331,gomes antonio g.,87789020000103,EVP & General Counsel,male,320437000.0
+55108.601,,877890,citrix systems inc,0,1,0,0,20200331,ferrer mark j,87789020000101,"EVP, Chief Revenue Officer",male,320437000.0
+67425.257,,877890,citrix systems inc,0,1,0,0,20200331,minahan timothy a.,87789020000111,EVP Business Strategy & CMO,male,320437000.0
+45780.805,,877890,citrix systems inc,0,1,0,0,20200331,schmitz mark j.,87789020000113,EVP & Chief Operating Officer,male,320437000.0
+44553.622,,877890,citrix systems inc,0,1,0,0,20200331,van rotterdam jeroen,87789020000117,EVP of Engineering,male,320437000.0
+63429.622,,877890,citrix systems inc,0,1,0,0,20200331,hough paul j.,87789020000107,EVP & Chief Product Officer,male,320437000.0
+36681.877,,877890,citrix systems inc,0,1,0,0,20200331,soisson jessica,87789020000115,"VP, CAO & Corp Controller",female,320437000.0
+44379.805,,877890,citrix systems inc,0,1,0,0,20200401,schmitz mark j.,87789020000119,EVP & Chief Operating Officer,male,320437000.0
+62937.601,,877890,citrix systems inc,0,1,0,0,20200403,ferrer mark j,87789020000121,"EVP, Chief Revenue Officer",male,320437000.0
+138163.742,,877890,citrix systems inc,0,1,0,0,20200403,gomes antonio g.,87789020000123,EVP & General Counsel,male,320437000.0
+367993.713,,877890,citrix systems inc,1,1,0,0,20200403,henshall david j,87789020000125,CEO & PRESIDENT,male,320437000.0
+71689.622,,877890,citrix systems inc,0,1,0,0,20200403,hough paul j.,87789020000127,EVP & Chief Product Officer,male,320437000.0
+86749.257,,877890,citrix systems inc,0,1,0,0,20200403,kimmel donna nappen,87789020000129,EVP & Chief People Officer,female,320437000.0
+75247.743,,877890,citrix systems inc,0,1,0,0,20200403,shenkman arlen,87789020000131,EVP & CFO,male,320437000.0
+662.0,,877890,citrix systems inc,1,0,0,0,20200403,sherman j donald,87789020000133,,male,320437000.0
+40706.877,,877890,citrix systems inc,0,1,0,0,20200403,soisson jessica,87789020000135,"VP, CAO & Corp Controller",female,320437000.0
+52813.622,,877890,citrix systems inc,0,1,0,0,20200403,van rotterdam jeroen,87789020000137,EVP of Engineering,male,320437000.0
+32894.974,,877890,citrix systems inc,1,0,0,0,20200403,caldwell nanci,87789020000139,,female,320437000.0
+69385.257,,877890,citrix systems inc,0,1,0,0,20200403,minahan timothy a.,87789020000141,EVP Business Strategy & CMO,male,320437000.0
+12675.415,,877890,citrix systems inc,1,0,0,0,20200403,sacripanti peter john,87789020000143,,male,320437000.0
+53302.805,,877890,citrix systems inc,0,1,0,0,20200403,schmitz mark j.,87789020000145,EVP & Chief Operating Officer,male,320437000.0
+44427.622,,877890,citrix systems inc,0,1,0,0,20200406,van rotterdam jeroen,87789020000147,EVP of Engineering,male,320437000.0
+61570.601,,877890,citrix systems inc,0,1,0,0,20200504,ferrer mark j,87789020000149,"EVP, Chief Revenue Officer",male,123450644.0
+362264.713,,877890,citrix systems inc,1,1,0,0,20200504,henshall david j,87789020000151,CEO & PRESIDENT,male,123450644.0
+38727.877,,877890,citrix systems inc,0,1,0,0,20200504,soisson jessica,87789020000153,"VP, CAO & Corp Controller",female,123450644.0
+12462.415,,877890,citrix systems inc,1,0,0,0,20200505,sacripanti peter john,87789020000159,,male,123450644.0
+32681.974,,877890,citrix systems inc,1,0,0,0,20200505,caldwell nanci,87789020000157,,female,123450644.0
+48038.941,,877890,citrix systems inc,1,0,0,0,20200506,calderoni robert,87789020000161,,male,123450644.0
+32921.887,,877890,citrix systems inc,0,1,0,0,20200513,soisson jessica,87789020000163,"VP, CAO & Corp Controller",female,123450644.0
+60407.601,,877890,citrix systems inc,0,1,0,0,20200602,ferrer mark j,87789020000165,"EVP, Chief Revenue Officer",male,123450644.0
+356283.713,,877890,citrix systems inc,1,1,0,0,20200602,henshall david j,87789020000167,CEO & PRESIDENT,male,123450644.0
+12249.415,,877890,citrix systems inc,1,0,0,0,20200603,sacripanti peter john,87789020000169,,male,123450644.0
+32468.974,,877890,citrix systems inc,1,0,0,0,20200603,caldwell nanci,87789020000171,,female,123450644.0
+27162.887,,877890,citrix systems inc,0,1,0,0,20200609,soisson jessica,87789020000173,"VP, CAO & Corp Controller",female,123450644.0
+69689.622,,877890,citrix systems inc,0,1,0,0,20200611,hough paul j.,87789020000175,EVP & Chief Product Officer,male,123450644.0
+11335.341,,877890,citrix systems inc,1,0,0,0,20200623,demo murray j,87789020000183,,male,123450644.0
+42032.704,,877890,citrix systems inc,1,0,0,0,20200623,daleo robert d,87789020000181,,male,123450644.0
+12279.041,,877890,citrix systems inc,1,0,0,0,20200623,sacripanti peter john,87789020000191,,male,123450644.0
+48081.387,,877890,citrix systems inc,1,0,0,0,20200623,calderoni robert,87789020000177,,male,123450644.0
+11623.685,,877890,citrix systems inc,1,0,0,0,20200623,gopal ajei,87789020000185,,male,123450644.0
+32546.534,,877890,citrix systems inc,1,0,0,0,20200623,caldwell nanci,87789020000179,,female,123450644.0
+,,877890,citrix systems inc,1,0,0,0,20200623,kilcoyne moira a.,87789020000189,,female,123450644.0
+53397.268,,877890,citrix systems inc,0,1,0,0,20200623,schmitz mark j.,87789020000203,EVP & Chief Operating Officer,male,123450644.0
+60525.001,,877890,citrix systems inc,0,1,0,0,20200623,ferrer mark j,87789020000193,"EVP, Chief Revenue Officer",male,123450644.0
+356621.111,,877890,citrix systems inc,1,1,0,0,20200623,henshall david j,87789020000197,CEO & PRESIDENT,male,123450644.0
+86805.41,,877890,citrix systems inc,0,1,0,0,20200623,kimmel donna nappen,87789020000199,EVP & Chief People Officer,female,123450644.0
+69441.41,,877890,citrix systems inc,0,1,0,0,20200623,minahan timothy a.,87789020000201,EVP Business Strategy & CMO,male,123450644.0
+3933.341,,877890,citrix systems inc,1,0,0,0,20200623,hogan thomas e,87789020000187,,male,123450644.0
+75429.878,,877890,citrix systems inc,0,1,0,0,20200623,shenkman arlen,87789020000205,EVP & CFO,male,123450644.0
+27215.48,,877890,citrix systems inc,0,1,0,0,20200623,soisson jessica,87789020000207,"VP, CAO & Corp Controller",female,123450644.0
+44490.145,,877890,citrix systems inc,0,1,0,0,20200623,van rotterdam jeroen,87789020000209,EVP of Engineering,male,123450644.0
+68346.145,,877890,citrix systems inc,0,1,0,0,20200623,hough paul j.,87789020000215,EVP & Chief Product Officer,male,123450644.0
+137791.654,,877890,citrix systems inc,0,1,0,0,20200623,gomes antonio g.,87789020000195,EVP & General Counsel,male,123450644.0
+42457.704,,877890,citrix systems inc,1,0,0,0,20200701,daleo robert d,87789020000217,,male,321210000.0
+59362.001,,877890,citrix systems inc,0,1,0,0,20200702,ferrer mark j,87789020000219,"EVP, Chief Revenue Officer",male,321210000.0
+350617.111,,877890,citrix systems inc,1,1,0,0,20200702,henshall david j,87789020000221,CEO & PRESIDENT,male,321210000.0
+13085.0,,877890,citrix systems inc,1,0,0,0,20200702,demo murray j,87789020000227,,male,321210000.0
+5683.0,,877890,citrix systems inc,1,0,0,0,20200702,hogan thomas e,87789020000229,,male,321210000.0
+6657.0,,877890,citrix systems inc,1,0,0,0,20200702,kilcoyne moira a.,87789020000231,,female,321210000.0
+14028.7,,877890,citrix systems inc,1,0,0,0,20200702,sacripanti peter john,87789020000233,,male,321210000.0
+44206.704,,877890,citrix systems inc,1,0,0,0,20200702,daleo robert d,87789020000235,,male,321210000.0
+13372.685,,877890,citrix systems inc,1,0,0,0,20200702,gopal ajei,87789020000237,,male,321210000.0
+2411.0,,877890,citrix systems inc,1,0,0,0,20200702,sherman j donald,87789020000239,,male,321210000.0
+34296.193,,877890,citrix systems inc,1,0,0,0,20200702,caldwell nanci,87789020000225,,female,321210000.0
+49831.046,,877890,citrix systems inc,1,0,0,0,20200702,calderoni robert,87789020000223,,male,321210000.0
+34081.193,,877890,citrix systems inc,1,0,0,0,20200706,caldwell nanci,87789020000241,,female,321210000.0
+13813.7,,877890,citrix systems inc,1,0,0,0,20200706,sacripanti peter john,87789020000243,,male,321210000.0
+346451.482,,877890,citrix systems inc,1,1,0,0,20200803,henshall david j,87789020000249,CEO & PRESIDENT,male,123531988.0
+340031.482,,877890,citrix systems inc,1,1,0,0,20200804,henshall david j,87789020000251,CEO & PRESIDENT,male,123531988.0
+335811.482,,877890,citrix systems inc,1,1,0,0,20200902,henshall david j,87789020000253,CEO & PRESIDENT,male,123531988.0
+66346.145,,877890,citrix systems inc,0,1,0,0,20200909,hough paul j.,87789020000255,EVP & Chief Product Officer,male,123531988.0
+118789.654,,877890,citrix systems inc,0,1,0,0,20200911,gomes antonio g.,87789020000257,EVP & Chief Legal Officer,male,123531988.0
+69501.201,,877890,citrix systems inc,0,1,0,0,20200928,minahan timothy a.,87789020000289,EVP Business Strategy & CMO,male,123531988.0
+5687.497,,877890,citrix systems inc,1,0,0,0,20200928,hogan thomas e,87789020000271,,male,123531988.0
+34167.723,,877890,citrix systems inc,1,0,0,0,20200928,caldwell nanci,87789020000261,,female,123531988.0
+13849.19,,877890,citrix systems inc,1,0,0,0,20200928,sacripanti peter john,87789020000263,,male,123531988.0
+44319.898,,877890,citrix systems inc,1,0,0,0,20200928,daleo robert d,87789020000265,,male,123531988.0
+13407.068,,877890,citrix systems inc,1,0,0,0,20200928,gopal ajei,87789020000267,,male,123531988.0
+13089.497,,877890,citrix systems inc,1,0,0,0,20200928,demo murray j,87789020000269,,male,123531988.0
+6661.497,,877890,citrix systems inc,1,0,0,0,20200928,kilcoyne moira a.,87789020000273,,female,123531988.0
+59557.005,,877890,citrix systems inc,0,1,0,0,20200928,ferrer mark j,87789020000277,"EVP, Chief Revenue Officer",male,123531988.0
+27411.48,,877890,citrix systems inc,0,1,0,0,20200928,soisson jessica,87789020000281,"VP, CAO & Corp Controller",female,123531988.0
+49880.187,,877890,citrix systems inc,1,0,0,0,20200928,calderoni robert,87789020000259,,male,123531988.0
+336143.523,,877890,citrix systems inc,1,1,0,0,20200928,henshall david j,87789020000285,CEO & PRESIDENT,male,123531988.0
+66412.717,,877890,citrix systems inc,0,1,0,0,20200928,hough paul j.,87789020000287,EVP & Chief Product Officer,male,123531988.0
+53497.851,,877890,citrix systems inc,0,1,0,0,20200928,schmitz mark j.,87789020000291,EVP & Chief Operating Officer,male,123531988.0
+75623.813,,877890,citrix systems inc,0,1,0,0,20200928,shenkman arlen,87789020000293,EVP & CFO,male,123531988.0
+44556.717,,877890,citrix systems inc,0,1,0,0,20200928,van rotterdam jeroen,87789020000295,EVP of Engineering,male,123531988.0
+2415.497,,877890,citrix systems inc,1,0,0,0,20200928,sherman j donald,87789020000297,,male,123531988.0
+86988.201,,877890,citrix systems inc,0,1,0,0,20200928,kimmel donna nappen,87789020000279,EVP & Chief People Officer,female,123531988.0
+118856.641,,877890,citrix systems inc,0,1,0,0,20200928,gomes antonio g.,87789020000283,EVP & Chief Legal Officer,male,123531988.0
+66693.813,,877890,citrix systems inc,0,1,0,0,20201002,shenkman arlen,87789020000303,EVP & CFO,male,321557000.0
+330317.523,,877890,citrix systems inc,1,1,0,0,20201002,henshall david j,87789020000299,CEO & PRESIDENT,male,321557000.0
+51518.851,,877890,citrix systems inc,0,1,0,0,20201002,schmitz mark j.,87789020000301,EVP & Chief Operating Officer,male,321557000.0
+66020.813,,877890,citrix systems inc,0,1,0,0,20201005,shenkman arlen,87789020000309,EVP & CFO,male,321557000.0
+49913.851,,877890,citrix systems inc,0,1,0,0,20201005,schmitz mark j.,87789020000307,EVP & Chief Operating Officer,male,321557000.0
+51800.258,,877890,citrix systems inc,0,1,0,0,20201005,ferrer mark j,87789020000305,"EVP, Chief Revenue Officer",male,321557000.0
+72320.201,,877890,citrix systems inc,0,1,0,0,20201023,kimmel donna nappen,87789020000313,EVP & Chief People Officer,female,123123572.0
+65347.813,,877890,citrix systems inc,0,1,0,0,20201103,shenkman arlen,87789020000320,EVP & CFO,male,123123572.0
+1336.0,,877890,citrix systems inc,1,0,0,0,20201103,knowling robert e jr,87789020000322,,male,123123572.0
+322317.523,,877890,citrix systems inc,1,1,0,0,20201103,henshall david j,87789020000318,CEO & PRESIDENT,male,123123572.0
+49702.258,,877890,citrix systems inc,0,1,0,0,20201105,ferrer mark j,87789020000324,"EVP, Chief Revenue Officer",male,123123572.0
+47604.258,,877890,citrix systems inc,0,1,0,0,20201202,ferrer mark j,87789020000326,"EVP, Chief Revenue Officer",male,123123572.0
+314317.523,,877890,citrix systems inc,1,1,0,0,20201202,henshall david j,87789020000328,CEO & PRESIDENT,male,123123572.0
+64674.813,,877890,citrix systems inc,0,1,0,0,20201202,shenkman arlen,87789020000330,EVP & CFO,male,123123572.0
+67154.0,,877890,citrix systems inc,0,1,0,0,20201203,kim w. joseph,87789020000334,EVP & Chief Technology Officer,male,123123572.0
+17879.857,,877890,citrix systems inc,0,1,0,0,20201203,mullapudi sridhar,87789020000340,"EVP, Product Management",male,123123572.0
+17607.857,,877890,citrix systems inc,0,1,0,0,20201204,mullapudi sridhar,87789020000342,"EVP, Product Management",male,123123572.0
+27141.48,,877890,citrix systems inc,0,1,0,0,20201204,soisson jessica,87789020000344,"VP, CAO & Corp Controller",female,123123572.0
+26727.48,,877890,citrix systems inc,0,1,0,0,20201207,soisson jessica,87789020000346,"VP, CAO & Corp Controller",female,123123572.0
+64412.717,,877890,citrix systems inc,0,1,0,0,20201209,hough paul j.,87789020000348,EVP & Chief Product Officer,male,123123572.0
+2420.121,,877890,citrix systems inc,1,0,0,0,20201223,sherman j donald,87789020000390,,male,123123572.0
+115075.527,,877890,citrix systems inc,0,1,0,0,20201223,gomes antonio g.,87789020000392,EVP & Chief Legal Officer,male,123123572.0
+49930.72,,877890,citrix systems inc,1,0,0,0,20201223,calderoni robert,87789020000350,,male,123123572.0
+34256.702,,877890,citrix systems inc,1,0,0,0,20201223,caldwell nanci,87789020000352,,female,123123572.0
+44436.297,,877890,citrix systems inc,1,0,0,0,20201223,daleo robert d,87789020000354,,male,123123572.0
+13442.424,,877890,citrix systems inc,1,0,0,0,20201223,gopal ajei,87789020000356,,male,123123572.0
+1339.523,,877890,citrix systems inc,1,0,0,0,20201223,knowling robert e jr,87789020000358,,male,123123572.0
+13885.685,,877890,citrix systems inc,1,0,0,0,20201223,sacripanti peter john,87789020000360,,male,123123572.0
+5692.121,,877890,citrix systems inc,1,0,0,0,20201223,hogan thomas e,87789020000364,,male,123123572.0
+6666.121,,877890,citrix systems inc,1,0,0,0,20201223,kilcoyne moira a.,87789020000366,,female,123123572.0
+13094.121,,877890,citrix systems inc,1,0,0,0,20201223,demo murray j,87789020000362,,male,123123572.0
+47687.452,,877890,citrix systems inc,0,1,0,0,20201223,ferrer mark j,87789020000371,"EVP, Chief Revenue Officer",male,123123572.0
+26783.262,,877890,citrix systems inc,0,1,0,0,20201223,soisson jessica,87789020000389,"VP, CAO & Corp Controller",female,123123572.0
+64818.71,,877890,citrix systems inc,0,1,0,0,20201223,shenkman arlen,87789020000387,EVP & CFO,male,123123572.0
+314658.973,,877890,citrix systems inc,1,1,0,0,20201223,henshall david j,87789020000369,CEO & PRESIDENT,male,123123572.0
+17639.625,,877890,citrix systems inc,0,1,0,0,20201223,mullapudi sridhar,87789020000383,"EVP, Product Management",male,123123572.0
+69562.687,,877890,citrix systems inc,0,1,0,0,20201223,minahan timothy a.,87789020000381,EVP Business Strategy & CMO,male,123123572.0
+50005.715,,877890,citrix systems inc,0,1,0,0,20201223,schmitz mark j.,87789020000385,EVP & Chief Operating Officer,male,123123572.0
+72381.687,,877890,citrix systems inc,0,1,0,0,20201223,kimmel donna nappen,87789020000377,EVP & Chief People Officer,female,123123572.0
+67331.094,,877890,citrix systems inc,0,1,0,0,20201223,kim w. joseph,87789020000375,EVP & Chief Technology Officer,male,123123572.0
+64481.176,,877890,citrix systems inc,0,1,0,0,20201223,hough paul j.,87789020000373,EVP & Chief Product Officer,male,123123572.0
+22219.096,,877890,citrix systems inc,0,1,0,0,20201223,lima hector,87789020000379,"EVP, Customer Experience",male,123123572.0
+44839.297,,877890,citrix systems inc,1,0,0,0,20210105,daleo robert d,87789021000002,,male,321964000.0
+45589.452,,877890,citrix systems inc,0,1,0,0,20210105,ferrer mark j,87789021000004,"EVP, Chief Revenue Officer",male,321964000.0
+306658.973,,877890,citrix systems inc,1,1,0,0,20210105,henshall david j,87789021000006,CEO & PRESIDENT,male,321964000.0
+64145.71,,877890,citrix systems inc,0,1,0,0,20210105,shenkman arlen,87789021000008,EVP & CFO,male,321964000.0
+28213.262,,877890,citrix systems inc,0,1,0,0,20210128,soisson jessica,87789021000024,"VP, CAO & Corp Controller",female,321964000.0
+24049.096,,877890,citrix systems inc,0,1,0,0,20210128,lima hector,87789021000026,"EVP, Customer Experience",male,321964000.0
+82424.176,,877890,citrix systems inc,0,1,0,0,20210128,hough paul j.,87789021000022,EVP & Chief Product Officer,male,321964000.0
+133009.527,,877890,citrix systems inc,0,1,0,0,20210128,gomes antonio g.,87789021000012,EVP & Chief Legal Officer,male,321964000.0
+55523.715,,877890,citrix systems inc,0,1,0,0,20210128,schmitz mark j.,87789021000018,EVP & Chief Operating Officer,male,321964000.0
+86203.687,,877890,citrix systems inc,0,1,0,0,20210128,minahan timothy a.,87789021000016,EVP Business Strategy & CMO,male,321964000.0
+89235.687,,877890,citrix systems inc,0,1,0,0,20210128,kimmel donna nappen,87789021000014,EVP & Chief People Officer,female,321964000.0
+19190.625,,877890,citrix systems inc,0,1,0,0,20210128,mullapudi sridhar,87789021000020,"EVP, Product Management",male,321964000.0
+61511.452,,877890,citrix systems inc,0,1,0,0,20210128,ferrer mark j,87789021000010,"EVP, Chief Revenue Officer",male,321964000.0
+120126.527,,877890,citrix systems inc,0,1,0,0,20210129,gomes antonio g.,87789021000028,EVP & Chief Legal Officer,male,321964000.0
+69562.687,,877890,citrix systems inc,0,1,0,0,20210129,minahan timothy a.,87789021000030,EVP Business Strategy & CMO,male,321964000.0
+50005.715,,877890,citrix systems inc,0,1,0,0,20210129,schmitz mark j.,87789021000032,EVP & Chief Operating Officer,male,321964000.0
+26783.262,,877890,citrix systems inc,0,1,0,0,20210129,soisson jessica,87789021000034,"VP, CAO & Corp Controller",female,321964000.0
+63472.71,,877890,citrix systems inc,0,1,0,0,20210202,shenkman arlen,87789021000046,EVP & CFO,male,122963727.0
+58454.452,,877890,citrix systems inc,0,1,0,0,20210202,ferrer mark j,87789021000044,"EVP, Chief Revenue Officer",male,122963727.0
+48774.715,,877890,citrix systems inc,0,1,0,0,20210202,schmitz mark j.,87789021000042,EVP & Chief Operating Officer,male,122963727.0
+23836.096,,877890,citrix systems inc,0,1,0,0,20210202,lima hector,87789021000040,"EVP, Customer Experience",male,122963727.0
+359989.973,,877890,citrix systems inc,1,1,0,0,20210202,henshall david j,87789021000038,CEO & PRESIDENT,male,122963727.0
+47416.715,,877890,citrix systems inc,0,1,0,0,20210203,schmitz mark j.,87789021000048,EVP & Chief Operating Officer,male,122963727.0
+21728.096,,877890,citrix systems inc,0,1,0,0,20210225,lima hector,87789021000053,"EVP, Customer Experience",male,122963727.0
+77699.094,,877890,citrix systems inc,0,1,0,0,20210303,kim w. joseph,87789021000077,EVP & Chief Technology Officer,male,122963727.0
+92347.176,,877890,citrix systems inc,0,1,0,0,20210303,hough paul j.,87789021000075,EVP & Chief Product Officer,male,122963727.0
+59413.715,,877890,citrix systems inc,0,1,0,0,20210303,schmitz mark j.,87789021000073,EVP & Chief Operating Officer,male,122963727.0
+78597.687,,877890,citrix systems inc,0,1,0,0,20210303,minahan timothy a.,87789021000071,EVP Business Strategy & CMO,male,122963727.0
+130297.527,,877890,citrix systems inc,0,1,0,0,20210303,gomes antonio g.,87789021000069,EVP & Chief Legal Officer,male,122963727.0
+392053.973,,877890,citrix systems inc,1,1,0,0,20210303,henshall david j,87789021000055,CEO & PRESIDENT,male,122963727.0
+31275.262,,877890,citrix systems inc,0,1,0,0,20210303,soisson jessica,87789021000065,"VP, CAO & Corp Controller",female,122963727.0
+26761.625,,877890,citrix systems inc,0,1,0,0,20210303,mullapudi sridhar,87789021000063,"EVP, Product Management",male,122963727.0
+28132.096,,877890,citrix systems inc,0,1,0,0,20210303,lima hector,87789021000061,"EVP, Customer Experience",male,122963727.0
+74944.71,,877890,citrix systems inc,0,1,0,0,20210303,shenkman arlen,87789021000059,EVP & CFO,male,122963727.0
+67119.452,,877890,citrix systems inc,0,1,0,0,20210303,ferrer mark j,87789021000057,"EVP, Chief Revenue Officer",male,122963727.0
+98312.687,,877890,citrix systems inc,0,1,0,0,20210303,kimmel donna nappen,87789021000067,EVP & Chief People Officer,female,122963727.0
+90347.176,,877890,citrix systems inc,0,1,0,0,20210309,hough paul j.,87789021000079,EVP & Chief Product Officer,male,122963727.0
+19264.745,30718.0,877890,citrix systems inc,1,0,0,0,20210329,calderoni robert,87789021000123,,male,122963727.0
+31344.725,,877890,citrix systems inc,0,1,0,0,20210329,soisson jessica,87789021000121,"VP, CAO & Corp Controller",female,122963727.0
+59532.407,,877890,citrix systems inc,0,1,0,0,20210329,schmitz mark j.,87789021000119,EVP & Chief Operating Officer,male,122963727.0
+392497.743,,877890,citrix systems inc,1,1,0,0,20210329,henshall david j,87789021000117,CEO & PRESIDENT,male,122963727.0
+75125.743,,877890,citrix systems inc,0,1,0,0,20210329,shenkman arlen,87789021000115,EVP & CFO,male,122963727.0
+26814.383,,877890,citrix systems inc,0,1,0,0,20210329,mullapudi sridhar,87789021000113,"EVP, Product Management",male,122963727.0
+78685.452,,877890,citrix systems inc,0,1,0,0,20210329,minahan timothy a.,87789021000111,EVP Business Strategy & CMO,male,122963727.0
+28188.775,,877890,citrix systems inc,0,1,0,0,20210329,lima hector,87789021000109,"EVP, Customer Experience",male,122963727.0
+77909.491,,877890,citrix systems inc,0,1,0,0,20210329,kim w. joseph,87789021000105,EVP & Chief Technology Officer,male,122963727.0
+98400.452,,877890,citrix systems inc,0,1,0,0,20210329,kimmel donna nappen,87789021000107,EVP & Chief People Officer,female,122963727.0
+130395.719,,877890,citrix systems inc,0,1,0,0,20210329,gomes antonio g.,87789021000101,EVP & Chief Legal Officer,male,122963727.0
+90444.525,,877890,citrix systems inc,0,1,0,0,20210329,hough paul j.,87789021000103,EVP & Chief Product Officer,male,122963727.0
+2424.882,,877890,citrix systems inc,1,0,0,0,20210329,sherman j donald,87789021000081,,male,122963727.0
+6670.882,,877890,citrix systems inc,1,0,0,0,20210329,kilcoyne moira a.,87789021000083,,female,122963727.0
+13098.882,,877890,citrix systems inc,1,0,0,0,20210329,demo murray j,87789021000087,,male,122963727.0
+13923.258,,877890,citrix systems inc,1,0,0,0,20210329,sacripanti peter john,87789021000089,,male,122963727.0
+5696.882,,877890,citrix systems inc,1,0,0,0,20210329,hogan thomas e,87789021000085,,male,122963727.0
+13478.824,,877890,citrix systems inc,1,0,0,0,20210329,gopal ajei,87789021000093,,male,122963727.0
+44960.224,,877890,citrix systems inc,1,0,0,0,20210329,daleo robert d,87789021000095,,male,122963727.0
+34348.308,,877890,citrix systems inc,1,0,0,0,20210329,caldwell nanci,87789021000097,,female,122963727.0
+67237.187,,877890,citrix systems inc,0,1,0,0,20210329,ferrer mark j,87789021000099,"EVP, Chief Revenue Officer",male,122963727.0
+1343.15,,877890,citrix systems inc,1,0,0,0,20210329,knowling robert e jr,87789021000091,,male,122963727.0
+57510.235,,877890,citrix systems inc,0,1,0,0,20210331,schmitz mark j.,87789021000143,EVP & Chief Operating Officer,male,323154000.0
+88027.062,,877890,citrix systems inc,0,1,0,0,20210331,hough paul j.,87789021000129,EVP & Chief Product Officer,male,323154000.0
+96283.941,,877890,citrix systems inc,0,1,0,0,20210331,kimmel donna nappen,87789021000131,EVP & Chief People Officer,female,323154000.0
+26409.045,,877890,citrix systems inc,0,1,0,0,20210331,mullapudi sridhar,87789021000133,"EVP, Product Management",male,323154000.0
+30995.845,,877890,citrix systems inc,0,1,0,0,20210331,soisson jessica,87789021000135,"VP, CAO & Corp Controller",female,323154000.0
+125146.256,,877890,citrix systems inc,0,1,0,0,20210331,gomes antonio g.,87789021000137,EVP & Chief Legal Officer,male,323154000.0
+26737.021,,877890,citrix systems inc,0,1,0,0,20210331,lima hector,87789021000139,"EVP, Customer Experience",male,323154000.0
+73912.941,,877890,citrix systems inc,0,1,0,0,20210331,minahan timothy a.,87789021000141,EVP Business Strategy & CMO,male,323154000.0
+64222.86,,877890,citrix systems inc,0,1,0,0,20210331,ferrer mark j,87789021000125,"EVP, Chief Revenue Officer",male,323154000.0
+384985.69,,877890,citrix systems inc,1,1,0,0,20210331,henshall david j,87789021000127,CEO & PRESIDENT,male,323154000.0
+121266.256,,877890,citrix systems inc,0,1,0,0,20210405,gomes antonio g.,87789021000147,EVP & Chief Legal Officer,male,323154000.0
+29793.845,,877890,citrix systems inc,0,1,0,0,20210405,soisson jessica,87789021000165,"VP, CAO & Corp Controller",female,323154000.0
+73311.743,,877890,citrix systems inc,0,1,0,0,20210405,shenkman arlen,87789021000163,EVP & CFO,male,323154000.0
+53697.235,,877890,citrix systems inc,0,1,0,0,20210405,schmitz mark j.,87789021000161,EVP & Chief Operating Officer,male,323154000.0
+25202.045,,877890,citrix systems inc,0,1,0,0,20210405,mullapudi sridhar,87789021000159,"EVP, Product Management",male,323154000.0
+70398.941,,877890,citrix systems inc,0,1,0,0,20210405,minahan timothy a.,87789021000157,EVP Business Strategy & CMO,male,323154000.0
+25431.021,,877890,citrix systems inc,0,1,0,0,20210405,lima hector,87789021000155,"EVP, Customer Experience",male,323154000.0
+92827.941,,877890,citrix systems inc,0,1,0,0,20210405,kimmel donna nappen,87789021000153,EVP & Chief People Officer,female,323154000.0
+84351.062,,877890,citrix systems inc,0,1,0,0,20210405,hough paul j.,87789021000151,EVP & Chief Product Officer,male,323154000.0
+373116.69,,877890,citrix systems inc,1,1,0,0,20210405,henshall david j,87789021000149,CEO & PRESIDENT,male,323154000.0
+56308.86,,877890,citrix systems inc,0,1,0,0,20210405,ferrer mark j,87789021000145,"EVP, Chief Revenue Officer",male,323154000.0
+66122.941,,877890,citrix systems inc,0,1,0,0,20210406,minahan timothy a.,87789021000172,EVP Business Strategy & CMO,male,323154000.0
+72376.743,,877890,citrix systems inc,0,1,0,0,20210406,shenkman arlen,87789021000176,EVP & CFO,male,323154000.0
+24091.021,,877890,citrix systems inc,0,1,0,0,20210406,lima hector,87789021000170,"EVP, Customer Experience",male,323154000.0
+49058.235,,877890,citrix systems inc,0,1,0,0,20210406,schmitz mark j.,87789021000174,EVP & Chief Operating Officer,male,323154000.0
+116400.256,,877890,citrix systems inc,0,1,0,0,20210406,gomes antonio g.,87789021000168,EVP & Chief Legal Officer,male,323154000.0
+22032.045,,877890,citrix systems inc,0,1,0,0,20210427,mullapudi sridhar,87789021000178,"EVP, Product Management",male,323154000.0
+27794.845,,877890,citrix systems inc,0,1,0,0,20210503,soisson jessica,87789021000180,"VP, CAO & Corp Controller",female,124167045.0
+53124.86,,877890,citrix systems inc,0,1,0,0,20210504,ferrer mark j,87789021000182,"EVP, Chief Revenue Officer",male,124167045.0
+367256.69,,877890,citrix systems inc,1,1,0,0,20210504,henshall david j,87789021000184,CEO & PRESIDENT,male,124167045.0
+71441.743,,877890,citrix systems inc,0,1,0,0,20210504,shenkman arlen,87789021000186,EVP & CFO,male,124167045.0
+49938.86,,877890,citrix systems inc,0,1,0,0,20210602,ferrer mark j,87789021000191,"EVP, Chief Revenue Officer",male,124167045.0
+361396.69,,877890,citrix systems inc,1,1,0,0,20210602,henshall david j,87789021000193,CEO & PRESIDENT,male,124167045.0
+70506.743,,877890,citrix systems inc,0,1,0,0,20210602,shenkman arlen,87789021000195,EVP & CFO,male,124167045.0
+2425.0,,877890,citrix systems inc,1,0,0,0,20210604,sherman j donald,87789021000209,,male,124167045.0
+13923.376,,877890,citrix systems inc,1,0,0,0,20210604,sacripanti peter john,87789021000207,,male,124167045.0
+6671.0,,877890,citrix systems inc,1,0,0,0,20210604,kilcoyne moira a.,87789021000205,,female,124167045.0
+5697.0,,877890,citrix systems inc,1,0,0,0,20210604,hogan thomas e,87789021000203,,male,124167045.0
+13099.0,,877890,citrix systems inc,1,0,0,0,20210604,demo murray j,87789021000201,,male,124167045.0
+34348.426,,877890,citrix systems inc,1,0,0,0,20210604,caldwell nanci,87789021000199,,female,124167045.0
+19264.863,30718.0,877890,citrix systems inc,1,0,0,0,20210604,calderoni robert,87789021000197,,male,124167045.0
+27844.393,,877890,citrix systems inc,0,1,0,0,20210629,soisson jessica,87789021000245,"VP, CAO & Corp Controller",female,124167045.0
+70707.329,,877890,citrix systems inc,0,1,0,0,20210629,shenkman arlen,87789021000243,EVP & CFO,male,124167045.0
+49165.052,,877890,citrix systems inc,0,1,0,0,20210629,schmitz mark j.,87789021000241,EVP & Chief Operating Officer,male,124167045.0
+22079.661,,877890,citrix systems inc,0,1,0,0,20210629,mullapudi sridhar,87789021000239,"EVP, Product Management",male,124167045.0
+66186.556,,877890,citrix systems inc,0,1,0,0,20210629,minahan timothy a.,87789021000237,EVP Business Strategy & CMO,male,124167045.0
+24141.602,,877890,citrix systems inc,0,1,0,0,20210629,lima hector,87789021000235,"EVP, Customer Experience",male,124167045.0
+92891.556,,877890,citrix systems inc,0,1,0,0,20210629,kimmel donna nappen,87789021000233,EVP & Chief People Officer,female,124167045.0
+78158.081,,877890,citrix systems inc,0,1,0,0,20210629,kim w. joseph,87789021000231,EVP & Chief Technology Officer,male,124167045.0
+1347.436,,877890,citrix systems inc,1,0,0,0,20210629,knowling robert e jr,87789021000219,,male,124167045.0
+361780.087,,877890,citrix systems inc,1,1,0,0,20210629,henshall david j,87789021000227,CEO & PRESIDENT,male,124167045.0
+116471.618,,877890,citrix systems inc,0,1,0,0,20210629,gomes antonio g.,87789021000225,EVP & Chief Legal Officer,male,124167045.0
+50023.192,,877890,citrix systems inc,0,1,0,0,20210629,ferrer mark j,87789021000223,"EVP, Chief Revenue Officer",male,124167045.0
+13962.145,,877890,citrix systems inc,1,0,0,0,20210629,sacripanti peter john,87789021000221,,male,124167045.0
+13521.831,,877890,citrix systems inc,1,0,0,0,20210629,gopal ajei,87789021000217,,male,124167045.0
+45103.104,,877890,citrix systems inc,1,0,0,0,20210629,daleo robert d,87789021000215,,male,124167045.0
+34451.041,,877890,citrix systems inc,1,0,0,0,20210629,caldwell nanci,87789021000213,,female,124167045.0
+19320.708,30718.0,877890,citrix systems inc,1,0,0,0,20210629,calderoni robert,87789021000211,,male,124167045.0
+84421.604,,877890,citrix systems inc,0,1,0,0,20210629,hough paul j.,87789021000229,EVP & Chief Product Officer,male,124167045.0
+16091.145,,877890,citrix systems inc,1,0,0,0,20210702,sacripanti peter john,87789021000263,,male,324387000.0
+3476.436,,877890,citrix systems inc,1,0,0,0,20210702,knowling robert e jr,87789021000269,,male,324387000.0
+15650.831,,877890,citrix systems inc,1,0,0,0,20210702,gopal ajei,87789021000267,,male,324387000.0
+8800.0,,877890,citrix systems inc,1,0,0,0,20210702,kilcoyne moira a.,87789021000261,,female,324387000.0
+4554.0,,877890,citrix systems inc,1,0,0,0,20210702,sherman j donald,87789021000265,,male,324387000.0
+15228.0,,877890,citrix systems inc,1,0,0,0,20210702,demo murray j,87789021000257,,male,324387000.0
+47578.192,,877890,citrix systems inc,0,1,0,0,20210702,ferrer mark j,87789021000247,"EVP, Chief Revenue Officer",male,324387000.0
+7826.0,,877890,citrix systems inc,1,0,0,0,20210702,hogan thomas e,87789021000259,,male,324387000.0
+69772.329,,877890,citrix systems inc,0,1,0,0,20210702,shenkman arlen,87789021000251,EVP & CFO,male,324387000.0
+355921.087,,877890,citrix systems inc,1,1,0,0,20210702,henshall david j,87789021000249,CEO & PRESIDENT,male,324387000.0
+36580.041,,877890,citrix systems inc,1,0,0,0,20210702,caldwell nanci,87789021000255,,female,324387000.0
+21449.708,30718.0,877890,citrix systems inc,1,0,0,0,20210702,calderoni robert,87789021000253,,male,324387000.0
+37413.602,,877890,citrix systems inc,0,1,0,0,20210804,lima hector,87789021000273,"EVP, Chief Customer Officer",male,124232082.0
+58013.052,,877890,citrix systems inc,0,1,0,0,20210804,schmitz mark j.,87789021000275,EVP & Chief Operating Officer,male,124232082.0
+349766.087,,877890,citrix systems inc,1,1,0,0,20210804,henshall david j,87789021000277,CEO & PRESIDENT,male,124232082.0
+46445.192,,877890,citrix systems inc,0,1,0,0,20210804,ferrer mark j,87789021000279,"EVP, Chief Revenue Officer",male,124232082.0
+69021.329,,877890,citrix systems inc,0,1,0,0,20210804,shenkman arlen,87789021000281,EVP & CFO,male,124232082.0
+39908.349,,877890,citrix systems inc,0,1,0,0,20210809,ferrer mark j,87789021000283,"EVP, Chief Revenue Officer",male,124232082.0
+343612.087,,877890,citrix systems inc,1,1,0,0,20210902,henshall david j,87789021000285,CEO & PRESIDENT,male,124232082.0
+68086.329,,877890,citrix systems inc,0,1,0,0,20210902,shenkman arlen,87789021000287,EVP & CFO,male,124232082.0
+21401.151,,877890,citrix systems inc,0,1,0,0,20210907,mullapudi sridhar,87789021000289,"EVP, Product Management",male,124232082.0
+20711.151,,877890,citrix systems inc,0,1,0,0,20210908,mullapudi sridhar,87789021000291,"EVP, Product Management",male,124232082.0
+8807.149,,877890,citrix systems inc,1,0,0,0,20210927,kilcoyne moira a.,87789021000297,,female,124232082.0
+4561.149,,877890,citrix systems inc,1,0,0,0,20210927,sherman j donald,87789021000299,,male,124232082.0
+21515.813,30718.0,877890,citrix systems inc,1,0,0,0,20210927,calderoni robert,87789021000301,,male,124232082.0
+36695.523,,877890,citrix systems inc,1,0,0,0,20210927,caldwell nanci,87789021000303,,female,124232082.0
+15703.383,,877890,citrix systems inc,1,0,0,0,20210927,gopal ajei,87789021000305,,male,124232082.0
+16139.223,,877890,citrix systems inc,1,0,0,0,20210927,sacripanti peter john,87789021000309,,male,124232082.0
+3488.109,,877890,citrix systems inc,1,0,0,0,20210927,knowling robert e jr,87789021000307,,male,124232082.0
+344016.847,,877890,citrix systems inc,1,1,0,0,20210927,henshall david j,87789021000311,CEO & PRESIDENT,male,124232082.0
+28061.703,,877890,citrix systems inc,0,1,0,0,20210927,soisson jessica,87789021000331,"SVP, CAO & Corp Controller",female,124232082.0
+93142.715,,877890,citrix systems inc,0,1,0,0,20210927,kimmel donna nappen,87789021000329,EVP & Chief People Officer,female,124232082.0
+78532.523,,877890,citrix systems inc,0,1,0,0,20210927,kim w. joseph,87789021000327,EVP & Chief Technology Officer,male,124232082.0
+116619.956,,877890,citrix systems inc,0,1,0,0,20210927,gomes antonio g.,87789021000325,EVP & Chief Legal Officer,male,124232082.0
+15235.149,,877890,citrix systems inc,1,0,0,0,20210927,demo murray j,87789021000293,,male,124232082.0
+7833.149,,877890,citrix systems inc,1,0,0,0,20210927,hogan thomas e,87789021000295,,male,124232082.0
+58155.531,,877890,citrix systems inc,0,1,0,0,20210927,schmitz mark j.,87789021000321,EVP & Chief Operating Officer,male,124232082.0
+20755.633,,877890,citrix systems inc,0,1,0,0,20210927,mullapudi sridhar,87789021000319,"EVP, Product Management",male,124232082.0
+66253.715,,877890,citrix systems inc,0,1,0,0,20210927,minahan timothy a.,87789021000317,EVP Business Strategy & CMO,male,124232082.0
+37511.566,,877890,citrix systems inc,0,1,0,0,20210927,lima hector,87789021000315,"EVP, Chief Customer Officer",male,124232082.0
+84496.076,,877890,citrix systems inc,0,1,0,0,20210927,hough paul j.,87789021000313,EVP & Chief Product Officer,male,124232082.0
+68298.093,,877890,citrix systems inc,0,1,0,0,20210927,shenkman arlen,87789021000323,EVP & CFO,male,124232082.0
+32667.703,,877890,citrix systems inc,0,1,0,0,20211004,soisson jessica,87789021000339,"SVP, CAO & Corp Controller",female,324825000.0
+59258.093,,877890,citrix systems inc,0,1,0,0,20211004,shenkman arlen,87789021000337,EVP & CFO,male,324825000.0
+56153.531,,877890,citrix systems inc,0,1,0,0,20211004,schmitz mark j.,87789021000335,EVP & Chief Operating Officer,male,324825000.0
+338566.847,,877890,citrix systems inc,1,1,0,0,20211004,henshall david j,87789021000333,CEO & PRESIDENT,male,324825000.0
+187112.813,30718.0,877890,citrix systems inc,1,1,0,0,20211008,calderoni robert,87789021000344,Interim CEO & President,male,324825000.0
+181298.813,30718.0,877890,citrix systems inc,1,1,0,0,20211102,calderoni robert,87789021000348,Interim CEO & President,male,124722872.0
+62527.0,,877890,citrix systems inc,0,1,0,0,20211110,arenth michael,87789021000355,"EVP, SaaS Strategy",male,124722872.0
+99766.523,,877890,citrix systems inc,0,1,0,0,20211117,kim w. joseph,87789021000359,EVP Chief Prod & Tech Officer,male,124722872.0
+92640.523,,877890,citrix systems inc,0,1,0,0,20211202,kim w. joseph,87789021000363,EVP Chief Prod & Tech Officer,male,124722872.0
+175484.813,30718.0,877890,citrix systems inc,1,1,0,0,20211202,calderoni robert,87789021000361,Interim CEO & President,male,124722872.0
+32395.201,,877890,citrix systems inc,0,1,0,0,20211206,soisson jessica,87789021000365,"SVP, CAO & Corp Controller",female,124722872.0
+3501.687,,877890,citrix systems inc,1,0,0,0,20211222,knowling robert e jr,87789021000399,,male,124722872.0
+32472.465,,877890,citrix systems inc,0,1,0,0,20211222,soisson jessica,87789021000397,"SVP, CAO & Corp Controller",female,124722872.0
+56302.896,,877890,citrix systems inc,0,1,0,0,20211222,schmitz mark j.,87789021000395,EVP & Chief Operating Officer,male,124722872.0
+37625.933,,877890,citrix systems inc,0,1,0,0,20211222,lima hector,87789021000393,"EVP, Chief Customer Officer",male,124722872.0
+116773.467,,877890,citrix systems inc,0,1,0,0,20211222,gomes antonio g.,87789021000391,EVP & Chief Legal Officer,male,124722872.0
+59195.458,,877890,citrix systems inc,0,1,0,0,20211222,shenkman arlen,87789021000389,EVP & CFO,male,124722872.0
+66331.832,,877890,citrix systems inc,0,1,0,0,20211222,minahan timothy a.,87789021000387,EVP Business Strategy & CMO,male,124722872.0
+16195.145,,877890,citrix systems inc,1,0,0,0,20211222,sacripanti peter john,87789021000377,,male,124722872.0
+92940.269,,877890,citrix systems inc,0,1,0,0,20211222,kim w. joseph,87789021000383,EVP Chief Prod & Tech Officer,male,124722872.0
+62770.398,,877890,citrix systems inc,0,1,0,0,20211222,arenth michael,87789021000381,"EVP, SaaS Strategy",male,124722872.0
+176021.789,30718.0,877890,citrix systems inc,1,1,0,0,20211222,calderoni robert,87789021000379,Interim CEO & President,male,124722872.0
+36829.846,,877890,citrix systems inc,1,0,0,0,20211222,caldwell nanci,87789021000375,,female,124722872.0
+4569.464,,877890,citrix systems inc,1,0,0,0,20211222,sherman j donald,87789021000373,,male,124722872.0
+8815.464,,877890,citrix systems inc,1,0,0,0,20211222,kilcoyne moira a.,87789021000371,,female,124722872.0
+7841.464,,877890,citrix systems inc,1,0,0,0,20211222,hogan thomas e,87789021000369,,male,124722872.0
+15243.464,,877890,citrix systems inc,1,0,0,0,20211222,demo murray j,87789021000367,,male,124722872.0
+93220.832,,877890,citrix systems inc,0,1,0,0,20211222,kimmel donna nappen,87789021000385,EVP & Chief People Officer,female,124722872.0
+171693.789,30718.0,877890,citrix systems inc,1,1,0,0,20220105,calderoni robert,87789022000002,Interim CEO & President,male,325174000.0
+35626.465,,877890,citrix systems inc,0,1,0,0,20220203,soisson jessica,87789022000016,"SVP, CAO & Corp Controller",female,325174000.0
+72188.896,,877890,citrix systems inc,0,1,0,0,20220203,schmitz mark j.,87789022000014,EVP & Chief Operating Officer,male,325174000.0
+88443.832,,877890,citrix systems inc,0,1,0,0,20220203,minahan timothy a.,87789022000006,EVP Business Strategy & CMO,male,325174000.0
+115672.832,,877890,citrix systems inc,0,1,0,0,20220203,kimmel donna nappen,87789022000010,EVP & Chief People Officer,female,325174000.0
+141022.467,,877890,citrix systems inc,0,1,0,0,20220203,gomes antonio g.,87789022000008,EVP & Chief Legal Officer,male,325174000.0
+165856.789,30718.0,877890,citrix systems inc,1,1,0,0,20220203,calderoni robert,87789022000004,Interim CEO & President,male,325174000.0
+43683.933,,877890,citrix systems inc,0,1,0,0,20220203,lima hector,87789022000012,"EVP, Chief Customer Officer",male,325174000.0
+35260.465,,877890,citrix systems inc,0,1,0,0,20220303,soisson jessica,87789022000035,"SVP, CAO & Corp Controller",female,125548909.0
+87066.832,,877890,citrix systems inc,0,1,0,0,20220303,minahan timothy a.,87789022000031,EVP Business Strategy & CMO,male,125548909.0
+70360.896,,877890,citrix systems inc,0,1,0,0,20220303,schmitz mark j.,87789022000033,EVP & Chief Operating Officer,male,125548909.0
+114318.832,,877890,citrix systems inc,0,1,0,0,20220303,kimmel donna nappen,87789022000027,EVP & Chief People Officer,female,125548909.0
+41968.022,,877890,citrix systems inc,0,1,0,0,20220303,lima hector,87789022000029,"EVP, Chief Customer Officer",male,125548909.0
+139513.467,,877890,citrix systems inc,0,1,0,0,20220303,gomes antonio g.,87789022000023,EVP & Chief Legal Officer,male,125548909.0
+160020.789,30718.0,877890,citrix systems inc,1,1,0,0,20220303,calderoni robert,87789022000021,Interim CEO & President,male,125548909.0
+92161.269,,877890,citrix systems inc,0,1,0,0,20220303,kim w. joseph,87789022000025,EVP Chief Prod & Tech Officer,male,125548909.0
+154183.789,30718.0,877890,citrix systems inc,1,1,0,0,20220405,calderoni robert,87789022000040,Interim CEO & President,male,326701000.0
+135594.374,,877890,citrix systems inc,0,1,0,0,20220405,gomes antonio g.,87789022000042,EVP & Chief Legal Officer,male,326701000.0
+110827.24,,877890,citrix systems inc,0,1,0,0,20220405,kimmel donna nappen,87789022000044,EVP & Chief People Officer,female,326701000.0
+40647.208,,877890,citrix systems inc,0,1,0,0,20220405,lima hector,87789022000046,"EVP, Chief Customer Officer",male,326701000.0
+83516.24,,877890,citrix systems inc,0,1,0,0,20220405,minahan timothy a.,87789022000048,EVP Business Strategy & CMO,male,326701000.0
+66507.625,,877890,citrix systems inc,0,1,0,0,20220405,schmitz mark j.,87789022000050,EVP & Chief Operating Officer,male,326701000.0
+33996.806,,877890,citrix systems inc,0,1,0,0,20220405,soisson jessica,87789022000052,"SVP, CAO & Corp Controller",female,326701000.0
+31975.806,,877890,citrix systems inc,0,1,0,0,20220502,soisson jessica,87789022000057,"SVP, CAO & Corp Controller",female,126579926.0
+148347.789,30718.0,877890,citrix systems inc,1,1,0,0,20220502,calderoni robert,87789022000055,Interim CEO & President,male,126579926.0
+142510.789,30718.0,877890,citrix systems inc,1,1,0,0,20220602,calderoni robert,87789022000062,Interim CEO & President,male,126579926.0
+135830.325,30718.0,877890,citrix systems inc,1,1,0,0,20220705,calderoni robert,87789022000064,Interim CEO & President,male,327925000.0
+36830.382,,877890,citrix systems inc,1,0,0,0,20220705,caldwell nanci,87789022000066,,female,327925000.0
+15244.0,,877890,citrix systems inc,1,0,0,0,20220705,demo murray j,87789022000068,,male,327925000.0
+7842.0,,877890,citrix systems inc,1,0,0,0,20220705,hogan thomas e,87789022000070,,male,327925000.0
+8816.0,,877890,citrix systems inc,1,0,0,0,20220705,kilcoyne moira a.,87789022000072,,female,327925000.0
+16195.681,,877890,citrix systems inc,1,0,0,0,20220705,sacripanti peter john,87789022000074,,male,327925000.0
+4570.0,,877890,citrix systems inc,1,0,0,0,20220705,sherman j donald,87789022000076,,male,327925000.0
+129993.325,30718.0,877890,citrix systems inc,1,1,0,0,20220802,calderoni robert,87789022000081,Interim CEO & President,male,126885081.0
+38893.208,,877890,citrix systems inc,0,1,0,0,20220803,lima hector,87789022000083,"EVP, Chief Customer Officer",male,126885081.0
+65167.625,,877890,citrix systems inc,0,1,0,0,20220803,schmitz mark j.,87789022000085,EVP & Chief Operating Officer,male,126885081.0
+0.0,,877890,citrix systems inc,1,1,0,0,20221003,calderoni robert,87789022000087,Interim CEO & President,male,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,sherman j donald,87789022000119,,male,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,sacripanti peter john,87789022000117,,male,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,knowling robert e jr,87789022000115,,male,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,kilcoyne moira a.,87789022000113,,female,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,hogan thomas e,87789022000111,,male,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,caldwell nanci,87789022000107,,female,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,soisson jessica,87789022000105,"SVP, CAO & Corp Controller",female,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,schmitz mark j.,87789022000103,EVP & Chief Operating Officer,male,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,minahan timothy a.,87789022000099,EVP Business Strategy & CMO,male,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,lima hector,87789022000097,"EVP, Chief Customer Officer",male,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,kimmel donna nappen,87789022000095,EVP & Chief People Officer,female,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,kim w. joseph,87789022000093,EVP Chief Prod & Tech Officer,male,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,gomes antonio g.,87789022000091,EVP & Chief Legal Officer,male,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,arenth michael,87789022000089,"EVP, SaaS Strategy",male,126885081.0
+0.0,,877890,citrix systems inc,0,1,0,0,20221003,smith jason alexander,87789022000101,EVP & Chief Financial Officer,male,126885081.0
+0.0,,877890,citrix systems inc,1,0,0,0,20221003,demo murray j,87789022000109,,male,126885081.0

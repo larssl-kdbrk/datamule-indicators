@@ -1,75 +1,268 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3850.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20100127,burton betty s,120919110005173,,female,
-7765.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20100211,hayes doyle a,120919110008578,,male,
-2687.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20100218,williams donald sr,120919110010383,,male,
-37656.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20100520,clark edward j,120919110029439,,male,
-8067.0,22109.0,1042729,mercantile bank corp,1,0,0,0.0,20100823,larsen lawrence w,120919110043600,,male,
-2000.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20101028,posthumus richard earl,120919110052011,,male,
-39656.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20101103,clark edward j,120919110052933,,male,
-41656.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20101105,clark edward j,120919110053481,,male,
-16785.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20101123,cassard david m,120919110056553,,male,
-2737.0,0.0,1042729,mercantile bank corp,1,0,0,0.0,20110125,williams donald sr,120919111004947,,male,8597993.0
-9067.0,22109.0,1042729,mercantile bank corp,1,0,0,0.0,20110201,larsen lawrence w,120919111005949,,male,8597993.0
-42656.0,0.0,1042729,mercantile bank corp,1,0,0,0,20110524,clark edward j,120919111030795,,male,8597993.0
-43656.0,0.0,1042729,mercantile bank corp,1,0,0,0,20110722,clark edward j,120919111040592,,male,8605830.0
-44756.0,0.0,1042729,mercantile bank corp,1,0,0,0,20110815,clark edward j,120919111044179,,male,8603905.0
-45756.0,0.0,1042729,mercantile bank corp,1,0,0,0,20110818,clark edward j,120919111044925,,male,8603905.0
-7825.0,0.0,1042729,mercantile bank corp,1,0,0,0,20111114,hayes doyle a,120919111055728,,male,8604906.0
-11025.0,0.0,1042729,mercantile bank corp,1,0,0,0,20111130,schad timothy o,120919111058577,,male,8604906.0
-7700.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120123,faas michael d,120919112004784,,male,8605391.0
-260.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120202,agerson kirk,120919112007004,,male,8605007.0
-300.0,24859.0,1042729,mercantile bank corp,0,1,0,0,20120221,christmas charles e,120919112011563,Senior V.P. & CFO,male,8605007.0
-650.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120224,agerson kirk,120919112012785,,male,8605007.0
-11700.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120228,faas michael d,120919112013474,,male,8605007.0
-2787.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120301,williams donald sr,120919112014317,,male,8605007.0
-1200.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120419,donnelly john f,120919112023686,,male,8608544.0
-855.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120420,agerson kirk,120919112023765,,male,8608544.0
-25286.84,0.0,1042729,mercantile bank corp,1,0,0,0,20120430,murdock calvin d,120919112024974,,male,8608544.0
-46257.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120525,clark edward j,120919112030736,,male,8610251.0
-7875.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120530,hayes doyle a,120919112031240,,male,8610251.0
-44322.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120712,clark edward j,120919112037941,,male,8610850.0
-1025.0,0.0,1042729,mercantile bank corp,1,0,0,0,20120726,agerson kirk,120919112039142,,male,8610850.0
-7781.0,25606.0,1042729,mercantile bank corp,0,1,0,0,20120831,christmas charles e,120919112043892,Senior V.P. & CFO,male,8619146.0
-15783.0,13250.0,1042729,mercantile bank corp,1,1,0,0,20120831,kaminski robert b,120919112043922,"COO, Exec. V.P., Secretary",male,8619146.0
-60618.0,10836.0,1042729,mercantile bank corp,1,1,0,0,20120904,price michael h,120919112043991,"Chairman, President and CEO",male,8619146.0
-1205.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121022,agerson kirk,120919112050117,,male,8635070.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20100127,burton betty s,120919110005173,,female,
+,,1042729,mercantile bank corp,1,0,0,0.0,20100211,hayes doyle a,120919110008578,,male,
+,,1042729,mercantile bank corp,1,0,0,0.0,20100218,williams donald sr,120919110010383,,male,
+,,1042729,mercantile bank corp,1,0,0,0.0,20100520,clark edward j,120919110029439,,male,
+,,1042729,mercantile bank corp,1,0,0,0.0,20100823,larsen lawrence w,120919110043600,,male,
+2000.0,,1042729,mercantile bank corp,1,0,0,0.0,20101028,posthumus richard earl,120919110052011,,male,
+39656.0,,1042729,mercantile bank corp,1,0,0,0.0,20101103,clark edward j,120919110052933,,male,
+41656.0,,1042729,mercantile bank corp,1,0,0,0.0,20101105,clark edward j,120919110053481,,male,
+,,1042729,mercantile bank corp,1,0,0,0.0,20101123,cassard david m,120919110056553,,male,
+,,1042729,mercantile bank corp,1,0,0,0.0,20110125,williams donald sr,120919111004947,,male,8597993.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20110201,larsen lawrence w,120919111005949,,male,8597993.0
+42656.0,,1042729,mercantile bank corp,1,0,0,0.0,20110524,clark edward j,120919111030795,,male,8597993.0
+43656.0,,1042729,mercantile bank corp,1,0,0,0.0,20110722,clark edward j,120919111040592,,male,8605830.0
+44756.0,,1042729,mercantile bank corp,1,0,0,0.0,20110815,clark edward j,120919111044179,,male,8603905.0
+45756.0,,1042729,mercantile bank corp,1,0,0,0.0,20110818,clark edward j,120919111044925,,male,8603905.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20111114,hayes doyle a,120919111055728,,male,8604906.0
+11025.0,,1042729,mercantile bank corp,1,0,0,0.0,20111130,schad timothy o,120919111058577,,male,8604906.0
+7700.0,,1042729,mercantile bank corp,1,0,0,0.0,20120123,faas michael d,120919112004784,,male,8605391.0
+260.0,,1042729,mercantile bank corp,1,0,0,0.0,20120202,agerson kirk,120919112007004,,male,8605007.0
+,,1042729,mercantile bank corp,0,1,0,0.0,20120221,christmas charles e,120919112011563,Senior V.P. & CFO,male,8605007.0
+650.0,,1042729,mercantile bank corp,1,0,0,0.0,20120224,agerson kirk,120919112012785,,male,8605007.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20120228,faas michael d,120919112013474,,male,8605007.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20120301,williams donald sr,120919112014317,,male,8605007.0
+1200.0,,1042729,mercantile bank corp,1,0,0,0.0,20120419,donnelly john f,120919112023686,,male,8608544.0
+855.0,,1042729,mercantile bank corp,1,0,0,0.0,20120420,agerson kirk,120919112023765,,male,8608544.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20120430,murdock calvin d,120919112024974,,male,8608544.0
+46257.0,,1042729,mercantile bank corp,1,0,0,0.0,20120525,clark edward j,120919112030736,,male,8610251.0
+7875.0,,1042729,mercantile bank corp,1,0,0,0.0,20120530,hayes doyle a,120919112031240,,male,8610251.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20120712,clark edward j,120919112037941,,male,8610850.0
+1025.0,,1042729,mercantile bank corp,1,0,0,0.0,20120726,agerson kirk,120919112039142,,male,8610850.0
+7781.0,25606.0,1042729,mercantile bank corp,0,1,0,0.0,20120831,christmas charles e,120919112043892,Senior V.P. & CFO,male,8619146.0
+15783.0,13250.0,1042729,mercantile bank corp,1,1,0,0.0,20120831,kaminski robert b,120919112043922,"COO, Exec. V.P., Secretary",male,8619146.0
+60618.0,10836.0,1042729,mercantile bank corp,1,1,0,0.0,20120904,price michael h,120919112043991,"Chairman, President and CEO",male,8619146.0
+,,1042729,mercantile bank corp,1,0,0,0.0,20121022,agerson kirk,120919112050117,,male,8635070.0
+12781.0,25606.0,1042729,mercantile bank corp,0,1,0,0,20121203,christmas charles e,120919112055417,Senior V.P. & CFO,male,8638591.0
+2205.0,,1042729,mercantile bank corp,1,0,0,0,20121203,agerson kirk,120919112055413,,male,8638591.0
+19785.0,,1042729,mercantile bank corp,1,0,0,0,20121203,cassard david m,120919112055415,,male,8638591.0
+45322.0,,1042729,mercantile bank corp,1,0,0,0,20121203,clark edward j,120919112055418,,male,8638591.0
+12700.0,,1042729,mercantile bank corp,1,0,0,0,20121203,faas michael d,120919112055421,,male,8638591.0
+8875.0,,1042729,mercantile bank corp,1,0,0,0,20121203,hayes doyle a,120919112055422,,male,8638591.0
+7851.0,,1042729,mercantile bank corp,1,0,0,0,20121203,jones susan k,120919112055423,,female,8638591.0
 20783.0,13250.0,1042729,mercantile bank corp,1,1,0,0,20121203,kaminski robert b,120919112055426,"COO, Exec. V.P., Secretary",male,8638591.0
 10067.0,22109.0,1042729,mercantile bank corp,1,0,0,0,20121203,larsen lawrence w,120919112055427,,male,8638591.0
-12781.0,25606.0,1042729,mercantile bank corp,0,1,0,0,20121203,christmas charles e,120919112055417,Senior V.P. & CFO,male,8638591.0
+26286.84,,1042729,mercantile bank corp,1,0,0,0,20121203,murdock calvin d,120919112055428,,male,8638591.0
 68618.0,10836.0,1042729,mercantile bank corp,1,1,0,0,20121203,price michael h,120919112055430,"Chairman, President and CEO",male,8638591.0
-12025.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,schad timothy o,120919112055431,,male,8638591.0
-7851.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,jones susan k,120919112055423,,female,8638591.0
-19785.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,cassard david m,120919112055415,,male,8638591.0
-12700.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,faas michael d,120919112055421,,male,8638591.0
-8875.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,hayes doyle a,120919112055422,,male,8638591.0
-2205.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,agerson kirk,120919112055413,,male,8638591.0
-26286.84,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,murdock calvin d,120919112055428,,male,8638591.0
-45322.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,clark edward j,120919112055418,,male,8638591.0
-2200.0,0.0,1042729,mercantile bank corp,1,0,0,0,20121203,donnelly john f,120919112055420,,male,8638591.0
-53814.0,0.0,1042729,mercantile bank corp,true,true,false,false,20140603,sullivan thomas r,141588914001750,CHAIRMAN OF THE BOARD,male,8738608.0
-0.0,0.0,1042729,mercantile bank corp,false,true,false,false,20140603,stone samuel g,141588914001746,EXECUTIVE VICE PRESIDENT,male,8738608.0
-20025.0,0.0,1042729,mercantile bank corp,true,false,false,false,20140603,grant edward b,141588914001742,,male,8738608.0
-11123.0,0.0,1042729,mercantile bank corp,true,false,false,false,20140603,gardner jeff a,141588914001744,,male,8738608.0
-26786.84,0.0,1042729,mercantile bank corp,true,false,false,false,20140630,murdock calvin d,141588914002008,,male,16839175.0
-20435.0,0.0,1042729,mercantile bank corp,true,false,false,false,20140630,cassard david m,141588914002010,,male,16839175.0
-20575.0,0.0,1042729,mercantile bank corp,true,false,false,false,20140630,grant edward b,141588914002011,,male,16839175.0
+12025.0,,1042729,mercantile bank corp,1,0,0,0,20121203,schad timothy o,120919112055431,,male,8638591.0
+2200.0,,1042729,mercantile bank corp,1,0,0,0,20121203,donnelly john f,120919112055420,,male,8638591.0
+53814.0,,1042729,mercantile bank corp,true,true,false,false,20140603,sullivan thomas r,141588914001750,CHAIRMAN OF THE BOARD,male,8738608.0
+11123.0,,1042729,mercantile bank corp,true,false,false,false,20140603,gardner jeff a,141588914001744,,male,8738608.0
+0.0,,1042729,mercantile bank corp,false,true,false,false,20140603,stone samuel g,141588914001746,EXECUTIVE VICE PRESIDENT,male,8738608.0
+20025.0,,1042729,mercantile bank corp,true,false,false,false,20140603,grant edward b,141588914001742,,male,8738608.0
+26786.84,,1042729,mercantile bank corp,true,false,false,false,20140630,murdock calvin d,141588914002008,,male,16839175.0
+20435.0,,1042729,mercantile bank corp,true,false,false,false,20140630,cassard david m,141588914002010,,male,16839175.0
+20575.0,,1042729,mercantile bank corp,true,false,false,false,20140630,grant edward b,141588914002011,,male,16839175.0
 11498.0,90363.0,1042729,mercantile bank corp,true,false,false,false,20140630,gardner jeff a,141588914002012,,male,16839175.0
 24072.0,17167.73,1042729,mercantile bank corp,true,true,false,false,20140731,kaminski robert b,141588914002284,"COO, EXEC. V.P., SECRETARY",male,16839175.0
-85277.0,12486.0,1042729,mercantile bank corp,1,1,0,0,20141117,price michael h,157104914006477,President & CEO,male,16862799.0
-21544.0,31098.0,1042729,mercantile bank corp,0,1,0,0,20141117,christmas charles e,157104914006474,SENIOR VICE PRESIDENT & CFO,male,16862799.0
-5500.0,33131.0,1042729,mercantile bank corp,0,1,0,0,20141117,stone samuel g,157104914006478,Executive Vice President,male,16862799.0
 21938.0,84940.215,1042729,mercantile bank corp,1,1,0,0,20141117,sullivan thomas r,157104914006479,Chairman of the Board,male,16862799.0
+5500.0,33131.0,1042729,mercantile bank corp,0,1,0,0,20141117,stone samuel g,157104914006478,Executive Vice President,male,16862799.0
+85277.0,12486.0,1042729,mercantile bank corp,1,1,0,0,20141117,price michael h,157104914006477,President & CEO,male,16862799.0
 27572.0,17580.98,1042729,mercantile bank corp,0,1,0,0,20141117,kaminski robert b,157104914006476,"COO, Exec. V.P., Secretary",male,16862799.0
+21544.0,31098.0,1042729,mercantile bank corp,0,1,0,0,20141117,christmas charles e,157104914006474,SENIOR VICE PRESIDENT & CFO,male,16862799.0
 340.0,30798.0,1042729,mercantile bank corp,false,true,false,false,20141124,christmas charles e,141588914003680,SENIOR V.P. AND CFO,male,16862799.0
-20811.0,0.0,1042729,mercantile bank corp,true,false,false,false,20150106,cassard david m,141588915000049,,male,16976839.0
-21034.0,0.0,1042729,mercantile bank corp,true,false,false,false,20150106,grant edward b,141588915000045,,male,16976839.0
+27204.84,,1042729,mercantile bank corp,true,false,false,false,20150106,murdock calvin d,141588915000043,,male,16976839.0
+20811.0,,1042729,mercantile bank corp,true,false,false,false,20150106,cassard david m,141588915000049,,male,16976839.0
 11811.0,90363.0,1042729,mercantile bank corp,true,false,false,false,20150106,gardner jeff a,141588915000047,,male,16976839.0
-27204.84,0.0,1042729,mercantile bank corp,true,false,false,false,20150106,murdock calvin d,141588915000043,,male,16976839.0
-18787.0,0.0,1042729,mercantile bank corp,true,false,false,false,20150429,grant edward b,141588915001468,,male,16899382.0
-22019.75,0.0,1042729,mercantile bank corp,true,false,false,false,20150601,cassard david m,141588915001929,,male,16899382.0
+21034.0,,1042729,mercantile bank corp,true,false,false,false,20150106,grant edward b,141588915000045,,male,16976839.0
+18787.0,,1042729,mercantile bank corp,true,false,false,false,20150429,grant edward b,141588915001468,,male,16899382.0
 22688.0,87324.417,1042729,mercantile bank corp,true,true,false,false,20150601,sullivan thomas r,141588915001931,CHAIRMAN OF THE BOARD,male,16899382.0
-19887.0,0.0,1042729,mercantile bank corp,true,false,false,false,20150601,grant edward b,141588915001933,,male,16899382.0
 45158.3,2150.0,1042729,mercantile bank corp,true,false,false,false,20150601,clark edward j,141588915001935,,male,16899382.0
 12561.0,90363.0,1042729,mercantile bank corp,true,false,false,false,20150601,gardner jeff a,141588915001938,,male,16899382.0
+22019.75,,1042729,mercantile bank corp,true,false,false,false,20150601,cassard david m,141588915001929,,male,16899382.0
+19887.0,,1042729,mercantile bank corp,true,false,false,false,20150601,grant edward b,141588915001933,,male,16899382.0
+27500.0,56824.417,1042729,mercantile bank corp,true,true,false,false,20150818,sullivan thomas r,141588915002789,CHAIRMAN OF THE BOARD,male,16459841.0
 27500.0,56824.417,1042729,mercantile bank corp,true,true,false,false,20150818,sullivan thomas r,141588915002789,CHAIRMAN OF THE BOARD,male,16459841.0
 24500.0,57115.259,1042729,mercantile bank corp,true,false,false,false,20150928,sullivan thomas r,141588915003190,,male,16459841.0
+24500.0,57115.259,1042729,mercantile bank corp,true,false,false,false,20150928,sullivan thomas r,141588915003190,,male,16459841.0
+21500.0,57520.282,1042729,mercantile bank corp,true,false,false,false,20151026,sullivan thomas r,141588915003499,,male,16279234.0
+18500.0,57520.282,1042729,mercantile bank corp,true,false,false,false,20151117,sullivan thomas r,141588915003768,,male,16265996.0
+23773.0,76020.282,1042729,mercantile bank corp,true,false,false,false,20151120,sullivan thomas r,141588915003811,,male,16265996.0
+5598.0,34152.795,1042729,mercantile bank corp,false,true,false,false,20151120,stone samuel g,141588915003810,EXECUTIVE VICE PRESIDENT,male,16265996.0
+90656.0,12775.464,1042729,mercantile bank corp,true,true,false,false,20151120,price michael h,141588915003814,"CHAIRMAN, PRESIDENT AND CEO",male,16265996.0
+23778.99,32628.534,1042729,mercantile bank corp,false,true,false,false,20151120,christmas charles e,141588915003813,SENIOR V.P. AND CFO,male,16265996.0
+29822.0,18960.055,1042729,mercantile bank corp,false,true,false,false,20151120,kaminski robert b,141588915003812,"COO, EXEC. V.P., SECRETARY",male,16265996.0
+2367.0,30407.795,1042729,mercantile bank corp,false,true,false,false,20151125,stone samuel g,141588915003896,EXECUTIVE VICE PRESIDENT,male,16265996.0
+72986.661,,1042729,mercantile bank corp,true,false,false,false,20151217,sullivan thomas r,141588915004111,,male,16265996.0
+82977.0,12844.0,1042729,mercantile bank corp,true,true,false,false,20160125,price michael h,141588916004533,"CHAIRMAN, PRESIDENT AND CEO",male,16358711.0
+21786.692,,1042729,mercantile bank corp,false,true,false,false,20160303,kaminski robert b,141588916004946,"COO, EXEC. V.P., SECRETARY",male,16358711.0
+72426.661,,1042729,mercantile bank corp,true,false,false,false,20160307,sullivan thomas r,141588916004986,,male,16358711.0
+24523.0,72426.661,1042729,mercantile bank corp,true,false,false,false,20160608,sullivan thomas r,141588916006129,,male,16240246.0
+20987.0,,1042729,mercantile bank corp,true,false,false,false,20160608,grant edward b,141588916006130,,male,16240246.0
+23319.5184,,1042729,mercantile bank corp,true,false,false,false,20160608,cassard david m,141588916006131,,male,16240246.0
+46486.0,2150.0,1042729,mercantile bank corp,true,false,false,false,20160608,clark edward j,141588916006132,,male,16240246.0
+13790.0,80364.0,1042729,mercantile bank corp,true,false,false,false,20160608,gardner jeff a,141588916006133,,male,16240246.0
+72174.0,13001.0,1042729,mercantile bank corp,true,true,false,false,20160801,price michael h,141588916006642,"CHAIRMAN, PRESIDENT AND CEO",male,16271061.0
+58812.0,13001.0,1042729,mercantile bank corp,true,true,false,false,20160819,price michael h,141588916006931,"CHAIRMAN, PRESIDENT AND CEO",male,16279351.0
+67426.661,,1042729,mercantile bank corp,true,false,false,false,20160829,sullivan thomas r,141588916007000,,male,16279351.0
+24523.0,67426.661,1042729,mercantile bank corp,true,false,false,false,20160927,sullivan thomas r,141588916007226,,male,16279351.0
+5500.0,14760.816,1042729,mercantile bank corp,false,true,false,false,20161118,worthington robert t.,141588916007459,"SENIOR V.P., GENERAL COUNSEL",male,16302213.0
+28011.0,34033.0,1042729,mercantile bank corp,false,true,false,false,20161118,christmas charles e,141588916007453,EVP AND CFO,male,16302213.0
+65812.0,13074.0,1042729,mercantile bank corp,true,true,false,false,20161118,price michael h,141588916007455,"CHAIRMAN, PRESIDENT AND CEO",male,16302213.0
+34322.0,22754.555,1042729,mercantile bank corp,false,true,false,false,20161118,kaminski robert b,141588916007457,"COO, EXEC. V.P., SECRETARY",male,16302213.0
+19523.0,67426.661,1042729,mercantile bank corp,true,false,false,false,20161122,sullivan thomas r,141588916007492,,male,16302213.0
+18987.0,,1042729,mercantile bank corp,true,false,false,false,20161201,grant edward b,141588916007512,,male,16302213.0
+56261.0,13074.0,1042729,mercantile bank corp,true,true,false,false,20161213,price michael h,141588916007574,"CHAIRMAN, PRESIDENT AND CEO",male,16302213.0
+50252.0,11500.0,1042729,mercantile bank corp,true,false,false,false,20161216,gardner jeff a,141588916007593,,male,16302213.0
+19523.0,67426.0,1042729,mercantile bank corp,true,false,false,false,20170306,sullivan thomas r,141588917000358,,male,16416695.0
+8979.0,,1042729,mercantile bank corp,true,false,false,false,20170324,eldridge michelle larabee,141588917000482,,female,16416695.0
+46726.0,13360.0,1042729,mercantile bank corp,true,true,false,false,20170426,price michael h,141588917000671,CHAIRMAN,male,16469108.0
+60313.0,,1042729,mercantile bank corp,true,false,false,false,20170614,sullivan thomas r,141588917000989,,male,16465988.0
+15131.0,86364.0,1042729,mercantile bank corp,true,false,false,false,20170626,gardner jeff a,141588917001044,,male,16465988.0
+24731.0,,1042729,mercantile bank corp,true,false,false,false,20170626,cassard david m,141588917001042,,male,16465988.0
+48137.0,2150.0,1042729,mercantile bank corp,true,false,false,false,20170626,clark edward j,141588917001040,,male,16465988.0
+20273.0,60313.0,1042729,mercantile bank corp,true,false,false,false,20170626,sullivan thomas r,141588917001038,,male,16465988.0
+9729.0,,1042729,mercantile bank corp,true,false,false,false,20170626,eldridge michelle larabee,141588917001036,,female,16465988.0
+20087.0,,1042729,mercantile bank corp,true,false,false,false,20170626,grant edward b,141588917001034,,male,16465988.0
+385.0,2150.0,1042729,mercantile bank corp,true,false,false,false,20170725,clark edward j,141588917001271,,male,16480852.0
+49574.0,,1042729,mercantile bank corp,true,false,false,false,20171024,sullivan thomas r,141588917001689,,male,16490279.0
+34729.0,24050.257,1042729,mercantile bank corp,true,true,false,false,20171024,kaminski robert b,141588917001692,"PRESIDENT, CEO",male,16490279.0
+43774.0,,1042729,mercantile bank corp,true,false,false,false,20171030,sullivan thomas r,141588917001737,,male,16490279.0
+15073.0,43774.0,1042729,mercantile bank corp,true,false,false,false,20171122,sullivan thomas r,141588917001855,,male,16491790.0
+9875.0,10324.0,1042729,mercantile bank corp,false,true,false,false,20171204,reitsma raymond e.,141588917001889,PRESIDENT OF MERCANTILE BANK,male,16491790.0
+49559.0,13497.0,1042729,mercantile bank corp,true,true,false,false,20171204,price michael h,141588917001887,CHAIRMAN,male,16491790.0
+40229.0,24096.379,1042729,mercantile bank corp,true,true,false,false,20171204,kaminski robert b,141588917001885,"PRESIDENT, CEO",male,16491790.0
+31511.0,35584.0,1042729,mercantile bank corp,false,true,false,false,20171204,christmas charles e,141588917001883,EVP AND CFO,male,16491790.0
+9000.0,15239.0,1042729,mercantile bank corp,false,true,false,false,20171204,worthington robert t.,141588917001881,"COO, SECRETARY, SVP, AND GC",male,16491790.0
+22073.0,43774.0,1042729,mercantile bank corp,true,false,false,false,20180123,sullivan thomas r,141588918000111,,male,16592125.0
+15143.0,,1042729,mercantile bank corp,true,false,false,false,20180305,sullivan thomas r,141588918000343,,male,16592125.0
+15947.0,43774.0,1042729,mercantile bank corp,true,false,false,false,20180529,sullivan thomas r,141588918000843,,male,16598027.0
+16308.0,86364.0,1042729,mercantile bank corp,true,false,false,false,20180529,gardner jeff a,141588918000846,,male,16598027.0
+50668.0,13497.0,1042729,mercantile bank corp,true,false,false,false,20180529,price michael h,141588918000841,,male,16598027.0
+21043.0,,1042729,mercantile bank corp,true,false,false,false,20180529,grant edward b,141588918000839,,male,16598027.0
+10533.0,,1042729,mercantile bank corp,true,false,false,false,20180529,eldridge michelle larabee,141588918000837,,female,16598027.0
+48996.0,2535.0,1042729,mercantile bank corp,true,false,false,false,20180529,clark edward j,141588918000835,,male,16598027.0
+25915.295,,1042729,mercantile bank corp,true,false,false,false,20180529,cassard david m,141588918000833,,male,16598027.0
+47668.0,13497.0,1042729,mercantile bank corp,true,false,false,false,20180601,price michael h,141588918000862,,male,16598027.0
+15947.0,43774.0,1042729,mercantile bank corp,true,false,false,false,20181109,sullivan thomas r,141588918001605,,male,16594290.0
+5000.0,27211.0,1042729,mercantile bank corp,false,true,false,false,20181123,wiersma lonna,141588918001678,"SVP, HUMAN RESOURCES DIRECTOR",female,16594290.0
+39426.0,25208.071,1042729,mercantile bank corp,true,true,false,false,20181128,kaminski robert b,141588918001690,"PRESIDENT, CEO",male,16594290.0
+17435.0,43774.0,1042729,mercantile bank corp,true,false,false,false,20181128,sullivan thomas r,141588918001692,,male,16594290.0
+7978.0,27211.0,1042729,mercantile bank corp,false,true,false,false,20181203,wiersma lonna,141588918001711,"SVP, HUMAN RESOURCES DIRECTOR",female,16594290.0
+15119.0,10549.0,1042729,mercantile bank corp,false,true,false,false,20181203,reitsma raymond e.,141588918001713,PRESIDENT OF MERCANTILE BANK,male,16594290.0
+47267.0,25208.071,1042729,mercantile bank corp,true,true,false,false,20181203,kaminski robert b,141588918001715,"PRESIDENT, CEO",male,16594290.0
+50935.0,13791.0,1042729,mercantile bank corp,true,false,false,false,20181203,price michael h,141588918001717,,male,16594290.0
+12268.0,15571.0,1042729,mercantile bank corp,false,true,false,false,20181203,worthington robert t.,141588918001719,"COO, SECRETARY, SVP, AND GC",male,16594290.0
+36813.0,36822.0,1042729,mercantile bank corp,false,true,false,false,20181203,christmas charles e,141588918001721,EVP AND CFO,male,16594290.0
+19043.0,,1042729,mercantile bank corp,true,false,false,false,20190128,grant edward b,141588919000097,,male,16534256.0
+27702.0,,1042729,mercantile bank corp,true,false,false,false,20190528,cassard david m,141588919000609,,male,16422967.0
+20139.0,,1042729,mercantile bank corp,true,false,false,false,20190528,grant edward b,141588919000607,,male,16422967.0
+5636.0,5850.0,1042729,mercantile bank corp,true,false,false,false,20190528,eldridge michelle larabee,141588919000605,,female,16422967.0
+52206.0,14266.0,1042729,mercantile bank corp,true,false,false,false,20190528,price michael h,141588919000603,,male,16422967.0
+18187.0,86364.0,1042729,mercantile bank corp,true,false,false,false,20190528,gardner jeff a,141588919000601,,male,16422967.0
+51446.0,2535.0,1042729,mercantile bank corp,true,false,false,false,20190528,clark edward j,141588919000599,,male,16422967.0
+53259.0,14571.0,1042729,mercantile bank corp,true,false,false,false,20191024,price michael h,141588919001226,,male,16332660.0
+8163.0,27211.0,1042729,mercantile bank corp,false,true,false,false,20191121,wiersma lonna,141588919001360,"SVP, HUMAN RESOURCES DIRECTOR",female,16336221.0
+12346.0,16451.0,1042729,mercantile bank corp,false,true,false,false,20191121,worthington robert t.,141588919001355,"COO, SECRETARY, SVP, AND GC",male,16336221.0
+53963.0,27297.131,1042729,mercantile bank corp,true,true,false,false,20191121,kaminski robert b,141588919001352,"PRESIDENT, CEO",male,16336221.0
+20584.0,12291.236,1042729,mercantile bank corp,false,true,false,false,20191125,reitsma raymond e.,141588919001402,PRESIDENT OF MERCANTILE BANK,male,16336221.0
+41593.0,39404.0,1042729,mercantile bank corp,false,true,false,false,20191125,christmas charles e,141588919001404,EVP AND CFO,male,16336221.0
+45259.0,15050.0,1042729,mercantile bank corp,true,false,false,false,20200428,price michael h,141588920001084,,male,16205207.0
+5736.0,,1042729,mercantile bank corp,true,false,false,false,20200511,eldridge michelle larabee,141588920001162,,female,16206062.0
+29381.0,,1042729,mercantile bank corp,true,false,false,false,20200603,cassard david m,141588920001499,,male,16206062.0
+53686.0,2535.0,1042729,mercantile bank corp,true,false,false,false,20200603,clark edward j,141588920001497,,male,16206062.0
+47123.0,15050.0,1042729,mercantile bank corp,true,false,false,false,20200603,price michael h,141588920001495,,male,16206062.0
+20237.0,86364.0,1042729,mercantile bank corp,true,false,false,false,20200603,gardner jeff a,141588920001491,,male,16206062.0
+7273.0,6750.0,1042729,mercantile bank corp,true,false,false,false,20200603,eldridge michelle larabee,141588920001493,,female,16206062.0
+4893.0,,1042729,mercantile bank corp,true,false,false,false,20200831,davenport michael s.,141588920002194,,male,16231049.0
+1034.0,,1042729,mercantile bank corp,true,false,false,false,20200831,ramaker david b,141588920002196,,male,16231049.0
+8846.0,17671.0,1042729,mercantile bank corp,false,true,false,false,20201203,worthington robert t.,141588920002807,"COO, SECRETARY, SVP, AND GC",male,16233596.0
+7377.0,22421.0,1042729,mercantile bank corp,false,true,false,false,20201203,wiersma lonna,141588920002805,"SVP, HUMAN RESOURCES DIRECTOR",female,16233596.0
+52249.0,29426.53,1042729,mercantile bank corp,true,true,false,false,20201203,kaminski robert b,141588920002801,"PRESIDENT, CEO",male,16233596.0
+8779.0,17906.0,1042729,mercantile bank corp,false,true,false,false,20201221,worthington robert t.,141588920002998,"COO, SECRETARY, SVP, AND GC",male,16233596.0
+21817.0,20858.0,1042729,mercantile bank corp,false,true,false,false,20201221,reitsma raymond e.,141588920003009,EXECUTIVE VICE PRESIDENT,male,16233596.0
+7561.0,22421.0,1042729,mercantile bank corp,false,true,false,false,20201221,wiersma lonna,141588920003002,"SVP, HUMAN RESOURCES DIRECTOR",female,16233596.0
+53476.0,29447.25,1042729,mercantile bank corp,true,true,false,false,20201221,kaminski robert b,141588920003004,"PRESIDENT, CEO",male,16233596.0
+41920.0,41869.0,1042729,mercantile bank corp,false,true,false,false,20201221,christmas charles e,141588920003000,EVP AND CFO,male,16233596.0
+43179.0,15590.0,1042729,mercantile bank corp,true,false,false,false,20210309,price michael h,141588921001384,,male,16330476.0
+7200.0,22421.0,1042729,mercantile bank corp,false,true,false,false,20210315,wiersma lonna,141588921001478,"SVP, HUMAN RESOURCES DIRECTOR",female,16330476.0
+8320.0,6750.0,1042729,mercantile bank corp,true,false,false,false,20210603,eldridge michelle larabee,141588921002781,,female,16158431.0
+1954.0,,1042729,mercantile bank corp,true,false,false,false,20210603,ramaker david b,141588921002784,,male,16158431.0
+22164.0,86364.0,1042729,mercantile bank corp,true,false,false,false,20210603,gardner jeff a,141588921002786,,male,16158431.0
+31092.0,,1042729,mercantile bank corp,true,false,false,false,20210603,cassard david m,141588921002801,,male,16158431.0
+5893.0,,1042729,mercantile bank corp,true,false,false,false,20210603,davenport michael s.,141588921002796,,male,16158431.0
+44481.0,15590.0,1042729,mercantile bank corp,true,false,false,false,20210603,price michael h,141588921002790,,male,16158431.0
+22005.0,,1042729,mercantile bank corp,false,true,false,false,20210607,worthington robert t.,141588921002829,"COO, SECRETARY, SVP, AND GC",male,16158431.0
+43920.0,43392.0,1042729,mercantile bank corp,false,true,false,false,20210826,christmas charles e,141588921004104,EVP AND CFO,male,15892819.0
+2000.0,22934.952,1042729,mercantile bank corp,false,true,false,false,20211109,wiersma lonna,141588921005122,"SVP, HUMAN RESOURCES DIRECTOR",female,15670645.0
+28152.0,21940.0,1042729,mercantile bank corp,false,true,false,false,20211220,reitsma raymond e.,141588921006126,EXECUTIVE VICE PRESIDENT,male,15670645.0
+10274.0,23131.0,1042729,mercantile bank corp,false,true,false,false,20211220,worthington robert t.,141588921006128,"COO, SECRETARY, SVP, AND GC",male,15670645.0
+63499.0,31512.0,1042729,mercantile bank corp,true,true,false,false,20211220,kaminski robert b,141588921006132,"PRESIDENT, CEO",male,15670645.0
+48770.0,44323.0,1042729,mercantile bank corp,false,true,false,false,20211220,christmas charles e,141588921006130,EVP AND CFO,male,15670645.0
+82549.0,31528.0,1042729,mercantile bank corp,true,true,false,false,20220103,kaminski robert b,141588922000062,"PRESIDENT, CEO",male,15839944.0
+41109.0,21940.0,1042729,mercantile bank corp,false,true,false,false,20220103,reitsma raymond e.,141588922000070,EXECUTIVE VICE PRESIDENT,male,15839944.0
+17059.0,23167.0,1042729,mercantile bank corp,false,true,false,false,20220103,worthington robert t.,141588922000068,"COO, SECRETARY, SVP, AND GC",male,15839944.0
+14233.0,25137.0,1042729,mercantile bank corp,false,true,false,false,20220103,wiersma lonna,141588922000066,"SVP, HUMAN RESOURCES DIRECTOR",female,15839944.0
+60648.0,44334.0,1042729,mercantile bank corp,false,true,false,false,20220103,christmas charles e,141588922000064,EVP AND CFO,male,15839944.0
+14059.0,23259.0,1042729,mercantile bank corp,false,true,false,false,20220125,worthington robert t.,141588922000756,"SVP, CRO, SECRETARY, AND GC",male,15839944.0
+0.0,23123.0,1042729,mercantile bank corp,false,true,false,false,20220126,wiersma lonna,141588922000789,"SVP, HUMAN RESOURCES DIRECTOR",female,15839944.0
+82878.0,31551.0,1042729,mercantile bank corp,true,true,false,false,20220127,kaminski robert b,141588922000806,"PRESIDENT, CEO",male,15839944.0
+43889.0,16125.0,1042729,mercantile bank corp,true,false,false,false,20220127,price michael h,141588922000808,,male,15839944.0
+61648.0,44338.0,1042729,mercantile bank corp,false,true,false,false,20220127,christmas charles e,141588922000810,EVP AND CFO,male,15839944.0
+11281.0,23123.0,1042729,mercantile bank corp,false,true,false,false,20220218,wiersma lonna,141588922001576,"SVP, HUMAN RESOURCES DIRECTOR",female,15839944.0
+59468.0,44398.0,1042729,mercantile bank corp,false,true,false,false,20220218,christmas charles e,141588922001578,EVP AND CFO,male,15839944.0
+38951.0,21927.0,1042729,mercantile bank corp,false,true,false,false,20220218,reitsma raymond e.,141588922001584,EXECUTIVE VICE PRESIDENT,male,15839944.0
+79652.0,31629.0,1042729,mercantile bank corp,true,true,false,false,20220218,kaminski robert b,141588922001586,"PRESIDENT, CEO",male,15839944.0
+9709.0,23359.0,1042729,mercantile bank corp,false,true,false,false,20220218,worthington robert t.,141588922001591,"SVP, CRO, SECRETARY, AND GC",male,15839944.0
+15768.0,23123.0,1042729,mercantile bank corp,false,true,false,false,20220304,wiersma lonna,141588922002566,"SVP, HUMAN RESOURCES DIRECTOR",female,15839944.0
+1974.0,,1042729,mercantile bank corp,true,false,false,false,20220527,ramaker david b,141588922005843,,male,15843442.0
+9986.0,,1042729,mercantile bank corp,true,false,false,false,20220527,eldridge michelle larabee,141588922005839,,female,15843442.0
+5476.0,,1042729,mercantile bank corp,true,false,false,false,20220527,davenport michael s.,141588922005840,,male,15843442.0
+14808.0,,1042729,mercantile bank corp,true,false,false,false,20220527,gardner jeff a,141588922005841,,male,15843442.0
+21554.0,,1042729,mercantile bank corp,true,false,false,false,20220527,cassard david m,141588922005842,,male,15843442.0
+45329.0,,1042729,mercantile bank corp,true,false,false,false,20220527,price michael h,141588922005844,,male,15843442.0
+5894.0,,1042729,mercantile bank corp,true,false,false,false,20220822,ramaker david b,141588922008927,,male,15861082.0
+65004.0,45985.0,1042729,mercantile bank corp,false,true,false,false,20221219,christmas charles e,141588922012686,EVP AND CFO,male,15866185.0
+91058.0,32459.0,1042729,mercantile bank corp,true,true,false,false,20221219,kaminski robert b,141588922012690,"PRESIDENT, CEO",male,15866185.0
+46502.0,22501.0,1042729,mercantile bank corp,false,true,false,false,20221219,reitsma raymond e.,141588922012695,EXECUTIVE VICE PRESIDENT,male,15866185.0
+11328.0,24970.0,1042729,mercantile bank corp,false,true,false,false,20221219,worthington robert t.,141588922012698,"SVP, CRO, SECRETARY, AND GC",male,15866185.0
+12499.0,25006.0,1042729,mercantile bank corp,false,true,false,false,20221230,worthington robert t.,141588922013099,"SVP, CRO, SECRETARY, AND GC",male,15866185.0
+50603.0,22699.0,1042729,mercantile bank corp,false,true,false,false,20221230,reitsma raymond e.,141588922013094,EXECUTIVE VICE PRESIDENT,male,15866185.0
+68213.0,46439.0,1042729,mercantile bank corp,false,true,false,false,20221230,christmas charles e,141588922013097,EVP AND CFO,male,15866185.0
+97397.0,32774.0,1042729,mercantile bank corp,true,true,false,false,20221230,kaminski robert b,141588922013092,"PRESIDENT, CEO",male,15866185.0
+7394.0,,1042729,mercantile bank corp,true,false,false,false,20230120,ramaker david b,141588923001280,,male,15994884.0
+66092.0,46494.0,1042729,mercantile bank corp,false,true,false,false,20230221,christmas charles e,141588923002866,EVP AND CFO,male,15994884.0
+8815.0,25155.0,1042729,mercantile bank corp,false,true,false,false,20230221,worthington robert t.,141588923002875,"SVP, CRO, SECRETARY, AND GC",male,15994884.0
+93806.0,32774.0,1042729,mercantile bank corp,true,true,false,false,20230221,kaminski robert b,141588923002883,"PRESIDENT, CEO",male,15994884.0
+47104.0,22699.0,1042729,mercantile bank corp,false,true,false,false,20230221,reitsma raymond e.,141588923002892,EXECUTIVE VICE PRESIDENT,male,15994884.0
+10394.0,,1042729,mercantile bank corp,true,false,false,false,20230424,ramaker david b,141588923006803,,male,16001448.0
+34485.0,,1042729,mercantile bank corp,true,false,false,false,20230615,cassard david m,141588923009828,,male,15999388.0
+10519.0,6750.0,1042729,mercantile bank corp,true,false,false,false,20230615,eldridge michelle larabee,141588923009834,,female,15999388.0
+6378.0,1800.0,1042729,mercantile bank corp,true,false,false,false,20230615,davenport michael s.,141588923009838,,male,15999388.0
+11470.0,,1042729,mercantile bank corp,true,false,false,false,20230615,ramaker david b,141588923009842,,male,15999388.0
+36080.0,29923.0,1042729,mercantile bank corp,true,false,false,false,20230615,price michael h,141588923009853,,male,15999388.0
+30080.0,30543.0,1042729,mercantile bank corp,true,false,false,false,20230728,price michael h,141588923011579,,male,16018048.0
+3047.0,,1042729,mercantile bank corp,true,false,false,false,20231016,sparks amy l,141588923014304,,female,16023350.0
+10152.0,26169.0,1042729,mercantile bank corp,false,true,false,false,20231218,worthington robert t.,141588923016643,"SVP, CRO, SECRETARY, AND GC",male,16024557.0
+54964.0,23708.0,1042729,mercantile bank corp,true,true,false,false,20231218,reitsma raymond e.,141588923016647,EXECUTIVE VICE PRESIDENT,male,16024557.0
+70733.0,48426.0,1042729,mercantile bank corp,false,true,false,false,20231218,christmas charles e,141588923016649,EVP AND CFO,male,16024557.0
+102473.0,33735.0,1042729,mercantile bank corp,true,true,false,false,20231218,kaminski robert b,141588923016650,"PRESIDENT, CEO",male,16024557.0
+13975.0,971.0,1042729,mercantile bank corp,false,true,false,false,20231218,hoover brett,141588923016652,"SVP, HUMAN RESOURCES DIRECTOR",male,16024557.0
+50037.0,23878.0,1042729,mercantile bank corp,true,true,false,false,20240220,reitsma raymond e.,141588924004353,EXECUTIVE VICE PRESIDENT,male,16125662.0
+67120.0,48888.0,1042729,mercantile bank corp,false,true,false,false,20240220,christmas charles e,141588924004349,EVP AND CFO,male,16125662.0
+94723.0,34001.0,1042729,mercantile bank corp,true,true,false,false,20240220,kaminski robert b,141588924004346,"PRESIDENT, CEO",male,16125662.0
+1639.0,,1042729,mercantile bank corp,true,false,false,false,20240312,sanchez nelson f,141588924007646,,male,16125662.0
+1265.0,485.0,1042729,mercantile bank corp,true,false,false,false,20240313,sanchez nelson f,141588924007855,,male,16125662.0
+9745.0,6750.0,1042729,mercantile bank corp,true,false,false,false,20240509,eldridge michelle larabee,141588924012720,,female,16120758.0
+755.0,,1042729,mercantile bank corp,true,false,false,false,20240610,sanchez nelson f,141588924016233,,male,16120758.0
+1032.0,,1042729,mercantile bank corp,true,false,false,false,20240612,sanchez nelson f,141588924016503,,male,16120758.0
+4279.0,,1042729,mercantile bank corp,true,false,false,false,20240624,sparks amy l,141588924018061,,female,16120758.0
+31556.0,31690.0,1042729,mercantile bank corp,true,false,false,false,20240624,price michael h,141588924018059,,male,16120758.0
+10863.0,6750.0,1042729,mercantile bank corp,true,false,false,false,20240624,eldridge michelle larabee,141588924018055,,female,16120758.0
+7507.0,1800.0,1042729,mercantile bank corp,true,false,false,false,20240624,davenport michael s.,141588924018053,,male,16120758.0
+95730.0,34001.0,1042729,mercantile bank corp,true,false,false,false,20240624,kaminski robert b,141588924018051,,male,16120758.0
+2272.0,1032.0,1042729,mercantile bank corp,true,false,false,false,20240624,sanchez nelson f,141588924018049,,male,16120758.0
+12568.0,,1042729,mercantile bank corp,true,false,false,false,20240624,ramaker david b,141588924018057,,male,16120758.0
+95480.0,34001.0,1042729,mercantile bank corp,true,false,false,false,20240703,kaminski robert b,141588924019242,,male,16137646.0
+26556.0,31681.0,1042729,mercantile bank corp,true,false,false,false,20240722,price michael h,141588924019882,,male,16137646.0
+29610.0,,1042729,mercantile bank corp,true,false,false,false,20240722,kaminski robert b,141588924019884,,male,16137646.0
+95230.0,29610.0,1042729,mercantile bank corp,true,false,false,false,20240805,kaminski robert b,141588924020787,,male,16137666.0
+21556.0,31681.0,1042729,mercantile bank corp,true,false,false,false,20240827,price michael h,141588924022317,,male,16137666.0
+94980.0,29610.0,1042729,mercantile bank corp,true,false,false,false,20240904,kaminski robert b,141588924022807,,male,16137666.0
+94730.0,29610.0,1042729,mercantile bank corp,true,false,false,false,20241003,kaminski robert b,141588924024663,,male,16142433.0
+94480.0,29610.0,1042729,mercantile bank corp,true,false,false,false,20241105,kaminski robert b,141588924026174,,male,16141929.0
+87480.0,29610.0,1042729,mercantile bank corp,true,false,false,false,20241106,kaminski robert b,141588924026261,,male,16141929.0
+25610.0,,1042729,mercantile bank corp,true,false,false,false,20241115,kaminski robert b,141588924026978,,male,16141929.0
+19810.0,,1042729,mercantile bank corp,true,false,false,false,20241127,kaminski robert b,141588924027842,,male,16141929.0
+87230.0,19810.0,1042729,mercantile bank corp,true,false,false,false,20241203,kaminski robert b,141588924028187,,male,16141929.0
+17795.0,8608.0,1042729,mercantile bank corp,false,true,false,false,20241219,setlock scott p,141588924029873,"EVP, COO, & SECRETARY",male,16141929.0

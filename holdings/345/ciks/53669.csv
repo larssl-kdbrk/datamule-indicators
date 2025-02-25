@@ -1,345 +1,416 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-171852.652,1661.49,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100105,davis susan f,120503510000001,Executive Vice President,female,0.0
-64657.0,36674.191,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100105,okarma jerome d,120504010000001,"VP, Secretary & Gen. Counsel",male,0.0
-53666.0,43769.527,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100105,molinaroli alex a,129296010000001,Vice President,male,0.0
-761247.0,33316.37,53669,johnson controls inc,1.0,1.0,0.0,0.0,20100106,roell stephen a,101228210000001,Chief Executive Officer,male,0.0
-72826.436,10540.624,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,edwards jeffrey s,129287810000001,Vice President,male,0.0
-36970.751,7373.215,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,harvey charles a,134488710000001,Vice President,male,0.0
-130517.0,7001.166,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,myers c david,119923710000001,Vice President,male,0.0
-12141.553,330.546,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,kreh susan m,139365710000001,Vice Pres. & Corp. Controller,female,0.0
-37298.0,43654.19,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100127,molinaroli alex a,129296010000003,Vice President,male,0.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,cornog robert a,120435110000001,,male,0.0
-9086.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,black natalie a,120503310000001,,female,0.0
-38287.397,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,morcott southwood j,118132810000001,,male,0.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,clariond eugenio,144927510000006,,male,0.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,lacy william h,104196710000001,,male,0.0
-0.0,12338.888,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,barnett robert l,144927510000005,,male,0.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,archer dennis w,144927510000004,,male,0.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,goodman richard,144927510000007,,male,0.0
-6656.0,2040.413,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,joerres jeffrey a,144927510000008,,male,0.0
-3943.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,abney david p,144927510000001,,male,0.0
-12185.357,336.13,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100203,kreh susan m,139365710000002,Vice Pres. & Corp. Controller,female,0.0
-37058.384,7368.268,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100203,harvey charles a,134488710000002,Vice President,male,0.0
-72829.941,10533.553,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100203,edwards jeffrey s,129287810000003,Vice President,male,0.0
-75.0,7131.413,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100209,myers c david,119923710000002,Vice President,male,0.0
-72833.071,10737.141,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100302,edwards jeffrey s,129287810000004,Vice President,male,0.0
-37136.633,7586.314,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100302,harvey charles a,134488710000003,Vice President,male,0.0
-12201.007,390.522,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100302,kreh susan m,139365710000003,Vice Pres. & Corp. Controller,female,0.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100405,cornog robert a,120435110000002,,male,672703016.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100405,clariond eugenio,144927510000009,,male,672703016.0
-72844.353,10766.955,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100407,edwards jeffrey s,129287810000005,Vice President,male,672703016.0
+53666.0,43769.527,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100105,molinaroli alex a,129296010000001,Vice President,male,
+64657.0,36674.191,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100105,okarma jerome d,120504010000001,"VP, Secretary & Gen. Counsel",male,
+171852.652,1661.49,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100105,davis susan f,120503510000001,Executive Vice President,female,
+36970.751,7373.215,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,harvey charles a,134488710000001,Vice President,male,
+72826.436,10540.624,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,edwards jeffrey s,129287810000001,Vice President,male,
+130517.0,7001.166,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,myers c david,119923710000001,Vice President,male,
+761247.0,33316.37,53669,johnson controls inc,1.0,1.0,0.0,0.0,20100106,roell stephen a,101228210000001,Chief Executive Officer,male,
+12141.553,330.546,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100106,kreh susan m,139365710000001,Vice Pres. & Corp. Controller,female,
+37298.0,43654.19,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100127,molinaroli alex a,129296010000003,Vice President,male,
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,lacy william h,104196710000001,,male,
+38287.397,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,morcott southwood j,118132810000001,,male,
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,cornog robert a,120435110000001,,male,
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,goodman richard,144927510000007,,male,
+9086.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,black natalie a,120503310000001,,female,
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,clariond eugenio,144927510000006,,male,
+,12338.888,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,barnett robert l,144927510000005,,male,
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,archer dennis w,144927510000004,,male,
+6656.0,2040.413,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,joerres jeffrey a,144927510000008,,male,
+3943.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100129,abney david p,144927510000001,,male,
+37058.384,7368.268,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100203,harvey charles a,134488710000002,Vice President,male,
+72829.941,10533.553,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100203,edwards jeffrey s,129287810000003,Vice President,male,
+12185.357,336.13,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100203,kreh susan m,139365710000002,Vice Pres. & Corp. Controller,female,
+75.0,7131.413,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100209,myers c david,119923710000002,Vice President,male,
+37136.633,7586.314,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100302,harvey charles a,134488710000003,Vice President,male,
+72833.071,10737.141,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100302,edwards jeffrey s,129287810000004,Vice President,male,
+12201.007,390.522,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100302,kreh susan m,139365710000003,Vice Pres. & Corp. Controller,female,
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100405,cornog robert a,120435110000002,,male,672703016.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100405,clariond eugenio,144927510000009,,male,672703016.0
 37292.633,7607.379,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100407,harvey charles a,134488710000004,Vice President,male,672703016.0
 12238.559,396.797,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100407,kreh susan m,139365710000004,Vice Pres. & Corp. Controller,female,672703016.0
-37292.633,7604.046,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100505,harvey charles a,134488710000005,Vice President,male,672703016.0
-12253.219,401.617,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100505,kreh susan m,139365710000005,Corporate Vice President,female,672703016.0
+72844.353,10766.955,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100407,edwards jeffrey s,129287810000005,Vice President,male,672703016.0
 72847.285,10762.238,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100505,edwards jeffrey s,129287810000006,Vice President,male,672703016.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100513,clariond eugenio,144927510000010,,male,672703016.0
+12253.219,401.617,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100505,kreh susan m,139365710000005,Corporate Vice President,female,672703016.0
+37292.633,7604.046,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100505,harvey charles a,134488710000005,Vice President,male,672703016.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100513,clariond eugenio,144927510000010,,male,672703016.0
 1302.609,786.154,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100517,boyd colin,144643610000001,Vice President,male,672703016.0
 37298.0,43894.755,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100527,molinaroli alex a,129296010000004,Vice President,male,672703016.0
 72850.826,10825.949,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100602,edwards jeffrey s,129287810000007,Vice President,male,672703016.0
-37454.452,7649.059,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100602,harvey charles a,134488710000006,Vice President,male,672703016.0
 12270.923,409.642,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100602,kreh susan m,139365710000006,Corporate Vice President,female,672703016.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100706,clariond eugenio,144927510000011,,male,673311804.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100706,cornog robert a,120435110000003,,male,673311804.0
+37454.452,7649.059,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100602,harvey charles a,134488710000006,Vice President,male,672703016.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100706,clariond eugenio,144927510000011,,male,673311804.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20100706,cornog robert a,120435110000003,,male,673311804.0
+12317.193,418.464,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100707,kreh susan m,139365710000007,Vice Pres. & Corp. Controller,female,673311804.0
 72864.807,10901.568,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100707,edwards jeffrey s,129287810000008,Vice President,male,673311804.0
 37648.134,7702.487,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100707,harvey charles a,134488710000007,Vice President,male,673311804.0
-12317.193,418.464,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100707,kreh susan m,139365710000007,Vice Pres. & Corp. Controller,female,673311804.0
 1958.821,1052.778,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100914,boyd colin,144643610000002,Vice President,male,673311804.0
 37298.0,44485.045,53669,johnson controls inc,0.0,1.0,0.0,0.0,20100914,molinaroli alex a,129296010000005,Vice President,male,673311804.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101004,clariond eugenio,144927510000013,,male,673311804.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101004,cornog robert a,120435110000004,,male,673311804.0
-0.0,7664.377,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,harvey charles a,134488710000008,Vice President,male,673311804.0
-0.0,33737.927,53669,johnson controls inc,1.0,1.0,0.0,0.0,20101005,roell stephen a,101228210000002,Chief Executive Officer,male,673311804.0
-1958.821,1047.063,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,boyd colin,144643610000003,Vice President,male,673311804.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,bolzenius beda,134488810000001,Vice President,male,673311804.0
-0.0,8112.224,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,myers c david,119923710000003,Vice President,male,673311804.0
-0.0,1924.121,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,davis susan f,120503510000002,Executive Vice President,female,673311804.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101004,clariond eugenio,144927510000013,,male,673311804.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101004,cornog robert a,120435110000004,,male,673311804.0
+,33737.927,53669,johnson controls inc,1.0,1.0,0.0,0.0,20101005,roell stephen a,101228210000002,Chief Executive Officer,male,673311804.0
+,7664.377,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,harvey charles a,134488710000008,Vice President,male,673311804.0
+,6556.807,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,voltolina frank a,104947710000001,Vice President and Treasurer,male,673311804.0
+,432.693,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,kreh susan m,139365710000008,Vice Pres. & Corp. Controller,female,673311804.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,stief brian j,149447810000004,VP & Corp. Controller,male,673311804.0
+,1924.121,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,davis susan f,120503510000002,Executive Vice President,female,673311804.0
 5228.0,1002.308,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,strayer jacqueline f,144593510000001,Vice President,female,673311804.0
-0.0,44243.555,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,molinaroli alex a,129296010000006,Vice President,male,673311804.0
-0.0,10847.632,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,edwards jeffrey s,129287810000009,Vice President,male,673311804.0
-0.0,432.693,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,kreh susan m,139365710000008,Vice Pres. & Corp. Controller,female,673311804.0
-0.0,274.489,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,augustin jeffrey g,132150410000003,Vice President,male,673311804.0
-0.0,16022.547,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,mcdonald r bruce,120769610000001,Exec Vice President & CFO,male,673311804.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,stief brian j,149447810000004,VP & Corp. Controller,male,673311804.0
-0.0,6556.807,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,voltolina frank a,104947710000001,Vice President and Treasurer,male,673311804.0
-0.0,37112.632,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,okarma jerome d,120504010000002,"VP, Secretary & Gen. Counsel",male,673311804.0
+,8112.224,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,myers c david,119923710000003,Vice President,male,673311804.0
+,16022.547,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,mcdonald r bruce,120769610000001,Exec Vice President & CFO,male,673311804.0
+,44243.555,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,molinaroli alex a,129296010000006,Vice President,male,673311804.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,bolzenius beda,134488810000001,Vice President,male,673311804.0
+,274.489,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,augustin jeffrey g,132150410000003,Vice President,male,673311804.0
+1958.821,1047.063,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,boyd colin,144643610000003,Vice President,male,673311804.0
+,10847.632,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,edwards jeffrey s,129287810000009,Vice President,male,673311804.0
+,37112.632,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101005,okarma jerome d,120504010000002,"VP, Secretary & Gen. Counsel",male,673311804.0
+,1921.893,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101101,davis susan f,120503510000003,Executive Vice President,female,674375572.0
 11700.0,274.154,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101101,augustin jeffrey g,132150410000004,Vice President,male,674375572.0
-0.0,1921.893,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101101,davis susan f,120503510000003,Executive Vice President,female,674375572.0
-136424.044,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101101,bolzenius beda,134488810000002,Vice President,male,674375572.0
+136424.044,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101101,bolzenius beda,134488810000002,Vice President,male,674375572.0
 7964.354,1045.578,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101101,boyd colin,144643610000005,Vice President,male,674375572.0
-49682.1,6548.917,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,voltolina frank a,104947710000002,Vice President and Treasurer,male,674375572.0
 37284.329,7655.472,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,harvey charles a,134488710000009,Vice President,male,674375572.0
-0.0,44192.405,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,molinaroli alex a,129296010000007,Vice President,male,674375572.0
-17594.027,432.142,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,kreh susan m,139365710000009,Vice President,female,674375572.0
-7500.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,stief brian j,149447810000005,Vice Pres. & Corp. Controller,male,674375572.0
+49682.1,6548.917,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,voltolina frank a,104947710000002,Vice President and Treasurer,male,674375572.0
 154592.0,8102.681,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,myers c david,119923710000004,Vice President,male,674375572.0
-153061.0,16003.925,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,mcdonald r bruce,120769610000002,Exec Vice President & CFO,male,674375572.0
 8428.0,1000.813,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,strayer jacqueline f,144593510000003,Vice President,female,674375572.0
-0.0,33698.917,53669,johnson controls inc,1.0,1.0,0.0,0.0,20101103,roell stephen a,101228210000004,Chief Executive Officer,male,674375572.0
+7500.0,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,stief brian j,149447810000005,Vice Pres. & Corp. Controller,male,674375572.0
+17594.027,432.142,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,kreh susan m,139365710000009,Vice President,female,674375572.0
+153061.0,16003.925,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,mcdonald r bruce,120769610000002,Exec Vice President & CFO,male,674375572.0
+,44192.405,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101102,molinaroli alex a,129296010000007,Vice President,male,674375572.0
 74520.18,10835.032,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101103,edwards jeffrey s,129287810000010,Vice President,male,674375572.0
+,33698.917,53669,johnson controls inc,1.0,1.0,0.0,0.0,20101103,roell stephen a,101228210000004,Chief Executive Officer,male,674375572.0
 64657.0,37069.728,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101103,okarma jerome d,120504010000003,"VP, Secretary & Gen. Counsel",male,674375572.0
 153061.0,15995.7,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101105,mcdonald r bruce,120769610000003,Exec Vice President & CFO,male,674375572.0
 757447.0,33653.302,53669,johnson controls inc,1.0,1.0,0.0,0.0,20101112,roell stephen a,101228210000005,Chief Executive Officer,male,674375572.0
-25000.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101124,morcott southwood j,118132810000002,,male,674375572.0
-25000.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101126,morcott southwood j,118132810000003,,male,674375572.0
+25000.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101124,morcott southwood j,118132810000002,,male,674375572.0
+25000.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20101126,morcott southwood j,118132810000003,,male,674375572.0
 63862.0,37042.443,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101208,okarma jerome d,120504010000004,"VP, Secretary & Gen. Counsel",male,674375572.0
-0.0,998.612,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,strayer jacqueline f,144593510000005,Vice President,female,674375572.0
-0.0,44095.209,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,molinaroli alex a,129296010000008,Vice President,male,674375572.0
-0.0,273.551,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,augustin jeffrey g,132150410000005,Vice President,male,674375572.0
-0.0,1043.278,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,boyd colin,144643610000006,Vice President,male,674375572.0
+,273.551,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,augustin jeffrey g,132150410000005,Vice President,male,674375572.0
+,44095.209,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,molinaroli alex a,129296010000008,Vice President,male,674375572.0
+,998.612,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,strayer jacqueline f,144593510000005,Vice President,female,674375572.0
+,1043.278,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,boyd colin,144643610000006,Vice President,male,674375572.0
 151521.0,15968.727,53669,johnson controls inc,0.0,1.0,0.0,0.0,20101213,mcdonald r bruce,120769610000004,Exec Vice President & CFO,male,674375572.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,lacy william h,104196711000001,,male,677346824.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,lacy william h,104196711000001,,male,677346824.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,archer dennis w,144927511000002,,male,677346824.0
+6775.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,abney david p,144927511000001,,male,677346824.0
 9488.0,2075.313,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,joerres jeffrey a,144927511000006,,male,677346824.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,clariond eugenio,144927511000005,,male,677346824.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,goodman richard,144927511000004,,male,677346824.0
-11918.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,black natalie a,120503311000001,,female,677346824.0
-0.0,12551.255,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,barnett robert l,144927511000003,,male,677346824.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,archer dennis w,144927511000002,,male,677346824.0
-6775.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,abney david p,144927511000001,,male,677346824.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,cornog robert a,120435111000001,,male,677346824.0
-20713.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,morcott southwood j,118132811000001,,male,677346824.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,clariond eugenio,144927511000005,,male,677346824.0
+,12551.255,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,barnett robert l,144927511000003,,male,677346824.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,cornog robert a,120435111000001,,male,677346824.0
+20713.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,morcott southwood j,118132811000001,,male,677346824.0
+11918.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,black natalie a,120503311000001,,female,677346824.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110128,goodman richard,144927511000004,,male,677346824.0
 63862.0,37283.261,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110309,okarma jerome d,120504011000001,"VP, Secretary & Gen. Counsel",male,677346824.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110405,clariond eugenio,144927511000008,,male,678449119.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110405,cornog robert a,120435111000002,,male,678449119.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110405,cornog robert a,120435111000002,,male,678449119.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110405,clariond eugenio,144927511000008,,male,678449119.0
 101521.0,16044.789,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110429,mcdonald r bruce,120769611000001,Exec Vice President & CFO,male,678449119.0
 171864.934,2192.29,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110510,davis susan f,120503511000001,Executive Vice President,female,678449119.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110706,cornog robert a,120435111000003,,male,679738648.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110706,clariond eugenio,144927511000009,,male,679738648.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110706,clariond eugenio,144927511000009,,male,679738648.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20110706,cornog robert a,120435111000003,,male,679738648.0
+134898.853,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110802,bolzenius beda,134488811000001,Vice President,male,679738648.0
 168551.195,2207.583,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110802,davis susan f,120503511000002,Executive Vice President,female,679738648.0
 754882.0,34320.87,53669,johnson controls inc,1.0,1.0,0.0,0.0,20110802,roell stephen a,101228211000001,Chief Executive Officer,male,679738648.0
-134898.853,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110802,bolzenius beda,134488811000001,Vice President,male,679738648.0
 168551.0,2207.583,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110808,davis susan f,120503511000003,Executive Vice President,female,679738648.0
 32250.0,45315.863,53669,johnson controls inc,0.0,1.0,0.0,0.0,20110912,molinaroli alex a,129296011000001,Vice President,male,679738648.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20111005,cornog robert a,120435111000004,,male,679738648.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20111005,clariond eugenio,119038811000001,,male,679738648.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,bolzenius beda,134488811000002,Vice President,male,679738648.0
-0.0,16374.911,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,mcdonald r bruce,120769611000002,Exec Vice President & CFO,male,679738648.0
-0.0,45661.357,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,molinaroli alex a,129296011000002,Vice President,male,679738648.0
-0.0,8132.792,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,harvey charles a,134488711000001,Vice President,male,679738648.0
-13898.908,2044.709,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,boyd colin,144643611000001,Vice President,male,679738648.0
-21964.338,528.216,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,kreh susan m,139365711000001,Vice President,female,679738648.0
-10935.44,2018.959,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,strayer jacqueline f,144593511000001,Vice President,female,679738648.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20111005,cornog robert a,120435111000004,,male,679738648.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20111005,clariond eugenio,119038811000001,,male,679738648.0
+,2243.743,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,davis susan f,120503511000004,Executive Vice President,female,679738648.0
 176592.0,9206.094,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,myers c david,119923711000001,Vice President,male,679738648.0
 79475.369,11398.598,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,edwards jeffrey s,129287811000001,Vice President,male,679738648.0
+,38345.382,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,okarma jerome d,120504011000002,"VP, Secretary & Gen. Counsel",male,679738648.0
+,16374.911,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,mcdonald r bruce,120769611000002,Exec Vice President & CFO,male,679738648.0
+,7029.48,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,voltolina frank a,104947711000001,Vice President and Treasurer,male,679738648.0
+,45661.357,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,molinaroli alex a,129296011000002,Vice President,male,679738648.0
+10935.44,2018.959,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,strayer jacqueline f,144593511000001,Vice President,female,679738648.0
+21964.338,528.216,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,kreh susan m,139365711000001,Vice President,female,679738648.0
+,34883.081,53669,johnson controls inc,1.0,1.0,0.0,0.0,20111011,roell stephen a,101228211000002,Chief Executive Officer,male,679738648.0
+13898.908,2044.709,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,boyd colin,144643611000001,Vice President,male,679738648.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,bolzenius beda,134488811000002,Vice President,male,679738648.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,jackson william c,152275011000003,"EVP, Operations and Innovation",male,679738648.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,stief brian j,149447811000001,Vice Pres. & Corp. Controller,male,679738648.0
 15800.0,281.547,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,augustin jeffrey g,132150411000001,Vice President,male,679738648.0
-0.0,34883.081,53669,johnson controls inc,1.0,1.0,0.0,0.0,20111011,roell stephen a,101228211000002,Chief Executive Officer,male,679738648.0
-0.0,2243.743,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,davis susan f,120503511000004,Executive Vice President,female,679738648.0
-0.0,38345.382,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,okarma jerome d,120504011000002,"VP, Secretary & Gen. Counsel",male,679738648.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,stief brian j,149447811000001,Vice Pres. & Corp. Controller,male,679738648.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,jackson william c,152275011000003,"EVP, Operations and Innovation",male,679738648.0
-0.0,7029.48,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,voltolina frank a,104947711000001,Vice President and Treasurer,male,679738648.0
-74630.476,11312.328,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,edwards jeffrey s,129287811000003,Vice President,male,680381571.0
-167614.0,9136.266,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,myers c david,119923711000002,Vice President,male,680381571.0
-23942.0,45316.036,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,molinaroli alex a,129296011000003,Vice President,male,680381571.0
-58226.0,38055.39,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,okarma jerome d,120504011000003,"VP, Secretary & Gen. Counsel",male,680381571.0
+,8132.792,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111011,harvey charles a,134488711000001,Vice President,male,679738648.0
 15800.0,279.4,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,augustin jeffrey g,132150411000002,Vice President,male,680381571.0
-168551.0,2226.772,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,davis susan f,120503511000005,Executive Vice President,female,680381571.0
+23942.0,45316.036,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,molinaroli alex a,129296011000003,Vice President,male,680381571.0
 21980.187,524.188,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,kreh susan m,139365711000003,Vice President,female,680381571.0
 101521.0,16313.517,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,mcdonald r bruce,139365711000002,Exec Vice President & CFO,male,680381571.0
-49237.64,6674.825,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,voltolina frank a,104947711000002,Vice President and Treasurer,male,680381571.0
-124662.396,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,bolzenius beda,134488811000003,Vice President,male,680381571.0
-10210.44,1916.949,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,strayer jacqueline f,144593511000002,Vice President,female,680381571.0
 724930.0,34619.266,53669,johnson controls inc,1.0,1.0,0.0,0.0,20111103,roell stephen a,101228211000003,Chief Executive Officer,male,680381571.0
+58226.0,38055.39,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,okarma jerome d,120504011000003,"VP, Secretary & Gen. Counsel",male,680381571.0
+10210.44,1916.949,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,strayer jacqueline f,144593511000002,Vice President,female,680381571.0
+167614.0,9136.266,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,myers c david,119923711000002,Vice President,male,680381571.0
+168551.0,2226.772,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,davis susan f,120503511000005,Executive Vice President,female,680381571.0
+49237.64,6674.825,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,voltolina frank a,104947711000002,Vice President and Treasurer,male,680381571.0
+124662.396,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,bolzenius beda,134488811000003,Vice President,male,680381571.0
 37033.616,8071.24,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,harvey charles a,134488711000002,Vice President,male,680381571.0
+74630.476,11312.328,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111103,edwards jeffrey s,129287811000003,Vice President,male,680381571.0
 679882.0,34619.266,53669,johnson controls inc,1.0,1.0,0.0,0.0,20111109,roell stephen a,101228211000004,Chief Executive Officer,male,680381571.0
 675032.0,34665.449,53669,johnson controls inc,1.0,1.0,0.0,0.0,20111128,roell stephen a,101228211000007,Chief Executive Officer,male,680381571.0
+,2032.659,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,boyd colin,144643611000002,Vice President,male,680381571.0
+,45399.691,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,molinaroli alex a,129296011000004,Vice President,male,680381571.0
 98971.0,16343.632,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,mcdonald r bruce,120769611000003,Exec Vice President & CFO,male,680381571.0
-0.0,2032.659,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,boyd colin,144643611000002,Vice President,male,680381571.0
-0.0,279.916,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,augustin jeffrey g,132150411000003,Vice President,male,680381571.0
-0.0,45399.691,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,molinaroli alex a,129296011000004,Vice President,male,680381571.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,abney david p,144927512000001,,male,680446203.0
-3570.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,vergnano mark p,147410712000002,,male,680446203.0
-16867.564,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,barnett robert l,144927512000005,,male,680446203.0
-0.0,2116.234,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,joerres jeffrey a,144927512000006,,male,680446203.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,goodman richard,144927512000008,,male,680446203.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,archer dennis w,118555712000002,,male,680446203.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,lacy william h,104196712000001,,male,680446203.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,clariond eugenio,119038812000002,,male,680446203.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,cornog robert a,120435112000002,,male,680446203.0
-15990.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,black natalie a,144927512000004,,female,680446203.0
+,279.916,53669,johnson controls inc,0.0,1.0,0.0,0.0,20111213,augustin jeffrey g,132150411000003,Vice President,male,680381571.0
+16867.564,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,barnett robert l,144927512000005,,male,680446203.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,cornog robert a,120435112000002,,male,680446203.0
+3570.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,vergnano mark p,147410712000002,,male,680446203.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,lacy william h,104196712000001,,male,680446203.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,clariond eugenio,119038812000002,,male,680446203.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,archer dennis w,118555712000002,,male,680446203.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,abney david p,144927512000001,,male,680446203.0
+15990.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,black natalie a,144927512000004,,female,680446203.0
+,2116.234,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,joerres jeffrey a,144927512000006,,male,680446203.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120127,goodman richard,144927512000008,,male,680446203.0
 12664.98,2817.812,53669,johnson controls inc,0.0,1.0,0.0,0.0,20120404,strayer jacqueline f,144593512000002,Vice President,female,680200626.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120404,cornog robert a,120435112000003,,male,680200626.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120404,clariond eugenio,119038812000003,,male,680200626.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120404,abney david p,144927512000009,,male,680200626.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120529,cornog robert a,120435112000005,,male,680200626.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120703,cornog robert a,120435112000006,,male,683909056.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120703,abney david p,144927512000011,,male,683909056.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120703,clariond eugenio,119038812000004,,male,683909056.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120404,cornog robert a,120435112000003,,male,680200626.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120404,clariond eugenio,119038812000003,,male,680200626.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120404,abney david p,144927512000009,,male,680200626.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120529,cornog robert a,120435112000005,,male,680200626.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120703,clariond eugenio,119038812000004,,male,683909056.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120703,cornog robert a,120435112000006,,male,683909056.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20120703,abney david p,144927512000011,,male,683909056.0
 115816.0,16690.252,53669,johnson controls inc,0.0,1.0,0.0,0.0,20120724,mcdonald r bruce,120769612000002,Exec Vice President & CFO,male,683909056.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20120803,stief brian j,149447812000001,Vice Pres. & Corp. Controller,male,683909056.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20120803,stief brian j,149447812000001,Vice Pres. & Corp. Controller,male,683909056.0
 12453.979,3161.792,53669,johnson controls inc,0.0,1.0,0.0,0.0,20120919,strayer jacqueline f,144593512000004,Vice President,female,683909056.0
 185491.0,10608.804,53669,johnson controls inc,0.0,1.0,0.0,0.0,20120921,myers c david,119923712000002,Vice President,male,683909056.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20121002,clariond eugenio,119038812000005,,male,683909056.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20121002,cornog robert a,120435112000007,,male,683909056.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20121002,abney david p,144927512000012,,male,683909056.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20121002,abney david p,144927512000012,,male,683909056.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20121002,clariond eugenio,119038812000005,,male,683909056.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20121002,cornog robert a,120435112000007,,male,683909056.0
 13947.9,3485.105,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121003,boyd colin,144643612000001,Vice President,male,683909056.0
 12181.979,3214.836,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121003,strayer jacqueline f,144593512000005,Vice President,female,683909056.0
-0.0,16828.898,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,mcdonald r bruce,120769612000003,Exec Vice President & CFO,male,683909056.0
-93551.0,2735.751,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,davis susan f,120503512000001,Executive Vice President,female,683909056.0
-57300.0,39696.779,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,okarma jerome d,120504012000001,"VP, Secretary & Gen. Counsel",male,683909056.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,stief brian j,149447812000002,Vice Pres. & Corp. Controller,male,683909056.0
-20547.9,3485.105,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,boyd colin,144643612000002,Vice President,male,683909056.0
-0.0,8764.851,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,harvey charles a,134488712000001,Vice President,male,683909056.0
-0.0,6885.255,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,voltolina frank a,104947712000001,Vice President and Treasurer,male,683909056.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,jackson william c,152275012000002,"EVP and VP AE, E&I",male,683909056.0
-0.0,47186.888,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,molinaroli alex a,129296012000001,Vice President,male,683909056.0
-671832.0,36152.041,53669,johnson controls inc,1.0,1.0,0.0,0.0,20121010,roell stephen a,101228212000001,Chief Executive Officer,male,683909056.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,bolzenius beda,134488812000001,Vice President,male,683909056.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,jackson william c,152275012000002,"EVP and VP AE, E&I",male,683909056.0
 228068.0,10694.643,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,myers c david,119923712000003,Vice President,male,683909056.0
+,8764.851,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,harvey charles a,134488712000001,Vice President,male,683909056.0
+,47186.888,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,molinaroli alex a,129296012000001,Vice President,male,683909056.0
+93551.0,2735.751,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,davis susan f,120503512000001,Executive Vice President,female,683909056.0
+671832.0,36152.041,53669,johnson controls inc,1.0,1.0,0.0,0.0,20121010,roell stephen a,101228212000001,Chief Executive Officer,male,683909056.0
+57300.0,39696.779,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,okarma jerome d,120504012000001,"VP, Secretary & Gen. Counsel",male,683909056.0
+,6885.255,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,voltolina frank a,104947712000001,Vice President and Treasurer,male,683909056.0
+,16828.898,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,mcdonald r bruce,120769612000003,Exec Vice President & CFO,male,683909056.0
+,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,stief brian j,149447812000002,Vice Pres. & Corp. Controller,male,683909056.0
 15581.979,3214.836,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,strayer jacqueline f,144593512000006,Vice President,female,683909056.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,bolzenius beda,134488812000001,Vice President,male,683909056.0
-23942.0,47276.049,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,molinaroli alex a,129296012000002,Vice President,male,683797753.0
+20547.9,3485.105,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121010,boyd colin,144643612000002,Vice President,male,683909056.0
 38683.574,8781.412,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,harvey charles a,134488712000002,Vice President,male,683797753.0
-93551.0,2740.92,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,davis susan f,120503512000002,Executive Vice President,female,683797753.0
-115816.0,16860.696,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,mcdonald r bruce,120769612000004,Exec Vice President & CFO,male,683797753.0
-49182.581,6970.309,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,voltolina frank a,104947712000002,Vice President and Treasurer,male,683797753.0
-15003.98,3220.91,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,strayer jacqueline f,144593512000007,Vice President,female,683797753.0
-57300.0,39771.787,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,okarma jerome d,119923712000004,"VP, Secretary & Gen. Counsel",male,683797753.0
-7500.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,stief brian j,149447812000003,Vice Pres. & Corp. Controller,male,683797753.0
-223964.0,10714.851,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,myers c david,119923712000005,Vice President,male,683797753.0
 671832.0,36220.351,53669,johnson controls inc,1.0,1.0,0.0,0.0,20121102,roell stephen a,101228212000002,Chief Executive Officer,male,683797753.0
+49182.581,6970.309,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,voltolina frank a,104947712000002,Vice President and Treasurer,male,683797753.0
+57300.0,39771.787,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,okarma jerome d,119923712000004,"VP, Secretary & Gen. Counsel",male,683797753.0
+223964.0,10714.851,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,myers c david,119923712000005,Vice President,male,683797753.0
+23942.0,47276.049,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,molinaroli alex a,129296012000002,Vice President,male,683797753.0
+115816.0,16860.696,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,mcdonald r bruce,120769612000004,Exec Vice President & CFO,male,683797753.0
+121960.084,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,bolzenius beda,134488812000002,Vice President,male,683797753.0
+93551.0,2740.92,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,davis susan f,120503512000002,Executive Vice President,female,683797753.0
+7500.0,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,stief brian j,149447812000003,Vice Pres. & Corp. Controller,male,683797753.0
 19521.9,3491.69,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,boyd colin,144643612000003,Vice President,male,683797753.0
-121960.084,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,bolzenius beda,134488812000002,Vice President,male,683797753.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121119,okarma jerome d,120504012000002,"VP, Secretary & Gen. Counsel",male,683797753.0
-0.0,47100.481,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121211,molinaroli alex a,129296012000003,Vice President,male,683797753.0
-0.0,3477.933,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121211,boyd colin,144643612000004,Vice President,male,683797753.0
-0.0,16797.876,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121211,mcdonald r bruce,120769612000005,Exec Vice President & CFO,male,683797753.0
-6106.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130124,okarma jerome d,120504013000001,"VP, Secretary & Gen. Counsel",male,684321131.0
+15003.98,3220.91,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121102,strayer jacqueline f,144593512000007,Vice President,female,683797753.0
+0.0,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121119,okarma jerome d,120504012000002,"VP, Secretary & Gen. Counsel",male,683797753.0
+,3477.933,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121211,boyd colin,144643612000004,Vice President,male,683797753.0
+,47100.481,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121211,molinaroli alex a,129296012000003,Vice President,male,683797753.0
+,16797.876,53669,johnson controls inc,0.0,1.0,0.0,0.0,20121211,mcdonald r bruce,120769612000005,Exec Vice President & CFO,male,683797753.0
+6106.0,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130124,okarma jerome d,120504013000001,"VP, Secretary & Gen. Counsel",male,684321131.0
 49182.581,6756.79,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130124,voltolina frank a,104947713000001,Vice President and Treasurer,male,684321131.0
-13718.0,2169.457,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,joerres jeffrey a,144927513000006,,male,684321131.0
-3720.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,bushman julie l,144927513000005,,female,684321131.0
 45742.0,46611.761,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130125,molinaroli alex a,129296013000001,Vice Chairman,male,684321131.0
-7800.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,vergnano mark p,147410713000001,,male,684321131.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,abney david p,144927513000004,,male,684321131.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,lacy william h,104196713000001,,male,684321131.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,goodman richard,144927513000007,,male,684321131.0
+,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,clariond eugenio,119038813000001,,male,684321131.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,black natalie a,120503313000001,,female,684321131.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,archer dennis w,118555713000001,,male,684321131.0
 42534.068,10681.797,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130125,kesseler brian j,156775913000005,"VP & Pres., Power Solutions",male,684321131.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,black natalie a,120503313000001,,female,684321131.0
-0.0,370743.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,clariond eugenio,119038813000001,,male,684321131.0
-0.0,0.0,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,archer dennis w,118555713000001,,male,684321131.0
+7800.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,vergnano mark p,147410713000001,,male,684321131.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,goodman richard,144927513000007,,male,684321131.0
+13718.0,2169.457,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,joerres jeffrey a,144927513000006,,male,684321131.0
+3720.0,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,bushman julie l,144927513000005,,female,684321131.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,abney david p,144927513000004,,male,684321131.0
+,,53669,johnson controls inc,1.0,0.0,0.0,0.0,20130125,lacy william h,104196713000001,,male,684321131.0
 112841.0,16840.631,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130215,mcdonald r bruce,120769613000001,Exec Vice President & CFO,male,684321131.0
-0.0,0.0,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130219,davis susan f,120503513000001,Executive Vice President,female,684321131.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20130402,abney david p,112760213012689,,male,684995294.0
-0.0,370743.0,53669,johnson controls inc,1.0,,,,20130402,clariond eugenio,112760213012705,,male,684995294.0
+0.0,,53669,johnson controls inc,0.0,1.0,0.0,0.0,20130219,davis susan f,120503513000001,Executive Vice President,female,684321131.0
+,,53669,johnson controls inc,1.0,,,,20130402,abney david p,112760213012689,,male,684995294.0
+,370743.0,53669,johnson controls inc,1.0,,,,20130402,clariond eugenio,112760213012705,,male,684995294.0
 15003.98,4092.928,53669,johnson controls inc,,1.0,,,20130424,strayer jacqueline f,112760213014430,"Vice President, Communications",female,684995294.0
 39182.68,9143.404,53669,johnson controls inc,,1.0,,,20130506,harvey charles a,112760213015704,Vice President,male,684995294.0
 666267.0,36555.91,53669,johnson controls inc,1.0,1.0,,,20130513,roell stephen a,112760213016523,Chairman & CEO,male,684995294.0
 42679.958,11007.135,53669,johnson controls inc,,1.0,,,20130514,kesseler brian j,112760213016726,"VP & Pres., Power Solutions",male,684995294.0
 40842.96,47595.947,53669,johnson controls inc,,1.0,,,20130516,molinaroli alex a,112760213017080,Vice Chairman,male,684995294.0
-123127.063,0.0,53669,johnson controls inc,,1.0,,,20130524,bolzenius beda,112760213018277,"VP & President, AE - Seating",male,684995294.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20130703,clariond eugenio,112760213022258,,male,684159035.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20130703,abney david p,112760213022222,,male,684159035.0
+123127.063,,53669,johnson controls inc,,1.0,,,20130524,bolzenius beda,112760213018277,"VP & President, AE - Seating",male,684995294.0
+,,53669,johnson controls inc,1.0,,,,20130703,clariond eugenio,112760213022258,,male,684159035.0
+,,53669,johnson controls inc,1.0,,,,20130703,abney david p,112760213022222,,male,684159035.0
 666267.0,36620.264,53669,johnson controls inc,1.0,1.0,,,20130802,roell stephen a,112760213024233,Chairman & CEO,male,684159035.0
 42821.25,11078.217,53669,johnson controls inc,,1.0,,,20130802,kesseler brian j,112760213024222,"VP & Pres., Power Solutions",male,684159035.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20130926,mcdonald r bruce,112760213027858,Exec Vice President & CFO,male,684159035.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20131003,clariond eugenio,112760213028745,,male,684159035.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20131003,abney david p,112760213028742,,male,684159035.0
-41006.08,47658.856,53669,johnson controls inc,,1.0,,,20131008,molinaroli alex a,112760213029082,Vice Chairman,male,684159035.0
-656616.0,36596.406,53669,johnson controls inc,1.0,1.0,,,20131008,roell stephen a,112760213029087,Chairman & CEO,male,684159035.0
-124120.746,0.0,53669,johnson controls inc,,1.0,,,20131008,bolzenius beda,112760213029085,"VP & President, AE - Seating",male,684159035.0
-21745.933,9813.258,53669,johnson controls inc,,,,1.0,20131008,murphy john p,112760213029077,,male,684159035.0
+,,53669,johnson controls inc,,1.0,,,20130926,mcdonald r bruce,112760213027858,Exec Vice President & CFO,male,684159035.0
+,,53669,johnson controls inc,1.0,,,,20131003,abney david p,112760213028742,,male,684159035.0
+,,53669,johnson controls inc,1.0,,,,20131003,clariond eugenio,112760213028745,,male,684159035.0
 202336.0,11935.884,53669,johnson controls inc,,1.0,,,20131008,myers c david,112760213029071,"VP & Pres, Building Eff",male,684159035.0
+21745.933,9813.258,53669,johnson controls inc,,,,1.0,20131008,murphy john p,112760213029077,,male,684159035.0
 19609.328,4435.593,53669,johnson controls inc,,1.0,,,20131008,boyd colin,112760213029080,Vice President,male,684159035.0
-6106.0,0.0,53669,johnson controls inc,,1.0,,,20131009,okarma jerome d,112760213029115,"VP, Secretary & Gen. Counsel",male,684159035.0
+41006.08,47658.856,53669,johnson controls inc,,1.0,,,20131008,molinaroli alex a,112760213029082,Vice Chairman,male,684159035.0
+124120.746,,53669,johnson controls inc,,1.0,,,20131008,bolzenius beda,112760213029085,"VP & President, AE - Seating",male,684159035.0
+656616.0,36596.406,53669,johnson controls inc,1.0,1.0,,,20131008,roell stephen a,112760213029087,Chairman & CEO,male,684159035.0
 36577.656,9142.529,53669,johnson controls inc,,1.0,,,20131009,harvey charles a,112760213029117,Vice President,male,684159035.0
 41772.418,11064.689,53669,johnson controls inc,,1.0,,,20131009,kesseler brian j,112760213029119,"VP & Pres., Power Solutions",male,684159035.0
 112841.0,16870.523,53669,johnson controls inc,,1.0,,,20131009,mcdonald r bruce,112760213029123,Exec Vice President & CFO,male,684159035.0
+6106.0,,53669,johnson controls inc,,1.0,,,20131009,okarma jerome d,112760213029115,"VP, Secretary & Gen. Counsel",male,684159035.0
 18413.328,4422.345,53669,johnson controls inc,,1.0,,,20131209,boyd colin,112760213033991,Vice President,male,685160911.0
 148019.0,51975.368,53669,johnson controls inc,,1.0,,,20131209,myers c david,112760213034137,"VP & Pres, Building Eff",male,685160911.0
+,,53669,johnson controls inc,,1.0,,,20131217,molinaroli alex a,112760213034859,CEO,male,685160911.0
+,,53669,johnson controls inc,,1.0,,,20131217,boyd colin,112760213034799,Vice President,male,685160911.0
 110841.0,16812.496,53669,johnson controls inc,,1.0,,,20131217,mcdonald r bruce,112760213034802,Exec Vice President & CFO,male,685160911.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20131217,boyd colin,112760213034799,Vice President,male,685160911.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20131217,molinaroli alex a,112760213034859,CEO,male,685160911.0
-0.0,2212.616,53669,johnson controls inc,1.0,,,,20140131,joerres jeffrey a,112760214003630,,male,664028370.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140131,clariond eugenio,112760214003626,,male,664028370.0
-10715.0,0.0,53669,johnson controls inc,1.0,,,,20140131,vergnano mark p,112760214003622,,male,664028370.0
-49544.0,0.0,53669,johnson controls inc,1.0,,,,20140131,lacy william h,112760214003615,,male,664028370.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140131,archer dennis w,112760214003658,,male,664028370.0
-2515.0,0.0,53669,johnson controls inc,1.0,,,,20140131,conner raymond l.,112760214003610,,male,664028370.0
-6635.0,0.0,53669,johnson controls inc,1.0,,,,20140131,bushman julie l,112760214003608,,female,664028370.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140131,black natalie a,112760214003600,,female,664028370.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140131,abney david p,112760214003595,,male,664028370.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140131,goodman richard,112760214003613,,male,664028370.0
+,,53669,johnson controls inc,1.0,,,,20140131,abney david p,112760214003595,,male,664028370.0
+,,53669,johnson controls inc,1.0,,,,20140131,archer dennis w,112760214003658,,male,664028370.0
+10715.0,,53669,johnson controls inc,1.0,,,,20140131,vergnano mark p,112760214003622,,male,664028370.0
+49544.0,,53669,johnson controls inc,1.0,,,,20140131,lacy william h,112760214003615,,male,664028370.0
+,,53669,johnson controls inc,1.0,,,,20140131,clariond eugenio,112760214003626,,male,664028370.0
+2515.0,,53669,johnson controls inc,1.0,,,,20140131,conner raymond l.,112760214003610,,male,664028370.0
+6635.0,,53669,johnson controls inc,1.0,,,,20140131,bushman julie l,112760214003608,,female,664028370.0
+,,53669,johnson controls inc,1.0,,,,20140131,black natalie a,112760214003600,,female,664028370.0
+,,53669,johnson controls inc,1.0,,,,20140131,goodman richard,112760214003613,,male,664028370.0
+,2212.616,53669,johnson controls inc,1.0,,,,20140131,joerres jeffrey a,112760214003630,,male,664028370.0
 39860.742,9424.126,53669,johnson controls inc,,1.0,,,20140225,harvey charles a,112760214008150,Vice President,male,664028370.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140403,clariond eugenio,112760214013852,,male,664157910.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140403,joerres jeffrey a,112760214013855,,male,664157910.0
+,,53669,johnson controls inc,1.0,,,,20140403,joerres jeffrey a,112760214013855,,male,664157910.0
+,,53669,johnson controls inc,1.0,,,,20140403,clariond eugenio,112760214013852,,male,664157910.0
 0.0,52904.475,53669,johnson controls inc,,1.0,,,20140514,myers c david,112760214017434,"VP & Pres, Building Eff",male,664157910.0
-0.0,0.0,53669,johnson controls inc,,,,1.0,20140514,murphy john p,112760214017437,,male,664157910.0
-139132.949,0.0,53669,johnson controls inc,,1.0,,,20140521,bolzenius beda,112760214018373,"VP & Pres, AE",male,664157910.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20140521,davis susan f,112760214018375,Executive Vice President,female,664157910.0
+,,53669,johnson controls inc,,,,1.0,20140514,murphy john p,112760214017437,,male,664157910.0
+139132.949,,53669,johnson controls inc,,1.0,,,20140521,bolzenius beda,112760214018373,"VP & Pres, AE",male,664157910.0
+,,53669,johnson controls inc,,1.0,,,20140521,davis susan f,112760214018375,Executive Vice President,female,664157910.0
 24596.968,9907.75,53669,johnson controls inc,,,,1.0,20140527,murphy john p,112760214018858,,male,664157910.0
-102999.088,0.0,53669,johnson controls inc,,1.0,,,20140530,davis susan f,112760214019236,EVP & CHRO,female,664157910.0
+102999.088,,53669,johnson controls inc,,1.0,,,20140530,davis susan f,112760214019236,EVP & CHRO,female,664157910.0
 51466.271,11488.995,53669,johnson controls inc,,1.0,,,20140604,kesseler brian j,112760214019866,"VP & Pres., Power Solutions",male,664157910.0
 70870.921,48177.693,53669,johnson controls inc,,1.0,,,20140610,molinaroli alex a,112760214020387,CEO,male,664157910.0
-102999.088,0.0,53669,johnson controls inc,,1.0,,,20140610,davis susan f,112760214020391,EVP & CHRO,female,664157910.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140702,clariond eugenio,112760214022244,,male,666075391.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20140702,joerres jeffrey a,112760214022246,,male,666075391.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20141002,clariond eugenio,112760214028941,,male,666075391.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20141002,joerres jeffrey a,112760214028964,,male,666075391.0
-102546.631,0.0,53669,johnson controls inc,,1.0,,,20141007,davis susan f,112760214029595,EVP & CHRO,female,666075391.0
-23187.803,9985.876,53669,johnson controls inc,,,,1.0,20141007,murphy john p,112760214029573,,male,666075391.0
-50142.892,11522.312,53669,johnson controls inc,,1.0,,,20141007,kesseler brian j,112760214029567,"VP & Pres., Power Solutions",male,666075391.0
-139778.115,0.0,53669,johnson controls inc,,1.0,,,20141007,bolzenius beda,112760214029564,"VP & Pres, AE",male,666075391.0
-40304.177,9543.465,53669,johnson controls inc,,1.0,,,20141007,harvey charles a,112760214029600,Vice President,male,666075391.0
-13862.5,0.0,53669,johnson controls inc,,1.0,,,20141007,davis simon,112760214029543,Vice President & ACHRO,male,666075391.0
-10828.674,4507.119,53669,johnson controls inc,,1.0,,,20141007,cadwallader brian j,112760214029545,VP and Assistant Secretary,male,666075391.0
-14641.471,0.0,53669,johnson controls inc,,1.0,,,20141007,okarma jerome d,112760214029632,"VP, Secretary & Gen. Counsel",male,666075391.0
-15088.0,0.0,53669,johnson controls inc,,1.0,,,20141007,jackson william c,112760214029534,"EVP and VP AE, E&I",male,666075391.0
+102999.088,,53669,johnson controls inc,,1.0,,,20140610,davis susan f,112760214020391,EVP & CHRO,female,664157910.0
+,,53669,johnson controls inc,1.0,,,,20140702,joerres jeffrey a,112760214022246,,male,666075391.0
+,,53669,johnson controls inc,1.0,,,,20140702,clariond eugenio,112760214022244,,male,666075391.0
+,,53669,johnson controls inc,1.0,,,,20141002,joerres jeffrey a,112760214028964,,male,666075391.0
+,,53669,johnson controls inc,1.0,,,,20141002,clariond eugenio,112760214028941,,male,666075391.0
 9967.277,5942.0,53669,johnson controls inc,,1.0,,,20141007,bartschat michael k,112760214029527,Chief Procurement Officer,male,666075391.0
-71352.245,48597.059,53669,johnson controls inc,,1.0,,,20141008,molinaroli alex a,112760214029668,CEO,male,666075391.0
+15088.0,,53669,johnson controls inc,,1.0,,,20141007,jackson william c,112760214029534,"EVP and VP AE, E&I",male,666075391.0
+13862.5,,53669,johnson controls inc,,1.0,,,20141007,davis simon,112760214029543,Vice President & ACHRO,male,666075391.0
+10828.674,4507.119,53669,johnson controls inc,,1.0,,,20141007,cadwallader brian j,112760214029545,VP and Assistant Secretary,male,666075391.0
+139778.115,,53669,johnson controls inc,,1.0,,,20141007,bolzenius beda,112760214029564,"VP & Pres, AE",male,666075391.0
+50142.892,11522.312,53669,johnson controls inc,,1.0,,,20141007,kesseler brian j,112760214029567,"VP & Pres., Power Solutions",male,666075391.0
+23187.803,9985.876,53669,johnson controls inc,,,,1.0,20141007,murphy john p,112760214029573,,male,666075391.0
+102546.631,,53669,johnson controls inc,,1.0,,,20141007,davis susan f,112760214029595,EVP & CHRO,female,666075391.0
+40304.177,9543.465,53669,johnson controls inc,,1.0,,,20141007,harvey charles a,112760214029600,Vice President,male,666075391.0
+14641.471,,53669,johnson controls inc,,1.0,,,20141007,okarma jerome d,112760214029632,"VP, Secretary & Gen. Counsel",male,666075391.0
 71352.245,48597.059,53669,johnson controls inc,,1.0,,,20141008,molinaroli alex a,112760214029667,CEO,male,666075391.0
-48924.892,11552.505,53669,johnson controls inc,,1.0,,,20141104,kesseler brian j,112760214030991,"VP & Pres., Power Solutions",male,666188889.0
-135236.376,0.0,53669,johnson controls inc,,1.0,,,20141104,bolzenius beda,112760214030987,"VP & Pres, AE",male,666188889.0
-110841.0,17150.569,53669,johnson controls inc,,1.0,,,20141104,mcdonald r bruce,112760214030971,Exec VP & Vice Chairman,male,666188889.0
-21969.803,10012.042,53669,johnson controls inc,,,,1.0,20141104,murphy john p,112760214030968,,male,666188889.0
-47049.581,7097.336,53669,johnson controls inc,,1.0,,,20141104,voltolina frank a,112760214030960,Vice President and Treasurer,male,666188889.0
-14641.471,0.0,53669,johnson controls inc,,1.0,,,20141104,okarma jerome d,112760214030922,Vice President,male,666188889.0
-71352.245,48724.4,53669,johnson controls inc,,1.0,,,20141104,molinaroli alex a,112760214030920,Chairman & CEO,male,666188889.0
+71352.245,48597.059,53669,johnson controls inc,,1.0,,,20141008,molinaroli alex a,112760214029668,CEO,male,666075391.0
+7500.0,,53669,johnson controls inc,,1.0,,,20141104,stief brian j,112760214030963,EVP & Chief Financial Officer,male,666188889.0
+102546.631,,53669,johnson controls inc,,1.0,,,20141104,davis susan f,112760214030910,EVP & CHRO,female,666188889.0
 40304.177,9568.472,53669,johnson controls inc,,1.0,,,20141104,harvey charles a,112760214030914,Vice President,male,666188889.0
-102546.631,0.0,53669,johnson controls inc,,1.0,,,20141104,davis susan f,112760214030910,EVP & CHRO,female,666188889.0
-7500.0,0.0,53669,johnson controls inc,,1.0,,,20141104,stief brian j,112760214030963,EVP & Chief Financial Officer,male,666188889.0
+71352.245,48724.4,53669,johnson controls inc,,1.0,,,20141104,molinaroli alex a,112760214030920,Chairman & CEO,male,666188889.0
+14641.471,,53669,johnson controls inc,,1.0,,,20141104,okarma jerome d,112760214030922,Vice President,male,666188889.0
+47049.581,7097.336,53669,johnson controls inc,,1.0,,,20141104,voltolina frank a,112760214030960,Vice President and Treasurer,male,666188889.0
+21969.803,10012.042,53669,johnson controls inc,,,,1.0,20141104,murphy john p,112760214030968,,male,666188889.0
+110841.0,17150.569,53669,johnson controls inc,,1.0,,,20141104,mcdonald r bruce,112760214030971,Exec VP & Vice Chairman,male,666188889.0
+135236.376,,53669,johnson controls inc,,1.0,,,20141104,bolzenius beda,112760214030987,"VP & Pres, AE",male,666188889.0
+48924.892,11552.505,53669,johnson controls inc,,1.0,,,20141104,kesseler brian j,112760214030991,"VP & Pres., Power Solutions",male,666188889.0
 9236.277,5942.0,53669,johnson controls inc,,1.0,,,20141112,bartschat michael k,112760214031932,VP & Chief Procurement Officer,male,666188889.0
 52429.105,48724.4,53669,johnson controls inc,,1.0,,,20141112,molinaroli alex a,112760214031930,Chairman & CEO,male,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141119,davis susan f,112760214032857,EVP & CHRO,female,666188889.0
-36322.803,9986.115,53669,johnson controls inc,,,,1.0,20141119,murphy john p,112760214032847,,male,666188889.0
-27909.0,0.0,53669,johnson controls inc,,1.0,,,20141119,jackson william c,112760214032852,"VP & President, BE",male,666188889.0
-61645.892,11522.598,53669,johnson controls inc,,1.0,,,20141119,kesseler brian j,112760214032854,"VP & Pres., Power Solutions",male,666188889.0
-4048.543,0.0,53669,johnson controls inc,,1.0,,,20141119,crosby grady l,112760214032862,"VP Pub Affairs, Chief Div Ofcr",male,666188889.0
-19191.5,80.802,53669,johnson controls inc,,1.0,,,20141119,davis simon,112760214032869,Vice President & ACHRO,male,666188889.0
-149948.376,0.0,53669,johnson controls inc,,1.0,,,20141119,bolzenius beda,112760214032873,"VP & Pres, AE",male,666188889.0
 12222.277,5942.0,53669,johnson controls inc,,1.0,,,20141119,bartschat michael k,112760214032831,VP & Chief Procurement Officer,male,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141120,metcalf-kupres kimberley,112760214032968,VP and Chief Marketing Officer,female,666188889.0
+36322.803,9986.115,53669,johnson controls inc,,,,1.0,20141119,murphy john p,112760214032847,,male,666188889.0
+27909.0,,53669,johnson controls inc,,1.0,,,20141119,jackson william c,112760214032852,"VP & President, BE",male,666188889.0
+61645.892,11522.598,53669,johnson controls inc,,1.0,,,20141119,kesseler brian j,112760214032854,"VP & Pres., Power Solutions",male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141119,davis susan f,112760214032857,EVP & CHRO,female,666188889.0
+4048.543,,53669,johnson controls inc,,1.0,,,20141119,crosby grady l,112760214032862,"VP Pub Affairs, Chief Div Ofcr",male,666188889.0
+19191.5,80.802,53669,johnson controls inc,,1.0,,,20141119,davis simon,112760214032869,Vice President & ACHRO,male,666188889.0
+149948.376,,53669,johnson controls inc,,1.0,,,20141119,bolzenius beda,112760214032873,"VP & Pres, AE",male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141120,mcdonald r bruce,112760214032971,Exec VP & Vice Chairman,male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141120,metcalf-kupres kimberley,112760214032968,VP and Chief Marketing Officer,female,666188889.0
 91857.105,48598.348,53669,johnson controls inc,,1.0,,,20141120,molinaroli alex a,112760214032966,Chairman & CEO,male,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141120,mcdonald r bruce,112760214032971,Exec VP & Vice Chairman,male,666188889.0
 3533.784,471.279,53669,johnson controls inc,,1.0,,,20141120,vincent suzanne m,112760214032960,"VP, Corporate Controller",female,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141120,voltolina frank a,112760214032957,Vice President and Treasurer,male,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141120,stief brian j,112760214032964,EVP & Chief Financial Officer,male,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141125,cadwallader brian j,112760214033397,"VP, Asst. Secy & Gen Counsel",male,666188889.0
-4048.543,0.0,53669,johnson controls inc,,1.0,,,20141125,crosby grady l,112760214033399,"VP Pub Affairs, Chief Div Ofcr",male,666188889.0
-0.0,0.0,53669,johnson controls inc,,1.0,,,20141216,molinaroli alex a,112760214035190,Chairman & CEO,male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141120,voltolina frank a,112760214032957,Vice President and Treasurer,male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141120,stief brian j,112760214032964,EVP & Chief Financial Officer,male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141125,cadwallader brian j,112760214033397,"VP, Asst. Secy & Gen Counsel",male,666188889.0
+4048.543,,53669,johnson controls inc,,1.0,,,20141125,crosby grady l,112760214033399,"VP Pub Affairs, Chief Div Ofcr",male,666188889.0
+,,53669,johnson controls inc,,1.0,,,20141216,molinaroli alex a,112760214035190,Chairman & CEO,male,666188889.0
 30059.515,4198.766,53669,johnson controls inc,,1.0,,,20150107,walicki joseph a,112760215001312,"VP & Pres., Power Solutions",male,657293891.0
-61881.424,0.0,53669,johnson controls inc,,1.0,,,20150107,williams jeffrey m,112760215001318,"VP, Enterprise Ops & Enginrg",male,657293891.0
+61881.424,,53669,johnson controls inc,,1.0,,,20150107,williams jeffrey m,112760215001318,"VP, Enterprise Ops & Enginrg",male,657293891.0
 89669.132,48944.958,53669,johnson controls inc,,1.0,,,20150126,molinaroli alex a,112760215002698,Chairman & CEO,male,657293891.0
-9782.0,0.0,53669,johnson controls inc,1.0,,,,20150130,bushman julie l,112760215003455,,female,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150130,abney david p,112760215003422,,male,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150130,black natalie a,112760215003416,,female,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150130,clariond eugenio,112760215003405,,male,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150130,goodman richard,112760215003399,,male,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150130,joerres jeffrey a,112760215003394,,male,657293891.0
-52691.0,0.0,53669,johnson controls inc,1.0,,,,20150130,lacy william h,112760215003387,,male,657293891.0
-13862.0,0.0,53669,johnson controls inc,1.0,,,,20150130,vergnano mark p,112760215003382,,male,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150130,conner raymond l.,112760215003402,,male,657293891.0
+,,53669,johnson controls inc,1.0,,,,20150130,joerres jeffrey a,112760215003394,,male,657293891.0
+9782.0,,53669,johnson controls inc,1.0,,,,20150130,bushman julie l,112760215003455,,female,657293891.0
+,,53669,johnson controls inc,1.0,,,,20150130,abney david p,112760215003422,,male,657293891.0
+,,53669,johnson controls inc,1.0,,,,20150130,black natalie a,112760215003416,,female,657293891.0
+,,53669,johnson controls inc,1.0,,,,20150130,clariond eugenio,112760215003405,,male,657293891.0
+52691.0,,53669,johnson controls inc,1.0,,,,20150130,lacy william h,112760215003387,,male,657293891.0
+,,53669,johnson controls inc,1.0,,,,20150130,goodman richard,112760215003399,,male,657293891.0
+13862.0,,53669,johnson controls inc,1.0,,,,20150130,vergnano mark p,112760215003382,,male,657293891.0
+,,53669,johnson controls inc,1.0,,,,20150130,conner raymond l.,112760215003402,,male,657293891.0
 30060.258,4203.152,53669,johnson controls inc,,1.0,,,20150226,walicki joseph a,112760215008558,"VP & Pres., Power Solutions",male,657293891.0
 108741.0,17181.884,53669,johnson controls inc,,1.0,,,20150304,mcdonald r bruce,112760215010022,Exec VP & Vice Chairman,male,657293891.0
 32049.581,7041.209,53669,johnson controls inc,,1.0,,,20150311,voltolina frank a,112760215011057,Vice President and Treasurer,male,657293891.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150402,clariond eugenio,112760215013313,,male,654830612.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150402,joerres jeffrey a,112760215013316,,male,654830612.0
+,,53669,johnson controls inc,1.0,,,,20150402,joerres jeffrey a,112760215013316,,male,654830612.0
+,,53669,johnson controls inc,1.0,,,,20150402,clariond eugenio,112760215013313,,male,654830612.0
 106791.0,17257.582,53669,johnson controls inc,,1.0,,,20150427,mcdonald r bruce,112760215015199,Exec VP & Vice Chairman,male,654830612.0
 90103.876,49341.635,53669,johnson controls inc,,1.0,,,20150428,molinaroli alex a,112760215015382,Chairman & CEO,male,654830612.0
 84306.876,49375.118,53669,johnson controls inc,,1.0,,,20150505,molinaroli alex a,112760215016248,Chairman & CEO,male,654830612.0
-150317.844,0.0,53669,johnson controls inc,,1.0,,,20150507,bolzenius beda,112760215016536,"VP, V. Chair APAC and Pres, AE",male,654830612.0
+150317.844,,53669,johnson controls inc,,1.0,,,20150507,bolzenius beda,112760215016536,"VP, V. Chair APAC and Pres, AE",male,654830612.0
 12301.234,5942.0,53669,johnson controls inc,,1.0,,,20150521,bartschat michael k,112760215018118,VP & Chief Procurement Officer,male,654830612.0
-19288.19,209.034,53669,johnson controls inc,,1.0,,,20150611,davis simon,112760215020385,Vice President & ACHRO,male,654830612.0
-4451.76,5465.015,53669,johnson controls inc,,1.0,,,20150611,cadwallader brian j,112760215020401,"VP, Asst. Secy & Gen Counsel",male,654830612.0
 6339.29,17060.679,53669,johnson controls inc,,1.0,,,20150611,metcalf-kupres kimberley,112760215020448,VP and Chief Marketing Officer,female,654830612.0
+4451.76,5465.015,53669,johnson controls inc,,1.0,,,20150611,cadwallader brian j,112760215020401,"VP, Asst. Secy & Gen Counsel",male,654830612.0
+19288.19,209.034,53669,johnson controls inc,,1.0,,,20150611,davis simon,112760215020385,Vice President & ACHRO,male,654830612.0
 106791.0,17255.173,53669,johnson controls inc,,1.0,,,20150612,mcdonald r bruce,112760215020536,Exec VP & Vice Chairman,male,654830612.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150702,joerres jeffrey a,112760215022270,,male,654069431.0
-0.0,0.0,53669,johnson controls inc,1.0,,,,20150702,clariond eugenio,112760215022278,,male,654069431.0
+,,53669,johnson controls inc,1.0,,,,20150702,joerres jeffrey a,112760215022270,,male,654069431.0
+0.0,,53669,johnson controls inc,1.0,,,,20150702,clariond eugenio,112760215022278,,male,654069431.0
+,,53669,johnson controls inc,1.0,,,,20151002,joerres jeffrey a,112760215028123,,male,654069431.0
+,,53669,johnson controls inc,1.0,,,,20151002,clariond eugenio,112760215028120,,male,654069431.0
+144012.562,594.452,53669,johnson controls inc,,1.0,,,20151008,davis susan f,112760215028857,Executive Vice President,female,654069431.0
+,,53669,johnson controls inc,,1.0,,,20151008,voltolina frank a,112760215028861,Vice President and Treasurer,male,654069431.0
+219263.37,,53669,johnson controls inc,,1.0,,,20151008,bolzenius beda,112760215028866,"VP, V. Chair APAC and Pres, AE",male,654069431.0
+88032.966,,53669,johnson controls inc,,1.0,,,20151008,jackson william c,112760215028869,"VP & President, BE",male,654069431.0
+25844.906,5942.0,53669,johnson controls inc,,1.0,,,20151008,bartschat michael k,112760215028873,VP & Chief Procurement Officer,male,654069431.0
+10543.597,,53669,johnson controls inc,,1.0,,,20151008,crosby grady l,112760215028878,"VP Pub Affairs, Chief Div Ofcr",male,654069431.0
+16286.437,5590.951,53669,johnson controls inc,,1.0,,,20151008,cadwallader brian j,112760215028887,"VP, Asst. Secy & Gen Counsel",male,654069431.0
+34291.663,213.41,53669,johnson controls inc,,1.0,,,20151008,davis simon,112760215028896,"VP, Chief Human Resources Ofcr",male,654069431.0
+,,53669,johnson controls inc,,1.0,,,20151008,stief brian j,112760215028902,EVP & Chief Financial Officer,male,654069431.0
+106791.0,17593.07,53669,johnson controls inc,,1.0,,,20151008,mcdonald r bruce,112760215028910,Exec VP & Vice Chairman,male,654069431.0
+10389.985,483.513,53669,johnson controls inc,,1.0,,,20151008,vincent suzanne m,112760215028915,"VP, Corporate Controller",female,654069431.0
+306570.236,50174.241,53669,johnson controls inc,,1.0,,,20151009,molinaroli alex a,112760215028927,Chairman & CEO,male,654069431.0
+,,53669,johnson controls inc,,1.0,,,20151009,metcalf-kupres kimberley,112760215028922,VP and Chief Marketing Officer,female,654069431.0
+98909.509,,53669,johnson controls inc,,1.0,,,20151009,williams jeffrey m,112760215028925,"VP, Enterprise Ops & Enginrg",male,654069431.0
+90737.639,4290.05,53669,johnson controls inc,,1.0,,,20151009,walicki joseph a,112760215028929,"VP & Pres., Power Solutions",male,654069431.0
+0.0,,53669,johnson controls inc,,1.0,,,20151102,cadwallader brian j,112760215029892,"VP, Secretary & Gen. Counsel",male,647676732.0
+306859.501,,53669,johnson controls inc,,1.0,,,20151119,bolzenius beda,112760215031943,"VP, V. Chair APAC and Pres, AE",male,647676732.0
+,,53669,johnson controls inc,,1.0,,,20151119,davis susan f,112760215031945,Executive Vice President,female,647676732.0
+151133.472,,53669,johnson controls inc,,1.0,,,20151119,jackson william c,112760215031947,"VP & President, BE",male,647676732.0
+432089.79,50183.719,53669,johnson controls inc,,1.0,,,20151119,molinaroli alex a,112760215031951,Chairman & CEO,male,647676732.0
+,,53669,johnson controls inc,,1.0,,,20151119,mcdonald r bruce,112760215031952,Exec VP & Vice Chairman,male,647676732.0
+20038.0,,53669,johnson controls inc,,1.0,,,20151119,stief brian j,112760215031954,EVP & Chief Financial Officer,male,647676732.0
+53653.581,7180.711,53669,johnson controls inc,,1.0,,,20151119,voltolina frank a,112760215031964,Vice President and Treasurer,male,647676732.0
+33047.401,213.837,53669,johnson controls inc,,1.0,,,20151130,davis simon,112760215032729,"VP, Chief Human Resources Ofcr",male,647676732.0
+126920.472,,53669,johnson controls inc,,1.0,,,20151209,jackson william c,112760215033589,"VP & President, BE",male,647676732.0
+374880.79,50348.87,53669,johnson controls inc,,1.0,,,20151209,molinaroli alex a,112760215033591,Chairman & CEO,male,647676732.0
+15740.0,,53669,johnson controls inc,,1.0,,,20151209,stief brian j,112760215033593,EVP & Chief Financial Officer,male,647676732.0
+47099.581,7204.334,53669,johnson controls inc,,1.0,,,20151209,voltolina frank a,112760215033596,Vice President and Treasurer,male,647676732.0
+269175.501,,53669,johnson controls inc,,1.0,,,20151209,bolzenius beda,112760215033598,"VP, V. Chair APAC and Pres, AE",male,647676732.0
+,,53669,johnson controls inc,,1.0,,,20151216,molinaroli alex a,112760215034218,Chairman & CEO,male,647676732.0
+,,53669,johnson controls inc,1.0,,,,20160129,black natalie a,112760216038468,,female,648235276.0
+,,53669,johnson controls inc,1.0,,,,20160129,abney david p,112760216038444,,male,648235276.0
+6642.0,,53669,johnson controls inc,1.0,,,,20160129,conner raymond l.,112760216038480,,male,648235276.0
+,,53669,johnson controls inc,1.0,,,,20160129,vergnano mark p,112760216038529,,male,648235276.0
+,,53669,johnson controls inc,1.0,,,,20160129,goodman richard,112760216038488,,male,648235276.0
+,,53669,johnson controls inc,1.0,,,,20160129,joerres jeffrey a,112760216038501,,male,648235276.0
+56818.0,,53669,johnson controls inc,1.0,,,,20160129,lacy william h,112760216038520,,male,648235276.0
+,,53669,johnson controls inc,1.0,,,,20160129,del valle perochena juan pablo,112760216038482,,female,648235276.0
+13909.0,,53669,johnson controls inc,1.0,,,,20160129,bushman julie l,112760216038538,,female,648235276.0
+103766.0,17593.07,53669,johnson controls inc,,1.0,,,20160223,mcdonald r bruce,112760216042877,Exec VP & Vice Chairman,male,648235276.0
+309399.145,51412.52,53669,johnson controls inc,,1.0,,,20160303,molinaroli alex a,112760216044709,Chairman & CEO,male,648235276.0
+,,53669,johnson controls inc,1.0,,,,20160404,joerres jeffrey a,112760216048254,,male,648370147.0
+,,53669,johnson controls inc,,1.0,,,20160426,mcdonald r bruce,112760216049911,Exec VP & Vice Chairman,male,648370147.0
+47099.581,7324.621,53669,johnson controls inc,,1.0,,,20160426,voltolina frank a,112760216049920,Vice President and Treasurer,male,648370147.0
+,,53669,johnson controls inc,1.0,,,,20160708,joerres jeffrey a,112760216057772,,male,637745892.0
+17945.905,,53669,johnson controls inc,,1.0,,,20160823,mcdonald r bruce,112760216060960,Exec VP &amp; Vice Chairman,male,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,black natalie a,112760216061999,,female,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,conner raymond l.,112760216062002,,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,crosby grady l,112760216061982,"VP Pub Affairs, Chief Div Ofcr",male,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,joerres jeffrey a,112760216062006,,male,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,abney david p,112760216061997,,male,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,del valle perochena juan pablo,112760216062008,,female,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,goodman richard,112760216062004,,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,mcdonald r bruce,112760216061994,Exec VP & Vice Chairman,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,stief brian j,112760216061973,EVP & Chief Financial Officer,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,nevill trent m,112760216061986,"VP, President, Asia Pacific",male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,metcalf-kupres kimberley,112760216061984,VP and Chief Marketing Officer,female,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,cadwallader brian j,112760216061977,"VP, Secretary & Gen. Counsel",male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,bartschat michael k,112760216061975,VP & Chief Procurement Officer,male,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160906,vergnano mark p,112760216062010,,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,voltolina frank a,112760216061971,Vice President and Treasurer,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160906,vincent suzanne m,112760216061988,"VP, Corporate Controller",female,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160907,williams jeffrey m,112760216062047,"VP, Enterprise Ops & Enginrg",male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160907,molinaroli alex a,112760216062033,Chairman & CEO,male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160907,jackson william c,112760216062040,"VP & President, BE",male,637745892.0
+0.0,,53669,johnson controls inc,1.0,,,,20160907,bushman julie l,112760216062019,,female,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160907,walicki joseph a,112760216062042,"VP & Pres., Power Solutions",male,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160907,davis susan f,112760216062021,Executive Vice President,female,637745892.0
+0.0,,53669,johnson controls inc,,1.0,,,20160907,davis simon,112760216062035,"VP, Chief Human Resources Ofcr",male,637745892.0

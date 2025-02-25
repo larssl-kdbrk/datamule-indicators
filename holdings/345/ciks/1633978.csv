@@ -1,33 +1,643 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-11692855.0,0.0,1633978,lumentum holdings inc.,,,1.0,,20150804,viavi solutions inc.,143774915014761,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150811,tachibana aaron,143774915015557,CFO,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150811,retort vincent,143774915015558,"SVP, Research & Development",male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150811,kaplan martin a,143774915015559,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150811,herscher penny,143774915015560,,female,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150811,hamel judy g,143774915015561,General Counsel & Secretary,female,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150811,covert harold l,143774915015562,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150811,reinhardt jason,143774915015563,"SVP, Sales",male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150811,cocchi craig,143774915015564,"SVP, Operations",male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,1.0,,,20150811,lowe alan s,143774915015565,CEO and President,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150818,thomas samuel f,143774915016122,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150818,herscher penny,143774915016121,,female,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150818,kaplan martin a,143774915016120,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150818,covert harold l,143774915016119,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,,,,20150818,lillie brian,143774915016118,,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150818,retort vincent,143774915016117,"SVP, Research & Development",male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150818,reinhardt jason,143774915016116,"SVP, Sales",male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150818,hamel judy g,143774915016115,General Counsel & Secretary,female,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150818,cocchi craig,143774915016114,"SVP, Operations",male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150818,tachibana aaron,143774915016113,CFO,male,0.0
-0.0,0.0,1633978,lumentum holdings inc.,1.0,1.0,,,20150818,lowe alan s,143774915016112,CEO and President,male,0.0
-3607.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150826,cocchi craig,143774915016475,"SVP, Operations",male,0.0
-677.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150826,hamel judy g,143774915016476,General Counsel & Secretary,female,0.0
-8880.0,0.0,1633978,lumentum holdings inc.,1.0,1.0,,,20150826,lowe alan s,143774915016477,CEO and President,male,0.0
-1964.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150826,reinhardt jason,143774915016478,"SVP, Sales",male,0.0
-6801.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150826,retort vincent,143774915016479,"SVP, Research & Development",male,0.0
-3375.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150826,tachibana aaron,143774915016480,CFO,male,0.0
-984.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150918,hamel judy g,143774915017496,General Counsel & Secretary,female,0.0
-10715.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150929,cocchi craig,143774915017808,"SVP, Operations",male,58970645.0
-70832.0,0.0,1633978,lumentum holdings inc.,1.0,1.0,,,20150929,lowe alan s,143774915017809,CEO and President,male,58970645.0
-4791.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150929,reinhardt jason,143774915017810,"SVP, Sales",male,58970645.0
-16244.0,0.0,1633978,lumentum holdings inc.,,1.0,,,20150929,retort vincent,143774915017811,"SVP, Research & Development",male,58970645.0
+11692855.0,,1633978,lumentum holdings inc.,,,1,,20150804,viavi solutions inc.,143774915014761,,male,0.0
+11692855.0,,1633978,lumentum holdings inc.,,,1,,20150804,viavi solutions inc.,143774915014761,,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,retort vincent,143774915015558,"SVP, Research & Development",male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150811,kaplan martin a,143774915015559,,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150811,herscher penny,143774915015560,,female,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,hamel judy g,143774915015561,General Counsel & Secretary,female,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150811,covert harold l,143774915015562,,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,cocchi craig,143774915015564,"SVP, Operations",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,reinhardt jason,143774915015563,"SVP, Sales",male,0.0
+,,1633978,lumentum holdings inc.,1,1,,,20150811,lowe alan s,143774915015565,CEO and President,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150811,kaplan martin a,143774915015559,,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150811,herscher penny,143774915015560,,female,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,hamel judy g,143774915015561,General Counsel & Secretary,female,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150811,covert harold l,143774915015562,,male,0.0
+,,1633978,lumentum holdings inc.,1,1,,,20150811,lowe alan s,143774915015565,CEO and President,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,tachibana aaron,143774915015557,CFO,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,cocchi craig,143774915015564,"SVP, Operations",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,reinhardt jason,143774915015563,"SVP, Sales",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,tachibana aaron,143774915015557,CFO,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150811,retort vincent,143774915015558,"SVP, Research & Development",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,cocchi craig,143774915016114,"SVP, Operations",male,0.0
+,,1633978,lumentum holdings inc.,1,1,,,20150818,lowe alan s,143774915016112,CEO and President,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,thomas samuel f,143774915016122,,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,herscher penny,143774915016121,,female,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,kaplan martin a,143774915016120,,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,covert harold l,143774915016119,,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,hamel judy g,143774915016115,General Counsel & Secretary,female,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,retort vincent,143774915016117,"SVP, Research & Development",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,reinhardt jason,143774915016116,"SVP, Sales",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,hamel judy g,143774915016115,General Counsel & Secretary,female,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,cocchi craig,143774915016114,"SVP, Operations",male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,lillie brian,143774915016118,,male,0.0
+,,1633978,lumentum holdings inc.,1,1,,,20150818,lowe alan s,143774915016112,CEO and President,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,tachibana aaron,143774915016113,CFO,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,reinhardt jason,143774915016116,"SVP, Sales",male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,retort vincent,143774915016117,"SVP, Research & Development",male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,lillie brian,143774915016118,,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,covert harold l,143774915016119,,male,0.0
+,,1633978,lumentum holdings inc.,,1,,,20150818,tachibana aaron,143774915016113,CFO,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,herscher penny,143774915016121,,female,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,thomas samuel f,143774915016122,,male,0.0
+,,1633978,lumentum holdings inc.,1,,,,20150818,kaplan martin a,143774915016120,,male,0.0
+8880.0,,1633978,lumentum holdings inc.,1,1,,,20150826,lowe alan s,143774915016477,CEO and President,male,0.0
+677.0,,1633978,lumentum holdings inc.,,1,,,20150826,hamel judy g,143774915016476,General Counsel & Secretary,female,0.0
+3607.0,,1633978,lumentum holdings inc.,,1,,,20150826,cocchi craig,143774915016475,"SVP, Operations",male,0.0
+3375.0,,1633978,lumentum holdings inc.,,1,,,20150826,tachibana aaron,143774915016480,CFO,male,0.0
+6801.0,,1633978,lumentum holdings inc.,,1,,,20150826,retort vincent,143774915016479,"SVP, Research & Development",male,0.0
+8880.0,,1633978,lumentum holdings inc.,1,1,,,20150826,lowe alan s,143774915016477,CEO and President,male,0.0
+6801.0,,1633978,lumentum holdings inc.,,1,,,20150826,retort vincent,143774915016479,"SVP, Research & Development",male,0.0
+1964.0,,1633978,lumentum holdings inc.,,1,,,20150826,reinhardt jason,143774915016478,"SVP, Sales",male,0.0
+1964.0,,1633978,lumentum holdings inc.,,1,,,20150826,reinhardt jason,143774915016478,"SVP, Sales",male,0.0
+677.0,,1633978,lumentum holdings inc.,,1,,,20150826,hamel judy g,143774915016476,General Counsel & Secretary,female,0.0
+3607.0,,1633978,lumentum holdings inc.,,1,,,20150826,cocchi craig,143774915016475,"SVP, Operations",male,0.0
+3375.0,,1633978,lumentum holdings inc.,,1,,,20150826,tachibana aaron,143774915016480,CFO,male,0.0
+984.0,,1633978,lumentum holdings inc.,,1,,,20150918,hamel judy g,143774915017496,General Counsel & Secretary,female,0.0
+984.0,,1633978,lumentum holdings inc.,,1,,,20150918,hamel judy g,143774915017496,General Counsel & Secretary,female,0.0
+16244.0,,1633978,lumentum holdings inc.,,1,,,20150929,retort vincent,143774915017811,"SVP, Research & Development",male,58970645.0
+4791.0,,1633978,lumentum holdings inc.,,1,,,20150929,reinhardt jason,143774915017810,"SVP, Sales",male,58970645.0
+70832.0,,1633978,lumentum holdings inc.,1,1,,,20150929,lowe alan s,143774915017809,CEO and President,male,58970645.0
+10715.0,,1633978,lumentum holdings inc.,,1,,,20150929,cocchi craig,143774915017808,"SVP, Operations",male,58970645.0
+10715.0,,1633978,lumentum holdings inc.,,1,,,20150929,cocchi craig,143774915017808,"SVP, Operations",male,58970645.0
+70832.0,,1633978,lumentum holdings inc.,1,1,,,20150929,lowe alan s,143774915017809,CEO and President,male,58970645.0
+16244.0,,1633978,lumentum holdings inc.,,1,,,20150929,retort vincent,143774915017811,"SVP, Research & Development",male,58970645.0
+4791.0,,1633978,lumentum holdings inc.,,1,,,20150929,reinhardt jason,143774915017810,"SVP, Sales",male,58970645.0
+6783.0,,1633978,lumentum holdings inc.,,1,,,20151117,tachibana aaron,143774915021081,CFO,male,58975368.0
+12491.0,,1633978,lumentum holdings inc.,1,,,,20151117,herscher penny,143774915021090,,female,58975368.0
+14849.0,,1633978,lumentum holdings inc.,1,,,,20151117,kaplan martin a,143774915021091,,male,58975368.0
+11879.0,,1633978,lumentum holdings inc.,1,,,,20151117,covert harold l,143774915021087,,male,58975368.0
+46861.0,,1633978,lumentum holdings inc.,1,1,,,20151123,lowe alan s,143774915021375,CEO and President,male,58975368.0
+1214.0,,1633978,lumentum holdings inc.,,1,,,20151124,hamel judy g,143774915021434,General Counsel & Secretary,female,58975368.0
+5401.0,,1633978,lumentum holdings inc.,,1,,,20151124,reinhardt jason,143774915021436,"SVP, Sales",male,58975368.0
+17766.0,,1633978,lumentum holdings inc.,,1,,,20151124,retort vincent,143774915021437,"SVP, Research & Development",male,58975368.0
+7382.0,,1633978,lumentum holdings inc.,,1,,,20151124,tachibana aaron,143774915021438,CFO,male,58975368.0
+11960.0,,1633978,lumentum holdings inc.,,1,,,20151124,cocchi craig,143774915021435,"SVP, Operations",male,58975368.0
+70382.0,,1633978,lumentum holdings inc.,1,1,,,20151204,lowe alan s,143774915021782,CEO and President,male,58975368.0
+,,1633978,lumentum holdings inc.,1,,,,20151209,covert harold l,143774915021951,,male,58975368.0
+16904.0,,1633978,lumentum holdings inc.,1,,,,20151209,kaplan martin a,143774915021952,,male,58975368.0
+14546.0,,1633978,lumentum holdings inc.,1,,,,20151210,herscher penny,143774915022008,,female,58975368.0
+,,1633978,lumentum holdings inc.,1,,,,20151217,kaplan martin a,143774915022471,,male,58975368.0
+,,1633978,lumentum holdings inc.,1,,,,20151217,herscher penny,143774915022472,,female,58975368.0
+,,1633978,lumentum holdings inc.,1,,,,20151217,covert harold l,143774915022473,,male,58975368.0
+,,1633978,lumentum holdings inc.,1,,,,20151217,lillie brian,143774915022470,,male,58975368.0
+,,1633978,lumentum holdings inc.,1,,,,20151217,thomas samuel f,143774915022469,,male,58975368.0
+11922.0,,1633978,lumentum holdings inc.,1,,,,20151222,herscher penny,143774915022666,,female,58975368.0
+11960.0,,1633978,lumentum holdings inc.,0,1,0,0,20160212,cocchi craig,163397816000003,"SVP, Operations",male,59089050.0
+6936.0,,1633978,lumentum holdings inc.,0,1,0,0,20160217,reinhardt jason,163397816000005,"SVP, Sales",male,59089050.0
+1726.0,,1633978,lumentum holdings inc.,0,1,0,0,20160217,hamel judy g,163397816000007,General Counsel & Secretary,female,59089050.0
+7480.0,,1633978,lumentum holdings inc.,0,1,0,0,20160224,reinhardt jason,163397816000013,"EVP, Global Sales",male,59089050.0
+5545.0,70382.0,1633978,lumentum holdings inc.,0,1,0,0,20160224,lowe alan s,163397816000015,CEO and President,male,59089050.0
+7990.0,,1633978,lumentum holdings inc.,0,1,0,0,20160224,tachibana aaron,163397816000017,CFO,male,59089050.0
+19311.0,,1633978,lumentum holdings inc.,0,1,0,0,20160224,retort vincent,163397816000019,EVP and COO,male,59089050.0
+1934.0,,1633978,lumentum holdings inc.,0,1,0,0,20160224,hamel judy g,163397816000009,General Counsel & Secretary,female,59089050.0
+13206.0,,1633978,lumentum holdings inc.,0,1,0,0,20160224,cocchi craig,163397816000011,"SVP, Operations",male,59089050.0
+13385.0,,1633978,lumentum holdings inc.,0,1,0,0,20160304,retort vincent,163397816000021,EVP and COO,male,59089050.0
+9692855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160317,viavi solutions inc.,114036116058281,,male,59089050.0
+9192855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160323,viavi solutions inc.,114036116058876,,male,59089050.0
+6558.0,,1633978,lumentum holdings inc.,1,0,0,0,20160513,covert harold l,163397816000023,,male,59280367.0
+9617.0,70832.0,1633978,lumentum holdings inc.,0,1,0,0,20160524,lowe alan s,163397816000035,CEO and President,male,59280367.0
+2570.0,,1633978,lumentum holdings inc.,0,1,0,0,20160524,hamel judy g,163397816000031,General Counsel & Secretary,female,59280367.0
+9243.0,,1633978,lumentum holdings inc.,0,1,0,0,20160524,tachibana aaron,163397816000029,CFO,male,59280367.0
+8051.0,,1633978,lumentum holdings inc.,0,1,0,0,20160524,reinhardt jason,163397816000027,"EVP, Global Sales",male,59280367.0
+15495.0,,1633978,lumentum holdings inc.,0,1,0,0,20160524,retort vincent,163397816000025,EVP and COO,male,59280367.0
+2078.0,,1633978,lumentum holdings inc.,0,1,0,0,20160527,hamel judy g,163397816000037,General Counsel & Secretary,female,59280367.0
+8192855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160602,viavi solutions inc.,114036116068285,,male,59280367.0
+7842855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160603,viavi solutions inc.,114036116068626,,male,59280367.0
+7242855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160627,viavi solutions inc.,114036116070918,,male,59280367.0
+6242855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160715,viavi solutions inc.,114036116072631,,male,59580596.0
+5242855.0,,1633978,lumentum holdings inc.,0,0,1,0,20160719,viavi solutions inc.,114036116072835,,male,59580596.0
+2647.0,,1633978,lumentum holdings inc.,0,1,0,0,20160719,hamel judy g,163397816000039,General Counsel & Secretary,female,59580596.0
+587.0,,1633978,lumentum holdings inc.,0,1,0,0,20160727,retort vincent,163397816000041,EVP and COO,male,59580596.0
+9841.0,,1633978,lumentum holdings inc.,1,0,0,0,20160817,covert harold l,163397816000061,,male,59580596.0
+15690.0,,1633978,lumentum holdings inc.,0,1,0,0,20160817,reinhardt jason,163397816000049,"EVP, Global Sales",male,59580596.0
+15205.0,,1633978,lumentum holdings inc.,1,0,0,0,20160817,herscher penny,163397816000057,,female,59580596.0
+36137.0,70832.0,1633978,lumentum holdings inc.,0,1,0,0,20160817,lowe alan s,163397816000043,CEO and President,male,59580596.0
+8701.0,,1633978,lumentum holdings inc.,0,1,0,0,20160817,retort vincent,163397816000047,EVP and COO,male,59580596.0
+19325.0,,1633978,lumentum holdings inc.,0,1,0,0,20160817,tachibana aaron,163397816000051,CFO,male,59580596.0
+20187.0,,1633978,lumentum holdings inc.,1,0,0,0,20160817,kaplan martin a,163397816000053,,male,59580596.0
+3283.0,,1633978,lumentum holdings inc.,1,0,0,0,20160817,thomas samuel f,163397816000055,,male,59580596.0
+3283.0,,1633978,lumentum holdings inc.,1,0,0,0,20160817,lillie brian,163397816000059,,male,59580596.0
+6221.0,,1633978,lumentum holdings inc.,0,1,0,0,20160817,hamel judy g,163397816000045,General Counsel & Secretary,female,59580596.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20160818,hamel judy g,163397816000067,General Counsel & Secretary,female,59580596.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20160818,tachibana aaron,163397816000063,CFO,male,59580596.0
+587.0,,1633978,lumentum holdings inc.,0,1,0,0,20160818,retort vincent,163397816000065,EVP and COO,male,59580596.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20160818,reinhardt jason,163397816000069,"EVP, Global Sales",male,59580596.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20160818,lowe alan s,163397816000071,CEO and President,male,59580596.0
+6451.0,,1633978,lumentum holdings inc.,0,1,0,0,20160823,hamel judy g,163397816000075,General Counsel & Secretary,female,59580596.0
+13839.0,,1633978,lumentum holdings inc.,0,1,0,0,20160823,tachibana aaron,163397816000073,CFO,male,59580596.0
+16261.0,,1633978,lumentum holdings inc.,0,1,0,0,20160823,reinhardt jason,163397816000077,"EVP, Global Sales",male,59580596.0
+2110.0,,1633978,lumentum holdings inc.,0,1,0,0,20160823,retort vincent,163397816000079,EVP and COO,male,59580596.0
+587.0,,1633978,lumentum holdings inc.,0,1,0,0,20160824,retort vincent,163397816000083,EVP and COO,male,59580596.0
+23610.0,,1633978,lumentum holdings inc.,0,1,0,0,20160824,lowe alan s,163397816000081,CEO and President,male,59580596.0
+0.0,,1633978,lumentum holdings inc.,0,1,0,0,20160906,lowe alan s,163397816000096,CEO and President,male,59580596.0
+19033.0,,1633978,lumentum holdings inc.,0,1,0,0,20160916,hamel judy g,163397816000098,General Counsel & Secretary,female,59580596.0
+51325.0,,1633978,lumentum holdings inc.,0,1,0,0,20160928,reinhardt jason,163397816000104,"EVP, Global Sales",male,59580596.0
+64621.0,,1633978,lumentum holdings inc.,0,1,0,0,20160928,retort vincent,163397816000100,EVP and COO,male,59580596.0
+145523.0,,1633978,lumentum holdings inc.,0,1,0,0,20160928,lowe alan s,163397816000102,CEO and President,male,59580596.0
+14105.0,,1633978,lumentum holdings inc.,1,0,0,0,20161115,covert harold l,163397816000106,,male,60132313.0
+19469.0,,1633978,lumentum holdings inc.,1,0,0,0,20161115,herscher penny,163397816000108,,female,60132313.0
+24451.0,,1633978,lumentum holdings inc.,1,0,0,0,20161115,kaplan martin a,163397816000110,,male,60132313.0
+7547.0,,1633978,lumentum holdings inc.,1,0,0,0,20161115,lillie brian,163397816000112,,male,60132313.0
+7547.0,,1633978,lumentum holdings inc.,1,0,0,0,20161115,thomas samuel f,163397816000114,,male,60132313.0
+16029.0,,1633978,lumentum holdings inc.,1,0,0,0,20161116,covert harold l,163397816000116,,male,60132313.0
+21393.0,,1633978,lumentum holdings inc.,1,0,0,0,20161116,herscher penny,163397816000118,,female,60132313.0
+26375.0,,1633978,lumentum holdings inc.,1,0,0,0,20161116,kaplan martin a,163397816000120,,male,60132313.0
+65149.0,,1633978,lumentum holdings inc.,0,1,0,0,20161117,retort vincent,163397816000130,EVP and COO,male,60132313.0
+20045.0,,1633978,lumentum holdings inc.,0,1,0,0,20161117,hamel judy g,163397816000122,General Counsel & Secretary,female,60132313.0
+145877.0,,1633978,lumentum holdings inc.,0,1,0,0,20161117,lowe alan s,163397816000124,CEO and President,male,60132313.0
+52304.0,,1633978,lumentum holdings inc.,0,1,0,0,20161117,reinhardt jason,163397816000128,"EVP, Global Sales",male,60132313.0
+41962.0,,1633978,lumentum holdings inc.,0,1,0,0,20161117,tachibana aaron,163397816000126,CFO,male,60132313.0
+20189.0,,1633978,lumentum holdings inc.,0,1,0,0,20161122,hamel judy g,163397816000132,General Counsel & Secretary,female,60132313.0
+65149.0,,1633978,lumentum holdings inc.,0,1,0,0,20161122,retort vincent,163397816000138,EVP and COO,male,60132313.0
+145877.0,,1633978,lumentum holdings inc.,0,1,0,0,20161122,lowe alan s,163397816000136,CEO and President,male,60132313.0
+42421.0,,1633978,lumentum holdings inc.,0,1,0,0,20161122,tachibana aaron,163397816000134,CFO,male,60132313.0
+23448.0,,1633978,lumentum holdings inc.,1,0,0,0,20161209,herscher penny,163397816000144,,female,60132313.0
+18084.0,,1633978,lumentum holdings inc.,1,0,0,0,20161209,covert harold l,163397816000142,,male,60132313.0
+28430.0,,1633978,lumentum holdings inc.,1,0,0,0,20161209,kaplan martin a,163397816000140,,male,60132313.0
+17416.0,,1633978,lumentum holdings inc.,1,0,0,0,20161216,thomas samuel f,163397816000154,,male,60132313.0
+17416.0,,1633978,lumentum holdings inc.,1,0,0,0,20161216,lillie brian,163397816000152,,male,60132313.0
+38299.0,,1633978,lumentum holdings inc.,1,0,0,0,20161216,kaplan martin a,163397816000150,,male,60132313.0
+33317.0,,1633978,lumentum holdings inc.,1,0,0,0,20161216,herscher penny,163397816000148,,female,60132313.0
+27953.0,,1633978,lumentum holdings inc.,1,0,0,0,20161216,covert harold l,163397816000146,,male,60132313.0
+140656.0,,1633978,lumentum holdings inc.,0,1,0,0,20170118,lowe alan s,163397817000002,CEO and President,male,60580652.0
+42304.0,,1633978,lumentum holdings inc.,0,1,0,0,20170213,reinhardt jason,163397817000009,"EVP, Global Sales",male,60956077.0
+15953.0,,1633978,lumentum holdings inc.,1,0,0,0,20170213,covert harold l,163397817000011,,male,60956077.0
+18375.0,,1633978,lumentum holdings inc.,0,1,0,0,20170214,hamel judy g,163397817000013,General Counsel & Secretary,female,60956077.0
+18746.0,,1633978,lumentum holdings inc.,0,1,0,0,20170217,hamel judy g,163397817000015,General Counsel & Secretary,female,60956077.0
+27777.0,,1633978,lumentum holdings inc.,1,0,0,0,20170217,herscher penny,163397817000017,,female,60956077.0
+140656.0,,1633978,lumentum holdings inc.,0,1,0,0,20170217,lowe alan s,163397817000019,CEO and President,male,60956077.0
+43437.0,,1633978,lumentum holdings inc.,0,1,0,0,20170217,reinhardt jason,163397817000021,"EVP, Global Sales",male,60956077.0
+65149.0,,1633978,lumentum holdings inc.,0,1,0,0,20170217,retort vincent,163397817000023,EVP and COO,male,60956077.0
+42421.0,,1633978,lumentum holdings inc.,0,1,0,0,20170217,tachibana aaron,163397817000025,CFO,male,60956077.0
+18684.0,,1633978,lumentum holdings inc.,0,1,0,0,20170221,hamel judy g,163397817000027,General Counsel & Secretary,female,60956077.0
+43021.0,,1633978,lumentum holdings inc.,0,1,0,0,20170221,tachibana aaron,163397817000029,CFO,male,60956077.0
+140656.0,,1633978,lumentum holdings inc.,0,1,0,0,20170222,lowe alan s,163397817000031,CEO and President,male,60956077.0
+65149.0,,1633978,lumentum holdings inc.,0,1,0,0,20170222,retort vincent,163397817000033,EVP and COO,male,60956077.0
+19001.0,,1633978,lumentum holdings inc.,0,1,0,0,20170517,hamel judy g,163397817000039,General Counsel & Secretary,female,61149950.0
+141162.0,,1633978,lumentum holdings inc.,0,1,0,0,20170517,lowe alan s,163397817000041,CEO and President,male,61149950.0
+44578.0,,1633978,lumentum holdings inc.,0,1,0,0,20170517,reinhardt jason,163397817000043,"EVP, Global Sales",male,61149950.0
+65460.0,,1633978,lumentum holdings inc.,0,1,0,0,20170517,retort vincent,163397817000045,EVP and COO,male,61149950.0
+43368.0,,1633978,lumentum holdings inc.,0,1,0,0,20170517,tachibana aaron,163397817000047,CFO,male,61149950.0
+65460.0,,1633978,lumentum holdings inc.,0,1,0,0,20170523,retort vincent,163397817000053,EVP and COO,male,61149950.0
+19143.0,,1633978,lumentum holdings inc.,0,1,0,0,20170523,hamel judy g,163397817000049,General Counsel & Secretary,female,61149950.0
+141162.0,,1633978,lumentum holdings inc.,0,1,0,0,20170523,lowe alan s,163397817000051,CEO and President,male,61149950.0
+43964.0,,1633978,lumentum holdings inc.,0,1,0,0,20170523,tachibana aaron,163397817000055,CFO,male,61149950.0
+20698.0,,1633978,lumentum holdings inc.,1,0,0,0,20170817,thomas samuel f,163397817000066,,male,61476103.0
+19235.0,,1633978,lumentum holdings inc.,1,0,0,0,20170817,covert harold l,163397817000060,,male,61476103.0
+41581.0,,1633978,lumentum holdings inc.,1,0,0,0,20170817,kaplan martin a,163397817000062,,male,61476103.0
+29746.0,,1633978,lumentum holdings inc.,1,0,0,0,20170817,herscher penny,163397817000064,,female,61476103.0
+20698.0,,1633978,lumentum holdings inc.,1,0,0,0,20170817,lillie brian,163397817000068,,male,61476103.0
+149078.0,,1633978,lumentum holdings inc.,0,1,0,0,20170817,lowe alan s,163397817000070,CEO and President,male,61476103.0
+58596.0,,1633978,lumentum holdings inc.,0,1,0,0,20170817,retort vincent,163397817000078,EVP and COO,male,61476103.0
+20202.0,,1633978,lumentum holdings inc.,0,1,0,0,20170817,hamel judy g,163397817000076,General Counsel & Secretary,female,61476103.0
+44736.0,,1633978,lumentum holdings inc.,0,1,0,0,20170817,reinhardt jason,163397817000074,"EVP, Global Sales",male,61476103.0
+45893.0,,1633978,lumentum holdings inc.,0,1,0,0,20170817,tachibana aaron,163397817000072,CFO,male,61476103.0
+265905.0,,1633978,lumentum holdings inc.,0,1,0,0,20170821,lowe alan s,163397817000080,CEO and President,male,61476103.0
+73827.0,,1633978,lumentum holdings inc.,0,1,0,0,20170822,tachibana aaron,163397817000088,CFO,male,61476103.0
+67287.0,,1633978,lumentum holdings inc.,0,1,0,0,20170822,reinhardt jason,163397817000086,"EVP, Global Sales",male,61476103.0
+102694.0,,1633978,lumentum holdings inc.,0,1,0,0,20170822,retort vincent,163397817000084,EVP and COO,male,61476103.0
+28074.0,,1633978,lumentum holdings inc.,0,1,0,0,20170822,hamel judy g,163397817000082,General Counsel & Secretary,female,61476103.0
+68333.0,,1633978,lumentum holdings inc.,0,1,0,0,20170823,tachibana aaron,163397817000094,CFO,male,61476103.0
+87819.0,,1633978,lumentum holdings inc.,0,1,0,0,20170823,retort vincent,163397817000090,EVP and COO,male,61476103.0
+237810.0,,1633978,lumentum holdings inc.,0,1,0,0,20170823,lowe alan s,163397817000092,CEO and President,male,61476103.0
+242174.0,,1633978,lumentum holdings inc.,0,1,0,0,20170926,lowe alan s,163397817000097,CEO and President,male,61476103.0
+90299.0,,1633978,lumentum holdings inc.,0,1,0,0,20170926,retort vincent,163397817000099,EVP and COO,male,61476103.0
+90299.0,,1633978,lumentum holdings inc.,0,1,0,0,20171002,retort vincent,163397817000101,EVP and COO,male,62006405.0
+237810.0,,1633978,lumentum holdings inc.,0,1,0,0,20171004,lowe alan s,163397817000103,CEO and President,male,62006405.0
+22227.0,,1633978,lumentum holdings inc.,1,0,0,0,20171103,covert harold l,163397817000121,,male,62000000.0
+23690.0,,1633978,lumentum holdings inc.,1,0,0,0,20171103,thomas samuel f,163397817000129,,male,62000000.0
+23690.0,,1633978,lumentum holdings inc.,1,0,0,0,20171103,lillie brian,163397817000127,,male,62000000.0
+44573.0,,1633978,lumentum holdings inc.,1,0,0,0,20171103,kaplan martin a,163397817000125,,male,62000000.0
+32738.0,,1633978,lumentum holdings inc.,1,0,0,0,20171103,herscher penny,163397817000123,,female,62000000.0
+3419.0,,1633978,lumentum holdings inc.,1,0,0,0,20171109,johnson julia suzanne,163397817000137,,female,62000000.0
+29573.0,,1633978,lumentum holdings inc.,1,0,0,0,20171113,kaplan martin a,163397817000139,,male,62000000.0
+28301.0,,1633978,lumentum holdings inc.,0,1,0,0,20171117,hamel judy g,163397817000149,General Counsel & Secretary,female,62000000.0
+89242.0,,1633978,lumentum holdings inc.,0,1,0,0,20171117,retort vincent,163397817000147,EVP and COO,male,62000000.0
+66743.0,,1633978,lumentum holdings inc.,0,1,0,0,20171117,reinhardt jason,163397817000145,"EVP, Global Sales",male,62000000.0
+71078.0,,1633978,lumentum holdings inc.,0,1,0,0,20171117,tachibana aaron,163397817000143,CFO,male,62000000.0
+237888.0,,1633978,lumentum holdings inc.,0,1,0,0,20171117,lowe alan s,163397817000141,CEO and President,male,62000000.0
+226215.0,,1633978,lumentum holdings inc.,0,1,0,0,20171121,lowe alan s,163397817000151,CEO and President,male,62000000.0
+69830.0,,1633978,lumentum holdings inc.,0,1,0,0,20171122,tachibana aaron,163397817000153,CFO,male,62000000.0
+26573.0,,1633978,lumentum holdings inc.,1,0,0,0,20171201,kaplan martin a,163397817000155,,male,62000000.0
+28628.0,,1633978,lumentum holdings inc.,1,0,0,0,20171211,kaplan martin a,163397817000163,,male,62000000.0
+33971.0,,1633978,lumentum holdings inc.,1,0,0,0,20171211,herscher penny,163397817000159,,female,62000000.0
+24282.0,,1633978,lumentum holdings inc.,1,0,0,0,20171211,covert harold l,163397817000161,,male,62000000.0
+22628.0,,1633978,lumentum holdings inc.,1,0,0,0,20180213,kaplan martin a,163397818000005,,male,62400000.0
+16718.0,,1633978,lumentum holdings inc.,1,0,0,0,20180213,covert harold l,163397818000006,,male,62400000.0
+57435.0,,1633978,lumentum holdings inc.,0,1,0,0,20180213,reinhardt jason,163397818000007,"EVP, Global Sales",male,62400000.0
+221003.0,,1633978,lumentum holdings inc.,1,1,0,0,20180221,lowe alan s,163397818000011,CEO and President,male,62400000.0
+70530.0,,1633978,lumentum holdings inc.,0,1,0,0,20180221,tachibana aaron,163397818000013,CFO,male,62400000.0
+57682.0,,1633978,lumentum holdings inc.,0,1,0,0,20180221,reinhardt jason,163397818000015,"EVP, Global Sales",male,62400000.0
+28773.0,,1633978,lumentum holdings inc.,0,1,0,0,20180221,hamel judy g,163397818000017,General Counsel & Secretary,female,62400000.0
+89429.0,,1633978,lumentum holdings inc.,0,1,0,0,20180221,retort vincent,163397818000019,EVP and COO,male,62400000.0
+214543.0,,1633978,lumentum holdings inc.,1,1,0,0,20180222,lowe alan s,163397818000021,CEO and President,male,62400000.0
+68530.0,,1633978,lumentum holdings inc.,0,1,0,0,20180307,tachibana aaron,163397818000023,CFO,male,62400000.0
+77318.0,,1633978,lumentum holdings inc.,0,1,0,0,20180312,retort vincent,163397818000025,EVP and COO,male,62400000.0
+26773.0,,1633978,lumentum holdings inc.,0,1,0,0,20180312,hamel judy g,163397818000027,General Counsel & Secretary,female,62400000.0
+77034.0,,1633978,lumentum holdings inc.,0,1,0,0,20180517,retort vincent,163397818000032,EVP and COO,male,62600000.0
+69570.0,,1633978,lumentum holdings inc.,0,1,0,0,20180517,tachibana aaron,163397818000034,CFO,male,62600000.0
+58165.0,,1633978,lumentum holdings inc.,0,1,0,0,20180517,reinhardt jason,163397818000036,"EVP, Global Sales",male,62600000.0
+33700.0,,1633978,lumentum holdings inc.,0,1,0,0,20180517,hamel judy g,163397818000038,SVP & General Counsel,female,62600000.0
+213925.0,,1633978,lumentum holdings inc.,1,1,0,0,20180517,lowe alan s,163397818000040,CEO and President,male,62600000.0
+202253.0,,1633978,lumentum holdings inc.,1,1,0,0,20180521,lowe alan s,163397818000042,CEO and President,male,62600000.0
+23587.0,,1633978,lumentum holdings inc.,0,1,0,0,20180615,coldren christopher w.,163397818000052,Interim CFO,male,62600000.0
+19364.0,,1633978,lumentum holdings inc.,0,1,0,0,20180615,sepe matthew joseph,163397818000053,Chief Accounting Officer,male,62600000.0
+17898.0,,1633978,lumentum holdings inc.,0,1,0,0,20180716,sepe matthew joseph,163397818000055,Chief Accounting Officer,male,62790087.0
+213209.0,,1633978,lumentum holdings inc.,1,1,0,0,20180816,lowe alan s,163397818000064,CEO and President,male,62790087.0
+23980.0,,1633978,lumentum holdings inc.,1,0,0,0,20180816,thomas samuel f,163397818000066,,male,62790087.0
+25910.0,,1633978,lumentum holdings inc.,1,0,0,0,20180816,kaplan martin a,163397818000068,,male,62790087.0
+20000.0,,1633978,lumentum holdings inc.,1,0,0,0,20180816,covert harold l,163397818000070,,male,62790087.0
+35940.0,,1633978,lumentum holdings inc.,1,0,0,0,20180816,herscher penny,163397818000074,,female,62790087.0
+23980.0,,1633978,lumentum holdings inc.,1,0,0,0,20180816,lillie brian,163397818000072,,male,62790087.0
+18910.0,,1633978,lumentum holdings inc.,1,0,0,0,20180817,kaplan martin a,163397818000076,,male,62790087.0
+22929.0,,1633978,lumentum holdings inc.,0,1,1,0,20180817,coldren christopher w.,163397818000078,Interim CFO,male,62790087.0
+73634.0,,1633978,lumentum holdings inc.,0,1,0,0,20180817,tachibana aaron,163397818000080,CFO,male,62790087.0
+76014.0,,1633978,lumentum holdings inc.,0,1,0,0,20180817,retort vincent,163397818000082,EVP and COO,male,62790087.0
+36072.0,,1633978,lumentum holdings inc.,0,1,0,0,20180817,hamel judy g,163397818000084,SVP & General Cousel,female,62790087.0
+61023.0,,1633978,lumentum holdings inc.,0,1,0,0,20180817,reinhardt jason,163397818000086,"EVP, Global Sales",male,62790087.0
+17332.0,,1633978,lumentum holdings inc.,0,1,0,0,20180821,sepe matthew joseph,163397818000088,Chief Accounting Officer,male,62790087.0
+220130.0,,1633978,lumentum holdings inc.,1,1,0,0,20180821,lowe alan s,163397818000089,CEO and President,male,62790087.0
+73945.0,,1633978,lumentum holdings inc.,0,1,0,0,20180821,tachibana aaron,163397818000090,CFO,male,62790087.0
+76514.0,,1633978,lumentum holdings inc.,0,1,0,0,20180821,retort vincent,163397818000091,EVP and COO,male,62790087.0
+61279.0,,1633978,lumentum holdings inc.,0,1,0,0,20180821,reinhardt jason,163397818000092,"EVP, Global Sales",male,62790087.0
+36633.0,,1633978,lumentum holdings inc.,0,1,0,0,20180821,hamel judy g,163397818000093,SVP & General Cousel,female,62790087.0
+23538.0,,1633978,lumentum holdings inc.,0,1,0,0,20180821,coldren christopher w.,163397818000094,Interim CFO,male,62790087.0
+75455.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,tachibana aaron,163397818000098,CFO,male,62790087.0
+15332.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,sepe matthew joseph,163397818000105,Chief Accounting Officer,male,62790087.0
+34138.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,hamel judy g,163397818000104,SVP & General Cousel,female,62790087.0
+35361.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,hamel judy g,163397818000103,SVP & General Cousel,female,62790087.0
+20122.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,coldren christopher w.,163397818000102,Interim CFO,male,62790087.0
+25387.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,coldren christopher w.,163397818000101,Interim CFO,male,62790087.0
+86381.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,retort vincent,163397818000100,EVP and COO,male,62790087.0
+63011.0,,1633978,lumentum holdings inc.,0,1,0,0,20180824,reinhardt jason,163397818000099,"EVP, Global Sales",male,62790087.0
+177032.0,,1633978,lumentum holdings inc.,1,1,0,0,20180824,lowe alan s,163397818000096,CEO and President,male,62790087.0
+103242.0,,1633978,lumentum holdings inc.,0,1,0,0,20180830,retort vincent,163397818000112,EVP and COO,male,62790087.0
+224831.0,,1633978,lumentum holdings inc.,1,1,0,0,20180830,lowe alan s,163397818000109,CEO and President,male,62790087.0
+76424.0,,1633978,lumentum holdings inc.,0,1,0,0,20180830,reinhardt jason,163397818000110,"EVP, Global Sales",male,62790087.0
+19430.0,,1633978,lumentum holdings inc.,0,1,0,0,20180830,sepe matthew joseph,163397818000114,Chief Accounting Officer,male,62790087.0
+42156.0,,1633978,lumentum holdings inc.,0,1,0,0,20180830,hamel judy g,163397818000113,SVP & General Cousel,female,62790087.0
+28140.0,,1633978,lumentum holdings inc.,0,1,0,0,20180830,coldren christopher w.,163397818000111,Interim CFO,male,62790087.0
+34743.0,,1633978,lumentum holdings inc.,1,0,0,0,20181102,herscher penny,163397818000116,,female,63400000.0
+37760.0,,1633978,lumentum holdings inc.,1,0,0,0,20181109,herscher penny,163397818000128,,female,63400000.0
+6436.0,,1633978,lumentum holdings inc.,1,0,0,0,20181109,johnson julia suzanne,163397818000129,,female,63400000.0
+21927.0,,1633978,lumentum holdings inc.,1,0,0,0,20181109,kaplan martin a,163397818000130,,male,63400000.0
+23017.0,,1633978,lumentum holdings inc.,1,0,0,0,20181109,covert harold l,163397818000131,,male,63400000.0
+29989.0,,1633978,lumentum holdings inc.,1,0,0,0,20181113,lillie brian,163397818000138,,male,63400000.0
+29989.0,,1633978,lumentum holdings inc.,1,0,0,0,20181113,thomas samuel f,163397818000135,,male,63400000.0
+27348.0,,1633978,lumentum holdings inc.,0,1,0,0,20181119,coldren christopher w.,163397818000144,Interim CFO,male,63400000.0
+98483.0,,1633978,lumentum holdings inc.,0,1,0,0,20181119,retort vincent,163397818000146,EVP and COO,male,63400000.0
+74676.0,,1633978,lumentum holdings inc.,0,1,0,0,20181119,reinhardt jason,163397818000147,"EVP, Global Sales",male,63400000.0
+19617.0,,1633978,lumentum holdings inc.,0,1,0,0,20181119,sepe matthew joseph,163397818000148,Chief Accounting Officer,male,63400000.0
+41309.0,,1633978,lumentum holdings inc.,0,1,0,0,20181119,hamel judy g,163397818000145,SVP & General Cousel,female,63400000.0
+213693.0,,1633978,lumentum holdings inc.,1,1,0,0,20181119,lowe alan s,163397818000143,CEO and President,male,63400000.0
+7041.0,,1633978,lumentum holdings inc.,1,0,0,0,20181217,small ian,163397818000154,,male,63400000.0
+133928.0,,1633978,lumentum holdings inc.,0,1,0,0,20190215,ali wajid,163397819000009,EVP & Chief Financial Officer,male,76100000.0
+20000.0,,1633978,lumentum holdings inc.,1,0,0,0,20190215,covert harold l,163397819000011,,male,76100000.0
+23913.0,,1633978,lumentum holdings inc.,0,1,0,0,20190220,sepe matthew joseph,163397819000023,Chief Accounting Officer,male,76100000.0
+95057.0,,1633978,lumentum holdings inc.,0,1,0,0,20190220,retort vincent,163397819000021,EVP and COO,male,76100000.0
+73452.0,,1633978,lumentum holdings inc.,0,1,0,0,20190220,reinhardt jason,163397819000020,"EVP, Global Sales",male,76100000.0
+46222.0,,1633978,lumentum holdings inc.,0,1,0,0,20190220,hamel judy g,163397819000019,SVP & General Cousel,female,76100000.0
+204849.0,,1633978,lumentum holdings inc.,1,1,0,0,20190220,lowe alan s,163397819000018,CEO and President,male,76100000.0
+63877.0,,1633978,lumentum holdings inc.,0,1,0,0,20190222,reinhardt jason,163397819000025,"EVP, Global Sales",male,76100000.0
+18902.0,,1633978,lumentum holdings inc.,1,0,0,0,20190227,kaplan martin a,163397819000028,,male,76100000.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20190513,hamel judy g,163397819000034,"SVP, GC and Secretary",female,76400000.0
+203051.0,,1633978,lumentum holdings inc.,0,1,0,0,20190517,lowe alan s,163397819000040,Chief Executive Officer,male,76400000.0
+24321.0,,1633978,lumentum holdings inc.,0,1,0,0,20190517,sepe matthew joseph,163397819000041,Chief Accounting Officer,male,76400000.0
+43468.0,,1633978,lumentum holdings inc.,0,1,0,0,20190517,hamel judy g,163397819000042,"SVP, GC and Secretary",female,76400000.0
+63236.0,,1633978,lumentum holdings inc.,0,1,0,0,20190517,reinhardt jason,163397819000043,"EVP, Global Sales",male,76400000.0
+92252.0,,1633978,lumentum holdings inc.,0,1,0,0,20190517,retort vincent,163397819000044,"EVP, Chief Operating Officer",male,76400000.0
+194337.0,,1633978,lumentum holdings inc.,0,1,0,0,20190520,lowe alan s,163397819000046,Chief Executive Officer,male,76400000.0
+91011.0,,1633978,lumentum holdings inc.,0,1,0,0,20190521,retort vincent,163397819000059,"EVP, Chief Operating Officer",male,76400000.0
+24208.0,,1633978,lumentum holdings inc.,0,1,0,0,20190521,sepe matthew joseph,163397819000052,Chief Accounting  Officer,male,76400000.0
+43313.0,,1633978,lumentum holdings inc.,0,1,0,0,20190521,hamel judy g,163397819000048,"SVP, GC and Secretary",female,76400000.0
+62919.0,,1633978,lumentum holdings inc.,0,1,0,0,20190521,reinhardt jason,163397819000056,"EVP, Global Sales",male,76400000.0
+24024.0,,1633978,lumentum holdings inc.,0,1,0,0,20190617,sepe matthew joseph,163397819000065,Chief Accounting Officer,male,76400000.0
+22558.0,,1633978,lumentum holdings inc.,0,1,0,0,20190716,sepe matthew joseph,163397819000067,Chief Accounting Officer,male,76653478.0
+42510.0,,1633978,lumentum holdings inc.,0,1,0,0,20190812,hamel judy g,120919119045451,"SVP, GC and Secretary",female,76653478.0
+17747.0,,1633978,lumentum holdings inc.,0,1,0,0,20190815,sepe matthew joseph,120919119046061,Chief Accounting Officer,male,76653478.0
+17519.0,,1633978,lumentum holdings inc.,0,1,0,0,20190819,sepe matthew joseph,120919119046743,Chief Accounting Officer,male,76653478.0
+86103.0,,1633978,lumentum holdings inc.,0,1,0,0,20190819,retort vincent,120919119046742,"EVP, Chief Operating Officer",male,76653478.0
+61691.0,,1633978,lumentum holdings inc.,0,1,0,0,20190819,reinhardt jason,120919119046741,"EVP, Global Sales",male,76653478.0
+183558.0,,1633978,lumentum holdings inc.,1,1,0,0,20190819,lowe alan s,120919119046740,Chief Executive Officer,male,76653478.0
+41873.0,,1633978,lumentum holdings inc.,0,1,0,0,20190819,hamel judy g,120919119046739,"SVP, GC and Secretary",female,76653478.0
+36691.0,,1633978,lumentum holdings inc.,0,1,0,0,20190823,reinhardt jason,120919119047279,"EVP, Global Sales",male,76653478.0
+251726.0,,1633978,lumentum holdings inc.,1,1,0,0,20190826,lowe alan s,120919119047452,Chief Executive Officer,male,76653478.0
+53960.0,,1633978,lumentum holdings inc.,0,1,0,0,20190826,reinhardt jason,120919119047453,"EVP, Global Sales",male,76653478.0
+117006.0,,1633978,lumentum holdings inc.,0,1,0,0,20190826,retort vincent,120919119047454,"EVP, Chief Operating Officer",male,76653478.0
+26608.0,,1633978,lumentum holdings inc.,0,1,0,0,20190826,sepe matthew joseph,120919119047455,Chief Accounting Officer,male,76653478.0
+160059.0,,1633978,lumentum holdings inc.,0,1,0,0,20190826,ali wajid,120919119047450,EVP & Chief Financial Officer,male,76653478.0
+52325.0,,1633978,lumentum holdings inc.,0,1,0,0,20190826,hamel judy g,120919119047451,"SVP, GC and Secretary",female,76653478.0
+57587.0,,1633978,lumentum holdings inc.,0,1,0,0,20190830,hamel judy g,120919119047872,"SVP, GC and Secretary",female,76653478.0
+26129.0,,1633978,lumentum holdings inc.,0,1,0,0,20190830,sepe matthew joseph,120919119047876,Chief Accounting Officer,male,76653478.0
+65157.0,,1633978,lumentum holdings inc.,0,1,0,0,20190830,reinhardt jason,120919119047874,"EVP, Global Sales",male,76653478.0
+134552.0,,1633978,lumentum holdings inc.,0,1,0,0,20190830,retort vincent,120919119047875,"EVP, Chief Operating Officer",male,76653478.0
+292668.0,,1633978,lumentum holdings inc.,1,1,0,0,20190830,lowe alan s,120919119047873,Chief Executive Officer,male,76653478.0
+26081.0,,1633978,lumentum holdings inc.,0,1,0,0,20190917,sepe matthew joseph,120919119049885,Chief Accounting Officer,male,76653478.0
+256423.0,,1633978,lumentum holdings inc.,1,1,0,0,20191002,lowe alan s,120919119051618,Chief Executive Officer,male,77184591.0
+233536.0,,1633978,lumentum holdings inc.,1,1,0,0,20191030,lowe alan s,120919119054517,Chief Executive Officer,male,77200000.0
+191893.0,,1633978,lumentum holdings inc.,1,1,0,0,20191101,lowe alan s,120919119054732,Chief Executive Officer,male,77200000.0
+51795.0,,1633978,lumentum holdings inc.,0,1,0,0,20191104,hamel judy g,120919119055057,"SVP, GC and Secretary",female,77200000.0
+22989.0,,1633978,lumentum holdings inc.,1,0,0,0,20191112,lillie brian,120919119056226,,male,77200000.0
+24064.0,,1633978,lumentum holdings inc.,1,0,0,0,20191118,covert harold l,120919119057055,,male,77200000.0
+41824.0,,1633978,lumentum holdings inc.,1,0,0,0,20191118,herscher penny,120919119057056,,female,77200000.0
+27053.0,,1633978,lumentum holdings inc.,1,0,0,0,20191118,lillie brian,120919119057058,,male,77200000.0
+11105.0,,1633978,lumentum holdings inc.,1,0,0,0,20191118,small ian,120919119057059,,male,77200000.0
+10500.0,,1633978,lumentum holdings inc.,1,0,0,0,20191118,johnson julia suzanne,120919119057065,,female,77200000.0
+50725.0,,1633978,lumentum holdings inc.,0,1,0,0,20191119,hamel judy g,120919119057371,"SVP, GC and Secretary",female,77200000.0
+26009.0,,1633978,lumentum holdings inc.,0,1,0,0,20191119,sepe matthew joseph,120919119057368,Chief Accounting Officer,male,77200000.0
+64234.0,,1633978,lumentum holdings inc.,0,1,0,0,20191119,reinhardt jason,120919119057369,"EVP, Global Sales",male,77200000.0
+179037.0,,1633978,lumentum holdings inc.,1,1,0,0,20191119,lowe alan s,120919119057367,Chief Executive Officer,male,77200000.0
+34053.0,,1633978,lumentum holdings inc.,1,0,0,0,20191119,thomas samuel f,120919119057092,,male,77200000.0
+130365.0,,1633978,lumentum holdings inc.,0,1,0,0,20191119,retort vincent,120919119057370,"EVP, Chief Operating Officer",male,77200000.0
+40617.0,,1633978,lumentum holdings inc.,1,0,0,0,20191120,herscher penny,120919119057453,,female,77200000.0
+176406.0,,1633978,lumentum holdings inc.,1,1,0,0,20191122,lowe alan s,120919119057859,Chief Executive Officer,male,77200000.0
+46891.0,,1633978,lumentum holdings inc.,0,1,0,0,20191126,hamel judy g,120919119058105,"SVP, GC and Secretary",female,77200000.0
+83457.0,,1633978,lumentum holdings inc.,0,1,0,0,20191126,retort vincent,120919119058107,"EVP, Chief Operating Officer",male,77200000.0
+25961.0,,1633978,lumentum holdings inc.,0,1,0,0,20191218,sepe matthew joseph,120919119061230,Chief Accounting Officer,male,77200000.0
+151197.0,,1633978,lumentum holdings inc.,0,1,0,0,20191218,ali wajid,120919119061232,EVP & Chief Financial Officer,male,77200000.0
+43778.0,,1633978,lumentum holdings inc.,0,1,0,0,20191231,hamel judy g,120919119062327,"SVP, GC and Secretary",female,74716401.0
+15989.0,,1633978,lumentum holdings inc.,1,0,0,0,20200207,lillie brian,163397820000006,,male,74700000.0
+132729.0,,1633978,lumentum holdings inc.,0,1,0,0,20200219,ali wajid,120919120010878,EVP & Chief Financial Officer,male,74700000.0
+42824.0,,1633978,lumentum holdings inc.,0,1,0,0,20200219,hamel judy g,120919120010880,"SVP, GC and Secretary",female,74700000.0
+175957.0,,1633978,lumentum holdings inc.,1,1,0,0,20200219,lowe alan s,120919120010882,Chief Executive Officer,male,74700000.0
+65338.0,,1633978,lumentum holdings inc.,0,1,0,0,20200219,reinhardt jason,120919120010883,"EVP, Global Sales",male,74700000.0
+84481.0,,1633978,lumentum holdings inc.,0,1,0,0,20200219,retort vincent,120919120010884,"EVP, Chief Operating Officer",male,74700000.0
+25218.0,,1633978,lumentum holdings inc.,0,1,0,0,20200219,sepe matthew joseph,120919120010885,Chief Accounting Officer,male,74700000.0
+164212.0,,1633978,lumentum holdings inc.,1,1,0,0,20200220,lowe alan s,120919120011342,Chief Executive Officer,male,74700000.0
+161492.0,,1633978,lumentum holdings inc.,1,1,0,0,20200224,lowe alan s,120919120011983,Chief Executive Officer,male,74700000.0
+25171.0,,1633978,lumentum holdings inc.,0,1,0,0,20200316,sepe matthew joseph,120919120019426,Chief Accounting Officer,male,74700000.0
+12489.0,,1633978,lumentum holdings inc.,1,0,0,0,20200506,lillie brian,120919120027537,,male,74900000.0
+161194.0,,1633978,lumentum holdings inc.,1,1,0,0,20200508,lowe alan s,120919120027943,Chief Executive Officer,male,74900000.0
+22275.0,,1633978,lumentum holdings inc.,0,1,0,0,20200508,sepe matthew joseph,120919120027947,Chief Accounting Officer,male,74900000.0
+107365.0,,1633978,lumentum holdings inc.,0,1,0,0,20200511,ali wajid,120919120028242,EVP & Chief Financial Officer,male,74900000.0
+22176.0,,1633978,lumentum holdings inc.,0,1,0,0,20200519,sepe matthew joseph,120919120030722,Chief Accounting Officer,male,74900000.0
+76134.0,,1633978,lumentum holdings inc.,0,1,0,0,20200519,retort vincent,120919120030719,"EVP, Chief Operating Officer",male,74900000.0
+62101.0,,1633978,lumentum holdings inc.,0,1,0,0,20200519,reinhardt jason,120919120030718,"EVP, Global Sales",male,74900000.0
+146629.0,,1633978,lumentum holdings inc.,1,1,0,0,20200519,lowe alan s,120919120030717,Chief Executive Officer,male,74900000.0
+102017.0,,1633978,lumentum holdings inc.,0,1,0,0,20200519,ali wajid,120919120030716,EVP & Chief Financial Officer,male,74900000.0
+39436.0,,1633978,lumentum holdings inc.,0,1,0,0,20200519,hamel judy g,120919120030715,"SVP, GC and Secretary",female,74900000.0
+22129.0,,1633978,lumentum holdings inc.,0,1,0,0,20200616,sepe matthew joseph,120919120037099,Chief Accounting Officer,male,74900000.0
+131056.0,,1633978,lumentum holdings inc.,1,1,0,0,20200702,lowe alan s,120919120040641,Chief Executive Officer,male,75100000.0
+20671.0,,1633978,lumentum holdings inc.,0,1,0,0,20200715,sepe matthew joseph,120919120042536,Chief Accounting Officer,male,75100000.0
+8989.0,,1633978,lumentum holdings inc.,1,0,0,0,20200806,lillie brian,120919120045493,,male,75100000.0
+97209.0,,1633978,lumentum holdings inc.,0,1,0,0,20200814,ali wajid,120919120046798,EVP & Chief Financial Officer,male,75100000.0
+14337.0,,1633978,lumentum holdings inc.,1,0,0,0,20200814,thomas samuel f,120919120046803,,male,75100000.0
+91862.0,,1633978,lumentum holdings inc.,0,1,0,0,20200817,ali wajid,120919120047013,EVP & Chief Financial Officer,male,75100000.0
+38371.0,,1633978,lumentum holdings inc.,0,1,0,0,20200817,hamel judy g,120919120047014,"SVP, GC and Secretary",female,75100000.0
+123753.0,,1633978,lumentum holdings inc.,1,1,0,0,20200817,lowe alan s,120919120047017,Chief Executive Officer,male,75100000.0
+60765.0,,1633978,lumentum holdings inc.,0,1,0,0,20200817,reinhardt jason,120919120047018,"EVP, Global Sales",male,75100000.0
+72956.0,,1633978,lumentum holdings inc.,0,1,0,0,20200817,retort vincent,120919120047021,"EVP, Chief Operating Officer",male,75100000.0
+19278.0,,1633978,lumentum holdings inc.,0,1,0,0,20200817,sepe matthew joseph,120919120047022,Chief Accounting Officer,male,75100000.0
+14064.0,,1633978,lumentum holdings inc.,1,0,0,0,20200817,covert harold l,120919120047010,,male,75100000.0
+87055.0,,1633978,lumentum holdings inc.,0,1,0,0,20200818,ali wajid,120919120047342,EVP & Chief Financial Officer,male,75100000.0
+12981.0,,1633978,lumentum holdings inc.,0,1,0,0,20200818,sepe matthew joseph,120919120047343,Chief Accounting Officer,male,75100000.0
+38157.0,,1633978,lumentum holdings inc.,0,1,0,0,20200820,hamel judy g,120919120047801,"SVP, GC and Secretary",female,75100000.0
+60269.0,,1633978,lumentum holdings inc.,0,1,0,0,20200820,reinhardt jason,120919120047802,"EVP, Global Sales",male,75100000.0
+202815.0,,1633978,lumentum holdings inc.,1,1,0,0,20200820,lowe alan s,120919120047826,Chief Executive Officer,male,75100000.0
+71752.0,,1633978,lumentum holdings inc.,0,1,0,0,20200820,retort vincent,120919120047803,"EVP, Chief Operating Officer",male,75100000.0
+18002.0,,1633978,lumentum holdings inc.,0,1,0,0,20200821,sepe matthew joseph,120919120047912,Chief Accounting Officer,male,75100000.0
+112768.0,,1633978,lumentum holdings inc.,0,1,0,0,20200821,retort vincent,120919120047907,"EVP, Chief Operating Officer",male,75100000.0
+83968.0,,1633978,lumentum holdings inc.,0,1,0,0,20200821,reinhardt jason,120919120047906,"EVP, Global Sales",male,75100000.0
+53492.0,,1633978,lumentum holdings inc.,0,1,0,0,20200821,hamel judy g,120919120047905,"SVP, GC and Secretary",female,75100000.0
+121129.0,,1633978,lumentum holdings inc.,0,1,0,0,20200821,ali wajid,120919120047904,EVP & Chief Financial Officer,male,75100000.0
+165928.0,,1633978,lumentum holdings inc.,1,1,0,0,20200824,lowe alan s,120919120048170,Chief Executive Officer,male,75100000.0
+50687.0,,1633978,lumentum holdings inc.,0,1,0,0,20200824,hamel judy g,120919120048169,"SVP, GC and Secretary",female,75100000.0
+106989.0,,1633978,lumentum holdings inc.,0,1,0,0,20200824,ali wajid,120919120048168,EVP & Chief Financial Officer,male,75100000.0
+80290.0,,1633978,lumentum holdings inc.,0,1,0,0,20200824,reinhardt jason,120919120048171,"EVP, Global Sales",male,75100000.0
+104476.0,,1633978,lumentum holdings inc.,0,1,0,0,20200824,retort vincent,120919120048172,"EVP, Chief Operating Officer",male,75100000.0
+17935.0,,1633978,lumentum holdings inc.,0,1,0,0,20200916,sepe matthew joseph,120919120050753,Chief Accounting Officer,male,75100000.0
+2239.0,,1633978,lumentum holdings inc.,1,0,0,0,20200922,wong janet s.,120919120051513,,female,75100000.0
+165612.0,,1633978,lumentum holdings inc.,1,1,0,0,20201106,lowe alan s,120919120057333,Chief Executive Officer,male,75500000.0
+43834.0,,1633978,lumentum holdings inc.,0,1,0,0,20201106,hamel judy g,120919120057331,"SVP, GC and Secretary",female,75500000.0
+5489.0,,1633978,lumentum holdings inc.,1,0,0,0,20201106,lillie brian,120919120057332,,male,75500000.0
+10000.0,,1633978,lumentum holdings inc.,1,0,0,0,20201109,covert harold l,120919120057436,,male,75500000.0
+70290.0,,1633978,lumentum holdings inc.,0,1,0,0,20201109,reinhardt jason,120919120057437,"EVP, Global Sales",male,75500000.0
+93300.0,,1633978,lumentum holdings inc.,0,1,0,0,20201117,ali wajid,120919120058920,EVP & Chief Financial Officer,male,75500000.0
+155925.0,,1633978,lumentum holdings inc.,1,1,0,0,20201117,lowe alan s,120919120058923,Chief Executive Officer,male,75500000.0
+68757.0,,1633978,lumentum holdings inc.,0,1,0,0,20201117,reinhardt jason,120919120058925,"EVP, Global Sales",male,75500000.0
+100345.0,,1633978,lumentum holdings inc.,0,1,0,0,20201117,retort vincent,120919120058926,"EVP, Chief Operating Officer",male,75500000.0
+17305.0,,1633978,lumentum holdings inc.,0,1,0,0,20201117,sepe matthew joseph,120919120058927,Chief Accounting Officer,male,75500000.0
+38991.0,,1633978,lumentum holdings inc.,1,0,0,0,20201117,herscher penny,120919120058929,,female,75500000.0
+42241.0,,1633978,lumentum holdings inc.,0,1,0,0,20201117,hamel judy g,120919120058922,"SVP, GC and Secretary",female,75500000.0
+13771.0,,1633978,lumentum holdings inc.,1,0,0,0,20201120,small ian,120919120059838,,male,75500000.0
+12666.0,,1633978,lumentum holdings inc.,1,0,0,0,20201120,covert harold l,120919120059831,,male,75500000.0
+41657.0,,1633978,lumentum holdings inc.,1,0,0,0,20201120,herscher penny,120919120059833,,female,75500000.0
+13166.0,,1633978,lumentum holdings inc.,1,0,0,0,20201120,johnson julia suzanne,120919120059835,,female,75500000.0
+8155.0,,1633978,lumentum holdings inc.,1,0,0,0,20201120,lillie brian,120919120059836,,male,75500000.0
+146063.0,,1633978,lumentum holdings inc.,1,1,0,0,20201130,lowe alan s,120919120060808,Chief Executive Officer,male,75500000.0
+37376.0,,1633978,lumentum holdings inc.,0,1,0,0,20201208,hamel judy g,120919120062362,"SVP, GC and Secretary",female,75500000.0
+17238.0,,1633978,lumentum holdings inc.,0,1,0,0,20201216,sepe matthew joseph,120919120063895,Chief Accounting Officer,male,75500000.0
+89181.0,,1633978,lumentum holdings inc.,0,1,0,0,20201229,retort vincent,120919120065368,"EVP, Chief Operating Officer",male,75700000.0
+84730.0,,1633978,lumentum holdings inc.,0,1,0,0,20210113,retort vincent,120919121003499,"EVP, Chief Operating Officer",male,75700000.0
+35781.0,,1633978,lumentum holdings inc.,0,1,0,0,20210217,hamel judy g,120919121011589,"SVP, GC and Secretary",female,75700000.0
+16698.0,,1633978,lumentum holdings inc.,0,1,0,0,20210217,sepe matthew joseph,120919121011595,Chief Accounting Officer,male,75700000.0
+81724.0,,1633978,lumentum holdings inc.,0,1,0,0,20210217,retort vincent,120919121011594,"EVP, Chief Operating Officer",male,75700000.0
+67040.0,,1633978,lumentum holdings inc.,0,1,0,0,20210217,reinhardt jason,120919121011592,"EVP, Global Sales",male,75700000.0
+79611.0,,1633978,lumentum holdings inc.,0,1,0,0,20210217,ali wajid,120919121011588,EVP & Chief Financial Officer,male,75700000.0
+126464.0,,1633978,lumentum holdings inc.,1,1,0,0,20210217,lowe alan s,120919121011590,Chief Executive Officer,male,75700000.0
+16651.0,,1633978,lumentum holdings inc.,0,1,0,0,20210316,sepe matthew joseph,163397821000006,Chief Accounting Officer,male,75700000.0
+65510.0,,1633978,lumentum holdings inc.,0,1,0,0,20210517,reinhardt jason,163397821000017,"EVP, Global Sales",male,75900000.0
+77662.0,,1633978,lumentum holdings inc.,0,1,0,0,20210517,retort vincent,163397821000019,"EVP, Chief Operating Officer",male,75900000.0
+117032.0,,1633978,lumentum holdings inc.,1,1,0,0,20210517,lowe alan s,163397821000015,Chief Executive Officer,male,75900000.0
+16393.0,,1633978,lumentum holdings inc.,0,1,0,0,20210517,sepe matthew joseph,163397821000021,Chief Accounting Officer,male,75900000.0
+72402.0,,1633978,lumentum holdings inc.,0,1,0,0,20210517,ali wajid,163397821000011,EVP & Chief Financial Officer,male,75900000.0
+33272.0,,1633978,lumentum holdings inc.,0,1,0,0,20210517,hamel judy g,163397821000013,"SVP, GC and Secretary",female,75900000.0
+65921.0,,1633978,lumentum holdings inc.,0,1,0,0,20210607,ali wajid,163397821000027,EVP & Chief Financial Officer,male,75900000.0
+16346.0,,1633978,lumentum holdings inc.,0,1,0,0,20210616,sepe matthew joseph,163397821000033,Chief Accounting Officer,male,75900000.0
+2556.0,,1633978,lumentum holdings inc.,1,0,0,0,20210701,harris isaac hosojiro,163397821000035,,male,75900000.0
+84004.0,,1633978,lumentum holdings inc.,0,1,0,0,20210812,ali wajid,163397821000036,EVP & Chief Financial Officer,male,73000000.0
+99779.0,,1633978,lumentum holdings inc.,0,1,0,0,20210812,retort vincent,163397821000040,"EVP, Chief Operating Officer",male,73000000.0
+78661.0,,1633978,lumentum holdings inc.,0,1,0,0,20210812,reinhardt jason,163397821000039,"EVP, Global Sales",male,73000000.0
+166742.0,,1633978,lumentum holdings inc.,1,1,0,0,20210812,lowe alan s,163397821000038,Chief Executive Officer,male,73000000.0
+42239.0,,1633978,lumentum holdings inc.,0,1,0,0,20210812,hamel judy g,163397821000037,"SVP, GC and Secretary",female,73000000.0
+95508.0,,1633978,lumentum holdings inc.,0,1,0,0,20210817,retort vincent,163397821000045,"EVP, Chief Operating Officer",male,73000000.0
+157042.0,,1633978,lumentum holdings inc.,1,1,0,0,20210817,lowe alan s,163397821000043,Chief Executive Officer,male,73000000.0
+40648.0,,1633978,lumentum holdings inc.,0,1,0,0,20210817,hamel judy g,163397821000042,"SVP, GC and Secretary",female,73000000.0
+76795.0,,1633978,lumentum holdings inc.,0,1,0,0,20210817,ali wajid,163397821000041,EVP & Chief Financial Officer,male,73000000.0
+15838.0,,1633978,lumentum holdings inc.,0,1,0,0,20210817,sepe matthew joseph,163397821000046,Chief Accounting Officer,male,73000000.0
+76762.0,,1633978,lumentum holdings inc.,0,1,0,0,20210817,reinhardt jason,163397821000044,"EVP, Global Sales",male,73000000.0
+140664.0,,1633978,lumentum holdings inc.,1,1,0,0,20210820,lowe alan s,163397821000050,Chief Executive Officer,male,73000000.0
+58360.0,,1633978,lumentum holdings inc.,0,1,0,0,20210820,ali wajid,163397821000047,EVP & Chief Financial Officer,male,73000000.0
+15258.0,,1633978,lumentum holdings inc.,0,1,0,0,20210820,sepe matthew joseph,163397821000048,Chief Accounting Officer,male,73000000.0
+88257.0,,1633978,lumentum holdings inc.,0,1,0,0,20210820,retort vincent,163397821000052,"EVP, Chief Operating Officer",male,73000000.0
+73340.0,,1633978,lumentum holdings inc.,0,1,0,0,20210820,reinhardt jason,163397821000051,"EVP, Global Sales",male,73000000.0
+37709.0,,1633978,lumentum holdings inc.,0,1,0,0,20210820,hamel judy g,163397821000049,"SVP, GC and Secretary",female,73000000.0
+12113.0,,1633978,lumentum holdings inc.,0,1,0,0,20210825,sepe matthew joseph,163397821000054,Chief Accounting Officer,male,73000000.0
+130803.0,,1633978,lumentum holdings inc.,1,1,0,0,20210825,lowe alan s,163397821000053,Chief Executive Officer,male,73000000.0
+17868.0,,1633978,lumentum holdings inc.,0,1,0,0,20210901,sepe matthew joseph,163397821000055,Chief Accounting Officer,male,73000000.0
+111883.0,,1633978,lumentum holdings inc.,0,1,0,0,20210902,retort vincent,163397821000061,"EVP, Chief Operating Officer",male,73000000.0
+88182.0,,1633978,lumentum holdings inc.,0,1,0,0,20210902,reinhardt jason,163397821000059,"EVP, Global Sales",male,73000000.0
+182418.0,,1633978,lumentum holdings inc.,1,1,0,0,20210902,lowe alan s,163397821000058,Chief Executive Officer,male,73000000.0
+48613.0,,1633978,lumentum holdings inc.,0,1,0,0,20210902,hamel judy g,163397821000057,"SVP, GC and Secretary",female,73000000.0
+77594.0,,1633978,lumentum holdings inc.,0,1,0,0,20210902,ali wajid,163397821000056,EVP & Chief Financial Officer,male,73000000.0
+35160.0,,1633978,lumentum holdings inc.,1,0,0,0,20211109,herscher penny,163397821000065,,female,72300000.0
+155904.0,,1633978,lumentum holdings inc.,1,1,0,0,20211110,lowe alan s,163397821000069,Chief Executive Officer,male,72300000.0
+37849.0,,1633978,lumentum holdings inc.,0,1,0,0,20211110,hamel judy g,163397821000067,"SVP, GC and Secretary",female,72300000.0
+108104.0,,1633978,lumentum holdings inc.,0,1,0,0,20211117,retort vincent,163397821000078,"EVP, Chief Operating Officer",male,72300000.0
+86579.0,,1633978,lumentum holdings inc.,0,1,0,0,20211117,reinhardt jason,163397821000076,"EVP, Global Sales",male,72300000.0
+138465.0,,1633978,lumentum holdings inc.,1,1,0,0,20211117,lowe alan s,163397821000074,Chief Executive Officer,male,72300000.0
+36183.0,,1633978,lumentum holdings inc.,0,1,0,0,20211117,hamel judy g,163397821000072,"SVP, GC and Secretary",female,72300000.0
+60918.0,,1633978,lumentum holdings inc.,0,1,0,0,20211117,ali wajid,163397821000071,EVP & Chief Financial Officer,male,72300000.0
+17391.0,,1633978,lumentum holdings inc.,0,1,0,0,20211117,sepe matthew joseph,163397821000080,Chief Accounting Officer,male,72300000.0
+81025.0,,1633978,lumentum holdings inc.,0,1,0,0,20211122,reinhardt jason,163397821000081,"EVP, Global Sales",male,72300000.0
+36760.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,herscher penny,163397821000082,,female,72300000.0
+15284.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,covert harold l,163397821000084,,male,72300000.0
+15784.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,johnson julia suzanne,163397821000088,,female,72300000.0
+16389.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,small ian,163397821000092,,male,72300000.0
+5174.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,harris isaac hosojiro,163397821000086,,male,72300000.0
+26317.0,,1633978,lumentum holdings inc.,0,1,0,0,20211122,sepe matthew joseph,163397821000095,Chief Accounting Officer,male,72300000.0
+4857.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,wong janet s.,163397821000094,,female,72300000.0
+14837.0,,1633978,lumentum holdings inc.,1,0,0,0,20211122,lillie brian,163397821000090,,male,72300000.0
+14718.0,,1633978,lumentum holdings inc.,1,0,0,0,20211123,johnson julia suzanne,163397821000096,,female,72300000.0
+31172.0,,1633978,lumentum holdings inc.,0,1,0,0,20211210,hamel judy g,163397821000097,"SVP, GC and Secretary",female,72300000.0
+26165.0,,1633978,lumentum holdings inc.,0,1,0,0,20220207,sepe matthew joseph,163397822000001,Chief Accounting Officer,male,72200000.0
+44240.0,,1633978,lumentum holdings inc.,0,1,0,0,20220217,ali wajid,163397822000007,EVP & Chief Financial Officer,male,72200000.0
+120987.0,,1633978,lumentum holdings inc.,1,1,0,0,20220217,lowe alan s,163397822000006,Chief Executive Officer,male,72200000.0
+23417.0,,1633978,lumentum holdings inc.,0,1,0,0,20220217,sepe matthew joseph,163397822000005,Chief Accounting Officer,male,72200000.0
+105355.0,,1633978,lumentum holdings inc.,0,1,0,0,20220217,retort vincent,163397822000004,"EVP, Chief Operating Officer",male,72200000.0
+79409.0,,1633978,lumentum holdings inc.,0,1,0,0,20220217,reinhardt jason,163397822000003,"EVP, Global Sales",male,72200000.0
+29460.0,,1633978,lumentum holdings inc.,0,1,0,0,20220217,hamel judy g,163397822000002,"SVP, GC and Secretary",female,72200000.0
+6563.0,,1633978,lumentum holdings inc.,1,0,0,0,20220311,wong janet s.,163397822000008,,female,72200000.0
+120412.0,,1633978,lumentum holdings inc.,1,1,0,0,20220510,lowe alan s,163397822000009,Chief Executive Officer,male,69000000.0
+111979.0,,1633978,lumentum holdings inc.,1,1,0,0,20220517,lowe alan s,163397822000012,Chief Executive Officer,male,69000000.0
+37717.0,,1633978,lumentum holdings inc.,0,1,0,0,20220517,ali wajid,163397822000010,EVP & Chief Financial Officer,male,69000000.0
+28023.0,,1633978,lumentum holdings inc.,0,1,0,0,20220517,hamel judy g,163397822000011,"SVP, GC and Secretary",female,69000000.0
+77961.0,,1633978,lumentum holdings inc.,0,1,0,0,20220517,reinhardt jason,163397822000013,"EVP, Chief Commercial Officer",male,69000000.0
+23224.0,,1633978,lumentum holdings inc.,0,1,0,0,20220517,sepe matthew joseph,163397822000015,Chief Accounting Officer,male,69000000.0
+101792.0,,1633978,lumentum holdings inc.,0,1,0,0,20220517,retort vincent,163397822000014,"EVP, Chief Operating Officer",male,69000000.0
+33554.0,,1633978,lumentum holdings inc.,0,1,0,0,20220816,hamel judy g,163397822000017,"SVP, GC and Secretary",female,68000000.0
+22817.0,,1633978,lumentum holdings inc.,0,1,0,0,20220816,sepe matthew joseph,163397822000021,Chief Accounting Officer,male,68000000.0
+118507.0,,1633978,lumentum holdings inc.,0,1,0,0,20220816,retort vincent,163397822000020,"EVP, Chief Operating Officer",male,68000000.0
+87696.0,,1633978,lumentum holdings inc.,0,1,0,0,20220816,reinhardt jason,163397822000019,Chief Transformation Officer,male,68000000.0
+139946.0,,1633978,lumentum holdings inc.,1,1,0,0,20220816,lowe alan s,163397822000018,Chief Executive Officer,male,68000000.0
+51901.0,,1633978,lumentum holdings inc.,0,1,0,0,20220816,ali wajid,163397822000016,EVP & Chief Financial Officer,male,68000000.0
+12837.0,,1633978,lumentum holdings inc.,1,0,0,0,20220819,lillie brian,163397822000023,,male,68000000.0
+48614.0,,1633978,lumentum holdings inc.,0,1,0,0,20220819,ali wajid,163397822000022,EVP & Chief Financial Officer,male,68000000.0
+117413.0,,1633978,lumentum holdings inc.,1,1,0,0,20220824,lowe alan s,163397822000026,Chief Executive Officer,male,68000000.0
+30098.0,,1633978,lumentum holdings inc.,0,1,0,0,20220824,hamel judy g,163397822000025,"SVP, GC and Secretary",female,68000000.0
+31194.0,,1633978,lumentum holdings inc.,0,1,0,0,20220824,ali wajid,163397822000024,EVP & Chief Financial Officer,male,68000000.0
+108291.0,,1633978,lumentum holdings inc.,0,1,0,0,20220824,retort vincent,163397822000028,"EVP, Chief Operating Officer",male,68000000.0
+83165.0,,1633978,lumentum holdings inc.,0,1,0,0,20220824,reinhardt jason,163397822000027,Chief Transformation Officer,male,68000000.0
+52587.0,,1633978,lumentum holdings inc.,0,1,0,0,20220826,ali wajid,163397822000029,EVP & Chief Financial Officer,male,68000000.0
+133963.0,,1633978,lumentum holdings inc.,0,1,0,0,20220826,retort vincent,163397822000032,"EVP, Chief Operating Officer",male,68000000.0
+28318.0,,1633978,lumentum holdings inc.,0,1,0,0,20220826,sepe matthew joseph,163397822000033,Chief Accounting Officer,male,68000000.0
+179759.0,,1633978,lumentum holdings inc.,1,1,0,0,20220826,lowe alan s,163397822000034,Chief Executive Officer,male,68000000.0
+42017.0,,1633978,lumentum holdings inc.,0,1,0,0,20220826,hamel judy g,163397822000030,"SVP, GC and Secretary",female,68000000.0
+99057.0,,1633978,lumentum holdings inc.,0,1,0,0,20220826,reinhardt jason,163397822000031,Chief Transformation Officer,male,68000000.0
+24624.0,,1633978,lumentum holdings inc.,0,1,0,0,20220831,sepe matthew joseph,163397822000035,Chief Accounting Officer,male,68000000.0
+130058.0,,1633978,lumentum holdings inc.,0,1,0,0,20220902,retort vincent,163397822000039,"EVP, Chief Operating Officer",male,68000000.0
+171228.0,,1633978,lumentum holdings inc.,1,1,0,0,20220902,lowe alan s,163397822000040,Chief Executive Officer,male,68000000.0
+49407.0,,1633978,lumentum holdings inc.,0,1,0,0,20220902,ali wajid,163397822000036,EVP & Chief Financial Officer,male,68000000.0
+97109.0,,1633978,lumentum holdings inc.,0,1,0,0,20220902,reinhardt jason,163397822000038,Chief Transformation Officer,male,68000000.0
+40214.0,,1633978,lumentum holdings inc.,0,1,0,0,20220902,hamel judy g,163397822000037,"SVP, GC and Secretary",female,68000000.0
+18345.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,covert harold l,163397822000045,,male,68200000.0
+9624.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,wong janet s.,163397822000056,,female,68200000.0
+19450.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,small ian,163397822000055,,male,68200000.0
+24378.0,,1633978,lumentum holdings inc.,0,1,0,0,20221116,sepe matthew joseph,163397822000054,Chief Accounting Officer,male,68200000.0
+127378.0,,1633978,lumentum holdings inc.,0,1,0,0,20221116,retort vincent,163397822000053,"EVP, Chief Operating Officer",male,68200000.0
+47129.0,,1633978,lumentum holdings inc.,0,1,0,0,20221116,ali wajid,163397822000044,EVP & Chief Financial Officer,male,68200000.0
+95900.0,,1633978,lumentum holdings inc.,0,1,0,0,20221116,reinhardt jason,163397822000052,Chief Transformation Officer,male,68200000.0
+165044.0,,1633978,lumentum holdings inc.,1,1,0,0,20221116,lowe alan s,163397822000051,Chief Executive Officer,male,68200000.0
+39027.0,,1633978,lumentum holdings inc.,0,1,0,0,20221116,hamel judy g,163397822000046,"SVP, GC and Secretary",female,68200000.0
+8235.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,harris isaac hosojiro,163397822000047,,male,68200000.0
+3061.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,herscher penny,163397822000048,,female,68200000.0
+17779.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,johnson julia suzanne,163397822000049,,female,68200000.0
+15898.0,,1633978,lumentum holdings inc.,1,0,0,0,20221116,lillie brian,163397822000050,,male,68200000.0
+23348.0,,1633978,lumentum holdings inc.,0,1,0,0,20221121,sepe matthew joseph,163397822000057,Chief Accounting Officer,male,68200000.0
+94620.0,,1633978,lumentum holdings inc.,0,1,0,0,20230217,reinhardt jason,163397823000003,"EVP, General Manager",male,68500000.0
+44780.0,,1633978,lumentum holdings inc.,0,1,0,0,20230217,ali wajid,163397823000006,EVP & Chief Financial Officer,male,68500000.0
+22677.0,,1633978,lumentum holdings inc.,0,1,0,0,20230217,sepe matthew joseph,163397823000005,Chief Accounting Officer,male,68500000.0
+125362.0,,1633978,lumentum holdings inc.,0,1,0,0,20230217,retort vincent,163397823000004,"EVP, Chief Operating Officer",male,68500000.0
+158814.0,,1633978,lumentum holdings inc.,1,1,0,0,20230217,lowe alan s,163397823000002,Chief Executive Officer,male,68500000.0
+37757.0,,1633978,lumentum holdings inc.,0,1,0,0,20230217,hamel judy g,163397823000001,"SVP, GC and Secretary",female,68500000.0
+1739.0,,1633978,lumentum holdings inc.,1,0,0,0,20230224,fletcher pamela,163397823000010,,female,68500000.0
+93721.0,,1633978,lumentum holdings inc.,0,1,0,0,20230517,reinhardt jason,120919123030303,"EVP, General Manager",male,68700000.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20230517,ali wajid,120919123030293,EVP & Chief Financial Officer,male,68700000.0
+36569.0,,1633978,lumentum holdings inc.,0,1,0,0,20230517,hamel judy g,120919123030297,"SVP, GC and Secretary",female,68700000.0
+153031.0,,1633978,lumentum holdings inc.,1,1,0,0,20230517,lowe alan s,120919123030301,Chief Executive Officer,male,68700000.0
+123778.0,,1633978,lumentum holdings inc.,0,1,0,0,20230517,retort vincent,120919123030304,"EVP, Chief Operating Officer",male,68700000.0
+22555.0,,1633978,lumentum holdings inc.,0,1,0,0,20230517,sepe matthew joseph,120919123030308,Chief Accounting Officer,male,68700000.0
+35629.0,,1633978,lumentum holdings inc.,0,1,0,0,20230622,ali wajid,120919123039029,EVP & Chief Financial Officer,male,68700000.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20230817,ali wajid,120919123046342,EVP & Chief Financial Officer,male,66400000.0
+35381.0,,1633978,lumentum holdings inc.,0,1,0,0,20230817,hamel judy g,120919123046343,"SVP, GC and Secretary",female,66400000.0
+146801.0,,1633978,lumentum holdings inc.,1,1,0,0,20230817,lowe alan s,120919123046346,Chief Executive Officer,male,66400000.0
+92513.0,,1633978,lumentum holdings inc.,0,1,0,0,20230817,reinhardt jason,120919123046347,"EVP, General Manager",male,66400000.0
+121717.0,,1633978,lumentum holdings inc.,0,1,0,0,20230817,retort vincent,120919123046348,"EVP, Chief Operating Officer",male,66400000.0
+21986.0,,1633978,lumentum holdings inc.,0,1,0,0,20230817,sepe matthew joseph,120919123046349,Chief Accounting Officer,male,66400000.0
+152444.0,,1633978,lumentum holdings inc.,1,1,0,0,20230822,lowe alan s,120919123046971,Chief Executive Officer,male,66400000.0
+35341.0,,1633978,lumentum holdings inc.,0,1,0,0,20230822,ali wajid,120919123046969,EVP & Chief Financial Officer,male,66400000.0
+36367.0,,1633978,lumentum holdings inc.,0,1,0,0,20230822,hamel judy g,120919123046970,"SVP, GC and Secretary",female,66400000.0
+124877.0,,1633978,lumentum holdings inc.,0,1,0,0,20230822,retort vincent,120919123046976,"EVP, Chief Operating Officer",male,66400000.0
+94369.0,,1633978,lumentum holdings inc.,0,1,0,0,20230822,reinhardt jason,120919123046972,"EVP, General Manager",male,66400000.0
+44364.0,,1633978,lumentum holdings inc.,0,1,0,0,20230825,sepe matthew joseph,120919123047399,Chief Accounting Officer,male,66400000.0
+65420.0,,1633978,lumentum holdings inc.,0,1,0,0,20230825,ali wajid,120919123047392,EVP & Chief Financial Officer,male,66400000.0
+53268.0,,1633978,lumentum holdings inc.,0,1,0,0,20230825,hamel judy g,120919123047393,"SVP, GC and Secretary",female,66400000.0
+239681.0,,1633978,lumentum holdings inc.,1,1,0,0,20230825,lowe alan s,120919123047394,Chief Executive Officer,male,66400000.0
+117670.0,,1633978,lumentum holdings inc.,0,1,0,0,20230825,reinhardt jason,120919123047397,"EVP, General Manager",male,66400000.0
+160808.0,,1633978,lumentum holdings inc.,0,1,0,0,20230825,retort vincent,120919123047398,"EVP, Chief Operating Officer",male,66400000.0
+52324.0,,1633978,lumentum holdings inc.,0,1,0,0,20231117,hamel judy g,120919123055920,"SVP, GC and Secretary",female,67000000.0
+234972.0,,1633978,lumentum holdings inc.,1,1,0,0,20231117,lowe alan s,120919123055921,Chief Executive Officer,male,67000000.0
+158770.0,,1633978,lumentum holdings inc.,0,1,0,0,20231117,retort vincent,120919123055923,"EVP, Chief Operating Officer",male,67000000.0
+43781.0,,1633978,lumentum holdings inc.,0,1,0,0,20231117,sepe matthew joseph,120919123055924,Chief Accounting Officer,male,67000000.0
+11176.0,,1633978,lumentum holdings inc.,0,1,0,0,20231117,wupen yuen,120919123055925,See Remarks,male,67000000.0
+,,1633978,lumentum holdings inc.,0,1,0,0,20231117,ali wajid,120919123055786,EVP & Chief Financial Officer,male,67000000.0
+15040.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,wong janet s.,120919123056399,,female,67000000.0
+23761.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,covert harold l,120919123056373,,male,67000000.0
+7155.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,fletcher pamela,120919123056376,,female,67000000.0
+13651.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,harris isaac hosojiro,120919123056379,,male,67000000.0
+8477.0,39378.0,1633978,lumentum holdings inc.,1,0,0,0,20231121,herscher penny,120919123056380,,female,67000000.0
+22032.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,johnson julia suzanne,120919123056383,,female,67000000.0
+21314.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,lillie brian,120919123056384,,male,67000000.0
+24866.0,,1633978,lumentum holdings inc.,1,0,0,0,20231121,small ian,120919123056385,,male,67000000.0
+157215.0,,1633978,lumentum holdings inc.,false,true,false,false,20240220,retort vincent,141588924004507,"PRESIDENT, INDUSTRIAL TECH.",male,67400000.0
+61933.0,,1633978,lumentum holdings inc.,false,true,false,false,20240220,ali wajid,141588924004501,EVP & CHIEF FINANCIAL OFFICER,male,67400000.0
+51259.0,,1633978,lumentum holdings inc.,false,true,false,false,20240220,hamel judy g,141588924004503,"SVP, GC AND SECRETARY",female,67400000.0
+230131.0,,1633978,lumentum holdings inc.,true,true,false,false,20240220,lowe alan s,141588924004505,CHIEF EXECUTIVE OFFICER,male,67400000.0
+33188.0,,1633978,lumentum holdings inc.,false,true,false,false,20240220,sepe matthew joseph,141588924004511,CHIEF ACCOUNTING OFFICER,male,67400000.0
+10967.0,,1633978,lumentum holdings inc.,false,true,false,false,20240220,wupen yuen,141588924004513,"PRESIDENT, CLOUD & NETWORKING",male,67400000.0
+60217.0,,1633978,lumentum holdings inc.,false,true,false,false,20240517,ali wajid,141588924013632,EVP & CHIEF FINANCIAL OFFICER,male,67600000.0
+50594.0,,1633978,lumentum holdings inc.,false,true,false,false,20240517,hamel judy g,141588924013633,SVP AND SECRETARY,female,67600000.0
+10785.0,,1633978,lumentum holdings inc.,false,true,false,false,20240517,wupen yuen,141588924013637,"PRESIDENT, CLOUD & NETWORKING",male,67600000.0
+32587.0,,1633978,lumentum holdings inc.,false,true,false,false,20240517,sepe matthew joseph,141588924013636,CHIEF ACCOUNTING OFFICER,male,67600000.0
+155748.0,,1633978,lumentum holdings inc.,false,true,false,false,20240517,retort vincent,141588924013635,"PRESIDENT, INDUSTRIAL TECH.",male,67600000.0
+225318.0,,1633978,lumentum holdings inc.,true,true,false,false,20240517,lowe alan s,141588924013634,CHIEF EXECUTIVE OFFICER,male,67600000.0
+74283.0,,1633978,lumentum holdings inc.,false,true,false,false,20240723,wupen yuen,141588924020000,"PRESIDENT, CLOUD & NETWORKING",male,67900000.0
+73880.0,,1633978,lumentum holdings inc.,false,true,false,false,20240805,wupen yuen,141588924020794,"PRESIDENT, CLOUD & NETWORKING",male,67900000.0
+154281.0,,1633978,lumentum holdings inc.,false,true,false,false,20240819,retort vincent,141588924021654,"PRESIDENT, INDUSTRIAL TECH.",male,68000000.0
+58501.0,,1633978,lumentum holdings inc.,false,true,false,false,20240819,ali wajid,141588924021652,EVP & CHIEF FINANCIAL OFFICER,male,68000000.0
+220505.0,,1633978,lumentum holdings inc.,true,true,false,false,20240819,lowe alan s,141588924021653,CHIEF EXECUTIVE OFFICER,male,68000000.0
+31986.0,,1633978,lumentum holdings inc.,false,true,false,false,20240819,sepe matthew joseph,141588924021655,CHIEF ACCOUNTING OFFICER,male,68000000.0
+73698.0,,1633978,lumentum holdings inc.,false,true,false,false,20240819,wupen yuen,141588924021657,"PRESIDENT, CLOUD & NETWORKING",male,68000000.0
+160206.0,,1633978,lumentum holdings inc.,false,true,false,false,20240821,retort vincent,141588924021863,"PRESIDENT, INDUSTRIAL TECH.",male,68000000.0
+230429.0,,1633978,lumentum holdings inc.,true,true,false,false,20240821,lowe alan s,141588924021861,CHIEF EXECUTIVE OFFICER,male,68000000.0
+62200.0,,1633978,lumentum holdings inc.,false,true,false,false,20240821,ali wajid,141588924021859,EVP & CHIEF FINANCIAL OFFICER,male,68000000.0
+56659.0,,1633978,lumentum holdings inc.,false,true,false,false,20240827,ali wajid,141588924022367,EVP & CHIEF FINANCIAL OFFICER,male,68000000.0
+153560.0,,1633978,lumentum holdings inc.,false,true,false,false,20240827,retort vincent,141588924022369,"PRESIDENT, INDUSTRIAL TECH.",male,68000000.0
+65583.0,,1633978,lumentum holdings inc.,false,true,false,false,20240827,wupen yuen,141588924022371,"PRESIDENT, CLOUD & NETWORKING",male,68000000.0
+29310.0,,1633978,lumentum holdings inc.,false,true,false,false,20240827,sepe matthew joseph,141588924022370,CHIEF ACCOUNTING OFFICER,male,68000000.0
+214281.0,,1633978,lumentum holdings inc.,true,true,false,false,20240827,lowe alan s,141588924022368,CHIEF EXECUTIVE OFFICER,male,68000000.0
+42114.0,,1633978,lumentum holdings inc.,false,true,false,false,20240830,sepe matthew joseph,141588924022660,CHIEF ACCOUNTING OFFICER,male,68000000.0
+191972.0,,1633978,lumentum holdings inc.,false,true,false,false,20240830,retort vincent,141588924022659,"PRESIDENT, INDUSTRIAL TECH.",male,68000000.0
+307567.0,,1633978,lumentum holdings inc.,true,true,false,false,20240830,lowe alan s,141588924022658,CHIEF EXECUTIVE OFFICER,male,68000000.0
+38110.0,,1633978,lumentum holdings inc.,false,true,false,false,20240830,kim jae,141588924022657,"SVP, GENERAL COUNSEL",male,68000000.0
+88669.0,,1633978,lumentum holdings inc.,false,true,false,false,20240830,ali wajid,141588924022656,EVP & CHIEF FINANCIAL OFFICER,male,68000000.0
+99879.0,,1633978,lumentum holdings inc.,false,true,false,false,20240830,wupen yuen,141588924022661,"PRESIDENT, CLOUD & NETWORKING",male,68000000.0
+8761.0,,1633978,lumentum holdings inc.,true,false,false,false,20241114,covert harold l,141588924026902,,male,68700000.0
+21138.0,,1633978,lumentum holdings inc.,false,true,false,false,20241114,sepe matthew joseph,141588924026904,CHIEF ACCOUNTING OFFICER,male,68700000.0
+189225.0,,1633978,lumentum holdings inc.,false,true,false,false,20241119,retort vincent,141588924027290,"PRESIDENT, INDUSTRIAL TECH.",male,68700000.0
+300896.0,,1633978,lumentum holdings inc.,true,true,false,false,20241119,lowe alan s,141588924027289,CHIEF EXECUTIVE OFFICER,male,68700000.0
+97345.0,,1633978,lumentum holdings inc.,false,true,false,false,20241119,wupen yuen,141588924027291,"PRESIDENT, CLOUD & NETWORKING",male,68700000.0
+86379.0,,1633978,lumentum holdings inc.,false,true,false,false,20241119,ali wajid,141588924027288,EVP & CHIEF FINANCIAL OFFICER,male,68700000.0
+6310.0,39378.0,1633978,lumentum holdings inc.,true,false,false,false,20241120,herscher penny,141588924027377,,female,68700000.0
+28179.0,,1633978,lumentum holdings inc.,true,false,false,false,20241122,small ian,141588924027586,,male,68700000.0
+10468.0,,1633978,lumentum holdings inc.,true,false,false,false,20241122,fletcher pamela,141588924027581,,female,68700000.0
+9623.0,39378.0,1633978,lumentum holdings inc.,true,false,false,false,20241122,herscher penny,141588924027582,,female,68700000.0
+25345.0,,1633978,lumentum holdings inc.,true,false,false,false,20241122,johnson julia suzanne,141588924027583,,female,68700000.0
+16964.0,,1633978,lumentum holdings inc.,true,false,false,false,20241122,harris isaac hosojiro,141588924027584,,male,68700000.0
+8729.0,,1633978,lumentum holdings inc.,true,false,false,false,20241122,covert harold l,141588924027580,,male,68700000.0
+24627.0,,1633978,lumentum holdings inc.,true,false,false,false,20241122,lillie brian,141588924027585,,male,68700000.0
+3313.0,,1633978,lumentum holdings inc.,true,false,false,false,20241126,covert harold l,141588924027792,,male,68700000.0
+23287.0,,1633978,lumentum holdings inc.,true,false,false,false,20241126,johnson julia suzanne,141588924027793,,female,68700000.0
+147515.0,,1633978,lumentum holdings inc.,false,true,false,false,20241126,retort vincent,141588924027794,"PRESIDENT, INDUSTRIAL TECH.",male,68700000.0
+56492.0,,1633978,lumentum holdings inc.,false,true,false,false,20241203,ali wajid,141588924028202,EVP & CHIEF FINANCIAL OFFICER,male,68700000.0

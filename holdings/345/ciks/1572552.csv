@@ -1,35 +1,111 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-21823340.0,0.0,1572552,"asterias biotherapeutics, inc.",0,0,1,0.0,20131002,biotime inc,120919113046829,,male,
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20140403,nordhoff henry l,120919114025707,,male,
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20140403,kingsley alfred d,120919114025727,,male,
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20140403,von eschenbach andrew c.,120919114025697,,male,
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20140414,lebuhn richard t.,120919114027367,,male,
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",0,0,1,0.0,20140528,geron corp,120677414001803,,male,
-200000.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20140611,lichtinger pedro,120919114040749,Chief Executive Officer,male,
-400000.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20140616,lichtinger pedro,120919114041793,Chief Executive Officer,male,
-41.0,0.0,1572552,"asterias biotherapeutics, inc.",1,1,0,0.0,20140819,peabody robert,120919114053591,Chief Financial Officer,male,
-476.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20140820,lebkowski jane,120919114053723,"Pres., Research & Development",female,
-806000.0,0.0,1572552,"asterias biotherapeutics, inc.",0,0,1,0.0,20140908,scarsdale equities llc,153219914000006,,male,
-826000.0,0.0,1572552,"asterias biotherapeutics, inc.",0,0,1,0.0,20140925,scarsdale equities llc,153219914000007,,male,
-886000.0,0.0,1572552,"asterias biotherapeutics, inc.",0,0,0,1.0,20141006,scarsdale equities llc,153219914000008,,male,
-528205.0,0.0,1572552,"asterias biotherapeutics, inc.",1,1,0,0.0,20150211,lichtinger pedro,120919115012278,Chief Executive Officer,male,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,1,0,0.0,20150218,west michael d,120919115015746,VP of Technology Integration,male,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,1,0,0.0,20150218,lichtinger pedro,120919115015743,Chief Executive Officer,male,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,1,0,0.0,20150218,peabody robert,120919115015731,Chief Financial Officer,male,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,1,0,0.0,20150218,segall judith,120919115015723,Corporate Secretary,female,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150218,spink katharine e.,120919115015717,VP and Chief Operating Officer,female,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150218,lebkowski jane,120919115015709,President of R&D,female,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150218,kingsley alfred d,120919115015706,,male,30902152.0
-5000.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150626,arno andrew,114036115025488,,male,30902152.0
-5000.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150626,ricciardi natale s,114036115025487,,male,30902152.0
-5000.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150626,lebuhn richard t.,114036115025490,,male,30902152.0
-5000.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150626,kingsley alfred d,114036115025489,,male,30902152.0
-5388.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150702,lebkowski jane,114036115026570,President of R&D,female,30902152.0
-2880.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150702,wirth edward,114036115026571,Chief Medical Officer,male,30902152.0
-3760.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150702,spink katharine e.,114036115026572,VP and Chief Operating Officer,female,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150713,lebuhn richard t.,114036115027414,,male,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150713,arno andrew,114036115027415,,male,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",1,0,0,0.0,20150713,ricciardi natale s,114036115027417,,male,30902152.0
-476.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150916,lebkowski jane,114036115035230,President of R&D,female,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150916,spink katharine e.,114036115035226,VP and Chief Operating Officer,female,30902152.0
-0.0,0.0,1572552,"asterias biotherapeutics, inc.",0,1,0,0.0,20150916,wirth edward,114036115035228,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,0,1.0,0.0,20131002,biotime inc,120919113046829,,male,
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20140403,kingsley alfred d,120919114025727,,male,
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20140403,von eschenbach andrew c.,120919114025697,,male,
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20140403,nordhoff henry l,120919114025707,,male,
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20140414,lebuhn richard t.,120919114027367,,male,
+,,1572552,"asterias biotherapeutics, inc.",0,0,1.0,0.0,20140528,geron corp,120677414001803,,male,
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20140611,lichtinger pedro,120919114040749,Chief Executive Officer,male,
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20140616,lichtinger pedro,120919114041793,Chief Executive Officer,male,
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20140819,peabody robert,120919114053591,Chief Financial Officer,male,
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20140820,lebkowski jane,120919114053723,"Pres., Research & Development",female,
+,,1572552,"asterias biotherapeutics, inc.",0,0,1.0,0.0,20140908,scarsdale equities llc,153219914000006,,male,
+,,1572552,"asterias biotherapeutics, inc.",0,0,1.0,0.0,20140925,scarsdale equities llc,153219914000007,,male,
+,,1572552,"asterias biotherapeutics, inc.",0,0,0.0,1.0,20141006,scarsdale equities llc,153219914000008,,male,
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20150211,lichtinger pedro,120919115012278,Chief Executive Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150218,spink katharine e.,120919115015717,VP and Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20150218,segall judith,120919115015723,Corporate Secretary,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20150218,peabody robert,120919115015731,Chief Financial Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20150218,lichtinger pedro,120919115015743,Chief Executive Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150218,lebkowski jane,120919115015709,President of R&D,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20150218,west michael d,120919115015746,VP of Technology Integration,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150218,kingsley alfred d,120919115015706,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150626,lebuhn richard t.,114036115025490,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150626,arno andrew,114036115025488,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150626,ricciardi natale s,114036115025487,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150626,kingsley alfred d,114036115025489,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150702,spink katharine e.,114036115026572,VP and Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150702,lebkowski jane,114036115026570,President of R&D,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150702,wirth edward,114036115026571,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150713,ricciardi natale s,114036115027417,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150713,arno andrew,114036115027415,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20150713,lebuhn richard t.,114036115027414,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150916,spink katharine e.,114036115035226,VP and Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150916,spink katharine e.,114036115035226,VP and Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150916,wirth edward,114036115035228,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150916,lebkowski jane,114036115035230,President of R&D,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150916,lebkowski jane,114036115035230,President of R&D,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20150916,wirth edward,114036115035228,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20151106,spink katharine e.,114036115040015,Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20151112,erbez georgia,114036115040610,Exec VP & CFO,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20160119,lichtinger pedro,114036116048012,President & CEO,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,0,1.0,0.0,20160302,biotime inc,114036116056186,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20160329,spink katharine e.,114036116059378,Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20160329,wirth edward,114036116059376,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20160329,lebkowski jane,114036116059373,President of R&D,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20160429,scher howard isador,114036116062638,,male,30902152.0
+88235.0,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20160517,bailey don m,114036116065866,,male,30902152.0
+20000.0,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20160517,lebuhn richard t.,114036116065862,,male,30902152.0
+19706.0,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20160517,ricciardi natale s,114036116065860,,male,30902152.0
+9000.0,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20160610,kingsley alfred d,114036116069461,,male,30902152.0
+250000.0,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20160613,cartt stephen lahue,114036116069565,President and CEO,male,30902152.0
+25000.0,,1572552,"asterias biotherapeutics, inc.",1,0,0.0,0.0,20160701,lebuhn richard t.,114036116071421,,male,30902152.0
+260000.0,,1572552,"asterias biotherapeutics, inc.",1,1,0.0,0.0,20160701,cartt stephen lahue,114036116071335,President and CEO,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20160719,chavez ryan daniel,114036116072820,Exec. VP of Fin & Gen. Counsel,male,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20160912,spink katharine e.,114036116079565,Chief Operating Officer,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",0,1,0.0,0.0,20160912,wirth edward,114036116079564,Chief Medical Officer,male,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20161011,wirth edward,114036116082360,Chief Medical Officer,male,30902152.0
+13121.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20161011,lebkowski jane,114036116082359,President of R&D,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20161011,spink katharine e.,114036116082361,Chief Operating Officer,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20161121,wirth edward,114036116087418,Chief Medical Officer,male,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20161121,spink katharine e.,114036116087413,Chief Operating Officer,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20161128,spink katharine e.,114036116087951,Chief Operating Officer,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170106,wirth edward,114036117001017,Chief Medical Officer,male,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170106,spink katharine e.,114036117001018,Chief Operating Officer,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170111,spink katharine e.,114036117001563,Chief Operating Officer,female,30902152.0
+0.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170111,wirth edward,114036117001564,Chief Medical Officer,male,30902152.0
+17336.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170111,lebkowski jane,114036117001565,President of R&D,female,30902152.0
+292783.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20170403,cartt stephen lahue,114036117014420,President and CEO,male,30902152.0
+9565.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170403,chavez ryan daniel,114036117014417,CFO and General Counsel,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20170403,lebuhn richard t.,114036117014402,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20170403,scher howard isador,114036117014419,,male,30902152.0
+18209.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170403,spink katharine e.,114036117014405,Chief Operating Officer,female,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20170403,bailey don m,114036117014409,,male,30902152.0
+35006.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170403,lebkowski jane,114036117014413,President of R&D,female,30902152.0
+16922.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170403,wirth edward,114036117014424,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20170403,arno andrew,114036117014428,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20170403,ricciardi natale s,114036117014423,,male,30902152.0
+10949.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170607,spink katharine e.,114036117024342,EVP & COO,female,30902152.0
+102991.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170607,lebkowski jane,114036117024343,Chief Scientific Officer,female,30902152.0
+85177.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20170607,wirth edward,114036117024344,Chief Medical Officer,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,true,,,20170628,mulroy michael h.,114036117026470,President and CEO,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20170628,cartt stephen lahue,114036117026471,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",,true,,,20170628,spink katharine e.,114036117026472,EVP & COO,female,30902152.0
+1537.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20170927,mulroy michael h.,114036117036580,President and CEO,male,30902152.0
+3476.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20171027,mulroy michael h.,114036117039812,President and CEO,male,30902152.0
+5552.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20171129,mulroy michael h.,114036117044157,President and CEO,male,30902152.0
+7799.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20171228,mulroy michael h.,114036117047667,President and CEO,male,30902152.0
+9933.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180126,mulroy michael h.,114036118003400,President and CEO,male,30902152.0
+12188.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180228,mulroy michael h.,114036118010811,President and CEO,male,30902152.0
+181640.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20180319,chavez ryan daniel,114036118014132,CFO and General Counsel,male,30902152.0
+78702.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180319,mulroy michael h.,114036118014136,President and CEO,male,30902152.0
+186491.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20180319,wirth edward,114036118014134,Chief Medical Officer,male,30902152.0
+81541.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180328,mulroy michael h.,114036118015535,President and CEO,male,30902152.0
+175157.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20180330,chavez ryan daniel,114036118016241,CFO and General Counsel,male,30902152.0
+180008.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20180330,wirth edward,114036118016243,Chief Medical Officer,male,30902152.0
+85293.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180427,mulroy michael h.,114036118020186,President and CEO,male,30902152.0
+88446.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180531,mulroy michael h.,114036118026566,President and CEO,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20180625,arno andrew,114036118029798,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20180625,cartt stephen lahue,114036118029804,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20180625,bailey don m,114036118029801,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20180625,scher howard isador,114036118029814,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20180625,ricciardi natale s,114036118029809,,male,30902152.0
+,,1572552,"asterias biotherapeutics, inc.",true,,,,20180625,lebuhn richard t.,114036118029807,,male,30902152.0
+91513.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180627,mulroy michael h.,114036118030023,President and CEO,male,30902152.0
+94463.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180727,mulroy michael h.,114036118033875,President and CEO,male,30902152.0
+97604.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20180829,mulroy michael h.,114036118037213,President and CEO,male,30902152.0
+159568.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20190104,wirth edward,114036119000390,Chief Medical Officer,male,30902152.0
+154717.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20190104,chavez ryan daniel,114036119000392,CFO and General Counsel,male,30902152.0
+273622.0,,1572552,"asterias biotherapeutics, inc.",true,true,,,20190305,mulroy michael h.,114036119004431,President and CEO,male,30902152.0
+267194.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20190305,wirth edward,114036119004433,Chief Medical Officer,male,30902152.0
+255509.0,,1572552,"asterias biotherapeutics, inc.",,true,,,20190305,chavez ryan daniel,114036119004430,CFO and General Counsel,male,30902152.0

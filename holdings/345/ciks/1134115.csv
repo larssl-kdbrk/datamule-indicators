@@ -1,30 +1,88 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-383566.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20130107,pontius jeffrey a,114036113001340,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,talbot lawrence we,112329213000640,Vice Pres. and General Counsel,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,ritchie marla kathleen,112329213000641,Corporate Secretary,female,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,irwin thomas e,112329213000639,Vice President,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,yip tom sq,112329213000638,Chief Financial Officer,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20130729,drescher anton j,127351113000060,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140306,drescher anton j,127351114000035,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20140314,irwin thomas e,106299314001314,CEO AND PRESIDENT,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140314,hamilton mark r,106299314001318,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20140314,yip tom sq,106299314001320,CFO,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20140317,irwin thomas e,106299314001420,CEO AND PRESIDENT,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140317,drescher anton j,127351114000039,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140317,hamilton mark r,106299314001418,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140318,ellis john j.,106299314001441,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140325,lang stephen a,106299314001564,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140325,weng thomas s.,106299314001582,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140325,weng thomas s.,106299314001584,,male,98068638.0
-50000.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20141212,irwin thomas e,106299314007092,CEO AND PRESIDENT,male,98068638.0
-25000.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20141212,weng thomas s.,106299314007096,,male,98068638.0
-689218.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20141212,drescher anton j,127351114000139,,male,98068638.0
-100000.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20141215,lang stephen a,106299314007104,,male,98068638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150317,drescher anton j,127351115000028,,male,116313638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,lang stephen a,112329215000611,,male,116313638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20150318,irwin thomas e,112329215000612,CEO and President,male,116313638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,hamilton mark r,112329215000610,,male,116313638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,ellis john j.,112329215000609,,male,116313638.0
-0.0,0.0,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,weng thomas s.,112329215000613,,male,116313638.0
-0.0,0.0,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20150611,cross david allen,127956915001247,CHIEF FINANCIAL OFFICER,male,116313638.0
-731676.0,0.0,1134115,international tower hill mines ltd,1.0,1.0,0.0,0.0,20150702,drescher anton j,127956915001348,Director,male,116313638.0
+383566.0,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20130107,pontius jeffrey a,114036113001340,,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,irwin thomas e,112329213000639,Vice President,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,yip tom sq,112329213000638,Chief Financial Officer,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,ritchie marla kathleen,112329213000641,Corporate Secretary,female,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20130318,talbot lawrence we,112329213000640,Vice Pres. and General Counsel,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20130729,drescher anton j,127351113000060,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20140306,drescher anton j,127351114000035,,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20140314,irwin thomas e,106299314001314,CEO AND PRESIDENT,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20140314,yip tom sq,106299314001320,CFO,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140314,hamilton mark r,106299314001318,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140317,hamilton mark r,106299314001418,,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20140317,irwin thomas e,106299314001420,CEO AND PRESIDENT,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20140317,drescher anton j,127351114000039,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140318,ellis john j.,106299314001441,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140325,lang stephen a,106299314001564,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140325,weng thomas s.,106299314001584,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20140325,weng thomas s.,106299314001582,,male,98068638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20141212,irwin thomas e,106299314007092,CEO AND PRESIDENT,male,98068638.0
+689218.0,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20141212,drescher anton j,127351114000139,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20141212,weng thomas s.,106299314007096,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20141215,lang stephen a,106299314007104,,male,98068638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20150317,drescher anton j,127351115000028,,male,116313638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,weng thomas s.,112329215000613,,male,116313638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0.0,0.0,20150318,irwin thomas e,112329215000612,CEO and President,male,116313638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,ellis john j.,112329215000609,,male,116313638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,lang stephen a,112329215000611,,male,116313638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0.0,0.0,20150318,hamilton mark r,112329215000610,,male,116313638.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20150611,cross david allen,127956915001247,CHIEF FINANCIAL OFFICER,male,116313638.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20150702,drescher anton j,127956915001348,Director,male,116313638.0
+,,1134115,international tower hill mines ltd,0.0,0.0,1,0.0,20161230,paulson & co. inc.,114036116091226,,male,116353638.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20170717,irwin thomas e,127956917001453,,male,162186972.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20171102,lang stephen a,112329217001654,,male,162392996.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20171102,weng thomas s.,112329217001656,,male,162392996.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20171102,irwin thomas e,112329217001658,,male,162392996.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20171102,hanneman karl l,112329217001660,Chief Executive Officer,male,162392996.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20171102,ellis john j.,112329217001662,,male,162392996.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20171102,hamilton mark r,112329217001665,,male,162392996.0
+,,1134115,international tower hill mines ltd,0.0,0.0,1,0.0,20180315,paulson & co. inc.,114036118013722,,male,162392996.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20180406,hanneman karl l,112329218000622,Chief Executive Officer,male,186522683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20180412,drescher anton j,106299318001629,,male,186522683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181019,ellis john j.,112329218001013,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181019,irwin thomas e,112329218001015,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181019,weng thomas s.,112329218001017,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181022,lang stephen a,112329218001024,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181022,harshaw stuart alan,112329218001022,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181024,hanneman karl l,112329218001029,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20181024,drescher anton j,106299318004188,,male,186816683.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20190809,drescher anton j,106299319003244,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20190812,hanneman karl l,112329219001050,Chief Executive Officer,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20190812,lang stephen a,112329219001047,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20190812,harshaw stuart alan,112329219001048,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20190812,weng thomas s.,112329219001049,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20200528,drescher anton j,106299320002646,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20200529,harshaw stuart alan,112329220000829,,male,187573671.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20200529,cross david allen,112329220000828,Chief Financial Officer,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20200529,weng thomas s.,112329220000831,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20200529,hanneman karl l,112329220000833,Chief Executive Officer,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20200529,lang stephen a,112329220000830,,male,187573671.0
+,,1134115,international tower hill mines ltd,,,true,,20200904,paulson & co. inc.,101359420000686,,male,187573671.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20210527,drescher anton j,106299321005068,,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20210527,weng thomas s.,112329221000911,,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20210527,lang stephen a,112329221000912,,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20210527,harshaw stuart alan,112329221000913,,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20210527,hanneman karl l,112329221000914,Chief Executive Officer,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220314,drescher anton j,106299322007663,,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220323,drescher anton j,106299322008443,,male,194908184.0
+85000.0,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220330,weng thomas s.,106299322009002,,male,194908184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220524,drescher anton j,106299322013431,,male,195313184.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20220525,cross david allen,110465922064785,Chief Financial Officer,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220525,harshaw stuart alan,110465922064781,,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220525,lang stephen a,110465922064782,,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20220525,weng thomas s.,110465922064784,,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20220525,hanneman karl l,110465922064789,Chief Executive Officer,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20230317,drescher anton j,106299323007197,,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20230525,harshaw stuart alan,106299323012230,,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20230525,hanneman karl l,106299323012231,Chief Executive Officer,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20230525,weng thomas s.,106299323012232,,male,195313184.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20230525,cross david allen,106299323012233,Chief Financial Officer,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20230525,drescher anton j,106299323012238,,male,195313184.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20230714,tully edel,106299323014898,,female,195885531.0
+,,1134115,international tower hill mines ltd,,,true,,20240122,paulson & co. inc.,101359424000061,,male,195885531.0
+,,1134115,international tower hill mines ltd,1.0,1.0,0,0.0,20240530,hanneman karl l,106299324011497,Chief Executive Officer,male,199693442.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20240530,drescher anton j,106299324011492,,male,199693442.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20240530,tully edel,106299324011493,,female,199693442.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20240530,weng thomas s.,106299324011494,,male,199693442.0
+,,1134115,international tower hill mines ltd,1.0,0.0,0,0.0,20240530,harshaw stuart alan,106299324011495,,male,199693442.0
+,,1134115,international tower hill mines ltd,0.0,1.0,0,0.0,20240530,cross david allen,106299324011496,Chief Financial Officer,male,199693442.0

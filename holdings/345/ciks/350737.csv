@@ -1,68 +1,155 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-23500.0,0.0,350737,ocean bio chem inc,1,1,0,0,20100408,barocas jeffrey,114036110015777,cfo,male,
-183479.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100408,anchel edward,114036110015778,,male,
-0.0,0.0,350737,ocean bio chem inc,0,0,0,1,20100409,vague anca,148755610000001,,female,
-0.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100427,beard sonia b,114036110017615,,female,
-0.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100427,kolisch james m,114036110017617,,male,
-0.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100427,beard sonia b,114036110017618,,female,
-0.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100427,schneider laz l,114036110017619,,male,
-0.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100427,turner john b,114036110017622,,male,
-233116.0,0.0,350737,ocean bio chem inc,1,1,0,0,20100427,dornau gregor m,114036110017713,VIce President,male,
-40500.0,0.0,350737,ocean bio chem inc,1,1,0,0,20100427,barocas jeffrey,114036110017716,cfo,male,
-4310440.0,0.0,350737,ocean bio chem inc,1,1,1,0,20100427,dornau peter g,114036110017719,CEO,male,
-101000.0,0.0,350737,ocean bio chem inc,1,1,0,0,20100427,dudman william,114036110017720,Vice President,male,
-0.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100427,anchel edward,114036110017611,,male,
-173079.0,0.0,350737,ocean bio chem inc,1,0,0,0,20100517,anchel edward,114036110021701,,male,
-158079.0,0.0,350737,ocean bio chem inc,1,0,0,0,20101124,anchel edward,114036110047075,,male,
-143079.0,0.0,350737,ocean bio chem inc,1,0,0,0,20101208,anchel edward,114036110048734,,male,
-108079.0,0.0,350737,ocean bio chem inc,1,0,0,0,20110404,anchel edward,114036111020245,,male,
-341760.0,0.0,350737,ocean bio chem inc,1,1,0,0,20110614,dornau gregor m,114420411035728,Executive Vice President,male,
-4655370.0,0.0,350737,ocean bio chem inc,1,1,1,0,20110614,dornau peter g,114420411035722,Chief Executive Officer,male,
-83000.0,0.0,350737,ocean bio chem inc,1,1,0,0,20110614,barocas jeffrey,114420411035719,Chief Financial Officer,male,
-177900.0,0.0,350737,ocean bio chem inc,1,1,0,0,20110614,dudman william,114420411035724,VP Operations,male,
-108079.0,0.0,350737,ocean bio chem inc,1,0,0,0,20110624,anchel edward,114420411037390,,male,
-349960.0,0.0,350737,ocean bio chem inc,1,1,0,0,20111115,dornau gregor m,114420411064900,Executive Vice President,male,8106885.0
-181772.0,0.0,350737,ocean bio chem inc,1,1,0,0,20111115,dudman william,114420411064902,"Vice President, Operations",male,8106885.0
-4662370.0,0.0,350737,ocean bio chem inc,1,1,1,0,20111115,dornau peter g,114420411064904,President,male,8106885.0
-4227628.0,0.0,350737,ocean bio chem inc,1,1,1,0,20120427,dornau peter g,114420412024244,"Chairman, President & CEO",male,8106886.0
-329960.0,0.0,350737,ocean bio chem inc,1,1,0,0,20120427,dornau gregor m,114420412024246,VP - Sales & Marketing,male,8106886.0
+,,350737,ocean bio chem inc,1,1,0,0,20100408,barocas jeffrey,114036110015777,cfo,male,
+,,350737,ocean bio chem inc,1,0,0,0,20100408,anchel edward,114036110015778,,male,
+,,350737,ocean bio chem inc,0,0,0,1,20100409,vague anca,148755610000001,,female,
+,,350737,ocean bio chem inc,1,0,0,0,20100427,beard sonia b,114036110017615,,female,
+,,350737,ocean bio chem inc,1,0,0,0,20100427,kolisch james m,114036110017617,,male,
+,,350737,ocean bio chem inc,1,0,0,0,20100427,beard sonia b,114036110017618,,female,
+,,350737,ocean bio chem inc,1,0,0,0,20100427,schneider laz l,114036110017619,,male,
+,,350737,ocean bio chem inc,1,0,0,0,20100427,turner john b,114036110017622,,male,
+,,350737,ocean bio chem inc,1,1,0,0,20100427,dornau gregor m,114036110017713,VIce President,male,
+,,350737,ocean bio chem inc,1,1,0,0,20100427,barocas jeffrey,114036110017716,cfo,male,
+,,350737,ocean bio chem inc,1,1,1,0,20100427,dornau peter g,114036110017719,CEO,male,
+,,350737,ocean bio chem inc,1,1,0,0,20100427,dudman william,114036110017720,Vice President,male,
+,,350737,ocean bio chem inc,1,0,0,0,20100427,anchel edward,114036110017611,,male,
+,,350737,ocean bio chem inc,1,0,0,0,20100517,anchel edward,114036110021701,,male,
+,,350737,ocean bio chem inc,1,0,0,0,20101124,anchel edward,114036110047075,,male,
+,,350737,ocean bio chem inc,1,0,0,0,20101208,anchel edward,114036110048734,,male,
+,,350737,ocean bio chem inc,1,0,0,0,20110404,anchel edward,114036111020245,,male,
+341760.0,,350737,ocean bio chem inc,1,1,0,0,20110614,dornau gregor m,114420411035728,Executive Vice President,male,
+4655370.0,,350737,ocean bio chem inc,1,1,1,0,20110614,dornau peter g,114420411035722,Chief Executive Officer,male,
+177900.0,,350737,ocean bio chem inc,1,1,0,0,20110614,dudman william,114420411035724,VP Operations,male,
+83000.0,,350737,ocean bio chem inc,1,1,0,0,20110614,barocas jeffrey,114420411035719,Chief Financial Officer,male,
+108079.0,,350737,ocean bio chem inc,1,0,0,0,20110624,anchel edward,114420411037390,,male,
+349960.0,,350737,ocean bio chem inc,1,1,0,0,20111115,dornau gregor m,114420411064900,Executive Vice President,male,8106885.0
+181772.0,,350737,ocean bio chem inc,1,1,0,0,20111115,dudman william,114420411064902,"Vice President, Operations",male,8106885.0
+4662370.0,,350737,ocean bio chem inc,1,1,1,0,20111115,dornau peter g,114420411064904,President,male,8106885.0
+4227628.0,,350737,ocean bio chem inc,1,1,1,0,20120427,dornau peter g,114420412024244,"Chairman, President & CEO",male,8106886.0
+329960.0,,350737,ocean bio chem inc,1,1,0,0,20120427,dornau gregor m,114420412024246,VP - Sales & Marketing,male,8106886.0
 348960.0,20000.0,350737,ocean bio chem inc,1,1,0,0,20120516,dornau gregor m,114420412029892,VP-Sales & Marketing,male,8106886.0
-105000.0,0.0,350737,ocean bio chem inc,1,1,0,0,20120516,barocas jeffrey,114420412029895,Chief Financial Officer,male,8106886.0
-4681370.0,0.0,350737,ocean bio chem inc,1,1,1,0,20120516,dornau peter g,114420412029898,"Chairman, President & CEO",male,8106886.0
-200722.0,0.0,350737,ocean bio chem inc,1,1,0,0,20120516,dudman william,114420412029901,"Vice President, Operations",male,8106886.0
+105000.0,,350737,ocean bio chem inc,1,1,0,0,20120516,barocas jeffrey,114420412029895,Chief Financial Officer,male,8106886.0
+4681370.0,,350737,ocean bio chem inc,1,1,1,0,20120516,dornau peter g,114420412029898,"Chairman, President & CEO",male,8106886.0
+200722.0,,350737,ocean bio chem inc,1,1,0,0,20120516,dudman william,114420412029901,"Vice President, Operations",male,8106886.0
+99170.0,,350737,ocean bio chem inc,1,1,0,0,20120522,barocas jeffrey,114420412031175,Chief Financial Officer,male,8106886.0
+189112.0,,350737,ocean bio chem inc,1,1,0,0,20120522,dudman william,114420412031172,Vice President Operations,male,8106886.0
 352960.0,20000.0,350737,ocean bio chem inc,1,1,0,0,20120522,dornau gregor m,114420412031191,EVP of Sales & Marketing,male,8106886.0
-4685370.0,0.0,350737,ocean bio chem inc,1,1,0,0,20120522,dornau peter g,114420412031195,Chief Executive Officer,male,8106886.0
-189112.0,0.0,350737,ocean bio chem inc,1,1,0,0,20120522,dudman william,114420412031172,Vice President Operations,male,8106886.0
-99170.0,0.0,350737,ocean bio chem inc,1,1,0,0,20120522,barocas jeffrey,114420412031175,Chief Financial Officer,male,8106886.0
-4262628.0,0.0,350737,ocean bio chem inc,0,0,1,0,20120607,"peter dornau family, llc",121390012003191,,male,8106886.0
-33001.0,0.0,350737,ocean bio chem inc,1,0,0,0,20121022,turner john b,121390012005760,,male,8288613.0
-19705.0,0.0,350737,ocean bio chem inc,1,0,0,0,20121022,kolisch james m,121390012005762,,male,8288613.0
-344960.0,0.0,350737,ocean bio chem inc,1,1,0,0,20121218,dornau gregor m,121390012006863,EVP  Sales & Marketing,male,8299763.0
-172758.0,0.0,350737,ocean bio chem inc,1,1,0,0,20121218,dudman william,121390012006865,Vice President Operations,male,8299763.0
-4282628.0,0.0,350737,ocean bio chem inc,1,1,1,0,20121218,dornau peter g,121390012006867,"Chairman, President, & CEO",male,8299763.0
-87767.0,0.0,350737,ocean bio chem inc,1,1,0,0,20121218,barocas jeffrey,121390012006870,Chief Financial Officer,male,8299763.0
-4297628.0,0.0,350737,ocean bio chem inc,0,0,1,0,20130501,"peter dornau family, llc",121390013002139,,male,8398385.0
-187758.0,0.0,350737,ocean bio chem inc,1,1,0,0,20130501,dudman william,121390013002137,Vice President Operations,male,8398385.0
-102767.0,0.0,350737,ocean bio chem inc,1,1,0,0,20130501,barocas jeffrey,121390013002131,Chief Financial Officer,male,8398385.0
-359960.0,0.0,350737,ocean bio chem inc,1,1,0,0,20130501,dornau gregor m,121390013002133,EVP Sales & Marketing,male,8398385.0
-4297628.0,0.0,350737,ocean bio chem inc,1,1,1,0,20130501,dornau peter g,121390013002135,"Chairman, President & CEO",male,8398385.0
-26165.0,0.0,350737,ocean bio chem inc,1,0,0,0,20130610,kolisch james m,121390013003058,,male,8398385.0
-39461.0,0.0,350737,ocean bio chem inc,1,0,0,0,20130610,turner john b,121390013003060,,male,8398385.0
-4317628.0,0.0,350737,ocean bio chem inc,1,1,1,0,20130821,dornau peter g,121390013004743,"Chairman, President, & CEO",male,8553117.0
-379960.0,0.0,350737,ocean bio chem inc,1,1,0,0,20130821,dornau gregor m,121390013004741,EVP Sales & Marketing,male,8553117.0
-4317628.0,0.0,350737,ocean bio chem inc,0,0,1,0,20130821,"peter dornau family, llc",121390013004737,,male,8553117.0
-116031.0,0.0,350737,ocean bio chem inc,1,1,0,0,20130821,barocas jeffrey,121390013004735,Chief Financial Officer,male,8553117.0
-204508.0,0.0,350737,ocean bio chem inc,1,1,0,0,20130821,dudman william,121390013004739,Vice President Operations,male,8553117.0
-31266.0,0.0,350737,ocean bio chem inc,1,0,0,0,20140207,kolisch james m,121390014000699,,male,8669947.0
-44594.0,0.0,350737,ocean bio chem inc,1,0,0,0,20140207,turner john b,121390014000701,,male,8669947.0
-4432628.0,0.0,350737,ocean bio chem inc,0,0,1,0,20140324,"peter dornau family, llc",121390014001654,,male,8669947.0
-4432628.0,0.0,350737,ocean bio chem inc,1,1,1,0,20140324,dornau peter g,121390014001657,"Chairman, President, & CEO",male,8669947.0
-214610.0,0.0,350737,ocean bio chem inc,1,1,0,0,20140619,dudman william,121390014004324,Vice President Operations,male,8800314.0
-4447628.0,0.0,350737,ocean bio chem inc,1,1,1,0,20140619,dornau peter g,121390014004326,"Chairman, President, & CEO",male,8800314.0
-414960.0,0.0,350737,ocean bio chem inc,1,1,0,0,20140619,dornau gregor m,121390014004328,EVP  Sales & Marketing,male,8800314.0
-4447628.0,0.0,350737,ocean bio chem inc,0,0,1,0,20140619,"peter dornau family, llc",121390014004330,,male,8800314.0
-131031.0,0.0,350737,ocean bio chem inc,1,1,0,0,20140619,barocas jeffrey,121390014004332,Chief Financial Officer,male,8800314.0
-222110.0,0.0,350737,ocean bio chem inc,1,1,0,0,20150921,dudman william,121390015007137,Vice President Operations,male,8922118.0
-138531.0,0.0,350737,ocean bio chem inc,1,1,0,0,20150921,barocas jeffrey,121390015007139,Chief Financial Officer,male,8922118.0
+4685370.0,,350737,ocean bio chem inc,1,1,0,0,20120522,dornau peter g,114420412031195,Chief Executive Officer,male,8106886.0
+4262628.0,,350737,ocean bio chem inc,0,0,1,0,20120607,"peter dornau family, llc",121390012003191,,male,8106886.0
+19705.0,,350737,ocean bio chem inc,1,0,0,0,20121022,kolisch james m,121390012005762,,male,8288613.0
+33001.0,,350737,ocean bio chem inc,1,0,0,0,20121022,turner john b,121390012005760,,male,8288613.0
+344960.0,,350737,ocean bio chem inc,1,1,0,0,20121218,dornau gregor m,121390012006863,EVP  Sales & Marketing,male,8299763.0
+172758.0,,350737,ocean bio chem inc,1,1,0,0,20121218,dudman william,121390012006865,Vice President Operations,male,8299763.0
+4282628.0,,350737,ocean bio chem inc,1,1,1,0,20121218,dornau peter g,121390012006867,"Chairman, President, & CEO",male,8299763.0
+87767.0,,350737,ocean bio chem inc,1,1,0,0,20121218,barocas jeffrey,121390012006870,Chief Financial Officer,male,8299763.0
+102767.0,,350737,ocean bio chem inc,1,1,0,0,20130501,barocas jeffrey,121390013002131,Chief Financial Officer,male,8398385.0
+4297628.0,,350737,ocean bio chem inc,1,1,1,0,20130501,dornau peter g,121390013002135,"Chairman, President & CEO",male,8398385.0
+187758.0,,350737,ocean bio chem inc,1,1,0,0,20130501,dudman william,121390013002137,Vice President Operations,male,8398385.0
+4297628.0,,350737,ocean bio chem inc,0,0,1,0,20130501,"peter dornau family, llc",121390013002139,,male,8398385.0
+359960.0,,350737,ocean bio chem inc,1,1,0,0,20130501,dornau gregor m,121390013002133,EVP Sales & Marketing,male,8398385.0
+26165.0,,350737,ocean bio chem inc,1,0,0,0,20130610,kolisch james m,121390013003058,,male,8398385.0
+39461.0,,350737,ocean bio chem inc,1,0,0,0,20130610,turner john b,121390013003060,,male,8398385.0
+379960.0,,350737,ocean bio chem inc,1,1,0,0,20130821,dornau gregor m,121390013004741,EVP Sales & Marketing,male,8553117.0
+4317628.0,,350737,ocean bio chem inc,1,1,1,0,20130821,dornau peter g,121390013004743,"Chairman, President, & CEO",male,8553117.0
+204508.0,,350737,ocean bio chem inc,1,1,0,0,20130821,dudman william,121390013004739,Vice President Operations,male,8553117.0
+116031.0,,350737,ocean bio chem inc,1,1,0,0,20130821,barocas jeffrey,121390013004735,Chief Financial Officer,male,8553117.0
+4317628.0,,350737,ocean bio chem inc,0,0,1,0,20130821,"peter dornau family, llc",121390013004737,,male,8553117.0
+31266.0,,350737,ocean bio chem inc,1,0,0,0,20140207,kolisch james m,121390014000699,,male,8669947.0
+44594.0,,350737,ocean bio chem inc,1,0,0,0,20140207,turner john b,121390014000701,,male,8669947.0
+4432628.0,,350737,ocean bio chem inc,0,0,1,0,20140324,"peter dornau family, llc",121390014001654,,male,8669947.0
+4432628.0,,350737,ocean bio chem inc,1,1,1,0,20140324,dornau peter g,121390014001657,"Chairman, President, & CEO",male,8669947.0
+214610.0,,350737,ocean bio chem inc,1,1,0,0,20140619,dudman william,121390014004324,Vice President Operations,male,8800314.0
+4447628.0,,350737,ocean bio chem inc,1,1,1,0,20140619,dornau peter g,121390014004326,"Chairman, President, & CEO",male,8800314.0
+414960.0,,350737,ocean bio chem inc,1,1,0,0,20140619,dornau gregor m,121390014004328,EVP  Sales & Marketing,male,8800314.0
+4447628.0,,350737,ocean bio chem inc,0,0,1,0,20140619,"peter dornau family, llc",121390014004330,,male,8800314.0
+131031.0,,350737,ocean bio chem inc,1,1,0,0,20140619,barocas jeffrey,121390014004332,Chief Financial Officer,male,8800314.0
+222110.0,,350737,ocean bio chem inc,1,1,0,0,20150921,dudman william,121390015007137,Vice President Operations,male,8922118.0
+138531.0,,350737,ocean bio chem inc,1,1,0,0,20150921,barocas jeffrey,121390015007139,Chief Financial Officer,male,8922118.0
 265242.0,4447628.0,350737,ocean bio chem inc,1,1,1,0,20150921,dornau peter g,121390015007141,"Chairman, President, & CEO",male,8922118.0
-422460.0,0.0,350737,ocean bio chem inc,1,1,0,0,20150921,dornau gregor m,121390015007143,EVP Sales & Marketing,male,8922118.0
+422460.0,,350737,ocean bio chem inc,1,1,0,0,20150921,dornau gregor m,121390015007143,EVP Sales & Marketing,male,8922118.0
+222110.0,,350737,ocean bio chem inc,1,1,0,0,20150921,dudman william,121390015007137,Vice President Operations,male,8922118.0
+138531.0,,350737,ocean bio chem inc,1,1,0,0,20150921,barocas jeffrey,121390015007139,Chief Financial Officer,male,8922118.0
+265242.0,4447628.0,350737,ocean bio chem inc,1,1,1,0,20150921,dornau peter g,121390015007141,"Chairman, President, & CEO",male,8922118.0
+422460.0,,350737,ocean bio chem inc,1,1,0,0,20150921,dornau gregor m,121390015007143,EVP Sales & Marketing,male,8922118.0
+5481.0,,350737,ocean bio chem inc,1,0,0,0,20160315,beard sonia b,121390016011605,,female,8982721.0
+54594.0,,350737,ocean bio chem inc,1,0,0,0,20160325,turner john b,121390016011877,,male,8982721.0
+41266.0,,350737,ocean bio chem inc,1,0,0,0,20160330,kolisch james m,121390016012004,,male,9008855.0
+55594.0,,350737,ocean bio chem inc,1,0,0,0,20160707,turner john b,121390016014794,,male,9008855.0
+42266.0,,350737,ocean bio chem inc,1,0,0,0,20160707,kolisch james m,121390016014796,,male,9008855.0
+1000.0,,350737,ocean bio chem inc,1,0,0,0,20160707,conard diana,121390016014798,,female,9008855.0
+4477628.0,,350737,ocean bio chem inc,1,1,1,0,20160728,dornau peter g,121390016015344,"Chairman, President, & CEO",male,9008855.0
+237110.0,,350737,ocean bio chem inc,1,1,0,0,20160728,dudman william,121390016015346,Vice President Operations,male,9008855.0
+4477628.0,,350737,ocean bio chem inc,0,0,1,0,20160728,"peter dornau family, llc",121390016015342,,male,9008855.0
+437460.0,,350737,ocean bio chem inc,1,1,0,0,20160728,dornau gregor m,121390016015340,EVP  Sales & Marketing,male,9008855.0
+153531.0,,350737,ocean bio chem inc,1,1,0,0,20160728,barocas jeffrey,121390016015338,Chief Financial Officer,male,9008855.0
+43266.0,,350737,ocean bio chem inc,1,0,0,0,20170519,kolisch james m,121390017005550,,male,9146937.0
+56594.0,,350737,ocean bio chem inc,1,0,0,0,20170519,turner john b,121390017005552,,male,9146937.0
+1000.0,,350737,ocean bio chem inc,1,0,0,0,20170519,krause kim,121390017005548,,female,9146937.0
+1973.0,,350737,ocean bio chem inc,1,0,0,0,20170522,conard diana,121390017005643,,female,9146937.0
+4493828.0,,350737,ocean bio chem inc,0,0,1,0,20170719,"peter dornau family, llc",121390017007739,,male,9158243.0
+245210.0,,350737,ocean bio chem inc,1,1,0,0,20170719,dudman william,121390017007737,Vice President Operations,male,9158243.0
+4493828.0,,350737,ocean bio chem inc,1,1,1,0,20170719,dornau peter g,121390017007735,"Chairman, President, & CEO",male,9158243.0
+445560.0,,350737,ocean bio chem inc,1,1,0,0,20170719,dornau gregor m,121390017007733,EVP Sales & Marketing,male,9158243.0
+161631.0,,350737,ocean bio chem inc,1,1,0,0,20170719,barocas jeffrey,121390017007731,Chief Financial Officer,male,9158243.0
+53266.0,,350737,ocean bio chem inc,1,0,0,0,20171218,kolisch james m,121390017013352,,male,9234580.0
+66594.0,,350737,ocean bio chem inc,1,0,0,0,20171218,turner john b,121390017013354,,male,9234580.0
+67594.0,,350737,ocean bio chem inc,1,0,0,0,20180530,turner john b,121390018006996,,male,9254580.0
+2973.0,,350737,ocean bio chem inc,1,0,0,0,20180530,conard diana,121390018007000,,female,9254580.0
+2000.0,,350737,ocean bio chem inc,1,0,0,0,20180530,krause kim,121390018007002,,female,9254580.0
+54266.0,,350737,ocean bio chem inc,1,0,0,0,20180530,kolisch james m,121390018006998,,male,9254580.0
+170131.0,,350737,ocean bio chem inc,1,1,0,0,20180920,barocas jeffrey,121390018012754,Chief Financial Officer,male,9258580.0
+4510328.0,,350737,ocean bio chem inc,0,0,1,0,20180920,"peter dornau family, llc",121390018012762,,male,9258580.0
+4510328.0,,350737,ocean bio chem inc,1,1,1,0,20180920,dornau peter g,121390018012760,"Chairman, President, & CEO",male,9258580.0
+253710.0,,350737,ocean bio chem inc,1,1,0,0,20180920,dudman william,121390018012758,Chief Operating Officer,male,9258580.0
+454060.0,,350737,ocean bio chem inc,1,1,0,0,20180920,dornau gregor m,121390018012756,EVP Sales & Marketing,male,9258580.0
+64266.0,,350737,ocean bio chem inc,1,0,0,0,20190109,kolisch james m,121390019000429,,male,9338191.0
+77594.0,,350737,ocean bio chem inc,1,0,0,0,20190109,turner john b,121390019000427,,male,9338191.0
+75682.0,,350737,ocean bio chem inc,1,0,0,0,20190213,turner john b,121390019002337,,male,9338191.0
+3000.0,,350737,ocean bio chem inc,1,0,0,0,20190605,krause kim,121390019010083,,female,9366119.0
+65266.0,,350737,ocean bio chem inc,1,0,0,0,20190605,kolisch james m,121390019010080,,male,9366119.0
+3973.0,,350737,ocean bio chem inc,1,0,0,0,20190605,conard diana,121390019010077,,female,9366119.0
+76682.0,,350737,ocean bio chem inc,1,0,0,0,20190605,turner john b,121390019010085,,male,9366119.0
+178631.0,,350737,ocean bio chem inc,1,1,0,0,20190906,barocas jeffrey,121390019017336,Chief Financial Officer,male,9370119.0
+4526828.0,,350737,ocean bio chem inc,1,1,1,0,20190906,dornau peter g,121390019017340,"Chairman, President, & CEO",male,9370119.0
+262210.0,,350737,ocean bio chem inc,1,1,0,0,20190906,dudman william,121390019017342,Chief Operating Officer,male,9370119.0
+4526828.0,,350737,ocean bio chem inc,0,0,1,0,20190906,"peter dornau family, llc",121390019017344,,male,9370119.0
+462560.0,,350737,ocean bio chem inc,1,1,0,0,20190906,dornau gregor m,121390019017338,EVP Sales & Marketing,male,9370119.0
+4000.0,,350737,ocean bio chem inc,1,0,0,0,20200630,krause kim,121390020016219,,female,9462105.0
+71266.0,,350737,ocean bio chem inc,1,0,0,0,20200630,kolisch james m,121390020016221,,male,9462105.0
+82682.0,,350737,ocean bio chem inc,1,0,0,0,20200630,turner john b,121390020016223,,male,9462105.0
+4973.0,,350737,ocean bio chem inc,1,0,0,0,20200630,conard diana,121390020016225,,female,9462105.0
+173631.0,,350737,ocean bio chem inc,1,1,0,0,20200813,barocas jeffrey,121390020021864,Chief Financial Officer,male,9462105.0
+79272.0,,350737,ocean bio chem inc,1,0,0,0,20200821,turner john b,121390020023230,,male,9462105.0
+262149.0,,350737,ocean bio chem inc,1,1,0,0,20200821,dudman william,121390020023233,Chief Operating Officer,male,9462105.0
+259149.0,,350737,ocean bio chem inc,1,1,0,0,20200826,dudman william,121390020023758,Chief Operating Officer,male,9462105.0
+257210.0,,350737,ocean bio chem inc,1,1,0,0,20200828,dudman william,121390020024142,Chief Operating Officer,male,9462105.0
+256832.0,,350737,ocean bio chem inc,1,1,0,0,20200901,dudman william,121390020024695,Chief Operating Officer,male,9462105.0
+252210.0,,350737,ocean bio chem inc,1,1,0,0,20200917,dudman william,121390020027065,Chief Operating Officer,male,9462105.0
+462360.0,,350737,ocean bio chem inc,1,1,0,0,20200917,dornau gregor m,121390020027116,EVP Sales & Marketing,male,9462105.0
+461360.0,,350737,ocean bio chem inc,1,1,0,0,20200921,dornau gregor m,121390020027512,EVP Sales & Marketing,male,9462105.0
+460428.0,,350737,ocean bio chem inc,1,1,0,0,20200930,dornau gregor m,121390020029109,EVP Sales & Marketing,male,9462105.0
+175931.0,,350737,ocean bio chem inc,1,1,0,0,20201116,barocas jeffrey,121390020037227,Chief Financial Officer,male,9462105.0
+4531228.0,,350737,ocean bio chem inc,0,0,1,0,20201116,"peter dornau family, llc",121390020037228,,male,9462105.0
+254510.0,,350737,ocean bio chem inc,1,1,0,0,20201116,dudman william,121390020037229,Chief Operating Officer,male,9462105.0
+4531228.0,,350737,ocean bio chem inc,1,1,1,0,20201116,dornau peter g,121390020037230,"Chairman, President, & CEO",male,9462105.0
+462728.0,,350737,ocean bio chem inc,1,1,0,0,20201116,dornau gregor m,121390020037226,EVP Sales & Marketing,male,9462105.0
+461978.0,,350737,ocean bio chem inc,1,1,0,0,20201203,dornau gregor m,121390020040637,EVP Sales & Marketing,male,9462105.0
+453478.0,,350737,ocean bio chem inc,1,1,0,0,20201230,dornau gregor m,121390020045379,EVP Sales & Marketing,male,9462105.0
+253510.0,,350737,ocean bio chem inc,1,1,0,0,20201231,dudman william,121390020045644,Chief Operating Officer,male,9481799.0
+265342.0,4531228.0,350737,ocean bio chem inc,1,1,1,0,20210520,dornau peter g,121390021028115,"Chairman, President, & CEO",male,9481799.0
+5973.0,,350737,ocean bio chem inc,1,0,0,0,20210607,conard diana,121390021031163,,female,9481799.0
+72266.0,,350737,ocean bio chem inc,1,0,0,0,20210607,kolisch james m,121390021031165,,male,9481799.0
+80272.0,,350737,ocean bio chem inc,1,0,0,0,20210607,turner john b,121390021031168,,male,9481799.0
+5000.0,,350737,ocean bio chem inc,1,0,0,0,20210607,krause kim,121390021031170,,female,9481799.0
+256910.0,,350737,ocean bio chem inc,1,1,0,0,20211116,dudman william,121390021059872,Chief Operating Officer,male,9485799.0
+179331.0,,350737,ocean bio chem inc,1,1,0,0,20211116,barocas jeffrey,121390021059869,Chief Financial Officer,male,9485799.0
+456878.0,,350737,ocean bio chem inc,1,1,0,0,20211116,dornau gregor m,121390021059867,EVP Sales & Marketing,male,9485799.0
+4537628.0,,350737,ocean bio chem inc,1,1,1,0,20220103,dornau peter g,121390022000072,"Chairman, President, & CEO",male,9503999.0
+4537628.0,,350737,ocean bio chem inc,0,0,1,0,20220103,"peter dornau family, llc",121390022000070,,male,9503999.0
+,,350737,ocean bio chem inc,1,1,0,0,20220809,barocas jeffrey,121390022045809,Chief Financial Officer,male,9509799.0
+,,350737,ocean bio chem inc,1,1,0,0,20220809,dornau peter g,121390022045807,"Chairman, President & CEO",male,9509799.0
+,,350737,ocean bio chem inc,1,0,0,0,20220809,kolisch james m,121390022045815,,male,9509799.0
+,,350737,ocean bio chem inc,1,0,0,0,20220809,turner john b,121390022045818,,male,9509799.0
+,,350737,ocean bio chem inc,1,0,0,0,20220809,conard diana,121390022045821,,female,9509799.0
+,,350737,ocean bio chem inc,1,0,0,0,20220809,krause kim,121390022045823,,female,9509799.0
+,,350737,ocean bio chem inc,1,1,0,0,20220809,dudman william,121390022045811,Chief Operating Officer,male,9509799.0
+,,350737,ocean bio chem inc,1,1,0,0,20220809,dornau gregor m,121390022045810,EVP Sales & Marketing,male,9509799.0

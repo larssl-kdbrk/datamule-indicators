@@ -1,27 +1,396 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-10033994.0,0.0,1610950,"inc research holdings, inc.",0,0,1,0,20141117,ontario teachers pension plan board,114036114042460,,male,103794889.0
-674.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20141209,kender richard n,117911014017774,,male,103794889.0
-726.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150204,norton david y,117911015001814,,male,61233850.0
-13607.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150511,breckon robert w,129244515000002,,male,61253673.0
-0.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150511,rush gregory s,132825515000002,Executive VP and CFO,male,61253673.0
-27870.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150511,gibertini michael,163099815000002,President Clinical Development,male,61253673.0
-236686.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150511,ogle james t.,162404815000002,,male,61253673.0
-13244.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150513,breckon robert w,129244515000003,,male,61253673.0
-0.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150513,rush gregory s,132825515000003,Executive VP and CFO,male,61253673.0
-236686.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150513,ogle james t.,162404815000003,,male,61253673.0
-14944.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150609,breckon robert w,129244515000004,,male,61253673.0
-15310.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150609,harwood charles c jr,162407215000001,,male,61253673.0
-238386.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150609,ogle james t.,162404815000004,,male,61253673.0
-2064.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150609,norton david y,157856315000014,,male,61253673.0
-2224.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150609,kender richard n,157856315000015,,male,61253673.0
-55681.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150702,macdonald alistair,162407315000001,Chief Operating Officer,male,56253165.0
-36282.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150702,gibertini michael,163099815000003,President Clinical Development,male,56253165.0
-7291.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150702,gaenzle christopher l,162404415000001,"CAO, GC & Sec",male,56253165.0
-48906.0,0.0,1610950,"inc research holdings, inc.",1,1,0,0,20150702,macdonald d. jamie,151866915000001,Chief Executive Officer,male,56253165.0
-8132.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150702,rush gregory s,132825515000004,Executive VP and CFO,male,56253165.0
-9527.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150814,breckon robert w,129244515000005,,male,56253165.0
-39226.0,0.0,1610950,"inc research holdings, inc.",1,1,0,0,20150814,macdonald d. jamie,151866915000002,Chief Executive Officer,male,56253165.0
-183386.0,0.0,1610950,"inc research holdings, inc.",1,0,0,0,20150901,ogle james t.,162404815000005,,male,56253165.0
-7291.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150901,gaenzle christopher l,162404415000002,"CAO, GC & Sec",male,56253165.0
-8132.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150916,rush gregory s,132825515000005,Executive VP and CFO,male,56253165.0
-55681.0,0.0,1610950,"inc research holdings, inc.",0,1,0,0,20150929,macdonald alistair,162407315000002,Chief Operating Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,0.0,1.0,0.0,20141117,ontario teachers pension plan board,114036114042460,,male,103794889.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20141209,kender richard n,117911014017774,,male,103794889.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150204,norton david y,117911015001814,,male,61233850.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150511,gibertini michael,163099815000002,President Clinical Development,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150511,ogle james t.,162404815000002,,male,61253673.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150511,rush gregory s,132825515000002,Executive VP and CFO,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150511,breckon robert w,129244515000002,,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150513,breckon robert w,129244515000003,,male,61253673.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150513,rush gregory s,132825515000003,Executive VP and CFO,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150513,ogle james t.,162404815000003,,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150609,breckon robert w,129244515000004,,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150609,harwood charles c jr,162407215000001,,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150609,norton david y,157856315000014,,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150609,ogle james t.,162404815000004,,male,61253673.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150609,kender richard n,157856315000015,,male,61253673.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150702,rush gregory s,132825515000004,Executive VP and CFO,male,56253165.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20150702,macdonald d. jamie,151866915000001,Chief Executive Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150702,gibertini michael,163099815000003,President Clinical Development,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150702,macdonald alistair,162407315000001,Chief Operating Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150702,gaenzle christopher l,162404415000001,"CAO, GC & Sec",male,56253165.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20150814,macdonald d. jamie,151866915000002,Chief Executive Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150814,breckon robert w,129244515000005,,male,56253165.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20150814,macdonald d. jamie,151866915000002,Chief Executive Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150814,breckon robert w,129244515000005,,male,56253165.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150901,ogle james t.,162404815000005,,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150901,gaenzle christopher l,162404415000002,"CAO, GC & Sec",male,56253165.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20150901,ogle james t.,162404815000005,,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150901,gaenzle christopher l,162404415000002,"CAO, GC & Sec",male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150916,rush gregory s,132825515000005,Executive VP and CFO,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150916,rush gregory s,132825515000005,Executive VP and CFO,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150929,macdonald alistair,162407315000002,Chief Operating Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20150929,macdonald alistair,162407315000002,Chief Operating Officer,male,56253165.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20151103,gibertini michael,163099815000004,President Clinical Development,male,56483381.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20151203,gibertini michael,163099815000005,President Clinical Development,male,56483381.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20151209,gaenzle christopher l,162404415000005,"CAO, GC & Sec",male,56483381.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20151209,rush gregory s,132825515000010,Executive VP and CFO,male,56483381.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20151209,macdonald alistair,162407315000005,Chief Operating Officer,male,56483381.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20151231,ogle james t.,162404815000006,,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160104,gaenzle christopher l,162404416000006,"CAO, GC & Sec",male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160104,rush gregory s,132825516000011,Executive VP and CFO,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160104,macdonald alistair,162407316000006,Chief Operating Officer,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160106,gibertini michael,163099816000006,President Clinical Development,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160121,macdonald alistair,162407316000007,Chief Operating Officer,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160121,gaenzle christopher l,162404416000007,"CAO, GC & Sec",male,53871484.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20160121,macdonald d. jamie,151866916000003,Chief Executive Officer,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160121,rush gregory s,132825516000012,Executive VP and CFO,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160121,gibertini michael,163099816000007,President Clinical Development,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160202,rush gregory s,132825516000013,Executive VP and CFO,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160202,gibertini michael,163099816000008,President Clinical Development,male,53871484.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160205,breckon robert w,129244516000006,,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160302,gibertini michael,163099816000009,President Clinical Development,male,53871484.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160404,gibertini michael,163099816000010,President Clinical Development,male,54003179.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20160414,macdonald d. jamie,151866916000004,Chief Executive Officer,male,54003179.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160419,ogle james t.,162404816000008,,male,54003179.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160525,breckon robert w,129244516000008,,male,54221660.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160525,norton david y,152919316000002,,male,54221660.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160525,kender richard n,138120516000003,,male,54221660.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160525,harwood charles c jr,162407216000002,,male,54221660.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160525,ogle james t.,162404816000009,,male,54221660.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160603,breckon robert w,129244516000010,,male,54221660.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160607,gibertini michael,163099816000011,President Clinical Development,male,54221660.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160616,gaenzle christopher l,162404416000008,"CAO, GC & Sec",male,54221660.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20160701,macdonald d. jamie,151866916000005,Chief Executive Officer,male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160701,gibertini michael,163099816000012,President Clinical Development,male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160701,macdonald alistair,162407316000008,Chief Operating Officer,male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160701,gaenzle christopher l,162404416000009,"CAO, GC & Sec",male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160705,rush gregory s,132825516000014,Executive VP and CFO,male,54569305.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160705,breckon robert w,129244516000011,,male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160712,macdonald alistair,162407316000009,Chief Operating Officer,male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160712,gaenzle christopher l,162404416000010,"CAO, GC & Sec",male,54569305.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160718,rush gregory s,132825516000015,Executive VP and CFO,male,54569305.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20160721,macdonald d. jamie,151866916000006,Chief Executive Officer,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160729,rush gregory s,132825516000016,Executive VP and CFO,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160802,macdonald alistair,162407316000010,Chief Operating Officer,male,54705984.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160802,breckon robert w,129244516000012,,male,54705984.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20160803,macdonald d. jamie,151866916000007,Chief Executive Officer,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160818,macdonald alistair,162407316000011,Chief Operating Officer,male,54705984.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160831,harwood charles c jr,162407216000003,,male,54705984.0
+,,1610950,"inc research holdings, inc.",true,,,,20160901,burgstahler david f,114036116078520,,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160916,rush gregory s,132825516000017,Executive VP and CFO,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160916,gibertini michael,163099816000013,President Clinical Development,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20160916,gaenzle christopher l,162404416000011,"CAO, GC & Sec",male,54705984.0
+,,1610950,"inc research holdings, inc.",1,0.0,1.0,0.0,20160916,burgstahler david f,157856316000019,,male,54705984.0
+,,1610950,"inc research holdings, inc.",1,0.0,1.0,0.0,20160920,burgstahler david f,157856316000020,,male,54705984.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20160928,breckon robert w,129244516000013,,male,54705984.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20160928,macdonald d. jamie,151866916000008,Chief Executive Officer,male,54705984.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20161003,rush gregory s,132825516000018,Executive VP and CFO,male,53579958.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20161101,monaghan matthew e.,157856316000022,,male,53616646.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20161101,meyers kenneth f,145393716000003,,male,53616646.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170104,gaenzle christopher l,162404417000001,"CAO, GC & Sec",male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170104,rush gregory s,132825517000001,Executive VP and CFO,male,53763000.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170106,macdonald alistair,162407317000001,Chief Executive Officer,male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170120,gibertini michael,163099817000001,Chief Operating Officer,male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170123,gaenzle christopher l,162404417000002,"CAO, GC & Sec",male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170123,rush gregory s,132825517000002,Executive VP and CFO,male,53763000.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170123,macdonald alistair,162407317000002,Chief Executive Officer,male,53763000.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170130,macdonald alistair,162407317000003,Chief Executive Officer,male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170130,gaenzle christopher l,162404417000003,"CAO, GC & Sec",male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170130,rush gregory s,132825517000003,Executive VP and CFO,male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170130,gibertini michael,163099817000002,Chief Operating Officer,male,53763000.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170210,paques eric,169758017000003,,male,53763000.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170303,klitgaard william e,122987417000003,,male,53763000.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170303,harty linda s,161095017000009,,female,53763000.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170306,macdonald alistair,162407317000004,Chief Executive Officer,male,53763000.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170404,gaenzle christopher l,162404417000004,"CAO, GC & Sec",male,54089087.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170502,macdonald alistair,162407317000005,Chief Executive Officer,male,54089087.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,norton david y,152919317000001,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,meyers kenneth f,145393717000001,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,harty linda s,161095017000029,,female,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,breckon robert w,129244517000001,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,1.0,0.0,20170524,burgstahler david f,137417917000001,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,klitgaard william e,161095017000031,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,monaghan matthew e.,161095017000032,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,paques eric,169758017000004,,male,54103923.0
+,,1610950,"inc research holdings, inc.",1,0.0,0.0,0.0,20170524,kender richard n,161095017000030,,male,54103923.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170703,gibertini michael,163099817000003,Chief Operating Officer,male,54179374.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170703,rush gregory s,132825517000004,Executive VP and CFO,male,54179374.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170705,gaenzle christopher l,162404417000005,"CAO, GC & Sec",male,54179374.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170705,macdonald alistair,162407317000006,Chief Executive Officer,male,54179374.0
+,,1610950,"inc research holdings, inc.",0,0.0,0.0,1.0,20170802,gibertini michael,163099817000004,,male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170802,gaenzle christopher l,162404417000006,"CAO, GC & Sec",male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170802,rush gregory s,132825517000006,Executive VP and CFO,male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170803,macdonald alistair,162407317000007,Chief Executive Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170803,bell michael adam,161095017000044,"Exec Chair & Pres, Comm Div",male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170803,macdonald alistair,162407317000008,Chief Executive Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170814,rush gregory s,132825517000007,Executive VP and CFO,male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170814,bell michael adam,161095017000045,"Exec Chair & Pres, Comm Div",male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170814,macdonald alistair,162407317000009,Chief Executive Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170814,gaenzle christopher l,162404417000007,"CAO, GC & Sec",male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170821,macdonald alistair,162407317000010,Chief Executive Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170901,rush gregory s,161095017000046,Chief Financial Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170905,gaenzle christopher l,161095017000047,"CAO, GC & Sec",male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170905,rush gregory s,161095017000049,Chief Financial Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170919,gaenzle christopher l,161095017000052,"CAO, GC & Sec",male,54181239.0
+,,1610950,"inc research holdings, inc.",0,1.0,0.0,0.0,20170919,rush gregory s,161095017000051,Chief Financial Officer,male,54181239.0
+,,1610950,"inc research holdings, inc.",1,1.0,0.0,0.0,20170919,macdonald alistair,161095017000050,Chief Executive Officer,male,54181239.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20180122,macdonald alistair,162407318000001,Chief Executive Officer,male,104436000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20180123,gaenzle christopher l,162404418000001,"CAO, GC & Sec",male,104436000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20180130,gaenzle christopher l,162404418000002,"CAO, GC & Sec",male,104436000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20180130,macdonald alistair,162407318000002,Chief Executive Officer,male,104436000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20180220,macdonald alistair,162407318000003,Chief Executive Officer,male,104436000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20180301,bell michael adam,161095018000010,,male,104436000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20180509,meggs jason m.,166067018000004,Chief Financial Officer,male,102781233.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20180525,harty linda s,161095018000021,,female,102781233.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20180525,bell michael adam,161095018000020,,male,102781233.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20180525,klitgaard william e,161095018000022,,male,102781233.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20180525,meyers kenneth f,161095018000023,,male,102781233.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20180525,monaghan matthew e.,161095018000024,,male,102781233.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20180703,macdonald alistair,162407318000004,Chief Executive Officer,male,102871399.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20180731,meggs jason m.,166067018000005,Chief Financial Officer,male,102882326.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20180803,macdonald alistair,162407318000005,Chief Executive Officer,male,102882326.0
+,,1610950,"syneos health, inc.",true,,,,20180917,abbrecht todd m,114036118038579,,male,102882326.0
+,,1610950,"syneos health, inc.",true,,,,20180917,nelson joshua m,114036118038582,,male,102882326.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20181102,meggs jason m.,166067018000006,Chief Financial Officer,male,103225918.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20181114,olefson jonathan,167302518000002,General Counsel & Corp Secty,male,103225918.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20181211,dineen john m.,161095018000044,,male,103225918.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20181219,meggs jason m.,166067018000007,Chief Financial Officer,male,103225918.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20181219,olefson jonathan,167302518000003,General Counsel & Corp Secty,male,103225918.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190109,meggs jason m.,166067019000001,Chief Financial Officer,male,103372000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190109,olefson jonathan,167302519000001,General Counsel & Corp Secty,male,103372000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190109,macdonald alistair,162407319000002,Chief Executive Officer,male,103372000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190123,macdonald alistair,162407319000003,Chief Executive Officer,male,103372000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190123,meggs jason m.,166067019000002,Chief Financial Officer,male,103372000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190129,meggs jason m.,166067019000003,Chief Financial Officer,male,103372000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190129,macdonald alistair,162407319000004,Chief Executive Officer,male,103372000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190207,macdonald alistair,162407319000005,Chief Executive Officer,male,103372000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190215,macdonald alistair,162407319000006,Chief Executive Officer,male,103372000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190219,macdonald alistair,162407319000007,Chief Executive Officer,male,103372000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190219,meggs jason m.,166067019000004,Chief Financial Officer,male,103372000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190219,keefe michelle,176603619000004,"Pres., Commercial Solutions",female,103372000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20190529,dineen john m.,161095019000024,,male,103753000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20190529,harty linda s,161095019000025,,female,103753000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20190529,klitgaard william e,161095019000026,,male,103753000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20190529,meyers kenneth f,161095019000027,,male,103753000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20190529,monaghan matthew e.,161095019000028,,male,103753000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190702,macdonald alistair,162407319000008,Chief Executive Officer,male,103460000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20190730,meggs jason m.,161095019000029,Chief Financial Officer,male,103460000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20190802,macdonald alistair,162407319000009,Chief Executive Officer,male,103485261.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20191104,meggs jason m.,161095019000052,Chief Financial Officer,male,103796489.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20191114,connaughton bernadette,161095019000057,,female,103796489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20191114,olefson jonathan,161095019000055,General Counsel & Corp Secty,male,103796489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20191203,keefe michelle,161095019000059,"Pres., Commercial Solutions",female,103796489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20191204,parks robert,161095019000061,"EVP, Chief Accounting Officer",male,103796489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200103,colvin paul,161095020000002,"Pres., Clinical Solutions",male,103865770.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200109,macdonald alistair,161095020000010,Chief Executive Officer,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200109,parks robert,161095020000012,"EVP, Chief Accounting Officer",male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200109,colvin paul,161095020000013,"Pres., Clinical Solutions",male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200109,meggs jason m.,161095020000014,Chief Financial Officer,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200109,keefe michelle,161095020000011,"Pres., Commercial Solutions",female,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200109,olefson jonathan,161095020000009,General Counsel & Corp Secty,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200117,meggs jason m.,161095020000023,Chief Financial Officer,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200117,keefe michelle,161095020000024,"Pres., Commercial Solutions",female,103865770.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200117,macdonald alistair,161095020000025,Chief Executive Officer,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200117,colvin paul,161095020000022,"Pres., Clinical Solutions",male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200117,olefson jonathan,161095020000021,General Counsel & Corp Secty,male,103865770.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200122,macdonald alistair,161095020000029,Chief Executive Officer,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200122,meggs jason m.,161095020000030,Chief Financial Officer,male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200122,parks robert,161095020000031,"EVP, Chief Accounting Officer",male,103865770.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200129,meggs jason m.,161095020000034,Chief Financial Officer,male,103865770.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200129,macdonald alistair,161095020000035,Chief Executive Officer,male,103865770.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200220,macdonald alistair,161095020000048,Chief Executive Officer,male,104246569.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200220,keefe michelle,161095020000050,"Pres., Commercial Solutions",female,104246569.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200220,meggs jason m.,161095020000049,Chief Financial Officer,male,104246569.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200323,meggs jason m.,166067020000010,Chief Financial Officer,male,104246569.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200323,colvin paul,151390020000002,"Pres., Clinical Solutions",male,104246569.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200415,meggs jason m.,161095020000064,Chief Financial Officer,male,104161000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200415,olefson jonathan,161095020000075,General Counsel & Corp Secty,male,104161000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200415,colvin paul,161095020000073,"Pres., Clinical Solutions",male,104161000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200415,keefe michelle,161095020000067,"Pres., Commercial Solutions",female,104161000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200415,macdonald alistair,161095020000071,Chief Executive Officer,male,104161000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200421,parks robert,161095020000084,"EVP, Chief Accounting Officer",male,104161000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200521,keefe michelle,161095020000091,"Pres., Commercial Solutions",female,104169107.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200529,connaughton bernadette,161095020000102,,female,104169107.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200529,meyers kenneth f,161095020000103,,male,104169107.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200529,harty linda s,161095020000106,,female,104169107.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200529,dineen john m.,161095020000105,,male,104169107.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200529,klitgaard william e,161095020000104,,male,104169107.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200529,monaghan matthew e.,161095020000101,,male,104169107.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20200708,keefe michelle,120919120041773,"Pres., Commercial Solutions",female,104236000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20200708,dineen john m.,120919120041771,,male,104236000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200715,macdonald alistair,120919120042504,Chief Executive Officer,male,104236000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200717,macdonald alistair,120919120042895,Chief Executive Officer,male,104236000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20200804,macdonald alistair,120919120044737,Chief Executive Officer,male,104284564.0
+,,1610950,"syneos health, inc.",true,,,,20200921,maldonado john l.,114036120021061,,male,104284564.0
+,,1610950,"syneos health, inc.",true,,,,20200921,allen tom,114036120021065,,male,104284564.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201103,meggs jason m.,120919120056689,Chief Financial Officer,male,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201116,olefson jonathan,120919120058493,General Counsel & Corp Secty,male,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201119,keefe michelle,120919120059446,"Pres., Commercial Solutions",female,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201125,meggs jason m.,120919120060541,Chief Financial Officer,male,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201130,meggs jason m.,120919120060753,Chief Financial Officer,male,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201202,keefe michelle,120919120061217,"Pres., Commercial Solutions",female,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20201204,parks robert,120919120061825,"EVP, Chief Accounting Officer",male,103997108.0
+,,1610950,"syneos health, inc.",true,,,,20201207,allen tom,114036120027548,,male,103997108.0
+,,1610950,"syneos health, inc.",true,,,,20201207,maldonado john l.,114036120027537,,male,103997108.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20201228,macdonald alistair,120919120065220,Chief Executive Officer,male,103997108.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210105,colvin paul,120919121001249,"Pres., Clinical Solutions",male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210107,meggs jason m.,120919121002528,Chief Financial Officer,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210111,olefson jonathan,120919121002972,General Counsel & Corp Secty,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210111,parks robert,120919121002976,"EVP, Chief Accounting Officer",male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210111,colvin paul,120919121002978,"Pres., Clinical Solutions",male,103934738.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210111,macdonald alistair,120919121002981,Chief Executive Officer,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210111,meggs jason m.,120919121002985,Chief Financial Officer,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210111,keefe michelle,120919121002979,"Pres., Commercial Solutions",female,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210120,meggs jason m.,120919121004375,Chief Financial Officer,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210120,colvin paul,120919121004367,"Pres., Clinical Solutions",male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210120,keefe michelle,120919121004372,"Pres., Commercial Solutions",female,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210120,parks robert,120919121004380,"EVP, Chief Accounting Officer",male,103934738.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210120,macdonald alistair,120919121004373,Chief Executive Officer,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210120,olefson jonathan,120919121004376,General Counsel & Corp Secty,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210127,keefe michelle,120919121005719,"Pres., Commercial Solutions",female,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210127,olefson jonathan,120919121005722,General Counsel & Corp Secty,male,103934738.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210203,macdonald alistair,120919121007373,Chief Executive Officer,male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210203,colvin paul,120919121007350,"Pres., Clinical Solutions",male,103934738.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210218,kralowetz donna hildebrand,120919121011930,"SVP, Chief Accounting Officer",female,104305489.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210218,macdonald alistair,120919121011937,Chief Executive Officer,male,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210218,meggs jason m.,120919121011941,Chief Financial Officer,male,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210218,keefe michelle,120919121011924,"Pres., Commercial Solutions",female,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210304,colvin paul,120919121017925,"Pres., Clinical Solutions",male,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210304,olefson jonathan,120919121017919,General Counsel & Corp Secty,male,104305489.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210304,macdonald alistair,120919121017941,Chief Executive Officer,male,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210304,meggs jason m.,120919121017932,Chief Financial Officer,male,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210304,keefe michelle,120919121017927,"Pres., Commercial Solutions",female,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210304,kralowetz donna hildebrand,120919121017908,"SVP, Chief Accounting Officer",female,104305489.0
+,,1610950,"syneos health, inc.",true,,,,20210305,allen tom,114036121007551,,male,104305489.0
+,,1610950,"syneos health, inc.",true,,,,20210305,maldonado john l.,114036121007553,,male,104305489.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210317,kralowetz donna hildebrand,120919121021431,"SVP, Chief Accounting Officer",female,104305489.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210331,harty linda s,120919121023814,,female,104226000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210331,olefson jonathan,120919121023816,General Counsel & Corp Secty,male,104226000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210401,keefe michelle,120919121024156,"Pres., Commercial Solutions",female,104226000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210405,macdonald alistair,120919121025201,Chief Executive Officer,male,104226000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210412,macdonald alistair,120919121026373,Chief Executive Officer,male,104226000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210416,keefe michelle,120919121027004,"Pres., Commercial Solutions",female,104226000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210416,meggs jason m.,120919121027008,Chief Financial Officer,male,104226000.0
+,,1610950,"syneos health, inc.",true,,,,20210510,allen tom,114036121016739,,male,104292460.0
+,,1610950,"syneos health, inc.",true,,,,20210510,maldonado john l.,114036121016738,,male,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210514,meyers kenneth f,120919121032817,,male,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210514,klitgaard william e,120919121032816,,male,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210514,harty linda s,120919121032815,,female,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210514,dineen john m.,120919121032810,,male,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210514,connaughton bernadette,120919121032806,,female,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210514,monaghan matthew e.,120919121032820,,male,104292460.0
+,,1610950,"syneos health, inc.",true,,,,20210518,maldonado john l.,114036121017948,,male,104292460.0
+,,1610950,"syneos health, inc.",true,,,,20210518,allen tom,114036121017946,,male,104292460.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210603,macdonald alistair,120919121037755,Chief Executive Officer,male,104292460.0
+,,1610950,"syneos health, inc.",true,,,,20210609,maldonado john l.,114036121020415,,male,104292460.0
+,,1610950,"syneos health, inc.",true,,,,20210609,allen tom,114036121020413,,male,104292460.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210616,wilkes david s.,120919121040933,,male,104292460.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210621,kralowetz donna hildebrand,120919121042109,"SVP, Chief Accounting Officer",female,104292460.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210702,meggs jason m.,120919121045067,Chief Financial Officer,male,103473000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210707,meggs jason m.,120919121045846,Chief Financial Officer,male,103473000.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20210719,monaghan matthew e.,120919121047208,,male,103473000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20210804,macdonald alistair,120919121049715,Chief Executive Officer,male,103483148.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210903,meggs jason m.,120919121054842,Chief Financial Officer,male,103483148.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20210908,kralowetz donna hildebrand,120919121055179,"SVP, Chief Accounting Officer",female,103483148.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20211117,olefson jonathan,120919121065152,General Counsel & Corp Secty,male,103692056.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20211220,brooks michael lee,120919121070597,See remarks,male,103692056.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20211221,harty linda s,120919121070785,,female,103692056.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20211223,brooks michael lee,120919121071101,See remarks,male,103692056.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20211227,olefson jonathan,120919121071280,General Counsel & Corp Secty,male,103692056.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220103,brooks michael lee,120919122000241,See remarks,male,103763635.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20220112,macdonald alistair,120919122003086,Chief Executive Officer,male,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220112,olefson jonathan,120919122003075,General Counsel & Corp Secty,male,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220112,keefe michelle,120919122003080,"Pres., Commercial Solutions",female,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220112,meggs jason m.,120919122003073,Chief Financial Officer,male,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220120,meggs jason m.,120919122004117,Chief Financial Officer,male,103763635.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220120,bodem barbara w.,120919122004090,,female,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220120,brooks michael lee,120919122004097,See remarks,male,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220120,keefe michelle,120919122004102,See remarks,female,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220120,kralowetz donna hildebrand,120919122004107,"SVP, Chief Accounting Officer",female,103763635.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20220120,macdonald alistair,120919122004114,Chief Executive Officer,male,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220120,olefson jonathan,120919122004119,General Counsel & Corp Secty,male,103763635.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220120,zulueta alfonso g,120919122004093,,male,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220202,kralowetz donna hildebrand,120919122006433,"SVP, Chief Accounting Officer",female,103763635.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220218,brooks michael lee,120919122011364,See remarks,male,104221138.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220304,olefson jonathan,120919122016388,General Counsel & Corp Secty,male,104221138.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220304,meggs jason m.,120919122016384,Chief Financial Officer,male,104221138.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20220304,macdonald alistair,120919122016379,Chief Executive Officer,male,104221138.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220304,keefe michelle,120919122016376,See remarks,female,104221138.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220304,brooks michael lee,120919122016368,See remarks,male,104221138.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220317,kralowetz donna hildebrand,120919122019666,"SVP, Chief Accounting Officer",female,104221138.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220518,brooks michael lee,120919122030115,Chief Operating Officer,male,102575027.0
+,,1610950,"syneos health, inc.",true,,,,20220518,abbrecht todd m,114036122019822,,male,102575027.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220518,keefe michelle,120919122030119,Chief Executive Officer,female,102575027.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220518,kralowetz donna hildebrand,120919122030127,"SVP, Chief Accounting Officer",female,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,meyers kenneth f,120919122032641,,male,102575027.0
+,,1610950,"syneos health, inc.",true,,,,20220527,abbrecht todd m,114036122021113,,male,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,connaughton bernadette,120919122032624,,female,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,dineen john m.,120919122032626,,male,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,harty linda s,120919122032633,,female,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,klitgaard william e,120919122032638,,male,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,monaghan matthew e.,120919122032643,,male,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,wilkes david s.,120919122032647,,male,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,zulueta alfonso g,120919122032651,,male,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220527,bodem barbara w.,120919122032701,,female,102575027.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20220602,monaghan matthew e.,120919122033588,,male,102575027.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220621,kralowetz donna hildebrand,120919122038499,"SVP, Chief Accounting Officer",female,102575027.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220711,kralowetz donna hildebrand,120919122041820,"EVP, Chief Accounting Officer",female,102647000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220718,kralowetz donna hildebrand,120919122042450,"EVP, Chief Accounting Officer",female,102647000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220720,meggs jason m.,120919122042717,Chief Financial Officer,male,102647000.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20220720,keefe michelle,120919122042719,Chief Executive Officer,female,102647000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220720,brooks michael lee,120919122042720,Chief Operating Officer,male,102647000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220721,olefson jonathan,120919122042876,General Counsel & Corp Secty,male,102647000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220722,brooks michael lee,120919122043021,Chief Operating Officer,male,102647000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20220729,brooks michael lee,120919122043546,Chief Operating Officer,male,102653017.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20221018,klitgaard william e,120919122053980,,male,102895000.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20221219,meggs jason m.,120919122061978,Chief Financial Officer,male,102904024.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20221219,tucat christian,120919122061983,Chief Business Officer,male,102904024.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20221219,olefson jonathan,120919122061982,General Counsel & Corp Secty,male,102904024.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20221219,kralowetz donna hildebrand,120919122061976,"EVP, Chief Accounting Officer",female,102904024.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20221219,brooks michael lee,120919122061972,Chief Operating Officer,male,102904024.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20221219,keefe michelle,120919122061971,Chief Executive Officer,female,102904024.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230119,tucat christian,120919123004064,Chief Business Officer,male,102911209.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230119,kralowetz donna hildebrand,120919123004109,"EVP, Chief Accounting Officer",female,102911209.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20230119,keefe michelle,120919123004061,Chief Executive Officer,female,102911209.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230119,brooks michael lee,120919123004060,Chief Operating Officer,male,102911209.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230119,olefson jonathan,120919123004063,General Counsel & Corp Secty,male,102911209.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230119,meggs jason m.,120919123004062,Chief Financial Officer,male,102911209.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230217,brooks michael lee,120919123010778,Chief Operating Officer,male,103241365.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20230224,keefe michelle,120919123012784,Chief Executive Officer,female,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230224,meggs jason m.,120919123012785,Chief Financial Officer,male,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230224,brooks michael lee,120919123012788,Chief Operating Officer,male,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230224,olefson jonathan,120919123012789,General Counsel & Corp Secty,male,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230224,tucat christian,120919123012791,Chief Business Officer,male,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230317,kralowetz donna hildebrand,120919123019748,"EVP, Chief Accounting Officer",female,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230419,rudnick stanford,120919123024867,See remarks,male,103241365.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230517,brooks michael lee,120919123030357,Chief Operating Officer,male,103647164.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230517,rudnick stanford,120919123030366,See remarks,male,103647164.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230517,kralowetz donna hildebrand,120919123030363,"EVP, Chief Accounting Officer",female,103647164.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20230517,keefe michelle,120919123030361,Chief Executive Officer,female,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,meyers kenneth f,120919123032934,,male,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,bodem barbara w.,120919123032938,,female,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,connaughton bernadette,120919123032940,,female,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,klitgaard william e,120919123032942,,male,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,monaghan matthew e.,120919123032945,,male,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,zulueta alfonso g,120919123033057,,male,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,wilkes david s.,120919123032928,,male,103647164.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230530,dineen john m.,120919123032930,,male,103647164.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230616,tucat christian,120919123037966,Chief Business Officer,male,103647164.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230718,kralowetz donna hildebrand,120919123042606,"EVP, Chief Accounting Officer",female,103647164.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230718,bonello michael j.,120919123042608,Chief Financial Officer,male,103647164.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230905,brooks michael lee,120919123048201,Chief Operating Officer,male,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,wilkes david s.,120919123050776,,male,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,monaghan matthew e.,120919123050775,,male,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,meyers kenneth f,120919123050774,,male,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,klitgaard william e,120919123050773,,male,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,connaughton bernadette,120919123050772,,female,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,bodem barbara w.,120919123050771,,female,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,dineen john m.,120919123050770,,male,103719179.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230928,kralowetz donna hildebrand,120919123050769,"EVP, Chief Accounting Officer",female,103719179.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230928,tucat christian,120919123050768,Chief Business Officer,male,103719179.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230928,olefson jonathan,120919123050767,General Counsel & Corp Secty,male,103719179.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230928,brooks michael lee,120919123050765,Chief Operating Officer,male,103719179.0
+,,1610950,"syneos health, inc.",1,1.0,0.0,0.0,20230928,keefe michelle,120919123050764,Chief Executive Officer,female,103719179.0
+,,1610950,"syneos health, inc.",1,0.0,0.0,0.0,20230928,zulueta alfonso g,120919123050777,,male,103719179.0
+,,1610950,"syneos health, inc.",0,1.0,0.0,0.0,20230928,bonello michael j.,120919123050766,Chief Financial Officer,male,103719179.0

@@ -1,67 +1,277 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-15000.0,0.0,1524931,"chuy's holdings, inc.",1,0,1,1,20120725,ferreira jose jr,118143112042179,,male,192878.0
-92111.0,0.0,1524931,"chuy's holdings, inc.",1,1,0,0,20120727,hislop steven j.,118143112042391,President & CEO,male,192878.0
-895538.0,0.0,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,young michael roger,118143112042396,,male,192878.0
-7905395.0,0.0,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,ferreira jose jr,118143112042397,,male,192878.0
-7890395.0,0.0,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,oddi david,118143112042399,,male,192878.0
-35836.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20120727,biller francis x.,118143112042400,See Remarks,male,192878.0
-895538.0,0.0,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,zapp john a.,118143112042402,,male,192878.0
-500.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20120731,russell sharon a.,118143112042921,Secretary and CAO,female,15918427.0
-5084.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20120806,hatcher michael c.,118143112043872,See Remarks,male,15918427.0
-277.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20120824,kittrell susan,118143112047449,Controller,female,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20120906,mohseni saed,118143112049066,,male,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20120906,johnson starlette b,118143112049073,,male,15918427.0
-9969.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130131,russell sharon a.,118143113005789,See Remarks,female,15918427.0
-417901.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20130131,zapp john a.,118143113005788,,male,15918427.0
-417901.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20130131,young michael roger,118143113005785,,male,15918427.0
-9969.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130131,zapp werner t.,118143113005777,Vice President of Operations,male,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,1,0,0,20130131,hislop steven j.,118143113005774,President & CEO,male,15918427.0
-3682041.0,0.0,1524931,"chuy's holdings, inc.",1,0,1,0,20130131,oddi david,118143113005783,,male,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,kittrell susan,118143113015426,Controller,female,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,hatcher michael c.,118143113015406,See Remarks,male,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,russell sharon a.,118143113015411,See Remarks,female,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,biller francis x.,118143113015417,See Remarks,male,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,1,0,0,20130307,hislop steven j.,118143113015419,President & CEO,male,15918427.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,zapp werner t.,118143113015424,Vice President of Operations,male,15918427.0
+15000.0,,1524931,"chuy's holdings, inc.",1,0,1,1,20120725,ferreira jose jr,118143112042179,,male,192878.0
+7890395.0,,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,oddi david,118143112042399,,male,192878.0
+895538.0,,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,zapp john a.,118143112042402,,male,192878.0
+7905395.0,,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,ferreira jose jr,118143112042397,,male,192878.0
+895538.0,,1524931,"chuy's holdings, inc.",1,0,1,1,20120727,young michael roger,118143112042396,,male,192878.0
+92111.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20120727,hislop steven j.,118143112042391,President & CEO,male,192878.0
+35836.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20120727,biller francis x.,118143112042400,See Remarks,male,192878.0
+500.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20120731,russell sharon a.,118143112042921,Secretary and CAO,female,15918427.0
+5084.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20120806,hatcher michael c.,118143112043872,See Remarks,male,15918427.0
+277.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20120824,kittrell susan,118143112047449,Controller,female,15918427.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20120906,mohseni saed,118143112049066,,male,15918427.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20120906,johnson starlette b,118143112049073,,male,15918427.0
+0.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20130131,hislop steven j.,118143113005774,President & CEO,male,15918427.0
+9969.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130131,zapp werner t.,118143113005777,Vice President of Operations,male,15918427.0
+3682041.0,,1524931,"chuy's holdings, inc.",1,0,1,0,20130131,oddi david,118143113005783,,male,15918427.0
+417901.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20130131,young michael roger,118143113005785,,male,15918427.0
+417901.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20130131,zapp john a.,118143113005788,,male,15918427.0
+9969.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130131,russell sharon a.,118143113005789,See Remarks,female,15918427.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,kittrell susan,118143113015426,Controller,female,15918427.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,zapp werner t.,118143113015424,Vice President of Operations,male,15918427.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,biller francis x.,118143113015417,See Remarks,male,15918427.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,russell sharon a.,118143113015411,See Remarks,female,15918427.0
+,,1524931,"chuy's holdings, inc.",1,1,0,0,20130307,hislop steven j.,118143113015419,President & CEO,male,15918427.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20130307,hatcher michael c.,118143113015406,See Remarks,male,15918427.0
 0.0,277.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130311,kittrell susan,118143113016076,Controller,female,15918427.0
-764362.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,1,20130418,oddi david,152493113000006,,male,16228731000.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20130510,schmick douglas l,152493113000019,,male,16228731000.0
-5084.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130516,hatcher michael c.,152493113000027,VP of Real Estate Development,male,16228731000.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,1,0,0,20130516,hislop steven j.,152493113000028,President & CEO,male,16228731000.0
-9969.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130516,russell sharon a.,152493113000025,See remarks,female,16228731000.0
-9969.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130516,zapp werner t.,152493113000026,VP of Operations,male,16228731000.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,0,0,1,20130726,zapp werner t.,152493113000037,,male,16312824.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20130812,zecher ira l.,152493113000049,,female,16313624.0
-9969.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130820,russell sharon a.,152493113000051,See remarks,female,16313624.0
-25836.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20130828,biller francis x.,152493113000053,"VP of Operations, Southeast",male,16313624.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,hatcher michael c.,152493114000025,VP of Real Estate Development,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,schmick douglas l,152493114000026,,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,young michael roger,152493114000027,,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,mohseni saed,152493114000028,,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,lazenby phillip,152493114000029,VP of Operations,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,1,0,0,20140305,hislop steven j.,152493114000030,President & CEO,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,zapp john a.,152493114000031,,male,16386932.0
+764362.0,,1524931,"chuy's holdings, inc.",1,0,0,1,20130418,oddi david,152493113000006,,male,16228731000.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20130510,schmick douglas l,152493113000019,,male,16228731000.0
+9969.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130516,russell sharon a.,152493113000025,See remarks,female,16228731000.0
+9969.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130516,zapp werner t.,152493113000026,VP of Operations,male,16228731000.0
+5084.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130516,hatcher michael c.,152493113000027,VP of Real Estate Development,male,16228731000.0
+0.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20130516,hislop steven j.,152493113000028,President & CEO,male,16228731000.0
+,,1524931,"chuy's holdings, inc.",0,0,0,1,20130726,zapp werner t.,152493113000037,,male,16312824.0
+0.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20130812,zecher ira l.,152493113000049,,female,16313624.0
+9969.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130820,russell sharon a.,152493113000051,See remarks,female,16313624.0
+25836.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20130828,biller francis x.,152493113000053,"VP of Operations, Southeast",male,16313624.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,schmick douglas l,152493114000026,,male,16386932.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,russell sharon a.,152493114000038,Secretary and CAO,female,16386932.0
+0.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,larue gary thomas,152493114000037,"VP of Operations, South",male,16386932.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,zecher ira l.,152493114000036,,female,16386932.0
+25836.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,biller francis x.,152493114000035,"VP of Operations, Southeast",male,16386932.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,johnson starlette b,152493114000034,,male,16386932.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,hatcher michael c.,152493114000025,VP of Real Estate Development,male,16386932.0
 0.0,277.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,kittrell susan,152493114000032,Controller,female,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,howie jon w,152493114000033,VP & Chief Financial Officer,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,johnson starlette b,152493114000034,,male,16386932.0
-25836.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,biller francis x.,152493114000035,"VP of Operations, Southeast",male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,zecher ira l.,152493114000036,,female,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,larue gary thomas,152493114000037,"VP of Operations, South",male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,russell sharon a.,152493114000038,Secretary and CAO,female,16386932.0
-5084.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20140319,hatcher michael c.,152493114000043,VP of Real Estate Development,male,16386932.0
-0.0,0.0,1524931,"chuy's holdings, inc.",0,0,0,1,20150120,biller francis x.,152493115000008,,male,16440906.0
-594.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,lazenby phillip,152493115000040,VP of Operations,male,16440906.0
-215.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,schmick douglas l,152493115000041,,male,16440906.0
-11763.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,russell sharon a.,152493115000042,Secretary and CAO,female,16440906.0
-5169.0,0.0,1524931,"chuy's holdings, inc.",1,1,0,0,20150306,hislop steven j.,152493115000043,President & CEO,male,16440906.0
-209166.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,zapp john a.,152493115000044,,male,16440906.0
-963.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,larue gary thomas,152493115000045,"VP of Operations, South",male,16440906.0
-215.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,johnson starlette b,152493115000047,,male,16440906.0
-1739.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,howie jon w,152493115000048,VP & Chief Financial Officer,male,16440906.0
-215.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,young michael roger,152493115000049,,male,16440906.0
-6679.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,hatcher michael c.,152493115000050,VP of Real Estate and Develop.,male,16440906.0
-215.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,mohseni saed,152493115000051,,male,16440906.0
-603.0,0.0,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,kittrell susan,152493115000052,Controller,female,16440906.0
-215.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,zecher ira l.,152493115000053,,female,16440906.0
-168950.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150810,young michael roger,152493115000077,,male,16474341.0
-189166.0,0.0,1524931,"chuy's holdings, inc.",1,0,0,0,20150810,zapp john a.,152493115000078,,male,16474341.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,zapp john a.,152493114000031,,male,16386932.0
+,,1524931,"chuy's holdings, inc.",1,1,0,0,20140305,hislop steven j.,152493114000030,President & CEO,male,16386932.0
+0.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,lazenby phillip,152493114000029,VP of Operations,male,16386932.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,mohseni saed,152493114000028,,male,16386932.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20140305,young michael roger,152493114000027,,male,16386932.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20140305,howie jon w,152493114000033,VP & Chief Financial Officer,male,16386932.0
+5084.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20140319,hatcher michael c.,152493114000043,VP of Real Estate Development,male,16386932.0
+,,1524931,"chuy's holdings, inc.",0,0,0,1,20150120,biller francis x.,152493115000008,,male,16440906.0
+11763.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,russell sharon a.,152493115000042,Secretary and CAO,female,16440906.0
+594.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,lazenby phillip,152493115000040,VP of Operations,male,16440906.0
+209166.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,zapp john a.,152493115000044,,male,16440906.0
+963.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,larue gary thomas,152493115000045,"VP of Operations, South",male,16440906.0
+215.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,johnson starlette b,152493115000047,,male,16440906.0
+1739.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,howie jon w,152493115000048,VP & Chief Financial Officer,male,16440906.0
+215.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,young michael roger,152493115000049,,male,16440906.0
+6679.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,hatcher michael c.,152493115000050,VP of Real Estate and Develop.,male,16440906.0
+215.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,mohseni saed,152493115000051,,male,16440906.0
+603.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20150306,kittrell susan,152493115000052,Controller,female,16440906.0
+215.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,zecher ira l.,152493115000053,,female,16440906.0
+215.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150306,schmick douglas l,152493115000041,,male,16440906.0
+5169.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20150306,hislop steven j.,152493115000043,President & CEO,male,16440906.0
+189166.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150810,zapp john a.,152493115000078,,male,16474341.0
+168950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150810,young michael roger,152493115000077,,male,16474341.0
+189166.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150810,zapp john a.,152493115000078,,male,16474341.0
+168950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20150810,young michael roger,152493115000077,,male,16474341.0
+181666.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20151130,zapp john a.,152493115000089,,male,16478461.0
+167950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160113,young michael roger,152493116000091,,male,16490600.0
+165950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160114,young michael roger,152493116000093,,male,16490600.0
+162950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160304,young michael roger,152493116000100,,male,16490600.0
+862.0,162950.0,1524931,"chuy's holdings, inc.",1,0,0,0,20160308,young michael roger,152493116000101,,male,16490600.0
+13492.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20160308,hislop steven j.,152493116000116,President & CEO,male,16490600.0
+5667.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20160308,howie jon w,152493116000115,VP & Chief Financial Officer,male,16490600.0
+13889.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20160308,russell sharon a.,152493116000111,Secretary and CAO,female,16490600.0
+862.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160308,johnson starlette b,152493116000106,,male,16490600.0
+182313.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160308,zapp john a.,152493116000105,,male,16490600.0
+862.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160308,mohseni saed,152493116000118,,male,16490600.0
+862.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160308,zecher ira l.,152493116000102,,female,16490600.0
+862.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160308,schmick douglas l,152493116000104,,male,16490600.0
+647.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160310,zecher ira l.,152493116000126,,female,16490600.0
+11889.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20160310,russell sharon a.,152493116000125,Secretary and CAO,female,16490600.0
+161950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160314,young michael roger,152493116000128,,male,16490600.0
+160950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160506,young michael roger,152493116000137,,male,16539797.0
+11139.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20160510,russell sharon a.,152493116000139,Secretary and CAO,female,16539797.0
+159950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160511,young michael roger,152493116000141,,male,16539797.0
+157950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160610,young michael roger,152493116000146,,male,16539797.0
+154950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160613,young michael roger,152493116000148,,male,16539797.0
+108907.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20160627,hislop steven j.,152493116000152,President & CEO,male,16759690.0
+115205.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20160628,hislop steven j.,152493116000154,President & CEO,male,16759690.0
+151950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160713,young michael roger,152493116000159,,male,16759690.0
+150950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20160811,young michael roger,152493116000168,,male,16794684.0
+9247.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20161117,hatcher michael c.,152493116000190,VP of Real Estate and Develop.,male,16822284.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20161117,dewitt randall m,152493116000188,,male,16822284.0
+10389.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20161121,russell sharon a.,152493116000195,Secretary and CAO,female,16822284.0
+172313.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20161121,zapp john a.,152493116000196,,male,16822284.0
+149950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20161202,young michael roger,152493116000198,,male,16822284.0
+146950.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20161213,young michael roger,152493116000201,,male,16822284.0
+111047.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20170309,hislop steven j.,152493117000020,President & CEO,male,16839348.0
+1799.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20170309,mohseni saed,152493117000019,,male,16839348.0
+1799.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20170309,johnson starlette b,152493117000021,,male,16839348.0
+13277.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20170309,russell sharon a.,152493117000022,Secretary and CAO,female,16839348.0
+173250.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20170309,zapp john a.,152493117000023,,male,16839348.0
+1799.0,146950.0,1524931,"chuy's holdings, inc.",1,0,0,0,20170309,young michael roger,152493117000024,,male,16839348.0
+10654.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20170309,howie jon w,152493117000025,VP & Chief Financial Officer,male,16839348.0
+12538.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20170309,hatcher michael c.,152493117000026,VP of Real Estate and Develop.,male,16839348.0
+1584.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20170309,zecher ira l.,152493117000018,,female,16839348.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20170317,russell sharon a.,152493117000046,Secretary and CAO,female,16839348.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20170317,zecher ira l.,152493117000052,,female,16839348.0
+,,1524931,"chuy's holdings, inc.",1,1,0,0,20170317,hislop steven j.,152493117000051,President & CEO,male,16839348.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20170317,johnson starlette b,152493117000050,,male,16839348.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20170317,dewitt randall m,152493117000049,,male,16839348.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20170317,mohseni saed,152493117000045,,male,16839348.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20170317,howie jon w,152493117000047,VP & Chief Financial Officer,male,16839348.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20170317,zapp john a.,152493117000044,,male,16839348.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20170317,hatcher michael c.,152493117000043,VP of Real Estate and Develop.,male,16839348.0
+,146950.0,1524931,"chuy's holdings, inc.",1,0,0,0,20170317,young michael roger,152493117000048,,male,16839348.0
+984.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20170324,zecher ira l.,152493117000054,,female,16839348.0
+4277.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20170510,russell sharon a.,152493117000064,Secretary and CAO,female,16895161.0
+3415.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20170512,russell sharon a.,152493117000065,Secretary and CAO,female,16895161.0
+2277.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20170515,russell sharon a.,152493117000066,Secretary and CAO,female,16895161.0
+161250.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20171115,zapp john a.,152493117000084,,male,16913697.0
+80.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20171116,dewitt randall m,152493117000086,,male,16913697.0
+15533.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20180306,howie jon w,152493118000017,VP & Chief Financial Officer,male,16923741.0
+2736.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180306,mohseni saed,152493118000004,,male,16923741.0
+14759.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20180306,hatcher michael c.,152493118000005,VP of Real Estate and Develop.,male,16923741.0
+2736.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180306,johnson starlette b,152493118000007,,male,16923741.0
+1921.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180306,zecher ira l.,152493118000009,,female,16923741.0
+132084.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20180306,hislop steven j.,152493118000011,President & CEO,male,16923741.0
+162187.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180306,zapp john a.,152493118000013,,male,16923741.0
+5001.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20180306,russell sharon a.,152493118000015,Secretary and CAO,female,16923741.0
+3089.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180316,johnson starlette b,152493118000028,,male,16965910.0
+3089.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180316,mohseni saed,152493118000026,,male,16965910.0
+136150.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20180316,hislop steven j.,152493118000035,President & CEO,male,16965910.0
+16962.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20180316,howie jon w,152493118000038,VP & Chief Financial Officer,male,16965910.0
+433.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180316,dewitt randall m,152493118000037,,male,16965910.0
+15377.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20180316,hatcher michael c.,152493118000039,VP of Real Estate and Develop.,male,16965910.0
+162540.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180316,zapp john a.,152493118000036,,male,16965910.0
+2274.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180316,zecher ira l.,152493118000040,,female,16965910.0
+109129.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20180507,hislop steven j.,152493118000045,President & CEO,male,16925099.0
+76150.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20180509,hislop steven j.,152493118000053,President & CEO,male,16925099.0
+15377.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20180530,hatcher michael c.,152493118000058,VP of Real Estate and Develop.,male,16925099.0
+11962.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20180601,howie jon w,152493118000061,VP & Chief Financial Officer,male,16925099.0
+2274.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20180820,zecher ira l.,152493118000075,,female,16946889.0
+513.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20181116,dewitt randall m,152493118000090,,male,16950379.0
+3810.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190306,johnson starlette b,152493119000012,,male,16856373.0
+80849.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20190306,hislop steven j.,152493119000010,President & CEO,male,16856373.0
+2995.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190306,zecher ira l.,152493119000016,,female,16856373.0
+3810.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190306,mohseni saed,152493119000004,,male,16856373.0
+16518.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20190306,hatcher michael c.,152493119000006,VP of Real Estate and Develop.,male,16856373.0
+15253.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20190306,mountford john,152493119000014,Chief Operating Officer,male,16856373.0
+15344.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20190306,howie jon w,152493119000002,VP & Chief Financial Officer,male,16856373.0
+89506.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20190318,hislop steven j.,152493119000033,President & CEO,male,16884987.0
+4552.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190318,mohseni saed,152493119000034,,male,16884987.0
+4552.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190318,johnson starlette b,152493119000035,,male,16884987.0
+3737.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190318,zecher ira l.,152493119000036,,female,16884987.0
+30261.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20190318,howie jon w,152493119000037,VP & Chief Financial Officer,male,16884987.0
+17837.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20190318,hatcher michael c.,152493119000039,VP of Real Estate and Develop.,male,16884987.0
+1255.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190318,dewitt randall m,152493119000038,,male,16884987.0
+2237.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20190320,zecher ira l.,152493119000043,,female,16884987.0
+16214.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20190320,mountford john,152493119000044,Chief Operating Officer,male,16884987.0
+22441.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20190528,hatcher michael c.,152493119000057,VP of Real Estate and Develop.,male,16860639.0
+1335.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20191118,dewitt randall m,152493119000083,,male,16614644.0
+16555.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20200306,mountford john,152493120000009,Chief Operating Officer,male,16636464.0
+22928.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20200306,hatcher michael c.,152493120000004,VP of Real Estate and Develop.,male,16636464.0
+4842.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200306,mohseni saed,152493120000007,,male,16636464.0
+2527.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200306,zecher ira l.,152493120000018,,female,16636464.0
+31253.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20200306,howie jon w,152493120000017,VP & Chief Financial Officer,male,16636464.0
+91913.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20200306,hislop steven j.,152493120000014,President & CEO,male,16636464.0
+4842.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200306,johnson starlette b,152493120000019,,male,16636464.0
+6335.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200313,dewitt randall m,152493120000025,,male,16636464.0
+6030.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200317,johnson starlette b,152493120000034,,male,16636464.0
+7523.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200317,dewitt randall m,152493120000035,,male,16636464.0
+48352.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20200317,howie jon w,152493120000036,VP & Chief Financial Officer,male,16636464.0
+19285.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20200317,mountford john,152493120000037,Chief Operating Officer,male,16636464.0
+3715.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200317,zecher ira l.,152493120000038,,female,16636464.0
+6030.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200317,mohseni saed,152493120000039,,male,16636464.0
+25271.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20200317,hatcher michael c.,152493120000040,VP of Real Estate and Develop.,male,16636464.0
+104503.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20200317,hislop steven j.,152493120000041,President & CEO,male,16636464.0
+3100.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20200617,howie jon w,152493120000079,VP & Chief Financial Officer,male,16640190.0
+3715.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20200818,zecher ira l.,152493120000094,,female,19689892.0
+7603.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20201116,dewitt randall m,152493120000102,,male,19694512.0
+20313.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20201125,hatcher michael c.,152493120000105,VP of Real Estate and Develop.,male,19694512.0
+6030.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210312,johnson starlette b,152493121000014,,male,19710549.0
+50810.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20210312,howie jon w,152493121000016,VP & Chief Financial Officer,male,19710549.0
+1215.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210315,zecher ira l.,152493121000020,,female,19710549.0
+2603.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210315,dewitt randall m,152493121000018,,male,19710549.0
+4472.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210317,dewitt randall m,152493121000037,,male,19710549.0
+67870.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20210317,howie jon w,152493121000038,VP & Chief Financial Officer,male,19710549.0
+3084.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210317,zecher ira l.,152493121000039,,female,19710549.0
+23432.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20210317,mountford john,152493121000040,Chief Operating Officer,male,19710549.0
+121671.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20210317,hislop steven j.,152493121000041,President & CEO,male,19710549.0
+7899.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210317,mohseni saed,152493121000042,,male,19710549.0
+24038.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20210317,hatcher michael c.,152493121000043,VP of Real Estate and Develop.,male,19710549.0
+7899.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210317,johnson starlette b,152493121000044,,male,19710549.0
+7899.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210319,mohseni saed,152493121000046,,male,19710549.0
+108794.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20210423,hislop steven j.,152493121000064,President & CEO,male,19946059.0
+101678.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20210427,hislop steven j.,152493121000066,President & CEO,male,19946059.0
+84194.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20210430,hislop steven j.,152493121000071,President & CEO,male,19946059.0
+54993.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20210430,howie jon w,152493121000073,VP & Chief Financial Officer,male,19946059.0
+3050.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210513,zecher ira l.,152493121000088,,female,19946059.0
+2550.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210517,zecher ira l.,152493121000090,,female,19946059.0
+22828.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20210520,hatcher michael c.,152493121000093,VP of Real Estate and Develop.,male,19946059.0
+15248.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20210520,mountford john,152493121000094,Chief Operating Officer,male,19946059.0
+3850.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20210521,mountford john,152493121000096,Chief Operating Officer,male,19946059.0
+2050.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20210526,zecher ira l.,152493121000098,,female,19946059.0
+54489.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20210602,howie jon w,152493121000100,VP & Chief Financial Officer,male,19946059.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20210816,bilney jody l,152493121000116,,female,19997123.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20220303,hatcher michael c.,152493122000022,VP of Real Estate and Develop.,male,19538058.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20220303,johnson starlette b,152493122000023,,male,19538058.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20220303,dewitt randall m,152493122000021,,male,19538058.0
+,,1524931,"chuy's holdings, inc.",1,1,0,0,20220303,hislop steven j.,152493122000020,President & CEO,male,19538058.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20220303,zecher ira l.,152493122000019,,female,19538058.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20220303,mohseni saed,152493122000017,,male,19538058.0
+,,1524931,"chuy's holdings, inc.",1,1,0,0,20220303,howie jon w,152493122000016,VP & Chief Financial Officer,male,19538058.0
+,,1524931,"chuy's holdings, inc.",0,1,0,0,20220303,mountford john,152493122000015,Chief Operating Officer,male,19538058.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20220303,bilney jody l,152493122000018,,female,19538058.0
+9667.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20220317,johnson starlette b,152493122000036,,male,19538058.0
+8036.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20220317,mountford john,152493122000038,Chief Operating Officer,male,19538058.0
+99622.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20220317,hislop steven j.,152493122000039,President & CEO,male,19538058.0
+3818.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20220317,zecher ira l.,152493122000037,,female,19538058.0
+71306.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20220317,howie jon w,152493122000035,VP & Chief Financial Officer,male,19538058.0
+9667.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20220317,mohseni saed,152493122000033,,male,19538058.0
+26378.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20220317,hatcher michael c.,152493122000032,VP of Real Estate and Develop.,male,19538058.0
+6240.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20220317,dewitt randall m,152493122000034,,male,19538058.0
+6367.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20220812,johnson starlette b,152493122000065,,male,18845732.0
+240.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20220817,bilney jody l,152493122000067,,female,18845732.0
+19436.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20221122,hatcher michael c.,152493122000076,VP of Real Estate and Develop.,male,17996293.0
+2818.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230301,zecher ira l.,152493123000010,,female,17998170.0
+8900.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20230303,mountford john,152493123000024,Chief Operating Officer,male,17998170.0
+72520.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20230303,howie jon w,152493123000023,VP & Chief Financial Officer,male,17998170.0
+102868.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20230303,hislop steven j.,152493123000022,President & CEO,male,17998170.0
+20130.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20230303,hatcher michael c.,152493123000026,VP of Real Estate and Develop.,male,17998170.0
+6599.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230303,dewitt randall m,152493123000020,,male,17998170.0
+3177.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230303,zecher ira l.,152493123000019,,female,17998170.0
+599.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230303,bilney jody l,152493123000025,,female,17998170.0
+10026.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230303,mohseni saed,152493123000021,,male,17998170.0
+4558.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230316,zecher ira l.,152493123000035,,female,17998170.0
+11407.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230316,mohseni saed,152493123000034,,male,17998170.0
+7980.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230316,dewitt randall m,152493123000036,,male,17998170.0
+12679.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20230316,mountford john,152493123000037,Chief Operating Officer,male,17998170.0
+22987.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20230316,hatcher michael c.,152493123000038,VP of Real Estate and Develop.,male,17998170.0
+115581.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20230316,hislop steven j.,152493123000039,President & CEO,male,17998170.0
+77246.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20230316,howie jon w,152493123000040,VP & Chief Financial Officer,male,17998170.0
+839.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20230817,bilney jody l,152493123000072,,female,18038554.0
+5223.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240304,zecher ira l.,152493124000026,,female,17335062.0
+9250.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240304,korman john,152493124000025,Chief Operating Officer,male,17335062.0
+8645.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240304,dewitt randall m,152493124000024,,male,17335062.0
+12072.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240304,mohseni saed,152493124000023,,male,17335062.0
+1504.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240304,bilney jody l,152493124000022,,female,17335062.0
+14304.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240304,mountford john,152493124000020,Chief Culinary Officer,male,17335062.0
+121620.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20240304,hislop steven j.,152493124000021,President & CEO,male,17335062.0
+26426.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240305,hatcher michael c.,152493124000031,VP of Real Estate and Develop.,male,17335062.0
+79537.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20240305,howie jon w,152493124000030,VP & Chief Financial Officer,male,17335062.0
+28405.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240319,hatcher michael c.,152493124000046,VP of Real Estate and Develop.,male,17335062.0
+130083.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20240319,hislop steven j.,152493124000047,President & CEO,male,17335062.0
+82612.0,3100.0,1524931,"chuy's holdings, inc.",1,1,0,0,20240319,howie jon w,152493124000043,VP & Chief Financial Officer,male,17335062.0
+9580.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240319,dewitt randall m,152493124000042,,male,17335062.0
+10779.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240319,korman john,152493124000041,Chief Operating Officer,male,17335062.0
+13007.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240319,mohseni saed,152493124000040,,male,17335062.0
+16332.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240319,mountford john,152493124000045,Chief Culinary Officer,male,17335062.0
+6158.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240319,zecher ira l.,152493124000044,,female,17335062.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20240517,smith nancy freda,152493124000065,,female,17230087.0
+1744.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20240819,bilney jody l,152493124000091,,female,17230284.0
+10837.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20240819,korman john,152493124000090,Chief Operating Officer,male,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20241015,zecher ira l.,152493124000123,,female,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20241015,hatcher michael c.,152493124000125,VP of Development,male,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20241015,mohseni saed,152493124000129,,male,17230284.0
+,,1524931,"chuy's holdings, inc.",1,0,0,0,20241015,smith nancy freda,152493124000126,,female,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20241015,bilney jody l,152493124000127,,female,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20241015,mountford john,152493124000128,Chief Culinary Officer,male,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20241015,hislop steven j.,152493124000132,President & CEO,male,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",0,1,0,0,20241015,korman john,152493124000131,Chief Operating Officer,male,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",1,1,0,0,20241015,howie jon w,152493124000124,VP & Chief Financial Officer,male,17230284.0
+0.0,,1524931,"chuy's holdings, inc.",1,0,0,0,20241015,dewitt randall m,152493124000130,,male,17230284.0

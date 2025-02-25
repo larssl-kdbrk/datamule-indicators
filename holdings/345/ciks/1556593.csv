@@ -1,33 +1,181 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,1037091.0,1556593,new residential investment corp.,1,0,0,0,20130508,edens wesley r,120919113024944,,male,126512823.0
-0.0,0.0,1556593,new residential investment corp.,1,1,0,0,20130508,riis kenneth m,120919113024945,CEO and President,male,126512823.0
-0.0,0.0,1556593,new residential investment corp.,0,0,1,0,20130508,newcastle investment corp,120919113024946,,male,126512823.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20130606,jacobs douglas l,120919113031093,,male,126512823.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20130606,finnerty kevin j,120919113031095,,male,126512823.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20130606,saltzman david,120919113031099,,male,126512823.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20130606,tyson alan l.,120919113031104,,male,126512823.0
-56300.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140108,tyson alan l.,118143114001903,,male,126598987.0
-320680.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140108,finnerty kevin j,118143114001906,,male,126598987.0
-1000500.0,0.0,1556593,new residential investment corp.,1,1,0,0,20140502,nierenberg michael,120919114030714,CEO and President,male,253209669.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140502,edens wesley r,120919114030715,,male,253209669.0
-65916.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140624,tyson alan l.,120919114043385,,male,253209669.0
-9616.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140624,jacobs douglas l,120919114043383,,male,253209669.0
-9616.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140624,saltzman david,120919114043384,,male,253209669.0
-354646.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140624,finnerty kevin j,120919114043382,,male,253209669.0
-0.0,1037091.0,1556593,new residential investment corp.,1,0,0,0,20140826,edens wesley r,120919114054522,,male,282213133.0
-67046.0,0.0,1556593,new residential investment corp.,1,0,0,0,20140829,tyson alan l.,120919114055039,,male,282213133.0
-38391.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150108,tyson alan l.,118143115000784,,male,141434905.0
-182191.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150108,finnerty kevin j,118143115000783,,male,141434905.0
-0.0,0.0,1556593,new residential investment corp.,1,1,0,0,20150127,nierenberg michael,120919115006887,CEO and President,male,141434905.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150408,edens wesley r,120919115033266,,male,141434905.0
-750250.0,0.0,1556593,new residential investment corp.,1,1,0,0,20150413,nierenberg michael,120919115033856,CEO and President,male,141434905.0
-0.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150413,edens wesley r,120919115033854,,male,141434905.0
-0.0,0.0,1556593,new residential investment corp.,0,0,1,0,20150415,"home loan servicing solutions, ltd.",120919115034346,,female,141434905.0
-58391.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150514,tyson alan l.,120919115042881,,male,198934905.0
-186588.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150611,finnerty kevin j,120919115052459,,male,198934905.0
-9205.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150611,jacobs douglas l,120919115052464,,male,198934905.0
-9205.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150611,saltzman david,120919115052468,,male,198934905.0
-62788.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150611,tyson alan l.,120919115052470,,male,198934905.0
-3764309.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150611,edens wesley r,120919115052565,,male,198934905.0
-518545.0,0.0,1556593,new residential investment corp.,1,0,0,0,20150615,edens wesley r,120919115053531,,male,198934905.0
-740346.0,0.0,1556593,new residential investment corp.,1,1,0,0,20150615,nierenberg michael,120919115053532,CEO and President,male,198934905.0
+0.0,1037091.0,1556593,new residential investment corp.,1,0,0,0.0,20130508,edens wesley r,120919113024944,,male,126512823.0
+0.0,,1556593,new residential investment corp.,1,1,0,0.0,20130508,riis kenneth m,120919113024945,CEO and President,male,126512823.0
+0.0,,1556593,new residential investment corp.,0,0,1,0.0,20130508,newcastle investment corp,120919113024946,,male,126512823.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20130606,jacobs douglas l,120919113031093,,male,126512823.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20130606,finnerty kevin j,120919113031095,,male,126512823.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20130606,saltzman david,120919113031099,,male,126512823.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20130606,tyson alan l.,120919113031104,,male,126512823.0
+320680.0,,1556593,new residential investment corp.,1,0,0,0.0,20140108,finnerty kevin j,118143114001906,,male,126598987.0
+56300.0,,1556593,new residential investment corp.,1,0,0,0.0,20140108,tyson alan l.,118143114001903,,male,126598987.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20140502,nierenberg michael,120919114030714,CEO and President,male,253209669.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20140502,edens wesley r,120919114030715,,male,253209669.0
+354646.0,,1556593,new residential investment corp.,1,0,0,0.0,20140624,finnerty kevin j,120919114043382,,male,253209669.0
+9616.0,,1556593,new residential investment corp.,1,0,0,0.0,20140624,jacobs douglas l,120919114043383,,male,253209669.0
+9616.0,,1556593,new residential investment corp.,1,0,0,0.0,20140624,saltzman david,120919114043384,,male,253209669.0
+65916.0,,1556593,new residential investment corp.,1,0,0,0.0,20140624,tyson alan l.,120919114043385,,male,253209669.0
+0.0,1037091.0,1556593,new residential investment corp.,1,0,0,0.0,20140826,edens wesley r,120919114054522,,male,282213133.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20140829,tyson alan l.,120919114055039,,male,282213133.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150108,finnerty kevin j,118143115000783,,male,141434905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150108,tyson alan l.,118143115000784,,male,141434905.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20150127,nierenberg michael,120919115006887,CEO and President,male,141434905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150408,edens wesley r,120919115033266,,male,141434905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150413,edens wesley r,120919115033854,,male,141434905.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20150413,nierenberg michael,120919115033856,CEO and President,male,141434905.0
+,,1556593,new residential investment corp.,0,0,1,0.0,20150415,"home loan servicing solutions, ltd.",120919115034346,,female,141434905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150514,tyson alan l.,120919115042881,,male,198934905.0
+186588.0,,1556593,new residential investment corp.,1,0,0,0.0,20150611,finnerty kevin j,120919115052459,,male,198934905.0
+9205.0,,1556593,new residential investment corp.,1,0,0,0.0,20150611,jacobs douglas l,120919115052464,,male,198934905.0
+9205.0,,1556593,new residential investment corp.,1,0,0,0.0,20150611,saltzman david,120919115052468,,male,198934905.0
+62788.0,,1556593,new residential investment corp.,1,0,0,0.0,20150611,tyson alan l.,120919115052470,,male,198934905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150611,edens wesley r,120919115052565,,male,198934905.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20150615,nierenberg michael,120919115053532,CEO and President,male,198934905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20150615,edens wesley r,120919115053531,,male,198934905.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20160104,finnerty kevin j,120919116087961,,male,230471202.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20160104,tyson alan l.,120919116087974,,male,230471202.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20160202,nierenberg michael,120919116094979,CEO and President,male,230471202.0
+14656.0,,1556593,new residential investment corp.,1,0,0,0.0,20160603,jacobs douglas l,120919116125757,,male,230471202.0
+14656.0,,1556593,new residential investment corp.,1,0,0,0.0,20160603,saltzman david,120919116125759,,male,230471202.0
+74407.0,,1556593,new residential investment corp.,1,0,0,0.0,20160603,tyson alan l.,120919116125761,,male,230471202.0
+198207.0,,1556593,new residential investment corp.,1,0,0,0.0,20160603,finnerty kevin j,120919116125754,,male,230471202.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20160802,sloves andrew,120919116135007,,male,230493006.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20160902,nierenberg michael,120919116139741,CEO and President,male,230493006.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20161114,sloves andrew,120919116149722,,male,250773117.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20161219,mcginnis robert,120919116155891,,male,250773117.0
+5792.0,12500.0,1556593,new residential investment corp.,1,0,0,0.0,20170104,sloves andrew,120919117000953,,male,250773117.0
+202951.0,,1556593,new residential investment corp.,1,0,0,0.0,20170104,finnerty kevin j,120919117000958,,male,250773117.0
+79784.0,,1556593,new residential investment corp.,1,0,0,0.0,20170104,tyson alan l.,120919117000963,,male,250773117.0
+27000.0,,1556593,new residential investment corp.,1,0,0,0.0,20170202,mcginnis robert,120919117007272,,male,250773117.0
+700.0,1500.0,1556593,new residential investment corp.,1,0,0,0.0,20170202,sloves andrew,120919117007277,,male,250773117.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20170206,nierenberg michael,120919117008052,"Chairman, CEO & President",male,250773117.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20170217,nierenberg michael,120919117012284,CEO and President,male,307334117.0
+20688.0,,1556593,new residential investment corp.,1,0,0,0.0,20170531,jacobs douglas l,120919117036413,,male,307334117.0
+207483.0,,1556593,new residential investment corp.,1,0,0,0.0,20170531,finnerty kevin j,120919117036424,,male,307334117.0
+31532.0,,1556593,new residential investment corp.,1,0,0,0.0,20170531,mcginnis robert,120919117036432,,male,307334117.0
+19188.0,,1556593,new residential investment corp.,1,0,0,0.0,20170531,saltzman david,120919117036439,,male,307334117.0
+10324.0,23700.0,1556593,new residential investment corp.,1,0,0,0.0,20170531,sloves andrew,120919117036445,,male,307334117.0
+84316.0,,1556593,new residential investment corp.,1,0,0,0.0,20170531,tyson alan l.,120919117036453,,male,307334117.0
+211783.0,,1556593,new residential investment corp.,1,0,0,0.0,20180104,finnerty kevin j,120919118001975,,male,307361309.0
+38126.0,,1556593,new residential investment corp.,1,0,0,0.0,20180104,mcginnis robert,120919118001980,,male,307361309.0
+16918.0,23700.0,1556593,new residential investment corp.,1,0,0,0.0,20180104,sloves andrew,120919118001984,,male,307361309.0
+90910.0,,1556593,new residential investment corp.,1,0,0,0.0,20180104,tyson alan l.,120919118001990,,male,307361309.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20180130,nierenberg michael,120919118006023,"Chairman, CEO & President",male,307361309.0
+217308.0,,1556593,new residential investment corp.,1,0,0,0.0,20180530,finnerty kevin j,120919118034129,,male,336135391.0
+43651.0,,1556593,new residential investment corp.,1,0,0,0.0,20180530,mcginnis robert,120919118034128,,male,336135391.0
+26213.0,,1556593,new residential investment corp.,1,0,0,0.0,20180530,jacobs douglas l,120919118034125,,male,336135391.0
+22443.0,23700.0,1556593,new residential investment corp.,1,0,0,0.0,20180530,sloves andrew,120919118034118,,male,336135391.0
+96435.0,,1556593,new residential investment corp.,1,0,0,0.0,20180530,tyson alan l.,120919118034123,,male,336135391.0
+24713.0,,1556593,new residential investment corp.,1,0,0,0.0,20180530,saltzman david,120919118034133,,male,336135391.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20180626,nierenberg michael,120919118039520,CEO and President,male,336135391.0
+29481.0,23700.0,1556593,new residential investment corp.,1,0,0,0.0,20190103,sloves andrew,120919119001539,,male,369104429.0
+224346.0,,1556593,new residential investment corp.,1,0,0,0.0,20190103,finnerty kevin j,120919119001550,,male,369104429.0
+103473.0,,1556593,new residential investment corp.,1,0,0,0.0,20190103,tyson alan l.,120919119001557,,male,369104429.0
+50689.0,,1556593,new residential investment corp.,1,0,0,0.0,20190103,mcginnis robert,120919119001559,,male,369104429.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20190225,nierenberg michael,120919119012819,CEO and President,male,369104429.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20190311,nierenberg michael,120919119018307,"Chairman, CEO & President",male,369104429.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20190501,lenehan pamela f,120919119026805,,female,415429677.0
+38887.0,,1556593,new residential investment corp.,1,0,0,0.0,20190506,saltzman david,120919119027710,,male,415429677.0
+1100.0,20000.0,1556593,new residential investment corp.,1,0,0,0.0,20190515,sloves andrew,120919119030064,,male,415429677.0
+2657.0,,1556593,new residential investment corp.,1,0,0,0.0,20190528,lenehan pamela f,120919119032980,,female,415429677.0
+230400.0,,1556593,new residential investment corp.,1,0,0,0.0,20190528,finnerty kevin j,120919119032998,,male,415429677.0
+44941.0,,1556593,new residential investment corp.,1,0,0,0.0,20190528,saltzman david,120919119032986,,male,415429677.0
+56743.0,,1556593,new residential investment corp.,1,0,0,0.0,20190528,mcginnis robert,120919119032985,,male,415429677.0
+32872.0,,1556593,new residential investment corp.,1,0,0,0.0,20190528,jacobs douglas l,120919119032982,,male,415429677.0
+35535.0,25500.0,1556593,new residential investment corp.,1,0,0,0.0,20190528,sloves andrew,120919119032989,,male,415429677.0
+109527.0,,1556593,new residential investment corp.,1,0,0,0.0,20190528,tyson alan l.,120919119032995,,male,415429677.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20190604,nierenberg michael,120919119034370,"Chairman, CEO & President",male,415429677.0
+61243.0,,1556593,new residential investment corp.,1,0,0,0.0,20191030,mcginnis robert,120919119054534,,male,415520780.0
+36535.0,24400.0,1556593,new residential investment corp.,1,0,0,0.0,20191107,sloves andrew,120919119055601,,male,415520780.0
+67451.0,,1556593,new residential investment corp.,1,0,0,0.0,20200106,mcginnis robert,120919120001483,,male,415520780.0
+115735.0,,1556593,new residential investment corp.,1,0,0,0.0,20200106,tyson alan l.,120919120001482,,male,415520780.0
+236608.0,,1556593,new residential investment corp.,1,0,0,0.0,20200106,finnerty kevin j,120919120001480,,male,415520780.0
+42743.0,25500.0,1556593,new residential investment corp.,1,0,0,0.0,20200106,sloves andrew,120919120001479,,male,415520780.0
+8865.0,,1556593,new residential investment corp.,1,0,0,0.0,20200106,lenehan pamela f,120919120001481,,female,415520780.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20200309,nierenberg michael,120919120017277,"Chairman, CEO & President",male,415520780.0
+52743.0,25500.0,1556593,new residential investment corp.,1,0,0,0.0,20200318,sloves andrew,120919120019992,,male,415520780.0
+50000.0,,1556593,new residential investment corp.,0,1,0,0.0,20200318,santoro nicola jr,120919120019991,"CFO, CAO and Treasurer",female,415520780.0
+125735.0,,1556593,new residential investment corp.,1,0,0,0.0,20200318,tyson alan l.,120919120019995,,male,415520780.0
+77451.0,,1556593,new residential investment corp.,1,0,0,0.0,20200318,mcginnis robert,120919120019993,,male,415520780.0
+62743.0,25500.0,1556593,new residential investment corp.,1,0,0,0.0,20200319,sloves andrew,120919120020270,,male,415520780.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20200319,sloves andrew,120919120020160,,male,415520780.0
+18865.0,,1556593,new residential investment corp.,1,0,0,0.0,20200320,lenehan pamela f,120919120020375,,female,415520780.0
+2300.0,20000.0,1556593,new residential investment corp.,1,0,0,0.0,20200602,sloves andrew,120919120033678,,male,415649214.0
+139158.0,,1556593,new residential investment corp.,1,0,0,0.0,20200623,tyson alan l.,120919120038501,,male,415649214.0
+250031.0,,1556593,new residential investment corp.,1,0,0,0.0,20200623,finnerty kevin j,120919120038486,,male,415649214.0
+47638.0,,1556593,new residential investment corp.,1,0,0,0.0,20200623,jacobs douglas l,120919120038490,,male,415649214.0
+32288.0,,1556593,new residential investment corp.,1,0,0,0.0,20200623,lenehan pamela f,120919120038492,,female,415649214.0
+90874.0,,1556593,new residential investment corp.,1,0,0,0.0,20200623,mcginnis robert,120919120038493,,male,415649214.0
+58364.0,,1556593,new residential investment corp.,1,0,0,0.0,20200623,saltzman david,120919120038496,,male,415649214.0
+76166.0,29100.0,1556593,new residential investment corp.,1,0,0,0.0,20200623,sloves andrew,120919120038498,,male,415649214.0
+149158.0,,1556593,new residential investment corp.,1,0,0,0.0,20200728,tyson alan l.,120919120043801,,male,415744518.0
+260580.0,,1556593,new residential investment corp.,1,0,0,0.0,20210105,finnerty kevin j,120919121000624,,male,414744518.0
+86715.0,29100.0,1556593,new residential investment corp.,1,0,0,0.0,20210105,sloves andrew,120919121000625,,male,414744518.0
+42837.0,,1556593,new residential investment corp.,1,0,0,0.0,20210105,lenehan pamela f,120919121000627,,female,414744518.0
+159707.0,,1556593,new residential investment corp.,1,0,0,0.0,20210105,tyson alan l.,120919121000628,,male,414744518.0
+101423.0,,1556593,new residential investment corp.,1,0,0,0.0,20210105,mcginnis robert,120919121000629,,male,414744518.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20210317,nierenberg michael,120919121021321,"Chairman, CEO & President",male,414797263.0
+357028.0,838091.0,1556593,new residential investment corp.,1,1,0,0.0,20210419,nierenberg michael,120919121027279,"Chairman, CEO & President",male,414797263.0
+57090.0,,1556593,new residential investment corp.,1,0,0,0.0,20210601,jacobs douglas l,120919121036820,,male,466647263.0
+96167.0,29100.0,1556593,new residential investment corp.,1,0,0,0.0,20210601,sloves andrew,120919121036809,,male,466647263.0
+54459.0,,1556593,new residential investment corp.,1,0,0,0.0,20210601,lenehan pamela f,120919121036812,,female,466647263.0
+270032.0,,1556593,new residential investment corp.,1,0,0,0.0,20210601,finnerty kevin j,120919121036814,,male,466647263.0
+110875.0,,1556593,new residential investment corp.,1,0,0,0.0,20210601,mcginnis robert,120919121036822,,male,466647263.0
+67816.0,,1556593,new residential investment corp.,1,0,0,0.0,20210601,saltzman david,120919121036824,,male,466647263.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20211123,mcginnis robert,120919121066413,,male,466579920.0
+,,1556593,new residential investment corp.,1,0,0,0.0,20211215,le melle patrice m,120919121069758,,male,466579920.0
+64487.0,,1556593,new residential investment corp.,1,0,0,0.0,20220104,lenehan pamela f,120919122000734,,female,466758266.0
+119991.0,,1556593,new residential investment corp.,1,0,0,0.0,20220104,mcginnis robert,120919122000742,,male,466758266.0
+105283.0,29100.0,1556593,new residential investment corp.,1,0,0,0.0,20220104,sloves andrew,120919122000749,,male,466758266.0
+,,1556593,new residential investment corp.,1,1,0,0.0,20220317,nierenberg michael,120919122019759,"Chairman, CEO & President",male,466758266.0
+74953.0,,1556593,new residential investment corp.,1,0,0,0.0,20220601,lenehan pamela f,120919122033144,,female,466786526.0
+8874.0,,1556593,new residential investment corp.,1,0,0,0.0,20220601,le melle patrice m,120919122033151,,male,466786526.0
+114157.0,29100.0,1556593,new residential investment corp.,1,0,0,0.0,20220601,sloves andrew,120919122033150,,male,466786526.0
+76690.0,,1556593,new residential investment corp.,1,0,0,0.0,20220601,saltzman david,120919122033148,,male,466786526.0
+254060.0,24846.0,1556593,new residential investment corp.,1,0,0,0.0,20220601,finnerty kevin j,120919122033143,,male,466786526.0
+128865.0,,1556593,new residential investment corp.,1,0,0,0.0,20220601,mcginnis robert,120919122033146,,male,466786526.0
+122205.0,61292.0,1556593,new residential investment corp.,1,0,0,0.0,20220701,sloves andrew,120919122039990,,male,466856753.0
+262108.0,32894.0,1556593,new residential investment corp.,1,0,0,0.0,20220701,finnerty kevin j,120919122039992,,male,466856753.0
+935062.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20221209,nierenberg michael,120919122060467,"Chairman, CEO & President",male,473715100.0
+137505.0,29100.0,1556593,rithm capital corp.,1,0,0,0.0,20230104,sloves andrew,120919123001274,,male,473715100.0
+16530.0,,1556593,rithm capital corp.,0,1,0,0.0,20230223,sivin philip m,120919123012156,Chief Legal Officer,male,473730400.0
+115651.0,,1556593,rithm capital corp.,0,1,0,0.0,20230223,santoro nicola jr,120919123012164,Chief Financial Officer,female,473730400.0
+1394620.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20230223,nierenberg michael,120919123012175,Chief Executive Officer,male,473730400.0
+1408699.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20230502,nierenberg michael,120919123026528,Chief Executive Officer,male,483017747.0
+117662.0,,1556593,rithm capital corp.,0,1,0,0.0,20230502,santoro nicola jr,120919123026512,Chief Financial Officer,female,483017747.0
+16932.0,,1556593,rithm capital corp.,0,1,0,0.0,20230502,sivin philip m,120919123026520,Chief Legal Officer,male,483017747.0
+32000.0,,1556593,rithm capital corp.,1,0,0,0.0,20230510,hebard peggy hwan,120919123028476,,female,483017747.0
+96274.0,,1556593,rithm capital corp.,1,0,0,0.0,20230530,saltzman david,120919123032876,,male,483017747.0
+281080.0,24846.0,1556593,rithm capital corp.,1,0,0,0.0,20230530,finnerty kevin j,120919123032881,,male,483017747.0
+50604.0,,1556593,rithm capital corp.,1,0,0,0.0,20230530,hebard peggy hwan,120919123032883,,female,483017747.0
+156477.0,29100.0,1556593,rithm capital corp.,1,0,0,0.0,20230530,sloves andrew,120919123032886,,male,483017747.0
+27234.0,,1556593,rithm capital corp.,1,0,0,0.0,20230530,le melle patrice m,120919123032899,,male,483017747.0
+119325.0,,1556593,rithm capital corp.,0,1,0,0.0,20230801,santoro nicola jr,120919123043960,Chief Financial Officer,female,483320606.0
+17264.0,,1556593,rithm capital corp.,0,1,0,0.0,20230801,sivin philip m,120919123043965,Chief Legal Officer,male,483320606.0
+1420341.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20230801,nierenberg michael,120919123043969,Chief Executive Officer,male,483320606.0
+1313796.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20230925,nierenberg michael,120919123050490,Chief Executive Officer,male,483320606.0
+121221.0,,1556593,rithm capital corp.,0,1,0,0.0,20231030,santoro nicola jr,120919123053864,Chief Financial Officer,female,483214061.0
+1327069.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20231030,nierenberg michael,120919123053868,Chief Executive Officer,male,483214061.0
+17643.0,,1556593,rithm capital corp.,0,1,0,0.0,20231030,sivin philip m,120919123053866,Chief Legal Officer,male,483214061.0
+168655.0,29100.0,1556593,rithm capital corp.,1,0,0,0.0,20240103,sloves andrew,120919124000381,,male,483226239.0
+17966.0,,1556593,rithm capital corp.,0,1,0,0.0,20240130,sivin philip m,120919124002421,Chief Legal Officer,male,483226239.0
+122841.0,,1556593,rithm capital corp.,0,1,0,0.0,20240130,santoro nicola jr,120919124002423,Chief Financial Officer,female,483226239.0
+1338410.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20240130,nierenberg michael,120919124002426,Chief Executive Officer,male,483226239.0
+109414.0,,1556593,rithm capital corp.,0,1,0,0.0,20240226,santoro nicola jr,157161024000003,Chief Financial Officer,female,483226239.0
+16009.0,,1556593,rithm capital corp.,0,1,0,0.0,20240226,sivin philip m,129972224000005,Chief Legal Officer,male,483226239.0
+,,1556593,rithm capital corp.,1,1,0,0.0,20240319,nierenberg michael,159171924000003,Chief Executive Officer,male,483226239.0
+1258537.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20240322,nierenberg michael,159171924000005,Chief Executive Officer,male,483226239.0
+16431.0,,1556593,rithm capital corp.,0,1,0,0.0,20240430,sivin philip m,129972224000009,Chief Legal Officer,male,483477713.0
+111528.0,,1556593,rithm capital corp.,0,1,0,0.0,20240430,santoro nicola jr,157161024000008,Chief Financial Officer,female,483477713.0
+1266117.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20240430,nierenberg michael,159171924000007,Chief Executive Officer,male,483477713.0
+295146.0,24846.0,1556593,rithm capital corp.,1,0,0,0.0,20240529,finnerty kevin j,133544024000002,,male,483477713.0
+40846.0,,1556593,rithm capital corp.,1,0,0,0.0,20240529,le melle patrice m,189413124000002,,male,483477713.0
+110794.0,,1556593,rithm capital corp.,1,0,0,0.0,20240529,saltzman david,157424824000002,,male,483477713.0
+202721.0,6436.0,1556593,rithm capital corp.,1,0,0,0.0,20240529,sloves andrew,167993424000003,,male,483477713.0
+65124.0,,1556593,rithm capital corp.,1,0,0,0.0,20240529,hebard peggy hwan,175058124000002,,female,483477713.0
+1159571.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20240624,nierenberg michael,159171924000009,Chief Executive Officer,male,483477713.0
+112611.0,,1556593,rithm capital corp.,0,1,0,0.0,20240730,santoro nicola jr,157161024000010,Chief Financial Officer,female,489732422.0
+1167158.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20240730,nierenberg michael,159171924000011,Chief Executive Officer,male,489732422.0
+,,1556593,rithm capital corp.,0,1,0,0.0,20240730,zeiden david,199166124000005,Chief Legal Officer,male,489732422.0
+1175628.0,838091.0,1556593,rithm capital corp.,1,1,0,0.0,20241105,nierenberg michael,159171924000013,Chief Executive Officer,male,519732422.0
+,,1556593,rithm capital corp.,0,1,0,0.0,20241105,zeiden david,199166124000007,Chief Legal Officer,male,519732422.0
+113821.0,,1556593,rithm capital corp.,0,1,0,0.0,20241105,santoro nicola jr,157161024000012,Chief Financial Officer,female,519732422.0

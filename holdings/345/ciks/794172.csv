@@ -1,167 +1,405 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-62344.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100104,motto william j,112760210000184,Executive Chairman,male,40493313.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20100119,buzard james,112760210001665,,male,40493313.0
-250860.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20100121,kraeutler john a,112760210001940,Chief Executive Officer,male,40493313.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20100129,buzard james,112760210002652,,male,40493313.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20100129,ready robert j,112760210002654,,male,40493313.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20100129,anderson james m.,112760210002657,,male,40493313.0
-0.0,325.0,794172,meridian bioscience inc,1.0,,,,20100129,kreider gary p,112760210002660,,male,40493313.0
-0.0,10636.0,794172,meridian bioscience inc,1.0,,,,20100129,phillips david,112760210002661,,male,40493313.0
-678282.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100216,motto william j,112760210004864,Executive Chairman,male,40493313.0
-17063.0,0.0,794172,meridian bioscience inc,1.0,,,,20100222,ready robert j,112760210005765,,male,40493313.0
-225260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20100225,kraeutler john a,112760210006259,Chief Executive Officer,male,40493313.0
-7725.0,0.0,794172,meridian bioscience inc,,1.0,,,20100301,eberly richard,112760210006581,"Exec VP, Pres Meridian Life Sc",male,40493313.0
-178282.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100303,motto william j,112760210006995,Executive Chairman,male,40493313.0
-194868.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20100315,kraeutler john a,112760210008582,Chief Executive Officer,male,40493313.0
-175260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20100316,kraeutler john a,112760210008723,Chief Executive Officer,male,40493313.0
-172032.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100323,motto william j,112760210009328,Executive Chairman,male,40493313.0
-266085.0,126.0,794172,meridian bioscience inc,,1.0,,,20100323,motto todd w,112760210009330,"VP, Business Development",male,40493313.0
-15636.0,0.0,794172,meridian bioscience inc,1.0,,,,20100726,phillips david,112760210019833,,male,40632727.0
-15063.0,0.0,794172,meridian bioscience inc,1.0,,,,20100805,ready robert j,112760210020711,,male,40635789.0
-0.0,0.0,794172,meridian bioscience inc,,1.0,,,20100806,rolih susan,112760210020824,"VP, Reg Affairs and QA",female,40635789.0
-0.0,0.0,794172,meridian bioscience inc,,1.0,,,20100806,baldini lawrence,112760210020823,"Exec VP, Operations & IS",male,40635789.0
-0.0,0.0,794172,meridian bioscience inc,,1.0,,,20100806,eberly richard,112760210020821,"Exec VP, Pres Meridian Life Sc",male,40635789.0
-13063.0,0.0,794172,meridian bioscience inc,1.0,,,,20100831,ready robert j,112760210022202,,male,40635789.0
-0.0,0.0,794172,meridian bioscience inc,,1.0,,,20101020,interno antonio,112760210025783,"Pres, Managing Dir, MBE",male,40654286.0
-13011.0,0.0,794172,meridian bioscience inc,1.0,,,,20101112,phillips david,112760210027782,,male,40677386.0
-104455.0,0.0,794172,meridian bioscience inc,,1.0,,,20101115,interno antonio,112760210027912,"Pres, Managing Dir, MBE",male,40677386.0
-22725.0,0.0,794172,meridian bioscience inc,,1.0,,,20101115,eberly richard,112760210027911,"Exec VP, Pres Meridian Life Sc",male,40677386.0
-42500.0,0.0,794172,meridian bioscience inc,,1.0,,,20101115,baldini lawrence,112760210027910,"Exec VP, Operations & IS",male,40677386.0
-36875.0,0.0,794172,meridian bioscience inc,,1.0,,,20101115,rolih susan,112760210027913,"Sr. VP, Reg Affairs and QA",female,40677386.0
-195260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20101115,kraeutler john a,112760210027908,Chief Executive Officer,male,40677386.0
+62344.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100104,motto william j,112760210000184,Executive Chairman,male,
+,,794172,meridian bioscience inc,1.0,,,,20100119,buzard james,112760210001665,,male,
+250860.0,,794172,meridian bioscience inc,1.0,1.0,,,20100121,kraeutler john a,112760210001940,Chief Executive Officer,male,
+,,794172,meridian bioscience inc,1.0,,,,20100129,ready robert j,112760210002654,,male,
+,,794172,meridian bioscience inc,1.0,,,,20100129,buzard james,112760210002652,,male,
+,325.0,794172,meridian bioscience inc,1.0,,,,20100129,kreider gary p,112760210002660,,male,
+,10636.0,794172,meridian bioscience inc,1.0,,,,20100129,phillips david,112760210002661,,male,
+,,794172,meridian bioscience inc,1.0,,,,20100129,anderson james m.,112760210002657,,male,
+678282.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100216,motto william j,112760210004864,Executive Chairman,male,
+17063.0,,794172,meridian bioscience inc,1.0,,,,20100222,ready robert j,112760210005765,,male,
+225260.0,,794172,meridian bioscience inc,1.0,1.0,,,20100225,kraeutler john a,112760210006259,Chief Executive Officer,male,
+7725.0,,794172,meridian bioscience inc,,1.0,,,20100301,eberly richard,112760210006581,"Exec VP, Pres Meridian Life Sc",male,
+178282.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100303,motto william j,112760210006995,Executive Chairman,male,
+194868.0,,794172,meridian bioscience inc,1.0,1.0,,,20100315,kraeutler john a,112760210008582,Chief Executive Officer,male,
+175260.0,,794172,meridian bioscience inc,1.0,1.0,,,20100316,kraeutler john a,112760210008723,Chief Executive Officer,male,
+172032.0,88458.0,794172,meridian bioscience inc,1.0,1.0,,,20100323,motto william j,112760210009328,Executive Chairman,male,
+266085.0,126.0,794172,meridian bioscience inc,,1.0,,,20100323,motto todd w,112760210009330,"VP, Business Development",male,
+15636.0,,794172,meridian bioscience inc,1.0,,,,20100726,phillips david,112760210019833,,male,40632727.0
+15063.0,,794172,meridian bioscience inc,1.0,,,,20100805,ready robert j,112760210020711,,male,40635789.0
+,,794172,meridian bioscience inc,,1.0,,,20100806,eberly richard,112760210020821,"Exec VP, Pres Meridian Life Sc",male,40635789.0
+,,794172,meridian bioscience inc,,1.0,,,20100806,baldini lawrence,112760210020823,"Exec VP, Operations & IS",male,40635789.0
+,,794172,meridian bioscience inc,,1.0,,,20100806,rolih susan,112760210020824,"VP, Reg Affairs and QA",female,40635789.0
+13063.0,,794172,meridian bioscience inc,1.0,,,,20100831,ready robert j,112760210022202,,male,40635789.0
+,,794172,meridian bioscience inc,,1.0,,,20101020,interno antonio,112760210025783,"Pres, Managing Dir, MBE",male,40654286.0
+13011.0,,794172,meridian bioscience inc,1.0,,,,20101112,phillips david,112760210027782,,male,40677386.0
+36875.0,,794172,meridian bioscience inc,,1.0,,,20101115,rolih susan,112760210027913,"Sr. VP, Reg Affairs and QA",female,40677386.0
+104455.0,,794172,meridian bioscience inc,,1.0,,,20101115,interno antonio,112760210027912,"Pres, Managing Dir, MBE",male,40677386.0
+42500.0,,794172,meridian bioscience inc,,1.0,,,20101115,baldini lawrence,112760210027910,"Exec VP, Operations & IS",male,40677386.0
+99015.0,,794172,meridian bioscience inc,,1.0,,,20101115,lueke melissa,112760210027909,"Exec VP, CFO",female,40677386.0
 30000.0,260490.0,794172,meridian bioscience inc,1.0,1.0,,,20101115,motto william j,112760210027907,Executive Chairman,male,40677386.0
-99015.0,0.0,794172,meridian bioscience inc,,1.0,,,20101115,lueke melissa,112760210027909,"Exec VP, CFO",female,40677386.0
-121515.0,0.0,794172,meridian bioscience inc,,1.0,,,20101117,lueke melissa,112760210028124,"Exec VP, CFO",female,40677386.0
-32500.0,0.0,794172,meridian bioscience inc,,1.0,,,20101209,baldini lawrence,112760210030036,"Exec VP, Operations & IS",male,40677386.0
-10831.0,0.0,794172,meridian bioscience inc,1.0,,,,20101214,ready robert j,112760210030507,,male,40677386.0
-76296.0,0.0,794172,meridian bioscience inc,,1.0,,,20101214,interno antonio,112760210030508,"Pres, Managing Dir, MBE",male,40677386.0
-99015.0,0.0,794172,meridian bioscience inc,,1.0,,,20101215,lueke melissa,112760210030740,"Exec VP, CFO",female,40677386.0
-22725.0,0.0,794172,meridian bioscience inc,,1.0,,,20101215,eberly richard,112760210030741,"Exec VP, Pres Meridian Life Sc",male,40677386.0
+22725.0,,794172,meridian bioscience inc,,1.0,,,20101115,eberly richard,112760210027911,"Exec VP, Pres Meridian Life Sc",male,40677386.0
+195260.0,,794172,meridian bioscience inc,1.0,1.0,,,20101115,kraeutler john a,112760210027908,Chief Executive Officer,male,40677386.0
+121515.0,,794172,meridian bioscience inc,,1.0,,,20101117,lueke melissa,112760210028124,"Exec VP, CFO",female,40677386.0
+32500.0,,794172,meridian bioscience inc,,1.0,,,20101209,baldini lawrence,112760210030036,"Exec VP, Operations & IS",male,40677386.0
+10831.0,,794172,meridian bioscience inc,1.0,,,,20101214,ready robert j,112760210030507,,male,40677386.0
+76296.0,,794172,meridian bioscience inc,,1.0,,,20101214,interno antonio,112760210030508,"Pres, Managing Dir, MBE",male,40677386.0
+99015.0,,794172,meridian bioscience inc,,1.0,,,20101215,lueke melissa,112760210030740,"Exec VP, CFO",female,40677386.0
+22725.0,,794172,meridian bioscience inc,,1.0,,,20101215,eberly richard,112760210030741,"Exec VP, Pres Meridian Life Sc",male,40677386.0
 290000.0,260490.0,794172,meridian bioscience inc,1.0,1.0,,,20101222,motto william j,112760210031428,Executive Chairman,male,40677386.0
-16045.0,0.0,794172,meridian bioscience inc,1.0,,,,20110111,ready robert j,112760211001462,,male,40960986.0
-20000.0,0.0,794172,meridian bioscience inc,1.0,,,,20110124,buzard james,112760211002175,,male,40960986.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20110124,ready robert j,112760211002174,,male,40960986.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20110124,anderson james m.,112760211002171,,male,40960986.0
-0.0,325.0,794172,meridian bioscience inc,1.0,,,,20110124,kreider gary p,112760211002172,,male,40960986.0
-0.0,13011.0,794172,meridian bioscience inc,1.0,,,,20110124,phillips david,112760211002173,,male,40960986.0
-13545.0,0.0,794172,meridian bioscience inc,1.0,,,,20110302,ready robert j,112760211008226,,male,40968750.0
-12436.0,0.0,794172,meridian bioscience inc,1.0,,,,20110309,phillips david,112760211009570,,male,40968750.0
+16045.0,,794172,meridian bioscience inc,1.0,,,,20110111,ready robert j,112760211001462,,male,40960986.0
+20000.0,,794172,meridian bioscience inc,1.0,,,,20110124,buzard james,112760211002175,,male,40960986.0
+,,794172,meridian bioscience inc,1.0,,,,20110124,ready robert j,112760211002174,,male,40960986.0
+,325.0,794172,meridian bioscience inc,1.0,,,,20110124,kreider gary p,112760211002172,,male,40960986.0
+,,794172,meridian bioscience inc,1.0,,,,20110124,anderson james m.,112760211002171,,male,40960986.0
+,13011.0,794172,meridian bioscience inc,1.0,,,,20110124,phillips david,112760211002173,,male,40960986.0
+13545.0,,794172,meridian bioscience inc,1.0,,,,20110302,ready robert j,112760211008226,,male,40968750.0
+12436.0,,794172,meridian bioscience inc,1.0,,,,20110309,phillips david,112760211009570,,male,40968750.0
 164012.0,378458.0,794172,meridian bioscience inc,1.0,1.0,,,20110322,motto william j,112760211010877,Executive Chairman,male,40968750.0
-0.0,0.0,794172,meridian bioscience inc,,1.0,,,20110408,eberly richard,112760211012758,"Exec VP, Chief Commercial Off.",male,40953194.0
-9400.0,0.0,794172,meridian bioscience inc,,1.0,,,20110422,calzavara marco g.,112760211013480,"Pres & Managing Director, MBE",male,40953194.0
+,,794172,meridian bioscience inc,,1.0,,,20110408,eberly richard,112760211012758,"Exec VP, Chief Commercial Off.",male,40953194.0
+9400.0,,794172,meridian bioscience inc,,1.0,,,20110422,calzavara marco g.,112760211013480,"Pres & Managing Director, MBE",male,40953194.0
 84458.0,454012.0,794172,meridian bioscience inc,1.0,1.0,,,20110512,motto william j,112760211015971,Executive Chairman,male,41003719.0
-42500.0,0.0,794172,meridian bioscience inc,,1.0,,,20110531,rolih susan,112760211017839,"Sr. VP, Reg Affairs and QA",female,41003719.0
-5000.0,0.0,794172,meridian bioscience inc,1.0,,,,20110603,anderson james m.,112760211018508,,male,41003719.0
-55000.0,0.0,794172,meridian bioscience inc,,1.0,,,20110603,baldini lawrence,112760211018511,"Exec VP, Operations & IS",male,41003719.0
+42500.0,,794172,meridian bioscience inc,,1.0,,,20110531,rolih susan,112760211017839,"Sr. VP, Reg Affairs and QA",female,41003719.0
+5000.0,,794172,meridian bioscience inc,1.0,,,,20110603,anderson james m.,112760211018508,,male,41003719.0
+55000.0,,794172,meridian bioscience inc,,1.0,,,20110603,baldini lawrence,112760211018511,"Exec VP, Operations & IS",male,41003719.0
 30000.0,538470.0,794172,meridian bioscience inc,1.0,1.0,,,20110901,motto william j,112760211024591,Executive Chairman,male,41051356.0
-195260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20110901,kraeutler john a,112760211024592,Chief Executive Officer,male,41051356.0
+195260.0,,794172,meridian bioscience inc,1.0,1.0,,,20110901,kraeutler john a,112760211024592,Chief Executive Officer,male,41051356.0
+195260.0,,794172,meridian bioscience inc,1.0,1.0,,,20110909,kraeutler john a,112760211024977,Chief Executive Officer,male,41051356.0
 30000.0,538470.0,794172,meridian bioscience inc,1.0,1.0,,,20110909,motto william j,112760211024976,Executive Chairman,male,41051356.0
-195260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20110909,kraeutler john a,112760211024977,Chief Executive Officer,male,41051356.0
 30000.0,538470.0,794172,meridian bioscience inc,1.0,1.0,,,20110914,motto william j,112760211025186,Executive Chairman,male,41051356.0
-195260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20110914,kraeutler john a,112760211025187,Chief Executive Officer,male,41051356.0
-195260.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20110916,kraeutler john a,112760211025329,Chief Executive Officer,male,41051356.0
+195260.0,,794172,meridian bioscience inc,1.0,1.0,,,20110914,kraeutler john a,112760211025187,Chief Executive Officer,male,41051356.0
 30000.0,538470.0,794172,meridian bioscience inc,1.0,1.0,,,20110916,motto william j,112760211025328,Executive Chairman,male,41051356.0
-198073.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20110922,kraeutler john a,112760211025761,Chief Executive Officer,male,41051356.0
-53750.0,0.0,794172,meridian bioscience inc,,1.0,,,20110928,rolih susan,112760211026015,"Sr. VP, Reg Affairs and QA",female,41051356.0
-8694.0,0.0,794172,meridian bioscience inc,1.0,,,,20111110,phillips david,112760211029211,,male,41237445.0
-37500.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,elagin vecheslav a,112760211029426,"Sr VP, Research & Development",male,41237445.0
-61250.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,rolih susan,112760211029437,"Sr. VP, Reg Affairs and QA",female,41237445.0
-106515.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,lueke melissa,112760211029433,"Exec VP, CFO",female,41237445.0
-26511.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,johnson marviette d.,112760211029431,"VP, Human Resources",male,41237445.0
-30225.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,eberly richard,112760211029421,"Exec VP, Chief Commercial Off.",male,41237445.0
-22900.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,calzavara marco g.,112760211029418,"Pres & Managing Director, MBE",male,41237445.0
-62500.0,0.0,794172,meridian bioscience inc,,1.0,,,20111114,baldini lawrence,112760211029416,"Exec VP, Operations & IS",male,41237445.0
+195260.0,,794172,meridian bioscience inc,1.0,1.0,,,20110916,kraeutler john a,112760211025329,Chief Executive Officer,male,41051356.0
+198073.0,,794172,meridian bioscience inc,1.0,1.0,,,20110922,kraeutler john a,112760211025761,Chief Executive Officer,male,41051356.0
+53750.0,,794172,meridian bioscience inc,,1.0,,,20110928,rolih susan,112760211026015,"Sr. VP, Reg Affairs and QA",female,41051356.0
+8694.0,,794172,meridian bioscience inc,1.0,,,,20111110,phillips david,112760211029211,,male,41237445.0
+62500.0,,794172,meridian bioscience inc,,1.0,,,20111114,baldini lawrence,112760211029416,"Exec VP, Operations & IS",male,41237445.0
+208073.0,,794172,meridian bioscience inc,1.0,1.0,,,20111114,kraeutler john a,112760211029413,Chief Executive Officer,male,41237445.0
+61250.0,,794172,meridian bioscience inc,,1.0,,,20111114,rolih susan,112760211029437,"Sr. VP, Reg Affairs and QA",female,41237445.0
+106515.0,,794172,meridian bioscience inc,,1.0,,,20111114,lueke melissa,112760211029433,"Exec VP, CFO",female,41237445.0
 40000.0,538470.0,794172,meridian bioscience inc,1.0,1.0,,,20111114,motto william j,112760211029414,Executive Chairman,male,41237445.0
-208073.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20111114,kraeutler john a,112760211029413,Chief Executive Officer,male,41237445.0
-13694.0,0.0,794172,meridian bioscience inc,1.0,,,,20111115,phillips david,112760211029535,,male,41237445.0
+37500.0,,794172,meridian bioscience inc,,1.0,,,20111114,elagin vecheslav a,112760211029426,"Sr VP, Research & Development",male,41237445.0
+30225.0,,794172,meridian bioscience inc,,1.0,,,20111114,eberly richard,112760211029421,"Exec VP, Chief Commercial Off.",male,41237445.0
+22900.0,,794172,meridian bioscience inc,,1.0,,,20111114,calzavara marco g.,112760211029418,"Pres & Managing Director, MBE",male,41237445.0
+26511.0,,794172,meridian bioscience inc,,1.0,,,20111114,johnson marviette d.,112760211029431,"VP, Human Resources",male,41237445.0
+13694.0,,794172,meridian bioscience inc,1.0,,,,20111115,phillips david,112760211029535,,male,41237445.0
 56116.0,374458.0,794172,meridian bioscience inc,1.0,1.0,,,20111214,motto william j,112760211032185,Executive Chairman,male,41237445.0
 56870.0,84458.0,794172,meridian bioscience inc,1.0,1.0,,,20111229,motto william j,112760211033315,Executive Chairman,male,41237445.0
 91062.0,84458.0,794172,meridian bioscience inc,1.0,1.0,,,20120103,motto william j,112760212000010,Executive Chairman,male,41237445.0
 82458.0,380408.0,794172,meridian bioscience inc,1.0,1.0,,,20120106,motto william j,112760212001226,Executive Chairman,male,41237445.0
 339412.0,371804.0,794172,meridian bioscience inc,1.0,1.0,,,20120109,motto william j,112760212001297,Executive Chairman,male,41237445.0
-0.0,13694.0,794172,meridian bioscience inc,1.0,,,,20120127,phillips david,112760212002724,,male,41237445.0
-0.0,5000.0,794172,meridian bioscience inc,1.0,,,,20120127,anderson james m.,112760212002722,,male,41237445.0
-18759.0,0.0,794172,meridian bioscience inc,1.0,,,,20120127,ready robert j,112760212002721,,male,41237445.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20120127,ready robert j,112760212002719,,male,41237445.0
-208523.0,0.0,794172,meridian bioscience inc,1.0,1.0,,,20120131,kraeutler john a,112760212003152,Chief Executive Officer,male,41253959.0
+,,794172,meridian bioscience inc,1.0,,,,20120127,ready robert j,112760212002719,,male,41237445.0
+18759.0,,794172,meridian bioscience inc,1.0,,,,20120127,ready robert j,112760212002721,,male,41237445.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20120127,anderson james m.,112760212002722,,male,41237445.0
+,13694.0,794172,meridian bioscience inc,1.0,,,,20120127,phillips david,112760212002724,,male,41237445.0
+208523.0,,794172,meridian bioscience inc,1.0,1.0,,,20120131,kraeutler john a,112760212003152,Chief Executive Officer,male,41253959.0
 341143.0,371804.0,794172,meridian bioscience inc,1.0,1.0,,,20120207,motto william j,112760212004282,Executive Chairman,male,41253959.0
 41000.0,712947.0,794172,meridian bioscience inc,1.0,1.0,,,20120314,motto william j,112760212010625,Executive Chairman,male,41253959.0
 331914.0,371804.0,794172,meridian bioscience inc,1.0,1.0,,,20120323,motto william j,112760212011678,Executive Chairman,male,41253959.0
 79458.0,622260.0,794172,meridian bioscience inc,1.0,1.0,,,20120608,motto william j,112760212019641,Executive Chairman,male,41257432.0
-12962.0,0.0,794172,meridian bioscience inc,1.0,,,,20120710,phillips david,112760212022022,,male,41257432.0
-10412.0,0.0,794172,meridian bioscience inc,1.0,,,,20120830,phillips david,112760212025421,,male,41272339.0
+12962.0,,794172,meridian bioscience inc,1.0,,,,20120710,phillips david,112760212022022,,male,41257432.0
+10412.0,,794172,meridian bioscience inc,1.0,,,,20120830,phillips david,112760212025421,,male,41272339.0
 40000.0,701718.0,794172,meridian bioscience inc,1.0,1.0,,,20120911,motto william j,112760212026102,Executive Chairman,male,41272339.0
-50000.0,701718.0,794172,meridian bioscience inc,1.0,1.0,,,20121109,motto william j,112760212030279,Executive Chairman,male,41287417.0
-114015.0,0.0,794172,meridian bioscience inc,,1.0,,,20121109,lueke melissa,112760212030278,"Exec VP, CFO",female,41287417.0
+68750.0,,794172,meridian bioscience inc,,1.0,,,20121109,rolih susan,112760212030280,"Sr. VP, Reg Affairs and QA",female,41287417.0
+114015.0,,794172,meridian bioscience inc,,1.0,,,20121109,lueke melissa,112760212030278,"Exec VP, CFO",female,41287417.0
 218538.0,626.0,794172,meridian bioscience inc,1.0,1.0,,,20121109,kraeutler john a,112760212030277,Chief Executive Officer,male,41287417.0
-34097.0,0.0,794172,meridian bioscience inc,,1.0,,,20121109,johnson marviette d.,112760212030274,"VP, Human Resources",male,41287417.0
-0.0,18.0,794172,meridian bioscience inc,,1.0,,,20121109,elagin vecheslav a,112760212030267,"EVP, Research & Development",male,41287417.0
-37746.0,0.0,794172,meridian bioscience inc,,1.0,,,20121109,eberly richard,112760212030272,"EVP,Pres Meridian Life Science",male,41287417.0
-30400.0,0.0,794172,meridian bioscience inc,,1.0,,,20121109,calzavara marco g.,112760212030270,"Pres & Managing Director, MBE",male,41287417.0
-70000.0,0.0,794172,meridian bioscience inc,,1.0,,,20121109,baldini lawrence,112760212030269,"Exec VP, Operations & IS",male,41287417.0
-68750.0,0.0,794172,meridian bioscience inc,,1.0,,,20121109,rolih susan,112760212030280,"Sr. VP, Reg Affairs and QA",female,41287417.0
+,18.0,794172,meridian bioscience inc,,1.0,,,20121109,elagin vecheslav a,112760212030267,"EVP, Research & Development",male,41287417.0
 45000.0,18.0,794172,meridian bioscience inc,,1.0,,,20121109,elagin vecheslav a,112760212030273,"EVP, Research & Development",male,41287417.0
-16959.0,0.0,794172,meridian bioscience inc,1.0,,,,20121115,ready robert j,112760212030889,,male,41287417.0
-91250.0,0.0,794172,meridian bioscience inc,,1.0,,,20121115,rolih susan,112760212030887,"Sr. VP, Reg Affairs and QA",female,41287417.0
-70000.0,0.0,794172,meridian bioscience inc,,1.0,,,20121205,baldini lawrence,112760212032980,"Exec VP, Operations & IS",male,41287417.0
-10959.0,0.0,794172,meridian bioscience inc,1.0,,,,20121207,ready robert j,112760212033125,,male,41287417.0
+37746.0,,794172,meridian bioscience inc,,1.0,,,20121109,eberly richard,112760212030272,"EVP,Pres Meridian Life Science",male,41287417.0
+30400.0,,794172,meridian bioscience inc,,1.0,,,20121109,calzavara marco g.,112760212030270,"Pres & Managing Director, MBE",male,41287417.0
+70000.0,,794172,meridian bioscience inc,,1.0,,,20121109,baldini lawrence,112760212030269,"Exec VP, Operations & IS",male,41287417.0
+34097.0,,794172,meridian bioscience inc,,1.0,,,20121109,johnson marviette d.,112760212030274,"VP, Human Resources",male,41287417.0
+50000.0,701718.0,794172,meridian bioscience inc,1.0,1.0,,,20121109,motto william j,112760212030279,Executive Chairman,male,41287417.0
+91250.0,,794172,meridian bioscience inc,,1.0,,,20121115,rolih susan,112760212030887,"Sr. VP, Reg Affairs and QA",female,41287417.0
+16959.0,,794172,meridian bioscience inc,1.0,,,,20121115,ready robert j,112760212030889,,male,41287417.0
+70000.0,,794172,meridian bioscience inc,,1.0,,,20121205,baldini lawrence,112760212032980,"Exec VP, Operations & IS",male,41287417.0
+10959.0,,794172,meridian bioscience inc,1.0,,,,20121207,ready robert j,112760212033125,,male,41287417.0
 77958.0,622260.0,794172,meridian bioscience inc,1.0,1.0,,,20121207,motto william j,112760212033126,Executive Chairman,male,41287417.0
-37746.0,0.0,794172,meridian bioscience inc,,1.0,,,20121213,eberly richard,112760212033818,"EVP,Pres Meridian Life Science",male,41287417.0
-114015.0,0.0,794172,meridian bioscience inc,,1.0,,,20121217,lueke melissa,112760212034074,"Exec VP, CFO",female,41287417.0
+37746.0,,794172,meridian bioscience inc,,1.0,,,20121213,eberly richard,112760212033818,"EVP,Pres Meridian Life Science",male,41287417.0
 1016331.0,367304.0,794172,meridian bioscience inc,1.0,1.0,,,20121217,motto william j,112760212034075,Executive Chairman,male,41287417.0
+114015.0,,794172,meridian bioscience inc,,1.0,,,20121217,lueke melissa,112760212034074,"Exec VP, CFO",female,41287417.0
 0.0,367304.0,794172,meridian bioscience inc,1.0,1.0,,,20121221,motto william j,112760212034811,Executive Chairman,male,41287417.0
-0.0,10412.0,794172,meridian bioscience inc,1.0,,,,20130124,phillips david,112760213002567,,male,41287417.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20130124,ready robert j,112760213002569,,male,41287417.0
-0.0,5000.0,794172,meridian bioscience inc,1.0,,,,20130124,anderson james m.,112760213002565,,male,41287417.0
+,,794172,meridian bioscience inc,1.0,,,,20130124,ready robert j,112760213002569,,male,41287417.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20130124,anderson james m.,112760213002565,,male,41287417.0
+,10412.0,794172,meridian bioscience inc,1.0,,,,20130124,phillips david,112760213002567,,male,41287417.0
 75458.0,289346.0,794172,meridian bioscience inc,1.0,1.0,,,20130306,motto william j,112760213009541,Executive Chairman,male,41416157.0
-5959.0,0.0,794172,meridian bioscience inc,1.0,,,,20130312,ready robert j,112760213010426,,male,41416157.0
+5959.0,,794172,meridian bioscience inc,1.0,,,,20130312,ready robert j,112760213010426,,male,41416157.0
 225718.0,638.0,794172,meridian bioscience inc,1.0,1.0,,,20130503,kraeutler john a,112760213015384,Chief Executive Officer,male,41467127.0
 0.0,364804.0,794172,meridian bioscience inc,1.0,1.0,,,20130531,motto william j,112760213018826,Executive Chairman,male,41467127.0
-0.0,0.0,794172,meridian bioscience inc,,1.0,,,20130703,rolih susan,112760213022263,"EVP, Reg & Quality Systems",female,41467127.0
-70000.0,0.0,794172,meridian bioscience inc,,1.0,,,20130730,baldini lawrence,112760213023714,"Exec VP, Operations & IS",male,41467127.0
-115682.0,0.0,794172,meridian bioscience inc,,1.0,,,20130930,lueke melissa,112760213027970,"Exec VP, CFO",female,41504982.0
-72500.0,0.0,794172,meridian bioscience inc,,1.0,,,20130930,baldini lawrence,112760213027969,"Exec VP, Operations & IS",male,41504982.0
+,,794172,meridian bioscience inc,,1.0,,,20130703,rolih susan,112760213022263,"EVP, Reg & Quality Systems",female,41467127.0
+70000.0,,794172,meridian bioscience inc,,1.0,,,20130730,baldini lawrence,112760213023714,"Exec VP, Operations & IS",male,41467127.0
+72500.0,,794172,meridian bioscience inc,,1.0,,,20130930,baldini lawrence,112760213027969,"Exec VP, Operations & IS",male,41504982.0
+115682.0,,794172,meridian bioscience inc,,1.0,,,20130930,lueke melissa,112760213027970,"Exec VP, CFO",female,41504982.0
+27200.0,,794172,meridian bioscience inc,,1.0,,,20131206,calzavara marco g.,112760213033880,"Pres & Managing Director, MBE",male,41518049.0
 50500.0,68.0,794172,meridian bioscience inc,,1.0,,,20131206,elagin vecheslav a,112760213033882,"EVP, Research & Development",male,41518049.0
-27200.0,0.0,794172,meridian bioscience inc,,1.0,,,20131206,calzavara marco g.,112760213033880,"Pres & Managing Director, MBE",male,41518049.0
-16387.0,0.0,794172,meridian bioscience inc,1.0,,,,20140107,ready robert j,112760214001353,,male,41518049.0
-123771.0,0.0,794172,meridian bioscience inc,,1.0,,,20140122,lueke melissa,112760214002412,"Exec VP, CFO",female,41518049.0
-0.0,5000.0,794172,meridian bioscience inc,1.0,,,,20140123,anderson james m.,112760214002648,,male,41518049.0
-0.0,10412.0,794172,meridian bioscience inc,1.0,,,,20140123,phillips david,112760214002649,,male,41518049.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20140123,ready robert j,112760214002650,,male,41518049.0
+16387.0,,794172,meridian bioscience inc,1.0,,,,20140107,ready robert j,112760214001353,,male,41518049.0
+123771.0,,794172,meridian bioscience inc,,1.0,,,20140122,lueke melissa,112760214002412,"Exec VP, CFO",female,41518049.0
+,,794172,meridian bioscience inc,1.0,,,,20140123,ready robert j,112760214002650,,male,41518049.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20140123,anderson james m.,112760214002648,,male,41518049.0
+,10412.0,794172,meridian bioscience inc,1.0,,,,20140123,phillips david,112760214002649,,male,41518049.0
 260411.0,77565.0,794172,meridian bioscience inc,1.0,1.0,,,20140514,motto william j,112760214017432,Executive Chairman,male,41555911.0
 90128.0,77565.0,794172,meridian bioscience inc,1.0,1.0,,,20140519,motto william j,112760214018037,Executive Chairman,male,41555911.0
-13687.0,0.0,794172,meridian bioscience inc,1.0,,,,20140616,ready robert j,112760214020893,,male,41555911.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20140724,ellingwood dwight e,112760214023757,,male,41555911.0
-18000.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,shaughnessy michael c.,112760214031672,"EVP, Pres Meridian Global Dx",male,41644524.0
-115702.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,rolih susan,112760214031671,"EVP, Reg & Quality Systems",female,41644524.0
-132771.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,lueke melissa,112760214031669,"Exec VP, CFO",female,41644524.0
-277234.0,673.0,794172,meridian bioscience inc,1.0,1.0,,,20141110,kraeutler john a,112760214031668,Chief Executive Officer,male,41644524.0
-46700.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,calzavara marco g.,112760214031664,"Pres & Managing Director, MBE",male,41644524.0
+13687.0,,794172,meridian bioscience inc,1.0,,,,20140616,ready robert j,112760214020893,,male,41555911.0
+,,794172,meridian bioscience inc,1.0,,,,20140724,ellingwood dwight e,112760214023757,,male,41555911.0
+84500.0,,794172,meridian bioscience inc,,1.0,,,20141110,baldini lawrence,112760214031663,"Exec VP, Operations & IS",male,41644524.0
+46700.0,,794172,meridian bioscience inc,,1.0,,,20141110,calzavara marco g.,112760214031664,"Pres & Managing Director, MBE",male,41644524.0
+49755.0,,794172,meridian bioscience inc,,1.0,,,20141110,eberly richard,112760214031665,"EVP,Pres Meridian Life Science",male,41644524.0
 59500.0,70.0,794172,meridian bioscience inc,,1.0,,,20141110,elagin vecheslav a,112760214031666,"EVP, Research & Development",male,41644524.0
-49755.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,eberly richard,112760214031665,"EVP,Pres Meridian Life Science",male,41644524.0
-84500.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,baldini lawrence,112760214031663,"Exec VP, Operations & IS",male,41644524.0
-52247.0,0.0,794172,meridian bioscience inc,,1.0,,,20141110,johnson marviette d.,112760214031667,"VP, Human Resources",male,41644524.0
-20412.0,0.0,794172,meridian bioscience inc,1.0,,,,20141112,phillips david,112760214031862,,male,41644524.0
-129361.0,0.0,794172,meridian bioscience inc,,1.0,,,20141113,lueke melissa,112760214032119,"Exec VP, CFO",female,41644524.0
-112013.0,0.0,794172,meridian bioscience inc,,1.0,,,20141113,rolih susan,112760214032120,"EVP, Reg & Quality Systems",female,41644524.0
+52247.0,,794172,meridian bioscience inc,,1.0,,,20141110,johnson marviette d.,112760214031667,"VP, Human Resources",male,41644524.0
+277234.0,673.0,794172,meridian bioscience inc,1.0,1.0,,,20141110,kraeutler john a,112760214031668,Chief Executive Officer,male,41644524.0
+132771.0,,794172,meridian bioscience inc,,1.0,,,20141110,lueke melissa,112760214031669,"Exec VP, CFO",female,41644524.0
+115702.0,,794172,meridian bioscience inc,,1.0,,,20141110,rolih susan,112760214031671,"EVP, Reg & Quality Systems",female,41644524.0
+18000.0,,794172,meridian bioscience inc,,1.0,,,20141110,shaughnessy michael c.,112760214031672,"EVP, Pres Meridian Global Dx",male,41644524.0
+20412.0,,794172,meridian bioscience inc,1.0,,,,20141112,phillips david,112760214031862,,male,41644524.0
+112013.0,,794172,meridian bioscience inc,,1.0,,,20141113,rolih susan,112760214032120,"EVP, Reg & Quality Systems",female,41644524.0
 273761.0,673.0,794172,meridian bioscience inc,1.0,1.0,,,20141113,kraeutler john a,112760214032118,Chairman and CEO,male,41644524.0
-81934.0,0.0,794172,meridian bioscience inc,,1.0,,,20141113,baldini lawrence,112760214032112,"Exec VP, Operations & IS",male,41644524.0
+129361.0,,794172,meridian bioscience inc,,1.0,,,20141113,lueke melissa,112760214032119,"Exec VP, CFO",female,41644524.0
+46794.0,,794172,meridian bioscience inc,,1.0,,,20141113,eberly richard,112760214032113,"EVP,Pres Meridian Life Science",male,41644524.0
 56926.0,70.0,794172,meridian bioscience inc,,1.0,,,20141113,elagin vecheslav a,112760214032115,"EVP, Research & Development",male,41644524.0
-46794.0,0.0,794172,meridian bioscience inc,,1.0,,,20141113,eberly richard,112760214032113,"EVP,Pres Meridian Life Science",male,41644524.0
-48582.0,0.0,794172,meridian bioscience inc,,1.0,,,20141113,johnson marviette d.,112760214032117,"VP, Human Resources",male,41644524.0
-133148.0,0.0,794172,meridian bioscience inc,,1.0,,,20141120,lueke melissa,112760214032948,"Exec VP, CFO",female,41644524.0
+48582.0,,794172,meridian bioscience inc,,1.0,,,20141113,johnson marviette d.,112760214032117,"VP, Human Resources",male,41644524.0
+81934.0,,794172,meridian bioscience inc,,1.0,,,20141113,baldini lawrence,112760214032112,"Exec VP, Operations & IS",male,41644524.0
 273761.0,673.0,794172,meridian bioscience inc,1.0,1.0,,,20141120,kraeutler john a,112760214032949,Chairman and CEO,male,41644524.0
-1000.0,0.0,794172,meridian bioscience inc,1.0,,,,20141124,ellingwood dwight e,112760214033232,,male,41644524.0
-42255.0,0.0,794172,meridian bioscience inc,,1.0,,,20141126,eberly richard,112760214033529,"EVP,Pres Meridian Life Science",male,41644524.0
-116544.0,0.0,794172,meridian bioscience inc,,1.0,,,20141202,rolih susan,112760214033835,"EVP, Reg & Quality Systems",female,41644524.0
-18901.0,0.0,794172,meridian bioscience inc,1.0,,,,20150113,ready robert j,112760215001699,,male,41644524.0
-0.0,681.0,794172,meridian bioscience inc,1.0,1.0,,,20150120,kraeutler john a,112760215002192,Chairman and CEO,male,41644524.0
-0.0,5000.0,794172,meridian bioscience inc,1.0,,,,20150123,anderson james m.,112760215002603,,male,41644524.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20150123,ellingwood dwight e,112760215002604,,male,41644524.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20150123,ready robert j,112760215002607,,male,41644524.0
-0.0,20412.0,794172,meridian bioscience inc,1.0,,,,20150123,phillips david,112760215002609,,male,41644524.0
-2980.0,0.0,794172,meridian bioscience inc,1.0,,,,20150126,ellingwood dwight e,112760215002688,,male,41644524.0
-46670.0,0.0,794172,meridian bioscience inc,,1.0,,,20150303,johnson marviette d.,112760215009259,"VP, Human Resources",male,41705940.0
-42719.0,0.0,794172,meridian bioscience inc,,1.0,,,20150317,eberly richard,112760215011550,"EVP,Pres Meridian Life Science",male,41705940.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20150818,sazdanoff catherine,112760215025095,,female,41714635.0
-0.0,0.0,794172,meridian bioscience inc,1.0,,,,20150818,mcilwraith john,112760215025096,,male,41714635.0
+133148.0,,794172,meridian bioscience inc,,1.0,,,20141120,lueke melissa,112760214032948,"Exec VP, CFO",female,41644524.0
+1000.0,,794172,meridian bioscience inc,1.0,,,,20141124,ellingwood dwight e,112760214033232,,male,41644524.0
+42255.0,,794172,meridian bioscience inc,,1.0,,,20141126,eberly richard,112760214033529,"EVP,Pres Meridian Life Science",male,41644524.0
+116544.0,,794172,meridian bioscience inc,,1.0,,,20141202,rolih susan,112760214033835,"EVP, Reg & Quality Systems",female,41644524.0
+18901.0,,794172,meridian bioscience inc,1.0,,,,20150113,ready robert j,112760215001699,,male,41644524.0
+,681.0,794172,meridian bioscience inc,1.0,1.0,,,20150120,kraeutler john a,112760215002192,Chairman and CEO,male,41644524.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20150123,anderson james m.,112760215002603,,male,41644524.0
+,,794172,meridian bioscience inc,1.0,,,,20150123,ellingwood dwight e,112760215002604,,male,41644524.0
+,,794172,meridian bioscience inc,1.0,,,,20150123,ready robert j,112760215002607,,male,41644524.0
+,20412.0,794172,meridian bioscience inc,1.0,,,,20150123,phillips david,112760215002609,,male,41644524.0
+2980.0,,794172,meridian bioscience inc,1.0,,,,20150126,ellingwood dwight e,112760215002688,,male,41644524.0
+46670.0,,794172,meridian bioscience inc,,1.0,,,20150303,johnson marviette d.,112760215009259,"VP, Human Resources",male,41705940.0
+42719.0,,794172,meridian bioscience inc,,1.0,,,20150317,eberly richard,112760215011550,"EVP,Pres Meridian Life Science",male,41705940.0
+,,794172,meridian bioscience inc,1.0,,,,20150818,mcilwraith john,112760215025096,,male,41714635.0
+,,794172,meridian bioscience inc,1.0,,,,20150818,sazdanoff catherine,112760215025095,,female,41714635.0
+,,794172,meridian bioscience inc,1.0,,,,20150818,mcilwraith john,112760215025096,,male,41714635.0
+,,794172,meridian bioscience inc,1.0,,,,20150818,sazdanoff catherine,112760215025095,,female,41714635.0
+92934.0,,794172,meridian bioscience inc,,1.0,,,20151106,baldini lawrence,112760215030532,"Exec VP, Operations & IS",male,41846049.0
+57700.0,,794172,meridian bioscience inc,,1.0,,,20151106,calzavara marco g.,112760215030534,"Pres & Managing Director, MBE",male,41846049.0
+53719.0,,794172,meridian bioscience inc,,1.0,,,20151106,eberly richard,112760215030535,"EVP,Pres Meridian Life Science",male,41846049.0
+67926.0,74.0,794172,meridian bioscience inc,,1.0,,,20151106,elagin vecheslav a,112760215030536,"EVP, Research & Development",male,41846049.0
+323761.0,703.0,794172,meridian bioscience inc,1.0,1.0,,,20151106,kraeutler john a,112760215030537,Chairman and CEO,male,41846049.0
+144148.0,,794172,meridian bioscience inc,,1.0,,,20151106,lueke melissa,112760215030538,"Exec VP, CFO",female,41846049.0
+127544.0,,794172,meridian bioscience inc,,1.0,,,20151106,rolih susan,112760215030539,"EVP, Reg & Quality Systems",female,41846049.0
+29000.0,,794172,meridian bioscience inc,,1.0,,,20151106,shaughnessy michael c.,112760215030540,"EVP, Pres Meridian Global Dx",male,41846049.0
+315134.0,703.0,794172,meridian bioscience inc,1.0,1.0,,,20151110,kraeutler john a,112760215031030,Chairman and CEO,male,41846049.0
+159898.0,,794172,meridian bioscience inc,,1.0,,,20151110,lueke melissa,112760215031031,"Exec VP, CFO",female,41846049.0
+143294.0,,794172,meridian bioscience inc,,1.0,,,20151110,rolih susan,112760215031032,"EVP, Reg & Quality Systems",female,41846049.0
+51153.0,,794172,meridian bioscience inc,,1.0,,,20151112,eberly richard,112760215031180,"EVP,Pres Meridian Life Science",male,41846049.0
+140744.0,,794172,meridian bioscience inc,,1.0,,,20151112,rolih susan,112760215031188,"EVP, Reg & Quality Systems",female,41846049.0
+156489.0,,794172,meridian bioscience inc,,1.0,,,20151112,lueke melissa,112760215031187,"Exec VP, CFO",female,41846049.0
+311683.0,703.0,794172,meridian bioscience inc,1.0,1.0,,,20151112,kraeutler john a,112760215031185,Chairman and CEO,male,41846049.0
+90376.0,,794172,meridian bioscience inc,,1.0,,,20151112,baldini lawrence,112760215031178,"Exec VP, Operations & IS",male,41846049.0
+54063.0,,794172,meridian bioscience inc,,1.0,,,20151112,calzavara marco g.,112760215031179,"Pres & Managing Director, MBE",male,41846049.0
+61959.0,74.0,794172,meridian bioscience inc,,1.0,,,20151112,elagin vecheslav a,112760215031182,"EVP, Research & Development",male,41846049.0
+2000.0,,794172,meridian bioscience inc,1.0,,,,20151124,mcilwraith john,112760215032464,,male,41846049.0
+46219.0,,794172,meridian bioscience inc,,1.0,,,20151202,eberly richard,112760215032935,"EVP,Pres Meridian Life Science",male,41846049.0
+54459.0,74.0,794172,meridian bioscience inc,,1.0,,,20151210,elagin vecheslav a,112760215033700,"EVP, Research & Development",male,41846049.0
+10214.0,20412.0,794172,meridian bioscience inc,1.0,,,,20160108,phillips david,112760216036614,,male,41846049.0
+25626.0,,794172,meridian bioscience inc,1.0,,,,20160125,phillips david,112760216037793,,male,41846049.0
+,,794172,meridian bioscience inc,1.0,,,,20160128,ellingwood dwight e,112760216038246,,male,41846049.0
+,25626.0,794172,meridian bioscience inc,1.0,,,,20160128,phillips david,112760216038249,,male,41846049.0
+,,794172,meridian bioscience inc,1.0,,,,20160128,mcilwraith john,112760216038247,,male,41846049.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20160128,anderson james m.,112760216038245,,male,41846049.0
+,,794172,meridian bioscience inc,1.0,,,,20160128,sazdanoff catherine,112760216038251,,female,41846049.0
+10000.0,,794172,meridian bioscience inc,,1.0,,,20160328,winslow amy,112760216047626,"EVP, Pres & CEO of Magellan",female,42051142.0
+,,794172,meridian bioscience inc,,1.0,,,20160330,baldini lawrence,112760216047792,"EVP, Pres Global Operations",male,42051142.0
+,,794172,meridian bioscience inc,,1.0,,,20160401,baldini lawrence,112760216048019,"EVP, Pres Global Operations",male,42051142.0
+,75.0,794172,meridian bioscience inc,,1.0,,,20160401,elagin vecheslav a,112760216048020,"EVP, Research & Development",male,42051142.0
+,717.0,794172,meridian bioscience inc,1.0,1.0,,,20160401,kraeutler john a,112760216048023,Chairman and CEO,male,42051142.0
+,,794172,meridian bioscience inc,,1.0,,,20160401,lueke melissa,112760216048024,"Exec VP, CFO",female,42051142.0
+,,794172,meridian bioscience inc,,1.0,,,20160401,rolih susan,112760216048025,"EVP, Reg & Quality Systems",female,42051142.0
+,,794172,meridian bioscience inc,,1.0,,,20160401,shaughnessy michael c.,112760216048026,"EVP, Pres Meridian Global Dx",male,42051142.0
+90601.0,,794172,meridian bioscience inc,,1.0,,,20160420,baldini lawrence,112760216049549,"EVP, Pres Global Operations",male,42051142.0
+7700.0,,794172,meridian bioscience inc,1.0,,,,20160502,sazdanoff catherine,112760216050444,,female,42074802.0
+140969.0,,794172,meridian bioscience inc,,1.0,,,20160603,rolih susan,112760216054578,"EVP, Reg & Quality Systems",female,42074802.0
+5980.0,,794172,meridian bioscience inc,1.0,,,,20160614,ellingwood dwight e,112760216055475,,male,42074802.0
+12500.0,25626.0,794172,meridian bioscience inc,1.0,,,,20160725,phillips david,112760216058475,,male,42074802.0
+,,794172,meridian bioscience inc,,1.0,,,20160729,eberly richard,112760216058896,"EVP; Pres, Chief Comm Officer",male,42074802.0
+3000.0,,794172,meridian bioscience inc,1.0,,,,20160815,mcilwraith john,112760216060204,,male,42086737.0
+33121.0,,794172,meridian bioscience inc,1.0,,,,20160822,phillips david,112760216060772,,male,42086737.0
+,732.0,794172,meridian bioscience inc,1.0,1.0,,,20161005,kraeutler john a,112760216064285,Chairman and CEO,male,42086737.0
+316683.0,732.0,794172,meridian bioscience inc,1.0,1.0,,,20161107,kraeutler john a,112760216066217,Chairman and CEO,male,42108217.0
+95501.0,,794172,meridian bioscience inc,,1.0,,,20161107,baldini lawrence,112760216066214,"EVP, Pres Global Operations",male,42108217.0
+153071.0,,794172,meridian bioscience inc,,1.0,,,20161109,lueke melissa,112760216066581,"Exec VP, CFO",female,42108217.0
+313230.0,732.0,794172,meridian bioscience inc,1.0,1.0,,,20161109,kraeutler john a,112760216066580,Chairman and CEO,male,42108217.0
+43645.0,,794172,meridian bioscience inc,,1.0,,,20161109,eberly richard,112760216066575,"EVP; Pres, Chief Comm Officer",male,42108217.0
+50424.0,,794172,meridian bioscience inc,,1.0,,,20161109,calzavara marco g.,112760216066574,"Pres & Managing Director, MBE",male,42108217.0
+92934.0,,794172,meridian bioscience inc,,1.0,,,20161109,baldini lawrence,112760216066572,"EVP, Pres Global Operations",male,42108217.0
+138410.0,,794172,meridian bioscience inc,,1.0,,,20161109,rolih susan,112760216066584,"EVP, Reg & Quality Systems",female,42108217.0
+50809.0,75.0,794172,meridian bioscience inc,,1.0,,,20161109,elagin vecheslav a,112760216066576,"EVP, Research & Development",male,42108217.0
+60424.0,,794172,meridian bioscience inc,,1.0,,,20161114,calzavara marco g.,112760216066791,"Pres & Managing Director, MBE",male,42108217.0
+338230.0,732.0,794172,meridian bioscience inc,1.0,1.0,,,20161114,kraeutler john a,112760216066794,Chairman and CEO,male,42108217.0
+25000.0,,794172,meridian bioscience inc,,1.0,,,20161114,winslow amy,112760216066797,"EVP, Pres & CEO of Magellan",female,42108217.0
+148410.0,,794172,meridian bioscience inc,,1.0,,,20161114,rolih susan,112760216066796,"EVP, Reg & Quality Systems",female,42108217.0
+163071.0,,794172,meridian bioscience inc,,1.0,,,20161114,lueke melissa,112760216066795,"Exec VP, CFO",female,42108217.0
+102934.0,,794172,meridian bioscience inc,,1.0,,,20161114,baldini lawrence,112760216066790,"EVP, Pres Global Operations",male,42108217.0
+60809.0,75.0,794172,meridian bioscience inc,,1.0,,,20161114,elagin vecheslav a,112760216066793,"EVP, Research & Development",male,42108217.0
+53645.0,,794172,meridian bioscience inc,,1.0,,,20161114,eberly richard,112760216066792,"EVP; Pres, Chief Comm Officer",male,42108217.0
+164160.0,,794172,meridian bioscience inc,,1.0,,,20161115,rolih susan,112760216067135,"EVP, Reg & Quality Systems",female,42108217.0
+,,794172,meridian bioscience inc,,1.0,,,20161118,lueke melissa,112760216067704,"Exec VP, CFO",female,42108217.0
+,,794172,meridian bioscience inc,,1.0,,,20161118,rolih susan,112760216067703,"EVP, Global Reg & Quality Syst",female,42108217.0
+48719.0,,794172,meridian bioscience inc,,1.0,,,20161118,eberly richard,112760216067702,"EVP; Pres, Chief Comm Officer",male,42108217.0
+7000.0,,794172,meridian bioscience inc,1.0,,,,20161201,ellingwood dwight e,112760216068747,,male,42108217.0
+52926.0,77.0,794172,meridian bioscience inc,,1.0,,,20161205,elagin vecheslav a,112760216069111,"EVP, Research & Development",male,42108217.0
+,,794172,meridian bioscience inc,1.0,,,,20170126,ellingwood dwight e,112760217002433,,male,42108217.0
+,33121.0,794172,meridian bioscience inc,1.0,,,,20170126,phillips david,112760217002439,,male,42108217.0
+,,794172,meridian bioscience inc,1.0,,,,20170126,mcilwraith john,112760217002434,,male,42108217.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20170126,anderson james m.,112760217002432,,male,42108217.0
+,,794172,meridian bioscience inc,1.0,,,,20170126,sazdanoff catherine,112760217002436,,female,42108217.0
+106934.0,,794172,meridian bioscience inc,,1.0,,,20170130,baldini lawrence,112760217002766,"EVP, Pres Global Operations",male,42108217.0
+167071.0,,794172,meridian bioscience inc,,1.0,,,20170203,lueke melissa,112760217003784,"Exec VP, CFO",female,42202397.0
+,79.0,794172,meridian bioscience inc,,1.0,,,20170523,elagin vecheslav a,112760217019148,"EVP, R&D & Chf Scientific Off",male,42202807.0
+,,794172,meridian bioscience inc,1.0,,,,20170809,rice john mccune jr.,112760217025322,,male,42203017.0
+345230.0,761.0,794172,meridian bioscience inc,1.0,1.0,,,20170825,kraeutler john a,112760217026484,Chairman and CEO,male,42203017.0
+13000.0,,794172,meridian bioscience inc,1.0,1.0,0.0,0.0,20171011,kenny john p.,89924317024070,Chief Executive Officer,male,42203017.0
+163898.0,,794172,meridian bioscience inc,,1.0,,,20171109,lueke melissa,112760217031655,"Exec VP, CFO",female,42216567.0
+340050.0,761.0,794172,meridian bioscience inc,1.0,1.0,,,20171109,kraeutler john a,112760217031654,Executive Chairman,male,42216567.0
+48489.0,80.0,794172,meridian bioscience inc,,1.0,,,20171109,elagin vecheslav a,112760217031653,"EVP, R&D & Chf Scientific Off",male,42216567.0
+161089.0,,794172,meridian bioscience inc,,1.0,,,20171109,rolih susan,112760217031656,"EVP, Global Reg & Quality Syst",female,42216567.0
+56057.0,,794172,meridian bioscience inc,,1.0,,,20171109,calzavara marco g.,112760217031651,"Pres & Managing Director, MBE",male,42216567.0
+45848.0,,794172,meridian bioscience inc,,1.0,,,20171109,eberly richard,112760217031652,"EVP; Pres, Chief Comm Officer",male,42216567.0
+103854.0,,794172,meridian bioscience inc,,1.0,,,20171109,baldini lawrence,112760217031650,"EVP, Pres Global Operations",male,42216567.0
+158589.0,,794172,meridian bioscience inc,,1.0,,,20171113,rolih susan,112760217031884,"EVP, Global Reg & Quality Syst",female,42216567.0
+161398.0,,794172,meridian bioscience inc,,1.0,,,20171113,lueke melissa,112760217031883,"Exec VP, CFO",female,42216567.0
+340050.0,761.0,794172,meridian bioscience inc,1.0,1.0,,,20171113,kraeutler john a,112760217031882,Executive Chairman,male,42216567.0
+22500.0,,794172,meridian bioscience inc,,1.0,,,20171113,winslow amy,112760217031886,"EVP, Pres & CEO of Magellan",female,42216567.0
+45989.0,80.0,794172,meridian bioscience inc,,1.0,,,20171113,elagin vecheslav a,112760217031880,"EVP, R&D & Chf Scientific Off",male,42216567.0
+43348.0,,794172,meridian bioscience inc,,1.0,,,20171113,eberly richard,112760217031879,"EVP; Pres, Chief Comm Officer",male,42216567.0
+54057.0,,794172,meridian bioscience inc,,1.0,,,20171113,calzavara marco g.,112760217031878,"Pres & Managing Director, MBE",male,42216567.0
+101354.0,,794172,meridian bioscience inc,,1.0,,,20171113,baldini lawrence,112760217031877,"EVP, Pres Global Operations",male,42216567.0
+38000.0,,794172,meridian bioscience inc,1.0,1.0,,,20171113,kenny john p.,112760217031881,Chief Executive Officer,male,42216567.0
+,5000.0,794172,meridian bioscience inc,1.0,,,,20180126,anderson james m.,112760218002624,,male,42216567.0
+,,794172,meridian bioscience inc,1.0,,,,20180126,ellingwood dwight e,112760218002625,,male,42216567.0
+,,794172,meridian bioscience inc,1.0,,,,20180126,mcilwraith john,112760218002626,,male,42216567.0
+,33121.0,794172,meridian bioscience inc,1.0,,,,20180126,phillips david,112760218002628,,male,42216567.0
+,,794172,meridian bioscience inc,1.0,,,,20180126,rice john mccune jr.,112760218002629,,male,42216567.0
+,,794172,meridian bioscience inc,1.0,,,,20180126,sazdanoff catherine,112760218002630,,female,42216567.0
+1000.0,,794172,meridian bioscience inc,1.0,,,,20180207,rice john mccune jr.,112760218004457,,male,42307742.0
+4000.0,,794172,meridian bioscience inc,1.0,,,,20180226,mcilwraith john,112760218008295,,male,42307742.0
+,,794172,meridian bioscience inc,,1.0,,,20180426,weltzien lourdes,112760218015305,"EVP, Life Science",female,42307742.0
+5000.0,,794172,meridian bioscience inc,,1.0,,,20180606,rasmussen eric s.,112760218020116,"EVP, Bus. Development/Strategy",male,42344282.0
+6000.0,,794172,meridian bioscience inc,1.0,,,,20180828,mcilwraith john,112760218026375,,male,42395322.0
+,,794172,meridian bioscience inc,1.0,,,,20180924,williams felicia,112760218028277,,female,42395322.0
+8000.0,,794172,meridian bioscience inc,1.0,,,,20181004,ellingwood dwight e,112760218029515,,male,42395322.0
+8000.0,,794172,meridian bioscience inc,1.0,,,,20181107,mcilwraith john,112760218032337,,male,42402912.0
+66253.0,,794172,meridian bioscience inc,,1.0,,,20181114,baldini lawrence,112760218032958,"EVP, Global Operations",male,42402912.0
+168280.0,,794172,meridian bioscience inc,,1.0,,,20181119,rolih susan,112760218033650,"EVP, Global Reg & Quality Syst",female,42402912.0
+171080.0,,794172,meridian bioscience inc,,1.0,,,20181119,lueke melissa,112760218033649,"Exec VP, CFO",female,42402912.0
+75935.0,,794172,meridian bioscience inc,,1.0,,,20181119,baldini lawrence,112760218033648,"EVP, Global Operations",male,42402912.0
+22500.0,,794172,meridian bioscience inc,,1.0,,,20181119,rasmussen eric s.,112760218033647,"EVP, Bus. Development/Strategy",male,42402912.0
+63000.0,,794172,meridian bioscience inc,1.0,1.0,,,20181119,kenny john p.,112760218033646,Chief Executive Officer,male,42402912.0
+48577.0,,794172,meridian bioscience inc,,1.0,,,20181119,weltzien lourdes,112760218033651,"EVP, Life Science",female,42402912.0
+3000.0,,794172,meridian bioscience inc,1.0,,,,20181121,rice john mccune jr.,112760218034166,,male,42402912.0
+981.0,5000.0,794172,meridian bioscience inc,1.0,,,,20190128,anderson james m.,112760219002777,,male,42402912.0
+981.0,33121.0,794172,meridian bioscience inc,1.0,,,,20190128,phillips david,112760219002780,,male,42402912.0
+981.0,,794172,meridian bioscience inc,1.0,,,,20190128,rice john mccune jr.,112760219002781,,male,42402912.0
+981.0,,794172,meridian bioscience inc,1.0,,,,20190128,sazdanoff catherine,112760219002782,,female,42402912.0
+981.0,,794172,meridian bioscience inc,1.0,,,,20190128,williams felicia,112760219002783,,female,42402912.0
+981.0,,794172,meridian bioscience inc,1.0,,,,20190128,mcilwraith john,112760219002779,,male,42402912.0
+981.0,,794172,meridian bioscience inc,1.0,,,,20190128,ellingwood dwight e,112760219002778,,male,42402912.0
+48419.0,,794172,meridian bioscience inc,,1.0,,,20190225,weltzien lourdes,112760219007870,"EVP, Life Science",female,42489202.0
+9547.0,,794172,meridian bioscience inc,1.0,,,,20190225,ellingwood dwight e,112760219007865,,male,42489202.0
+169776.0,,794172,meridian bioscience inc,,1.0,,,20190225,lueke melissa,112760219007867,"Exec VP, CFO",female,42489202.0
+75528.0,,794172,meridian bioscience inc,,1.0,,,20190225,baldini lawrence,112760219007866,"EVP, Global Operations",male,42489202.0
+83000.0,,794172,meridian bioscience inc,1.0,1.0,,,20190509,kenny john p.,112760219017855,Chief Executive Officer,male,42628582.0
+38371.0,,794172,meridian bioscience inc,1.0,,,,20190513,phillips david,112760219018293,,male,42628582.0
+11981.0,5000.0,794172,meridian bioscience inc,1.0,,,,20190520,anderson james m.,112760219019121,,male,42628582.0
+5981.0,,794172,meridian bioscience inc,1.0,,,,20190523,rice john mccune jr.,112760219019555,,male,42628582.0
+38616.0,,794172,meridian bioscience inc,1.0,,,,20190819,phillips david,112760219026924,,male,42711496.0
+32071.0,,794172,meridian bioscience inc,,1.0,,,20190923,baldasare bryan t,112760219028923,Interim CFO & Chief Acctg Off,male,42711496.0
+78819.0,,794172,meridian bioscience inc,1.0,1.0,,,20191015,kenny john p.,112760219030443,Chief Executive Officer,male,42711496.0
+52605.0,,794172,meridian bioscience inc,,1.0,,,20191104,baldasare bryan t,112760219031602,Exec VP & CFO,male,42741721.0
+68953.0,,794172,meridian bioscience inc,,1.0,,,20191104,weltzien lourdes,112760219031603,"EVP, Life Science",female,42741721.0
+178324.0,,794172,meridian bioscience inc,1.0,1.0,,,20191107,kenny john p.,112760219032143,Chief Executive Officer,male,42741721.0
+198324.0,,794172,meridian bioscience inc,1.0,1.0,,,20191112,kenny john p.,112760219032417,Chief Executive Officer,male,42741721.0
+48616.0,,794172,meridian bioscience inc,1.0,,,,20191113,phillips david,112760219032589,,male,42741721.0
+67693.0,,794172,meridian bioscience inc,,1.0,,,20191119,weltzien lourdes,112760219033156,"EVP, Life Science",female,42741721.0
+50637.0,,794172,meridian bioscience inc,,1.0,,,20191119,baldasare bryan t,112760219033153,Exec VP & CFO,male,42741721.0
+48861.0,,794172,meridian bioscience inc,1.0,,,,20191120,phillips david,112760219033333,,male,42741721.0
+67535.0,,794172,meridian bioscience inc,,1.0,,,20191125,weltzien lourdes,112760219033636,"EVP, Life Science",female,42741721.0
+11867.0,,794172,meridian bioscience inc,1.0,,,,20200131,sazdanoff catherine,112760220002838,,female,42829480.0
+9167.0,,794172,meridian bioscience inc,1.0,,,,20200131,rice john mccune jr.,112760220002837,,male,42829480.0
+8432.0,,794172,meridian bioscience inc,1.0,,,,20200131,phillips david,112760220002835,,male,42829480.0
+12167.0,,794172,meridian bioscience inc,1.0,,,,20200131,mcilwraith john,112760220002834,,male,42829480.0
+12733.0,,794172,meridian bioscience inc,1.0,,,,20200131,ellingwood dwight e,112760220002833,,male,42829480.0
+15167.0,5000.0,794172,meridian bioscience inc,1.0,,,,20200131,anderson james m.,112760220002832,,male,42829480.0
+4167.0,,794172,meridian bioscience inc,1.0,,,,20200131,williams felicia,112760220002840,,female,42829480.0
+49107.0,,794172,meridian bioscience inc,1.0,,,,20200212,phillips david,112760220005010,,male,42829480.0
+208324.0,,794172,meridian bioscience inc,1.0,1.0,,,20200224,kenny john p.,112760220007112,Chief Executive Officer,male,42829480.0
+12167.0,,794172,meridian bioscience inc,1.0,,,,20200226,rice john mccune jr.,112760220007839,,male,42829480.0
+17167.0,,794172,meridian bioscience inc,1.0,,,,20200226,mcilwraith john,112760220007840,,male,42829480.0
+52637.0,,794172,meridian bioscience inc,,1.0,,,20200311,baldasare bryan t,112760220010224,Exec VP & CFO,male,42829480.0
+238324.0,,794172,meridian bioscience inc,1.0,1.0,,,20200313,kenny john p.,112760220010524,Chief Executive Officer,male,42829480.0
+5717.0,,794172,meridian bioscience inc,1.0,,,,20200317,williams felicia,112760220011012,,female,42829480.0
+52800.0,,794172,meridian bioscience inc,,1.0,,,20200702,baldasare bryan t,112760220020774,Exec VP & CFO,male,42832859.0
+851.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20200729,bihl anthony p iii,156761920013872,,male,42832859.0
+50700.0,,794172,meridian bioscience inc,1.0,,,,20200811,phillips david,112760220023319,,male,42862598.0
+294330.0,,794172,meridian bioscience inc,1.0,1.0,,,20201109,kenny john p.,112760220028458,Chief Executive Officer,male,43076077.0
+31843.0,,794172,meridian bioscience inc,,1.0,,,20201109,serafini-lamanna tony,112760220028459,Executive VP-Diagnostics,male,43076077.0
+79710.0,,794172,meridian bioscience inc,,1.0,,,20201109,weltzien lourdes,112760220028460,"EVP, Life Science",female,43076077.0
+63623.0,,794172,meridian bioscience inc,,1.0,,,20201109,baldasare bryan t,112760220028457,Exec VP & CFO,male,43076077.0
+51496.0,,794172,meridian bioscience inc,1.0,,,,20201118,phillips david,112760220029387,,male,43076077.0
+10851.0,,794172,meridian bioscience inc,1.0,,,,20201130,bihl anthony p iii,112760220030093,,male,43076077.0
+61632.0,,794172,meridian bioscience inc,,1.0,,,20201221,baldasare bryan t,112760220032093,Exec VP & CFO,male,43076077.0
+77044.0,,794172,meridian bioscience inc,,1.0,,,20201221,weltzien lourdes,112760220032096,"EVP, Life Science",female,43076077.0
+7262.0,,794172,meridian bioscience inc,1.0,,,,20210129,williams felicia,112760221002945,,female,43076077.0
+13412.0,,794172,meridian bioscience inc,1.0,,,,20210129,sazdanoff catherine,112760221002944,,female,43076077.0
+13712.0,,794172,meridian bioscience inc,1.0,,,,20210129,rice john mccune jr.,112760221002943,,male,43076077.0
+7342.0,,794172,meridian bioscience inc,1.0,,,,20210129,phillips david,112760221002942,,male,43076077.0
+18712.0,,794172,meridian bioscience inc,1.0,,,,20210129,mcilwraith john,112760221002941,,male,43076077.0
+14278.0,,794172,meridian bioscience inc,1.0,,,,20210129,ellingwood dwight e,112760221002939,,male,43076077.0
+12396.0,,794172,meridian bioscience inc,1.0,,,,20210129,bihl anthony p iii,112760221002937,,male,43076077.0
+16712.0,5000.0,794172,meridian bioscience inc,1.0,,,,20210129,anderson james m.,112760221002936,,male,43076077.0
+58632.0,,794172,meridian bioscience inc,,1.0,,,20210208,baldasare bryan t,112760221004269,Exec VP & CFO,male,43145015.0
+254330.0,,794172,meridian bioscience inc,1.0,1.0,,,20210208,kenny john p.,112760221004268,Chief Executive Officer,male,43145015.0
+24437.0,,794172,meridian bioscience inc,1.0,,,,20210209,rice john mccune jr.,112760221004635,,male,43145015.0
+56128.0,,794172,meridian bioscience inc,,1.0,,,20210209,baldasare bryan t,112760221004586,Exec VP & CFO,male,43145015.0
+252176.0,,794172,meridian bioscience inc,1.0,1.0,,,20210210,kenny john p.,112760221004878,Chief Executive Officer,male,43145015.0
+248936.0,,794172,meridian bioscience inc,1.0,1.0,,,20210216,kenny john p.,112760221005607,Chief Executive Officer,male,43145015.0
+248659.0,,794172,meridian bioscience inc,1.0,1.0,,,20210217,kenny john p.,112760221006067,Chief Executive Officer,male,43145015.0
+238659.0,,794172,meridian bioscience inc,1.0,1.0,,,20210311,kenny john p.,112760221010225,Chief Executive Officer,male,43145015.0
+208659.0,,794172,meridian bioscience inc,1.0,1.0,,,20210318,kenny john p.,112760221011258,Chief Executive Officer,male,43145015.0
+42436.0,,794172,meridian bioscience inc,,1.0,,,20211108,serafini-lamanna tony,112760221028577,Executive VP-Diagnostics,male,43364448.0
+66721.0,,794172,meridian bioscience inc,,1.0,,,20211108,baldasare bryan t,112760221028575,Exec VP & CFO,male,43364448.0
+265131.0,,794172,meridian bioscience inc,1.0,1.0,,,20211108,kenny john p.,112760221028572,Chief Executive Officer,male,43364448.0
+87637.0,,794172,meridian bioscience inc,,1.0,,,20211108,weltzien lourdes,112760221028580,"EVP, Life Science",female,43364448.0
+87637.0,,794172,meridian bioscience inc,,1.0,,,20211116,weltzien lourdes,112760221029301,"EVP, Life Science",female,43364448.0
+42436.0,,794172,meridian bioscience inc,,1.0,,,20211116,serafini-lamanna tony,112760221029300,Executive VP-Diagnostics,male,43364448.0
+66721.0,,794172,meridian bioscience inc,,1.0,,,20211116,baldasare bryan t,112760221029298,Exec VP & CFO,male,43364448.0
+265131.0,,794172,meridian bioscience inc,1.0,1.0,,,20211116,kenny john p.,112760221029297,Chief Executive Officer,male,43364448.0
+40204.0,,794172,meridian bioscience inc,,1.0,,,20211216,serafini-lamanna tony,112760221031113,Executive VP-Diagnostics,male,43364448.0
+62914.0,,794172,meridian bioscience inc,,1.0,,,20211216,baldasare bryan t,112760221031110,Exec VP & CFO,male,43364448.0
+83368.0,,794172,meridian bioscience inc,,1.0,,,20211216,weltzien lourdes,112760221031111,"EVP, Life Science",female,43364448.0
+60929.0,,794172,meridian bioscience inc,,1.0,,,20211222,baldasare bryan t,112760221031730,Exec VP & CFO,male,43364448.0
+83048.0,,794172,meridian bioscience inc,,1.0,,,20211222,weltzien lourdes,112760221031731,"EVP, Life Science",female,43364448.0
+14045.0,,794172,meridian bioscience inc,1.0,,,,20220114,phillips david,112760222001477,,male,43514258.0
+17290.0,,794172,meridian bioscience inc,1.0,,,,20220128,ellingwood dwight e,112760222002348,,male,43514258.0
+21724.0,,794172,meridian bioscience inc,1.0,,,,20220128,mcilwraith john,112760222002349,,male,43514258.0
+10274.0,,794172,meridian bioscience inc,1.0,,,,20220128,williams felicia,112760222002354,,female,43514258.0
+16424.0,,794172,meridian bioscience inc,1.0,,,,20220128,sazdanoff catherine,112760222002353,,female,43514258.0
+19724.0,5000.0,794172,meridian bioscience inc,1.0,,,,20220128,anderson james m.,112760222002346,,male,43514258.0
+27449.0,,794172,meridian bioscience inc,1.0,,,,20220128,rice john mccune jr.,112760222002350,,male,43514258.0
+15408.0,,794172,meridian bioscience inc,1.0,,,,20220128,bihl anthony p iii,112760222002347,,male,43514258.0
+83048.0,,794172,meridian bioscience inc,,1.0,,,20220217,weltzien lourdes,112760222005441,"EVP, Life Science",female,43541412.0
+7500.0,,794172,meridian bioscience inc,,1.0,,,20220222,kitzmiller andrew s.,112760222005952,EVP & CFO,male,43541412.0
+11528.0,,794172,meridian bioscience inc,,1.0,,,20220228,kitzmiller andrew s.,112760222006985,EVP & CFO,male,43541412.0
+265131.0,,794172,meridian bioscience inc,1.0,1.0,,,20220624,kenny john p.,112760222018097,Chief Executive Officer,male,43575133.0
+265131.0,,794172,meridian bioscience inc,1.0,1.0,,,20220628,kenny john p.,112760222018184,Chief Executive Officer,male,43575133.0
+224862.0,,794172,meridian bioscience inc,1.0,1.0,,,20221005,kenny john p.,112760222023690,Chief Executive Officer,male,43755188.0
+39847.0,,794172,meridian bioscience inc,,1.0,,,20221005,serafini-lamanna tony,112760222023692,Executive VP-Diagnostics,male,43755188.0
+32676.0,25600.0,794172,meridian bioscience inc,,1.0,,,20221005,smith julie diana,112760222023693,"Sr VP, Controller, PAO",female,43755188.0
+220591.0,,794172,meridian bioscience inc,1.0,1.0,,,20221108,kenny john p.,112760222025087,Chief Executive Officer,male,43827819.0
+39059.0,,794172,meridian bioscience inc,,1.0,,,20221108,serafini-lamanna tony,112760222025088,Executive VP-Diagnostics,male,43827819.0
+32279.0,25600.0,794172,meridian bioscience inc,,1.0,,,20221108,smith julie diana,112760222025090,"Sr VP, Controller, PAO",female,43827819.0
+82482.0,,794172,meridian bioscience inc,,1.0,,,20221108,weltzien lourdes,112760222025089,"EVP, Life Science",female,43827819.0
+30434.0,25600.0,794172,meridian bioscience inc,,1.0,,,20221117,smith julie diana,112760222025894,"Sr VP, Controller, PAO",female,43827819.0
+35393.0,,794172,meridian bioscience inc,,1.0,,,20221117,serafini-lamanna tony,112760222025893,Executive VP-Diagnostics,male,43827819.0
+78100.0,,794172,meridian bioscience inc,,1.0,,,20221117,weltzien lourdes,112760222025892,"EVP, Life Science",female,43827819.0
+30060.0,25600.0,794172,meridian bioscience inc,,1.0,,,20221207,smith julie diana,112760222027013,"Sr VP, Controller, PAO",female,43827819.0
+28224.0,5000.0,794172,meridian bioscience inc,1.0,,,,20230109,anderson james m.,112760223001129,,male,43755188.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,williams felicia,156761923001537,,female,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,sazdanoff catherine,156761923001536,,female,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,rice john mccune jr.,156761923001535,,male,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,mcilwraith john,156761923001534,,male,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,ellingwood dwight e,156761923001533,,male,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,1.0,1.0,0.0,20230131,kenny john p.,156761923001530,Chief Executive Officer,male,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,anderson james m.,156761923001531,,male,44008159.0
+0.0,,794172,meridian bioscience inc,0.0,1.0,0.0,0.0,20230131,kitzmiller andrew s.,156761923001529,Executive Vice President & CFO,male,44008159.0
+0.0,,794172,meridian bioscience inc,0.0,1.0,0.0,0.0,20230131,weltzien lourdes,156761923001528,"Executive VP, Life Science",female,44008159.0
+0.0,,794172,meridian bioscience inc,0.0,1.0,0.0,0.0,20230131,serafini-lamanna tony,156761923001527,Executive VP-Diagnostics,male,44008159.0
+0.0,,794172,meridian bioscience inc,1.0,0.0,0.0,0.0,20230131,bihl anthony p iii,156761923001532,,male,44008159.0
+0.0,,794172,meridian bioscience inc,0.0,1.0,0.0,0.0,20230131,smith julie diana,156761923001526,"Sr VP, Controller, PAO",female,44008159.0

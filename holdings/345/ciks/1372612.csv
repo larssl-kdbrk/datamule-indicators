@@ -1,41 +1,451 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,weller harry r,118143115001640,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,sandell scott d,118143115001641,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,mott david m,118143115001642,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,kolluri krishna kittu,118143115001643,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,kerins patrick j,118143115001644,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,drant ryan d,118143115001645,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,baskett forest,118143115001646,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,barris peter j,118143115001647,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,barrett m james,118143115001648,,male,
-0.0,0.0,1372612,box inc,1,0,0,0,20150129,warrior padmasree,120919115007562,,male,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,viswanathan ravi,118143115001649,,male,
-0.0,0.0,1372612,box inc,1,0,1,0,20150129,o'driscoll rory,120919115007526,,male,
-0.0,0.0,1372612,box inc,1,1,1,0,20150129,levie aaron,120919115007538,Chief Executive Officer,male,
-0.0,0.0,1372612,box inc,1,1,1,0,20150129,levin daniel j,120919115007540,President & COO,male,
-0.0,0.0,1372612,box inc,1,1,1,0,20150129,smith dylan c,120919115007543,Chief Financial Officer,male,
-0.0,0.0,1372612,box inc,0,1,0,0,20150129,mcgoff peter m,120919115007548,"SVP, Gen. Counsel & Secretary",male,
-176000.0,0.0,1372612,box inc,0,1,0,0,20150129,younger graham r,120919115007552,EVP Worldwide Field Operations,male,
-0.0,0.0,1372612,box inc,0,1,0,0,20150129,mannie jeff,120919115007556,VP Controller & Chief Acct Ofr,male,
-0.0,0.0,1372612,box inc,1,0,0,0,20150129,evan dana l,120919115007559,,female,
-0.0,0.0,1372612,box inc,0,0,1,0,20150129,hercules technology growth capital inc,120919115007460,,male,
-0.0,0.0,1372612,box inc,1,0,1,0,20150130,krausz steven m,154853815000011,,male,
-28125.0,0.0,1372612,box inc,0,1,0,0,20150324,mcgoff peter m,120919115029045,"SVP, Gen. Counsel & Secretary",male,
-132000.0,0.0,1372612,box inc,0,1,0,0,20150324,younger graham r,120919115029046,EVP Worldwide Field Operations,male,
-22500.0,0.0,1372612,box inc,0,1,0,0,20150324,mannie jeff,120919115029044,VP Controller & Chief Acct Ofr,male,
-0.0,0.0,1372612,box inc,0,1,0,0,20150619,mcgoff peter m,120919115055185,"SVP, Gen. Counsel & Secretary",male,
-0.0,0.0,1372612,box inc,1,1,1,0,20150619,levin daniel j,120919115055184,President & COO,male,
-0.0,0.0,1372612,box inc,1,1,1,0,20150619,smith dylan c,120919115055186,Chief Financial Officer,male,
-21250.0,0.0,1372612,box inc,0,1,0,0,20150623,mannie jeff,120919115055781,VP Controller & Chief Acct Ofr,male,
-27344.0,0.0,1372612,box inc,0,1,0,0,20150623,mcgoff peter m,120919115055782,"SVP, Gen. Counsel & Secretary",male,
-121000.0,0.0,1372612,box inc,0,1,0,0,20150623,younger graham r,120919115055783,EVP Worldwide Field Operations,male,
-5767.0,0.0,1372612,box inc,1,0,0,0,20150625,evan dana l,120919115056579,,female,
-5767.0,0.0,1372612,box inc,1,0,0,0,20150625,stein josh,120919115056581,,male,
-5767.0,0.0,1372612,box inc,1,0,1,0,20150625,o'driscoll rory,120919115056582,,male,
-5767.0,0.0,1372612,box inc,1,0,1,0,20150625,krausz steven m,120919115056587,,male,
-13642.0,0.0,1372612,box inc,1,0,0,0,20150625,warrior padmasree,120919115056580,,male,
-20000.0,0.0,1372612,box inc,1,0,0,0,20150922,stein josh,120919115071933,,male,
-21785.0,0.0,1372612,box inc,0,1,0,0,20150922,mannie jeff,120919115071930,VP Controller & Chief Acct Ofr,male,
-28348.0,0.0,1372612,box inc,0,1,0,0,20150922,mcgoff peter m,120919115071931,"SVP, Gen. Counsel & Secretary",male,
-111785.0,0.0,1372612,box inc,0,1,0,0,20150922,younger graham r,120919115071932,EVP Worldwide Field Operations,male,
-25000.0,0.0,1372612,box inc,1,0,0,0,20150929,stein josh,120919115072500,,male,
+,,1372612,box inc,0,0,1,0,20150129,hercules technology growth capital inc,120919115007460,,male,
+,,1372612,box inc,1,0,0,0,20150129,warrior padmasree,120919115007562,,male,
+,,1372612,box inc,1,0,0,0,20150129,evan dana l,120919115007559,,female,
+,,1372612,box inc,0,1,0,0,20150129,mannie jeff,120919115007556,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20150129,younger graham r,120919115007552,EVP Worldwide Field Operations,male,
+,,1372612,box inc,0,1,0,0,20150129,mcgoff peter m,120919115007548,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,1,1,0,20150129,smith dylan c,120919115007543,Chief Financial Officer,male,
+,,1372612,box inc,1,1,1,0,20150129,levin daniel j,120919115007540,President & COO,male,
+,,1372612,box inc,1,1,1,0,20150129,levie aaron,120919115007538,Chief Executive Officer,male,
+,,1372612,box inc,1,0,1,0,20150129,o'driscoll rory,120919115007526,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,weller harry r,118143115001640,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,viswanathan ravi,118143115001649,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,barrett m james,118143115001648,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,barris peter j,118143115001647,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,baskett forest,118143115001646,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,drant ryan d,118143115001645,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,kerins patrick j,118143115001644,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,kolluri krishna kittu,118143115001643,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,mott david m,118143115001642,,male,
+,,1372612,box inc,0,0,1,0.0,20150129,sandell scott d,118143115001641,,male,
+,,1372612,box inc,1,0,1,0,20150130,krausz steven m,154853815000011,,male,
+,,1372612,box inc,0,1,0,0,20150324,mannie jeff,120919115029044,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20150324,mcgoff peter m,120919115029045,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20150324,younger graham r,120919115029046,EVP Worldwide Field Operations,male,
+,,1372612,box inc,1,1,1,0,20150619,levin daniel j,120919115055184,President & COO,male,
+,,1372612,box inc,0,1,0,0,20150619,mcgoff peter m,120919115055185,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,1,1,0,20150619,smith dylan c,120919115055186,Chief Financial Officer,male,
+,,1372612,box inc,0,1,0,0,20150623,mannie jeff,120919115055781,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20150623,mcgoff peter m,120919115055782,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20150623,younger graham r,120919115055783,EVP Worldwide Field Operations,male,
+,,1372612,box inc,1,0,0,0,20150625,evan dana l,120919115056579,,female,
+,,1372612,box inc,1,0,0,0,20150625,warrior padmasree,120919115056580,,male,
+,,1372612,box inc,1,0,0,0,20150625,stein josh,120919115056581,,male,
+,,1372612,box inc,1,0,1,0,20150625,o'driscoll rory,120919115056582,,male,
+,,1372612,box inc,1,0,1,0,20150625,krausz steven m,120919115056587,,male,
+,,1372612,box inc,1,0,0,0,20150922,stein josh,120919115071933,,male,
+,,1372612,box inc,0,1,0,0,20150922,younger graham r,120919115071932,EVP Worldwide Field Operations,male,
+,,1372612,box inc,0,1,0,0,20150922,mcgoff peter m,120919115071931,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20150922,mannie jeff,120919115071930,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20150922,mannie jeff,120919115071930,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20150922,younger graham r,120919115071932,EVP Worldwide Field Operations,male,
+,,1372612,box inc,1,0,0,0,20150922,stein josh,120919115071933,,male,
+,,1372612,box inc,0,1,0,0,20150922,mcgoff peter m,120919115071931,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,0,0,0,20150929,stein josh,120919115072500,,male,
+,,1372612,box inc,1,0,0,0,20150929,stein josh,120919115072500,,male,
+,,1372612,box inc,1,0,0,0,20151001,stein josh,120919115072882,,male,
+,,1372612,box inc,1,0,0,0,20151006,stein josh,120919115074441,,male,
+,,1372612,box inc,1,1,1,0,20151007,levie aaron,120919115074784,Chief Executive Officer,male,
+,,1372612,box inc,1,1,1,0,20151008,levie aaron,120919115074826,Chief Executive Officer,male,
+,,1372612,box inc,1,1,1,0,20151009,levie aaron,120919115074977,Chief Executive Officer,male,
+,,1372612,box inc,1,0,0,0,20151009,stein josh,120919115074979,,male,
+,,1372612,box inc,1,0,0,0,20151211,evan dana l,120919115084822,,female,
+,,1372612,box inc,0,1,0,0,20151222,mannie jeff,120919115086748,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20151222,mcgoff peter m,120919115086749,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20151222,younger graham r,120919115086750,EVP Worldwide Field Operations,male,
+,,1372612,box inc,0,1,0,0,20160322,younger graham r,120919116110099,EVP Worldwide Field Operations,male,
+,,1372612,box inc,0,1,0,0,20160322,mcgoff peter m,120919116110100,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20160322,mannie jeff,120919116110101,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,0,0,0,20160408,stein josh,120919116113807,,male,
+,,1372612,box inc,0,1,0,0,20160418,mannie jeff,120919116114616,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20160526,mcgoff peter m,120919116123809,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,1,0,0,20160526,levin daniel j,120919116123808,President & COO,male,
+,,1372612,box inc,0,1,0,0,20160526,mannie jeff,120919116123811,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20160526,younger graham r,120919116123810,EVP Worldwide Field Operations,male,
+,,1372612,box inc,1,1,0,0,20160613,levin daniel j,120919116127473,President & COO,male,
+,,1372612,box inc,0,1,0,0,20160622,mcgoff peter m,120919116129297,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20160622,younger graham r,120919116129298,EVP Worldwide Field Operations,male,
+,,1372612,box inc,0,1,0,0,20160622,mannie jeff,120919116129299,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,0,0,0,20160624,evan dana l,120919116129614,,female,
+,,1372612,box inc,1,0,1,0,20160624,krausz steven m,120919116129615,,male,
+,,1372612,box inc,1,0,1,0,20160624,o'driscoll rory,120919116129616,,male,
+,,1372612,box inc,1,0,0,0,20160624,stein josh,120919116129617,,male,
+,,1372612,box inc,1,1,0,0,20160907,levin daniel j,120919116140461,President & COO,male,
+,,1372612,box inc,1,1,0,0,20160915,levin daniel j,120919116141658,President & COO,male,
+,,1372612,box inc,1,1,0,0,20160922,levin daniel j,120919116142557,President & COO,male,
+,,1372612,box inc,0,1,0,0,20160923,mcgoff peter m,120919116142617,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,1,1,0,20160923,smith dylan c,120919116142618,Chief Financial Officer,male,
+,,1372612,box inc,0,1,0,0,20160923,mannie jeff,120919116142616,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20160928,mannie jeff,120919116142997,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,1,0,0,20160928,levin daniel j,120919116143097,President & COO,male,
+,,1372612,box inc,1,1,0,0,20161006,levin daniel j,120919116145312,President & COO,male,
+,,1372612,box inc,1,1,0,0,20161013,levin daniel j,120919116145791,President & COO,male,
+,,1372612,box inc,1,0,0,0,20161206,stein josh,120919116153754,,male,
+,,1372612,box inc,1,0,0,0,20161213,o'driscoll rory,120919116154967,,male,
+,,1372612,box inc,1,0,0,0,20161221,o'driscoll rory,120919116156386,,male,
+,,1372612,box inc,0,1,0,0,20161222,mannie jeff,120919116156596,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20161222,mcgoff peter m,120919116156595,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,0,0,0,20170109,o'driscoll rory,120919117003035,,male,
+,,1372612,box inc,1,1,0,0,20170317,levin daniel j,120919117021411,President & COO,male,
+,,1372612,box inc,1,0,0,0,20170317,stein josh,120919117021380,,male,
+,,1372612,box inc,0,1,0,0,20170322,mannie jeff,120919117022465,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20170322,mcgoff peter m,120919117022464,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,0,0,0,20170329,o'driscoll rory,120919117023615,,male,
+,,1372612,box inc,0,1,0,0,20170330,mannie jeff,120919117023675,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,1,0,0,20170406,levin daniel j,120919117026068,President & COO,male,
+,,1372612,box inc,1,0,0,0,20170407,stein josh,120919117026250,,male,
+,,1372612,box inc,1,1,0,0,20170411,levin daniel j,120919117026620,President & COO,male,
+,,1372612,box inc,1,1,1,0,20170411,smith dylan c,120919117026621,Chief Financial Officer,male,
+,,1372612,box inc,0,1,0,0,20170411,mcgoff peter m,120919117026622,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,1,0,0,20170419,levin daniel j,120919117027460,President & COO,male,
+,,1372612,box inc,1,0,0,0,20170509,stein josh,120919117031116,,male,
+,,1372612,box inc,1,1,0,0,20170516,levin daniel j,120919117032608,President & COO,male,
+,,1372612,box inc,1,0,1,0,20170605,krausz steven m,154853817000013,,male,
+,,1372612,box inc,1,1,0,0,20170605,smith dylan c,120919117037918,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20170615,o'driscoll rory,120919117040263,,male,
+,,1372612,box inc,1,1,0,0,20170616,levin daniel j,120919117040429,President & COO,male,
+,,1372612,box inc,0,1,0,0,20170622,mannie jeff,120919117041502,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,0,0,0,20170622,o'driscoll rory,120919117041460,,male,
+,,1372612,box inc,0,1,0,0,20170622,mcgoff peter m,120919117041501,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,0,0,0,20170623,stein josh,120919117041784,,male,
+,,1372612,box inc,1,0,0,0,20170623,o'driscoll rory,120919117041783,,male,
+,,1372612,box inc,1,0,1,0,20170623,krausz steven m,120919117041782,,male,
+,,1372612,box inc,1,0,0,0,20170623,evan dana l,120919117041781,,female,
+,,1372612,box inc,1,0,0,0,20170627,o'driscoll rory,120919117042045,,male,
+,,1372612,box inc,1,0,0,0,20170628,krausz steven m,154853817000017,,male,
+,,1372612,box inc,1,1,0,0,20170719,levin daniel j,120919117045687,President & COO,male,
+,,1372612,box inc,1,1,0,0,20170728,levin daniel j,120919117046532,President and COO,male,
+,,1372612,box inc,0,1,0,0,20170801,carullo stephanie,120919117046935,Chief Operating Officer,female,
+,,1372612,box inc,1,1,0,0,20170816,levin daniel j,120919117049164,President,male,
+,,1372612,box inc,1,1,0,0,20170906,levin daniel j,120919117051605,President,male,
+,,1372612,box inc,1,0,0,0,20170906,stein josh,120919117051600,,male,
+,,1372612,box inc,0,1,0,0,20170914,mcgoff peter m,120919117052886,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,0,0,0,20170919,o'driscoll rory,120919117053362,,male,
+,,1372612,box inc,1,0,0,0,20170919,levin daniel j,120919117053325,,male,
+,,1372612,box inc,1,0,0,0,20170922,o'driscoll rory,120919117053773,,male,
+,,1372612,box inc,0,1,0,0,20170922,mcgoff peter m,120919117053769,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,0,1,0,0,20170922,mannie jeff,120919117053770,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,0,0,0,20170927,o'driscoll rory,120919117054175,,male,
+,,1372612,box inc,1,0,0,0,20171002,o'driscoll rory,120919117054704,,male,
+,,1372612,box inc,0,1,0,0,20171002,mannie jeff,120919117054785,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20171006,mcgoff peter m,120919117056353,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,1,0,0,20171010,smith dylan c,120919117056546,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20171017,stein josh,120919117057203,,male,
+,,1372612,box inc,1,0,0,0,20171017,levin daniel j,120919117057204,,male,
+,,1372612,box inc,1,0,0,0,20171024,stein josh,120919117057906,,male,
+,,1372612,box inc,1,0,0,0,20171103,stein josh,120919117059340,,male,
+,,1372612,box inc,1,0,0,0,20171116,levin daniel j,120919117061350,,male,
+,,1372612,box inc,1,0,0,0,20171205,o'driscoll rory,120919117064067,,male,
+,,1372612,box inc,0,1,0,0,20171207,mcgoff peter m,120919117064570,"SVP, Gen. Counsel & Secretary",male,
+,,1372612,box inc,1,0,0,0,20171213,stein josh,120919117065519,,male,
+,,1372612,box inc,1,1,0,0,20171213,smith dylan c,120919117065520,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20171219,levin daniel j,120919117066544,,male,
+,,1372612,box inc,1,0,0,0,20171221,o'driscoll rory,120919117066853,,male,
+,,1372612,box inc,0,1,0,0,20171222,mannie jeff,120919117067049,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20171222,mcgoff peter m,120919117067047,Chief Legal Officer,male,
+,,1372612,box inc,1,0,0,0,20180105,evan dana l,120919118002467,,female,
+,,1372612,box inc,1,0,0,0,20180110,stein josh,120919118003204,,male,
+,,1372612,box inc,1,0,0,0,20180110,o'driscoll rory,120919118003138,,male,
+,,1372612,box inc,1,1,0,0,20180112,smith dylan c,120919118003481,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20180112,evan dana l,120919118003480,,female,
+,,1372612,box inc,1,0,0,0,20180118,levin daniel j,120919118004410,,male,
+,,1372612,box inc,1,1,1,0,20180213,smith dylan c,120919118009815,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20180309,levin daniel j,120919118018654,,male,
+,,1372612,box inc,0,1,0,0,20180315,mcgoff peter m,120919118020022,Chief Legal Officer,male,
+,,1372612,box inc,1,0,0,0,20180316,levin daniel j,120919118020432,,male,
+,,1372612,box inc,0,1,0,0,20180322,mcgoff peter m,120919118021342,Chief Legal Officer,male,
+,,1372612,box inc,0,1,0,0,20180322,mannie jeff,120919118021346,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,0,1,0,0,20180412,mcgoff peter m,120919118024788,Chief Legal Officer,male,
+,,1372612,box inc,0,1,0,0,20180412,mannie jeff,120919118024785,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,1,1,0,20180412,smith dylan c,120919118024783,Chief Financial Officer,male,
+,,1372612,box inc,1,1,1,0,20180412,levie aaron,120919118024781,Chief Executive Officer,male,
+,,1372612,box inc,1,0,0,0,20180418,levin daniel j,120919118025483,,male,
+,,1372612,box inc,1,0,0,0,20180507,stein josh,120919118028336,,male,
+,,1372612,box inc,1,0,0,0,20180514,stein josh,120919118029843,,male,
+,,1372612,box inc,1,0,0,0,20180517,levin daniel j,120919118031235,,male,
+,,1372612,box inc,1,0,0,0,20180530,barsamian sue,120919118034285,,female,
+,,1372612,box inc,0,1,0,0,20180605,mcgoff peter m,120919118035948,Chief Legal Officer,male,
+,,1372612,box inc,1,0,0,0,20180612,o'driscoll rory,120919118037337,,male,
+,,1372612,box inc,1,1,1,0,20180613,smith dylan c,120919118037617,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20180615,o'driscoll rory,120919118038149,,male,
+,,1372612,box inc,1,0,0,0,20180618,evan dana l,120919118038433,,female,
+,,1372612,box inc,1,1,1,0,20180618,smith dylan c,120919118038437,Chief Financial Officer,male,
+,,1372612,box inc,0,1,0,0,20180618,mannie jeff,120919118038435,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,0,0,0,20180618,levin daniel j,120919118038434,,male,
+,,1372612,box inc,1,1,1,0,20180618,levie aaron,120919118038432,Chief Executive Officer,male,
+,,1372612,box inc,1,0,0,0,20180618,o'driscoll rory,120919118038369,,male,
+,,1372612,box inc,1,0,0,0,20180622,o'driscoll rory,120919118039262,,male,
+,,1372612,box inc,0,1,0,0,20180622,mannie jeff,120919118039327,VP Controller & Chief Acct Ofr,male,
+,,1372612,box inc,1,0,0,0,20180622,evan dana l,120919118039328,,female,
+,,1372612,box inc,1,0,0,0,20180622,stein josh,120919118039329,,male,
+,,1372612,box inc,1,0,0,0,20180622,krausz steven m,120919118039330,,male,
+,,1372612,box inc,1,0,0,0,20180627,krausz steven m,120919118039723,,male,
+,,1372612,box inc,1,0,0,0,20180710,evan dana l,120919118042248,,female,
+,,1372612,box inc,1,0,0,0,20180711,o'driscoll rory,120919118042397,,male,
+,,1372612,box inc,1,1,0,0,20180712,smith dylan c,120919118042494,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20180718,levin daniel j,120919118043170,,male,
+,,1372612,box inc,1,1,0,0,20180814,smith dylan c,120919118046698,Chief Financial Officer,male,
+,,1372612,box inc,1,0,0,0,20180905,levin daniel j,120919118049681,,male,141610389.0
+,,1372612,box inc,1,1,0,0,20180912,smith dylan c,120919118050733,Chief Financial Officer,male,141610389.0
+,,1372612,box inc,1,0,0,0,20180919,levin daniel j,120919118051714,,male,141610389.0
+,,1372612,box inc,0,1,0,0,20180924,carullo stephanie,120919118052089,Chief Operating Officer,female,141610389.0
+,,1372612,box inc,0,1,0,0,20180924,mannie jeff,120919118052091,VP Controller & Chief Acct Ofr,male,141610389.0
+,,1372612,box inc,1,0,0,0,20180926,evan dana l,120919118052373,,female,141610389.0
+,,1372612,box inc,1,0,0,0,20180927,o'driscoll rory,120919118052473,,male,141610389.0
+,,1372612,box inc,1,0,0,0,20181018,levin daniel j,120919118055487,,male,141610389.0
+,,1372612,box inc,1,0,0,0,20181022,hammonds kimberly,120919118055864,,female,141610389.0
+,,1372612,box inc,1,0,0,0,20181204,levin daniel j,120919118061088,,male,143405095.0
+,,1372612,box inc,1,0,0,0,20181206,o'driscoll rory,120919118061279,,male,143405095.0
+,,1372612,box inc,1,0,0,0,20181211,stein josh,120919118062128,,male,143405095.0
+,,1372612,box inc,0,1,0,0,20181221,carullo stephanie,120919118064017,Chief Operating Officer,female,143405095.0
+,,1372612,box inc,0,1,0,0,20181221,mannie jeff,120919118064019,VP Controller & Chief Acct Ofr,male,143405095.0
+,,1372612,box inc,1,0,0,0,20190109,levin daniel j,120919119003167,,male,143405095.0
+,,1372612,box inc,1,0,0,0,20190117,levin daniel j,120919119004416,,male,143405095.0
+,,1372612,box inc,1,0,0,0,20190206,levin daniel j,120919119007928,,male,144311000.0
+,,1372612,box inc,1,1,0,0,20190213,smith dylan c,120919119009899,Chief Financial Officer,male,144311000.0
+,,1372612,box inc,1,0,0,0,20190305,levin daniel j,120919119017119,,male,144332246.0
+,,1372612,box inc,1,0,0,0,20190319,levin daniel j,120919119020505,,male,144332246.0
+,,1372612,box inc,0,1,0,0,20190322,carullo stephanie,120919119021058,Chief Operating Officer,female,144332246.0
+,,1372612,box inc,0,1,0,0,20190322,mannie jeff,120919119021060,VP Controller & Chief Acct Ofr,male,144332246.0
+,,1372612,box inc,1,1,0,0,20190405,smith dylan c,120919119023874,Chief Financial Officer,male,144332246.0
+,,1372612,box inc,0,1,0,0,20190405,carullo stephanie,120919119023877,Chief Operating Officer,female,144332246.0
+,,1372612,box inc,0,1,0,0,20190405,mannie jeff,120919119023878,VP Controller & Chief Acct Ofr,male,144332246.0
+,,1372612,box inc,1,1,0,0,20190412,smith dylan c,120919119024524,Chief Financial Officer,male,144332246.0
+,,1372612,box inc,1,1,0,0,20190514,smith dylan c,120919119029807,Chief Financial Officer,male,146497000.0
+,,1372612,box inc,1,1,0,0,20190612,smith dylan c,120919119036555,Chief Financial Officer,male,146500516.0
+,,1372612,box inc,1,0,0,0,20190619,stein josh,120919119038156,,male,146500516.0
+,,1372612,box inc,1,0,0,0,20190621,o'driscoll rory,120919119038640,,male,146500516.0
+,,1372612,box inc,1,0,0,0,20190621,stein josh,120919119038641,,male,146500516.0
+,,1372612,box inc,1,0,0,0,20190621,levin daniel j,120919119038639,,male,146500516.0
+,,1372612,box inc,0,1,0,0,20190621,carullo stephanie,120919119038643,Chief Operating Officer,female,146500516.0
+,,1372612,box inc,0,1,0,0,20190621,mannie jeff,120919119038644,VP Controller & Chief Acct Ofr,male,146500516.0
+,,1372612,box inc,1,0,0,0,20190621,barsamian sue,120919119038637,,female,146500516.0
+,,1372612,box inc,1,0,0,0,20190621,leav peter,120919119038635,,male,146500516.0
+,,1372612,box inc,1,0,0,0,20190621,evan dana l,120919119038638,,female,146500516.0
+,,1372612,box inc,0,1,0,0,20190703,mannie jeff,120919119041052,VP Controller & Chief Acct Ofr,male,146500516.0
+,,1372612,box inc,0,1,0,0,20190924,carullo stephanie,120919119050597,Chief Operating Officer,female,147780283.0
+,,1372612,box inc,0,1,0,0,20190924,mannie jeff,120919119050598,VP Controller & Chief Acct Ofr,male,147780283.0
+,,1372612,box inc,1,0,0,0,20191022,hammonds kimberly,120919119053814,,female,147780283.0
+,,1372612,box inc,0,1,0,0,20191223,carullo stephanie,120919119061780,Chief Operating Officer,female,149626825.0
+,,1372612,box inc,0,1,0,0,20191223,mannie jeff,120919119061779,VP Controller & Chief Acct Ofr,male,149626825.0
+,,1372612,box inc,0,1,0,0,20200323,mannie jeff,120919120020748,VP Controller & Chief Acct Ofr,male,150703700.0
+,,1372612,box inc,0,1,0,0,20200323,carullo stephanie,120919120020750,Chief Operating Officer,female,150703700.0
+,,1372612,box inc,1,0,0,0,20200324,lazar jack r,120919120021004,,male,150703700.0
+,,1372612,box inc,0,1,0,0,20200406,mannie jeff,120919120023608,VP Controller & Chief Acct Ofr,male,150703700.0
+,,1372612,box inc,1,1,0,0,20200406,levie aaron,120919120023602,Chief Executive Officer,male,150703700.0
+,,1372612,box inc,1,1,0,0,20200406,smith dylan c,120919120023605,Chief Financial Officer,male,150703700.0
+,,1372612,box inc,0,1,0,0,20200406,carullo stephanie,120919120023610,Chief Operating Officer,female,150703700.0
+,,1372612,box inc,0,1,0,0,20200409,mannie jeff,120919120024089,VP Controller & Chief Acct Ofr,male,150703700.0
+,,1372612,box inc,1,0,0,0,20200428,mayer bethany,120919120025942,,female,150703700.0
+,,1372612,box inc,1,0,0,0,20200528,bass carl,120919120032609,,male,153446000.0
+,,1372612,box inc,1,0,0,0,20200604,levin daniel j,120919120034449,,male,153452800.0
+,,1372612,box inc,1,1,0,0,20200612,smith dylan c,120919120036351,Chief Financial Officer,male,153452800.0
+,,1372612,box inc,1,0,0,0,20200623,levin daniel j,120919120038656,,male,153452800.0
+,,1372612,box inc,0,1,0,0,20200623,carullo stephanie,120919120038669,Chief Operating Officer,female,153452800.0
+,,1372612,box inc,1,1,0,0,20200623,smith dylan c,120919120038666,Chief Financial Officer,male,153452800.0
+,,1372612,box inc,0,1,0,0,20200623,mannie jeff,120919120038657,VP Controller & Chief Acct Ofr,male,153452800.0
+,,1372612,box inc,1,1,1,0,20200710,smith dylan c,120919120042225,Chief Financial Officer,male,153452800.0
+,,1372612,box inc,1,1,1,0,20200710,levie aaron,120919120042233,Chief Executive Officer,male,153452800.0
+,,1372612,box inc,1,0,0,0,20200710,evan dana l,120919120042217,,female,153452800.0
+,,1372612,box inc,1,0,0,0,20200716,levin daniel j,120919120042630,,male,153452800.0
+,,1372612,box inc,1,0,0,0,20200716,evan dana l,120919120042625,,female,153452800.0
+,,1372612,box inc,1,0,0,0,20200716,barsamian sue,120919120042626,,female,153452800.0
+,,1372612,box inc,1,0,0,0,20200716,hammonds kimberly,120919120042628,,female,153452800.0
+,,1372612,box inc,1,0,0,0,20200716,leav peter,120919120042629,,male,153452800.0
+,,1372612,box inc,1,0,0,0,20200831,levin daniel j,120919120048805,,male,156544786.0
+,,1372612,box inc,0,1,0,0,20200911,smith dylan c,120919120050182,Chief Financial Officer,male,156544786.0
+,,1372612,box inc,0,1,0,0,20200922,smith dylan c,120919120051484,Chief Financial Officer,male,156544786.0
+,,1372612,box inc,0,1,0,0,20200922,carullo stephanie,120919120051477,Chief Operating Officer,female,156544786.0
+,,1372612,box inc,0,1,0,0,20200922,mannie jeff,120919120051478,VP Controller & Chief Acct Ofr,male,156544786.0
+,,1372612,box inc,1,1,0,0,20200922,levie aaron,120919120051482,Chief Executive Officer,male,156544786.0
+,,1372612,box inc,0,1,0,0,20201013,smith dylan c,120919120054704,Chief Financial Officer,male,156544786.0
+,,1372612,box inc,0,1,0,0,20201222,smith dylan c,120919120064928,Chief Financial Officer,male,158643287.0
+,,1372612,box inc,0,1,0,0,20201222,carullo stephanie,120919120064931,Chief Operating Officer,female,158643287.0
+,,1372612,box inc,0,1,0,0,20201222,mannie jeff,120919120064933,VP Controller & Chief Acct Ofr,male,158643287.0
+,,1372612,box inc,1,1,0,0,20201222,levie aaron,120919120064934,Chief Executive Officer,male,158643287.0
+,,1372612,box inc,0,1,0,0,20210211,smith dylan c,120919121009711,Chief Financial Officer,male,159851000.0
+,,1372612,box inc,0,1,0,0,20210311,smith dylan c,120919121019830,Chief Financial Officer,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210323,carullo stephanie,120919121022570,Chief Operating Officer,female,159859955.0
+,,1372612,box inc,0,1,0,0,20210323,mannie jeff,120919121022571,VP Controller & Chief Acct Ofr,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210323,smith dylan c,120919121022572,Chief Financial Officer,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210402,mannie jeff,120919121024525,VP Controller & Chief Acct Ofr,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210402,smith dylan c,120919121024524,Chief Financial Officer,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210402,carullo stephanie,120919121024522,Chief Operating Officer,female,159859955.0
+,,1372612,box inc,1,1,0,0,20210402,levie aaron,120919121024523,Chief Executive Officer,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210406,smith dylan c,120919121025675,Chief Financial Officer,male,159859955.0
+,,1372612,box inc,1,1,0,0,20210408,levie aaron,120919121026073,Chief Executive Officer,male,159859955.0
+,,1372612,box inc,0,1,0,0,20210622,smith dylan c,120919121042401,Chief Financial Officer,male,162789262.0
+,,1372612,box inc,0,1,0,0,20210622,berkovitch eli,120919121042400,VP Chief Acct Ofr & Controller,female,162789262.0
+,,1372612,box inc,0,1,0,0,20210622,carullo stephanie,120919121042399,Chief Operating Officer,female,162789262.0
+,,1372612,box inc,0,1,0,0,20210714,smith dylan c,120919121046697,Chief Financial Officer,male,162789262.0
+,,1372612,box inc,0,1,0,0,20210812,smith dylan c,120919121051279,Chief Financial Officer,male,152660000.0
+,,1372612,box inc,1,0,0,0,20210902,hammonds kimberly,120919121054573,,female,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,leav peter,120919121055538,,male,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,evan dana l,120919121055533,,female,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,barsamian sue,120919121055535,,female,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,hammonds kimberly,120919121055536,,female,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,levin daniel j,120919121055539,,male,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,bass carl,120919121055540,,male,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,lazar jack r,120919121055541,,male,151546672.0
+,,1372612,box inc,1,0,0,0,20210910,mayer bethany,120919121055542,,female,151546672.0
+,,1372612,box inc,0,1,0,0,20210910,smith dylan c,120919121055549,Chief Financial Officer,male,151546672.0
+,,1372612,box inc,0,1,0,0,20210920,smith dylan c,120919121056935,Chief Financial Officer,male,151546672.0
+,,1372612,box inc,0,1,0,0,20210920,berkovitch eli,120919121056937,VP Chief Acct Ofr & Controller,female,151546672.0
+,,1372612,box inc,0,1,0,0,20210920,carullo stephanie,120919121056940,Chief Operating Officer,female,151546672.0
+,,1372612,box inc,1,0,0,0,20211001,mayer bethany,120919121058492,,female,151546672.0
+,,1372612,box inc,0,1,0,0,20211012,smith dylan c,120919121060255,Chief Financial Officer,male,151546672.0
+,,1372612,box inc,1,0,0,0,20211020,hammonds kimberly,120919121061193,,female,151546672.0
+,,1372612,box inc,0,1,0,0,20211112,smith dylan c,120919121064255,Chief Financial Officer,male,149010000.0
+,,1372612,box inc,1,0,0,0,20211213,levin daniel j,120919121069343,,male,148299517.0
+,,1372612,box inc,0,1,0,0,20211213,smith dylan c,120919121069342,Chief Financial Officer,male,148299517.0
+,,1372612,box inc,0,1,0,0,20211222,carullo stephanie,120919121070932,Chief Operating Officer,female,148299517.0
+,,1372612,box inc,0,1,0,0,20211222,berkovitch eli,120919121070931,VP Chief Acct Ofr & Controller,female,148299517.0
+,,1372612,box inc,0,1,0,0,20211222,smith dylan c,120919121070930,Chief Financial Officer,male,148299517.0
+,,1372612,box inc,1,0,0,0,20211229,levin daniel j,120919121071504,,male,148299517.0
+,,1372612,box inc,0,1,0,0,20220112,smith dylan c,120919122003060,Chief Financial Officer,male,148299517.0
+,,1372612,box inc,0,1,0,0,20220127,smith dylan c,120919122005208,Chief Financial Officer,male,148299517.0
+,,1372612,box inc,0,1,0,0,20220214,smith dylan c,120919122009277,Chief Financial Officer,male,145081000.0
+,,1372612,box inc,1,1,0,0,20220311,levie aaron,120919122018337,Chief Executive Officer,male,143423689.0
+,,1372612,box inc,0,1,0,0,20220311,smith dylan c,120919122018160,Chief Financial Officer,male,143423689.0
+,,1372612,box inc,0,1,0,0,20220322,smith dylan c,120919122020509,Chief Financial Officer,male,143423689.0
+,,1372612,box inc,0,1,0,0,20220322,carullo stephanie,120919122020510,Chief Operating Officer,female,143423689.0
+,,1372612,box inc,0,1,0,0,20220322,berkovitch eli,120919122020512,VP Chief Acct Ofr & Controller,female,143423689.0
+,,1372612,box inc,0,1,0,0,20220330,berkovitch eli,120919122021667,VP Chief Acct Ofr & Controller,female,143423689.0
+,,1372612,box inc,0,1,0,0,20220405,carullo stephanie,120919122022997,Chief Operating Officer,female,143423689.0
+,,1372612,box inc,0,1,0,0,20220405,smith dylan c,120919122022996,Chief Financial Officer,male,143423689.0
+,,1372612,box inc,0,1,0,0,20220405,berkovitch eli,120919122022999,VP Chief Acct Ofr & Controller,female,143423689.0
+,,1372612,box inc,1,1,0,0,20220405,levie aaron,120919122022994,Chief Executive Officer,male,143423689.0
+,,1372612,box inc,0,1,0,0,20220413,smith dylan c,120919122024313,Chief Financial Officer,male,143423689.0
+,,1372612,box inc,0,1,0,0,20220512,smith dylan c,120919122028629,Chief Financial Officer,male,145081000.0
+,,1372612,box inc,0,1,0,0,20220614,smith dylan c,120919122036750,Chief Financial Officer,male,144057397.0
+,,1372612,box inc,0,1,0,0,20220708,berkovitch eli,120919122041720,VP Chief Acct Ofr & Controller,female,144057397.0
+,,1372612,box inc,0,1,0,0,20220708,smith dylan c,120919122041714,Chief Financial Officer,male,144057397.0
+,,1372612,box inc,0,1,0,0,20220708,carullo stephanie,120919122041721,Chief Operating Officer,female,144057397.0
+,,1372612,box inc,0,1,0,0,20220713,smith dylan c,120919122042067,Chief Financial Officer,male,144057397.0
+,,1372612,box inc,1,0,0,0,20220715,lazar jack r,120919122042294,,male,144057397.0
+,,1372612,box inc,1,0,0,0,20220715,evan dana l,120919122042292,,female,144057397.0
+,,1372612,box inc,1,0,0,0,20220715,barsamian sue,120919122042289,,female,144057397.0
+,,1372612,box inc,1,0,0,0,20220715,mayer bethany,120919122042298,,female,144057397.0
+,,1372612,box inc,1,0,0,0,20220715,levin daniel j,120919122042296,,male,144057397.0
+,,1372612,box inc,0,1,0,0,20220811,smith dylan c,120919122045460,Chief Financial Officer,male,142320000.0
+,,1372612,box inc,1,0,0,0,20220818,walia amit,120919122046743,,male,142320000.0
+,,1372612,box inc,0,1,0,0,20220912,smith dylan c,120919122049584,Chief Financial Officer,male,142320000.0
+,,1372612,box inc,0,1,0,0,20220922,carullo stephanie,120919122051049,Chief Operating Officer,female,142320000.0
+,,1372612,box inc,0,1,0,0,20220922,berkovitch eli,120919122051051,VP Chief Acct Ofr & Controller,female,142320000.0
+,,1372612,box inc,0,1,0,0,20220922,smith dylan c,120919122051054,Chief Financial Officer,male,142320000.0
+,,1372612,box inc,0,1,0,0,20221011,smith dylan c,120919122053398,Chief Financial Officer,male,142320000.0
+,,1372612,box inc,0,1,0,0,20221114,smith dylan c,120919122056753,Chief Financial Officer,male,142915000.0
+,,1372612,box inc,1,0,0,0,20221206,levin daniel j,120919122060122,,male,142914809.0
+,,1372612,box inc,1,0,0,0,20221209,levin daniel j,120919122060571,,male,142914809.0
+,,1372612,box inc,0,1,0,0,20221213,berkovitch eli,120919122061066,VP Chief Acct Ofr & Controller,female,142914809.0
+,,1372612,box inc,0,1,0,0,20221213,smith dylan c,120919122061070,Chief Financial Officer,male,142914809.0
+,,1372612,box inc,1,0,0,0,20221215,levin daniel j,120919122061541,,male,142914809.0
+,,1372612,box inc,0,1,0,0,20221222,berkovitch eli,120919122062435,VP Chief Acct Ofr & Controller,female,142914809.0
+,,1372612,box inc,0,1,0,0,20221222,carullo stephanie,120919122062439,Chief Operating Officer,female,142914809.0
+,,1372612,box inc,0,1,0,0,20221222,smith dylan c,120919122062442,Chief Financial Officer,male,142914809.0
+,,1372612,box inc,1,0,0,0,20221222,evan dana l,120919122062446,,female,142914809.0
+,,1372612,box inc,1,0,0,0,20221227,levin daniel j,120919122062712,,male,142914809.0
+,,1372612,box inc,1,0,0,0,20230104,evan dana l,120919123001500,,female,142914809.0
+,,1372612,box inc,0,1,0,0,20230110,berkovitch eli,120919123002843,VP Chief Acct Ofr & Controller,female,142914809.0
+,,1372612,box inc,1,0,0,0,20230110,evan dana l,120919123002847,,female,142914809.0
+,,1372612,box inc,0,1,0,0,20230112,smith dylan c,120919123003172,Chief Financial Officer,male,142914809.0
+,,1372612,box inc,0,1,0,0,20230201,smith dylan c,120919123005968,Chief Financial Officer,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230214,smith dylan c,120919123009252,Chief Financial Officer,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230314,smith dylan c,120919123018618,Chief Financial Officer,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230322,smith dylan c,120919123020638,Chief Financial Officer,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230322,berkovitch eli,120919123020651,VP Chief Acct Ofr & Controller,female,144301000.0
+,,1372612,box inc,0,1,0,0,20230322,carullo stephanie,120919123020648,Chief Operating Officer,female,144301000.0
+,,1372612,box inc,0,1,0,0,20230404,smith dylan c,120919123022986,Chief Financial Officer,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230404,carullo stephanie,120919123022981,Chief Operating Officer,female,144301000.0
+,,1372612,box inc,0,1,0,0,20230404,berkovitch eli,120919123022994,VP Chief Acct Ofr & Controller,female,144301000.0
+,,1372612,box inc,1,1,0,0,20230404,levie aaron,120919123022990,Chief Executive Officer,male,144301000.0
+,,1372612,box inc,1,0,0,0,20230407,lazar jack r,120919123023840,,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230412,smith dylan c,120919123024128,Chief Financial Officer,male,144301000.0
+,,1372612,box inc,0,1,0,0,20230512,smith dylan c,120919123029121,Chief Financial Officer,male,144828000.0
+,,1372612,box inc,0,1,0,0,20230612,smith dylan c,120919123036460,Chief Financial Officer,male,144828000.0
+21555.0,,1372612,box inc,1,0,0,0,20230620,lazar jack r,120919123038487,,male,144828000.0
+,,1372612,box inc,0,1,0,0,20230622,smith dylan c,120919123039034,Chief Financial Officer,male,144828000.0
+,,1372612,box inc,0,1,0,0,20230622,carullo stephanie,120919123039033,Chief Operating Officer,female,144828000.0
+,,1372612,box inc,0,1,0,0,20230622,berkovitch eli,120919123039032,VP Chief Acct Ofr & Controller,female,144828000.0
+,,1372612,box inc,1,0,0,0,20230629,levin daniel j,120919123040192,,male,144828000.0
+,,1372612,box inc,1,0,0,0,20230629,mayer bethany,120919123040189,,female,144828000.0
+,,1372612,box inc,1,0,0,0,20230629,lazar jack r,120919123040190,,male,144828000.0
+,,1372612,box inc,1,0,0,0,20230629,evan dana l,120919123040191,,female,144828000.0
+,,1372612,box inc,1,0,0,0,20230629,barsamian sue,120919123040196,,female,144828000.0
+,,1372612,box inc,1,0,0,0,20230629,walia amit,120919123040194,,male,144828000.0
+,,1372612,box inc,1,1,0,0,20230630,levie aaron,120919123040379,Chief Executive Officer,male,144828000.0
+,,1372612,box inc,0,1,0,0,20230707,smith dylan c,120919123041818,Chief Financial Officer,male,144828000.0
+,,1372612,box inc,0,1,0,0,20230712,berkovitch eli,120919123042108,VP Chief Acct Ofr & Controller,female,144828000.0
+,,1372612,box inc,0,1,0,0,20230712,smith dylan c,120919123042106,Chief Financial Officer,male,144828000.0
+,,1372612,box inc,0,1,0,0,20230814,smith dylan c,120919123045686,Chief Financial Officer,male,144045000.0
+,,1372612,box inc,0,1,0,0,20230913,smith dylan c,120919123049343,Chief Financial Officer,male,144045000.0
+,,1372612,box inc,1,1,0,0,20230913,levie aaron,120919123049341,Chief Executive Officer,male,144045000.0
+,,1372612,box inc,0,1,0,0,20230921,smith dylan c,120919123050338,Chief Financial Officer,male,144045000.0
+,,1372612,box inc,0,1,0,0,20230921,carullo stephanie,120919123050336,Chief Operating Officer,female,144045000.0
+,,1372612,box inc,0,1,0,0,20230921,berkovitch eli,120919123050340,VP Chief Acct Ofr & Controller,female,144045000.0
+,,1372612,box inc,0,1,0,0,20231010,berkovitch eli,120919123052558,VP Chief Acct Ofr & Controller,female,144045000.0
+,,1372612,box inc,0,1,0,0,20231012,smith dylan c,120919123052713,Chief Financial Officer,male,144045000.0
+,,1372612,box inc,0,1,0,0,20231113,smith dylan c,120919123055057,Chief Financial Officer,male,143944000.0
+,,1372612,box inc,1,1,0,0,20231213,levie aaron,120919123058537,Chief Executive Officer,male,143944000.0
+,,1372612,box inc,0,1,0,0,20231213,smith dylan c,120919123058541,Chief Financial Officer,male,143944000.0
+,,1372612,box inc,0,1,0,0,20231215,nottebohm olivia,120919123058831,Chief Operating Officer,female,143944000.0
+,,1372612,box inc,0,1,0,0,20231221,smith dylan c,120919123059471,Chief Financial Officer,male,143944000.0
+,,1372612,box inc,0,1,0,0,20231221,berkovitch eli,120919123059467,VP Chief Acct Ofr & Controller,female,143944000.0
+,,1372612,box inc,0,1,0,0,20240111,berkovitch eli,120919124001478,VP Chief Acct Ofr & Controller,female,143944000.0
+,,1372612,box inc,0,1,0,0,20240111,smith dylan c,120919124001480,Chief Financial Officer,male,143944000.0
+,,1372612,box inc,0,1,0,0,20240213,smith dylan c,120919124003203,Chief Financial Officer,male,144353000.0
+,,1372612,box inc,0,1,0,0,20240313,smith dylan c,120919124004820,Chief Financial Officer,male,144353000.0
+,,1372612,box inc,1,1,0,0,20240313,levie aaron,120919124004822,Chief Executive Officer,male,144353000.0
+,,1372612,box inc,false,true,false,false,20240322,smith dylan c,95017024035568,Chief Financial Officer,male,144353000.0
+,,1372612,box inc,false,true,false,false,20240322,berkovitch eli,95017024035574,VP Chief Acct Ofr & Controller,female,144353000.0
+,,1372612,box inc,true,false,false,false,20240325,levin daniel j,95017024036066,,male,144353000.0
+,,1372612,box inc,true,true,false,false,20240327,levie aaron,95017024037355,Chief Executive Officer,male,144353000.0
+,,1372612,box inc,true,false,false,false,20240329,levin daniel j,95017024038759,,male,144353000.0
+,,1372612,box inc,true,false,false,false,20240329,evan dana l,95017024038762,,female,144353000.0
+,,1372612,box inc,true,true,false,false,20240403,levie aaron,95017024041380,Chief Executive Officer,male,144353000.0
+,,1372612,box inc,false,true,false,false,20240403,smith dylan c,95017024041385,Chief Financial Officer,male,144353000.0
+,,1372612,box inc,false,true,false,false,20240403,berkovitch eli,95017024041373,VP Chief Acct Ofr & Controller,female,144353000.0
+,,1372612,box inc,false,true,false,false,20240403,nottebohm olivia,95017024041377,Chief Operating Officer,female,144353000.0
+,,1372612,box inc,false,true,false,false,20240408,smith dylan c,95017024042700,Chief Financial Officer,male,144353000.0
+,,1372612,box inc,false,true,false,false,20240411,smith dylan c,95017024043798,Chief Financial Officer,male,144353000.0
+,,1372612,box inc,false,true,false,false,20240514,smith dylan c,95017024059803,Chief Financial Officer,male,145588172.0
+,,1372612,box inc,true,false,false,false,20240517,murphy stephen francis,95017024061995,,male,145588172.0
+,,1372612,box inc,false,true,false,false,20240612,smith dylan c,95017024072573,Chief Financial Officer,male,145588172.0
+,,1372612,box inc,false,true,false,false,20240618,berkovitch eli,95017024075134,VP Chief Acct Ofr & Controller,female,145588172.0
+,,1372612,box inc,false,true,false,false,20240621,berkovitch eli,95017024076416,VP Chief Acct Ofr & Controller,female,145588172.0
+,,1372612,box inc,false,true,false,false,20240621,smith dylan c,95017024076414,Chief Financial Officer,male,145588172.0
+,,1372612,box inc,false,true,false,false,20240621,nottebohm olivia,95017024076412,Chief Operating Officer,female,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,barsamian sue,95017024081705,,female,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,evan dana l,95017024081709,,female,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,mayer bethany,95017024081717,,female,145588172.0
+,,1372612,box inc,true,true,false,false,20240703,levie aaron,95017024081700,Chief Executive Officer,male,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,lazar jack r,95017024081712,,male,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,walia amit,95017024081721,,male,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,murphy stephen francis,95017024081719,,male,145588172.0
+,,1372612,box inc,true,false,false,false,20240703,levin daniel j,95017024081714,,male,145588172.0
+,,1372612,box inc,false,true,false,false,20240711,smith dylan c,95017024083044,Chief Financial Officer,male,145588172.0
+,,1372612,box inc,false,true,false,false,20240711,berkovitch eli,95017024083042,VP Chief Acct Ofr & Controller,female,145588172.0
+,,1372612,box inc,false,true,false,false,20240813,smith dylan c,95017024096438,Chief Financial Officer,male,143228000.0
+,,1372612,box inc,true,false,false,false,20240830,lazar jack r,95017024102462,,male,143228000.0
+,,1372612,box inc,true,false,false,false,20240830,evan dana l,95017024102460,,female,143228000.0
+,,1372612,box inc,true,true,false,false,20240912,levie aaron,95017024106045,Chief Executive Officer,male,143228000.0
+,,1372612,box inc,false,true,false,false,20240912,smith dylan c,95017024106041,Chief Financial Officer,male,143228000.0
+,,1372612,box inc,false,true,false,false,20240924,smith dylan c,95017024109151,Chief Financial Officer,male,143228000.0
+,,1372612,box inc,false,true,false,false,20240924,nottebohm olivia,95017024109146,Chief Operating Officer,female,143228000.0
+,,1372612,box inc,false,true,false,false,20240924,berkovitch eli,95017024109149,VP Chief Acct Ofr & Controller,female,143228000.0
+,,1372612,box inc,false,true,false,false,20241015,smith dylan c,95017024114783,Chief Financial Officer,male,143228000.0
+,,1372612,box inc,false,true,false,false,20241113,smith dylan c,95017024126500,Chief Financial Officer,male,143949000.0
+,,1372612,box inc,true,false,false,false,20241114,lazar jack r,95017024127342,,male,143949000.0
+,,1372612,box inc,true,false,false,false,20241114,evan dana l,95017024127338,,female,143949000.0
+,,1372612,box inc,true,false,false,false,20241209,mayer bethany,95017024134607,,female,143703769.0
+,,1372612,box inc,true,false,false,false,20241212,levin daniel j,95017024135947,,male,143703769.0
+,,1372612,box inc,true,true,false,false,20241212,levie aaron,95017024135938,Chief Executive Officer,male,143703769.0
+,,1372612,box inc,false,true,false,false,20241212,smith dylan c,95017024135934,Chief Financial Officer,male,143703769.0
+,,1372612,box inc,false,true,false,false,20241218,berkovitch eli,95017024138045,VP Chief Acct Ofr & Controller,female,143703769.0
+,,1372612,box inc,true,true,false,false,20241220,levie aaron,95017024139128,Chief Executive Officer,male,143703769.0
+,,1372612,box inc,false,true,false,false,20241223,nottebohm olivia,95017024139674,Chief Operating Officer,female,143703769.0
+,,1372612,box inc,false,true,false,false,20241223,berkovitch eli,95017024139662,VP Chief Acct Ofr & Controller,female,143703769.0
+,,1372612,box inc,false,true,false,false,20241223,smith dylan c,95017024139649,Chief Financial Officer,male,143703769.0
+,,1372612,box inc,false,true,false,false,20241227,nottebohm olivia,95017024140845,Chief Operating Officer,female,143703769.0
+,,1372612,box inc,true,false,false,false,20241230,evan dana l,95017024141226,,female,143703769.0

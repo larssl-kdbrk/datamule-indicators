@@ -1,218 +1,579 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-34446.0,5368.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,fitzgerald walter l.,120919110004742,Sr VP and CAO,male,391746779.0
-523592.0,36014.0,1130310,centerpoint energy inc,1,1,0,0.0,20100125,mcclanahan david m,120919110004744,President and CEO,male,391746779.0
-150854.0,38910.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,rozzell scott e,120919110004746,"EVP, Gen.Counsel, Corp. Sec",male,391746779.0
-111919.0,37979.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,standish thomas r,120919110004748,Sr. VP and Group Pres,male,391746779.0
-136160.0,36811.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,whitlock gary l,120919110004750,EVP & Chief Financial Officer,male,391746779.0
-33597.0,5372.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,fitzgerald walter l.,120919110011581,Sr VP and CAO,male,391746779.0
-109930.0,37996.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,standish thomas r,120919110011585,Sr. VP and Group Pres,male,391746779.0
-133536.0,36839.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,whitlock gary l,120919110011590,EVP & Chief Financial Officer,male,391746779.0
-148320.0,39088.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,rozzell scott e,120919110011594,"EVP, Gen.Counsel, Corp. Sec",male,391746779.0
-515048.0,36041.0,1130310,centerpoint energy inc,1,1,0,0.0,20100223,mcclanahan david m,120919110011597,President and CEO,male,391746779.0
-145498.0,37404.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,whitlock gary l,120919110013693,EVP & Chief Financial Officer,male,391746779.0
-118650.0,38338.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,standish thomas r,120919110013705,Sr. VP and Group Pres,male,391746779.0
-159723.0,39688.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,rozzell scott e,120919110013701,"EVP, Gen.Counsel, Corp. Sec",male,391746779.0
-554341.0,36594.0,1130310,centerpoint energy inc,1,1,0,0.0,20100302,mcclanahan david m,120919110013696,President and CEO,male,391746779.0
-36900.0,5455.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,fitzgerald walter l.,120919110013709,Sr VP and CAO,male,391746779.0
-6000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100304,wolff sherman,120919110014659,,male,391746779.0
-13000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100316,oconnell robert t,120919110017377,,male,391746779.0
-38000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,cody derrill,120919110023749,,male,394186137.0
+111919.0,37979.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,standish thomas r,120919110004748,Sr. VP and Group Pres,male,
+34446.0,5368.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,fitzgerald walter l.,120919110004742,Sr VP and CAO,male,
+136160.0,36811.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,whitlock gary l,120919110004750,EVP & Chief Financial Officer,male,
+523592.0,36014.0,1130310,centerpoint energy inc,1,1,0,0.0,20100125,mcclanahan david m,120919110004744,President and CEO,male,
+150854.0,38910.0,1130310,centerpoint energy inc,0,1,0,0.0,20100125,rozzell scott e,120919110004746,"EVP, Gen.Counsel, Corp. Sec",male,
+515048.0,36041.0,1130310,centerpoint energy inc,1,1,0,0.0,20100223,mcclanahan david m,120919110011597,President and CEO,male,
+33597.0,5372.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,fitzgerald walter l.,120919110011581,Sr VP and CAO,male,
+133536.0,36839.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,whitlock gary l,120919110011590,EVP & Chief Financial Officer,male,
+109930.0,37996.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,standish thomas r,120919110011585,Sr. VP and Group Pres,male,
+148320.0,39088.0,1130310,centerpoint energy inc,0,1,0,0.0,20100223,rozzell scott e,120919110011594,"EVP, Gen.Counsel, Corp. Sec",male,
+159723.0,39688.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,rozzell scott e,120919110013701,"EVP, Gen.Counsel, Corp. Sec",male,
+118650.0,38338.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,standish thomas r,120919110013705,Sr. VP and Group Pres,male,
+36900.0,5455.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,fitzgerald walter l.,120919110013709,Sr VP and CAO,male,
+145498.0,37404.0,1130310,centerpoint energy inc,0,1,0,0.0,20100302,whitlock gary l,120919110013693,EVP & Chief Financial Officer,male,
+554341.0,36594.0,1130310,centerpoint energy inc,1,1,0,0.0,20100302,mcclanahan david m,120919110013696,President and CEO,male,
+6000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100304,wolff sherman,120919110014659,,male,
+13000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100316,oconnell robert t,120919110017377,,male,
+4000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,walker r a,120919110023755,,male,394186137.0
+32000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,campbell donald r,120919110023751,,male,394186137.0
+177000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,carroll milton,120919110023750,,male,394186137.0
+38000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,cody derrill,120919110023749,,male,394186137.0
 32647.0,11448.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,crosswell o holcombe,120919110023748,,male,394186137.0
-4000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,walker r a,120919110023755,,male,394186137.0
-177000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,carroll milton,120919110023750,,male,394186137.0
-8000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,johnson michael p,120919110023746,,male,394186137.0
-32000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,campbell donald r,120919110023751,,male,394186137.0
-30500.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,madison thomas f,120919110023744,,male,394186137.0
-10000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,rheney susan,120919110023742,,female,394186137.0
+30500.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,madison thomas f,120919110023744,,male,394186137.0
+26788.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,longoria janiece m,120919110023745,,male,394186137.0
+10000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,rheney susan,120919110023742,,female,394186137.0
 32000.0,60000.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,wareing peter s,120919110023741,,male,394186137.0
 12000.0,6000.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,wolff sherman,120919110023740,,male,394186137.0
-26788.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,longoria janiece m,120919110023745,,male,394186137.0
-17000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,oconnell robert t,120919110023743,,male,394186137.0
-13000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20100910,oconnell robert t,120919110045805,,male,421476056.0
-9000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20101104,oconnell robert t,120919110053237,,male,423119026.0
+8000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20100426,johnson michael p,120919110023746,,male,394186137.0
+17000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100426,oconnell robert t,120919110023743,,male,394186137.0
+13000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20100910,oconnell robert t,120919110045805,,male,421476056.0
+9000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20101104,oconnell robert t,120919110053237,,male,423119026.0
 145544.0,38142.0,1130310,centerpoint energy inc,0,1,0,0.0,20101109,whitlock gary l,120919110054058,EVP & Chief Financial Officer,male,423119026.0
 118650.0,39384.0,1130310,centerpoint energy inc,0,1,0,0.0,20101112,standish thomas r,120919110054364,Sr. VP and Group Pres,male,423119026.0
 40943.0,1663.0,1130310,centerpoint energy inc,0,1,0,0.0,20101214,harper c gregory,120919110060377,Sr. VP & Group Pres.,male,423119026.0
-130650.0,39874.0,1130310,centerpoint energy inc,0,1,0,0.0,20110124,standish thomas r,120919111004718,Sr. VP and Group Pres,male,424746177.0
-172223.0,41006.0,1130310,centerpoint energy inc,0,1,0,0.0,20110124,rozzell scott e,120919111004710,"EVP, Gen.Counsel, Corp. Sec",male,424746177.0
 158859.0,38646.0,1130310,centerpoint energy inc,0,1,0,0.0,20110124,whitlock gary l,120919111004714,EVP & Chief Financial Officer,male,424746177.0
-624056.0,37809.0,1130310,centerpoint energy inc,1,1,0,0.0,20110124,mcclanahan david m,120919111004707,President and CEO,male,424746177.0
+130650.0,39874.0,1130310,centerpoint energy inc,0,1,0,0.0,20110124,standish thomas r,120919111004718,Sr. VP and Group Pres,male,424746177.0
 40800.0,5636.0,1130310,centerpoint energy inc,0,1,0,0.0,20110124,fitzgerald walter l.,120919111004721,Sr VP and CAO,male,424746177.0
+624056.0,37809.0,1130310,centerpoint energy inc,1,1,0,0.0,20110124,mcclanahan david m,120919111004707,President and CEO,male,424746177.0
+172223.0,41006.0,1130310,centerpoint energy inc,0,1,0,0.0,20110124,rozzell scott e,120919111004710,"EVP, Gen.Counsel, Corp. Sec",male,424746177.0
 613449.0,37785.0,1130310,centerpoint energy inc,1,1,0,0.0,20110222,mcclanahan david m,120919111011709,President and CEO,male,424746177.0
 168794.0,40979.0,1130310,centerpoint energy inc,0,1,0,0.0,20110222,rozzell scott e,120919111011716,"EVP, Gen.Counsel, Corp. Sec",male,424746177.0
 127348.0,39859.0,1130310,centerpoint energy inc,0,1,0,0.0,20110222,standish thomas r,120919111011724,Sr. VP and Group Pres,male,424746177.0
 39604.0,5632.0,1130310,centerpoint energy inc,0,1,0,0.0,20110222,fitzgerald walter l.,120919111011731,Sr VP and CAO,male,424746177.0
-143000.0,39859.0,1130310,centerpoint energy inc,0,1,0,0.0,20110228,standish thomas r,120919111013380,Sr. VP and Group Pres,male,424746177.0
 44746.0,5632.0,1130310,centerpoint energy inc,0,1,0,0.0,20110228,fitzgerald walter l.,120919111013382,Sr VP and CAO,male,424746177.0
 176187.0,38621.0,1130310,centerpoint energy inc,0,1,0,0.0,20110228,whitlock gary l,120919111013377,EVP & Chief Financial Officer,male,424746177.0
-185059.0,40979.0,1130310,centerpoint energy inc,0,1,0,0.0,20110228,rozzell scott e,120919111013374,"EVP, Gen.Counsel, Corp. Sec",male,424746177.0
 661000.0,37785.0,1130310,centerpoint energy inc,1,1,0,0.0,20110228,mcclanahan david m,120919111013370,President and CEO,male,424746177.0
-7999.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110304,oconnell robert t,120919111015661,,male,424746177.0
+143000.0,39859.0,1130310,centerpoint energy inc,0,1,0,0.0,20110228,standish thomas r,120919111013380,Sr. VP and Group Pres,male,424746177.0
+185059.0,40979.0,1130310,centerpoint energy inc,0,1,0,0.0,20110228,rozzell scott e,120919111013374,"EVP, Gen.Counsel, Corp. Sec",male,424746177.0
+7999.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110304,oconnell robert t,120919111015661,,male,424746177.0
 186187.0,39103.0,1130310,centerpoint energy inc,0,1,0,0.0,20110304,whitlock gary l,120919111015668,EVP & Chief Financial Officer,male,424746177.0
 10000.0,60000.0,1130310,centerpoint energy inc,1,0,0,0.0,20110325,wareing peter s,120919111019687,,male,424746177.0
-36647.0,11448.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,crosswell o holcombe,120919111024347,,male,425410779.0
-8000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,walker r a,120919111024357,,male,425410779.0
 16000.0,6000.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,wolff sherman,120919111024365,,male,425410779.0
-14000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,rheney susan,120919111024355,,female,425410779.0
-36000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,campbell donald r,120919111024345,,male,425410779.0
-12000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,johnson michael p,120919111024349,,male,425410779.0
 36000.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,wareing peter s,120919111024363,,male,425410779.0
-181000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,carroll milton,120919111024343,,male,425410779.0
-31289.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,longoria janiece m,120919111024352,,male,425410779.0
+14000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110425,rheney susan,120919111024355,,female,425410779.0
+8000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110425,walker r a,120919111024357,,male,425410779.0
+36647.0,11448.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,crosswell o holcombe,120919111024347,,male,425410779.0
+12000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20110425,johnson michael p,120919111024349,,male,425410779.0
+31289.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110425,longoria janiece m,120919111024352,,male,425410779.0
+36000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110425,campbell donald r,120919111024345,,male,425410779.0
+181000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110425,carroll milton,120919111024343,,male,425410779.0
 185059.0,41358.0,1130310,centerpoint energy inc,0,1,0,0.0,20110511,rozzell scott e,120919111027629,"EVP, Gen.Counsel, Corp. Sec",male,425410779.0
-141000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110524,carroll milton,120919111030786,,male,425410779.0
+141000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110524,carroll milton,120919111030786,,male,425410779.0
 668172.0,38134.0,1130310,centerpoint energy inc,1,1,0,0.0,20110524,mcclanahan david m,120919111030789,President and CEO,male,425410779.0
-127000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20110624,carroll milton,120919111036259,,male,425410779.0
+127000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20110624,carroll milton,120919111036259,,male,425410779.0
 0.0,5568.0,1130310,centerpoint energy inc,0,1,0,0.0,20110826,bridge tracy b,120919111045751,Sr VP - Div Pres,female,425856294.0
-117000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20111104,carroll milton,120919111054513,,male,425932721000.0
-110333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20111123,carroll milton,120919111057974,,male,425932721000.0
+117000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20111104,carroll milton,120919111054513,,male,425932721000.0
+110333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20111123,carroll milton,120919111057974,,male,425932721000.0
 191825.0,39636.0,1130310,centerpoint energy inc,0,1,0,0.0,20111123,whitlock gary l,120919111057977,EVP & Chief Financial Officer,male,425932721000.0
 34693.0,1705.0,1130310,centerpoint energy inc,0,1,0,0.0,20111130,harper c gregory,120919111058586,Sr. VP & Div. Group Pres.,male,425932721000.0
 30284.0,1721.0,1130310,centerpoint energy inc,0,1,0,0.0,20111213,harper c gregory,120919111061116,Sr. VP & Div. Group Pres.,male,425932721000.0
 53376.0,5833.0,1130310,centerpoint energy inc,0,1,0,0.0,20120112,fitzgerald walter l.,120919112003560,Sr VP and CAO,male,426030345.0
-58106.0,5833.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,fitzgerald walter l.,120919112004996,Sr VP and CAO,male,426030345.0
-15448.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,prochazka scott m,120919112004998,Sr VP - Div Pres,male,426030345.0
-2200.0,5663.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,bridge tracy b,120919112005000,Sr VP - Div Pres,female,426030345.0
-32309.0,1720.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,harper c gregory,120919112005002,Sr. VP & Div. Group Pres.,male,426030345.0
-158500.0,41343.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,standish thomas r,120919112005004,Exec VP and Group Pres,male,426030345.0
-208937.0,39995.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,whitlock gary l,120919112005006,EVP & Chief Financial Officer,male,426030345.0
-201159.0,42437.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,rozzell scott e,120919112005009,"EVP, Gen.Counsel, Corp. Sec",male,426030345.0
 739904.0,39129.0,1130310,centerpoint energy inc,1,1,0,0.0,20120123,mcclanahan david m,120919112005011,President and CEO,male,426030345.0
+201159.0,42437.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,rozzell scott e,120919112005009,"EVP, Gen.Counsel, Corp. Sec",male,426030345.0
+208937.0,39995.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,whitlock gary l,120919112005006,EVP & Chief Financial Officer,male,426030345.0
+15448.0,,1130310,centerpoint energy inc,0,1,0,0.0,20120123,prochazka scott m,120919112004998,Sr VP - Div Pres,male,426030345.0
+32309.0,1720.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,harper c gregory,120919112005002,Sr. VP & Div. Group Pres.,male,426030345.0
+2200.0,5663.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,bridge tracy b,120919112005000,Sr VP - Div Pres,female,426030345.0
+158500.0,41343.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,standish thomas r,120919112005004,Exec VP and Group Pres,male,426030345.0
+58106.0,5833.0,1130310,centerpoint energy inc,0,1,0,0.0,20120123,fitzgerald walter l.,120919112004996,Sr VP and CAO,male,426030345.0
+726361.0,39197.0,1130310,centerpoint energy inc,1,1,0,0.0,20120222,mcclanahan david m,120919112012245,President and CEO,male,426074270.0
 204318.0,40064.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,whitlock gary l,120919112012243,EVP & Chief Financial Officer,male,426074270.0
 196806.0,42511.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,rozzell scott e,120919112012241,"EVP, Gen.Counsel, Corp. Sec",male,426074270.0
-154290.0,41385.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,standish thomas r,120919112012239,Exec VP and Group Pres,male,426074270.0
-726361.0,39197.0,1130310,centerpoint energy inc,1,1,0,0.0,20120222,mcclanahan david m,120919112012245,President and CEO,male,426074270.0
-1525.0,5673.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,bridge tracy b,120919112012237,Sr VP - Div Pres,female,426074270.0
-14743.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,prochazka scott m,120919112012233,Sr VP - Div Pres,male,426074270.0
-57053.0,5843.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,fitzgerald walter l.,120919112012230,Sr VP and CAO,male,426074270.0
 30209.0,1723.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,harper c gregory,120919112012235,Sr. VP & Group Pres.,male,426074270.0
+1525.0,5673.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,bridge tracy b,120919112012237,Sr VP - Div Pres,female,426074270.0
+154290.0,41385.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,standish thomas r,120919112012239,Exec VP and Group Pres,male,426074270.0
+14743.0,,1130310,centerpoint energy inc,0,1,0,0.0,20120222,prochazka scott m,120919112012233,Sr VP - Div Pres,male,426074270.0
+57053.0,5843.0,1130310,centerpoint energy inc,0,1,0,0.0,20120222,fitzgerald walter l.,120919112012230,Sr VP and CAO,male,426074270.0
 69120.0,5843.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,fitzgerald walter l.,120919112015214,Sr VP and CAO,male,426074270.0
-20216.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,prochazka scott m,120919112015219,Sr VP - Div Pres,male,426074270.0
+20216.0,,1130310,centerpoint energy inc,0,1,0,0.0,20120302,prochazka scott m,120919112015219,Sr VP - Div Pres,male,426074270.0
 48139.0,1723.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,harper c gregory,120919112015227,Sr. VP & Group Pres.,male,426074270.0
 6715.0,5673.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,bridge tracy b,120919112015231,Sr VP - Div Pres,female,426074270.0
 190353.0,41385.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,standish thomas r,120919112015236,Exec VP and Group Pres,male,426074270.0
 234049.0,42511.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,rozzell scott e,120919112015240,"EVP, Gen.Counsel, Corp. Sec",male,426074270.0
 243617.0,40064.0,1130310,centerpoint energy inc,0,1,0,0.0,20120302,whitlock gary l,120919112015243,EVP & Chief Financial Officer,male,426074270.0
 833821.0,39197.0,1130310,centerpoint energy inc,1,1,0,0.0,20120302,mcclanahan david m,120919112015245,President and CEO,male,426074270.0
-41000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,campbell donald r,120919112024921,,male,427298767000.0
-41000.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,wareing peter s,120919112024933,,male,427298767000.0
-13000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,walker r a,120919112024931,,male,427298767000.0
-19000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,rheney susan,120919112024930,,female,427298767000.0
-37670.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,longoria janiece m,120919112024929,,male,427298767000.0
-17000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,johnson michael p,120919112024927,,male,427298767000.0
-41647.0,11448.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,crosswell o holcombe,120919112024924,,male,427298767000.0
-115333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,carroll milton,120919112024922,,male,427298767000.0
 21000.0,6000.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,wolff sherman,120919112024935,,male,427298767000.0
-90333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120516,carroll milton,120919112028652,,male,427298767000.0
+41000.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,wareing peter s,120919112024933,,male,427298767000.0
+13000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120430,walker r a,120919112024931,,male,427298767000.0
+17000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,johnson michael p,120919112024927,,male,427298767000.0
+37670.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120430,longoria janiece m,120919112024929,,male,427298767000.0
+41647.0,11448.0,1130310,centerpoint energy inc,1,0,0,0.0,20120430,crosswell o holcombe,120919112024924,,male,427298767000.0
+41000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120430,campbell donald r,120919112024921,,male,427298767000.0
+19000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120430,rheney susan,120919112024930,,female,427298767000.0
+115333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120430,carroll milton,120919112024922,,male,427298767000.0
+90333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120516,carroll milton,120919112028652,,male,427298767000.0
 33500.0,11448.0,1130310,centerpoint energy inc,1,0,0,0.0,20120522,crosswell o holcombe,120919112029855,,male,427298767000.0
-65333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120605,carroll milton,120919112032371,,male,427298767000.0
+65333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120605,carroll milton,120919112032371,,male,427298767000.0
 0.0,8000.0,1130310,centerpoint energy inc,1,0,0,0.0,20120808,crosswell o holcombe,120919112040979,,male,427386151.0
-52333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20120919,carroll milton,120919112046248,,male,427386151.0
+52333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20120919,carroll milton,120919112046248,,male,427386151.0
 24501.0,8000.0,1130310,centerpoint energy inc,1,0,0,0.0,20121115,crosswell o holcombe,120919112053324,,male,427411738.0
-40333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20121121,carroll milton,120919112054342,,male,427411738.0
+40333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20121121,carroll milton,120919112054342,,male,427411738.0
 857556.0,40142.0,1130310,centerpoint energy inc,1,1,0,0.0,20121129,mcclanahan david m,120919112054998,President and CEO,male,427411738.0
 269672.0,41030.0,1130310,centerpoint energy inc,0,1,0,0.0,20121203,whitlock gary l,120919112055438,EVP & Chief Financial Officer,male,427411738.0
 29236.0,15121.0,1130310,centerpoint energy inc,0,1,0,0.0,20121203,mcgoldrick joseph b,120919112055439,Sr VP - Div Pres,male,427411738.0
 73657.0,6058.0,1130310,centerpoint energy inc,0,1,0,0.0,20130110,fitzgerald walter l.,120919113002818,Sr VP and CAO,male,427599564.0
-76939.0,6049.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,fitzgerald walter l.,120919113011898,Sr VP and CAO,male,427671739.0
-8062.0,5873.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,bridge tracy b,120919113011900,Sr VP - Div Pres,female,427671739.0
-32246.0,15287.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,mcgoldrick joseph b,120919113011899,Sr VP - Div Pres,male,427671739.0
-42476.0,1784.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,harper c gregory,120919113011894,Sr. VP & Group Pres.,male,427671739.0
-898796.0,40581.0,1130310,centerpoint energy inc,1,1,0,0.0,20130226,mcclanahan david m,120919113011902,President and CEO,male,427671739.0
 252211.0,44012.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,rozzell scott e,120919113011896,"EVP, Gen.Counsel, Corp. Sec",male,427671739.0
-209148.0,42881.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,standish thomas r,120919113011895,Exec VP and Group Pres,male,427671739.0
 290046.0,41479.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,whitlock gary l,120919113011897,EVP & Chief Financial Officer,male,427671739.0
-21630.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,prochazka scott m,120919113011901,EVP & COO,male,427671739.0
-55392.0,1784.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,harper c gregory,120919113012839,Sr. VP & Group Pres.,male,427671739.0
-233883.0,42881.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,standish thomas r,120919113012841,Exec VP and Group Pres,male,427671739.0
-277718.0,44012.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,rozzell scott e,120919113012842,"EVP, Gen.Counsel, Corp. Sec",male,427671739.0
-316841.0,41479.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,whitlock gary l,120919113012843,EVP & Chief Financial Officer,male,427671739.0
-85939.0,6049.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,fitzgerald walter l.,120919113012848,Sr VP and CAO,male,427671739.0
-42215.0,15287.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,mcgoldrick joseph b,120919113012857,Sr VP - Div Pres,male,427671739.0
+76939.0,6049.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,fitzgerald walter l.,120919113011898,Sr VP and CAO,male,427671739.0
+32246.0,15287.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,mcgoldrick joseph b,120919113011899,Sr VP - Div Pres,male,427671739.0
+8062.0,5873.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,bridge tracy b,120919113011900,Sr VP - Div Pres,female,427671739.0
+21630.0,,1130310,centerpoint energy inc,0,1,0,0.0,20130226,prochazka scott m,120919113011901,EVP & COO,male,427671739.0
+898796.0,40581.0,1130310,centerpoint energy inc,1,1,0,0.0,20130226,mcclanahan david m,120919113011902,President and CEO,male,427671739.0
+42476.0,1784.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,harper c gregory,120919113011894,Sr. VP & Group Pres.,male,427671739.0
+209148.0,42881.0,1130310,centerpoint energy inc,0,1,0,0.0,20130226,standish thomas r,120919113011895,Exec VP and Group Pres,male,427671739.0
+,,1130310,centerpoint energy inc,1,1,0,0.0,20130301,mcclanahan david m,120919113012870,President and CEO,male,427671739.0
+,,1130310,centerpoint energy inc,0,1,0,0.0,20130301,prochazka scott m,120919113012868,EVP & COO,male,427671739.0
 11939.0,5873.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,bridge tracy b,120919113012861,Sr VP - Div Pres,female,427671739.0
-25735.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,prochazka scott m,120919113012868,EVP & COO,male,427671739.0
-970765.0,40581.0,1130310,centerpoint energy inc,1,1,0,0.0,20130301,mcclanahan david m,120919113012870,President and CEO,male,427671739.0
+277718.0,44012.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,rozzell scott e,120919113012842,"EVP, Gen.Counsel, Corp. Sec",male,427671739.0
+,,1130310,centerpoint energy inc,0,1,0,0.0,20130301,fitzgerald walter l.,120919113012848,Sr VP and CAO,male,427671739.0
+316841.0,41479.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,whitlock gary l,120919113012843,EVP & Chief Financial Officer,male,427671739.0
+233883.0,42881.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,standish thomas r,120919113012841,Exec VP and Group Pres,male,427671739.0
+42215.0,15287.0,1130310,centerpoint energy inc,0,1,0,0.0,20130301,mcgoldrick joseph b,120919113012857,Sr VP - Div Pres,male,427671739.0
+,,1130310,centerpoint energy inc,0,1,0,0.0,20130301,harper c gregory,120919113012839,Sr. VP & Group Pres.,male,427671739.0
+120333.0,,1130310,centerpoint energy inc,1,0,0,0.0,20130429,carroll milton,120919113022992,,male,428530395.0
 22000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20130429,johnson michael p,120919113022949,,male,428530395.0
-24000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20130429,rheney susan,120919113022945,,female,428530395.0
-120333.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20130429,carroll milton,120919113022992,,male,428530395.0
-43716.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20130429,longoria janiece m,120919113022941,,male,428530395.0
+43716.0,,1130310,centerpoint energy inc,1,0,0,0.0,20130429,longoria janiece m,120919113022941,,male,428530395.0
+18000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20130429,walker r a,120919113022939,,male,428530395.0
 46000.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20130429,wareing peter s,120919113022933,,male,428530395.0
-18000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20130429,walker r a,120919113022939,,male,428530395.0
+24000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20130429,rheney susan,120919113022945,,female,428530395.0
 40215.0,15362.0,1130310,centerpoint energy inc,0,1,0,0.0,20130510,mcgoldrick joseph b,120919113025621,Sr VP - Div Pres,male,428530395.0
-121901.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20130604,carroll milton,120919113030604,Executive Chairman,male,428530395.0
+121901.0,,1130310,centerpoint energy inc,1,1,0,0.0,20130604,carroll milton,120919113030604,Executive Chairman,male,428530395.0
 987679.0,41444.0,1130310,centerpoint energy inc,1,1,0,0.0,20131205,mcclanahan david m,120919113055583,President and CEO,male,428640167.0
 88747.0,6237.0,1130310,centerpoint energy inc,0,1,0,0.0,20140110,fitzgerald walter l.,120919114002815,Sr VP and CAO,male,428798446.0
-151901.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20140221,carroll milton,120919114013163,Executive Chairman,male,428841792.0
-43410.0,15756.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,mcgoldrick joseph b,120919114014252,Exec VP - Div Pres,male,428841792.0
-13690.0,6054.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,bridge tracy b,120919114014251,Exec VP - Div Pres,female,428841792.0
+151901.0,,1130310,centerpoint energy inc,1,1,0,0.0,20140221,carroll milton,120919114013163,Executive Chairman,male,428841792.0
 91894.0,6235.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,fitzgerald walter l.,120919114014253,Sr VP and CAO,male,428841792.0
-27634.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,prochazka scott m,120919114014250,President & CEO,male,428841792.0
+13690.0,6054.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,bridge tracy b,120919114014251,Exec VP - Div Pres,female,428841792.0
+43410.0,15756.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,mcgoldrick joseph b,120919114014252,Exec VP - Div Pres,male,428841792.0
+294880.0,45362.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,rozzell scott e,120919114014249,"EVP, Gen.Counsel, Corp. Sec",male,428841792.0
 339272.0,42752.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,whitlock gary l,120919114014248,EVP & Chief Financial Officer,male,428841792.0
 252177.0,44250.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,standish thomas r,120919114014247,Exec VP,male,428841792.0
-294880.0,45362.0,1130310,centerpoint energy inc,0,1,0,0.0,20140225,rozzell scott e,120919114014249,"EVP, Gen.Counsel, Corp. Sec",male,428841792.0
+27634.0,,1130310,centerpoint energy inc,0,1,0,0.0,20140225,prochazka scott m,120919114014250,President & CEO,male,428841792.0
 278851.0,44250.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,standish thomas r,120919114015307,Exec VP,male,428841792.0
 368450.0,42752.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,whitlock gary l,120919114015308,EVP & Chief Financial Officer,male,428841792.0
 322404.0,45362.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,rozzell scott e,120919114015313,"EVP, Gen.Counsel, Corp. Sec",male,428841792.0
 19877.0,6054.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,bridge tracy b,120919114015314,Exec VP - Div Pres,female,428841792.0
 54288.0,15756.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,mcgoldrick joseph b,120919114015316,Exec VP - Div Pres,male,428841792.0
-33836.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,prochazka scott m,120919114015319,President & CEO,male,428841792.0
+33836.0,,1130310,centerpoint energy inc,0,1,0,0.0,20140228,prochazka scott m,120919114015319,President & CEO,male,428841792.0
 101993.0,6235.0,1130310,centerpoint energy inc,0,1,0,0.0,20140228,fitzgerald walter l.,120919114015320,Sr VP and CAO,male,428841792.0
-105003.0,6295.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,fitzgerald walter l.,120919114022825,Sr VP and CAO,male,428841792.0
 62088.0,15908.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,mcgoldrick joseph b,120919114022821,Exec VP - Div Pres,male,428841792.0
-68016.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,prochazka scott m,120919114022816,President & CEO,male,428841792.0
 27677.0,6112.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,bridge tracy b,120919114022814,Exec VP - Div Pres,female,428841792.0
-167091.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20140324,carroll milton,120919114022812,Executive Chairman,male,428841792.0
+105003.0,6295.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,fitzgerald walter l.,120919114022825,Sr VP and CAO,male,428841792.0
 378570.0,43164.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,whitlock gary l,120919114022810,EVP & Chief Financial Officer,male,428841792.0
-287921.0,44674.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,standish thomas r,120919114022804,Exec VP,male,428841792.0
+167091.0,,1130310,centerpoint energy inc,1,1,0,0.0,20140324,carroll milton,120919114022812,Executive Chairman,male,428841792.0
+68016.0,,1130310,centerpoint energy inc,0,1,0,0.0,20140324,prochazka scott m,120919114022816,President & CEO,male,428841792.0
 331794.0,45800.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,rozzell scott e,120919114022806,"EVP, Gen.Counsel, Corp. Sec",male,428841792.0
-5000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,smith phillip r,120919114029530,,male,429748467.0
-5000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,mclean scott j,120919114029532,,male,429748467.0
+287921.0,44674.0,1130310,centerpoint energy inc,0,1,0,0.0,20140324,standish thomas r,120919114022804,Exec VP,male,428841792.0
 27000.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,johnson michael p,120919114029524,,male,429748467.0
-47064.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,longoria janiece m,120919114029535,,male,429748467.0
 51000.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,wareing peter s,120919114029526,,male,429748467.0
-23000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,walker r a,120919114029527,,male,429748467.0
-29000.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20140428,rheney susan,120919114029533,,female,429748467.0
-156758.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20140506,carroll milton,120919114031625,Executive Chairman,male,429748467.0
-7500.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20140515,smith phillip r,120919114034347,,male,429748467.0
-4910.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20140521,o'brien dana c.,120919114035954,"SVP, Gen Counsel, Corp Sec",female,429748467.0
-148553.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20140602,carroll milton,120919114038476,Executive Chairman,male,429748467.0
-138758.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20140609,carroll milton,120919114039962,Executive Chairman,male,429748467.0
+23000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20140428,walker r a,120919114029527,,male,429748467.0
+5000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20140428,smith phillip r,120919114029530,,male,429748467.0
+5000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20140428,mclean scott j,120919114029532,,male,429748467.0
+29000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20140428,rheney susan,120919114029533,,female,429748467.0
+47064.0,,1130310,centerpoint energy inc,1,0,0,0.0,20140428,longoria janiece m,120919114029535,,male,429748467.0
+156758.0,,1130310,centerpoint energy inc,1,1,0,0.0,20140506,carroll milton,120919114031625,Executive Chairman,male,429748467.0
+7500.0,,1130310,centerpoint energy inc,1,0,0,0.0,20140515,smith phillip r,120919114034347,,male,429748467.0
+4910.0,,1130310,centerpoint energy inc,0,1,0,0.0,20140521,o'brien dana c.,120919114035954,"SVP, Gen Counsel, Corp Sec",female,429748467.0
+148553.0,,1130310,centerpoint energy inc,1,1,0,0.0,20140602,carroll milton,120919114038476,Executive Chairman,male,429748467.0
+138758.0,,1130310,centerpoint energy inc,1,1,0,0.0,20140609,carroll milton,120919114039962,Executive Chairman,male,429748467.0
 322952.0,46145.0,1130310,centerpoint energy inc,0,1,0,0.0,20140718,rozzell scott e,120919114048141,EVP,male,429795830.0
 102465.0,6402.0,1130310,centerpoint energy inc,0,1,0,0.0,20140904,fitzgerald walter l.,120919114055938,Sr VP and CAO,male,429795830.0
-18000.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150211,rogers william d,120919115011883,EVP,male,429795830.0
-8570.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,ortenstone susan b,120919115017374,SVP and Chief HR Officer,female,429795830.0
-105496.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,prochazka scott m,120919115017371,President & CEO,male,429795830.0
+18000.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150211,rogers william d,120919115011883,EVP,male,429795830.0
+105496.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150223,prochazka scott m,120919115017371,President & CEO,male,429795830.0
+27110.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150223,rogers william d,120919115017372,EVP,male,429795830.0
 390230.0,44399.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,whitlock gary l,120919115017370,EVP & Chief Financial Officer,male,429795830.0
-11370.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,o'brien dana c.,120919115017357,"SVP, Gen Counsel, Corp Sec",female,429795830.0
-185418.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20150223,carroll milton,120919115017368,Executive Chairman,male,429795830.0
+8570.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150223,ortenstone susan b,120919115017374,SVP and Chief HR Officer,female,429795830.0
+11370.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150223,o'brien dana c.,120919115017357,"SVP, Gen Counsel, Corp Sec",female,429795830.0
 70858.0,16363.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,mcgoldrick joseph b,120919115017356,Exec VP - Div Pres,male,429795830.0
-37447.0,6287.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,bridge tracy b,120919115017353,Exec VP - Div Pres,female,429795830.0
-27110.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,rogers william d,120919115017372,EVP,male,429795830.0
 26385.0,40.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,colvin kristie,120919115017355,SVP and CAO,female,429795830.0
-39534.0,6287.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,bridge tracy b,120919115018017,Exec VP - Div Pres,female,429795830.0
-73764.0,16363.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,mcgoldrick joseph b,120919115018022,Exec VP - Div Pres,male,429795830.0
-107756.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,prochazka scott m,120919115018025,President & CEO,male,429795830.0
-398948.0,44399.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,whitlock gary l,120919115018027,EVP & Chief Financial Officer,male,429795830.0
+185418.0,,1130310,centerpoint energy inc,1,1,0,0.0,20150223,carroll milton,120919115017368,Executive Chairman,male,429795830.0
+37447.0,6287.0,1130310,centerpoint energy inc,0,1,0,0.0,20150223,bridge tracy b,120919115017353,Exec VP - Div Pres,female,429795830.0
 27125.0,40.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,colvin kristie,120919115018030,SVP and CAO,female,429795830.0
+73764.0,16363.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,mcgoldrick joseph b,120919115018022,Exec VP - Div Pres,male,429795830.0
+107756.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150224,prochazka scott m,120919115018025,President & CEO,male,429795830.0
+39534.0,6287.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,bridge tracy b,120919115018017,Exec VP - Div Pres,female,429795830.0
+398948.0,44399.0,1130310,centerpoint energy inc,0,1,0,0.0,20150224,whitlock gary l,120919115018027,EVP & Chief Financial Officer,male,429795830.0
 43487.0,6287.0,1130310,centerpoint energy inc,0,1,0,0.0,20150302,bridge tracy b,120919115020145,Exec VP - Div Pres,female,429795830.0
 79116.0,16363.0,1130310,centerpoint energy inc,0,1,0,0.0,20150302,mcgoldrick joseph b,120919115020151,Exec VP - Div Pres,male,429795830.0
-111720.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150302,prochazka scott m,120919115020152,President & CEO,male,429795830.0
+111720.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150302,prochazka scott m,120919115020152,President & CEO,male,429795830.0
 414291.0,44399.0,1130310,centerpoint energy inc,0,1,0,0.0,20150302,whitlock gary l,120919115020153,EVP & Chief Financial Officer,male,429795830.0
 28387.0,185.0,1130310,centerpoint energy inc,0,1,0,0.0,20150302,colvin kristie,120919115020265,SVP and CAO,female,429795830.0
 104116.0,16363.0,1130310,centerpoint energy inc,0,1,0,0.0,20150303,mcgoldrick joseph b,120919115021401,Exec VP - Div Pres,male,429795830.0
-54222.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,longoria janiece m,120919115038560,,male,430207011.0
-32710.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,johnson michael p,120919115038562,,male,430207011.0
-6210.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,pound ted,120919115038566,,male,430207011.0
-34710.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,rheney susan,120919115038568,,female,430207011.0
-13210.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,smith phillip r,120919115038572,,male,430207011.0
 56710.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,wareing peter s,120919115038575,,male,430207011.0
-10710.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20150505,mclean scott j,120919115038831,,male,430207011.0
-47110.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150514,rogers william d,120919115042849,EVP & Chief Financial Officer,male,430207011.0
+13210.0,,1130310,centerpoint energy inc,1,0,0,0.0,20150504,smith phillip r,120919115038572,,male,430207011.0
+6210.0,,1130310,centerpoint energy inc,1,0,0,0.0,20150504,pound ted,120919115038566,,male,430207011.0
+32710.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20150504,johnson michael p,120919115038562,,male,430207011.0
+34710.0,,1130310,centerpoint energy inc,1,0,0,0.0,20150504,rheney susan,120919115038568,,female,430207011.0
+54222.0,,1130310,centerpoint energy inc,1,0,0,0.0,20150504,longoria janiece m,120919115038560,,male,430207011.0
+10710.0,,1130310,centerpoint energy inc,1,0,0,0.0,20150505,mclean scott j,120919115038831,,male,430207011.0
+47110.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150514,rogers william d,120919115042849,EVP & Chief Financial Officer,male,430207011.0
 114116.0,16498.0,1130310,centerpoint energy inc,0,1,0,0.0,20150518,mcgoldrick joseph b,120919115043812,Exec VP - Div Pres,male,430207011.0
-15210.0,0.0,1130310,centerpoint energy inc,1,0,0,0.0,20150518,smith phillip r,120919115043816,,male,430207011.0
+15210.0,,1130310,centerpoint energy inc,1,0,0,0.0,20150518,smith phillip r,120919115043816,,male,430207011.0
 53487.0,6339.0,1130310,centerpoint energy inc,0,1,0,0.0,20150602,bridge tracy b,120919115049072,Exec VP - Div Pres,female,430207011.0
 63487.0,6339.0,1130310,centerpoint energy inc,0,1,0,0.0,20150602,bridge tracy b,120919115049074,Exec VP - Div Pres,female,430207011.0
-177213.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20150603,carroll milton,120919115049784,Executive Chairman,male,430207011.0
-6137.0,0.0,1130310,centerpoint energy inc,1,1,0,0.0,20150609,prochazka scott m,120919115051272,President & CEO,male,430207011.0
-26937.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150828,mcgoldrick joseph b,120919115068464,Exec VP - Div Pres,male,430261710.0
-37586.0,0.0,1130310,centerpoint energy inc,0,1,0,0.0,20150902,bridge tracy b,120919115069054,Exec VP - Div Pres,female,430261710.0
+177213.0,,1130310,centerpoint energy inc,1,1,0,0.0,20150603,carroll milton,120919115049784,Executive Chairman,male,430207011.0
+6137.0,,1130310,centerpoint energy inc,1,1,0,0.0,20150609,prochazka scott m,120919115051272,President & CEO,male,430207011.0
+26937.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150828,mcgoldrick joseph b,120919115068464,Exec VP - Div Pres,male,430261710.0
+26937.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150828,mcgoldrick joseph b,120919115068464,Exec VP - Div Pres,male,430261710.0
+37586.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150902,bridge tracy b,120919115069054,Exec VP - Div Pres,female,430261710.0
+37586.0,,1130310,centerpoint energy inc,0,1,0,0.0,20150902,bridge tracy b,120919115069054,Exec VP - Div Pres,female,430261710.0
+52340.0,,1130310,centerpoint energy inc,1,0,0,0.0,20151118,longoria janiece m,120919115081052,,male,430262191.0
+43032.0,,1130310,centerpoint energy inc,0,1,0,0.0,20160211,rogers william d,120919116097590,EVP & Chief Financial Officer,male,430262703.0
+116775.0,26205.0,1130310,centerpoint energy inc,0,1,0,0.0,20160223,mcgoldrick joseph b,120919116101357,Exec VP - Div Pres,male,430271749.0
+117925.0,6048.0,1130310,centerpoint energy inc,1,1,0,0.0,20160223,prochazka scott m,120919116101359,President & CEO,male,430271749.0
+29060.0,185.0,1130310,centerpoint energy inc,0,1,0,0.0,20160223,colvin kristie,120919116101362,SVP and CAO,female,430271749.0
+65642.0,36544.0,1130310,centerpoint energy inc,0,1,0,0.0,20160223,bridge tracy b,120919116101355,Exec VP - Div Pres,female,430271749.0
+15132.0,,1130310,centerpoint energy inc,0,1,0,0.0,20160226,ortenstone susan b,120919116102829,SVP and Chief HR Officer,female,430271749.0
+207038.0,,1130310,centerpoint energy inc,1,1,0,0.0,20160226,carroll milton,120919116102813,Executive Chairman,male,430271749.0
+56823.0,,1130310,centerpoint energy inc,0,1,0,0.0,20160226,rogers william d,120919116102814,EVP & Chief Financial Officer,male,430271749.0
+78113.0,36544.0,1130310,centerpoint energy inc,0,1,0,0.0,20160226,bridge tracy b,120919116102815,Exec VP - Div Pres,female,430271749.0
+32367.0,185.0,1130310,centerpoint energy inc,0,1,0,0.0,20160226,colvin kristie,120919116102819,SVP and CAO,female,430271749.0
+181183.0,6048.0,1130310,centerpoint energy inc,1,1,0,0.0,20160226,prochazka scott m,120919116102821,President & CEO,male,430271749.0
+129246.0,26205.0,1130310,centerpoint energy inc,0,1,0,0.0,20160226,mcgoldrick joseph b,120919116102825,Exec VP - Div Pres,male,430271749.0
+21089.0,,1130310,centerpoint energy inc,0,1,0,0.0,20160226,o'brien dana c.,120919116102827,"SVP, Gen Counsel, Corp Sec",female,430271749.0
+62240.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20160504,wareing peter s,120919116117561,,male,430619432.0
+20740.0,,1130310,centerpoint energy inc,1,0,0,0.0,20160504,smith phillip r,120919116117559,,male,430619432.0
+40240.0,,1130310,centerpoint energy inc,1,0,0,0.0,20160504,rheney susan,120919116117557,,female,430619432.0
+38240.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20160504,johnson michael p,120919116117562,,male,430619432.0
+16240.0,,1130310,centerpoint energy inc,1,0,0,0.0,20160504,mclean scott j,120919116117554,,male,430619432.0
+59040.0,,1130310,centerpoint energy inc,1,0,0,0.0,20160504,longoria janiece m,120919116117553,,male,430619432.0
+11767.0,,1130310,centerpoint energy inc,1,0,0,0.0,20160504,pound ted,120919116117556,,male,430619432.0
+125271.0,27548.0,1130310,centerpoint energy inc,0,1,0,0.0,20160516,mcgoldrick joseph b,120919116120476,Exec VP - Div Pres,male,430619432.0
+0.0,,1130310,centerpoint energy inc,0,1,0,0.0,20160518,mcgoldrick joseph b,120919116121235,Exec VP - Div Pres,male,430619432.0
+198833.0,,1130310,centerpoint energy inc,1,1,0,0.0,20160603,carroll milton,120919116125562,Executive Chairman,male,430619432.0
+42240.0,,1130310,centerpoint energy inc,1,0,0,0.0,20160927,rheney susan,120919116142898,,female,430681744.0
+108035.0,303.0,1130310,centerpoint energy inc,0,1,0,0.0,20161110,mcgoldrick joseph b,120919116149400,Exec VP - Div Pres,male,430682420.0
+54489.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170213,rogers william d,120919117010117,EVP & Chief Financial Officer,male,430688867.0
+79912.0,39506.0,1130310,centerpoint energy inc,0,1,0,0.0,20170222,bridge tracy b,120919117013222,Exec VP - Div Pres,female,430688867.0
+194605.0,,1130310,centerpoint energy inc,1,1,0,0.0,20170222,carroll milton,120919117013229,Executive Chairman,male,430688867.0
+33156.0,189.0,1130310,centerpoint energy inc,0,1,0,0.0,20170222,colvin kristie,120919117013233,SVP and CAO,female,430688867.0
+105793.0,305.0,1130310,centerpoint energy inc,0,1,0,0.0,20170222,mcgoldrick joseph b,120919117013239,Exec VP - Div Pres,male,430688867.0
+19629.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170222,o'brien dana c.,120919117013242,"SVP, Gen Counsel, Corp Sec",female,430688867.0
+13953.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170222,ortenstone susan b,120919117013246,SVP and Chief HR Officer,female,430688867.0
+177861.0,6538.0,1130310,centerpoint energy inc,1,1,0,0.0,20170222,prochazka scott m,120919117013255,President & CEO,male,430688867.0
+28366.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170223,o'brien dana c.,120919117013826,"SVP, Gen Counsel, Corp Sec",female,430688867.0
+19229.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170223,ortenstone susan b,120919117013822,SVP and Chief HR Officer,female,430688867.0
+231976.0,6538.0,1130310,centerpoint energy inc,1,1,0,0.0,20170223,prochazka scott m,120919117013820,President & CEO,male,430688867.0
+67020.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170223,rogers william d,120919117013809,EVP & Chief Financial Officer,male,430688867.0
+35760.0,189.0,1130310,centerpoint energy inc,0,1,0,0.0,20170223,colvin kristie,120919117013814,SVP and CAO,female,430688867.0
+217478.0,,1130310,centerpoint energy inc,1,1,0,0.0,20170223,carroll milton,120919117013818,Executive Chairman,male,430688867.0
+89292.0,39506.0,1130310,centerpoint energy inc,0,1,0,0.0,20170223,bridge tracy b,120919117013829,Exec VP - Div Pres,female,430688867.0
+254466.0,6538.0,1130310,centerpoint energy inc,1,1,0,0.0,20170302,prochazka scott m,120919117016561,President & CEO,male,430688867.0
+104620.0,305.0,1130310,centerpoint energy inc,0,1,0,0.0,20170302,mcgoldrick joseph b,120919117016556,Exec VP - Div Pres,male,430688867.0
+22317.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170302,ortenstone susan b,120919117016566,SVP and Chief HR Officer,female,430688867.0
+32400.0,,1130310,centerpoint energy inc,0,1,0,0.0,20170302,o'brien dana c.,120919117016569,"SVP, Gen Counsel, Corp Sec",female,430688867.0
+95695.0,39506.0,1130310,centerpoint energy inc,0,1,0,0.0,20170302,bridge tracy b,120919117016573,Exec VP - Div Pres,female,430688867.0
+229948.0,,1130310,centerpoint energy inc,1,1,0,0.0,20170302,carroll milton,120919117016582,Executive Chairman,male,430688867.0
+36673.0,185.0,1130310,centerpoint energy inc,0,1,0,0.0,20170302,colvin kristie,120919117016579,SVP and CAO,female,430688867.0
+253466.0,6594.0,1130310,centerpoint energy inc,1,1,0,0.0,20170405,prochazka scott m,120919117025566,President & CEO,male,430958032.0
+252466.0,6589.0,1130310,centerpoint energy inc,1,1,0,0.0,20170503,prochazka scott m,120919117029672,President & CEO,male,430964722.0
+25332.0,,1130310,centerpoint energy inc,1,0,0,0.0,20170503,smith phillip r,120919117029675,,male,430964722.0
+66832.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20170503,wareing peter s,120919117029680,,male,430964722.0
+65651.0,,1130310,centerpoint energy inc,1,0,0,0.0,20170503,longoria janiece m,120919117029683,,male,430964722.0
+16359.0,,1130310,centerpoint energy inc,1,0,0,0.0,20170503,pound ted,120919117029687,,male,430964722.0
+42832.0,3200.0,1130310,centerpoint energy inc,1,0,0,0.0,20170503,johnson michael p,120919117029689,,male,430964722.0
+4592.0,,1130310,centerpoint energy inc,1,0,0,0.0,20170503,somerhalder john w ii,120919117029691,,male,430964722.0
+20832.0,,1130310,centerpoint energy inc,1,0,0,0.0,20170503,mclean scott j,120919117029692,,male,430964722.0
+46832.0,,1130310,centerpoint energy inc,1,0,0,0.0,20170503,rheney susan,120919117029694,,female,430964722.0
+251466.0,6586.0,1130310,centerpoint energy inc,1,1,0,0.0,20170602,prochazka scott m,120919117037148,President & CEO,male,430964722.0
+217500.0,,1130310,centerpoint energy inc,1,1,0,0.0,20170605,carroll milton,120919117037657,Executive Chairman,male,430964722.0
+250466.0,6654.0,1130310,centerpoint energy inc,1,1,0,0.0,20170705,prochazka scott m,120919117043215,President & CEO,male,431021192.0
+249466.0,6654.0,1130310,centerpoint energy inc,1,1,0,0.0,20170801,prochazka scott m,120919117046922,President & CEO,male,431024401.0
+248466.0,6644.0,1130310,centerpoint energy inc,1,1,0,0.0,20170905,prochazka scott m,120919117051275,President & CEO,male,431024401.0
+247466.0,6705.0,1130310,centerpoint energy inc,1,1,0,0.0,20171003,prochazka scott m,120919117055145,President & CEO,male,431030884.0
+246466.0,6703.0,1130310,centerpoint energy inc,1,1,0,0.0,20171103,prochazka scott m,120919117059143,President & CEO,male,431033509.0
+8247.0,10490.0,1130310,centerpoint energy inc,0,1,0,0.0,20171107,vortherms joseph john,120919117059596,Senior VP,male,431033509.0
+245466.0,6700.0,1130310,centerpoint energy inc,1,1,0,0.0,20171205,prochazka scott m,120919117063882,President & CEO,male,431033509.0
+237516.0,6769.0,1130310,centerpoint energy inc,1,1,0,0.0,20180104,prochazka scott m,120919118001967,President & CEO,male,431044845.0
+236516.0,6771.0,1130310,centerpoint energy inc,1,1,0,0.0,20180205,prochazka scott m,120919118007415,President & CEO,male,431044845.0
+213380.0,,1130310,centerpoint energy inc,1,1,0,0.0,20180221,carroll milton,120919118012021,Executive Chairman,male,431048125.0
+35937.0,190.0,1130310,centerpoint energy inc,0,1,0,0.0,20180221,colvin kristie,120919118012022,SVP and CAO,female,431048125.0
+23514.0,6357.0,1130310,centerpoint energy inc,0,1,0,0.0,20180221,doyle scott edward,120919118012023,Senior VP,male,431048125.0
+30720.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180221,o'brien dana c.,120919118012025,SVP & Gen Counsel,female,431048125.0
+21000.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180221,ortenstone susan b,120919118012027,SVP and Chief HR Officer,female,431048125.0
+227358.0,6771.0,1130310,centerpoint energy inc,1,1,0,0.0,20180221,prochazka scott m,120919118012029,President & CEO,male,431048125.0
+64997.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180221,rogers william d,120919118012030,EVP & Chief Financial Officer,male,431048125.0
+7968.0,10596.0,1130310,centerpoint energy inc,0,1,0,0.0,20180221,vortherms joseph john,120919118012033,Senior VP,male,431048125.0
+93214.0,40913.0,1130310,centerpoint energy inc,0,1,0,0.0,20180221,bridge tracy b,120919118012019,Exec VP - Div Pres,female,431048125.0
+103517.0,40913.0,1130310,centerpoint energy inc,0,1,0,0.0,20180222,bridge tracy b,120919118012522,Exec VP - Div Pres,female,431048125.0
+237286.0,,1130310,centerpoint energy inc,1,1,0,0.0,20180222,carroll milton,120919118012520,Executive Chairman,male,431048125.0
+38841.0,190.0,1130310,centerpoint energy inc,0,1,0,0.0,20180222,colvin kristie,120919118012518,SVP and CAO,female,431048125.0
+78353.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180222,rogers william d,120919118012514,EVP & Chief Financial Officer,male,431048125.0
+26836.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180222,ortenstone susan b,120919118012515,SVP and Chief HR Officer,female,431048125.0
+288873.0,6771.0,1130310,centerpoint energy inc,1,1,0,0.0,20180222,prochazka scott m,120919118012513,President & CEO,male,431048125.0
+11487.0,10596.0,1130310,centerpoint energy inc,0,1,0,0.0,20180222,vortherms joseph john,120919118012512,Senior VP,male,431048125.0
+39968.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180222,o'brien dana c.,120919118012516,SVP & Gen Counsel,female,431048125.0
+27723.0,6357.0,1130310,centerpoint energy inc,0,1,0,0.0,20180222,doyle scott edward,120919118012517,Senior VP,male,431048125.0
+116969.0,40913.0,1130310,centerpoint energy inc,0,1,0,0.0,20180226,bridge tracy b,120919118013309,Exec VP - Div Pres,female,431048125.0
+258739.0,,1130310,centerpoint energy inc,1,1,0,0.0,20180226,carroll milton,120919118013321,Executive Chairman,male,431048125.0
+42234.0,190.0,1130310,centerpoint energy inc,0,1,0,0.0,20180226,colvin kristie,120919118013323,SVP and CAO,female,431048125.0
+30938.0,6357.0,1130310,centerpoint energy inc,0,1,0,0.0,20180226,doyle scott edward,120919118013324,Senior VP,male,431048125.0
+48866.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180226,o'brien dana c.,120919118013326,SVP & Gen Counsel,female,431048125.0
+33494.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180226,ortenstone susan b,120919118013327,SVP and Chief HR Officer,female,431048125.0
+330247.0,6771.0,1130310,centerpoint energy inc,1,1,0,0.0,20180226,prochazka scott m,120919118013331,President & CEO,male,431048125.0
+89323.0,,1130310,centerpoint energy inc,0,1,0,0.0,20180226,rogers william d,120919118013334,EVP & Chief Financial Officer,male,431048125.0
+12688.0,10596.0,1130310,centerpoint energy inc,0,1,0,0.0,20180226,vortherms joseph john,120919118013337,Senior VP,male,431048125.0
+215376.0,,1130310,centerpoint energy inc,1,1,0,0.0,20180301,carroll milton,120919118014946,Executive Chairman,male,431048125.0
+329247.0,6773.0,1130310,centerpoint energy inc,1,1,0,0.0,20180305,prochazka scott m,120919118016719,President & CEO,male,431048125.0
+325247.0,6841.0,1130310,centerpoint energy inc,1,1,0,0.0,20180403,prochazka scott m,120919118022876,President & CEO,male,431471369.0
+71942.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20180503,wareing peter s,120919118027832,,male,431473292.0
+5110.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,biddle leslie d.,120919118027794,,female,431473292.0
+25942.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,mclean scott j,120919118027825,,male,431473292.0
+21502.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,pound ted,120919118027826,,male,431473292.0
+51942.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,rheney susan,120919118027829,,female,431473292.0
+30442.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,smith phillip r,120919118027830,,male,431473292.0
+9702.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,somerhalder john w ii,120919118027831,,male,431473292.0
+321247.0,6841.0,1130310,centerpoint energy inc,1,1,0,0.0,20180503,prochazka scott m,120919118027834,President & CEO,male,431473292.0
+5110.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180503,nesbitt martin h.,120919118027905,,male,431473292.0
+18302.0,,1130310,centerpoint energy inc,1,0,0,0.0,20180508,pound ted,120919118028651,,male,431473292.0
+152597.0,,1130310,centerpoint energy inc,1,1,0,0.0,20180516,carroll milton,120919118030469,Executive Chairman,male,431473292.0
+317247.0,6844.0,1130310,centerpoint energy inc,1,1,0,0.0,20180605,prochazka scott m,120919118035608,President & CEO,male,431473292.0
+313247.0,6910.0,1130310,centerpoint energy inc,1,1,0,0.0,20180702,prochazka scott m,120919118040470,President & CEO,male,431547782.0
+309247.0,6906.0,1130310,centerpoint energy inc,1,1,0,0.0,20180802,prochazka scott m,120919118044925,President & CEO,male,431553691.0
+142597.0,,1130310,centerpoint energy inc,1,1,0,0.0,20180809,carroll milton,120919118046027,Executive Chairman,male,431553691.0
+305247.0,6909.0,1130310,centerpoint energy inc,1,1,0,0.0,20180906,prochazka scott m,120919118049850,President & CEO,male,431553691.0
+301247.0,6976.0,1130310,centerpoint energy inc,1,1,0,0.0,20181003,prochazka scott m,120919118053900,President & CEO,male,431555853.0
+297247.0,6978.0,1130310,centerpoint energy inc,1,1,0,0.0,20181105,prochazka scott m,120919118057209,President & CEO,male,501191387.0
+293247.0,6972.0,1130310,centerpoint energy inc,1,1,0,0.0,20181206,prochazka scott m,120919118061239,President & CEO,male,501191387.0
+289247.0,7038.0,1130310,centerpoint energy inc,1,1,0,0.0,20190103,prochazka scott m,120919119000861,President & CEO,male,501197784.0
+285247.0,7028.0,1130310,centerpoint energy inc,1,1,0,0.0,20190205,prochazka scott m,120919119007303,President & CEO,male,501197784.0
+100762.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190221,rogers william d,120919119011983,EVP & Chief Financial Officer,male,501206304.0
+166339.0,,1130310,centerpoint energy inc,1,1,0,0.0,20190221,carroll milton,120919119011972,Executive Chairman,male,501206304.0
+39213.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190221,ortenstone susan b,120919119011978,SVP and Chief HR Officer,female,501206304.0
+37873.0,6599.0,1130310,centerpoint energy inc,0,1,0,0.0,20190221,doyle scott edward,120919119011961,Senior VP,male,501206304.0
+342474.0,7028.0,1130310,centerpoint energy inc,1,1,0,0.0,20190221,prochazka scott m,120919119011963,President & CEO,male,501206304.0
+44971.0,192.0,1130310,centerpoint energy inc,0,1,0,0.0,20190221,colvin kristie,120919119011968,SVP and CAO,female,501206304.0
+126120.0,42467.0,1130310,centerpoint energy inc,0,1,0,0.0,20190221,bridge tracy b,120919119011970,Exec VP - Div Pres,female,501206304.0
+18071.0,10999.0,1130310,centerpoint energy inc,0,1,0,0.0,20190221,vortherms joseph john,120919119011986,Senior VP,male,501206304.0
+57772.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190221,o'brien dana c.,120919119011974,SVP & Gen Counsel,female,501206304.0
+97327.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190226,rogers william d,120919119013472,EVP & Chief Financial Officer,male,501206304.0
+322362.0,7028.0,1130310,centerpoint energy inc,1,1,0,0.0,20190226,prochazka scott m,120919119013485,President & CEO,male,501206304.0
+37026.0,6599.0,1130310,centerpoint energy inc,0,1,0,0.0,20190226,doyle scott edward,120919119013492,Senior VP,male,501206304.0
+122991.0,42467.0,1130310,centerpoint energy inc,0,1,0,0.0,20190226,bridge tracy b,120919119013476,Exec VP - Div Pres,female,501206304.0
+17544.0,10999.0,1130310,centerpoint energy inc,0,1,0,0.0,20190226,vortherms joseph john,120919119013479,Senior VP,male,501206304.0
+159021.0,,1130310,centerpoint energy inc,1,1,0,0.0,20190226,carroll milton,120919119013466,Executive Chairman,male,501206304.0
+37496.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190226,ortenstone susan b,120919119013462,SVP and Chief HR Officer,female,501206304.0
+55311.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190226,o'brien dana c.,120919119013457,SVP & Gen Counsel,female,501206304.0
+44021.0,192.0,1130310,centerpoint energy inc,0,1,0,0.0,20190226,colvin kristie,120919119013451,SVP and CAO,female,501206304.0
+22400.0,10999.0,1130310,centerpoint energy inc,0,1,0,0.0,20190304,vortherms joseph john,120919119015535,Senior VP,male,501206304.0
+130637.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190304,rogers william d,120919119015543,EVP & Chief Financial Officer,male,501206304.0
+458269.0,7028.0,1130310,centerpoint energy inc,1,1,0,0.0,20190304,prochazka scott m,120919119015546,President & CEO,male,501206304.0
+55598.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190304,ortenstone susan b,120919119015556,SVP and Chief HR Officer,female,501206304.0
+80255.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190304,o'brien dana c.,120919119015563,SVP & Gen Counsel,female,501206304.0
+45027.0,6599.0,1130310,centerpoint energy inc,0,1,0,0.0,20190304,doyle scott edward,120919119015573,Senior VP,male,501206304.0
+53158.0,192.0,1130310,centerpoint energy inc,0,1,0,0.0,20190304,colvin kristie,120919119015578,SVP and CAO,female,501206304.0
+225301.0,,1130310,centerpoint energy inc,1,1,0,0.0,20190304,carroll milton,120919119015586,Executive Chairman,male,501206304.0
+153600.0,42467.0,1130310,centerpoint energy inc,0,1,0,0.0,20190304,bridge tracy b,120919119015596,Exec VP - Div Pres,female,501206304.0
+42687.0,6599.0,1130310,centerpoint energy inc,0,1,0,0.0,20190305,doyle scott edward,120919119016375,Senior VP,male,501206304.0
+150301.0,,1130310,centerpoint energy inc,1,1,0,0.0,20190306,carroll milton,120919119017296,Executive Chairman,male,501206304.0
+20400.0,10999.0,1130310,centerpoint energy inc,0,1,0,0.0,20190306,vortherms joseph john,120919119017294,Senior VP,male,501206304.0
+110301.0,,1130310,centerpoint energy inc,1,1,0,0.0,20190307,carroll milton,120919119017833,Executive Chairman,male,501206304.0
+451269.0,7094.0,1130310,centerpoint energy inc,1,1,0,0.0,20190405,prochazka scott m,120919119023826,President & CEO,male,502168182.0
+35045.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190423,liu xia,120919119025601,EVP & Chief Financial Officer,male,502168182.0
+15402.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190426,ryan jason michael,120919119026223,SVP & General Counsel,male,502173861.0
+35315.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,smith phillip r,120919119027414,,male,502173861.0
+30815.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,mclean scott j,120919119027549,,male,502173861.0
+76815.0,70000.0,1130310,centerpoint energy inc,1,0,0,0.0,20190503,wareing peter s,120919119027425,,male,502173861.0
+14575.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,somerhalder john w ii,120919119027417,,male,502173861.0
+56815.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,rheney susan,120919119027410,,female,502173861.0
+23181.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,pound ted,120919119027404,,male,502173861.0
+9983.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,nesbitt martin h.,120919119027400,,male,502173861.0
+9983.0,,1130310,centerpoint energy inc,1,0,0,0.0,20190503,biddle leslie d.,120919119027388,,female,502173861.0
+444269.0,7093.0,1130310,centerpoint energy inc,1,1,0,0.0,20190503,prochazka scott m,120919119027384,President & CEO,male,502173861.0
+90521.0,,1130310,centerpoint energy inc,1,1,0,0.0,20190521,carroll milton,120919119031768,Executive Chairman,male,502173861.0
+3183.0,,1130310,centerpoint energy inc,0,1,0,0.0,20190603,ryan jason michael,120919119033870,SVP & General Counsel,male,502173861.0
+437269.0,7108.0,1130310,centerpoint energy inc,1,1,0,0.0,20190605,prochazka scott m,120919119034750,President & CEO,male,502173861.0
+430269.0,7172.0,1130310,centerpoint energy inc,1,1,0,0.0,20190703,prochazka scott m,120919119041135,President & CEO,male,502214639.0
+423269.0,7169.0,1130310,centerpoint energy inc,1,1,0,0.0,20190805,prochazka scott m,120919119044559,President & CEO,male,502218696.0
+416269.0,7174.0,1130310,centerpoint energy inc,1,1,0,0.0,20190905,prochazka scott m,120919119048576,President & CEO,male,502218696.0
+409269.0,7233.0,1130310,centerpoint energy inc,1,1,0,0.0,20191002,prochazka scott m,120919119051646,President & CEO,male,502235354.0
+402269.0,7238.0,1130310,centerpoint energy inc,1,1,0,0.0,20191104,prochazka scott m,120919119054862,President & CEO,male,502241723.0
+395269.0,7266.0,1130310,centerpoint energy inc,1,1,0,0.0,20191204,prochazka scott m,120919119059072,President & CEO,male,502241723.0
+366169.0,7335.0,1130310,centerpoint energy inc,1,1,0,0.0,20200106,prochazka scott m,120919120002024,President & CEO,male,502242061.0
+359169.0,7337.0,1130310,centerpoint energy inc,1,1,0,0.0,20200205,prochazka scott m,120919120006997,President & CEO,male,502242061.0
+56554.0,194.0,1130310,centerpoint energy inc,0,1,0,0.0,20200221,colvin kristie,120919120011607,SVP and CAO,female,502242061.0
+26756.0,11482.0,1130310,centerpoint energy inc,0,1,0,0.0,20200221,vortherms joseph john,120919120011628,Senior VP,male,502242061.0
+52335.0,6889.0,1130310,centerpoint energy inc,0,1,0,0.0,20200221,doyle scott edward,120919120011611,EVP,male,502242061.0
+120771.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200221,carroll milton,120919120011596,Executive Chairman,male,502242061.0
+50879.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200221,liu xia,120919120011617,EVP & Chief Financial Officer,male,502242061.0
+62685.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200221,ortenstone susan b,120919120011622,SVP and Chief HR Officer,female,502242061.0
+24664.0,3254.0,1130310,centerpoint energy inc,0,1,0,0.0,20200221,ryan jason michael,120919120011624,SVP & General Counsel,male,502242061.0
+55781.0,194.0,1130310,centerpoint energy inc,0,1,0,0.0,20200225,colvin kristie,120919120012618,SVP and CAO,female,502242061.0
+61242.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200225,ortenstone susan b,120919120012623,SVP and Chief HR Officer,female,502242061.0
+24229.0,3254.0,1130310,centerpoint energy inc,0,1,0,0.0,20200225,ryan jason michael,120919120012625,SVP & General Counsel,male,502242061.0
+51334.0,6889.0,1130310,centerpoint energy inc,0,1,0,0.0,20200225,doyle scott edward,120919120012629,EVP,male,502242061.0
+26003.0,11482.0,1130310,centerpoint energy inc,0,1,0,0.0,20200225,vortherms joseph john,120919120012632,Senior VP,male,502242061.0
+115134.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200225,carroll milton,120919120012634,Executive Chairman,male,502242061.0
+151194.0,44333.0,1130310,centerpoint energy inc,0,1,0,0.0,20200225,bridge tracy b,120919120012636,Exec VP - Div Pres,female,502242061.0
+69093.0,7043.0,1130310,centerpoint energy inc,0,1,0,0.0,20200302,mercado kenneth m,120919120014630,SVP,male,502242061.0
+138285.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200302,carroll milton,120919120014625,Executive Chairman,male,502242061.0
+58650.0,194.0,1130310,centerpoint energy inc,0,1,0,0.0,20200302,colvin kristie,120919120014623,SVP and CAO,female,502242061.0
+25760.0,3254.0,1130310,centerpoint energy inc,0,1,0,0.0,20200302,ryan jason michael,120919120014619,SVP & General Counsel,male,502242061.0
+28818.0,11482.0,1130310,centerpoint energy inc,0,1,0,0.0,20200302,vortherms joseph john,120919120014611,Senior VP,male,502242061.0
+54612.0,6889.0,1130310,centerpoint energy inc,0,1,0,0.0,20200302,doyle scott edward,120919120014609,EVP,male,502242061.0
+67154.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200302,ortenstone susan b,120919120014615,SVP and Chief HR Officer,female,502242061.0
+72300.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200317,somerhalder john w ii,120919120019671,Interim President and CEO,male,502242061.0
+67097.0,195.0,1130310,centerpoint energy inc,0,1,0,0.0,20200408,colvin kristie,120919120023935,Interim EVP and CFO and CAO,female,502647495.0
+47835.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200424,liu xia,120919120025631,Senior Advisor,male,502656951.0
+65928.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200505,rheney susan,120919120027210,,female,502656951.0
+44428.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200505,smith phillip r,120919120027215,,male,502656951.0
+32294.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200505,pound ted,120919120027208,,male,502656951.0
+39928.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200505,mclean scott j,120919120027201,,male,502656951.0
+19096.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200505,biddle leslie d.,120919120027197,,female,502656951.0
+19096.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200505,nesbitt martin h.,120919120027207,,male,502656951.0
+18000.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200513,smitherman barry t,120919120028876,,male,502656951.0
+17110.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200513,lesar david j,120919120028885,,male,502656951.0
+148477.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200603,somerhalder john w ii,120919120034052,Interim President and CEO,male,502656951.0
+25420.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200608,lesar david j,120919120035009,,male,502656951.0
+26310.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200608,smitherman barry t,120919120035013,,male,502656951.0
+7987.0,,1130310,centerpoint energy inc,1,0,0,0.0,20200706,cummings earl m,120919120041129,,male,544709048.0
+72546.0,196.0,1130310,centerpoint energy inc,0,1,0,0.0,20200706,colvin kristie,120919120041103,Interim EVP and CFO and CAO,female,544709048.0
+186603.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200706,lesar david j,120919120041278,President & CEO,male,544709048.0
+205915.0,,1130310,centerpoint energy inc,1,1,0,0.0,20200706,carroll milton,120919120041320,Executive Chairman,male,544709048.0
+29020.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200730,harkel-rumford lynne louise,120919120044081,SVP and Chief HR Officer,female,544818974.0
+19710.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200730,karuturi monica,120919120044093,SVP and General Counsel,female,544818974.0
+40417.0,4485.0,1130310,centerpoint energy inc,0,1,0,0.0,20200819,knight gregory e.,120919120047612,EVP Cust. Trans. & Bus. Svcs.,male,544818974.0
+78207.0,,1130310,centerpoint energy inc,0,1,0,0.0,20200930,wells jason p.,120919120052477,EVP & CFO,male,544819895.0
+242331.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210222,carroll milton,120919121012857,Executive Chairman,male,551355861.0
+66051.0,7227.0,1130310,centerpoint energy inc,0,1,0,0.0,20210222,doyle scott edward,120919121012856,EVP,male,551355861.0
+279722.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210222,lesar david j,120919121012859,President & CEO,male,551355861.0
+97416.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210222,wells jason p.,120919121012858,EVP & CFO,male,551355861.0
+51311.0,4631.0,1130310,centerpoint energy inc,0,1,0,0.0,20210222,knight gregory e.,120919121012855,EVP Cust. Trans. & Bus. Svcs.,male,551355861.0
+35924.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210222,harkel-rumford lynne louise,120919121012850,SVP and Chief HR Officer,female,551355861.0
+30857.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210222,karuturi monica,120919121012852,SVP and General Counsel,female,551355861.0
+77018.0,196.0,1130310,centerpoint energy inc,0,1,0,0.0,20210222,colvin kristie,120919121012846,SVP and CAO,female,551355861.0
+80532.0,7496.0,1130310,centerpoint energy inc,0,1,0,0.0,20210222,mercado kenneth m,120919121012854,EVP,male,551355861.0
+35118.0,3414.0,1130310,centerpoint energy inc,0,1,0,0.0,20210222,ryan jason michael,120919121012848,"SVP, Reg. Svcs. & Gov. Affairs",male,551355861.0
+30522.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210223,karuturi monica,120919121013395,SVP and General Counsel,female,551355861.0
+35489.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210223,harkel-rumford lynne louise,120919121013402,SVP and Chief HR Officer,female,551355861.0
+34663.0,3414.0,1130310,centerpoint energy inc,0,1,0,0.0,20210223,ryan jason michael,120919121013409,"SVP, Reg. Svcs. & Gov. Affairs",male,551355861.0
+76156.0,196.0,1130310,centerpoint energy inc,0,1,0,0.0,20210223,colvin kristie,120919121013416,SVP and CAO,female,551355861.0
+79703.0,7496.0,1130310,centerpoint energy inc,0,1,0,0.0,20210223,mercado kenneth m,120919121013421,EVP,male,551355861.0
+64817.0,7227.0,1130310,centerpoint energy inc,0,1,0,0.0,20210223,doyle scott edward,120919121013430,EVP,male,551355861.0
+236364.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210223,carroll milton,120919121013425,Executive Chairman,male,551355861.0
+69139.0,7227.0,1130310,centerpoint energy inc,0,1,0,0.0,20210301,doyle scott edward,120919121015467,EVP,male,551355861.0
+31960.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210301,karuturi monica,120919121015448,SVP and General Counsel,female,551355861.0
+36881.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210301,harkel-rumford lynne louise,120919121015450,SVP and Chief HR Officer,female,551355861.0
+36118.0,3414.0,1130310,centerpoint energy inc,0,1,0,0.0,20210301,ryan jason michael,120919121015454,"SVP, Reg. Svcs. & Gov. Affairs",male,551355861.0
+79051.0,196.0,1130310,centerpoint energy inc,0,1,0,0.0,20210301,colvin kristie,120919121015459,SVP and CAO,female,551355861.0
+82490.0,7496.0,1130310,centerpoint energy inc,0,1,0,0.0,20210301,mercado kenneth m,120919121015461,EVP,male,551355861.0
+259642.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210301,carroll milton,120919121015464,Executive Chairman,male,551355861.0
+69096.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210303,biddle leslie d.,120919121017383,,female,551355861.0
+36310.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210303,smitherman barry t,120919121017373,,male,551355861.0
+86272.0,7524.0,1130310,centerpoint energy inc,0,1,0,0.0,20210304,mercado kenneth m,120919121017991,EVP,male,551355861.0
+34096.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210308,biddle leslie d.,120919121018692,,female,551355861.0
+42657.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210504,smitherman barry t,120919121029960,,male,580495853.0
+38641.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210504,pound ted,120919121029955,,male,580495853.0
+14334.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210504,cummings earl m,120919121029952,,male,580495853.0
+6347.0,19096.0,1130310,centerpoint energy inc,1,0,0,0.0,20210504,nesbitt martin h.,120919121029964,,male,580495853.0
+40443.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210504,biddle leslie d.,120919121029950,,female,580495853.0
+6347.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210504,cloonan wendolynn montoya,120919121029946,,male,580495853.0
+50775.0,,1130310,centerpoint energy inc,1,0,0,0.0,20210504,smith phillip r,120919121029951,,male,580495853.0
+107416.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210512,wells jason p.,120919121031951,EVP & CFO,male,580495853.0
+329722.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210513,lesar david j,120919121032433,President & CEO,male,580495853.0
+322915.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210702,lesar david j,120919121044885,President & CEO,male,592852490.0
+249431.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210702,carroll milton,120919121044898,Executive Chairman,male,592852490.0
+722915.0,,1130310,centerpoint energy inc,1,1,0,0.0,20210722,lesar david j,120919121047812,President & CEO,male,592852490.0
+50131.0,4868.0,1130310,centerpoint energy inc,0,1,0,0.0,20210818,knight gregory e.,120919121052251,EVP Cust. Trans. & Bus. Svcs.,male,592890377.0
+98590.0,,1130310,centerpoint energy inc,0,1,0,0.0,20210929,wells jason p.,120919121058081,EVP & CFO,male,592890377.0
+3619.0,,1130310,centerpoint energy inc,1,0,0,0.0,20211001,raquelle wooten lewis,120919121058453,,male,628849375.0
+25747.0,,1130310,centerpoint energy inc,1,0,0,0.0,20211109,smitherman barry t,120919121063606,,male,628865734.0
+13292.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220125,peterson stacey lynn,120919122004817,SVP and CAO,female,628923534.0
+83085.0,7375.0,1130310,centerpoint energy inc,0,1,0,0.0,20220217,doyle scott edward,113031022000016,EVP,male,628923534.0
+43942.0,3484.0,1130310,centerpoint energy inc,0,1,0,0.0,20220217,ryan jason michael,113031022000015,"EVP, Reg. Svcs. & Gov. Affairs",male,628923534.0
+42205.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220217,karuturi monica,113031022000014,EVP and General Counsel,female,628923534.0
+15818.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220217,peterson stacey lynn,113031022000012,SVP and CAO,female,628923534.0
+59493.0,4942.0,1130310,centerpoint energy inc,0,1,0,0.0,20220217,knight gregory e.,113031022000011,EVP Cust. Trans. & Bus. Svcs.,male,628923534.0
+43087.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220217,harkel-rumford lynne louise,113031022000013,EVP and Chief HR Officer,female,628923534.0
+1201766.0,,1130310,centerpoint energy inc,1,1,0,0.0,20220217,lesar david j,113031022000009,President & CEO,male,628923534.0
+114744.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220217,wells jason p.,113031022000010,EVP & CFO,male,628923534.0
+81361.0,7375.0,1130310,centerpoint energy inc,0,1,0,0.0,20220222,doyle scott edward,113031022000030,EVP,male,628923534.0
+41913.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220222,karuturi monica,113031022000031,EVP and General Counsel,female,628923534.0
+42834.0,3484.0,1130310,centerpoint energy inc,0,1,0,0.0,20220222,ryan jason michael,113031022000032,"EVP, Reg. Svcs. & Gov. Affairs",male,628923534.0
+42702.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220222,harkel-rumford lynne louise,113031022000033,EVP and Chief HR Officer,female,628923534.0
+90441.0,7375.0,1130310,centerpoint energy inc,0,1,0,0.0,20220224,doyle scott edward,113031022000038,EVP,male,628923534.0
+48228.0,3484.0,1130310,centerpoint energy inc,0,1,0,0.0,20220224,ryan jason michael,113031022000041,"EVP, Reg. Svcs. & Gov. Affairs",male,628923534.0
+44449.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220224,harkel-rumford lynne louise,113031022000040,EVP and Chief HR Officer,female,628923534.0
+43653.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220224,karuturi monica,113031022000039,EVP and General Counsel,female,628923534.0
+23747.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220311,smitherman barry t,113031022000043,,male,628923534.0
+28876.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,smitherman barry t,113031022000079,,male,629448787.0
+19463.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,cummings earl m,113031022000080,,male,629448787.0
+11476.0,19096.0,1130310,centerpoint energy inc,1,0,0,0.0,20220504,nesbitt martin h.,113031022000081,,male,629448787.0
+5129.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,franklin chris,113031022000078,,male,629448787.0
+55904.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,smith phillip r,113031022000077,,male,629448787.0
+8748.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,raquelle wooten lewis,113031022000075,,male,629448787.0
+11476.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,cloonan wendolynn montoya,113031022000074,,male,629448787.0
+43770.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220504,pound ted,113031022000076,,male,629448787.0
+12529.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220506,smitherman barry t,113031022000083,,male,629448787.0
+1194959.0,,1130310,centerpoint energy inc,1,1,0,0.0,20220706,lesar david j,113031022000091,President & CEO,male,629490422.0
+19096.0,,1130310,centerpoint energy inc,1,0,0,0.0,20220818,nesbitt martin h.,113031022000110,,male,629502911.0
+58313.0,5160.0,1130310,centerpoint energy inc,0,1,0,0.0,20220819,knight gregory e.,113031022000112,EVP Cust. Trans. & Bus. Svcs.,male,629502911.0
+106554.0,,1130310,centerpoint energy inc,0,1,0,0.0,20220930,wells jason p.,113031022000116,EVP & CFO,male,629532024.0
+20534.0,,1130310,centerpoint energy inc,1,0,0,0.0,20221109,smitherman barry t,113031022000126,,male,629535631.0
+45560.0,,1130310,centerpoint energy inc,0,1,0,0.0,20221227,wells jason p.,113031022000131,EVP & CFO,male,629535631.0
+1042459.0,,1130310,centerpoint energy inc,1,1,0,0.0,20230104,lesar david j,113031023000004,CEO,male,629535631.0
+1327423.0,,1130310,centerpoint energy inc,1,1,0,0.0,20230217,lesar david j,113031023000025,CEO,male,629788724.0
+52345.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230217,harkel-rumford lynne louise,113031023000024,EVP and Chief HR Officer,female,629788724.0
+56982.0,3282.0,1130310,centerpoint energy inc,0,1,0,0.0,20230217,ryan jason michael,113031023000021,"EVP, Reg. Svcs. & Gov. Affairs",male,629788724.0
+94636.0,45560.0,1130310,centerpoint energy inc,0,1,0,0.0,20230217,wells jason p.,113031023000022,"President, COO & CFO",male,629788724.0
+59273.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230217,karuturi monica,113031023000026,EVP and General Counsel,female,629788724.0
+5749.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230217,ryan kara gostenhofer,113031023000023,Vice President and CAO,female,629788724.0
+65997.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230222,harkel-rumford lynne louise,113031023000038,EVP and Chief HR Officer,female,629788724.0
+7859.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230222,ryan kara gostenhofer,113031023000039,Vice President and CAO,female,629788724.0
+80428.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230222,karuturi monica,113031023000035,EVP and General Counsel,female,629788724.0
+172281.0,45560.0,1130310,centerpoint energy inc,0,1,0,0.0,20230222,wells jason p.,113031023000036,"President, COO & CFO",male,629788724.0
+84544.0,3282.0,1130310,centerpoint energy inc,0,1,0,0.0,20230222,ryan jason michael,113031023000040,"EVP, Reg. Svcs. & Gov. Affairs",male,629788724.0
+1636747.0,,1130310,centerpoint energy inc,1,1,0,0.0,20230222,lesar david j,113031023000037,CEO,male,629788724.0
+278412.0,,1130310,centerpoint energy inc,1,1,0,0.0,20230314,lesar david j,113031023000049,CEO,male,629788724.0
+17017.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,cloonan wendolynn montoya,113031023000071,,male,631029243.0
+25004.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,cummings earl m,113031023000072,,male,631029243.0
+10670.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,franklin chris,113031023000073,,male,631029243.0
+14289.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,raquelle wooten lewis,113031023000074,,male,631029243.0
+17017.0,19096.0,1130310,centerpoint energy inc,1,0,0,0.0,20230503,nesbitt martin h.,113031023000075,,male,631029243.0
+49311.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,pound ted,113031023000076,,male,631029243.0
+61445.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,smith phillip r,113031023000077,,male,631029243.0
+26075.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230503,smitherman barry t,113031023000078,,male,631029243.0
+142693.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230509,foster christopher a,113031023000084,EVP and CFO,male,631029243.0
+46541.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230509,pound ted,113031023000082,,male,631029243.0
+21075.0,,1130310,centerpoint energy inc,1,0,0,0.0,20230510,smitherman barry t,113031023000086,,male,631029243.0
+1308522.0,278412.0,1130310,centerpoint energy inc,1,1,0,0.0,20230703,lesar david j,113031023000097,CEO,male,631073571.0
+89215.0,3615.0,1130310,centerpoint energy inc,0,1,0,0.0,20230720,ryan jason michael,113031023000099,"EVP, Reg. Svcs. & Gov. Affairs",male,631184089.0
+3881.0,,1130310,centerpoint energy inc,0,1,0,0.0,20230815,wright russell keith,113031023000121,"VP, FP&A and Interim CAO",male,631184089.0
+162195.0,45560.0,1130310,centerpoint energy inc,0,1,0,0.0,20230929,wells jason p.,113031023000123,President & COO,male,631184089.0
+98944.0,235.0,1130310,centerpoint energy inc,0,1,0,0.0,20231006,colvin kristie,113031023000139,SVP and CAO,female,631209962.0
+3786.0,,1130310,centerpoint energy inc,1,0,0,0.0,20231006,raven ricky anthony,113031023000137,,male,631209962.0
+3786.0,,1130310,centerpoint energy inc,1,0,0,0.0,20231006,malik thaddeus j.,113031023000135,,male,631209962.0
+55560.0,,1130310,centerpoint energy inc,0,1,0,0.0,20231109,wells jason p.,113031023000150,President & COO,male,631223560.0
+37000.0,278412.0,1130310,centerpoint energy inc,1,1,0,0.0,20231113,lesar david j,113031023000152,CEO,male,631223560.0
+147693.0,,1130310,centerpoint energy inc,0,1,0,0.0,20231129,foster christopher a,113031023000154,EVP and CFO,male,631223560.0
+1077399.0,315412.0,1130310,centerpoint energy inc,1,1,0,0.0,20240103,lesar david j,113031024000002,CEO,male,631225829.0
+213774.0,55560.0,1130310,centerpoint energy inc,1,1,0,0.0,20240220,wells jason p.,113031024000028,President & CEO,male,631594706.0
+22222.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240220,carroll darin m,113031024000027,SVP Natural Gas Business,female,631594706.0
+164602.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240220,foster christopher a,113031024000026,EVP and CFO,male,631594706.0
+97337.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240220,karuturi monica,113031024000025,EVP and General Counsel,female,631594706.0
+98634.0,3668.0,1130310,centerpoint energy inc,0,1,0,0.0,20240220,ryan jason michael,113031024000022,"EVP, Reg. Svcs. & Gov. Affairs",male,631594706.0
+31440.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240220,wilson lynnae k,113031024000023,SVP Electric Business,male,631594706.0
+74519.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240220,harkel-rumford lynne louise,113031024000021,EVP and Chief HR Officer,female,631594706.0
+102846.0,235.0,1130310,centerpoint energy inc,0,1,0,0.0,20240220,colvin kristie,113031024000024,SVP and CAO,female,631594706.0
+119838.0,235.0,1130310,centerpoint energy inc,0,1,0,0.0,20240222,colvin kristie,113031024000042,SVP and CAO,female,631594706.0
+134744.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240222,karuturi monica,113031024000036,EVP and General Counsel,female,631594706.0
+99615.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240222,harkel-rumford lynne louise,113031024000037,EVP and Chief HR Officer,female,631594706.0
+274517.0,55560.0,1130310,centerpoint energy inc,1,1,0,0.0,20240222,wells jason p.,113031024000038,President & CEO,male,631594706.0
+130831.0,3668.0,1130310,centerpoint energy inc,0,1,0,0.0,20240222,ryan jason michael,113031024000039,"EVP, Reg. Svcs. & Gov. Affairs",male,631594706.0
+27319.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240222,carroll darin m,113031024000040,SVP Natural Gas Business,female,631594706.0
+42370.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240222,wilson lynnae k,113031024000041,SVP Electric Business,male,631594706.0
+687244.0,37000.0,1130310,centerpoint energy inc,1,1,0,0.0,20240314,lesar david j,113031024000050,Former CEO,male,631594706.0
+22815.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,cloonan wendolynn montoya,113031024000070,,male,639724143.0
+30802.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,cummings earl m,113031024000071,,male,639724143.0
+9584.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,raven ricky anthony,113031024000072,,male,639724143.0
+5798.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,duganier barbara j,113031024000073,,female,639724143.0
+67243.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,smith phillip r,113031024000074,,male,639724143.0
+9584.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,malik thaddeus j.,113031024000075,,male,639724143.0
+21203.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,smitherman barry t,113031024000076,,male,639724143.0
+20087.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,raquelle wooten lewis,113031024000077,,male,639724143.0
+52339.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,pound ted,113031024000078,,male,639724143.0
+16468.0,,1130310,centerpoint energy inc,1,0,0,0.0,20240503,franklin chris,113031024000079,,male,639724143.0
+139533.0,,1130310,centerpoint energy inc,0,1,0,0.0,20240506,foster christopher a,113031024000080,EVP and CFO,male,639724143.0
+28727.0,1642.0,1130310,centerpoint energy inc,0,1,0,0.0,20240731,leger richard c,113031024000099,Interim SVP Natural Gas,male,641966980.0
+32073.0,1720.0,1130310,centerpoint energy inc,0,1,0,0.0,20241002,leger richard c,113031024000107,Interim SVP Natural Gas,male,651721174.0

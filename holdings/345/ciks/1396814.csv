@@ -1,175 +1,554 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-2828941.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110210,gordon carl l,110465911006466,,male,574030.0
-184131.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110210,middleton fred a,118143111009235,,male,574030.0
-2828941.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20110210,evnin luke,120919111008437,,male,574030.0
-3137597.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110210,wicki andreas,110465911006517,,male,574030.0
-3137597.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20110210,hbm bioventures cayman ltd,110465911006516,,male,574030.0
-23600.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20110211,stack david m,118143111009446,President and CEO,male,574030.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20110216,scibetta james s,118143111010930,Chief Financial Officer,male,574030.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20110606,evnin luke,120919111033148,,male,574030.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,hastings paul j,118143111035024,,male,574030.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,middleton fred a,118143111035027,,male,574030.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,pace gary w,118143111035030,,male,574030.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,longenecker john p phd,118143111035033,,male,574030.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,brege laura,118143111035044,,female,574030.0
-3290479.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20111122,evnin luke,120919111057583,,male,17228827.0
-3445289.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20111122,wicki andreas,110465911065848,,male,17228827.0
-3445289.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20111122,hbm bioventures cayman ltd,110465911065849,,male,17228827.0
-7692.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20111123,pace gary w,110465911066163,,male,17228827.0
+3137597.0,,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20110210,hbm bioventures cayman ltd,110465911006516,,male,574030.0
+2828941.0,,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20110210,evnin luke,120919111008437,,male,574030.0
+3137597.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110210,wicki andreas,110465911006517,,male,574030.0
+184131.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110210,middleton fred a,118143111009235,,male,574030.0
+2828941.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110210,gordon carl l,110465911006466,,male,574030.0
+23600.0,,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20110211,stack david m,118143111009446,President and CEO,male,574030.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20110216,scibetta james s,118143111010930,Chief Financial Officer,male,574030.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20110606,evnin luke,120919111033148,,male,574030.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,hastings paul j,118143111035024,,male,574030.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,middleton fred a,118143111035027,,male,574030.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,brege laura,118143111035044,,female,574030.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,longenecker john p phd,118143111035033,,male,574030.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20110606,pace gary w,118143111035030,,male,574030.0
+3445289.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20111122,wicki andreas,110465911065848,,male,17228827.0
+3445289.0,,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20111122,hbm bioventures cayman ltd,110465911065849,,male,17228827.0
+3290479.0,,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20111122,evnin luke,120919111057583,,male,17228827.0
+7692.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20111123,pace gary w,110465911066163,,male,17228827.0
 10000.0,2921921.0,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20111123,middleton fred a,110465911066164,,male,17228827.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120105,pratt john,110465912000650,"General Manager, San Diego",male,25339038.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120405,pace gary w,110465912024121,,male,25413166.0
-17692.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120417,pace gary w,110465912025970,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20120606,evnin luke,120919112032532,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20120607,middleton fred a,110465912042345,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,patou gary,120919112032762,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,markvicka taunia,110465912042340,"Vice President, Commercial",male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,brege laura,110465912042341,,female,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,hastings paul j,110465912042344,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,pratt john,110465912042342,"General Manager, San Diego",male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20120607,stack david m,110465912042343,President and CEO,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,scibetta james s,110465912042349,Chief Financial Officer,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,pace gary w,110465912042348,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,longenecker john p phd,110465912042347,,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,riker lauren bullaro,110465912042346,"Executive Director, Accounting",female,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120611,patou gary,120919112033182,Chief Medical Officer,male,25413166.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120821,pace gary w,110465912059261,,male,32419407.0
-2790479.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130313,evnin luke,120919113016168,,male,32622984.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130314,pratt john,110465913020682,"General Manager, San Diego",male,32622984.0
-2000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130318,riker lauren bullaro,110465913021821,"Executive Director, Accounting",female,32622984.0
-2290479.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130319,evnin luke,120919113017433,,male,32622984.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120105,pratt john,110465912000650,"General Manager, San Diego",male,25339038.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120405,pace gary w,110465912024121,,male,25413166.0
+17692.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120417,pace gary w,110465912025970,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20120606,evnin luke,120919112032532,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,pratt john,110465912042342,"General Manager, San Diego",male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,riker lauren bullaro,110465912042346,"Executive Director, Accounting",female,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,1.0,0.0,20120607,middleton fred a,110465912042345,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,hastings paul j,110465912042344,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20120607,stack david m,110465912042343,President and CEO,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,patou gary,120919112032762,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,scibetta james s,110465912042349,Chief Financial Officer,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120607,markvicka taunia,110465912042340,"Vice President, Commercial",male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,brege laura,110465912042341,,female,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,longenecker john p phd,110465912042347,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120607,pace gary w,110465912042348,,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20120611,patou gary,120919112033182,Chief Medical Officer,male,25413166.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20120821,pace gary w,110465912059261,,male,32419407.0
+2790479.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130313,evnin luke,120919113016168,,male,32622984.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130314,pratt john,110465913020682,"General Manager, San Diego",male,32622984.0
+2000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130318,riker lauren bullaro,110465913021821,"Executive Director, Accounting",female,32622984.0
+2290479.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130319,evnin luke,120919113017433,,male,32622984.0
+2524893.0,,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20130321,hbm bioventures cayman ltd,110465913023060,,male,32622984.0
 2524893.0,3433993.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130321,wicki andreas,110465913023061,,male,32622984.0
-2524893.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20130321,hbm bioventures cayman ltd,110465913023060,,male,32622984.0
 2573.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20130325,stack david m,120919113018236,President and CEO,male,32622984.0
-2233993.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130325,wicki andreas,117911013005773,,male,32622984.0
-2233993.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20130325,hbm healthcare investments (cayman) ltd.,117911013005775,,male,32622984.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130401,scibetta james s,110465913026248,Chief Financial Officer,male,32959105.0
+2233993.0,,1396814,"pacira pharmaceuticals, inc.",0,0,1.0,0.0,20130325,hbm healthcare investments (cayman) ltd.,117911013005775,,male,32622984.0
+2233993.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130325,wicki andreas,117911013005773,,male,32622984.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130401,scibetta james s,110465913026248,Chief Financial Officer,male,32959105.0
 2573.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20130401,stack david m,110465913026250,President and CEO,male,32959105.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130401,longenecker john p phd,110465913026251,,male,32959105.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130401,longenecker john p phd,110465913026251,,male,32959105.0
 0.0,115.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130403,patou gary,120919113020013,Chief Medical Officer,male,32959105.0
-2199099.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130415,wicki andreas,117911013006812,,male,32959105.0
+2199099.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130415,wicki andreas,117911013006812,,male,32959105.0
 62966.0,777845.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130415,middleton fred a,110465913029503,,male,32959105.0
 0.0,115.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130416,patou gary,120919113021463,Chief Medical Officer,male,32959105.0
-2192699.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130417,wicki andreas,117911013006928,,male,32959105.0
-1277904.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130418,evnin luke,120919113021966,,male,32959105.0
-2176652.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130425,wicki andreas,117911013007183,,male,32959105.0
-1163486.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130429,evnin luke,120919113022914,,male,33047004.0
-1314255.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130508,evnin luke,120919113024805,,male,33047004.0
-853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130517,hastings paul j,118143113028788,,male,33047004.0
-1183712.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130521,evnin luke,120919113027764,,male,33047004.0
-2162278.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130522,wicki andreas,117911013008899,,male,33047004.0
-1176372.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130523,evnin luke,120919113028586,,male,33047004.0
-2143807.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130524,wicki andreas,117911013009118,,male,33047004.0
-960844.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130530,evnin luke,120919113029528,,male,33047004.0
-2138274.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130531,wicki andreas,117911013009455,,male,33047004.0
-906327.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130603,evnin luke,120919113030191,,male,33047004.0
-824255.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130604,evnin luke,120919113030387,,male,33047004.0
-2136374.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130605,wicki andreas,117911013009796,,male,33047004.0
-2120874.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130606,wicki andreas,117911013009896,,male,33047004.0
-70399.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130607,middleton fred a,110465913047797,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130612,pratt john,118143113034558,"General Manager, San Diego",male,33047004.0
-2109374.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130612,wicki andreas,117911013010236,,male,33047004.0
+2192699.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130417,wicki andreas,117911013006928,,male,32959105.0
+1277904.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130418,evnin luke,120919113021966,,male,32959105.0
+2176652.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130425,wicki andreas,117911013007183,,male,32959105.0
+1163486.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130429,evnin luke,120919113022914,,male,33047004.0
+1314255.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130508,evnin luke,120919113024805,,male,33047004.0
+853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130517,hastings paul j,118143113028788,,male,33047004.0
+1183712.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130521,evnin luke,120919113027764,,male,33047004.0
+2162278.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130522,wicki andreas,117911013008899,,male,33047004.0
+1176372.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130523,evnin luke,120919113028586,,male,33047004.0
+2143807.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130524,wicki andreas,117911013009118,,male,33047004.0
+960844.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130530,evnin luke,120919113029528,,male,33047004.0
+2138274.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130531,wicki andreas,117911013009455,,male,33047004.0
+906327.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130603,evnin luke,120919113030191,,male,33047004.0
+824255.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130604,evnin luke,120919113030387,,male,33047004.0
+2136374.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130605,wicki andreas,117911013009796,,male,33047004.0
+2120874.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130606,wicki andreas,117911013009896,,male,33047004.0
+70399.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130607,middleton fred a,110465913047797,,male,33047004.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130612,pratt john,118143113034558,"General Manager, San Diego",male,33047004.0
+2109374.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130612,wicki andreas,117911013010236,,male,33047004.0
 0.0,824255.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130613,evnin luke,120919113032020,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,hastings paul j,118143113035073,,male,33047004.0
-2104965.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,wicki andreas,117911013010421,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,kronenfeld mark a.,118143113035069,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,middleton fred a,118143113035070,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,longenecker john p phd,118143113035071,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,pace gary w,118143113035072,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,brege laura,118143113035074,,female,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130614,pratt john,118143113035075,"General Manager, San Diego",male,33047004.0
-2054820.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130619,wicki andreas,117911013010623,,male,33047004.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,middleton fred a,118143113035070,,male,33047004.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,longenecker john p phd,118143113035071,,male,33047004.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,hastings paul j,118143113035073,,male,33047004.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,brege laura,118143113035074,,female,33047004.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,kronenfeld mark a.,118143113035069,,male,33047004.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,pace gary w,118143113035072,,male,33047004.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130614,pratt john,118143113035075,"General Manager, San Diego",male,33047004.0
+2104965.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130614,wicki andreas,117911013010421,,male,33047004.0
+2054820.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130619,wicki andreas,117911013010623,,male,33047004.0
 30798.0,45102.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130620,middleton fred a,110465913050504,,male,33047004.0
-2019413.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130621,wicki andreas,117911013010735,,male,33047004.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130625,middleton fred a,110465913051381,,male,33047004.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130702,scibetta james s,118143113038199,Chief Financial Officer,male,33229039.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130702,longenecker john p phd,118143113038200,,male,33229039.0
+2019413.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130621,wicki andreas,117911013010735,,male,33047004.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130625,middleton fred a,110465913051381,,male,33047004.0
 0.0,115.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130702,patou gary,120919113034931,Chief Medical Officer,male,33229039.0
 2573.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20130702,stack david m,118143113038198,President and CEO,male,33229039.0
-1904965.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130703,wicki andreas,117911013011562,,male,33229039.0
-1860944.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130709,wicki andreas,117911013011684,,male,33229039.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130715,markvicka taunia,118143113039894,"Vice President, Commercial",male,33229039.0
-1780944.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130715,wicki andreas,117911013011791,,male,33229039.0
-1732462.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130717,wicki andreas,117911013011883,,male,33229039.0
-1706902.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130719,wicki andreas,117911013011931,,male,33229039.0
-1630944.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130723,wicki andreas,117911013012000,,male,33229039.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130816,markvicka taunia,118143113045290,"Vice President, Commercial",male,33315669.0
-1692194.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130912,wicki andreas,117911013014146,,male,33315669.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130913,winger dennis l,118143113049041,,male,33315669.0
-1000.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130913,kronenfeld mark a.,118143113049044,,male,33315669.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130927,markvicka taunia,118143113050917,"Vice President, Commercial",male,33315669.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130702,longenecker john p phd,118143113038200,,male,33229039.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130702,scibetta james s,118143113038199,Chief Financial Officer,male,33229039.0
+1904965.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130703,wicki andreas,117911013011562,,male,33229039.0
+1860944.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130709,wicki andreas,117911013011684,,male,33229039.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130715,markvicka taunia,118143113039894,"Vice President, Commercial",male,33229039.0
+1780944.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130715,wicki andreas,117911013011791,,male,33229039.0
+1732462.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130717,wicki andreas,117911013011883,,male,33229039.0
+1706902.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130719,wicki andreas,117911013011931,,male,33229039.0
+1630944.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130723,wicki andreas,117911013012000,,male,33229039.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130816,markvicka taunia,118143113045290,"Vice President, Commercial",male,33315669.0
+1692194.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130912,wicki andreas,117911013014146,,male,33315669.0
+1000.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130913,kronenfeld mark a.,118143113049044,,male,33315669.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20130913,winger dennis l,118143113049041,,male,33315669.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20130927,markvicka taunia,118143113050917,"Vice President, Commercial",male,33315669.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20131002,longenecker john p phd,118143113052148,,male,33513183.0
 2573.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20131002,stack david m,118143113052147,President and CEO,male,33513183.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20131002,longenecker john p phd,118143113052148,,male,33513183.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20131002,scibetta james s,118143113052149,Chief Financial Officer,male,33513183.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20131002,scibetta james s,118143113052149,Chief Financial Officer,male,33513183.0
 0.0,115.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20131004,patou gary,120919113047530,Chief Medical Officer,male,33513183.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140102,scibetta james s,118143114000239,Chief Financial Officer,male,33636442.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140102,scibetta james s,118143114000239,Chief Financial Officer,male,33636442.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140102,longenecker john p phd,118143114000240,,male,33636442.0
 2987.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20140102,stack david m,118143114000241,President and CEO,male,33636442.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140102,longenecker john p phd,118143114000240,,male,33636442.0
-1667307.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140306,wicki andreas,117911014004699,,male,33714015.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140306,greenstreet yvonne,118143114011299,,female,33714015.0
-702.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140312,patou gary,120919114019876,Chief Medical Officer,male,33714015.0
+1667307.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140306,wicki andreas,117911014004699,,male,33714015.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140306,greenstreet yvonne,118143114011299,,female,33714015.0
+702.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140312,patou gary,120919114019876,Chief Medical Officer,male,33714015.0
 1208.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20140313,stack david m,118143114012742,"President, CEO and Chairman",male,33714015.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140331,longenecker john p phd,118143114014583,,male,33802182.0
-1622527.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140507,wicki andreas,117911014007909,,male,35655095.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140331,longenecker john p phd,118143114014583,,male,33802182.0
+1622527.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140507,wicki andreas,117911014007909,,male,35655095.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140509,scibetta james s,118143114018952,"SVP, Chief Financial Officer",male,35655095.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140509,brege laura,118143114018953,,female,35655095.0
 1208.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20140509,stack david m,118143114018954,"President, CEO and Chairman",male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140509,brege laura,118143114018953,,female,35655095.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140509,scibetta james s,118143114018952,"SVP, Chief Financial Officer",male,35655095.0
-1599307.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140512,wicki andreas,117911014008237,,male,35655095.0
+1599307.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140512,wicki andreas,117911014008237,,male,35655095.0
 0.0,702.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140513,patou gary,120919114033456,Chief Medical Officer,male,35655095.0
-1595707.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140522,wicki andreas,117911014008997,,male,35655095.0
-1531307.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140528,wicki andreas,117911014009313,,male,35655095.0
-1463307.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140603,wicki andreas,117911014009641,,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,brege laura,118143114023014,,female,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,hastings paul j,118143114023015,,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,longenecker john p phd,118143114023016,,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,greenstreet yvonne,118143114023017,,female,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,winger dennis l,118143114023013,,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20140605,stack david m,118143114023007,"President, CEO and Chairman",male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,scibetta james s,118143114023008,"SVP, Chief Financial Officer",male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,markvicka taunia,118143114023009,"Vice President, Commercial",male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,patou gary,120919114039245,Chief Medical Officer,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,riker lauren bullaro,118143114023010,"Executive Director, Finance",female,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,kronenfeld mark a.,118143114023011,,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,pace gary w,118143114023012,,male,35655095.0
-1395407.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140606,wicki andreas,117911014010003,,male,35655095.0
-1327407.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140611,wicki andreas,117911014010179,,male,35655095.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140702,longenecker john p phd,118143114026044,,male,35836959.0
-853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140711,hastings paul j,118143114026637,,male,35836959.0
+1595707.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140522,wicki andreas,117911014008997,,male,35655095.0
+1531307.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140528,wicki andreas,117911014009313,,male,35655095.0
+1463307.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140603,wicki andreas,117911014009641,,male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20140605,stack david m,118143114023007,"President, CEO and Chairman",male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,scibetta james s,118143114023008,"SVP, Chief Financial Officer",male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,greenstreet yvonne,118143114023017,,female,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,longenecker john p phd,118143114023016,,male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,hastings paul j,118143114023015,,male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,brege laura,118143114023014,,female,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,winger dennis l,118143114023013,,male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,pace gary w,118143114023012,,male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140605,kronenfeld mark a.,118143114023011,,male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,riker lauren bullaro,118143114023010,"Executive Director, Finance",female,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,markvicka taunia,118143114023009,"Vice President, Commercial",male,35655095.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140605,patou gary,120919114039245,Chief Medical Officer,male,35655095.0
+1395407.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140606,wicki andreas,117911014010003,,male,35655095.0
+1327407.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140611,wicki andreas,117911014010179,,male,35655095.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140702,longenecker john p phd,118143114026044,,male,35836959.0
+853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140711,hastings paul j,118143114026637,,male,35836959.0
 0.0,702.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140715,patou gary,120919114047123,Chief Medical Officer,male,35836959.0
 1208.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20140716,stack david m,118143114026873,"President, CEO and Chairman",male,35836959.0
 0.0,702.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140808,patou gary,120919114051439,Chief Medical Officer,male,35891951.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140811,scibetta james s,118143114028871,"SVP, Chief Financial Officer",male,35891951.0
-1177407.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140812,wicki andreas,117911014012741,,male,35891951.0
-1121594.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140827,wicki andreas,117911014013342,,male,35891951.0
-1100100.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140902,wicki andreas,117911014013492,,male,35891951.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140930,longenecker john p phd,118143114032851,,male,36021855.0
-853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141014,hastings paul j,118143114034260,,male,36021855.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20140811,scibetta james s,118143114028871,"SVP, Chief Financial Officer",male,35891951.0
+1177407.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140812,wicki andreas,117911014012741,,male,35891951.0
+1121594.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140827,wicki andreas,117911014013342,,male,35891951.0
+1100100.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140902,wicki andreas,117911014013492,,male,35891951.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20140930,longenecker john p phd,118143114032851,,male,36021855.0
+853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141014,hastings paul j,118143114034260,,male,36021855.0
 1208.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20141017,stack david m,118143114034488,"President, CEO and Chairman",male,36021855.0
-1850.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141104,kronenfeld mark a.,118143114035486,,male,36055639.0
-230.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20141112,markvicka taunia,118143114036261,"SVP, Chief Commercial Officer",male,36055639.0
-5000.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20141112,scibetta james s,118143114036262,"SVP, Chief Financial Officer",male,36055639.0
-2645.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141208,winger dennis l,118143114038329,,male,36055639.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141230,longenecker john p phd,118143114039852,,male,36055639.0
-853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150114,hastings paul j,118143115000939,,male,36150620.0
+1850.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141104,kronenfeld mark a.,118143114035486,,male,36055639.0
+230.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20141112,markvicka taunia,118143114036261,"SVP, Chief Commercial Officer",male,36055639.0
+5000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20141112,scibetta james s,118143114036262,"SVP, Chief Financial Officer",male,36055639.0
+2645.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141208,winger dennis l,118143114038329,,male,36055639.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20141230,longenecker john p phd,118143114039852,,male,36055639.0
+853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150114,hastings paul j,118143115000939,,male,36150620.0
 1267.0,18596.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20150120,stack david m,118143115001187,"President, CEO and Chairman",male,36150620.0
-5230.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150209,scibetta james s,118143115002198,"SVP, Chief Financial Officer",male,36150620.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150316,longenecker john p phd,118143115004695,,male,36150620.0
-18692.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150317,pace gary w,118143115004795,,male,36150620.0
-2230.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150318,riker lauren bullaro,118143115004853,"Executive Director, Finance",female,36150620.0
+5230.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150209,scibetta james s,118143115002198,"SVP, Chief Financial Officer",male,36150620.0
+0.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150316,longenecker john p phd,118143115004695,,male,36150620.0
+18692.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150317,pace gary w,118143115004795,,male,36150620.0
+2230.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150318,riker lauren bullaro,118143115004853,"Executive Director, Finance",female,36150620.0
 8579.0,230.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150319,markvicka taunia,118143115004886,"SVP, Chief Commercial Officer",male,36150620.0
-853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150414,hastings paul j,118143115005801,,male,36343731.0
+853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150414,hastings paul j,118143115005801,,male,36343731.0
 59.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20150417,stack david m,118143115005970,"President, CEO and Chairman",male,36343731.0
-3850.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,kronenfeld mark a.,118143115007966,,male,36443244.0
-7500.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150605,williams kristen marie,118143115007972,CAO and General Counsel,female,36443244.0
-5980.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150605,riker lauren bullaro,118143115007971,"Vice President, Finance",female,36443244.0
-2853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,hastings paul j,118143115007970,,male,36443244.0
-4645.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,winger dennis l,118143115007969,,male,36443244.0
-20692.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,pace gary w,118143115007968,,male,36443244.0
-2000.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,longenecker john p phd,118143115007967,,male,36443244.0
-2000.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,greenstreet yvonne,118143115007965,,female,36443244.0
-2000.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,brege laura,118143115007964,,female,36443244.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150715,braunstein scott,118143115008748,"SVP, Strategy & Corp. Dev.",male,36607839.0
+2853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,hastings paul j,118143115007970,,male,36443244.0
+5980.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150605,riker lauren bullaro,118143115007971,"Vice President, Finance",female,36443244.0
+4645.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,winger dennis l,118143115007969,,male,36443244.0
+20692.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,pace gary w,118143115007968,,male,36443244.0
+2000.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,longenecker john p phd,118143115007967,,male,36443244.0
+2000.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,greenstreet yvonne,118143115007965,,female,36443244.0
+2000.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,brege laura,118143115007964,,female,36443244.0
+7500.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150605,williams kristen marie,118143115007972,CAO and General Counsel,female,36443244.0
+3850.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150605,kronenfeld mark a.,118143115007966,,male,36443244.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150715,braunstein scott,118143115008748,"SVP, Strategy & Corp. Dev.",male,36607839.0
 176.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20150717,stack david m,118143115008772,"President, CEO and Chairman",male,36607839.0
-2853.0,0.0,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150819,hastings paul j,120919115067013,,male,36646879.0
-0.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150819,jones james b,120919115067015,SVP & Chief Medical Officer,male,36646879.0
-10504.0,0.0,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150914,scibetta james s,120919115070574,"SVP, Chief Financial Officer",male,36646879.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150819,jones james b,120919115067015,SVP & Chief Medical Officer,male,36646879.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150819,jones james b,120919115067015,SVP & Chief Medical Officer,male,36646879.0
+2853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150819,hastings paul j,120919115067013,,male,36646879.0
+2853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20150819,hastings paul j,120919115067013,,male,36646879.0
+10504.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150914,scibetta james s,120919115070574,"SVP, Chief Financial Officer",male,36646879.0
+10504.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20150914,scibetta james s,120919115070574,"SVP, Chief Financial Officer",male,36646879.0
+176.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20151019,stack david m,120919115076161,"President, CEO and Chairman",male,36735981.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20151105,scibetta james s,120919115078761,President & CFO,male,36757420.0
+2853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20151124,hastings paul j,120919115082084,,male,36757420.0
+1000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160114,jones james b,120919116091535,SVP & Chief Medical Officer,male,36848319.0
+2300.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160114,longenecker john p phd,120919116091536,,male,36848319.0
+285.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20160119,stack david m,120919116092204,CEO and Chairman,male,36848319.0
+1500.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160129,jones james b,120919116094276,SVP & Chief Medical Officer,male,36848319.0
+2000.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160201,braunstein scott,120919116094564,"SVP, Strategy & Corp. Dev.",male,36848319.0
+2853.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160222,hastings paul j,120919116101142,,male,36848319.0
+285.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20160419,stack david m,120919116114991,CEO and Chairman,male,37103427.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160504,weiland robert j.,120919116117580,Chief Commercial Officer,male,37167255.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160504,reinhart charles a. iii,120919116117581,Chief Financial Officer,male,37167255.0
+5328.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160608,riker lauren bullaro,120919116126652,"Vice President, Finance",female,37167255.0
+6900.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160608,williams kristen marie,120919116126653,CAO and General Counsel,female,37167255.0
+1000.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160608,brege laura,120919116126650,,female,37167255.0
+1717.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160608,hastings paul j,120919116126649,,male,37167255.0
+2950.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160608,kronenfeld mark a.,120919116126651,,male,37167255.0
+15650.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160617,williams kristen marie,120919116128635,CAO and General Counsel,female,37167255.0
+3488.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,greenstreet yvonne,120919116128616,,female,37167255.0
+3205.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,hastings paul j,120919116128621,,male,37167255.0
+4438.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,kronenfeld mark a.,120919116128622,,male,37167255.0
+3788.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,longenecker john p phd,120919116128625,,male,37167255.0
+22180.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,pace gary w,120919116128626,,male,37167255.0
+6133.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,winger dennis l,120919116128627,,male,37167255.0
+10750.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160617,braunstein scott,120919116128628,"SVP, Strategy & Corp. Dev.",male,37167255.0
+10250.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160617,jones james b,120919116128629,SVP & Chief Medical Officer,male,37167255.0
+8453.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160617,riker lauren bullaro,120919116128630,"Vice President, Finance",female,37167255.0
+33410.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20160617,stack david m,120919116128632,CEO and Chairman,male,37167255.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160617,weiland robert j.,120919116128633,Chief Commercial Officer,male,37167255.0
+2488.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20160617,brege laura,120919116128614,,female,37167255.0
+26754.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160617,scibetta james s,120919116128631,President & CFO,male,37167255.0
+27084.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20160817,scibetta james s,120919116137674,President,male,37278231.0
+33637.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20160817,stack david m,120919116137677,CEO and Chairman,male,37278231.0
+63637.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20161007,stack david m,120919116145437,CEO and Chairman,male,37273407.0
+63637.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20161117,stack david m,120919116150961,CEO and Chairman,male,37402282.0
+27084.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161117,scibetta james s,120919116150960,President,male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20161209,stack david m,120919116154559,CEO and Chairman,male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,scibetta james s,120919116154558,President,male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,riker lauren bullaro,120919116154557,"Vice President, Finance",female,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,reinhart charles a. iii,120919116154556,Chief Financial Officer,male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,jones james b,120919116154555,SVP & Chief Medical Officer,male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,weiland robert j.,120919116154560,Chief Commercial Officer,male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,braunstein scott,120919116154554,"SVP, Strategy & Corp. Dev.",male,37402282.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20161209,williams kristen marie,120919116154561,CAO and General Counsel,female,37402282.0
+27084.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170119,scibetta james s,120919117004637,President,male,37480952.0
+63870.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20170119,stack david m,120919117004636,CEO and Chairman,male,37480952.0
+15650.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170517,williams kristen marie,120919117033405,CAO and General Counsel,female,40093883.0
+27084.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170517,scibetta james s,120919117033404,President,male,40093883.0
+9982.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170607,braunstein scott,120919117038416,"SVP, Strategy & Corp. Dev.",male,40093883.0
+9813.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170607,jones james b,120919117038417,SVP & Chief Medical Officer,male,40093883.0
+8182.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170607,riker lauren bullaro,120919117038418,"Vice President, Finance",female,40093883.0
+25118.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170607,scibetta james s,120919117038420,President,male,40093883.0
+59559.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20170607,stack david m,120919117038423,CEO and Chairman,male,40093883.0
+13773.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170607,williams kristen marie,120919117038425,CAO and General Counsel,female,40093883.0
+7063.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170609,riker lauren bullaro,120919117039011,"Vice President, Finance",female,40093883.0
+7490.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,winger dennis l,120919117040694,,male,40093883.0
+8750.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,reinhart charles a. iii,120919117040679,Chief Financial Officer,male,40093883.0
+10063.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,riker lauren bullaro,120919117040681,"Vice President, Finance",female,40093883.0
+5145.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,longenecker john p phd,120919117040692,,male,40093883.0
+23537.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,pace gary w,120919117040693,,male,40093883.0
+4562.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,hastings paul j,120919117040690,,male,40093883.0
+17313.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,jones james b,120919117040678,SVP & Chief Medical Officer,male,40093883.0
+20982.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,braunstein scott,120919117040677,"SVP, Strategy & Corp. Dev.",male,40093883.0
+13593.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,scranton richard,120919117040683,Chief Scientific Officer,male,40093883.0
+100059.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20170616,stack david m,120919117040684,CEO and Chairman,male,40093883.0
+4864.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,weiland robert j.,120919117040685,Chief Commercial Officer,male,40093883.0
+24773.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170616,williams kristen marie,120919117040686,CAO and General Counsel,female,40093883.0
+5795.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,kronenfeld mark a.,120919117040691,,male,40093883.0
+3845.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,brege laura,120919117040687,,female,40093883.0
+4845.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,greenstreet yvonne,120919117040689,,female,40093883.0
+,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170616,froimson mark,120919117040688,,male,40093883.0
+115059.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20170627,stack david m,120919117042059,CEO and Chairman,male,40093883.0
+130279.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20170726,stack david m,120919117046347,CEO and Chairman,male,40318129.0
+100.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170816,froimson mark,120919117049323,,male,40341550.0
+21312.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20170817,williams kristen marie,120919117049503,CAO and General Counsel,female,40341550.0
+130279.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20170817,stack david m,120919117049501,CEO and Chairman,male,40341550.0
+3518.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20170824,hastings paul j,120919117050231,,male,40341550.0
+6795.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20171113,kronenfeld mark a.,120919117060479,,male,40570002.0
+100279.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20171117,stack david m,120919117061557,CEO and Chairman,male,40570002.0
+16823.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20171120,jones james b,120919117061873,SVP & Chief Medical Officer,male,40570002.0
+21312.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20171120,williams kristen marie,120919117061874,CAO and General Counsel,female,40570002.0
+10442.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20171218,riker lauren bullaro,120919117066234,"Vice President, Finance",female,40570002.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180105,braunstein scott,120919118002576,Chief Operating Officer,male,40668877.0
+100446.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20180112,stack david m,120919118003469,CEO and Chairman,male,40668877.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180504,scranton richard,120919118028188,Chief Scientific Officer,male,40732255.0
+100446.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20180517,stack david m,120919118031185,CEO and Chairman,male,40732255.0
+2747.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180606,hastings paul j,120919118036181,,male,40732255.0
+9641.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180606,riker lauren bullaro,120919118036183,"Vice President, Finance",female,40732255.0
+12226.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180606,scranton richard,120919118036184,Chief Scientific Officer,male,40732255.0
+5088.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180606,weiland robert j.,120919118036185,Chief Commercial Officer,male,40732255.0
+19272.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180606,williams kristen marie,120919118036186,CAO and General Counsel,female,40732255.0
+8042.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180606,reinhart charles a. iii,120919118036182,Chief Financial Officer,male,40732255.0
+82040.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20180608,stack david m,120919118036719,CEO and Chairman,male,40732255.0
+20101.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180615,scranton richard,120919118038202,Chief Scientific Officer,male,40732255.0
+27147.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180615,williams kristen marie,120919118038204,CAO and General Counsel,female,40732255.0
+110415.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20180615,stack david m,120919118038203,CEO and Chairman,male,40732255.0
+12141.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180615,riker lauren bullaro,120919118038201,"Vice President, Finance",female,40732255.0
+13042.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180615,reinhart charles a. iii,120919118038199,Chief Financial Officer,male,40732255.0
+5238.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180615,laranjeira charles anthony,120919118038198,"SVP, Technical Operations",male,40732255.0
+4627.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,brege laura,120919118038189,,female,40732255.0
+5927.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,longenecker john p phd,120919118038196,,male,40732255.0
+7577.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,kronenfeld mark a.,120919118038195,,male,40732255.0
+3529.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,hastings paul j,120919118038193,,male,40732255.0
+5627.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,greenstreet yvonne,120919118038191,,female,40732255.0
+882.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,froimson mark,120919118038190,,male,40732255.0
+24319.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180615,pace gary w,120919118038197,,male,40732255.0
+22374.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180816,williams kristen marie,120919118047108,CAO and General Counsel,female,40960416.0
+91683.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20180816,stack david m,120919118047110,CEO and Chairman,male,40960416.0
+10474.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180824,riker lauren bullaro,120919118048389,"Vice President, Finance",female,40960416.0
+8577.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20180830,kronenfeld mark a.,120919118048951,,male,40960416.0
+,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180907,mcloughlin dennis,120919118050102,Chief Commercial Officer,male,40960416.0
+10474.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20180926,riker lauren bullaro,120919118052315,"Vice President, Finance",female,40960416.0
+136683.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20181015,stack david m,120919118054974,CEO and Chairman,male,41061181.0
+10474.0,,1396814,"pacira pharmaceuticals, inc.",0,1,0.0,0.0,20181106,riker lauren bullaro,120919118057394,"Vice President, Finance",female,41114217.0
+28319.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181109,pace gary w,120919118057963,,male,41114217.0
+1041855.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181113,wicki andreas,117911018012808,,male,41114217.0
+1036377.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181114,wicki andreas,117911018012862,,male,41114217.0
+965879.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181119,wicki andreas,117911018013021,,male,41114217.0
+121683.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20181119,stack david m,120919118059156,CEO and Chairman,male,41114217.0
+964889.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181121,wicki andreas,117911018013103,,male,41114217.0
+32819.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181121,pace gary w,120919118059710,,male,41114217.0
+950362.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20181214,wicki andreas,117911018013904,,male,41114217.0
+133683.0,19804.0,1396814,"pacira pharmaceuticals, inc.",1,1,0.0,0.0,20181220,stack david m,120919118063670,CEO and Chairman,male,41114217.0
+10277.0,,1396814,"pacira pharmaceuticals, inc.",1,0,0.0,0.0,20190308,kronenfeld mark a.,120919119018092,,male,41222799.0
+20101.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190605,scranton richard,120919119034738,Chief Scientific Officer,male,41296937.0
+36953.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,pace gary w,120919119035120,,male,41296937.0
+22139.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,winston roy,120919119035141,Chief Clinical Officer,male,41296937.0
+25445.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,williams kristen marie,120919119035138,CAO and General Counsel,female,41296937.0
+145231.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20190606,stack david m,120919119035132,CEO and Chairman,male,41296937.0
+16061.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,scranton richard,120919119035126,Chief Scientific Officer,male,41296937.0
+12168.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,riker lauren bullaro,120919119035123,"Vice President, Finance",female,41296937.0
+16336.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,reinhart charles a. iii,120919119035121,Chief Financial Officer,male,41296937.0
+10061.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,longenecker john p phd,120919119035108,,male,41296937.0
+10367.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,laranjeira charles anthony,120919119035098,"SVP, Technical Operations",male,41296937.0
+14411.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,kronenfeld mark a.,120919119035092,,male,41296937.0
+6881.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,hastings paul j,120919119035086,,male,41296937.0
+9761.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,greenstreet yvonne,120919119035081,,female,41296937.0
+5016.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,froimson mark,120919119035074,,male,41296937.0
+8761.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190606,brege laura,120919119035072,,female,41296937.0
+19422.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190606,mcloughlin dennis,120919119035115,Chief Commercial Officer,male,41296937.0
+10042.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190612,riker lauren bullaro,120919119036448,"Vice President, Finance",female,41296937.0
+169231.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20190613,stack david m,120919119036854,CEO and Chairman,male,41296937.0
+,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190703,reinhardt max,120919119040764,President,male,41606082.0
+156299.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20190710,stack david m,120919119041709,CEO and Chairman,male,41606082.0
+156299.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20190816,stack david m,120919119046315,CEO and Chairman,male,41635099.0
+19193.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20190816,williams kristen marie,120919119046309,Chief Administrative Officer,female,41635099.0
+,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20190920,christie christopher,120919119050358,,male,41635099.0
+170299.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20190920,stack david m,120919119050359,CEO and Chairman,male,41635099.0
+187299.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20191004,stack david m,120919119052556,CEO and Chairman,male,41700320.0
+16061.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20191112,scranton richard,120919119056090,Chief Scientific Officer,male,41730807.0
+10640.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20191112,riker lauren bullaro,120919119056093,"Vice President, Finance",female,41730807.0
+1208.0,18596.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20191119,stack david m,120919119057149,CEO and Chairman,male,41730807.0
+10464.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20191122,riker lauren bullaro,120919119057869,"Vice President, Finance",female,41730807.0
+12761.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20191204,longenecker john p phd,120919119059089,,male,41730807.0
+16116.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20191218,mcloughlin dennis,120919119061186,Chief Commercial Officer,male,41730807.0
+4716.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20191219,froimson mark,120919119061298,,male,41730807.0
+10464.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20191226,riker lauren bullaro,120919119061926,"Vice President, Finance",female,41730807.0
+162299.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20191230,stack david m,120919119062104,CEO and Chairman,male,41730807.0
+1208.0,18596.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20200117,stack david m,120919120004148,CEO and Chairman,male,41908148.0
+10464.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200210,riker lauren bullaro,120919120008074,"Vice President, Finance",female,41908148.0
+10464.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200212,riker lauren bullaro,120919120008769,"Vice President, Finance",female,41908148.0
+198334.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20200225,stack david m,120919120012555,CEO and Chairman,male,41908148.0
+25237.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200312,winston roy,120919120018635,Chief Clinical Officer,male,41908148.0
+16497.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200316,longenecker john p phd,120919120019347,,male,41908148.0
+58689.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200316,pace gary w,120919120019350,,male,41908148.0
+10464.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200521,riker lauren bullaro,120919120031513,"Vice President, Finance",female,42120749.0
+28500.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200604,manning donald c.,120919120034450,Chief Medical Officer,male,42120749.0
+166909.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20200608,stack david m,120919120035176,CEO and Chairman,male,42120749.0
+14847.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200608,reinhart charles a. iii,120919120035173,Chief Financial Officer,male,42120749.0
+6661.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200608,brege laura,120919120035169,,female,42120749.0
+10101.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200608,laranjeira charles anthony,120919120035171,"SVP, Technical Operations",male,42120749.0
+10887.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200608,williams kristen marie,120919120035179,Chief Administrative Officer,female,42120749.0
+7833.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200608,riker lauren bullaro,120919120035174,"Vice President, Finance",female,42120749.0
+14898.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200608,mcloughlin dennis,120919120035172,Chief Commercial Officer,male,42120749.0
+4856.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200608,hastings paul j,120919120035170,,male,42120749.0
+27447.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,reinhart charles a. iii,120919120036050,Chief Financial Officer,male,42120749.0
+12633.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,riker lauren bullaro,120919120036051,"Vice President, Finance",female,42120749.0
+7921.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,brege laura,120919120036033,,female,42120749.0
+5976.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,froimson mark,120919120036036,,male,42120749.0
+11021.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,greenstreet yvonne,120919120036038,,female,42120749.0
+39237.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,winston roy,120919120036054,Chief Clinical Officer,male,42120749.0
+24887.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,williams kristen marie,120919120036053,Chief Administrative Officer,female,42120749.0
+200209.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20200611,stack david m,120919120036052,CEO and Chairman,male,42120749.0
+1260.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,christie christopher,120919120036035,,male,42120749.0
+15671.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,kronenfeld mark a.,120919120036041,,male,42120749.0
+28898.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,mcloughlin dennis,120919120036047,Chief Commercial Officer,male,42120749.0
+14000.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,reinhardt max,120919120036048,President,male,42120749.0
+24101.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200611,laranjeira charles anthony,120919120036046,"SVP, Technical Operations",male,42120749.0
+59949.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,pace gary w,120919120036044,,male,42120749.0
+6116.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,hastings paul j,120919120036039,,male,42120749.0
+17757.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200611,longenecker john p phd,120919120036042,,male,42120749.0
+12633.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200701,riker lauren bullaro,120919120039978,"Vice President, Finance",female,42608257.0
+20250.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200701,laranjeira charles anthony,120919120039976,"SVP, Technical Operations",male,42608257.0
+188377.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20200717,stack david m,120919120042913,CEO and Chairman,male,42608257.0
+20796.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200805,laranjeira charles anthony,120919120045200,"SVP, Technical Operations",male,42742176.0
+13181.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200813,riker lauren bullaro,120919120046610,"Vice President, Finance",female,42742176.0
+695186.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200813,wicki andreas,110465920094873,,male,42742176.0
+173377.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20200819,stack david m,120919120047576,CEO and Chairman,male,42742176.0
+692970.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200911,wicki andreas,110465920104523,,male,42742176.0
+13181.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200917,riker lauren bullaro,120919120051034,"Vice President, Finance",female,42742176.0
+24887.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200917,williams kristen marie,120919120051037,Chief Administrative Officer,female,42742176.0
+14000.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20200921,reinhardt max,120919120051357,President,male,42742176.0
+129949.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20200929,pace gary w,120919120052360,,male,42742176.0
+173377.0,19804.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20201016,stack david m,120919120055054,CEO and Chairman,male,43312638.0
+7921.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20201117,brege laura,120919120058830,,female,43443699.0
+13181.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20201117,riker lauren bullaro,120919120058828,"Vice President, Finance",female,43443699.0
+34785.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20201117,winston roy,120919120058819,Chief Clinical Officer,male,43443699.0
+14000.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20201117,reinhardt max,120919120058818,President,male,43443699.0
+14000.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210108,reinhardt max,120919121002722,President,male,43636929.0
+76061.0,117264.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20210204,stack david m,120919121007906,CEO and Chairman,male,43636929.0
+17757.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210303,longenecker john p phd,120919121016859,,male,43636929.0
+6116.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210309,hastings paul j,120919121018946,,male,43636929.0
+520679.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210311,wicki andreas,110465921035174,,male,43636929.0
+451324.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210316,wicki andreas,110465921037330,,male,43636929.0
+5242.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210317,froimson mark,120919121021583,,male,43636929.0
+13181.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210317,riker lauren bullaro,120919121021585,"Vice President, Finance",female,43636929.0
+26311.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210402,winston roy,120919121024791,Chief Clinical Officer,male,43957510.0
+24887.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210415,williams kristen marie,120919121026889,Chief Administrative Officer,female,43957510.0
+76061.0,18911.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20210513,stack david m,120919121032424,CEO and Chairman,male,44025456.0
+26120.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210604,manning donald c.,120919121038328,Chief Medical Officer,male,44025456.0
+61156.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20210608,stack david m,120919121038897,CEO and Chairman,male,44025456.0
+5486.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210608,hastings paul j,120919121038878,,male,44025456.0
+18681.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,laranjeira charles anthony,120919121038881,Chief Technical Officer,male,44025456.0
+27541.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,mcloughlin dennis,120919121038884,Chief Customer Officer,male,44025456.0
+10500.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,reinhardt max,120919121038889,"President, Rest of World",male,44025456.0
+24799.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,reinhart charles a. iii,120919121038891,Chief Financial Officer,male,44025456.0
+12134.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,riker lauren bullaro,120919121038894,"Vice President, Finance",female,44025456.0
+20957.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,williams kristen marie,120919121038901,Chief Administrative Officer,female,44025456.0
+24035.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210608,winston roy,120919121038903,Chief Clinical Officer,male,44025456.0
+23520.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210610,manning donald c.,120919121039610,Chief Medical Officer,male,44025456.0
+31035.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,winston roy,120919121040089,Chief Clinical Officer,male,44025456.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,williams kristen marie,120919121040090,Chief Administrative Officer,female,44025456.0
+78956.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20210611,stack david m,120919121040091,CEO and Chairman,male,44025456.0
+30799.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,reinhart charles a. iii,120919121040093,Chief Financial Officer,male,44025456.0
+12731.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,riker lauren bullaro,120919121040092,"Vice President, Finance",female,44025456.0
+29520.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,manning donald c.,120919121040088,Chief Medical Officer,male,44025456.0
+129530.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,pace gary w,120919121040097,,male,44025456.0
+33541.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,mcloughlin dennis,120919121040098,Chief Customer Officer,male,44025456.0
+17500.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,reinhardt max,120919121040094,"President, Rest of World",male,44025456.0
+18823.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,longenecker john p phd,120919121040087,,male,44025456.0
+12087.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,greenstreet yvonne,120919121040083,,female,44025456.0
+16737.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,kronenfeld mark a.,120919121040085,,male,44025456.0
+6552.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,hastings paul j,120919121040084,,male,44025456.0
+6308.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,froimson mark,120919121040082,,male,44025456.0
+2326.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,christie christopher,120919121040080,,male,44025456.0
+8987.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20210611,brege laura,120919121040079,,female,44025456.0
+25681.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210611,laranjeira charles anthony,120919121040086,Chief Technical Officer,male,44025456.0
+17500.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210706,reinhardt max,120919121045622,"President, Rest of World",male,44436630.0
+13152.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210730,riker lauren bullaro,120919121048784,"Vice President, Finance",female,44436630.0
+36456.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210805,winston roy,120919121049945,Chief Medical Officer,male,44454792.0
+26350.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20210805,slonin jonathan,120919121049940,Chief Clinical Officer,male,44454792.0
+46456.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20211108,winston roy,120919121063386,Chief Medical Officer,male,44544489.0
+94085.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20211118,stack david m,120919121065463,CEO and Chairman,male,44544489.0
+33602.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20211124,laranjeira charles anthony,120919121066795,Chief Technical Officer,male,44544489.0
+5908.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20211220,froimson mark,120919121070553,,male,44544489.0
+17774.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220110,molloy anthony,120919122002725,Chief Lgl & Compliance Officer,male,44734308.0
+15152.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220110,riker lauren bullaro,120919122002726,"Senior Vice President, Finance",female,44734308.0
+109374.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20220113,stack david m,120919122003176,CEO and Chairman,male,44734308.0
+17550.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220120,molloy anthony,120919122004198,Chief Lgl & Compliance Officer,male,44734308.0
+15152.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220120,riker lauren bullaro,120919122004200,"Senior Vice President, Finance",female,44734308.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220120,williams kristen marie,120919122004202,Chief Administrative Officer,female,44734308.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220125,williams kristen marie,120919122004795,Chief Administrative Officer,female,44734308.0
+123044.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20220127,stack david m,120919122005202,CEO and Chairman,male,44734308.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220208,williams kristen marie,120919122007755,Chief Administrative Officer,female,44734308.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220214,williams kristen marie,120919122009400,Chief Administrative Officer,female,44734308.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220301,williams kristen marie,120919122014194,Chief Administrative Officer,female,44734308.0
+129530.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220301,pace gary w,120919122014267,,male,44734308.0
+136530.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220307,pace gary w,120919122016876,,male,44734308.0
+18823.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220307,longenecker john p phd,120919122016873,,male,44734308.0
+15152.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220314,riker lauren bullaro,120919122018518,"Senior Vice President, Finance",female,44734308.0
+22268.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220323,williams kristen marie,120919122020788,Chief Administrative Officer,female,44734308.0
+145544.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20220405,stack david m,120919122023190,CEO and Chairman,male,45064459.0
+17550.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220408,molloy anthony,120919122023856,Chief Lgl & Compliance Officer,male,45064459.0
+26974.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220420,reinhardt max,120919122025120,"President, Rest of World",male,45064459.0
+29650.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220425,reinhardt max,120919122025516,"President, Rest of World",male,45064459.0
+168044.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20220502,stack david m,120919122026483,CEO and Chairman,male,45436752.0
+4908.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220511,froimson mark,120919122028275,,male,45436752.0
+28559.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220525,slonin jonathan,120919122031854,Chief Clinical Officer,male,45436752.0
+7712.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,hastings paul j,120919122035223,,male,45436752.0
+163751.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20220608,stack david m,120919122035235,CEO and Chairman,male,45436752.0
+38097.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,slonin jonathan,120919122035232,Chief Clinical Officer,male,45436752.0
+19852.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,riker lauren bullaro,120919122035231,"Senior Vice President, Finance",female,45436752.0
+36233.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,reinhart charles a. iii,120919122035230,Chief Financial Officer,male,45436752.0
+32250.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,reinhardt max,120919122035229,"President, Rest of World",male,45436752.0
+35752.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,laranjeira charles anthony,120919122035228,Chief Technical Officer,male,45436752.0
+137690.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,pace gary w,120919122035227,,male,45436752.0
+19950.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,molloy anthony,120919122035226,Chief Lgl & Compliance Officer,male,45436752.0
+23550.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,williams kristen marie,120919122035233,Chief Administrative Officer,female,45436752.0
+17897.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,kronenfeld mark a.,120919122035224,,male,45436752.0
+45060.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,winston roy,120919122035234,Chief Medical Officer,male,45436752.0
+13247.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,greenstreet yvonne,120919122035222,,female,45436752.0
+24394.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,gaugler daryl,120919122035221,Chief Operating Officer,male,45436752.0
+6068.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,froimson mark,120919122035218,,male,45436752.0
+3486.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,christie christopher,120919122035216,,male,45436752.0
+10147.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220608,brege laura,120919122035215,,female,45436752.0
+39770.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220608,mcloughlin dennis,120919122035225,Chief Customer Officer,male,45436752.0
+41752.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220616,laranjeira charles anthony,120919122037399,Chief Technical Officer,male,45436752.0
+37387.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220707,slonin jonathan,120919122041521,Chief Clinical Officer,male,45801578.0
+7179.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20220713,hastings paul j,120919122042037,,male,45801578.0
+44992.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220805,winston roy,120919122044560,Chief Medical Officer,male,45824210.0
+37079.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20220805,slonin jonathan,120919122044554,Chief Clinical Officer,male,45824210.0
+31378.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20221011,reinhardt max,120919122053275,"President, Rest of World",male,45864319.0
+19450.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230106,molloy anthony,120919123002474,Chief Lgl & Compliance Officer,male,45927790.0
+10147.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230405,brege laura,120919123023336,,female,45970340.0
+139675.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230515,pace gary w,120919123029616,,male,45989011.0
+7179.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230517,hastings paul j,120919123030141,,male,45989011.0
+24591.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230602,gaugler daryl,120919123033985,Chief Operating Officer,male,45989011.0
+153781.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20230607,stack david m,120919123035264,CEO and Chairman,male,45989011.0
+36323.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,slonin jonathan,120919123035263,Chief Clinical Officer,male,45989011.0
+19053.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,riker lauren bullaro,120919123035262,"Senior Vice President, Finance",female,45989011.0
+33626.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,reinhart charles a. iii,120919123035261,Chief Financial Officer,male,45989011.0
+29225.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,reinhardt max,120919123035260,"President, Rest of World",male,45989011.0
+6599.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230607,hastings paul j,120919123035257,,male,45989011.0
+38115.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,mcloughlin dennis,120919123035258,Chief Customer Officer,male,45989011.0
+21539.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,gaugler daryl,120919123035256,Chief Operating Officer,male,45989011.0
+30909.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,ellis ronald j. jr.,120919123035255,Chief Strategy Officer,male,45989011.0
+9547.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230607,brege laura,120919123035254,,female,45989011.0
+12877.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,molloy anthony,120919123035259,Chief Lgl & Compliance Officer,male,45989011.0
+41356.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,winston roy,120919123035266,Chief Medical Officer,male,45989011.0
+20892.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230607,williams kristen marie,120919123035265,Chief Administrative Officer,female,45989011.0
+17897.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230612,kronenfeld mark a.,120919123036270,,male,45989011.0
+5261.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230616,christie christopher,120919123038018,,male,45989011.0
+7843.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230616,froimson mark,120919123038020,,male,45989011.0
+52306.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230616,winston roy,120919123038033,Chief Medical Officer,male,45989011.0
+186481.0,116184.0,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20230616,stack david m,120919123038031,CEO and Chairman,male,45989011.0
+22687.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230616,riker lauren bullaro,120919123038030,"Senior Vice President, Finance",female,45989011.0
+42626.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230616,reinhart charles a. iii,120919123038028,Chief Financial Officer,male,45989011.0
+25375.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230616,williams kristen marie,120919123038032,Chief Administrative Officer,female,45989011.0
+19672.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230616,kronenfeld mark a.,120919123038024,,male,45989011.0
+8374.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230616,hastings paul j,120919123038023,,male,45989011.0
+31539.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230616,gaugler daryl,120919123038022,Chief Operating Officer,male,45989011.0
+11322.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230616,brege laura,120919123038014,,female,45989011.0
+141450.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20230616,pace gary w,120919123038025,,male,45989011.0
+22687.335,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230707,riker lauren bullaro,120919123041865,"Senior Vice President, Finance",female,46408961.0
+52440.335,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20230804,winston roy,139681423000041,Chief Medical Officer,male,46417025.0
+,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20231011,ceesay abraham,139681423000070,,male,46426836.0
+,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20231011,bigal marcelo,139681423000071,,male,46426836.0
+,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20231011,yang michael j.,139681423000072,,male,46426836.0
+,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20231011,young alethia,139681423000073,,male,46426836.0
+51196.475,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240104,slonin jonathan,139681424000013,Chief Medical Officer,male,46481174.0
+22528.335,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240104,riker lauren,139681424000014,"Senior Vice President, Finance",female,46481174.0
+99520.0,,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20240104,lee frank d.,139681424000012,Chief Executive Officer,male,46481174.0
+59075.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240207,williams kristen,139681424000018,Chief Administrative Officer,female,46481174.0
+65493.584,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240207,gaugler daryl,139681424000017,Chief Operating Officer,male,46481174.0
+22127.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240308,pace gary w,139681424000037,,male,46500778.0
+62739.584,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240605,gaugler daryl,139681424000052,Chief Operating Officer,male,46517410.0
+56064.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240605,williams kristen,139681424000053,Chief Administrative Officer,female,46517410.0
+39647.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240605,reinhart charles a. iii,139681424000054,Chief Financial Officer,male,46517410.0
+20685.335,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240605,riker lauren,139681424000055,"Senior Vice President, Finance",female,46517410.0
+49581.475,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240605,slonin jonathan,139681424000051,Chief Medical Officer,male,46517410.0
+5230.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,bigal marcelo,139681424000082,,male,46517410.0
+10491.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,christie christopher,139681424000083,,male,46517410.0
+38075.335,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240613,riker lauren,139681424000085,"Senior Vice President, Finance",female,46517410.0
+98869.475,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240613,slonin jonathan,139681424000084,Chief Medical Officer,male,46517410.0
+51867.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240613,reinhart charles a. iii,139681424000081,Chief Financial Officer,male,46517410.0
+5230.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,ceesay abraham,139681424000079,,male,46517410.0
+116039.584,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240613,gaugler daryl,139681424000078,Chief Operating Officer,male,46517410.0
+13073.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,froimson mark,139681424000077,,male,46517410.0
+5230.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,yang michael j.,139681424000080,,male,46517410.0
+12724.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,hastings paul j,139681424000075,,male,46517410.0
+102912.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240613,williams kristen,139681424000074,Chief Administrative Officer,female,46517410.0
+16552.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,brege laura,139681424000073,,female,46517410.0
+24902.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,kronenfeld mark a.,139681424000072,,male,46517410.0
+5230.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240613,young alethia,139681424000076,,male,46517410.0
+95556.746,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240703,slonin jonathan,139681424000088,Chief Medical Officer,male,46117359.0
+116199.952,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240703,gaugler daryl,139681424000089,Chief Operating Officer,male,46117359.0
+94306.746,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240802,slonin jonathan,139681424000100,Chief Medical Officer,male,46126946.0
+14473.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240812,froimson mark,139681424000107,,male,46126946.0
+8630.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240812,bigal marcelo,139681424000106,,male,46126946.0
+107784.0,,1396814,"pacira biosciences, inc.",1,1,0.0,0.0,20240813,lee frank d.,139681424000112,Chief Executive Officer,male,46126946.0
+7230.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240814,yang michael j.,139681424000114,,male,46126946.0
+17552.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240819,brege laura,139681424000117,,female,46126946.0
+10142.0,,1396814,"pacira biosciences, inc.",1,0,0.0,0.0,20240819,bigal marcelo,139681424000118,,male,46126946.0
+115699.952,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20240913,gaugler daryl,139681424000122,Chief Operating Officer,male,46126946.0
+75000.0,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20241105,cross shawn,139681424000135,Chief Financial Officer,male,46173240.0
+115199.952,,1396814,"pacira biosciences, inc.",0,1,0.0,0.0,20241216,gaugler daryl,139681424000143,Chief Operating Officer,male,46173240.0

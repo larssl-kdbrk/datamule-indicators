@@ -1,240 +1,625 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-212197.0,0.0,1365135,western union co,,1.0,,,20100211,stockdale stewart,122520810004141,EVP & Pres. Americas,male,686500000.0
-181057.0,0.0,1365135,western union co,,1.0,,,20100224,ersek hikmet,122520810005411,Chief Operating Officer,male,686500000.0
-253974.0,0.0,1365135,western union co,,1.0,,,20100226,ersek hikmet,122520810006104,Chief Operating Officer,male,686500000.0
-656028.0,20.0,1365135,western union co,1.0,1.0,,,20100226,gold christina a,122520810006105,Chief Executive Officer,female,686500000.0
-109444.0,0.0,1365135,western union co,,1.0,,,20100226,clark ranjana b,122520810006106,Pres. Global Bus Pymts & EVP,female,686500000.0
-143868.0,13827.0,1365135,western union co,,1.0,,,20100226,battista guy a,122520810006107,EVP & Pres of WU Fin Svs Inc.,male,686500000.0
-43723.0,0.0,1365135,western union co,,1.0,,,20100226,galuppo gail,122520810006108,EVP & Chief Marketing Officer,female,686500000.0
-56617.0,0.0,1365135,western union co,,1.0,,,20100226,heller robin,122520810006109,"EVP, Operations & IT",male,686500000.0
-14998.0,0.0,1365135,western union co,,1.0,,,20100226,schenkel amintore,122520810006111,Controller,male,686500000.0
-53414.0,0.0,1365135,western union co,,1.0,,,20100226,schlapbach david,122520810006112,"EVP, Gen. Counsel & Sec",male,686500000.0
-241364.0,0.0,1365135,western union co,,1.0,,,20100226,stockdale stewart,122520810006113,Pres. Americas & EVP,male,686500000.0
-49580.0,0.0,1365135,western union co,,1.0,,,20100226,wray grover,122520810006114,"EVP, Human Resources",male,686500000.0
-75861.0,0.0,1365135,western union co,,1.0,,,20100226,scheirman scott,122520810006115,EVP and CFO,male,686500000.0
-36551.0,0.0,1365135,western union co,,1.0,,,20100226,mccarthy anne m,122520810006110,"EVP, Corp Comm. & Pub Affairs",female,686500000.0
-30234.0,0.0,1365135,western union co,1.0,,,,20100301,lacy alan j,122520810006337,,male,686500000.0
-10067.0,0.0,1365135,western union co,1.0,,,,20100301,schimmelmann wulf von,122520810006338,,male,686500000.0
-21365.0,0.0,1365135,western union co,1.0,,,,20100301,devitre dinyar s,122520810006336,,male,686500000.0
-23559.0,0.0,1365135,western union co,1.0,,,,20100301,stevenson dennis,122520810006344,,male,686500000.0
-32150.0,0.0,1365135,western union co,1.0,,,,20100301,miles michael,122520810006343,,male,686500000.0
-26935.0,0.0,1365135,western union co,1.0,,,,20100301,holden betsy d,122520810006340,,female,686500000.0
-18624.0,0.0,1365135,western union co,1.0,,,,20100301,levinson linda fayne,122520810006341,,female,686500000.0
-19206.0,0.0,1365135,western union co,1.0,,,,20100301,mendoza roberto g,122520810006342,,male,686500000.0
-57831.0,0.0,1365135,western union co,1.0,,,,20100301,greenberg jack m,122520810006339,,male,686500000.0
-36551.0,0.0,1365135,western union co,,1.0,,,20100304,mccarthy anne m,122520810007205,"EVP, Corp Comm. & Pub Affairs",female,686500000.0
-34316.0,0.0,1365135,western union co,,1.0,,,20100505,mccarthy anne m,122520810012157,"EVP, Corp Comm. & Pub Affairs",female,672144960.0
-101764.0,0.0,1365135,western union co,,1.0,,,20100702,clark ranjana b,122520810016517,Pres. Global Bus Pymts & EVP,female,661600000.0
-31485.0,0.0,1365135,western union co,,1.0,,,20100702,mccarthy anne m,122520810016518,"EVP, Corp Comm. & Pub Affairs",female,661600000.0
+212197.0,,1365135,western union co,,1.0,,,20100211,stockdale stewart,122520810004141,EVP & Pres. Americas,male,
+181057.0,,1365135,western union co,,1.0,,,20100224,ersek hikmet,122520810005411,Chief Operating Officer,male,
+36551.0,,1365135,western union co,,1.0,,,20100226,mccarthy anne m,122520810006110,"EVP, Corp Comm. & Pub Affairs",female,
+253974.0,,1365135,western union co,,1.0,,,20100226,ersek hikmet,122520810006104,Chief Operating Officer,male,
+656028.0,20.0,1365135,western union co,1.0,1.0,,,20100226,gold christina a,122520810006105,Chief Executive Officer,female,
+109444.0,,1365135,western union co,,1.0,,,20100226,clark ranjana b,122520810006106,Pres. Global Bus Pymts & EVP,female,
+143868.0,13827.0,1365135,western union co,,1.0,,,20100226,battista guy a,122520810006107,EVP & Pres of WU Fin Svs Inc.,male,
+43723.0,,1365135,western union co,,1.0,,,20100226,galuppo gail,122520810006108,EVP & Chief Marketing Officer,female,
+56617.0,,1365135,western union co,,1.0,,,20100226,heller robin,122520810006109,"EVP, Operations & IT",male,
+14998.0,,1365135,western union co,,1.0,,,20100226,schenkel amintore,122520810006111,Controller,male,
+53414.0,,1365135,western union co,,1.0,,,20100226,schlapbach david,122520810006112,"EVP, Gen. Counsel & Sec",male,
+241364.0,,1365135,western union co,,1.0,,,20100226,stockdale stewart,122520810006113,Pres. Americas & EVP,male,
+49580.0,,1365135,western union co,,1.0,,,20100226,wray grover,122520810006114,"EVP, Human Resources",male,
+75861.0,,1365135,western union co,,1.0,,,20100226,scheirman scott,122520810006115,EVP and CFO,male,
+32150.0,,1365135,western union co,1.0,,,,20100301,miles michael,122520810006343,,male,
+18624.0,,1365135,western union co,1.0,,,,20100301,levinson linda fayne,122520810006341,,female,
+19206.0,,1365135,western union co,1.0,,,,20100301,mendoza roberto g,122520810006342,,male,
+23559.0,,1365135,western union co,1.0,,,,20100301,stevenson dennis,122520810006344,,male,
+26935.0,,1365135,western union co,1.0,,,,20100301,holden betsy d,122520810006340,,female,
+21365.0,,1365135,western union co,1.0,,,,20100301,devitre dinyar s,122520810006336,,male,
+10067.0,,1365135,western union co,1.0,,,,20100301,schimmelmann wulf von,122520810006338,,male,
+30234.0,,1365135,western union co,1.0,,,,20100301,lacy alan j,122520810006337,,male,
+57831.0,,1365135,western union co,1.0,,,,20100301,greenberg jack m,122520810006339,,male,
+36551.0,,1365135,western union co,,1.0,,,20100304,mccarthy anne m,122520810007205,"EVP, Corp Comm. & Pub Affairs",female,
+34316.0,,1365135,western union co,,1.0,,,20100505,mccarthy anne m,122520810012157,"EVP, Corp Comm. & Pub Affairs",female,672144960.0
+101764.0,,1365135,western union co,,1.0,,,20100702,clark ranjana b,122520810016517,Pres. Global Bus Pymts & EVP,female,661600000.0
+31485.0,,1365135,western union co,,1.0,,,20100702,mccarthy anne m,122520810016518,"EVP, Corp Comm. & Pub Affairs",female,661600000.0
 597572.0,20.0,1365135,western union co,1.0,1.0,,,20100902,gold christina a,122520810020303,Chief Executive Officer,female,660120082.0
-37490.0,0.0,1365135,western union co,,1.0,,,20101019,galuppo gail,122520810023222,EVP & Chief Marketing Officer,female,656200000.0
-19260.0,0.0,1365135,western union co,1.0,,,,20101104,mendoza roberto g,122520810024276,,male,655867275.0
-18714.0,0.0,1365135,western union co,1.0,,,,20101104,levinson linda fayne,122520810024274,,female,655867275.0
-32365.0,0.0,1365135,western union co,1.0,,,,20101104,miles michael,122520810024277,,male,655867275.0
-23613.0,0.0,1365135,western union co,1.0,,,,20101104,stevenson dennis,122520810024279,,male,655867275.0
-325608.0,0.0,1365135,western union co,,1.0,,,20101104,ersek hikmet,122520810024287,President and CEO,male,655867275.0
-10175.0,0.0,1365135,western union co,1.0,,,,20101104,schimmelmann wulf von,122520810024278,,male,655867275.0
-39385.0,0.0,1365135,western union co,,1.0,,,20101110,schlapbach david,122520810024711,"EVP, Sr. Admin. Officer",male,655867275.0
+37490.0,,1365135,western union co,,1.0,,,20101019,galuppo gail,122520810023222,EVP & Chief Marketing Officer,female,656200000.0
+325608.0,,1365135,western union co,,1.0,,,20101104,ersek hikmet,122520810024287,President and CEO,male,655867275.0
+10175.0,,1365135,western union co,1.0,,,,20101104,schimmelmann wulf von,122520810024278,,male,655867275.0
+32365.0,,1365135,western union co,1.0,,,,20101104,miles michael,122520810024277,,male,655867275.0
+23613.0,,1365135,western union co,1.0,,,,20101104,stevenson dennis,122520810024279,,male,655867275.0
+18714.0,,1365135,western union co,1.0,,,,20101104,levinson linda fayne,122520810024274,,female,655867275.0
+19260.0,,1365135,western union co,1.0,,,,20101104,mendoza roberto g,122520810024276,,male,655867275.0
+39385.0,,1365135,western union co,,1.0,,,20101110,schlapbach david,122520810024711,"EVP, Sr. Admin. Officer",male,655867275.0
 139515.0,13827.0,1365135,western union co,,1.0,,,20110104,battista guy a,122520811000693,EVP & Pres of WU Fin Svs Inc.,male,654000000.0
-76080.0,0.0,1365135,western union co,,1.0,,,20110207,scheirman scott,122520811004889,EVP and CFO,male,654000000.0
-14386.0,0.0,1365135,western union co,,1.0,,,20110223,schenkel amintore,122520811006880,Controller,male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,heller robin,122520811007639,"EVP, Operations & IT",male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,ersek hikmet,122520811007638,President and CEO,male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,scheirman scott,122520811007640,EVP and CFO,male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,wray grover,122520811007642,"EVP, Human Resources",male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,yates david g,122520811007643,"EVP, Alternate Channels",male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,schenkel amintore,122520811007644,Controller,male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110228,stockdale stewart,122520811007641,Pres. Americas & EVP,male,654000000.0
-65889.0,0.0,1365135,western union co,1.0,,,,20110301,greenberg jack m,122520811007935,,male,654000000.0
-32921.0,0.0,1365135,western union co,1.0,,,,20110301,holden betsy d,122520811007942,,female,654000000.0
-0.0,0.0,1365135,western union co,1.0,,,,20110301,devitre dinyar s,122520811007934,,male,654000000.0
-16161.0,0.0,1365135,western union co,1.0,,,,20110301,schimmelmann wulf von,122520811007949,,male,654000000.0
-22253.0,0.0,1365135,western union co,1.0,,,,20110301,mendoza roberto g,122520811007945,,male,654000000.0
-23089.0,0.0,1365135,western union co,1.0,,,,20110301,levinson linda fayne,122520811007944,,female,654000000.0
-42265.0,0.0,1365135,western union co,1.0,,,,20110301,miles michael,122520811007947,,male,654000000.0
-27585.0,0.0,1365135,western union co,1.0,,,,20110301,stevenson dennis,122520811007948,,male,654000000.0
-33227.0,0.0,1365135,western union co,1.0,,,,20110301,lacy alan j,122520811007943,,male,654000000.0
-39385.0,0.0,1365135,western union co,,1.0,,,20110302,schlapbach david,122520811008257,"EVP, Gen. Counsel & Sec.",male,654000000.0
-76080.0,0.0,1365135,western union co,,1.0,,,20110303,scheirman scott,122520811008597,EVP and CFO,male,654000000.0
-241364.0,0.0,1365135,western union co,,1.0,,,20110304,stockdale stewart,122520811008833,Pres. Americas & EVP,male,654000000.0
-39385.0,0.0,1365135,western union co,,1.0,,,20110307,schlapbach david,122520811009081,"EVP, Gen. Counsel & Sec.",male,654000000.0
-0.0,0.0,1365135,western union co,,1.0,,,20110505,stockdale stewart,122520811013300,Pres. Americas & EVP,male,632264111.0
-0.0,0.0,1365135,western union co,,1.0,,,20110505,scott diane,122520811013335,EVP & Chief Marketing Officer,female,632264111.0
-325608.0,0.0,1365135,western union co,1.0,1.0,,,20110505,ersek hikmet,122520811013299,President and CEO,male,632264111.0
-22203.0,0.0,1365135,western union co,,1.0,,,20110506,schenkel amintore,122520811013479,Controller,male,632264111.0
-210818.0,0.0,1365135,western union co,,1.0,,,20110627,stockdale stewart,122520811016777,"EVP & Pres., Gl. Cons. Fin. Sv",male,632264111.0
-0.0,0.0,1365135,western union co,,1.0,,,20110919,scott diane,122520811021985,EVP & Chief Marketing Officer,female,627702493.0
-0.0,0.0,1365135,western union co,,1.0,,,20110919,agrawal rajesh k.,122520811021986,"Pres, WU Bus Solutions",male,627702493.0
-42443.0,0.0,1365135,western union co,1.0,,,,20110919,miles michael,122520811021982,,male,627702493.0
-200818.0,0.0,1365135,western union co,,1.0,,,20111004,stockdale stewart,122520811022846,"EVP & Pres., Gl. Cons. Fin. Sv",male,619100000.0
-190818.0,0.0,1365135,western union co,,1.0,,,20111101,stockdale stewart,122520811024106,"EVP & Pres., Gl. Cons. Fin. Sv",male,619137583.0
-180818.0,0.0,1365135,western union co,,1.0,,,20111202,stockdale stewart,122520811025778,"EVP & Pres., Gl. Cons. Fin. Sv",male,619137583.0
-173918.0,0.0,1365135,western union co,,1.0,,,20120103,stockdale stewart,122520812000195,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
-167011.0,0.0,1365135,western union co,,1.0,,,20120201,stockdale stewart,122520812002837,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
-325608.0,0.0,1365135,western union co,1.0,1.0,,,20120201,ersek hikmet,122520812002838,President and CEO,male,619400000.0
-22203.0,0.0,1365135,western union co,,1.0,,,20120215,schenkel amintore,122520812004359,Controller,male,619400000.0
-49097.0,0.0,1365135,western union co,,1.0,,,20120222,heller robin,122520812005068,"EVP, Chief Integration Officer",male,619400000.0
-295323.0,0.0,1365135,western union co,1.0,1.0,,,20120222,ersek hikmet,122520812005067,President and CEO,male,619400000.0
-34779.0,0.0,1365135,western union co,,1.0,,,20120222,agrawal rajesh k.,122520812005066,"Pres, WU Bus Solutions",male,619400000.0
-63432.0,0.0,1365135,western union co,,1.0,,,20120222,scheirman scott,122520812005065,EVP and CFO,male,619400000.0
-27622.0,0.0,1365135,western union co,,1.0,,,20120222,scott diane,122520812005069,EVP & Chief Marketing Officer,female,619400000.0
-20460.0,0.0,1365135,western union co,,1.0,,,20120222,schenkel amintore,122520812005071,Controller,male,619400000.0
-156474.0,0.0,1365135,western union co,,1.0,,,20120222,stockdale stewart,122520812005070,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,dye john r,122520812005694,"EVP, Secretary & Gen. Counsel",male,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,stockdale stewart,122520812005699,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,scheirman scott,122520812005698,EVP and CFO,male,619400000.0
-27963.0,0.0,1365135,western union co,,1.0,,,20120227,schenkel amintore,122520812005700,Controller,male,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,larson paula s,122520812005696,"EVP, Human Resources",female,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,heller robin,122520812005695,"EVP, Chief Integration Officer",male,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,scott diane,122520812005697,EVP & Chief Marketing Officer,female,619400000.0
-0.0,0.0,1365135,western union co,,1.0,,,20120227,agrawal rajesh k.,122520812005693,"Pres, WU Bus Solutions",male,619400000.0
-0.0,0.0,1365135,western union co,1.0,1.0,,,20120227,ersek hikmet,122520812005692,President and CEO,male,619400000.0
-23432.0,0.0,1365135,western union co,1.0,,,,20120228,schimmelmann wulf von,122520812005876,,male,619400000.0
-25889.0,0.0,1365135,western union co,1.0,,,,20120228,mendoza roberto g,122520812005883,,male,619400000.0
-0.0,0.0,1365135,western union co,1.0,,,,20120228,devitre dinyar s,122520812005877,,male,619400000.0
-7271.0,0.0,1365135,western union co,1.0,,,,20120228,goodman richard,122520812005878,,male,619400000.0
-28403.0,0.0,1365135,western union co,1.0,,,,20120228,levinson linda fayne,122520812005881,,female,619400000.0
-32410.0,0.0,1365135,western union co,1.0,,,,20120228,stevenson dennis,122520812005884,,male,619400000.0
-40192.0,0.0,1365135,western union co,1.0,,,,20120228,holden betsy d,122520812005880,,female,619400000.0
-55028.0,0.0,1365135,western union co,1.0,,,,20120228,miles michael,122520812005882,,male,619400000.0
-75677.0,0.0,1365135,western union co,1.0,,,,20120228,greenberg jack m,122520812005879,,male,619400000.0
-156474.0,0.0,1365135,western union co,,1.0,,,20120305,stockdale stewart,122520812006638,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
-133284.0,0.0,1365135,western union co,,1.0,,,20120319,stockdale stewart,122520812007950,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
-103882.0,0.0,1365135,western union co,,1.0,,,20120430,thompson john david,122520812010506,EVP and CIO,male,612951394.0
-3497.0,0.0,1365135,western union co,1.0,,,,20120724,trujillo solomon d,122520812016602,,male,604500000.0
-92904.0,0.0,1365135,western union co,,1.0,,,20121030,thompson john david,122520812022043,EVP and CIO,male,598600000.0
-303383.0,0.0,1365135,western union co,1.0,1.0,,,20121113,ersek hikmet,122520812022881,President and CEO,male,596579004.0
-83677.0,0.0,1365135,western union co,1.0,,,1.0,20121113,greenberg jack m,122520812022879,,male,596579004.0
-45165.0,0.0,1365135,western union co,1.0,,,,20121113,devitre dinyar s,122520812022880,,male,596579004.0
-11800.0,0.0,1365135,western union co,1.0,,,,20121115,trujillo solomon d,122520812023285,,male,596579004.0
-36779.0,0.0,1365135,western union co,,1.0,,,20121130,agrawal rajesh k.,122520812024105,"Pres, WU Bus Solutions",male,596579004.0
-30768.0,0.0,1365135,western union co,,1.0,,,20121204,dye john r,122520812024497,"EVP, Secretary & Gen. Counsel",male,596579004.0
-271824.0,0.0,1365135,western union co,1.0,1.0,,,20130220,ersek hikmet,122520813004801,President and CEO,male,572100000.0
-30837.67,0.0,1365135,western union co,,1.0,,,20130222,dye john r,122520813005147,"EVP, Secretary & Gen. Counsel",male,572100000.0
-0.0,0.0,1365135,western union co,,1.0,,,20130222,scott diane,122520813005145,EVP & Chief Marketing Officer,female,572100000.0
-93114.36,0.0,1365135,western union co,,1.0,,,20130222,thompson john david,122520813005148,EVP and CIO,male,572100000.0
-0.0,0.0,1365135,western union co,,1.0,,,20130222,larson paula s,122520813005144,"EVP, Human Resources",female,572100000.0
-0.0,0.0,1365135,western union co,,1.0,,,20130222,agrawal rajesh k.,122520813005143,"EVP & Pres, WU Bus Solutions",male,572100000.0
-40646.0,0.0,1365135,western union co,,1.0,,,20130222,schenkel amintore,122520813005146,Chief Acct. Officer,male,572100000.0
-0.0,0.0,1365135,western union co,1.0,1.0,,,20130222,ersek hikmet,122520813005141,President and CEO,male,572100000.0
-0.0,0.0,1365135,western union co,,1.0,,,20130222,scheirman scott,122520813005142,EVP and CFO,male,572100000.0
-0.0,0.0,1365135,western union co,1.0,,,,20130225,devitre dinyar s,122520813005280,,male,572100000.0
-37756.0,0.0,1365135,western union co,1.0,,,,20130225,levinson linda fayne,122520813005281,,female,572100000.0
-11948.0,0.0,1365135,western union co,1.0,,,,20130225,goodman richard,122520813005282,,male,572100000.0
+76080.0,,1365135,western union co,,1.0,,,20110207,scheirman scott,122520811004889,EVP and CFO,male,654000000.0
+14386.0,,1365135,western union co,,1.0,,,20110223,schenkel amintore,122520811006880,Controller,male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,yates david g,122520811007643,"EVP, Alternate Channels",male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,wray grover,122520811007642,"EVP, Human Resources",male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,stockdale stewart,122520811007641,Pres. Americas & EVP,male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,schenkel amintore,122520811007644,Controller,male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,heller robin,122520811007639,"EVP, Operations & IT",male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,ersek hikmet,122520811007638,President and CEO,male,654000000.0
+,,1365135,western union co,,1.0,,,20110228,scheirman scott,122520811007640,EVP and CFO,male,654000000.0
+27585.0,,1365135,western union co,1.0,,,,20110301,stevenson dennis,122520811007948,,male,654000000.0
+42265.0,,1365135,western union co,1.0,,,,20110301,miles michael,122520811007947,,male,654000000.0
+22253.0,,1365135,western union co,1.0,,,,20110301,mendoza roberto g,122520811007945,,male,654000000.0
+23089.0,,1365135,western union co,1.0,,,,20110301,levinson linda fayne,122520811007944,,female,654000000.0
+16161.0,,1365135,western union co,1.0,,,,20110301,schimmelmann wulf von,122520811007949,,male,654000000.0
+32921.0,,1365135,western union co,1.0,,,,20110301,holden betsy d,122520811007942,,female,654000000.0
+65889.0,,1365135,western union co,1.0,,,,20110301,greenberg jack m,122520811007935,,male,654000000.0
+,,1365135,western union co,1.0,,,,20110301,devitre dinyar s,122520811007934,,male,654000000.0
+33227.0,,1365135,western union co,1.0,,,,20110301,lacy alan j,122520811007943,,male,654000000.0
+39385.0,,1365135,western union co,,1.0,,,20110302,schlapbach david,122520811008257,"EVP, Gen. Counsel & Sec.",male,654000000.0
+76080.0,,1365135,western union co,,1.0,,,20110303,scheirman scott,122520811008597,EVP and CFO,male,654000000.0
+241364.0,,1365135,western union co,,1.0,,,20110304,stockdale stewart,122520811008833,Pres. Americas & EVP,male,654000000.0
+39385.0,,1365135,western union co,,1.0,,,20110307,schlapbach david,122520811009081,"EVP, Gen. Counsel & Sec.",male,654000000.0
+325608.0,,1365135,western union co,1.0,1.0,,,20110505,ersek hikmet,122520811013299,President and CEO,male,632264111.0
+,,1365135,western union co,,1.0,,,20110505,stockdale stewart,122520811013300,Pres. Americas & EVP,male,632264111.0
+,,1365135,western union co,,1.0,,,20110505,scott diane,122520811013335,EVP & Chief Marketing Officer,female,632264111.0
+22203.0,,1365135,western union co,,1.0,,,20110506,schenkel amintore,122520811013479,Controller,male,632264111.0
+210818.0,,1365135,western union co,,1.0,,,20110627,stockdale stewart,122520811016777,"EVP & Pres., Gl. Cons. Fin. Sv",male,632264111.0
+42443.0,,1365135,western union co,1.0,,,,20110919,miles michael,122520811021982,,male,627702493.0
+,,1365135,western union co,,1.0,,,20110919,scott diane,122520811021985,EVP & Chief Marketing Officer,female,627702493.0
+,,1365135,western union co,,1.0,,,20110919,agrawal rajesh k.,122520811021986,"Pres, WU Bus Solutions",male,627702493.0
+200818.0,,1365135,western union co,,1.0,,,20111004,stockdale stewart,122520811022846,"EVP & Pres., Gl. Cons. Fin. Sv",male,619100000.0
+190818.0,,1365135,western union co,,1.0,,,20111101,stockdale stewart,122520811024106,"EVP & Pres., Gl. Cons. Fin. Sv",male,619137583.0
+180818.0,,1365135,western union co,,1.0,,,20111202,stockdale stewart,122520811025778,"EVP & Pres., Gl. Cons. Fin. Sv",male,619137583.0
+173918.0,,1365135,western union co,,1.0,,,20120103,stockdale stewart,122520812000195,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
+167011.0,,1365135,western union co,,1.0,,,20120201,stockdale stewart,122520812002837,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
+325608.0,,1365135,western union co,1.0,1.0,,,20120201,ersek hikmet,122520812002838,President and CEO,male,619400000.0
+22203.0,,1365135,western union co,,1.0,,,20120215,schenkel amintore,122520812004359,Controller,male,619400000.0
+20460.0,,1365135,western union co,,1.0,,,20120222,schenkel amintore,122520812005071,Controller,male,619400000.0
+27622.0,,1365135,western union co,,1.0,,,20120222,scott diane,122520812005069,EVP & Chief Marketing Officer,female,619400000.0
+49097.0,,1365135,western union co,,1.0,,,20120222,heller robin,122520812005068,"EVP, Chief Integration Officer",male,619400000.0
+156474.0,,1365135,western union co,,1.0,,,20120222,stockdale stewart,122520812005070,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
+34779.0,,1365135,western union co,,1.0,,,20120222,agrawal rajesh k.,122520812005066,"Pres, WU Bus Solutions",male,619400000.0
+63432.0,,1365135,western union co,,1.0,,,20120222,scheirman scott,122520812005065,EVP and CFO,male,619400000.0
+295323.0,,1365135,western union co,1.0,1.0,,,20120222,ersek hikmet,122520812005067,President and CEO,male,619400000.0
+,,1365135,western union co,,1.0,,,20120227,stockdale stewart,122520812005699,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
+,,1365135,western union co,1.0,1.0,,,20120227,ersek hikmet,122520812005692,President and CEO,male,619400000.0
+,,1365135,western union co,,1.0,,,20120227,agrawal rajesh k.,122520812005693,"Pres, WU Bus Solutions",male,619400000.0
+,,1365135,western union co,,1.0,,,20120227,dye john r,122520812005694,"EVP, Secretary & Gen. Counsel",male,619400000.0
+,,1365135,western union co,,1.0,,,20120227,heller robin,122520812005695,"EVP, Chief Integration Officer",male,619400000.0
+,,1365135,western union co,,1.0,,,20120227,larson paula s,122520812005696,"EVP, Human Resources",female,619400000.0
+,,1365135,western union co,,1.0,,,20120227,scott diane,122520812005697,EVP & Chief Marketing Officer,female,619400000.0
+,,1365135,western union co,,1.0,,,20120227,scheirman scott,122520812005698,EVP and CFO,male,619400000.0
+27963.0,,1365135,western union co,,1.0,,,20120227,schenkel amintore,122520812005700,Controller,male,619400000.0
+28403.0,,1365135,western union co,1.0,,,,20120228,levinson linda fayne,122520812005881,,female,619400000.0
+55028.0,,1365135,western union co,1.0,,,,20120228,miles michael,122520812005882,,male,619400000.0
+40192.0,,1365135,western union co,1.0,,,,20120228,holden betsy d,122520812005880,,female,619400000.0
+75677.0,,1365135,western union co,1.0,,,,20120228,greenberg jack m,122520812005879,,male,619400000.0
+25889.0,,1365135,western union co,1.0,,,,20120228,mendoza roberto g,122520812005883,,male,619400000.0
+,,1365135,western union co,1.0,,,,20120228,devitre dinyar s,122520812005877,,male,619400000.0
+32410.0,,1365135,western union co,1.0,,,,20120228,stevenson dennis,122520812005884,,male,619400000.0
+7271.0,,1365135,western union co,1.0,,,,20120228,goodman richard,122520812005878,,male,619400000.0
+23432.0,,1365135,western union co,1.0,,,,20120228,schimmelmann wulf von,122520812005876,,male,619400000.0
+156474.0,,1365135,western union co,,1.0,,,20120305,stockdale stewart,122520812006638,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
+133284.0,,1365135,western union co,,1.0,,,20120319,stockdale stewart,122520812007950,"EVP & Pres., Gl. Cons. Fin. Sv",male,619400000.0
+103882.0,,1365135,western union co,,1.0,,,20120430,thompson john david,122520812010506,EVP and CIO,male,612951394.0
+3497.0,,1365135,western union co,1.0,,,,20120724,trujillo solomon d,122520812016602,,male,604500000.0
+92904.0,,1365135,western union co,,1.0,,,20121030,thompson john david,122520812022043,EVP and CIO,male,598600000.0
+83677.0,,1365135,western union co,1.0,,,1.0,20121113,greenberg jack m,122520812022879,,male,596579004.0
+45165.0,,1365135,western union co,1.0,,,,20121113,devitre dinyar s,122520812022880,,male,596579004.0
+303383.0,,1365135,western union co,1.0,1.0,,,20121113,ersek hikmet,122520812022881,President and CEO,male,596579004.0
+11800.0,,1365135,western union co,1.0,,,,20121115,trujillo solomon d,122520812023285,,male,596579004.0
+36779.0,,1365135,western union co,,1.0,,,20121130,agrawal rajesh k.,122520812024105,"Pres, WU Bus Solutions",male,596579004.0
+30768.0,,1365135,western union co,,1.0,,,20121204,dye john r,122520812024497,"EVP, Secretary & Gen. Counsel",male,596579004.0
+271824.0,,1365135,western union co,1.0,1.0,,,20130220,ersek hikmet,122520813004801,President and CEO,male,572100000.0
+,,1365135,western union co,1.0,1.0,,,20130222,ersek hikmet,122520813005141,President and CEO,male,572100000.0
+,,1365135,western union co,,1.0,,,20130222,scheirman scott,122520813005142,EVP and CFO,male,572100000.0
+,,1365135,western union co,,1.0,,,20130222,agrawal rajesh k.,122520813005143,"EVP & Pres, WU Bus Solutions",male,572100000.0
+,,1365135,western union co,,1.0,,,20130222,larson paula s,122520813005144,"EVP, Human Resources",female,572100000.0
+,,1365135,western union co,,1.0,,,20130222,scott diane,122520813005145,EVP & Chief Marketing Officer,female,572100000.0
+40646.0,,1365135,western union co,,1.0,,,20130222,schenkel amintore,122520813005146,Chief Acct. Officer,male,572100000.0
+93114.36,,1365135,western union co,,1.0,,,20130222,thompson john david,122520813005148,EVP and CIO,male,572100000.0
+30837.67,,1365135,western union co,,1.0,,,20130222,dye john r,122520813005147,"EVP, Secretary & Gen. Counsel",male,572100000.0
+11948.0,,1365135,western union co,1.0,,,,20130225,goodman richard,122520813005282,,male,572100000.0
+,,1365135,western union co,1.0,,,,20130225,devitre dinyar s,122520813005280,,male,572100000.0
+96267.0,,1365135,western union co,1.0,,,,20130225,greenberg jack m,122520813005288,,male,572100000.0
+32785.0,,1365135,western union co,1.0,,,,20130225,schimmelmann wulf von,122520813005287,,male,572100000.0
+37756.0,,1365135,western union co,1.0,,,,20130225,levinson linda fayne,122520813005281,,female,572100000.0
+71216.0,,1365135,western union co,1.0,,,,20130225,miles michael,122520813005285,,male,572100000.0
+30566.0,,1365135,western union co,1.0,,,,20130225,mendoza roberto g,122520813005284,,male,572100000.0
 8174.0,11800.0,1365135,western union co,1.0,,,,20130225,trujillo solomon d,122520813005286,,male,572100000.0
-96267.0,0.0,1365135,western union co,1.0,,,,20130225,greenberg jack m,122520813005288,,male,572100000.0
-30566.0,0.0,1365135,western union co,1.0,,,,20130225,mendoza roberto g,122520813005284,,male,572100000.0
-71216.0,0.0,1365135,western union co,1.0,,,,20130225,miles michael,122520813005285,,male,572100000.0
-32785.0,0.0,1365135,western union co,1.0,,,,20130225,schimmelmann wulf von,122520813005287,,male,572100000.0
-49545.0,0.0,1365135,western union co,1.0,,,,20130225,holden betsy d,122520813005283,,female,572100000.0
-34089.0,0.0,1365135,western union co,,1.0,,,20130301,agrawal rajesh k.,122520813006211,"EVP & Pres, WU Bus Solutions",male,572100000.0
-239332.0,0.0,1365135,western union co,1.0,1.0,,,20130301,ersek hikmet,122520813006212,President and CEO,male,572100000.0
-55483.0,0.0,1365135,western union co,,1.0,,,20130301,scheirman scott,122520813006213,EVP and CFO,male,572100000.0
-25382.0,0.0,1365135,western union co,,1.0,,,20130301,scott diane,122520813006214,EVP & Chief Marketing Officer,female,572100000.0
-39002.0,0.0,1365135,western union co,,1.0,,,20130301,schenkel amintore,122520813006215,Chief Acct. Officer,male,572100000.0
-24666.0,0.0,1365135,western union co,,1.0,,,20130507,williams richard l,122520813011552,Interim Chief Human Res. Ofcr.,male,557111446.0
-1282.0,0.0,1365135,western union co,1.0,,,,20130829,townsend frances f,122520813018815,,female,551935745.0
-96267.0,0.0,1365135,western union co,1.0,,,,20130903,greenberg jack m,122520813018936,,male,551935745.0
-207411.0,0.0,1365135,western union co,1.0,1.0,,,20130904,ersek hikmet,122520813019104,President and CEO,male,551935745.0
-96267.0,0.0,1365135,western union co,1.0,,,,20130917,greenberg jack m,122520813020120,,male,551935745.0
-96267.0,0.0,1365135,western union co,1.0,,,,20131003,greenberg jack m,122520813021516,,male,551800000.0
-32814.0,0.0,1365135,western union co,,1.0,,,20131015,williams richard l,122520813021880,EVP & Chief Human Res. Ofcr.,male,551800000.0
-96267.0,0.0,1365135,western union co,1.0,,,,20131024,greenberg jack m,122520813022272,,male,551800000.0
-208394.0,0.0,1365135,western union co,1.0,1.0,0.0,0.0,20131030,ersek hikmet,136513513000058,President and CEO,male,551800000.0
-27206.67,0.0,1365135,western union co,,1.0,,,20131202,dye john r,122520813024485,"EVP, Secretary & Gen. Counsel",male,552251436.0
-32225.0,0.0,1365135,western union co,,1.0,,,20140211,agrawal rajesh k.,122520814004190,EVP & Interim CFO,male,548800000.0
-42496.67,0.0,1365135,western union co,,1.0,,,20140224,dye john r,122520814005902,"EVP, Secretary & Gen. Counsel",male,548800000.0
-104127.36,0.0,1365135,western union co,,1.0,,,20140224,thompson john david,122520814005899,EVP and CIO,male,548800000.0
-44822.0,0.0,1365135,western union co,,1.0,,,20140224,agrawal rajesh k.,122520814005898,EVP & Interim CFO,male,548800000.0
-253603.0,0.0,1365135,western union co,1.0,1.0,,,20140224,ersek hikmet,122520814005897,President and CEO,male,548800000.0
-36278.0,0.0,1365135,western union co,,1.0,,,20140224,scott diane,122520814005903,EVP & Chief Marketing Officer,female,548800000.0
-0.0,0.0,1365135,western union co,,1.0,,,20140224,williams richard l,122520814005867,EVP & Chief Human Res. Ofcr.,male,548800000.0
-37095.0,0.0,1365135,western union co,,1.0,,,20140224,farah jean claude,122520814005866,EVP & Pres. ME/AF/APAC/RS/CIS,male,548800000.0
-39152.0,0.0,1365135,western union co,,1.0,,,20140224,almeida odilon,122520814005865,"EVP & Pres, Americas & Europe",male,548800000.0
-56201.0,0.0,1365135,western union co,,1.0,,,20140224,schenkel amintore,122520814005868,Chief Acct. Officer,male,548800000.0
-45861.0,0.0,1365135,western union co,1.0,,,,20140225,levinson linda fayne,122520814006183,,female,548800000.0
-107178.0,0.0,1365135,western union co,1.0,,,,20140225,greenberg jack m,122520814006180,,male,548800000.0
-5335.0,0.0,1365135,western union co,1.0,,,,20140225,townsend frances f,122520814006181,,female,548800000.0
-53270.0,0.0,1365135,western union co,1.0,,,,20140225,devitre dinyar s,122520814006182,,male,548800000.0
-34619.0,0.0,1365135,western union co,1.0,,,,20140225,mendoza roberto g,122520814006186,,male,548800000.0
-16001.0,0.0,1365135,western union co,1.0,,,,20140225,goodman richard,122520814006184,,male,548800000.0
-85244.0,0.0,1365135,western union co,1.0,,,,20140225,miles michael,122520814006187,,male,548800000.0
+49545.0,,1365135,western union co,1.0,,,,20130225,holden betsy d,122520813005283,,female,572100000.0
+39002.0,,1365135,western union co,,1.0,,,20130301,schenkel amintore,122520813006215,Chief Acct. Officer,male,572100000.0
+25382.0,,1365135,western union co,,1.0,,,20130301,scott diane,122520813006214,EVP & Chief Marketing Officer,female,572100000.0
+239332.0,,1365135,western union co,1.0,1.0,,,20130301,ersek hikmet,122520813006212,President and CEO,male,572100000.0
+34089.0,,1365135,western union co,,1.0,,,20130301,agrawal rajesh k.,122520813006211,"EVP & Pres, WU Bus Solutions",male,572100000.0
+55483.0,,1365135,western union co,,1.0,,,20130301,scheirman scott,122520813006213,EVP and CFO,male,572100000.0
+24666.0,,1365135,western union co,,1.0,,,20130507,williams richard l,122520813011552,Interim Chief Human Res. Ofcr.,male,557111446.0
+1282.0,,1365135,western union co,1.0,,,,20130829,townsend frances f,122520813018815,,female,551935745.0
+96267.0,,1365135,western union co,1.0,,,,20130903,greenberg jack m,122520813018936,,male,551935745.0
+207411.0,,1365135,western union co,1.0,1.0,,,20130904,ersek hikmet,122520813019104,President and CEO,male,551935745.0
+96267.0,,1365135,western union co,1.0,,,,20130917,greenberg jack m,122520813020120,,male,551935745.0
+96267.0,,1365135,western union co,1.0,,,,20131003,greenberg jack m,122520813021516,,male,551800000.0
+32814.0,,1365135,western union co,,1.0,,,20131015,williams richard l,122520813021880,EVP & Chief Human Res. Ofcr.,male,551800000.0
+96267.0,,1365135,western union co,1.0,,,,20131024,greenberg jack m,122520813022272,,male,551800000.0
+208394.0,,1365135,western union co,1.0,1.0,0.0,0.0,20131030,ersek hikmet,136513513000058,President and CEO,male,551800000.0
+27206.67,,1365135,western union co,,1.0,,,20131202,dye john r,122520813024485,"EVP, Secretary & Gen. Counsel",male,552251436.0
+32225.0,,1365135,western union co,,1.0,,,20140211,agrawal rajesh k.,122520814004190,EVP & Interim CFO,male,548800000.0
+39152.0,,1365135,western union co,,1.0,,,20140224,almeida odilon,122520814005865,"EVP & Pres, Americas & Europe",male,548800000.0
+37095.0,,1365135,western union co,,1.0,,,20140224,farah jean claude,122520814005866,EVP & Pres. ME/AF/APAC/RS/CIS,male,548800000.0
+,,1365135,western union co,,1.0,,,20140224,williams richard l,122520814005867,EVP & Chief Human Res. Ofcr.,male,548800000.0
+56201.0,,1365135,western union co,,1.0,,,20140224,schenkel amintore,122520814005868,Chief Acct. Officer,male,548800000.0
+253603.0,,1365135,western union co,1.0,1.0,,,20140224,ersek hikmet,122520814005897,President and CEO,male,548800000.0
+44822.0,,1365135,western union co,,1.0,,,20140224,agrawal rajesh k.,122520814005898,EVP & Interim CFO,male,548800000.0
+104127.36,,1365135,western union co,,1.0,,,20140224,thompson john david,122520814005899,EVP and CIO,male,548800000.0
+42496.67,,1365135,western union co,,1.0,,,20140224,dye john r,122520814005902,"EVP, Secretary & Gen. Counsel",male,548800000.0
+36278.0,,1365135,western union co,,1.0,,,20140224,scott diane,122520814005903,EVP & Chief Marketing Officer,female,548800000.0
+40890.0,,1365135,western union co,1.0,,,,20140225,schimmelmann wulf von,122520814006189,,male,548800000.0
 12227.0,11800.0,1365135,western union co,1.0,,,,20140225,trujillo solomon d,122520814006188,,male,548800000.0
-40890.0,0.0,1365135,western union co,1.0,,,,20140225,schimmelmann wulf von,122520814006189,,male,548800000.0
-57650.0,0.0,1365135,western union co,1.0,,,,20140225,holden betsy d,122520814006185,,female,548800000.0
-37171.0,0.0,1365135,western union co,,1.0,,,20140226,almeida odilon,122520814006479,"EVP & Pres, Americas & Europe",male,548800000.0
-50715.0,0.0,1365135,western union co,,1.0,,,20140226,agrawal rajesh k.,122520814006478,EVP & Interim CFO,male,548800000.0
-341676.0,0.0,1365135,western union co,1.0,1.0,,,20140226,ersek hikmet,122520814006482,President and CEO,male,548800000.0
-56909.0,0.0,1365135,western union co,,1.0,,,20140226,scott diane,122520814006483,EVP & Chief Marketing Officer,female,548800000.0
-31739.0,0.0,1365135,western union co,,1.0,,,20140226,williams richard l,122520814006481,EVP & Chief Human Res. Ofcr.,male,548800000.0
-53048.0,0.0,1365135,western union co,,1.0,,,20140226,farah jean claude,122520814006484,EVP & Pres. ME/AF/APAC/RS/CIS,male,548800000.0
-53521.0,0.0,1365135,western union co,,1.0,,,20140226,schenkel amintore,122520814006480,Chief Acct. Officer,male,548800000.0
-118915.36,0.0,1365135,western union co,,1.0,,,20140319,thompson john david,122520814008594,EVP and CIO,male,548800000.0
-32005.0,0.0,1365135,western union co,,1.0,,,20140324,almeida odilon,122520814008819,"EVP & Pres, Americas & Europe",male,548800000.0
-71556.0,0.0,1365135,western union co,,1.0,,,20140331,farah jean claude,122520814009231,EVP & Pres. ME/AF/APAC/RS/CIS,male,538900000.0
-59766.0,0.0,1365135,western union co,,1.0,,,20140331,almeida odilon,122520814009232,"EVP & Pres, Americas & Europe",male,538900000.0
-107951.36,0.0,1365135,western union co,,1.0,,,20140429,thompson john david,122520814011313,EVP and CIO,male,538923888.0
-67581.0,0.0,1365135,western union co,,1.0,,,20140711,farah jean claude,122520814016898,EVP & Pres. ME/AF/APAC/RS/CIS,male,530300000.0
-79651.0,0.0,1365135,western union co,,1.0,,,20140716,agrawal rajesh k.,122520814017125,EVP & CFO,male,530300000.0
-3967.0,0.0,1365135,western union co,1.0,,,,20140721,selander robert w,122520814017322,,male,530300000.0
-83609.36,0.0,1365135,western union co,,1.0,,,20140917,thompson john david,122520814020110,EVP and CIO,male,529769781.0
-30852.0,0.0,1365135,western union co,,1.0,,,20141014,williams richard l,122520814021599,EVP & Chief Human Res. Ofcr.,male,523600000.0
-63606.0,0.0,1365135,western union co,,1.0,,,20141114,farah jean claude,122520814023373,EVP & Pres. ME/AF/APAC/RS/CIS,male,522627069.0
-38865.67,0.0,1365135,western union co,,1.0,,,20141202,dye john r,122520814024255,"EVP, Secretary & Gen. Counsel",male,522627069.0
-30641.0,0.0,1365135,western union co,,1.0,,,20150218,scott diane,122520815004479,EVP & Chief Marketing Officer,female,521445073.0
-0.0,0.0,1365135,western union co,,1.0,,,20150223,almeida odilon,122520815005268,"EVP & Pres, Americas & Europe",male,521445073.0
-0.0,0.0,1365135,western union co,,1.0,,,20150223,agrawal rajesh k.,122520815005267,EVP & CFO,male,521445073.0
-0.0,0.0,1365135,western union co,,1.0,,,20150223,scott diane,122520815005271,EVP & Chief Marketing Officer,female,521445073.0
-0.0,0.0,1365135,western union co,,1.0,,,20150223,dye john r,122520815005269,"EVP, Secretary & Gen. Counsel",male,521445073.0
-0.0,0.0,1365135,western union co,1.0,1.0,,,20150223,ersek hikmet,122520815005266,President and CEO,male,521445073.0
-0.0,0.0,1365135,western union co,,1.0,,,20150223,williams richard l,122520815005272,EVP & Chief Human Res. Ofcr.,male,521445073.0
-65872.0,0.0,1365135,western union co,,1.0,,,20150223,schenkel amintore,122520815005273,Chief Acct. Officer,male,521445073.0
-99034.36,0.0,1365135,western union co,,1.0,,,20150223,thompson john david,122520815005274,EVP and CIO,male,521445073.0
-0.0,0.0,1365135,western union co,,1.0,,,20150223,farah jean claude,122520815005270,EVP & Pres. ME/AF/APAC/RS/CIS,male,521445073.0
-98498.36,0.0,1365135,western union co,,1.0,,,20150224,thompson john david,122520815005513,EVP and CIO,male,521445073.0
-64318.0,0.0,1365135,western union co,,1.0,,,20150224,schenkel amintore,122520815005514,Chief Acct. Officer,male,521445073.0
-340160.0,0.0,1365135,western union co,1.0,1.0,,,20150224,ersek hikmet,122520815005507,President and CEO,male,521445073.0
-79169.0,0.0,1365135,western union co,,1.0,,,20150224,agrawal rajesh k.,122520815005508,EVP & CFO,male,521445073.0
-59265.0,0.0,1365135,western union co,,1.0,,,20150224,almeida odilon,122520815005509,"EVP & Pres, Americas & Europe",male,521445073.0
-37866.67,0.0,1365135,western union co,,1.0,,,20150224,dye john r,122520815005510,"EVP, Secretary & Gen. Counsel",male,521445073.0
-30135.0,0.0,1365135,western union co,,1.0,,,20150224,scott diane,122520815005511,EVP & Chief Marketing Officer,female,521445073.0
-12965.0,0.0,1365135,western union co,1.0,,,,20150224,selander robert w,122520815005533,,male,521445073.0
-38218.0,0.0,1365135,western union co,1.0,,,,20150224,mendoza roberto g,122520815005531,,male,521445073.0
-64848.0,0.0,1365135,western union co,1.0,,,,20150224,holden betsy d,122520815005529,,female,521445073.0
-53059.0,0.0,1365135,western union co,1.0,,,,20150224,levinson linda fayne,122520815005530,,female,521445073.0
-97841.0,0.0,1365135,western union co,1.0,,,,20150224,miles michael,122520815005532,,male,521445073.0
-15362.0,0.0,1365135,western union co,1.0,,,,20150224,townsend frances f,122520815005534,,female,521445073.0
+85244.0,,1365135,western union co,1.0,,,,20140225,miles michael,122520814006187,,male,548800000.0
+34619.0,,1365135,western union co,1.0,,,,20140225,mendoza roberto g,122520814006186,,male,548800000.0
+57650.0,,1365135,western union co,1.0,,,,20140225,holden betsy d,122520814006185,,female,548800000.0
+107178.0,,1365135,western union co,1.0,,,,20140225,greenberg jack m,122520814006180,,male,548800000.0
+45861.0,,1365135,western union co,1.0,,,,20140225,levinson linda fayne,122520814006183,,female,548800000.0
+53270.0,,1365135,western union co,1.0,,,,20140225,devitre dinyar s,122520814006182,,male,548800000.0
+5335.0,,1365135,western union co,1.0,,,,20140225,townsend frances f,122520814006181,,female,548800000.0
+16001.0,,1365135,western union co,1.0,,,,20140225,goodman richard,122520814006184,,male,548800000.0
+56909.0,,1365135,western union co,,1.0,,,20140226,scott diane,122520814006483,EVP & Chief Marketing Officer,female,548800000.0
+53048.0,,1365135,western union co,,1.0,,,20140226,farah jean claude,122520814006484,EVP & Pres. ME/AF/APAC/RS/CIS,male,548800000.0
+341676.0,,1365135,western union co,1.0,1.0,,,20140226,ersek hikmet,122520814006482,President and CEO,male,548800000.0
+37171.0,,1365135,western union co,,1.0,,,20140226,almeida odilon,122520814006479,"EVP & Pres, Americas & Europe",male,548800000.0
+53521.0,,1365135,western union co,,1.0,,,20140226,schenkel amintore,122520814006480,Chief Acct. Officer,male,548800000.0
+31739.0,,1365135,western union co,,1.0,,,20140226,williams richard l,122520814006481,EVP & Chief Human Res. Ofcr.,male,548800000.0
+50715.0,,1365135,western union co,,1.0,,,20140226,agrawal rajesh k.,122520814006478,EVP & Interim CFO,male,548800000.0
+118915.36,,1365135,western union co,,1.0,,,20140319,thompson john david,122520814008594,EVP and CIO,male,548800000.0
+32005.0,,1365135,western union co,,1.0,,,20140324,almeida odilon,122520814008819,"EVP & Pres, Americas & Europe",male,548800000.0
+71556.0,,1365135,western union co,,1.0,,,20140331,farah jean claude,122520814009231,EVP & Pres. ME/AF/APAC/RS/CIS,male,538900000.0
+59766.0,,1365135,western union co,,1.0,,,20140331,almeida odilon,122520814009232,"EVP & Pres, Americas & Europe",male,538900000.0
+107951.36,,1365135,western union co,,1.0,,,20140429,thompson john david,122520814011313,EVP and CIO,male,538923888.0
+67581.0,,1365135,western union co,,1.0,,,20140711,farah jean claude,122520814016898,EVP & Pres. ME/AF/APAC/RS/CIS,male,530300000.0
+79651.0,,1365135,western union co,,1.0,,,20140716,agrawal rajesh k.,122520814017125,EVP & CFO,male,530300000.0
+3967.0,,1365135,western union co,1.0,,,,20140721,selander robert w,122520814017322,,male,530300000.0
+83609.36,,1365135,western union co,,1.0,,,20140917,thompson john david,122520814020110,EVP and CIO,male,529769781.0
+30852.0,,1365135,western union co,,1.0,,,20141014,williams richard l,122520814021599,EVP & Chief Human Res. Ofcr.,male,523600000.0
+63606.0,,1365135,western union co,,1.0,,,20141114,farah jean claude,122520814023373,EVP & Pres. ME/AF/APAC/RS/CIS,male,522627069.0
+38865.67,,1365135,western union co,,1.0,,,20141202,dye john r,122520814024255,"EVP, Secretary & Gen. Counsel",male,522627069.0
+30641.0,,1365135,western union co,,1.0,,,20150218,scott diane,122520815004479,EVP & Chief Marketing Officer,female,521445073.0
+65872.0,,1365135,western union co,,1.0,,,20150223,schenkel amintore,122520815005273,Chief Acct. Officer,male,521445073.0
+,,1365135,western union co,,1.0,,,20150223,williams richard l,122520815005272,EVP & Chief Human Res. Ofcr.,male,521445073.0
+,,1365135,western union co,,1.0,,,20150223,scott diane,122520815005271,EVP & Chief Marketing Officer,female,521445073.0
+,,1365135,western union co,,1.0,,,20150223,farah jean claude,122520815005270,EVP & Pres. ME/AF/APAC/RS/CIS,male,521445073.0
+99034.36,,1365135,western union co,,1.0,,,20150223,thompson john david,122520815005274,EVP and CIO,male,521445073.0
+,,1365135,western union co,,1.0,,,20150223,almeida odilon,122520815005268,"EVP & Pres, Americas & Europe",male,521445073.0
+,,1365135,western union co,,1.0,,,20150223,agrawal rajesh k.,122520815005267,EVP & CFO,male,521445073.0
+,,1365135,western union co,1.0,1.0,,,20150223,ersek hikmet,122520815005266,President and CEO,male,521445073.0
+,,1365135,western union co,,1.0,,,20150223,dye john r,122520815005269,"EVP, Secretary & Gen. Counsel",male,521445073.0
+23199.0,,1365135,western union co,1.0,,,,20150224,goodman richard,122520815005539,,male,521445073.0
+60468.0,,1365135,western union co,1.0,,,,20150224,devitre dinyar s,122520815005536,,male,521445073.0
 15826.0,11800.0,1365135,western union co,1.0,,,,20150224,trujillo solomon d,122520815005535,,male,521445073.0
-60468.0,0.0,1365135,western union co,1.0,,,,20150224,devitre dinyar s,122520815005536,,male,521445073.0
-23199.0,0.0,1365135,western union co,1.0,,,,20150224,goodman richard,122520815005539,,male,521445073.0
-116433.0,0.0,1365135,western union co,1.0,,,,20150224,greenberg jack m,122520815005528,,male,521445073.0
-28109.0,0.0,1365135,western union co,,1.0,,,20150225,scott diane,122520815005807,EVP & Chief Marketing Officer,female,521445073.0
-76500.0,0.0,1365135,western union co,,1.0,,,20150225,agrawal rajesh k.,122520815005806,EVP & CFO,male,521445073.0
-330802.0,0.0,1365135,western union co,1.0,1.0,,,20150225,ersek hikmet,122520815005805,President and CEO,male,521445073.0
-96478.36,0.0,1365135,western union co,,1.0,,,20150225,thompson john david,122520815005809,EVP and CIO,male,521445073.0
-28223.0,0.0,1365135,western union co,,1.0,,,20150225,williams richard l,122520815005812,EVP & Chief Human Res. Ofcr.,male,521445073.0
-56732.0,0.0,1365135,western union co,,1.0,,,20150225,almeida odilon,122520815005811,"EVP & Pres, Americas & Europe",male,521445073.0
-36365.67,0.0,1365135,western union co,,1.0,,,20150225,dye john r,122520815005810,"EVP, Secretary & Gen. Counsel",male,521445073.0
-61949.0,0.0,1365135,western union co,,1.0,,,20150225,schenkel amintore,122520815005813,Chief Acct. Officer,male,521445073.0
-52734.0,0.0,1365135,western union co,,1.0,,,20150303,almeida odilon,122520815006663,"EVP & Pres, Americas & Europe",male,521445073.0
-116433.0,0.0,1365135,western union co,1.0,,,1.0,20150313,greenberg jack m,122520815007833,,male,521445073.0
-55656.0,0.0,1365135,western union co,,1.0,,,20150317,farah jean claude,122520815008071,EVP & Pres. ME/AF/APAC/RS/CIS,male,521445073.0
-95169.36,0.0,1365135,western union co,,1.0,,,20150318,thompson john david,122520815008208,EVP and CIO,male,521445073.0
-52179.5408,0.0,1365135,western union co,,1.0,,,20150325,farah jean claude,122520815008510,EVP & Pres. ME/AF/APAC/RS/CIS,male,521445073.0
-50835.0,0.0,1365135,western union co,,1.0,,,20150331,almeida odilon,122520815008865,"EVP & Pres, Americas & Europe",male,517000000.0
-34509.0,0.0,1365135,western union co,,1.0,,,20150403,scott diane,122520815009464,EVP & Chief Marketing Officer,female,517000000.0
-48315.0,0.0,1365135,western union co,,1.0,,,20150408,almeida odilon,122520815009834,"EVP & Pres, Americas & Europe",male,517000000.0
-81514.36,0.0,1365135,western union co,0.0,1.0,0.0,0.0,20150428,thompson john david,120919115036673,EVP and CIO,male,516311074.0
-61949.0,0.0,1365135,western union co,,1.0,,,20150505,schenkel amintore,122520815011331,Chief Acct. Officer,male,516311074.0
-330802.0,0.0,1365135,western union co,1.0,1.0,,,20150507,ersek hikmet,122520815011664,President and CEO,male,516311074.0
-61949.0,0.0,1365135,western union co,0.0,1.0,0.0,0.0,20150508,schenkel amintore,120919115040760,Chief Accounting Officer,male,516311074.0
-34671.0,0.0,1365135,western union co,0.0,1.0,0.0,0.0,20150508,scott diane,120919115040761,EVP & Chief Marketing Officer,female,516311074.0
-5084.0,0.0,1365135,western union co,1.0,,,,20150519,joerres jeffrey a,122520815012485,,male,516311074.0
-116433.0,0.0,1365135,western union co,1.0,,,1.0,20150522,greenberg jack m,122520815012683,,male,516311074.0
-9634.0,0.0,1365135,western union co,1.0,,,,20150601,joerres jeffrey a,122520815013085,,male,516311074.0
-35306.0,0.0,1365135,western union co,,1.0,,,20150603,scott diane,122520815013373,EVP & Chief Marketing Officer,female,516311074.0
-74156.0,0.0,1365135,western union co,,1.0,,,20150717,agrawal rajesh k.,122520815015623,EVP & CFO,male,512100000.0
-1682.0,0.0,1365135,western union co,1.0,,,,20150720,cole martin i,122520815015671,,male,512100000.0
-13787.0,0.0,1365135,western union co,1.0,,,,20150720,selander robert w,122520815015672,,male,512100000.0
-294802.0,0.0,1365135,western union co,1.0,1.0,,,20150806,ersek hikmet,122520815016571,President and CEO,male,511431506.0
-70514.36,0.0,1365135,western union co,,1.0,,,20150921,thompson john david,122520815018604,EVP and CIO,male,511431506.0
+15362.0,,1365135,western union co,1.0,,,,20150224,townsend frances f,122520815005534,,female,521445073.0
+12965.0,,1365135,western union co,1.0,,,,20150224,selander robert w,122520815005533,,male,521445073.0
+97841.0,,1365135,western union co,1.0,,,,20150224,miles michael,122520815005532,,male,521445073.0
+38218.0,,1365135,western union co,1.0,,,,20150224,mendoza roberto g,122520815005531,,male,521445073.0
+53059.0,,1365135,western union co,1.0,,,,20150224,levinson linda fayne,122520815005530,,female,521445073.0
+116433.0,,1365135,western union co,1.0,,,,20150224,greenberg jack m,122520815005528,,male,521445073.0
+64318.0,,1365135,western union co,,1.0,,,20150224,schenkel amintore,122520815005514,Chief Acct. Officer,male,521445073.0
+98498.36,,1365135,western union co,,1.0,,,20150224,thompson john david,122520815005513,EVP and CIO,male,521445073.0
+30135.0,,1365135,western union co,,1.0,,,20150224,scott diane,122520815005511,EVP & Chief Marketing Officer,female,521445073.0
+37866.67,,1365135,western union co,,1.0,,,20150224,dye john r,122520815005510,"EVP, Secretary & Gen. Counsel",male,521445073.0
+59265.0,,1365135,western union co,,1.0,,,20150224,almeida odilon,122520815005509,"EVP & Pres, Americas & Europe",male,521445073.0
+79169.0,,1365135,western union co,,1.0,,,20150224,agrawal rajesh k.,122520815005508,EVP & CFO,male,521445073.0
+340160.0,,1365135,western union co,1.0,1.0,,,20150224,ersek hikmet,122520815005507,President and CEO,male,521445073.0
+64848.0,,1365135,western union co,1.0,,,,20150224,holden betsy d,122520815005529,,female,521445073.0
+61949.0,,1365135,western union co,,1.0,,,20150225,schenkel amintore,122520815005813,Chief Acct. Officer,male,521445073.0
+28223.0,,1365135,western union co,,1.0,,,20150225,williams richard l,122520815005812,EVP & Chief Human Res. Ofcr.,male,521445073.0
+36365.67,,1365135,western union co,,1.0,,,20150225,dye john r,122520815005810,"EVP, Secretary & Gen. Counsel",male,521445073.0
+56732.0,,1365135,western union co,,1.0,,,20150225,almeida odilon,122520815005811,"EVP & Pres, Americas & Europe",male,521445073.0
+28109.0,,1365135,western union co,,1.0,,,20150225,scott diane,122520815005807,EVP & Chief Marketing Officer,female,521445073.0
+76500.0,,1365135,western union co,,1.0,,,20150225,agrawal rajesh k.,122520815005806,EVP & CFO,male,521445073.0
+330802.0,,1365135,western union co,1.0,1.0,,,20150225,ersek hikmet,122520815005805,President and CEO,male,521445073.0
+96478.36,,1365135,western union co,,1.0,,,20150225,thompson john david,122520815005809,EVP and CIO,male,521445073.0
+52734.0,,1365135,western union co,,1.0,,,20150303,almeida odilon,122520815006663,"EVP & Pres, Americas & Europe",male,521445073.0
+116433.0,,1365135,western union co,1.0,,,1.0,20150313,greenberg jack m,122520815007833,,male,521445073.0
+55656.0,,1365135,western union co,,1.0,,,20150317,farah jean claude,122520815008071,EVP & Pres. ME/AF/APAC/RS/CIS,male,521445073.0
+95169.36,,1365135,western union co,,1.0,,,20150318,thompson john david,122520815008208,EVP and CIO,male,521445073.0
+52179.5408,,1365135,western union co,,1.0,,,20150325,farah jean claude,122520815008510,EVP & Pres. ME/AF/APAC/RS/CIS,male,521445073.0
+50835.0,,1365135,western union co,,1.0,,,20150331,almeida odilon,122520815008865,"EVP & Pres, Americas & Europe",male,517000000.0
+34509.0,,1365135,western union co,,1.0,,,20150403,scott diane,122520815009464,EVP & Chief Marketing Officer,female,517000000.0
+48315.0,,1365135,western union co,,1.0,,,20150408,almeida odilon,122520815009834,"EVP & Pres, Americas & Europe",male,517000000.0
+81514.36,,1365135,western union co,0.0,1.0,0.0,0.0,20150428,thompson john david,120919115036673,EVP and CIO,male,516311074.0
+61949.0,,1365135,western union co,,1.0,,,20150505,schenkel amintore,122520815011331,Chief Acct. Officer,male,516311074.0
+330802.0,,1365135,western union co,1.0,1.0,,,20150507,ersek hikmet,122520815011664,President and CEO,male,516311074.0
+61949.0,,1365135,western union co,0.0,1.0,0.0,0.0,20150508,schenkel amintore,120919115040760,Chief Accounting Officer,male,516311074.0
+34671.0,,1365135,western union co,0.0,1.0,0.0,0.0,20150508,scott diane,120919115040761,EVP & Chief Marketing Officer,female,516311074.0
+5084.0,,1365135,western union co,1.0,,,,20150519,joerres jeffrey a,122520815012485,,male,516311074.0
+116433.0,,1365135,western union co,1.0,,,1.0,20150522,greenberg jack m,122520815012683,,male,516311074.0
+9634.0,,1365135,western union co,1.0,,,,20150601,joerres jeffrey a,122520815013085,,male,516311074.0
+35306.0,,1365135,western union co,,1.0,,,20150603,scott diane,122520815013373,EVP & Chief Marketing Officer,female,516311074.0
+74156.0,,1365135,western union co,,1.0,,,20150717,agrawal rajesh k.,122520815015623,EVP & CFO,male,512100000.0
+1682.0,,1365135,western union co,1.0,,,,20150720,cole martin i,122520815015671,,male,512100000.0
+13787.0,,1365135,western union co,1.0,,,,20150720,selander robert w,122520815015672,,male,512100000.0
+294802.0,,1365135,western union co,1.0,1.0,,,20150806,ersek hikmet,122520815016571,President and CEO,male,511431506.0
+294802.0,,1365135,western union co,1.0,1.0,,,20150806,ersek hikmet,122520815016571,President and CEO,male,511431506.0
+70514.36,,1365135,western union co,,1.0,,,20150908,thompson john david,122520815018075,EVP and CIO,male,511431506.0
+70514.36,,1365135,western union co,,1.0,,,20150921,thompson john david,122520815018604,EVP and CIO,male,511431506.0
+70514.36,,1365135,western union co,,1.0,,,20150921,thompson john david,122520815018604,EVP and CIO,male,511431506.0
+70514.36,,1365135,western union co,,1.0,,,20151013,thompson john david,122520815019480,EVP and CIO,male,506000000.0
+27363.0,,1365135,western union co,,1.0,,,20151013,williams richard l,122520815019491,EVP & Chief Human Res. Ofcr.,male,506000000.0
+17002.0,,1365135,western union co,,1.0,,,20151113,chambers elizabeth grace,122520815020897,EVP & Chief Strategy/Prod Ofcr,female,505281009.0
+43467.0,,1365135,western union co,,1.0,,,20160209,almeida odilon,122520816025912,"EVP & Pres, Americas & Europe",male,502400000.0
+27663.0,,1365135,western union co,,1.0,,,20160218,williams richard l,122520816027026,EVP & Chief Human Res. Ofcr.,male,501914389.0
+61240.5408,,1365135,western union co,,1.0,,,20160222,farah jean claude,122520816027369,EVP & Pres. ME/AF/APAC/RS/CIS,male,501914389.0
+92278.0,,1365135,western union co,,1.0,,,20160222,agrawal rajesh k.,122520816027360,EVP & CFO,male,501914389.0
+58295.0,,1365135,western union co,,1.0,,,20160222,almeida odilon,122520816027363,"EVP & Pres, Americas & Europe",male,501914389.0
+30182.0,,1365135,western union co,,1.0,,,20160222,chambers elizabeth grace,122520816027366,EVP & Chief Strategy/Prod Ofcr,female,501914389.0
+47623.67,,1365135,western union co,,1.0,,,20160222,dye john r,122520816027368,"EVP, Secretary & Gen. Counsel",male,501914389.0
+84243.36,,1365135,western union co,,1.0,,,20160222,thompson john david,122520816027371,EVP and CIO,male,501914389.0
+34253.0,,1365135,western union co,,1.0,,,20160222,williams richard l,122520816027372,EVP & Chief Human Res. Ofcr.,male,501914389.0
+75626.0,,1365135,western union co,,1.0,,,20160222,schenkel amintore,122520816027383,Chief Acct. Officer,male,501914389.0
+75755.0,,1365135,western union co,,1.0,,,20160223,almeida odilon,122520816027690,"EVP & Pres, Americas & Europe",male,501914389.0
+70203.0,,1365135,western union co,,1.0,,,20160223,schenkel amintore,122520816027691,Chief Acct. Officer,male,501914389.0
+109028.36,,1365135,western union co,,1.0,,,20160223,thompson john david,122520816027692,EVP and CIO,male,501914389.0
+69222.67,,1365135,western union co,,1.0,,,20160223,dye john r,122520816027693,"EVP, Secretary & Gen. Counsel",male,501914389.0
+404578.0,,1365135,western union co,1.0,1.0,,,20160223,ersek hikmet,122520816027689,President and CEO,male,501914389.0
+59662.0,,1365135,western union co,,1.0,,,20160223,scott diane,122520816027695,EVP & Chief Marketing Officer,female,501914389.0
+9379.0,,1365135,western union co,1.0,,,,20160223,cole martin i,122520816027659,,male,501914389.0
+78230.5408,,1365135,western union co,,1.0,,,20160223,farah jean claude,122520816027696,EVP & Pres. ME/AF/APAC/RS/CIS,male,501914389.0
+121134.0,,1365135,western union co,,1.0,,,20160223,agrawal rajesh k.,122520816027694,EVP & CFO,male,501914389.0
+126329.0,,1365135,western union co,1.0,,,1.0,20160223,greenberg jack m,122520816027658,,male,501914389.0
+30896.0,,1365135,western union co,1.0,,,,20160223,goodman richard,122520816027657,,male,501914389.0
+72545.0,,1365135,western union co,1.0,,,,20160223,holden betsy d,122520816027656,,female,501914389.0
+23104.0,,1365135,western union co,1.0,,,,20160223,joerres jeffrey a,122520816027655,,male,501914389.0
+19675.0,11800.0,1365135,western union co,1.0,,,,20160223,trujillo solomon d,122520816027647,,male,501914389.0
+,,1365135,western union co,1.0,,,,20160223,levinson linda fayne,122520816027654,,female,501914389.0
+45915.0,,1365135,western union co,1.0,,,,20160223,mendoza roberto g,122520816027652,,male,501914389.0
+105538.0,,1365135,western union co,1.0,,,,20160223,miles michael,122520816027651,,male,501914389.0
+17636.0,,1365135,western union co,1.0,,,,20160223,selander robert w,122520816027650,,male,501914389.0
+23059.0,,1365135,western union co,1.0,,,,20160223,townsend frances f,122520816027649,,female,501914389.0
+70203.0,,1365135,western union co,,1.0,,,20160303,schenkel amintore,122520816029129,Chief Acct. Officer,male,501914389.0
+58961.0,,1365135,western union co,,1.0,,,20160317,almeida odilon,122520816030070,"EVP & Pres, Americas & Europe",male,501914389.0
+107292.36,,1365135,western union co,,1.0,,,20160321,thompson john david,122520816030157,EVP and CIO,male,501914389.0
+56049.0,,1365135,western union co,,1.0,,,20160330,almeida odilon,122520816030479,"EVP & Pres, Americas & Europe",male,501914389.0
+54035.0,,1365135,western union co,,1.0,,,20160412,almeida odilon,122520816031362,"EVP & Pres, Americas & Europe",male,491700000.0
+70203.0,,1365135,western union co,,1.0,,,20160421,schenkel amintore,122520816031613,Chief Acct. Officer,male,491700000.0
+117734.0,,1365135,western union co,,1.0,,,20160719,agrawal rajesh k.,122520816036885,EVP & CFO,male,488000000.0
+72545.0,,1365135,western union co,1.0,,,,20160822,holden betsy d,122520816038241,,female,487733527.0
+404578.0,,1365135,western union co,1.0,1.0,,,20160825,ersek hikmet,122520816038380,President and CEO,male,487733527.0
+117734.0,,1365135,western union co,,1.0,,,20160831,agrawal rajesh k.,122520816038617,EVP & CFO,male,487733527.0
+54496.0,,1365135,western union co,,1.0,,,20160831,almeida odilon,122520816038616,"EVP & Pres, Americas & Europe",male,487733527.0
+105538.0,,1365135,western union co,1.0,,,,20160930,miles michael,122520816039785,,male,485200000.0
+28369.0,,1365135,western union co,,1.0,,,20161114,chambers elizabeth grace,122520816041742,EVP & Chief Strat/Prod/Mktg,female,484855170.0
+70203.0,,1365135,western union co,,1.0,,,20170221,schenkel amintore,122520817004020,Chief Acct. Officer,male,481500000.0
+34553.0,,1365135,western union co,,1.0,,,20170221,williams richard l,122520817003942,EVP & Chief Human Res. Ofcr.,male,481500000.0
+50483.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,williams richard l,120677417000547,EVP & Chief Human Res. Ofcr.,male,481500000.0
+157648.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,agrawal rajesh k.,120677417000543,EVP & CFO,male,481500000.0
+94716.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,almeida odilon,120677417000539,EVP&Pres.-Global Money Trnsfr,male,481500000.0
+100616.67,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,dye john r,120677417000535,"EVP, Secretary & Gen. Counsel",male,481500000.0
+116007.5408,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,farah jean claude,120677417000528,"EVP, President-Global Payments",male,481500000.0
+142266.36,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,thompson john david,120677417000533,EVP and CIO,male,481500000.0
+66486.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170222,schenkel amintore,120677417000515,Chief Acct. Officer,male,481500000.0
+562303.0,,1365135,western union co,1.0,1.0,0.0,0.0,20170222,ersek hikmet,120677417000522,President and CEO,male,481500000.0
+57551.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,williams richard l,120677417000586,EVP & Chief Human Res. Ofcr.,male,481500000.0
+,,1365135,western union co,1.0,1.0,0.0,0.0,20170223,ersek hikmet,120677417000585,President and CEO,male,481500000.0
+177840.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,agrawal rajesh k.,120677417000584,EVP & CFO,male,481500000.0
+110965.67,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,dye john r,120677417000583,"EVP, Secretary & Gen. Counsel",male,481500000.0
+112889.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,almeida odilon,120677417000581,EVP&Pres.-Global Money Trnsfr,male,481500000.0
+79194.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,schenkel amintore,120677417000580,Chief Acct. Officer,male,481500000.0
+40485.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,chambers elizabeth grace,120677417000582,EVP & Chief Strat/Prod/Mktg,female,481500000.0
+154886.36,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,thompson john david,120677417000578,EVP and CIO,male,481500000.0
+126608.5408,,1365135,western union co,0.0,1.0,0.0,0.0,20170223,farah jean claude,120677417000579,"EVP, Pres. - Global Payments",male,481500000.0
+16383.0,,1365135,western union co,1.0,,,,20170224,cole martin i,122520817004598,,male,481500000.0
+52919.0,,1365135,western union co,1.0,,,,20170224,mendoza roberto g,122520817004602,,male,481500000.0
+112542.0,,1365135,western union co,1.0,,,,20170224,miles michael,122520817004603,,male,481500000.0
+30063.0,,1365135,western union co,1.0,,,,20170224,townsend frances f,122520817004604,,female,481500000.0
+23177.0,11800.0,1365135,western union co,1.0,,,,20170224,trujillo solomon d,122520817004605,,male,481500000.0
+79549.0,,1365135,western union co,1.0,,,,20170224,holden betsy d,122520817004601,,female,481500000.0
+37900.0,,1365135,western union co,1.0,,,,20170224,goodman richard,122520817004600,,male,481500000.0
+35361.0,,1365135,western union co,1.0,,,,20170224,joerres jeffrey a,122520817004596,,male,481500000.0
+30644.0,,1365135,western union co,1.0,,,,20170224,selander robert w,122520817004597,,male,481500000.0
+144339.0,,1365135,western union co,1.0,,,1.0,20170224,greenberg jack m,122520817004599,,male,481500000.0
+79194.0,,1365135,western union co,0.0,1.0,0.0,0.0,20170303,schenkel amintore,120677417000684,Chief Acct. Officer,male,481500000.0
+153150.36,,1365135,western union co,,1.0,,,20170320,thompson john david,122520817006605,EVP and CIO,male,481500000.0
+110101.0,,1365135,western union co,,1.0,,,20170330,almeida odilon,122520817007043,EVP&Pres.-Global Money Trnsfr,male,481500000.0
+43302.0,,1365135,western union co,1.0,,,1.0,20170515,joerres jeffrey a,122520817009742,,male,471254179.0
+174449.0,,1365135,western union co,,1.0,,,20170718,agrawal rajesh k.,122520817012728,EVP & CFO,male,464300000.0
+129650.36,,1365135,western union co,,1.0,,,20170808,thompson john david,122520817013369,EVP and CIO,male,463994883.0
+121981.5408,,1365135,western union co,,1.0,,,20171106,farah jean claude,122520817017001,"EVP & Pres., Global Payments",male,459292417.0
+78094.0,,1365135,western union co,,1.0,,,20171108,schenkel amintore,122520817017079,Chief Acct. Officer,male,459292417.0
+52964.0,,1365135,western union co,,1.0,,,20171113,rhodes sheri,122520817017180,Acting Chief Tech Officer,female,459292417.0
+38672.0,,1365135,western union co,,1.0,,,20171114,chambers elizabeth grace,122520817017311,EVP & Chief Strat/Prod/Mktg,female,459292417.0
+20619.0,,1365135,western union co,,1.0,,,20171208,tsai caroline,122520817018406,"EVP, Secretary & Gen. Counsel",female,459292417.0
+78094.0,,1365135,western union co,,1.0,,,20180110,schenkel amintore,122520818000904,Chief Acct. Officer,male,459000000.0
+114439.5408,,1365135,western union co,,1.0,,,20180110,farah jean claude,122520818000903,"EVP & Pres., Global Payments",male,459000000.0
+75999.0,,1365135,western union co,,1.0,,,20180220,schenkel amintore,122520818003405,Chief Acct. Officer,male,459298652.0
+142330.0,,1365135,western union co,,1.0,,,20180221,almeida odilon,122520818003591,EVP&Pres.-Global Money Trnsfr,male,459298652.0
+70192.0,,1365135,western union co,,1.0,,,20180221,williams richard l,122520818003594,EVP & Chief Human Res. Ofcr.,male,459298652.0
+211434.0,,1365135,western union co,,1.0,,,20180221,agrawal rajesh k.,122520818003595,EVP & CFO,male,459298652.0
+142780.5408,,1365135,western union co,,1.0,,,20180221,farah jean claude,122520818003593,"EVP & Pres., Global Payments",male,459298652.0
+687581.0,,1365135,western union co,1.0,1.0,,,20180221,ersek hikmet,122520818003592,President and CEO,male,459298652.0
+80460.0,,1365135,western union co,,1.0,,,20180222,schenkel amintore,122520818003791,Chief Acct. Officer,male,459298652.0
+89597.0,,1365135,western union co,,1.0,,,20180223,williams richard l,122520818004033,EVP & Chief Human Res. Ofcr.,male,459298652.0
+158460.5408,,1365135,western union co,,1.0,,,20180223,farah jean claude,122520818004035,"EVP & Pres., Global Payments",male,459298652.0
+172196.0,,1365135,western union co,,1.0,,,20180223,almeida odilon,122520818004036,EVP&Pres.-Global Money Trnsfr,male,459298652.0
+64911.0,,1365135,western union co,,1.0,,,20180223,rhodes sheri,122520818004037,"EVP, Chief Technology Officer",female,459298652.0
+34059.0,,1365135,western union co,,1.0,,,20180223,tsai caroline,122520818004034,"EVP, Secretary & Gen. Counsel",female,459298652.0
+247273.0,,1365135,western union co,,1.0,,,20180223,agrawal rajesh k.,122520818004038,EVP & CFO,male,459298652.0
+26662.0,11800.0,1365135,western union co,1.0,,,,20180226,trujillo solomon d,122520818004165,,male,459298652.0
+43587.0,,1365135,western union co,1.0,,,,20180226,selander robert w,122520818004158,,male,459298652.0
+119511.0,,1365135,western union co,1.0,,,,20180226,miles michael,122520818004159,,male,459298652.0
+59888.0,,1365135,western union co,1.0,,,,20180226,mendoza roberto g,122520818004160,,male,459298652.0
+86518.0,,1365135,western union co,1.0,,,,20180226,holden betsy d,122520818004162,,female,459298652.0
+44869.0,,1365135,western union co,1.0,,,,20180226,goodman richard,122520818004163,,male,459298652.0
+23352.0,,1365135,western union co,1.0,,,,20180226,cole martin i,122520818004164,,male,459298652.0
+37032.0,,1365135,western union co,1.0,,,,20180226,townsend frances f,122520818004157,,female,459298652.0
+67445.0,,1365135,western union co,1.0,,,1.0,20180226,joerres jeffrey a,122520818004161,,male,459298652.0
+722425.0,,1365135,western union co,1.0,1.0,,,20180226,ersek hikmet,122520818004166,President and CEO,male,459298652.0
+169589.0,,1365135,western union co,,1.0,,,20180329,almeida odilon,122520818006814,EVP&Pres.-Global Money Trnsfr,male,459298652.0
+60241.0,,1365135,western union co,,1.0,,,20180608,rhodes sheri,122520818010400,"EVP, Chief Technology Officer",female,460727597.0
+146589.0,,1365135,western union co,,1.0,,,20180608,almeida odilon,122520818010401,EVP&Pres.-Global Money Trnsfr,male,460727597.0
+55824.0,,1365135,western union co,,1.0,,,20180627,rhodes sheri,122520818010928,"EVP, Chief Technology Officer",female,460727597.0
+84475.0,,1365135,western union co,,1.0,,,20180705,williams richard l,122520818011438,EVP & Chief Human Res. Ofcr.,male,448700000.0
+244059.0,,1365135,western union co,,1.0,,,20180717,agrawal rajesh k.,122520818011783,EVP & CFO,male,448700000.0
+3139.0,,1365135,western union co,1.0,,,,20180723,sun angela,122520818011914,,female,448700000.0
+79463.0,,1365135,western union co,,1.0,,,20181109,schenkel amintore,122520818015358,Chief Acct. Officer,male,442807114.0
+53950.0,,1365135,western union co,,1.0,,,20181113,rhodes sheri,122520818015467,"EVP, Chief Technology Officer",female,442807114.0
+51775.0,,1365135,western union co,,1.0,,,20181115,rhodes sheri,122520818015559,"EVP, Chief Technology Officer",female,442807114.0
+45684.0,,1365135,western union co,,1.0,,,20181207,tsai caroline,122520818016330,"EVP, Secretary & Gen. Counsel",female,442807114.0
+43244.0,,1365135,western union co,,1.0,,,20181212,tsai caroline,122520818016521,"EVP, Secretary & Gen. Counsel",female,442807114.0
+86518.0,,1365135,western union co,1.0,,,,20181217,holden betsy d,122520818016714,,female,442807114.0
+59888.0,,1365135,western union co,1.0,,,,20181217,mendoza roberto g,122520818016710,,male,442807114.0
+119511.0,,1365135,western union co,1.0,,,,20181217,miles michael,122520818016720,,male,442807114.0
+244059.0,,1365135,western union co,,1.0,,,20190205,agrawal rajesh k.,122520819001802,EVP & CFO,male,441200000.0
+238807.0,,1365135,western union co,,1.0,,,20190220,agrawal rajesh k.,122520819003105,EVP & CFO,male,435890819.0
+82385.0,,1365135,western union co,,1.0,,,20190220,williams richard l,122520819003108,EVP & Chief Human Res. Ofcr.,male,435890819.0
+77277.0,,1365135,western union co,,1.0,,,20190220,schenkel amintore,122520819003107,Chief Acct. Officer,male,435890819.0
+143276.0,,1365135,western union co,,1.0,,,20190220,almeida odilon,122520819003106,EVP&Pres.-Global Money Trnsfr,male,435890819.0
+830823.0,,1365135,western union co,1.0,1.0,,,20190222,ersek hikmet,122520819003454,President and CEO,male,435890819.0
+117611.0,,1365135,western union co,,1.0,,,20190222,williams richard l,122520819003451,EVP & Chief Human Res. Ofcr.,male,435890819.0
+307419.0,,1365135,western union co,,1.0,,,20190222,agrawal rajesh k.,122520819003449,EVP & CFO,male,435890819.0
+83478.0,,1365135,western union co,,1.0,,,20190222,schenkel amintore,122520819003400,Chief Acct. Officer,male,435890819.0
+61742.0,,1365135,western union co,,1.0,,,20190222,tsai caroline,122520819003399,"EVP, Secretary & Gen. Counsel",female,435890819.0
+70273.0,,1365135,western union co,,1.0,,,20190222,rhodes sheri,122520819003398,"EVP, Chief Technology Officer",female,435890819.0
+203148.0,,1365135,western union co,,1.0,,,20190222,almeida odilon,122520819003452,EVP&Pres.-Global Money Trnsfr,male,435890819.0
+197320.5408,,1365135,western union co,,1.0,,,20190222,farah jean claude,122520819003453,"EVP & Pres., Global Payments",male,435890819.0
+51529.0,,1365135,western union co,1.0,,,,20190225,selander robert w,122520819003556,,male,435890819.0
+94956.0,,1365135,western union co,1.0,,,1.0,20190225,joerres jeffrey a,122520819003558,,male,435890819.0
+870529.0,,1365135,western union co,1.0,1.0,,,20190225,ersek hikmet,122520819003548,President and CEO,male,435890819.0
+67830.0,,1365135,western union co,1.0,,,,20190225,mendoza roberto g,122520819003549,,male,435890819.0
+30633.0,11800.0,1365135,western union co,1.0,,,,20190225,trujillo solomon d,122520819003550,,male,435890819.0
+94460.0,,1365135,western union co,1.0,,,,20190225,holden betsy d,122520819003551,,female,435890819.0
+52811.0,,1365135,western union co,1.0,,,,20190225,goodman richard,122520819003552,,male,435890819.0
+44974.0,,1365135,western union co,1.0,,,,20190225,townsend frances f,122520819003553,,female,435890819.0
+31294.0,,1365135,western union co,1.0,,,,20190225,cole martin i,122520819003554,,male,435890819.0
+127453.0,,1365135,western union co,1.0,,,,20190225,miles michael,122520819003555,,male,435890819.0
+9095.0,,1365135,western union co,1.0,,,,20190225,sun angela,122520819003557,,female,435890819.0
+42510.0,,1365135,western union co,,1.0,,,20190520,kalac michael,122520819008233,Acting Chief Tech Officer,male,430708512.0
+124782.0,,1365135,western union co,,1.0,,,20190521,williams richard l,122520819008306,EVP & Chief Human Res. Ofcr.,male,430708512.0
+870529.0,,1365135,western union co,1.0,1.0,,,20190605,ersek hikmet,122520819008898,President and CEO,male,430708512.0
+108782.0,,1365135,western union co,,1.0,,,20190618,williams richard l,122520819009401,EVP & Chief Human Res. Ofcr.,male,430708512.0
+203148.0,,1365135,western union co,,1.0,,,20190624,almeida odilon,122520819009514,EVP&Pres.-Global Money Trnsfr,male,430708512.0
+53771.0,,1365135,western union co,,1.0,,,20190702,molnar jacqueline d,122520819009936,Glbl Hd-Transformation & Compl,female,425900000.0
+108782.0,,1365135,western union co,,1.0,,,20190711,williams richard l,122520819010190,EVP & Chief Human Res. Ofcr.,male,425900000.0
+10817.0,,1365135,western union co,,1.0,,,20190711,summerill andrew,122520819010192,"President, Payments (Interim)",male,425900000.0
+42135.0,,1365135,western union co,,1.0,,,20190711,kalac michael,122520819010191,Acting Chief Tech Officer,male,425900000.0
+97899.0,,1365135,western union co,,1.0,,,20190730,fellahi khalid,122520819010667,President Consumer Money Trsfr,male,423891013.0
+108782.0,,1365135,western union co,,1.0,,,20190806,williams richard l,122520819010905,Chief People Officer,male,423891013.0
+94460.0,,1365135,western union co,1.0,,,,20190807,holden betsy d,122520819010987,,female,423891013.0
+20172.0,,1365135,western union co,,1.0,,,20190807,summerill andrew,122520819010986,"President, Payments (Interim)",male,423891013.0
+83478.0,,1365135,western union co,,1.0,,,20190909,schenkel amintore,122520819012269,Chief Acct. Officer,male,423891013.0
+74112.0,,1365135,western union co,1.0,,,,20190910,mendoza roberto g,122520819012303,,male,423891013.0
+127453.0,,1365135,western union co,1.0,,,,20190913,miles michael,122520819012433,,male,423891013.0
+83478.0,,1365135,western union co,,1.0,,,20190913,schenkel amintore,122520819012430,Chief Acct. Officer,male,423891013.0
+45387.0,,1365135,western union co,,1.0,,,20191008,kalac michael,122520819013266,Acting Chief Tech Officer,male,419900000.0
+127453.0,,1365135,western union co,1.0,,,,20191029,miles michael,122520819013920,,male,419255957.0
+35282.0,,1365135,western union co,,1.0,,,20191112,kalac michael,122520819014389,Acting Chief Tech Officer,male,419255957.0
+60950.0,,1365135,western union co,,1.0,,,20191112,molnar jacqueline d,122520819014388,Chief Trans Off. & Glbl Compl.,female,419255957.0
+112257.0,,1365135,western union co,,1.0,,,20191112,fellahi khalid,122520819014386,President Consumer Money Trsfr,male,419255957.0
+18047.0,,1365135,western union co,,1.0,,,20191112,summerill andrew,122520819014382,"President, Payments (Interim)",male,419255957.0
+,,1365135,western union co,1.0,,,,20191205,siegmund jan,122520819015307,,male,419255957.0
+57777.0,,1365135,western union co,,1.0,,,20191209,tsai caroline,122520819015441,Chief Legal Officer/Secretary,female,419255957.0
+67830.0,,1365135,western union co,1.0,,,,20191209,mendoza roberto g,122520819015440,,male,419255957.0
+52920.0,,1365135,western union co,,1.0,,,20191211,tsai caroline,122520819015630,Chief Legal Officer/Secretary,female,419255957.0
+307419.0,,1365135,western union co,,1.0,,,20200106,agrawal rajesh k.,122520820000554,CFO,male,418000000.0
+94340.0,,1365135,western union co,,1.0,,,20200115,swanback michelle r,122520820000819,"President, Platform",female,418000000.0
+10000.0,,1365135,western union co,1.0,,,,20200214,siegmund jan,122520820002405,,male,413122401.0
+82232.0,,1365135,western union co,,1.0,,,20200220,schenkel amintore,122520820002973,Chief Acct. Officer,male,413122401.0
+22236.0,,1365135,western union co,,1.0,,,20200220,summerill andrew,122520820002974,"President, Payments (Interim)",male,413122401.0
+33652.0,11800.0,1365135,western union co,1.0,,,,20200221,trujillo solomon d,122520820003134,,male,413122401.0
+58966.0,,1365135,western union co,1.0,,,,20200221,goodman richard,122520820003135,,male,413122401.0
+51012.0,,1365135,western union co,1.0,,,,20200221,townsend frances f,122520820003136,,female,413122401.0
+37332.0,,1365135,western union co,1.0,,,,20200221,cole martin i,122520820003138,,male,413122401.0
+13624.0,,1365135,western union co,1.0,,,,20200221,sun angela,122520820003139,,female,413122401.0
+,,1365135,western union co,1.0,,,,20200221,siegmund jan,122520820003140,,male,413122401.0
+73868.0,,1365135,western union co,1.0,,,,20200221,mendoza roberto g,122520820003142,,male,413122401.0
+133491.0,,1365135,western union co,1.0,,,,20200221,miles michael,122520820003143,,male,413122401.0
+100498.0,,1365135,western union co,1.0,,,,20200221,holden betsy d,122520820003141,,female,413122401.0
+21761.0,,1365135,western union co,,1.0,,,20200221,summerill andrew,122520820003176,"President, Payments (Interim)",male,413122401.0
+81391.0,,1365135,western union co,,1.0,,,20200221,schenkel amintore,122520820003175,Chief Acct. Officer,male,413122401.0
+334879.0,,1365135,western union co,,1.0,,,20200221,agrawal rajesh k.,122520820003153,CFO,male,413122401.0
+70104.0,,1365135,western union co,,1.0,,,20200221,molnar jacqueline d,122520820003150,Chief Trans Off. & Glbl Compl.,female,413122401.0
+113258.0,,1365135,western union co,1.0,,,1.0,20200221,joerres jeffrey a,122520820003137,,male,413122401.0
+129420.0,,1365135,western union co,,1.0,,,20200221,fellahi khalid,122520820003148,President Consumer Money Trsfr,male,413122401.0
+120224.0,,1365135,western union co,,1.0,,,20200221,williams richard l,122520820003147,Chief People Officer,male,413122401.0
+65506.0,,1365135,western union co,,1.0,,,20200221,tsai caroline,122520820003146,Chief Legal Officer/Secretary,female,413122401.0
+119512.0,,1365135,western union co,,1.0,,,20200221,swanback michelle r,122520820003149,"President, Platform",female,413122401.0
+901473.0,,1365135,western union co,1.0,1.0,,,20200221,ersek hikmet,122520820003144,President and CEO,male,413122401.0
+209334.5408,,1365135,western union co,,1.0,,,20200221,farah jean claude,122520820003145,"President, Global Network",male,413122401.0
+377797.0,,1365135,western union co,,1.0,,,20200225,agrawal rajesh k.,122520820003498,CFO,male,413122401.0
+146521.0,,1365135,western union co,,1.0,,,20200225,fellahi khalid,122520820003497,President Consumer Money Trsfr,male,413122401.0
+254023.5408,,1365135,western union co,,1.0,,,20200225,farah jean claude,122520820003496,"President, Global Network",male,413122401.0
+77265.0,,1365135,western union co,,1.0,,,20200225,molnar jacqueline d,122520820003495,Chief Trans Off. & Glbl Compl.,female,413122401.0
+21035.0,,1365135,western union co,,1.0,,,20200225,summerill andrew,122520820003494,"President, Payments (Interim)",male,413122401.0
+139202.0,,1365135,western union co,,1.0,,,20200225,williams richard l,122520820003499,Chief People Officer,male,413122401.0
+84209.0,,1365135,western union co,,1.0,,,20200225,schenkel amintore,122520820003492,Chief Acct. Officer,male,413122401.0
+1069923.0,,1365135,western union co,1.0,1.0,,,20200225,ersek hikmet,122520820003493,President and CEO,male,413122401.0
+75190.0,,1365135,western union co,,1.0,,,20200227,molnar jacqueline d,122520820003696,Chief Trans Off. & Glbl Compl.,female,413122401.0
+145175.0,,1365135,western union co,,1.0,,,20200310,fellahi khalid,122520820004742,President Consumer Money Trsfr,male,413122401.0
+73666.0,,1365135,western union co,,1.0,,,20200310,molnar jacqueline d,122520820004741,Chief Trans Off. & Glbl Compl.,female,413122401.0
+72697.0,,1365135,western union co,,1.0,,,20200318,molnar jacqueline d,122520820005364,Chief Trans Off. & Glbl Compl.,female,413122401.0
+3237.0,,1365135,western union co,1.0,,,,20200326,murphy timothy p.,122520820005604,,male,413122401.0
+144947.0,,1365135,western union co,,1.0,,,20200519,williams richard l,122520820008004,Chief People Officer,male,410904811.0
+16465.0,,1365135,western union co,,1.0,,,20200609,hinsey mark,122520820008755,Chief Accounting Officer,male,410904811.0
+68098.0,,1365135,western union co,,1.0,,,20200609,molnar jacqueline d,122520820008756,Chief Trans Off. & Glbl Compl.,female,410904811.0
+65170.0,,1365135,western union co,,1.0,,,20200612,molnar jacqueline d,122520820008933,Chief Trans Off. & Glbl Compl.,female,410904811.0
+3709.0,,1365135,western union co,1.0,,,,20200706,phillips joyce ann,122520820009584,,female,411000000.0
+18836.0,,1365135,western union co,,1.0,,,20200810,summerill andrew,122520820010458,"President, Payments (Interim)",male,411003966.0
+63591.0,,1365135,western union co,,1.0,,,20201110,molnar jacqueline d,122520820013336,Chief Transformation Officer,female,411120751.0
+141615.0,,1365135,western union co,,1.0,,,20201110,fellahi khalid,122520820013335,President Consumer Money Trsfr,male,411120751.0
+61540.0,,1365135,western union co,,1.0,,,20201208,tsai caroline,122520820014382,Chief Legal Officer/Secretary,female,411120751.0
+129947.0,,1365135,western union co,,1.0,,,20201208,williams richard l,122520820014381,Chief People Officer,male,411120751.0
+56683.0,,1365135,western union co,,1.0,,,20201214,tsai caroline,122520820014675,Chief Legal Officer/Secretary,female,411120751.0
+105212.0,,1365135,western union co,,1.0,,,20210115,swanback michelle r,122520821000865,"President, Platform",female,411200000.0
+68068.0,,1365135,western union co,,1.0,,,20210122,tsai caroline,122520821001065,Chief Legal Officer/Secretary,female,411200000.0
+403909.0,,1365135,western union co,,1.0,,,20210222,agrawal rajesh k.,122520821003370,CFO,male,411200000.0
+139497.0,,1365135,western union co,,1.0,,,20210222,williams richard l,122520821003371,Chief People Officer,male,411200000.0
+71088.0,,1365135,western union co,,1.0,,,20210222,molnar jacqueline d,122520821003372,Chief Transformation Officer,female,411200000.0
+78123.0,,1365135,western union co,,1.0,,,20210222,tsai caroline,122520821003373,Chief Legal Officer/Secretary,female,411200000.0
+157371.0,,1365135,western union co,,1.0,,,20210222,fellahi khalid,122520821003374,President Consumer Money Trsfr,male,411200000.0
+20122.0,,1365135,western union co,,1.0,,,20210222,hinsey mark,122520821003375,Chief Accounting Officer,male,411200000.0
+25294.0,,1365135,western union co,,1.0,,,20210222,summerill andrew,122520821003376,"President, Payments (Interim)",male,411200000.0
+273172.5408,,1365135,western union co,,1.0,,,20210222,farah jean claude,122520821003377,"President, Global Network",male,411200000.0
+137127.0,,1365135,western union co,,1.0,,,20210222,swanback michelle r,122520821003378,"President, Platform",female,411200000.0
+107190.0,,1365135,western union co,1.0,,,,20210223,holden betsy d,122520821003481,,female,411200000.0
+434976.0,,1365135,western union co,,1.0,,,20210223,agrawal rajesh k.,122520821003494,CFO,male,411200000.0
+1091630.0,,1365135,western union co,1.0,1.0,,,20210223,ersek hikmet,122520821003545,President and CEO,male,411200000.0
+,,1365135,western union co,1.0,,,,20210223,goodman richard,122520821003480,,male,411200000.0
+296686.5408,,1365135,western union co,,1.0,,,20210223,farah jean claude,122520821003493,"President, Global Network",male,411200000.0
+80641.0,,1365135,western union co,,1.0,,,20210223,molnar jacqueline d,122520821003492,Chief Transformation Officer,female,411200000.0
+152115.0,,1365135,western union co,,1.0,,,20210223,williams richard l,122520821003490,Chief People Officer,male,411200000.0
+92452.0,,1365135,western union co,,1.0,,,20210223,tsai caroline,122520821003489,Chief Legal Officer/Secretary,female,411200000.0
+133543.0,,1365135,western union co,1.0,,,1.0,20210223,joerres jeffrey a,122520821003488,,male,411200000.0
+167645.0,,1365135,western union co,,1.0,,,20210223,fellahi khalid,122520821003491,President Consumer Money Trsfr,male,411200000.0
+20316.0,,1365135,western union co,1.0,,,,20210223,sun angela,122520821003486,,female,411200000.0
+,,1365135,western union co,1.0,,,,20210223,siegmund jan,122520821003485,,male,411200000.0
+10401.0,,1365135,western union co,1.0,,,,20210223,phillips joyce ann,122520821003484,,female,411200000.0
+9929.0,,1365135,western union co,1.0,,,,20210223,murphy timothy p.,122520821003483,,male,411200000.0
+140183.0,,1365135,western union co,1.0,,,,20210223,miles michael,122520821003482,,male,411200000.0
+44024.0,,1365135,western union co,1.0,,,,20210223,cole martin i,122520821003479,,male,411200000.0
+36998.0,11800.0,1365135,western union co,1.0,,,,20210223,trujillo solomon d,122520821003487,,male,411200000.0
+1413125.0,,1365135,western union co,1.0,1.0,,,20210224,ersek hikmet,122520821003673,President and CEO,male,411200000.0
+87726.0,,1365135,western union co,,1.0,,,20210224,tsai caroline,122520821003674,Chief Legal Officer/Secretary,female,411200000.0
+72743.0,,1365135,western union co,,1.0,,,20210225,molnar jacqueline d,122520821003840,Chief Transformation Officer,female,411200000.0
+71926.0,,1365135,western union co,,1.0,,,20210309,molnar jacqueline d,122520821004938,Chief Transformation Officer,female,411200000.0
+166722.0,,1365135,western union co,,1.0,,,20210309,fellahi khalid,122520821004939,President Consumer Money Trsfr,male,411200000.0
+142115.0,,1365135,western union co,,1.0,,,20210309,williams richard l,122520821004940,Chief People Officer,male,411200000.0
+70923.0,,1365135,western union co,,1.0,,,20210311,molnar jacqueline d,122520821005130,Chief Transformation Officer,female,411200000.0
+80562.0,,1365135,western union co,,1.0,,,20210322,tsai caroline,122520821005735,Chief Legal Officer/Secretary,female,411200000.0
+22488.0,,1365135,western union co,,1.0,,,20210401,summerill andrew,122520821006215,"President, Payments (Interim)",male,409800000.0
+434976.0,,1365135,western union co,,1.0,,,20210518,agrawal rajesh k.,122520821008271,CFO,male,409252217.0
+19906.0,,1365135,western union co,,1.0,,,20210609,hinsey mark,122520821009141,Chief Accounting Officer,male,409252217.0
+20289.0,,1365135,western union co,,1.0,,,20210810,summerill andrew,122520821011343,"President, Payments",male,406348202.0
+19050.0,,1365135,western union co,,1.0,,,20210812,summerill andrew,122520821011403,"President, Payments",male,406348202.0
+92166.0,,1365135,western union co,,1.0,,,20210915,fitzgerald gabriella,122520821012401,President Americas Region,female,406348202.0
+69885.0,,1365135,western union co,,1.0,,,20211109,molnar jacqueline d,122520821013726,Chief Transformation Officer,female,402006648.0
+367232.0,,1365135,western union co,1.0,1.0,,,20211228,mcgranahan devin,122520821015257,CEO & President,male,402006648.0
+123176.0,,1365135,western union co,,1.0,,,20220114,swanback michelle r,122520822000772,"President, Platform",female,393800000.0
+18575.0,,1365135,western union co,,1.0,,,20220222,summerill andrew,122520822002974,"President, Payments",male,393800000.0
+418063.0,,1365135,western union co,,1.0,,,20220222,agrawal rajesh k.,122520822002975,CFO,male,393800000.0
+8812.0,,1365135,western union co,,1.0,,,20220222,cebollero david,122520822002976,Interim Chief Legal Officer,male,393800000.0
+18470.0,,1365135,western union co,,1.0,,,20220222,hinsey mark,122520822002977,Chief Accounting Officer,male,393800000.0
+65754.0,,1365135,western union co,,1.0,,,20220222,molnar jacqueline d,122520822002978,Chief Transformation Officer,female,393800000.0
+135067.0,,1365135,western union co,,1.0,,,20220222,williams richard l,122520822002981,Chief People Officer,male,393800000.0
+296686.5408,,1365135,western union co,,1.0,,,20220223,farah jean claude,122520822003098,"President, Global Network",male,393800000.0
+18112.0,,1365135,western union co,,1.0,,,20220223,hinsey mark,122520822003102,Chief Accounting Officer,male,393800000.0
+6125.0,,1365135,western union co,,1.0,,,20220223,cebollero david,122520822003103,Interim Chief Legal Officer,male,393800000.0
+18223.0,,1365135,western union co,,1.0,,,20220223,summerill andrew,122520822003101,"President, Payments",male,393800000.0
+17029.0,,1365135,western union co,,1.0,,,20220225,cebollero david,122520822003425,Interim Chief Legal Officer,male,393800000.0
+486479.0,,1365135,western union co,,1.0,,,20220225,agrawal rajesh k.,122520822003418,CFO,male,393800000.0
+131423.0,,1365135,western union co,,1.0,,,20220225,fitzgerald gabriella,122520822003423,President Americas Region,female,393800000.0
+174829.0,,1365135,western union co,,1.0,,,20220225,swanback michelle r,122520822003422,"President, Platform",female,393800000.0
+335919.5408,,1365135,western union co,,1.0,,,20220225,farah jean claude,122520822003421,"President, Global Network",male,393800000.0
+24466.0,,1365135,western union co,,1.0,,,20220225,hinsey mark,122520822003424,Chief Accounting Officer,male,393800000.0
+85160.0,,1365135,western union co,,1.0,,,20220225,molnar jacqueline d,122520822003417,Chief Transformation Officer,female,393800000.0
+159972.0,,1365135,western union co,,1.0,,,20220225,williams richard l,122520822003416,Chief People Officer,male,393800000.0
+453162.0,,1365135,western union co,1.0,1.0,,,20220228,mcgranahan devin,122520822003556,CEO & President,male,393800000.0
+18994.0,,1365135,western union co,1.0,,,,20220228,phillips joyce ann,122520822003549,,female,393800000.0
+41295.0,11800.0,1365135,western union co,1.0,,,,20220228,trujillo solomon d,122520822003552,,male,393800000.0
+18593.0,,1365135,western union co,1.0,,,,20220228,siegmund jan,122520822003550,,male,393800000.0
+18522.0,,1365135,western union co,1.0,,,,20220228,murphy timothy p.,122520822003548,,male,393800000.0
+155221.0,,1365135,western union co,1.0,,,,20220228,miles michael,122520822003547,,male,393800000.0
+159592.0,,1365135,western union co,1.0,,,1.0,20220228,joerres jeffrey a,122520822003546,,male,393800000.0
+28909.0,,1365135,western union co,1.0,,,,20220228,sun angela,122520822003551,,female,393800000.0
+,,1365135,western union co,1.0,,,,20220228,goodman richard,122520822003544,,male,393800000.0
+52617.0,,1365135,western union co,1.0,,,,20220228,cole martin i,122520822003543,,male,393800000.0
+111487.0,,1365135,western union co,1.0,,,,20220228,holden betsy d,122520822003545,,female,393800000.0
+15525.0,,1365135,western union co,,1.0,,,20220302,summerill andrew,122520822003892,"President, Payments",male,393800000.0
+21120.0,,1365135,western union co,,1.0,,,20220420,walker andrew d,122520822005933,Chief Operations Officer,male,387100000.0
+14221.0,,1365135,western union co,,1.0,,,20220509,cebollero david,122520822006733,Interim Chief Legal Officer,male,386034020.0
+83893.0,,1365135,western union co,,1.0,,,20220603,adams benjamin carlton,122520822007729,Chief Legal Officer & Corp Sec,male,386034020.0
+372272.0,,1365135,western union co,1.0,1.0,,,20220803,mcgranahan devin,122520822009214,CEO & President,male,385754381.0
+122544.0,,1365135,western union co,,1.0,,,20220914,fitzgerald gabriella,122520822010319,President Americas Region,female,385754381.0
+77566.0,,1365135,western union co,,1.0,,,20221011,angelini giovanni,122520822010916,Head of Europe and Africa,male,385900000.0
+47373.0,,1365135,western union co,,1.0,,,20221011,axelrod cherie,122520822010915,Chief Enterprise Risk Officer,female,385900000.0
+167337.0,,1365135,western union co,1.0,,,1.0,20221109,joerres jeffrey a,122520822011499,,male,386170808.0
+290568.0,,1365135,western union co,1.0,1.0,,,20230203,mcgranahan devin,122520823001309,CEO & President,male,373500000.0
+76359.0,,1365135,western union co,,1.0,,,20230221,angelini giovanni,122520823002391,Head of Europe and Africa,male,373500000.0
+46352.0,,1365135,western union co,,1.0,,,20230221,axelrod cherie,122520823002389,Chief Enterprise Risk Officer,female,373500000.0
+23039.0,,1365135,western union co,,1.0,,,20230221,hinsey mark,122520823002388,Chief Accounting Officer,male,373500000.0
+35308.0,,1365135,western union co,,1.0,,,20230224,hinsey mark,122520823002780,Chief Accounting Officer,male,373500000.0
+56808.0,,1365135,western union co,,1.0,,,20230224,walker andrew d,122520823002781,Chief Operations Officer,male,373500000.0
+104704.0,,1365135,western union co,,1.0,,,20230224,angelini giovanni,122520823002792,Head of Europe and Africa,male,373500000.0
+373954.5408,,1365135,western union co,,1.0,,,20230224,farah jean claude,122520823002793,"President, Middle East & Asia",male,373500000.0
+122555.0,,1365135,western union co,,1.0,,,20230224,adams benjamin carlton,122520823002794,CLO & Interim CHRO,male,373500000.0
+131271.361,,1365135,western union co,,1.0,,,20230224,cagwin matthew,122520823002795,Chief Financial Officer,male,373500000.0
+63240.0,,1365135,western union co,,1.0,,,20230224,axelrod cherie,122520823002779,Chief Enterprise Risk Officer,female,373500000.0
+64675.0,,1365135,western union co,1.0,,,,20230227,cole martin i,122520823002898,,male,373500000.0
+,,1365135,western union co,1.0,,,,20230227,goodman richard,122520823002899,,male,373500000.0
+30651.0,,1365135,western union co,1.0,,,,20230227,siegmund jan,122520823002903,,male,373500000.0
+62463.0,,1365135,western union co,,1.0,,,20230227,axelrod cherie,122520823002897,Chief Enterprise Risk Officer,female,373500000.0
+34689.0,,1365135,western union co,,1.0,,,20230227,hinsey mark,122520823002896,Chief Accounting Officer,male,373500000.0
+104083.0,,1365135,western union co,,1.0,,,20230227,angelini giovanni,122520823002895,"President, Europe and Africa",male,373500000.0
+176322.0,,1365135,western union co,1.0,,,,20230227,miles michael,122520823002900,,male,373500000.0
+421088.0,,1365135,western union co,1.0,1.0,,,20230227,mcgranahan devin,122520823002893,CEO & President,male,373500000.0
+118480.0,,1365135,western union co,,1.0,,,20230227,fitzgerald gabriella,122520823002894,"President, North America",female,373500000.0
+30580.0,,1365135,western union co,1.0,,,,20230227,murphy timothy p.,122520823002891,,male,373500000.0
+47324.0,11800.0,1365135,western union co,1.0,,,,20230227,trujillo solomon d,122520823002890,,male,373500000.0
+203886.0,,1365135,western union co,1.0,,,1.0,20230227,joerres jeffrey a,122520823002886,,male,373500000.0
+40967.0,,1365135,western union co,1.0,,,,20230227,sun angela,122520823002901,,female,373500000.0
+31052.0,,1365135,western union co,1.0,,,,20230227,phillips joyce ann,122520823002902,,female,373500000.0
+123545.0,,1365135,western union co,1.0,,,,20230227,holden betsy d,122520823002892,,female,373500000.0
+54783.0,,1365135,western union co,,1.0,,,20230420,walker andrew d,122520823004906,Chief Operations Officer,male,374400000.0
+114515.0,,1365135,western union co,,1.0,,,20230605,adams benjamin carlton,122520823006552,CLO & Interim CHRO,male,374468012.0
+125416.361,,1365135,western union co,,1.0,,,20230807,cagwin matthew,122520823008053,Chief Financial Officer,male,374534805.0
+3459.0,,1365135,western union co,1.0,,,,20230925,deering suzette,122520823009056,,female,374534805.0
+102550.0,,1365135,western union co,,1.0,,,20231010,angelini giovanni,122520823009456,"President, Europe and Africa",male,366800000.0
+119744.0,,1365135,western union co,,1.0,,,20231010,garcia estebarena rodrigo,122520823009458,President of North America,male,366800000.0
+60835.0,,1365135,western union co,,1.0,,,20231010,axelrod cherie,122520823009457,Chief Enterprise Risk Officer,female,366800000.0
+738.0,,1365135,western union co,1.0,,,,20231214,cameron-doe julie,122520823011135,,female,364359008.0
+60359.0,,1365135,western union co,,1.0,,,20240221,axelrod cherie,122520824002628,Chief Enterprise Risk Officer,female,350500000.0
+101862.0,,1365135,western union co,,1.0,,,20240221,angelini giovanni,122520824002629,"President, Europe and Africa",male,350500000.0
+48379.0,,1365135,western union co,,1.0,,,20240221,garcia estebarena rodrigo,122520824002630,President of North America,male,350500000.0
+34109.0,,1365135,western union co,,1.0,,,20240221,hinsey mark,122520824002631,Chief Accounting Officer,male,350500000.0
+62140.0,,1365135,western union co,,1.0,,,20240223,axelrod cherie,122520824002831,Chief Enterprise Risk Officer,female,350500000.0
+108355.0,,1365135,western union co,,1.0,,,20240223,angelini giovanni,122520824002832,"President, Europe and Africa",male,350500000.0
+49367.0,,1365135,western union co,,1.0,,,20240223,garcia estebarena rodrigo,122520824002833,President of North America,male,350500000.0
+35860.0,,1365135,western union co,,1.0,,,20240223,hinsey mark,122520824002834,Chief Accounting Officer,male,350500000.0
+387068.0,,1365135,western union co,1.0,1.0,,,20240226,mcgranahan devin,122520824002950,CEO & President,male,350500000.0
+33876.0,,1365135,western union co,,1.0,,,20240226,hinsey mark,122520824002949,Chief Accounting Officer,male,350500000.0
+47821.0,,1365135,western union co,,1.0,,,20240226,garcia estebarena rodrigo,122520824002948,President of North America,male,350500000.0
+106554.0,,1365135,western union co,,1.0,,,20240226,angelini giovanni,122520824002947,"President, Europe and Africa",male,350500000.0
+50969.0,,1365135,western union co,,1.0,,,20240226,walker andrew d,122520824002945,Chief Operations Officer,male,350500000.0
+110363.0,,1365135,western union co,,1.0,,,20240226,adams benjamin carlton,122520824002944,Chief Legal Officer,male,350500000.0
+118887.361,,1365135,western union co,,1.0,,,20240226,cagwin matthew,122520824002942,Chief Financial Officer,male,350500000.0
+59944.0,,1365135,western union co,,1.0,,,20240226,axelrod cherie,122520824002946,Chief Enterprise Risk Officer,female,350500000.0
+19084.0,,1365135,western union co,1.0,,,,20240228,deering suzette,122520824003230,,female,350500000.0
+,,1365135,western union co,1.0,,,1.0,20240228,joerres jeffrey a,122520824003243,,male,350500000.0
+,,1365135,western union co,1.0,,,,20240228,holden betsy d,122520824003242,,female,350500000.0
+55137.0,11800.0,1365135,western union co,1.0,,,,20240228,trujillo solomon d,122520824003239,,male,350500000.0
+46276.0,,1365135,western union co,1.0,,,,20240228,siegmund jan,122520824003238,,male,350500000.0
+56592.0,,1365135,western union co,1.0,,,,20240228,sun angela,122520824003237,,female,350500000.0
+56205.0,,1365135,western union co,1.0,,,,20240228,murphy timothy p.,122520824003236,,male,350500000.0
+,,1365135,western union co,1.0,,,,20240228,miles michael,122520824003235,,male,350500000.0
+80300.0,,1365135,western union co,1.0,,,,20240228,cole martin i,122520824003229,,male,350500000.0
+129992.0,,1365135,western union co,,1.0,,,20240228,angelini giovanni,122520824003223,"President, Europe and Africa",male,350500000.0
+44033.0,,1365135,western union co,,1.0,,,20240228,hinsey mark,122520824003227,Chief Accounting Officer,male,350500000.0
+78069.0,,1365135,western union co,,1.0,,,20240228,axelrod cherie,122520824003226,Chief Enterprise Risk Officer,female,350500000.0
+65009.0,,1365135,western union co,,1.0,,,20240228,garcia estebarena rodrigo,122520824003225,President of North America,male,350500000.0
+85344.0,,1365135,western union co,,1.0,,,20240228,walker andrew d,122520824003224,Chief Operations Officer,male,350500000.0
+174552.361,,1365135,western union co,,1.0,,,20240228,cagwin matthew,122520824003221,Chief Financial Officer,male,350500000.0
+535506.0,,1365135,western union co,1.0,1.0,,,20240228,mcgranahan devin,122520824003220,CEO & President,male,350500000.0
+16363.0,,1365135,western union co,1.0,,,,20240228,cameron-doe julie,122520824003228,,female,350500000.0
+135207.0,,1365135,western union co,,1.0,,,20240228,adams benjamin carlton,122520824003222,Chief Legal Officer,male,350500000.0
+83319.0,,1365135,western union co,,1.0,,,20240424,walker andrew d,122520824005221,Chief Operations Officer,male,338335142.0
+126232.0,,1365135,western union co,,1.0,,,20240508,angelini giovanni,122520824005801,"President, Europe and Africa",male,338335142.0
+127167.0,,1365135,western union co,,1.0,,,20240603,adams benjamin carlton,122520824006508,Chief Legal Officer,male,338335142.0
+165643.361,,1365135,western union co,,1.0,,,20240807,cagwin matthew,122520824007902,Chief Financial Officer,male,337778981.0
+138901.0,,1365135,western union co,,1.0,,,20241004,angelini giovanni,122520824009168,"President Europe, Africa, MEPA",male,337800000.0
+63202.0,,1365135,western union co,,1.0,,,20241007,garcia estebarena rodrigo,122520824009212,President of North America,male,337800000.0

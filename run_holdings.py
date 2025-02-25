@@ -4,6 +4,18 @@ import os
 import glob
 import gender_guesser.detector as gender
 from datamule import Book
+from tqdm import tqdm
+from datetime import datetime
+from datamule import PremiumDownloader
+def download_holdings():
+    # start at August 2015, where we have outstanding stock data for at least 5k companies
+    for year in range(2015, 2025):
+        for month in range(8, 13) if year == 2015 else range(1, 13):
+            downloader = PremiumDownloader()
+            downloader.download_submissions(filing_date=(f'{year}-{str(month).zfill(2)}-01', f'{year}-{str(month).zfill(2)}-31'),
+                                            submission_type=['3','4','5'],
+                                            output_dir=f'../holdings/{str(year)}_{str(month)}')
+
 
 def clean_keys(d):
     if not isinstance(d, dict):
@@ -18,9 +30,9 @@ def get_value(obj):
     return obj
 
 def get_holdings(data):
-    """Extract holdings from parsed Form 4 data"""
-    direct = 0
-    indirect = 0
+    """Extract common stock holdings from parsed Form 4 data"""
+    direct = float('nan')  # Default to NaN instead of 0
+    indirect = float('nan')  # Default to NaN instead of 0
     doc = data.get('ownershipDocument', {})
 
     relationship = doc.get('reportingOwner', {}).get('reportingOwnerRelationship', {})
@@ -35,25 +47,40 @@ def get_holdings(data):
     if transactions:
         if not isinstance(transactions, list):
             transactions = [transactions]
-        if transactions:  # Check if list is not empty
-            last_trans = transactions[-1]
+            
+        # Filter for only common stock transactions
+        common_stock_transactions = []
+        for trans in transactions:
+            security_title = trans.get('securityTitle', {}).get('value')
+            if security_title == 'Common Stock':
+                common_stock_transactions.append(trans)
+                
+        if common_stock_transactions:  # If we have any common stock transactions
+            last_trans = common_stock_transactions[-1]
             post_amounts = last_trans.get('postTransactionAmounts', {})
             shares = post_amounts.get('sharesOwnedFollowingTransaction', {})
-            direct = float(get_value(shares) or 0)
+            direct = float(get_value(shares))
     
-    # Sum up indirect holdings
+    # Sum up indirect holdings - only for common stock
+    indirect_sum = 0  # Use a separate variable for summing
+    have_indirect_holdings = False  # Track if we have any indirect holdings
     holdings = non_deriv.get('nonDerivativeHolding', [])
     if holdings:
         if not isinstance(holdings, list):
             holdings = [holdings]
         for holding in holdings:
-            ownership = holding.get('ownershipNature', {}).get('directOrIndirectOwnership', {})
-            if get_value(ownership) == 'I':
-                shares = holding.get('postTransactionAmounts', {}).get('sharesOwnedFollowingTransaction', {})
-                indirect += float(get_value(shares) or 0)
+            security_title = holding.get('securityTitle', {}).get('value')
+            if security_title == 'Common Stock':  # Only include common stock
+                ownership = holding.get('ownershipNature', {}).get('directOrIndirectOwnership', {})
+                if get_value(ownership) == 'I':
+                    shares = holding.get('postTransactionAmounts', {}).get('sharesOwnedFollowingTransaction', {})
+                    indirect_sum += float(get_value(shares))
+                    have_indirect_holdings = True
     
-    return {'direct': direct, 'indirect': indirect, 'issuer_cik': issuer_cik, 'issuer_name': issuer_name}  | relationship
-
+    if have_indirect_holdings:
+        indirect = indirect_sum
+    
+    return {'direct': direct, 'indirect': indirect, 'issuer_cik': issuer_cik, 'issuer_name': issuer_name} | relationship
 def process_submission(submission):
     # return if reporting owner is a list (e.g. LPs)
     metadata = clean_keys(submission.metadata)
@@ -87,6 +114,7 @@ def process_portfolio(folder_name):
     output_path = f'holdings/345/{folder_name}.csv'
     os.makedirs('holdings', exist_ok=True)  # Create holdings directory if it doesn't exist
     os.makedirs('holdings/345', exist_ok=True)  
+    os.makedirs('holdings/345/ciks', exist_ok=True)
     df = pd.DataFrame(results)
     df.to_csv(output_path, index=False)
     return output_path
@@ -94,7 +122,6 @@ def process_portfolio(folder_name):
 def construct_holdings():
     # Get all folder names in ../holdings
     holdings_folders = [f for f in os.listdir('../holdings') if os.path.isdir(os.path.join('../holdings', f))]
-    holdings_folders = ['archive']
     # Process each portfolio
     csv_files = []
     for folder in holdings_folders:
@@ -102,16 +129,21 @@ def construct_holdings():
         csv_file = process_portfolio(folder)
         csv_files.append(csv_file)
     
+
+def cocatenate_dataframes():
+    # Get all CSV files in the holdings/345 directory
+    csv_files = glob.glob('holdings/345/*.csv')
     # Combine all CSVs
     all_data = []
     for csv_file in csv_files:
         df = pd.read_csv(csv_file)
         all_data.append(df)
-    
     # Concatenate all dataframes and save final CSV
     final_df = pd.concat(all_data, ignore_index=True)
     final_df.to_csv('holdings/345/single_reporting_owner_stock_holdings.csv', index=False)
 
+def clean_single_reporting_owner_stock_holdings():
+    final_df = pd.read_csv('holdings/345/single_reporting_owner_stock_holdings.csv')
     # cleaning (just send names to lowercase for now)
     final_df['name'] = final_df['name'].str.lower()
     final_df['issuer_name'] = final_df['issuer_name'].str.lower()
@@ -125,6 +157,9 @@ def construct_holdings():
     for cik in final_df['issuer_cik'].unique():
         cik_df = final_df[final_df['issuer_cik'] == cik]
         cik_df.to_csv(f'holdings/345/ciks/{cik}.csv', index=False)
+
+    # delete
+    os.remove('holdings/345/single_reporting_owner_stock_holdings.csv')
 
 def clean_name(full_name):
     try:
@@ -209,7 +244,7 @@ def get_stocks():
     periods = []
     
     # Generate periods from 2010 to 2025
-    years = range(2008, 2025)
+    years = range(2010, 2025)
     quarters = ['Q1', 'Q2', 'Q3', 'Q4']
     
     for year in years:
@@ -226,7 +261,6 @@ def merge_stocks():
     
     # Process each CIK file
     for file_path in glob.glob('holdings/345/ciks/*.csv'):
-        print(f'Processing {file_path}...')
         
         # Read the CIK file
         cik_df = pd.read_csv(file_path)
@@ -256,9 +290,78 @@ def merge_stocks():
         # Save
         merged_df.to_csv(file_path, index=False)
 
+
+def calculate_ownership_metrics():
+    # Create output directory if it doesn't exist
+    os.makedirs('holdings/345', exist_ok=True)
+    
+    # Load all files into a single DataFrame
+    print("Loading all CIK files...")
+    files = glob.glob('holdings/345/ciks/*.csv')
+    df_list = []
+    for file in tqdm(files):
+        df_list.append(pd.read_csv(file))
+    
+    print("Combining data and processing dates...")
+    df = pd.concat(df_list, ignore_index=True)
+    
+    # Convert date and extract month/year
+    df['date'] = pd.to_datetime(df['date'], format='%Y%m%d')
+    df['month'] = df['date'].dt.month
+    df['year'] = df['date'].dt.year
+    
+    # Convert stocks to numeric and handle NaN values
+    df['direct'] = pd.to_numeric(df['direct'], errors='coerce').fillna(0)
+    df['indirect'] = pd.to_numeric(df['indirect'], errors='coerce').fillna(0)
+    df['total_owned'] = df['direct'] + df['indirect']
+    
+    # Group by year, month, and name to get the latest entry for each person each month
+    print("Calculating monthly ownership by gender...")
+    df_sorted = df.sort_values(['year', 'month', 'name', 'date'])
+    df_latest = df_sorted.drop_duplicates(['year', 'month', 'name'], keep='last')
+    
+    # Group by year, month and gender to calculate total stock owned
+    gender_ownership = df_latest.groupby(['year', 'month', 'predicted_gender'])['total_owned'].sum().reset_index()
+    
+    # Pivot to get separate columns for men and women
+    gender_pivot = gender_ownership.pivot_table(
+        index=['year', 'month'], 
+        columns='predicted_gender', 
+        values='total_owned', 
+        aggfunc='sum'
+    ).reset_index()
+    
+    # Rename columns for clarity
+    gender_pivot = gender_pivot.rename(columns={
+        'female': 'women_total_stock',
+        'male': 'men_total_stock'
+    })
+    
+    # Fill NaN values with 0
+    gender_pivot = gender_pivot.fillna(0)
+    
+    # Add a total column
+    gender_pivot['total_stock'] = gender_pivot['women_total_stock'] + gender_pivot['men_total_stock']
+    
+    # Calculate percentage owned by women
+    gender_pivot['women_percent'] = (gender_pivot['women_total_stock'] / gender_pivot['total_stock'] * 100)
+    
+    # Sort by year and month
+    gender_pivot = gender_pivot.sort_values(['year', 'month'])
+    
+    # Save to CSV
+    print("Saving results...")
+    gender_pivot.to_csv('holdings/345/gender_ownership_metrics.csv', index=False)
+    print("Metrics saved to holdings/345/gender_ownership_metrics.csv")
+    
+    return gender_pivot
+    
 if __name__ == "__main__":
-    #construct_holdings()
-    #pred_gender_ethnicity()
-    get_stocks()
-    merge_stocks()
-    pass
+    #download_holdings()
+    # construct_holdings()
+    # cocatenate_dataframes()
+    # clean_single_reporting_owner_stock_holdings()
+    # pred_gender_ethnicity()
+    # get_stocks()
+    # merge_stocks()
+    calculate_ownership_metrics()

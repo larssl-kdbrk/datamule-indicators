@@ -1,265 +1,887 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-16562.477,0.0,1090872,agilent technologies inc,,1.0,,,20100105,huber marie oh,112760210000585,"Sr VP, General Counsel & Sec.",female,345112058.0
-316988.0,9717.546,1090872,agilent technologies inc,1.0,1.0,,,20100218,sullivan william p,112760210005345,President and CEO,male,348145821.0
-14871.6808,100.0,1090872,agilent technologies inc,,1.0,,,20100302,hirsch didier,112760210006918,"VP, Corp Controllership, Tax",male,348145821.0
-18884.14,0.0,1090872,agilent technologies inc,1.0,,,,20100303,koh boon hwee,112760210007211,,male,348145821.0
-16562.477,0.0,1090872,agilent technologies inc,,1.0,,,20100303,huber marie oh,112760210007214,"Sr VP, General Counsel & Sec.",female,348145821.0
-32678.843,0.0,1090872,agilent technologies inc,1.0,,,,20100305,clark paul n,112760210007742,,male,348145821.0
-55220.1,5000.0,1090872,agilent technologies inc,1.0,,,,20100305,cullen james,112760210007743,,male,348145821.0
-37180.91,0.0,1090872,agilent technologies inc,1.0,,,,20100305,fields heidi,112760210007744,,female,348145821.0
-21312.49,0.0,1090872,agilent technologies inc,1.0,,,,20100305,herbold robert j,112760210007745,,male,348145821.0
-23819.14,0.0,1090872,agilent technologies inc,1.0,,,,20100305,koh boon hwee,112760210007746,,male,348145821.0
-26546.42,2336.0,1090872,agilent technologies inc,1.0,,,,20100305,lawrence david m,112760210007747,,male,348145821.0
-32337.28,0.0,1090872,agilent technologies inc,1.0,,,,20100305,rand a barry,112760210007748,,male,348145821.0
-16562.477,0.0,1090872,agilent technologies inc,,1.0,,,20100309,huber marie oh,112760210008015,"Sr VP, General Counsel & Sec.",female,348145821.0
-16562.477,0.0,1090872,agilent technologies inc,,1.0,,,20100312,huber marie oh,112760210008471,"Sr VP, General Counsel & Sec.",female,348145821.0
-316988.0,9709.033,1090872,agilent technologies inc,1.0,1.0,,,20100315,sullivan william p,112760210008604,President and CEO,male,348145821.0
-129925.257,0.0,1090872,agilent technologies inc,,1.0,,,20100315,dillon adrian t,112760210008603,"EVP, Finance & Admin., CFO",male,348145821.0
-38221.0292,0.0,1090872,agilent technologies inc,,1.0,,,20100324,nersesian ronald s.,112760210009421,Senior Vice President,male,348145821.0
-14871.6808,100.0,1090872,agilent technologies inc,,1.0,,,20100325,hirsch didier,112760210009511,"VP, Corp Controllership, Tax",male,348145821.0
-36638.0,0.0,1090872,agilent technologies inc,,1.0,,,20100330,roelofs nicolas h phd,112760210009752,Senior Vice President,male,348145821.0
-34787.3509,0.0,1090872,agilent technologies inc,,1.0,,,20100330,mcmullen michael r.,112760210009755,Senior Vice President,male,348145821.0
-36386.0292,0.0,1090872,agilent technologies inc,,1.0,,,20100330,nersesian ronald s.,112760210009756,Senior Vice President,male,348145821.0
-129925.257,0.0,1090872,agilent technologies inc,,1.0,,,20100401,dillon adrian t,112760210009896,"EVP, Finance & Admin., CFO",male,348145821.0
-34787.3509,0.0,1090872,agilent technologies inc,,1.0,,,20100505,mcmullen michael r.,112760210013167,Senior Vice President,male,348062907.0
-77013.567,0.0,1090872,agilent technologies inc,,1.0,,,20100527,halloran jean,112760210015524,Senior Vice President,male,348062907.0
+16562.477,,1090872,agilent technologies inc,,1.0,,,20100105,huber marie oh,112760210000585,"Sr VP, General Counsel & Sec.",female,
+316988.0,9717.546,1090872,agilent technologies inc,1.0,1.0,,,20100218,sullivan william p,112760210005345,President and CEO,male,
+14871.6808,100.0,1090872,agilent technologies inc,,1.0,,,20100302,hirsch didier,112760210006918,"VP, Corp Controllership, Tax",male,
+18884.14,,1090872,agilent technologies inc,1.0,,,,20100303,koh boon hwee,112760210007211,,male,
+16562.477,,1090872,agilent technologies inc,,1.0,,,20100303,huber marie oh,112760210007214,"Sr VP, General Counsel & Sec.",female,
+32678.843,,1090872,agilent technologies inc,1.0,,,,20100305,clark paul n,112760210007742,,male,
+55220.1,5000.0,1090872,agilent technologies inc,1.0,,,,20100305,cullen james,112760210007743,,male,
+37180.91,,1090872,agilent technologies inc,1.0,,,,20100305,fields heidi,112760210007744,,female,
+21312.49,,1090872,agilent technologies inc,1.0,,,,20100305,herbold robert j,112760210007745,,male,
+23819.14,,1090872,agilent technologies inc,1.0,,,,20100305,koh boon hwee,112760210007746,,male,
+26546.42,2336.0,1090872,agilent technologies inc,1.0,,,,20100305,lawrence david m,112760210007747,,male,
+32337.28,,1090872,agilent technologies inc,1.0,,,,20100305,rand a barry,112760210007748,,male,
+16562.477,,1090872,agilent technologies inc,,1.0,,,20100309,huber marie oh,112760210008015,"Sr VP, General Counsel & Sec.",female,
+16562.477,,1090872,agilent technologies inc,,1.0,,,20100312,huber marie oh,112760210008471,"Sr VP, General Counsel & Sec.",female,
+129925.257,,1090872,agilent technologies inc,,1.0,,,20100315,dillon adrian t,112760210008603,"EVP, Finance & Admin., CFO",male,
+316988.0,9709.033,1090872,agilent technologies inc,1.0,1.0,,,20100315,sullivan william p,112760210008604,President and CEO,male,
+38221.0292,,1090872,agilent technologies inc,,1.0,,,20100324,nersesian ronald s.,112760210009421,Senior Vice President,male,
+14871.6808,100.0,1090872,agilent technologies inc,,1.0,,,20100325,hirsch didier,112760210009511,"VP, Corp Controllership, Tax",male,
+36638.0,,1090872,agilent technologies inc,,1.0,,,20100330,roelofs nicolas h phd,112760210009752,Senior Vice President,male,
+34787.3509,,1090872,agilent technologies inc,,1.0,,,20100330,mcmullen michael r.,112760210009755,Senior Vice President,male,
+36386.0292,,1090872,agilent technologies inc,,1.0,,,20100330,nersesian ronald s.,112760210009756,Senior Vice President,male,
+129925.257,,1090872,agilent technologies inc,,1.0,,,20100401,dillon adrian t,112760210009896,"EVP, Finance & Admin., CFO",male,
+34787.3509,,1090872,agilent technologies inc,,1.0,,,20100505,mcmullen michael r.,112760210013167,Senior Vice President,male,348062907.0
+16870.723,,1090872,agilent technologies inc,,1.0,,,20100527,huber marie oh,112760210015526,"Sr VP, General Counsel & Sec.",female,348062907.0
+36466.2012,,1090872,agilent technologies inc,,1.0,,,20100527,nersesian ronald s.,112760210015528,Senior Vice President,male,348062907.0
 15407.0468,100.0,1090872,agilent technologies inc,,1.0,,,20100527,hirsch didier,112760210015525,"VP, Corp Controllership, Tax",male,348062907.0
-16870.723,0.0,1090872,agilent technologies inc,,1.0,,,20100527,huber marie oh,112760210015526,"Sr VP, General Counsel & Sec.",female,348062907.0
-35155.7589,0.0,1090872,agilent technologies inc,,1.0,,,20100527,mcmullen michael r.,112760210015527,Senior Vice President,male,348062907.0
-36466.2012,0.0,1090872,agilent technologies inc,,1.0,,,20100527,nersesian ronald s.,112760210015528,Senior Vice President,male,348062907.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20100820,hirsch didier,112760210021766,Sr. VP and CFO,male,346370351.0
-16025.723,0.0,1090872,agilent technologies inc,,1.0,,,20100917,huber marie oh,112760210023456,"Sr VP, General Counsel & Sec.",female,346370351.0
-35262.0,0.0,1090872,agilent technologies inc,,1.0,,,20100921,roelofs nicolas h phd,112760210023574,Senior Vice President,male,346370351.0
-35155.7589,0.0,1090872,agilent technologies inc,,1.0,,,20101103,mcmullen michael r.,112760210026725,Senior Vice President,male,346370351.0
-16346.891,0.0,1090872,agilent technologies inc,,1.0,,,20101117,huber marie oh,112760210028164,"Sr VP, General Counsel & Sec.",female,346370351.0
-98619.761,0.0,1090872,agilent technologies inc,,1.0,,,20101119,halloran jean,112760210028520,Senior Vice President,male,346370351.0
+35155.7589,,1090872,agilent technologies inc,,1.0,,,20100527,mcmullen michael r.,112760210015527,Senior Vice President,male,348062907.0
+77013.567,,1090872,agilent technologies inc,,1.0,,,20100527,halloran jean,112760210015524,Senior Vice President,male,348062907.0
+,,1090872,agilent technologies inc,,1.0,,,20100820,hirsch didier,112760210021766,Sr. VP and CFO,male,346370351.0
+16025.723,,1090872,agilent technologies inc,,1.0,,,20100917,huber marie oh,112760210023456,"Sr VP, General Counsel & Sec.",female,346370351.0
+35262.0,,1090872,agilent technologies inc,,1.0,,,20100921,roelofs nicolas h phd,112760210023574,Senior Vice President,male,346370351.0
+35155.7589,,1090872,agilent technologies inc,,1.0,,,20101103,mcmullen michael r.,112760210026725,Senior Vice President,male,346370351.0
+16346.891,,1090872,agilent technologies inc,,1.0,,,20101117,huber marie oh,112760210028164,"Sr VP, General Counsel & Sec.",female,346370351.0
 31061.9328,100.0,1090872,agilent technologies inc,,1.0,,,20101119,hirsch didier,112760210028525,Sr. VP and CFO,male,346370351.0
-33108.891,0.0,1090872,agilent technologies inc,,1.0,,,20101119,huber marie oh,112760210028530,"Sr VP, General Counsel & Sec.",female,346370351.0
-65197.5419,0.0,1090872,agilent technologies inc,,1.0,,,20101119,mcmullen michael r.,112760210028532,Senior Vice President,male,346370351.0
-75257.7202,0.0,1090872,agilent technologies inc,,1.0,,,20101119,nersesian ronald s.,112760210028534,Senior Vice President,male,346370351.0
-63828.0,0.0,1090872,agilent technologies inc,,1.0,,,20101119,roelofs nicolas h phd,112760210028539,Senior Vice President,male,346370351.0
+33108.891,,1090872,agilent technologies inc,,1.0,,,20101119,huber marie oh,112760210028530,"Sr VP, General Counsel & Sec.",female,346370351.0
+65197.5419,,1090872,agilent technologies inc,,1.0,,,20101119,mcmullen michael r.,112760210028532,Senior Vice President,male,346370351.0
+75257.7202,,1090872,agilent technologies inc,,1.0,,,20101119,nersesian ronald s.,112760210028534,Senior Vice President,male,346370351.0
+63828.0,,1090872,agilent technologies inc,,1.0,,,20101119,roelofs nicolas h phd,112760210028539,Senior Vice President,male,346370351.0
+98619.761,,1090872,agilent technologies inc,,1.0,,,20101119,halloran jean,112760210028520,Senior Vice President,male,346370351.0
 373668.0,9701.93,1090872,agilent technologies inc,1.0,1.0,,,20101119,sullivan william p,112760210028559,President and CEO,male,346370351.0
-75257.7202,0.0,1090872,agilent technologies inc,,1.0,,,20101129,nersesian ronald s.,112760210029015,Senior Vice President,male,346370351.0
+75257.7202,,1090872,agilent technologies inc,,1.0,,,20101129,nersesian ronald s.,112760210029015,Senior Vice President,male,346370351.0
 316988.0,9701.93,1090872,agilent technologies inc,1.0,1.0,,,20101202,sullivan william p,112760210029453,President and CEO,male,346370351.0
-28846.891,0.0,1090872,agilent technologies inc,,1.0,,,20101206,huber marie oh,112760210029795,"Sr VP, General Counsel & Sec.",female,346370351.0
-65197.5419,0.0,1090872,agilent technologies inc,,1.0,,,20101220,mcmullen michael r.,112760210031244,Senior Vice President,male,346370351.0
+28846.891,,1090872,agilent technologies inc,,1.0,,,20101206,huber marie oh,112760210029795,"Sr VP, General Counsel & Sec.",female,346370351.0
 31061.9328,100.0,1090872,agilent technologies inc,,1.0,,,20101220,hirsch didier,112760210031239,Sr. VP and CFO,male,346370351.0
-37180.91,0.0,1090872,agilent technologies inc,1.0,,,,20101221,fields heidi,112760210031375,,female,346370351.0
-21312.49,0.0,1090872,agilent technologies inc,1.0,,,,20101221,herbold robert j,112760210031390,,male,346370351.0
+65197.5419,,1090872,agilent technologies inc,,1.0,,,20101220,mcmullen michael r.,112760210031244,Senior Vice President,male,346370351.0
+37180.91,,1090872,agilent technologies inc,1.0,,,,20101221,fields heidi,112760210031375,,female,346370351.0
+21312.49,,1090872,agilent technologies inc,1.0,,,,20101221,herbold robert j,112760210031390,,male,346370351.0
 55220.1,5000.0,1090872,agilent technologies inc,1.0,,,,20101223,cullen james,112760210031484,,male,346370351.0
-75257.7202,0.0,1090872,agilent technologies inc,,1.0,,,20101229,nersesian ronald s.,112760210031659,Senior Vice President,male,346370351.0
-32337.28,0.0,1090872,agilent technologies inc,1.0,,,,20110103,rand a barry,112760211000075,,male,346370351.0
-477.0,0.0,1090872,agilent technologies inc,1.0,,,,20110118,yamada tadataka,112760211001791,,male,346370351.0
-63828.0,0.0,1090872,agilent technologies inc,,1.0,,,20110125,roelofs nicolas h phd,112760211002229,Senior Vice President,male,346370351.0
+75257.7202,,1090872,agilent technologies inc,,1.0,,,20101229,nersesian ronald s.,112760210031659,Senior Vice President,male,346370351.0
+32337.28,,1090872,agilent technologies inc,1.0,,,,20110103,rand a barry,112760211000075,,male,346370351.0
+477.0,,1090872,agilent technologies inc,1.0,,,,20110118,yamada tadataka,112760211001791,,male,346370351.0
+63828.0,,1090872,agilent technologies inc,,1.0,,,20110125,roelofs nicolas h phd,112760211002229,Senior Vice President,male,346370351.0
 26546.42,2336.0,1090872,agilent technologies inc,1.0,,,,20110202,lawrence david m,112760211003431,,male,345122160.0
-75257.7202,0.0,1090872,agilent technologies inc,,1.0,,,20110208,nersesian ronald s.,112760211004376,Senior Vice President,male,345122160.0
-65197.5419,0.0,1090872,agilent technologies inc,,1.0,,,20110215,mcmullen michael r.,112760211005631,Senior Vice President,male,345122160.0
-63828.0,0.0,1090872,agilent technologies inc,,1.0,,,20110224,roelofs nicolas h phd,112760211007474,Senior Vice President,male,345122160.0
-38399.713,0.0,1090872,agilent technologies inc,1.0,,,,20110304,clark paul n,112760211009010,,male,345122160.0
-35956.28,0.0,1090872,agilent technologies inc,1.0,,,,20110304,rand a barry,112760211009005,,male,345122160.0
-30165.42,2336.0,1090872,agilent technologies inc,1.0,,,,20110304,lawrence david m,112760211009003,,male,345122160.0
-4096.0,0.0,1090872,agilent technologies inc,1.0,,,,20110304,yamada tadataka,112760211009007,,male,345122160.0
-24931.49,0.0,1090872,agilent technologies inc,1.0,,,,20110304,herbold robert j,112760211008999,,male,345122160.0
+75257.7202,,1090872,agilent technologies inc,,1.0,,,20110208,nersesian ronald s.,112760211004376,Senior Vice President,male,345122160.0
+65197.5419,,1090872,agilent technologies inc,,1.0,,,20110215,mcmullen michael r.,112760211005631,Senior Vice President,male,345122160.0
+63828.0,,1090872,agilent technologies inc,,1.0,,,20110224,roelofs nicolas h phd,112760211007474,Senior Vice President,male,345122160.0
 58839.1,5000.0,1090872,agilent technologies inc,1.0,,,,20110304,cullen james,112760211008994,,male,345122160.0
-24170.14,0.0,1090872,agilent technologies inc,1.0,,,,20110304,koh boon hwee,112760211009001,,male,345122160.0
-40799.91,0.0,1090872,agilent technologies inc,1.0,,,,20110304,fields heidi,112760211008997,,female,345122160.0
-75257.7202,0.0,1090872,agilent technologies inc,,1.0,,,20110308,nersesian ronald s.,112760211009381,Senior Vice President,male,345122160.0
-63828.0,0.0,1090872,agilent technologies inc,,1.0,,,20110323,roelofs nicolas h phd,112760211010985,Senior Vice President,male,345122160.0
-63527.5419,0.0,1090872,agilent technologies inc,,1.0,,,20110329,mcmullen michael r.,112760211011318,Senior Vice President,male,345122160.0
-61994.0,0.0,1090872,agilent technologies inc,,1.0,,,20110329,roelofs nicolas h phd,112760211011321,Senior Vice President,male,345122160.0
-73423.7202,0.0,1090872,agilent technologies inc,,1.0,,,20110329,nersesian ronald s.,112760211011324,Senior Vice President,male,345122160.0
-61994.0,0.0,1090872,agilent technologies inc,,1.0,,,20110422,roelofs nicolas h phd,112760211013494,Senior Vice President,male,345122160.0
-98984.198,0.0,1090872,agilent technologies inc,,1.0,,,20110518,halloran jean,112760211016773,Senior Vice President,male,348045143.0
+40799.91,,1090872,agilent technologies inc,1.0,,,,20110304,fields heidi,112760211008997,,female,345122160.0
+24170.14,,1090872,agilent technologies inc,1.0,,,,20110304,koh boon hwee,112760211009001,,male,345122160.0
+30165.42,2336.0,1090872,agilent technologies inc,1.0,,,,20110304,lawrence david m,112760211009003,,male,345122160.0
+35956.28,,1090872,agilent technologies inc,1.0,,,,20110304,rand a barry,112760211009005,,male,345122160.0
+4096.0,,1090872,agilent technologies inc,1.0,,,,20110304,yamada tadataka,112760211009007,,male,345122160.0
+38399.713,,1090872,agilent technologies inc,1.0,,,,20110304,clark paul n,112760211009010,,male,345122160.0
+24931.49,,1090872,agilent technologies inc,1.0,,,,20110304,herbold robert j,112760211008999,,male,345122160.0
+75257.7202,,1090872,agilent technologies inc,,1.0,,,20110308,nersesian ronald s.,112760211009381,Senior Vice President,male,345122160.0
+63828.0,,1090872,agilent technologies inc,,1.0,,,20110323,roelofs nicolas h phd,112760211010985,Senior Vice President,male,345122160.0
+61994.0,,1090872,agilent technologies inc,,1.0,,,20110329,roelofs nicolas h phd,112760211011321,Senior Vice President,male,345122160.0
+63527.5419,,1090872,agilent technologies inc,,1.0,,,20110329,mcmullen michael r.,112760211011318,Senior Vice President,male,345122160.0
+73423.7202,,1090872,agilent technologies inc,,1.0,,,20110329,nersesian ronald s.,112760211011324,Senior Vice President,male,345122160.0
+61994.0,,1090872,agilent technologies inc,,1.0,,,20110422,roelofs nicolas h phd,112760211013494,Senior Vice President,male,345122160.0
+98984.198,,1090872,agilent technologies inc,,1.0,,,20110518,halloran jean,112760211016773,Senior Vice President,male,348045143.0
 31670.9348,100.0,1090872,agilent technologies inc,,1.0,,,20110518,hirsch didier,112760211016776,Sr. VP and CFO,male,348045143.0
-63830.5679,0.0,1090872,agilent technologies inc,,1.0,,,20110518,mcmullen michael r.,112760211016779,Senior Vice President,male,348045143.0
-61994.0,0.0,1090872,agilent technologies inc,,1.0,,,20110525,roelofs nicolas h phd,112760211017506,Senior Vice President,male,348045143.0
+63830.5679,,1090872,agilent technologies inc,,1.0,,,20110518,mcmullen michael r.,112760211016779,Senior Vice President,male,348045143.0
 316988.0,9678.722,1090872,agilent technologies inc,1.0,1.0,,,20110525,sullivan william p,112760211017504,President and CEO,male,348045143.0
-73487.5662,0.0,1090872,agilent technologies inc,,1.0,,,20110526,nersesian ronald s.,112760211017637,Senior Vice President,male,348045143.0
+61994.0,,1090872,agilent technologies inc,,1.0,,,20110525,roelofs nicolas h phd,112760211017506,Senior Vice President,male,348045143.0
+73487.5662,,1090872,agilent technologies inc,,1.0,,,20110526,nersesian ronald s.,112760211017637,Senior Vice President,male,348045143.0
 316988.0,9678.722,1090872,agilent technologies inc,1.0,1.0,,,20110531,sullivan william p,112760211017929,President and CEO,male,348045143.0
-61994.0,0.0,1090872,agilent technologies inc,,1.0,,,20110623,roelofs nicolas h phd,112760211019778,Senior Vice President,male,348045143.0
+61994.0,,1090872,agilent technologies inc,,1.0,,,20110623,roelofs nicolas h phd,112760211019778,Senior Vice President,male,348045143.0
 58839.1,5000.0,1090872,agilent technologies inc,1.0,,,,20110623,cullen james,112760211019785,,male,348045143.0
-92344.198,0.0,1090872,agilent technologies inc,,1.0,,,20110705,halloran jean,112760211020395,Senior Vice President,male,348045143.0
-29105.221,0.0,1090872,agilent technologies inc,,1.0,,,20110706,huber marie oh,112760211021008,"Sr VP, General Counsel & Sec.",female,348045143.0
-61994.0,0.0,1090872,agilent technologies inc,,1.0,,,20110722,roelofs nicolas h phd,112760211021926,Senior Vice President,male,348045143.0
-61994.0,0.0,1090872,agilent technologies inc,,1.0,,,20110831,roelofs nicolas h phd,112760211024526,Senior Vice President,male,347214336.0
-28030.221,0.0,1090872,agilent technologies inc,,1.0,,,20110916,huber marie oh,112760211025365,"Sr VP, General Counsel & Sec.",female,347214336.0
-60243.0,0.0,1090872,agilent technologies inc,,1.0,,,20110919,roelofs nicolas h phd,112760211025542,Senior Vice President,male,347214336.0
-60243.0,0.0,1090872,agilent technologies inc,,1.0,,,20110922,roelofs nicolas h phd,112760211025807,Senior Vice President,male,347214336.0
-60243.0,0.0,1090872,agilent technologies inc,,1.0,,,20111024,roelofs nicolas h phd,112760211027616,Senior Vice President,male,347214336.0
-97525.1099,0.0,1090872,agilent technologies inc,,1.0,,,20111118,mcmullen michael r.,112760211030151,Senior Vice President,male,591000000.0
-82508.8412,0.0,1090872,agilent technologies inc,,1.0,,,20111118,nersesian ronald s.,112760211030155,"Exec. Vice President, COO",male,591000000.0
+92344.198,,1090872,agilent technologies inc,,1.0,,,20110705,halloran jean,112760211020395,Senior Vice President,male,348045143.0
+29105.221,,1090872,agilent technologies inc,,1.0,,,20110706,huber marie oh,112760211021008,"Sr VP, General Counsel & Sec.",female,348045143.0
+61994.0,,1090872,agilent technologies inc,,1.0,,,20110722,roelofs nicolas h phd,112760211021926,Senior Vice President,male,348045143.0
+61994.0,,1090872,agilent technologies inc,,1.0,,,20110831,roelofs nicolas h phd,112760211024526,Senior Vice President,male,347214336.0
+28030.221,,1090872,agilent technologies inc,,1.0,,,20110916,huber marie oh,112760211025365,"Sr VP, General Counsel & Sec.",female,347214336.0
+60243.0,,1090872,agilent technologies inc,,1.0,,,20110919,roelofs nicolas h phd,112760211025542,Senior Vice President,male,347214336.0
+60243.0,,1090872,agilent technologies inc,,1.0,,,20110922,roelofs nicolas h phd,112760211025807,Senior Vice President,male,347214336.0
+60243.0,,1090872,agilent technologies inc,,1.0,,,20111024,roelofs nicolas h phd,112760211027616,Senior Vice President,male,347214336.0
+90668.0,,1090872,agilent technologies inc,,1.0,,,20111118,roelofs nicolas h phd,112760211030153,Senior Vice President,male,591000000.0
 383500.0,9697.796,1090872,agilent technologies inc,1.0,1.0,,,20111118,sullivan william p,112760211030149,President and CEO,male,591000000.0
-90668.0,0.0,1090872,agilent technologies inc,,1.0,,,20111118,roelofs nicolas h phd,112760211030153,Senior Vice President,male,591000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20111118,sene guy,112760211030145,Senior Vice President,male,591000000.0
-30254.299,0.0,1090872,agilent technologies inc,,1.0,,,20111118,huber marie oh,112760211030139,"Sr VP, General Counsel & Sec.",female,591000000.0
+82508.8412,,1090872,agilent technologies inc,,1.0,,,20111118,nersesian ronald s.,112760211030155,"Exec. Vice President, COO",male,591000000.0
+,,1090872,agilent technologies inc,,1.0,,,20111118,sene guy,112760211030145,Senior Vice President,male,591000000.0
+101782.762,,1090872,agilent technologies inc,,1.0,,,20111118,halloran jean,112760211030141,Senior Vice President,male,591000000.0
+30254.299,,1090872,agilent technologies inc,,1.0,,,20111118,huber marie oh,112760211030139,"Sr VP, General Counsel & Sec.",female,591000000.0
 39648.0088,100.0,1090872,agilent technologies inc,,1.0,,,20111118,hirsch didier,112760211030147,Sr. VP and CFO,male,591000000.0
-101782.762,0.0,1090872,agilent technologies inc,,1.0,,,20111118,halloran jean,112760211030141,Senior Vice President,male,591000000.0
-90668.0,0.0,1090872,agilent technologies inc,,1.0,,,20111122,roelofs nicolas h phd,112760211030386,Senior Vice President,male,591000000.0
+97525.1099,,1090872,agilent technologies inc,,1.0,,,20111118,mcmullen michael r.,112760211030151,Senior Vice President,male,591000000.0
+90668.0,,1090872,agilent technologies inc,,1.0,,,20111122,roelofs nicolas h phd,112760211030386,Senior Vice President,male,591000000.0
 58839.1,5000.0,1090872,agilent technologies inc,1.0,,,,20111214,cullen james,112760211032240,,male,348125173.0
-24931.49,0.0,1090872,agilent technologies inc,1.0,,,,20111227,herbold robert j,112760211033172,,male,348125173.0
-40799.91,0.0,1090872,agilent technologies inc,1.0,,,,20120103,fields heidi,112760212000245,,female,348125173.0
+24931.49,,1090872,agilent technologies inc,1.0,,,,20111227,herbold robert j,112760211033172,,male,348125173.0
+40799.91,,1090872,agilent technologies inc,1.0,,,,20120103,fields heidi,112760212000245,,female,348125173.0
 30165.42,2336.0,1090872,agilent technologies inc,1.0,,,,20120125,lawrence david m,112760212002428,,male,348125173.0
-35956.28,0.0,1090872,agilent technologies inc,1.0,,,,20120221,rand a barry,112760212007197,,male,593000000.0
-90668.0,0.0,1090872,agilent technologies inc,,1.0,,,20120313,roelofs nicolas h phd,112760212010512,Senior Vice President,male,593000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20120323,glaize solange,112760212011738,"VP, Chief Accounting Officer",female,593000000.0
-44878.91,0.0,1090872,agilent technologies inc,1.0,,,,20120326,fields heidi,112760212011820,,female,593000000.0
-25500.14,0.0,1090872,agilent technologies inc,1.0,,,,20120326,koh boon hwee,112760212011825,,male,593000000.0
+35956.28,,1090872,agilent technologies inc,1.0,,,,20120221,rand a barry,112760212007197,,male,593000000.0
+90668.0,,1090872,agilent technologies inc,,1.0,,,20120313,roelofs nicolas h phd,112760212010512,Senior Vice President,male,593000000.0
+,,1090872,agilent technologies inc,,1.0,,,20120323,glaize solange,112760212011738,"VP, Chief Accounting Officer",female,593000000.0
+29010.49,,1090872,agilent technologies inc,1.0,,,,20120326,herbold robert j,112760212011802,,male,593000000.0
 62918.1,5000.0,1090872,agilent technologies inc,1.0,,,,20120326,cullen james,112760212011800,,male,593000000.0
-44745.259,0.0,1090872,agilent technologies inc,1.0,,,,20120326,clark paul n,112760212011834,,male,593000000.0
-29010.49,0.0,1090872,agilent technologies inc,1.0,,,,20120326,herbold robert j,112760212011802,,male,593000000.0
-8175.0,0.0,1090872,agilent technologies inc,1.0,,,,20120326,yamada tadataka,112760212011809,,male,593000000.0
+44745.259,,1090872,agilent technologies inc,1.0,,,,20120326,clark paul n,112760212011834,,male,593000000.0
 34244.42,2336.0,1090872,agilent technologies inc,1.0,,,,20120326,lawrence david m,112760212011831,,male,593000000.0
-92652.1099,0.0,1090872,agilent technologies inc,,1.0,,,20120328,mcmullen michael r.,112760212012012,Senior Vice President,male,593000000.0
-80673.8412,0.0,1090872,agilent technologies inc,,1.0,,,20120329,nersesian ronald s.,112760212012054,"Exec. Vice President, COO",male,593000000.0
-88833.0,0.0,1090872,agilent technologies inc,,1.0,,,20120329,roelofs nicolas h phd,112760212012058,Senior Vice President,male,593000000.0
-41667.193,0.0,1090872,agilent technologies inc,1.0,,,,20120330,rand a barry,112760212012222,,male,593000000.0
+44878.91,,1090872,agilent technologies inc,1.0,,,,20120326,fields heidi,112760212011820,,female,593000000.0
+25500.14,,1090872,agilent technologies inc,1.0,,,,20120326,koh boon hwee,112760212011825,,male,593000000.0
+8175.0,,1090872,agilent technologies inc,1.0,,,,20120326,yamada tadataka,112760212011809,,male,593000000.0
+92652.1099,,1090872,agilent technologies inc,,1.0,,,20120328,mcmullen michael r.,112760212012012,Senior Vice President,male,593000000.0
+80673.8412,,1090872,agilent technologies inc,,1.0,,,20120329,nersesian ronald s.,112760212012054,"Exec. Vice President, COO",male,593000000.0
+88833.0,,1090872,agilent technologies inc,,1.0,,,20120329,roelofs nicolas h phd,112760212012058,Senior Vice President,male,593000000.0
+41667.193,,1090872,agilent technologies inc,1.0,,,,20120330,rand a barry,112760212012222,,male,593000000.0
 383500.0,9697.796,1090872,agilent technologies inc,1.0,1.0,,,20120330,sullivan william p,112760212012266,President and CEO,male,593000000.0
-92652.1099,0.0,1090872,agilent technologies inc,,1.0,,,20120403,mcmullen michael r.,112760212013062,Senior Vice President,male,593000000.0
-14766.0,0.0,1090872,agilent technologies inc,,1.0,,,20120625,sene guy,112760212020700,Senior Vice President,male,594000000.0
-29010.49,0.0,1090872,agilent technologies inc,1.0,,,,20120918,herbold robert j,112760212026510,,male,595000000.0
-29752.168,0.0,1090872,agilent technologies inc,,1.0,,,20120918,huber marie oh,112760212026512,"Sr VP, General Counsel & Sec.",female,595000000.0
-0.0,0.0,1090872,agilent technologies inc,1.0,1.0,,,20120921,sullivan william p,112760212026822,President and CEO,male,595000000.0
-46823.242,0.0,1090872,agilent technologies inc,1.0,,,,20120925,fields heidi,112760212026942,,female,595000000.0
-46823.242,0.0,1090872,agilent technologies inc,1.0,,,,20121002,fields heidi,112760212027929,,female,595000000.0
-17839.0,0.0,1090872,agilent technologies inc,,1.0,,,20121115,sene guy,112760212031029,Senior Vice President,male,595000000.0
-96987.0,0.0,1090872,agilent technologies inc,,1.0,,,20121115,roelofs nicolas h phd,112760212031027,Senior Vice President,male,595000000.0
-95394.8332,0.0,1090872,agilent technologies inc,,1.0,,,20121115,nersesian ronald s.,112760212031025,President and COO,male,595000000.0
-105475.3849,0.0,1090872,agilent technologies inc,,1.0,,,20121115,mcmullen michael r.,112760212031023,Senior Vice President,male,595000000.0
-426794.836,0.0,1090872,agilent technologies inc,1.0,1.0,,,20121115,sullivan william p,112760212031031,CEO,male,595000000.0
-35748.799,0.0,1090872,agilent technologies inc,,1.0,,,20121115,huber marie oh,112760212031018,"Sr VP, General Counsel & Sec.",female,595000000.0
+92652.1099,,1090872,agilent technologies inc,,1.0,,,20120403,mcmullen michael r.,112760212013062,Senior Vice President,male,593000000.0
+14766.0,,1090872,agilent technologies inc,,1.0,,,20120625,sene guy,112760212020700,Senior Vice President,male,594000000.0
+29752.168,,1090872,agilent technologies inc,,1.0,,,20120918,huber marie oh,112760212026512,"Sr VP, General Counsel & Sec.",female,595000000.0
+29010.49,,1090872,agilent technologies inc,1.0,,,,20120918,herbold robert j,112760212026510,,male,595000000.0
+0.0,,1090872,agilent technologies inc,1.0,1.0,,,20120921,sullivan william p,112760212026822,President and CEO,male,595000000.0
+46823.242,,1090872,agilent technologies inc,1.0,,,,20120925,fields heidi,112760212026942,,female,595000000.0
+46823.242,,1090872,agilent technologies inc,1.0,,,,20121002,fields heidi,112760212027929,,female,595000000.0
+426794.836,,1090872,agilent technologies inc,1.0,1.0,,,20121115,sullivan william p,112760212031031,CEO,male,595000000.0
+6492.387,,1090872,agilent technologies inc,,1.0,,,20121115,glaize solange,112760212031012,"VP, Chief Accounting Officer",female,595000000.0
+110413.785,,1090872,agilent technologies inc,,1.0,,,20121115,halloran jean,112760212031014,Senior Vice President,male,595000000.0
 54318.6608,100.0,1090872,agilent technologies inc,,1.0,,,20121115,hirsch didier,112760212031016,Sr. VP and CFO,male,595000000.0
-110413.785,0.0,1090872,agilent technologies inc,,1.0,,,20121115,halloran jean,112760212031014,Senior Vice President,male,595000000.0
-6492.387,0.0,1090872,agilent technologies inc,,1.0,,,20121115,glaize solange,112760212031012,"VP, Chief Accounting Officer",female,595000000.0
-35748.799,0.0,1090872,agilent technologies inc,,1.0,,,20121115,huber marie oh,112760212031021,"Sr VP, General Counsel & Sec.",female,595000000.0
-34601.799,0.0,1090872,agilent technologies inc,,1.0,,,20121120,huber marie oh,112760212031676,"Sr VP, General Counsel & Sec.",female,595000000.0
+35748.799,,1090872,agilent technologies inc,,1.0,,,20121115,huber marie oh,112760212031018,"Sr VP, General Counsel & Sec.",female,595000000.0
+35748.799,,1090872,agilent technologies inc,,1.0,,,20121115,huber marie oh,112760212031021,"Sr VP, General Counsel & Sec.",female,595000000.0
+105475.3849,,1090872,agilent technologies inc,,1.0,,,20121115,mcmullen michael r.,112760212031023,Senior Vice President,male,595000000.0
+95394.8332,,1090872,agilent technologies inc,,1.0,,,20121115,nersesian ronald s.,112760212031025,President and COO,male,595000000.0
+96987.0,,1090872,agilent technologies inc,,1.0,,,20121115,roelofs nicolas h phd,112760212031027,Senior Vice President,male,595000000.0
+17839.0,,1090872,agilent technologies inc,,1.0,,,20121115,sene guy,112760212031029,Senior Vice President,male,595000000.0
+34601.799,,1090872,agilent technologies inc,,1.0,,,20121120,huber marie oh,112760212031676,"Sr VP, General Counsel & Sec.",female,595000000.0
+94681.0,,1090872,agilent technologies inc,,1.0,,,20121120,roelofs nicolas h phd,112760212031680,Senior Vice President,male,595000000.0
+93059.8332,,1090872,agilent technologies inc,,1.0,,,20121120,nersesian ronald s.,112760212031682,President and COO,male,595000000.0
+103157.3849,,1090872,agilent technologies inc,,1.0,,,20121120,mcmullen michael r.,112760212031684,Senior Vice President,male,595000000.0
+109544.785,,1090872,agilent technologies inc,,1.0,,,20121120,halloran jean,112760212031686,Senior Vice President,male,595000000.0
 53666.6608,100.0,1090872,agilent technologies inc,,1.0,,,20121120,hirsch didier,112760212031678,Sr. VP and CFO,male,595000000.0
-94681.0,0.0,1090872,agilent technologies inc,,1.0,,,20121120,roelofs nicolas h phd,112760212031680,Senior Vice President,male,595000000.0
-93059.8332,0.0,1090872,agilent technologies inc,,1.0,,,20121120,nersesian ronald s.,112760212031682,President and COO,male,595000000.0
-103157.3849,0.0,1090872,agilent technologies inc,,1.0,,,20121120,mcmullen michael r.,112760212031684,Senior Vice President,male,595000000.0
-109544.785,0.0,1090872,agilent technologies inc,,1.0,,,20121120,halloran jean,112760212031686,Senior Vice President,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,1.0,1.0,,,20121126,sullivan william p,112760212031991,CEO,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20121126,sene guy,112760212031989,Senior Vice President,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20121126,mcmullen michael r.,112760212031985,Senior Vice President,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20121126,hirsch didier,112760212031980,Sr. VP and CFO,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20121126,huber marie oh,112760212031982,"Sr VP, General Counsel & Sec.",female,595000000.0
-114544.785,0.0,1090872,agilent technologies inc,,1.0,,,20121126,halloran jean,112760212031975,Senior Vice President,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20121126,roelofs nicolas h phd,112760212031987,Senior Vice President,male,595000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20121126,glaize solange,112760212031972,"VP, Chief Accounting Officer",female,595000000.0
-82820.8332,0.0,1090872,agilent technologies inc,,1.0,,,20121126,nersesian ronald s.,112760212031970,President and COO,male,595000000.0
-368782.836,0.0,1090872,agilent technologies inc,1.0,1.0,,,20121128,sullivan william p,112760212032208,CEO,male,595000000.0
-88491.785,0.0,1090872,agilent technologies inc,,1.0,,,20121203,halloran jean,112760212032527,Senior Vice President,male,347934544.0
-34601.799,0.0,1090872,agilent technologies inc,,1.0,,,20121207,huber marie oh,112760212033152,"Sr VP, General Counsel & Sec.",female,347934544.0
-6308.387,0.0,1090872,agilent technologies inc,,1.0,,,20121207,glaize solange,112760212033154,"VP, Chief Accounting Officer",female,347934544.0
-86527.0,0.0,1090872,agilent technologies inc,,1.0,,,20121213,roelofs nicolas h phd,112760212033833,Senior Vice President,male,347934544.0
+,,1090872,agilent technologies inc,1.0,1.0,,,20121126,sullivan william p,112760212031991,CEO,male,595000000.0
+,,1090872,agilent technologies inc,,1.0,,,20121126,sene guy,112760212031989,Senior Vice President,male,595000000.0
+,,1090872,agilent technologies inc,,1.0,,,20121126,mcmullen michael r.,112760212031985,Senior Vice President,male,595000000.0
+,,1090872,agilent technologies inc,,1.0,,,20121126,roelofs nicolas h phd,112760212031987,Senior Vice President,male,595000000.0
+,,1090872,agilent technologies inc,,1.0,,,20121126,hirsch didier,112760212031980,Sr. VP and CFO,male,595000000.0
+,,1090872,agilent technologies inc,,1.0,,,20121126,huber marie oh,112760212031982,"Sr VP, General Counsel & Sec.",female,595000000.0
+82820.8332,,1090872,agilent technologies inc,,1.0,,,20121126,nersesian ronald s.,112760212031970,President and COO,male,595000000.0
+114544.785,,1090872,agilent technologies inc,,1.0,,,20121126,halloran jean,112760212031975,Senior Vice President,male,595000000.0
+,,1090872,agilent technologies inc,,1.0,,,20121126,glaize solange,112760212031972,"VP, Chief Accounting Officer",female,595000000.0
+368782.836,,1090872,agilent technologies inc,1.0,1.0,,,20121128,sullivan william p,112760212032208,CEO,male,595000000.0
+88491.785,,1090872,agilent technologies inc,,1.0,,,20121203,halloran jean,112760212032527,Senior Vice President,male,347934544.0
+34601.799,,1090872,agilent technologies inc,,1.0,,,20121207,huber marie oh,112760212033152,"Sr VP, General Counsel & Sec.",female,347934544.0
+6308.387,,1090872,agilent technologies inc,,1.0,,,20121207,glaize solange,112760212033154,"VP, Chief Accounting Officer",female,347934544.0
+86527.0,,1090872,agilent technologies inc,,1.0,,,20121213,roelofs nicolas h phd,112760212033833,Senior Vice President,male,347934544.0
 34507.308,2336.0,1090872,agilent technologies inc,1.0,,,,20121217,lawrence david m,112760212034173,,male,347934544.0
-92561.3849,0.0,1090872,agilent technologies inc,,1.0,,,20121220,mcmullen michael r.,112760212034705,Senior Vice President,male,347934544.0
-41911.98,0.0,1090872,agilent technologies inc,1.0,,,,20121220,rand a barry,112760212034707,,male,347934544.0
-368782.836,0.0,1090872,agilent technologies inc,1.0,1.0,,,20121220,sullivan william p,112760212034800,CEO,male,347934544.0
-88138.785,0.0,1090872,agilent technologies inc,,1.0,,,20130109,halloran jean,112760213001545,Senior Vice President,male,347934544.0
-17730.0,0.0,1090872,agilent technologies inc,,1.0,,,20130114,sene guy,112760213001756,Senior Vice President,male,347934544.0
-17730.0,0.0,1090872,agilent technologies inc,,1.0,,,20130128,sene guy,112760213002847,Senior Vice President,male,347934544.0
-28564.671,0.0,1090872,agilent technologies inc,1.0,,,,20130325,koh boon hwee,112760213011913,,male,598000000.0
-14550.148,0.0,1090872,agilent technologies inc,1.0,,,,20130325,yamada tadataka,112760213011921,,male,598000000.0
-38831.324,2336.0,1090872,agilent technologies inc,1.0,,,,20130325,lawrence david m,112760213011915,,male,598000000.0
-47931.024,0.0,1090872,agilent technologies inc,1.0,,,,20130325,rand a barry,112760213011918,,male,598000000.0
-51809.368,0.0,1090872,agilent technologies inc,1.0,,,,20130325,clark paul n,112760213011902,,male,598000000.0
-51256.429,0.0,1090872,agilent technologies inc,1.0,,,,20130325,fields heidi,112760213011907,,female,598000000.0
-33260.49,0.0,1090872,agilent technologies inc,1.0,,,,20130325,herbold robert j,112760213011909,,male,598000000.0
+92561.3849,,1090872,agilent technologies inc,,1.0,,,20121220,mcmullen michael r.,112760212034705,Senior Vice President,male,347934544.0
+41911.98,,1090872,agilent technologies inc,1.0,,,,20121220,rand a barry,112760212034707,,male,347934544.0
+368782.836,,1090872,agilent technologies inc,1.0,1.0,,,20121220,sullivan william p,112760212034800,CEO,male,347934544.0
+88138.785,,1090872,agilent technologies inc,,1.0,,,20130109,halloran jean,112760213001545,Senior Vice President,male,347934544.0
+17730.0,,1090872,agilent technologies inc,,1.0,,,20130114,sene guy,112760213001756,Senior Vice President,male,347934544.0
+17730.0,,1090872,agilent technologies inc,,1.0,,,20130128,sene guy,112760213002847,Senior Vice President,male,347934544.0
+51809.368,,1090872,agilent technologies inc,1.0,,,,20130325,clark paul n,112760213011902,,male,598000000.0
 67685.832,5020.159,1090872,agilent technologies inc,1.0,,,,20130325,cullen james,112760213011905,,male,598000000.0
-33851.799,0.0,1090872,agilent technologies inc,,1.0,,,20130327,huber marie oh,112760213012122,"Sr VP, General Counsel & Sec.",female,598000000.0
-44362.671,0.0,1090872,agilent technologies inc,1.0,,,,20130327,koh boon hwee,112760213012124,,male,598000000.0
-90693.3849,0.0,1090872,agilent technologies inc,,1.0,,,20130401,mcmullen michael r.,112760213012493,Senior Vice President,male,598000000.0
-81040.7482,0.0,1090872,agilent technologies inc,,1.0,,,20130401,nersesian ronald s.,112760213012497,President and COO,male,598000000.0
-84136.0,0.0,1090872,agilent technologies inc,,1.0,,,20130401,roelofs nicolas h phd,112760213012499,Senior Vice President,male,598000000.0
-59499.154,5025.933,1090872,agilent technologies inc,1.0,,,,20130520,cullen james,112760213017551,,male,599000000.0
-54303.251,100.0,1090872,agilent technologies inc,,1.0,,,20130523,hirsch didier,112760213017950,Sr. VP and CFO,male,599000000.0
-33806.499,0.0,1090872,agilent technologies inc,,1.0,,,20130605,huber marie oh,112760213019535,"Sr VP, General Counsel & Sec.",female,599000000.0
-91101.5339,0.0,1090872,agilent technologies inc,,1.0,,,20130620,mcmullen michael r.,112760213020952,Senior Vice President,male,599000000.0
-16804.0,0.0,1090872,agilent technologies inc,,1.0,,,20130625,sene guy,112760213021129,Senior Vice President,male,599000000.0
-32940.499,0.0,1090872,agilent technologies inc,,1.0,,,20130916,huber marie oh,112760213027229,"Sr VP, General Counsel & Sec.",female,330791981.0
-91101.5339,0.0,1090872,agilent technologies inc,,1.0,,,20130923,mcmullen michael r.,112760213027654,Senior Vice President,male,330791981.0
-46338.9532,0.0,1090872,agilent technologies inc,,1.0,,,20130924,nersesian ronald s.,112760213027748,Executive Vice President,male,330791981.0
-54412.1518,100.0,1090872,agilent technologies inc,,1.0,,,20130924,hirsch didier,112760213027743,Sr. VP and CFO,male,330791981.0
-25264.499,0.0,1090872,agilent technologies inc,,1.0,,,20130925,huber marie oh,112760213027787,"Sr VP, General Counsel & Sec.",female,330791981.0
-16804.0,0.0,1090872,agilent technologies inc,,1.0,,,20131001,sene guy,112760213028195,Senior Vice President,male,330791981.0
-402235.539,0.0,1090872,agilent technologies inc,1.0,1.0,,,20131205,sullivan william p,112760213033769,President and CEO,male,331808500.0
-75544.792,0.0,1090872,agilent technologies inc,,1.0,,,20131209,halloran jean,112760213034063,Senior Vice President,male,331808500.0
-6909.387,0.0,1090872,agilent technologies inc,,1.0,,,20131210,glaize solange,112760213034273,"VP, Chief Accounting Officer",female,331808500.0
-33938.0,0.0,1090872,agilent technologies inc,,1.0,,,20131212,sene guy,112760213034504,Senior Vice President,male,331808500.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20131217,strohmeier fred,112760213034811,Senior Vice President,male,331808500.0
-74394.089,0.0,1090872,agilent technologies inc,,1.0,,,20131219,halloran jean,112760213035228,Senior Vice President,male,331808500.0
-59325.4528,100.0,1090872,agilent technologies inc,,1.0,,,20131219,hirsch didier,112760213035230,Sr. VP and CFO,male,331808500.0
-33582.0,0.0,1090872,agilent technologies inc,,1.0,,,20131219,sene guy,112760213035232,Senior Vice President,male,331808500.0
-401295.539,0.0,1090872,agilent technologies inc,1.0,1.0,,,20131219,sullivan william p,112760213035236,President and CEO,male,331808500.0
-25824.7856,0.0,1090872,agilent technologies inc,,1.0,,,20131226,strohmeier fred,112760213035606,Senior Vice President,male,331808500.0
-76213.4389,0.0,1090872,agilent technologies inc,,1.0,,,20140102,mcmullen michael r.,112760214000085,Senior Vice President,male,331808500.0
-76213.4389,0.0,1090872,agilent technologies inc,,1.0,,,20140214,mcmullen michael r.,112760214006374,Senior Vice President,male,605000000.0
-39202.247,2336.0,1090872,agilent technologies inc,1.0,,,,20140221,lawrence david m,112760214007690,,male,605000000.0
-51619.837,0.0,1090872,agilent technologies inc,1.0,,,,20140224,fields heidi,112760214008044,,female,605000000.0
-48296.218,0.0,1090872,agilent technologies inc,1.0,,,,20140226,rand a barry,112760214008621,,male,605000000.0
-401637.914,0.0,1090872,agilent technologies inc,1.0,1.0,,,20140314,sullivan william p,112760214011612,President and CEO,male,605000000.0
-57229.547,0.0,1090872,agilent technologies inc,1.0,,,,20140321,clark paul n,112760214012480,,male,605000000.0
-63019.907,5040.264,1090872,agilent technologies inc,1.0,,,,20140321,cullen james,112760214012483,,male,605000000.0
-54777.837,0.0,1090872,agilent technologies inc,1.0,,,,20140321,fields heidi,112760214012486,,female,605000000.0
-36417.19,0.0,1090872,agilent technologies inc,1.0,,,,20140321,herbold robert j,112760214012488,,male,605000000.0
-49506.006,0.0,1090872,agilent technologies inc,1.0,,,,20140321,koh boon hwee,112760214012496,,male,605000000.0
-53033.442,0.0,1090872,agilent technologies inc,1.0,,,,20140321,rand a barry,112760214012501,,male,605000000.0
-19350.754,0.0,1090872,agilent technologies inc,1.0,,,,20140321,yamada tadataka,112760214012505,,male,605000000.0
-32581.67,0.0,1090872,agilent technologies inc,,1.0,,,20140324,huber marie oh,112760214012621,"Sr VP, General Counsel & Sec.",female,605000000.0
-74961.658,0.0,1090872,agilent technologies inc,,1.0,,,20140618,halloran jean,112760214021295,Senior Vice President,male,333260908.0
-76537.7549,0.0,1090872,agilent technologies inc,,1.0,,,20140624,mcmullen michael r.,112760214021544,Senior Vice President,male,333260908.0
-32713.0,0.0,1090872,agilent technologies inc,,1.0,,,20140625,sene guy,112760214021606,Senior Vice President,male,333260908.0
-20910.573,0.0,1090872,agilent technologies inc,,1.0,,,20140804,grau dominique,112760214024577,Senior Vice President,male,606000000.0
-32713.0,0.0,1090872,agilent technologies inc,,1.0,,,20140904,sene guy,112760214027216,Senior Vice President,male,606000000.0
-41449.19,0.0,1090872,agilent technologies inc,1.0,,,,20140912,herbold robert j,112760214027664,,male,606000000.0
-2353.0,0.0,1090872,agilent technologies inc,1.0,,,,20140918,scangos george a,112760214028135,,male,606000000.0
-60031.9648,100.0,1090872,agilent technologies inc,,1.0,,,20140922,hirsch didier,112760214028272,Sr. VP and CFO,male,606000000.0
-402383.595,0.0,1090872,agilent technologies inc,1.0,1.0,,,20140929,sullivan william p,112760214028499,President and CEO,male,606000000.0
-60031.9648,100.0,1090872,agilent technologies inc,,1.0,,,20140930,hirsch didier,112760214028534,Sr. VP and CFO,male,606000000.0
-54951.601,0.0,1090872,agilent technologies inc,1.0,,,,20141001,fields heidi,112760214028725,,female,606000000.0
-58247.494,0.0,1090872,agilent technologies inc,1.0,,,,20141014,rand a barry,112760214029822,,male,606000000.0
-33839.906,0.0,1090872,agilent technologies inc,,1.0,,,20141119,huber marie oh,112760214032923,"Sr VP, General Counsel & Sec.",female,608000000.0
-80357.1348,100.0,1090872,agilent technologies inc,,1.0,,,20141119,hirsch didier,112760214032925,Sr. VP and CFO,male,608000000.0
-66496.1399,0.0,1090872,agilent technologies inc,,1.0,,,20141119,mcmullen michael r.,112760214032927,President and COO,male,608000000.0
-512564.961,0.0,1090872,agilent technologies inc,1.0,1.0,,,20141121,sullivan william p,112760214033151,President and CEO,male,608000000.0
-74584.1399,0.0,1090872,agilent technologies inc,,1.0,,,20141121,mcmullen michael r.,112760214033147,President and COO,male,608000000.0
-40896.906,0.0,1090872,agilent technologies inc,,1.0,,,20141121,huber marie oh,112760214033145,"Sr VP, General Counsel & Sec.",female,608000000.0
-8300.046,0.0,1090872,agilent technologies inc,,1.0,,,20141121,doak mark,112760214033139,Sr. Vice President,male,608000000.0
-96619.1348,100.0,1090872,agilent technologies inc,,1.0,,,20141121,hirsch didier,112760214033141,Sr. VP and CFO,male,608000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20141121,ancher-jensen henrik,112760214033137,Sr Vice President,male,608000000.0
-3805.296,0.0,1090872,agilent technologies inc,,1.0,,,20141121,glaize solange,112760214033135,"VP, Chief Accounting Officer",female,608000000.0
-27496.0216,0.0,1090872,agilent technologies inc,,1.0,,,20141121,strohmeier fred,112760214033149,Senior Vice President,male,608000000.0
-26537.768,0.0,1090872,agilent technologies inc,,1.0,,,20141121,grau dominique,112760214033107,Senior Vice President,male,608000000.0
-25644.768,0.0,1090872,agilent technologies inc,,1.0,,,20141124,grau dominique,112760214033320,Senior Vice President,male,608000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20141124,thaysen jacob,112760214033329,Sr Vice President,male,608000000.0
-0.0,0.0,1090872,agilent technologies inc,,1.0,,,20141124,kaltenbach patrick,112760214033333,Sr Vice President,male,608000000.0
-458166.961,0.0,1090872,agilent technologies inc,1.0,1.0,,,20141202,sullivan william p,112760214033980,CEO,male,335321802.0
-5352.296,5661.387,1090872,agilent technologies inc,,1.0,,,20141208,glaize solange,112760214034453,"VP, Chief Accounting Officer",female,335321802.0
-8300.046,0.0,1090872,agilent technologies inc,,1.0,,,20141215,doak mark,112760214035118,Sr. Vice President,male,335321802.0
-25015.768,0.0,1090872,agilent technologies inc,,1.0,,,20141215,grau dominique,112760214035122,Senior Vice President,male,335321802.0
-37771.906,0.0,1090872,agilent technologies inc,,1.0,,,20150115,huber marie oh,112760215001857,"Sr VP, General Counsel & Sec.",female,335321802.0
-5370.454,5661.387,1090872,agilent technologies inc,,1.0,,,20150223,glaize solange,112760215007730,"VP, Chief Accounting Officer",female,609000000.0
-3445.0,0.0,1090872,agilent technologies inc,,1.0,,,20150223,kaltenbach patrick,112760215007736,Sr Vice President,male,609000000.0
-96495.1348,100.0,1090872,agilent technologies inc,0.0,1.0,0.0,0.0,20150227,hirsch didier,120677415000665,Sr. VP and CFO,male,609000000.0
-25015.768,0.0,1090872,agilent technologies inc,,1.0,,,20150303,grau dominique,112760215009391,Senior Vice President,male,609000000.0
-3445.0,0.0,1090872,agilent technologies inc,,1.0,,,20150304,kaltenbach patrick,112760215010168,Sr Vice President,male,609000000.0
-44771.906,0.0,1090872,agilent technologies inc,,1.0,,,20150304,huber marie oh,112760215010170,"Sr VP, General Counsel & Sec.",female,609000000.0
-78801.178,0.0,1090872,agilent technologies inc,1.0,,,,20150305,clark paul n,112760215010300,,male,609000000.0
-72841.54,0.0,1090872,agilent technologies inc,1.0,,,,20150311,rand a barry,112760215011081,,male,609000000.0
-73700.1399,0.0,1090872,agilent technologies inc,1.0,1.0,,,20150319,mcmullen michael r.,112760215011934,CEO and President,male,609000000.0
-79308.229,0.0,1090872,agilent technologies inc,1.0,,,,20150320,rand a barry,112760215012174,,male,609000000.0
-30086.935,0.0,1090872,agilent technologies inc,1.0,,,,20150320,yamada tadataka,112760215012181,,male,609000000.0
-6666.023,0.0,1090872,agilent technologies inc,1.0,,,,20150320,scangos george a,112760215012178,,male,609000000.0
-43260.19,2500.0,1090872,agilent technologies inc,1.0,,,,20150320,herbold robert j,112760215012164,,male,609000000.0
-73192.238,0.0,1090872,agilent technologies inc,1.0,,,,20150320,fields heidi,112760215012170,,female,609000000.0
-86932.156,5060.412,1090872,agilent technologies inc,1.0,,,,20150320,cullen james,112760215012168,,male,609000000.0
-55912.588,0.0,1090872,agilent technologies inc,1.0,,,,20150320,koh boon hwee,112760215012172,,male,609000000.0
-85507.388,0.0,1090872,agilent technologies inc,1.0,,,,20150320,clark paul n,112760215012166,,male,609000000.0
-73700.1399,0.0,1090872,agilent technologies inc,1.0,1.0,,,20150415,mcmullen michael r.,112760215014571,CEO and President,male,609000000.0
-43260.19,2500.0,1090872,agilent technologies inc,1.0,,,,20150629,herbold robert j,112760215021511,,male,333191751.0
-8486.329,0.0,1090872,agilent technologies inc,,1.0,,,20150630,doak mark,112760215021608,Sr. Vice President,male,333191751.0
-59811.27,0.0,1090872,agilent technologies inc,1.0,,,,20150630,koh boon hwee,112760215021610,,male,333191751.0
-24830.753,0.0,1090872,agilent technologies inc,,1.0,,,20150720,grau dominique,112760215023151,Senior Vice President,male,333191751.0
-3552.271,0.0,1090872,agilent technologies inc,1.0,,,,20150722,podolsky daniel k,112760215023224,,male,333191751.0
-24374.753,0.0,1090872,agilent technologies inc,,1.0,,,20150803,grau dominique,112760215024006,Senior Vice President,male,611000000.0
-2290.0,0.0,1090872,agilent technologies inc,1.0,,,,20150916,rataj sue h.,112760215027089,,female,331403231.0
+51256.429,,1090872,agilent technologies inc,1.0,,,,20130325,fields heidi,112760213011907,,female,598000000.0
+33260.49,,1090872,agilent technologies inc,1.0,,,,20130325,herbold robert j,112760213011909,,male,598000000.0
+28564.671,,1090872,agilent technologies inc,1.0,,,,20130325,koh boon hwee,112760213011913,,male,598000000.0
+38831.324,2336.0,1090872,agilent technologies inc,1.0,,,,20130325,lawrence david m,112760213011915,,male,598000000.0
+47931.024,,1090872,agilent technologies inc,1.0,,,,20130325,rand a barry,112760213011918,,male,598000000.0
+14550.148,,1090872,agilent technologies inc,1.0,,,,20130325,yamada tadataka,112760213011921,,male,598000000.0
+33851.799,,1090872,agilent technologies inc,,1.0,,,20130327,huber marie oh,112760213012122,"Sr VP, General Counsel & Sec.",female,598000000.0
+44362.671,,1090872,agilent technologies inc,1.0,,,,20130327,koh boon hwee,112760213012124,,male,598000000.0
+81040.7482,,1090872,agilent technologies inc,,1.0,,,20130401,nersesian ronald s.,112760213012497,President and COO,male,598000000.0
+84136.0,,1090872,agilent technologies inc,,1.0,,,20130401,roelofs nicolas h phd,112760213012499,Senior Vice President,male,598000000.0
+90693.3849,,1090872,agilent technologies inc,,1.0,,,20130401,mcmullen michael r.,112760213012493,Senior Vice President,male,598000000.0
+59499.154,5025.933,1090872,agilent technologies inc,1.0,,,,20130520,cullen james,112760213017551,,male,344476029.0
+54303.251,100.0,1090872,agilent technologies inc,,1,,,20130523,hirsch didier,112760213017950,Sr. VP and CFO,male,344476029.0
+33806.499,,1090872,agilent technologies inc,,1,,,20130605,huber marie oh,112760213019535,"Sr VP, General Counsel & Sec.",female,344476029.0
+91101.5339,,1090872,agilent technologies inc,,1,,,20130620,mcmullen michael r.,112760213020952,Senior Vice President,male,344476029.0
+16804.0,,1090872,agilent technologies inc,,1,,,20130625,sene guy,112760213021129,Senior Vice President,male,344476029.0
+32940.499,,1090872,agilent technologies inc,,1,,,20130916,huber marie oh,112760213027229,"Sr VP, General Counsel & Sec.",female,600000000.0
+91101.5339,,1090872,agilent technologies inc,,1,,,20130923,mcmullen michael r.,112760213027654,Senior Vice President,male,600000000.0
+46338.9532,,1090872,agilent technologies inc,,1,,,20130924,nersesian ronald s.,112760213027748,Executive Vice President,male,600000000.0
+54412.1518,100.0,1090872,agilent technologies inc,,1,,,20130924,hirsch didier,112760213027743,Sr. VP and CFO,male,600000000.0
+25264.499,,1090872,agilent technologies inc,,1,,,20130925,huber marie oh,112760213027787,"Sr VP, General Counsel & Sec.",female,600000000.0
+16804.0,,1090872,agilent technologies inc,,1,,,20131001,sene guy,112760213028195,Senior Vice President,male,600000000.0
+402235.539,,1090872,agilent technologies inc,1,1,,,20131205,sullivan william p,112760213033769,President and CEO,male,331808500.0
+75544.792,,1090872,agilent technologies inc,,1,,,20131209,halloran jean,112760213034063,Senior Vice President,male,331808500.0
+6909.387,,1090872,agilent technologies inc,,1,,,20131210,glaize solange,112760213034273,"VP, Chief Accounting Officer",female,331808500.0
+33938.0,,1090872,agilent technologies inc,,1,,,20131212,sene guy,112760213034504,Senior Vice President,male,331808500.0
+,,1090872,agilent technologies inc,,1,,,20131217,strohmeier fred,112760213034811,Senior Vice President,male,331808500.0
+401295.539,,1090872,agilent technologies inc,1,1,,,20131219,sullivan william p,112760213035236,President and CEO,male,331808500.0
+74394.089,,1090872,agilent technologies inc,,1,,,20131219,halloran jean,112760213035228,Senior Vice President,male,331808500.0
+59325.4528,100.0,1090872,agilent technologies inc,,1,,,20131219,hirsch didier,112760213035230,Sr. VP and CFO,male,331808500.0
+33582.0,,1090872,agilent technologies inc,,1,,,20131219,sene guy,112760213035232,Senior Vice President,male,331808500.0
+25824.7856,,1090872,agilent technologies inc,,1,,,20131226,strohmeier fred,112760213035606,Senior Vice President,male,331808500.0
+76213.4389,,1090872,agilent technologies inc,,1,,,20140102,mcmullen michael r.,112760214000085,Senior Vice President,male,331808500.0
+76213.4389,,1090872,agilent technologies inc,,1,,,20140214,mcmullen michael r.,112760214006374,Senior Vice President,male,605000000.0
+39202.247,2336.0,1090872,agilent technologies inc,1,,,,20140221,lawrence david m,112760214007690,,male,605000000.0
+51619.837,,1090872,agilent technologies inc,1,,,,20140224,fields heidi,112760214008044,,female,605000000.0
+48296.218,,1090872,agilent technologies inc,1,,,,20140226,rand a barry,112760214008621,,male,605000000.0
+401637.914,,1090872,agilent technologies inc,1,1,,,20140314,sullivan william p,112760214011612,President and CEO,male,605000000.0
+57229.547,,1090872,agilent technologies inc,1,,,,20140321,clark paul n,112760214012480,,male,605000000.0
+63019.907,5040.264,1090872,agilent technologies inc,1,,,,20140321,cullen james,112760214012483,,male,605000000.0
+54777.837,,1090872,agilent technologies inc,1,,,,20140321,fields heidi,112760214012486,,female,605000000.0
+36417.19,,1090872,agilent technologies inc,1,,,,20140321,herbold robert j,112760214012488,,male,605000000.0
+49506.006,,1090872,agilent technologies inc,1,,,,20140321,koh boon hwee,112760214012496,,male,605000000.0
+53033.442,,1090872,agilent technologies inc,1,,,,20140321,rand a barry,112760214012501,,male,605000000.0
+19350.754,,1090872,agilent technologies inc,1,,,,20140321,yamada tadataka,112760214012505,,male,605000000.0
+32581.67,,1090872,agilent technologies inc,,1,,,20140324,huber marie oh,112760214012621,"Sr VP, General Counsel & Sec.",female,605000000.0
+74961.658,,1090872,agilent technologies inc,,1,,,20140618,halloran jean,112760214021295,Senior Vice President,male,605000000.0
+76537.7549,,1090872,agilent technologies inc,,1,,,20140624,mcmullen michael r.,112760214021544,Senior Vice President,male,605000000.0
+32713.0,,1090872,agilent technologies inc,,1,,,20140625,sene guy,112760214021606,Senior Vice President,male,605000000.0
+20910.573,,1090872,agilent technologies inc,,1,,,20140804,grau dominique,112760214024577,Senior Vice President,male,606000000.0
+32713.0,,1090872,agilent technologies inc,,1,,,20140904,sene guy,112760214027216,Senior Vice President,male,606000000.0
+41449.19,,1090872,agilent technologies inc,1,,,,20140912,herbold robert j,112760214027664,,male,606000000.0
+2353.0,,1090872,agilent technologies inc,1,,,,20140918,scangos george a,112760214028135,,male,606000000.0
+60031.9648,100.0,1090872,agilent technologies inc,,1,,,20140922,hirsch didier,112760214028272,Sr. VP and CFO,male,606000000.0
+402383.595,,1090872,agilent technologies inc,1,1,,,20140929,sullivan william p,112760214028499,President and CEO,male,606000000.0
+60031.9648,100.0,1090872,agilent technologies inc,,1,,,20140930,hirsch didier,112760214028534,Sr. VP and CFO,male,606000000.0
+54951.601,,1090872,agilent technologies inc,1,,,,20141001,fields heidi,112760214028725,,female,606000000.0
+58247.494,,1090872,agilent technologies inc,1,,,,20141014,rand a barry,112760214029822,,male,606000000.0
+80357.1348,100.0,1090872,agilent technologies inc,,1,,,20141119,hirsch didier,112760214032925,Sr. VP and CFO,male,608000000.0
+33839.906,,1090872,agilent technologies inc,,1,,,20141119,huber marie oh,112760214032923,"Sr VP, General Counsel & Sec.",female,608000000.0
+66496.1399,,1090872,agilent technologies inc,,1,,,20141119,mcmullen michael r.,112760214032927,President and COO,male,608000000.0
+3805.296,,1090872,agilent technologies inc,,1,,,20141121,glaize solange,112760214033135,"VP, Chief Accounting Officer",female,608000000.0
+,,1090872,agilent technologies inc,,1,,,20141121,ancher-jensen henrik,112760214033137,Sr Vice President,male,608000000.0
+8300.046,,1090872,agilent technologies inc,,1,,,20141121,doak mark,112760214033139,Sr. Vice President,male,608000000.0
+96619.1348,100.0,1090872,agilent technologies inc,,1,,,20141121,hirsch didier,112760214033141,Sr. VP and CFO,male,608000000.0
+40896.906,,1090872,agilent technologies inc,,1,,,20141121,huber marie oh,112760214033145,"Sr VP, General Counsel & Sec.",female,608000000.0
+74584.1399,,1090872,agilent technologies inc,,1,,,20141121,mcmullen michael r.,112760214033147,President and COO,male,608000000.0
+27496.0216,,1090872,agilent technologies inc,,1,,,20141121,strohmeier fred,112760214033149,Senior Vice President,male,608000000.0
+512564.961,,1090872,agilent technologies inc,1,1,,,20141121,sullivan william p,112760214033151,President and CEO,male,608000000.0
+26537.768,,1090872,agilent technologies inc,,1,,,20141121,grau dominique,112760214033107,Senior Vice President,male,608000000.0
+,,1090872,agilent technologies inc,,1,,,20141124,thaysen jacob,112760214033329,Sr Vice President,male,608000000.0
+,,1090872,agilent technologies inc,,1,,,20141124,kaltenbach patrick,112760214033333,Sr Vice President,male,608000000.0
+25644.768,,1090872,agilent technologies inc,,1,,,20141124,grau dominique,112760214033320,Senior Vice President,male,608000000.0
+458166.961,,1090872,agilent technologies inc,1,1,,,20141202,sullivan william p,112760214033980,CEO,male,335321802.0
+5352.296,5661.387,1090872,agilent technologies inc,,1,,,20141208,glaize solange,112760214034453,"VP, Chief Accounting Officer",female,335321802.0
+8300.046,,1090872,agilent technologies inc,,1,,,20141215,doak mark,112760214035118,Sr. Vice President,male,335321802.0
+25015.768,,1090872,agilent technologies inc,,1,,,20141215,grau dominique,112760214035122,Senior Vice President,male,335321802.0
+37771.906,,1090872,agilent technologies inc,,1,,,20150115,huber marie oh,112760215001857,"Sr VP, General Counsel & Sec.",female,335321802.0
+5370.454,5661.387,1090872,agilent technologies inc,,1,,,20150223,glaize solange,112760215007730,"VP, Chief Accounting Officer",female,609000000.0
+3445.0,,1090872,agilent technologies inc,,1,,,20150223,kaltenbach patrick,112760215007736,Sr Vice President,male,609000000.0
+96495.1348,100.0,1090872,agilent technologies inc,0,1,0,0.0,20150227,hirsch didier,120677415000665,Sr. VP and CFO,male,609000000.0
+25015.768,,1090872,agilent technologies inc,,1,,,20150303,grau dominique,112760215009391,Senior Vice President,male,609000000.0
+3445.0,,1090872,agilent technologies inc,,1,,,20150304,kaltenbach patrick,112760215010168,Sr Vice President,male,609000000.0
+44771.906,,1090872,agilent technologies inc,,1,,,20150304,huber marie oh,112760215010170,"Sr VP, General Counsel & Sec.",female,609000000.0
+78801.178,,1090872,agilent technologies inc,1,,,,20150305,clark paul n,112760215010300,,male,609000000.0
+72841.54,,1090872,agilent technologies inc,1,,,,20150311,rand a barry,112760215011081,,male,609000000.0
+73700.1399,,1090872,agilent technologies inc,1,1,,,20150319,mcmullen michael r.,112760215011934,CEO and President,male,609000000.0
+30086.935,,1090872,agilent technologies inc,1,,,,20150320,yamada tadataka,112760215012181,,male,609000000.0
+6666.023,,1090872,agilent technologies inc,1,,,,20150320,scangos george a,112760215012178,,male,609000000.0
+79308.229,,1090872,agilent technologies inc,1,,,,20150320,rand a barry,112760215012174,,male,609000000.0
+55912.588,,1090872,agilent technologies inc,1,,,,20150320,koh boon hwee,112760215012172,,male,609000000.0
+73192.238,,1090872,agilent technologies inc,1,,,,20150320,fields heidi,112760215012170,,female,609000000.0
+86932.156,5060.412,1090872,agilent technologies inc,1,,,,20150320,cullen james,112760215012168,,male,609000000.0
+85507.388,,1090872,agilent technologies inc,1,,,,20150320,clark paul n,112760215012166,,male,609000000.0
+43260.19,2500.0,1090872,agilent technologies inc,1,,,,20150320,herbold robert j,112760215012164,,male,609000000.0
+73700.1399,,1090872,agilent technologies inc,1,1,,,20150415,mcmullen michael r.,112760215014571,CEO and President,male,609000000.0
+43260.19,2500.0,1090872,agilent technologies inc,1,,,,20150629,herbold robert j,112760215021511,,male,610000000.0
+8486.329,,1090872,agilent technologies inc,,1,,,20150630,doak mark,112760215021608,Sr. Vice President,male,610000000.0
+59811.27,,1090872,agilent technologies inc,1,,,,20150630,koh boon hwee,112760215021610,,male,610000000.0
+24830.753,,1090872,agilent technologies inc,,1,,,20150720,grau dominique,112760215023151,Senior Vice President,male,610000000.0
+3552.271,,1090872,agilent technologies inc,1,,,,20150722,podolsky daniel k,112760215023224,,male,610000000.0
+24374.753,,1090872,agilent technologies inc,,1,,,20150803,grau dominique,112760215024006,Senior Vice President,male,611000000.0
+24374.753,,1090872,agilent technologies inc,,1,,,20150803,grau dominique,112760215024006,Senior Vice President,male,611000000.0
+2290.0,,1090872,agilent technologies inc,1,,,,20150916,rataj sue h.,112760215027089,,female,331403231.0
+2290.0,,1090872,agilent technologies inc,1,,,,20150916,rataj sue h.,112760215027089,,female,331403231.0
+96145.398,5070.38,1090872,agilent technologies inc,1,,,,20151008,cullen james,112760215028849,,male,331403231.0
+82450.446,,1090872,agilent technologies inc,1,,,,20151105,fields heidi,112760215030470,,female,611000000.0
+7027.0,,1090872,agilent technologies inc,,1,,,20151120,ancher-jensen henrik,112760215032080,Sr Vice President,male,611000000.0
+26848.302,,1090872,agilent technologies inc,,1,,,20151120,doak mark,112760215032085,Sr. Vice President,male,611000000.0
+10749.4358,,1090872,agilent technologies inc,,1,,,20151120,gonsalves rodney,112760215032088,"V.P., Corporate Controller",male,611000000.0
+9370.0,,1090872,agilent technologies inc,,1,,,20151120,thaysen jacob,112760215032099,Sr Vice President,male,611000000.0
+144588.2789,,1090872,agilent technologies inc,1,1,,,20151120,mcmullen michael r.,112760215032097,CEO and President,male,611000000.0
+20463.048,,1090872,agilent technologies inc,,1,,,20151120,kaltenbach patrick,112760215032095,Sr Vice President,male,611000000.0
+36534.931,,1090872,agilent technologies inc,,1,,,20151120,grau dominique,112760215032090,Senior Vice President,male,611000000.0
+128645.3218,100.0,1090872,agilent technologies inc,,1,,,20151120,hirsch didier,112760215032092,Sr. VP and CFO,male,611000000.0
+35945.931,,1090872,agilent technologies inc,,1,,,20151123,grau dominique,112760215032286,Senior Vice President,male,611000000.0
+17324.275,,1090872,agilent technologies inc,,1,,,20160120,tang michael,112760216037403,"SVP, General Counsel, and Sec.",male,332170890.0
+37326.379,,1090872,agilent technologies inc,1,,,,20160318,yamada tadataka,112760216046969,,male,612000000.0
+63205.702,,1090872,agilent technologies inc,1,,,,20160318,koh boon hwee,112760216046967,,male,612000000.0
+87311.782,,1090872,agilent technologies inc,1,,,,20160318,fields heidi,112760216046965,,female,612000000.0
+101264.367,5082.49,1090872,agilent technologies inc,1,,,,20160318,cullen james,112760216046963,,male,612000000.0
+91101.705,,1090872,agilent technologies inc,1,,,,20160318,clark paul n,112760216046961,,male,612000000.0
+9583.808,,1090872,agilent technologies inc,1,,,,20160318,podolsky daniel k,112760216046975,,male,612000000.0
+11378.428,,1090872,agilent technologies inc,1,,,,20160318,scangos george a,112760216046971,,male,612000000.0
+6994.0,,1090872,agilent technologies inc,1,,,,20160318,rataj sue h.,112760216046973,,female,612000000.0
+47964.19,2500.0,1090872,agilent technologies inc,1,,,,20160321,herbold robert j,112760216047012,,male,612000000.0
+57311.782,,1090872,agilent technologies inc,1,,,,20160404,fields heidi,112760216048262,,female,612000000.0
+35945.931,,1090872,agilent technologies inc,,1,,,20160404,grau dominique,112760216048265,Senior Vice President,male,612000000.0
+35945.931,,1090872,agilent technologies inc,,1,,,20160415,grau dominique,112760216049236,Senior Vice President,male,612000000.0
+35945.931,,1090872,agilent technologies inc,,1,,,20160512,grau dominique,112760216052012,Senior Vice President,male,325521700.0
+11180.718,,1090872,agilent technologies inc,,1,,,20160519,gonsalves rodney,112760216052800,"V.P., Corporate Controller",male,325521700.0
+26857.593,,1090872,agilent technologies inc,,1,,,20160520,doak mark,112760216052894,Sr. Vice President,male,325521700.0
+144588.279,,1090872,agilent technologies inc,1,1,,,20160520,mcmullen michael r.,112760216052900,CEO and President,male,325521700.0
+20463.048,,1090872,agilent technologies inc,,1,,,20160520,kaltenbach patrick,112760216052896,Sr Vice President,male,325521700.0
+84541.314,5088.227,1090872,agilent technologies inc,1,,,,20160524,cullen james,112760216053283,,male,325521700.0
+84541.314,5088.227,1090872,agilent technologies inc,1,,,,20160531,cullen james,112760216053901,,male,325521700.0
+35356.931,,1090872,agilent technologies inc,,1,,,20160718,grau dominique,112760216058142,Senior Vice President,male,325521700.0
+34900.931,,1090872,agilent technologies inc,,1,,,20160802,grau dominique,112760216059208,Senior Vice President,male,613000000.0
+16854.275,,1090872,agilent technologies inc,,1,,,20160819,tang michael,112760216060740,"SVP, General Counsel, and Sec.",male,613000000.0
+72042.371,4318.32,1090872,agilent technologies inc,1,,,,20160824,cullen james,112760216061104,,male,613000000.0
+66044.55,,1090872,agilent technologies inc,1,,,,20160826,koh boon hwee,112760216061262,,male,613000000.0
+11180.7178,,1090872,agilent technologies inc,,1,,,20160830,gonsalves rodney,112760216061485,"V.P., Corporate Controller",male,613000000.0
+20463.048,,1090872,agilent technologies inc,,1,,,20160901,kaltenbach patrick,112760216061652,Sr Vice President,male,324384755.0
+5746.0,,1090872,agilent technologies inc,1,,,,20160907,fields heidi,112760216062085,,female,324384755.0
+20463.048,,1090872,agilent technologies inc,,1,,,20161003,kaltenbach patrick,112760216063704,Sr Vice President,male,324384755.0
+51408.758,,1090872,agilent technologies inc,,1,,,20161118,doak mark,112760216067768,Sr. Vice President,male,614000000.0
+21797.0,,1090872,agilent technologies inc,,1,,,20161118,ancher-jensen henrik,112760216067766,Sr Vice President,male,614000000.0
+25731.275,,1090872,agilent technologies inc,,1,,,20161118,tang michael,112760216067791,"SVP, General Counsel, and Sec.",male,614000000.0
+18118.0738,,1090872,agilent technologies inc,,1,,,20161118,gonsalves rodney,112760216067770,"V.P., Corporate Controller",male,614000000.0
+48569.542,,1090872,agilent technologies inc,,1,,,20161118,grau dominique,112760216067775,Senior Vice President,male,614000000.0
+168912.4738,100.0,1090872,agilent technologies inc,,1,,,20161118,hirsch didier,112760216067777,Sr. VP and CFO,male,614000000.0
+40126.048,,1090872,agilent technologies inc,,1,,,20161118,kaltenbach patrick,112760216067781,Sr Vice President,male,614000000.0
+230709.6549,,1090872,agilent technologies inc,1,1,,,20161118,mcmullen michael r.,112760216067788,CEO and President,male,614000000.0
+25436.0,,1090872,agilent technologies inc,,1,,,20161118,thaysen jacob,112760216067793,Sr Vice President,male,614000000.0
+87074.133,,1090872,agilent technologies inc,1,,,,20161118,clark paul n,112760216067798,,male,614000000.0
+47736.542,,1090872,agilent technologies inc,,1,,,20161123,grau dominique,112760216068271,Senior Vice President,male,614000000.0
+25633.275,,1090872,agilent technologies inc,,1,,,20161130,tang michael,112760216068716,"SVP, General Counsel, and Sec.",male,614000000.0
+50656.758,,1090872,agilent technologies inc,,1,,,20161209,doak mark,112760216069576,Sr. Vice President,male,321747881.0
+227834.6549,,1090872,agilent technologies inc,1,1,,,20161209,mcmullen michael r.,112760216069582,CEO and President,male,321747881.0
+47260.542,,1090872,agilent technologies inc,,1,,,20161209,grau dominique,112760216069571,Senior Vice President,male,321747881.0
+167767.4738,100.0,1090872,agilent technologies inc,,1,,,20161209,hirsch didier,112760216069574,Sr. VP and CFO,male,321747881.0
+50656.758,,1090872,agilent technologies inc,,1,,,20161212,doak mark,112760216069654,Sr. Vice President,male,321747881.0
+167767.4738,100.0,1090872,agilent technologies inc,,1,,,20170110,hirsch didier,112760217001424,Sr. VP and CFO,male,321747881.0
+25539.275,,1090872,agilent technologies inc,,1,,,20170120,tang michael,112760217002170,"SVP, General Counsel, and Sec.",male,321747881.0
+168027.0178,100.0,1090872,agilent technologies inc,,1,,,20170202,hirsch didier,112760217003507,Sr. VP and CFO,male,322000000.0
+168027.0178,100.0,1090872,agilent technologies inc,,1,,,20170210,hirsch didier,112760217005052,Sr. VP and CFO,male,322000000.0
+168027.0178,100.0,1090872,agilent technologies inc,,1,,,20170216,hirsch didier,112760217006604,Sr. VP and CFO,male,322000000.0
+40132.494,,1090872,agilent technologies inc,,1,,,20170221,kaltenbach patrick,112760217007249,Sr Vice President,male,322000000.0
+18124.7878,,1090872,agilent technologies inc,,1,,,20170313,gonsalves rodney,112760217011449,"V.P., Corporate Controller",male,322300905.0
+14615.457,,1090872,agilent technologies inc,1,,,,20170317,podolsky daniel k,112760217012248,,male,322300905.0
+43777.608,,1090872,agilent technologies inc,1,,,,20170317,yamada tadataka,112760217012254,,male,322300905.0
+9612.0,,1090872,agilent technologies inc,1,,,,20170317,fields heidi,112760217012245,,female,322300905.0
+91178.635,,1090872,agilent technologies inc,1,,,,20170317,clark paul n,112760217012239,,male,322300905.0
+76299.077,4341.239,1090872,agilent technologies inc,1,,,,20170317,cullen james,112760217012236,,male,322300905.0
+68818.114,,1090872,agilent technologies inc,1,,,,20170317,koh boon hwee,112760217012243,,male,322300905.0
+51830.19,2500.0,1090872,agilent technologies inc,1,,,,20170317,herbold robert j,112760217012241,,male,322300905.0
+10860.0,,1090872,agilent technologies inc,1,,,,20170317,rataj sue h.,112760217012250,,female,322300905.0
+15252.916,,1090872,agilent technologies inc,1,,,,20170317,scangos george a,112760217012252,,male,322300905.0
+47059.848,,1090872,agilent technologies inc,,1,,,20170328,doak mark,112760217013009,Sr. Vice President,male,322300905.0
+40132.494,,1090872,agilent technologies inc,,1,,,20170411,kaltenbach patrick,112760217014635,Sr Vice President,male,322300905.0
+40132.494,,1090872,agilent technologies inc,,1,,,20170425,kaltenbach patrick,112760217015421,Sr Vice President,male,322300905.0
+227834.6549,,1090872,agilent technologies inc,1,1,,,20170502,mcmullen michael r.,112760217016400,CEO and President,male,321000000.0
+40138.098,,1090872,agilent technologies inc,,1,,,20170508,kaltenbach patrick,112760217017247,Sr Vice President,male,321000000.0
+60455.19,2500.0,1090872,agilent technologies inc,1,,,,20170516,herbold robert j,112760217018349,,male,321000000.0
+228363.5802,,1090872,agilent technologies inc,1,1,,,20170524,mcmullen michael r.,112760217019304,CEO and President,male,321000000.0
+76472.555,4352.025,1090872,agilent technologies inc,1,,,,20170525,cullen james,112760217019364,,male,321000000.0
+87519.92,,1090872,agilent technologies inc,1,,,,20170530,clark paul n,112760217019606,,male,321000000.0
+47546.9096,,1090872,agilent technologies inc,,1,,,20170531,grau dominique,112760217019828,Senior Vice President,male,321337443.0
+47068.62,,1090872,agilent technologies inc,,1,,,20170531,doak mark,112760217019826,Sr. Vice President,male,321337443.0
+40138.098,,1090872,agilent technologies inc,,1,,,20170601,kaltenbach patrick,112760217019976,Sr Vice President,male,321337443.0
+162795.0854,100.0,1090872,agilent technologies inc,,1,,,20170602,hirsch didier,112760217020332,Sr. VP and CFO,male,321337443.0
+52241.542,9612.0,1090872,agilent technologies inc,1,,,,20170620,fields heidi,112760217021892,,female,321337443.0
+40138.098,,1090872,agilent technologies inc,,1,,,20170714,kaltenbach patrick,112760217023594,Sr Vice President,male,321337443.0
+2199.0,,1090872,agilent technologies inc,1,,,,20170718,bishop hans edgar,112760217023806,,male,321337443.0
+47090.9096,,1090872,agilent technologies inc,,1,,,20170803,grau dominique,112760217024844,Senior Vice President,male,322000000.0
+47090.9096,,1090872,agilent technologies inc,,1,,,20170817,grau dominique,112760217025893,Senior Vice President,male,322000000.0
+47076.658,,1090872,agilent technologies inc,,1,,,20170821,doak mark,112760217026088,Sr. Vice President,male,322000000.0
+25069.275,,1090872,agilent technologies inc,,1,,,20170822,tang michael,112760217026223,"SVP, General Counsel, and Sec.",male,322000000.0
+163001.8614,100.0,1090872,agilent technologies inc,,1,,,20170822,hirsch didier,112760217026225,Sr. VP and CFO,male,322000000.0
+40143.234,,1090872,agilent technologies inc,,1,,,20170824,kaltenbach patrick,112760217026397,Sr Vice President,male,322000000.0
+17793.536,,1090872,agilent technologies inc,,1,,,20170829,gonsalves rodney,112760217026643,"V.P., Corporate Controller",male,322000000.0
+73000.609,,1090872,agilent technologies inc,1,,,,20170831,koh boon hwee,112760217026758,,male,321828003.0
+163001.8614,100.0,1090872,agilent technologies inc,,1,,,20170901,hirsch didier,112760217026817,Sr. VP and CFO,male,321828003.0
+40143.234,,1090872,agilent technologies inc,,1,,,20170911,kaltenbach patrick,112760217027245,Sr Vice President,male,321828003.0
+163001.8614,100.0,1090872,agilent technologies inc,,1,,,20170914,hirsch didier,112760217027424,Sr. VP and CFO,male,321828003.0
+211871.5802,,1090872,agilent technologies inc,1,1,,,20170915,mcmullen michael r.,112760217027518,CEO and President,male,321828003.0
+163001.8614,100.0,1090872,agilent technologies inc,,1,,,20170918,hirsch didier,112760217027631,Sr. VP and CFO,male,321828003.0
+39686.4811,,1090872,agilent technologies inc,,1,,,20171116,ancher-jensen henrik,112760217032465,Sr Vice President,male,322000000.0
+74520.757,,1090872,agilent technologies inc,,1,,,20171116,doak mark,112760217032471,Sr. Vice President,male,322000000.0
+72745.769,,1090872,agilent technologies inc,,1,,,20171116,kaltenbach patrick,112760217032485,Sr Vice President,male,322000000.0
+25798.1551,,1090872,agilent technologies inc,,1,,,20171116,gonsalves rodney,112760217032474,"V.P., Corporate Controller",male,322000000.0
+63183.3686,,1090872,agilent technologies inc,,1,,,20171116,grau dominique,112760217032477,Senior Vice President,male,322000000.0
+34624.275,,1090872,agilent technologies inc,,1,,,20171116,tang michael,112760217032490,"SVP, General Counsel, and Sec.",male,322000000.0
+314155.9036,,1090872,agilent technologies inc,1,1,,,20171116,mcmullen michael r.,112760217032488,CEO and President,male,322000000.0
+201608.5233,100.0,1090872,agilent technologies inc,,1,,,20171116,hirsch didier,112760217032480,Sr. VP and CFO,male,322000000.0
+41481.0,,1090872,agilent technologies inc,,1,,,20171116,thaysen jacob,112760217032493,Sr Vice President,male,322000000.0
+40459.0,,1090872,agilent technologies inc,,1,,,20171120,thaysen jacob,112760217032927,Sr Vice President,male,322000000.0
+34037.275,,1090872,agilent technologies inc,,1,,,20171120,tang michael,112760217032925,"SVP, General Counsel, and Sec.",male,322000000.0
+305400.9036,,1090872,agilent technologies inc,1,1,,,20171120,mcmullen michael r.,112760217032923,CEO and President,male,322000000.0
+70503.769,,1090872,agilent technologies inc,,1,,,20171120,kaltenbach patrick,112760217032921,Sr Vice President,male,322000000.0
+197814.5233,100.0,1090872,agilent technologies inc,,1,,,20171120,hirsch didier,112760217032919,Sr. VP and CFO,male,322000000.0
+61723.3686,,1090872,agilent technologies inc,,1,,,20171120,grau dominique,112760217032917,Senior Vice President,male,322000000.0
+25360.1551,,1090872,agilent technologies inc,,1,,,20171120,gonsalves rodney,112760217032915,"V.P., Corporate Controller",male,322000000.0
+72423.757,,1090872,agilent technologies inc,,1,,,20171120,doak mark,112760217032911,Sr. Vice President,male,322000000.0
+39023.4811,,1090872,agilent technologies inc,,1,,,20171120,ancher-jensen henrik,112760217032907,Sr Vice President,male,322000000.0
+305400.9036,,1090872,agilent technologies inc,1,1,,,20171121,mcmullen michael r.,112760217033065,CEO and President,male,322000000.0
+60890.3686,,1090872,agilent technologies inc,,1,,,20171122,grau dominique,112760217033163,Senior Vice President,male,322000000.0
+70503.769,,1090872,agilent technologies inc,,1,,,20171127,kaltenbach patrick,112760217033284,Sr Vice President,male,322000000.0
+184850.5233,100.0,1090872,agilent technologies inc,,1,,,20171127,hirsch didier,112760217033282,Sr. VP and CFO,male,322000000.0
+184850.5233,100.0,1090872,agilent technologies inc,,1,,,20171128,hirsch didier,112760217033359,Sr. VP and CFO,male,322000000.0
+40459.0,,1090872,agilent technologies inc,,1,,,20171129,thaysen jacob,112760217033473,Sr Vice President,male,322000000.0
+70503.769,,1090872,agilent technologies inc,,1,,,20171129,kaltenbach patrick,112760217033471,Sr Vice President,male,322000000.0
+184850.5233,100.0,1090872,agilent technologies inc,,1,,,20171129,hirsch didier,112760217033469,Sr. VP and CFO,male,322000000.0
+68269.757,,1090872,agilent technologies inc,,1,,,20171206,doak mark,112760217034078,Sr. Vice President,male,323018027.0
+304138.9036,,1090872,agilent technologies inc,1,1,,,20171208,mcmullen michael r.,112760217034192,CEO and President,male,323018027.0
+60699.3686,,1090872,agilent technologies inc,,1,,,20171208,grau dominique,112760217034187,Senior Vice President,male,323018027.0
+184431.5233,100.0,1090872,agilent technologies inc,,1,,,20171208,hirsch didier,112760217034189,Sr. VP and CFO,male,323018027.0
+67957.757,,1090872,agilent technologies inc,,1,,,20171208,doak mark,112760217034185,Sr. Vice President,male,323018027.0
+67957.757,,1090872,agilent technologies inc,,1,,,20171219,doak mark,112760217035082,Sr. Vice President,male,323018027.0
+302836.9846,,1090872,agilent technologies inc,1,1,,,20180108,mcmullen michael r.,112760218001349,CEO and President,male,323018027.0
+302836.9846,,1090872,agilent technologies inc,1,1,,,20180119,mcmullen michael r.,112760218002166,CEO and President,male,323018027.0
+33539.275,,1090872,agilent technologies inc,,1,,,20180123,tang michael,112760218002246,"SVP, General Counsel, and Sec.",male,323018027.0
+302836.9846,,1090872,agilent technologies inc,1,1,,,20180130,mcmullen michael r.,112760218002956,CEO and President,male,323018027.0
+75937.19,2500.002,1090872,agilent technologies inc,1,,,,20180206,herbold robert j,112760218004323,,male,323000000.0
+65533.212,,1090872,agilent technologies inc,,1,,,20180314,doak mark,112760218011565,Sr. Vice President,male,322476579.0
+68547.467,,1090872,agilent technologies inc,,1,,,20180314,kaltenbach patrick,112760218011497,Sr Vice President,male,322476579.0
+24424.8411,,1090872,agilent technologies inc,,1,,,20180314,gonsalves rodney,112760218011569,"V.P., Corporate Controller",male,322476579.0
+6521.748,,1090872,agilent technologies inc,1,,,,20180323,bishop hans edgar,112760218012670,,male,322476579.0
+18407.479,,1090872,agilent technologies inc,1,,,,20180323,podolsky daniel k,112760218012668,,male,322476579.0
+13736.0,,1090872,agilent technologies inc,1,,,,20180323,rataj sue h.,112760218012674,,female,322476579.0
+48647.084,,1090872,agilent technologies inc,1,,,,20180323,yamada tadataka,112760218012676,,male,322476579.0
+12488.0,,1090872,agilent technologies inc,1,,,,20180323,fields heidi,112760218012678,,female,322476579.0
+19573.856,,1090872,agilent technologies inc,1,,,,20180323,scangos george a,112760218012680,,male,322476579.0
+2876.0,,1090872,agilent technologies inc,1,,,,20180323,wilson dow r,112760218012681,,male,322476579.0
+75063.316,,1090872,agilent technologies inc,1,,,,20180323,koh boon hwee,112760218012683,,male,322476579.0
+90929.337,,1090872,agilent technologies inc,1,,,,20180323,clark paul n,112760218012672,,male,322476579.0
+52562.752,12488.0,1090872,agilent technologies inc,1,,,,20180328,fields heidi,112760218012907,,female,322476579.0
+68547.467,,1090872,agilent technologies inc,,1,,,20180329,kaltenbach patrick,112760218013048,Sr Vice President,male,322476579.0
+15445.729,,1090872,agilent technologies inc,,1,,,20180523,raha samraat s.,112760218018595,Sr. Vice President,male,322000000.0
+42575.0,,1090872,agilent technologies inc,,1,,,20180523,thaysen jacob,112760218018598,Sr Vice President,male,322000000.0
+83643.085,,1090872,agilent technologies inc,1,,,,20180613,koh boon hwee,112760218020814,,male,319952126.0
+52682.453,12488.0,1090872,agilent technologies inc,1,,,,20180613,fields heidi,112760218020818,,female,319952126.0
+60496.2302,,1090872,agilent technologies inc,,1,,,20180802,grau dominique,112760218024502,Senior Vice President,male,319000000.0
+33116.316,,1090872,agilent technologies inc,,1,,,20180820,tang michael,112760218025834,"SVP, General Counsel, and Sec.",male,319000000.0
+52802.494,12488.0,1090872,agilent technologies inc,1,,,,20180913,fields heidi,112760218027493,,female,318769547.0
+88451.469,,1090872,agilent technologies inc,1,,,,20180914,clark paul n,112760218027613,,male,318769547.0
+23694.1176,,1090872,agilent technologies inc,,1,,,20180924,gonsalves rodney,112760218028243,"V.P., Corporate Controller",male,318769547.0
+96306.5632,,1090872,agilent technologies inc,,1,,,20181115,grau dominique,112760218033238,Senior Vice President,male,318000000.0
+76004.0,,1090872,agilent technologies inc,,1,,,20181115,thaysen jacob,112760218033240,Sr Vice President,male,318000000.0
+58662.907,,1090872,agilent technologies inc,,1,,,20181115,tang michael,112760218033242,"SVP, General Counsel, and Sec.",male,318000000.0
+41709.0,,1090872,agilent technologies inc,,1,,,20181115,mcmahon robert w.,112760218033245,Sr. VP and CFO,male,318000000.0
+24343.1445,,1090872,agilent technologies inc,,1,,,20181115,raha samraat s.,112760218033248,Sr. Vice President,male,318000000.0
+37082.9257,,1090872,agilent technologies inc,,1,,,20181115,gonsalves rodney,112760218033251,"V.P., Corporate Controller",male,318000000.0
+121890.712,,1090872,agilent technologies inc,,1,,,20181115,doak mark,112760218033255,Sr. Vice President,male,318000000.0
+524597.337,,1090872,agilent technologies inc,1,1,,,20181115,mcmullen michael r.,112760218033257,CEO and President,male,318000000.0
+64426.8028,,1090872,agilent technologies inc,,1,,,20181115,ancher-jensen henrik,112760218033236,Sr Vice President,male,318000000.0
+119341.712,,1090872,agilent technologies inc,,1,,,20181120,doak mark,112760218033871,Sr. Vice President,male,318000000.0
+36352.9257,,1090872,agilent technologies inc,,1,,,20181120,gonsalves rodney,112760218033873,"V.P., Corporate Controller",male,318000000.0
+74117.0,,1090872,agilent technologies inc,,1,,,20181120,thaysen jacob,112760218033875,Sr Vice President,male,318000000.0
+63252.8028,,1090872,agilent technologies inc,,1,,,20181120,ancher-jensen henrik,112760218033878,Sr Vice President,male,318000000.0
+57490.907,,1090872,agilent technologies inc,,1,,,20181120,tang michael,112760218033880,"SVP, General Counsel, and Sec.",male,318000000.0
+94484.5632,,1090872,agilent technologies inc,,1,,,20181120,grau dominique,112760218033883,Senior Vice President,male,318000000.0
+508469.337,,1090872,agilent technologies inc,1,1,,,20181120,mcmullen michael r.,112760218033869,CEO and President,male,318000000.0
+34362.9257,,1090872,agilent technologies inc,,1,,,20181129,gonsalves rodney,112760218034685,"V.P., Corporate Controller",male,318000000.0
+492546.337,,1090872,agilent technologies inc,1,1,,,20181204,mcmullen michael r.,112760218035231,CEO and President,male,318000000.0
+94484.5632,,1090872,agilent technologies inc,,1,,,20181204,grau dominique,112760218035233,Senior Vice President,male,318000000.0
+474597.337,,1090872,agilent technologies inc,1,1,,,20181207,mcmullen michael r.,112760218035554,CEO and President,male,318000000.0
+473921.337,,1090872,agilent technologies inc,1,1,,,20181217,mcmullen michael r.,112760218036477,CEO and President,male,318533054.0
+57061.907,,1090872,agilent technologies inc,,1,,,20190122,tang michael,112760219002495,"SVP, General Counsel, and Sec.",male,318533054.0
+456430.337,,1090872,agilent technologies inc,1,1,,,20190131,mcmullen michael r.,112760219003154,CEO and President,male,318000000.0
+94484.5632,,1090872,agilent technologies inc,,1,,,20190214,grau dominique,112760219005809,Senior Vice President,male,318000000.0
+447684.337,,1090872,agilent technologies inc,1,1,,,20190219,mcmullen michael r.,112760219006737,CEO and President,male,318000000.0
+115360.371,,1090872,agilent technologies inc,,1,,,20190225,doak mark,112760219008036,Sr. Vice President,male,318000000.0
+94484.5632,,1090872,agilent technologies inc,,1,,,20190305,grau dominique,112760219009876,Senior Vice President,male,317515869.0
+438939.337,,1090872,agilent technologies inc,1,1,,,20190305,mcmullen michael r.,112760219009880,CEO and President,male,317515869.0
+32724.577,,1090872,agilent technologies inc,,1,,,20190307,gonsalves rodney,112760219010464,"V.P., Corporate Controller",male,317515869.0
+53308.759,,1090872,agilent technologies inc,1,,,,20190322,yamada tadataka,112760219012835,,male,317515869.0
+10032.21,,1090872,agilent technologies inc,1,,,,20190322,bishop hans edgar,112760219012816,,male,317515869.0
+91679.758,,1090872,agilent technologies inc,1,,,,20190322,clark paul n,112760219012818,,male,317515869.0
+85706.592,,1090872,agilent technologies inc,1,,,,20190322,koh boon hwee,112760219012821,,male,317515869.0
+15311.0,,1090872,agilent technologies inc,1,,,,20190322,fields heidi,112760219012823,,female,317515869.0
+22090.083,,1090872,agilent technologies inc,1,,,,20190322,podolsky daniel k,112760219012825,,male,317515869.0
+16559.0,,1090872,agilent technologies inc,1,,,,20190322,rataj sue h.,112760219012827,,female,317515869.0
+23698.887,,1090872,agilent technologies inc,1,,,,20190322,scangos george a,112760219012831,,male,317515869.0
+5725.471,,1090872,agilent technologies inc,1,,,,20190322,wilson dow r,112760219012833,,male,317515869.0
+2676.0,,1090872,agilent technologies inc,1,,,,20190322,anand mala,112760219012814,,female,317515869.0
+88856.758,,1090872,agilent technologies inc,1,,,,20190327,clark paul n,112760219013351,,male,317515869.0
+57065.39,,1090872,agilent technologies inc,,1,,,20190328,tang michael,112760219013477,"SVP, General Counsel, and Sec.",male,317515869.0
+24439.3621,,1090872,agilent technologies inc,,1,,,20190516,raha samraat s.,112760219018874,Sr. Vice President,male,317000000.0
+73970.0,,1090872,agilent technologies inc,,1,,,20190516,thaysen jacob,112760219018870,Sr Vice President,male,317000000.0
+23397.3621,,1090872,agilent technologies inc,,1,,,20190520,raha samraat s.,112760219019230,Sr. Vice President,male,317000000.0
+39406.0,,1090872,agilent technologies inc,,1,,,20190805,mcmahon robert w.,112760219026103,Sr. VP and CFO,male,310000000.0
+56639.391,,1090872,agilent technologies inc,,1,,,20190819,tang michael,112760219026953,"SVP, General Counsel, and Sec.",male,310000000.0
+11311.0,,1090872,agilent technologies inc,1,,,,20190904,fields heidi,112760219027928,,female,309467678.0
+439314.0092,,1090872,agilent technologies inc,1,1,,,20190916,mcmullen michael r.,112760219028485,CEO and President,male,309467678.0
+7311.0,,1090872,"agilent technologies, inc.",1,,,,20190924,fields heidi,112760219029024,,female,309467678.0
+99840.748,,1090872,"agilent technologies, inc.",,1,,,20191115,doak mark,112760219032920,Sr. Vice President,male,309000000.0
+62874.3215,,1090872,"agilent technologies, inc.",,1,,,20191115,ancher-jensen henrik,112760219032918,Sr Vice President,male,309000000.0
+72687.0,,1090872,"agilent technologies, inc.",,1,,,20191115,thaysen jacob,112760219032927,Sr. Vice President,male,309000000.0
+53171.742,,1090872,"agilent technologies, inc.",,1,,,20191115,tang michael,112760219032926,"SVP, General Counsel, and Sec.",male,309000000.0
+22711.8011,,1090872,"agilent technologies, inc.",,1,,,20191115,raha samraat s.,112760219032925,Sr. Vice President,male,309000000.0
+354441.0092,,1090872,"agilent technologies, inc.",1,1,,,20191115,mcmullen michael r.,112760219032924,CEO and President,male,309000000.0
+32746.5938,,1090872,"agilent technologies, inc.",,1,,,20191115,gonsalves rodney,112760219032921,"V.P., Corporate Controller",male,309000000.0
+37537.0,,1090872,"agilent technologies, inc.",,1,,,20191115,mcmahon robert w.,112760219032923,Sr. VP and CFO,male,309000000.0
+81580.1214,,1090872,"agilent technologies, inc.",,1,,,20191115,grau dominique,112760219032922,Senior Vice President,male,309000000.0
+71848.0,,1090872,"agilent technologies, inc.",,1,,,20191118,thaysen jacob,112760219033102,Sr. Vice President,male,309000000.0
+348250.0092,,1090872,"agilent technologies, inc.",1,1,,,20191118,mcmullen michael r.,112760219033098,CEO and President,male,309000000.0
+80419.1214,,1090872,"agilent technologies, inc.",,1,,,20191118,grau dominique,112760219033095,Senior Vice President,male,309000000.0
+32494.5938,,1090872,"agilent technologies, inc.",,1,,,20191118,gonsalves rodney,112760219033092,"V.P., Corporate Controller",male,309000000.0
+51945.742,,1090872,"agilent technologies, inc.",,1,,,20191118,tang michael,112760219033100,"SVP, General Counsel, and Sec.",male,309000000.0
+97858.748,,1090872,"agilent technologies, inc.",,1,,,20191118,doak mark,112760219033090,Sr. Vice President,male,309000000.0
+62331.3215,,1090872,"agilent technologies, inc.",,1,,,20191118,ancher-jensen henrik,112760219033088,Sr Vice President,male,309000000.0
+79100.1214,,1090872,"agilent technologies, inc.",,1,,,20191119,grau dominique,112760219033307,Senior Vice President,male,309000000.0
+70699.0,,1090872,"agilent technologies, inc.",,1,,,20191119,thaysen jacob,112760219033310,Sr. Vice President,male,309000000.0
+50957.742,,1090872,"agilent technologies, inc.",,1,,,20191119,tang michael,112760219033309,"SVP, General Counsel, and Sec.",male,309000000.0
+340225.0092,,1090872,"agilent technologies, inc.",1,1,,,20191119,mcmullen michael r.,112760219033308,CEO and President,male,309000000.0
+61666.3215,,1090872,"agilent technologies, inc.",,1,,,20191119,ancher-jensen henrik,112760219033304,Sr Vice President,male,309000000.0
+95911.748,,1090872,"agilent technologies, inc.",,1,,,20191119,doak mark,112760219033305,Sr. Vice President,male,309000000.0
+32110.5938,,1090872,"agilent technologies, inc.",,1,,,20191119,gonsalves rodney,112760219033306,"V.P., Corporate Controller",male,309000000.0
+151965.748,,1090872,"agilent technologies, inc.",,1,,,20191121,doak mark,112760219033493,Sr. Vice President,male,309000000.0
+113849.1214,,1090872,"agilent technologies, inc.",,1,,,20191121,grau dominique,112760219033498,Senior Vice President,male,309000000.0
+51659.0,,1090872,"agilent technologies, inc.",,1,,,20191121,mcmahon robert w.,112760219033501,Sr. VP and CFO,male,309000000.0
+559767.0092,,1090872,"agilent technologies, inc.",1,1,,,20191121,mcmullen michael r.,112760219033503,CEO and President,male,309000000.0
+60828.8011,,1090872,"agilent technologies, inc.",,1,,,20191121,raha samraat s.,112760219033506,Sr. Vice President,male,309000000.0
+77610.742,,1090872,"agilent technologies, inc.",,1,,,20191121,tang michael,112760219033508,"SVP, General Counsel, and Sec.",male,309000000.0
+111684.0,,1090872,"agilent technologies, inc.",,1,,,20191121,thaysen jacob,112760219033510,Sr. Vice President,male,309000000.0
+88319.3215,,1090872,"agilent technologies, inc.",,1,,,20191121,ancher-jensen henrik,112760219033491,Sr Vice President,male,309000000.0
+44732.5938,,1090872,"agilent technologies, inc.",,1,,,20191121,gonsalves rodney,112760219033496,"V.P., Corporate Controller",male,309000000.0
+93978.748,,1090872,"agilent technologies, inc.",,1,,,20191212,doak mark,112760219034909,Sr. Vice President,male,310183415.0
+77167.742,,1090872,"agilent technologies, inc.",,1,,,20191212,tang michael,112760219034912,"SVP, General Counsel, and Sec.",male,310183415.0
+97498.1214,,1090872,"agilent technologies, inc.",,1,,,20191212,grau dominique,112760219034913,Senior Vice President,male,310183415.0
+77749.1214,,1090872,"agilent technologies, inc.",,1,,,20191212,grau dominique,112760219034910,Senior Vice President,male,310183415.0
+551662.0092,,1090872,"agilent technologies, inc.",1,1,,,20191213,mcmullen michael r.,112760219034961,CEO and President,male,310183415.0
+142016.748,,1090872,"agilent technologies, inc.",,1,,,20191213,doak mark,112760219034959,Sr. Vice President,male,310183415.0
+97497.1214,,1090872,"agilent technologies, inc.",,1,,,20191213,grau dominique,112760219034960,Senior Vice President,male,310183415.0
+77166.742,,1090872,"agilent technologies, inc.",,1,,,20191220,tang michael,112760219035662,"SVP, General Counsel, and Sec.",male,310183415.0
+72166.742,,1090872,"agilent technologies, inc.",,1,,,20200102,tang michael,112760220000060,"SVP, General Counsel, and Sec.",male,310183415.0
+67166.742,,1090872,"agilent technologies, inc.",,1,,,20200114,tang michael,112760220001493,"SVP, General Counsel, and Sec.",male,310183415.0
+97497.1214,,1090872,"agilent technologies, inc.",,1,,,20200122,grau dominique,112760220002137,Senior Vice President,male,310183415.0
+66723.742,,1090872,"agilent technologies, inc.",,1,,,20200123,tang michael,112760220002300,"SVP, General Counsel, and Sec.",male,310183415.0
+43420.9898,,1090872,"agilent technologies, inc.",,1,,,20200227,gonsalves rodney,112760220008091,"V.P., Corporate Controller",male,309651359.0
+139172.308,,1090872,"agilent technologies, inc.",,1,,,20200303,doak mark,112760220008835,Sr. Vice President,male,309651359.0
+135678.308,,1090872,"agilent technologies, inc.",,1,,,20200304,doak mark,112760220009327,Sr. Vice President,male,309651359.0
+8856.346,,1090872,"agilent technologies, inc.",1,,,,20200421,wilson dow r,112760220014251,,male,309651359.0
+57977.369,,1090872,"agilent technologies, inc.",1,,,,20200421,yamada tadataka,112760220014252,,male,309651359.0
+5757.0,,1090872,"agilent technologies, inc.",1,,,,20200421,anand mala,112760220014241,,female,309651359.0
+14227.601,,1090872,"agilent technologies, inc.",1,,,,20200421,bishop hans edgar,112760220014242,,male,309651359.0
+92705.142,,1090872,"agilent technologies, inc.",1,,,,20200421,clark paul n,112760220014243,,male,309651359.0
+87973.65,,1090872,"agilent technologies, inc.",1,,,,20200421,koh boon hwee,112760220014244,,male,309651359.0
+10392.0,,1090872,"agilent technologies, inc.",1,,,,20200421,fields heidi,112760220014246,,female,309651359.0
+25927.511,,1090872,"agilent technologies, inc.",1,,,,20200421,podolsky daniel k,112760220014248,,male,309651359.0
+19640.0,,1090872,"agilent technologies, inc.",1,,,,20200421,rataj sue h.,112760220014249,,female,309651359.0
+27887.455,,1090872,"agilent technologies, inc.",1,,,,20200421,scangos george a,112760220014250,,male,309651359.0
+542848.0092,,1090872,"agilent technologies, inc.",1,1,,,20200428,mcmullen michael r.,112760220014602,CEO and President,male,309651359.0
+529245.0092,,1090872,"agilent technologies, inc.",1,1,,,20200430,mcmullen michael r.,112760220014770,CEO and President,male,308000000.0
+511559.137,,1090872,"agilent technologies, inc.",1,1,,,20200511,mcmullen michael r.,112760220016018,CEO and President,male,308000000.0
+110805.942,,1090872,"agilent technologies, inc.",,1,,,20200519,thaysen jacob,112760220017132,Sr. Vice President,male,308000000.0
+59715.1171,,1090872,"agilent technologies, inc.",,1,,,20200519,raha samraat s.,112760220017130,Sr. Vice President,male,308000000.0
+504642.137,,1090872,"agilent technologies, inc.",1,1,,,20200519,mcmullen michael r.,112760220017127,CEO and President,male,308000000.0
+15264.0,,1090872,"agilent technologies, inc.",,1,,,20200520,mcdonnell padraig,112760220017423,Sr. Vice President,male,308000000.0
+97668.8704,,1090872,"agilent technologies, inc.",,1,,,20200528,grau dominique,112760220018095,Senior Vice President,male,308777396.0
+102805.942,,1090872,"agilent technologies, inc.",,1,,,20200528,thaysen jacob,112760220018096,Sr. Vice President,male,308777396.0
+42143.4118,,1090872,"agilent technologies, inc.",,1,,,20200528,gonsalves rodney,112760220018098,"V.P., Corporate Controller",male,308777396.0
+0.0,,1090872,"agilent technologies, inc.",1,,,,20200608,fields heidi,112760220019102,,female,308777396.0
+502499.137,,1090872,"agilent technologies, inc.",1,1,,,20200701,mcmullen michael r.,112760220020548,CEO and President,male,308777396.0
+502499.137,,1090872,"agilent technologies, inc.",1,1,,,20200803,mcmullen michael r.,112760220022514,CEO and President,male,309000000.0
+14455.698,,1090872,"agilent technologies, inc.",1,,,,20200805,bishop hans edgar,112760220022974,,male,309000000.0
+26125.983,,1090872,"agilent technologies, inc.",1,,,,20200805,podolsky daniel k,112760220022975,,male,309000000.0
+28112.158,,1090872,"agilent technologies, inc.",1,,,,20200805,scangos george a,112760220022976,,male,309000000.0
+58374.232,,1090872,"agilent technologies, inc.",1,,,,20200805,yamada tadataka,112760220022977,,male,309000000.0
+49356.0,,1090872,"agilent technologies, inc.",,1,,,20200805,mcmahon robert w.,112760220022979,Sr. VP and CFO,male,309000000.0
+42143.4118,,1090872,"agilent technologies, inc.",,1,,,20200827,gonsalves rodney,112760220024302,"V.P., Corporate Controller",male,308309635.0
+97668.8704,,1090872,"agilent technologies, inc.",,1,,,20200901,grau dominique,112760220024580,Senior Vice President,male,308309635.0
+97668.8704,,1090872,"agilent technologies, inc.",,1,,,20201013,grau dominique,112760220026835,Senior Vice President,male,308309635.0
+41514.3952,,1090872,"agilent technologies, inc.",,1,,,20201030,gonsalves rodney,112760220027707,"V.P., Corporate Controller",male,308309635.0
+549662.0092,,1090872,"agilent technologies, inc.",1,1,,,20201030,mcmullen michael r.,112760220027706,CEO and President,male,308309635.0
+62362.003,,1090872,"agilent technologies, inc.",,1,,,20201103,tang michael,112760220027985,"SVP, General Counsel, and Sec.",male,306000000.0
+60140.003,,1090872,"agilent technologies, inc.",,1,,,20201105,tang michael,112760220028230,"SVP, General Counsel, and Sec.",male,306000000.0
+59029.003,,1090872,"agilent technologies, inc.",,1,,,20201109,tang michael,112760220028463,"SVP, General Counsel, and Sec.",male,306000000.0
+56807.003,,1090872,"agilent technologies, inc.",,1,,,20201112,tang michael,112760220028738,"SVP, General Counsel, and Sec.",male,306000000.0
+87069.9851,,1090872,"agilent technologies, inc.",,1,,,20201117,ancher-jensen henrik,112760220029345,Sr Vice President,male,306000000.0
+95756.6157,,1090872,"agilent technologies, inc.",,1,,,20201117,grau dominique,112760220029347,Senior Vice President,male,306000000.0
+15029.0,,1090872,"agilent technologies, inc.",,1,,,20201117,mcdonnell padraig,112760220029348,Sr. Vice President,male,306000000.0
+47929.0,,1090872,"agilent technologies, inc.",,1,,,20201117,mcmahon robert w.,112760220029349,Sr. VP and CFO,male,306000000.0
+101003.118,,1090872,"agilent technologies, inc.",,1,,,20201117,thaysen jacob,112760220029353,Sr. Vice President,male,306000000.0
+55397.003,,1090872,"agilent technologies, inc.",,1,,,20201117,tang michael,112760220029352,"SVP, General Counsel, and Sec.",male,306000000.0
+59134.5375,,1090872,"agilent technologies, inc.",,1,,,20201117,raha samraat s.,112760220029351,Sr. Vice President,male,306000000.0
+486265.137,,1090872,"agilent technologies, inc.",1,1,,,20201117,mcmullen michael r.,112760220029350,CEO and President,male,306000000.0
+41209.092,,1090872,"agilent technologies, inc.",,1,,,20201117,gonsalves rodney,112760220029346,"V.P., Corporate Controller",male,306000000.0
+14886.0,,1090872,"agilent technologies, inc.",,1,,,20201118,mcdonnell padraig,112760220029493,Sr. Vice President,male,306000000.0
+86446.9851,,1090872,"agilent technologies, inc.",,1,,,20201118,ancher-jensen henrik,112760220029487,Sr Vice President,male,306000000.0
+478240.137,,1090872,"agilent technologies, inc.",1,1,,,20201118,mcmullen michael r.,112760220029495,CEO and President,male,306000000.0
+54724.003,,1090872,"agilent technologies, inc.",,1,,,20201118,tang michael,112760220029497,"SVP, General Counsel, and Sec.",male,306000000.0
+99902.118,,1090872,"agilent technologies, inc.",,1,,,20201118,thaysen jacob,112760220029499,Sr. Vice President,male,306000000.0
+40851.092,,1090872,"agilent technologies, inc.",,1,,,20201118,gonsalves rodney,112760220029489,"V.P., Corporate Controller",male,306000000.0
+94437.6157,,1090872,"agilent technologies, inc.",,1,,,20201118,grau dominique,112760220029491,Senior Vice President,male,306000000.0
+80874.0,,1090872,"agilent technologies, inc.",,1,,,20201119,mcmahon robert w.,112760220029640,Sr. VP and CFO,male,306000000.0
+47160.092,,1090872,"agilent technologies, inc.",,1,,,20201119,gonsalves rodney,112760220029637,"V.P., Corporate Controller",male,306000000.0
+97301.9851,,1090872,"agilent technologies, inc.",,1,,,20201119,ancher-jensen henrik,112760220029636,Sr Vice President,male,306000000.0
+554756.137,,1090872,"agilent technologies, inc.",1,1,,,20201119,mcmullen michael r.,112760220029641,CEO and President,male,306000000.0
+66265.5375,,1090872,"agilent technologies, inc.",,1,,,20201119,raha samraat s.,112760220029642,Sr. Vice President,male,306000000.0
+65406.003,,1090872,"agilent technologies, inc.",,1,,,20201119,tang michael,112760220029643,"SVP, General Counsel, and Sec.",male,306000000.0
+116286.118,,1090872,"agilent technologies, inc.",,1,,,20201119,thaysen jacob,112760220029644,Sr. Vice President,male,306000000.0
+19895.0,,1090872,"agilent technologies, inc.",,1,,,20201119,mcdonnell padraig,112760220029639,Sr. Vice President,male,306000000.0
+106841.6157,,1090872,"agilent technologies, inc.",,1,,,20201119,grau dominique,112760220029638,Senior Vice President,male,306000000.0
+96792.9851,,1090872,"agilent technologies, inc.",,1,,,20201120,ancher-jensen henrik,112760220029657,Sr Vice President,male,306000000.0
+46694.092,,1090872,"agilent technologies, inc.",,1,,,20201120,gonsalves rodney,112760220029659,"V.P., Corporate Controller",male,306000000.0
+105490.6157,,1090872,"agilent technologies, inc.",,1,,,20201120,grau dominique,112760220029661,Senior Vice President,male,306000000.0
+19670.0,,1090872,"agilent technologies, inc.",,1,,,20201120,mcdonnell padraig,112760220029663,Sr. Vice President,male,306000000.0
+115204.118,,1090872,"agilent technologies, inc.",,1,,,20201120,thaysen jacob,112760220029671,Sr. Vice President,male,306000000.0
+65103.003,,1090872,"agilent technologies, inc.",,1,,,20201120,tang michael,112760220029668,"SVP, General Counsel, and Sec.",male,306000000.0
+546652.137,,1090872,"agilent technologies, inc.",1,1,,,20201120,mcmullen michael r.,112760220029666,CEO and President,male,306000000.0
+18849.0,,1090872,"agilent technologies, inc.",,1,,,20201123,mcdonnell padraig,112760220029806,Sr. Vice President,male,306000000.0
+98184.6157,,1090872,"agilent technologies, inc.",,1,,,20201123,grau dominique,112760220029805,Senior Vice President,male,306000000.0
+91694.9851,,1090872,"agilent technologies, inc.",,1,,,20201123,ancher-jensen henrik,112760220029803,Sr Vice President,male,306000000.0
+79123.0,,1090872,"agilent technologies, inc.",,1,,,20201123,mcmahon robert w.,112760220029807,Sr. VP and CFO,male,306000000.0
+501189.137,,1090872,"agilent technologies, inc.",1,1,,,20201123,mcmullen michael r.,112760220029808,CEO and President,male,306000000.0
+57922.5375,,1090872,"agilent technologies, inc.",,1,,,20201123,raha samraat s.,112760220029809,Sr. Vice President,male,306000000.0
+59712.003,,1090872,"agilent technologies, inc.",,1,,,20201123,tang michael,112760220029810,"SVP, General Counsel, and Sec.",male,306000000.0
+106734.118,,1090872,"agilent technologies, inc.",,1,,,20201123,thaysen jacob,112760220029811,Sr. Vice President,male,306000000.0
+44021.092,,1090872,"agilent technologies, inc.",,1,,,20201123,gonsalves rodney,112760220029804,"V.P., Corporate Controller",male,306000000.0
+68050.97,,1090872,"agilent technologies, inc.",1,,,,20201202,koh boon hwee,112760220030349,,male,306000000.0
+415347.137,,1090872,"agilent technologies, inc.",1,1,,,20201202,mcmullen michael r.,112760220030350,CEO and President,male,306000000.0
+54880.003,,1090872,"agilent technologies, inc.",,1,,,20210119,tang michael,112760221001993,"SVP, General Counsel, and Sec.",male,306849526.0
+46183.092,,1090872,"agilent technologies, inc.",,1,,,20210121,gonsalves rodney,112760221002252,"V.P., Corporate Controller",male,306849526.0
+54513.003,,1090872,"agilent technologies, inc.",,1,,,20210121,tang michael,112760221002254,"SVP, General Counsel, and Sec.",male,306849526.0
+314985.137,,1090872,"agilent technologies, inc.",1,1,,,20210203,mcmullen michael r.,112760221003635,CEO and President,male,305000000.0
+53529.775,,1090872,"agilent technologies, inc.",,1,,,20210218,tang michael,112760221006550,"SVP, General Counsel, and Sec.",male,305000000.0
+81325.6157,,1090872,"agilent technologies, inc.",,1,,,20210218,grau dominique,112760221006544,Senior Vice President,male,305000000.0
+294219.137,,1090872,"agilent technologies, inc.",1,1,,,20210218,mcmullen michael r.,112760221006546,CEO and President,male,305000000.0
+41229.18,,1090872,"agilent technologies, inc.",,1,,,20210224,gonsalves rodney,112760221007715,"V.P., Corporate Controller",male,305000000.0
+7607.0,,1090872,"agilent technologies, inc.",1,,,,20210322,anand mala,112760221011651,,female,304697515.0
+17175.897,,1090872,"agilent technologies, inc.",1,,,,20210322,bishop hans edgar,112760221011652,,male,304697515.0
+95234.318,,1090872,"agilent technologies, inc.",1,,,,20210322,clark paul n,112760221011653,,male,304697515.0
+69366.944,,1090872,"agilent technologies, inc.",1,,,,20210322,koh boon hwee,112760221011654,,male,304697515.0
+16543.711,14450.0,1090872,"agilent technologies, inc.",1,,,,20210322,scangos george a,112760221011659,,male,304697515.0
+28515.095,,1090872,"agilent technologies, inc.",1,,,,20210322,podolsky daniel k,112760221011657,,male,304697515.0
+21490.0,,1090872,"agilent technologies, inc.",1,,,,20210322,rataj sue h.,112760221011658,,female,304697515.0
+10766.508,,1090872,"agilent technologies, inc.",1,,,,20210322,wilson dow r,112760221011660,,male,304697515.0
+55767.619,,1090872,"agilent technologies, inc.",1,,,,20210322,fields heidi,112760221011655,,female,304697515.0
+53936.0345,,1090872,"agilent technologies, inc.",0,1,0,0,20210401,raha samraat s.,89924321014367,Sr. Vice President,male,304697515.0
+279124.137,,1090872,"agilent technologies, inc.",1,1,,,20210412,mcmullen michael r.,112760221013665,CEO and President,male,304697515.0
+270158.137,,1090872,"agilent technologies, inc.",1,1,,,20210415,mcmullen michael r.,112760221013760,CEO and President,male,304697515.0
+53029.775,,1090872,"agilent technologies, inc.",,1,,,20210426,tang michael,112760221014485,"SVP, General Counsel, and Sec.",male,304697515.0
+261105.137,,1090872,"agilent technologies, inc.",1,1,,,20210426,mcmullen michael r.,112760221014484,CEO and President,male,304697515.0
+52786.7812,,1090872,"agilent technologies, inc.",,1,,,20210518,raha samraat s.,112760221017164,Sr. Vice President,male,303000000.0
+99712.026,,1090872,"agilent technologies, inc.",,1,,,20210518,thaysen jacob,112760221017168,Sr. Vice President,male,303000000.0
+17916.0,,1090872,"agilent technologies, inc.",,1,,,20210521,mcdonnell padraig,112760221017739,Sr. Vice President,male,303443225.0
+39579.3,,1090872,"agilent technologies, inc.",,1,,,20210601,tang michael,112760221018568,"SVP, General Counsel, and Sec.",male,303443225.0
+16916.0,,1090872,"agilent technologies, inc.",,1,,,20210601,mcdonnell padraig,112760221018569,Sr. Vice President,male,303443225.0
+83423.026,,1090872,"agilent technologies, inc.",,1,,,20210614,thaysen jacob,112760221019761,Sr. Vice President,male,303443225.0
+76902.4183,,1090872,"agilent technologies, inc.",,1,,,20210617,ancher-jensen henrik,112760221020135,Sr Vice President,male,303443225.0
+81419.7768,,1090872,"agilent technologies, inc.",,1,,,20210617,grau dominique,112760221020138,Senior Vice President,male,303443225.0
+81419.7768,,1090872,"agilent technologies, inc.",,1,,,20210621,grau dominique,112760221020438,Senior Vice President,male,303443225.0
+76796.0,,1090872,"agilent technologies, inc.",,1,,,20210805,mcmahon robert w.,112760221023151,Sr. VP and CFO,male,303000000.0
+81419.7768,,1090872,"agilent technologies, inc.",,1,,,20210809,grau dominique,112760221023331,Senior Vice President,male,303000000.0
+81419.7768,,1090872,"agilent technologies, inc.",,1,,,20210820,grau dominique,112760221024086,Senior Vice President,male,303000000.0
+567.0,,1090872,"agilent technologies, inc.",1,,,,20210923,dolsten mikael,112760221025723,,male,302722668.0
+39975.7566,,1090872,"agilent technologies, inc.",,1,,,20211116,gonsalves rodney,112760221029383,"V.P., Corporate Controller",male,302000000.0
+79469.6281,,1090872,"agilent technologies, inc.",,1,,,20211116,grau dominique,112760221029384,Senior Vice President,male,302000000.0
+16671.0,,1090872,"agilent technologies, inc.",,1,,,20211116,mcdonnell padraig,112760221029385,Sr. Vice President,male,302000000.0
+74927.0,,1090872,"agilent technologies, inc.",,1,,,20211116,mcmahon robert w.,112760221029386,Sr. VP and CFO,male,302000000.0
+248022.219,,1090872,"agilent technologies, inc.",1,1,,,20211116,mcmullen michael r.,112760221029387,CEO and President,male,302000000.0
+52175.7805,,1090872,"agilent technologies, inc.",,1,,,20211116,raha samraat s.,112760221029388,Sr. Vice President,male,302000000.0
+38199.479,,1090872,"agilent technologies, inc.",,1,,,20211116,tang michael,112760221029389,"SVP, General Counsel, and Sec.",male,302000000.0
+81553.231,,1090872,"agilent technologies, inc.",,1,,,20211116,thaysen jacob,112760221029390,Sr. Vice President,male,302000000.0
+75203.3623,,1090872,"agilent technologies, inc.",,1,,,20211116,ancher-jensen henrik,112760221029382,Sr Vice President,male,302000000.0
+87714.3623,,1090872,"agilent technologies, inc.",,1,,,20211118,ancher-jensen henrik,112760221029619,Sr Vice President,male,302000000.0
+44531.7566,,1090872,"agilent technologies, inc.",,1,,,20211118,gonsalves rodney,112760221029620,"V.P., Corporate Controller",male,302000000.0
+90659.6281,,1090872,"agilent technologies, inc.",,1,,,20211118,grau dominique,112760221029621,Senior Vice President,male,302000000.0
+21101.0,,1090872,"agilent technologies, inc.",,1,,,20211118,mcdonnell padraig,112760221029622,Sr. Vice President,male,302000000.0
+64122.7805,,1090872,"agilent technologies, inc.",,1,,,20211118,raha samraat s.,112760221029625,Sr. Vice President,male,302000000.0
+324852.219,,1090872,"agilent technologies, inc.",1,1,,,20211118,mcmullen michael r.,112760221029624,CEO and President,male,302000000.0
+49468.479,,1090872,"agilent technologies, inc.",,1,,,20211118,tang michael,112760221029626,"SVP, General Counsel, and Sec.",male,302000000.0
+99406.0,,1090872,"agilent technologies, inc.",,1,,,20211118,mcmahon robert w.,112760221029623,Sr. VP and CFO,male,302000000.0
+96682.231,,1090872,"agilent technologies, inc.",,1,,,20211118,thaysen jacob,112760221029627,Sr. Vice President,male,302000000.0
+583.0,,1090872,"agilent technologies, inc.",1,,,,20211119,brawley otis w,112760221029665,,male,302000000.0
+49073.479,,1090872,"agilent technologies, inc.",,1,,,20211119,tang michael,112760221029673,"SVP, General Counsel, and Sec.",male,302000000.0
+63665.7805,,1090872,"agilent technologies, inc.",,1,,,20211119,raha samraat s.,112760221029672,Sr. Vice President,male,302000000.0
+322139.219,,1090872,"agilent technologies, inc.",1,1,,,20211119,mcmullen michael r.,112760221029671,CEO and President,male,302000000.0
+96146.231,,1090872,"agilent technologies, inc.",,1,,,20211119,thaysen jacob,112760221029674,Sr. Vice President,male,302000000.0
+20748.0,,1090872,"agilent technologies, inc.",,1,,,20211119,mcdonnell padraig,112760221029669,Sr. Vice President,male,302000000.0
+90141.6281,,1090872,"agilent technologies, inc.",,1,,,20211119,grau dominique,112760221029668,Senior Vice President,male,302000000.0
+44389.7566,,1090872,"agilent technologies, inc.",,1,,,20211119,gonsalves rodney,112760221029667,"V.P., Corporate Controller",male,302000000.0
+98728.0,,1090872,"agilent technologies, inc.",,1,,,20211119,mcmahon robert w.,112760221029670,Sr. VP and CFO,male,302000000.0
+87328.3623,,1090872,"agilent technologies, inc.",,1,,,20211119,ancher-jensen henrik,112760221029666,Sr Vice President,male,302000000.0
+89073.6281,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,grau dominique,89924321045710,Senior Vice President,male,302000000.0
+18997.0,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,mcdonnell padraig,89924321045715,Senior Vice President,male,302000000.0
+44021.7566,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,gonsalves rodney,89924321045716,"V.P., Corporate Controller",male,302000000.0
+96977.0,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,mcmahon robert w.,89924321045720,Sr. VP and CFO,male,302000000.0
+48022.479,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,tang michael,89924321045723,"SVP, General Counsel, and Sec.",male,302000000.0
+314646.219,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,mcmullen michael r.,89924321045724,CEO and President,male,302000000.0
+86332.3623,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,ancher-jensen henrik,89924321045712,Sr. Vice President,male,302000000.0
+94728.231,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,thaysen jacob,89924321045719,Sr. Vice President,male,302000000.0
+62544.7805,,1090872,"agilent technologies, inc.",0,1,0,0,20211123,raha samraat s.,89924321045726,Sr. Vice President,male,302000000.0
+42552.7566,,1090872,"agilent technologies, inc.",,1,,,20211202,gonsalves rodney,112760221030030,"V.P., Corporate Controller",male,302000000.0
+0.0,,1090872,"agilent technologies, inc.",,1,,,20211206,gonsalves rodney,112760221030388,"V.P., Corporate Controller",male,302000000.0
+191187.219,,1090872,"agilent technologies, inc.",1,1,,,20211221,mcmullen michael r.,112760221031647,CEO and President,male,302000797.0
+85404.6281,,1090872,"agilent technologies, inc.",,1,,,20211230,grau dominique,112760221032074,Senior Vice President,male,302000797.0
+46828.562,,1090872,"agilent technologies, inc.",,1,,,20220321,tang michael,112760222010061,"SVP, General Counsel, and Sec.",male,300113377.0
+12610.829,,1090872,"agilent technologies, inc.",1,,,,20220321,wilson dow r,112760222010057,,male,300113377.0
+18419.863,14450.0,1090872,"agilent technologies, inc.",1,,,,20220321,scangos george a,112760222010055,,male,300113377.0
+30892.206,,1090872,"agilent technologies, inc.",1,,,,20220321,podolsky daniel k,112760222010052,,male,300113377.0
+9392.0,,1090872,"agilent technologies, inc.",1,,,,20220321,anand mala,112760222010043,,female,300113377.0
+70687.341,,1090872,"agilent technologies, inc.",1,,,,20220321,koh boon hwee,112760222010050,,male,300113377.0
+2352.438,,1090872,"agilent technologies, inc.",1,,,,20220321,dolsten mikael,112760222010048,,male,300113377.0
+3165.901,,1090872,"agilent technologies, inc.",1,,,,20220321,brawley otis w,112760222010046,,male,300113377.0
+19852.533,,1090872,"agilent technologies, inc.",1,,,,20220321,bishop hans edgar,112760222010045,,male,300113377.0
+57849.692,,1090872,"agilent technologies, inc.",1,,,,20220321,fields heidi,112760222010051,,female,300113377.0
+23275.0,,1090872,"agilent technologies, inc.",1,,,,20220321,rataj sue h.,112760222010053,,female,300113377.0
+88125.1543,,1090872,"agilent technologies, inc.",,1,,,20220505,ancher-jensen henrik,112760222013377,Sr Vice President,male,299000000.0
+65251.3329,,1090872,"agilent technologies, inc.",,1,,,20220517,raha samraat s.,112760222014730,Sr. Vice President,male,299000000.0
+94615.806,,1090872,"agilent technologies, inc.",,1,,,20220517,thaysen jacob,112760222014733,Sr. Vice President,male,299000000.0
+18826.0,,1090872,"agilent technologies, inc.",,1,,,20220520,mcdonnell padraig,112760222015185,Sr. Vice President,male,299000000.0
+88736.806,,1090872,"agilent technologies, inc.",,1,,,20220606,thaysen jacob,112760222016854,Sr. Vice President,male,298708056.0
+17826.0,,1090872,"agilent technologies, inc.",,1,,,20220701,mcdonnell padraig,112760222018419,Sr. Vice President,male,298708056.0
+94721.205,,1090872,"agilent technologies, inc.",,1,,,20220805,mcmahon robert w.,112760222020519,Sr. VP and CFO,male,296000000.0
+15320.0,,1090872,"agilent technologies, inc.",,1,,,20220909,mcdonnell padraig,112760222022233,Sr. Vice President,male,296040570.0
+82933.707,,1090872,"agilent technologies, inc.",,1,,,20220913,thaysen jacob,112760222022353,Sr. Vice President,male,296040570.0
+13217.0,,1090872,"agilent technologies, inc.",,1,,,20220930,mcdonnell padraig,112760222023100,Sr. Vice President,male,296040570.0
+191358.1001,,1090872,"agilent technologies, inc.",1,1,,,20221021,mcmullen michael r.,112760222024247,CEO and President,male,296040570.0
+28464.5539,40.192,1090872,"agilent technologies, inc.",,1,,,20221027,gonsalves rodney,112760222024423,"V.P., Corporate Controller",male,296040570.0
+191358.1001,,1090872,"agilent technologies, inc.",1,1,,,20221027,mcmullen michael r.,112760222024433,CEO and President,male,296040570.0
+43280.358,,1090872,"agilent technologies, inc.",,1,,,20221103,tang michael,112760222024834,"SVP, General Counsel, and Sec.",male,295259092.0
+191358.1001,,1090872,"agilent technologies, inc.",1,1,,,20221104,mcmullen michael r.,112760222024938,CEO and President,male,295259092.0
+191358.1001,,1090872,"agilent technologies, inc.",1,1,,,20221110,mcmullen michael r.,112760222025258,CEO and President,male,295259092.0
+81879.34,,1090872,"agilent technologies, inc.",,1,,,20221115,thaysen jacob,112760222025647,Sr. Vice President,male,295259092.0
+64644.2348,,1090872,"agilent technologies, inc.",,1,,,20221115,raha samraat s.,112760222025645,Sr. Vice President,male,295259092.0
+42488.089,,1090872,"agilent technologies, inc.",,1,,,20221115,tang michael,112760222025646,"SVP, General Counsel, and Sec.",male,295259092.0
+92877.446,,1090872,"agilent technologies, inc.",,1,,,20221115,mcmahon robert w.,112760222025643,Sr. VP and CFO,male,295259092.0
+10731.0,,1090872,"agilent technologies, inc.",,1,,,20221115,mcdonnell padraig,112760222025642,Sr. Vice President,male,295259092.0
+84792.5295,,1090872,"agilent technologies, inc.",,1,,,20221115,grau dominique,112760222025641,Senior Vice President,male,295259092.0
+28272.9215,40.192,1090872,"agilent technologies, inc.",,1,,,20221115,gonsalves rodney,112760222025640,"V.P., Corporate Controller",male,295259092.0
+87710.032,,1090872,"agilent technologies, inc.",,1,,,20221115,ancher-jensen henrik,112760222025639,Sr Vice President,male,295259092.0
+183315.1001,,1090872,"agilent technologies, inc.",1,1,,,20221115,mcmullen michael r.,112760222025644,CEO and President,male,295259092.0
+33699.9215,40.192,1090872,"agilent technologies, inc.",,1,,,20221117,gonsalves rodney,112760222025881,"V.P., Corporate Controller",male,295259092.0
+98313.5295,,1090872,"agilent technologies, inc.",,1,,,20221117,grau dominique,112760222025883,Senior Vice President,male,295259092.0
+19825.0,,1090872,"agilent technologies, inc.",,1,,,20221117,mcdonnell padraig,112760222025884,Sr. Vice President,male,295259092.0
+118990.446,,1090872,"agilent technologies, inc.",,1,,,20221117,mcmahon robert w.,112760222025885,Sr. VP and CFO,male,295259092.0
+272909.1001,,1090872,"agilent technologies, inc.",1,1,,,20221117,mcmullen michael r.,112760222025886,CEO and President,male,295259092.0
+81017.2348,,1090872,"agilent technologies, inc.",,1,,,20221117,raha samraat s.,112760222025887,Sr. Vice President,male,295259092.0
+55775.089,,1090872,"agilent technologies, inc.",,1,,,20221117,tang michael,112760222025889,"SVP, General Counsel, and Sec.",male,295259092.0
+99757.34,,1090872,"agilent technologies, inc.",,1,,,20221117,thaysen jacob,112760222025890,Sr. Vice President,male,295259092.0
+102049.032,,1090872,"agilent technologies, inc.",,1,,,20221117,ancher-jensen henrik,112760222025877,Sr Vice President,male,295259092.0
+97964.5295,,1090872,"agilent technologies, inc.",,1,,,20221118,grau dominique,112760222026020,Senior Vice President,male,295259092.0
+80673.2348,,1090872,"agilent technologies, inc.",,1,,,20221118,raha samraat s.,112760222026024,Sr. Vice President,male,295259092.0
+101674.032,,1090872,"agilent technologies, inc.",,1,,,20221118,ancher-jensen henrik,112760222026018,Sr Vice President,male,295259092.0
+33589.9215,40.192,1090872,"agilent technologies, inc.",,1,,,20221118,gonsalves rodney,112760222026019,"V.P., Corporate Controller",male,295259092.0
+19549.0,,1090872,"agilent technologies, inc.",,1,,,20221118,mcdonnell padraig,112760222026021,Sr. Vice President,male,295259092.0
+270896.1001,,1090872,"agilent technologies, inc.",1,1,,,20221118,mcmullen michael r.,112760222026028,CEO and President,male,295259092.0
+99354.34,,1090872,"agilent technologies, inc.",,1,,,20221118,thaysen jacob,112760222026026,Sr. Vice President,male,295259092.0
+55489.089,,1090872,"agilent technologies, inc.",,1,,,20221118,tang michael,112760222026025,"SVP, General Counsel, and Sec.",male,295259092.0
+118486.446,,1090872,"agilent technologies, inc.",,1,,,20221118,mcmahon robert w.,112760222026022,Sr. VP and CFO,male,295259092.0
+270896.1001,,1090872,"agilent technologies, inc.",1,1,,,20221118,mcmullen michael r.,112760222026023,CEO and President,male,295259092.0
+18947.0,,1090872,"agilent technologies, inc.",,1,,,20221121,mcdonnell padraig,112760222026137,Sr. Vice President,male,295259092.0
+96378.5295,,1090872,"agilent technologies, inc.",,1,,,20221121,grau dominique,112760222026135,Senior Vice President,male,295259092.0
+33080.9215,40.192,1090872,"agilent technologies, inc.",,1,,,20221121,gonsalves rodney,112760222026132,"V.P., Corporate Controller",male,295259092.0
+100293.032,,1090872,"agilent technologies, inc.",,1,,,20221121,ancher-jensen henrik,112760222026129,Sr Vice President,male,295259092.0
+260691.1001,,1090872,"agilent technologies, inc.",1,1,,,20221121,mcmullen michael r.,112760222026141,CEO and President,male,295259092.0
+101288.032,,1090872,"agilent technologies, inc.",,1,,,20221121,ancher-jensen henrik,112760222026109,Sr Vice President,male,295259092.0
+33447.9215,40.192,1090872,"agilent technologies, inc.",,1,,,20221121,gonsalves rodney,112760222026112,"V.P., Corporate Controller",male,295259092.0
+97445.5295,,1090872,"agilent technologies, inc.",,1,,,20221121,grau dominique,112760222026114,Senior Vice President,male,295259092.0
+19196.0,,1090872,"agilent technologies, inc.",,1,,,20221121,mcdonnell padraig,112760222026116,Sr. Vice President,male,295259092.0
+117807.446,,1090872,"agilent technologies, inc.",,1,,,20221121,mcmahon robert w.,112760222026118,Sr. VP and CFO,male,295259092.0
+268183.1001,,1090872,"agilent technologies, inc.",1,1,,,20221121,mcmullen michael r.,112760222026120,CEO and President,male,295259092.0
+80216.2348,,1090872,"agilent technologies, inc.",,1,,,20221121,raha samraat s.,112760222026123,Sr. Vice President,male,295259092.0
+116057.446,,1090872,"agilent technologies, inc.",,1,,,20221121,mcmahon robert w.,112760222026139,Sr. VP and CFO,male,295259092.0
+55094.089,,1090872,"agilent technologies, inc.",,1,,,20221121,tang michael,112760222026125,"SVP, General Counsel, and Sec.",male,295259092.0
+98817.34,,1090872,"agilent technologies, inc.",,1,,,20221121,thaysen jacob,112760222026127,Sr. Vice President,male,295259092.0
+54044.089,,1090872,"agilent technologies, inc.",,1,,,20221121,tang michael,112760222026147,"SVP, General Counsel, and Sec.",male,295259092.0
+97399.34,,1090872,"agilent technologies, inc.",,1,,,20221121,thaysen jacob,112760222026149,Sr. Vice President,male,295259092.0
+79096.2348,,1090872,"agilent technologies, inc.",,1,,,20221121,raha samraat s.,112760222026144,Sr. Vice President,male,295259092.0
+16201.0,,1090872,"agilent technologies, inc.",,1,,,20221123,mcdonnell padraig,112760222026321,Sr. Vice President,male,295259092.0
+260691.1001,,1090872,"agilent technologies, inc.",1,1,,,20221123,mcmullen michael r.,112760222026322,CEO and President,male,295259092.0
+46499.089,,1090872,"agilent technologies, inc.",,1,,,20221123,tang michael,112760222026323,"SVP, General Counsel, and Sec.",male,295259092.0
+0.0,40.192,1090872,"agilent technologies, inc.",,1,,,20221128,gonsalves rodney,112760222026416,"V.P., Corporate Controller",male,295259092.0
+54484.145,,1090872,"agilent technologies, inc.",1,,,,20221128,fields heidi,112760222026417,,female,295259092.0
+84464.34,,1090872,"agilent technologies, inc.",,1,,,20221202,thaysen jacob,112760222026708,Sr. Vice President,male,295259092.0
+57752.101,,1090872,"agilent technologies, inc.",1,,,,20221208,koh boon hwee,112760222027060,,male,295259092.0
+92378.5295,,1090872,"agilent technologies, inc.",,1,,,20221215,grau dominique,112760222027518,Senior Vice President,male,296072040.0
+15529.0,,1090872,"agilent technologies, inc.",,1,,,20221215,mcdonnell padraig,112760222027519,Sr. Vice President,male,296072040.0
+70793.032,,1090872,"agilent technologies, inc.",,1,,,20221215,ancher-jensen henrik,112760222027520,Sr Vice President,male,296072040.0
+52286.8385,,1090872,"agilent technologies, inc.",,1,,,20230316,grau dominique,112760223010465,Senior Vice President,male,295701853.0
+14349.986,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,wilson dow r,89924323009226,,male,295701853.0
+33154.013,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,podolsky daniel k,89924323009229,,male,295701853.0
+56221.592,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,fields heidi,89924323009213,,female,295701853.0
+59429.195,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,koh boon hwee,89924323009214,,male,295701853.0
+24933.0,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,rataj sue h.,89924323009217,,female,295701853.0
+22379.294,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,bishop hans edgar,89924323009220,,male,295701853.0
+4018.002,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,dolsten mikael,89924323009221,,male,295701853.0
+11050.0,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,anand mala,89924323009208,,female,295701853.0
+5585.276,,1090872,"agilent technologies, inc.",1,0,0,0,20230320,brawley otis w,89924323009212,,male,295701853.0
+20184.918,14450.0,1090872,"agilent technologies, inc.",1,0,0,0,20230320,scangos george a,89924323009227,,male,295701853.0
+70805.167,,1090872,"agilent technologies, inc.",0,1,0,0,20230505,ancher-jensen henrik,89924323012330,Sr. Vice President,male,295000000.0
+15358.0,,1090872,"agilent technologies, inc.",,1,,,20230523,mcdonnell padraig,112760223016564,Sr. Vice President,male,295375818.0
+260868.5436,,1090872,"agilent technologies, inc.",1,1,,,20230731,mcmullen michael r.,112760223021558,CEO and President,male,293000000.0
+24218.9301,40.192,1090872,"agilent technologies, inc.",,1,,,20230825,gonsalves rodney,112760223023213,"V.P., Corporate Controller",male,292587273.0
+10751.0,,1090872,"agilent technologies, inc.",,1,,,20230913,binns philip,112760223024111,Senior Vice President,male,292587273.0
+24221.5201,40.192,1090872,"agilent technologies, inc.",,1,,,20230929,gonsalves rodney,112760223024863,"V.P., Corporate Controller",male,292587273.0
+87030.6096,,1090872,"agilent technologies, inc.",,1,,,20231117,raha samraat s.,112760223027752,Sr. Vice President,male,292123241.0
+52454.16,,1090872,"agilent technologies, inc.",,1,,,20231117,tang michael,112760223027755,"SVP, General Counsel, and Sec.",male,292123241.0
+293229.5436,,1090872,"agilent technologies, inc.",1,1,,,20231117,mcmullen michael r.,112760223027750,CEO and President,male,292123241.0
+127971.393,,1090872,"agilent technologies, inc.",,1,,,20231117,mcmahon robert w.,112760223027747,Sr. VP and CFO,male,292123241.0
+20645.0,,1090872,"agilent technologies, inc.",,1,,,20231117,mcdonnell padraig,112760223027744,Sr. Vice President,male,292123241.0
+46132.2252,52286.8385,1090872,"agilent technologies, inc.",,1,,,20231117,grau dominique,112760223027743,Senior Vice President,male,292123241.0
+26484.9838,40.192,1090872,"agilent technologies, inc.",,1,,,20231117,gonsalves rodney,112760223027742,"V.P., Corporate Controller",male,292123241.0
+77334.9824,,1090872,"agilent technologies, inc.",,1,,,20231117,ancher-jensen henrik,112760223027741,Sr Vice President,male,292123241.0
+52813.16,,1090872,"agilent technologies, inc.",,1,,,20231117,tang michael,112760223027715,"SVP, General Counsel, and Sec.",male,292123241.0
+87458.6096,,1090872,"agilent technologies, inc.",,1,,,20231117,raha samraat s.,112760223027714,Sr. Vice President,male,292123241.0
+295739.5436,,1090872,"agilent technologies, inc.",1,1,,,20231117,mcmullen michael r.,112760223027713,CEO and President,male,292123241.0
+128635.393,,1090872,"agilent technologies, inc.",,1,,,20231117,mcmahon robert w.,112760223027712,Sr. VP and CFO,male,292123241.0
+21039.0,,1090872,"agilent technologies, inc.",,1,,,20231117,mcdonnell padraig,112760223027711,Sr. Vice President,male,292123241.0
+46501.2252,52286.8385,1090872,"agilent technologies, inc.",,1,,,20231117,grau dominique,112760223027710,Senior Vice President,male,292123241.0
+26582.9838,40.192,1090872,"agilent technologies, inc.",,1,,,20231117,gonsalves rodney,112760223027709,"V.P., Corporate Controller",male,292123241.0
+12147.0,,1090872,"agilent technologies, inc.",,1,,,20231117,binns philip,112760223027707,Senior Vice President,male,292123241.0
+77740.9824,,1090872,"agilent technologies, inc.",,1,,,20231117,ancher-jensen henrik,112760223027705,Sr Vice President,male,292123241.0
+125038.393,,1090872,"agilent technologies, inc.",,1,,,20231120,mcmahon robert w.,112760223028019,Sr. VP and CFO,male,292123241.0
+281010.5436,,1090872,"agilent technologies, inc.",1,1,,,20231120,mcmullen michael r.,112760223028020,CEO and President,male,292123241.0
+85107.6096,,1090872,"agilent technologies, inc.",,1,,,20231120,raha samraat s.,112760223028021,Sr. Vice President,male,292123241.0
+26051.9838,40.192,1090872,"agilent technologies, inc.",,1,,,20231120,gonsalves rodney,112760223028016,"V.P., Corporate Controller",male,292123241.0
+75577.9824,,1090872,"agilent technologies, inc.",,1,,,20231120,ancher-jensen henrik,112760223028015,Sr Vice President,male,292123241.0
+52168.16,,1090872,"agilent technologies, inc.",,1,,,20231120,tang michael,112760223027953,"SVP, General Counsel, and Sec.",male,292123241.0
+86685.6096,,1090872,"agilent technologies, inc.",,1,,,20231120,raha samraat s.,112760223027951,Sr. Vice President,male,292123241.0
+50722.16,,1090872,"agilent technologies, inc.",,1,,,20231120,tang michael,112760223028022,"SVP, General Counsel, and Sec.",male,292123241.0
+127467.393,,1090872,"agilent technologies, inc.",,1,,,20231120,mcmahon robert w.,112760223027947,Sr. VP and CFO,male,292123241.0
+20355.0,,1090872,"agilent technologies, inc.",,1,,,20231120,mcdonnell padraig,112760223027945,Sr. Vice President,male,292123241.0
+45783.2252,52286.8385,1090872,"agilent technologies, inc.",,1,,,20231120,grau dominique,112760223027943,Senior Vice President,male,292123241.0
+26407.9838,40.192,1090872,"agilent technologies, inc.",,1,,,20231120,gonsalves rodney,112760223027941,"V.P., Corporate Controller",male,292123241.0
+76959.9824,,1090872,"agilent technologies, inc.",,1,,,20231120,ancher-jensen henrik,112760223027938,Sr Vice President,male,292123241.0
+19768.0,,1090872,"agilent technologies, inc.",,1,,,20231120,mcdonnell padraig,112760223028018,Sr. Vice President,male,292123241.0
+291216.5436,,1090872,"agilent technologies, inc.",1,1,,,20231120,mcmullen michael r.,112760223027949,CEO and President,male,292123241.0
+44196.2252,52286.8385,1090872,"agilent technologies, inc.",,1,,,20231120,grau dominique,112760223028017,Senior Vice President,male,292123241.0
+54872.16,,1090872,"agilent technologies, inc.",,1,,,20231127,tang michael,112760223028269,"SVP, General Counsel, and Sec.",male,292123241.0
+161991.393,,1090872,"agilent technologies, inc.",,1,,,20231127,mcmahon robert w.,112760223028268,Sr. VP and CFO,male,292123241.0
+24115.0,,1090872,"agilent technologies, inc.",,1,,,20231127,mcdonnell padraig,112760223028267,Sr. Vice President,male,292123241.0
+48247.2252,52286.8385,1090872,"agilent technologies, inc.",,1,,,20231127,grau dominique,112760223028266,Senior Vice President,male,292123241.0
+27632.9838,40.192,1090872,"agilent technologies, inc.",,1,,,20231127,gonsalves rodney,112760223028265,"V.P., Corporate Controller",male,292123241.0
+15704.0,,1090872,"agilent technologies, inc.",,1,,,20231127,binns philip,112760223028264,Senior Vice President,male,292123241.0
+80517.9824,,1090872,"agilent technologies, inc.",,1,,,20231127,ancher-jensen henrik,112760223028263,Sr Vice President,male,292123241.0
+64861.2252,52286.8385,1090872,"agilent technologies, inc.",,1,,,20231204,grau dominique,112760223028677,Senior Vice President,male,292123241.0
+97131.9824,,1090872,"agilent technologies, inc.",,1,,,20231204,ancher-jensen henrik,112760223028676,Sr Vice President,male,292123241.0
+306205.5436,,1090872,"agilent technologies, inc.",1,1,,,20231208,mcmullen michael r.,112760223029108,CEO and President,male,293004102.0
+306205.5436,,1090872,"agilent technologies, inc.",1,1,,,20231208,mcmullen michael r.,112760223029122,CEO and President,male,293004102.0
+306205.5436,,1090872,"agilent technologies, inc.",1,1,,,20231215,mcmullen michael r.,112760223029728,CEO and President,male,293004102.0
+82503.9824,,1090872,"agilent technologies, inc.",,1,,,20231219,ancher-jensen henrik,112760223029975,Sr Vice President,male,293004102.0
+26132.9838,40.192,1090872,"agilent technologies, inc.",,1,,,20231219,gonsalves rodney,112760223029977,"V.P., Corporate Controller",male,293004102.0
+12824.0,,1090872,"agilent technologies, inc.",,1,,,20231228,binns philip,112760223030542,Senior Vice President,male,293004102.0
+27317.0,,1090872,"agilent technologies, inc.",,1,,,20240305,mcdonnell padraig,112760224008423,Sr. Vice President,male,293055284.0
+15084.7845,2227.7762,1090872,"agilent technologies, inc.",,1,,,20240305,riemann angelica,112760224008425,Senior Vice President,female,293055284.0
+54975.664,,1090872,"agilent technologies, inc.",1,,,,20240307,fields heidi,112760224008947,,female,293055284.0
+21329.4748,40.192,1090872,"agilent technologies, inc.",,1,,,20240308,gonsalves rodney,112760224009138,"V.P., Corporate Controller",male,293055284.0
+253908.5436,,1090872,"agilent technologies, inc.",1,1,,,20240312,mcmullen michael r.,112760224009663,CEO and President,male,293055284.0
+24976.307,,1090872,"agilent technologies, inc.",1,,,,20240319,bishop hans edgar,112760224010679,,male,293055284.0
+12728.0,,1090872,"agilent technologies, inc.",1,,,,20240319,anand mala,112760224010677,,female,293055284.0
+8055.457,,1090872,"agilent technologies, inc.",1,,,,20240319,brawley otis w,112760224010681,,male,293055284.0
+5711.198,,1090872,"agilent technologies, inc.",1,,,,20240319,dolsten mikael,112760224010682,,male,293055284.0
+60204.231,,1090872,"agilent technologies, inc.",1,,,,20240319,koh boon hwee,112760224010683,,male,293055284.0
+56653.664,,1090872,"agilent technologies, inc.",1,,,,20240319,fields heidi,112760224010684,,female,293055284.0
+35492.398,,1090872,"agilent technologies, inc.",1,,,,20240319,podolsky daniel k,112760224010685,,male,293055284.0
+26611.0,,1090872,"agilent technologies, inc.",1,,,,20240319,rataj sue h.,112760224010686,,female,293055284.0
+21989.355,14450.0,1090872,"agilent technologies, inc.",1,,,,20240319,scangos george a,112760224010687,,male,293055284.0
+16136.359,,1090872,"agilent technologies, inc.",1,,,,20240319,wilson dow r,112760224010688,,male,293055284.0
+9997.0,,1090872,"agilent technologies, inc.",,1,,,20240327,binns philip,112760224011261,Senior Vice President,male,293055284.0
+82559.7378,,1090872,"agilent technologies, inc.",,1,,,20240507,ancher-jensen henrik,112760224014483,Sr Vice President,male,291587707.0
+4235.0,,1090872,"agilent technologies, inc.",,1,,,20240508,may simon,112760224014688,Senior Vice President,male,291587707.0
+27143.0,,1090872,"agilent technologies, inc.",1,1,,,20240521,mcdonnell padraig,112760224016065,President and CEO,male,291587707.0
+15254.7282,2313.2274,1090872,"agilent technologies, inc.",,1,,,20240521,riemann angelica,112760224016066,Senior Vice President,female,291587707.0
+17893.0,,1090872,"agilent technologies, inc.",1,,,,20240531,scangos george a,112760224017078,,male,291760872.0
+29992.0,,1090872,"agilent technologies, inc.",1,1,,,20240605,mcdonnell padraig,112760224017864,President and CEO,male,291760872.0
+52801.8385,,1090872,"agilent technologies, inc.",,1,,,20240607,grau dominique,112760224018118,Senior Vice President,male,291760872.0
+49485.736,52801.8385,1090872,"agilent technologies, inc.",,1,,,20240612,grau dominique,112760224018430,Senior Vice President,male,291760872.0
+28034.0,,1090872,"agilent technologies, inc.",1,1,,,20240620,mcdonnell padraig,112760224019063,President and CEO,male,291760872.0
+1618.0,,1090872,"agilent technologies, inc.",,1,,,20240703,dimarco bret,112760224020002,Senior Vice President,male,291760872.0
+26076.0,,1090872,"agilent technologies, inc.",1,1,,,20240730,mcdonnell padraig,112760224021131,President and CEO,male,291760872.0
+24118.0,,1090872,"agilent technologies, inc.",1,1,,,20240823,mcdonnell padraig,112760224022829,President and CEO,male,287327671.0
+46761.8385,,1090872,"agilent technologies, inc.",,1,,,20240927,grau dominique,112760224024551,Senior Vice President,male,287327671.0
+24071.0,,1090872,"agilent technologies, inc.",1,1,,,20240930,mcdonnell padraig,112760224024559,President and CEO,male,287327671.0
+81956.2842,,1090872,"agilent technologies, inc.",,1,,,20241119,ancher-jensen henrik,112760224027617,Sr Vice President,male,285193011.0
+21337.0747,40.192,1090872,"agilent technologies, inc.",,1,,,20241119,gonsalves rodney,112760224027618,"V.P., Corporate Controller",male,285193011.0
+23356.0,,1090872,"agilent technologies, inc.",1,1,,,20241119,mcdonnell padraig,112760224027619,President and CEO,male,285193011.0
+160475.835,,1090872,"agilent technologies, inc.",,1,,,20241119,mcmahon robert w.,112760224027620,Sr. VP and CFO,male,285193011.0
+15178.0995,2406.0392,1090872,"agilent technologies, inc.",,1,,,20241119,riemann angelica,112760224027621,Senior Vice President,female,285193011.0
+86919.2842,,1090872,"agilent technologies, inc.",,1,,,20241121,ancher-jensen henrik,112760224027858,Sr Vice President,male,285193011.0
+22444.0747,40.192,1090872,"agilent technologies, inc.",,1,,,20241121,gonsalves rodney,112760224027860,"V.P., Corporate Controller",male,285193011.0
+26355.0,,1090872,"agilent technologies, inc.",1,1,,,20241121,mcdonnell padraig,112760224027861,President and CEO,male,285193011.0
+166114.835,,1090872,"agilent technologies, inc.",,1,,,20241121,mcmahon robert w.,112760224027862,Sr. VP and CFO,male,285193011.0
+15896.0995,2406.0392,1090872,"agilent technologies, inc.",,1,,,20241121,riemann angelica,112760224027863,Senior Vice President,female,285193011.0
+10650.0,,1090872,"agilent technologies, inc.",,1,,,20241122,binns philip,112760224027892,Senior Vice President,male,285193011.0
+3227.0318,,1090872,"agilent technologies, inc.",,1,,,20241126,zhang jianmiao mike,112760224028045,Senior Vice President,male,285193011.0
+15842.0995,2406.0392,1090872,"agilent technologies, inc.",,1,,,20241126,riemann angelica,112760224028044,Senior Vice President,female,285193011.0
+160339.835,,1090872,"agilent technologies, inc.",,1,,,20241126,mcmahon robert w.,112760224028043,Sr. VP and CFO,male,285193011.0
+5101.0,,1090872,"agilent technologies, inc.",,1,,,20241126,kirkwood jonah prevost,112760224028041,Senior Vice President,male,285193011.0
+86338.2842,,1090872,"agilent technologies, inc.",,1,,,20241126,ancher-jensen henrik,112760224028039,Sr Vice President,male,285193011.0
+25907.0,,1090872,"agilent technologies, inc.",1,1,,,20241126,mcdonnell padraig,112760224028042,President and CEO,male,285193011.0
+22306.0747,40.192,1090872,"agilent technologies, inc.",,1,,,20241126,gonsalves rodney,112760224028040,"V.P., Corporate Controller",male,285193011.0
+19054.0995,2406.0392,1090872,"agilent technologies, inc.",false,true,false,false,20241202,riemann angelica,95017024132348,Senior Vice President,female,285193011.0
+5432.0,,1090872,"agilent technologies, inc.",false,true,false,false,20241202,dimarco bret,95017024132352,Senior Vice President,male,285193011.0
+7687.0,,1090872,"agilent technologies, inc.",false,true,false,false,20241202,may simon,95017024132353,Senior Vice President,male,285193011.0
+41563.0,,1090872,"agilent technologies, inc.",true,true,false,false,20241202,mcdonnell padraig,95017024132359,President and CEO,male,285193011.0
+8313.0,,1090872,"agilent technologies, inc.",false,true,false,false,20241202,kirkwood jonah prevost,95017024132362,Senior Vice President,male,285193011.0
+5796.0318,,1090872,"agilent technologies, inc.",false,true,false,false,20241202,zhang jianmiao mike,95017024132363,Senior Vice President,male,285193011.0
+90674.2842,,1090872,"agilent technologies, inc.",false,true,false,false,20241202,ancher-jensen henrik,95017024132365,Sr. Vice President,male,285193011.0
+166762.835,,1090872,"agilent technologies, inc.",false,true,false,false,20241202,mcmahon robert w.,95017024132367,Sr. VP and CFO,male,285193011.0
+23671.0747,40.192,1090872,"agilent technologies, inc.",false,true,false,false,20241202,gonsalves rodney,95017024132369,"V.P., Corporate Controller",male,285193011.0
+88097.2842,,1090872,"agilent technologies, inc.",,1,,,20241203,ancher-jensen henrik,112760224028549,Sr Vice President,male,285193011.0

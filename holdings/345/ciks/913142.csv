@@ -1,326 +1,708 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-155089.39,0.0,913142,belden inc.,1,1,0,0.0,20100108,stroup john s,120919110002481,Chief Executive Officer,male,46660.0
-34336.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,suggs denis,120919110011659,EVP Amer Ops & Glob Cable Prod,male,46660.0
-47390.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,staples cathy o,120919110011657,"SVP, Human Resources",female,46660.0
-18864.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,norman john s,120919110011656,"VP, Finance - EMEA",male,46660.0
-33243.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,kumra naresh,120919110011655,"EVP, Asia Pacific Ops.",male,46660.0
-335665.39,0.0,913142,belden inc.,1,1,0,0.0,20100224,stroup john s,120919110011658,Chief Executive Officer,male,46660.0
-37652.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,bloomfield kevin l,120919110011652,"SVP, Secretary & Gen. Counsel",male,46660.0
-26038.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,biegacki steven,120919110011651,"SVP, Global Sales & Mktg.",male,46660.0
-74887.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,benoist gray g,120919110011650,"SVP Finance, CFO & CAO",male,46660.0
-13671.0,0.0,913142,belden inc.,0,1,0,0.0,20100224,derksen henk,120919110011653,"VP, FP&A and Treasurer",male,46660.0
-47390.0,0.0,913142,belden inc.,0,1,0,0.0,20100326,staples cathy o,120919110018823,"SVP, Human Resources",female,46660.0
-11595.0,0.0,913142,belden inc.,0,1,0,0.0,20100405,gusenleitner christoph,120919110020474,EVP EMEA & Glob. Conn. Prods.,male,46660.0
-335941.44,0.0,913142,belden inc.,1,1,0,0.0,20100407,stroup john s,120919110021340,Chief Executive Officer,male,46660.0
-16383.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,mcleod mary s,120919110029529,,female,46660.0
-15405.0,23111.0,913142,belden inc.,1,0,0,0.0,20100521,rethore bernard g,120919110029533,,male,46660.0
-39816.0,46695.0,913142,belden inc.,1,0,0,0.0,20100521,monter john m,120919110029531,,male,46660.0
-29020.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,kalnasy glenn,120919110029528,,male,46660.0
-7148.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,minnich george e,120919110029530,,male,46660.0
-42270.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,balk lance c,120919110029521,,male,46660.0
-32951.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,bain lorne d,120919110029520,,male,46660.0
-18416.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,aldrich david j,120919110029519,,male,46660.0
-16383.0,0.0,913142,belden inc.,1,0,0,0.0,20100521,brown judy l,120919110029522,,female,46660.0
-117605.0,0.0,913142,belden inc.,1,0,0,0.0,20100524,cressey bryan c,120919110029922,,male,46660.0
-42466.0,0.0,913142,belden inc.,0,1,0,0.0,20100615,suggs denis,120919110034238,EVP Amer Ops & Glob Cable Prod,male,46660.0
-336272.85,0.0,913142,belden inc.,1,1,0,0.0,20100708,stroup john s,120919110037772,Chief Executive Officer,male,46660.0
-336559.38,0.0,913142,belden inc.,1,1,0,0.0,20101006,stroup john s,120919110049500,Chief Executive Officer,male,46812126.0
-4063.0,0.0,913142,belden inc.,1,1,0,0.0,20101008,stroup john s,120919110049811,Chief Executive Officer,male,46812126.0
+,,913142,belden inc.,1,1,0,0.0,20100108,stroup john s,120919110002481,Chief Executive Officer,male,
+18864.0,,913142,belden inc.,0,1,0,0.0,20100224,norman john s,120919110011656,"VP, Finance - EMEA",male,
+34336.0,,913142,belden inc.,0,1,0,0.0,20100224,suggs denis,120919110011659,EVP Amer Ops & Glob Cable Prod,male,
+335665.39,,913142,belden inc.,1,1,0,0.0,20100224,stroup john s,120919110011658,Chief Executive Officer,male,
+47390.0,,913142,belden inc.,0,1,0,0.0,20100224,staples cathy o,120919110011657,"SVP, Human Resources",female,
+33243.0,,913142,belden inc.,0,1,0,0.0,20100224,kumra naresh,120919110011655,"EVP, Asia Pacific Ops.",male,
+37652.0,,913142,belden inc.,0,1,0,0.0,20100224,bloomfield kevin l,120919110011652,"SVP, Secretary & Gen. Counsel",male,
+74887.0,,913142,belden inc.,0,1,0,0.0,20100224,benoist gray g,120919110011650,"SVP Finance, CFO & CAO",male,
+13671.0,,913142,belden inc.,0,1,0,0.0,20100224,derksen henk,120919110011653,"VP, FP&A and Treasurer",male,
+26038.0,,913142,belden inc.,0,1,0,0.0,20100224,biegacki steven,120919110011651,"SVP, Global Sales & Mktg.",male,
+47390.0,,913142,belden inc.,0,1,0,0.0,20100326,staples cathy o,120919110018823,"SVP, Human Resources",female,
+11595.0,,913142,belden inc.,0,1,0,0.0,20100405,gusenleitner christoph,120919110020474,EVP EMEA & Glob. Conn. Prods.,male,
+335941.44,,913142,belden inc.,1,1,0,0.0,20100407,stroup john s,120919110021340,Chief Executive Officer,male,
+32951.0,,913142,belden inc.,1,0,0,0.0,20100521,bain lorne d,120919110029520,,male,
+42270.0,,913142,belden inc.,1,0,0,0.0,20100521,balk lance c,120919110029521,,male,
+16383.0,,913142,belden inc.,1,0,0,0.0,20100521,brown judy l,120919110029522,,female,
+29020.0,,913142,belden inc.,1,0,0,0.0,20100521,kalnasy glenn,120919110029528,,male,
+16383.0,,913142,belden inc.,1,0,0,0.0,20100521,mcleod mary s,120919110029529,,female,
+7148.0,,913142,belden inc.,1,0,0,0.0,20100521,minnich george e,120919110029530,,male,
+39816.0,46695.0,913142,belden inc.,1,0,0,0.0,20100521,monter john m,120919110029531,,male,
+15405.0,23111.0,913142,belden inc.,1,0,0,0.0,20100521,rethore bernard g,120919110029533,,male,
+18416.0,,913142,belden inc.,1,0,0,0.0,20100521,aldrich david j,120919110029519,,male,
+117605.0,,913142,belden inc.,1,0,0,0.0,20100524,cressey bryan c,120919110029922,,male,
+42466.0,,913142,belden inc.,0,1,0,0.0,20100615,suggs denis,120919110034238,EVP Amer Ops & Glob Cable Prod,male,
+336272.85,,913142,belden inc.,1,1,0,0.0,20100708,stroup john s,120919110037772,Chief Executive Officer,male,
+336559.38,,913142,belden inc.,1,1,0,0.0,20101006,stroup john s,120919110049500,Chief Executive Officer,male,46812126.0
+4063.0,,913142,belden inc.,1,1,0,0.0,20101008,stroup john s,120919110049811,Chief Executive Officer,male,46812126.0
 266281.0,4063.0,913142,belden inc.,1,1,0,0.0,20101102,stroup john s,120919110052552,Chief Executive Officer,male,46812126.0
-47390.0,0.0,913142,belden inc.,0,1,0,0.0,20101213,staples cathy o,120919110059780,"SVP, Human Resources",female,46937599.0
-48395.0,0.0,913142,belden inc.,0,1,0,0.0,20101213,staples cathy o,120919110059779,"SVP, Human Resources",female,46937599.0
-12126.0,0.0,913142,belden inc.,0,1,0,0.0,20101213,derksen henk,120919110059777,"VP, FP&A and Treasurer",male,46937599.0
-55890.0,0.0,913142,belden inc.,0,1,0,0.0,20101213,staples cathy o,120919110059778,"SVP, Human Resources",female,46937599.0
-37652.0,0.0,913142,belden inc.,0,1,0,0.0,20101217,bloomfield kevin l,120919110061370,"SVP, Secretary & Gen. Counsel",male,46937599.0
-67211.0,0.0,913142,belden inc.,0,1,0,0.0,20110208,benoist gray g,120919111007562,"SVP Finance, CFO & CAO",male,47045000.0
-223119.0,0.0,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007989,Chief Executive Officer,male,47045000.0
-310019.0,0.0,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007981,Chief Executive Officer,male,47045000.0
-310019.0,0.0,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007984,Chief Executive Officer,male,47045000.0
-244323.0,0.0,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007988,Chief Executive Officer,male,47045000.0
-223119.0,0.0,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008260,Chief Executive Officer,male,47045000.0
-245534.0,0.0,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008256,Chief Executive Officer,male,47045000.0
-230919.0,0.0,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008247,Chief Executive Officer,male,47045000.0
-259518.0,0.0,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008255,Chief Executive Officer,male,47045000.0
-36057.0,0.0,913142,belden inc.,0,1,0,0.0,20110223,bloomfield kevin l,120919111012057,"SVP, Secretary & Gen. Counsel",male,47045000.0
-11087.0,0.0,913142,belden inc.,0,1,0,0.0,20110223,derksen henk,120919111012072,"VP, FP&A and Treasurer",male,47045000.0
-17816.0,0.0,913142,belden inc.,0,1,0,0.0,20110223,norman john s,120919111012078,"VP, Finance - EMEA",male,47045000.0
-46314.0,0.0,913142,belden inc.,0,1,0,0.0,20110223,staples cathy o,120919111012085,"SVP, Human Resources",female,47045000.0
-209078.0,0.0,913142,belden inc.,1,1,0,0.0,20110223,stroup john s,120919111012086,Chief Executive Officer,male,47045000.0
-40674.0,0.0,913142,belden inc.,0,1,0,0.0,20110223,suggs denis,120919111012087,EVP Amer Ops & Glob Cable Prod,male,47045000.0
-24621.0,0.0,913142,belden inc.,0,1,0,0.0,20110224,biegacki steven,120919111012259,"SVP, Global Sales & Mktg.",male,47045000.0
-63865.0,0.0,913142,belden inc.,0,1,0,0.0,20110224,benoist gray g,120919111012270,"SVP Finance, CFO & CAO",male,47045000.0
-2500.0,0.0,913142,belden inc.,1,0,0,0.0,20110302,yoost dean a,120919111014247,,male,47045000.0
-0.0,0.0,913142,belden inc.,1,1,0,0.0,20110303,stroup john s,120919111014747,Chief Executive Officer,male,47045000.0
-42770.0,0.0,913142,belden inc.,1,0,0,0.0,20110303,balk lance c,120919111014823,,male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,suggs denis,120919111014738,EVP Amer Ops & Glob Cable Prod,male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,staples cathy o,120919111014735,"SVP, Human Resources",female,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,norman john s,120919111014729,"VP, Finance - EMEA",male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,kumra naresh,120919111014724,"EVP, Asia Pacific Ops.",male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,gusenleitner christoph,120919111014717,EVP EMEA & Glob. Conn. Prods.,male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,derksen henk,120919111014714,"VP, FP&A and Treasurer",male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,bloomfield kevin l,120919111014712,"SVP, Secretary & Gen. Counsel",male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,biegacki steven,120919111014709,"SVP, Global Sales & Mktg.",male,47045000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20110303,benoist gray g,120919111014707,"SVP Finance, CFO & CAO",male,47045000.0
-43770.0,0.0,913142,belden inc.,1,0,0,0.0,20110316,balk lance c,120919111018307,,male,47045000.0
-21956.0,0.0,913142,belden inc.,0,1,0,0.0,20110401,biegacki steven,120919111020529,"SVP, Global Sales & Mktg.",male,47045000.0
-45270.0,0.0,913142,belden inc.,1,0,0,0.0,20110405,balk lance c,120919111021340,,male,47045000.0
-117819.0,0.0,913142,belden inc.,1,0,0,0.0,20110429,cressey bryan c,120919111025035,,male,47045000.0
-29020.0,0.0,913142,belden inc.,1,0,0,0.0,20110429,kalnasy glenn,120919111025031,,male,47045000.0
-46314.0,0.0,913142,belden inc.,0,1,0,0.0,20110502,staples cathy o,120919111025406,"SVP, Human Resources",female,47045000.0
-17841.0,0.0,913142,belden inc.,0,1,0,0.0,20110519,derksen henk,120919111029687,"VP, FP&A and Treasurer",male,47376195.0
-18517.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,rethore bernard g,120919111030041,,male,47376195.0
-42928.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,monter john m,120919111030040,,male,47376195.0
-10260.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,minnich george e,120919111030039,,male,47376195.0
-19495.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,mcleod mary s,120919111030035,,female,47376195.0
-32132.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,kalnasy glenn,120919111030033,,male,47376195.0
-5612.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,yoost dean a,120919111030042,,male,47376195.0
-49782.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,balk lance c,120919111029995,,male,47376195.0
-21528.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,aldrich david j,120919111029992,,male,47376195.0
-36042.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,bain lorne d,120919111029968,,male,47376195.0
-46670.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,balk lance c,120919111029963,,male,47376195.0
-120931.0,0.0,913142,belden inc.,1,0,0,0.0,20110520,cressey bryan c,120919111030032,,male,47376195.0
-50132.0,0.0,913142,belden inc.,1,0,0,0.0,20110523,balk lance c,120919111030341,,male,47376195.0
-19495.0,0.0,913142,belden inc.,1,0,0,0.0,20110523,brown judy l,120919111030276,,female,47376195.0
-9163.0,0.0,913142,belden inc.,0,1,0,0.0,20110531,derksen henk,120919111031710,"VP, FP&A and Treasurer",male,47376195.0
+48395.0,,913142,belden inc.,0,1,0,0.0,20101213,staples cathy o,120919110059779,"SVP, Human Resources",female,46937599.0
+47390.0,,913142,belden inc.,0,1,0,0.0,20101213,staples cathy o,120919110059780,"SVP, Human Resources",female,46937599.0
+12126.0,,913142,belden inc.,0,1,0,0.0,20101213,derksen henk,120919110059777,"VP, FP&A and Treasurer",male,46937599.0
+55890.0,,913142,belden inc.,0,1,0,0.0,20101213,staples cathy o,120919110059778,"SVP, Human Resources",female,46937599.0
+37652.0,,913142,belden inc.,0,1,0,0.0,20101217,bloomfield kevin l,120919110061370,"SVP, Secretary & Gen. Counsel",male,46937599.0
+67211.0,,913142,belden inc.,0,1,0,0.0,20110208,benoist gray g,120919111007562,"SVP Finance, CFO & CAO",male,47045000.0
+310019.0,,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007981,Chief Executive Officer,male,47045000.0
+310019.0,,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007984,Chief Executive Officer,male,47045000.0
+244323.0,,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007988,Chief Executive Officer,male,47045000.0
+223119.0,,913142,belden inc.,1,1,0,0.0,20110209,stroup john s,120919111007989,Chief Executive Officer,male,47045000.0
+230919.0,,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008247,Chief Executive Officer,male,47045000.0
+259518.0,,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008255,Chief Executive Officer,male,47045000.0
+245534.0,,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008256,Chief Executive Officer,male,47045000.0
+223119.0,,913142,belden inc.,1,1,0,0.0,20110210,stroup john s,120919111008260,Chief Executive Officer,male,47045000.0
+209078.0,,913142,belden inc.,1,1,0,0.0,20110223,stroup john s,120919111012086,Chief Executive Officer,male,47045000.0
+40674.0,,913142,belden inc.,0,1,0,0.0,20110223,suggs denis,120919111012087,EVP Amer Ops & Glob Cable Prod,male,47045000.0
+11087.0,,913142,belden inc.,0,1,0,0.0,20110223,derksen henk,120919111012072,"VP, FP&A and Treasurer",male,47045000.0
+17816.0,,913142,belden inc.,0,1,0,0.0,20110223,norman john s,120919111012078,"VP, Finance - EMEA",male,47045000.0
+46314.0,,913142,belden inc.,0,1,0,0.0,20110223,staples cathy o,120919111012085,"SVP, Human Resources",female,47045000.0
+36057.0,,913142,belden inc.,0,1,0,0.0,20110223,bloomfield kevin l,120919111012057,"SVP, Secretary & Gen. Counsel",male,47045000.0
+63865.0,,913142,belden inc.,0,1,0,0.0,20110224,benoist gray g,120919111012270,"SVP Finance, CFO & CAO",male,47045000.0
+24621.0,,913142,belden inc.,0,1,0,0.0,20110224,biegacki steven,120919111012259,"SVP, Global Sales & Mktg.",male,47045000.0
+2500.0,,913142,belden inc.,1,0,0,0.0,20110302,yoost dean a,120919111014247,,male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,biegacki steven,120919111014709,"SVP, Global Sales & Mktg.",male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,bloomfield kevin l,120919111014712,"SVP, Secretary & Gen. Counsel",male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,derksen henk,120919111014714,"VP, FP&A and Treasurer",male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,gusenleitner christoph,120919111014717,EVP EMEA & Glob. Conn. Prods.,male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,kumra naresh,120919111014724,"EVP, Asia Pacific Ops.",male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,staples cathy o,120919111014735,"SVP, Human Resources",female,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,suggs denis,120919111014738,EVP Amer Ops & Glob Cable Prod,male,47045000.0
+,,913142,belden inc.,1,1,0,0.0,20110303,stroup john s,120919111014747,Chief Executive Officer,male,47045000.0
+42770.0,,913142,belden inc.,1,0,0,0.0,20110303,balk lance c,120919111014823,,male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,benoist gray g,120919111014707,"SVP Finance, CFO & CAO",male,47045000.0
+,,913142,belden inc.,0,1,0,0.0,20110303,norman john s,120919111014729,"VP, Finance - EMEA",male,47045000.0
+43770.0,,913142,belden inc.,1,0,0,0.0,20110316,balk lance c,120919111018307,,male,47045000.0
+21956.0,,913142,belden inc.,0,1,0,0.0,20110401,biegacki steven,120919111020529,"SVP, Global Sales & Mktg.",male,47045000.0
+45270.0,,913142,belden inc.,1,0,0,0.0,20110405,balk lance c,120919111021340,,male,47045000.0
+117819.0,,913142,belden inc.,1,0,0,0.0,20110429,cressey bryan c,120919111025035,,male,47045000.0
+29020.0,,913142,belden inc.,1,0,0,0.0,20110429,kalnasy glenn,120919111025031,,male,47045000.0
+46314.0,,913142,belden inc.,0,1,0,0.0,20110502,staples cathy o,120919111025406,"SVP, Human Resources",female,47045000.0
+17841.0,,913142,belden inc.,0,1,0,0.0,20110519,derksen henk,120919111029687,"VP, FP&A and Treasurer",male,47376195.0
+36042.0,,913142,belden inc.,1,0,0,0.0,20110520,bain lorne d,120919111029968,,male,47376195.0
+21528.0,,913142,belden inc.,1,0,0,0.0,20110520,aldrich david j,120919111029992,,male,47376195.0
+49782.0,,913142,belden inc.,1,0,0,0.0,20110520,balk lance c,120919111029995,,male,47376195.0
+120931.0,,913142,belden inc.,1,0,0,0.0,20110520,cressey bryan c,120919111030032,,male,47376195.0
+32132.0,,913142,belden inc.,1,0,0,0.0,20110520,kalnasy glenn,120919111030033,,male,47376195.0
+10260.0,,913142,belden inc.,1,0,0,0.0,20110520,minnich george e,120919111030039,,male,47376195.0
+42928.0,,913142,belden inc.,1,0,0,0.0,20110520,monter john m,120919111030040,,male,47376195.0
+18517.0,,913142,belden inc.,1,0,0,0.0,20110520,rethore bernard g,120919111030041,,male,47376195.0
+5612.0,,913142,belden inc.,1,0,0,0.0,20110520,yoost dean a,120919111030042,,male,47376195.0
+46670.0,,913142,belden inc.,1,0,0,0.0,20110520,balk lance c,120919111029963,,male,47376195.0
+19495.0,,913142,belden inc.,1,0,0,0.0,20110520,mcleod mary s,120919111030035,,female,47376195.0
+19495.0,,913142,belden inc.,1,0,0,0.0,20110523,brown judy l,120919111030276,,female,47376195.0
+50132.0,,913142,belden inc.,1,0,0,0.0,20110523,balk lance c,120919111030341,,male,47376195.0
+9163.0,,913142,belden inc.,0,1,0,0.0,20110531,derksen henk,120919111031710,"VP, FP&A and Treasurer",male,47376195.0
 45808.0,32403.0,913142,belden inc.,1,0,0,0.0,20110706,monter john m,120919111038081,,male,47376195.0
-55132.0,0.0,913142,belden inc.,1,0,0,0.0,20110809,balk lance c,120919111042989,,male,47439040.0
-125931.0,0.0,913142,belden inc.,1,0,0,0.0,20110809,cressey bryan c,120919111043027,,male,47439040.0
-60132.0,0.0,913142,belden inc.,1,0,0,0.0,20110815,balk lance c,120919111044112,,male,47439040.0
-6400.0,0.0,913142,belden inc.,1,0,0,0.0,20110816,yoost dean a,120919111044360,,male,47439040.0
-62132.0,0.0,913142,belden inc.,1,0,0,0.0,20110823,balk lance c,120919111045307,,male,47439040.0
-60602.0,0.0,913142,belden inc.,0,1,0,0.0,20110825,benoist gray g,120919111045600,"SVP Finance, CFO & CAO",male,47439040.0
-10563.0,0.0,913142,belden inc.,0,1,0,0.0,20110829,derksen henk,120919111045879,"VP, FP&A and Treasurer",male,47439040.0
-130931.0,0.0,913142,belden inc.,1,0,0,0.0,20110922,cressey bryan c,120919111048731,,male,47439040.0
-32132.0,0.0,913142,belden inc.,1,0,0,0.0,20111031,kalnasy glenn,120919111053277,,male,47439040.0
-48888.0,0.0,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053282,SVP Finance and CFO,male,47439040.0
-40854.0,0.0,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053285,SVP Finance and CFO,male,47439040.0
-32929.0,0.0,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053287,SVP Finance and CFO,male,47439040.0
-0.0,9000.0,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053289,SVP Finance and CFO,male,47439040.0
-46314.0,0.0,913142,belden inc.,0,1,0,0.0,20111103,staples cathy o,120919111054181,"SVP, Human Resources",female,47439040.0
-132181.0,0.0,913142,belden inc.,1,0,0,0.0,20120123,cressey bryan c,120919112004815,,male,45825000.0
-65132.0,0.0,913142,belden inc.,1,0,0,0.0,20120125,balk lance c,120919112005334,,male,45825000.0
-33132.0,0.0,913142,belden inc.,1,0,0,0.0,20120125,kalnasy glenn,120919112005295,,male,45825000.0
-7880.0,0.0,913142,belden inc.,0,1,0,0.0,20120213,wolfe nancy,120919112009424,"SVP, Human Resources",female,45825000.0
-71635.0,0.0,913142,belden inc.,0,1,0,0.0,20120213,bloomfield kevin l,120919112009605,"SVP, Secretary & Gen. Counsel",male,45825000.0
-44765.0,0.0,913142,belden inc.,0,1,0,0.0,20120213,bloomfield kevin l,120919112009607,"SVP, Secretary & Gen. Counsel",male,45825000.0
-36057.0,0.0,913142,belden inc.,0,1,0,0.0,20120213,bloomfield kevin l,120919112009608,"SVP, Secretary & Gen. Counsel",male,45825000.0
-41314.0,0.0,913142,belden inc.,0,1,0,0.0,20120214,staples cathy o,120919112009849,"SVP, Human Resources",female,45825000.0
-53581.0,0.0,913142,belden inc.,0,1,0,0.0,20120214,benoist gray g,120919112009909,SVP Finance and CFO,male,45825000.0
-17816.0,0.0,913142,belden inc.,0,1,0,0.0,20120215,norman john s,120919112010450,"VP, Controller & CAO",male,45825000.0
-192478.0,0.0,913142,belden inc.,1,1,0,0.0,20120215,stroup john s,120919112010543,Chief Executive Officer,male,45825000.0
-184078.0,0.0,913142,belden inc.,1,1,0,0.0,20120215,stroup john s,120919112010545,Chief Executive Officer,male,45825000.0
-45581.0,0.0,913142,belden inc.,0,1,0,0.0,20120215,benoist gray g,120919112010598,Senior VP,male,45825000.0
-38281.0,0.0,913142,belden inc.,0,1,0,0.0,20120215,benoist gray g,120919112010599,Senior VP,male,45825000.0
-32929.0,0.0,913142,belden inc.,0,1,0,0.0,20120215,benoist gray g,120919112010600,Senior VP,male,45825000.0
-32132.0,0.0,913142,belden inc.,1,0,0,0.0,20120221,kalnasy glenn,120919112011821,,male,45825000.0
-172576.0,0.0,913142,belden inc.,1,1,0,0.0,20120223,stroup john s,120919112012313,President and CEO,male,45825000.0
-40305.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,staples cathy o,120919112012312,SVP,female,45825000.0
-16854.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,norman john s,120919112012310,"VP, Controller & CAO",male,45825000.0
-38883.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,suggs denis,120919112012316,EVP Amer Ops & Glob Cable Prod,male,45825000.0
-34536.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,bloomfield kevin l,120919112012308,"SVP, Secretary & Gen. Counsel",male,45825000.0
-29643.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,benoist gray g,120919112012306,Senior VP,male,45825000.0
-9537.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,derksen henk,120919112012309,"SVP, Finance, & CFO",male,45825000.0
-20540.0,0.0,913142,belden inc.,0,1,0,0.0,20120223,biegacki steven,120919112012307,"SVP, Global Sales & Mktg.",male,45825000.0
-32144.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,kumra naresh,120919112013881,"EVP, Asia Pacific Ops.",male,45825000.0
-9120.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,wolfe nancy,120919112013848,"SVP, Human Resources",female,45825000.0
-0.0,0.0,913142,belden inc.,1,1,0,0.0,20120229,stroup john s,120919112013842,President and CEO,male,45825000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,norman john s,120919112013840,"VP, Controller & CAO",male,45825000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,suggs denis,120919112013846,EVP Amer Ops & Glob Cable Prod,male,45825000.0
-10527.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,derksen henk,120919112013838,"SVP, Finance, & CFO",male,45825000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,bloomfield kevin l,120919112013837,"SVP, Secretary & Gen. Counsel",male,45825000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,biegacki steven,120919112013836,"SVP, Global Sales & Mktg.",male,45825000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20120229,gusenleitner christoph,120919112013839,EVP EMEA & Glob. Conn. Prods.,male,45825000.0
-979.0,0.0,913142,belden inc.,0,1,0,0.0,20120301,kumra naresh,120919112014409,"EVP, Asia Pacific Ops.",male,45825000.0
-22844.0,0.0,913142,belden inc.,0,1,0,0.0,20120302,kumra naresh,120919112015137,"EVP, Asia Pacific Ops.",male,45825000.0
-11862.0,0.0,913142,belden inc.,0,1,0,0.0,20120313,derksen henk,120919112017953,"SVP, Finance, & CFO",male,45825000.0
-8591.0,0.0,913142,belden inc.,0,1,0,0.0,20120319,derksen henk,120919112018968,"SVP, Finance, & CFO",male,45825000.0
-18779.0,0.0,913142,belden inc.,0,1,0,0.0,20120320,biegacki steven,120919112019274,"SVP, Global Sales & Mktg.",male,45825000.0
-55237.0,0.0,913142,belden inc.,0,1,0,0.0,20120320,kumra naresh,120919112019229,"EVP, Asia Pacific Ops.",male,45825000.0
-15667.0,0.0,913142,belden inc.,0,1,0,0.0,20120320,benoist gray g,120919112019263,Senior VP,male,45825000.0
-36886.0,0.0,913142,belden inc.,0,1,0,0.0,20120320,staples cathy o,120919112019267,SVP,female,45825000.0
-32132.0,0.0,913142,belden inc.,1,0,0,0.0,20120328,kalnasy glenn,120919112020246,,male,45825000.0
-15123.0,0.0,913142,belden inc.,0,1,0,0.0,20120328,biegacki steven,120919112020243,"SVP, Global Sales & Mktg.",male,45825000.0
+55132.0,,913142,belden inc.,1,0,0,0.0,20110809,balk lance c,120919111042989,,male,47439040.0
+125931.0,,913142,belden inc.,1,0,0,0.0,20110809,cressey bryan c,120919111043027,,male,47439040.0
+60132.0,,913142,belden inc.,1,0,0,0.0,20110815,balk lance c,120919111044112,,male,47439040.0
+6400.0,,913142,belden inc.,1,0,0,0.0,20110816,yoost dean a,120919111044360,,male,47439040.0
+62132.0,,913142,belden inc.,1,0,0,0.0,20110823,balk lance c,120919111045307,,male,47439040.0
+60602.0,,913142,belden inc.,0,1,0,0.0,20110825,benoist gray g,120919111045600,"SVP Finance, CFO & CAO",male,47439040.0
+10563.0,,913142,belden inc.,0,1,0,0.0,20110829,derksen henk,120919111045879,"VP, FP&A and Treasurer",male,47439040.0
+130931.0,,913142,belden inc.,1,0,0,0.0,20110922,cressey bryan c,120919111048731,,male,47439040.0
+32132.0,,913142,belden inc.,1,0,0,0.0,20111031,kalnasy glenn,120919111053277,,male,47439040.0
+48888.0,,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053282,SVP Finance and CFO,male,47439040.0
+40854.0,,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053285,SVP Finance and CFO,male,47439040.0
+32929.0,,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053287,SVP Finance and CFO,male,47439040.0
+,9000.0,913142,belden inc.,0,1,0,0.0,20111031,benoist gray g,120919111053289,SVP Finance and CFO,male,47439040.0
+46314.0,,913142,belden inc.,0,1,0,0.0,20111103,staples cathy o,120919111054181,"SVP, Human Resources",female,47439040.0
+132181.0,,913142,belden inc.,1,0,0,0.0,20120123,cressey bryan c,120919112004815,,male,45825000.0
+33132.0,,913142,belden inc.,1,0,0,0.0,20120125,kalnasy glenn,120919112005295,,male,45825000.0
+65132.0,,913142,belden inc.,1,0,0,0.0,20120125,balk lance c,120919112005334,,male,45825000.0
+71635.0,,913142,belden inc.,0,1,0,0.0,20120213,bloomfield kevin l,120919112009605,"SVP, Secretary & Gen. Counsel",male,45825000.0
+44765.0,,913142,belden inc.,0,1,0,0.0,20120213,bloomfield kevin l,120919112009607,"SVP, Secretary & Gen. Counsel",male,45825000.0
+36057.0,,913142,belden inc.,0,1,0,0.0,20120213,bloomfield kevin l,120919112009608,"SVP, Secretary & Gen. Counsel",male,45825000.0
+7880.0,,913142,belden inc.,0,1,0,0.0,20120213,wolfe nancy,120919112009424,"SVP, Human Resources",female,45825000.0
+41314.0,,913142,belden inc.,0,1,0,0.0,20120214,staples cathy o,120919112009849,"SVP, Human Resources",female,45825000.0
+53581.0,,913142,belden inc.,0,1,0,0.0,20120214,benoist gray g,120919112009909,SVP Finance and CFO,male,45825000.0
+32929.0,,913142,belden inc.,0,1,0,0.0,20120215,benoist gray g,120919112010600,Senior VP,male,45825000.0
+38281.0,,913142,belden inc.,0,1,0,0.0,20120215,benoist gray g,120919112010599,Senior VP,male,45825000.0
+17816.0,,913142,belden inc.,0,1,0,0.0,20120215,norman john s,120919112010450,"VP, Controller & CAO",male,45825000.0
+184078.0,,913142,belden inc.,1,1,0,0.0,20120215,stroup john s,120919112010545,Chief Executive Officer,male,45825000.0
+192478.0,,913142,belden inc.,1,1,0,0.0,20120215,stroup john s,120919112010543,Chief Executive Officer,male,45825000.0
+45581.0,,913142,belden inc.,0,1,0,0.0,20120215,benoist gray g,120919112010598,Senior VP,male,45825000.0
+32132.0,,913142,belden inc.,1,0,0,0.0,20120221,kalnasy glenn,120919112011821,,male,45825000.0
+29643.0,,913142,belden inc.,0,1,0,0.0,20120223,benoist gray g,120919112012306,Senior VP,male,45825000.0
+20540.0,,913142,belden inc.,0,1,0,0.0,20120223,biegacki steven,120919112012307,"SVP, Global Sales & Mktg.",male,45825000.0
+34536.0,,913142,belden inc.,0,1,0,0.0,20120223,bloomfield kevin l,120919112012308,"SVP, Secretary & Gen. Counsel",male,45825000.0
+9537.0,,913142,belden inc.,0,1,0,0.0,20120223,derksen henk,120919112012309,"SVP, Finance, & CFO",male,45825000.0
+16854.0,,913142,belden inc.,0,1,0,0.0,20120223,norman john s,120919112012310,"VP, Controller & CAO",male,45825000.0
+40305.0,,913142,belden inc.,0,1,0,0.0,20120223,staples cathy o,120919112012312,SVP,female,45825000.0
+172576.0,,913142,belden inc.,1,1,0,0.0,20120223,stroup john s,120919112012313,President and CEO,male,45825000.0
+38883.0,,913142,belden inc.,0,1,0,0.0,20120223,suggs denis,120919112012316,EVP Amer Ops & Glob Cable Prod,male,45825000.0
+32144.0,,913142,belden inc.,0,1,0,0.0,20120229,kumra naresh,120919112013881,"EVP, Asia Pacific Ops.",male,45825000.0
+9120.0,,913142,belden inc.,0,1,0,0.0,20120229,wolfe nancy,120919112013848,"SVP, Human Resources",female,45825000.0
+,,913142,belden inc.,0,1,0,0.0,20120229,suggs denis,120919112013846,EVP Amer Ops & Glob Cable Prod,male,45825000.0
+,,913142,belden inc.,0,1,0,0.0,20120229,gusenleitner christoph,120919112013839,EVP EMEA & Glob. Conn. Prods.,male,45825000.0
+,,913142,belden inc.,0,1,0,0.0,20120229,norman john s,120919112013840,"VP, Controller & CAO",male,45825000.0
+,,913142,belden inc.,1,1,0,0.0,20120229,stroup john s,120919112013842,President and CEO,male,45825000.0
+10527.0,,913142,belden inc.,0,1,0,0.0,20120229,derksen henk,120919112013838,"SVP, Finance, & CFO",male,45825000.0
+,,913142,belden inc.,0,1,0,0.0,20120229,biegacki steven,120919112013836,"SVP, Global Sales & Mktg.",male,45825000.0
+,,913142,belden inc.,0,1,0,0.0,20120229,bloomfield kevin l,120919112013837,"SVP, Secretary & Gen. Counsel",male,45825000.0
+979.0,,913142,belden inc.,0,1,0,0.0,20120301,kumra naresh,120919112014409,"EVP, Asia Pacific Ops.",male,45825000.0
+22844.0,,913142,belden inc.,0,1,0,0.0,20120302,kumra naresh,120919112015137,"EVP, Asia Pacific Ops.",male,45825000.0
+11862.0,,913142,belden inc.,0,1,0,0.0,20120313,derksen henk,120919112017953,"SVP, Finance, & CFO",male,45825000.0
+8591.0,,913142,belden inc.,0,1,0,0.0,20120319,derksen henk,120919112018968,"SVP, Finance, & CFO",male,45825000.0
+55237.0,,913142,belden inc.,0,1,0,0.0,20120320,kumra naresh,120919112019229,"EVP, Asia Pacific Ops.",male,45825000.0
+15667.0,,913142,belden inc.,0,1,0,0.0,20120320,benoist gray g,120919112019263,Senior VP,male,45825000.0
+36886.0,,913142,belden inc.,0,1,0,0.0,20120320,staples cathy o,120919112019267,SVP,female,45825000.0
+18779.0,,913142,belden inc.,0,1,0,0.0,20120320,biegacki steven,120919112019274,"SVP, Global Sales & Mktg.",male,45825000.0
+32132.0,,913142,belden inc.,1,0,0,0.0,20120328,kalnasy glenn,120919112020246,,male,45825000.0
+15123.0,,913142,belden inc.,0,1,0,0.0,20120328,biegacki steven,120919112020243,"SVP, Global Sales & Mktg.",male,45825000.0
 43094.0,979.0,913142,belden inc.,0,1,0,0.0,20120402,kumra naresh,120919112020918,"EVP, Asia Pacific Ops.",male,45825000.0
-11495.0,0.0,913142,belden inc.,1,0,0,0.0,20120518,mcleod mary s,120919112029144,,female,45513186.0
-3112.0,0.0,913142,belden inc.,1,0,0,0.0,20120521,mcleod mary s,120919112029356,,female,45513186.0
-0.0,0.0,913142,belden inc.,1,0,0,0.0,20120524,mcleod mary s,120919112030151,,female,45513186.0
-10240.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,yoost dean a,120919112031558,,male,45513186.0
+11495.0,,913142,belden inc.,1,0,0,0.0,20120518,mcleod mary s,120919112029144,,female,45513186.0
+3112.0,,913142,belden inc.,1,0,0,0.0,20120521,mcleod mary s,120919112029356,,female,45513186.0
+0.0,,913142,belden inc.,1,0,0,0.0,20120524,mcleod mary s,120919112030151,,female,45513186.0
 22294.0,23111.0,913142,belden inc.,1,0,0,0.0,20120601,rethore bernard g,120919112031555,,male,45513186.0
-14100.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,minnich george e,120919112031543,,male,45513186.0
-35972.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,kalnasy glenn,120919112031537,,male,45513186.0
-3777.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,mcleod mary s,120919112031539,,female,45513186.0
-23335.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,brown judy l,120919112031531,,female,45513186.0
-68972.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,balk lance c,120919112031528,,male,45513186.0
-25368.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,aldrich david j,120919112031527,,male,45513186.0
-136021.0,0.0,913142,belden inc.,1,0,0,0.0,20120601,cressey bryan c,120919112031533,,male,45513186.0
+10240.0,,913142,belden inc.,1,0,0,0.0,20120601,yoost dean a,120919112031558,,male,45513186.0
+14100.0,,913142,belden inc.,1,0,0,0.0,20120601,minnich george e,120919112031543,,male,45513186.0
+23335.0,,913142,belden inc.,1,0,0,0.0,20120601,brown judy l,120919112031531,,female,45513186.0
+35972.0,,913142,belden inc.,1,0,0,0.0,20120601,kalnasy glenn,120919112031537,,male,45513186.0
+136021.0,,913142,belden inc.,1,0,0,0.0,20120601,cressey bryan c,120919112031533,,male,45513186.0
+68972.0,,913142,belden inc.,1,0,0,0.0,20120601,balk lance c,120919112031528,,male,45513186.0
+3777.0,,913142,belden inc.,1,0,0,0.0,20120601,mcleod mary s,120919112031539,,female,45513186.0
+25368.0,,913142,belden inc.,1,0,0,0.0,20120601,aldrich david j,120919112031527,,male,45513186.0
 15252.0,78211.0,913142,belden inc.,1,0,0,0.0,20120604,monter john m,120919112031795,,male,45513186.0
-171002.0,0.0,913142,belden inc.,1,1,0,0.0,20120615,stroup john s,120919112034005,President and CEO,male,45513186.0
-71972.0,0.0,913142,belden inc.,1,0,0,0.0,20120904,balk lance c,120919112043994,,male,44789871.0
-12423.0,0.0,913142,belden inc.,0,1,0,0.0,20120919,biegacki steven,120919112046225,"SVP, Global Sales & Mktg.",male,44789871.0
-35972.0,0.0,913142,belden inc.,1,0,0,0.0,20120925,kalnasy glenn,120919112046621,,male,44789871.0
-139771.0,0.0,913142,belden inc.,1,0,0,0.0,20120928,cressey bryan c,120919112046883,,male,44789871.0
-19653.0,0.0,913142,belden inc.,0,1,0,0.0,20121003,biegacki steven,120919112047903,"SVP, Global Sales & Mktg.",male,44789871.0
-71264.0,4063.0,913142,belden inc.,1,1,0,0.0,20130102,stroup john s,120919113000166,President and CEO,male,44168000.0
-36151.0,0.0,913142,belden inc.,1,0,0,0.0,20130102,kalnasy glenn,120919113000138,,male,44168000.0
-143521.0,0.0,913142,belden inc.,1,0,0,0.0,20130129,cressey bryan c,120919113005075,,male,44168000.0
-76972.0,0.0,913142,belden inc.,1,0,0,0.0,20130130,balk lance c,120919113005126,,male,44168000.0
-37151.0,0.0,913142,belden inc.,1,0,0,0.0,20130131,kalnasy glenn,120919113005354,,male,44168000.0
-28751.0,0.0,913142,belden inc.,1,0,0,0.0,20130213,kalnasy glenn,120919113008250,,male,44168000.0
-14069.0,0.0,913142,belden inc.,0,1,0,0.0,20130213,gusenleitner christoph,120919113008277,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
-11595.0,0.0,913142,belden inc.,0,1,0,0.0,20130214,gusenleitner christoph,120919113008712,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
-8172.0,0.0,913142,belden inc.,0,1,0,0.0,20130214,wolfe nancy,120919113008898,"SVP, Human Resources",female,44168000.0
-71264.0,0.0,913142,belden inc.,1,1,0,0.0,20130215,stroup john s,120919113009375,President and CEO,male,44168000.0
-20273.0,0.0,913142,belden inc.,0,1,0,0.0,20130219,suggs denis,120919113009852,EVP Amer Ops & Glob Cable Prod,male,44168000.0
-25962.0,0.0,913142,belden inc.,0,1,0,0.0,20130219,suggs denis,120919113009839,EVP Amer Ops & Glob Cable Prod,male,44168000.0
-29859.0,0.0,913142,belden inc.,0,1,0,0.0,20130219,suggs denis,120919113009847,EVP Amer Ops & Glob Cable Prod,male,44168000.0
-17519.0,0.0,913142,belden inc.,0,1,0,0.0,20130226,suggs denis,120919113011527,EVP Amer Ops & Glob Cable Prod,male,44168000.0
-17994.0,0.0,913142,belden inc.,0,1,0,0.0,20130226,biegacki steven,120919113011521,"SVP, Global Sales & Mktg.",male,44168000.0
-32709.0,0.0,913142,belden inc.,0,1,0,0.0,20130226,bloomfield kevin l,120919113011522,"SVP, Secretary & Gen. Counsel",male,44168000.0
-7507.0,0.0,913142,belden inc.,0,1,0,0.0,20130226,derksen henk,120919113011523,"SVP, Finance, & CFO",male,44168000.0
-15703.0,0.0,913142,belden inc.,0,1,0,0.0,20130226,norman john s,120919113011524,"VP, Controller & CAO",male,44168000.0
-54178.0,90618.0,913142,belden inc.,1,1,0,0.0,20130226,stroup john s,120919113011525,President and CEO,male,44168000.0
-153521.0,0.0,913142,belden inc.,1,0,0,0.0,20130226,cressey bryan c,120919113011684,,male,44168000.0
-15149.0,0.0,913142,belden inc.,0,1,0,0.0,20130304,biegacki steven,120919113013025,"SVP, Global Sales & Mktg.",male,44168000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,biegacki steven,120919113014433,"SVP, Global Sales & Mktg.",male,44168000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,bloomfield kevin l,120919113014434,"SVP, Secretary & Gen. Counsel",male,44168000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,derksen henk,120919113014435,"SVP, Finance, & CFO",male,44168000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,gusenleitner christoph,120919113014436,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
-17282.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,norman john s,120919113014438,"VP, Controller & CAO",male,44168000.0
-0.0,0.0,913142,belden inc.,1,1,0,0.0,20130306,stroup john s,120919113014439,President and CEO,male,44168000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,suggs denis,120919113014440,EVP Amer Ops & Glob Cable Prod,male,44168000.0
-0.0,0.0,913142,belden inc.,0,1,0,0.0,20130306,wolfe nancy,120919113014442,"SVP, Human Resources",female,44168000.0
-11402.0,0.0,913142,belden inc.,1,0,0,0.0,20130308,yoost dean a,120919113015127,,male,44168000.0
-28751.0,0.0,913142,belden inc.,1,0,0,0.0,20130326,kalnasy glenn,120919113018450,,male,44168000.0
-8900.0,0.0,913142,belden inc.,0,1,0,0.0,20130403,gusenleitner christoph,120919113019995,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
-2779.0,0.0,913142,belden inc.,0,1,0,0.0,20130417,trivedi dhrupad,120919113021744,"President, Industrial IT",male,44168000.0
-2779.0,0.0,913142,belden inc.,0,1,0,0.0,20130506,trivedi dhrupad,120919113024218,"President, Industrial IT",male,44030333.0
-54178.0,0.0,913142,belden inc.,1,1,0,0.0,20130517,stroup john s,120919113027214,President and CEO,male,44030333.0
-79329.0,0.0,913142,belden inc.,1,0,0,0.0,20130603,balk lance c,120919113030086,,male,44030333.0
-25692.0,0.0,913142,belden inc.,1,0,0,0.0,20130603,brown judy l,120919113030090,,female,44030333.0
-157282.0,0.0,913142,belden inc.,1,0,0,0.0,20130603,cressey bryan c,120919113030091,,male,44030333.0
-31108.0,0.0,913142,belden inc.,1,0,0,0.0,20130603,kalnasy glenn,120919113030092,,male,44030333.0
-17609.0,78211.0,913142,belden inc.,1,0,0,0.0,20130603,monter john m,120919113030094,,male,44030333.0
-13759.0,0.0,913142,belden inc.,1,0,0,0.0,20130603,yoost dean a,120919113030096,,male,44030333.0
-16457.0,0.0,913142,belden inc.,1,0,0,0.0,20130604,minnich george e,120919113030352,,male,44030333.0
-27725.0,0.0,913142,belden inc.,1,0,0,0.0,20130604,aldrich david j,120919113030346,,male,44030333.0
-53091.0,0.0,913142,belden inc.,1,0,0,0.0,20130801,monter john m,120919113038626,,male,44030333.0
-10709.0,0.0,913142,belden inc.,0,1,0,0.0,20130813,bloomfield kevin l,120919113040439,"SVP, Secretary & Gen. Counsel",male,43601317.0
-8900.0,0.0,913142,belden inc.,0,1,0,0.0,20130813,gusenleitner christoph,120919113040441,"EVP, Industrial Connectivity",male,43601317.0
-3761.0,0.0,913142,belden inc.,0,1,0,0.0,20130813,pennycook glenn,120919113040443,"EVP, Enterprise Connectivity",male,43601317.0
-17282.0,0.0,913142,belden inc.,0,1,0,0.0,20130813,norman john s,120919113040445,"VP, Controller & CAO",male,43601317.0
-54178.0,90618.0,913142,belden inc.,1,1,0,0.0,20130821,stroup john s,120919113041661,President and CEO,male,43601317.0
-54178.0,0.0,913142,belden inc.,1,1,0,0.0,20130823,stroup john s,120919113041868,President and CEO,male,43601317.0
-12019.0,0.0,913142,belden inc.,0,1,0,0.0,20130826,biegacki steven,120919113042005,"SVP, Global Sales & Mktg.",male,43601317.0
-29023.0,0.0,913142,belden inc.,0,1,0,0.0,20130905,biegacki steven,120919113043211,"SVP, Global Sales & Mktg.",male,43601317.0
-14970.0,0.0,913142,belden inc.,1,0,0,0.0,20130909,yoost dean a,120919113043495,,male,43601317.0
-50291.0,0.0,913142,belden inc.,1,0,0,0.0,20130909,monter john m,120919113043521,,male,43601317.0
-12019.0,0.0,913142,belden inc.,0,1,0,0.0,20130909,biegacki steven,120919113043548,"SVP, Global Sales & Mktg.",male,43601317.0
-48975.0,90618.0,913142,belden inc.,1,1,0,0.0,20130910,stroup john s,120919113043708,President and CEO,male,43601317.0
-31108.0,0.0,913142,belden inc.,1,0,0,0.0,20130916,kalnasy glenn,120919113044339,,male,43601317.0
-8900.0,0.0,913142,belden inc.,0,1,0,0.0,20130916,gusenleitner christoph,120919113044340,"EVP, Industrial Connectivity",male,43601317.0
-3761.0,0.0,913142,belden inc.,0,1,0,0.0,20130917,pennycook glenn,120919113044603,"EVP, Enterprise Connectivity",male,43601317.0
-0.0,90618.0,913142,belden inc.,1,1,0,0.0,20130920,stroup john s,120919113045057,President and CEO,male,43601317.0
-47491.0,0.0,913142,belden inc.,1,0,0,0.0,20131018,monter john m,120919113048764,,male,43601317.0
-2500.0,0.0,913142,belden inc.,1,0,0,0.0,20131204,berglund steven w,120919113055247,,male,43453757.0
-1180.0,0.0,913142,belden inc.,0,1,0,0.0,20140103,zink doug,120919114000885,VP and CAO,male,43455000.0
-32108.0,0.0,913142,belden inc.,1,0,0,0.0,20140108,kalnasy glenn,120919114002364,,male,43455000.0
-17282.0,0.0,913142,belden inc.,0,1,0,0.0,20140211,norman john s,120919114009077,"VP, Finance - Broadcast",male,43455000.0
-8900.0,0.0,913142,belden inc.,0,1,0,0.0,20140213,gusenleitner christoph,120919114010190,"EVP, Industrial Connectivity",male,43455000.0
-31108.0,0.0,913142,belden inc.,1,0,0,0.0,20140221,kalnasy glenn,120919114012960,,male,43455000.0
-11185.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,biegacki steven,120919114013904,"SVP, Global Sales & Mktg.",male,43455000.0
-9793.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,bloomfield kevin l,120919114013905,"SVP, Secretary & Gen. Counsel",male,43455000.0
-6965.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,derksen henk,120919114013907,"SVP, Finance, & CFO",male,43455000.0
-16742.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,norman john s,120919114013909,"VP, Finance - Broadcast",male,43455000.0
-3335.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,pennycook glenn,120919114013910,"EVP, Enterprise Connectivity",male,43455000.0
-42500.0,90618.0,913142,belden inc.,1,1,0,0.0,20140225,stroup john s,120919114013911,President and CEO,male,43455000.0
-1389.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,trivedi dhrupad,120919114013912,"President, Industrial IT",male,43455000.0
-859.0,0.0,913142,belden inc.,0,1,0,0.0,20140225,zink doug,120919114013913,VP and CAO,male,43455000.0
-1389.0,0.0,913142,belden inc.,0,1,0,0.0,20140228,trivedi dhrupad,120919114015376,"President, Industrial IT",male,43455000.0
-6900.0,0.0,913142,belden inc.,0,1,0,0.0,20140228,gusenleitner christoph,120919114015381,"EVP, Industrial Connectivity",male,43455000.0
-42500.0,90618.0,913142,belden inc.,1,1,0,0.0,20140304,stroup john s,120919114016543,President and CEO,male,43455000.0
-44691.0,0.0,913142,belden inc.,1,0,0,0.0,20140305,monter john m,120919114017482,,male,43455000.0
-1389.0,0.0,913142,belden inc.,0,1,0,0.0,20140305,trivedi dhrupad,120919114017331,"President, Industrial IT",male,43455000.0
-7436.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,trivedi dhrupad,120919114017864,"President, Industrial IT",male,43455000.0
-14557.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,derksen henk,120919114017858,"SVP, Finance, & CFO",male,43455000.0
-79453.0,90618.0,913142,belden inc.,1,1,0,0.0,20140306,stroup john s,120919114017863,President and CEO,male,43455000.0
-2221.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,zink doug,120919114017865,VP and CAO,male,43455000.0
-4908.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,pennycook glenn,120919114017861,"EVP, Enterprise Connectivity",male,43455000.0
-13655.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,biegacki steven,120919114017856,"SVP, Global Sales & Mktg.",male,43455000.0
-13081.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,gusenleitner christoph,120919114017859,"EVP, Industrial Connectivity",male,43455000.0
-15168.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,bloomfield kevin l,120919114017857,"SVP, Secretary & Gen. Counsel",male,43455000.0
-20261.0,0.0,913142,belden inc.,0,1,0,0.0,20140306,norman john s,120919114017860,"VP, Finance - Broadcast",male,43455000.0
-4908.0,0.0,913142,belden inc.,0,1,0,0.0,20140310,pennycook glenn,120919114018862,"EVP, Enterprise Connectivity",male,43455000.0
-11704.0,0.0,913142,belden inc.,0,1,0,0.0,20140402,gusenleitner christoph,120919114024445,"EVP, Industrial Connectivity",male,43455000.0
-31108.0,0.0,913142,belden inc.,1,0,0,0.0,20140502,kalnasy glenn,120919114030826,,male,43602220.0
-20261.0,0.0,913142,belden inc.,0,1,0,0.0,20140506,norman john s,120919114031441,"VP, Finance - M&A",male,43602220.0
-9615.0,0.0,913142,belden inc.,0,1,0,0.0,20140506,gusenleitner christoph,120919114031442,"EVP, Industrial Connectivity",male,43602220.0
-15168.0,0.0,913142,belden inc.,0,1,0,0.0,20140507,bloomfield kevin l,120919114031738,"SVP, Secretary & Gen. Counsel",male,43602220.0
-16177.0,0.0,913142,belden inc.,0,1,0,0.0,20140514,biegacki steven,120919114033822,"SVP, Global Sales & Mktg.",male,43602220.0
-13655.0,0.0,913142,belden inc.,0,1,0,0.0,20140523,biegacki steven,120919114036567,"SVP, Global Sales & Mktg.",male,43602220.0
-16798.0,0.0,913142,belden inc.,1,0,0,0.0,20140529,yoost dean a,120919114037568,,male,43602220.0
-29535.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,aldrich david j,120919114037947,,male,43602220.0
-81139.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,balk lance c,120919114037950,,male,43602220.0
-27502.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,brown judy l,120919114037976,,female,43602220.0
-4310.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,berglund steven w,120919114037982,,male,43602220.0
-159631.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,cressey bryan c,120919114037986,,male,43602220.0
-32918.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,kalnasy glenn,120919114037992,,male,43602220.0
-18267.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,minnich george e,120919114037996,,male,43602220.0
-19419.0,0.0,913142,belden inc.,1,0,0,0.0,20140530,monter john m,120919114038001,,male,43602220.0
-41891.0,0.0,913142,belden inc.,1,0,0,0.0,20140627,monter john m,120919114044190,,male,43602220.0
-2221.0,0.0,913142,belden inc.,0,1,0,0.0,20140701,zink doug,120919114044635,VP and CAO,male,43602220.0
-169631.0,0.0,913142,belden inc.,1,0,0,0.0,20140731,cressey bryan c,120919114049730,,male,43602220.0
-28918.0,0.0,913142,belden inc.,1,0,0,0.0,20140806,kalnasy glenn,120919114050874,,male,43242305.0
-14090.0,0.0,913142,belden inc.,0,1,0,0.0,20140828,derksen henk,120919114054885,"SVP, Finance, & CFO",male,43242305.0
-10504.0,0.0,913142,belden inc.,0,1,0,0.0,20141212,gusenleitner christoph,120919114074985,"EVP, Industrial Connectivity",male,42816497.0
-77512.0,0.0,913142,belden inc.,1,1,0,0.0,20141212,stroup john s,120919114074987,President and CEO,male,42816497.0
-0.0,0.0,913142,belden inc.,1,1,0,0.0,20150217,stroup john s,120919115014634,President and CEO,male,42464000.0
-1901.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,zink doug,120919115018369,VP and CAO,male,42464000.0
-3190.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,vestjens roel,120919115018187,"SVP, Broadcast Solutions",male,42464000.0
-6047.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,trivedi dhrupad,120919115018185,"President, Industrial IT",male,42464000.0
-68969.0,90618.0,913142,belden inc.,1,1,0,0.0,20150225,stroup john s,120919115018182,President and CEO,male,42464000.0
-13545.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,derksen henk,120919115018180,"SVP, Finance, & CFO",male,42464000.0
-14250.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,bloomfield kevin l,120919115018178,"SVP, Secretary & Gen. Counsel",male,42464000.0
-12820.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,biegacki steven,120919115018175,"SVP, Global Sales & Mktg.",male,42464000.0
-4478.0,0.0,913142,belden inc.,0,1,0,0.0,20150225,pennycook glenn,120919115018181,"EVP, Enterprise Connectivity",male,42464000.0
-96614.0,90618.0,913142,belden inc.,1,1,0,0.0,20150227,stroup john s,120919115019794,President and CEO,male,42464000.0
-6593.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,vestjens roel,120919115019840,"SVP, Broadcast Solutions",male,42464000.0
-3095.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,zink doug,120919115019863,VP and CAO,male,42464000.0
-9450.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,trivedi dhrupad,120919115019818,"President, Industrial IT",male,42464000.0
-14543.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,rosenberg ross,120919115019785,"SVP, Bus. Dev. & Strategy",male,42464000.0
-17865.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,bloomfield kevin l,120919115019675,"SVP, Secretary & Gen. Counsel",male,42464000.0
-12482.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,gusenleitner christoph,120919115019713,"EVP, Industrial Connectivity",male,42464000.0
-21200.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,derksen henk,120919115019695,"SVP, Finance, & CFO",male,42464000.0
-16223.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,biegacki steven,120919115019587,"SVP, Global Sales & Mktg.",male,42464000.0
-7242.0,0.0,913142,belden inc.,0,1,0,0.0,20150227,pennycook glenn,120919115019773,"EVP, Enterprise Connectivity",male,42464000.0
-20869.0,0.0,913142,belden inc.,0,1,0,0.0,20150303,derksen henk,120919115020787,"SVP, Finance, & CFO",male,42464000.0
-6517.0,0.0,913142,belden inc.,0,1,0,0.0,20150303,vestjens roel,120919115020793,"SVP, Broadcast Solutions",male,42464000.0
-96614.0,90618.0,913142,belden inc.,1,1,0,0.0,20150303,stroup john s,120919115021583,President and CEO,male,42464000.0
-9450.0,0.0,913142,belden inc.,0,1,0,0.0,20150303,trivedi dhrupad,120919115021610,"President, Industrial IT",male,42464000.0
-2611.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,zink doug,120919115023427,VP and CAO,male,42464000.0
-6426.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,trivedi dhrupad,120919115023383,"President, Industrial IT",male,42464000.0
-87754.0,90618.0,913142,belden inc.,1,1,0,0.0,20150306,stroup john s,120919115023373,President and CEO,male,42464000.0
-14831.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,rosenberg ross,120919115023371,"SVP, Bus. Dev. & Strategy",male,42464000.0
-6068.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,vestjens roel,120919115023413,"SVP, Broadcast Solutions",male,42464000.0
-11014.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,gusenleitner christoph,120919115023357,"EVP, Industrial Connectivity",male,42464000.0
-19603.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,derksen henk,120919115023347,"SVP, Finance, & CFO",male,42464000.0
-16968.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,bloomfield kevin l,120919115023342,"SVP, Secretary & Gen. Counsel",male,42464000.0
-15550.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,biegacki steven,120919115023341,"SVP, Global Sales & Mktg.",male,42464000.0
-6992.0,0.0,913142,belden inc.,0,1,0,0.0,20150306,pennycook glenn,120919115023362,"EVP, Enterprise Connectivity",male,42464000.0
-14288.0,0.0,913142,belden inc.,0,1,0,0.0,20150401,bloomfield kevin l,120919115030787,"SVP, Secretary & Gen. Counsel",male,42464000.0
-9638.0,0.0,913142,belden inc.,0,1,0,0.0,20150401,gusenleitner christoph,120919115030813,"EVP, Industrial Connectivity",male,42464000.0
-179631.0,0.0,913142,belden inc.,1,0,0,0.0,20150504,cressey bryan c,120919115038257,,male,42648943.0
-1935.0,0.0,913142,belden inc.,0,1,0,0.0,20150512,mckenna dean,120919115041741,"SVP, Human Resources",male,42648943.0
-5815.0,0.0,913142,belden inc.,0,1,0,0.0,20150518,pennycook glenn,120919115043919,"EVP, Enterprise Connectivity",male,42648943.0
-14580.0,0.0,913142,belden inc.,0,1,0,0.0,20150527,biegacki steven,120919115047201,"SVP, Global Sales & Mktg.",male,42648943.0
-31134.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,aldrich david j,120919115048706,,male,42648943.0
-82738.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,balk lance c,120919115048708,,male,42648943.0
-5909.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,berglund steven w,120919115048709,,male,42648943.0
-29101.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,brown judy l,120919115048711,,female,42648943.0
-181704.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,cressey bryan c,120919115048712,,male,42648943.0
-30517.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,kalnasy glenn,120919115048714,,male,42648943.0
-19866.0,0.0,913142,belden inc.,1,0,0,0.0,20150602,minnich george e,120919115048715,,male,42648943.0
-21018.0,58711.0,913142,belden inc.,1,0,0,0.0,20150602,monter john m,120919115048716,,male,42648943.0
-46181.0,16820.0,913142,belden inc.,1,0,0,0.0,20150803,monter john m,120919115063180,,male,42670183.0
-3121.0,0.0,913142,belden inc.,0,1,0,0.0,20150803,zink doug,120919115063239,VP and CAO,male,42670183.0
-85738.0,0.0,913142,belden inc.,1,0,0,0.0,20150803,balk lance c,120919115063179,,male,42670183.0
-2500.0,0.0,913142,belden inc.,1,0,0,0.0,20150825,klein jonathan c,120919115067858,,male,42670183.0
+171002.0,,913142,belden inc.,1,1,0,0.0,20120615,stroup john s,120919112034005,President and CEO,male,45513186.0
+71972.0,,913142,belden inc.,1,0,0,0.0,20120904,balk lance c,120919112043994,,male,44789871.0
+12423.0,,913142,belden inc.,0,1,0,0.0,20120919,biegacki steven,120919112046225,"SVP, Global Sales & Mktg.",male,44789871.0
+35972.0,,913142,belden inc.,1,0,0,0.0,20120925,kalnasy glenn,120919112046621,,male,44789871.0
+139771.0,,913142,belden inc.,1,0,0,0.0,20120928,cressey bryan c,120919112046883,,male,44789871.0
+19653.0,,913142,belden inc.,0,1,0,0.0,20121003,biegacki steven,120919112047903,"SVP, Global Sales & Mktg.",male,44789871.0
+36151.0,,913142,belden inc.,1,0,0,0,20130102,kalnasy glenn,120919113000138,,male,44168000.0
+71264.0,4063.0,913142,belden inc.,1,1,0,0,20130102,stroup john s,120919113000166,President and CEO,male,44168000.0
+143521.0,,913142,belden inc.,1,0,0,0,20130129,cressey bryan c,120919113005075,,male,44168000.0
+76972.0,,913142,belden inc.,1,0,0,0,20130130,balk lance c,120919113005126,,male,44168000.0
+37151.0,,913142,belden inc.,1,0,0,0,20130131,kalnasy glenn,120919113005354,,male,44168000.0
+14069.0,,913142,belden inc.,0,1,0,0,20130213,gusenleitner christoph,120919113008277,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
+28751.0,,913142,belden inc.,1,0,0,0,20130213,kalnasy glenn,120919113008250,,male,44168000.0
+11595.0,,913142,belden inc.,0,1,0,0,20130214,gusenleitner christoph,120919113008712,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
+8172.0,,913142,belden inc.,0,1,0,0,20130214,wolfe nancy,120919113008898,"SVP, Human Resources",female,44168000.0
+71264.0,,913142,belden inc.,1,1,0,0,20130215,stroup john s,120919113009375,President and CEO,male,44168000.0
+25962.0,,913142,belden inc.,0,1,0,0,20130219,suggs denis,120919113009839,EVP Amer Ops & Glob Cable Prod,male,44168000.0
+20273.0,,913142,belden inc.,0,1,0,0,20130219,suggs denis,120919113009852,EVP Amer Ops & Glob Cable Prod,male,44168000.0
+29859.0,,913142,belden inc.,0,1,0,0,20130219,suggs denis,120919113009847,EVP Amer Ops & Glob Cable Prod,male,44168000.0
+17994.0,,913142,belden inc.,0,1,0,0,20130226,biegacki steven,120919113011521,"SVP, Global Sales & Mktg.",male,44168000.0
+32709.0,,913142,belden inc.,0,1,0,0,20130226,bloomfield kevin l,120919113011522,"SVP, Secretary & Gen. Counsel",male,44168000.0
+7507.0,,913142,belden inc.,0,1,0,0,20130226,derksen henk,120919113011523,"SVP, Finance, & CFO",male,44168000.0
+15703.0,,913142,belden inc.,0,1,0,0,20130226,norman john s,120919113011524,"VP, Controller & CAO",male,44168000.0
+54178.0,90618.0,913142,belden inc.,1,1,0,0,20130226,stroup john s,120919113011525,President and CEO,male,44168000.0
+17519.0,,913142,belden inc.,0,1,0,0,20130226,suggs denis,120919113011527,EVP Amer Ops & Glob Cable Prod,male,44168000.0
+153521.0,,913142,belden inc.,1,0,0,0,20130226,cressey bryan c,120919113011684,,male,44168000.0
+15149.0,,913142,belden inc.,0,1,0,0,20130304,biegacki steven,120919113013025,"SVP, Global Sales & Mktg.",male,44168000.0
+,,913142,belden inc.,0,1,0,0,20130306,wolfe nancy,120919113014442,"SVP, Human Resources",female,44168000.0
+,,913142,belden inc.,1,1,0,0,20130306,stroup john s,120919113014439,President and CEO,male,44168000.0
+,,913142,belden inc.,0,1,0,0,20130306,suggs denis,120919113014440,EVP Amer Ops & Glob Cable Prod,male,44168000.0
+,,913142,belden inc.,0,1,0,0,20130306,gusenleitner christoph,120919113014436,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
+,,913142,belden inc.,0,1,0,0,20130306,derksen henk,120919113014435,"SVP, Finance, & CFO",male,44168000.0
+,,913142,belden inc.,0,1,0,0,20130306,bloomfield kevin l,120919113014434,"SVP, Secretary & Gen. Counsel",male,44168000.0
+,,913142,belden inc.,0,1,0,0,20130306,biegacki steven,120919113014433,"SVP, Global Sales & Mktg.",male,44168000.0
+17282.0,,913142,belden inc.,0,1,0,0,20130306,norman john s,120919113014438,"VP, Controller & CAO",male,44168000.0
+11402.0,,913142,belden inc.,1,0,0,0,20130308,yoost dean a,120919113015127,,male,44168000.0
+28751.0,,913142,belden inc.,1,0,0,0,20130326,kalnasy glenn,120919113018450,,male,44168000.0
+8900.0,,913142,belden inc.,0,1,0,0,20130403,gusenleitner christoph,120919113019995,EVP EMEA & Glob. Conn. Prods.,male,44168000.0
+2779.0,,913142,belden inc.,0,1,0,0,20130417,trivedi dhrupad,120919113021744,"President, Industrial IT",male,44168000.0
+2779.0,,913142,belden inc.,0,1,0,0,20130506,trivedi dhrupad,120919113024218,"President, Industrial IT",male,44030333.0
+54178.0,,913142,belden inc.,1,1,0,0,20130517,stroup john s,120919113027214,President and CEO,male,44030333.0
+25692.0,,913142,belden inc.,1,0,0,0,20130603,brown judy l,120919113030090,,female,44030333.0
+157282.0,,913142,belden inc.,1,0,0,0,20130603,cressey bryan c,120919113030091,,male,44030333.0
+31108.0,,913142,belden inc.,1,0,0,0,20130603,kalnasy glenn,120919113030092,,male,44030333.0
+17609.0,78211.0,913142,belden inc.,1,0,0,0,20130603,monter john m,120919113030094,,male,44030333.0
+13759.0,,913142,belden inc.,1,0,0,0,20130603,yoost dean a,120919113030096,,male,44030333.0
+79329.0,,913142,belden inc.,1,0,0,0,20130603,balk lance c,120919113030086,,male,44030333.0
+27725.0,,913142,belden inc.,1,0,0,0,20130604,aldrich david j,120919113030346,,male,44030333.0
+16457.0,,913142,belden inc.,1,0,0,0,20130604,minnich george e,120919113030352,,male,44030333.0
+53091.0,,913142,belden inc.,1,0,0,0,20130801,monter john m,120919113038626,,male,44030333.0
+17282.0,,913142,belden inc.,0,1,0,0,20130813,norman john s,120919113040445,"VP, Controller & CAO",male,43601317.0
+8900.0,,913142,belden inc.,0,1,0,0,20130813,gusenleitner christoph,120919113040441,"EVP, Industrial Connectivity",male,43601317.0
+3761.0,,913142,belden inc.,0,1,0,0,20130813,pennycook glenn,120919113040443,"EVP, Enterprise Connectivity",male,43601317.0
+10709.0,,913142,belden inc.,0,1,0,0,20130813,bloomfield kevin l,120919113040439,"SVP, Secretary & Gen. Counsel",male,43601317.0
+54178.0,90618.0,913142,belden inc.,1,1,0,0,20130821,stroup john s,120919113041661,President and CEO,male,43601317.0
+54178.0,,913142,belden inc.,1,1,0,0,20130823,stroup john s,120919113041868,President and CEO,male,43601317.0
+12019.0,,913142,belden inc.,0,1,0,0,20130826,biegacki steven,120919113042005,"SVP, Global Sales & Mktg.",male,43601317.0
+29023.0,,913142,belden inc.,0,1,0,0,20130905,biegacki steven,120919113043211,"SVP, Global Sales & Mktg.",male,43601317.0
+14970.0,,913142,belden inc.,1,0,0,0,20130909,yoost dean a,120919113043495,,male,43601317.0
+50291.0,,913142,belden inc.,1,0,0,0,20130909,monter john m,120919113043521,,male,43601317.0
+12019.0,,913142,belden inc.,0,1,0,0,20130909,biegacki steven,120919113043548,"SVP, Global Sales & Mktg.",male,43601317.0
+48975.0,90618.0,913142,belden inc.,1,1,0,0,20130910,stroup john s,120919113043708,President and CEO,male,43601317.0
+31108.0,,913142,belden inc.,1,0,0,0,20130916,kalnasy glenn,120919113044339,,male,43601317.0
+8900.0,,913142,belden inc.,0,1,0,0,20130916,gusenleitner christoph,120919113044340,"EVP, Industrial Connectivity",male,43601317.0
+3761.0,,913142,belden inc.,0,1,0,0,20130917,pennycook glenn,120919113044603,"EVP, Enterprise Connectivity",male,43601317.0
+0.0,90618.0,913142,belden inc.,1,1,0,0,20130920,stroup john s,120919113045057,President and CEO,male,43601317.0
+47491.0,,913142,belden inc.,1,0,0,0,20131018,monter john m,120919113048764,,male,43601317.0
+2500.0,,913142,belden inc.,1,0,0,0,20131204,berglund steven w,120919113055247,,male,43453757.0
+1180.0,,913142,belden inc.,0,1,0,0,20140103,zink doug,120919114000885,VP and CAO,male,43455000.0
+32108.0,,913142,belden inc.,1,0,0,0,20140108,kalnasy glenn,120919114002364,,male,43455000.0
+17282.0,,913142,belden inc.,0,1,0,0,20140211,norman john s,120919114009077,"VP, Finance - Broadcast",male,43455000.0
+8900.0,,913142,belden inc.,0,1,0,0,20140213,gusenleitner christoph,120919114010190,"EVP, Industrial Connectivity",male,43455000.0
+31108.0,,913142,belden inc.,1,0,0,0,20140221,kalnasy glenn,120919114012960,,male,43455000.0
+9793.0,,913142,belden inc.,0,1,0,0,20140225,bloomfield kevin l,120919114013905,"SVP, Secretary & Gen. Counsel",male,43455000.0
+6965.0,,913142,belden inc.,0,1,0,0,20140225,derksen henk,120919114013907,"SVP, Finance, & CFO",male,43455000.0
+16742.0,,913142,belden inc.,0,1,0,0,20140225,norman john s,120919114013909,"VP, Finance - Broadcast",male,43455000.0
+3335.0,,913142,belden inc.,0,1,0,0,20140225,pennycook glenn,120919114013910,"EVP, Enterprise Connectivity",male,43455000.0
+42500.0,90618.0,913142,belden inc.,1,1,0,0,20140225,stroup john s,120919114013911,President and CEO,male,43455000.0
+1389.0,,913142,belden inc.,0,1,0,0,20140225,trivedi dhrupad,120919114013912,"President, Industrial IT",male,43455000.0
+859.0,,913142,belden inc.,0,1,0,0,20140225,zink doug,120919114013913,VP and CAO,male,43455000.0
+11185.0,,913142,belden inc.,0,1,0,0,20140225,biegacki steven,120919114013904,"SVP, Global Sales & Mktg.",male,43455000.0
+6900.0,,913142,belden inc.,0,1,0,0,20140228,gusenleitner christoph,120919114015381,"EVP, Industrial Connectivity",male,43455000.0
+1389.0,,913142,belden inc.,0,1,0,0,20140228,trivedi dhrupad,120919114015376,"President, Industrial IT",male,43455000.0
+42500.0,90618.0,913142,belden inc.,1,1,0,0,20140304,stroup john s,120919114016543,President and CEO,male,43455000.0
+1389.0,,913142,belden inc.,0,1,0,0,20140305,trivedi dhrupad,120919114017331,"President, Industrial IT",male,43455000.0
+44691.0,,913142,belden inc.,1,0,0,0,20140305,monter john m,120919114017482,,male,43455000.0
+2221.0,,913142,belden inc.,0,1,0,0,20140306,zink doug,120919114017865,VP and CAO,male,43455000.0
+7436.0,,913142,belden inc.,0,1,0,0,20140306,trivedi dhrupad,120919114017864,"President, Industrial IT",male,43455000.0
+79453.0,90618.0,913142,belden inc.,1,1,0,0,20140306,stroup john s,120919114017863,President and CEO,male,43455000.0
+20261.0,,913142,belden inc.,0,1,0,0,20140306,norman john s,120919114017860,"VP, Finance - Broadcast",male,43455000.0
+13081.0,,913142,belden inc.,0,1,0,0,20140306,gusenleitner christoph,120919114017859,"EVP, Industrial Connectivity",male,43455000.0
+4908.0,,913142,belden inc.,0,1,0,0,20140306,pennycook glenn,120919114017861,"EVP, Enterprise Connectivity",male,43455000.0
+14557.0,,913142,belden inc.,0,1,0,0,20140306,derksen henk,120919114017858,"SVP, Finance, & CFO",male,43455000.0
+15168.0,,913142,belden inc.,0,1,0,0,20140306,bloomfield kevin l,120919114017857,"SVP, Secretary & Gen. Counsel",male,43455000.0
+13655.0,,913142,belden inc.,0,1,0,0,20140306,biegacki steven,120919114017856,"SVP, Global Sales & Mktg.",male,43455000.0
+4908.0,,913142,belden inc.,0,1,0,0,20140310,pennycook glenn,120919114018862,"EVP, Enterprise Connectivity",male,43455000.0
+11704.0,,913142,belden inc.,0,1,0,0,20140402,gusenleitner christoph,120919114024445,"EVP, Industrial Connectivity",male,43455000.0
+31108.0,,913142,belden inc.,1,0,0,0,20140502,kalnasy glenn,120919114030826,,male,43602220.0
+20261.0,,913142,belden inc.,0,1,0,0,20140506,norman john s,120919114031441,"VP, Finance - M&A",male,43602220.0
+9615.0,,913142,belden inc.,0,1,0,0,20140506,gusenleitner christoph,120919114031442,"EVP, Industrial Connectivity",male,43602220.0
+15168.0,,913142,belden inc.,0,1,0,0,20140507,bloomfield kevin l,120919114031738,"SVP, Secretary & Gen. Counsel",male,43602220.0
+16177.0,,913142,belden inc.,0,1,0,0,20140514,biegacki steven,120919114033822,"SVP, Global Sales & Mktg.",male,43602220.0
+13655.0,,913142,belden inc.,0,1,0,0,20140523,biegacki steven,120919114036567,"SVP, Global Sales & Mktg.",male,43602220.0
+16798.0,,913142,belden inc.,1,0,0,0,20140529,yoost dean a,120919114037568,,male,43602220.0
+19419.0,,913142,belden inc.,1,0,0,0,20140530,monter john m,120919114038001,,male,43602220.0
+18267.0,,913142,belden inc.,1,0,0,0,20140530,minnich george e,120919114037996,,male,43602220.0
+32918.0,,913142,belden inc.,1,0,0,0,20140530,kalnasy glenn,120919114037992,,male,43602220.0
+27502.0,,913142,belden inc.,1,0,0,0,20140530,brown judy l,120919114037976,,female,43602220.0
+4310.0,,913142,belden inc.,1,0,0,0,20140530,berglund steven w,120919114037982,,male,43602220.0
+29535.0,,913142,belden inc.,1,0,0,0,20140530,aldrich david j,120919114037947,,male,43602220.0
+159631.0,,913142,belden inc.,1,0,0,0,20140530,cressey bryan c,120919114037986,,male,43602220.0
+81139.0,,913142,belden inc.,1,0,0,0,20140530,balk lance c,120919114037950,,male,43602220.0
+41891.0,,913142,belden inc.,1,0,0,0,20140627,monter john m,120919114044190,,male,43602220.0
+2221.0,,913142,belden inc.,0,1,0,0,20140701,zink doug,120919114044635,VP and CAO,male,43602220.0
+169631.0,,913142,belden inc.,1,0,0,0,20140731,cressey bryan c,120919114049730,,male,43602220.0
+28918.0,,913142,belden inc.,1,0,0,0,20140806,kalnasy glenn,120919114050874,,male,43242305.0
+14090.0,,913142,belden inc.,0,1,0,0,20140828,derksen henk,120919114054885,"SVP, Finance, & CFO",male,43242305.0
+10504.0,,913142,belden inc.,0,1,0,0,20141212,gusenleitner christoph,120919114074985,"EVP, Industrial Connectivity",male,42816497.0
+77512.0,,913142,belden inc.,1,1,0,0,20141212,stroup john s,120919114074987,President and CEO,male,42816497.0
+0.0,,913142,belden inc.,1,1,0,0,20150217,stroup john s,120919115014634,President and CEO,male,42464000.0
+1901.0,,913142,belden inc.,0,1,0,0,20150225,zink doug,120919115018369,VP and CAO,male,42464000.0
+3190.0,,913142,belden inc.,0,1,0,0,20150225,vestjens roel,120919115018187,"SVP, Broadcast Solutions",male,42464000.0
+6047.0,,913142,belden inc.,0,1,0,0,20150225,trivedi dhrupad,120919115018185,"President, Industrial IT",male,42464000.0
+4478.0,,913142,belden inc.,0,1,0,0,20150225,pennycook glenn,120919115018181,"EVP, Enterprise Connectivity",male,42464000.0
+13545.0,,913142,belden inc.,0,1,0,0,20150225,derksen henk,120919115018180,"SVP, Finance, & CFO",male,42464000.0
+14250.0,,913142,belden inc.,0,1,0,0,20150225,bloomfield kevin l,120919115018178,"SVP, Secretary & Gen. Counsel",male,42464000.0
+12820.0,,913142,belden inc.,0,1,0,0,20150225,biegacki steven,120919115018175,"SVP, Global Sales & Mktg.",male,42464000.0
+68969.0,90618.0,913142,belden inc.,1,1,0,0,20150225,stroup john s,120919115018182,President and CEO,male,42464000.0
+3095.0,,913142,belden inc.,0,1,0,0,20150227,zink doug,120919115019863,VP and CAO,male,42464000.0
+6593.0,,913142,belden inc.,0,1,0,0,20150227,vestjens roel,120919115019840,"SVP, Broadcast Solutions",male,42464000.0
+9450.0,,913142,belden inc.,0,1,0,0,20150227,trivedi dhrupad,120919115019818,"President, Industrial IT",male,42464000.0
+96614.0,90618.0,913142,belden inc.,1,1,0,0,20150227,stroup john s,120919115019794,President and CEO,male,42464000.0
+12482.0,,913142,belden inc.,0,1,0,0,20150227,gusenleitner christoph,120919115019713,"EVP, Industrial Connectivity",male,42464000.0
+7242.0,,913142,belden inc.,0,1,0,0,20150227,pennycook glenn,120919115019773,"EVP, Enterprise Connectivity",male,42464000.0
+14543.0,,913142,belden inc.,0,1,0,0,20150227,rosenberg ross,120919115019785,"SVP, Bus. Dev. & Strategy",male,42464000.0
+17865.0,,913142,belden inc.,0,1,0,0,20150227,bloomfield kevin l,120919115019675,"SVP, Secretary & Gen. Counsel",male,42464000.0
+16223.0,,913142,belden inc.,0,1,0,0,20150227,biegacki steven,120919115019587,"SVP, Global Sales & Mktg.",male,42464000.0
+21200.0,,913142,belden inc.,0,1,0,0,20150227,derksen henk,120919115019695,"SVP, Finance, & CFO",male,42464000.0
+20869.0,,913142,belden inc.,0,1,0,0,20150303,derksen henk,120919115020787,"SVP, Finance, & CFO",male,42464000.0
+6517.0,,913142,belden inc.,0,1,0,0,20150303,vestjens roel,120919115020793,"SVP, Broadcast Solutions",male,42464000.0
+96614.0,90618.0,913142,belden inc.,1,1,0,0,20150303,stroup john s,120919115021583,President and CEO,male,42464000.0
+9450.0,,913142,belden inc.,0,1,0,0,20150303,trivedi dhrupad,120919115021610,"President, Industrial IT",male,42464000.0
+6068.0,,913142,belden inc.,0,1,0,0,20150306,vestjens roel,120919115023413,"SVP, Broadcast Solutions",male,42464000.0
+6426.0,,913142,belden inc.,0,1,0,0,20150306,trivedi dhrupad,120919115023383,"President, Industrial IT",male,42464000.0
+87754.0,90618.0,913142,belden inc.,1,1,0,0,20150306,stroup john s,120919115023373,President and CEO,male,42464000.0
+2611.0,,913142,belden inc.,0,1,0,0,20150306,zink doug,120919115023427,VP and CAO,male,42464000.0
+6992.0,,913142,belden inc.,0,1,0,0,20150306,pennycook glenn,120919115023362,"EVP, Enterprise Connectivity",male,42464000.0
+11014.0,,913142,belden inc.,0,1,0,0,20150306,gusenleitner christoph,120919115023357,"EVP, Industrial Connectivity",male,42464000.0
+19603.0,,913142,belden inc.,0,1,0,0,20150306,derksen henk,120919115023347,"SVP, Finance, & CFO",male,42464000.0
+16968.0,,913142,belden inc.,0,1,0,0,20150306,bloomfield kevin l,120919115023342,"SVP, Secretary & Gen. Counsel",male,42464000.0
+15550.0,,913142,belden inc.,0,1,0,0,20150306,biegacki steven,120919115023341,"SVP, Global Sales & Mktg.",male,42464000.0
+14831.0,,913142,belden inc.,0,1,0,0,20150306,rosenberg ross,120919115023371,"SVP, Bus. Dev. & Strategy",male,42464000.0
+14288.0,,913142,belden inc.,0,1,0,0,20150401,bloomfield kevin l,120919115030787,"SVP, Secretary & Gen. Counsel",male,42464000.0
+9638.0,,913142,belden inc.,0,1,0,0,20150401,gusenleitner christoph,120919115030813,"EVP, Industrial Connectivity",male,42464000.0
+179631.0,,913142,belden inc.,1,0,0,0,20150504,cressey bryan c,120919115038257,,male,42648943.0
+1935.0,,913142,belden inc.,0,1,0,0,20150512,mckenna dean,120919115041741,"SVP, Human Resources",male,42648943.0
+5815.0,,913142,belden inc.,0,1,0,0,20150518,pennycook glenn,120919115043919,"EVP, Enterprise Connectivity",male,42648943.0
+14580.0,,913142,belden inc.,0,1,0,0,20150527,biegacki steven,120919115047201,"SVP, Global Sales & Mktg.",male,42648943.0
+31134.0,,913142,belden inc.,1,0,0,0,20150602,aldrich david j,120919115048706,,male,42648943.0
+82738.0,,913142,belden inc.,1,0,0,0,20150602,balk lance c,120919115048708,,male,42648943.0
+5909.0,,913142,belden inc.,1,0,0,0,20150602,berglund steven w,120919115048709,,male,42648943.0
+29101.0,,913142,belden inc.,1,0,0,0,20150602,brown judy l,120919115048711,,female,42648943.0
+181704.0,,913142,belden inc.,1,0,0,0,20150602,cressey bryan c,120919115048712,,male,42648943.0
+30517.0,,913142,belden inc.,1,0,0,0,20150602,kalnasy glenn,120919115048714,,male,42648943.0
+19866.0,,913142,belden inc.,1,0,0,0,20150602,minnich george e,120919115048715,,male,42648943.0
+21018.0,58711.0,913142,belden inc.,1,0,0,0,20150602,monter john m,120919115048716,,male,42648943.0
+85738.0,,913142,belden inc.,1,0,0,0,20150803,balk lance c,120919115063179,,male,42670183.0
+46181.0,16820.0,913142,belden inc.,1,0,0,0,20150803,monter john m,120919115063180,,male,42670183.0
+3121.0,,913142,belden inc.,0,1,0,0,20150803,zink doug,120919115063239,VP and CAO,male,42670183.0
+46181.0,16820.0,913142,belden inc.,1,0,0,0,20150803,monter john m,120919115063180,,male,42670183.0
+85738.0,,913142,belden inc.,1,0,0,0,20150803,balk lance c,120919115063179,,male,42670183.0
+3121.0,,913142,belden inc.,0,1,0,0,20150803,zink doug,120919115063239,VP and CAO,male,42670183.0
+2500.0,,913142,belden inc.,1,0,0,0,20150825,klein jonathan c,120919115067858,,male,42670183.0
+2500.0,,913142,belden inc.,1,0,0,0,20150825,klein jonathan c,120919115067858,,male,42670183.0
+11921.0,,913142,belden inc.,0,1,0,0,20160222,rosenberg ross,120919116101135,"SVP, Bus. Dev. & Strategy",male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,trivedi dhrupad,120919116102644,"President, Industrial IT",male,41981000.0
+27017.0,,913142,belden inc.,1,0,0,0,20160226,kalnasy glenn,120919116102647,,male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,rosenberg ross,120919116102642,"SVP, Bus. Dev. & Strategy",male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,pennycook glenn,120919116102641,"EVP, Enterprise Connectivity",male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,mckenna dean,120919116102640,"SVP, Human Resources",male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,gusenleitner christoph,120919116102639,"EVP, Industrial Connectivity",male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,anderson brian edward,120919116102638,"SVP, Legal, GC and Corp. Sec.",male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,derksen henk,120919116102636,"SVP, Finance, & CFO",male,41981000.0
+,,913142,belden inc.,1,1,0,0,20160226,stroup john s,120919116102643,President and CEO,male,41981000.0
+,,913142,belden inc.,0,1,0,0,20160226,vestjens roel,120919116102645,"SVP, Broadcast Solutions",male,41981000.0
+2999.0,,913142,belden inc.,0,1,0,0,20160226,zink doug,120919116102646,VP and CAO,male,41981000.0
+4148.0,,913142,belden inc.,0,1,0,0,20160308,anderson brian edward,120919116106824,"SVP, Legal, GC and Corp. Sec.",male,41981000.0
+18337.0,,913142,belden inc.,0,1,0,0,20160308,derksen henk,120919116106825,"SVP, Finance, & CFO",male,41981000.0
+8268.0,,913142,belden inc.,0,1,0,0,20160308,gusenleitner christoph,120919116106826,"EVP, Industrial Connectivity",male,41981000.0
+5153.0,,913142,belden inc.,0,1,0,0,20160308,pennycook glenn,120919116106827,"EVP, Enterprise Connectivity",male,41981000.0
+73894.0,90618.0,913142,belden inc.,1,1,0,0,20160308,stroup john s,120919116106829,President and CEO,male,41981000.0
+5289.0,,913142,belden inc.,0,1,0,0,20160308,trivedi dhrupad,120919116106830,"President, Industrial IT",male,41981000.0
+5619.0,,913142,belden inc.,0,1,0,0,20160308,vestjens roel,120919116106831,"SVP, Broadcast Solutions",male,41981000.0
+2719.0,,913142,belden inc.,0,1,0,0,20160308,zink doug,120919116106846,VP and CAO,male,41981000.0
+11303.0,,913142,belden inc.,0,1,0,0,20160308,rosenberg ross,120919116106828,"SVP, Bus. Dev. & Strategy",male,41981000.0
+10590.0,,913142,belden inc.,0,1,0,0,20160322,rosenberg ross,120919116110024,"SVP, Bus. Dev. & Strategy",male,41981000.0
+31268.0,,913142,belden inc.,1,0,0,0,20160531,brown judy l,120919116124276,,female,42071617.0
+184522.0,,913142,belden inc.,1,0,0,0,20160531,cressey bryan c,120919116124277,,male,42071617.0
+4667.0,,913142,belden inc.,1,0,0,0,20160531,klein jonathan c,120919116124278,,male,42071617.0
+8076.0,,913142,belden inc.,1,0,0,0,20160531,berglund steven w,120919116124275,,male,42071617.0
+22033.0,,913142,belden inc.,1,0,0,0,20160531,minnich george e,120919116124279,,male,42071617.0
+87905.0,,913142,belden inc.,1,0,0,0,20160531,balk lance c,120919116124274,,male,42071617.0
+23185.0,67291.0,913142,belden inc.,1,0,0,0,20160531,monter john m,120919116124280,,male,42071617.0
+29207.0,,913142,belden inc.,1,0,0,0,20160531,kalnasy glenn,120919116124271,,male,42071617.0
+33301.0,,913142,belden inc.,1,0,0,0,20160531,aldrich david j,120919116124273,,male,42071617.0
+9877.0,,913142,belden inc.,0,1,0,0,20160714,rosenberg ross,120919116132729,"SVP, Bus. Dev. & Strategy",male,42071617.0
+7603.0,,913142,belden inc.,0,1,0,0,20160720,rosenberg ross,120919116133497,"SVP, Bus. Dev. & Strategy",male,42071617.0
+,,913142,belden inc.,1,0,0,0,20160722,balk lance c,120919116133712,,male,42071617.0
+,67291.0,913142,belden inc.,1,0,0,0,20160722,monter john m,120919116133722,,male,42071617.0
+,,913142,belden inc.,1,0,0,0,20160826,balk lance c,120919116138821,,male,42120279.0
+27290.0,,913142,belden inc.,0,1,0,0,20160830,derksen henk,120919116139166,"SVP, Finance, & CFO",male,42120279.0
+,,913142,belden inc.,0,1,0,0,20160912,zink doug,120919116140911,VP and CAO,male,42120279.0
+22268.0,,913142,belden inc.,1,0,0,0,20161110,brown judy l,120919116149409,,female,42144409.0
+0.0,90618.0,913142,belden inc.,1,1,0,0,20161122,stroup john s,120919116151709,President and CEO,male,42144409.0
+44969.0,90618.0,913142,belden inc.,1,1,0,0,20161207,stroup john s,120919116154008,"Chairman, President and CEO",male,42144409.0
+4766.0,,913142,belden inc.,0,1,0,0,20161209,trivedi dhrupad,120919116154392,"President, Industrial IT",male,42144409.0
+6889.0,,913142,belden inc.,0,1,0,0,20161209,rosenberg ross,120919116154386,"SVP, Bus. Dev. & Strategy",male,42144409.0
+18337.0,,913142,belden inc.,0,1,0,0,20161209,derksen henk,120919116154381,"SVP, Finance, & CFO",male,42144409.0
+10557.0,,913142,belden inc.,1,0,0,0,20161212,minnich george e,120919116154694,,male,42144409.0
+9332.0,,913142,belden inc.,0,1,0,0,20161215,gusenleitner christoph,120919116155494,"EVP, Industrial Connectivity",male,42144409.0
+13268.0,,913142,belden inc.,1,0,0,0,20170103,brown judy l,120919117000495,,female,42180000.0
+5153.0,,913142,belden inc.,0,1,0,0,20170217,pennycook glenn,120919117012201,"EVP, Enterprise Connectivity",male,42182613.0
+12185.0,,913142,belden inc.,0,1,0,0,20170222,gusenleitner christoph,120919117013012,"EVP, Industrial Connectivity",male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,derksen henk,120919117014421,"SVP, Finance, & CFO",male,42182613.0
+3123.0,,913142,belden inc.,0,1,0,0,20170224,zink doug,120919117014503,VP and CAO,male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,vestjens roel,120919117014490,"SVP, Broadcast Solutions",male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,trivedi dhrupad,120919117014457,"President, Industrial IT",male,42182613.0
+,,913142,belden inc.,1,1,0,0,20170224,stroup john s,120919117014443,"Chairman, President and CEO",male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,anderson brian edward,120919117014419,"SVP, Legal, GC and Corp. Sec.",male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,pennycook glenn,120919117014428,"EVP, Enterprise Connectivity",male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,rosenberg ross,120919117014432,"SVP, Bus. Dev. & Strategy",male,42182613.0
+,,913142,belden inc.,0,1,0,0,20170224,mckenna dean,120919117014425,"SVP, Human Resources",male,42182613.0
+4000.0,,913142,belden inc.,0,1,0,0,20170301,anderson brian edward,120919117015569,"SVP, Legal, GC and Corp. Sec.",male,42182613.0
+15194.0,,913142,belden inc.,0,1,0,0,20170301,derksen henk,120919117015570,"SVP, Finance, & CFO",male,42182613.0
+3874.0,,913142,belden inc.,0,1,0,0,20170301,pennycook glenn,120919117015571,"EVP, Enterprise Connectivity",male,42182613.0
+6108.0,,913142,belden inc.,0,1,0,0,20170301,rosenberg ross,120919117015572,"SVP, Bus. Dev. & Strategy",male,42182613.0
+3487.0,,913142,belden inc.,0,1,0,0,20170301,trivedi dhrupad,120919117015574,"President, Industrial IT",male,42182613.0
+4484.0,,913142,belden inc.,0,1,0,0,20170301,vestjens roel,120919117015575,"SVP, Broadcast Solutions",male,42182613.0
+2837.0,,913142,belden inc.,0,1,0,0,20170301,zink doug,120919117015576,VP and CAO,male,42182613.0
+31713.0,90618.0,913142,belden inc.,1,1,0,0,20170301,stroup john s,120919117015573,"Chairman, President and CEO",male,42182613.0
+3938.0,,913142,belden inc.,0,1,0,0,20170307,anderson brian edward,120919117018569,"SVP, Legal, GC and Corp. Sec.",male,42182613.0
+5261.0,,913142,belden inc.,0,1,0,0,20170307,turner paul keith,120919117018570,"SVP, Sales",male,42182613.0
+2705.0,,913142,belden inc.,0,1,0,0,20170307,zink doug,120919117018571,VP and CAO,male,42182613.0
+10112.0,,913142,belden inc.,1,0,0,0,20170531,berglund steven w,120919117036398,,male,42271634.0
+12503.0,63001.0,913142,belden inc.,1,0,0,0,20170531,monter john m,120919117036396,,male,42271634.0
+6703.0,,913142,belden inc.,1,0,0,0,20170531,klein jonathan c,120919117036386,,male,42271634.0
+13512.0,,913142,belden inc.,1,0,0,0,20170531,minnich george e,120919117036389,,male,42271634.0
+15304.0,,913142,belden inc.,1,0,0,0,20170531,brown judy l,120919117036379,,female,42271634.0
+89941.0,,913142,belden inc.,1,0,0,0,20170531,balk lance c,120919117036369,,male,42271634.0
+35337.0,,913142,belden inc.,1,0,0,0,20170531,aldrich david j,120919117036368,,male,42271634.0
+186925.0,,913142,belden inc.,1,0,0,0,20170531,cressey bryan c,120919117036380,,male,42271634.0
+8676.0,,913142,belden inc.,0,1,0,0,20170911,turner paul keith,120919117052241,"SVP, Sales",male,42299344.0
+4967.0,,913142,belden inc.,0,1,0,0,20170919,turner paul keith,120919117053282,"SVP, Sales",male,42299344.0
+21713.0,90618.0,913142,belden inc.,1,1,0,0,20171010,stroup john s,120919117056359,"Chairman, President and CEO",male,42299344.0
+31181.0,33828.0,913142,belden inc.,1,0,0,0,20171120,monter john m,120919117061787,,male,42173892.0
+2584.0,,913142,belden inc.,0,1,0,0,20180226,zink doug,120919118013496,VP and CAO,male,41930562.0
+4747.0,,913142,belden inc.,0,1,0,0,20180226,turner paul keith,120919118013530,"SVP, Sales",male,41930562.0
+5879.0,,913142,belden inc.,0,1,0,0,20180227,rosenberg ross,120919118014006,"SVP, Bus. Dev. & Strategy",male,41930562.0
+,,913142,belden inc.,1,1,0,0,20180302,stroup john s,120919118015381,"Chairman, President and CEO",male,41930562.0
+2971.0,,913142,belden inc.,0,1,0,0,20180302,zink doug,120919118015414,VP and CAO,male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,vestjens roel,120919118015388,"SVP, Broadcast Solutions",male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,turner paul keith,120919118015385,"SVP, Sales",male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,trivedi dhrupad,120919118015384,"President, Industrial IT",male,41930562.0
+5329.0,,913142,belden inc.,0,1,0,0,20180302,rosenberg ross,120919118015380,"SVP, Bus. Dev. & Strategy",male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,pennycook glenn,120919118015377,"EVP, Enterprise Connectivity",male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,mckenna dean,120919118015368,"SVP, Human Resources",male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,derksen henk,120919118015365,"SVP, Finance, & CFO",male,41930562.0
+,,913142,belden inc.,0,1,0,0,20180302,anderson brian edward,120919118015360,"SVP, Legal, GC and Corp. Sec.",male,41930562.0
+65050.0,,913142,belden inc.,1,0,0,0,20180514,cressey bryan c,120919118029993,,male,40649143.0
+1347.0,,913142,belden inc.,0,1,0,0,20180514,mckenna dean,120919118029998,"SVP, Human Resources",male,40649143.0
+37426.0,,913142,belden inc.,0,1,0,0,20180525,derksen henk,120919118033608,"SVP, Finance, & CFO",male,40649143.0
+21721.0,,913142,belden inc.,0,1,0,0,20180525,pennycook glenn,120919118033611,"EVP, Enterprise Connectivity",male,40649143.0
+22331.0,,913142,belden inc.,0,1,0,0,20180525,vestjens roel,120919118033616,"SVP, Broadcast Solutions",male,40649143.0
+16117.0,10557.0,913142,belden inc.,1,0,0,0,20180529,minnich george e,120919118033754,,male,40649143.0
+9308.0,,913142,belden inc.,1,0,0,0,20180529,klein jonathan c,120919118033753,,male,40649143.0
+17909.0,,913142,belden inc.,1,0,0,0,20180529,brown judy l,120919118033749,,female,40649143.0
+38410.0,,913142,belden inc.,1,0,0,0,20180529,aldrich david j,120919118033744,,male,40649143.0
+92546.0,,913142,belden inc.,1,0,0,0,20180529,balk lance c,120919118033745,,male,40649143.0
+12717.0,,913142,belden inc.,1,0,0,0,20180529,berglund steven w,120919118033746,,male,40649143.0
+5105.0,,913142,belden inc.,1,0,0,0,20180529,brink diane d,120919118033747,,female,40649143.0
+15108.0,65009.0,913142,belden inc.,1,0,0,0,20180529,monter john m,120919118033762,,male,40649143.0
+98847.0,92683.0,913142,belden inc.,1,0,0,0,20180529,cressey bryan c,120919118033752,,male,40649143.0
+4500.0,,913142,belden inc.,0,1,0,0,20180831,turner paul keith,120919118049033,"SVP, Sales",male,40638238.0
+4300.0,,913142,belden inc.,0,1,0,0,20181016,kulmaczewski leo,120919118055196,"SVP, Ops & Lean Enterprise",male,40638238.0
+9250.0,90618.0,913142,belden inc.,1,1,0,0,20181102,stroup john s,120919118056847,"Chairman, President and CEO",male,40305408.0
+38857.0,,913142,belden inc.,0,1,0,0,20181105,derksen henk,120919118057087,"SVP, Finance, & CFO",male,40305408.0
+22778.0,,913142,belden inc.,0,1,0,0,20181116,vestjens roel,120919118058853,"SVP, Broadcast Solutions",male,40305408.0
+2620.0,,913142,belden inc.,0,1,0,0,20181211,turner paul keith,120919118061930,"SVP, Sales",male,40305408.0
+3044.0,,913142,belden inc.,0,1,0,0,20190226,zink doug,120919119013624,VP and CAO,male,39396000.0
+2385.0,,913142,belden inc.,0,1,0,0,20190226,turner paul keith,120919119013532,"SVP, Sales",male,39396000.0
+4262.0,,913142,belden inc.,0,1,0,0,20190226,trivedi dhrupad,120919119013436,EVP and CTO,male,39396000.0
+7417.0,121581.0,913142,belden inc.,1,1,0,0,20190226,stroup john s,120919119013434,"Chairman, President and CEO",male,39396000.0
+23531.0,,913142,belden inc.,0,1,0,0,20190226,vestjens roel,120919119013560,"EVP, Industrial Solutions",male,39396000.0
+22794.0,,913142,belden inc.,0,1,0,0,20190226,pennycook glenn,120919119013429,"EVP, Enterprise Connectivity",male,39396000.0
+2098.0,,913142,belden inc.,0,1,0,0,20190226,mckenna dean,120919119013423,"SVP, Human Resources",male,39396000.0
+40522.0,,913142,belden inc.,0,1,0,0,20190226,derksen henk,120919119013413,"SVP, Finance, & CFO",male,39396000.0
+4617.0,,913142,belden inc.,0,1,0,0,20190226,anderson brian edward,120919119013400,"SVP, Legal, GC and Corp. Sec.",male,39396000.0
+6292.0,,913142,belden inc.,0,1,0,0,20190226,rosenberg ross,120919119013433,"SVP, Bus. Dev. & Strategy",male,39396000.0
+3259.0,,913142,belden inc.,0,1,0,0,20190305,turner paul keith,120919119016999,"SVP, Sales",male,39396000.0
+,,913142,belden inc.,0,1,0,0,20190305,trivedi dhrupad,120919119016990,EVP and CTO,male,39396000.0
+48047.0,121581.0,913142,belden inc.,1,1,0,0,20190305,stroup john s,120919119016978,"Chairman, President and CEO",male,39396000.0
+8222.0,,913142,belden inc.,0,1,0,0,20190305,rosenberg ross,120919119016962,"SVP, Bus. Dev. & Strategy",male,39396000.0
+4048.0,,913142,belden inc.,0,1,0,0,20190305,mckenna dean,120919119016194,"SVP, Human Resources",male,39396000.0
+,,913142,belden inc.,0,1,0,0,20190305,kulmaczewski leo,120919119016192,"SVP, Ops & Lean Enterprise",male,39396000.0
+,,913142,belden inc.,0,1,0,0,20190305,derksen henk,120919119016188,"SVP, Finance, & CFO",male,39396000.0
+,,913142,belden inc.,0,1,0,0,20190305,anderson brian edward,120919119016185,"SVP, Legal, GC and Corp. Sec.",male,39396000.0
+3538.0,,913142,belden inc.,0,1,0,0,20190305,zink doug,120919119017024,VP and CAO,male,39396000.0
+25537.0,,913142,belden inc.,0,1,0,0,20190305,pennycook glenn,120919119016946,"EVP, Enterprise Solutions",male,39396000.0
+,,913142,belden inc.,0,1,0,0,20190305,vestjens roel,120919119017008,"EVP, Industrial Solutions",male,39396000.0
+8517.0,,913142,belden inc.,0,1,0,0,20190528,turner paul keith,120919119032865,"SVP, Sales",male,39454981.0
+15283.0,,913142,belden inc.,0,1,0,0,20190528,mckenna dean,120919119032864,"SVP, Human Resources",male,39454981.0
+15656.0,,913142,belden inc.,0,1,0,0,20190528,anderson brian edward,120919119032861,"SVP, Legal, GC and Corp. Sec.",male,39454981.0
+9892.0,,913142,belden inc.,0,1,0,0,20190528,kulmaczewski leo,120919119032862,"SVP, Ops & Lean Enterprise",male,39454981.0
+41573.0,,913142,belden inc.,1,0,0,0,20190529,aldrich david j,120919119033152,,male,39454981.0
+92827.0,,913142,belden inc.,1,0,0,0,20190529,balk lance c,120919119033153,,male,39454981.0
+15398.0,,913142,belden inc.,1,0,0,0,20190529,berglund steven w,120919119033154,,male,39454981.0
+7786.0,,913142,belden inc.,1,0,0,0,20190529,brink diane d,120919119033155,,female,39454981.0
+20590.0,,913142,belden inc.,1,0,0,0,20190529,brown judy l,120919119033157,,female,39454981.0
+191530.0,,913142,belden inc.,1,0,0,0,20190529,cressey bryan c,120919119033162,,male,39454981.0
+18798.0,10557.0,913142,belden inc.,1,0,0,0,20190529,minnich george e,120919119033166,,male,39454981.0
+17789.0,65009.0,913142,belden inc.,1,0,0,0,20190529,monter john m,120919119033167,,male,39454981.0
+11989.0,,913142,belden inc.,1,0,0,0,20190529,klein jonathan c,120919119033165,,male,39454981.0
+101095.0,,913142,belden inc.,1,0,0,0,20190717,balk lance c,120919119042364,,male,39454981.0
+3690.0,,913142,belden inc.,0,1,0,0,20190717,zink doug,120919119042365,VP and CAO,male,39454981.0
+10692.0,,913142,belden inc.,0,1,0,0,20190801,kulmaczewski leo,120919119043936,"SVP, Ops & Lean Enterprise",male,45452492.0
+10282.0,,913142,belden inc.,0,1,0,0,20191016,kulmaczewski leo,120919119053311,"SVP, Ops & Lean Enterprise",male,45452492.0
+9511.0,,913142,belden inc.,0,1,0,0,20200212,turner paul keith,120919120008812,"SVP, Sales",male,45459726.0
+4263.0,,913142,belden inc.,0,1,0,0,20200212,zink doug,120919120008854,VP and CAO,male,45459726.0
+27460.0,,913142,belden inc.,0,1,0,0,20200212,vestjens roel,120919120008833,"EVP, Indust. Sol., and COO",male,45459726.0
+94265.0,121581.0,913142,belden inc.,1,1,0,0,20200212,stroup john s,120919120008790,"Chairman, President and CEO",male,45459726.0
+11068.0,,913142,belden inc.,0,1,0,0,20200212,kulmaczewski leo,120919120008764,"SVP, Ops & Lean Enterprise",male,45459726.0
+44682.0,,913142,belden inc.,0,1,0,0,20200212,derksen henk,120919120008739,"SVP, Finance, & CFO",male,45459726.0
+7699.0,,913142,belden inc.,0,1,0,0,20200212,chand ashish,120919120008728,"EVP, Industrial Automation",male,45459726.0
+17967.0,,913142,belden inc.,0,1,0,0,20200212,anderson brian edward,120919120008681,"SVP, Legal, GC and Corp. Sec.",male,45459726.0
+17594.0,,913142,belden inc.,0,1,0,0,20200212,mckenna dean,120919120008778,"SVP, Human Resources",male,45459726.0
+4121.0,,913142,belden inc.,0,1,0,0,20200303,zink doug,120919120014910,VP and CAO,male,45459726.0
+12068.0,,913142,belden inc.,0,1,0,0,20200310,kulmaczewski leo,120919120017623,"SVP, Ops & Lean Enterprise",male,45459726.0
+23547.0,,913142,belden inc.,1,0,0,0,20200526,minnich george e,120919120032148,,male,44517470.0
+16738.0,,913142,belden inc.,1,0,0,0,20200526,klein jonathan c,120919120032131,,male,44517470.0
+7430.0,,913142,belden inc.,1,0,0,0,20200526,cressey bryan c,120919120032122,,male,44517470.0
+25339.0,,913142,belden inc.,1,0,0,0,20200526,brown judy l,120919120032099,,female,44517470.0
+20147.0,,913142,belden inc.,1,0,0,0,20200526,berglund steven w,120919120032056,,male,44517470.0
+105862.0,,913142,belden inc.,1,0,0,0,20200526,balk lance c,120919120032006,,male,44517470.0
+47176.0,,913142,belden inc.,1,0,0,0,20200526,aldrich david j,120919120031982,,male,44517470.0
+2500.0,,913142,belden inc.,1,0,0,0,20200526,calderon nancy e.,120919120031935,,female,44517470.0
+12535.0,,913142,belden inc.,1,0,0,0,20200526,brink diane d,120919120032070,,female,44517470.0
+5668.0,,913142,belden inc.,1,0,0,0,20200706,cressey bryan c,120919120041183,,male,44517470.0
+10591.0,,913142,belden inc.,0,1,0,0,20200706,chand ashish,120919120041250,"EVP, Industrial Automation",male,44517470.0
+24529.0,10557.0,913142,belden inc.,1,0,0,0,20200706,minnich george e,120919120041187,,male,44517470.0
+17589.0,,913142,belden inc.,1,0,0,0,20200706,klein jonathan c,120919120041185,,male,44517470.0
+3245.0,,913142,belden inc.,1,0,0,0,20200706,calderon nancy e.,120919120041178,,female,44517470.0
+51213.0,,913142,belden inc.,0,1,0,0,20200706,derksen henk,120919120041330,"SVP, Finance, & CFO",male,44517470.0
+13318.0,,913142,belden inc.,1,0,0,0,20200706,brink diane d,120919120041173,,female,44517470.0
+20998.0,,913142,belden inc.,1,0,0,0,20200706,berglund steven w,120919120041121,,male,44517470.0
+106781.0,,913142,belden inc.,1,0,0,0,20200706,balk lance c,120919120041086,,male,44517470.0
+48288.0,,913142,belden inc.,1,0,0,0,20200706,aldrich david j,120919120041085,,male,44517470.0
+26258.0,,913142,belden inc.,1,0,0,0,20200706,brown judy l,120919120041175,,female,44517470.0
+13929.0,,913142,belden inc.,0,1,0,0,20200706,kulmaczewski leo,120919120041333,"SVP, Ops & Lean Enterprise",male,44517470.0
+23274.0,,913142,belden inc.,0,1,0,0,20200706,anderson brian edward,120919120041190,"SVP, Legal, GC and Corp. Sec.",male,44517470.0
+99670.0,121581.0,913142,belden inc.,1,1,0,0,20200706,stroup john s,120919120041336,Executive Chairman,male,44517470.0
+11203.0,,913142,belden inc.,0,1,0,0,20200706,turner paul keith,120919120041338,"SVP, Sales",male,44517470.0
+34680.0,,913142,belden inc.,0,1,0,0,20200706,vestjens roel,120919120041339,President and CEO,male,44517470.0
+19931.0,,913142,belden inc.,0,1,0,0,20200706,mckenna dean,120919120041334,"SVP, Human Resources",male,44517470.0
+4951.0,,913142,belden inc.,0,1,0,0,20200706,zink doug,120919120041341,VP and CAO,male,44517470.0
+10358.0,,913142,belden inc.,0,1,0,0,20201006,chand ashish,120919120053975,"EVP, Industrial Automation",male,44553449.0
+13603.93,,913142,belden inc.,0,1,0,0,20201019,kulmaczewski leo,120919120055234,"SVP, Ops & Lean Enterprise",male,44553449.0
+15913.0,,913142,belden inc.,1,0,0,0,20201204,klein jonathan c,120919120061814,,male,44609972.0
+22258.0,,913142,belden inc.,1,0,0,0,20201218,brown judy l,120919120064440,,female,44609972.0
+0.0,4063.0,913142,belden inc.,1,1,0,0,20201221,stroup john s,120919120064740,Executive Chairman,male,44609972.0
+18140.0,,913142,belden inc.,0,1,0,0,20210119,mehrotra anshuman,120919121004054,"SVP, Sales",male,44643000.0
+5662.0,166.6373,913142,belden inc.,0,1,0,0,20210218,zink doug,120919121012059,VP and CAO,male,44657019.0
+54753.0,94.06,913142,belden inc.,0,1,0,0,20210218,vestjens roel,120919121012034,President and CEO,male,44657019.0
+20434.0,32.4181,913142,belden inc.,0,1,0,0,20210218,mehrotra anshuman,120919121011971,"SVP, Sales",male,44657019.0
+23082.0,48.6651,913142,belden inc.,0,1,0,0,20210218,mckenna dean,120919121011949,"SVP, Human Resources",male,44657019.0
+,73.3029,913142,belden inc.,0,1,0,0,20210218,derksen henk,120919121011893,"SVP, Finance, & CFO",male,44657019.0
+15740.0,133.8571,913142,belden inc.,0,1,0,0,20210218,chand ashish,120919121011887,"EVP, Industrial Automation",male,44657019.0
+26605.0,55.1819,913142,belden inc.,0,1,0,0,20210218,anderson brian edward,120919121011753,"SVP, Legal, GC and Corp. Sec.",male,44657019.0
+21346.0,578.8842,913142,belden inc.,0,1,0,0,20210218,parks jeremy e,120919121011715,SVP - Finance and CFO,male,44657019.0
+,90680.7067,913142,belden inc.,1,1,0,0,20210218,stroup john s,120919121012002,Executive Chairman,male,44657019.0
+26827.0,,913142,belden inc.,0,1,0,0,20210302,anderson brian edward,120919121015677,"SVP, Legal, GC and Corp. Sec.",male,44657019.0
+15308.0,153.9175,913142,belden inc.,0,1,0,0,20210302,chand ashish,120919121015692,"EVP, Industrial Automation",male,44657019.0
+5550.0,279.0664,913142,belden inc.,0,1,0,0,20210302,zink doug,120919121015706,VP and CAO,male,44657019.0
+27339.0,10557.0,913142,belden inc.,1,0,0,0,20210528,minnich george e,120919121036599,,male,44738828.0
+8478.0,194211.0,913142,belden inc.,1,0,0,0,20210528,cressey bryan c,120919121036595,,male,44738828.0
+18723.0,,913142,belden inc.,1,0,0,0,20210528,klein jonathan c,120919121036598,,male,44738828.0
+52070.0,,913142,belden inc.,1,0,0,0,20210528,aldrich david j,120919121036499,,male,44738828.0
+109591.0,2400.0,913142,belden inc.,1,0,0,0,20210528,balk lance c,120919121036502,,male,44738828.0
+16128.0,,913142,belden inc.,1,0,0,0,20210528,brink diane d,120919121036563,,female,44738828.0
+25068.0,,913142,belden inc.,1,0,0,0,20210528,brown judy l,120919121036583,,female,44738828.0
+6055.0,,913142,belden inc.,1,0,0,0,20210528,calderon nancy e.,120919121036586,,female,44738828.0
+23808.0,,913142,belden inc.,1,0,0,0,20210601,berglund steven w,120919121036853,,male,44738828.0
+5467.0,366.8966,913142,belden inc.,0,1,0,0,20210706,zink doug,120919121045646,VP and CAO,male,44738828.0
+53675.0,293.8168,913142,belden inc.,0,1,0,0,20210706,vestjens roel,120919121045641,President and CEO,male,44738828.0
+14974.0,309.3773,913142,belden inc.,0,1,0,0,20210706,chand ashish,120919121045635,"EVP, Industrial Automation",male,44738828.0
+22850.0,294.4758,913142,belden inc.,0,1,0,0,20210706,mckenna dean,120919121045629,"SVP, Human Resources",male,44738828.0
+26618.0,294.3812,913142,belden inc.,0,1,0,0,20210706,anderson brian edward,120919121045624,"SVP, Legal, GC and Corp. Sec.",male,44738828.0
+46831.0,294.1331,913142,belden inc.,0,1,0,0,20210806,vestjens roel,120919121050192,President and CEO,male,44853451.0
+37402.0,,913142,belden inc.,0,1,0,0,20210819,chand ashish,120919121052468,"EVP, Industrial Automation",male,44853451.0
+41747.0,309.3773,913142,belden inc.,0,1,0,0,20210915,chand ashish,120919121056144,"EVP, Industrial Automation",male,44853451.0
+60000.0,2400.0,913142,belden inc.,1,0,0,0,20210924,balk lance c,120919121057529,,male,44853451.0
+18557.0,,913142,belden inc.,1,0,0,0,20210924,minnich george e,120919121057531,,male,44853451.0
+18560.0,264.1871,913142,belden inc.,0,1,0,0,20220119,mehrotra anshuman,120919122003891,"SVP, Sales",male,44975000.0
+2500.0,,913142,belden inc.,1,0,0,0,20220203,mccray gregory james,120919122006673,,male,44975000.0
+19723.0,846.3697,913142,belden inc.,0,1,0,0,20220222,parks jeremy e,120919122011489,SVP - Finance and CFO,male,44991811.0
+13398.0,,913142,belden inc.,1,0,0,0,20220222,klein jonathan c,120919122011488,,male,44991811.0
+34380.0,2400.0,913142,belden inc.,1,0,0,0,20220222,balk lance c,120919122011487,,male,44991811.0
+29049.0,308.4124,913142,belden inc.,0,1,0,0,20220224,anderson brian edward,120919122012652,"SVP, Legal, GC and Corp. Sec.",male,44991811.0
+5992.0,421.123,913142,belden inc.,0,1,0,0,20220224,zink doug,120919122012677,VP and CAO,male,44991811.0
+23333.0,846.3697,913142,belden inc.,0,1,0,0,20220224,parks jeremy e,120919122012657,SVP - Finance and CFO,male,44991811.0
+63423.0,318.073,913142,belden inc.,0,1,0,0,20220224,vestjens roel,120919122012664,President and CEO,male,44991811.0
+46572.0,387.117,913142,belden inc.,0,1,0,0,20220224,chand ashish,120919122012654,"EVP, Industrial Automation",male,44991811.0
+20402.0,276.1614,913142,belden inc.,0,1,0,0,20220224,mehrotra anshuman,120919122012656,"SVP, Sales",male,44991811.0
+25516.0,307.7776,913142,belden inc.,0,1,0,0,20220224,mckenna dean,120919122012655,"SVP, Human Resources",male,44991811.0
+6757.0,421.123,913142,belden inc.,0,1,0,0,20220301,zink doug,120919122014449,VP and CAO,male,44991811.0
+32115.0,308.4124,913142,belden inc.,0,1,0,0,20220301,anderson brian edward,120919122014426,"SVP, Legal, GC and Corp. Sec.",male,44991811.0
+67312.0,318.073,913142,belden inc.,0,1,0,0,20220302,vestjens roel,120919122014518,President and CEO,male,44991811.0
+45823.0,387.117,913142,belden inc.,0,1,0,0,20220302,chand ashish,120919122014498,"EVP, Industrial Automation",male,44991811.0
+25985.0,307.7776,913142,belden inc.,0,1,0,0,20220302,mckenna dean,120919122014509,"SVP, Human Resources",male,44991811.0
+58502.0,534.8444,913142,belden inc.,0,1,0,0,20220525,vestjens roel,120919122031964,President and CEO,male,44256175.0
+16053.0,,913142,belden inc.,1,0,0,0,20220527,klein jonathan c,120919122032449,,male,44256175.0
+27723.0,,913142,belden inc.,1,0,0,0,20220527,brown judy l,120919122032444,,female,44256175.0
+5155.0,,913142,belden inc.,1,0,0,0,20220527,mccray gregory james,120919122032450,,male,44256175.0
+21994.0,18557.0,913142,belden inc.,1,0,0,0,20220527,minnich george e,120919122032451,,male,44256175.0
+11133.0,194211.0,913142,belden inc.,1,0,0,0,20220527,cressey bryan c,120919122032448,,male,44256175.0
+18783.0,,913142,belden inc.,1,0,0,0,20220527,brink diane d,120919122032443,,female,44256175.0
+8710.0,,913142,belden inc.,1,0,0,0,20220527,calderon nancy e.,120919122032446,,female,44256175.0
+77866.0,36780.0,913142,belden inc.,1,0,0,0,20220527,balk lance c,120919122032441,,male,44256175.0
+55641.0,,913142,belden inc.,1,0,0,0,20220527,aldrich david j,120919122032440,,male,44256175.0
+26463.0,,913142,belden inc.,1,0,0,0,20220527,berglund steven w,120919122032442,,male,44256175.0
+55772.0,387.117,913142,belden inc.,0,1,0,0,20220621,chand ashish,120919122038370,"EVP, Industrial Automation",male,44256175.0
+7081.0,439.7714,913142,belden inc.,0,1,0,0,20220706,zink doug,120919122041379,VP and CAO,male,44256175.0
+57424.0,534.8444,913142,belden inc.,0,1,0,0,20220706,vestjens roel,120919122041370,President and CEO,male,44256175.0
+32363.0,337.5959,913142,belden inc.,0,1,0,0,20220706,anderson brian edward,120919122041350,"SVP, Legal, GC and Corp. Sec.",male,44256175.0
+55673.0,387.117,913142,belden inc.,0,1,0,0,20220706,chand ashish,120919122041358,"EVP, Industrial Automation",male,44256175.0
+5529.0,2426.0739,913142,belden inc.,0,1,0,0,20220706,tate leah,120919122041367,SVP - HR,female,44256175.0
+15053.0,,913142,belden inc.,1,0,0,0,20220808,klein jonathan c,120919122044862,,male,43524764.0
+16402.0,505.7574,913142,belden inc.,0,1,0,0,20220808,mehrotra anshuman,120919122044734,"SVP, Sales",male,43524764.0
+44865.0,534.8444,913142,belden inc.,0,1,0,0,20220808,vestjens roel,120919122044736,President and CEO,male,43524764.0
+18902.0,505.7574,913142,belden inc.,0,1,0,0,20220908,mehrotra anshuman,120919122049098,"EVP, Broadband & 5G",male,43524764.0
+7300.0,439.7714,913142,belden inc.,0,1,0,0,20221108,zink doug,120919122056107,VP and CAO,male,42805645.0
+7081.0,439.7714,913142,belden inc.,0,1,0,0,20221109,zink doug,120919122056241,VP and CAO,male,42805645.0
+32669.0,537.7103,913142,belden inc.,0,1,0,0,20221110,anderson brian edward,120919122056328,"SVP, Legal, GC and Corp. Sec.",male,42805645.0
+7081.0,657.0408,913142,belden inc.,0,1,0,0,20221118,zink doug,120919122057849,VP and CAO,male,42805645.0
+14053.0,,913142,belden inc.,1,0,0,0,20221123,klein jonathan c,120919122058565,,male,42805645.0
+17042.0,517.1883,913142,belden inc.,0,1,0,0,20230119,mehrotra anshuman,120919123003965,"EVP, Broadband & 5G",male,42833000.0
+12682.0,615.0105,913142,belden inc.,0,1,0,0,20230213,mehrotra anshuman,120919123008632,"EVP, Broadband & 5G",male,42833000.0
+6880.0,664.7708,913142,belden inc.,0,1,0,0,20230215,zink doug,120919123009812,VP and CAO,male,42833000.0
+43089.0,291.4829,913142,belden inc.,0,1,0,0,20230215,vestjens roel,120919123009760,President and CEO,male,42833000.0
+5340.0,2474.9806,913142,belden inc.,0,1,0,0,20230215,tate leah,120919123009664,SVP - HR,female,42833000.0
+54459.0,627.7324,913142,belden inc.,0,1,0,0,20230215,chand ashish,120919123009663,"EVP, Industrial Automation",male,42833000.0
+31925.0,549.8033,913142,belden inc.,0,1,0,0,20230215,anderson brian edward,120919123009659,"SVP, Legal, GC and Corp. Sec.",male,42833000.0
+21753.0,587.5132,913142,belden inc.,0,1,0,0,20230221,parks jeremy e,120919123010989,SVP - Finance and CFO,male,42833000.0
+38398.0,561.0963,913142,belden inc.,0,1,0,0,20230224,anderson brian edward,120919123012561,"SVP, Legal, GC and Corp. Sec.",male,42833000.0
+60835.0,640.0211,913142,belden inc.,1,1,0,0,20230224,chand ashish,120919123012568,President and CEO,male,42833000.0
+6894.0,2484.5764,913142,belden inc.,0,1,0,0,20230224,tate leah,120919123012583,SVP - HR,female,42833000.0
+12698.0,314.6054,913142,belden inc.,0,1,0,0,20230224,vestjens roel,120919123012595,Former President and CEO,male,42833000.0
+8449.0,671.5321,913142,belden inc.,0,1,0,0,20230224,zink doug,120919123012614,VP and CAO,male,42833000.0
+6210.0,,913142,belden inc.,1,0,0,0,20230307,calderon nancy e.,120919123016814,,female,42833000.0
+9222.0,2638.1476,913142,belden inc.,0,1,0,0,20230309,tate leah,120919123017623,SVP - HR,female,42833000.0
+8859.0,779.9653,913142,belden inc.,0,1,0,0,20230309,zink doug,120919123017625,VP and CAO,male,42833000.0
+25482.0,1247.9878,913142,belden inc.,0,1,0,0,20230309,parks jeremy e,120919123017621,SVP - Finance and CFO,male,42833000.0
+14410.0,680.2508,913142,belden inc.,0,1,0,0,20230309,mehrotra anshuman,120919123017620,"EVP, Broadband & 5G",male,42833000.0
+72053.0,788.5741,913142,belden inc.,1,1,0,0,20230309,chand ashish,120919123017607,President and CEO,male,42833000.0
+41137.0,711.4371,913142,belden inc.,0,1,0,0,20230309,anderson brian edward,120919123017454,"SVP, Legal, GC and Corp. Sec.",male,42833000.0
+18192.0,172.7128,913142,belden inc.,0,1,0,0,20230309,lieser brian,120919123017616,"EVP, Indust. Automation Solut.",male,42833000.0
+11553.0,,913142,belden inc.,1,0,0,0,20230317,klein jonathan c,120919123019887,,male,42833000.0
+2500.0,,913142,belden inc.,1,0,0,0,20230331,lee vivie,120919123021801,,male,42833000.0
+36232.0,711.8516,913142,belden inc.,0,1,0,0,20230524,anderson brian edward,120919123031929,"SVP, Legal, GC and Corp. Sec.",male,42550615.0
+8957.0,814.8694,913142,belden inc.,0,1,0,0,20230530,zink doug,120919123032764,VP and CAO,male,42550615.0
+6845.0,,913142,belden inc.,1,0,0,0,20230530,mccray gregory james,120919123032758,,male,42550615.0
+57894.0,,913142,belden inc.,1,0,0,0,20230530,aldrich david j,120919123032746,,male,42550615.0
+16630.0,2400.0,913142,belden inc.,1,0,0,0,20230530,balk lance c,120919123032750,,male,42550615.0
+28153.0,,913142,belden inc.,1,0,0,0,20230530,berglund steven w,120919123032752,,male,42550615.0
+20473.0,,913142,belden inc.,1,0,0,0,20230530,brink diane d,120919123032753,,female,42550615.0
+29413.0,,913142,belden inc.,1,0,0,0,20230530,brown judy l,120919123032754,,female,42550615.0
+7900.0,,913142,belden inc.,1,0,0,0,20230530,calderon nancy e.,120919123032755,,female,42550615.0
+13243.0,,913142,belden inc.,1,0,0,0,20230530,klein jonathan c,120919123032756,,male,42550615.0
+4190.0,,913142,belden inc.,1,0,0,0,20230530,lee vivie,120919123032757,,male,42550615.0
+8859.0,814.8694,913142,belden inc.,0,1,0,0,20230605,zink doug,120919123034103,VP and CAO,male,42550615.0
+6509.0,821.4494,913142,belden inc.,0,1,0,0,20230608,zink doug,120919123035329,VP and CAO,male,42550615.0
+17363.0,172.8135,913142,belden inc.,0,1,0,0,20230616,lieser brian,120919123037764,"EVP, Indust. Automation Solut.",male,42550615.0
+52805.0,788.5741,913142,belden inc.,1,1,0,0,20230622,chand ashish,120919123039120,President and CEO,male,42550615.0
+45682.0,788.5741,913142,belden inc.,1,1,0,0,20230623,chand ashish,120919123039564,President and CEO,male,42550615.0
+9149.0,2638.6302,913142,belden inc.,0,1,0,0,20230706,tate leah,120919123041488,SVP - HR,female,42550615.0
+34541.0,711.8516,913142,belden inc.,0,1,0,0,20230706,anderson brian edward,120919123041472,"SVP, Legal, GC and Corp. Sec.",male,42550615.0
+45204.0,788.5741,913142,belden inc.,1,1,0,0,20230706,chand ashish,120919123041479,President and CEO,male,42550615.0
+17211.0,172.8135,913142,belden inc.,0,1,0,0,20230706,lieser brian,120919123041481,"EVP, Indust. Automation Solut.",male,42550615.0
+4654.0,,913142,belden inc.,0,1,0,0,20230706,wirts jay v,120919123041497,"EVP, Enterprise Solutions",male,42550615.0
+6426.0,831.6335,913142,belden inc.,0,1,0,0,20230706,zink doug,120919123041498,VP and CAO,male,42550615.0
+6695.0,831.6335,913142,belden inc.,0,1,0,0,20230713,zink doug,120919123042153,VP and CAO,male,42550615.0
+34883.0,711.8516,913142,belden inc.,0,1,0,0,20230713,anderson brian edward,120919123042147,"SVP, Legal, GC and Corp. Sec.",male,42550615.0
+45546.0,788.5741,913142,belden inc.,1,1,0,0,20230713,chand ashish,120919123042150,President and CEO,male,42550615.0
+17298.0,172.8135,913142,belden inc.,0,1,0,0,20230713,lieser brian,120919123042151,"EVP, Indust. Automation Solut.",male,42550615.0
+9491.0,2638.6302,913142,belden inc.,0,1,0,0,20230713,tate leah,120919123042152,SVP - HR,female,42550615.0
+3360.0,828.6302,913142,belden inc.,0,1,0,0,20231113,tate leah,120919123054951,SVP - HR,female,41681610.0
+34843.0,711.8516,913142,belden inc.,0,1,0,0,20231201,anderson brian edward,120919123057055,"SVP, Legal, GC and Corp. Sec.",male,41681610.0
+29013.0,,913142,belden inc.,1,0,0,0,20231215,brown judy l,120919123058741,,female,41681610.0
+17331.0,172.8135,913142,belden inc.,0,1,0,0,20240110,lieser brian,120919124001388,"EVP, Indust. Automation Solut.",male,41127000.0
+6751.0,831.6335,913142,belden inc.,0,1,0,0,20240112,zink doug,120919124001502,VP and CAO,male,41127000.0
+4515.0,,913142,belden inc.,0,1,0,0,20240119,wirts jay v,120919124001944,"EVP, Enterprise Solutions",male,41127000.0
+45000.0,2400.0,913142,belden inc.,1,0,0,0,20240214,balk lance c,120919124003355,,male,41085542.0
+6501.0,855.4843,913142,belden inc.,0,1,0,0,20240220,zink doug,120919124003601,VP and CAO,male,41085542.0
+9184.0,4222.7879,913142,belden inc.,0,1,0,0,20240220,tate leah,120919124003599,SVP - HR,female,41085542.0
+22970.0,1292.6064,913142,belden inc.,0,1,0,0,20240220,parks jeremy e,120919124003598,SVP - Finance and CFO,male,41085542.0
+3978.0,32.1245,913142,belden inc.,0,1,0,0,20240220,wirts jay v,120919124003600,"EVP, Enterprise Solutions",male,41085542.0
+33352.0,751.5947,913142,belden inc.,0,1,0,0,20240220,anderson brian edward,120919124003596,"SVP, Legal, GC and Corp. Sec.",male,41085542.0
+16720.0,205.2373,913142,belden inc.,0,1,0,0,20240220,lieser brian,120919124003595,"EVP, Indust. Automation Solut.",male,41085542.0
+42818.0,856.1086,913142,belden inc.,1,1,0,0,20240220,chand ashish,120919124003597,President and CEO,male,41085542.0
+20882.0,1292.6064,913142,belden inc.,0,1,0,0,20240222,parks jeremy e,120919124003788,SVP - Finance and CFO,male,41085542.0
+14305.0,4222.7879,913142,belden inc.,0,1,0,0,20240223,tate leah,120919124003880,SVP - HR,female,41085542.0
+9320.0,855.4843,913142,belden inc.,0,1,0,0,20240223,zink doug,120919124003886,VP and CAO,male,41085542.0
+45772.0,751.5947,913142,belden inc.,0,1,0,0,20240223,anderson brian edward,120919124003876,"SVP, Legal, GC and Corp. Sec.",male,41085542.0
+82934.0,856.1086,913142,belden inc.,1,1,0,0,20240223,chand ashish,120919124003877,President and CEO,male,41085542.0
+23828.0,205.2373,913142,belden inc.,0,1,0,0,20240223,lieser brian,120919124003878,"EVP, Indust. Automation Solut.",male,41085542.0
+36416.0,1292.6064,913142,belden inc.,0,1,0,0,20240223,parks jeremy e,120919124003879,SVP - Finance and CFO,male,41085542.0
+11841.0,32.1245,913142,belden inc.,0,1,0,0,20240223,wirts jay v,120919124003883,"EVP, Enterprise Solutions",male,41085542.0
+22920.0,4222.7879,913142,belden inc.,0,1,0,0,20240226,tate leah,120919124003939,SVP - HR,female,41085542.0
+21772.0,205.2373,913142,belden inc.,0,1,0,0,20240226,lieser brian,120919124003931,"EVP, Indust. Automation Solut.",male,41085542.0
+82978.0,977.3295,913142,belden inc.,1,1,0,0,20240308,chand ashish,120919124004723,President and CEO,male,41085542.0
+9454.0,,913142,belden inc.,1,0,0,0,20240528,calderon nancy e.,120919124005742,,female,40678243.0
+30567.0,,913142,belden inc.,1,0,0,0,20240528,brown judy l,120919124005741,,female,40678243.0
+22027.0,,913142,belden inc.,1,0,0,0,20240528,brink diane d,120919124005740,,female,40678243.0
+29707.0,,913142,belden inc.,1,0,0,0,20240528,berglund steven w,120919124005739,,male,40678243.0
+38676.0,47400.0,913142,belden inc.,1,0,0,0,20240528,balk lance c,120919124005738,,male,40678243.0
+53396.0,,913142,belden inc.,1,0,0,0,20240528,aldrich david j,120919124005737,,male,40678243.0
+8399.0,,913142,belden inc.,1,0,0,0,20240528,mccray gregory james,120919124005744,,male,40678243.0
+14797.0,,913142,belden inc.,1,0,0,0,20240528,klein jonathan c,120919124005745,,male,40678243.0
+5744.0,,913142,belden inc.,1,0,0,0,20240528,lee vivie,120919124005743,,male,40678243.0
+13704.0,,913142,belden inc.,1,0,0,0,20240529,klein jonathan c,120919124005760,,male,40678243.0
+12097.0,,913142,belden inc.,true,false,false,false,20240614,klein jonathan c,95017024073732,,male,40678243.0
+21031.0,356.4038,913142,belden inc.,false,true,false,false,20240710,lieser brian,95017024082755,"EVP, Indust. Automation Solut.",male,40678243.0
+9643.0,962.205,913142,belden inc.,false,true,false,false,20240710,zink doug,95017024082675,VP and CAO,male,40678243.0
+23243.0,4373.8004,913142,belden inc.,false,true,false,false,20240710,tate leah,95017024082664,SVP - HR,female,40678243.0
+21850.0,356.4038,913142,belden inc.,false,true,false,false,20240710,lieser brian,95017024082731,"EVP, Indust. Automation Solut.",male,40678243.0
+,,913142,belden inc.,false,true,false,false,20240710,bhadra hiran,95017024082644,"SVP, Strategy & Technology",male,40678243.0
+45858.0,897.4096,913142,belden inc.,false,true,false,false,20240710,anderson brian edward,95017024082633,"SVP, Legal, GC and Corp. Sec.",male,40678243.0
+83301.0,977.8801,913142,belden inc.,true,true,false,false,20240710,chand ashish,95017024082652,President and CEO,male,40678243.0
+6954.0,,913142,belden inc.,true,false,false,false,20240806,calderon nancy e.,95017024091352,,female,40805496.0
+40647.0,897.9008,913142,belden inc.,false,true,false,false,20240812,anderson brian edward,95017024095405,"SVP, Legal, GC and Corp. Sec.",male,40805496.0
+39385.0,897.9008,913142,belden inc.,false,true,false,false,20240814,anderson brian edward,95017024097315,"SVP, Legal, GC and Corp. Sec.",male,40805496.0
+32829.0,897.9008,913142,belden inc.,false,true,false,false,20240815,anderson brian edward,95017024097708,"SVP, Legal, GC and Corp. Sec.",male,40805496.0
+33188.0,897.9008,913142,belden inc.,false,true,false,false,20240819,anderson brian edward,95017024098725,"SVP, Legal, GC and Corp. Sec.",male,40805496.0
+33355.0,897.9008,913142,belden inc.,false,true,false,false,20240822,anderson brian edward,95017024099810,"SVP, Legal, GC and Corp. Sec.",male,40805496.0
+128157.0,978.4153,913142,belden inc.,true,true,false,false,20240910,chand ashish,95017024105010,President and CEO,male,40805496.0
+35003.0,356.5989,913142,belden inc.,false,true,false,false,20240910,lieser brian,95017024105021,"EVP, Indust. Automation Solut.",male,40805496.0
+35978.0,897.9008,913142,belden inc.,false,true,false,false,20240925,anderson brian edward,95017024109291,"SVP, Legal, GC and Corp. Sec.",male,40805496.0
+9643.0,999.1079,913142,belden inc.,false,true,false,false,20241105,zink doug,95017024121623,VP and CAO,male,40336643.0
+36716.0,356.5989,913142,belden inc.,false,true,false,false,20241105,lieser brian,95017024121288,"EVP, Indust. Automation Solut.",male,40336643.0
+25643.0,4373.8004,913142,belden inc.,false,true,false,false,20241105,tate leah,95017024121270,SVP - HR,female,40336643.0
+35753.0,897.9008,913142,belden inc.,false,true,false,false,20241105,anderson brian edward,95017024121234,"SVP, Legal, GC and Corp. Sec.",male,40336643.0
+6643.0,999.1079,913142,belden inc.,false,true,false,false,20241112,zink doug,95017024125043,VP and CAO,male,40336643.0
+34446.0,47400.0,913142,belden inc.,true,false,false,false,20241112,balk lance c,95017024125036,,male,40336643.0

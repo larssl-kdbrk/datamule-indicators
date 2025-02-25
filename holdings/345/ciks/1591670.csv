@@ -1,32 +1,290 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140418,bartels jay,118143114016566,,male,1000.0
-3214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140418,downey chris a,118143114016567,,male,1000.0
-3214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140418,jernigan dean,118143114016569,,male,1000.0
-3214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140418,sarff darell,118143114016570,,male,1000.0
-3214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140418,solomon robert,118143114016571,,male,1000.0
-106357.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140418,pittman paul a,118143114016572,President and CEO,male,1000.0
-44642.0,0.0,1591670,farmland partners inc.,0,1,0,0,20140418,fabbri luca,118143114016573,"CFO, Secretary and Treasurer",male,1000.0
-108357.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140604,pittman paul a,118143114022634,President and CEO,male,1000.0
-110357.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140606,pittman paul a,118143114023034,President and CEO,male,1000.0
-111357.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140609,pittman paul a,118143114023294,President and CEO,male,1000.0
-113157.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140611,pittman paul a,118143114023627,President and CEO,male,1000.0
-500.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140617,bartels jay,118143114024259,,male,1000.0
-46642.0,0.0,1591670,farmland partners inc.,0,1,0,0,20140818,fabbri luca,118143114029468,"CFO, Secretary and Treasurer",male,7731755.0
-20000.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140819,downey chris a,118143114029665,,male,7731755.0
-121157.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140820,pittman paul a,118143114029786,President and CEO,male,7731755.0
-13214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20140820,jernigan dean,118143114029781,,male,7731755.0
-123107.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140822,pittman paul a,118143114029985,President and CEO,male,7731755.0
-5300.0,0.0,1591670,farmland partners inc.,1,1,0,0,20140827,pittman paul a,118143114030284,President and CEO,male,7731755.0
-124257.0,5300.0,1591670,farmland partners inc.,1,1,0,0,20140918,pittman paul a,118143114032293,President and CEO,male,7731755.0
-125157.0,5300.0,1591670,farmland partners inc.,1,1,0,0,20140924,pittman paul a,118143114032585,President and CEO,male,7731755.0
-126157.0,5300.0,1591670,farmland partners inc.,1,1,0,0,20141001,pittman paul a,118143114032968,President and CEO,male,7731755.0
-127157.0,5300.0,1591670,farmland partners inc.,1,1,0,0,20141104,pittman paul a,118143114035394,President and CEO,male,7731755.0
-3688.0,0.0,1591670,farmland partners inc.,1,0,0,0,20141124,sarff darell,118143114037167,,male,7731755.0
-3214.0,0.0,1591670,farmland partners inc.,1,0,0,0,20150225,glauber joseph w,120919115018811,,male,7731755.0
-128657.0,5300.0,1591670,farmland partners inc.,1,1,0,0,20150310,pittman paul a,120919115024578,President and CEO,male,7731755.0
-1000.0,5300.0,1591670,farmland partners inc.,1,1,0,0,20150401,pittman paul a,120919115030907,President and CEO,male,7795336.0
-130857.0,8401.0,1591670,farmland partners inc.,1,1,0,0,20150807,pittman paul a,120919115064619,President and CEO,male,8619734.0
-131857.0,8401.0,1591670,farmland partners inc.,1,1,0,0,20150810,pittman paul a,120919115064872,President and CEO,male,11619734.0
-132857.0,8401.0,1591670,farmland partners inc.,1,1,0,0,20150824,pittman paul a,120919115067551,President and CEO,male,11619734.0
-133557.0,8401.0,1591670,farmland partners inc.,1,1,0,0,20150825,pittman paul a,120919115067816,President and CEO,male,11619734.0
-23214.0,20000.0,1591670,farmland partners inc.,1,0,0,0,20150828,downey chris a,120919115068435,,male,11619734.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20140418,sarff darell,118143114016570,,male,1000.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20140418,solomon robert,118143114016571,,male,1000.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20140418,jernigan dean,118143114016569,,male,1000.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20140418,downey chris a,118143114016567,,male,1000.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20140418,bartels jay,118143114016566,,male,1000.0
+44642.0,,1591670,farmland partners inc.,0,1,0,0.0,20140418,fabbri luca,118143114016573,"CFO, Secretary and Treasurer",male,1000.0
+106357.0,,1591670,farmland partners inc.,1,1,0,0.0,20140418,pittman paul a,118143114016572,President and CEO,male,1000.0
+108357.0,,1591670,farmland partners inc.,1,1,0,0.0,20140604,pittman paul a,118143114022634,President and CEO,male,1000.0
+110357.0,,1591670,farmland partners inc.,1,1,0,0.0,20140606,pittman paul a,118143114023034,President and CEO,male,1000.0
+111357.0,,1591670,farmland partners inc.,1,1,0,0.0,20140609,pittman paul a,118143114023294,President and CEO,male,1000.0
+113157.0,,1591670,farmland partners inc.,1,1,0,0.0,20140611,pittman paul a,118143114023627,President and CEO,male,1000.0
+500.0,,1591670,farmland partners inc.,1,0,0,0.0,20140617,bartels jay,118143114024259,,male,1000.0
+46642.0,,1591670,farmland partners inc.,0,1,0,0.0,20140818,fabbri luca,118143114029468,"CFO, Secretary and Treasurer",male,7731755.0
+20000.0,,1591670,farmland partners inc.,1,0,0,0.0,20140819,downey chris a,118143114029665,,male,7731755.0
+13214.0,,1591670,farmland partners inc.,1,0,0,0.0,20140820,jernigan dean,118143114029781,,male,7731755.0
+121157.0,,1591670,farmland partners inc.,1,1,0,0.0,20140820,pittman paul a,118143114029786,President and CEO,male,7731755.0
+123107.0,,1591670,farmland partners inc.,1,1,0,0.0,20140822,pittman paul a,118143114029985,President and CEO,male,7731755.0
+5300.0,,1591670,farmland partners inc.,1,1,0,0.0,20140827,pittman paul a,118143114030284,President and CEO,male,7731755.0
+124257.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20140918,pittman paul a,118143114032293,President and CEO,male,7731755.0
+125157.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20140924,pittman paul a,118143114032585,President and CEO,male,7731755.0
+126157.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20141001,pittman paul a,118143114032968,President and CEO,male,7731755.0
+127157.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20141104,pittman paul a,118143114035394,President and CEO,male,7731755.0
+3688.0,,1591670,farmland partners inc.,1,0,0,0.0,20141124,sarff darell,118143114037167,,male,7731755.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20150225,glauber joseph w,120919115018811,,male,7731755.0
+128657.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20150310,pittman paul a,120919115024578,President and CEO,male,7731755.0
+1000.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20150401,pittman paul a,120919115030907,President and CEO,male,7795336.0
+130857.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150807,pittman paul a,120919115064619,President and CEO,male,8619734.0
+130857.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150807,pittman paul a,120919115064619,President and CEO,male,8619734.0
+131857.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150810,pittman paul a,120919115064872,President and CEO,male,11619734.0
+131857.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150810,pittman paul a,120919115064872,President and CEO,male,11619734.0
+132857.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150824,pittman paul a,120919115067551,President and CEO,male,11619734.0
+132857.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150824,pittman paul a,120919115067551,President and CEO,male,11619734.0
+133557.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150825,pittman paul a,120919115067816,President and CEO,male,11619734.0
+133557.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20150825,pittman paul a,120919115067816,President and CEO,male,11619734.0
+23214.0,20000.0,1591670,farmland partners inc.,1,0,0,0.0,20150828,downey chris a,120919115068435,,male,11619734.0
+23214.0,20000.0,1591670,farmland partners inc.,1,0,0,0.0,20150828,downey chris a,120919115068435,,male,11619734.0
+3214.0,,1591670,farmland partners inc.,1,0,0,0.0,20151125,christodolou michael,120919115082256,,male,11982689.0
+194304.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20160321,pittman paul a,92542116000068,President and CEO,male,11977279.0
+70941.0,,1591670,farmland partners inc.,0,1,0,0.0,20160321,fabbri luca,92542116000066,"CFO, Secretary and Treasurer",male,11977279.0
+,,1591670,farmland partners inc.,0,0,1,0.0,20160401,pittman hough farms llc,92542116000078,,male,12072321.0
+427704.0,8401.0,1591670,farmland partners inc.,1,1,0,0.0,20160401,pittman paul a,92542116000077,President and CEO,male,12072321.0
+1071.0,,1591670,farmland partners inc.,1,0,0,0.0,20160603,conrad john c,92542116000108,,male,12072321.0
+461304.0,7300.0,1591670,farmland partners inc.,1,1,0,0.0,20160830,pittman paul a,92542116000150,President and CEO,male,14037562.0
+1483.0,,1591670,farmland partners inc.,1,0,0,0.0,20170206,boardman dennie dixon,92542117000078,,male,17351446.0
+94399.0,,1591670,farmland partners inc.,0,1,0,0.0,20170206,cowan robert l.,92542117000081,President,male,17351446.0
+20877.0,,1591670,farmland partners inc.,1,0,0,0.0,20170206,gimbel thomas s t,92542117000084,,male,17351446.0
+468721.0,7300.0,1591670,farmland partners inc.,1,1,0,0.0,20170206,pittman paul a,92542117000087,Chief Executive Officer,male,17351446.0
+5991.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20170224,bartels jay,92542117000102,,male,17351446.0
+2459.0,,1591670,farmland partners inc.,1,0,0,0.0,20170224,conrad john c,92542117000104,,male,17351446.0
+4188.0,,1591670,farmland partners inc.,1,0,0,0.0,20170224,sarff darell,92542117000106,,male,17351446.0
+5991.0,43808.0,1591670,farmland partners inc.,1,0,0,0.0,20170224,downey chris a,92542117000108,,male,17351446.0
+5991.0,,1591670,farmland partners inc.,1,0,0,0.0,20170224,glauber joseph w,92542117000110,,male,17351446.0
+6965.0,,1591670,farmland partners inc.,1,0,0,0.0,20170224,sarff darell,92542117000112,,male,17351446.0
+84064.0,,1591670,farmland partners inc.,0,1,0,0.0,20170227,fabbri luca,92542117000115,CFO and Treasurer,male,17351446.0
+526588.0,7300.0,1591670,farmland partners inc.,1,1,0,0.0,20170227,pittman paul a,92542117000116,Chief Executive Officer,male,17351446.0
+529588.0,7300.0,1591670,farmland partners inc.,1,1,0,0.0,20170228,pittman paul a,92542117000119,Chief Executive Officer,male,17351446.0
+1100.0,5300.0,1591670,farmland partners inc.,1,1,0,0.0,20170301,pittman paul a,92542117000121,Chief Executive Officer,male,17351446.0
+2959.0,,1591670,farmland partners inc.,1,0,0,0.0,20170302,conrad john c,92542117000129,,male,17351446.0
+67111.0,1483.0,1591670,farmland partners inc.,1,0,0,0.0,20170302,boardman dennie dixon,92542117000131,,male,17351446.0
+11404.0,,1591670,farmland partners inc.,0,1,0,0.0,20170306,borenstein erica,92542117000136,General Counsel and Secretary,female,17351446.0
+1200.0,6400.0,1591670,farmland partners inc.,1,1,0,0.0,20170306,pittman paul a,92542117000137,Chief Executive Officer,male,17351446.0
+533088.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170309,pittman paul a,92542117000154,Chief Executive Officer,male,17351446.0
+12404.0,,1591670,farmland partners inc.,0,1,0,0.0,20170315,borenstein erica,92542117000156,General Counsel and Secretary,female,17351446.0
+534088.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170330,pittman paul a,92542117000162,Chief Executive Officer,male,17351446.0
+44310.0,,1591670,farmland partners inc.,1,0,0,0.0,20170419,downey chris a,92542117000164,,male,32448311.0
+68506.0,1483.0,1591670,farmland partners inc.,1,0,0,0.0,20170505,boardman dennie dixon,92542117000178,,male,32448311.0
+7386.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20170505,bartels jay,92542117000174,,male,32448311.0
+4354.0,,1591670,farmland partners inc.,1,0,0,0.0,20170505,conrad john c,92542117000179,,male,32448311.0
+7386.0,44310.0,1591670,farmland partners inc.,1,0,0,0.0,20170505,downey chris a,92542117000181,,male,32448311.0
+22272.0,,1591670,farmland partners inc.,1,0,0,0.0,20170505,gimbel thomas s t,92542117000183,,male,32448311.0
+7386.0,,1591670,farmland partners inc.,1,0,0,0.0,20170505,glauber joseph w,92542117000185,,male,32448311.0
+8360.0,,1591670,farmland partners inc.,1,0,0,0.0,20170505,sarff darell,92542117000187,,male,32448311.0
+536088.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170512,pittman paul a,92542117000221,Chief Executive Officer,male,32448311.0
+538088.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170515,pittman paul a,92542117000223,Chief Executive Officer,male,32448311.0
+540088.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170516,pittman paul a,92542117000228,Chief Executive Officer,male,32448311.0
+542588.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170517,pittman paul a,92542117000230,Chief Executive Officer,male,32448311.0
+67023.0,1483.0,1591670,farmland partners inc.,1,0,0,0.0,20170517,boardman dennie dixon,92542117000232,,male,32448311.0
+86064.0,,1591670,farmland partners inc.,0,1,0,0.0,20170522,fabbri luca,92542117000237,CFO and Treasurer,male,32448311.0
+14404.0,,1591670,farmland partners inc.,0,1,0,0.0,20170522,borenstein erica,92542117000236,General Counsel and Secretary,female,32448311.0
+544788.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170523,pittman paul a,92542117000239,Chief Executive Officer,male,32448311.0
+1601.0,1483.0,1591670,farmland partners inc.,1,0,0,0.0,20170601,boardman dennie dixon,92542117000243,,male,32448311.0
+167169.0,1483.0,1591670,farmland partners inc.,1,0,0,0.0,20170612,boardman dennie dixon,92542117000253,,male,32448311.0
+23077.0,,1591670,farmland partners inc.,1,0,0,0.0,20170612,gimbel thomas s t,92542117000255,,male,32448311.0
+61870.0,,1591670,farmland partners inc.,1,0,0,0.0,20170612,boardman dennie dixon,92542117000257,,male,32448311.0
+16404.0,,1591670,farmland partners inc.,0,1,0,0.0,20170615,borenstein erica,92542117000263,General Counsel and Secretary,female,32448311.0
+549788.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20170619,pittman paul a,92542117000287,Chief Executive Officer,male,32448311.0
+1081615.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20170721,pittman paul a,92542117000298,President and CEO,male,32947972.0
+19404.0,,1591670,farmland partners inc.,0,1,0,0.0,20170817,borenstein erica,92542117000321,General Counsel and Secretary,female,32947972.0
+2000.0,,1591670,farmland partners inc.,0,1,0,0.0,20170817,fabbri luca,92542117000323,CFO and Treasurer,male,32947972.0
+1084615.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20170821,pittman paul a,92542117000325,Chairman and CEO,male,32947972.0
+45568.0,,1591670,farmland partners inc.,1,0,0,0.0,20171113,downey chris a,92542117000377,,male,32337305.0
+1085615.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180103,pittman paul a,92542118000002,Chairman and CEO,male,33334849.0
+46231.0,,1591670,farmland partners inc.,1,0,0,0.0,20180129,downey chris a,92542118000053,,male,33334849.0
+2800.0,,1591670,farmland partners inc.,1,0,0,0.0,20180215,good john a,92542118000087,,male,33334849.0
+23436.0,,1591670,farmland partners inc.,0,1,0,0.0,20180215,borenstein erica,92542118000085,General Counsel and Secretary,female,33334849.0
+1163034.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180307,pittman paul a,92542118000129,Chief Executive Officer,male,33334849.0
+118322.0,2000.0,1591670,farmland partners inc.,0,1,0,0.0,20180307,fabbri luca,92542118000127,CFO and Treasurer,male,33334849.0
+1165324.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180308,pittman paul a,92542118000133,Chief Executive Officer,male,33334849.0
+1168034.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180309,pittman paul a,92542118000135,Chief Executive Officer,male,33334849.0
+1169034.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180312,pittman paul a,92542118000139,Chief Executive Officer,male,33334849.0
+8576.0,,1591670,farmland partners inc.,1,0,0,0.0,20180315,glauber joseph w,92542118000143,,male,33334849.0
+1170034.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180315,pittman paul a,92542118000141,Chief Executive Officer,male,33334849.0
+1171034.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180316,pittman paul a,92542118000149,Chief Executive Officer,male,33334849.0
+1172034.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180319,pittman paul a,92542118000151,Chief Executive Officer,male,33334849.0
+7386.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20180319,bartels jay,92542118000153,,male,33334849.0
+1173034.0,,1591670,farmland partners inc.,1,1,0,0.0,20180328,pittman paul a,92542118000161,Chief Executive Officer,male,33334849.0
+,,1591670,farmland partners inc.,1,1,0,0.0,20180330,pittman paul a,92542118000163,Chief Executive Officer,male,33334849.0
+4886.0,,1591670,farmland partners inc.,1,0,0,0.0,20180330,bartels jay,92542118000165,,male,33334849.0
+46964.0,,1591670,farmland partners inc.,1,0,0,0.0,20180417,downey chris a,92542118000168,,male,32868785.0
+1178286.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180515,pittman paul a,92542118000220,Chief Executive Officer,male,32868785.0
+1686.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20180521,bartels jay,92542118000222,,male,32868785.0
+1181286.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180521,pittman paul a,92542118000224,Chief Executive Officer,male,32868785.0
+1436.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20180524,bartels jay,92542118000226,,male,32868785.0
+1182286.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180628,pittman paul a,92542118000255,Chief Executive Officer,male,32868785.0
+47918.0,,1591670,farmland partners inc.,1,0,0,0.0,20180807,downey chris a,92542118000280,,male,32867817.0
+33436.0,,1591670,farmland partners inc.,0,1,0,0.0,20180814,borenstein erica,92542118000288,General Counsel and Secretary,female,32867817.0
+1200286.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180814,pittman paul a,92542118000286,Chief Executive Officer,male,32867817.0
+1203786.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180821,pittman paul a,92542118000296,Chief Executive Officer,male,32867817.0
+1210243.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180827,pittman paul a,92542118000302,Chief Executive Officer,male,32867817.0
+1213243.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180904,pittman paul a,92542118000306,Chief Executive Officer,male,32867817.0
+1216243.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180907,pittman paul a,92542118000310,Chief Executive Officer,male,32867817.0
+1216843.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180912,pittman paul a,92542118000312,Chief Executive Officer,male,32867817.0
+1219621.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180912,pittman paul a,92542118000314,Chief Executive Officer,male,32867817.0
+1220621.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180920,pittman paul a,92542118000316,Chief Executive Officer,male,32867817.0
+1220721.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20180925,pittman paul a,92542118000320,Chief Executive Officer,male,32867817.0
+1229521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181011,pittman paul a,92542118000326,Chief Executive Officer,male,31695673.0
+63313.0,,1591670,farmland partners inc.,1,0,0,0.0,20181017,downey chris a,92542118000332,,male,31695673.0
+1231521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181126,pittman paul a,92542118000342,Chief Executive Officer,male,31213649.0
+1232521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181128,pittman paul a,92542118000344,Chief Executive Officer,male,31213649.0
+1233521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181210,pittman paul a,92542118000348,Chief Executive Officer,male,31213649.0
+1234021.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181211,pittman paul a,92542118000350,Chief Executive Officer,male,31213649.0
+1234521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181213,pittman paul a,92542118000352,Chief Executive Officer,male,31213649.0
+1235521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181217,pittman paul a,92542118000356,Chief Executive Officer,male,31213649.0
+1236521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181219,pittman paul a,92542118000368,Chief Executive Officer,male,31213649.0
+,,1591670,farmland partners inc.,0,1,0,0.0,20181219,fabbri luca,92542118000370,CFO and Treasurer,male,31213649.0
+1247521.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20181221,pittman paul a,92542118000373,Chief Executive Officer,male,31213649.0
+119322.0,,1591670,farmland partners inc.,0,1,0,0.0,20181221,fabbri luca,92542118000374,CFO and Treasurer,male,31213649.0
+9050.0,,1591670,farmland partners inc.,1,0,0,0.0,20181227,good john a,92542118000376,,male,31213649.0
+2232794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190111,pittman paul a,92542119000014,Chief Executive Officer,male,30594592.0
+63838.0,,1591670,farmland partners inc.,1,0,0,0.0,20190206,downey chris a,92542119000038,,male,30594592.0
+4119.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20190208,bartels jay,92542119000040,,male,30594592.0
+11259.0,,1591670,farmland partners inc.,1,0,0,0.0,20190208,glauber joseph w,92542119000042,,male,30594592.0
+11733.0,,1591670,farmland partners inc.,1,0,0,0.0,20190208,good john a,92542119000045,,male,30594592.0
+10069.0,63838.0,1591670,farmland partners inc.,1,0,0,0.0,20190208,downey chris a,92542119000047,,male,30594592.0
+2363794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190319,pittman paul a,92542119000127,Chief Executive Officer,male,31899291.0
+40102.0,,1591670,farmland partners inc.,0,1,0,0.0,20190319,borenstein erica,92542119000124,General Counsel and Secretary,female,31899291.0
+159322.0,2000.0,1591670,farmland partners inc.,0,1,0,0.0,20190319,fabbri luca,92542119000125,CFO and Treasurer,male,31899291.0
+2869.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20190322,bartels jay,92542119000129,,male,31899291.0
+2367794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190326,pittman paul a,92542119000131,Chief Executive Officer,male,31899291.0
+2371794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190327,pittman paul a,92542119000133,Chief Executive Officer,male,31899291.0
+2744.0,500.0,1591670,farmland partners inc.,1,0,0,0.0,20190408,bartels jay,92542119000147,,male,31836187.0
+14233.0,,1591670,farmland partners inc.,1,0,0,0.0,20190520,good john a,92542119000233,,male,31836187.0
+2373794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190522,pittman paul a,92542119000235,Chief Executive Officer,male,31836187.0
+2374794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190625,pittman paul a,92542119000269,Chief Executive Officer,male,31836187.0
+2376794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190816,pittman paul a,92542119000273,Chief Executive Officer,male,29603077.0
+159822.0,2000.0,1591670,farmland partners inc.,0,1,0,0.0,20190826,fabbri luca,92542119000275,CFO and Treasurer,male,29603077.0
+64364.0,,1591670,farmland partners inc.,1,0,0,0.0,20190826,downey chris a,92542119000277,,male,29603077.0
+2378794.0,7500.0,1591670,farmland partners inc.,1,1,0,0.0,20190927,pittman paul a,92542119000285,Chief Executive Officer,male,29603077.0
+65.812,,1591670,farmland partners inc.,1,0,0,0.0,20191107,downey chris a,92542119000295,,male,30076842.0
+2380794.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200103,pittman paul a,92542120000014,Chief Executive Officer,male,29952608.0
+14101.0,65812.0,1591670,farmland partners inc.,1,0,0,0.0,20200302,downey chris a,92542120000090,,male,29952608.0
+15291.0,,1591670,farmland partners inc.,1,0,0,0.0,20200302,glauber joseph w,92542120000088,,male,29952608.0
+18265.0,,1591670,farmland partners inc.,1,0,0,0.0,20200302,good john a,92542120000086,,male,29952608.0
+205715.0,2000.0,1591670,farmland partners inc.,0,1,0,0.0,20200318,fabbri luca,92542120000120,CFO and Treasurer,male,29851685.0
+2431103.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200318,pittman paul a,92542120000118,Chief Executive Officer,male,29851685.0
+57815.0,,1591670,farmland partners inc.,0,1,0,0.0,20200318,borenstein erica,92542120000116,General Counsel and Secretary,female,29851685.0
+2431603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200323,pittman paul a,92542120000128,Chief Executive Officer,male,29851685.0
+,,1591670,farmland partners inc.,0,1,0,0.0,20200323,fabbri luca,92542120000130,CFO and Treasurer,male,29851685.0
+58815.0,,1591670,farmland partners inc.,0,1,0,0.0,20200326,borenstein erica,92542120000136,General Counsel and Secretary,female,29851685.0
+2432603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200326,pittman paul a,92542120000134,Chief Executive Officer,male,29851685.0
+2433603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200402,pittman paul a,92542120000149,Chief Executive Officer,male,29866000.0
+2434603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200527,pittman paul a,92542120000223,Chief Executive Officer,male,29866000.0
+2435603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200602,pittman paul a,92542120000225,Chief Executive Officer,male,29866000.0
+2436603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200608,pittman paul a,92542120000230,Chief Executive Officer,male,29866000.0
+2438603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200612,pittman paul a,92542120000246,Chief Executive Officer,male,29866000.0
+2440603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200702,pittman paul a,120919120040589,Chief Executive Officer,male,29595943.0
+2450603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200817,pittman paul a,120919120047004,Chief Executive Officer,male,29595943.0
+2457603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200820,pittman paul a,120919120047808,Chief Executive Officer,male,29595943.0
+2459603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200831,pittman paul a,92542120000297,Chief Executive Officer,male,29595943.0
+2460603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200908,pittman paul a,92542120000344,Chief Executive Officer,male,29595943.0
+2461603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200916,pittman paul a,92542120000346,Chief Executive Officer,male,29595943.0
+2463603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20200929,pittman paul a,92542120000354,Chief Executive Officer,male,29595943.0
+2464603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20201112,pittman paul a,120919120058083,Chief Executive Officer,male,29351271.0
+2465603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20201118,pittman paul a,92542120000377,Chief Executive Officer,male,29351271.0
+28265.0,,1591670,farmland partners inc.,1,0,0,0.0,20201203,good john a,92542120000379,,male,29351271.0
+2466603.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20201228,pittman paul a,92542120000385,Chief Executive Officer,male,29351271.0
+72560.0,,1591670,farmland partners inc.,0,1,0,0.0,20210325,borenstein erica,110465921041657,General Counsel and Secretary,female,30727371.0
+2505262.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20210325,pittman paul a,110465921041665,Chief Executive Officer,male,30727371.0
+219706.0,2000.0,1591670,farmland partners inc.,0,1,0,0.0,20210325,fabbri luca,110465921041659,CFO and Treasurer,male,30727371.0
+1251000.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20210325,pittman paul a,110465921041661,Chief Executive Officer,male,30727371.0
+10138.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20210819,heneghan thomas,106299321007778,,male,32819948.0
+4000.0,,1591670,farmland partners inc.,1,0,0,0.0,20210819,orourke toby,106299321007777,,male,32819948.0
+32265.0,,1591670,farmland partners inc.,1,0,0,0.0,20210819,good john a,106299321007779,,male,32819948.0
+19291.0,,1591670,farmland partners inc.,1,0,0,0.0,20210819,glauber joseph w,106299321007780,,male,32819948.0
+14069.0,67776.0,1591670,farmland partners inc.,1,0,0,0.0,20210819,downey chris a,106299321007781,,male,32819948.0
+40665.0,,1591670,farmland partners inc.,1,0,0,0.0,20210820,good john a,106299321007806,,male,32819948.0
+1256262.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20210910,pittman paul a,106299321008450,Chief Executive Officer,male,32819948.0
+1257262.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20210913,pittman paul a,106299321008489,Chief Executive Officer,male,32819948.0
+1258262.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20210915,pittman paul a,106299321008596,Chief Executive Officer,male,32819948.0
+1259262.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20210916,pittman paul a,106299321008663,Chief Executive Officer,male,32819948.0
+1260262.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20210917,pittman paul a,106299321008709,Chief Executive Officer,male,32819948.0
+46490.0,,1591670,farmland partners inc.,1,0,0,0.0,20211004,good john a,106299321009185,,male,32942696.0
+3043.0,,1591670,farmland partners inc.,0,1,0,0.0,20211006,fabbri luca,106299321009260,CFO and Treasurer,male,32942696.0
+1261931.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211006,pittman paul a,106299321009259,Chief Executive Officer,male,32942696.0
+12958.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20211006,heneghan thomas,106299321009261,,male,32942696.0
+2568.0,,1591670,farmland partners inc.,1,0,0,0.0,20211123,wise murray r,106299321011466,,male,45062525.0
+1262431.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211208,pittman paul a,106299321012433,Chief Executive Officer,male,45062525.0
+1262931.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211209,pittman paul a,106299321012529,Chief Executive Officer,male,45062525.0
+46965.0,,1591670,farmland partners inc.,1,0,0,0.0,20211214,good john a,106299321012855,,male,45062525.0
+1263431.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211214,pittman paul a,106299321012853,Chief Executive Officer,male,45062525.0
+1263931.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211215,pittman paul a,106299321012907,Chief Executive Officer,male,45062525.0
+1264431.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211216,pittman paul a,106299321012996,Chief Executive Officer,male,45062525.0
+1264931.0,1258600.0,1591670,farmland partners inc.,1,1,0,0.0,20211217,pittman paul a,106299321013142,Chief Executive Officer,male,45062525.0
+16958.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20220224,heneghan thomas,106299322005598,,male,45474145.0
+4000.0,,1591670,farmland partners inc.,1,0,0,0.0,20220224,moore danny d.,106299322005602,,male,45474145.0
+8000.0,,1591670,farmland partners inc.,1,0,0,0.0,20220224,orourke toby,106299322005601,,male,45474145.0
+50965.0,,1591670,farmland partners inc.,1,0,0,0.0,20220224,good john a,106299322005600,,male,45474145.0
+23291.0,,1591670,farmland partners inc.,1,0,0,0.0,20220224,glauber joseph w,106299322005599,,male,45474145.0
+18101.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20220228,downey chris a,106299322005955,,male,45474145.0
+253440.0,3043.0,1591670,farmland partners inc.,0,1,0,0.0,20220307,fabbri luca,106299322006996,President,male,45474145.0
+1095307.0,1265600.0,1591670,farmland partners inc.,1,1,0,0.0,20220307,pittman paul a,106299322006994,Chief Executive Officer,male,45474145.0
+27011.0,,1591670,farmland partners inc.,0,1,0,0.0,20220307,gilligan james,106299322006995,Chief Financial Officer,male,45474145.0
+242522.0,3043.0,1591670,farmland partners inc.,0,1,0,0.0,20220323,fabbri luca,106299322008441,President,male,45474145.0
+21711.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20220328,heneghan thomas,106299322008801,,male,45474145.0
+4705.0,,1591670,farmland partners inc.,1,0,0,0.0,20220328,moore danny d.,106299322008800,,male,45474145.0
+1097307.0,1265600.0,1591670,farmland partners inc.,1,1,0,0.0,20220328,pittman paul a,106299322008713,Chief Executive Officer,male,45474145.0
+1098307.0,1265600.0,1591670,farmland partners inc.,1,1,0,0.0,20220519,pittman paul a,106299322013003,Chief Executive Officer,male,50067105.0
+5419.0,,1591670,farmland partners inc.,1,0,0,0.0,20220627,moore danny d.,106299322015464,,male,50067105.0
+22425.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20220627,heneghan thomas,106299322015463,,male,50067105.0
+1098807.0,1265600.0,1591670,farmland partners inc.,1,1,0,0.0,20220705,pittman paul a,106299322015856,Chief Executive Officer,male,52742449.0
+1099807.0,1265600.0,1591670,farmland partners inc.,1,1,0,0.0,20220906,pittman paul a,106299322019228,Chief Executive Officer,male,53046074.0
+1259000.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20220921,pittman paul a,106299322019819,Chief Executive Officer,male,53046074.0
+23133.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20220926,heneghan thomas,106299322019923,,male,53046074.0
+6127.0,,1591670,farmland partners inc.,1,0,0,0.0,20220926,moore danny d.,106299322019922,,male,53046074.0
+4043.0,,1591670,farmland partners inc.,0,1,0,0.0,20220928,fabbri luca,106299322020010,President,male,53046074.0
+1260000.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20220928,pittman paul a,106299322020011,Chief Executive Officer,male,53046074.0
+1260500.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20230104,pittman paul a,106299323000275,Chief Executive Officer,male,54318312.0
+6926.0,,1591670,farmland partners inc.,1,0,0,0.0,20230111,moore danny d.,106299323000824,,male,54318312.0
+23932.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20230111,heneghan thomas,106299323000825,,male,54318312.0
+27291.0,,1591670,farmland partners inc.,1,0,0,0.0,20230223,glauber joseph w,106299323004694,,male,54318312.0
+54965.0,,1591670,farmland partners inc.,1,0,0,0.0,20230223,good john a,106299323004693,,male,54318312.0
+10926.0,,1591670,farmland partners inc.,1,0,0,0.0,20230223,moore danny d.,106299323004698,,male,54318312.0
+22101.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20230223,downey chris a,106299323004700,,male,54318312.0
+27932.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20230223,heneghan thomas,106299323004705,,male,54318312.0
+289352.0,4043.0,1591670,farmland partners inc.,1,1,0,0.0,20230228,fabbri luca,106299323005106,CEO and President,male,54318312.0
+1195005.0,1268100.0,1591670,farmland partners inc.,1,1,0,0.0,20230228,pittman paul a,106299323005116,Executive Chairman,male,54318312.0
+50662.0,,1591670,farmland partners inc.,0,1,0,0.0,20230228,gilligan james,106299323005114,Chief Financial Officer,male,54318312.0
+17286.0,,1591670,farmland partners inc.,0,1,0,0.0,20230228,garrison christine m.,106299323005109,General Counsel and Secretary,female,54318312.0
+1267000.0,7600.0,1591670,farmland partners inc.,1,1,0,0.0,20230301,pittman paul a,106299323005307,Executive Chairman,male,54318312.0
+64265.0,,1591670,farmland partners inc.,1,0,0,0.0,20230302,good john a,106299323005548,,male,54318312.0
+4543.0,,1591670,farmland partners inc.,1,1,0,0.0,20230309,fabbri luca,106299323006433,CEO and President,male,54318312.0
+169846.0,2568.0,1591670,farmland partners inc.,1,0,0,0.0,20230309,wise murray r,106299323006434,,male,54318312.0
+189846.0,2568.0,1591670,farmland partners inc.,1,0,0,0.0,20230313,wise murray r,106299323006761,,male,54318312.0
+5043.0,,1591670,farmland partners inc.,1,1,0,0.0,20230313,fabbri luca,106299323006764,CEO and President,male,54318312.0
+199846.0,2568.0,1591670,farmland partners inc.,1,0,0,0.0,20230320,wise murray r,106299323007284,,male,54318312.0
+4000.0,,1591670,farmland partners inc.,1,0,0,0.0,20230323,grafton jennifer s,106299323007567,,female,54318312.0
+12004.0,,1591670,farmland partners inc.,1,0,0,0.0,20230327,moore danny d.,106299323007771,,male,54318312.0
+28947.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20230327,heneghan thomas,106299323007772,,male,54318312.0
+23433.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20230327,downey chris a,106299323007770,,male,54318312.0
+58465.0,,1591670,farmland partners inc.,1,0,0,0.0,20230628,good john a,106299323014130,,male,51905807.0
+24515.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20230628,downey chris a,106299323014129,,male,51905807.0
+12879.0,,1591670,farmland partners inc.,1,0,0,0.0,20230628,moore danny d.,106299323014128,,male,51905807.0
+29771.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20230628,heneghan thomas,106299323014127,,male,51905807.0
+25785.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20230925,downey chris a,106299323018461,,male,48836990.0
+30739.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20230925,heneghan thomas,106299323018460,,male,48836990.0
+13907.0,,1591670,farmland partners inc.,1,0,0,0.0,20230925,moore danny d.,106299323018463,,male,48836990.0
+1298505.0,1274600.0,1591670,farmland partners inc.,1,1,0,0.0,20230929,pittman paul a,106299323018619,Executive Chairman,male,48836990.0
+16773.0,,1591670,farmland partners inc.,0,1,0,0.0,20231106,garrison christine m.,106299323020228,General Counsel and Secretary,female,48185949.0
+14744.0,,1591670,farmland partners inc.,1,0,0,0.0,20231222,moore danny d.,106299323023105,,male,48185949.0
+26820.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20231222,downey chris a,106299323023106,,male,48185949.0
+31527.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20231222,heneghan thomas,106299323023104,,male,48185949.0
+15945.0,,1591670,farmland partners inc.,0,1,0,0.0,20240227,garrison christine m.,106299324004693,General Counsel and Secretary,female,48002716.0
+285326.0,4043.0,1591670,farmland partners inc.,0,1,0,0.0,20240227,fabbri luca,106299324004694,President and CEO,male,48002716.0
+322997.0,4043.0,1591670,farmland partners inc.,0,1,0,0.0,20240305,fabbri luca,106299324005636,President and CEO,male,48002716.0
+25253.0,,1591670,farmland partners inc.,0,1,0,0.0,20240306,garrison christine m.,106299324005789,General Counsel and Secretary,female,48002716.0
+1365448.0,1274600.0,1591670,farmland partners inc.,1,1,0,0.0,20240306,pittman paul a,106299324005777,Executive Chairman,male,48002716.0
+70054.0,,1591670,farmland partners inc.,0,1,0,0.0,20240306,gilligan james,106299324005780,Chief Financial Officer,male,48002716.0
+32433.0,1312250.0,1591670,farmland partners inc.,1,0,0,0.0,20240325,heneghan thomas,106299324007073,,male,48002716.0
+15707.0,,1591670,farmland partners inc.,1,0,0,0.0,20240325,moore danny d.,106299324007074,,male,48002716.0
+28009.0,67589.0,1591670,farmland partners inc.,1,0,0,0.0,20240325,downey chris a,106299324007072,,male,48002716.0
+320344.0,4043.0,1591670,farmland partners inc.,1,1,0,0.0,20240326,fabbri luca,106299324007166,President and CEO,male,48002716.0
+8000.0,,1591670,farmland partners inc.,1,0,0,0.0,20240501,grafton jennifer s,106299324009182,,female,48154991.0
+19707.0,,1591670,farmland partners inc.,1,0,0,0.0,20240501,moore danny d.,106299324009183,,male,48154991.0
+62465.0,,1591670,farmland partners inc.,1,0,0,0.0,20240501,good john a,106299324009184,,male,48154991.0
+9000.0,4000.0,1591670,farmland partners inc.,1,0,0,0.0,20240725,sherrick bruce j,106299324014092,,male,48166860.0
+321344.0,4043.0,1591670,farmland partners inc.,1,1,0,0.0,20240806,fabbri luca,106299324014537,President and CEO,male,48166860.0
+86465.0,,1591670,farmland partners inc.,1,0,0,0.0,20240808,good john a,106299324014723,,male,48166860.0
+24738.0,,1591670,farmland partners inc.,0,1,0,0.0,20241105,garrison christine m.,106299324018366,General Counsel and Secretary,female,48172637.0
+101465.0,,1591670,farmland partners inc.,1,0,0,0.0,20241220,good john a,106299324021087,,male,48172637.0

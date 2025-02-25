@@ -1,340 +1,949 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-270291.0,10000.0,1100682,charles river laboratories international inc,1.0,1.0,,,20100225,foster james c,112760210006310,President and CEO,male,65877218.0
-57258.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100225,gillett nancy,112760210006316,Corporate Executive VP,female,65877218.0
-90000.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100225,ackerman thomas f,112760210006320,Corp. Executive VP & CFO,male,65877218.0
-25812.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100225,berthoux christophe,112760210006322,Executive Vice President,male,65877218.0
-79900.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100225,johst david p,112760210006324,Corp Executive VP,male,65877218.0
-77928.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100225,renaud real h,112760210006326,Corp. Executive VP,male,65877218.0
-75276.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100302,renaud real h,112760210006917,Corp. Executive VP,male,65877218.0
-95296.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100302,johst david p,112760210006915,Corp Executive VP,male,65877218.0
-299596.0,10000.0,1100682,charles river laboratories international inc,1.0,1.0,,,20100302,foster james c,112760210006912,President and CEO,male,65877218.0
-63358.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100302,gillett nancy,112760210006909,Corporate Executive VP,female,65877218.0
-100872.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100302,ackerman thomas f,112760210006907,Corp. Executive VP & CFO,male,65877218.0
-31897.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100302,berthoux christophe,112760210006903,Executive Vice President,male,65877218.0
-14773.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100312,waltrip william,112760210008457,,male,65877218.0
-28303.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100405,chubb stephen d,112760210010449,,male,65877218.0
-10510.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,reese c richard,112760210013765,,male,65877218.0
-12859.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,rogers douglas e,112760210013762,,male,65877218.0
-18168.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,massaro george,112760210013754,,male,65877218.0
-11910.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,thier samuel o md,112760210013750,,male,65877218.0
-31283.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,chubb stephen d,112760210013752,,male,65877218.0
-31010.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,chang nancy t,112760210013744,,female,65877218.0
-6610.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20100511,kochevar deborah turner,112760210013756,,female,65877218.0
-18510.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20100511,milne george m jr,112760210013742,,male,65877218.0
-15510.0,14773.0,1100682,charles river laboratories international inc,1.0,,,,20100511,waltrip william,112760210013739,,male,65877218.0
-111296.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100512,johst david p,112760210013825,Corp Executive VP,male,65877218.0
-99986.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100812,ackerman thomas f,112760210021197,Corp. Executive VP & CFO,male,66259289.0
+25812.0,,1100682,charles river laboratories international inc,,1.0,,,20100225,berthoux christophe,112760210006322,Executive Vice President,male,
+270291.0,10000.0,1100682,charles river laboratories international inc,1.0,1.0,,,20100225,foster james c,112760210006310,President and CEO,male,
+90000.0,,1100682,charles river laboratories international inc,,1.0,,,20100225,ackerman thomas f,112760210006320,Corp. Executive VP & CFO,male,
+57258.0,,1100682,charles river laboratories international inc,,1.0,,,20100225,gillett nancy,112760210006316,Corporate Executive VP,female,
+79900.0,,1100682,charles river laboratories international inc,,1.0,,,20100225,johst david p,112760210006324,Corp Executive VP,male,
+77928.0,,1100682,charles river laboratories international inc,,1.0,,,20100225,renaud real h,112760210006326,Corp. Executive VP,male,
+299596.0,10000.0,1100682,charles river laboratories international inc,1.0,1.0,,,20100302,foster james c,112760210006912,President and CEO,male,
+31897.0,,1100682,charles river laboratories international inc,,1.0,,,20100302,berthoux christophe,112760210006903,Executive Vice President,male,
+63358.0,,1100682,charles river laboratories international inc,,1.0,,,20100302,gillett nancy,112760210006909,Corporate Executive VP,female,
+75276.0,,1100682,charles river laboratories international inc,,1.0,,,20100302,renaud real h,112760210006917,Corp. Executive VP,male,
+95296.0,,1100682,charles river laboratories international inc,,1.0,,,20100302,johst david p,112760210006915,Corp Executive VP,male,
+100872.0,,1100682,charles river laboratories international inc,,1.0,,,20100302,ackerman thomas f,112760210006907,Corp. Executive VP & CFO,male,
+14773.0,,1100682,charles river laboratories international inc,1.0,,,,20100312,waltrip william,112760210008457,,male,
+28303.0,,1100682,charles river laboratories international inc,1.0,,,,20100405,chubb stephen d,112760210010449,,male,
+12859.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,rogers douglas e,112760210013762,,male,
+6610.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,kochevar deborah turner,112760210013756,,female,
+18168.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,massaro george,112760210013754,,male,
+15510.0,14773.0,1100682,charles river laboratories international inc,1.0,,,,20100511,waltrip william,112760210013739,,male,
+11910.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,thier samuel o md,112760210013750,,male,
+31010.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,chang nancy t,112760210013744,,female,
+18510.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20100511,milne george m jr,112760210013742,,male,
+31283.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,chubb stephen d,112760210013752,,male,
+10510.0,,1100682,charles river laboratories international inc,1.0,,,,20100511,reese c richard,112760210013765,,male,
+111296.0,,1100682,charles river laboratories international inc,,1.0,,,20100512,johst david p,112760210013825,Corp Executive VP,male,
+99986.0,,1100682,charles river laboratories international inc,,1.0,,,20100812,ackerman thomas f,112760210021197,Corp. Executive VP & CFO,male,66259289.0
 294225.0,10000.0,1100682,charles river laboratories international inc,1.0,1.0,,,20100812,foster james c,112760210021199,President and CEO,male,66259289.0
-62023.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100812,gillett nancy,112760210021201,Corporate Executive VP,female,66259289.0
-110410.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100812,johst david p,112760210021203,Corp Executive VP,male,66259289.0
-74390.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20100812,renaud real h,112760210021207,Corp. Executive VP,male,66259289.0
-30283.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110105,chubb stephen d,112760211000885,,male,56441081.0
-3640.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110203,bertolini robert j,112760211003686,,male,56441081.0
-23640.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110203,wallman richard f,112760211003690,,male,56441081.0
-22350.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110217,thier samuel o md,112760211005983,,male,56477889.0
-11910.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110217,thier samuel o md,112760211005986,,male,56477889.0
-98050.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110224,ackerman thomas f,112760211007415,Corp. Executive VP & CFO,male,56477889.0
+62023.0,,1100682,charles river laboratories international inc,,1.0,,,20100812,gillett nancy,112760210021201,Corporate Executive VP,female,66259289.0
+110410.0,,1100682,charles river laboratories international inc,,1.0,,,20100812,johst david p,112760210021203,Corp Executive VP,male,66259289.0
+74390.0,,1100682,charles river laboratories international inc,,1.0,,,20100812,renaud real h,112760210021207,Corp. Executive VP,male,66259289.0
+30283.0,,1100682,charles river laboratories international inc,1.0,,,,20110105,chubb stephen d,112760211000885,,male,56441081.0
+23640.0,,1100682,charles river laboratories international inc,1.0,,,,20110203,wallman richard f,112760211003690,,male,56441081.0
+3640.0,,1100682,charles river laboratories international inc,1.0,,,,20110203,bertolini robert j,112760211003686,,male,56441081.0
+22350.0,,1100682,charles river laboratories international inc,1.0,,,,20110217,thier samuel o md,112760211005983,,male,56477889.0
+11910.0,,1100682,charles river laboratories international inc,1.0,,,,20110217,thier samuel o md,112760211005986,,male,56477889.0
 276863.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110224,foster james c,112760211007419,President and CEO,male,56477889.0
-61078.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110224,gillett nancy,112760211007423,Corporate Executive VP,female,56477889.0
-109588.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110224,johst david p,112760211007426,Corp Executive VP,male,56477889.0
-18907.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110224,molho davide,112760211007432,Corporate Executive VP,male,56477889.0
-28112.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110301,molho davide,112760211008124,Corporate Executive VP,male,56477889.0
-119901.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110301,johst david p,112760211008120,Corp Executive VP,male,56477889.0
-66273.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110301,gillett nancy,112760211008116,Corporate Executive VP,female,56477889.0
+61078.0,,1100682,charles river laboratories international inc,,1.0,,,20110224,gillett nancy,112760211007423,Corporate Executive VP,female,56477889.0
+109588.0,,1100682,charles river laboratories international inc,,1.0,,,20110224,johst david p,112760211007426,Corp Executive VP,male,56477889.0
+18907.0,,1100682,charles river laboratories international inc,,1.0,,,20110224,molho davide,112760211007432,Corporate Executive VP,male,56477889.0
+98050.0,,1100682,charles river laboratories international inc,,1.0,,,20110224,ackerman thomas f,112760211007415,Corp. Executive VP & CFO,male,56477889.0
+106845.0,,1100682,charles river laboratories international inc,,1.0,,,20110301,ackerman thomas f,112760211008107,Corp. Executive VP & CFO,male,56477889.0
+66273.0,,1100682,charles river laboratories international inc,,1.0,,,20110301,gillett nancy,112760211008116,Corporate Executive VP,female,56477889.0
+119901.0,,1100682,charles river laboratories international inc,,1.0,,,20110301,johst david p,112760211008120,Corp Executive VP,male,56477889.0
+28112.0,,1100682,charles river laboratories international inc,,1.0,,,20110301,molho davide,112760211008124,Corporate Executive VP,male,56477889.0
 309189.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110301,foster james c,112760211008109,President and CEO,male,56477889.0
-106845.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110301,ackerman thomas f,112760211008107,Corp. Executive VP & CFO,male,56477889.0
-29283.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110404,chubb stephen d,112760211011837,,male,51602261.0
-106845.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110406,ackerman thomas f,112760211012594,Corp. Executive VP & CFO,male,51602261.0
-119901.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110406,johst david p,112760211012596,Corp Executive VP,male,51602261.0
-16968.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110510,massaro george,112760211015673,,male,51658245.0
-6610.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110510,kochevar deborah turner,112760211015677,,female,51658245.0
-12790.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,reese c richard,112760211016238,,male,51658245.0
-17790.0,14773.0,1100682,charles river laboratories international inc,1.0,,,,20110513,waltrip william,112760211016254,,male,51658245.0
-25920.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,wallman richard f,112760211016250,,male,51658245.0
-14190.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,thier samuel o md,112760211016248,,male,51658245.0
-14190.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,thier samuel o md,112760211016244,,male,51658245.0
-8890.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,kochevar deborah turner,112760211016224,,female,51658245.0
-31563.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,chubb stephen d,112760211016222,,male,51658245.0
-5920.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,bertolini robert j,112760211016220,,male,51658245.0
+29283.0,,1100682,charles river laboratories international inc,1.0,,,,20110404,chubb stephen d,112760211011837,,male,51602261.0
+106845.0,,1100682,charles river laboratories international inc,,1.0,,,20110406,ackerman thomas f,112760211012594,Corp. Executive VP & CFO,male,51602261.0
+119901.0,,1100682,charles river laboratories international inc,,1.0,,,20110406,johst david p,112760211012596,Corp Executive VP,male,51602261.0
+6610.0,,1100682,charles river laboratories international inc,1.0,,,,20110510,kochevar deborah turner,112760211015677,,female,51658245.0
+16968.0,,1100682,charles river laboratories international inc,1.0,,,,20110510,massaro george,112760211015673,,male,51658245.0
+31563.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,chubb stephen d,112760211016222,,male,51658245.0
+8890.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,kochevar deborah turner,112760211016224,,female,51658245.0
+19248.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,massaro george,112760211016227,,male,51658245.0
 20790.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20110513,milne george m jr,112760211016230,,male,51658245.0
-19248.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110513,massaro george,112760211016227,,male,51658245.0
-119901.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20110624,johst david p,112760211019813,Corp Executive VP,male,51658245.0
+12790.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,reese c richard,112760211016238,,male,51658245.0
+14190.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,thier samuel o md,112760211016244,,male,51658245.0
+14190.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,thier samuel o md,112760211016248,,male,51658245.0
+25920.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,wallman richard f,112760211016250,,male,51658245.0
+17790.0,14773.0,1100682,charles river laboratories international inc,1.0,,,,20110513,waltrip william,112760211016254,,male,51658245.0
+5920.0,,1100682,charles river laboratories international inc,1.0,,,,20110513,bertolini robert j,112760211016220,,male,51658245.0
+119901.0,,1100682,charles river laboratories international inc,,1.0,,,20110624,johst david p,112760211019813,Corp Executive VP,male,51658245.0
 309189.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110624,foster james c,112760211019838,President and CEO,male,51658245.0
-30563.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20110706,chubb stephen d,112760211020867,,male,51448460.0
+30563.0,,1100682,charles river laboratories international inc,1.0,,,,20110706,chubb stephen d,112760211020867,,male,51448460.0
 329669.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110729,foster james c,112760211022230,President and CEO,male,51358411.0
 341489.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110729,foster james c,112760211022232,President and CEO,male,51358411.0
-309189.0,14340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110729,foster james c,112760211022228,President and CEO,male,51358411.0
 317489.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110729,foster james c,112760211022225,President and CEO,male,51358411.0
-29799.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20111005,geller jorg,112760211026946,Corporate Executive VP,male,49723708.0
-15920.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120217,wallman richard f,112760212006544,,male,48875715.0
-57526.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120217,gillett nancy,112760212006630,Corporate Executive VP,female,48875715.0
+309189.0,14340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20110729,foster james c,112760211022228,President and CEO,male,51358411.0
+29799.0,,1100682,charles river laboratories international inc,,1.0,,,20111005,geller jorg,112760211026946,Corporate Executive VP,male,49723708.0
+15920.0,,1100682,charles river laboratories international inc,1.0,,,,20120217,wallman richard f,112760212006544,,male,48875715.0
+57526.0,,1100682,charles river laboratories international inc,,1.0,,,20120217,gillett nancy,112760212006630,Corporate Executive VP,female,48875715.0
+55299.0,,1100682,charles river laboratories international inc,,1.0,,,20120228,geller jorg,112760212008536,Corporate Executive VP,male,48875715.0
 37856.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20120228,molho davide,112760212008534,Corporate Executive VP,male,48875715.0
+75275.0,,1100682,charles river laboratories international inc,,1.0,,,20120228,gillett nancy,112760212008508,Corporate Executive VP,female,48875715.0
+122614.0,,1100682,charles river laboratories international inc,,1.0,,,20120228,ackerman thomas f,112760212008530,Corp. Executive VP & CFO,male,48875715.0
+138819.0,,1100682,charles river laboratories international inc,,1.0,,,20120228,johst david p,112760212008511,Corp Executive VP,male,48875715.0
 383828.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20120228,foster james c,112760212008532,President and CEO,male,48875715.0
-55299.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120228,geller jorg,112760212008536,Corporate Executive VP,male,48875715.0
-138819.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120228,johst david p,112760212008511,Corp Executive VP,male,48875715.0
-122614.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120228,ackerman thomas f,112760212008530,Corp. Executive VP & CFO,male,48875715.0
-75275.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120228,gillett nancy,112760212008508,Corporate Executive VP,female,48875715.0
-79236.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120301,gillett nancy,112760212008819,Corporate Executive VP,female,48875715.0
-74500.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120301,gillett nancy,112760212008821,Corporate Executive VP,female,48875715.0
-138092.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120301,johst david p,112760212008823,Corp Executive VP,male,48875715.0
-54286.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120301,geller jorg,112760212008811,Corporate Executive VP,male,48875715.0
-121887.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120301,ackerman thomas f,112760212008815,Corp. Executive VP & CFO,male,48875715.0
+54286.0,,1100682,charles river laboratories international inc,,1.0,,,20120301,geller jorg,112760212008811,Corporate Executive VP,male,48875715.0
+121887.0,,1100682,charles river laboratories international inc,,1.0,,,20120301,ackerman thomas f,112760212008815,Corp. Executive VP & CFO,male,48875715.0
 380895.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20120301,foster james c,112760212008817,President and CEO,male,48875715.0
+79236.0,,1100682,charles river laboratories international inc,,1.0,,,20120301,gillett nancy,112760212008819,Corporate Executive VP,female,48875715.0
+74500.0,,1100682,charles river laboratories international inc,,1.0,,,20120301,gillett nancy,112760212008821,Corporate Executive VP,female,48875715.0
+138092.0,,1100682,charles river laboratories international inc,,1.0,,,20120301,johst david p,112760212008823,Corp Executive VP,male,48875715.0
 37716.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20120301,molho davide,112760212008828,Corporate Executive VP,male,48875715.0
-53148.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120302,geller jorg,112760212009177,Corporate Executive VP,male,48875715.0
-10920.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120305,wallman richard f,112760212009581,,male,48875715.0
-29563.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120404,chubb stephen d,112760212013243,,male,49002831.0
-33603.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,chubb stephen d,112760212016578,,male,48995692.0
-23288.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,massaro george,112760212016581,,male,48995692.0
-24830.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20120511,milne george m jr,112760212016583,,male,48995692.0
-16830.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,reese c richard,112760212016585,,male,48995692.0
-18230.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,thier samuel o md,112760212016587,,male,48995692.0
-14960.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,wallman richard f,112760212016589,,male,48995692.0
-9960.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,bertolini robert j,112760212016592,,male,48995692.0
-12930.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120511,kochevar deborah turner,112760212016594,,female,48995692.0
+53148.0,,1100682,charles river laboratories international inc,,1.0,,,20120302,geller jorg,112760212009177,Corporate Executive VP,male,48875715.0
+10920.0,,1100682,charles river laboratories international inc,1.0,,,,20120305,wallman richard f,112760212009581,,male,48875715.0
+29563.0,,1100682,charles river laboratories international inc,1.0,,,,20120404,chubb stephen d,112760212013243,,male,49002831.0
 21830.0,14773.0,1100682,charles river laboratories international inc,1.0,,,,20120511,waltrip william,112760212016597,,male,48995692.0
-122087.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120622,ackerman thomas f,112760212020627,Corp. Executive VP & CFO,male,48995692.0
-22148.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20120625,massaro george,112760212020682,,male,48995692.0
-121887.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120705,ackerman thomas f,112760212021771,Corp. Executive VP & CFO,male,48995692.0
-138092.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120709,johst david p,112760212021994,Corp Executive VP,male,48995692.0
+12930.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,kochevar deborah turner,112760212016594,,female,48995692.0
+9960.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,bertolini robert j,112760212016592,,male,48995692.0
+18230.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,thier samuel o md,112760212016587,,male,48995692.0
+16830.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,reese c richard,112760212016585,,male,48995692.0
+14960.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,wallman richard f,112760212016589,,male,48995692.0
+23288.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,massaro george,112760212016581,,male,48995692.0
+33603.0,,1100682,charles river laboratories international inc,1.0,,,,20120511,chubb stephen d,112760212016578,,male,48995692.0
+24830.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20120511,milne george m jr,112760212016583,,male,48995692.0
+122087.0,,1100682,charles river laboratories international inc,,1.0,,,20120622,ackerman thomas f,112760212020627,Corp. Executive VP & CFO,male,48995692.0
+22148.0,,1100682,charles river laboratories international inc,1.0,,,,20120625,massaro george,112760212020682,,male,48995692.0
+121887.0,,1100682,charles river laboratories international inc,,1.0,,,20120705,ackerman thomas f,112760212021771,Corp. Executive VP & CFO,male,48995692.0
+138092.0,,1100682,charles river laboratories international inc,,1.0,,,20120709,johst david p,112760212021994,Corp Executive VP,male,48995692.0
+382978.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022047,"Chairman, President and CEO",male,48995692.0
+380895.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022049,"Chairman, President and CEO",male,48995692.0
 423879.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022043,"Chairman, President and CEO",male,48995692.0
-398164.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022045,"Chairman, President and CEO",male,48995692.0
-382978.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022047,"Chairman, President and CEO",male,48995692.0
-380895.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022049,"Chairman, President and CEO",male,48995692.0
-121887.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20120712,ackerman thomas f,112760212022143,Corp. Executive VP & CFO,male,48995692.0
-32603.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20121001,chubb stephen d,112760212027542,,male,48730630.0
+398164.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20120710,foster james c,112760212022045,"Chairman, President and CEO",male,48995692.0
+121887.0,,1100682,charles river laboratories international inc,,1.0,,,20120712,ackerman thomas f,112760212022143,Corp. Executive VP & CFO,male,48995692.0
+32603.0,,1100682,charles river laboratories international inc,1.0,,,,20121001,chubb stephen d,112760212027542,,male,48730630.0
+112887.0,,1100682,charles river laboratories international inc,,1.0,,,20121003,ackerman thomas f,112760212028122,Corp. Executive VP & CFO,male,48730630.0
 373895.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20121003,foster james c,112760212028124,"Chairman, President and CEO",male,48730630.0
-112887.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20121003,ackerman thomas f,112760212028122,Corp. Executive VP & CFO,male,48730630.0
-52255.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20121009,geller jorg,112760212028372,Corporate Executive VP,male,48730630.0
-500.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20121130,waltrip william,112760212032371,,male,48553049.0
-0.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20121130,waltrip william,112760212032373,,male,48553049.0
-25731.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20121206,waltrip william,112760212033028,,male,48553049.0
-21830.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20121206,waltrip william,112760212033030,,male,48553049.0
-31603.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130103,chubb stephen d,112760213000406,,male,48875715000.0
-108887.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130108,ackerman thomas f,112760213001377,Corp. Executive VP & CFO,male,48875715000.0
-58860.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130222,gillett nancy,112760213007413,Corporate Executive VP,female,48875715000.0
-144563.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130226,johst david p,112760213008004,Corp Executive VP,male,48875715000.0
-57978.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130226,geller jorg,112760213008013,Corporate Executive VP,male,48875715000.0
-63314.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130226,gillett nancy,112760213008007,Corporate Executive VP,female,48875715000.0
-377672.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130226,foster james c,112760213007980,"Chairman, President and CEO",male,48875715000.0
-41977.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20130226,molho davide,112760213008000,Corporate Executive VP,male,48875715000.0
-111713.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130226,ackerman thomas f,112760213007996,Corp. Executive VP & CFO,male,48875715000.0
-366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130227,foster james c,112760213008267,"Chairman, President and CEO",male,48875715000.0
-40892.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20130227,molho davide,112760213008306,Corporate Executive VP,male,48875715000.0
-141799.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130227,johst david p,112760213008309,Corp Executive VP,male,48875715000.0
-109039.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130227,ackerman thomas f,112760213008262,Corp. Executive VP & CFO,male,48875715000.0
-61434.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130228,gillett nancy,112760213008473,Corporate Executive VP,female,48875715000.0
-366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130301,foster james c,112760213008714,"Chairman, President and CEO",male,48875715000.0
-57397.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130301,geller jorg,112760213008641,Corporate Executive VP,male,48875715000.0
-56585.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130304,geller jorg,112760213008886,Corporate Executive VP,male,48875715000.0
-56585.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130305,geller jorg,112760213009104,Corporate Executive VP,male,48875715000.0
-55085.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130306,geller jorg,112760213009501,Corporate Executive VP,male,48875715000.0
-61434.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130307,gillett nancy,112760213009877,Corporate Executive VP,female,48875715000.0
-54510.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130311,gillett nancy,112760213010306,Corporate Executive VP,female,48875715000.0
-54510.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130311,gillett nancy,112760213010308,Corporate Executive VP,female,48875715000.0
-141799.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130312,johst david p,112760213010347,Corp Executive VP,male,48875715000.0
-57810.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130312,gillett nancy,112760213010352,Corporate Executive VP,female,48875715000.0
-54510.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130312,gillett nancy,112760213010355,Corporate Executive VP,female,48875715000.0
-141799.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130314,johst david p,112760213010789,Corp Executive VP,male,48875715000.0
-548296.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011422,"Chairman, President and CEO",male,48875715000.0
-519487.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011425,"Chairman, President and CEO",male,48875715000.0
-479001.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011428,"Chairman, President and CEO",male,48875715000.0
-426253.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011431,"Chairman, President and CEO",male,48875715000.0
-389040.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011433,"Chairman, President and CEO",male,48875715000.0
-368986.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011435,"Chairman, President and CEO",male,48875715000.0
-366580.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011438,"Chairman, President and CEO",male,48875715000.0
-16170.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130510,kochevar deborah turner,112760213016440,,female,49029250.0
-34843.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130510,chubb stephen d,112760213016468,,male,49029250.0
-20070.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130510,reese c richard,112760213016442,,male,49029250.0
-18200.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130510,wallman richard f,112760213016397,,male,49029250.0
-13200.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130510,bertolini robert j,112760213016390,,male,49029250.0
+52255.0,,1100682,charles river laboratories international inc,,1.0,,,20121009,geller jorg,112760212028372,Corporate Executive VP,male,48730630.0
+500.0,,1100682,charles river laboratories international inc,1.0,,,,20121130,waltrip william,112760212032371,,male,48553049.0
+0.0,,1100682,charles river laboratories international inc,1.0,,,,20121130,waltrip william,112760212032373,,male,48553049.0
+25731.0,,1100682,charles river laboratories international inc,1.0,,,,20121206,waltrip william,112760212033028,,male,48553049.0
+21830.0,,1100682,charles river laboratories international inc,1.0,,,,20121206,waltrip william,112760212033030,,male,48553049.0
+31603.0,,1100682,charles river laboratories international inc,1.0,,,,20130103,chubb stephen d,112760213000406,,male,48220037.0
+108887.0,,1100682,charles river laboratories international inc,,1.0,,,20130108,ackerman thomas f,112760213001377,Corp. Executive VP & CFO,male,48220037.0
+58860.0,,1100682,charles river laboratories international inc,,1.0,,,20130222,gillett nancy,112760213007413,Corporate Executive VP,female,48220037.0
+41977.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20130226,molho davide,112760213008000,Corporate Executive VP,male,48220037.0
+111713.0,,1100682,charles river laboratories international inc,,1.0,,,20130226,ackerman thomas f,112760213007996,Corp. Executive VP & CFO,male,48220037.0
+57978.0,,1100682,charles river laboratories international inc,,1.0,,,20130226,geller jorg,112760213008013,Corporate Executive VP,male,48220037.0
+377672.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130226,foster james c,112760213007980,"Chairman, President and CEO",male,48220037.0
+144563.0,,1100682,charles river laboratories international inc,,1.0,,,20130226,johst david p,112760213008004,Corp Executive VP,male,48220037.0
+63314.0,,1100682,charles river laboratories international inc,,1.0,,,20130226,gillett nancy,112760213008007,Corporate Executive VP,female,48220037.0
+109039.0,,1100682,charles river laboratories international inc,,1.0,,,20130227,ackerman thomas f,112760213008262,Corp. Executive VP & CFO,male,48220037.0
+366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130227,foster james c,112760213008267,"Chairman, President and CEO",male,48220037.0
+40892.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20130227,molho davide,112760213008306,Corporate Executive VP,male,48220037.0
+141799.0,,1100682,charles river laboratories international inc,,1.0,,,20130227,johst david p,112760213008309,Corp Executive VP,male,48220037.0
+61434.0,,1100682,charles river laboratories international inc,,1.0,,,20130228,gillett nancy,112760213008473,Corporate Executive VP,female,48220037.0
+57397.0,,1100682,charles river laboratories international inc,,1.0,,,20130301,geller jorg,112760213008641,Corporate Executive VP,male,48220037.0
+366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130301,foster james c,112760213008714,"Chairman, President and CEO",male,48220037.0
+56585.0,,1100682,charles river laboratories international inc,,1.0,,,20130304,geller jorg,112760213008886,Corporate Executive VP,male,48220037.0
+56585.0,,1100682,charles river laboratories international inc,,1.0,,,20130305,geller jorg,112760213009104,Corporate Executive VP,male,48220037.0
+55085.0,,1100682,charles river laboratories international inc,,1.0,,,20130306,geller jorg,112760213009501,Corporate Executive VP,male,48220037.0
+61434.0,,1100682,charles river laboratories international inc,,1.0,,,20130307,gillett nancy,112760213009877,Corporate Executive VP,female,48220037.0
+54510.0,,1100682,charles river laboratories international inc,,1.0,,,20130311,gillett nancy,112760213010308,Corporate Executive VP,female,48220037.0
+54510.0,,1100682,charles river laboratories international inc,,1.0,,,20130311,gillett nancy,112760213010306,Corporate Executive VP,female,48220037.0
+141799.0,,1100682,charles river laboratories international inc,,1.0,,,20130312,johst david p,112760213010347,Corp Executive VP,male,48220037.0
+57810.0,,1100682,charles river laboratories international inc,,1.0,,,20130312,gillett nancy,112760213010352,Corporate Executive VP,female,48220037.0
+54510.0,,1100682,charles river laboratories international inc,,1.0,,,20130312,gillett nancy,112760213010355,Corporate Executive VP,female,48220037.0
+141799.0,,1100682,charles river laboratories international inc,,1.0,,,20130314,johst david p,112760213010789,Corp Executive VP,male,48220037.0
+366580.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011438,"Chairman, President and CEO",male,48220037.0
+368986.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011435,"Chairman, President and CEO",male,48220037.0
+548296.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011422,"Chairman, President and CEO",male,48220037.0
+426253.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011431,"Chairman, President and CEO",male,48220037.0
+479001.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011428,"Chairman, President and CEO",male,48220037.0
+519487.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011425,"Chairman, President and CEO",male,48220037.0
+389040.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20130319,foster james c,112760213011433,"Chairman, President and CEO",male,48220037.0
+13200.0,,1100682,charles river laboratories international inc,1.0,,,,20130510,bertolini robert j,112760213016390,,male,49029250.0
 28070.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20130510,milne george m jr,112760213016394,,male,49029250.0
-23388.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130510,massaro george,112760213016392,,male,49029250.0
-21368.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130513,massaro george,112760213016532,,male,49029250.0
+18200.0,,1100682,charles river laboratories international inc,1.0,,,,20130510,wallman richard f,112760213016397,,male,49029250.0
+16170.0,,1100682,charles river laboratories international inc,1.0,,,,20130510,kochevar deborah turner,112760213016440,,female,49029250.0
+20070.0,,1100682,charles river laboratories international inc,1.0,,,,20130510,reese c richard,112760213016442,,male,49029250.0
+34843.0,,1100682,charles river laboratories international inc,1.0,,,,20130510,chubb stephen d,112760213016468,,male,49029250.0
+23388.0,,1100682,charles river laboratories international inc,1.0,,,,20130510,massaro george,112760213016392,,male,49029250.0
+21368.0,,1100682,charles river laboratories international inc,1.0,,,,20130513,massaro george,112760213016532,,male,49029250.0
 366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130516,foster james c,112760213017064,"Chairman, President and CEO",male,49029250.0
-105039.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130605,ackerman thomas f,112760213019537,Corp. Executive VP & CFO,male,49029250.0
+105039.0,,1100682,charles river laboratories international inc,,1.0,,,20130605,ackerman thomas f,112760213019537,Corp. Executive VP & CFO,male,49029250.0
+16700.0,,1100682,charles river laboratories international inc,1.0,,,,20130805,wallman richard f,112760213024446,,male,49040927000.0
 40892.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20130805,molho davide,112760213024444,Corporate Executive VP,male,49040927000.0
-16700.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130805,wallman richard f,112760213024446,,male,49040927000.0
-18317.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130806,kochevar deborah turner,112760213024510,,female,49040927000.0
-13870.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130806,kochevar deborah turner,112760213024508,,female,49040927000.0
-18317.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130806,kochevar deborah turner,112760213024512,,female,49040927000.0
-55085.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130806,geller jorg,112760213024525,Corporate Executive VP,male,49040927000.0
-141799.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130806,johst david p,112760213024569,Corp Executive VP,male,49040927000.0
-105039.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130806,ackerman thomas f,112760213024585,Corp. Executive VP & CFO,male,49040927000.0
-30843.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130822,chubb stephen d,112760213025789,,male,49040927000.0
+18317.0,,1100682,charles river laboratories international inc,1.0,,,,20130806,kochevar deborah turner,112760213024512,,female,49040927000.0
+55085.0,,1100682,charles river laboratories international inc,,1.0,,,20130806,geller jorg,112760213024525,Corporate Executive VP,male,49040927000.0
+141799.0,,1100682,charles river laboratories international inc,,1.0,,,20130806,johst david p,112760213024569,Corp Executive VP,male,49040927000.0
+105039.0,,1100682,charles river laboratories international inc,,1.0,,,20130806,ackerman thomas f,112760213024585,Corp. Executive VP & CFO,male,49040927000.0
+13870.0,,1100682,charles river laboratories international inc,1.0,,,,20130806,kochevar deborah turner,112760213024508,,female,49040927000.0
+18317.0,,1100682,charles river laboratories international inc,1.0,,,,20130806,kochevar deborah turner,112760213024510,,female,49040927000.0
+30843.0,,1100682,charles river laboratories international inc,1.0,,,,20130822,chubb stephen d,112760213025789,,male,49040927000.0
 40892.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20130823,molho davide,112760213025872,Corporate Executive VP,male,49040927000.0
 366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130903,foster james c,112760213026428,"Chairman, President and CEO",male,49040927000.0
-28843.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130905,chubb stephen d,112760213026656,,male,49040927000.0
-105039.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130906,ackerman thomas f,112760213026744,Corp. Executive VP & CFO,male,49040927000.0
-113939.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20130906,ackerman thomas f,112760213026742,Corp. Executive VP & CFO,male,49040927000.0
+28843.0,,1100682,charles river laboratories international inc,1.0,,,,20130905,chubb stephen d,112760213026656,,male,49040927000.0
+113939.0,,1100682,charles river laboratories international inc,,1.0,,,20130906,ackerman thomas f,112760213026742,Corp. Executive VP & CFO,male,49040927000.0
+105039.0,,1100682,charles river laboratories international inc,,1.0,,,20130906,ackerman thomas f,112760213026744,Corp. Executive VP & CFO,male,49040927000.0
 366580.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20130911,foster james c,112760213026966,"Chairman, President and CEO",male,49040927000.0
-15410.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20130917,massaro george,112760213027315,,male,49040927000.0
-3500.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20131003,crowley john j,112760213028702,"SVP, Chief Accounting Officer",male,48254381000.0
-54192.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20131008,geller jorg,112760213029032,Corporate Executive VP,male,48254381000.0
-26843.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20131203,chubb stephen d,112760213033365,,male,48117860.0
-54192.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20131206,geller jorg,112760213033871,Corporate Executive VP,male,48117860.0
-107689.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20131224,ackerman thomas f,112760213035573,Corp. Executive VP & CFO,male,48117860.0
-104539.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20131224,ackerman thomas f,112760213035575,Corp. Executive VP & CFO,male,48117860.0
-3900.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140106,thompson craig b.,112760214001057,,male,47554000.0
-15410.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140109,massaro george,112760214001574,,male,47554000.0
-141799.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140114,johst david p,112760214001874,Corp Executive VP,male,47554000.0
+15410.0,,1100682,charles river laboratories international inc,1.0,,,,20130917,massaro george,112760213027315,,male,49040927000.0
+3500.0,,1100682,charles river laboratories international inc,,1.0,,,20131003,crowley john j,112760213028702,"SVP, Chief Accounting Officer",male,48254381000.0
+54192.0,,1100682,charles river laboratories international inc,,1.0,,,20131008,geller jorg,112760213029032,Corporate Executive VP,male,48254381000.0
+26843.0,,1100682,charles river laboratories international inc,1.0,,,,20131203,chubb stephen d,112760213033365,,male,48117860.0
+54192.0,,1100682,charles river laboratories international inc,,1.0,,,20131206,geller jorg,112760213033871,Corporate Executive VP,male,48117860.0
+104539.0,,1100682,charles river laboratories international inc,,1.0,,,20131224,ackerman thomas f,112760213035575,Corp. Executive VP & CFO,male,48117860.0
+107689.0,,1100682,charles river laboratories international inc,,1.0,,,20131224,ackerman thomas f,112760213035573,Corp. Executive VP & CFO,male,48117860.0
+3900.0,,1100682,charles river laboratories international inc,1.0,,,,20140106,thompson craig b.,112760214001057,,male,47554000.0
+15410.0,,1100682,charles river laboratories international inc,1.0,,,,20140109,massaro george,112760214001574,,male,47554000.0
+141799.0,,1100682,charles river laboratories international inc,,1.0,,,20140114,johst david p,112760214001874,Corp Executive VP,male,47554000.0
 28070.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20140218,milne george m jr,112760214006559,,male,47554000.0
-105539.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007305,Corp. Executive VP & CFO,male,47554000.0
-104539.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007308,Corp. Executive VP & CFO,male,47554000.0
-104539.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007312,Corp. Executive VP & CFO,male,47554000.0
-104539.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007317,Corp. Executive VP & CFO,male,47554000.0
-25645.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140221,chubb stephen d,112760214007616,,male,47554000.0
-50510.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140224,gillett nancy,112760214007771,Corporate Executive VP,female,47554000.0
+104539.0,,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007312,Corp. Executive VP & CFO,male,47554000.0
+104539.0,,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007317,Corp. Executive VP & CFO,male,47554000.0
+104539.0,,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007308,Corp. Executive VP & CFO,male,47554000.0
+105539.0,,1100682,charles river laboratories international inc,,1.0,,,20140220,ackerman thomas f,112760214007305,Corp. Executive VP & CFO,male,47554000.0
+25645.0,,1100682,charles river laboratories international inc,1.0,,,,20140221,chubb stephen d,112760214007616,,male,47554000.0
+50510.0,,1100682,charles river laboratories international inc,,1.0,,,20140224,gillett nancy,112760214007771,Corporate Executive VP,female,47554000.0
+140634.0,,1100682,charles river laboratories international inc,,1.0,,,20140225,johst david p,112760214008164,Corp Executive VP,male,47554000.0
+103952.0,,1100682,charles river laboratories international inc,,1.0,,,20140225,ackerman thomas f,112760214008166,Corp. Executive VP & CFO,male,47554000.0
 39993.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140225,molho davide,112760214008168,Corporate Executive VP,male,47554000.0
-140634.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140225,johst david p,112760214008164,Corp Executive VP,male,47554000.0
+49871.0,,1100682,charles river laboratories international inc,,1.0,,,20140225,gillett nancy,112760214008197,Corporate Executive VP,female,47554000.0
 355841.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140225,foster james c,112760214008329,"Chairman, President and CEO",male,47554000.0
-103952.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140225,ackerman thomas f,112760214008166,Corp. Executive VP & CFO,male,47554000.0
-49871.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140225,gillett nancy,112760214008197,Corporate Executive VP,female,47554000.0
-136210.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140226,johst david p,112760214008711,Corp Executive VP,male,47554000.0
-357371.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140226,foster james c,112760214008705,"Chairman, President and CEO",male,47554000.0
 37498.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140226,molho davide,112760214008713,Corporate Executive VP,male,47554000.0
-374371.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140226,foster james c,112760214008703,"Chairman, President and CEO",male,47554000.0
 345344.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140226,foster james c,112760214008707,"Chairman, President and CEO",male,47554000.0
+374371.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20140226,foster james c,112760214008703,"Chairman, President and CEO",male,47554000.0
+136210.0,,1100682,charles river laboratories international inc,,1.0,,,20140226,johst david p,112760214008711,Corp Executive VP,male,47554000.0
 38346.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140226,molho davide,112760214008541,Corporate Executive VP,male,47554000.0
-101811.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140226,ackerman thomas f,112760214008537,Corp. Executive VP & CFO,male,47554000.0
-48353.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140226,gillett nancy,112760214008543,Corporate Executive VP,female,47554000.0
-53423.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140226,geller jorg,112760214008535,Corporate Executive VP,male,47554000.0
-137626.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140226,johst david p,112760214008539,Corp Executive VP,male,47554000.0
-47767.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140227,gillett nancy,112760214008797,Corporate Executive VP,female,47554000.0
-370541.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140227,foster james c,112760214008899,"Chairman, President and CEO",male,47554000.0
-350298.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140227,foster james c,112760214008901,"Chairman, President and CEO",male,47554000.0
-100395.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140227,ackerman thomas f,112760214008775,Corp. Executive VP & CFO,male,47554000.0
-50235.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140227,geller jorg,112760214008779,Corporate Executive VP,male,47554000.0
+48353.0,,1100682,charles river laboratories international inc,,1.0,,,20140226,gillett nancy,112760214008543,Corporate Executive VP,female,47554000.0
+53423.0,,1100682,charles river laboratories international inc,,1.0,,,20140226,geller jorg,112760214008535,Corporate Executive VP,male,47554000.0
+357371.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20140226,foster james c,112760214008705,"Chairman, President and CEO",male,47554000.0
+137626.0,,1100682,charles river laboratories international inc,,1.0,,,20140226,johst david p,112760214008539,Corp Executive VP,male,47554000.0
+101811.0,,1100682,charles river laboratories international inc,,1.0,,,20140226,ackerman thomas f,112760214008537,Corp. Executive VP & CFO,male,47554000.0
+100395.0,,1100682,charles river laboratories international inc,,1.0,,,20140227,ackerman thomas f,112760214008775,Corp. Executive VP & CFO,male,47554000.0
+50235.0,,1100682,charles river laboratories international inc,,1.0,,,20140227,geller jorg,112760214008779,Corporate Executive VP,male,47554000.0
+47767.0,,1100682,charles river laboratories international inc,,1.0,,,20140227,gillett nancy,112760214008797,Corporate Executive VP,female,47554000.0
+370541.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20140227,foster james c,112760214008899,"Chairman, President and CEO",male,47554000.0
+350298.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20140227,foster james c,112760214008901,"Chairman, President and CEO",male,47554000.0
 340258.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140227,foster james c,112760214008903,"Chairman, President and CEO",male,47554000.0
-335538.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140228,foster james c,112760214009278,"Chairman, President and CEO",male,47554000.0
-356960.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140228,foster james c,112760214009274,"Chairman, President and CEO",male,47554000.0
-369804.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140228,foster james c,112760214009271,"Chairman, President and CEO",male,47554000.0
-43162.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140228,gillett nancy,112760214009157,Corporate Executive VP,female,47554000.0
-134374.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140228,johst david p,112760214009155,Corp Executive VP,male,47554000.0
+49804.0,,1100682,charles river laboratories international inc,,1.0,,,20140228,geller jorg,112760214009143,Corporate Executive VP,male,47554000.0
+98748.0,,1100682,charles river laboratories international inc,,1.0,,,20140228,ackerman thomas f,112760214009149,Corp. Executive VP & CFO,male,47554000.0
 36729.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140228,molho davide,112760214009153,Corporate Executive VP,male,47554000.0
-49804.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140228,geller jorg,112760214009143,Corporate Executive VP,male,47554000.0
-98748.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140228,ackerman thomas f,112760214009149,Corp. Executive VP & CFO,male,47554000.0
-49222.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009349,Corporate Executive VP,male,47554000.0
-63208.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009643,Corporate Executive VP,male,47554000.0
-55722.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009647,Corporate Executive VP,male,47554000.0
-49222.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009651,Corporate Executive VP,male,47554000.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140304,ackerman thomas f,112760214009921,Corp. Executive VP & CFO,male,47554000.0
-48625.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140304,gillett nancy,112760214009940,Corporate Executive VP,female,47554000.0
-43975.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140304,gillett nancy,112760214009936,Corporate Executive VP,female,47554000.0
-49702.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140304,gillett nancy,112760214009931,Corporate Executive VP,female,47554000.0
-143169.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140304,johst david p,112760214009906,Corp Executive VP,male,47554000.0
-4893.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140304,crowley john j,112760214009900,"SVP, Chief Accounting Officer",male,47554000.0
-358964.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140304,foster james c,112760214009916,"Chairman, President and CEO",male,47554000.0
+134374.0,,1100682,charles river laboratories international inc,,1.0,,,20140228,johst david p,112760214009155,Corp Executive VP,male,47554000.0
+43162.0,,1100682,charles river laboratories international inc,,1.0,,,20140228,gillett nancy,112760214009157,Corporate Executive VP,female,47554000.0
+369804.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20140228,foster james c,112760214009271,"Chairman, President and CEO",male,47554000.0
+356960.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20140228,foster james c,112760214009274,"Chairman, President and CEO",male,47554000.0
+335538.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140228,foster james c,112760214009278,"Chairman, President and CEO",male,47554000.0
+49222.0,,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009651,Corporate Executive VP,male,47554000.0
+49222.0,,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009349,Corporate Executive VP,male,47554000.0
+55722.0,,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009647,Corporate Executive VP,male,47554000.0
+63208.0,,1100682,charles river laboratories international inc,,1.0,,,20140303,geller jorg,112760214009643,Corporate Executive VP,male,47554000.0
 43304.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140304,molho davide,112760214009910,Corporate Executive VP,male,47554000.0
-23645.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140305,chubb stephen d,112760214010112,,male,47554000.0
-48625.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140306,gillett nancy,112760214010434,Corporate Executive VP,female,47554000.0
-38515.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140307,gillett nancy,112760214010657,Corporate Executive VP,female,47554000.0
-45004.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140311,molho davide,112760214011031,Corporate Executive VP,male,47554000.0
+4893.0,,1100682,charles river laboratories international inc,,1.0,,,20140304,crowley john j,112760214009900,"SVP, Chief Accounting Officer",male,47554000.0
+48625.0,,1100682,charles river laboratories international inc,,1.0,,,20140304,gillett nancy,112760214009940,Corporate Executive VP,female,47554000.0
+43975.0,,1100682,charles river laboratories international inc,,1.0,,,20140304,gillett nancy,112760214009936,Corporate Executive VP,female,47554000.0
+143169.0,,1100682,charles river laboratories international inc,,1.0,,,20140304,johst david p,112760214009906,Corp Executive VP,male,47554000.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20140304,ackerman thomas f,112760214009921,Corp. Executive VP & CFO,male,47554000.0
+358964.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20140304,foster james c,112760214009916,"Chairman, President and CEO",male,47554000.0
+49702.0,,1100682,charles river laboratories international inc,,1.0,,,20140304,gillett nancy,112760214009931,Corporate Executive VP,female,47554000.0
+23645.0,,1100682,charles river laboratories international inc,1.0,,,,20140305,chubb stephen d,112760214010112,,male,47554000.0
+48625.0,,1100682,charles river laboratories international inc,,1.0,,,20140306,gillett nancy,112760214010434,Corporate Executive VP,female,47554000.0
+38515.0,,1100682,charles river laboratories international inc,,1.0,,,20140307,gillett nancy,112760214010657,Corporate Executive VP,female,47554000.0
 43304.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140311,molho davide,112760214011034,Corporate Executive VP,male,47554000.0
-113781.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140506,ackerman thomas f,112760214016557,Corp. Executive VP & CFO,male,48367013.0
-104711.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140506,ackerman thomas f,112760214016565,Corp. Executive VP & CFO,male,48367013.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140506,ackerman thomas f,112760214016568,Corp. Executive VP & CFO,male,48367013.0
-26365.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,chubb stephen d,112760214016921,,male,48367013.0
-16590.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,kochevar deborah turner,112760214016929,,female,48367013.0
-6620.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,thompson craig b.,112760214016931,,male,48367013.0
-19420.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,wallman richard f,112760214016901,,male,48367013.0
-15920.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,bertolini robert j,112760214016904,,male,48367013.0
-2720.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,massaro george,112760214016908,,male,48367013.0
-22790.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,reese c richard,112760214016911,,male,48367013.0
+45004.0,,1100682,charles river laboratories international inc,,1.0,,,20140311,molho davide,112760214011031,Corporate Executive VP,male,47554000.0
+113781.0,,1100682,charles river laboratories international inc,,1.0,,,20140506,ackerman thomas f,112760214016557,Corp. Executive VP & CFO,male,48367013.0
+104711.0,,1100682,charles river laboratories international inc,,1.0,,,20140506,ackerman thomas f,112760214016565,Corp. Executive VP & CFO,male,48367013.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20140506,ackerman thomas f,112760214016568,Corp. Executive VP & CFO,male,48367013.0
+16590.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,kochevar deborah turner,112760214016929,,female,48367013.0
+16510.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,massaro george,112760214017015,,male,48367013.0
+6620.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,thompson craig b.,112760214016931,,male,48367013.0
 30790.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20140509,milne george m jr,112760214016919,,male,48367013.0
-16510.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140509,massaro george,112760214017015,,male,48367013.0
-16510.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140512,massaro george,112760214017100,,male,48367013.0
-11370.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140523,kochevar deborah turner,112760214018588,,female,48367013.0
-14470.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140523,kochevar deborah turner,112760214018590,,female,48367013.0
-24365.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140604,chubb stephen d,112760214019835,,male,48367013.0
-16180.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140813,wallman richard f,112760214025369,,male,46677079.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140819,ackerman thomas f,112760214025913,Corp. Executive VP & CFO,male,46677079.0
-125704.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20140819,ackerman thomas f,112760214025912,Corp. Executive VP & CFO,male,46677079.0
-16510.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140827,massaro george,112760214026619,,male,46677079.0
-22365.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20140904,chubb stephen d,112760214027156,,male,46677079.0
+22790.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,reese c richard,112760214016911,,male,48367013.0
+26365.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,chubb stephen d,112760214016921,,male,48367013.0
+2720.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,massaro george,112760214016908,,male,48367013.0
+15920.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,bertolini robert j,112760214016904,,male,48367013.0
+19420.0,,1100682,charles river laboratories international inc,1.0,,,,20140509,wallman richard f,112760214016901,,male,48367013.0
+16510.0,,1100682,charles river laboratories international inc,1.0,,,,20140512,massaro george,112760214017100,,male,48367013.0
+11370.0,,1100682,charles river laboratories international inc,1.0,,,,20140523,kochevar deborah turner,112760214018588,,female,48367013.0
+14470.0,,1100682,charles river laboratories international inc,1.0,,,,20140523,kochevar deborah turner,112760214018590,,female,48367013.0
+24365.0,,1100682,charles river laboratories international inc,1.0,,,,20140604,chubb stephen d,112760214019835,,male,48367013.0
+16180.0,,1100682,charles river laboratories international inc,1.0,,,,20140813,wallman richard f,112760214025369,,male,46677079.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20140819,ackerman thomas f,112760214025913,Corp. Executive VP & CFO,male,46677079.0
+125704.0,,1100682,charles river laboratories international inc,,1.0,,,20140819,ackerman thomas f,112760214025912,Corp. Executive VP & CFO,male,46677079.0
+16510.0,,1100682,charles river laboratories international inc,1.0,,,,20140827,massaro george,112760214026619,,male,46677079.0
+22365.0,,1100682,charles river laboratories international inc,1.0,,,,20140904,chubb stephen d,112760214027156,,male,46677079.0
 43304.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20140905,molho davide,112760214027257,Corporate Executive VP,male,46677079.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141001,ackerman thomas f,112760214028602,Corp. Executive VP & CFO,male,46766227.0
-4607.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141002,crowley john j,112760214028823,"SVP, Chief Accounting Officer",male,46766227.0
-48329.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141006,geller jorg,112760214029473,Corporate Executive VP,male,46766227.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20141001,ackerman thomas f,112760214028602,Corp. Executive VP & CFO,male,46766227.0
+4607.0,,1100682,charles river laboratories international inc,,1.0,,,20141002,crowley john j,112760214028823,"SVP, Chief Accounting Officer",male,46766227.0
+48329.0,,1100682,charles river laboratories international inc,,1.0,,,20141006,geller jorg,112760214029473,Corporate Executive VP,male,46766227.0
 350964.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20141007,foster james c,112760214029557,"Chairman, President and CEO",male,46766227.0
 350964.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20141022,foster james c,112760214030184,"Chairman, President and CEO",male,46921688.0
-142949.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141030,johst david p,112760214030563,Corp Executive VP,male,46921688.0
-38515.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141103,gillett nancy,112760214030708,Corporate Executive VP,female,46921688.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141104,ackerman thomas f,112760214030979,Corp. Executive VP & CFO,male,46921688.0
+142949.0,,1100682,charles river laboratories international inc,,1.0,,,20141030,johst david p,112760214030563,Corp Executive VP,male,46921688.0
+38515.0,,1100682,charles river laboratories international inc,,1.0,,,20141103,gillett nancy,112760214030708,Corporate Executive VP,female,46921688.0
 43304.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20141104,molho davide,112760214031023,Corporate Executive VP,male,46921688.0
-15510.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20141104,massaro george,112760214031029,,male,46921688.0
-4607.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141105,crowley john j,112760214031218,"SVP, Chief Accounting Officer",male,46921688.0
-29915.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141105,gillett nancy,112760214031183,Corporate Executive VP,female,46921688.0
-22941.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20141107,reese c richard,112760214031550,,male,46921688.0
+15510.0,,1100682,charles river laboratories international inc,1.0,,,,20141104,massaro george,112760214031029,,male,46921688.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20141104,ackerman thomas f,112760214030979,Corp. Executive VP & CFO,male,46921688.0
+29915.0,,1100682,charles river laboratories international inc,,1.0,,,20141105,gillett nancy,112760214031183,Corporate Executive VP,female,46921688.0
+4607.0,,1100682,charles river laboratories international inc,,1.0,,,20141105,crowley john j,112760214031218,"SVP, Chief Accounting Officer",male,46921688.0
+22941.0,,1100682,charles river laboratories international inc,1.0,,,,20141107,reese c richard,112760214031550,,male,46921688.0
 43304.0,8574.0,1100682,charles river laboratories international inc,,1.0,,,20141114,molho davide,112760214032258,Corporate Executive VP,male,46921688.0
-50069.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141117,geller jorg,112760214032382,Corporate Executive VP,male,46921688.0
-48329.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141117,geller jorg,112760214032385,Corporate Executive VP,male,46921688.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141118,ackerman thomas f,112760214032602,Corp. Executive VP & CFO,male,46921688.0
-142949.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20141202,johst david p,112760214033790,Corp Executive VP,male,46921688.0
-18865.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20141202,chubb stephen d,112760214033833,,male,46921688.0
-142949.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150108,johst david p,112760215001425,Corp Executive VP,male,47327000.0
-142949.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150112,johst david p,112760215001567,Corp Executive VP,male,47327000.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150128,ackerman thomas f,112760215003043,Corp. Executive VP & CFO,male,47327000.0
-39871.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150217,geller jorg,112760215006108,Corporate Executive VP,male,47326257.0
-574.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150217,molho davide,112760215006123,Corporate Executive VP,male,47326257.0
-25441.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150218,geller jorg,112760215006621,Corporate Executive VP,male,47326257.0
-22871.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150218,geller jorg,112760215006624,Corporate Executive VP,male,47326257.0
-104811.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150218,ackerman thomas f,112760215006665,Corp. Executive VP & CFO,male,47326257.0
-104211.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150218,ackerman thomas f,112760215006668,Corp. Executive VP & CFO,male,47326257.0
-19854.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150219,chubb stephen d,112760215006941,,male,47326257.0
+50069.0,,1100682,charles river laboratories international inc,,1.0,,,20141117,geller jorg,112760214032382,Corporate Executive VP,male,46921688.0
+48329.0,,1100682,charles river laboratories international inc,,1.0,,,20141117,geller jorg,112760214032385,Corporate Executive VP,male,46921688.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20141118,ackerman thomas f,112760214032602,Corp. Executive VP & CFO,male,46921688.0
+142949.0,,1100682,charles river laboratories international inc,,1.0,,,20141202,johst david p,112760214033790,Corp Executive VP,male,46921688.0
+18865.0,,1100682,charles river laboratories international inc,1.0,,,,20141202,chubb stephen d,112760214033833,,male,46921688.0
+142949.0,,1100682,charles river laboratories international inc,,1.0,,,20150108,johst david p,112760215001425,Corp Executive VP,male,47327000.0
+142949.0,,1100682,charles river laboratories international inc,,1.0,,,20150112,johst david p,112760215001567,Corp Executive VP,male,47327000.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20150128,ackerman thomas f,112760215003043,Corp. Executive VP & CFO,male,47327000.0
+39871.0,,1100682,charles river laboratories international inc,,1.0,,,20150217,geller jorg,112760215006108,Corporate Executive VP,male,47326257.0
+574.0,,1100682,charles river laboratories international inc,,1.0,,,20150217,molho davide,112760215006123,Corporate Executive VP,male,47326257.0
+104211.0,,1100682,charles river laboratories international inc,,1.0,,,20150218,ackerman thomas f,112760215006668,Corp. Executive VP & CFO,male,47326257.0
+25441.0,,1100682,charles river laboratories international inc,,1.0,,,20150218,geller jorg,112760215006621,Corporate Executive VP,male,47326257.0
+22871.0,,1100682,charles river laboratories international inc,,1.0,,,20150218,geller jorg,112760215006624,Corporate Executive VP,male,47326257.0
+104811.0,,1100682,charles river laboratories international inc,,1.0,,,20150218,ackerman thomas f,112760215006665,Corp. Executive VP & CFO,male,47326257.0
+19854.0,,1100682,charles river laboratories international inc,1.0,,,,20150219,chubb stephen d,112760215006941,,male,47326257.0
 342964.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150220,foster james c,112760215007284,"Chairman, President and CEO",male,47326257.0
-42661.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20150223,molho davide,112760215007632,Corporate Executive VP,male,47326257.0
-141723.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150223,johst david p,112760215007629,Corp Executive VP,male,47326257.0
-29452.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150223,gillett nancy,112760215007626,Corporate Executive VP,female,47326257.0
 30790.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20150223,milne george m jr,112760215007605,,male,47326257.0
-21332.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150224,geller jorg,112760215007856,Corporate Executive VP,male,47326257.0
-103637.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150224,ackerman thomas f,112760215007875,Corp. Executive VP & CFO,male,47326257.0
+29452.0,,1100682,charles river laboratories international inc,,1.0,,,20150223,gillett nancy,112760215007626,Corporate Executive VP,female,47326257.0
+141723.0,,1100682,charles river laboratories international inc,,1.0,,,20150223,johst david p,112760215007629,Corp Executive VP,male,47326257.0
+42661.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20150223,molho davide,112760215007632,Corporate Executive VP,male,47326257.0
+21332.0,,1100682,charles river laboratories international inc,,1.0,,,20150224,geller jorg,112760215007856,Corporate Executive VP,male,47326257.0
+103637.0,,1100682,charles river laboratories international inc,,1.0,,,20150224,ackerman thomas f,112760215007875,Corp. Executive VP & CFO,male,47326257.0
 340095.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150224,foster james c,112760215007911,"Chairman, President and CEO",male,47326257.0
-14957.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150225,geller jorg,112760215008480,Corporate Executive VP,male,47326257.0
-16958.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150225,geller jorg,112760215008478,Corporate Executive VP,male,47326257.0
-39057.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20150225,molho davide,112760215008377,Corporate Executive VP,male,47326257.0
+16958.0,,1100682,charles river laboratories international inc,,1.0,,,20150225,geller jorg,112760215008478,Corporate Executive VP,male,47326257.0
 324545.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008374,"Chairman, President and CEO",male,47326257.0
-342178.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008372,"Chairman, President and CEO",male,47326257.0
-354611.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008370,"Chairman, President and CEO",male,47326257.0
-359682.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008367,"Chairman, President and CEO",male,47326257.0
-137931.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150225,johst david p,112760215008305,Corp Executive VP,male,47326257.0
+342178.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008372,"Chairman, President and CEO",male,47326257.0
+14957.0,,1100682,charles river laboratories international inc,,1.0,,,20150225,geller jorg,112760215008480,Corporate Executive VP,male,47326257.0
+359682.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008367,"Chairman, President and CEO",male,47326257.0
+354611.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008370,"Chairman, President and CEO",male,47326257.0
+353451.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008165,"Chairman, President and CEO",male,47326257.0
+39057.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20150225,molho davide,112760215008377,Corporate Executive VP,male,47326257.0
 340095.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008171,"Chairman, President and CEO",male,47326257.0
 343495.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008167,"Chairman, President and CEO",male,47326257.0
-353451.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150225,foster james c,112760215008165,"Chairman, President and CEO",male,47326257.0
-21934.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150226,gillett nancy,112760215008508,Corporate Executive VP,female,47326257.0
-99845.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150226,ackerman thomas f,112760215008510,Corp. Executive VP & CFO,male,47326257.0
-348462.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008727,"Chairman, President and CEO",male,47326257.0
-21934.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150227,gillett nancy,112760215008735,Corporate Executive VP,female,47326257.0
-33411.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150227,gillett nancy,112760215008733,Corporate Executive VP,female,47326257.0
-355462.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008725,"Chairman, President and CEO",male,47326257.0
-14094.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150227,geller jorg,112760215008719,Corporate Executive VP,male,47326257.0
-335548.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008729,"Chairman, President and CEO",male,47326257.0
+137931.0,,1100682,charles river laboratories international inc,,1.0,,,20150225,johst david p,112760215008305,Corp Executive VP,male,47326257.0
+21934.0,,1100682,charles river laboratories international inc,,1.0,,,20150226,gillett nancy,112760215008508,Corporate Executive VP,female,47326257.0
+99845.0,,1100682,charles river laboratories international inc,,1.0,,,20150226,ackerman thomas f,112760215008510,Corp. Executive VP & CFO,male,47326257.0
+14094.0,,1100682,charles river laboratories international inc,,1.0,,,20150227,geller jorg,112760215008719,Corporate Executive VP,male,47326257.0
+355462.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008725,"Chairman, President and CEO",male,47326257.0
+348462.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008727,"Chairman, President and CEO",male,47326257.0
+335548.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008729,"Chairman, President and CEO",male,47326257.0
 324545.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150227,foster james c,112760215008731,"Chairman, President and CEO",male,47326257.0
+33411.0,,1100682,charles river laboratories international inc,,1.0,,,20150227,gillett nancy,112760215008733,Corporate Executive VP,female,47326257.0
+21934.0,,1100682,charles river laboratories international inc,,1.0,,,20150227,gillett nancy,112760215008735,Corporate Executive VP,female,47326257.0
+143302.0,,1100682,charles river laboratories international inc,,1.0,,,20150302,johst david p,112760215009034,Corp Executive VP,male,47326257.0
 43510.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20150302,molho davide,112760215009036,Corporate Executive VP,male,47326257.0
 340262.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150302,foster james c,112760215009039,"Chairman, President and CEO",male,47326257.0
-5219.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150302,crowley john j,112760215009065,"SVP, Chief Accounting Officer",male,47326257.0
-143302.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150302,johst david p,112760215009034,Corp Executive VP,male,47326257.0
-18210.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150303,gillett nancy,112760215009383,Corporate Executive VP,female,47326257.0
-8770.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150303,kochevar deborah turner,112760215009396,,female,47326257.0
-18210.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150303,gillett nancy,112760215009286,Corporate Executive VP,female,47326257.0
-101635.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150303,ackerman thomas f,112760215009276,Corp. Executive VP & CFO,male,47326257.0
-351781.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150304,foster james c,112760215009828,"Chairman, President and CEO",male,47326257.0
-342298.0,0.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150304,foster james c,112760215009830,"Chairman, President and CEO",male,47326257.0
+5219.0,,1100682,charles river laboratories international inc,,1.0,,,20150302,crowley john j,112760215009065,"SVP, Chief Accounting Officer",male,47326257.0
+8770.0,,1100682,charles river laboratories international inc,1.0,,,,20150303,kochevar deborah turner,112760215009396,,female,47326257.0
+18210.0,,1100682,charles river laboratories international inc,,1.0,,,20150303,gillett nancy,112760215009286,Corporate Executive VP,female,47326257.0
+18210.0,,1100682,charles river laboratories international inc,,1.0,,,20150303,gillett nancy,112760215009383,Corporate Executive VP,female,47326257.0
+101635.0,,1100682,charles river laboratories international inc,,1.0,,,20150303,ackerman thomas f,112760215009276,Corp. Executive VP & CFO,male,47326257.0
+342298.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150304,foster james c,112760215009830,"Chairman, President and CEO",male,47326257.0
 340262.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20150304,foster james c,112760215009832,"Chairman, President and CEO",male,47326257.0
-17854.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150305,chubb stephen d,112760215010223,,male,47326257.0
-5219.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150306,crowley john j,112760215010409,"SVP, Chief Accounting Officer",male,47326257.0
-15534.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150505,chubb stephen d,112760215016311,,male,47359734.0
-18150.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150507,wallman richard f,112760215016560,,male,47359734.0
-24911.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150507,reese c richard,112760215016562,,male,47359734.0
-10740.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150507,kochevar deborah turner,112760215016579,,female,47359734.0
-17890.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150507,bertolini robert j,112760215016558,,male,47359734.0
+351781.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20150304,foster james c,112760215009828,"Chairman, President and CEO",male,47326257.0
+17854.0,,1100682,charles river laboratories international inc,1.0,,,,20150305,chubb stephen d,112760215010223,,male,47326257.0
+5219.0,,1100682,charles river laboratories international inc,,1.0,,,20150306,crowley john j,112760215010409,"SVP, Chief Accounting Officer",male,47326257.0
+15534.0,,1100682,charles river laboratories international inc,1.0,,,,20150505,chubb stephen d,112760215016311,,male,47359734.0
 32760.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20150507,milne george m jr,112760215016572,,male,47359734.0
-8590.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150508,thompson craig b.,112760215016623,,male,47359734.0
-17504.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150508,chubb stephen d,112760215016625,,male,47359734.0
-15120.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150508,massaro george,112760215016627,,male,47359734.0
-101735.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150518,ackerman thomas f,112760215017640,Corporate Executive VP & CFO,male,47359734.0
-100635.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150518,ackerman thomas f,112760215017644,Corporate Executive VP & CFO,male,47359734.0
-15504.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150805,chubb stephen d,112760215024194,,male,46779186.0
-8020.0,0.0,1100682,charles river laboratories international inc,1.0,,,,20150805,kochevar deborah turner,112760215024197,,female,46779186.0
-7537.0,0.0,1100682,charles river laboratories international inc,,1.0,,,20150813,smith david ross,112760215024865,Corporate Executive VP & CFO,male,46779186.0
-100635.0,0.0,1100682,charles river laboratories international inc,,,,1.0,20150818,ackerman thomas f,112760215025108,,male,46779186.0
+10740.0,,1100682,charles river laboratories international inc,1.0,,,,20150507,kochevar deborah turner,112760215016579,,female,47359734.0
+18150.0,,1100682,charles river laboratories international inc,1.0,,,,20150507,wallman richard f,112760215016560,,male,47359734.0
+17890.0,,1100682,charles river laboratories international inc,1.0,,,,20150507,bertolini robert j,112760215016558,,male,47359734.0
+24911.0,,1100682,charles river laboratories international inc,1.0,,,,20150507,reese c richard,112760215016562,,male,47359734.0
+8590.0,,1100682,charles river laboratories international inc,1.0,,,,20150508,thompson craig b.,112760215016623,,male,47359734.0
+15120.0,,1100682,charles river laboratories international inc,1.0,,,,20150508,massaro george,112760215016627,,male,47359734.0
+17504.0,,1100682,charles river laboratories international inc,1.0,,,,20150508,chubb stephen d,112760215016625,,male,47359734.0
+101735.0,,1100682,charles river laboratories international inc,,1.0,,,20150518,ackerman thomas f,112760215017640,Corporate Executive VP & CFO,male,47359734.0
+100635.0,,1100682,charles river laboratories international inc,,1.0,,,20150518,ackerman thomas f,112760215017644,Corporate Executive VP & CFO,male,47359734.0
+8020.0,,1100682,charles river laboratories international inc,1.0,,,,20150805,kochevar deborah turner,112760215024197,,female,46779186.0
+15504.0,,1100682,charles river laboratories international inc,1.0,,,,20150805,chubb stephen d,112760215024194,,male,46779186.0
+15504.0,,1100682,charles river laboratories international inc,1.0,,,,20150805,chubb stephen d,112760215024194,,male,46779186.0
+8020.0,,1100682,charles river laboratories international inc,1.0,,,,20150805,kochevar deborah turner,112760215024197,,female,46779186.0
+7537.0,,1100682,charles river laboratories international inc,,1.0,,,20150813,smith david ross,112760215024865,Corporate Executive VP & CFO,male,46779186.0
+7537.0,,1100682,charles river laboratories international inc,,1.0,,,20150813,smith david ross,112760215024865,Corporate Executive VP & CFO,male,46779186.0
+100635.0,,1100682,charles river laboratories international inc,,,,1.0,20150818,ackerman thomas f,112760215025108,,male,46779186.0
+100635.0,,1100682,charles river laboratories international inc,,,,1.0,20150818,ackerman thomas f,112760215025108,,male,46779186.0
+4934.0,,1100682,charles river laboratories international inc,,1.0,,,20151002,crowley john j,112760215028116,"SVP, Chief Accounting Officer",male,46623000.0
+13504.0,,1100682,charles river laboratories international inc,1.0,,,,20151103,chubb stephen d,112760215030129,,male,46623582.0
+100635.0,,1100682,charles river laboratories international inc,,,,1.0,20151106,ackerman thomas f,112760215030490,,male,46623582.0
+100635.0,,1100682,charles river laboratories international inc,,,,1.0,20151120,ackerman thomas f,112760215032127,,male,46623582.0
+100635.0,,1100682,charles river laboratories international inc,,,,1.0,20151218,ackerman thomas f,112760215034574,,male,46623582.0
+13120.0,,1100682,charles river laboratories international inc,1.0,,,,20151218,massaro george,112760215034578,,male,46623582.0
+11504.0,,1100682,charles river laboratories international inc,1.0,,,,20160203,chubb stephen d,112760216039226,,male,46718000.0
+381185.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20160211,foster james c,112760216040739,"Chairman, President and CEO",male,46718000.0
+158140.0,,1100682,charles river laboratories international inc,,1.0,,,20160211,johst david p,112760216040746,Corporate Executive VP,male,46718000.0
+32142.0,,1100682,charles river laboratories international inc,,1.0,,,20160211,gillett nancy,112760216040744,Corporate Executive VP,female,46718000.0
+56932.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20160211,molho davide,112760216040748,Corporate Executive VP,male,46718000.0
+111698.0,,1100682,charles river laboratories international inc,,,,1.0,20160211,ackerman thomas f,112760216040741,,male,46718000.0
+31123.0,,1100682,charles river laboratories international inc,1.0,,,,20160217,reese c richard,112760216041695,,male,46718000.0
+25392.0,,1100682,charles river laboratories international inc,,1.0,,,20160217,gillett nancy,112760216041698,Corporate Executive VP,female,46718000.0
+120050.0,,1100682,charles river laboratories international inc,,,,1.0,20160219,ackerman thomas f,112760216042294,,male,46718000.0
+111698.0,,1100682,charles river laboratories international inc,,,,1.0,20160219,ackerman thomas f,112760216042299,,male,46718000.0
+113898.0,,1100682,charles river laboratories international inc,,,,1.0,20160219,ackerman thomas f,112760216042297,,male,46718000.0
+393133.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160223,foster james c,112760216042862,"Chairman, President and CEO",male,46718000.0
+24705.0,,1100682,charles river laboratories international inc,,1.0,,,20160223,gillett nancy,112760216042873,Corporate Executive VP,female,46718000.0
+157325.0,,1100682,charles river laboratories international inc,,1.0,,,20160223,johst david p,112760216042870,Corporate Executive VP,male,46718000.0
+56208.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20160223,molho davide,112760216042881,Corporate Executive VP,male,46718000.0
+383923.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160223,foster james c,112760216042864,"Chairman, President and CEO",male,46718000.0
+378319.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20160223,foster james c,112760216042867,"Chairman, President and CEO",male,46718000.0
+111124.0,,1100682,charles river laboratories international inc,,,,1.0,20160224,ackerman thomas f,112760216043089,,male,46718000.0
+27760.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20160224,milne george m jr,112760216043126,,male,46718000.0
+17879.0,,1100682,charles river laboratories international inc,1.0,,,,20160224,chubb stephen d,112760216043262,,male,46718000.0
+154948.0,,1100682,charles river laboratories international inc,,1.0,,,20160225,johst david p,112760216043314,Corporate Executive VP,male,46718000.0
+53831.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20160225,molho davide,112760216043316,Corporate Executive VP,male,46718000.0
+108747.0,,1100682,charles river laboratories international inc,,,,1.0,20160225,ackerman thomas f,112760216043336,,male,46718000.0
+382672.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043520,"Chairman, President and CEO",male,46718000.0
+367856.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043524,"Chairman, President and CEO",male,46718000.0
+379119.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043522,"Chairman, President and CEO",male,46718000.0
+386834.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043518,"Chairman, President and CEO",male,46718000.0
+390834.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043516,"Chairman, President and CEO",male,46718000.0
+395334.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043511,"Chairman, President and CEO",male,46718000.0
+398834.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160226,foster james c,112760216043508,"Chairman, President and CEO",male,46718000.0
+22450.0,,1100682,charles river laboratories international inc,,1.0,,,20160226,gillett nancy,112760216043506,Corporate Executive VP,female,46718000.0
+18307.0,,1100682,charles river laboratories international inc,,1.0,,,20160229,gillett nancy,112760216043947,Corporate Executive VP,female,46718000.0
+160746.0,,1100682,charles river laboratories international inc,,1.0,,,20160229,johst david p,112760216043951,Corporate Executive VP,male,46718000.0
+11034.0,,1100682,charles river laboratories international inc,,1.0,,,20160304,gillett nancy,112760216045018,Corporate Executive VP,female,46718000.0
+383636.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20160304,foster james c,112760216045138,"Chairman, President and CEO",male,46718000.0
+11856.0,,1100682,charles river laboratories international inc,,1.0,,,20160304,gillett nancy,112760216045009,Corporate Executive VP,female,46718000.0
+26711.0,,1100682,charles river laboratories international inc,,1.0,,,20160304,gillett nancy,112760216045001,Corporate Executive VP,female,46718000.0
+16936.0,,1100682,charles river laboratories international inc,,1.0,,,20160304,gillett nancy,112760216045005,Corporate Executive VP,female,46718000.0
+59345.0,574.0,1100682,charles river laboratories international inc,,1.0,,,20160408,molho davide,112760216049053,Corporate Executive VP,male,47114000.0
+10554.0,,1100682,charles river laboratories international inc,,1.0,,,20160502,smith david ross,112760216050434,Corporate Executive VP & CFO,male,47177976.0
+15430.0,,1100682,charles river laboratories international inc,1.0,,,,20160509,wallman richard f,112760216051466,,male,47177976.0
+12135.0,,1100682,charles river laboratories international inc,1.0,,,,20160510,massaro george,112760216051626,,male,47177976.0
+15430.0,,1100682,charles river laboratories international inc,1.0,,,,20160512,wallman richard f,112760216051875,,male,47177976.0
+14395.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,massaro george,112760216052260,,male,47177976.0
+10280.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,kochevar deborah turner,112760216052258,,female,47177976.0
+20139.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,chubb stephen d,112760216052253,,male,47177976.0
+11700.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,thompson craig b.,112760216052267,,male,47177976.0
+20150.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,bertolini robert j,112760216052250,,male,47177976.0
+16450.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,wallman richard f,112760216052275,,male,47177976.0
+31060.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20160516,milne george m jr,112760216052262,,male,47177976.0
+34233.0,,1100682,charles river laboratories international inc,1.0,,,,20160516,reese c richard,112760216052265,,male,47177976.0
+5883.0,,1100682,charles river laboratories international inc,,1.0,,,20160525,crowley john j,112760216053399,"SVP, Chief Accounting Officer",male,47177976.0
+15195.0,,1100682,charles river laboratories international inc,1.0,,,,20160705,massaro george,112760216057028,,male,47282000.0
+14395.0,,1100682,charles river laboratories international inc,1.0,,,,20160705,massaro george,112760216057030,,male,47282000.0
+16450.0,,1100682,charles river laboratories international inc,1.0,,,,20160801,wallman richard f,112760216059049,,male,47293493.0
+318636.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20160809,foster james c,112760216059834,"Chairman, President and CEO",male,47293493.0
+365285.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160809,foster james c,112760216059824,"Chairman, President and CEO",male,47293493.0
+352110.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160809,foster james c,112760216059826,"Chairman, President and CEO",male,47293493.0
+336169.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160809,foster james c,112760216059829,"Chairman, President and CEO",male,47293493.0
+327466.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20160809,foster james c,112760216059831,"Chairman, President and CEO",male,47293493.0
+10308.0,,1100682,charles river laboratories international inc,,1.0,,,20160815,smith david ross,112760216060223,Corporate Executive VP & CFO,male,47293493.0
+30493.0,,1100682,charles river laboratories international inc,,1.0,,,20160901,molho davide,112760216061629,Corporate Executive VP,male,47293493.0
+5599.0,,1100682,charles river laboratories international inc,,1.0,,,20161004,crowley john j,112760216063835,"SVP, Chief Accounting Officer",male,47324000.0
+40404.0,,1100682,charles river laboratories international inc,1.0,,,,20161129,reese c richard,112760216068550,,male,47328587.0
+26285.0,,1100682,charles river laboratories international inc,1.0,,,,20161205,chubb stephen d,112760216069107,,male,47328587.0
+20990.0,,1100682,charles river laboratories international inc,1.0,,,,20161214,wallman richard f,112760216069959,,male,47328587.0
+160746.0,,1100682,charles river laboratories international inc,,1.0,,,20170201,johst david p,112760217003242,Corporate Executive VP,male,47372995.0
+38073.0,30493.0,1100682,charles river laboratories international inc,,1.0,,,20170202,molho davide,112760217003431,Corporate Executive VP,male,47372995.0
+22668.0,,1100682,charles river laboratories international inc,,1.0,,,20170202,barbo william d,112760217003433,Corporate Executive VP & CCO,male,47372995.0
+177239.0,,1100682,charles river laboratories international inc,,1.0,,,20170202,johst david p,112760217003437,Corporate Executive VP,male,47372995.0
+374381.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170202,foster james c,112760217003468,"Chairman, President and CEO",male,47372995.0
+28530.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20170215,milne george m jr,112760217006234,,male,47372995.0
+37348.0,30493.0,1100682,charles river laboratories international inc,,1.0,,,20170223,molho davide,112760217007920,Corporate Executive VP,male,47372995.0
+176424.0,,1100682,charles river laboratories international inc,,1.0,,,20170223,johst david p,112760217007915,Corporate Executive VP,male,47372995.0
+366515.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170223,foster james c,112760217007912,"Chairman, President and CEO",male,47372995.0
+21763.0,,1100682,charles river laboratories international inc,,1.0,,,20170223,barbo william d,112760217007918,Corporate Executive VP & CCO,male,47372995.0
+378577.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170224,foster james c,112760217008150,"Chairman, President and CEO",male,47372995.0
+369919.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170224,foster james c,112760217008154,"Chairman, President and CEO",male,47372995.0
+366515.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170224,foster james c,112760217008157,"Chairman, President and CEO",male,47372995.0
+13654.0,,1100682,charles river laboratories international inc,,1.0,,,20170228,smith david ross,112760217008827,"Corporate EVP, CFO & CAO",male,47372995.0
+24373.0,,1100682,charles river laboratories international inc,,1.0,,,20170228,barbo william d,112760217008821,Corporate Executive VP & CCO,male,47372995.0
+182939.0,,1100682,charles river laboratories international inc,,1.0,,,20170228,johst david p,112760217008823,Corporate Executive VP,male,47372995.0
+43791.0,30493.0,1100682,charles river laboratories international inc,,1.0,,,20170228,molho davide,112760217008825,Corporate Executive VP,male,47372995.0
+384031.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170228,foster james c,112760217008875,"Chairman, President and CEO",male,47372995.0
+386772.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170301,foster james c,112760217009208,"Chairman, President and CEO",male,47372995.0
+391853.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170301,foster james c,112760217009205,"Chairman, President and CEO",male,47372995.0
+396891.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170301,foster james c,112760217009203,"Chairman, President and CEO",male,47372995.0
+13495.0,,1100682,charles river laboratories international inc,,1.0,,,20170301,smith david ross,112760217009182,"Corporate EVP, CFO & CAO",male,47372995.0
+42479.0,30493.0,1100682,charles river laboratories international inc,,1.0,,,20170301,molho davide,112760217009177,Corporate Executive VP,male,47372995.0
+23924.0,,1100682,charles river laboratories international inc,,1.0,,,20170301,barbo william d,112760217009172,Corporate Executive VP & CCO,male,47372995.0
+181255.0,,1100682,charles river laboratories international inc,,1.0,,,20170301,johst david p,112760217009168,Corporate Executive VP,male,47372995.0
+383000.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170301,foster james c,112760217009213,"Chairman, President and CEO",male,47372995.0
+365678.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170301,foster james c,112760217009216,"Chairman, President and CEO",male,47372995.0
+20150.0,,1100682,charles river laboratories international inc,1.0,,,,20170302,bertolini robert j,112760217009486,,male,47372995.0
+26885.0,,1100682,charles river laboratories international inc,1.0,,,,20170302,bertolini robert j,112760217009481,,male,47372995.0
+17385.0,,1100682,charles river laboratories international inc,,1.0,,,20170307,smith david ross,112760217010496,"Corporate EVP, CFO & CAO",male,47372995.0
+13495.0,,1100682,charles river laboratories international inc,,1.0,,,20170307,smith david ross,112760217010498,"Corporate EVP, CFO & CAO",male,47372995.0
+20924.0,,1100682,charles river laboratories international inc,,1.0,,,20170307,barbo william d,112760217010566,Corporate Executive VP & CCO,male,47372995.0
+22824.0,,1100682,charles river laboratories international inc,,1.0,,,20170307,barbo william d,112760217010548,Corporate Executive VP & CCO,male,47372995.0
+47017.0,,1100682,charles river laboratories international inc,,1.0,,,20170313,molho davide,112760217011428,Corporate Executive VP,male,47372995.0
+188562.0,,1100682,charles river laboratories international inc,,1.0,,,20170313,johst david p,112760217011423,Corporate Executive VP,male,47372995.0
+181255.0,,1100682,charles river laboratories international inc,,1.0,,,20170313,johst david p,112760217011425,Corporate Executive VP,male,47372995.0
+16549.0,47017.0,1100682,charles river laboratories international inc,,1.0,,,20170317,molho davide,112760217012040,Corporate Executive VP,male,47372995.0
+13258.0,,1100682,charles river laboratories international inc,,1.0,,,20170502,smith david ross,112760217016195,Corporate Executive VP & CFO,male,47639367.0
+830.0,,1100682,charles river laboratories international inc,,1.0,,,20170503,knell michael gunnar,112760217016577,CSVP&Chief Accounting Officer,male,47639367.0
+24248.0,,1100682,charles river laboratories international inc,1.0,,,,20170515,wallman richard f,112760217018054,,male,47639367.0
+14701.0,,1100682,charles river laboratories international inc,1.0,,,,20170515,massaro george,112760217018056,,male,47639367.0
+22586.0,,1100682,charles river laboratories international inc,1.0,,,,20170515,bertolini robert j,112760217018058,,male,47639367.0
+43704.0,,1100682,charles river laboratories international inc,1.0,,,,20170515,reese c richard,112760217018148,,male,47639367.0
+28721.0,,1100682,charles river laboratories international inc,1.0,,,,20170516,chubb stephen d,112760217018160,,male,47639367.0
+32000.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20170516,milne george m jr,112760217018162,,male,47639367.0
+8786.0,,1100682,charles river laboratories international inc,1.0,,,,20170516,kochevar deborah turner,112760217018187,,female,47639367.0
+8486.0,,1100682,charles river laboratories international inc,1.0,,,,20170516,kochevar deborah turner,112760217018189,,female,47639367.0
+14929.0,,1100682,charles river laboratories international inc,1.0,,,,20170516,thompson craig b.,112760217018192,,male,47639367.0
+16549.0,47017.0,1100682,charles river laboratories international inc,,1.0,,,20170531,molho davide,112760217019798,Corporate Executive VP,male,47639367.0
+13258.0,,1100682,charles river laboratories international inc,,1.0,,,20170609,smith david ross,112760217021019,Corporate Executive VP & CFO,male,47639367.0
+361178.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170623,foster james c,112760217022072,"Chairman, President and CEO",male,47639367.0
+16549.0,47017.0,1100682,charles river laboratories international inc,,1.0,,,20170623,molho davide,112760217022067,Corporate Executive VP,male,47639367.0
+342398.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170712,foster james c,112760217023516,"Chairman, President and CEO",male,47586000.0
+336678.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170712,foster james c,112760217023518,"Chairman, President and CEO",male,47586000.0
+351662.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20170712,foster james c,112760217023514,"Chairman, President and CEO",male,47586000.0
+336178.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20170712,foster james c,112760217023520,"Chairman, President and CEO",male,47586000.0
+14701.0,,1100682,charles river laboratories international inc,1.0,,,,20170718,massaro george,112760217023733,,male,47586000.0
+14901.0,,1100682,charles river laboratories international inc,1.0,,,,20170718,massaro george,112760217023729,,male,47586000.0
+2782.0,,1100682,charles river laboratories international inc,1.0,,,,20170803,mackay martin,112760217024821,,male,47593800.0
+12974.0,,1100682,charles river laboratories international inc,,1.0,,,20170815,smith david ross,112760217025604,Corporate Executive VP & CFO,male,47593800.0
+11671.0,,1100682,charles river laboratories international inc,,1.0,,,20170816,smith david ross,112760217025688,Corporate Executive VP & CFO,male,47593800.0
+16924.0,,1100682,charles river laboratories international inc,,1.0,,,20170821,barbo william d,112760217026054,Corporate Executive VP & CCO,male,47593800.0
+16549.0,47017.0,1100682,charles river laboratories international inc,,1.0,,,20170907,molho davide,112760217027116,Corporate Executive VP,male,47593800.0
+19217.0,,1100682,charles river laboratories international inc,,1.0,,,20170907,molho davide,112760217027114,Corporate Executive VP,male,47593800.0
+25106.0,,1100682,charles river laboratories international inc,,1.0,,,20170907,molho davide,112760217027112,Corporate Executive VP,male,47593800.0
+181255.0,,1100682,charles river laboratories international inc,,1.0,,,20171006,johst david p,112760217029532,Corporate Executive VP,male,47324000.0
+16549.0,47017.0,1100682,charles river laboratories international inc,,1.0,,,20171006,molho davide,112760217029530,Corporate Executive VP,male,47324000.0
+56457.0,,1100682,charles river laboratories international inc,1.0,,,,20171208,reese c richard,112760217034175,,male,47361523.0
+23002.0,,1100682,charles river laboratories international inc,,1.0,,,20180103,smith david ross,112760218000535,Corporate Executive VP & CFO,male,47402000.0
+14771.0,,1100682,charles river laboratories international inc,,1.0,,,20180103,smith david ross,112760218000539,Corporate Executive VP & CFO,male,47402000.0
+11671.0,,1100682,charles river laboratories international inc,,1.0,,,20180103,smith david ross,112760218000541,Corporate Executive VP & CFO,male,47402000.0
+26195.0,,1100682,charles river laboratories international inc,1.0,,,,20180103,bertolini robert j,112760218000583,,male,47402000.0
+22586.0,,1100682,charles river laboratories international inc,1.0,,,,20180103,bertolini robert j,112760218000591,,male,47402000.0
+295266.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180104,foster james c,112760218000936,"Chairman, President and CEO",male,47402000.0
+315299.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180104,foster james c,112760218000928,"Chairman, President and CEO",male,47402000.0
+307977.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180104,foster james c,112760218000931,"Chairman, President and CEO",male,47402000.0
+298731.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180104,foster james c,112760218000934,"Chairman, President and CEO",male,47402000.0
+28251.0,47017.0,1100682,charles river laboratories international inc,,1.0,,,20180126,molho davide,112760218002636,Corporate EVP & Gen Counsel,male,47428916.0
+21476.0,,1100682,charles river laboratories international inc,,1.0,,,20180126,barbo william d,112760218002598,Corporate Executive VP & CCO,male,47428916.0
+332829.0,10340.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180126,foster james c,112760218002632,"Chairman, President and CEO",male,47428916.0
+192958.0,,1100682,charles river laboratories international inc,,1.0,,,20180126,johst david p,112760218002585,Corporate Executive VP,male,47428916.0
+15310.0,,1100682,charles river laboratories international inc,,1.0,,,20180126,smith david ross,112760218002589,Corporate Executive VP & CFO,male,47428916.0
+33589.0,,1100682,charles river laboratories international inc,1.0,,,,20180216,chubb stephen d,112760218006500,,male,47428916.0
+11671.0,,1100682,charles river laboratories international inc,,1.0,,,20180220,smith david ross,112760218007071,Corporate Executive VP & CFO,male,47428916.0
+29954.0,20548.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180220,foster james c,112760218007066,"Chairman, President and CEO",male,47428916.0
+19156.0,,1100682,charles river laboratories international inc,,1.0,,,20180222,barbo william d,112760218007667,Corporate Executive VP & CCO,male,47428916.0
+21400.0,,1100682,charles river laboratories international inc,,1.0,,,20180226,barbo william d,112760218008329,Corporate Executive VP & CCO,male,47428916.0
+197760.0,,1100682,charles river laboratories international inc,,1.0,,,20180226,johst david p,112760218008326,Corporate Executive VP,male,47428916.0
+25707.0,,1100682,charles river laboratories international inc,,1.0,,,20180226,girshick birgit,112760218008324,Corporate Executive VP,female,47428916.0
+1588.0,,1100682,charles river laboratories international inc,,1.0,,,20180226,knell michael gunnar,112760218008322,CSVP&Chief Accounting Officer,male,47428916.0
+306114.0,52502.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180226,foster james c,112760218008368,Chairman & CEO,male,47428916.0
+21895.0,58719.0,1100682,charles river laboratories international inc,,1.0,,,20180226,molho davide,112760218008366,President & COO,male,47428916.0
+14296.0,,1100682,charles river laboratories international inc,,1.0,,,20180227,smith david ross,112760218008605,Corporate Executive VP & CFO,male,47428916.0
+316712.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180228,foster james c,112760218009036,Chairman & CEO,male,47428916.0
+14615.0,,1100682,charles river laboratories international inc,,1.0,,,20180228,smith david ross,112760218008946,Corporate Executive VP & CFO,male,47428916.0
+311443.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180228,foster james c,112760218009042,Chairman & CEO,male,47428916.0
+307014.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180228,foster james c,112760218009048,Chairman & CEO,male,47428916.0
+303940.0,50502.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180228,foster james c,112760218009051,Chairman & CEO,male,47428916.0
+197139.0,,1100682,charles river laboratories international inc,,1.0,,,20180228,johst david p,112760218009067,Corporate Executive VP,male,47428916.0
+25624.0,,1100682,charles river laboratories international inc,,1.0,,,20180228,girshick birgit,112760218009073,Corporate Executive VP,female,47428916.0
+21182.0,,1100682,charles river laboratories international inc,,1.0,,,20180228,barbo william d,112760218009080,Corporate Executive VP & CCO,male,47428916.0
+21274.0,58719.0,1100682,charles river laboratories international inc,,1.0,,,20180228,molho davide,112760218009085,President & COO,male,47428916.0
+320711.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180228,foster james c,112760218009030,Chairman & CEO,male,47428916.0
+326438.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180228,foster james c,112760218009028,Chairman & CEO,male,47428916.0
+14078.0,,1100682,charles river laboratories international inc,,1.0,,,20180228,smith david ross,112760218008948,Corporate Executive VP & CFO,male,47428916.0
+196493.0,,1100682,charles river laboratories international inc,,1.0,,,20180301,johst david p,112760218009445,Corporate Executive VP,male,47428916.0
+25557.0,,1100682,charles river laboratories international inc,,1.0,,,20180301,girshick birgit,112760218009449,Corporate Executive VP,female,47428916.0
+20980.0,,1100682,charles river laboratories international inc,,1.0,,,20180301,barbo william d,112760218009447,Corporate Executive VP & CCO,male,47428916.0
+14078.0,,1100682,charles river laboratories international inc,,1.0,,,20180301,smith david ross,112760218009309,Corporate Executive VP & CFO,male,47428916.0
+303940.0,50502.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180301,foster james c,112760218009306,Chairman & CEO,male,47428916.0
+321707.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180301,foster james c,112760218009292,Chairman & CEO,male,47428916.0
+315714.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180301,foster james c,112760218009294,Chairman & CEO,male,47428916.0
+308647.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180301,foster james c,112760218009302,Chairman & CEO,male,47428916.0
+13103.0,,1100682,charles river laboratories international inc,,1.0,,,20180302,smith david ross,112760218009506,Corporate Executive VP & CFO,male,47428916.0
+13203.0,,1100682,charles river laboratories international inc,,1.0,,,20180302,smith david ross,112760218009502,Corporate Executive VP & CFO,male,47428916.0
+301676.0,50502.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180302,foster james c,112760218009477,Chairman & CEO,male,47428916.0
+310440.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180302,foster james c,112760218009473,Chairman & CEO,male,47428916.0
+315542.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180302,foster james c,112760218009471,Chairman & CEO,male,47428916.0
+320640.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180302,foster james c,112760218009469,Chairman & CEO,male,47428916.0
+20669.0,58719.0,1100682,charles river laboratories international inc,,1.0,,,20180302,molho davide,112760218009467,President & COO,male,47428916.0
+306042.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180302,foster james c,112760218009475,Chairman & CEO,male,47428916.0
+301676.0,50502.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180307,foster james c,112760218010592,Chairman & CEO,male,47428916.0
+22977.0,,1100682,charles river laboratories international inc,,1.0,,,20180307,girshick birgit,112760218010587,Corporate Executive VP,female,47428916.0
+29020.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20180313,milne george m jr,112760218011328,,male,47428916.0
+1527.0,,1100682,charles river laboratories international inc,,1.0,,,20180501,knell michael gunnar,112760218015752,CSVP&Chief Accounting Officer,male,47911809.0
+12778.0,,1100682,charles river laboratories international inc,,1.0,,,20180501,smith david ross,112760218015750,Corporate Executive VP & CFO,male,47911809.0
+12778.0,,1100682,charles river laboratories international inc,,1.0,,,20180503,smith david ross,112760218016117,Corporate Executive VP & CFO,male,47911809.0
+13837.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,massaro george,112760218017517,,male,47911809.0
+59160.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,reese c richard,112760218017515,,male,47911809.0
+35593.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,chubb stephen d,112760218017499,,male,47911809.0
+17586.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,thompson craig b.,112760218017564,,male,47911809.0
+29583.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20180515,milne george m jr,112760218017521,,male,47911809.0
+2004.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,mangeolle jean-paul,112760218017519,,male,47911809.0
+25336.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,bertolini robert j,112760218017493,,male,47911809.0
+26928.0,,1100682,charles river laboratories international inc,1.0,,,,20180515,wallman richard f,112760218017511,,male,47911809.0
+10490.0,,1100682,charles river laboratories international inc,1.0,,,,20180516,kochevar deborah turner,112760218017570,,female,47911809.0
+5346.0,,1100682,charles river laboratories international inc,1.0,,,,20180516,mackay martin,112760218017568,,male,47911809.0
+14137.0,,1100682,charles river laboratories international inc,1.0,,,,20180626,massaro george,112760218021891,,male,47911809.0
+13837.0,,1100682,charles river laboratories international inc,1.0,,,,20180626,massaro george,112760218021893,,male,47911809.0
+290275.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180705,foster james c,112760218022780,Chairman & CEO,male,48001000.0
+285270.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180705,foster james c,112760218022782,Chairman & CEO,male,48001000.0
+274451.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180705,foster james c,112760218022786,Chairman & CEO,male,48001000.0
+279799.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20180705,foster james c,112760218022784,Chairman & CEO,male,48001000.0
+271676.0,50502.0,1100682,charles river laboratories international inc,1.0,1.0,,,20180705,foster james c,112760218022788,Chairman & CEO,male,48001000.0
+18999.0,,1100682,charles river laboratories international inc,,1.0,,,20180718,girshick birgit,112760218023473,Corporate Executive VP,female,48001000.0
+33679.0,40748.0,1100682,charles river laboratories international inc,,1.0,,,20180719,molho davide,112760218023565,President & COO,male,48001000.0
+22079.0,40748.0,1100682,charles river laboratories international inc,,1.0,,,20180724,molho davide,112760218023803,President & COO,male,48001000.0
+17155.0,40748.0,1100682,charles river laboratories international inc,,1.0,,,20180725,molho davide,112760218023857,President & COO,male,48001000.0
+12441.0,,1100682,charles river laboratories international inc,,1.0,,,20180814,smith david ross,112760218025253,Corporate Executive VP & CFO,male,48032375.0
+12441.0,,1100682,charles river laboratories international inc,,1.0,,,20180814,smith david ross,112760218025247,Corporate Executive VP & CFO,male,48032375.0
+6424.0,,1100682,charles river laboratories international inc,1.0,,,,20180905,kochevar deborah turner,112760218026778,,female,48032375.0
+196493.0,,1100682,charles river laboratories international inc,,1.0,,,20181108,johst david p,112760218032479,Corporate Executive VP,male,48096420.0
+10575.0,,1100682,charles river laboratories international inc,,1.0,,,20181114,smith david ross,112760218032963,Corporate Executive VP & CFO,male,48096420.0
+26436.0,,1100682,charles river laboratories international inc,1.0,,,,20181206,bertolini robert j,112760218035267,,male,48096420.0
+25336.0,,1100682,charles river laboratories international inc,1.0,,,,20181206,bertolini robert j,112760218035269,,male,48096420.0
+285771.0,28730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218036014,"Chairman, President and CEO",male,48096420.0
+291416.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218036011,"Chairman, President and CEO",male,48096420.0
+299204.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218036008,"Chairman, President and CEO",male,48096420.0
+303185.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218036005,"Chairman, President and CEO",male,48096420.0
+287748.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218036001,"Chairman, President and CEO",male,48096420.0
+295084.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218035998,"Chairman, President and CEO",male,48096420.0
+307493.0,28730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20181212,foster james c,112760218035994,"Chairman, President and CEO",male,48096420.0
+235771.0,53730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20190110,foster james c,112760219001736,"Chairman, President and CEO",male,48209000.0
+18144.0,,1100682,charles river laboratories international inc,,1.0,,,20190201,smith david ross,112760219003331,Corporate Executive VP & CFO,male,48226323.0
+22185.0,,1100682,charles river laboratories international inc,,1.0,,,20190201,girshick birgit,112760219003328,Corporate Executive VP,female,48226323.0
+209901.0,,1100682,charles river laboratories international inc,,1.0,,,20190201,johst david p,112760219003326,Corporate Executive VP,male,48226323.0
+275071.0,53730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20190201,foster james c,112760219003324,"Chairman, President and CEO",male,48226323.0
+26745.0,,1100682,charles river laboratories international inc,,1.0,,,20190201,barbo william d,112760219003322,Corporate Executive VP & CCO,male,48226323.0
+34328.0,,1100682,charles river laboratories international inc,1.0,,,,20190221,chubb stephen d,112760219007344,,male,48226323.0
+24343.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20190225,milne george m jr,112760219007889,,male,48226323.0
+20462.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,smith david ross,112760219008326,Corporate Executive VP & CFO,male,48226323.0
+15243.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,laplume joseph w,112760219008324,"EVP, Corp Strategy & Develop",male,48226323.0
+305724.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008334,"Chairman, President and CEO",male,48226323.0
+24322.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,girshick birgit,112760219008320,Corporate Executive VP,female,48226323.0
+2161.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,knell michael gunnar,112760219008318,CSVP&Chief Accounting Officer,male,48226323.0
+214203.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,johst david p,112760219008316,Corporate Executive VP,male,48226323.0
+28692.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,barbo william d,112760219008314,Corporate Executive VP & CCO,male,48226323.0
+283644.0,53730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008322,"Chairman, President and CEO",male,48226323.0
+301688.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008336,"Chairman, President and CEO",male,48226323.0
+295722.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008338,"Chairman, President and CEO",male,48226323.0
+290720.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008340,"Chairman, President and CEO",male,48226323.0
+286644.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008342,"Chairman, President and CEO",male,48226323.0
+281371.0,53730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008344,"Chairman, President and CEO",male,48226323.0
+24462.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,smith david ross,112760219008349,Corporate Executive VP & CFO,male,48226323.0
+20083.0,,1100682,charles river laboratories international inc,,1.0,,,20190226,smith david ross,112760219008352,Corporate Executive VP & CFO,male,48226323.0
+321652.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008330,"Chairman, President and CEO",male,48226323.0
+313367.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190226,foster james c,112760219008332,"Chairman, President and CEO",male,48226323.0
+212854.0,,1100682,charles river laboratories international inc,,1.0,,,20190228,johst david p,112760219008796,Corporate Executive VP,male,48226323.0
+290115.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008807,"Chairman, President and CEO",male,48226323.0
+28201.0,,1100682,charles river laboratories international inc,,1.0,,,20190228,barbo william d,112760219008792,Corporate Executive VP & CCO,male,48226323.0
+286757.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008809,"Chairman, President and CEO",male,48226323.0
+283001.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008811,"Chairman, President and CEO",male,48226323.0
+279200.0,53730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008813,"Chairman, President and CEO",male,48226323.0
+302359.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008800,"Chairman, President and CEO",male,48226323.0
+24045.0,,1100682,charles river laboratories international inc,,1.0,,,20190228,girshick birgit,112760219008794,Corporate Executive VP,female,48226323.0
+14783.0,,1100682,charles river laboratories international inc,,1.0,,,20190228,laplume joseph w,112760219008798,"EVP, Corp Strategy & Develop",male,48226323.0
+18415.0,,1100682,charles river laboratories international inc,,1.0,,,20190228,smith david ross,112760219008790,Corporate Executive VP & CFO,male,48226323.0
+297287.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008802,"Chairman, President and CEO",male,48226323.0
+20220.0,,1100682,charles river laboratories international inc,,1.0,,,20190228,smith david ross,112760219008788,Corporate Executive VP & CFO,male,48226323.0
+293788.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190228,foster james c,112760219008805,"Chairman, President and CEO",male,48226323.0
+18415.0,,1100682,charles river laboratories international inc,,1.0,,,20190301,smith david ross,112760219009119,Corporate Executive VP & CFO,male,48226323.0
+279200.0,53730.0,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009111,"Chairman, President and CEO",male,48226323.0
+283025.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009106,"Chairman, President and CEO",male,48226323.0
+286288.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009104,"Chairman, President and CEO",male,48226323.0
+288987.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009102,"Chairman, President and CEO",male,48226323.0
+279713.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009108,"Chairman, President and CEO",male,48226323.0
+297318.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009098,"Chairman, President and CEO",male,48226323.0
+23701.0,,1100682,charles river laboratories international inc,,1.0,,,20190301,barbo william d,112760219009095,Corporate Executive VP & CCO,male,48226323.0
+31856.0,,1100682,charles river laboratories international inc,,1.0,,,20190301,barbo william d,112760219009093,Corporate Executive VP & CCO,male,48226323.0
+43078.0,,1100682,charles river laboratories international inc,,1.0,,,20190301,barbo william d,112760219009090,Corporate Executive VP & CCO,male,48226323.0
+293361.0,,1100682,charles river laboratories international inc,1.0,1.0,,,20190301,foster james c,112760219009100,"Chairman, President and CEO",male,48226323.0
+15079.0,,1100682,charles river laboratories international inc,,1.0,,,20190312,laplume joseph w,112760219010921,"EVP, Corp Strategy & Develop",male,48226323.0
+13413.0,,1100682,charles river laboratories international inc,,1.0,,,20190312,laplume joseph w,112760219010923,"EVP, Corp Strategy & Develop",male,48226323.0
+20849.0,,1100682,charles river laboratories international inc,,1.0,,,20190312,laplume joseph w,112760219010919,"EVP, Corp Strategy & Develop",male,48226323.0
+2099.0,,1100682,charles river laboratories international inc,,1.0,,,20190501,knell michael gunnar,112760219016669,CSVP&Chief Accounting Officer,male,48754419.0
+12204.0,,1100682,charles river laboratories international inc,1.0,,,,20190513,massaro george,112760219018266,,male,48754419.0
+10202.0,,1100682,charles river laboratories international inc,1.0,,,,20190516,massaro george,112760219018632,,male,48754419.0
+8306.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,kochevar deborah turner,112760219019566,,female,48754419.0
+12084.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,massaro george,112760219019570,,male,48754419.0
+7827.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,mackay martin,112760219019568,,male,48754419.0
+3886.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,mangeolle jean-paul,112760219019579,,male,48754419.0
+27875.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,bertolini robert j,112760219019562,,male,48754419.0
+29367.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,wallman richard f,112760219019574,,male,48754419.0
+35325.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,chubb stephen d,112760219019564,,male,48754419.0
+61661.0,,1100682,charles river laboratories international inc,1.0,,,,20190523,reese c richard,112760219019736,,male,48754419.0
+27037.0,1000.0,1100682,charles river laboratories international inc,1.0,,,,20190523,milne george m jr,112760219019572,,male,48754419.0
+20954.0,,1100682,charles river laboratories international inc,,1.0,,,20190530,barbo william d,112760219020216,Corporate Executive VP & CCO,male,48754419.0
+19701.0,,1100682,charles river laboratories international inc,,1.0,,,20190530,barbo william d,112760219020218,Corporate Executive VP & CCO,male,48754419.0
+18078.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20190812,smith david ross,112760219026380,Corporate Executive VP & CFO,male,48807170.0
+18078.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20190813,smith david ross,112760219026518,Corporate Executive VP & CFO,male,48807170.0
+1071.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20191105,wilson virginia m,112760219031778,,female,48838925.0
+25559.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20191114,girshick birgit,112760219032767,Corporate Executive VP,female,48838925.0
+24060.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20191114,girshick birgit,112760219032771,Corporate Executive VP,female,48838925.0
+21640.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20191210,girshick birgit,112760219034699,Corporate Executive VP,female,48838925.0
+18766.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20191210,girshick birgit,112760219034703,Corporate Executive VP,female,48838925.0
+17715.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20191210,girshick birgit,112760219034705,Corporate Executive VP,female,48838925.0
+212854.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20191211,johst david p,112760219034723,Corporate Executive VP,male,48838925.0
+20312.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200210,laplume joseph w,112760220004580,"EVP, Corp Strategy & Develop",male,48959576.0
+26478.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200210,smith david ross,112760220004573,Corporate Executive VP & CFO,male,48959576.0
+25832.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200210,barbo william d,112760220004554,Corporate Executive VP & CCO,male,48959576.0
+24614.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200210,girshick birgit,112760220004561,Corporate Executive VP,female,48959576.0
+313064.0,48140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200210,foster james c,112760220004557,"Chairman, President and CEO",male,48959576.0
+226990.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200210,johst david p,112760220004564,Corporate Executive VP,male,48959576.0
+21978.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200213,smith david ross,112760220005367,Corporate Executive VP & CFO,male,48959576.0
+29367.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200214,wallman richard f,112760220005716,,male,48959576.0
+29367.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200214,wallman richard f,112760220005711,,male,48959576.0
+23714.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200214,girshick birgit,112760220005411,Corporate Executive VP,female,48959576.0
+27875.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200214,bertolini robert j,112760220005477,,male,48959576.0
+18931.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200214,barbo william d,112760220005459,Corporate Executive VP & CCO,male,48959576.0
+298064.0,54140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200214,foster james c,112760220005586,"Chairman, President and CEO",male,48959576.0
+27037.0,1000.0,1100682,"charles river laboratories international, inc.",1.0,,,,20200219,milne george m jr,112760220006257,,male,48959576.0
+224648.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200224,johst david p,112760220007119,Corporate Executive VP,male,48959576.0
+1992.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200224,knell michael gunnar,112760220007121,CSVP&Chief Accounting Officer,male,48959576.0
+19358.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200224,laplume joseph w,112760220007124,"EVP, Corp Strategy & Develop",male,48959576.0
+20854.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200224,smith david ross,112760220007128,Corporate Executive VP & CFO,male,48959576.0
+289046.0,54140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200224,foster james c,112760220007360,"Chairman, President and CEO",male,48959576.0
+22769.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200224,girshick birgit,112760220007132,Corporate Executive VP,female,48959576.0
+18007.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200224,barbo william d,112760220007134,Corporate Executive VP & CCO,male,48959576.0
+20854.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200225,smith david ross,112760220007487,Corporate Executive VP & CFO,male,48959576.0
+22617.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200226,girshick birgit,112760220007867,Corporate Executive VP,female,48959576.0
+223921.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200226,johst david p,112760220007865,Corporate Executive VP,male,48959576.0
+286775.0,51140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200226,foster james c,112760220007869,"Chairman, President and CEO",male,48959576.0
+20475.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200226,smith david ross,112760220007861,Corporate Executive VP & CFO,male,48959576.0
+2250.0,48140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200226,foster james c,112760220007853,"Chairman, President and CEO",male,48959576.0
+17734.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200226,barbo william d,112760220007871,Corporate Executive VP & CCO,male,48959576.0
+19055.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200226,laplume joseph w,112760220007863,"EVP, Corp Strategy & Develop",male,48959576.0
+286775.0,51140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200227,foster james c,112760220008102,"Chairman, President and CEO",male,48959576.0
+20475.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200227,smith david ross,112760220008104,Corporate Executive VP & CFO,male,48959576.0
+39541.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200228,chubb stephen d,112760220008270,,male,48959576.0
+124.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200304,andrews nancy c,112760220009452,,female,48959576.0
+16235.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200306,barbo william d,112760220009777,Corporate Executive VP & CCO,male,48959576.0
+1930.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200504,knell michael gunnar,112760220015124,CSVP&Chief Accounting Officer,male,49487437.0
+18591.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200508,smith david ross,112760220015882,Corporate Executive VP & CFO,male,49487437.0
+29134.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,bertolini robert j,112760220016261,,male,49487437.0
+865.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,andrews nancy c,112760220016265,,female,49487437.0
+9025.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,mackay martin,112760220016250,,male,49487437.0
+1812.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,wilson virginia m,112760220016259,,female,49487437.0
+62889.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,reese c richard,112760220016240,,male,49487437.0
+28417.0,1000.0,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,milne george m jr,112760220016255,,male,49487437.0
+9047.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,kochevar deborah turner,112760220016232,,female,49487437.0
+12825.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,massaro george,112760220016227,,male,49487437.0
+30565.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200512,wallman richard f,112760220016238,,male,49487437.0
+21837.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200513,girshick birgit,112760220016332,Corporate Executive VP,female,49487437.0
+40282.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200513,chubb stephen d,112760220016371,,male,49487437.0
+249329.0,71140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200513,foster james c,112760220016380,"Chairman, President and CEO",male,49487437.0
+9637.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200519,laplume joseph w,112760220017158,"EVP, Corp Strategy & Develop",male,49487437.0
+229894.0,71140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200519,foster james c,112760220017151,"Chairman, President and CEO",male,49487437.0
+29134.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200521,bertolini robert j,112760220017466,,male,49487437.0
+11884.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200526,massaro george,112760220017883,,male,49487437.0
+3171.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,kuo john w,112760220018377,CEVP General Counsel & CCO,male,49487437.0
+11641.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,laplume joseph w,112760220018380,"EVP, Corp Strategy & Develop",male,49487437.0
+23785.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,girshick birgit,112760220018382,Corporate Executive VP,female,49487437.0
+18050.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,barbo william d,112760220018384,Corporate Executive VP & CCO,male,49487437.0
+20767.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,smith david ross,112760220018386,Corporate Executive VP & CFO,male,49487437.0
+2414.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,knell michael gunnar,112760220018388,CSVP&Chief Accounting Officer,male,49487437.0
+241377.0,71140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200602,foster james c,112760220018390,"Chairman, President and CEO",male,49487437.0
+224478.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200602,johst david p,112760220018493,Corporate Executive VP,male,49487437.0
+210777.0,71140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20200810,foster james c,112760220023257,"Chairman, President and CEO",male,49678592.0
+2399.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200810,knell michael gunnar,112760220023220,CSVP&Chief Accounting Officer,male,49678592.0
+20767.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200810,smith david ross,112760220023248,Corporate Executive VP & CFO,male,49678592.0
+6728.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200811,kochevar deborah turner,112760220023318,,female,49678592.0
+37657.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200819,chubb stephen d,112760220023888,,male,49678592.0
+22852.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20200821,girshick birgit,112760220024018,Corporate Executive VP,female,49678592.0
+9441.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20200915,massaro george,112760220025127,,male,49678592.0
+6050.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20201103,wallman richard f,112760220027931,,male,49742626.0
+186777.0,71140.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20201103,foster james c,112760220027994,"Chairman, President and CEO",male,49742626.0
+423.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20201103,llado george sr.,112760220027934,,male,49742626.0
+11356.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20201105,laplume joseph w,112760220028214,"EVP, Corp Strategy & Develop",male,49742626.0
+9821.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20201105,barbo william d,112760220028232,Corporate Executive VP & CCO,male,49742626.0
+15767.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210105,smith david ross,112760221000746,Corporate Executive VP & CFO,male,49767000.0
+13053.0,9821.0,1100682,"charles river laboratories international, inc.",,1.0,,,20210202,barbo william d,112760221003419,Corporate Executive VP & CCO,male,49776227.0
+17550.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210202,smith david ross,112760221003421,Corporate Executive VP & CFO,male,49776227.0
+257169.0,52353.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210202,foster james c,112760221003425,"Chairman, President and CEO",male,49776227.0
+30005.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210202,girshick birgit,112760221003427,Corporate Executive VP,female,49776227.0
+4608.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210202,knell michael gunnar,112760221003430,CSVP&Chief Accounting Officer,male,49776227.0
+5628.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210202,creamer victoria l,112760221003432,EVP & Chief People Officer,female,49776227.0
+18200.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210202,laplume joseph w,112760221003434,"EVP, Corp Strategy & Develop",male,49776227.0
+227169.0,52353.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210216,foster james c,112760221005677,"Chairman, President and CEO",male,49776227.0
+4052.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210223,knell michael gunnar,112760221007207,CSVP&Chief Accounting Officer,male,49776227.0
+29382.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210223,girshick birgit,112760221007209,Corporate Executive VP,female,49776227.0
+17031.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210223,smith david ross,112760221007205,Corporate Executive VP & CFO,male,49776227.0
+5507.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210224,creamer victoria l,112760221007511,EVP & Chief People Officer,female,49776227.0
+17568.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210224,laplume joseph w,112760221007517,"EVP, Corp Strategy & Develop",male,49776227.0
+40529.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210224,chubb stephen d,112760221007521,,male,49776227.0
+223361.0,52353.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210224,foster james c,112760221007525,"Chairman, President and CEO",male,49776227.0
+5297.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210224,barbo william d,112760221007536,Corporate Executive VP & CCO,male,49776227.0
+29060.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210225,girshick birgit,112760221007943,Corporate Executive VP,female,49776227.0
+221151.0,52353.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210225,foster james c,112760221007890,"Chairman, President and CEO",male,49776227.0
+16862.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210225,smith david ross,112760221007874,Corporate Executive VP & CFO,male,49776227.0
+17246.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210225,laplume joseph w,112760221007876,"EVP, Corp Strategy & Develop",male,49776227.0
+4975.0,16975.0,1100682,"charles river laboratories international, inc.",,1.0,,,20210225,barbo william d,112760221007883,Corporate Executive VP & CCO,male,49776227.0
+11261.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210226,laplume joseph w,112760221008123,"EVP, Corp Strategy & Develop",male,49776227.0
+16975.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210302,barbo william d,112760221008726,Corporate Executive VP & CCO,male,49776227.0
+16862.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210302,smith david ross,112760221008729,Corporate Executive VP & CFO,male,49776227.0
+28417.0,1000.0,1100682,"charles river laboratories international, inc.",1.0,,,,20210302,milne george m jr,112760221008742,,male,49776227.0
+29060.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210407,girshick birgit,112760221013373,Corporate Executive VP,female,50216000.0
+14862.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210416,smith david ross,112760221013835,Corporate Executive VP & CFO,male,50216000.0
+14862.0,0.0,1100682,"charles river laboratories international, inc.",,1.0,,,20210426,smith david ross,112760221014394,Corporate Executive VP & CFO,male,50252814.0
+3959.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210504,knell michael gunnar,112760221015162,CSVP&Chief Accounting Officer,male,50252814.0
+14862.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210506,smith david ross,112760221015655,Corporate Executive VP & CFO,male,50252814.0
+5371.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210507,massaro george,112760221015816,,male,50252814.0
+32289.0,6050.0,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,wallman richard f,112760221016117,,male,50252814.0
+63478.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,reese c richard,112760221016115,,male,50252814.0
+5726.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,massaro george,112760221016111,,male,50252814.0
+9599.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,mackay martin,112760221016109,,male,50252814.0
+29079.0,1000.0,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,milne george m jr,112760221016113,,male,50252814.0
+7083.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,kochevar deborah turner,112760221016102,,female,50252814.0
+953.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,llado george sr.,112760221016105,,male,50252814.0
+29737.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,bertolini robert j,112760221016100,,male,50252814.0
+1220.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210510,andrews nancy c,112760221016096,,female,50252814.0
+216072.0,49932.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210510,foster james c,112760221016094,"Chairman, President and CEO",male,50252814.0
+2167.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210511,wilson virginia m,112760221016169,,female,50252814.0
+5355.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210512,massaro george,112760221016416,,male,50252814.0
+4623.0,16975.0,1100682,"charles river laboratories international, inc.",,1.0,,,20210601,barbo william d,112760221018558,Corporate Executive VP & CCO,male,50252814.0
+6386.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210601,creamer victoria l,112760221018561,EVP & Chief People Officer,female,50252814.0
+30027.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210601,girshick birgit,112760221018563,Corporate Executive VP,female,50252814.0
+4230.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210601,knell michael gunnar,112760221018565,CSVP&Chief Accounting Officer,male,50252814.0
+12162.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210601,laplume joseph w,112760221018567,"EVP, Corp Strategy & Develop",male,50252814.0
+16175.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210602,smith david ross,112760221018615,Corporate Executive VP & CFO,male,50252814.0
+214799.0,49932.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210602,foster james c,112760221018619,"Chairman, President and CEO",male,50252814.0
+214799.0,49932.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210603,foster james c,112760221018882,"Chairman, President and CEO",male,50252814.0
+4230.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210604,knell michael gunnar,112760221019153,CSVP&Chief Accounting Officer,male,50252814.0
+4230.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210607,knell michael gunnar,112760221019395,CSVP&Chief Accounting Officer,male,50252814.0
+202299.0,49932.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20210810,foster james c,112760221023425,"Chairman, President and CEO",male,50396622.0
+6096.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210810,kochevar deborah turner,112760221023429,,female,50396622.0
+4371.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210810,barbo william d,112760221023431,Corporate Executive VP & CCO,male,50396622.0
+8462.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210810,laplume joseph w,112760221023433,"EVP, Corp Strategy & Develop",male,50396622.0
+14425.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210810,smith david ross,112760221023436,Corporate Executive VP & CFO,male,50396622.0
+6386.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210817,creamer victoria l,112760221023848,EVP & Chief People Officer,female,50396622.0
+4855.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20210901,massaro george,112760221024662,,male,50396622.0
+27602.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20210915,girshick birgit,112760221025281,Corporate Executive VP,female,50396622.0
+15051.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20211227,laplume joseph w,112760221031913,"EVP, Corp Strategy & Develop",male,50480000.0
+9662.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220104,mackay martin,112760222000559,,male,50480000.0
+9950.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220201,creamer victoria l,112760222002803,EVP & Chief People Officer,female,50486047.0
+21825.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220201,laplume joseph w,112760222002801,"EVP, Corp Strategy & Develop",male,50486047.0
+34223.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220201,girshick birgit,112760222002799,Corporate Executive VP & COO,female,50486047.0
+6145.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220201,knell michael gunnar,112760222002795,CSVP&Chief Accounting Officer,male,50486047.0
+238402.0,38919.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20220201,foster james c,112760222002789,"Chairman, President and CEO",male,50486047.0
+21382.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220201,smith david ross,112760222002781,Corporate Executive VP & CFO,male,50486047.0
+10549.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220201,barbo william d,112760222002797,Corporate Executive VP & CCO,male,50486047.0
+218402.0,38919.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20220217,foster james c,112760222005478,"Chairman, President and CEO",male,50486047.0
+0.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220223,wallman richard f,112760222006257,,male,50486047.0
+9770.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220223,creamer victoria l,112760222006270,EVP & Chief People Officer,female,50486047.0
+33669.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220223,girshick birgit,112760222006286,Corporate Executive VP & COO,female,50486047.0
+6038.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220223,knell michael gunnar,112760222006304,CSVP&Chief Accounting Officer,male,50486047.0
+20247.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220223,laplume joseph w,112760222006343,"EVP, Corp Strategy & Develop",male,50486047.0
+215022.0,38919.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20220223,foster james c,112760222006351,"Chairman, President and CEO",male,50486047.0
+3769.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220223,barbo william d,112760222006261,Corporate Executive VP & CCO,male,50486047.0
+20667.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220224,smith david ross,112760222006654,Corporate Executive VP & CFO,male,50486047.0
+19852.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220224,laplume joseph w,112760222006657,"EVP, Corp Strategy & Develop",male,50486047.0
+215022.0,38919.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20220225,foster james c,112760222006781,"Chairman, President and CEO",male,50486047.0
+25819.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220302,smith david ross,112760222007805,Corporate Executive VP & CFO,male,50486047.0
+25819.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220304,smith david ross,112760222008258,Corporate Executive VP & CFO,male,50486047.0
+5185.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220504,pease flavia,112760222013202,Corporate Executive VP,female,50804860.0
+4677.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220511,massaro george,112760222014132,,male,50804860.0
+18614.0,0.0,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,wallman richard f,112760222014452,,male,50804860.0
+2742.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,wilson virginia m,112760222014461,,female,50804860.0
+1795.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,andrews nancy c,112760222014388,,female,50804860.0
+6671.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,kochevar deborah turner,112760222014408,,female,50804860.0
+10503.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,mackay martin,112760222014473,,male,50804860.0
+1820.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,llado george sr.,112760222014411,,male,50804860.0
+5252.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,massaro george,112760222014431,,male,50804860.0
+64435.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,reese c richard,112760222014444,,male,50804860.0
+30717.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20220513,bertolini robert j,112760222014401,,male,50804860.0
+10959.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220531,creamer victoria l,112760222016060,EVP & Chief People Officer,female,50804860.0
+6438.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220531,knell michael gunnar,112760222016062,CSVP&Chief Accounting Officer,male,50804860.0
+35756.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220531,girshick birgit,112760222016064,Corporate Executive VP & COO,female,50804860.0
+21161.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220531,laplume joseph w,112760222016066,"EVP, Corp Strategy & Develop",male,50804860.0
+4194.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220601,barbo william d,112760222016208,Corporate Executive VP & CCO,male,50804860.0
+6822.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220601,pease flavia,112760222016211,Corporate Executive VP & CFO,female,50804860.0
+213711.0,38919.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20220601,foster james c,112760222016215,"Chairman, President and CEO",male,50804860.0
+20766.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20220808,laplume joseph w,112760222020666,"EVP, Corp Strategy & Develop",male,50863307.0
+20232.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20221107,laplume joseph w,112760222025053,"EVP, Corp Strategy & Develop",male,50878656.0
+6438.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20221117,knell michael gunnar,112760222025979,CSVP&Chief Accounting Officer,male,50878656.0
+2499.0,29036.0,1100682,"charles river laboratories international, inc.",,1.0,,,20221117,parisotto shannon m,112760222025976,"CEVP, Disc & Safety Assessment",female,50878656.0
+20232.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20221205,laplume joseph w,112760222026898,"EVP, Corp Strategy & Develop",male,50878656.0
+3803.0,,1100682,"charles river laboratories international, inc.",0.0,1.0,0.0,0.0,20221206,barbo william d,95010322020817,Corporate Executive VP & CCO,male,50878656.0
+20114.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20221206,wallman richard f,112760222026970,,male,50878656.0
+244.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230104,thompson craig b.,112760223000743,,male,50944000.0
+15496.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230130,creamer victoria l,112760223002705,EVP & Chief People Officer,female,50985527.0
+7889.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230130,knell michael gunnar,112760223002663,CSVP&Chief Accounting Officer,male,50985527.0
+25647.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230130,laplume joseph w,112760223002668,"EVP, Corp Strategy & Develop",male,50985527.0
+41038.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230130,girshick birgit,112760223002672,Corporate Executive VP & COO,female,50985527.0
+6010.0,29036.0,1100682,"charles river laboratories international, inc.",,1.0,,,20230130,parisotto shannon m,112760223002707,"CEVP, Disc & Safety Assessment",female,50985527.0
+8763.0,19035.0,1100682,"charles river laboratories international, inc.",,1.0,,,20230130,barbo william d,112760223002678,Corporate Executive VP & CCO,male,50985527.0
+232922.0,45980.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20230131,foster james c,112760223002783,"Chairman, President and CEO",male,50985527.0
+216594.0,42308.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20230217,foster james c,112760223005808,"Chairman, President and CEO",male,50985527.0
+41038.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230217,girshick birgit,112760223005905,Corporate Executive VP & COO,female,50985527.0
+6010.0,29036.0,1100682,"charles river laboratories international, inc.",,1.0,,,20230221,parisotto shannon m,112760223006261,"CEVP, Disc & Safety Assessment",female,50985527.0
+8476.0,19035.0,1100682,"charles river laboratories international, inc.",,1.0,,,20230222,barbo william d,112760223006469,Corporate Executive VP & CCO,male,50985527.0
+5874.0,29036.0,1100682,"charles river laboratories international, inc.",,1.0,,,20230222,parisotto shannon m,112760223006520,"CEVP, Disc & Safety Assessment",female,50985527.0
+214780.0,42308.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20230222,foster james c,112760223006499,"Chairman, President and CEO",male,50985527.0
+7838.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230222,knell michael gunnar,112760223006485,CSVP&Chief Accounting Officer,male,50985527.0
+14972.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230222,creamer victoria l,112760223006545,EVP & Chief People Officer,female,50985527.0
+25330.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230222,laplume joseph w,112760223006461,"EVP, Corp Strategy & Develop",male,50985527.0
+40730.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230222,girshick birgit,112760223006456,Corporate Executive VP & COO,female,50985527.0
+21864.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230224,wallman richard f,112760223007053,,male,50985527.0
+40255.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230308,girshick birgit,112760223009447,Corporate Executive VP & COO,female,50985527.0
+4964.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230515,massaro george,112760223015523,,male,51182939.0
+24371.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230515,laplume joseph w,112760223015525,"EVP, Corp Strategy & Develop",male,51182939.0
+24026.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230516,laplume joseph w,112760223015694,"EVP, Corp Strategy & Develop",male,51182939.0
+5628.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,massaro george,112760223015852,,male,51182939.0
+11167.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,mackay martin,112760223015850,,male,51182939.0
+2484.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,llado george sr.,112760223015846,,male,51182939.0
+7335.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,kochevar deborah turner,112760223015844,,female,51182939.0
+3406.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,wilson virginia m,112760223015871,,female,51182939.0
+2459.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,andrews nancy c,112760223015839,,female,51182939.0
+22528.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,wallman richard f,112760223015978,,male,51182939.0
+65541.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,reese c richard,112760223015854,,male,51182939.0
+6017.0,48668.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20230517,foster james c,112760223015972,"Chairman, President and CEO",male,51182939.0
+31849.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,bertolini robert j,112760223015842,,male,51182939.0
+908.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230517,thompson craig b.,112760223015868,,male,51182939.0
+8900.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,pease flavia,112760223017170,Corporate Executive VP & CFO,female,51182939.0
+9954.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,barbo william d,112760223017135,Corporate Executive VP & CCO,male,51182939.0
+8412.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,knell michael gunnar,112760223017225,CSVP&Chief Accounting Officer,male,51182939.0
+199523.0,,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20230531,foster james c,112760223017137,"Chairman, President and CEO",male,51182939.0
+43477.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,girshick birgit,112760223017133,Corporate Executive VP & COO,female,51182939.0
+25683.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,laplume joseph w,112760223017254,"EVP, Corp Strategy & Develop",male,51182939.0
+16506.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,creamer victoria l,112760223017129,EVP & Chief People Officer,female,51182939.0
+7288.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230531,parisotto shannon m,112760223017131,"CEVP, Disc & Safety Assessment",female,51182939.0
+9940.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230602,knell michael gunnar,112760223017494,CSVP&Chief Accounting Officer,male,51182939.0
+11505.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230602,mackay martin,112760223017435,,male,51182939.0
+11600.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230705,mackay martin,112760223019952,,male,51266000.0
+24983.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230814,laplume joseph w,112760223022480,"EVP, Corp Strategy & Develop",male,51271357.0
+197023.0,48668.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20230814,foster james c,112760223022484,"Chairman, President and CEO",male,51271357.0
+9940.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20230814,knell michael gunnar,112760223022486,CSVP&Chief Accounting Officer,male,51271357.0
+9103.0,19634.0,1100682,"charles river laboratories international, inc.",,1.0,,,20230814,barbo william d,112760223022488,Corporate Executive VP & CCO,male,51271357.0
+1000.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20230829,wallman richard f,112760223023362,,male,51271357.0
+24983.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20231113,laplume joseph w,112760223027226,"EVP, Corp Strategy & Develop",male,51296804.0
+202643.0,48668.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20231115,foster james c,112760223027415,"Chairman, President and CEO",male,51296804.0
+44449.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20231121,girshick birgit,112760223028148,Corporate Executive VP & COO,female,51296804.0
+23133.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20231201,laplume joseph w,112760223028591,"EVP, Corp Strategy & Develop",male,51296804.0
+16506.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20231218,creamer victoria l,112760223029809,EVP & Chief People Officer,female,51296804.0
+45775.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240111,girshick birgit,112760224001215,Corporate Executive VP & COO,female,51338000.0
+8412.0,29472.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240131,parisotto shannon m,112760224002842,"CEVP, Disc & Safety Assessment",female,51349770.0
+10582.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240131,knell michael gunnar,112760224002806,CSVP&Chief Accounting Officer,male,51349770.0
+48115.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240131,girshick birgit,112760224002840,Corporate Executive VP & COO,female,51349770.0
+18550.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240131,creamer victoria l,112760224002797,EVP & Chief People Officer,female,51349770.0
+11330.0,19634.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240131,barbo william d,112760224002794,Corporate Executive VP & CCO,male,51349770.0
+228613.0,40920.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240131,foster james c,112760224002769,"Chairman, President and CEO",male,51349770.0
+215117.0,40920.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240131,foster james c,112760224002765,"Chairman, President and CEO",male,51349770.0
+25458.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240131,laplume joseph w,112760224002802,"EVP, Corp Strategy & Develop",male,51349770.0
+170.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240205,kemps-polanco reshema,112760224003484,,male,51349770.0
+47691.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240216,girshick birgit,112760224005439,Corporate Executive VP & COO,female,51349770.0
+8478.0,29406.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240220,parisotto shannon m,112760224005831,"CEVP, Disc & Safety Assessment",female,51349770.0
+224613.0,40920.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240220,foster james c,112760224005822,"Chairman, President and CEO",male,51349770.0
+24620.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240220,laplume joseph w,112760224005818,"EVP, Corp Strategy & Develop",male,51349770.0
+22879.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240223,barbo william d,112760224006706,Corporate Executive VP & CCO,male,51349770.0
+13550.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240301,creamer victoria l,112760224007955,EVP & Chief People Officer,female,51349770.0
+26554.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240304,parisotto shannon m,112760224008113,"CEVP, Disc & Safety Assessment",female,51349770.0
+7832.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240305,knell michael gunnar,112760224008566,CSVP&Chief Accounting Officer,male,51349770.0
+7024.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240311,knell michael gunnar,112760224009396,CSVP&Chief Accounting Officer,male,51349770.0
+8007.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240503,pease flavia,112760224014153,Corporate Executive VP & CFO,female,51511687.0
+23276.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240514,laplume joseph w,112760224015276,"EVP, Corp Strategy & Develop",male,51511687.0
+1467.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,thompson craig b.,112760224015529,,male,51511687.0
+3965.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,wilson virginia m,112760224015538,,female,51511687.0
+3018.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,andrews nancy c,112760224015536,,female,51511687.0
+12531.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,mackay martin,112760224015531,,male,51511687.0
+23547.0,1000.0,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,wallman richard f,112760224015527,,male,51511687.0
+3349.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,llado george sr.,112760224015521,,male,51511687.0
+1014.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,kemps-polanco reshema,112760224015523,,male,51511687.0
+32802.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,bertolini robert j,112760224015525,,male,51511687.0
+7894.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,kochevar deborah turner,112760224015509,,female,51511687.0
+6187.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240515,massaro george,112760224015518,,male,51511687.0
+5855.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20240516,massaro george,112760224015691,,male,51511687.0
+46890.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240528,girshick birgit,112760224016724,Corporate Executive VP & COO,female,51511687.0
+22724.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240528,laplume joseph w,112760224016726,"EVP, Corp Strategy & Develop",male,51511687.0
+6764.0,26529.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240528,parisotto shannon m,112760224016728,"CEVP, Disc & Safety Assessment",female,51511687.0
+3605.0,22842.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240528,barbo william d,112760224016732,Corporate Executive VP & CCO,male,51511687.0
+13137.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240529,creamer victoria l,112760224016789,EVP & Chief People Officer,female,51511687.0
+7714.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240529,knell michael gunnar,112760224016806,CSVP&Chief Accounting Officer,male,51511687.0
+7651.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240529,pease flavia,112760224016811,Corporate Executive VP & CFO,female,51511687.0
+46674.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240529,girshick birgit,112760224016818,Corporate Executive VP & COO,female,51511687.0
+12947.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240529,creamer victoria l,112760224016820,EVP & Chief People Officer,female,51511687.0
+7678.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240529,knell michael gunnar,112760224016822,CSVP&Chief Accounting Officer,male,51511687.0
+3433.0,22842.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240530,barbo william d,112760224017059,Corporate Executive VP & CCO,male,51511687.0
+6679.0,26529.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240530,parisotto shannon m,112760224017061,"CEVP, Disc & Safety Assessment",female,51511687.0
+223044.0,40920.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240530,foster james c,112760224017008,"Chairman, President and CEO",male,51511687.0
+22501.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240531,laplume joseph w,112760224017116,"EVP, Corp Strategy & Develop",male,51511687.0
+24612.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240603,laplume joseph w,112760224017309,"EVP, Corp Strategy & Develop",male,51511687.0
+8326.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240603,knell michael gunnar,112760224017327,CSVP&Chief Accounting Officer,male,51511687.0
+9760.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240604,pease flavia,112760224017663,Corporate Executive VP & CFO,female,51511687.0
+,40920.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240604,foster james c,112760224017670,"Chairman, President and CEO",male,51511687.0
+50512.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240604,girshick birgit,112760224017674,Corporate Executive VP & COO,female,51511687.0
+14829.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240604,creamer victoria l,112760224017680,EVP & Chief People Officer,female,51511687.0
+8406.0,26529.0,1100682,"charles river laboratories international, inc.",,1.0,,,20240604,parisotto shannon m,112760224017686,"CEVP, Disc & Safety Assessment",female,51511687.0
+24301.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240604,laplume joseph w,112760224017714,"EVP, Corp Strategy & Develop",male,51511687.0
+188251.0,50603.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240805,foster james c,112760224021581,"Chairman, President and CEO",male,51630726.0
+22521.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20240812,laplume joseph w,112760224022003,"EVP, Corp Strategy & Develop",male,51630726.0
+185751.0,50603.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20240813,foster james c,112760224022073,"Chairman, President and CEO",male,51630726.0
+23337.0,,1100682,"charles river laboratories international, inc.",,1.0,,,20241108,barbo william d,112760224026871,Corporate Executive VP & CCO,male,51136178.0
+184783.0,47071.0,1100682,"charles river laboratories international, inc.",1.0,1.0,,,20241112,foster james c,112760224027034,"Chairman, President and CEO",male,51136178.0
+0.0,,1100682,"charles river laboratories international, inc.",1.0,,,,20241112,wallman richard f,112760224027032,,male,51136178.0

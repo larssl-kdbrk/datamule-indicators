@@ -1,41 +1,338 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,malfroy-camine bernard,114420415011486,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,tyle praveen,114420415011498,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,goldberg morton,114420415011488,,male,
-1460479.0,0.0,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,ipsa (innoven partenaires s.a.),114420415011489,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150223,manzo michael p.,114420415011491,Vice President of Engineering,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,hancock thomas,114420415011496,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,chaoui mounia,114420415011493,,female,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150223,from stephen,114420415011501,President and CEO,male,
-1494233.0,0.0,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,ventech capital ii,114420415011504,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,balland thomas,114420415011508,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,fcpr ventech b,114420415011509,,male,
-8333.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,chaney paul g,114420415011511,,male,
-674205.0,0.0,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,natixis private equity,114420415011502,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,chaney paul g,114420415012184,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,goldberg morton,114420415012188,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150226,from stephen,114420415012178,President and CEO,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,hancock thomas,114420415012198,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150226,manzo michael p.,114420415012181,Vice President of Engineering,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,balland thomas,114420415012201,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,chaoui mounia,114420415012204,,female,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,malfroy-camine bernard,114420415012195,,male,
-0.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,tyle praveen,114420415012192,,male,
-13487.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,hancock thomas,114420415027699,,male,6351698.0
-71975.0,0.0,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150505,from stephen,114420415027675,President and CEO,male,6351698.0
-10422.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,chaoui mounia,114420415027694,,female,6351698.0
-12261.0,0.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150505,manzo michael p.,114420415027710,Vice President of Engineering,male,6351698.0
-10422.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,balland thomas,114420415027687,,male,6351698.0
-11893.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,tyle praveen,114420415027707,,male,6351698.0
-9441.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,goldberg morton,114420415027713,,male,6351698.0
-23659.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,chaney paul g,114420415027715,,male,6351698.0
-11525.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,malfroy-camine bernard,114420415027702,,male,6351698.0
-10422.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,chaoui mounia,114420415053235,,female,7653563.0
-10422.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,balland thomas,114420415053236,,male,7653563.0
-71975.0,0.0,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150901,from stephen,114420415053225,President and CEO,male,7653563.0
-12261.0,0.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150901,manzo michael p.,114420415053227,Vice President of Engineering,male,7653563.0
-9441.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,goldberg morton,114420415053228,,male,7653563.0
-11893.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,tyle praveen,114420415053231,,male,7653563.0
-11525.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,malfroy-camine bernard,114420415053232,,male,7653563.0
-13487.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,hancock thomas,114420415053233,,male,7653563.0
-23659.0,0.0,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,chaney paul g,114420415053237,,male,7653563.0
+674205.0,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,natixis private equity,114420415011502,,male,
+1494233.0,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,ventech capital ii,114420415011504,,male,
+8333.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,chaney paul g,114420415011511,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,balland thomas,114420415011508,,male,
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150223,from stephen,114420415011501,President and CEO,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,tyle praveen,114420415011498,,male,
+,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,fcpr ventech b,114420415011509,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,chaoui mounia,114420415011493,,female,
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150223,manzo michael p.,114420415011491,Vice President of Engineering,male,
+1460479.0,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20150223,ipsa (innoven partenaires s.a.),114420415011489,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,goldberg morton,114420415011488,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,hancock thomas,114420415011496,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150223,malfroy-camine bernard,114420415011486,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,malfroy-camine bernard,114420415012195,,male,
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150226,from stephen,114420415012178,President and CEO,male,
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150226,manzo michael p.,114420415012181,Vice President of Engineering,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,chaney paul g,114420415012184,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,goldberg morton,114420415012188,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,tyle praveen,114420415012192,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,hancock thomas,114420415012198,,male,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,chaoui mounia,114420415012204,,female,
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150226,balland thomas,114420415012201,,male,
+71975.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150505,from stephen,114420415027675,President and CEO,male,6351698.0
+10422.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,chaoui mounia,114420415027694,,female,6351698.0
+13487.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,hancock thomas,114420415027699,,male,6351698.0
+11525.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,malfroy-camine bernard,114420415027702,,male,6351698.0
+11893.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,tyle praveen,114420415027707,,male,6351698.0
+12261.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150505,manzo michael p.,114420415027710,Vice President of Engineering,male,6351698.0
+9441.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,goldberg morton,114420415027713,,male,6351698.0
+23659.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,chaney paul g,114420415027715,,male,6351698.0
+10422.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150505,balland thomas,114420415027687,,male,6351698.0
+71975.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150901,from stephen,114420415053225,President and CEO,male,7653563.0
+12261.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150901,manzo michael p.,114420415053227,Vice President of Engineering,male,7653563.0
+9441.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,goldberg morton,114420415053228,,male,7653563.0
+11893.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,tyle praveen,114420415053231,,male,7653563.0
+11525.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,malfroy-camine bernard,114420415053232,,male,7653563.0
+13487.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,hancock thomas,114420415053233,,male,7653563.0
+10422.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,chaoui mounia,114420415053235,,female,7653563.0
+71975.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20150901,from stephen,114420415053225,President and CEO,male,7653563.0
+10422.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,balland thomas,114420415053236,,male,7653563.0
+23659.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,chaney paul g,114420415053237,,male,7653563.0
+11525.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,malfroy-camine bernard,114420415053232,,male,7653563.0
+11893.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,tyle praveen,114420415053231,,male,7653563.0
+12261.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20150901,manzo michael p.,114420415053227,Vice President of Engineering,male,7653563.0
+9441.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,goldberg morton,114420415053228,,male,7653563.0
+13487.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,hancock thomas,114420415053233,,male,7653563.0
+23659.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,chaney paul g,114420415053237,,male,7653563.0
+10422.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,balland thomas,114420415053236,,male,7653563.0
+10422.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20150901,chaoui mounia,114420415053235,,female,7653563.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,balland thomas,114420416077242,,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,chaoui mounia,114420416077244,,female,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,malfroy-camine bernard,114420416077248,,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20160127,from stephen,114420416077250,President and CEO,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,tyle praveen,114420416077253,,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,chaney paul g,114420416077255,,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160127,manzo michael p.,114420416077257,Vice President of Engineering,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,hancock thomas,114420416077240,,male,7657287.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160127,goldberg morton,114420416077246,,male,7657287.0
+9251.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160309,mann brenda,114420416087001,VP of Research & Development,female,7657287.0
+139942.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160309,wirostko barbara,114420416087002,Chief Medical Officer,female,7657287.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160331,wirostko barbara,114420416091974,Chief Medical Officer,female,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,chaney paul g,114420416091967,,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,balland thomas,114420416091994,,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20160331,from stephen,114420416091992,President and CEO,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,chaoui mounia,114420416091989,,female,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,hancock thomas,114420416091997,,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160331,manzo michael p.,114420416091983,Vice President of Engineering,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160331,mann brenda,114420416091981,VP of Research & Development,female,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,malfroy-camine bernard,114420416091978,,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,goldberg morton,114420416091986,,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160331,tyle praveen,114420416091970,,male,8346444.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160427,brenneman ryan randall,114420416096682,Chief Financial Officer,male,8346444.0
+32277.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160607,goldberg morton,114420416107341,,male,8346444.0
+1622140.0,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20160609,ventech capital ii,114420416107705,,male,8346444.0
+1593540.0,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20160610,ventech capital ii,114420416107882,,male,8346444.0
+17277.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20160615,goldberg morton,114420416108387,,male,8346444.0
+124965.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20160705,from stephen,114420416111502,President and CEO,male,8951883.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160719,brenneman ryan randall,114420416113611,Chief Financial Officer,male,8951883.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160719,mann brenda,114420416113610,VP of Research & Development,female,8951883.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20160719,from stephen,114420416113609,President and CEO,male,8951883.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160719,wirostko barbara,114420416113606,Chief Medical Officer,female,8951883.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20160719,manzo michael p.,114420416113608,Vice President of Engineering,male,8951883.0
+139965.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20160916,from stephen,114420416124265,President and CEO,male,8951883.0
+11751.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170207,mann brenda,114420417006505,VP of Research & Development,female,10130883.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170207,manzo michael p.,114420417006504,Vice President of Engineering,male,10130883.0
+154942.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170207,wirostko barbara,114420417006501,Chief Medical Officer,female,10130883.0
+199965.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20170207,from stephen,114420417006500,President and CEO,male,10130883.0
+2500.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170208,romano sarah,114420417006751,Interim CFO,female,10130883.0
+41700.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170301,wirostko barbara,114420417012198,Chief Medical Officer,female,10130883.0
+18360.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170301,goldberg morton,114420417012195,,male,10130883.0
+9441.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170306,goldberg morton,114420417012941,,male,10130883.0
+217842.0,41700.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170307,wirostko barbara,114420417013286,Chief Medical Officer,female,10130883.0
+1431814.0,,1372514,eyegate pharmaceuticals inc,0,0,1,0,20170321,ventech capital ii,114420417015872,,male,10130883.0
+19546.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170515,manzo michael p.,114420417027562,Vice President of Engineering,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170522,manzo michael p.,114420417028875,Vice President of Engineering,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20170522,from stephen,114420417028874,President and CEO,male,10878116.0
+41229.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170605,chaney paul g,114420417031102,,male,10878116.0
+22500.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170614,romano sarah,114420417032554,Interim CFO,female,10878116.0
+259965.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20170614,from stephen,114420417032552,President and CEO,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170622,malfroy-camine bernard,114420417033617,,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170622,manzo michael p.,114420417033644,Vice President of Engineering,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170622,romano sarah,114420417033640,Interim CFO,female,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170622,chaney paul g,114420417033620,,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170622,goldberg morton,114420417033618,,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170622,mann brenda,114420417033638,VP of Research & Development,female,10878116.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170622,wirostko barbara,114420417033632,Chief Medical Officer,female,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20170622,from stephen,114420417033630,President and CEO,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170622,hancock thomas,114420417033625,,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170622,balland thomas,114420417033623,,male,10878116.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20170622,tyle praveen,114420417033622,,male,10878116.0
+272465.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20170810,from stephen,114420417042118,President and CEO,male,17204778.0
+32500.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170817,romano sarah,114420417043873,Interim CFO,female,17204778.0
+228042.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20170915,wirostko barbara,114420417048266,Chief Medical Officer,female,17204778.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20171117,garanzini michael,114420417060013,Chief Commercial Officer,male,17204778.0
+15000.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20171122,garanzini michael,114420417060667,Chief Commercial Officer,male,17204778.0
+44363.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180103,romano sarah,114420418000500,Chief Financial Officer,female,17257255.0
+240397.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180103,wirostko barbara,114420418000497,Chief Medical Officer,female,17257255.0
+18473.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180103,mann brenda,114420418000495,VP of Research & Development,female,17257255.0
+284820.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20180103,from stephen,114420418000492,President and CEO,male,17257255.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180301,mann brenda,114420418012243,VP of Research & Development,female,17257255.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180301,manzo michael p.,114420418012236,Vice President of Engineering,male,17257255.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180301,romano sarah,114420418012247,Chief Financial Officer,female,17257255.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180301,wirostko barbara,114420418012235,Chief Medical Officer,female,17257255.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20180301,from stephen,114420418012234,President and CEO,male,17257255.0
+171250.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180418,garanzini michael,114420418021207,Chief Commercial Officer,male,17257255.0
+409820.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20180418,from stephen,114420418021206,President and CEO,male,17257255.0
+106863.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180418,romano sarah,114420418021205,Chief Financial Officer,female,17257255.0
+249612.0,50700.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180611,wirostko barbara,114420418033815,Chief Medical Officer,female,17257255.0
+194546.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180712,manzo michael p.,114420418038193,VP of Engineering,male,42382880.0
+1159820.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20180712,from stephen,114420418038190,President and CEO,male,42382880.0
+61525.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20180712,malfroy-camine bernard,114420418038188,,male,42382880.0
+59441.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20180712,goldberg morton,114420418038187,,male,42382880.0
+91229.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20180712,chaney paul g,114420418038186,,male,42382880.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20180712,hancock thomas,114420418038195,,male,42382880.0
+61893.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20180712,tyle praveen,114420418038183,,male,42382880.0
+281863.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180712,romano sarah,114420418038182,Chief Financial Officer,female,42382880.0
+424997.0,59915.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180712,wirostko barbara,114420418038180,Chief Medical Officer,female,42382880.0
+196250.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180712,garanzini michael,114420418038194,Chief Commercial Officer,male,42382880.0
+193473.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20180712,mann brenda,114420418038184,VP of Research & Development,female,42382880.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20180808,greenleaf peter,114420418042822,,male,43439130.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20190205,from stephen,114420419005043,President and CEO,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20190205,malfroy-camine bernard,114420419005045,,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20190205,goldberg morton,114420419005049,,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20190205,greenleaf peter,114420419005050,,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20190205,chaney paul g,114420419005051,,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20190205,tyle praveen,114420419005044,,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190205,wirostko barbara,114420419005042,Chief Medical Officer,female,3038592.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190205,manzo michael p.,114420419005041,Vice President of Engineering,male,3038592.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190205,mann brenda,114420419005040,VP of Research & Development,female,3038592.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190205,romano sarah,114420419005039,Chief Financial Officer,female,3038592.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20190205,hancock thomas,114420419005046,,male,3038592.0
+174424.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190715,mann brenda,114420419034762,VP of Research & Development,female,45675737.0
+1032465.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20190715,from stephen,114420419034763,President and CEO,male,45675737.0
+262113.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190715,romano sarah,114420419034766,Chief Financial Officer,female,45675737.0
+174796.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190715,manzo michael p.,114420419034765,VP of Engineering,male,45675737.0
+405534.0,59915.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190715,wirostko barbara,114420419034764,Chief Medical Officer,female,45675737.0
+1022259.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20190807,from stephen,114420419038335,President and CEO,male,45675737.0
+260464.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190807,romano sarah,114420419038334,Chief Financial Officer,female,45675737.0
+173147.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190807,manzo michael p.,114420419038333,VP of Engineering,male,45675737.0
+172783.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190807,mann brenda,114420419038332,VP of Research & Development,female,45675737.0
+403893.0,59915.0,1372514,eyegate pharmaceuticals inc,0,1,0,0,20190807,wirostko barbara,114420419038331,Chief Medical Officer,female,45675737.0
+17179.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191011,romano sarah,114420419048123,Chief Financial Officer,female,3036460.0
+11358.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191011,manzo michael p.,114420419048120,VP of Engineering,male,3036460.0
+11334.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191011,mann brenda,114420419048121,VP of Research & Development,female,3036460.0
+66966.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20191011,from stephen,114420419048122,President and CEO,male,3036460.0
+17071.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191107,romano sarah,110465919061124,Chief Financial Officer,female,3636460.0
+11250.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191107,manzo michael p.,110465919061123,VP of Engineering,male,3636460.0
+66296.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20191107,from stephen,110465919061122,President and CEO,male,3636460.0
+11227.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191107,mann brenda,110465919061121,VP of Research & Development,female,3636460.0
+1961.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20191113,goldberg morton,110465919063335,,male,3636460.0
+0.0,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20191206,goldberg morton,110465919070723,,male,3636460.0
+11149.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191220,manzo michael p.,110465919075131,VP of Engineering,male,3636460.0
+65643.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20191220,from stephen,110465919075128,President and CEO,male,3636460.0
+11126.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191220,mann brenda,110465919075133,VP of Research & Development,female,3636460.0
+16970.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20191220,romano sarah,110465919075136,Chief Financial Officer,female,3636460.0
+16851.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200106,romano sarah,110465920001637,Chief Financial Officer,female,4077755.0
+64913.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200106,from stephen,110465920001639,President and CEO,male,4077755.0
+11030.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200106,manzo michael p.,110465920001636,VP of Engineering,male,4077755.0
+11007.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200106,mann brenda,110465920001638,VP of Research & Development,female,4077755.0
+16742.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200205,romano sarah,110465920011314,Chief Financial Officer,female,4077755.0
+10898.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200205,mann brenda,110465920011324,VP of Research & Development,female,4077755.0
+10921.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200205,manzo michael p.,110465920011330,VP of Engineering,male,4077755.0
+64329.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200205,from stephen,110465920011342,President and CEO,male,4077755.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20200219,malfroy-camine bernard,110465920022838,,male,4077755.0
+18398.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200219,mann brenda,110465920022841,VP of Research & Development,female,4077755.0
+18421.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200219,manzo michael p.,110465920022843,VP of Engineering,male,4077755.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20200219,goldberg morton,110465920022844,,male,4077755.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20200219,tyle praveen,110465920022846,,male,4077755.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20200219,hancock thomas,110465920022847,,male,4077755.0
+26742.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200219,romano sarah,110465920022848,Chief Financial Officer,female,4077755.0
+84329.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200219,from stephen,110465920022849,President and CEO,male,4077755.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20200219,chaney paul g,110465920022845,,male,4077755.0
+26612.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200310,romano sarah,110465920031496,Chief Financial Officer,female,4077755.0
+18291.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200310,manzo michael p.,110465920031497,VP of Engineering,male,4077755.0
+18268.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200310,mann brenda,110465920031498,VP of Research & Development,female,4077755.0
+83617.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200310,from stephen,110465920031499,President and CEO,male,4077755.0
+26490.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200403,romano sarah,110465920043261,Chief Financial Officer,female,4626755.0
+18169.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200403,manzo michael p.,110465920043262,VP of Engineering,male,4626755.0
+82947.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200403,from stephen,110465920043263,President and CEO,male,4626755.0
+18146.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200403,mann brenda,110465920043264,VP of Research & Development,female,4626755.0
+82330.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200506,from stephen,110465920057468,President and CEO,male,4626755.0
+18076.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200506,manzo michael p.,110465920057471,VP of Engineering,male,4626755.0
+18033.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200506,mann brenda,110465920057472,VP of Research & Development,female,4626755.0
+26397.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200506,romano sarah,110465920057474,Chief Financial Officer,female,4626755.0
+17939.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200604,mann brenda,110465920069823,VP of Research & Development,female,4626755.0
+17982.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200604,manzo michael p.,110465920069822,VP of Engineering,male,4626755.0
+26303.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200604,romano sarah,110465920069824,Chief Financial Officer,female,4626755.0
+81703.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200604,from stephen,110465920069826,President and CEO,male,4626755.0
+26206.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200706,romano sarah,110465920081223,Chief Financial Officer,female,4626755.0
+81078.0,,1372514,eyegate pharmaceuticals inc,1,1,1,0,20200706,from stephen,110465920081227,President and CEO,male,4626755.0
+17845.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200706,mann brenda,110465920081219,VP of Research & Development,female,4626755.0
+17885.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200706,manzo michael p.,110465920081225,VP of Engineering,male,4626755.0
+17753.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200805,mann brenda,110465920090917,VP of Research & Development,female,4626755.0
+26111.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200805,romano sarah,110465920090920,Chief Financial Officer,female,4626755.0
+80463.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200805,from stephen,110465920090919,President and CEO,male,4626755.0
+17790.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200805,manzo michael p.,110465920090918,VP of Engineering,male,4626755.0
+26014.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200903,romano sarah,110465920102296,Chief Financial Officer,female,4626755.0
+17693.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200903,manzo michael p.,110465920102298,VP of Engineering,male,4626755.0
+17656.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20200903,mann brenda,110465920102299,VP of Research & Development,female,4626755.0
+79835.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20200903,from stephen,110465920102300,President and CEO,male,4626755.0
+17558.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201005,mann brenda,110465920112300,VP of Research & Development,female,4626755.0
+25916.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201005,romano sarah,110465920112301,Chief Financial Officer,female,4626755.0
+17595.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201005,manzo michael p.,110465920112302,VP of Engineering,male,4626755.0
+79204.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20201005,from stephen,110465920112303,President and CEO,male,4626755.0
+17498.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201103,manzo michael p.,110465920120949,VP of Engineering,male,4626755.0
+17462.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201103,mann brenda,110465920120954,VP of Research & Development,female,4626755.0
+78581.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20201103,from stephen,110465920120955,President and CEO,male,4626755.0
+25819.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201103,romano sarah,110465920120953,Chief Financial Officer,female,4626755.0
+25728.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201208,romano sarah,110465920133323,Chief Financial Officer,female,4626755.0
+17371.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201208,mann brenda,110465920133326,VP of Research & Development,female,4626755.0
+77993.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201208,from stephen,110465920133325,President and CEO,male,4626755.0
+17407.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20201208,manzo michael p.,110465920133324,VP of Engineering,male,4626755.0
+17292.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210105,manzo michael p.,110465921000932,VP of Engineering,male,5556394.0
+17256.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210105,mann brenda,110465921000927,VP of Research & Development,female,5556394.0
+25613.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210105,romano sarah,110465921000934,Chief Financial Officer,female,5556394.0
+77288.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210105,from stephen,110465921000935,President and CEO,male,5556394.0
+73746.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210203,from stephen,110465921011851,Executive Chairman,male,5556394.0
+16268.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210203,mann brenda,110465921011852,VP of Research & Development,female,5556394.0
+24331.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210203,romano sarah,110465921011850,Chief Financial Officer,female,5556394.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210203,tyle praveen,110465921011849,,male,5556394.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210203,hancock thomas,110465921011848,,male,5556394.0
+16302.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210203,manzo michael p.,110465921011853,VP of Engineering,male,5556394.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210203,malfroy-camine bernard,110465921011846,,male,5556394.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210203,goldberg morton,110465921011845,,male,5556394.0
+,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210203,obermayr franz,110465921011844,Acting CEO,male,5556394.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210203,chaney paul g,110465921011847,,male,5556394.0
+24113.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210305,romano sarah,110465921032766,Chief Financial Officer,female,5556394.0
+72848.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210305,from stephen,110465921032768,Executive Chairman,male,5556394.0
+16110.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210305,manzo michael p.,110465921032764,VP of Engineering,male,5556394.0
+16076.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210305,mann brenda,110465921032763,VP of Research & Development,female,5556394.0
+71949.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210409,from stephen,110465921048716,Executive Chairman,male,7097912.0
+15884.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210409,mann brenda,110465921048712,VP of Research & Development,female,7097912.0
+15916.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210409,manzo michael p.,110465921048714,VP of Engineering,male,7097912.0
+23933.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210409,romano sarah,110465921048715,Chief Financial Officer,female,7097912.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210421,shapiro aron,110465921053166,,male,7097912.0
+,,1372514,eyegate pharmaceuticals inc,1,0,0,0,20210421,gayron kenneth l,110465921053167,,male,7097912.0
+15693.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210505,mann brenda,110465921061946,VP of Research & Development,female,7097912.0
+15758.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210505,manzo michael p.,110465921061948,VP of Engineering,male,7097912.0
+23756.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210505,romano sarah,110465921061949,Chief Financial Officer,female,7097912.0
+71060.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210505,from stephen,110465921061950,Executive Chairman,male,7097912.0
+15603.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210607,manzo michael p.,110465921077764,VP of Engineering,male,7097912.0
+23576.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210607,romano sarah,110465921077765,Chief Financial Officer,female,7097912.0
+70182.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210607,from stephen,110465921077766,Executive Chairman,male,7097912.0
+15538.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210607,mann brenda,110465921077763,VP of Research & Development,female,7097912.0
+69305.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210706,from stephen,110465921089442,Executive Chairman,male,7097912.0
+23396.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210706,romano sarah,110465921089447,Chief Financial Officer,female,7097912.0
+15384.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210706,mann brenda,110465921089443,VP of Research & Development,female,7097912.0
+15443.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210706,manzo michael p.,110465921089446,VP of Engineering,male,7097912.0
+,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210802,strem brian m.,110465921098991,President and CEO,male,7097912.0
+69044.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210804,from stephen,110465921100200,Executive Chairman,male,7097912.0
+15378.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210804,manzo michael p.,110465921100199,VP of Engineering,male,7097912.0
+15321.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210804,mann brenda,110465921100197,VP of Research & Development,female,7097912.0
+23309.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210804,romano sarah,110465921100196,Chief Financial Officer,female,7097912.0
+68791.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20210903,from stephen,110465921112942,Executive Chairman,male,12619256.0
+23225.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210903,romano sarah,110465921112940,Chief Financial Officer,female,12619256.0
+15260.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20210903,mann brenda,110465921112937,VP of Research & Development,female,12619256.0
+15198.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20211005,mann brenda,110465921123266,VP of Research & Development,female,12619256.0
+68542.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20211005,from stephen,110465921123265,Executive Chairman,male,12619256.0
+23142.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20211005,romano sarah,110465921123267,Chief Financial Officer,female,12619256.0
+23059.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20211103,romano sarah,110465921133650,Chief Financial Officer,female,12619256.0
+15136.0,,1372514,eyegate pharmaceuticals inc,0,1,0,0,20211103,mann brenda,110465921133652,VP of Research & Development,female,12619256.0
+68292.0,,1372514,eyegate pharmaceuticals inc,1,1,0,0,20211103,from stephen,110465921133655,Executive Chairman,male,12619256.0
+,,1372514,kiora pharmaceuticals inc,0,1,0,0,20211110,daniels eric joseph,110465921136953,Chief Development Officer,male,12653054.0
+27370.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20211122,strem brian m.,110465921142537,President and CEO,male,12653054.0
+22968.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20211208,romano sarah,110465921147635,Chief Financial Officer,female,12653054.0
+68019.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20211208,from stephen,110465921147638,Executive Chairman,male,12653054.0
+22854.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20220106,romano sarah,110465922001943,Chief Financial Officer,female,316599.0
+67693.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20220106,from stephen,110465922001942,Executive Chairman,male,316599.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20220203,gayron kenneth l,110465922011495,,male,316599.0
+,,1372514,kiora pharmaceuticals inc,0,1,0,0,20220203,romano sarah,110465922011498,Chief Financial Officer,female,316599.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20220203,tyle praveen,110465922011497,,male,316599.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20220203,shapiro aron,110465922011490,,male,316599.0
+,,1372514,kiora pharmaceuticals inc,1,1,0,0,20220203,strem brian m.,110465922011491,President and CEO,male,316599.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20220203,hollander david,110465922011492,,male,316599.0
+,,1372514,kiora pharmaceuticals inc,0,1,0,0,20220203,daniels eric joseph,110465922011493,Chief Development Officer,male,316599.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20220203,parsons erin,110465922011494,,female,316599.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20220203,chaney paul g,110465922011496,,male,316599.0
+22746.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20220211,romano sarah,110465922020560,Chief Financial Officer,female,316599.0
+2500.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20221025,tosca melissa,110465922111243,EVP of Finance,female,1079045.0
+13183.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20221025,strem brian m.,110465922111239,President and CEO,male,1079045.0
+10238.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20221025,daniels eric joseph,110465922111246,Chief Development Officer,male,1079045.0
+28783.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20230307,strem brian m.,137251423000035,President and CEO,male,1796472.0
+7400.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20230307,tosca melissa,137251423000036,EVP Finance,female,1796472.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20230307,parsons erin,137251423000037,,female,1796472.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20230307,chaney paul g,137251423000029,,male,1796472.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20230307,hollander david,137251423000030,,male,1796472.0
+25838.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20230307,daniels eric joseph,137251423000034,Chief Development Officer,male,1796472.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20230307,gayron kenneth l,137251423000033,,male,1796472.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20230307,shapiro aron,137251423000032,,male,1796472.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20230307,tyle praveen,137251423000031,,male,1796472.0
+34900.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20231003,tosca melissa,137251423000150,EVP Finance,female,7689240.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20231003,tyle praveen,137251423000147,,male,7689240.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20231003,gayron kenneth l,137251423000143,,male,7689240.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20231003,hollander david,137251423000144,,male,7689240.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20231003,stengone carmine n.,137251423000145,,male,7689240.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20231003,shapiro aron,137251423000146,,male,7689240.0
+88338.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20231003,daniels eric joseph,137251423000149,Chief Development Officer,male,7689240.0
+103783.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20231003,strem brian m.,137251423000148,President and CEO,male,7689240.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20231003,parsons erin,137251423000142,,female,7689240.0
+14531.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20240613,strem brian m.,137251424000060,President and CEO,male,26256197.0
+5260.0,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240613,parsons erin,137251424000061,,female,26256197.0
+11222.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20240614,daniels eric joseph,137251424000063,Chief Development Officer,male,26256197.0
+3979.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20240614,tosca melissa,137251424000065,EVP Finance,female,26256197.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240703,tyle praveen,137251424000088,,male,2970545.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240703,hollander david,137251424000089,,male,2970545.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240703,walters-hoffert lisa,137251424000090,,female,2970545.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240703,stengone carmine n.,137251424000093,,male,2970545.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240703,parsons erin,137251424000092,,female,2970545.0
+18577.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20240703,daniels eric joseph,137251424000094,Chief Development Officer,male,2970545.0
+11599.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20240703,tosca melissa,137251424000096,CFO,female,2970545.0
+30160.0,,1372514,kiora pharmaceuticals inc,1,1,0,0,20240703,strem brian m.,137251424000097,President and CEO,male,2970545.0
+,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240703,shapiro aron,137251424000091,,male,2970545.0
+13599.0,,1372514,kiora pharmaceuticals inc,0,1,0,0,20240815,tosca melissa,137251424000107,CFO,female,2970545.0
+5014.0,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240819,tyle praveen,137251424000109,,male,2970545.0
+1250.0,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240820,walters-hoffert lisa,137251424000111,,female,2970545.0
+3000.0,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240911,shapiro aron,137251424000113,,male,2970545.0
+1250.0,,1372514,kiora pharmaceuticals inc,1,0,0,0,20240912,stengone carmine n.,137251424000115,,male,2970545.0

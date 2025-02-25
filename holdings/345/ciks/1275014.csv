@@ -1,201 +1,671 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-11251.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100104,hayward deborah,120919110000446,Sr. Vice President Sales,female,
-47953.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100212,savage david,120919110008822,"President, COO",male,
-11251.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100222,hayward deborah,120919110011228,Sr. Vice President Sales,female,
-361395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100302,granger clarence l,120919110013768,CEO,male,
-94364.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,savage david,120919110013770,"President, COO",male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,wier bruce,120919110013772,Sr. Vice President Engineering,male,
-190000.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,eichler kevin c,120919110013774,"Sr. Vice President, CFO",male,
-31251.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,hayward deborah,120919110013767,Sr. Vice President Sales,female,
-453252.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100308,mezhvinsky leonid,120919110015401,,male,
-398952.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100308,mezhvinsky leonid,120919110015402,,male,
-300244.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100330,mezhvinsky leonid,120919110019378,,male,
-267307.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100331,mezhvinsky leonid,120919110019441,,male,
-259545.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100331,mezhvinsky leonid,120919110019469,,male,
-253745.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100401,mezhvinsky leonid,120919110019842,,male,
-249946.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100401,mezhvinsky leonid,120919110019896,,male,
-249246.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100407,mezhvinsky leonid,120919110021418,,male,
-248952.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100407,mezhvinsky leonid,120919110021500,,male,
-241050.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100409,mezhvinsky leonid,120919110021743,,male,
-240250.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100412,mezhvinsky leonid,120919110021892,,male,
-198952.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100415,mezhvinsky leonid,120919110022509,,male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100426,wier bruce,120919110023769,Sr. Vice President Engineering,male,
-31251.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100426,hayward deborah,120919110023767,Sr. Vice President Sales,female,
-361395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100426,granger clarence l,120919110023768,CEO,male,
-87364.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100504,savage david,95010310001295,President & COO,male,
-85001.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100512,savage david,95010310001428,President & COO,male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100512,wier bruce,95010310001424,"Vice President, Engineering",male,
-361395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100514,granger clarence l,95010310001466,Chairman and CEO,male,
-27500.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,billat susan,95010310001794,,female,
+11251.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100104,hayward deborah,120919110000446,Sr. Vice President Sales,female,
+47953.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100212,savage david,120919110008822,"President, COO",male,
+11251.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100222,hayward deborah,120919110011228,Sr. Vice President Sales,female,
+31251.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,hayward deborah,120919110013767,Sr. Vice President Sales,female,
+361395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100302,granger clarence l,120919110013768,CEO,male,
+94364.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,savage david,120919110013770,"President, COO",male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,wier bruce,120919110013772,Sr. Vice President Engineering,male,
+190000.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100302,eichler kevin c,120919110013774,"Sr. Vice President, CFO",male,
+453252.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100308,mezhvinsky leonid,120919110015401,,male,
+398952.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100308,mezhvinsky leonid,120919110015402,,male,
+300244.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100330,mezhvinsky leonid,120919110019378,,male,
+267307.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100331,mezhvinsky leonid,120919110019441,,male,
+259545.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100331,mezhvinsky leonid,120919110019469,,male,
+253745.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100401,mezhvinsky leonid,120919110019842,,male,
+249946.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100401,mezhvinsky leonid,120919110019896,,male,
+249246.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100407,mezhvinsky leonid,120919110021418,,male,
+248952.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100407,mezhvinsky leonid,120919110021500,,male,
+241050.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100409,mezhvinsky leonid,120919110021743,,male,
+240250.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100412,mezhvinsky leonid,120919110021892,,male,
+198952.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100415,mezhvinsky leonid,120919110022509,,male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100426,wier bruce,120919110023769,Sr. Vice President Engineering,male,
+361395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100426,granger clarence l,120919110023768,CEO,male,
+31251.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100426,hayward deborah,120919110023767,Sr. Vice President Sales,female,
+87364.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100504,savage david,95010310001295,President & COO,male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100512,wier bruce,95010310001424,"Vice President, Engineering",male,
+85001.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100512,savage david,95010310001428,President & COO,male,
+361395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100514,granger clarence l,95010310001466,Chairman and CEO,male,
+15000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,chenault john,95010310001797,,male,
 7500.0,198952.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,mezhvinsky leonid,95010310001795,,male,
-27500.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,ibnale david t,95010310001796,,male,
-15000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,chenault john,95010310001797,,male,
-361395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100728,granger clarence l,95010310002227,Chairman And CEO,male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100728,wier bruce,95010310002228,"Vice President, Engineering",male,
-85001.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100730,savage david,95010310002250,President & COO,male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100811,wier bruce,95010310002401,"Vice President, Engineering",male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20101223,wier bruce,95010310003835,"Vice President, Engineering",male,
-73444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110114,wier bruce,95010311000151,"Vice President, Engineering",male,22299982.0
-31251.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110118,hayward deborah,95010311000163,"Sr. Vice President, Sales",female,22299982.0
-3108167.0,0.0,1275014,ultra clean holdings inc,0,0,1.0,0.0,20110119,marxe austin w & greenhouse david m,104432111000024,,male,22299982.0
-336395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20110128,granger clarence l,95010311000348,Chairman and CEO,male,22299982.0
-180000.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110128,eichler kevin c,95010311000349,"Sr Vice Pres., CFO",male,22299982.0
-336395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20110131,granger clarence l,95010311000365,Chairman And CEO,male,22299982.0
-3049000.0,0.0,1275014,ultra clean holdings inc,0,0,1.0,0.0,20110209,marxe austin w & greenhouse david m,104432111000042,,male,22299982.0
-208000.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110228,eichler kevin c,95010311000807,"Sr Vice Pres., CFO",male,22299982.0
-396395.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20110228,granger clarence l,95010311000808,Chairman And CEO,male,22299982.0
-44251.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110228,hayward deborah,95010311000809,"Vice President, Sales",female,22299982.0
-81444.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110228,wier bruce,95010311000810,"Vice President, Engineering",male,22299982.0
-41659.0,0.0,1275014,ultra clean holdings inc,0,1,1.0,0.0,20110302,hayward deborah,95010311000850,"Vice President, Sales",female,22299982.0
-78810.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110302,wier bruce,95010311000851,"Vice President, Engineering",male,22299982.0
-240000.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110310,addiego ginetto,95010311000960,President and COO,male,22299982.0
-194902.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110520,mezhvinsky leonid,95010311001963,,male,22299982.0
-30000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,chenault john,95010311001971,,male,22299982.0
-35000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,billat susan,95010311001972,,female,22299982.0
-35000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,ibnale david t,95010311001970,,male,22299982.0
+27500.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,billat susan,95010310001794,,female,
+27500.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20100616,ibnale david t,95010310001796,,male,
+361395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20100728,granger clarence l,95010310002227,Chairman And CEO,male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100728,wier bruce,95010310002228,"Vice President, Engineering",male,
+85001.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100730,savage david,95010310002250,President & COO,male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20100811,wier bruce,95010310002401,"Vice President, Engineering",male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20101223,wier bruce,95010310003835,"Vice President, Engineering",male,
+73444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110114,wier bruce,95010311000151,"Vice President, Engineering",male,22299982.0
+31251.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110118,hayward deborah,95010311000163,"Sr. Vice President, Sales",female,22299982.0
+3108167.0,,1275014,ultra clean holdings inc,0,0,1.0,0.0,20110119,marxe austin w & greenhouse david m,104432111000024,,male,22299982.0
+180000.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110128,eichler kevin c,95010311000349,"Sr Vice Pres., CFO",male,22299982.0
+336395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20110128,granger clarence l,95010311000348,Chairman and CEO,male,22299982.0
+336395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20110131,granger clarence l,95010311000365,Chairman And CEO,male,22299982.0
+3049000.0,,1275014,ultra clean holdings inc,0,0,1.0,0.0,20110209,marxe austin w & greenhouse david m,104432111000042,,male,22299982.0
+44251.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110228,hayward deborah,95010311000809,"Vice President, Sales",female,22299982.0
+81444.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110228,wier bruce,95010311000810,"Vice President, Engineering",male,22299982.0
+396395.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20110228,granger clarence l,95010311000808,Chairman And CEO,male,22299982.0
+208000.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110228,eichler kevin c,95010311000807,"Sr Vice Pres., CFO",male,22299982.0
+41659.0,,1275014,ultra clean holdings inc,0,1,1.0,0.0,20110302,hayward deborah,95010311000850,"Vice President, Sales",female,22299982.0
+78810.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110302,wier bruce,95010311000851,"Vice President, Engineering",male,22299982.0
+240000.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110310,addiego ginetto,95010311000960,President and COO,male,22299982.0
+194902.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110520,mezhvinsky leonid,95010311001963,,male,22299982.0
 15000.0,194902.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,mezhvinsky leonid,95010311001973,,male,22299982.0
-190002.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110606,mezhvinsky leonid,95010311002204,,male,22299982.0
-195402.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110606,mezhvinsky leonid,95010311002202,,male,22299982.0
-195617.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110803,eichler kevin c,95010311003174,"Sr. Vice Pres., CFO",male,22817037.0
-36000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20111114,billat susan,95010311004749,,female,22856375.0
-303143.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20111129,addiego ginetto,95010311005038,President and COO,male,22856375.0
-2973092.0,0.0,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120130,marxe austin w & greenhouse david m,104432112000006,,male,22910649.0
-2971992.0,0.0,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120201,marxe austin w & greenhouse david m,104432112000007,,male,22910649.0
-2873092.0,0.0,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120203,marxe austin w & greenhouse david m,104432112000008,,male,22910649.0
-202654.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,eichler kevin c,95010312000988,"Sr Vice Pres., CFO",male,22910649.0
-84753.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,wier bruce,95010312000987,"Vice President, Engineering",male,22910649.0
-330643.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,addiego ginetto,95010312000990,President & COO,male,22910649.0
-48739.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,hayward deborah,95010312000991,"Vice President, Sales",female,22910649.0
-397929.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20120227,granger clarence l,95010312000989,Chairman and CEO,male,22910649.0
-48739.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120316,hayward deborah,95010312001372,"Vice President, Sales",female,22910649.0
-2640275.0,0.0,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120425,marxe austin w & greenhouse david m,104432112000080,,male,23270712.0
-42500.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20120518,ibnale david t,95010312002682,,male,23285290.0
-37500.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20120518,chenault john,95010312002683,,male,23285290.0
-40858.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,1.0,20120518,billat susan,95010312002684,,female,23285290.0
+35000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,ibnale david t,95010311001970,,male,22299982.0
+30000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,chenault john,95010311001971,,male,22299982.0
+35000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110523,billat susan,95010311001972,,female,22299982.0
+190002.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110606,mezhvinsky leonid,95010311002204,,male,22299982.0
+195402.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20110606,mezhvinsky leonid,95010311002202,,male,22299982.0
+195617.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20110803,eichler kevin c,95010311003174,"Sr. Vice Pres., CFO",male,22817037.0
+36000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20111114,billat susan,95010311004749,,female,22856375.0
+303143.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20111129,addiego ginetto,95010311005038,President and COO,male,22856375.0
+2973092.0,,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120130,marxe austin w & greenhouse david m,104432112000006,,male,22910649.0
+2971992.0,,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120201,marxe austin w & greenhouse david m,104432112000007,,male,22910649.0
+2873092.0,,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120203,marxe austin w & greenhouse david m,104432112000008,,male,22910649.0
+84753.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,wier bruce,95010312000987,"Vice President, Engineering",male,22910649.0
+202654.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,eichler kevin c,95010312000988,"Sr Vice Pres., CFO",male,22910649.0
+397929.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20120227,granger clarence l,95010312000989,Chairman and CEO,male,22910649.0
+330643.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,addiego ginetto,95010312000990,President & COO,male,22910649.0
+48739.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120227,hayward deborah,95010312000991,"Vice President, Sales",female,22910649.0
+48739.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120316,hayward deborah,95010312001372,"Vice President, Sales",female,22910649.0
+2640275.0,,1275014,ultra clean holdings inc,0,0,1.0,0.0,20120425,marxe austin w & greenhouse david m,104432112000080,,male,23270712.0
+40858.0,,1275014,ultra clean holdings inc,1,0,0.0,1.0,20120518,billat susan,95010312002684,,female,23285290.0
 22500.0,190002.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20120518,mezhvinsky leonid,95010312002681,,male,23285290.0
-190387.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120802,eichler kevin c,95010312003983,"Sr Vice Pres., CFO",male,23331276.0
-195387.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20121026,eichler kevin c,95010312005696,"Sr. Vice Pres., CFO",male,27849298.0
-331643.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20121113,addiego ginetto,95010312006062,President & COO,male,27849298.0
-370643.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20121114,addiego ginetto,95010312006134,President & COO,male,27849298.0
-177102.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20121204,mezhvinsky leonid,95010312006568,,male,27849298.0
-141352.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20121214,mezhvinsky leonid,95010312006747,,male,27849298.0
-366621.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,addiego ginetto,95010313001318,President & COO,male,27910851.0
-82260.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,wier bruce,95010313001319,"Vice President, Engineering",male,27910851.0
-46225.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,hayward deborah,95010313001320,"Vice President, Sales",female,27910851.0
-47871.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,bingaman mark,95010313001321,Sr. VP Supply Chain Management,male,27910851.0
-51986.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,lev lavi,95010313001322,SVP Asia,male,27910851.0
-189340.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,eichler kevin c,95010313001324,"Sr. Vice Pres., CFO",male,27910851.0
-387947.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20130226,granger clarence l,95010313001325,Chairman and CEO,male,27910851.0
-378777.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20130227,granger clarence l,95010313001367,Chairman And CEO,male,27910851.0
-80067.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130227,wier bruce,95010313001366,"Vice President, Engineering",male,27910851.0
-184450.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130227,eichler kevin c,95010313001365,"Sr Vice Pres, CFO",male,27910851.0
-44445.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130227,hayward deborah,95010313001368,"Vice President, Sales",female,27910851.0
-43200.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130228,bingaman mark,95010313001414,Sr. VP Supply Chain Management,male,27910851.0
-336022.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130311,addiego ginetto,95010313001680,President & COO,male,27910851.0
-39332.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130315,bingaman mark,95010313001790,Sr. VP Supply Chain Management,male,27910851.0
-48131.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130424,lev lavi,95010313002525,SVP Asia,male,28295473.0
-63131.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,lev lavi,95010313003207,SVP Asia,male,28368599.0
-55832.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,bingaman mark,95010313003214,Sr. VP Supply Chain Management,male,28368599.0
-377272.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,addiego ginetto,95010313003215,President & COO,male,28368599.0
-419751.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20130523,granger clarence l,95010313003206,Chairman And CEO,male,28368599.0
-214450.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,eichler kevin c,95010313003208,"Sr Vice Pres., CFO",male,28368599.0
-45000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130523,chenault john,95010313003209,,male,28368599.0
-50000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130523,ibnale david t,95010313003211,,male,28368599.0
-93567.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,wier bruce,95010313003212,"Sr Vice President, Engineering",male,28368599.0
-59445.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,hayward deborah,95010313003213,"Sr Vice President, Sales",female,28368599.0
-48358.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130523,billat susan,95010313003210,,female,28368599.0
-30000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130524,mezhvinsky leonid,95010313003227,,male,28368599.0
-59445.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130729,hayward deborah,95010313004532,"Sr Vice President, Sales",female,28454048.0
-201942.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130801,eichler kevin c,95010313004677,"Sr Vice Pres., CFO",male,28454048.0
-369751.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20131030,granger clarence l,95010313006285,Chairman And CEO,male,28583595.0
-49985.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20131205,lev lavi,95010313007127,SVP Asia,male,28583595.0
-181942.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20131224,eichler kevin c,95010313007465,"Sr Vice Pres., CFO",male,28583595.0
-83567.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140113,wier bruce,95010314000226,"Sr Vice President, Engineering",male,28694762.0
-75510.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140116,wier bruce,95010314000321,"Sr Vice President, Engineering",male,28694762.0
-46999.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140116,lev lavi,95010314000323,SVP Asia,male,28694762.0
-319751.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140116,granger clarence l,95010314000322,Chairman And CEO,male,28694762.0
-206542.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,eichler kevin c,95010314001150,"Sr Vice Pres., CFO",male,28694762.0
-353576.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,granger clarence l,95010314001149,Chairman And CEO,male,28694762.0
-79200.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,wier bruce,95010314001151,"Sr Vice President, Engineering",male,28694762.0
-51099.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,lev lavi,95010314001152,SVP Asia,male,28694762.0
-411097.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,addiego ginetto,95010314001153,President & COO,male,28694762.0
-63545.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,hayward deborah,95010314001154,"Sr Vice President, Sales",female,28694762.0
-60342.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,bingaman mark,95010314001155,Sr. VP Supply Chain Management,male,28694762.0
-303576.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140221,granger clarence l,95010314001271,Chairman And CEO,male,28694762.0
-106542.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140221,eichler kevin c,95010314001270,"Sr Vice Pres., CFO",male,28694762.0
-26125.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140221,wier bruce,95010314001272,"Sr Vice President, Engineering",male,28694762.0
-47862.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,lev lavi,95010314001356,SVP Asia,male,28694762.0
-398058.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,addiego ginetto,95010314001353,President and COO,male,28694762.0
-96969.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,eichler kevin c,95010314001354,"Sr Vice Pres., CFO",male,28694762.0
-60494.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,hayward deborah,95010314001355,"Sr Vice President, Sales",female,28694762.0
-56941.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,bingaman mark,95010314001357,Sr. VP Supply Chain Management,male,28694762.0
-290728.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140225,granger clarence l,95010314001358,Chairman and CEO,male,28694762.0
-22629.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,wier bruce,95010314001359,"Sr Vice President, Engineering",male,28694762.0
-284528.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140227,granger clarence l,95010314001413,Chairman and CEO,male,28694762.0
-94077.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,eichler kevin c,95010314001414,"Sr Vice Pres., CFO",male,28694762.0
-21717.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,wier bruce,95010314001412,"Sr Vice President, Engineering",male,28694762.0
-59433.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,hayward deborah,95010314001425,"Sr Vice President, Sales",female,28694762.0
-21717.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,wier bruce,95010314001420,"Sr Vice President, Engineering",male,28694762.0
-55309.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,bingaman mark,95010314001415,Sr. VP Supply Chain Management,male,28694762.0
-44352.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140228,mezhvinsky leonid,95010314001480,,male,28694762.0
-15762.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140228,wier bruce,95010314001481,"Sr Vice President, Engineering",male,28694762.0
-15000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140304,mezhvinsky leonid,95010314001637,,male,28694762.0
-69933.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,hayward deborah,95010314001638,"Sr Vice Pres, Global Acct Mgmt",female,28694762.0
-24762.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,wier bruce,95010314001636,"Sr Vice President, Engineering",male,28694762.0
-77112.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,lev lavi,95010314001635,SVP Asia,male,28694762.0
-334528.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140304,granger clarence l,95010314001631,Chairman And CEO,male,28694762.0
-433058.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,addiego ginetto,95010314001632,President & COO,male,28694762.0
-131577.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,eichler kevin c,95010314001633,"Executive Vice Pres., CFO",male,28694762.0
-66559.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,bingaman mark,95010314001634,Sr. VP Supply Chain Management,male,28694762.0
-42500.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140307,ibnale david t,95010314001731,,male,28694762.0
-48358.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140311,billat susan,95010314001805,,female,28694762.0
-396816.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140311,addiego ginetto,95010314001807,President & COO,male,28694762.0
-334228.0,0.0,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140320,granger clarence l,95010314001993,Chairman And CEO,male,28694762.0
-69933.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140326,hayward deborah,95010314002122,Sr VP Global Acct Mgmt.,female,28694762.0
-61079.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140326,lev lavi,95010314002109,SVP Asia,male,28694762.0
-50500.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,ibnale david t,95010314003616,,male,29442612.0
-56358.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,billat susan,95010314003617,,female,29442612.0
-53000.0,0.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,chenault john,95010314003618,,male,29442612.0
+42500.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20120518,ibnale david t,95010312002682,,male,23285290.0
+37500.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20120518,chenault john,95010312002683,,male,23285290.0
+190387.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20120802,eichler kevin c,95010312003983,"Sr Vice Pres., CFO",male,23331276.0
+195387.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20121026,eichler kevin c,95010312005696,"Sr. Vice Pres., CFO",male,27849298.0
+331643.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20121113,addiego ginetto,95010312006062,President & COO,male,27849298.0
+370643.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20121114,addiego ginetto,95010312006134,President & COO,male,27849298.0
+177102.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20121204,mezhvinsky leonid,95010312006568,,male,27849298.0
+141352.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20121214,mezhvinsky leonid,95010312006747,,male,27849298.0
+366621.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,addiego ginetto,95010313001318,President & COO,male,27910851.0
+82260.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,wier bruce,95010313001319,"Vice President, Engineering",male,27910851.0
+46225.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,hayward deborah,95010313001320,"Vice President, Sales",female,27910851.0
+47871.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,bingaman mark,95010313001321,Sr. VP Supply Chain Management,male,27910851.0
+51986.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,lev lavi,95010313001322,SVP Asia,male,27910851.0
+189340.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130226,eichler kevin c,95010313001324,"Sr. Vice Pres., CFO",male,27910851.0
+387947.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20130226,granger clarence l,95010313001325,Chairman and CEO,male,27910851.0
+44445.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130227,hayward deborah,95010313001368,"Vice President, Sales",female,27910851.0
+80067.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130227,wier bruce,95010313001366,"Vice President, Engineering",male,27910851.0
+378777.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20130227,granger clarence l,95010313001367,Chairman And CEO,male,27910851.0
+184450.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130227,eichler kevin c,95010313001365,"Sr Vice Pres, CFO",male,27910851.0
+43200.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130228,bingaman mark,95010313001414,Sr. VP Supply Chain Management,male,27910851.0
+336022.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130311,addiego ginetto,95010313001680,President & COO,male,27910851.0
+39332.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130315,bingaman mark,95010313001790,Sr. VP Supply Chain Management,male,27910851.0
+48131.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130424,lev lavi,95010313002525,SVP Asia,male,28295473.0
+93567.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,wier bruce,95010313003212,"Sr Vice President, Engineering",male,28368599.0
+377272.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,addiego ginetto,95010313003215,President & COO,male,28368599.0
+55832.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,bingaman mark,95010313003214,Sr. VP Supply Chain Management,male,28368599.0
+59445.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,hayward deborah,95010313003213,"Sr Vice President, Sales",female,28368599.0
+419751.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20130523,granger clarence l,95010313003206,Chairman And CEO,male,28368599.0
+48358.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130523,billat susan,95010313003210,,female,28368599.0
+45000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130523,chenault john,95010313003209,,male,28368599.0
+214450.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,eichler kevin c,95010313003208,"Sr Vice Pres., CFO",male,28368599.0
+63131.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130523,lev lavi,95010313003207,SVP Asia,male,28368599.0
+50000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130523,ibnale david t,95010313003211,,male,28368599.0
+30000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20130524,mezhvinsky leonid,95010313003227,,male,28368599.0
+59445.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130729,hayward deborah,95010313004532,"Sr Vice President, Sales",female,28454048.0
+201942.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20130801,eichler kevin c,95010313004677,"Sr Vice Pres., CFO",male,28454048.0
+369751.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20131030,granger clarence l,95010313006285,Chairman And CEO,male,28583595.0
+49985.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20131205,lev lavi,95010313007127,SVP Asia,male,28583595.0
+181942.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20131224,eichler kevin c,95010313007465,"Sr Vice Pres., CFO",male,28583595.0
+83567.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140113,wier bruce,95010314000226,"Sr Vice President, Engineering",male,28694762.0
+46999.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140116,lev lavi,95010314000323,SVP Asia,male,28694762.0
+75510.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140116,wier bruce,95010314000321,"Sr Vice President, Engineering",male,28694762.0
+319751.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140116,granger clarence l,95010314000322,Chairman And CEO,male,28694762.0
+79200.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,wier bruce,95010314001151,"Sr Vice President, Engineering",male,28694762.0
+206542.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,eichler kevin c,95010314001150,"Sr Vice Pres., CFO",male,28694762.0
+51099.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,lev lavi,95010314001152,SVP Asia,male,28694762.0
+411097.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,addiego ginetto,95010314001153,President & COO,male,28694762.0
+63545.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,hayward deborah,95010314001154,"Sr Vice President, Sales",female,28694762.0
+60342.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,bingaman mark,95010314001155,Sr. VP Supply Chain Management,male,28694762.0
+353576.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140218,granger clarence l,95010314001149,Chairman And CEO,male,28694762.0
+106542.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140221,eichler kevin c,95010314001270,"Sr Vice Pres., CFO",male,28694762.0
+303576.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140221,granger clarence l,95010314001271,Chairman And CEO,male,28694762.0
+26125.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140221,wier bruce,95010314001272,"Sr Vice President, Engineering",male,28694762.0
+22629.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,wier bruce,95010314001359,"Sr Vice President, Engineering",male,28694762.0
+290728.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140225,granger clarence l,95010314001358,Chairman and CEO,male,28694762.0
+47862.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,lev lavi,95010314001356,SVP Asia,male,28694762.0
+60494.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,hayward deborah,95010314001355,"Sr Vice President, Sales",female,28694762.0
+398058.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,addiego ginetto,95010314001353,President and COO,male,28694762.0
+56941.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,bingaman mark,95010314001357,Sr. VP Supply Chain Management,male,28694762.0
+96969.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140225,eichler kevin c,95010314001354,"Sr Vice Pres., CFO",male,28694762.0
+284528.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140227,granger clarence l,95010314001413,Chairman and CEO,male,28694762.0
+94077.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,eichler kevin c,95010314001414,"Sr Vice Pres., CFO",male,28694762.0
+55309.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,bingaman mark,95010314001415,Sr. VP Supply Chain Management,male,28694762.0
+21717.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,wier bruce,95010314001420,"Sr Vice President, Engineering",male,28694762.0
+59433.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,hayward deborah,95010314001425,"Sr Vice President, Sales",female,28694762.0
+21717.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140227,wier bruce,95010314001412,"Sr Vice President, Engineering",male,28694762.0
+44352.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140228,mezhvinsky leonid,95010314001480,,male,28694762.0
+15762.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140228,wier bruce,95010314001481,"Sr Vice President, Engineering",male,28694762.0
+69933.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,hayward deborah,95010314001638,"Sr Vice Pres, Global Acct Mgmt",female,28694762.0
+77112.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,lev lavi,95010314001635,SVP Asia,male,28694762.0
+15000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140304,mezhvinsky leonid,95010314001637,,male,28694762.0
+131577.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,eichler kevin c,95010314001633,"Executive Vice Pres., CFO",male,28694762.0
+433058.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,addiego ginetto,95010314001632,President & COO,male,28694762.0
+334528.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140304,granger clarence l,95010314001631,Chairman And CEO,male,28694762.0
+66559.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,bingaman mark,95010314001634,Sr. VP Supply Chain Management,male,28694762.0
+24762.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140304,wier bruce,95010314001636,"Sr Vice President, Engineering",male,28694762.0
+42500.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140307,ibnale david t,95010314001731,,male,28694762.0
+48358.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140311,billat susan,95010314001805,,female,28694762.0
+396816.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140311,addiego ginetto,95010314001807,President & COO,male,28694762.0
+334228.0,,1275014,ultra clean holdings inc,1,1,0.0,0.0,20140320,granger clarence l,95010314001993,Chairman And CEO,male,28694762.0
+61079.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140326,lev lavi,95010314002109,SVP Asia,male,28694762.0
+69933.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20140326,hayward deborah,95010314002122,Sr VP Global Acct Mgmt.,female,28694762.0
+50500.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,ibnale david t,95010314003616,,male,29442612.0
+,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,billat susan,95010314003617,,female,29442612.0
+53000.0,,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,chenault john,95010314003618,,male,29442612.0
 38000.0,15000.0,1275014,ultra clean holdings inc,1,0,0.0,0.0,20140523,mezhvinsky leonid,95010314003619,,male,29442612.0
-57411.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20141128,lev lavi,95010314008463,SVP Asia,male,29532513.0
-27762.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150130,wier bruce,95010315000762,"Sr Vice President, Engineering",male,29562338.0
-200000.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150130,scholhamer james p,95010315000763,Chief Executive Officer,male,29562338.0
-71559.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150130,bingaman mark,95010315000764,Please see Remarks,male,29562338.0
-215702.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,eichler kevin c,95010315001247,"EVP, CFO",male,29562338.0
-30492.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,wier bruce,95010315001246,"SVP, Engineering",male,29562338.0
-73118.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,hayward deborah,95010315001249,"SVP, Global Acct Mgmt",female,29562338.0
-74971.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,bingaman mark,95010315001248,Please see Remarks,male,29562338.0
-61733.0,0.0,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,lev lavi,95010315001245,"SVP, Asia",male,29562338.0
-210000.0,0.0,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20150223,scholhamer james p,95010315001399,CEO,male,29562338.0
-208441.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,eichler kevin c,95010315001448,"EVP, CFO",male,29562338.0
-71040.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,hayward deborah e,95010315001451,"SVP, Global Acct Mgmt",female,29562338.0
-225011.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150224,granger clarence l,95010315001452,,male,29562338.0
-27984.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,wier bruce c,95010315001453,"SVP, Engineering",male,29562338.0
-72686.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,bingaman mark,95010315001449,Please see Remarks,male,29562338.0
-59655.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,lev lavi,95010315001450,"SVP, Asia",male,29562338.0
-69917.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,hayward deborah e,95010315001565,"SVP, Global Acct Mgmt",female,29562338.0
-26619.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,wier bruce c,95010315001571,"SVP, Engineering",male,29562338.0
-58351.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,lev lavi,95010315001569,"SVP, Asia",male,29562338.0
-71440.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,bingaman mark,95010315001563,Please see Remarks,male,29562338.0
-205936.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,eichler kevin c,95010315001573,"EVP, CFO",male,29562338.0
-225011.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150227,granger clarence l,95010315001618,,male,29562338.0
-31186.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,wier bruce c,95010315001796,"SVP, Engineering",male,29562338.0
-85149.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,bingaman mark,95010315001800,Please see Remarks,male,29562338.0
-80712.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,hayward deborah e,95010315001798,"SVP, Global Acct Mgmt",female,29562338.0
-239465.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,eichler kevin c,95010315001799,"EVP, CFO",male,29562338.0
-76357.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,lev lavi,95010315001797,"SVP, Asia",male,29562338.0
-225011.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150304,granger clarence l,95010315001836,,male,29562338.0
-264168.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150310,granger clarence l,95010315001972,,male,29562338.0
-279465.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150331,eichler kevin c,95010315002573,"President, CFO",male,31485459.0
-289465.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150423,eichler kevin c,95010315003192,"President, CFO",male,31485459.0
-230000.0,0.0,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20150423,scholhamer james p,95010315003191,CEO,male,31485459.0
-60500.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150429,ibnale david t,95010315003351,,male,31615185.0
-8000.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,edman thomas t,95010315004624,,male,31615185.0
-8000.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,scherer barbara vaughn,95010315004622,,female,31615185.0
-23000.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,liggett emily m,95010315004619,,female,31615185.0
-61000.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,chenault john,95010315004618,,male,31615185.0
-68500.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,ibnale david t,95010315004617,,male,31615185.0
+57411.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20141128,lev lavi,95010314008463,SVP Asia,male,29532513.0
+27762.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150130,wier bruce,95010315000762,"Sr Vice President, Engineering",male,29562338.0
+71559.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150130,bingaman mark,95010315000764,Please see Remarks,male,29562338.0
+200000.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150130,scholhamer james p,95010315000763,Chief Executive Officer,male,29562338.0
+61733.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,lev lavi,95010315001245,"SVP, Asia",male,29562338.0
+73118.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,hayward deborah,95010315001249,"SVP, Global Acct Mgmt",female,29562338.0
+74971.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,bingaman mark,95010315001248,Please see Remarks,male,29562338.0
+215702.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,eichler kevin c,95010315001247,"EVP, CFO",male,29562338.0
+30492.0,,1275014,ultra clean holdings inc,0,1,0.0,0.0,20150213,wier bruce,95010315001246,"SVP, Engineering",male,29562338.0
+210000.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20150223,scholhamer james p,95010315001399,CEO,male,29562338.0
+208441.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,eichler kevin c,95010315001448,"EVP, CFO",male,29562338.0
+72686.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,bingaman mark,95010315001449,Please see Remarks,male,29562338.0
+59655.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,lev lavi,95010315001450,"SVP, Asia",male,29562338.0
+71040.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,hayward deborah e,95010315001451,"SVP, Global Acct Mgmt",female,29562338.0
+225011.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150224,granger clarence l,95010315001452,,male,29562338.0
+27984.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150224,wier bruce c,95010315001453,"SVP, Engineering",male,29562338.0
+71440.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,bingaman mark,95010315001563,Please see Remarks,male,29562338.0
+69917.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,hayward deborah e,95010315001565,"SVP, Global Acct Mgmt",female,29562338.0
+58351.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,lev lavi,95010315001569,"SVP, Asia",male,29562338.0
+26619.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,wier bruce c,95010315001571,"SVP, Engineering",male,29562338.0
+205936.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150226,eichler kevin c,95010315001573,"EVP, CFO",male,29562338.0
+225011.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150227,granger clarence l,95010315001618,,male,29562338.0
+239465.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,eichler kevin c,95010315001799,"EVP, CFO",male,29562338.0
+85149.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,bingaman mark,95010315001800,Please see Remarks,male,29562338.0
+31186.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,wier bruce c,95010315001796,"SVP, Engineering",male,29562338.0
+80712.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,hayward deborah e,95010315001798,"SVP, Global Acct Mgmt",female,29562338.0
+76357.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150303,lev lavi,95010315001797,"SVP, Asia",male,29562338.0
+225011.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150304,granger clarence l,95010315001836,,male,29562338.0
+264168.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150310,granger clarence l,95010315001972,,male,29562338.0
+279465.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150331,eichler kevin c,95010315002573,"President, CFO",male,31485459.0
+230000.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20150423,scholhamer james p,95010315003191,CEO,male,31485459.0
+289465.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150423,eichler kevin c,95010315003192,"President, CFO",male,31485459.0
+60500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150429,ibnale david t,95010315003351,,male,31615185.0
+272168.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,granger clarence l,95010315004614,,male,31615185.0
+68500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,ibnale david t,95010315004617,,male,31615185.0
+61000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,chenault john,95010315004618,,male,31615185.0
+23000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,liggett emily m,95010315004619,,female,31615185.0
+8000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,scherer barbara vaughn,95010315004622,,female,31615185.0
+8000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,edman thomas t,95010315004624,,male,31615185.0
 46000.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,mezhvinsky leonid,95010315004616,,male,31615185.0
-272168.0,0.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20150605,granger clarence l,95010315004614,,male,31615185.0
-84687.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150728,bingaman mark,95010315005886,Please see Remarks,male,31729219.0
-30805.0,0.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150728,wier bruce c,95010315005887,"SVP, Engineering",male,31729219.0
+84687.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150728,bingaman mark,95010315005886,Please see Remarks,male,31729219.0
+30805.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20150728,wier bruce c,95010315005887,"SVP, Engineering",male,31729219.0
+294465.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20151030,eichler kevin c,95010315008513,"President, CFO",male,32254217.0
+209949.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20160202,scholhamer james p,95010316010802,CEO,male,32279429.0
+87687.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160222,bingaman mark,95010316011266,Please see Remarks,male,32279429.0
+319965.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160222,eichler kevin c,95010316011267,"President, CFO",male,32279429.0
+80557.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160222,lev lavi,95010316011268,"SVP, Asia",male,32279429.0
+32005.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160222,wier bruce c,95010316011269,"SVP, Engineering",male,32279429.0
+83112.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160222,hayward deborah e,95010316011270,"SVP, Global Acct Mgmt",female,32279429.0
+78479.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160224,lev lavi,95010316011348,"SVP, Asia",male,32279429.0
+312432.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160224,eichler kevin c,95010316011347,"President, CFO",male,32279429.0
+81034.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160224,hayward deborah e,95010316011345,"SVP, Global Acct Mgmt",female,32279429.0
+29497.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160224,wier bruce c,95010316011344,"SVP, Engineering",male,32279429.0
+85402.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160224,bingaman mark,95010316011343,Please see Remarks,male,32279429.0
+32555.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160226,brumm sheri,95010316011453,"SVP, Finance & CAO",female,32279429.0
+390022.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160329,eichler kevin c,95010316012170,"President, CFO",male,32505755.0
+111628.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160415,bingaman mark,95010316012634,Please see Remarks,male,32505755.0
+111011.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160426,bingaman mark,95010316012807,Please see Remarks,male,32505755.0
+50000.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160527,henderson michael roy,95010316013717,"SVP, Engineering",male,32599674.0
+18000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20160531,edman thomas t,95010316013776,,male,32599674.0
+18000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20160531,scherer barbara vaughn,95010316013782,,female,32599674.0
+282168.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20160531,granger clarence l,95010316013777,,male,32599674.0
+78500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20160531,ibnale david t,95010316013778,,male,32599674.0
+33000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20160531,liggett emily m,95010316013779,,female,32599674.0
+56000.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20160531,mezhvinsky leonid,95010316013780,,male,32599674.0
+284949.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20160531,scholhamer james p,95010316013783,CEO,male,32599674.0
+110571.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160727,bingaman mark,95010316015065,Please see Remarks,male,32693498.0
+201927.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160802,brumm sheri,95010316015296,"CFO, SVP Finance and Secretary",female,32832373.0
+199116.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20160823,brumm sheri,95010316015705,"CFO, SVP Finance and Secretary",female,32832373.0
+265757.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20170201,scholhamer james p,95010317000936,CEO,male,32956285.0
+118071.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170217,bingaman mark,95010317001554,Please see Remarks,male,32956285.0
+340757.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20170217,scholhamer james p,95010317001550,CEO,male,32956285.0
+211616.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170217,brumm sheri,95010317001551,"CFO, SVP Finance and Secretary",female,32956285.0
+108016.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170217,hayward deborah e,95010317001552,"SVP, Global Acct Mgmt",female,32956285.0
+112614.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170217,lev lavi,95010317001553,"SVP, Asia",male,32956285.0
+83102.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170224,sterling joan,95010317001720,"SVP, Human Resources",female,32956285.0
+234208.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170227,granger clarence l,95010317001805,,male,32956285.0
+79942.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,d'ercole ronald,95010317001923,"SVP, Global Quality",male,32956285.0
+147928.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,speirs david,95010317001922,"SVP, North America",male,32956285.0
+115239.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,bingaman mark,95010317001917,Please see Remarks,male,32956285.0
+203513.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,brumm sheri,95010317001918,"CFO, SVP Finance and Secretary",female,32956285.0
+105168.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,hayward deborah e,95010317001919,"SVP, Global Acct Mgmt",female,32956285.0
+108551.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,lev lavi,95010317001921,"SVP, Asia",male,32956285.0
+81496.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,williams william joe,95010317001925,"SVP, Customer Business Mgmt",male,32956285.0
+77903.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170228,sterling joan,95010317001924,"SVP, Human Resources",female,32956285.0
+315977.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20170228,scholhamer james p,95010317001920,CEO,male,32956285.0
+74108.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,sterling joan,95010317002018,"SVP, Human Resources",female,32956285.0
+112264.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,bingaman mark,95010317002012,Please see Remarks,male,32956285.0
+186044.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,brumm sheri,95010317002014,"CFO, SVP Finance and Secretary",female,32956285.0
+102609.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,hayward deborah e,95010317002015,"SVP, Global Acct Mgmt",female,32956285.0
+143716.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,speirs david,95010317002017,"SVP, North America",male,32956285.0
+103198.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,lev lavi,95010317002019,"SVP, Asia",male,32956285.0
+79617.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170301,williams william joe,95010317002020,"SVP, Customer Business Mgmt",male,32956285.0
+179552.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170303,brumm sheri,95010317002178,"CFO, SVP Finance and Secretary",female,32956285.0
+84831.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170303,hayward deborah e,95010317002179,"SVP, Global Acct Mgmt",female,32956285.0
+84831.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170321,hayward deborah e,95010317002669,"SVP, Global Acct Mgmt",female,32956285.0
+143716.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170321,speirs david,95010317002670,"SVP, North America",male,32956285.0
+56765.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170324,sterling joan,95010317002768,"SVP, Human Resources",female,32956285.0
+63334.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170324,williams william joe,95010317002769,"SVP, Customer Business Mgmt",male,32956285.0
+79691.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170404,lev lavi,95010317003241,"SVP, Asia",male,33430118.0
+104283.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170404,bingaman mark,95010317003245,Please see Remarks,male,33430118.0
+76919.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170405,hayward deborah e,95010317003341,"SVP, Global Acct Mgmt",female,33430118.0
+103791.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170419,speirs david,95010317003659,"SVP, North America",male,33430118.0
+103645.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170426,bingaman mark,95010317003877,"SVP, Supply Chain",male,33430118.0
+100033.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170427,speirs david,95010317003984,"SVP, North America",male,33430118.0
+103475.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170428,bingaman mark,95010317004031,"SVP, Supply Chain",male,33458556.0
+99566.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,lev lavi,95010317004228,"President, Asia",male,33458556.0
+83209.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,williams william joe,95010317004232,"SVP, Customer Business Mgmt",male,33458556.0
+73265.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,sterling joan,95010317004231,"SVP, Human Resources",female,33458556.0
+365977.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20170502,scholhamer james p,95010317004217,CEO,male,33458556.0
+119908.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,speirs david,95010317004229,"SVP, North America",male,33458556.0
+199427.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,brumm sheri,95010317004220,"CFO, SVP Finance and Secretary",female,33458556.0
+89880.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,d'ercole ronald,95010317004221,"SVP, Quality",male,33458556.0
+86857.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,hayward deborah e,95010317004224,Please see Remarks,female,33458556.0
+59938.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,henderson michael roy,95010317004226,"SVP, Engineering",male,33458556.0
+113413.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170502,bingaman mark,95010317004219,"SVP, Supply Chain",male,33458556.0
+32800.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170504,mezhvinsky leonid,95010317004320,,male,33458556.0
+20000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170505,liggett emily m,95010317004360,,female,33458556.0
+90174.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170511,d'ercole ronald,95010317004513,"SVP, Quality",male,33458556.0
+7500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,andreson jeff,95010317004978,,male,33458556.0
+241708.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,granger clarence l,95010317004981,,male,33458556.0
+86000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,ibnale david t,95010317004982,,male,33458556.0
+27500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,liggett emily m,95010317004983,,female,33458556.0
+40300.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,mezhvinsky leonid,95010317004984,,male,33458556.0
+25500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,scherer barbara vaughn,95010317004986,,female,33458556.0
+25500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170526,edman thomas t,95010317004980,,male,33458556.0
+33500.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170530,mezhvinsky leonid,95010317005096,,male,33458556.0
+19500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170530,scherer barbara vaughn,95010317005097,,female,33458556.0
+53697.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170531,henderson michael roy,95010317005207,"SVP, Engineering",male,33458556.0
+23500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170602,liggett emily m,95010317005429,,female,33458556.0
+71566.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170602,d'ercole ronald,95010317005427,"SVP, Quality",male,33458556.0
+76670.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170607,bingaman mark,95010317005560,"SVP, Supply Chain",male,33458556.0
+17500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170612,liggett emily m,95010317005665,,female,33458556.0
+66974.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170619,hayward deborah e,95010317005848,Please see Remarks,female,33458556.0
+43272.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170621,henderson michael roy,95010317005963,"SVP, Engineering",male,33458556.0
+76215.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170727,bingaman mark,95010317007179,"SVP, Supply Chain",male,33553987.0
+76094.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170731,bingaman mark,95010317007363,"SVP, Supply Chain",male,33560200.0
+108209.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170801,williams william joe,95010317007452,"SVP, Customer Business Mgmt",male,33560200.0
+189486.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170801,brumm sheri,95010317007453,"CFO, SVP Finance and Secretary",female,33560200.0
+168974.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170803,brumm sheri,95010317007600,"CFO, SVP Finance and Secretary",female,33560200.0
+109566.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170829,lev lavi,95010317008278,"President, Asia",male,33560200.0
+76000.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20170908,ibnale david t,95010317008760,,male,33560200.0
+100879.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170914,speirs david,95010317008876,"SVP, North America",male,33560200.0
+100003.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170927,speirs david,95010317009279,"SVP, North America",male,33560200.0
+70690.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20170927,d'ercole ronald,95010317009280,"SVP, Quality",male,33560200.0
+69233.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171003,d'ercole ronald,95010317009681,"SVP, Quality",male,33627343.0
+53102.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171027,hayward deborah e,95010317010330,Please see Remarks,female,33627343.0
+101947.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171031,williams william joe,95010317010532,"SVP, Customer Business Mgmt",male,33627343.0
+70134.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171031,sterling joan,95010317010534,"SVP, Human Resources",female,33627343.0
+66102.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171031,d'ercole ronald,95010317010537,"SVP, Quality",male,33627343.0
+81094.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171031,bingaman mark,95010317010539,"SVP, Supply Chain",male,33627343.0
+60900.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171102,d'ercole ronald,95010317010739,"SVP, Quality",male,33627343.0
+91543.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171102,williams william joe,95010317010740,"SVP, Customer Business Mgmt",male,33627343.0
+64932.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171130,sterling joan,95010317011835,"SVP, Human Resources",female,33627343.0
+63500.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20171219,ibnale david t,95010317012546,,male,33627343.0
+55900.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20171228,d'ercole ronald,95010317012861,"SVP, Quality",male,33627343.0
+336028.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20180123,scholhamer james p,95010318000770,CEO,male,33664940.0
+221708.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180126,granger clarence l,95010318000894,,male,33664940.0
+317573.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20180201,scholhamer james p,95010318001364,CEO,male,33664940.0
+98168.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,williams william joe,95010318002105,"SVP, Customer Business Mgmt",male,33664940.0
+70432.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,sterling joan,95010318002104,"SVP, Human Resources",female,33664940.0
+106628.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,speirs david,95010318002103,"SVP, North America",male,33664940.0
+188849.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,savage sheri,95010318002102,"CFO, SVP Finance and Secretary",female,33664940.0
+59212.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,d'ercole ronald,95010318002096,"SVP, Quality",male,33664940.0
+56414.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,hayward deborah e,95010318002098,Please see Remarks,female,33664940.0
+46584.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,henderson michael roy,95010318002099,"SVP, Engineering",male,33664940.0
+116191.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,lev lavi,95010318002100,"President, Asia",male,33664940.0
+367573.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20180215,scholhamer james p,95010318002101,CEO,male,33664940.0
+84406.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180215,bingaman mark,95010318002095,"SVP, Supply Chain",male,33664940.0
+92433.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,williams william joe,95010318002647,"SVP, Customer Business Mgmt",male,33664940.0
+65785.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,sterling joan,95010318002646,"SVP, Human Resources",female,33664940.0
+100870.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,speirs david,95010318002645,"SVP, North America",male,33664940.0
+181358.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,savage sheri,95010318002644,"CFO, SVP Finance and Secretary",female,33664940.0
+112546.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,lev lavi,95010318002642,"President, Asia",male,33664940.0
+54819.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,d'ercole ronald,95010318002638,"SVP, Quality",male,33664940.0
+81969.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,bingaman mark,95010318002637,"SVP, Supply Chain",male,33664940.0
+342783.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20180228,scholhamer james p,95010318002643,CEO,male,33664940.0
+53980.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180228,hayward deborah e,95010318002639,Please see Remarks,female,33664940.0
+179284.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,savage sheri,95010318002780,"CFO, SVP Finance and Secretary",female,33664940.0
+80509.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,bingaman mark,95010318002775,"SVP, Supply Chain",male,33664940.0
+52762.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,hayward deborah e,95010318002776,Please see Remarks,female,33664940.0
+110502.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,lev lavi,95010318002777,"President, Asia",male,33664940.0
+46143.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,d'ercole ronald,95010318002784,"SVP, Quality",male,33664940.0
+90704.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,williams william joe,95010318002782,"SVP, Customer Business Mgmt",male,33664940.0
+64023.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,sterling joan,95010318002781,"SVP, Human Resources",female,33664940.0
+98796.0,200.0,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180301,speirs david,95010318002779,"SVP, North America",male,33664940.0
+76501.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180305,williams william joe,95010318002982,"SVP, Customer Business Mgmt",male,33664940.0
+45196.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180307,hayward deborah e,95010318003117,Please see Remarks,female,33664940.0
+201708.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180308,granger clarence l,95010318003174,,male,33664940.0
+55059.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,henderson michael roy,95010318004376,"SVP, Engineering",male,38721506.0
+109898.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,speirs david,95010318004413,"SVP, North America",male,38721506.0
+89251.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,williams william joe,95010318004384,"SVP, Customer Business Mgmt",male,38721506.0
+93259.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,bingaman mark,95010318004371,Please see Remarks,male,38721506.0
+57243.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,d'ercole ronald,95010318004372,"SVP, Global Quality",male,38721506.0
+56296.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,hayward deborah e,95010318004373,"SVP, Global Account Mgmt",female,38721506.0
+75123.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,sterling joan,95010318004382,"SVP, Global Human Resources",female,38721506.0
+123252.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,lev lavi,95010318004378,"President, Asia",male,38721506.0
+199134.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180403,savage sheri,95010318004379,"CFO, SVP Finance and Secretary",female,38721506.0
+379608.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20180403,scholhamer james p,95010318004380,CEO,male,38721506.0
+57290.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180417,bingaman mark,95010318004867,Please see Remarks,male,38721506.0
+56722.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180426,bingaman mark,95010318005194,Please see Remarks,male,38721506.0
+106862.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,speirs david,95010318005658,"SVP, North America",male,38724272.0
+72617.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,sterling joan,95010318005659,"SVP, Global Human Resources",female,38724272.0
+86200.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,williams william joe,95010318005661,"SVP, Customer Business Mgmt",male,38724272.0
+194554.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,savage sheri,95010318005657,"CFO, SVP Finance and Secretary",female,38724272.0
+363082.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20180501,scholhamer james p,95010318005656,CEO,male,38724272.0
+55247.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,hayward deborah e,95010318005654,"SVP, Global Account Mgmt",female,38724272.0
+53549.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,henderson michael roy,95010318005655,"SVP, Engineering",male,38724272.0
+55648.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,bingaman mark,95010318005652,Please see Remarks,male,38724272.0
+55717.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,d'ercole ronald,95010318005651,"SVP, Global Quality",male,38724272.0
+121098.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180501,lev lavi,95010318005653,"President, Asia",male,38724272.0
+80418.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180503,williams william joe,95010318005840,"SVP, Customer Business Mgmt",male,38724272.0
+24930.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180517,scherer barbara vaughn,95010318006254,,female,38724272.0
+30930.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180517,edman thomas t,95010318006247,,male,38724272.0
+207138.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180517,granger clarence l,95010318006248,,male,38724272.0
+68930.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180517,ibnale david t,95010318006249,,male,38724272.0
+22930.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180517,liggett emily m,95010318006250,,female,38724272.0
+38930.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180517,mezhvinsky leonid,95010318006251,,male,38724272.0
+56090.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180523,d'ercole ronald,95010318006467,"SVP, Global Quality",male,38724272.0
+47786.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180530,henderson michael roy,95010318006711,"SVP, Engineering",male,38724272.0
+5430.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180601,maddock ernest e,95010318006977,,male,38724272.0
+54886.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180607,bingaman mark,95010318007214,Please see Remarks,male,38724272.0
+105098.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180608,granger clarence l,95010318007265,,male,38724272.0
+173342.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180731,savage sheri,95010318009154,"CFO, SVP Finance and Secretary",female,38935221.0
+6430.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20180802,maddock ernest e,95010318009339,,male,38935221.0
+55283.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180927,d'ercole ronald,95010318011185,"SVP, Global Quality",male,38935221.0
+106055.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20180927,speirs david,95010318011186,"SVP, North America",male,38935221.0
+13810.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20181010,henderson michael roy,95010318011874,"SVP, Engineering",male,39001184.0
+52114.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20181030,d'ercole ronald,95010318012687,"SVP, Global Quality",male,39014181.0
+54481.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20181030,bingaman mark,95010318012686,Please see Remarks,male,39014181.0
+69736.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20181030,sterling joan,95010318012688,"SVP, Global Human Resources",female,39014181.0
+87051.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20181030,williams william joe,95010318012689,"SVP, Customer Business Mgmt",male,39014181.0
+345330.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20190201,scholhamer james p,95010319001470,CEO,male,39.1
+80975.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190228,williams william joe,95010319002612,Please see Remarks,male,39.1
+165491.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190228,savage sheri,95010319002610,"CFO, SVP Finance and Secretary",female,39.1
+64672.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190228,sterling joan,95010319002611,"SVP, Global Human Resources",female,39.1
+325137.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20190228,scholhamer james p,95010319002609,CEO,male,39.1
+135491.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190311,savage sheri,95010319003265,"CFO, SVP Finance and Secretary",female,39.1
+149782.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190312,savage sheri,95010319003300,"CFO, SVP Finance and Secretary",female,39.1
+351651.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20190312,scholhamer james p,95010319003301,CEO,male,39.1
+67334.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190312,sterling joan,95010319003302,"SVP, Global Human Resources",female,39.1
+84034.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190312,williams william joe,95010319003304,Please see Remarks,male,39.1
+344425.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20190402,scholhamer james p,95010319004509,CEO,male,39288237.0
+145948.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190402,savage sheri,95010319004510,"CFO, SVP Finance and Secretary",female,39288237.0
+65694.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190402,sterling joan,95010319004511,"SVP, Global Human Resources",female,39288237.0
+82260.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190402,williams william joe,95010319004512,Please see Remarks,male,39288237.0
+137091.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190423,savage sheri,95010319005033,"CFO, SVP Finance and Secretary",female,39288237.0
+132577.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190430,savage sheri,95010319005504,"CFO, SVP Finance and Secretary",female,39334377.0
+63225.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190430,sterling joan,95010319005507,"SVP, Human Resources",female,39334377.0
+79266.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190430,williams william joe,95010319005508,Please see Remarks,male,39334377.0
+75885.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190430,chinnasami vijayan s.,95010319005501,Chief Operating Officer,male,39334377.0
+332937.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20190430,scholhamer james p,95010319005503,CEO,male,39334377.0
+395594.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20190502,scholhamer james p,95010319005919,CEO,male,39334377.0
+163906.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190502,savage sheri,95010319005920,"CFO, SVP Finance and Secretary",female,39334377.0
+83902.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190502,sterling joan,95010319005921,"SVP, Human Resources",female,39334377.0
+106835.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190502,williams william joe,95010319005922,Please see Remarks,male,39334377.0
+155236.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190509,savage sheri,95010319006193,"CFO, SVP Finance and Secretary",female,39334377.0
+149098.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190509,granger clarence l,95010319006195,,male,39334377.0
+170098.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190513,granger clarence l,95010319006303,,male,39334377.0
+45518.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190521,sterling joan,95010319006639,"SVP, Human Resources",female,39334377.0
+34899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,scherer barbara vaughn,95010319006850,,female,39334377.0
+32899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,liggett emily m,95010319006854,,female,39334377.0
+78899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,ibnale david t,95010319006855,,male,39334377.0
+180067.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,granger clarence l,95010319006856,,male,39334377.0
+40899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,edman thomas t,95010319006857,,male,39334377.0
+48899.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,mezhvinsky leonid,95010319006852,,male,39334377.0
+16399.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20190528,maddock ernest e,95010319006853,,male,39334377.0
+35183.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190606,siu chris,95010319007895,Chief Accounting Officer & SVP,male,39334377.0
+138234.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190730,savage sheri,95010319009941,"CFO, SVP Finance and Secretary",female,39545331.0
+115660.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190809,savage sheri,95010319010704,"CFO, SVP Finance and Secretary",female,39545331.0
+98639.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20190918,williams william joe,95010319012465,Please see Remarks,male,39545331.0
+82001.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20191025,williams william joe,95010319014237,Please see Remarks,male,39805815.0
+17201.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20191025,cho paul yoonku,95010319014238,General Counsel and Secretary,male,39805815.0
+42637.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20191029,sterling joan,95010319014371,"SVP, Human Resources",female,39805815.0
+74523.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20191029,williams william joe,95010319014372,Please see Remarks,male,39805815.0
+26399.0,15000.0,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20191105,mezhvinsky leonid,95010319015160,,male,39805815.0
+24899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20191112,edman thomas t,95010319015359,,male,39805815.0
+56873.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20191213,williams william joe,95010319017200,Please see Remarks,male,39805815.0
+2256.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200203,seto jacqueline a.,95010320001835,,female,39900000.0
+458251.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20200221,scholhamer james p,95010320003099,CEO,male,39900000.0
+66063.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200221,williams william joe,95010320003102,Please see Remarks,male,39900000.0
+146989.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200221,savage sheri,95010320003100,CFO and SVP Finance,female,39900000.0
+49530.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200221,sterling joan,95010320003101,"SVP, Human Resources",female,39900000.0
+415488.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20200224,scholhamer james p,95010320003176,CEO,male,39900000.0
+162597.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200224,granger clarence l,95010320003177,,male,39900000.0
+145071.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200305,savage sheri,95010320004757,CFO and SVP Finance,female,39900000.0
+44077.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200309,sterling joan,95010320004947,"SVP, Human Resources",female,39900000.0
+141137.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200401,savage sheri,95010320006686,CFO and SVP Finance,female,39.9
+42512.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200401,sterling joan,95010320006689,"SVP, Human Resources",female,39.9
+64542.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200401,williams william joe,95010320006690,Please see Remarks,male,39.9
+408188.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20200401,scholhamer james p,95010320006685,CEO,male,39.9
+467127.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20200428,scholhamer james p,95010320008260,CEO,male,39900000.0
+173880.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,savage sheri,95010320008266,CFO and SVP Finance,female,39900000.0
+85170.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,williams william joe,95010320008267,Please see Remarks,male,39900000.0
+57246.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,sterling joan,95010320008268,"SVP, Human Resources",female,39900000.0
+29479.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,cho paul yoonku,95010320008269,General Counsel and Secretary,male,39900000.0
+69117.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,bentinck bill,95010320008270,"Pres, Semiconductor Svcs Bus.",male,39900000.0
+49917.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,siu chris,95010320008271,Chief Accounting Officer & SVP,male,39900000.0
+125000.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200428,chinnasami vijayan s.,95010320008272,Chief Operating Officer,male,39900000.0
+54716.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200430,sterling joan,95010320008675,"SVP, Human Resources",female,39900000.0
+455601.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20200430,scholhamer james p,95010320008671,CEO,male,39900000.0
+169300.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200430,savage sheri,95010320008672,CFO and SVP Finance,female,39900000.0
+80487.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200430,williams william joe,95010320008673,Please see Remarks,male,39900000.0
+162078.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200504,savage sheri,95010320009017,CFO and SVP Finance,female,39900000.0
+435352.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20200504,scholhamer james p,95010320009015,CEO,male,39900000.0
+69049.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200504,williams william joe,95010320009018,Please see Remarks,male,39900000.0
+51539.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200504,sterling joan,95010320009019,"SVP, Human Resources",female,39900000.0
+145796.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200512,savage sheri,95010320009408,CFO and SVP Finance,female,39900000.0
+60335.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200520,williams william joe,95010320009941,Please see Remarks,male,39900000.0
+45803.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200601,siu chris,95010320010761,Chief Accounting Officer & SVP,male,39900000.0
+19899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200601,edman thomas t,95010320010759,,male,39900000.0
+168898.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,granger clarence l,95010320011135,,male,39900000.0
+85200.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,ibnale david t,95010320011136,,male,39900000.0
+22700.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,maddock ernest e,95010320011138,,male,39900000.0
+41200.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,scherer barbara vaughn,95010320011139,,female,39900000.0
+39200.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,liggett emily m,95010320011140,,female,39900000.0
+8557.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,seto jacqueline a.,95010320011141,,female,39900000.0
+26200.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200604,edman thomas t,95010320011137,,male,39900000.0
+144144.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200730,savage sheri,95010320014553,CFO and SVP Finance,female,40400000.0
+156368.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20200803,granger clarence l,95010320015040,,male,40400000.0
+115000.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200805,chinnasami vijayan s.,95010320015355,Chief Operating Officer,male,40400000.0
+117359.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200805,savage sheri,95010320015356,CFO and SVP Finance,female,40400000.0
+38190.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200805,siu chris,95010320015357,Chief Accounting Officer & SVP,male,40400000.0
+37701.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20200805,sterling joan,95010320015358,"SVP, Human Resources",female,40400000.0
+27550.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20201027,cho paul yoonku,95010320020650,General Counsel and Secretary,male,40500000.0
+55370.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20201028,williams william joe,95010320020795,Please see Remarks,male,40500000.0
+121368.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20201203,granger clarence l,95010320023744,,male,40500000.0
+108438.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20201208,granger clarence l,95010320023986,,male,40500000.0
+104373.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210111,granger clarence l,95010321000334,,male,40600000.0
+88438.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210114,granger clarence l,95010321000537,,male,40600000.0
+62246.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,williams william joe,95010321002267,Please see Remarks,male,40600000.0
+42612.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,sterling joan,95010321002266,"SVP, Human Resources",female,40600000.0
+43101.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,siu chris,95010321002265,Chief Accounting Officer & SVP,male,40600000.0
+507388.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20210212,scholhamer james p,95010321002261,CEO,male,40600000.0
+31642.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,cho paul yoonku,95010321002258,General Counsel and Secretary,male,40600000.0
+131371.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,chinnasami vijayan s.,95010321002257,Chief Operating Officer,male,40600000.0
+75993.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,bentinck bill,95010321002256,"Pres, Semiconductor Svcs Bus.",male,40600000.0
+150102.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210212,savage sheri,95010321002264,CFO and SVP Finance,female,40600000.0
+496023.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20210401,scholhamer james p,95010321005086,CEO,male,40600000.0
+144461.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210401,savage sheri,95010321005087,CFO and SVP Finance,female,40600000.0
+41028.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210401,sterling joan,95010321005088,"SVP, Human Resources",female,40600000.0
+59290.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210401,williams william joe,95010321005089,"President, Products Business",male,40600000.0
+137015.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210405,savage sheri,95010321005238,CFO and SVP Finance,female,40600000.0
+53922.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210427,williams william joe,95010321006178,"President, Products Business",male,43800000.0
+61576.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210427,bentinck bill,95010321006179,"President, Services Business",male,43800000.0
+38764.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210427,sterling joan,95010321006177,"SVP, Human Resources",female,43800000.0
+125266.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210427,savage sheri,95010321006174,CFO and SVP Finance,female,43800000.0
+472524.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20210427,scholhamer james p,95010321006175,CEO,male,43800000.0
+28877.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210427,cho paul yoonku,95010321006173,General Counsel and Secretary,male,43800000.0
+40837.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210427,siu chris,95010321006176,Chief Accounting Officer & SVP,male,43800000.0
+147083.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,chinnasami vijayan s.,95010321006733,Chief Operating Officer,male,43800000.0
+46364.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,siu chris,95010321006732,Chief Accounting Officer & SVP,male,43800000.0
+493207.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20210504,scholhamer james p,95010321006731,CEO,male,43800000.0
+55773.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,williams william joe,95010321006734,"President, Products Business",male,43800000.0
+107440.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,savage sheri,95010321006729,CFO and SVP Finance,female,43800000.0
+33483.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,cho paul yoonku,95010321006728,General Counsel and Secretary,male,43800000.0
+68578.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,bentinck bill,95010321006727,"President, Services Business",male,43800000.0
+40548.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210504,sterling joan,95010321006730,"SVP, Human Resources",female,43800000.0
+14462.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210518,widmann amir,95010321007451,"President, Fluid Solutions",male,43800000.0
+28899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,edman thomas t,95010321007736,,male,43800000.0
+11256.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,seto jacqueline a.,95010321007737,,female,43800000.0
+91137.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,granger clarence l,95010321007738,,male,43800000.0
+43899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,scherer barbara vaughn,95010321007739,,female,43800000.0
+25399.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,maddock ernest e,95010321007741,,male,43800000.0
+87899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,ibnale david t,95010321007742,,male,43800000.0
+41899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210524,liggett emily m,95010321007743,,female,43800000.0
+41884.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210602,siu chris,95010321008337,Chief Accounting Officer & SVP,male,43800000.0
+40899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210607,scherer barbara vaughn,95010321008501,,female,43800000.0
+25199.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210607,edman thomas t,95010321008498,,male,43800000.0
+48751.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210607,williams william joe,95010321008504,"President, Products Business",male,43800000.0
+9568.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210607,seto jacqueline a.,95010321008502,,female,43800000.0
+38499.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210607,liggett emily m,95010321008500,,female,43800000.0
+61578.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210607,bentinck bill,95010321008497,"President, Services Business",male,43800000.0
+43802.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210709,williams william joe,95010321010310,"President, Products Business",male,44700000.0
+43175.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210802,williams william joe,95010321011747,"President, Products Business",male,44700000.0
+42557.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210804,williams william joe,95010321011928,"President, Products Business",male,44700000.0
+15958.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20210831,mckibben jeffrey l.,95010321013331,Chief Information Officer,male,44700000.0
+72899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20210903,ibnale david t,95010321013590,,male,44700000.0
+30501.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20211027,cho paul yoonku,95010321016709,General Counsel and Secretary,male,44900000.0
+39726.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20211028,williams william joe,95010321016862,"President, Products Business",male,44900000.0
+20811.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20211102,palfrey jamie j.,95010321017236,"SVP, Global Human Resources",female,44900000.0
+21254.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20211105,cho paul yoonku,95010321017461,General Counsel and Secretary,male,44900000.0
+31930.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20211110,liggett emily m,95010321017683,,female,44900000.0
+103355.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20211110,savage sheri,95010321017684,CFO and SVP Finance,female,44900000.0
+144783.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220106,chinnasami vijayan s.,95010322000276,Chief Operating Officer,male,44900000.0
+88137.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220128,granger clarence l,95010322001563,,male,44900000.0
+47899.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220304,ibnale david t,95010322004041,,male,44900000.0
+22350.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220329,palfrey jamie j.,95010322005426,"SVP, Global Human Resources",female,44900000.0
+22280.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220329,cho paul yoonku,95010322005425,General Counsel and Secretary,male,44900000.0
+109513.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220329,savage sheri,95010322005424,CFO and SVP Finance,female,44900000.0
+150941.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220329,chinnasami vijayan s.,95010322005423,Chief Operating Officer,male,44900000.0
+97865.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220426,savage sheri,95010322007065,CFO and SVP Finance,female,45000000.0
+386282.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20220426,scholhamer james p,95010322007064,CEO,male,45000000.0
+19501.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220426,cho paul yoonku,95010322007062,General Counsel and Secretary,male,45000000.0
+56867.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220426,bentinck bill,95010322007061,"President, Services Business",male,45000000.0
+20108.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220426,palfrey jamie j.,95010322007063,"SVP, Global Human Resources",female,45000000.0
+38120.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220426,siu chris,95010322007066,Chief Accounting Officer & SVP,male,45000000.0
+34370.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220426,williams william joe,95010322007067,"President, Products Business",male,45000000.0
+47126.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220428,bentinck bill,95010322007359,"President, Services Business",male,45000000.0
+24542.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,cho paul yoonku,95010322007874,General Counsel and Secretary,male,45100000.0
+28125.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,palfrey jamie j.,95010322007875,"SVP, Global Human Resources",female,45100000.0
+24272.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,mckibben jeffrey l.,95010322007876,Chief Information Officer,male,45100000.0
+53879.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,bentinck bill,95010322007879,"President, Services Business",male,45100000.0
+34061.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,williams william joe,95010322007882,"President, Products Business",male,45100000.0
+99913.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,savage sheri,95010322007877,CFO and SVP Finance,female,45100000.0
+395374.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20220503,scholhamer james p,95010322007881,CEO,male,45100000.0
+167570.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,chinnasami vijayan s.,95010322007878,Chief Operating Officer,male,45100000.0
+43653.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220503,siu chris,95010322007880,Chief Accounting Officer & SVP,male,45100000.0
+396050.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20220505,scholhamer james p,95010322008032,CEO,male,45100000.0
+27946.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220510,palfrey jamie j.,95010322008241,"SVP, Global Human Resources",female,45100000.0
+21006.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220513,cho paul yoonku,95010322008476,General Counsel and Secretary,male,45100000.0
+29100.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,maddock ernest e,95010322009020,,male,45100000.0
+28900.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,edman thomas t,95010322009022,,male,45100000.0
+13269.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,seto jacqueline a.,95010322009021,,female,45100000.0
+51600.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,ibnale david t,95010322009018,,male,45100000.0
+91838.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,granger clarence l,95010322009017,,male,45100000.0
+35631.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,liggett emily m,95010322009019,,female,45100000.0
+44600.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220523,scherer barbara vaughn,95010322009015,,female,45100000.0
+11809.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20220601,seto jacqueline a.,95010322009912,,female,45100000.0
+40106.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220602,siu chris,95010322010052,Chief Accounting Officer & SVP,male,45100000.0
+26105.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220627,harding brian e,95010322011321,Chief Accounting Officer,male,45100000.0
+22483.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220830,mckibben jeffrey l.,95010322014835,Chief Information Officer,male,45430976.0
+23798.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20220901,palfrey jamie j.,95010322015148,"SVP, Global Human Resources",female,45430976.0
+85099.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221102,savage sheri,95010322019106,CFO and SVP Finance,female,45400000.0
+22581.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221102,palfrey jamie j.,95010322019105,"SVP, Global Human Resources",female,45400000.0
+18221.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221102,cho paul yoonku,95010322019104,General Counsel and Secretary,male,45400000.0
+15272.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221107,cho paul yoonku,95010322019324,General Counsel and Secretary,male,45496642.0
+21430.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221115,palfrey jamie j.,95010322019722,"SVP, Global Human Resources",female,45496642.0
+162570.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221115,chinnasami vijayan s.,95010322019721,Chief Operating Officer,male,45496642.0
+22239.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20221221,mckibben jeffrey l.,95010322021267,Chief Information Officer,male,45496642.0
+77028.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230303,savage sheri,95010323003696,CFO,female,45200000.0
+76020.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230404,savage sheri,95010323005422,CFO,female,44800000.0
+15106.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230404,cho paul yoonku,95010323005418,General Counsel and Secretary,male,44800000.0
+20976.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230404,palfrey jamie j.,95010323005419,"SVP, Global Human Resources",female,44800000.0
+184342.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,chinnasami vijayan s.,95010323006769,Chief Operating Officer,male,44800000.0
+20012.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,cho paul yoonku,95010323006770,General Counsel and Secretary,male,44800000.0
+37577.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,cook christopher s,95010323006768,"President, Products Division",male,44800000.0
+81000.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,savage sheri,95010323006772,CFO,female,44800000.0
+32167.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,mckibben jeffrey l.,95010323006773,Chief Information Officer,male,44800000.0
+28646.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,palfrey jamie j.,95010323006774,"SVP, Global Human Resources",female,44800000.0
+41267.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,harding brian e,95010323006775,Chief Accounting Officer,male,44800000.0
+415631.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20230502,scholhamer james p,95010323006776,CEO,male,44800000.0
+60559.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230502,bentinck bill,95010323006771,"President, Services Business",male,44800000.0
+28475.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230509,palfrey jamie j.,95010323007057,"SVP, Global Human Resources",female,44803608.0
+17105.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,seto jacqueline a.,95010323007567,,female,44803608.0
+40927.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,liggett emily m,95010323007565,,female,44803608.0
+34396.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,maddock ernest e,95010323007564,,male,44803608.0
+97134.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,granger clarence l,95010323007563,,male,44803608.0
+49896.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,scherer barbara vaughn,95010323007566,,female,44803608.0
+34196.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,edman thomas t,95010323007562,,male,44803608.0
+56896.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230519,ibnale david t,95010323007561,,male,44803608.0
+37226.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20230530,liggett emily m,95010323008105,,female,44803608.0
+19836.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230531,cho paul yoonku,95010323008253,General Counsel and Secretary,male,44803608.0
+50775.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230613,bentinck bill,95010323008783,"President, Services Business",male,44803608.0
+38668.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230705,harding brian e,95010323009935,Chief Accounting Officer,male,44800000.0
+30328.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20230905,mckibben jeffrey l.,95010323013271,Chief Information Officer,male,44800000.0
+27902.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20231102,palfrey jamie j.,95010323015959,"SVP, Global Human Resources",female,44800000.0
+20970.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20231107,palfrey jamie j.,95010323016090,"SVP, Global Human Resources",female,44830779.0
+22408.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20231121,mckibben jeffrey l.,95010323016553,Chief Information Officer,male,44830779.0
+15147.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20231206,cho paul yoonku,95010323017266,General Counsel and Secretary,male,44830779.0
+22164.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240103,mckibben jeffrey l.,95010324000198,Chief Information Officer,male,44600000.0
+24285.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240206,mckibben jeffrey l.,95010324001829,Chief Information Officer,male,44600000.0
+20843.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240402,palfrey jamie j.,95010324004811,"SVP, Global Human Resources",female,44600000.0
+419738.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20240402,scholhamer james p,95010324004812,CEO,male,44600000.0
+81202.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240402,savage sheri,95010324004813,CFO,female,44600000.0
+15154.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240402,cho paul yoonku,95010324004814,General Counsel and Secretary,male,44600000.0
+51553.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240402,bentinck bill,95010324004815,"President, Services Business",male,44600000.0
+32915.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240415,cook christopher s,95010324005329,"President, Products Division",male,44600000.0
+31216.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,palfrey jamie j.,95010324006078,"SVP, Global Human Resources",female,44600000.0
+48475.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,cook christopher s,95010324006079,"President, Products Division",male,44600000.0
+464136.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20240430,scholhamer james p,95010324006074,CEO,male,44600000.0
+60197.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,bentinck bill,95010324006075,"President, Services Business",male,44600000.0
+98491.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,savage sheri,95010324006076,CFO,female,44600000.0
+23798.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,cho paul yoonku,95010324006077,General Counsel and Secretary,male,44600000.0
+32353.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,mckibben jeffrey l.,95010324006080,Chief Information Officer,male,44600000.0
+49905.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240430,harding brian e,95010324006081,Chief Accounting Officer,male,44600000.0
+47517.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,harding brian e,95010324006312,Chief Accounting Officer,male,44600000.0
+30071.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,mckibben jeffrey l.,95010324006311,Chief Information Officer,male,44600000.0
+29581.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,palfrey jamie j.,95010324006310,"SVP, Global Human Resources",female,44600000.0
+90363.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,savage sheri,95010324006309,CFO,female,44600000.0
+445061.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20240502,scholhamer james p,95010324006308,CEO,male,44600000.0
+43714.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,cook christopher s,95010324006313,"President, Products Division",male,44600000.0
+57201.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,bentinck bill,95010324006315,"President, Services Business",male,44600000.0
+20615.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240502,cho paul yoonku,95010324006314,General Counsel and Secretary,male,44600000.0
+29437.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240508,palfrey jamie j.,95010324006482,"SVP, Global Human Resources",female,44905933.0
+35128.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240513,cook christopher s,95010324006619,"President, Products Division",male,44905933.0
+92134.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240513,granger clarence l,95010324006620,,male,44905933.0
+23693.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240513,palfrey jamie j.,95010324006621,"SVP, Global Human Resources",female,44905933.0
+37415.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240513,harding brian e,95010324006618,Chief Accounting Officer,male,44905933.0
+24125.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240517,mckibben jeffrey l.,95010324006844,Chief Information Officer,male,44905933.0
+17166.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240521,cho paul yoonku,95010324006984,General Counsel and Secretary,male,44905933.0
+20752.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,seto jacqueline a.,95010324007138,,female,44905933.0
+53543.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,scherer barbara vaughn,95010324007140,,female,44905933.0
+38043.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,maddock ernest e,95010324007141,,male,44905933.0
+40873.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,liggett emily m,95010324007142,,female,44905933.0
+60543.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,ibnale david t,95010324007143,,male,44905933.0
+95781.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,granger clarence l,95010324007144,,male,44905933.0
+37843.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240524,edman thomas t,95010324007145,,male,44905933.0
+35577.0,,1275014,"ultra clean holdings, inc.",1,0,0.0,0.0,20240529,liggett emily m,95010324007268,,female,44905933.0
+72336.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240611,savage sheri,95010324008211,CFO,female,44905933.0
+33619.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240702,harding brian e,95010324009603,Chief Accounting Officer,male,45000000.0
+26791.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240702,bajwa harjinder,95010324009602,Chief Operating Officer,male,45000000.0
+62654.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240703,savage sheri,95010324009666,CFO,female,45000000.0
+52575.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240710,savage sheri,95010324009848,CFO,female,45000000.0
+418453.0,,1275014,"ultra clean holdings, inc.",1,1,0.0,0.0,20240711,scholhamer james p,95010324009926,CEO,male,45000000.0
+49238.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240715,savage sheri,95010324010036,CFO,female,45000000.0
+22227.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20240904,mckibben jeffrey l.,95010324013196,Chief Information Officer,male,45030636.0
+23106.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20241104,palfrey jamie j.,95010324015950,"SVP, Global Human Resources",female,45060067.0
+29291.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20241104,bajwa harjinder,95010324015949,Chief Operating Officer,male,45060067.0
+18805.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20241112,mckibben jeffrey l.,95010324016205,Chief Information Officer,male,45060067.0
+44291.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20241115,bajwa harjinder,95010324016396,Chief Operating Officer,male,45060067.0
+54291.0,,1275014,"ultra clean holdings, inc.",0,1,0.0,0.0,20241119,bajwa harjinder,95010324016544,Chief Operating Officer,male,45060067.0

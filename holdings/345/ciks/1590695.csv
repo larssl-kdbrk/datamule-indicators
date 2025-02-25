@@ -1,30 +1,88 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-5000.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,0.0,1.0,20140923,vazquez luz,107704814000222,,female,4400000.0
-15225854.0,33542956.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20141117,van andel david l,114420414069026,,male,220000000.0
-10550819.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20141120,"capstone financial group, inc.",107704814000285,,male,220000000.0
-16610898.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150326,"capstone financial group, inc.",152013815000122,,male,220000000.0
-16610898.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150326,pastor darin richard,152013815000120,,female,220000000.0
-15874056.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150330,pastor darin richard,152013815000133,,female,220000000.0
-15874056.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150330,"capstone financial group, inc.",152013815000134,,male,220000000.0
-0.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,1,0.0,0.0,20150331,wolfson glenn c,114420415020060,See Remarks,male,220000000.0
-15979319.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150407,pastor darin richard,152013815000142,,female,220000000.0
-15979319.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150407,"capstone financial group, inc.",152013815000143,,male,220000000.0
-16242478.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150410,pastor darin richard,152013815000165,,female,220000000.0
-16242478.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150410,"capstone financial group, inc.",152013815000167,,male,220000000.0
-16051824.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150504,"capstone financial group, inc.",152013815000196,,male,220000000.0
-16051824.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150504,pastor darin richard,152013815000197,,female,220000000.0
-15972479.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150508,pastor darin richard,152013815000202,,female,220000000.0
-15972479.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150508,"capstone financial group, inc.",152013815000201,,male,220000000.0
-130212237.0,0.0,1590695,"twinlab consolidated holdings, inc.",1,1,0.0,0.0,20150513,tolworthy thomas a,114420415030217,CEO & President,male,220000000.0
-15709322.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150518,"capstone financial group, inc.",152013815000226,,male,220000000.0
-15709322.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150518,pastor darin richard,152013815000225,,female,220000000.0
-14452745.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150601,pastor darin richard,152013815000269,,female,220000000.0
-14452745.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150601,"capstone financial group, inc.",152013815000268,,male,220000000.0
-29879474.0,0.0,1590695,"twinlab consolidated holdings, inc.",1,0,0.0,0.0,20150604,nicholson william w,114420415035487,,male,220000000.0
-29879474.0,0.0,1590695,"twinlab consolidated holdings, inc.",1,0,1.0,0.0,20150604,van andel david l,114420415035482,,male,220000000.0
-29879474.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150604,little harbor llc,114420415035484,,male,220000000.0
-1318672.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150617,"capstone financial group, inc.",152013815000296,,male,220000000.0
-1318672.0,0.0,1590695,"twinlab consolidated holdings, inc.",0,0,1.0,0.0,20150617,pastor darin richard,152013815000297,,female,220000000.0
-121764867.0,0.0,1590695,"twinlab consolidated holdings, inc.",1,1,1.0,0.0,20150804,tolworthy thomas a,114420415046038,CEO & President,male,220000000.0
-31502340.0,0.0,1590695,"twinlab consolidated holdings, inc.",1,0,1.0,0.0,20150911,van andel david l,114420415054607,,male,219505594.0
-108777855.0,0.0,1590695,"twinlab consolidated holdings, inc.",1,1,1.0,0.0,20150929,tolworthy thomas a,114420415057182,CEO & President,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,0.0,1.0,20140923,vazquez luz,107704814000222,,female,4400000.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20141117,van andel david l,114420414069026,,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20141120,"capstone financial group, inc.",107704814000285,,male,220000000.0
+16610898.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150326,"capstone financial group, inc.",152013815000122,,male,220000000.0
+16610898.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150326,pastor darin richard,152013815000120,,female,220000000.0
+15874056.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150330,pastor darin richard,152013815000133,,female,220000000.0
+15874056.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150330,"capstone financial group, inc.",152013815000134,,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",0,1.0,0.0,0.0,20150331,wolfson glenn c,114420415020060,See Remarks,male,220000000.0
+15979319.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150407,pastor darin richard,152013815000142,,female,220000000.0
+15979319.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150407,"capstone financial group, inc.",152013815000143,,male,220000000.0
+16242478.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150410,pastor darin richard,152013815000165,,female,220000000.0
+16242478.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150410,"capstone financial group, inc.",152013815000167,,male,220000000.0
+16051824.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150504,"capstone financial group, inc.",152013815000196,,male,220000000.0
+16051824.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150504,pastor darin richard,152013815000197,,female,220000000.0
+15972479.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150508,"capstone financial group, inc.",152013815000201,,male,220000000.0
+15972479.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150508,pastor darin richard,152013815000202,,female,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,0.0,0.0,20150513,tolworthy thomas a,114420415030217,CEO & President,male,220000000.0
+15709322.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150518,pastor darin richard,152013815000225,,female,220000000.0
+15709322.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150518,"capstone financial group, inc.",152013815000226,,male,220000000.0
+14452745.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150601,"capstone financial group, inc.",152013815000268,,male,220000000.0
+14452745.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150601,pastor darin richard,152013815000269,,female,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,1.0,0.0,20150604,van andel david l,114420415035482,,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,0.0,0.0,20150604,nicholson william w,114420415035487,,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150604,little harbor llc,114420415035484,,male,220000000.0
+1318672.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150617,pastor darin richard,152013815000297,,female,220000000.0
+1318672.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20150617,"capstone financial group, inc.",152013815000296,,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,1.0,0.0,20150804,tolworthy thomas a,114420415046038,CEO & President,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,1.0,0.0,20150804,tolworthy thomas a,114420415046038,CEO & President,male,220000000.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,1.0,0.0,20150911,van andel david l,114420415054607,,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,1.0,0.0,20150911,van andel david l,114420415054607,,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,1.0,0.0,20150929,tolworthy thomas a,114420415057182,CEO & President,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,1.0,0.0,20150929,tolworthy thomas a,114420415057182,CEO & President,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151002,little harbor llc,114420415057821,,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,1.0,0.0,20151002,van andel david l,114420415057967,,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,1.0,0.0,20151007,van andel david l,114420415058416,,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,1.0,0.0,20151007,tolworthy thomas a,114420415058423,CEO & President,male,219505594.0
+88711241.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151007,golisano b thomas,163462615000009,,male,219505594.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,1.0,0.0,20151023,tolworthy thomas a,114420415060576,CEO & President,male,219505594.0
+14143679.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000625,,female,295704136.0
+13391734.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000613,,male,295704136.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000612,,male,295704136.0
+13689102.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000611,,male,295704136.0
+13721997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000610,,male,295704136.0
+14103576.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000609,,male,295704136.0
+14501576.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000608,,male,295704136.0
+14369997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000607,,male,295704136.0
+14419997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000606,,male,295704136.0
+14499997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000605,,male,295704136.0
+14143679.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000602,,male,295704136.0
+14012101.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000603,,male,295704136.0
+13385155.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000614,,male,295704136.0
+14183150.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000601,,male,295704136.0
+14277885.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000600,,male,295704136.0
+14347621.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000599,,male,295704136.0
+14360779.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000598,,male,295704136.0
+14377884.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000597,,male,295704136.0
+14443673.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000596,,male,295704136.0
+13985786.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000604,,male,295704136.0
+13253576.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000615,,male,295704136.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,"capstone financial group, inc.",152013815000616,,male,295704136.0
+14443673.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000619,,female,295704136.0
+14012101.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000626,,female,295704136.0
+13985786.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000627,,female,295704136.0
+14499997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000628,,female,295704136.0
+14419997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000629,,female,295704136.0
+14369997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000630,,female,295704136.0
+14501576.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000631,,female,295704136.0
+14103576.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000632,,female,295704136.0
+13721997.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000633,,female,295704136.0
+13689102.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000634,,female,295704136.0
+14277885.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000623,,female,295704136.0
+13391734.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000636,,female,295704136.0
+14183150.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000624,,female,295704136.0
+13385155.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000637,,female,295704136.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000639,,female,295704136.0
+14347621.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000622,,female,295704136.0
+14360779.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000621,,female,295704136.0
+14377884.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000620,,female,295704136.0
+13253576.0,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000638,,female,295704136.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20151224,pastor darin richard,152013815000635,,female,295704136.0
+,,1590695,"twinlab consolidated holdings, inc.",0,1.0,0.0,0.0,20160105,wolfson glenn c,114420416074154,See Remarks,male,382210052.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20160201,"great harbor capital, llc",114420416078171,,male,382210052.0
+,,1590695,"twinlab consolidated holdings, inc.",1,0.0,1.0,0.0,20160201,van andel david l,114420416078184,,male,382210052.0
+,,1590695,"twinlab consolidated holdings, inc.",0,0.0,1.0,0.0,20160408,tolworthy thomas a,114420416093424,,male,382210052.0
+,,1590695,"twinlab consolidated holdings, inc.",1,1.0,0.0,0.0,20161013,whittel naomi,114420416127961,Chief Executive Officer,female,250806152.0
+,,1590695,"twinlab consolidated holdings, inc.",1,,,,20170309,still david a,143774917004115,,male,250671933.0
+,,1590695,"twinlab consolidated holdings, inc.",1,,,,20170309,bugge mark,143774917004116,,male,250671933.0

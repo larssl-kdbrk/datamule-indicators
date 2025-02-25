@@ -1,314 +1,743 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-125245.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100105,booth daniel j,112760210000481,Chief Operating Officer,male,88266000.0
-38725.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100105,crabill r lee,112760210000485,Senior Vice President,male,88266000.0
-232312.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20100105,pickett c taylor,112760210000491,Chief Executive Officer,male,88266000.0
-6832.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100105,ritz michael,112760210000503,Chief Accounting Officer,male,88266000.0
-131362.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100105,stephenson robert o,112760210000508,Chief Financial Officer,male,88266000.0
-29321.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100120,lowenthal edward,112760210001814,,male,88266000.0
-623331.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100120,korman bernard j,112760210001813,,male,88266000.0
-29304.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100120,plavin stephen d,112760210001815,,male,88266000.0
-41043.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100120,franke thomas f,112760210001811,,male,88266000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100120,kloosterman harold j,112760210001812,,male,88266000.0
-41711.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100218,franke thomas f,112760210005427,,male,88266000.0
-29644.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100219,plavin stephen d,112760210005504,,male,88266000.0
-29661.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100219,lowenthal edward,112760210005516,,male,88266000.0
-623671.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100219,korman bernard j,112760210005519,,male,88266000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100219,kloosterman harold j,112760210005559,,male,88266000.0
-42051.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100219,franke thomas f,112760210005566,,male,88266000.0
-3000.0,1000.0,888491,omega healthcare investors inc,1.0,,,,20100308,franke thomas f,112760210007948,,male,88266000.0
-9245.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100330,ritz michael,112760210009733,Chief Accounting Officer,male,88266000.0
-138118.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100330,stephenson robert o,112760210009736,Chief Financial Officer,male,88266000.0
-248654.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20100330,pickett c taylor,112760210009727,Chief Executive Officer,male,88266000.0
-135034.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100330,booth daniel j,112760210009721,Chief Operating Officer,male,88266000.0
-144.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100330,ritz michael,112760210009715,Chief Accounting Officer,male,88266000.0
-44757.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100330,crabill r lee,112760210009724,Senior Vice President,male,88266000.0
-43121.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100430,franke thomas f,112760210012622,,male,88266000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100430,kloosterman harold j,112760210012626,,male,88266000.0
-623841.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100430,korman bernard j,112760210012627,,male,88266000.0
-30731.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100430,lowenthal edward,112760210012630,,male,88266000.0
-30714.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100430,plavin stephen d,112760210012631,,male,88266000.0
-44714.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100517,plavin stephen d,112760210014418,,male,88266000.0
-43602.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100519,franke thomas f,112760210014773,,male,88266000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100519,kloosterman harold j,112760210014779,,male,88266000.0
-624322.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100519,korman bernard j,112760210014785,,male,88266000.0
-31212.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100519,lowenthal edward,112760210014792,,male,88266000.0
-45195.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100519,plavin stephen d,112760210014794,,male,88266000.0
-39771.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100602,kloosterman harold j,112760210016147,,male,88266000.0
-45639.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100819,plavin stephen d,112760210021702,,male,94490000.0
-31656.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100819,lowenthal edward,112760210021700,,male,94490000.0
-624766.0,0.0,888491,omega healthcare investors inc,1.0,,,,20100819,korman bernard j,112760210021699,,male,94490000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100819,kloosterman harold j,112760210021698,,male,94490000.0
+125245.0,,888491,omega healthcare investors inc,,1.0,,,20100105,booth daniel j,112760210000481,Chief Operating Officer,male,
+38725.0,,888491,omega healthcare investors inc,,1.0,,,20100105,crabill r lee,112760210000485,Senior Vice President,male,
+232312.0,,888491,omega healthcare investors inc,1.0,1.0,,,20100105,pickett c taylor,112760210000491,Chief Executive Officer,male,
+6832.0,,888491,omega healthcare investors inc,,1.0,,,20100105,ritz michael,112760210000503,Chief Accounting Officer,male,
+131362.0,,888491,omega healthcare investors inc,,1.0,,,20100105,stephenson robert o,112760210000508,Chief Financial Officer,male,
+41043.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100120,franke thomas f,112760210001811,,male,
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20100120,kloosterman harold j,112760210001812,,male,
+623331.0,,888491,omega healthcare investors inc,1.0,,,,20100120,korman bernard j,112760210001813,,male,
+29321.0,,888491,omega healthcare investors inc,1.0,,,,20100120,lowenthal edward,112760210001814,,male,
+29304.0,,888491,omega healthcare investors inc,1.0,,,,20100120,plavin stephen d,112760210001815,,male,
+41711.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100218,franke thomas f,112760210005427,,male,
+42051.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100219,franke thomas f,112760210005566,,male,
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20100219,kloosterman harold j,112760210005559,,male,
+623671.0,,888491,omega healthcare investors inc,1.0,,,,20100219,korman bernard j,112760210005519,,male,
+29661.0,,888491,omega healthcare investors inc,1.0,,,,20100219,lowenthal edward,112760210005516,,male,
+29644.0,,888491,omega healthcare investors inc,1.0,,,,20100219,plavin stephen d,112760210005504,,male,
+,,888491,omega healthcare investors inc,1.0,,,,20100308,franke thomas f,112760210007948,,male,
+135034.0,,888491,omega healthcare investors inc,,1.0,,,20100330,booth daniel j,112760210009721,Chief Operating Officer,male,
+44757.0,,888491,omega healthcare investors inc,,1.0,,,20100330,crabill r lee,112760210009724,Senior Vice President,male,
+248654.0,,888491,omega healthcare investors inc,1.0,1.0,,,20100330,pickett c taylor,112760210009727,Chief Executive Officer,male,
+,,888491,omega healthcare investors inc,,1.0,,,20100330,ritz michael,112760210009715,Chief Accounting Officer,male,
+138118.0,,888491,omega healthcare investors inc,,1.0,,,20100330,stephenson robert o,112760210009736,Chief Financial Officer,male,
+9245.0,,888491,omega healthcare investors inc,,1.0,,,20100330,ritz michael,112760210009733,Chief Accounting Officer,male,
+30731.0,,888491,omega healthcare investors inc,1.0,,,,20100430,lowenthal edward,112760210012630,,male,
+43121.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100430,franke thomas f,112760210012622,,male,
+30714.0,,888491,omega healthcare investors inc,1.0,,,,20100430,plavin stephen d,112760210012631,,male,
+623841.0,,888491,omega healthcare investors inc,1.0,,,,20100430,korman bernard j,112760210012627,,male,
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20100430,kloosterman harold j,112760210012626,,male,
+44714.0,,888491,omega healthcare investors inc,1.0,,,,20100517,plavin stephen d,112760210014418,,male,
+43602.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100519,franke thomas f,112760210014773,,male,
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20100519,kloosterman harold j,112760210014779,,male,
+624322.0,,888491,omega healthcare investors inc,1.0,,,,20100519,korman bernard j,112760210014785,,male,
+31212.0,,888491,omega healthcare investors inc,1.0,,,,20100519,lowenthal edward,112760210014792,,male,
+45195.0,,888491,omega healthcare investors inc,1.0,,,,20100519,plavin stephen d,112760210014794,,male,
+39771.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20100602,kloosterman harold j,112760210016147,,male,
 44046.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20100819,franke thomas f,112760210021697,,male,94490000.0
-133118.0,0.0,888491,omega healthcare investors inc,,1.0,,,20100824,stephenson robert o,112760210021865,Chief Financial Officer,male,94490000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20100819,kloosterman harold j,112760210021698,,male,94490000.0
+624766.0,,888491,omega healthcare investors inc,1.0,,,,20100819,korman bernard j,112760210021699,,male,94490000.0
+31656.0,,888491,omega healthcare investors inc,1.0,,,,20100819,lowenthal edward,112760210021700,,male,94490000.0
+45639.0,,888491,omega healthcare investors inc,1.0,,,,20100819,plavin stephen d,112760210021702,,male,94490000.0
+133118.0,,888491,omega healthcare investors inc,,1.0,,,20100824,stephenson robert o,112760210021865,Chief Financial Officer,male,94490000.0
+625200.0,,888491,omega healthcare investors inc,1.0,,,,20101207,korman bernard j,112760210029859,,male,98236000.0
+32090.0,,888491,omega healthcare investors inc,1.0,,,,20101207,lowenthal edward,112760210029861,,male,98236000.0
+46073.0,,888491,omega healthcare investors inc,1.0,,,,20101207,plavin stephen d,112760210029862,,male,98236000.0
 44480.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20101207,franke thomas f,112760210029851,,male,98236000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20101207,kloosterman harold j,112760210029852,,male,98236000.0
-625200.0,0.0,888491,omega healthcare investors inc,1.0,,,,20101207,korman bernard j,112760210029859,,male,98236000.0
-32090.0,0.0,888491,omega healthcare investors inc,1.0,,,,20101207,lowenthal edward,112760210029861,,male,98236000.0
-46073.0,0.0,888491,omega healthcare investors inc,1.0,,,,20101207,plavin stephen d,112760210029862,,male,98236000.0
-131943.0,0.0,888491,omega healthcare investors inc,,1.0,,,20101230,stephenson robert o,112760210031730,Chief Financial Officer,male,98236000.0
-43757.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110103,crabill r lee,112760211000045,Senior Vice President,male,99233000.0
-447412.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20110104,pickett c taylor,112760211000606,Chief Executive Officer,male,99233000.0
-247839.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110104,booth daniel j,112760211000653,Chief Operating Officer,male,99233000.0
-105933.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110104,crabill r lee,112760211000695,Senior Vice President,male,99233000.0
-26398.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110104,ritz michael,112760211000730,Chief Accounting Officer,male,99233000.0
-216182.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110104,stephenson robert o,112760211000737,Chief Financial Officer,male,99233000.0
-49073.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110118,plavin stephen d,112760211001771,,male,99233000.0
-628700.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110118,korman bernard j,112760211001765,,male,99233000.0
-35090.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110118,lowenthal edward,112760211001769,,male,99233000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20101207,kloosterman harold j,112760210029852,,male,98236000.0
+131943.0,,888491,omega healthcare investors inc,,1.0,,,20101230,stephenson robert o,112760210031730,Chief Financial Officer,male,98236000.0
+43757.0,,888491,omega healthcare investors inc,,1.0,,,20110103,crabill r lee,112760211000045,Senior Vice President,male,99233000.0
+447412.0,,888491,omega healthcare investors inc,1.0,1.0,,,20110104,pickett c taylor,112760211000606,Chief Executive Officer,male,99233000.0
+247839.0,,888491,omega healthcare investors inc,,1.0,,,20110104,booth daniel j,112760211000653,Chief Operating Officer,male,99233000.0
+105933.0,,888491,omega healthcare investors inc,,1.0,,,20110104,crabill r lee,112760211000695,Senior Vice President,male,99233000.0
+26398.0,,888491,omega healthcare investors inc,,1.0,,,20110104,ritz michael,112760211000730,Chief Accounting Officer,male,99233000.0
+216182.0,,888491,omega healthcare investors inc,,1.0,,,20110104,stephenson robert o,112760211000737,Chief Financial Officer,male,99233000.0
+49073.0,,888491,omega healthcare investors inc,1.0,,,,20110118,plavin stephen d,112760211001771,,male,99233000.0
 47480.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20110118,franke thomas f,112760211001752,,male,99233000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20110118,kloosterman harold j,112760211001760,,male,99233000.0
-1900.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110125,lowenthal edward,112760211002220,,male,99233000.0
+628700.0,,888491,omega healthcare investors inc,1.0,,,,20110118,korman bernard j,112760211001765,,male,99233000.0
+35090.0,,888491,omega healthcare investors inc,1.0,,,,20110118,lowenthal edward,112760211001769,,male,99233000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20110118,kloosterman harold j,112760211001760,,male,99233000.0
+1900.0,,888491,omega healthcare investors inc,1.0,,,,20110125,lowenthal edward,112760211002220,,male,99233000.0
 47899.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20110217,franke thomas f,112760211006001,,male,99233000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20110217,kloosterman harold j,112760211006005,,male,99233000.0
-629119.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110217,korman bernard j,112760211006009,,male,99233000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20110217,kloosterman harold j,112760211006005,,male,99233000.0
+629119.0,,888491,omega healthcare investors inc,1.0,,,,20110217,korman bernard j,112760211006009,,male,99233000.0
 33587.0,1922.0,888491,omega healthcare investors inc,1.0,,,,20110217,lowenthal edward,112760211006020,,male,99233000.0
-49492.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110217,plavin stephen d,112760211006029,,male,99233000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110228,lowenthal edward,112760211007831,,male,99233000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110308,ritz michael,112760211009363,Chief Accounting Officer,male,99233000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110308,franke thomas f,112760211009344,,male,99233000.0
-95933.0,0.0,888491,omega healthcare investors inc,,1.0,,,20110314,crabill r lee,112760211010033,Senior Vice President,male,99233000.0
-5574.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110511,korman bernard j,112760211015743,,male,101614459.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20110517,kloosterman harold j,112760211016596,,male,101614459.0
-629565.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20110517,korman bernard j,112760211016599,,male,101614459.0
-32033.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110517,lowenthal edward,112760211016604,,male,101614459.0
-49938.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110517,plavin stephen d,112760211016609,,male,101614459.0
+49492.0,,888491,omega healthcare investors inc,1.0,,,,20110217,plavin stephen d,112760211006029,,male,99233000.0
+0.0,,888491,omega healthcare investors inc,1.0,,,,20110228,lowenthal edward,112760211007831,,male,99233000.0
+,,888491,omega healthcare investors inc,1.0,,,,20110308,franke thomas f,112760211009344,,male,99233000.0
+,,888491,omega healthcare investors inc,,1.0,,,20110308,ritz michael,112760211009363,Chief Accounting Officer,male,99233000.0
+95933.0,,888491,omega healthcare investors inc,,1.0,,,20110314,crabill r lee,112760211010033,Senior Vice President,male,99233000.0
+5574.0,,888491,omega healthcare investors inc,1.0,,,,20110511,korman bernard j,112760211015743,,male,101614459.0
 48345.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20110517,franke thomas f,112760211016624,,male,101614459.0
-50466.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110824,plavin stephen d,112760211024187,,male,103097397.0
-630093.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20110824,korman bernard j,112760211024182,,male,103097397.0
-32561.0,0.0,888491,omega healthcare investors inc,1.0,,,,20110824,lowenthal edward,112760211024185,,male,103097397.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20110824,kloosterman harold j,112760211024175,,male,103097397.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20110517,kloosterman harold j,112760211016596,,male,101614459.0
+32033.0,,888491,omega healthcare investors inc,1.0,,,,20110517,lowenthal edward,112760211016604,,male,101614459.0
+629565.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20110517,korman bernard j,112760211016599,,male,101614459.0
+49938.0,,888491,omega healthcare investors inc,1.0,,,,20110517,plavin stephen d,112760211016609,,male,101614459.0
 48873.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20110824,franke thomas f,112760211024173,,male,103097397.0
-49408.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20111116,franke thomas f,112760211029746,,male,103166383.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20111116,kloosterman harold j,112760211029749,,male,103166383.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20110824,kloosterman harold j,112760211024175,,male,103097397.0
+630093.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20110824,korman bernard j,112760211024182,,male,103097397.0
+32561.0,,888491,omega healthcare investors inc,1.0,,,,20110824,lowenthal edward,112760211024185,,male,103097397.0
+50466.0,,888491,omega healthcare investors inc,1.0,,,,20110824,plavin stephen d,112760211024187,,male,103097397.0
+51001.0,,888491,omega healthcare investors inc,1.0,,,,20111116,plavin stephen d,112760211029754,,male,103166383.0
+33096.0,,888491,omega healthcare investors inc,1.0,,,,20111116,lowenthal edward,112760211029753,,male,103166383.0
 630628.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20111116,korman bernard j,112760211029750,,male,103166383.0
-33096.0,0.0,888491,omega healthcare investors inc,1.0,,,,20111116,lowenthal edward,112760211029753,,male,103166383.0
-51001.0,0.0,888491,omega healthcare investors inc,1.0,,,,20111116,plavin stephen d,112760211029754,,male,103166383.0
-54001.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120120,plavin stephen d,112760212002115,,male,103410000.0
-36096.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120120,lowenthal edward,112760212002114,,male,103410000.0
-634128.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20120120,korman bernard j,112760212002113,,male,103410000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20120120,kloosterman harold j,112760212002111,,male,103410000.0
+49408.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20111116,franke thomas f,112760211029746,,male,103166383.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20111116,kloosterman harold j,112760211029749,,male,103166383.0
 52408.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20120120,franke thomas f,112760212002101,,male,103410000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20120120,kloosterman harold j,112760212002111,,male,103410000.0
+634128.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20120120,korman bernard j,112760212002113,,male,103410000.0
+36096.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120120,lowenthal edward,112760212002114,,male,103410000.0
+54001.0,,888491,omega healthcare investors inc,1.0,,,,20120120,plavin stephen d,112760212002115,,male,103410000.0
+36532.0,,888491,omega healthcare investors inc,1.0,,,,20120216,lowenthal edward,112760212006247,,male,103410000.0
+54437.0,,888491,omega healthcare investors inc,1.0,,,,20120216,plavin stephen d,112760212006249,,male,103410000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20120216,kloosterman harold j,112760212006241,,male,103410000.0
 52844.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20120216,franke thomas f,112760212006240,,male,103410000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20120216,kloosterman harold j,112760212006241,,male,103410000.0
 634564.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20120216,korman bernard j,112760212006242,,male,103410000.0
-36532.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120216,lowenthal edward,112760212006247,,male,103410000.0
-54437.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120216,plavin stephen d,112760212006249,,male,103410000.0
-54876.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120516,plavin stephen d,112760212016975,,male,105802180.0
-36971.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120516,lowenthal edward,112760212016972,,male,105802180.0
-635003.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20120516,korman bernard j,112760212016971,,male,105802180.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20120516,kloosterman harold j,112760212016969,,male,105802180.0
 53283.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20120516,franke thomas f,112760212016968,,male,105802180.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20120516,kloosterman harold j,112760212016969,,male,105802180.0
+635003.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20120516,korman bernard j,112760212016971,,male,105802180.0
+36971.0,,888491,omega healthcare investors inc,1.0,,,,20120516,lowenthal edward,112760212016972,,male,105802180.0
+54876.0,,888491,omega healthcare investors inc,1.0,,,,20120516,plavin stephen d,112760212016975,,male,105802180.0
 54082.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20120820,franke thomas f,112760212024850,,male,108675027.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20120820,kloosterman harold j,112760212024858,,male,108675027.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20120820,kloosterman harold j,112760212024858,,male,108675027.0
 635802.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20120820,korman bernard j,112760212024860,,male,108675027.0
-37770.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120820,lowenthal edward,112760212024861,,male,108675027.0
-55675.0,0.0,888491,omega healthcare investors inc,1.0,,,,20120820,plavin stephen d,112760212024862,,male,108675027.0
-34416.0,0.0,888491,omega healthcare investors inc,1.0,,,,20121107,lowenthal edward,112760212029970,,male,112049247.0
-56256.0,0.0,888491,omega healthcare investors inc,1.0,,,,20121116,plavin stephen d,112760212031155,,male,112049247.0
-34997.0,0.0,888491,omega healthcare investors inc,1.0,,,,20121116,lowenthal edward,112760212031154,,male,112049247.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20121116,kloosterman harold j,112760212031147,,male,112049247.0
+37770.0,,888491,omega healthcare investors inc,1.0,,,,20120820,lowenthal edward,112760212024861,,male,108675027.0
+55675.0,,888491,omega healthcare investors inc,1.0,,,,20120820,plavin stephen d,112760212024862,,male,108675027.0
+34416.0,,888491,omega healthcare investors inc,1.0,,,,20121107,lowenthal edward,112760212029970,,male,112049247.0
+56256.0,,888491,omega healthcare investors inc,1.0,,,,20121116,plavin stephen d,112760212031155,,male,112049247.0
+34997.0,,888491,omega healthcare investors inc,1.0,,,,20121116,lowenthal edward,112760212031154,,male,112049247.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20121116,kloosterman harold j,112760212031147,,male,112049247.0
 54663.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20121116,franke thomas f,112760212031124,,male,112049247.0
 636383.0,5574.0,888491,omega healthcare investors inc,1.0,,,,20121116,korman bernard j,112760212031150,,male,112049247.0
-11624.0,0.0,888491,omega healthcare investors inc,1.0,,,,20121119,korman bernard j,112760212031345,,male,112049247.0
+11624.0,,888491,omega healthcare investors inc,1.0,,,,20121119,korman bernard j,112760212031345,,male,112049247.0
 33771.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20121217,kloosterman harold j,112760212034041,,male,112049247.0
 529233.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20121227,korman bernard j,112760212035063,,male,112049247.0
-28776.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130102,ritz michael,112760213000101,Chief Accounting Officer,male,112393000.0
-229040.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130102,stephenson robert o,112760213000103,Chief Financial Officer,male,112393000.0
-476135.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20130102,pickett c taylor,112760213000099,Chief Executive Officer,male,112393000.0
-105265.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130102,crabill r lee,112760213000096,Senior Vice President,male,112393000.0
-265073.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130102,booth daniel j,112760213000095,Chief Operating Officer,male,112393000.0
-27526.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130118,ritz michael,112760213002233,Chief Accounting Officer,male,112393000.0
-26399.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130122,ritz michael,112760213002322,Chief Accounting Officer,male,112393000.0
-25149.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130129,ritz michael,112760213002963,Chief Accounting Officer,male,112393000.0
+265073.0,,888491,omega healthcare investors inc,,1.0,,,20130102,booth daniel j,112760213000095,Chief Operating Officer,male,112393000.0
+105265.0,,888491,omega healthcare investors inc,,1.0,,,20130102,crabill r lee,112760213000096,Senior Vice President,male,112393000.0
+476135.0,,888491,omega healthcare investors inc,1.0,1.0,,,20130102,pickett c taylor,112760213000099,Chief Executive Officer,male,112393000.0
+28776.0,,888491,omega healthcare investors inc,,1.0,,,20130102,ritz michael,112760213000101,Chief Accounting Officer,male,112393000.0
+229040.0,,888491,omega healthcare investors inc,,1.0,,,20130102,stephenson robert o,112760213000103,Chief Financial Officer,male,112393000.0
+27526.0,,888491,omega healthcare investors inc,,1.0,,,20130118,ritz michael,112760213002233,Chief Accounting Officer,male,112393000.0
+26399.0,,888491,omega healthcare investors inc,,1.0,,,20130122,ritz michael,112760213002322,Chief Accounting Officer,male,112393000.0
+25149.0,,888491,omega healthcare investors inc,,1.0,,,20130129,ritz michael,112760213002963,Chief Accounting Officer,male,112393000.0
+57506.0,,888491,omega healthcare investors inc,1.0,,,,20130131,plavin stephen d,112760213003291,,male,112393000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20130131,kloosterman harold j,112760213003285,,male,112393000.0
+,11624.0,888491,omega healthcare investors inc,1.0,,,,20130131,korman bernard j,112760213003288,,male,112393000.0
 55913.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20130131,franke thomas f,112760213003284,,male,112393000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20130131,kloosterman harold j,112760213003285,,male,112393000.0
-0.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20130131,korman bernard j,112760213003288,,male,112393000.0
-36247.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130131,lowenthal edward,112760213003290,,male,112393000.0
-57506.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130131,plavin stephen d,112760213003291,,male,112393000.0
-23899.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130213,ritz michael,112760213005873,Chief Accounting Officer,male,112393000.0
-22649.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130214,ritz michael,112760213005948,Chief Accounting Officer,male,112393000.0
-56363.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20130219,franke thomas f,112760213006729,,male,112393000.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20130219,kloosterman harold j,112760213006762,,male,112393000.0
+36247.0,,888491,omega healthcare investors inc,1.0,,,,20130131,lowenthal edward,112760213003290,,male,112393000.0
+23899.0,,888491,omega healthcare investors inc,,1.0,,,20130213,ritz michael,112760213005873,Chief Accounting Officer,male,112393000.0
+22649.0,,888491,omega healthcare investors inc,,1.0,,,20130214,ritz michael,112760213005948,Chief Accounting Officer,male,112393000.0
 529683.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20130219,korman bernard j,112760213006776,,male,112393000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130219,lowenthal edward,112760213006786,,male,112393000.0
-57956.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130219,plavin stephen d,112760213006790,,male,112393000.0
-95265.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130221,crabill r lee,112760213007223,Senior Vice President,male,112393000.0
-255073.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130221,booth daniel j,112760213007222,Chief Operating Officer,male,112393000.0
-21399.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130301,ritz michael,112760213008651,Chief Accounting Officer,male,112393000.0
-253886.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130304,booth daniel j,112760213008883,Chief Operating Officer,male,112393000.0
-245073.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130305,booth daniel j,112760213009348,Chief Operating Officer,male,112393000.0
-20149.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130306,ritz michael,112760213009507,Chief Accounting Officer,male,112393000.0
-225074.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130318,stephenson robert o,112760213011029,Chief Financial Officer,male,112393000.0
-431643.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20130327,pickett c taylor,112760213012125,Chief Executive Officer,male,112393000.0
-223074.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130328,stephenson robert o,112760213012245,Chief Financial Officer,male,112393000.0
-220074.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130404,stephenson robert o,112760213013414,Chief Financial Officer,male,116153000.0
-225073.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130517,booth daniel j,112760213017242,Chief Operating Officer,male,116154455.0
-85265.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130517,crabill r lee,112760213017243,Senior Vice President,male,116154455.0
-208074.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130520,stephenson robert o,112760213017587,Chief Financial Officer,male,116154455.0
-530025.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20130521,korman bernard j,112760213017708,,male,116154455.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20130521,kloosterman harold j,112760213017703,,male,116154455.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130521,lowenthal edward,112760213017714,,male,116154455.0
+,,888491,omega healthcare investors inc,1.0,,,,20130219,lowenthal edward,112760213006786,,male,112393000.0
+57956.0,,888491,omega healthcare investors inc,1.0,,,,20130219,plavin stephen d,112760213006790,,male,112393000.0
+56363.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20130219,franke thomas f,112760213006729,,male,112393000.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20130219,kloosterman harold j,112760213006762,,male,112393000.0
+255073.0,,888491,omega healthcare investors inc,,1.0,,,20130221,booth daniel j,112760213007222,Chief Operating Officer,male,112393000.0
+95265.0,,888491,omega healthcare investors inc,,1.0,,,20130221,crabill r lee,112760213007223,Senior Vice President,male,112393000.0
+21399.0,,888491,omega healthcare investors inc,,1.0,,,20130301,ritz michael,112760213008651,Chief Accounting Officer,male,112393000.0
+253886.0,,888491,omega healthcare investors inc,,1.0,,,20130304,booth daniel j,112760213008883,Chief Operating Officer,male,112393000.0
+245073.0,,888491,omega healthcare investors inc,,1.0,,,20130305,booth daniel j,112760213009348,Chief Operating Officer,male,112393000.0
+20149.0,,888491,omega healthcare investors inc,,1.0,,,20130306,ritz michael,112760213009507,Chief Accounting Officer,male,112393000.0
+225074.0,,888491,omega healthcare investors inc,,1.0,,,20130318,stephenson robert o,112760213011029,Chief Financial Officer,male,112393000.0
+431643.0,,888491,omega healthcare investors inc,1.0,1.0,,,20130327,pickett c taylor,112760213012125,Chief Executive Officer,male,112393000.0
+223074.0,,888491,omega healthcare investors inc,,1.0,,,20130328,stephenson robert o,112760213012245,Chief Financial Officer,male,112393000.0
+220074.0,,888491,omega healthcare investors inc,,1.0,,,20130404,stephenson robert o,112760213013414,Chief Financial Officer,male,116153000.0
+225073.0,,888491,omega healthcare investors inc,,1.0,,,20130517,booth daniel j,112760213017242,Chief Operating Officer,male,116154455.0
+85265.0,,888491,omega healthcare investors inc,,1.0,,,20130517,crabill r lee,112760213017243,Senior Vice President,male,116154455.0
+208074.0,,888491,omega healthcare investors inc,,1.0,,,20130520,stephenson robert o,112760213017587,Chief Financial Officer,male,116154455.0
+58298.0,,888491,omega healthcare investors inc,1.0,,,,20130521,plavin stephen d,112760213017726,,male,116154455.0
+,,888491,omega healthcare investors inc,1.0,,,,20130521,lowenthal edward,112760213017714,,male,116154455.0
+,,888491,omega healthcare investors inc,1.0,,,,20130521,callen craig r,112760213017686,,male,116154455.0
+,2558.0,888491,omega healthcare investors inc,1.0,,,,20130521,kloosterman harold j,112760213017703,,male,116154455.0
+342.0,,888491,omega healthcare investors inc,1.0,,,,20130521,hill barbara b,112760213017697,,female,116154455.0
 56705.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20130521,franke thomas f,112760213017691,,male,116154455.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130521,callen craig r,112760213017686,,male,116154455.0
-342.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130521,hill barbara b,112760213017697,,female,116154455.0
-58298.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130521,plavin stephen d,112760213017726,,male,116154455.0
-19710.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20130522,kloosterman harold j,112760213017836,,male,116154455.0
-387016.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20130523,pickett c taylor,112760213018008,Chief Executive Officer,male,116154455.0
-217498.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130524,booth daniel j,112760213018221,Chief Operating Officer,male,116154455.0
-205674.0,0.0,888491,omega healthcare investors inc,,1.0,,,20130524,stephenson robert o,112760213018220,Chief Financial Officer,male,116154455.0
-2000.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130529,callen craig r,112760213018600,,male,116154455.0
-3000.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130530,callen craig r,112760213018746,,male,116154455.0
-61298.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130611,plavin stephen d,112760213019997,,male,116154455.0
-0.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20130611,korman bernard j,112760213019994,,male,116154455.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20130611,kloosterman harold j,112760213019992,,male,116154455.0
-39247.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130611,lowenthal edward,112760213019996,,male,116154455.0
-59705.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20130611,franke thomas f,112760213019987,,male,116154455.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130611,callen craig r,112760213019986,,male,116154455.0
-3342.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130611,hill barbara b,112760213019988,,female,116154455.0
-61729.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130822,plavin stephen d,112760213025812,,male,117155264.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130822,callen craig r,112760213025799,,male,117155264.0
-60136.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20130822,franke thomas f,112760213025803,,male,117155264.0
-3773.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130822,hill barbara b,112760213025806,,female,117155264.0
-0.0,2558.0,888491,omega healthcare investors inc,1.0,,,,20130822,kloosterman harold j,112760213025807,,male,117155264.0
-530456.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20130822,korman bernard j,112760213025810,,male,117155264.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20130822,lowenthal edward,112760213025811,,male,117155264.0
-608341.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20131202,korman bernard j,112760213033324,,male,122524279.0
-205574.0,0.0,888491,omega healthcare investors inc,,1.0,,,20131231,stephenson robert o,112760213035848,Chief Financial Officer,male,123530000.0
-598341.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20131231,korman bernard j,112760213035827,,male,123530000.0
-172288.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140102,booth daniel j,112760214000170,Chief Operating Officer,male,123530000.0
-63130.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140102,crabill r lee,112760214000179,Senior Vice President,male,123530000.0
-302849.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140102,pickett c taylor,112760214000195,Chief Executive Officer,male,123530000.0
-15222.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140102,ritz michael,112760214000206,Chief Accounting Officer,male,123530000.0
-172471.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140102,stephenson robert o,112760214000219,Chief Financial Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140109,stephenson robert o,112760214001644,Chief Financial Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140109,ritz michael,112760214001643,Chief Accounting Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140109,pickett c taylor,112760214001642,Chief Executive Officer,male,123530000.0
-72153.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140109,crabill r lee,112760214001622,Senior Vice President,male,123530000.0
-192197.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140109,booth daniel j,112760214001618,Chief Operating Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140123,booth daniel j,112760214002625,Chief Operating Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140123,crabill r lee,112760214002642,Senior Vice President,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140123,pickett c taylor,112760214002651,Chief Executive Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140123,ritz michael,112760214002656,Chief Accounting Officer,male,123530000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140123,stephenson robert o,112760214002661,Chief Financial Officer,male,123530000.0
-608739.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20140219,korman bernard j,112760214007063,,male,124226223.0
-62518.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140219,plavin stephen d,112760214007074,,male,124226223.0
-60925.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20140219,franke thomas f,112760214007055,,male,124226223.0
-4562.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140219,hill barbara b,112760214007059,,female,124226223.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140220,lowenthal edward,112760214007230,,male,124226223.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140220,callen craig r,112760214007224,,male,124226223.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140220,kloosterman harold j,112760214007227,,male,124226223.0
-172197.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140328,booth daniel j,112760214012876,Chief Operating Officer,male,124226223.0
-187263.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140402,booth daniel j,112760214013476,Chief Operating Officer,male,125419000.0
-79056.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140402,crabill r lee,112760214013478,Senior Vice President,male,125419000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140402,pickett c taylor,112760214013512,Chief Executive Officer,male,125419000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140402,ritz michael,112760214013564,Chief Accounting Officer,male,125419000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140402,stephenson robert o,112760214013593,Chief Financial Officer,male,125419000.0
-12722.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140425,ritz michael,112760214015177,Chief Accounting Officer,male,125419000.0
-10222.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140508,ritz michael,112760214016792,Chief Accounting Officer,male,126039605.0
-69056.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140519,crabill r lee,112760214018024,Senior Vice President,male,126039605.0
-7722.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140519,ritz michael,112760214018025,Chief Accounting Officer,male,126039605.0
-61272.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20140520,franke thomas f,112760214018142,,male,126039605.0
-4909.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140520,hill barbara b,112760214018141,,female,126039605.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140520,callen craig r,112760214018145,,male,126039605.0
-609086.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20140520,korman bernard j,112760214018139,,male,126039605.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140520,kloosterman harold j,112760214018146,,male,126039605.0
-62865.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140520,plavin stephen d,112760214018140,,male,126039605.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140520,lowenthal edward,112760214018147,,male,126039605.0
-159971.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140528,stephenson robert o,112760214018978,Chief Financial Officer,male,126039605.0
-157471.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140602,stephenson robert o,112760214019406,Chief Financial Officer,male,126039605.0
-272849.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140602,pickett c taylor,112760214019413,Chief Executive Officer,male,126039605.0
-5222.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140604,ritz michael,112760214019940,Chief Accounting Officer,male,126039605.0
-154971.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140604,stephenson robert o,112760214019944,Chief Financial Officer,male,126039605.0
-152471.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140606,stephenson robert o,112760214020119,Chief Financial Officer,male,126039605.0
-167263.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140606,booth daniel j,112760214020120,Chief Operating Officer,male,126039605.0
-59056.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140606,crabill r lee,112760214020121,Senior Vice President,male,126039605.0
-242849.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140606,pickett c taylor,112760214020122,Chief Executive Officer,male,126039605.0
-142471.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140606,stephenson robert o,112760214020127,Chief Financial Officer,male,126039605.0
-2722.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140606,ritz michael,112760214020128,Chief Accounting Officer,male,126039605.0
-65865.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140613,plavin stephen d,112760214020771,,male,126039605.0
-42247.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140613,lowenthal edward,112760214020770,,male,126039605.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140613,kloosterman harold j,112760214020767,,male,126039605.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140613,korman bernard j,112760214020769,,male,126039605.0
-64272.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20140613,franke thomas f,112760214020765,,male,126039605.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140613,callen craig r,112760214020764,,male,126039605.0
-7909.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140613,hill barbara b,112760214020766,,female,126039605.0
-178895.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140702,booth daniel j,112760214022673,Chief Operating Officer,male,126713000.0
-64385.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140702,crabill r lee,112760214022671,Senior Vice President,male,126713000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140702,ritz michael,112760214022633,Chief Accounting Officer,male,126713000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140702,stephenson robert o,112760214022586,Chief Financial Officer,male,126713000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140702,pickett c taylor,112760214022643,Chief Executive Officer,male,126713000.0
-168895.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140721,booth daniel j,112760214023608,Chief Operating Officer,male,126713000.0
-158895.0,0.0,888491,omega healthcare investors inc,,1.0,,,20140725,booth daniel j,112760214023871,Chief Operating Officer,male,126713000.0
-232049.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20140730,pickett c taylor,112760214024225,Chief Executive Officer,male,126713000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140818,callen craig r,112760214025748,,male,127238627.0
-64604.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20140818,franke thomas f,112760214025749,,male,127238627.0
-8241.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140818,hill barbara b,112760214025750,,female,127238627.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140818,kloosterman harold j,112760214025772,,male,127238627.0
-609418.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20140818,korman bernard j,112760214025773,,male,127238627.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140818,lowenthal edward,112760214025774,,male,127238627.0
-66197.0,0.0,888491,omega healthcare investors inc,1.0,,,,20140818,plavin stephen d,112760214025775,,male,127238627.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20141002,ritz michael,112760214029167,Chief Accounting Officer,male,127408000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20141002,pickett c taylor,112760214029139,Chief Executive Officer,male,127408000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20141002,stephenson robert o,112760214029182,Chief Financial Officer,male,127408000.0
-170528.0,0.0,888491,omega healthcare investors inc,,1.0,,,20141002,booth daniel j,112760214029056,Chief Operating Officer,male,127408000.0
-69714.0,0.0,888491,omega healthcare investors inc,,1.0,,,20141002,crabill r lee,112760214029102,Senior Vice President,male,127408000.0
-210554.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20141023,pickett c taylor,112760214030234,Chief Executive Officer,male,127408000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20141119,callen craig r,112760214032775,,male,127427232.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20141119,lowenthal edward,112760214032770,,male,127427232.0
-64935.0,47141.0,888491,omega healthcare investors inc,1.0,,,,20141119,franke thomas f,112760214032764,,male,127427232.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20141119,kloosterman harold j,112760214032771,,male,127427232.0
-609749.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20141119,korman bernard j,112760214032762,,male,127427232.0
-66528.0,0.0,888491,omega healthcare investors inc,1.0,,,,20141119,plavin stephen d,112760214032761,,male,127427232.0
-8572.0,0.0,888491,omega healthcare investors inc,1.0,,,,20141119,hill barbara b,112760214032763,,female,127427232.0
-142271.0,0.0,888491,omega healthcare investors inc,,1.0,,,20141231,stephenson robert o,112760214036184,Chief Financial Officer,male,127606000.0
-190317.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150105,booth daniel j,112760215000330,Chief Operating Officer,male,127606000.0
-79472.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150105,crabill r lee,112760215000348,Senior Vice President,male,127606000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20150105,pickett c taylor,112760215000392,Chief Executive Officer,male,127606000.0
-3861.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150105,ritz michael,112760215000427,Chief Accounting Officer,male,127606000.0
-150322.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150105,stephenson robert o,112760215000459,Chief Financial Officer,male,127606000.0
-4027.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150112,ritz michael,112760215001648,Chief Accounting Officer,male,127606000.0
-165713.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150112,stephenson robert o,112760215001644,Chief Financial Officer,male,127606000.0
-90296.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150112,crabill r lee,112760215001647,Senior Vice President,male,127606000.0
-247163.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20150112,pickett c taylor,112760215001637,Chief Executive Officer,male,127606000.0
-209766.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150112,booth daniel j,112760215001643,Chief Operating Officer,male,127606000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150219,callen craig r,112760215006996,,male,138617823.0
-65243.0,47182.0,888491,omega healthcare investors inc,1.0,,,,20150219,franke thomas f,112760215006999,,male,138617823.0
-8880.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150219,hill barbara b,112760215007000,,female,138617823.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150219,kloosterman harold j,112760215007001,,male,138617823.0
-610057.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20150219,korman bernard j,112760215007003,,male,138617823.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150219,lowenthal edward,112760215007005,,male,138617823.0
-66836.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150219,plavin stephen d,112760215007006,,male,138617823.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150402,booth daniel j,112760215013409,Chief Operating Officer,male,138752000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150402,crabill r lee,112760215013450,Senior Vice President,male,138752000.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,1.0,,,20150402,pickett c taylor,112760215013466,Chief Executive Officer,male,138752000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150402,ritz michael,112760215013467,Chief Accounting Officer,male,138752000.0
-0.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150402,stephenson robert o,112760215013470,Chief Financial Officer,male,138752000.0
-183922.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150403,insoft steven j,112760215013962,Chief Corp Development Officer,male,138752000.0
-15891.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150403,perks ben w,112760215013964,,male,138752000.0
-230695.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150403,bernfield craig m,112760215013948,,male,138752000.0
-15120.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150403,bobins norman,112760215013955,,male,138752000.0
-710057.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150506,korman bernard j,112760215016455,,male,182683520.0
-67181.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,plavin stephen d,112760215018172,,male,182683520.0
-16236.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,perks ben w,112760215018171,,male,182683520.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,lowenthal edward,112760215018170,,male,182683520.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,kloosterman harold j,112760215018167,,male,182683520.0
-710402.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,korman bernard j,112760215018168,,male,182683520.0
-65588.0,47182.0,888491,omega healthcare investors inc,1.0,,,,20150521,franke thomas f,112760215018165,,male,182683520.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,callen craig r,112760215018164,,male,182683520.0
-15465.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,bobins norman,112760215018163,,male,182683520.0
-231040.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,bernfield craig m,112760215018162,,male,182683520.0
-9225.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150521,hill barbara b,112760215018166,,female,182683520.0
-175958.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150602,stephenson robert o,112760215019253,Chief Financial Officer,male,182683520.0
-199766.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150612,booth daniel j,112760215020543,Chief Operating Officer,male,182683520.0
-421666.0,0.0,888491,omega healthcare investors inc,,1.0,,,20150713,insoft steven j,112760215022711,Chief Corp Development Officer,male,183321000.0
-710741.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,korman bernard j,112760215025457,,male,183816001.0
-16575.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,perks ben w,112760215025459,,male,183816001.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,lowenthal edward,112760215025458,,male,183816001.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,kloosterman harold j,112760215025456,,male,183816001.0
-67520.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,plavin stephen d,112760215025460,,male,183816001.0
-65927.0,47182.0,888491,omega healthcare investors inc,1.0,,,,20150820,franke thomas f,112760215025453,,male,183816001.0
-0.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,callen craig r,112760215025452,,male,183816001.0
-15804.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,bobins norman,112760215025450,,male,183816001.0
-231379.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,bernfield craig m,112760215025449,,male,183816001.0
-9564.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150820,hill barbara b,112760215025455,,female,183816001.0
-1000.0,0.0,888491,omega healthcare investors inc,1.0,,,,20150909,korman bernard j,112760215026713,,male,183816001.0
+530025.0,11624.0,888491,omega healthcare investors inc,1.0,,,,20130521,korman bernard j,112760213017708,,male,116154455.0
+19710.0,2558.0,888491,omega healthcare investors inc,1,,,,20130522,kloosterman harold j,112760213017836,,male,116154455.0
+387016.0,,888491,omega healthcare investors inc,1,1,,,20130523,pickett c taylor,112760213018008,Chief Executive Officer,male,116154455.0
+205674.0,,888491,omega healthcare investors inc,,1,,,20130524,stephenson robert o,112760213018220,Chief Financial Officer,male,116154455.0
+217498.0,,888491,omega healthcare investors inc,,1,,,20130524,booth daniel j,112760213018221,Chief Operating Officer,male,116154455.0
+2000.0,,888491,omega healthcare investors inc,1,,,,20130529,callen craig r,112760213018600,,male,116154455.0
+3000.0,,888491,omega healthcare investors inc,1,,,,20130530,callen craig r,112760213018746,,male,116154455.0
+59705.0,47141.0,888491,omega healthcare investors inc,1,,,,20130611,franke thomas f,112760213019987,,male,116154455.0
+,,888491,omega healthcare investors inc,1,,,,20130611,callen craig r,112760213019986,,male,116154455.0
+3342.0,,888491,omega healthcare investors inc,1,,,,20130611,hill barbara b,112760213019988,,female,116154455.0
+,11624.0,888491,omega healthcare investors inc,1,,,,20130611,korman bernard j,112760213019994,,male,116154455.0
+39247.0,,888491,omega healthcare investors inc,1,,,,20130611,lowenthal edward,112760213019996,,male,116154455.0
+61298.0,,888491,omega healthcare investors inc,1,,,,20130611,plavin stephen d,112760213019997,,male,116154455.0
+,2558.0,888491,omega healthcare investors inc,1,,,,20130611,kloosterman harold j,112760213019992,,male,116154455.0
+,,888491,omega healthcare investors inc,1,,,,20130822,lowenthal edward,112760213025811,,male,117155264.0
+530456.0,11624.0,888491,omega healthcare investors inc,1,,,,20130822,korman bernard j,112760213025810,,male,117155264.0
+61729.0,,888491,omega healthcare investors inc,1,,,,20130822,plavin stephen d,112760213025812,,male,117155264.0
+3773.0,,888491,omega healthcare investors inc,1,,,,20130822,hill barbara b,112760213025806,,female,117155264.0
+60136.0,47141.0,888491,omega healthcare investors inc,1,,,,20130822,franke thomas f,112760213025803,,male,117155264.0
+,2558.0,888491,omega healthcare investors inc,1,,,,20130822,kloosterman harold j,112760213025807,,male,117155264.0
+,,888491,omega healthcare investors inc,1,,,,20130822,callen craig r,112760213025799,,male,117155264.0
+608341.0,11624.0,888491,omega healthcare investors inc,1,,,,20131202,korman bernard j,112760213033324,,male,122524279.0
+598341.0,11624.0,888491,omega healthcare investors inc,1,,,,20131231,korman bernard j,112760213035827,,male,123530000.0
+205574.0,,888491,omega healthcare investors inc,,1,,,20131231,stephenson robert o,112760213035848,Chief Financial Officer,male,123530000.0
+172471.0,,888491,omega healthcare investors inc,,1,,,20140102,stephenson robert o,112760214000219,Chief Financial Officer,male,123530000.0
+15222.0,,888491,omega healthcare investors inc,,1,,,20140102,ritz michael,112760214000206,Chief Accounting Officer,male,123530000.0
+63130.0,,888491,omega healthcare investors inc,,1,,,20140102,crabill r lee,112760214000179,Senior Vice President,male,123530000.0
+172288.0,,888491,omega healthcare investors inc,,1,,,20140102,booth daniel j,112760214000170,Chief Operating Officer,male,123530000.0
+302849.0,,888491,omega healthcare investors inc,1,1,,,20140102,pickett c taylor,112760214000195,Chief Executive Officer,male,123530000.0
+192197.0,,888491,omega healthcare investors inc,,1,,,20140109,booth daniel j,112760214001618,Chief Operating Officer,male,123530000.0
+72153.0,,888491,omega healthcare investors inc,,1,,,20140109,crabill r lee,112760214001622,Senior Vice President,male,123530000.0
+,,888491,omega healthcare investors inc,1,1,,,20140109,pickett c taylor,112760214001642,Chief Executive Officer,male,123530000.0
+,,888491,omega healthcare investors inc,,1,,,20140109,ritz michael,112760214001643,Chief Accounting Officer,male,123530000.0
+,,888491,omega healthcare investors inc,,1,,,20140109,stephenson robert o,112760214001644,Chief Financial Officer,male,123530000.0
+,,888491,omega healthcare investors inc,,1,,,20140123,stephenson robert o,112760214002661,Chief Financial Officer,male,123530000.0
+,,888491,omega healthcare investors inc,,1,,,20140123,booth daniel j,112760214002625,Chief Operating Officer,male,123530000.0
+,,888491,omega healthcare investors inc,1,1,,,20140123,pickett c taylor,112760214002651,Chief Executive Officer,male,123530000.0
+,,888491,omega healthcare investors inc,,1,,,20140123,crabill r lee,112760214002642,Senior Vice President,male,123530000.0
+,,888491,omega healthcare investors inc,,1,,,20140123,ritz michael,112760214002656,Chief Accounting Officer,male,123530000.0
+60925.0,47141.0,888491,omega healthcare investors inc,1,,,,20140219,franke thomas f,112760214007055,,male,124226223.0
+4562.0,,888491,omega healthcare investors inc,1,,,,20140219,hill barbara b,112760214007059,,female,124226223.0
+608739.0,11624.0,888491,omega healthcare investors inc,1,,,,20140219,korman bernard j,112760214007063,,male,124226223.0
+62518.0,,888491,omega healthcare investors inc,1,,,,20140219,plavin stephen d,112760214007074,,male,124226223.0
+,,888491,omega healthcare investors inc,1,,,,20140220,callen craig r,112760214007224,,male,124226223.0
+,,888491,omega healthcare investors inc,1,,,,20140220,kloosterman harold j,112760214007227,,male,124226223.0
+,,888491,omega healthcare investors inc,1,,,,20140220,lowenthal edward,112760214007230,,male,124226223.0
+172197.0,,888491,omega healthcare investors inc,,1,,,20140328,booth daniel j,112760214012876,Chief Operating Officer,male,124226223.0
+,,888491,omega healthcare investors inc,,1,,,20140402,ritz michael,112760214013564,Chief Accounting Officer,male,125419000.0
+,,888491,omega healthcare investors inc,,1,,,20140402,stephenson robert o,112760214013593,Chief Financial Officer,male,125419000.0
+79056.0,,888491,omega healthcare investors inc,,1,,,20140402,crabill r lee,112760214013478,Senior Vice President,male,125419000.0
+187263.0,,888491,omega healthcare investors inc,,1,,,20140402,booth daniel j,112760214013476,Chief Operating Officer,male,125419000.0
+,,888491,omega healthcare investors inc,1,1,,,20140402,pickett c taylor,112760214013512,Chief Executive Officer,male,125419000.0
+12722.0,,888491,omega healthcare investors inc,,1,,,20140425,ritz michael,112760214015177,Chief Accounting Officer,male,125419000.0
+10222.0,,888491,omega healthcare investors inc,,1,,,20140508,ritz michael,112760214016792,Chief Accounting Officer,male,126039605.0
+69056.0,,888491,omega healthcare investors inc,,1,,,20140519,crabill r lee,112760214018024,Senior Vice President,male,126039605.0
+7722.0,,888491,omega healthcare investors inc,,1,,,20140519,ritz michael,112760214018025,Chief Accounting Officer,male,126039605.0
+609086.0,11624.0,888491,omega healthcare investors inc,1,,,,20140520,korman bernard j,112760214018139,,male,126039605.0
+62865.0,,888491,omega healthcare investors inc,1,,,,20140520,plavin stephen d,112760214018140,,male,126039605.0
+4909.0,,888491,omega healthcare investors inc,1,,,,20140520,hill barbara b,112760214018141,,female,126039605.0
+,,888491,omega healthcare investors inc,1,,,,20140520,callen craig r,112760214018145,,male,126039605.0
+,,888491,omega healthcare investors inc,1,,,,20140520,kloosterman harold j,112760214018146,,male,126039605.0
+,,888491,omega healthcare investors inc,1,,,,20140520,lowenthal edward,112760214018147,,male,126039605.0
+61272.0,47141.0,888491,omega healthcare investors inc,1,,,,20140520,franke thomas f,112760214018142,,male,126039605.0
+159971.0,,888491,omega healthcare investors inc,,1,,,20140528,stephenson robert o,112760214018978,Chief Financial Officer,male,126039605.0
+157471.0,,888491,omega healthcare investors inc,,1,,,20140602,stephenson robert o,112760214019406,Chief Financial Officer,male,126039605.0
+272849.0,,888491,omega healthcare investors inc,1,1,,,20140602,pickett c taylor,112760214019413,Chief Executive Officer,male,126039605.0
+154971.0,,888491,omega healthcare investors inc,,1,,,20140604,stephenson robert o,112760214019944,Chief Financial Officer,male,126039605.0
+5222.0,,888491,omega healthcare investors inc,,1,,,20140604,ritz michael,112760214019940,Chief Accounting Officer,male,126039605.0
+167263.0,,888491,omega healthcare investors inc,,1,,,20140606,booth daniel j,112760214020120,Chief Operating Officer,male,126039605.0
+59056.0,,888491,omega healthcare investors inc,,1,,,20140606,crabill r lee,112760214020121,Senior Vice President,male,126039605.0
+242849.0,,888491,omega healthcare investors inc,1,1,,,20140606,pickett c taylor,112760214020122,Chief Executive Officer,male,126039605.0
+142471.0,,888491,omega healthcare investors inc,,1,,,20140606,stephenson robert o,112760214020127,Chief Financial Officer,male,126039605.0
+2722.0,,888491,omega healthcare investors inc,,1,,,20140606,ritz michael,112760214020128,Chief Accounting Officer,male,126039605.0
+152471.0,,888491,omega healthcare investors inc,,1,,,20140606,stephenson robert o,112760214020119,Chief Financial Officer,male,126039605.0
+,,888491,omega healthcare investors inc,1,,,,20140613,callen craig r,112760214020764,,male,126039605.0
+64272.0,47141.0,888491,omega healthcare investors inc,1,,,,20140613,franke thomas f,112760214020765,,male,126039605.0
+7909.0,,888491,omega healthcare investors inc,1,,,,20140613,hill barbara b,112760214020766,,female,126039605.0
+,,888491,omega healthcare investors inc,1,,,,20140613,kloosterman harold j,112760214020767,,male,126039605.0
+,,888491,omega healthcare investors inc,1,,,,20140613,korman bernard j,112760214020769,,male,126039605.0
+42247.0,,888491,omega healthcare investors inc,1,,,,20140613,lowenthal edward,112760214020770,,male,126039605.0
+65865.0,,888491,omega healthcare investors inc,1,,,,20140613,plavin stephen d,112760214020771,,male,126039605.0
+64385.0,,888491,omega healthcare investors inc,,1,,,20140702,crabill r lee,112760214022671,Senior Vice President,male,126713000.0
+178895.0,,888491,omega healthcare investors inc,,1,,,20140702,booth daniel j,112760214022673,Chief Operating Officer,male,126713000.0
+,,888491,omega healthcare investors inc,,1,,,20140702,ritz michael,112760214022633,Chief Accounting Officer,male,126713000.0
+,,888491,omega healthcare investors inc,1,1,,,20140702,pickett c taylor,112760214022643,Chief Executive Officer,male,126713000.0
+,,888491,omega healthcare investors inc,,1,,,20140702,stephenson robert o,112760214022586,Chief Financial Officer,male,126713000.0
+168895.0,,888491,omega healthcare investors inc,,1,,,20140721,booth daniel j,112760214023608,Chief Operating Officer,male,126713000.0
+158895.0,,888491,omega healthcare investors inc,,1,,,20140725,booth daniel j,112760214023871,Chief Operating Officer,male,126713000.0
+232049.0,,888491,omega healthcare investors inc,1,1,,,20140730,pickett c taylor,112760214024225,Chief Executive Officer,male,126713000.0
+8241.0,,888491,omega healthcare investors inc,1,,,,20140818,hill barbara b,112760214025750,,female,127238627.0
+,,888491,omega healthcare investors inc,1,,,,20140818,kloosterman harold j,112760214025772,,male,127238627.0
+609418.0,11624.0,888491,omega healthcare investors inc,1,,,,20140818,korman bernard j,112760214025773,,male,127238627.0
+,,888491,omega healthcare investors inc,1,,,,20140818,lowenthal edward,112760214025774,,male,127238627.0
+66197.0,,888491,omega healthcare investors inc,1,,,,20140818,plavin stephen d,112760214025775,,male,127238627.0
+,,888491,omega healthcare investors inc,1,,,,20140818,callen craig r,112760214025748,,male,127238627.0
+64604.0,47141.0,888491,omega healthcare investors inc,1,,,,20140818,franke thomas f,112760214025749,,male,127238627.0
+170528.0,,888491,omega healthcare investors inc,,1,,,20141002,booth daniel j,112760214029056,Chief Operating Officer,male,127408000.0
+69714.0,,888491,omega healthcare investors inc,,1,,,20141002,crabill r lee,112760214029102,Senior Vice President,male,127408000.0
+,,888491,omega healthcare investors inc,1,1,,,20141002,pickett c taylor,112760214029139,Chief Executive Officer,male,127408000.0
+,,888491,omega healthcare investors inc,,1,,,20141002,ritz michael,112760214029167,Chief Accounting Officer,male,127408000.0
+,,888491,omega healthcare investors inc,,1,,,20141002,stephenson robert o,112760214029182,Chief Financial Officer,male,127408000.0
+210554.0,,888491,omega healthcare investors inc,1,1,,,20141023,pickett c taylor,112760214030234,Chief Executive Officer,male,127408000.0
+,,888491,omega healthcare investors inc,1,,,,20141119,callen craig r,112760214032775,,male,127427232.0
+,,888491,omega healthcare investors inc,1,,,,20141119,kloosterman harold j,112760214032771,,male,127427232.0
+609749.0,11624.0,888491,omega healthcare investors inc,1,,,,20141119,korman bernard j,112760214032762,,male,127427232.0
+64935.0,47141.0,888491,omega healthcare investors inc,1,,,,20141119,franke thomas f,112760214032764,,male,127427232.0
+8572.0,,888491,omega healthcare investors inc,1,,,,20141119,hill barbara b,112760214032763,,female,127427232.0
+,,888491,omega healthcare investors inc,1,,,,20141119,lowenthal edward,112760214032770,,male,127427232.0
+66528.0,,888491,omega healthcare investors inc,1,,,,20141119,plavin stephen d,112760214032761,,male,127427232.0
+142271.0,,888491,omega healthcare investors inc,,1,,,20141231,stephenson robert o,112760214036184,Chief Financial Officer,male,127606000.0
+190317.0,,888491,omega healthcare investors inc,,1,,,20150105,booth daniel j,112760215000330,Chief Operating Officer,male,127606000.0
+79472.0,,888491,omega healthcare investors inc,,1,,,20150105,crabill r lee,112760215000348,Senior Vice President,male,127606000.0
+,,888491,omega healthcare investors inc,1,1,,,20150105,pickett c taylor,112760215000392,Chief Executive Officer,male,127606000.0
+3861.0,,888491,omega healthcare investors inc,,1,,,20150105,ritz michael,112760215000427,Chief Accounting Officer,male,127606000.0
+150322.0,,888491,omega healthcare investors inc,,1,,,20150105,stephenson robert o,112760215000459,Chief Financial Officer,male,127606000.0
+4027.0,,888491,omega healthcare investors inc,,1,,,20150112,ritz michael,112760215001648,Chief Accounting Officer,male,127606000.0
+209766.0,,888491,omega healthcare investors inc,,1,,,20150112,booth daniel j,112760215001643,Chief Operating Officer,male,127606000.0
+165713.0,,888491,omega healthcare investors inc,,1,,,20150112,stephenson robert o,112760215001644,Chief Financial Officer,male,127606000.0
+90296.0,,888491,omega healthcare investors inc,,1,,,20150112,crabill r lee,112760215001647,Senior Vice President,male,127606000.0
+247163.0,,888491,omega healthcare investors inc,1,1,,,20150112,pickett c taylor,112760215001637,Chief Executive Officer,male,127606000.0
+65243.0,47182.0,888491,omega healthcare investors inc,1,,,,20150219,franke thomas f,112760215006999,,male,138617823.0
+8880.0,,888491,omega healthcare investors inc,1,,,,20150219,hill barbara b,112760215007000,,female,138617823.0
+,,888491,omega healthcare investors inc,1,,,,20150219,kloosterman harold j,112760215007001,,male,138617823.0
+610057.0,11624.0,888491,omega healthcare investors inc,1,,,,20150219,korman bernard j,112760215007003,,male,138617823.0
+,,888491,omega healthcare investors inc,1,,,,20150219,lowenthal edward,112760215007005,,male,138617823.0
+66836.0,,888491,omega healthcare investors inc,1,,,,20150219,plavin stephen d,112760215007006,,male,138617823.0
+,,888491,omega healthcare investors inc,1,,,,20150219,callen craig r,112760215006996,,male,138617823.0
+,,888491,omega healthcare investors inc,,1,,,20150402,booth daniel j,112760215013409,Chief Operating Officer,male,138752000.0
+,,888491,omega healthcare investors inc,,1,,,20150402,crabill r lee,112760215013450,Senior Vice President,male,138752000.0
+,,888491,omega healthcare investors inc,1,1,,,20150402,pickett c taylor,112760215013466,Chief Executive Officer,male,138752000.0
+,,888491,omega healthcare investors inc,,1,,,20150402,ritz michael,112760215013467,Chief Accounting Officer,male,138752000.0
+,,888491,omega healthcare investors inc,,1,,,20150402,stephenson robert o,112760215013470,Chief Financial Officer,male,138752000.0
+15891.0,,888491,omega healthcare investors inc,1,,,,20150403,perks ben w,112760215013964,,male,138752000.0
+183922.0,,888491,omega healthcare investors inc,,1,,,20150403,insoft steven j,112760215013962,Chief Corp Development Officer,male,138752000.0
+230695.0,,888491,omega healthcare investors inc,1,,,,20150403,bernfield craig m,112760215013948,,male,138752000.0
+15120.0,,888491,omega healthcare investors inc,1,,,,20150403,bobins norman,112760215013955,,male,138752000.0
+710057.0,,888491,omega healthcare investors inc,1,,,,20150506,korman bernard j,112760215016455,,male,182683520.0
+231040.0,,888491,omega healthcare investors inc,1,,,,20150521,bernfield craig m,112760215018162,,male,182683520.0
+15465.0,,888491,omega healthcare investors inc,1,,,,20150521,bobins norman,112760215018163,,male,182683520.0
+,,888491,omega healthcare investors inc,1,,,,20150521,callen craig r,112760215018164,,male,182683520.0
+65588.0,47182.0,888491,omega healthcare investors inc,1,,,,20150521,franke thomas f,112760215018165,,male,182683520.0
+9225.0,,888491,omega healthcare investors inc,1,,,,20150521,hill barbara b,112760215018166,,female,182683520.0
+,,888491,omega healthcare investors inc,1,,,,20150521,kloosterman harold j,112760215018167,,male,182683520.0
+710402.0,,888491,omega healthcare investors inc,1,,,,20150521,korman bernard j,112760215018168,,male,182683520.0
+,,888491,omega healthcare investors inc,1,,,,20150521,lowenthal edward,112760215018170,,male,182683520.0
+16236.0,,888491,omega healthcare investors inc,1,,,,20150521,perks ben w,112760215018171,,male,182683520.0
+67181.0,,888491,omega healthcare investors inc,1,,,,20150521,plavin stephen d,112760215018172,,male,182683520.0
+175958.0,,888491,omega healthcare investors inc,,1,,,20150602,stephenson robert o,112760215019253,Chief Financial Officer,male,182683520.0
+199766.0,,888491,omega healthcare investors inc,,1,,,20150612,booth daniel j,112760215020543,Chief Operating Officer,male,182683520.0
+421666.0,,888491,omega healthcare investors inc,,1,,,20150713,insoft steven j,112760215022711,Chief Corp Development Officer,male,183321000.0
+67520.0,,888491,omega healthcare investors inc,1,,,,20150820,plavin stephen d,112760215025460,,male,183816001.0
+67520.0,,888491,omega healthcare investors inc,1,,,,20150820,plavin stephen d,112760215025460,,male,183816001.0
+16575.0,,888491,omega healthcare investors inc,1,,,,20150820,perks ben w,112760215025459,,male,183816001.0
+,,888491,omega healthcare investors inc,1,,,,20150820,lowenthal edward,112760215025458,,male,183816001.0
+710741.0,,888491,omega healthcare investors inc,1,,,,20150820,korman bernard j,112760215025457,,male,183816001.0
+,,888491,omega healthcare investors inc,1,,,,20150820,kloosterman harold j,112760215025456,,male,183816001.0
+9564.0,,888491,omega healthcare investors inc,1,,,,20150820,hill barbara b,112760215025455,,female,183816001.0
+65927.0,47182.0,888491,omega healthcare investors inc,1,,,,20150820,franke thomas f,112760215025453,,male,183816001.0
+,,888491,omega healthcare investors inc,1,,,,20150820,callen craig r,112760215025452,,male,183816001.0
+15804.0,,888491,omega healthcare investors inc,1,,,,20150820,bobins norman,112760215025450,,male,183816001.0
+231379.0,,888491,omega healthcare investors inc,1,,,,20150820,bernfield craig m,112760215025449,,male,183816001.0
+15804.0,,888491,omega healthcare investors inc,1,,,,20150820,bobins norman,112760215025450,,male,183816001.0
+,,888491,omega healthcare investors inc,1,,,,20150820,callen craig r,112760215025452,,male,183816001.0
+65927.0,47182.0,888491,omega healthcare investors inc,1,,,,20150820,franke thomas f,112760215025453,,male,183816001.0
+9564.0,,888491,omega healthcare investors inc,1,,,,20150820,hill barbara b,112760215025455,,female,183816001.0
+,,888491,omega healthcare investors inc,1,,,,20150820,kloosterman harold j,112760215025456,,male,183816001.0
+710741.0,,888491,omega healthcare investors inc,1,,,,20150820,korman bernard j,112760215025457,,male,183816001.0
+,,888491,omega healthcare investors inc,1,,,,20150820,lowenthal edward,112760215025458,,male,183816001.0
+16575.0,,888491,omega healthcare investors inc,1,,,,20150820,perks ben w,112760215025459,,male,183816001.0
+231379.0,,888491,omega healthcare investors inc,1,,,,20150820,bernfield craig m,112760215025449,,male,183816001.0
+1000.0,,888491,omega healthcare investors inc,1,,,,20150909,korman bernard j,112760215026713,,male,183816001.0
+1000.0,,888491,omega healthcare investors inc,1,,,,20150909,korman bernard j,112760215026713,,male,183816001.0
+41816.0,,888491,omega healthcare investors inc,1,,,,20151028,bobins norman,112760215029663,,male,184954000.0
+40802.0,,888491,omega healthcare investors inc,1,,,,20151106,lowenthal edward,112760215030568,,male,187043489.0
+4200.0,,888491,omega healthcare investors inc,1,1,,,20151117,pickett c taylor,112760215031619,Chief Executive Officer,male,187043489.0
+,,888491,omega healthcare investors inc,1,,,,20151119,callen craig r,112760215031980,,male,187043489.0
+231761.0,,888491,omega healthcare investors inc,1,,,,20151119,bernfield craig m,112760215031966,,male,187043489.0
+42198.0,,888491,omega healthcare investors inc,1,,,,20151119,bobins norman,112760215031968,,male,187043489.0
+66309.0,47182.0,888491,omega healthcare investors inc,1,,,,20151119,franke thomas f,112760215031970,,male,187043489.0
+9946.0,,888491,omega healthcare investors inc,1,,,,20151119,hill barbara b,112760215031971,,female,187043489.0
+711123.0,1000.0,888491,omega healthcare investors inc,1,,,,20151119,korman bernard j,112760215031974,,male,187043489.0
+16957.0,,888491,omega healthcare investors inc,1,,,,20151119,perks ben w,112760215031975,,male,187043489.0
+67902.0,,888491,omega healthcare investors inc,1,,,,20151119,plavin stephen d,112760215031976,,male,187043489.0
+,,888491,omega healthcare investors inc,1,,,,20151119,kloosterman harold j,112760215031989,,male,187043489.0
+,,888491,omega healthcare investors inc,1,,,,20151119,lowenthal edward,112760215031998,,male,187043489.0
+683123.0,1000.0,888491,omega healthcare investors inc,1,,,,20151201,korman bernard j,112760215032825,,male,187043489.0
+175658.0,,888491,omega healthcare investors inc,,1,,,20151230,stephenson robert o,112760215035075,Chief Financial Officer,male,187043489.0
+183550.0,,888491,omega healthcare investors inc,,1,,,20160105,stephenson robert o,112760216035635,Chief Financial Officer,male,187399000.0
+5072.0,,888491,omega healthcare investors inc,,1,,,20160105,ritz michael,112760216035630,Chief Accounting Officer,male,187399000.0
+,,888491,omega healthcare investors inc,1,1,,,20160105,pickett c taylor,112760216035624,Chief Executive Officer,male,187399000.0
+210174.0,,888491,omega healthcare investors inc,,1,,,20160105,booth daniel j,112760216035616,Chief Operating Officer,male,187399000.0
+424581.0,,888491,omega healthcare investors inc,,1,,,20160105,insoft steven j,112760216035706,Chief Corp Development Officer,male,187399000.0
+188294.0,,888491,omega healthcare investors inc,,1,,,20160119,stephenson robert o,112760216037226,Chief Financial Officer,male,187399000.0
+258461.0,4200.0,888491,omega healthcare investors inc,1,1,,,20160119,pickett c taylor,112760216037221,Chief Executive Officer,male,187399000.0
+5888.0,,888491,omega healthcare investors inc,,1,,,20160119,ritz michael,112760216037225,Chief Accounting Officer,male,187399000.0
+216283.0,,888491,omega healthcare investors inc,,1,,,20160119,booth daniel j,112760216037211,Chief Operating Officer,male,187399000.0
+673523.0,,888491,omega healthcare investors inc,1,,,,20160203,korman bernard j,112760216039239,,male,187399000.0
+53182.0,,888491,omega healthcare investors inc,1,,,,20160216,franke thomas f,112760216041137,,male,187399000.0
+673967.0,1000.0,888491,omega healthcare investors inc,1,,,,20160218,korman bernard j,112760216042062,,male,187399000.0
+,,888491,omega healthcare investors inc,1,,,,20160218,kloosterman harold j,112760216042101,,male,187399000.0
+13390.0,,888491,omega healthcare investors inc,1,,,,20160218,hill barbara b,112760216042060,,female,187399000.0
+79753.0,53182.0,888491,omega healthcare investors inc,1,,,,20160218,franke thomas f,112760216042057,,male,187399000.0
+43617.0,,888491,omega healthcare investors inc,1,,,,20160218,bobins norman,112760216042055,,male,187399000.0
+235116.0,,888491,omega healthcare investors inc,1,,,,20160218,bernfield craig m,112760216042054,,male,187399000.0
+,,888491,omega healthcare investors inc,1,,,,20160218,callen craig r,112760216042100,,male,187399000.0
+,,888491,omega healthcare investors inc,1,,,,20160218,lowenthal edward,112760216042107,,male,187399000.0
+71346.0,,888491,omega healthcare investors inc,1,,,,20160218,plavin stephen d,112760216042071,,male,187399000.0
+20401.0,,888491,omega healthcare investors inc,1,,,,20160218,perks ben w,112760216042067,,male,187399000.0
+219027.0,,888491,omega healthcare investors inc,,1,,,20160226,stephenson robert o,112760216043601,Chief Financial Officer,male,187399000.0
+,,888491,omega healthcare investors inc,,1,,,20160321,insoft steven j,112760216047004,Chief Corp Development Officer,male,187399000.0
+,,888491,omega healthcare investors inc,1,1,,,20160321,pickett c taylor,112760216047005,Chief Executive Officer,male,187399000.0
+,,888491,omega healthcare investors inc,,1,,,20160321,ritz michael,112760216047006,Chief Accounting Officer,male,187399000.0
+,,888491,omega healthcare investors inc,,1,,,20160321,stephenson robert o,112760216047007,Chief Financial Officer,male,187399000.0
+,,888491,omega healthcare investors inc,,1,,,20160321,booth daniel j,112760216047003,Chief Operating Officer,male,187399000.0
+80135.0,53182.0,888491,omega healthcare investors inc,1,,,,20160517,franke thomas f,112760216052481,,male,188170595.0
+,,888491,omega healthcare investors inc,1,,,,20160517,callen craig r,112760216052455,,male,188170595.0
+,,888491,omega healthcare investors inc,1,,,,20160517,kloosterman harold j,112760216052462,,male,188170595.0
+,,888491,omega healthcare investors inc,1,,,,20160517,lowenthal edward,112760216052466,,male,188170595.0
+43999.0,,888491,omega healthcare investors inc,1,,,,20160517,bobins norman,112760216052475,,male,188170595.0
+674349.0,1000.0,888491,omega healthcare investors inc,1,,,,20160517,korman bernard j,112760216052486,,male,188170595.0
+20783.0,,888491,omega healthcare investors inc,1,,,,20160517,perks ben w,112760216052491,,male,188170595.0
+71728.0,,888491,omega healthcare investors inc,1,,,,20160517,plavin stephen d,112760216052494,,male,188170595.0
+235498.0,,888491,omega healthcare investors inc,1,,,,20160517,bernfield craig m,112760216052469,,male,188170595.0
+13772.0,,888491,omega healthcare investors inc,1,,,,20160517,hill barbara b,112760216052483,,female,188170595.0
+1000.0,53182.0,888491,omega healthcare investors inc,1,,,,20160525,franke thomas f,112760216053389,,male,188170595.0
+46999.0,,888491,omega healthcare investors inc,1,,,,20160609,bobins norman,112760216055158,,male,188170595.0
+16772.0,,888491,omega healthcare investors inc,1,,,,20160609,hill barbara b,112760216055159,,female,188170595.0
+23783.0,,888491,omega healthcare investors inc,1,,,,20160609,perks ben w,112760216055161,,male,188170595.0
+74728.0,,888491,omega healthcare investors inc,1,,,,20160609,plavin stephen d,112760216055166,,male,188170595.0
+,,888491,omega healthcare investors inc,1,,,,20160609,callen craig r,112760216055170,,male,188170595.0
+,,888491,omega healthcare investors inc,1,,,,20160609,kloosterman harold j,112760216055175,,male,188170595.0
+,,888491,omega healthcare investors inc,1,,,,20160609,korman bernard j,112760216055181,,male,188170595.0
+46802.0,,888491,omega healthcare investors inc,1,,,,20160609,lowenthal edward,112760216055160,,male,188170595.0
+238498.0,,888491,omega healthcare investors inc,1,,,,20160609,bernfield craig m,112760216055151,,male,188170595.0
+196083.0,,888491,omega healthcare investors inc,,1,,,20160817,booth daniel j,112760216060444,Chief Operating Officer,male,193441520.0
+75064.0,,888491,omega healthcare investors inc,1,,,,20160822,plavin stephen d,112760216060780,,male,193441520.0
+,,888491,omega healthcare investors inc,1,,,,20160822,lowenthal edward,112760216060783,,male,193441520.0
+,,888491,omega healthcare investors inc,1,,,,20160822,kloosterman harold j,112760216060782,,male,193441520.0
+,,888491,omega healthcare investors inc,1,,,,20160822,callen craig r,112760216060781,,male,193441520.0
+24119.0,,888491,omega healthcare investors inc,1,,,,20160822,perks ben w,112760216060779,,male,193441520.0
+17108.0,,888491,omega healthcare investors inc,1,,,,20160822,hill barbara b,112760216060777,,female,193441520.0
+47335.0,,888491,omega healthcare investors inc,1,,,,20160822,bobins norman,112760216060776,,male,193441520.0
+238834.0,,888491,omega healthcare investors inc,1,,,,20160822,bernfield craig m,112760216060775,,male,193441520.0
+674685.0,1000.0,888491,omega healthcare investors inc,1,,,,20160822,korman bernard j,112760216060778,,male,193441520.0
+903937.0,,888491,omega healthcare investors inc,1,,,,20160908,bernfield craig m,112760216062282,,male,193441520.0
+859995.0,,888491,omega healthcare investors inc,1,,,,20160912,bernfield craig m,112760216062401,,male,193441520.0
+419081.0,,888491,omega healthcare investors inc,,1,,,20160913,insoft steven j,112760216062439,Chief Corp Development Officer,male,193441520.0
+8200.0,,888491,omega healthcare investors inc,1,1,,,20161107,pickett c taylor,112760216066195,Chief Executive Officer,male,195142685.0
+774685.0,1000.0,888491,omega healthcare investors inc,1,,,,20161107,korman bernard j,112760216066194,,male,195142685.0
+47768.0,,888491,omega healthcare investors inc,1,,,,20161117,bobins norman,112760216067549,,male,195142685.0
+860428.0,,888491,omega healthcare investors inc,1,,,,20161117,bernfield craig m,112760216067547,,male,195142685.0
+775118.0,1000.0,888491,omega healthcare investors inc,1,,,,20161117,korman bernard j,112760216067553,,male,195142685.0
+24552.0,,888491,omega healthcare investors inc,1,,,,20161117,perks ben w,112760216067554,,male,195142685.0
+75497.0,,888491,omega healthcare investors inc,1,,,,20161117,plavin stephen d,112760216067555,,male,195142685.0
+,,888491,omega healthcare investors inc,1,,,,20161117,callen craig r,112760216067556,,male,195142685.0
+,,888491,omega healthcare investors inc,1,,,,20161117,kloosterman harold j,112760216067557,,male,195142685.0
+,,888491,omega healthcare investors inc,1,,,,20161117,lowenthal edward,112760216067558,,male,195142685.0
+17541.0,,888491,omega healthcare investors inc,1,,,,20161117,hill barbara b,112760216067551,,female,195142685.0
+45062.0,,888491,omega healthcare investors inc,1,,,,20161128,lowenthal edward,112760216068443,,male,195142685.0
+218827.0,,888491,omega healthcare investors inc,,1,,,20170103,stephenson robert o,112760217000001,Chief Financial Officer,male,196142000.0
+222702.0,,888491,omega healthcare investors inc,,1,,,20170110,booth daniel j,112760217001442,Chief Operating Officer,male,196142000.0
+305505.0,8200.0,888491,omega healthcare investors inc,1,1,,,20170110,pickett c taylor,112760217001460,Chief Executive Officer,male,196142000.0
+8770.0,,888491,omega healthcare investors inc,,1,,,20170110,ritz michael,112760217001465,Chief Accounting Officer,male,196142000.0
+240153.0,,888491,omega healthcare investors inc,,1,,,20170110,stephenson robert o,112760217001466,Chief Financial Officer,male,196142000.0
+424076.0,,888491,omega healthcare investors inc,,1,,,20170110,insoft steven j,112760217001478,Chief Corp Development Officer,male,196142000.0
+,,888491,omega healthcare investors inc,,1,,,20170118,ritz michael,112760217001842,Chief Accounting Officer,male,196142000.0
+,,888491,omega healthcare investors inc,,1,,,20170118,insoft steven j,112760217001814,Chief Corp Development Officer,male,196142000.0
+,,888491,omega healthcare investors inc,1,1,,,20170118,pickett c taylor,112760217001816,Chief Executive Officer,male,196142000.0
+,,888491,omega healthcare investors inc,,1,,,20170118,booth daniel j,112760217001846,Chief Operating Officer,male,196142000.0
+,,888491,omega healthcare investors inc,,1,,,20170118,stephenson robert o,112760217001845,Chief Financial Officer,male,196142000.0
+,,888491,omega healthcare investors inc,1,,,,20170221,callen craig r,112760217007328,,male,196142000.0
+75898.0,,888491,omega healthcare investors inc,1,,,,20170221,plavin stephen d,112760217007213,,male,196142000.0
+803519.0,1000.0,888491,omega healthcare investors inc,1,,,,20170221,korman bernard j,112760217007208,,male,196142000.0
+,,888491,omega healthcare investors inc,1,,,,20170221,kloosterman harold j,112760217007335,,male,196142000.0
+17942.0,,888491,omega healthcare investors inc,1,,,,20170221,hill barbara b,112760217007162,,female,196142000.0
+22928.0,,888491,omega healthcare investors inc,1,,,,20170221,perks ben w,112760217007277,,male,196142000.0
+,,888491,omega healthcare investors inc,1,,,,20170221,lowenthal edward,112760217007371,,male,196142000.0
+48168.0,,888491,omega healthcare investors inc,1,,,,20170221,bobins norman,112760217007263,,male,196142000.0
+860829.0,,888491,omega healthcare investors inc,1,,,,20170221,bernfield craig m,112760217007132,,male,196142000.0
+411576.0,,888491,omega healthcare investors inc,0,1,0,0,20170315,insoft steven j,157104917002437,Chief Corp Development Officer,male,196142000.0
+44653.0,,888491,omega healthcare investors inc,1,,,,20170322,lowenthal edward,112760217012589,,male,196142000.0
+324076.0,,888491,omega healthcare investors inc,,1,,,20170413,insoft steven j,112760217014722,Chief Corp Development Officer,male,196761000.0
+12986.0,,888491,omega healthcare investors inc,,1,,,20170417,ritz michael,112760217014832,Chief Accounting Officer,male,196761000.0
+803895.0,1000.0,888491,omega healthcare investors inc,1,,,,20170518,korman bernard j,112760217018675,,male,196809064.0
+23304.0,,888491,omega healthcare investors inc,1,,,,20170518,perks ben w,112760217018689,,male,196809064.0
+76274.0,,888491,omega healthcare investors inc,1,,,,20170518,plavin stephen d,112760217018694,,male,196809064.0
+,,888491,omega healthcare investors inc,1,,,,20170518,callen craig r,112760217018699,,male,196809064.0
+,,888491,omega healthcare investors inc,1,,,,20170518,kloosterman harold j,112760217018700,,male,196809064.0
+,,888491,omega healthcare investors inc,1,,,,20170518,lowenthal edward,112760217018702,,male,196809064.0
+48544.0,,888491,omega healthcare investors inc,1,,,,20170518,bobins norman,112760217018665,,male,196809064.0
+861205.0,,888491,omega healthcare investors inc,1,,,,20170518,bernfield craig m,112760217018656,,male,196809064.0
+18318.0,,888491,omega healthcare investors inc,1,,,,20170518,hill barbara b,112760217018670,,female,196809064.0
+34499.0,,888491,omega healthcare investors inc,1,,,,20170605,perks ben w,112760217020489,,male,196809064.0
+18000.0,,888491,omega healthcare investors inc,1,,,,20170605,callen craig r,112760217020491,,male,196809064.0
+,,888491,omega healthcare investors inc,1,,,,20170609,korman bernard j,112760217021031,,male,196809064.0
+39302.0,,888491,omega healthcare investors inc,1,,,,20170609,perks ben w,112760217021027,,male,196809064.0
+81077.0,,888491,omega healthcare investors inc,1,,,,20170609,plavin stephen d,112760217021028,,male,196809064.0
+49456.0,,888491,omega healthcare investors inc,1,,,,20170609,lowenthal edward,112760217021026,,male,196809064.0
+24722.0,,888491,omega healthcare investors inc,1,,,,20170609,hill barbara b,112760217021025,,female,196809064.0
+866008.0,,888491,omega healthcare investors inc,1,,,,20170609,bernfield craig m,112760217021021,,male,196809064.0
+,,888491,omega healthcare investors inc,1,,,,20170609,callen craig r,112760217021030,,male,196809064.0
+54948.0,,888491,omega healthcare investors inc,1,,,,20170609,bobins norman,112760217021023,,male,196809064.0
+47076.0,,888491,omega healthcare investors inc,1,,,,20170619,lowenthal edward,112760217021636,,male,196809064.0
+,,888491,omega healthcare investors inc,0,1,0,0,20170628,booth daniel j,157104917006315,Chief Operating Officer,male,196809064.0
+,,888491,omega healthcare investors inc,0,1,0,0,20170629,stephenson robert o,157104917006352,Chief Financial Officer,male,196809064.0
+903895.0,1000.0,888491,omega healthcare investors inc,1,,,,20171102,korman bernard j,112760217030928,,male,198073305.0
+28000.0,,888491,omega healthcare investors inc,1,,,,20171103,callen craig r,112760217031171,,male,198073305.0
+996895.0,1000.0,888491,omega healthcare investors inc,1,,,,20171226,korman bernard j,112760217035469,,male,198073305.0
+217811.0,,888491,omega healthcare investors inc,,1,,,20180112,booth daniel j,112760218001666,Chief Operating Officer,male,198309000.0
+334745.0,8200.0,888491,omega healthcare investors inc,1,1,,,20180112,pickett c taylor,112760218001672,Chief Executive Officer,male,198309000.0
+16076.0,,888491,omega healthcare investors inc,,1,,,20180112,ritz michael,112760218001675,Chief Accounting Officer,male,198309000.0
+230463.0,,888491,omega healthcare investors inc,,1,,,20180112,stephenson robert o,112760218001676,Chief Financial Officer,male,198309000.0
+340720.0,,888491,omega healthcare investors inc,,1,,,20180112,insoft steven j,112760218001667,Chief Corp Development Officer,male,198309000.0
+334145.0,8200.0,888491,omega healthcare investors inc,1,1,,,20180404,pickett c taylor,112760218013943,Chief Executive Officer,male,198595000.0
+870949.0,,888491,omega healthcare investors inc,1,,,,20180611,bernfield craig m,112760218020599,,male,200335705.0
+4941.0,,888491,omega healthcare investors inc,1,,,,20180611,anand kapila k,112760218020594,,male,200335705.0
+61536.0,,888491,omega healthcare investors inc,1,,,,20180611,bobins norman,112760218020608,,male,200335705.0
+86018.0,,888491,omega healthcare investors inc,1,,,,20180612,plavin stephen d,112760218020660,,male,200335705.0
+31310.0,,888491,omega healthcare investors inc,1,,,,20180612,hill barbara b,112760218020656,,female,200335705.0
+52017.0,,888491,omega healthcare investors inc,1,,,,20180612,lowenthal edward,112760218020658,,male,200335705.0
+44243.0,,888491,omega healthcare investors inc,1,,,,20180612,perks ben w,112760218020659,,male,200335705.0
+,,888491,omega healthcare investors inc,1,,,,20180612,callen craig r,112760218020664,,male,200335705.0
+50272.0,,888491,omega healthcare investors inc,1,,,,20180730,lowenthal edward,112760218024016,,male,200332000.0
+48527.0,,888491,omega healthcare investors inc,1,,,,20180802,lowenthal edward,112760218024397,,male,200332000.0
+38669.0,,888491,omega healthcare investors inc,1,,,,20181030,lowenthal edward,112760218031252,,male,200693000.0
+2700.0,,888491,omega healthcare investors inc,1,0,0,0,20181105,whitman burke w,95013818000592,,male,200696539.0
+10076.0,,888491,omega healthcare investors inc,,1,,,20181119,ritz michael,112760218033611,Chief Accounting Officer,male,200696539.0
+8076.0,,888491,omega healthcare investors inc,,1,,,20181120,ritz michael,112760218033886,Chief Accounting Officer,male,200696539.0
+6076.0,,888491,omega healthcare investors inc,,1,,,20181121,ritz michael,112760218034069,Chief Accounting Officer,male,200696539.0
+3076.0,,888491,omega healthcare investors inc,,1,,,20181129,ritz michael,112760218034636,Chief Accounting Officer,male,200696539.0
+315720.0,,888491,omega healthcare investors inc,,1,,,20181212,insoft steven j,112760218035965,Chief Corp Development Officer,male,200696539.0
+227206.0,,888491,omega healthcare investors inc,,1,,,20190103,booth daniel j,112760219000546,Chief Operating Officer,male,202346000.0
+325146.0,,888491,omega healthcare investors inc,,1,,,20190103,insoft steven j,112760219000547,Chief Corp Development Officer,male,202346000.0
+351921.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190103,pickett c taylor,112760219000563,Chief Executive Officer,male,202346000.0
+5872.0,,888491,omega healthcare investors inc,,1,,,20190103,ritz michael,112760219000568,Chief Accounting Officer,male,202346000.0
+238621.0,,888491,omega healthcare investors inc,,1,,,20190103,stephenson robert o,112760219000571,Chief Financial Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190111,ritz michael,112760219001866,Chief Accounting Officer,male,202346000.0
+,,888491,omega healthcare investors inc,1,1,,,20190111,pickett c taylor,112760219001865,Chief Executive Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190111,stephenson robert o,112760219001867,Chief Financial Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190111,booth daniel j,112760219001858,Chief Operating Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190111,insoft steven j,112760219001861,Chief Corp Development Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190123,booth daniel j,112760219002591,Chief Operating Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190123,insoft steven j,112760219002592,Chief Corp Development Officer,male,202346000.0
+,,888491,omega healthcare investors inc,1,1,,,20190123,pickett c taylor,112760219002593,Chief Executive Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190123,ritz michael,112760219002594,Chief Accounting Officer,male,202346000.0
+,,888491,omega healthcare investors inc,,1,,,20190123,stephenson robert o,112760219002595,Chief Financial Officer,male,202346000.0
+275146.0,,888491,omega healthcare investors inc,,1,,,20190204,insoft steven j,112760219003626,Chief Corp Development Officer,male,202346000.0
+250146.0,,888491,omega healthcare investors inc,,1,,,20190204,insoft steven j,112760219003813,Chief Corp Development Officer,male,202346000.0
+4050.0,,888491,omega healthcare investors inc,1,,,,20190214,whitman burke w,112760219006030,,male,202346000.0
+9552.0,,888491,omega healthcare investors inc,,1,,,20190222,ritz michael,112760219007625,Chief Accounting Officer,male,202346000.0
+187206.0,,888491,omega healthcare investors inc,,1,,,20190314,booth daniel j,112760219011317,Chief Operating Officer,male,202346000.0
+40558.0,,888491,omega healthcare investors inc,1,,,,20190326,perks ben w,112760219013197,,male,202346000.0
+329133.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190401,pickett c taylor,112760219013895,Chief Executive Officer,male,207001000.0
+243326.0,,888491,omega healthcare investors inc,,1,,,20190403,stephenson robert o,112760219014749,Chief Financial Officer,male,207001000.0
+255681.0,,888491,omega healthcare investors inc,,1,,,20190403,insoft steven j,112760219014744,Chief Corp Development Officer,male,207001000.0
+11269.0,,888491,omega healthcare investors inc,,1,,,20190403,ritz michael,112760219014745,Chief Accounting Officer,male,207001000.0
+,,888491,omega healthcare investors inc,1,1,,,20190403,pickett c taylor,112760219014742,Chief Executive Officer,male,207001000.0
+192723.0,,888491,omega healthcare investors inc,,1,,,20190403,booth daniel j,112760219014743,Chief Operating Officer,male,207001000.0
+233326.0,,888491,omega healthcare investors inc,,1,,,20190515,stephenson robert o,112760219018588,Chief Financial Officer,male,207025691.0
+,,888491,omega healthcare investors inc,1,,,,20190611,lowenthal edward,112760219021321,,male,207025691.0
+,,888491,omega healthcare investors inc,1,,,,20190611,callen craig r,112760219021319,,male,207025691.0
+8188.0,,888491,omega healthcare investors inc,1,,,,20190611,whitman burke w,112760219021300,,male,207025691.0
+,,888491,omega healthcare investors inc,1,,,,20190611,hill barbara b,112760219021320,,female,207025691.0
+67053.0,,888491,omega healthcare investors inc,1,,,,20190611,bobins norman,112760219021298,,male,207025691.0
+9079.0,,888491,omega healthcare investors inc,1,,,,20190611,anand kapila k,112760219021297,,male,207025691.0
+90156.0,,888491,omega healthcare investors inc,1,,,,20190611,plavin stephen d,112760219021299,,male,207025691.0
+299133.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190621,pickett c taylor,112760219022531,Chief Executive Officer,male,207025691.0
+223326.0,,888491,omega healthcare investors inc,,1,,,20190621,stephenson robert o,112760219022532,Chief Financial Officer,male,207025691.0
+239133.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190625,pickett c taylor,112760219022694,Chief Executive Officer,male,207025691.0
+233433.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190627,pickett c taylor,112760219022872,Chief Executive Officer,male,207025691.0
+,,888491,omega healthcare investors inc,1,1,,,20190702,pickett c taylor,112760219023718,Chief Executive Officer,male,216089000.0
+198241.0,,888491,omega healthcare investors inc,,1,,,20190702,booth daniel j,112760219023559,Chief Operating Officer,male,216089000.0
+261216.0,,888491,omega healthcare investors inc,,1,,,20190702,insoft steven j,112760219023585,Chief Corp Development Officer,male,216089000.0
+12985.0,,888491,omega healthcare investors inc,,1,,,20190703,ritz michael,112760219023828,Chief Accounting Officer,male,216089000.0
+228130.0,,888491,omega healthcare investors inc,,1,,,20190703,stephenson robert o,112760219023832,Chief Financial Officer,male,216089000.0
+227933.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190709,pickett c taylor,112760219024204,Chief Executive Officer,male,216089000.0
+206857.0,8200.0,888491,omega healthcare investors inc,1,1,,,20190710,pickett c taylor,112760219024355,Chief Executive Officer,male,216089000.0
+218130.0,,888491,omega healthcare investors inc,,1,,,20190819,stephenson robert o,112760219026968,Chief Financial Officer,male,216553668.0
+178241.0,,888491,omega healthcare investors inc,,1,,,20190826,booth daniel j,112760219027369,Chief Operating Officer,male,216553668.0
+210130.0,,888491,omega healthcare investors inc,,1,,,20190826,stephenson robert o,112760219027358,Chief Financial Officer,male,216553668.0
+7985.0,,888491,omega healthcare investors inc,,1,,,20190826,ritz michael,112760219027357,Chief Accounting Officer,male,216553668.0
+5485.0,,888491,omega healthcare investors inc,,1,,,20190925,ritz michael,112760219029086,Chief Accounting Officer,male,216553668.0
+266751.0,,888491,omega healthcare investors inc,,1,,,20191003,insoft steven j,112760219029972,Chief Corp Development Officer,male,218478000.0
+,,888491,omega healthcare investors inc,1,1,,,20191003,pickett c taylor,112760219029995,Chief Executive Officer,male,218478000.0
+214935.0,,888491,omega healthcare investors inc,,1,,,20191003,stephenson robert o,112760219029984,Chief Financial Officer,male,218478000.0
+7202.0,,888491,omega healthcare investors inc,,1,,,20191003,ritz michael,112760219029978,Chief Accounting Officer,male,218478000.0
+183758.0,,888491,omega healthcare investors inc,,1,,,20191003,booth daniel j,112760219029964,Chief Operating Officer,male,218478000.0
+199986.0,,888491,omega healthcare investors inc,,1,,,20200103,booth daniel j,112760220000568,Chief Operating Officer,male,226631000.0
+12140.0,,888491,omega healthcare investors inc,,1,,,20200103,ritz michael,112760220000619,Chief Accounting Officer,male,226631000.0
+227721.0,,888491,omega healthcare investors inc,,1,,,20200103,stephenson robert o,112760220000693,Chief Financial Officer,male,226631000.0
+226612.0,8200.0,888491,omega healthcare investors inc,1,1,,,20200103,pickett c taylor,112760220000810,Chief Executive Officer,male,226631000.0
+283032.0,,888491,omega healthcare investors inc,,1,,,20200103,insoft steven j,112760220000589,Chief Corp Development Officer,male,226631000.0
+233032.0,,888491,omega healthcare investors inc,,1,,,20200107,insoft steven j,112760220001270,Chief Corp Development Officer,male,226631000.0
+,,888491,omega healthcare investors inc,,1,,,20200114,insoft steven j,112760220001539,Chief Corp Development Officer,male,226631000.0
+,,888491,omega healthcare investors inc,,1,,,20200114,ritz michael,112760220001567,Chief Accounting Officer,male,226631000.0
+,,888491,omega healthcare investors inc,1,1,,,20200114,pickett c taylor,112760220001546,Chief Executive Officer,male,226631000.0
+,,888491,omega healthcare investors inc,,1,,,20200114,makode gail d,112760220001540,Chief Legal Officer,female,226631000.0
+,,888491,omega healthcare investors inc,,1,,,20200114,booth daniel j,112760220001534,Chief Operating Officer,male,226631000.0
+,,888491,omega healthcare investors inc,,1,,,20200114,stephenson robert o,112760220001568,Chief Financial Officer,male,226631000.0
+183032.0,,888491,omega healthcare investors inc,,1,,,20200121,insoft steven j,112760220002093,Chief Corp Development Officer,male,226631000.0
+174986.0,,888491,omega healthcare investors inc,,1,,,20200212,booth daniel j,112760220005033,Chief Operating Officer,male,226631000.0
+149986.0,,888491,omega healthcare investors inc,,1,,,20200218,booth daniel j,112760220005994,Chief Operating Officer,male,226631000.0
+0.0,,888491,omega healthcare investors inc,1,1,,,20200224,pickett c taylor,112760220007312,Chief Executive Officer,male,226631000.0
+32000.0,,888491,omega healthcare investors inc,1,,,,20200313,callen craig r,112760220010578,,male,226631000.0
+37000.0,,888491,omega healthcare investors inc,1,,,,20200317,callen craig r,112760220010995,,male,226631000.0
+8988.0,,888491,omega healthcare investors inc,1,,,,20200601,whitman burke w,112760220018228,,male,226901698.0
+10353.0,,888491,omega healthcare investors inc,,1,,,20200608,ritz michael,112760220019092,Chief Accounting Officer,male,226901698.0
+162453.0,,888491,omega healthcare investors inc,,1,,,20200609,booth daniel j,112760220019202,Chief Operating Officer,male,226901698.0
+191296.0,,888491,omega healthcare investors inc,,1,,,20200609,insoft steven j,112760220019204,Chief Corp Development Officer,male,226901698.0
+,,888491,omega healthcare investors inc,1,1,,,20200609,pickett c taylor,112760220019206,Chief Executive Officer,male,226901698.0
+15247.0,,888491,omega healthcare investors inc,,1,,,20200609,ritz michael,112760220019221,Chief Accounting Officer,male,226901698.0
+235122.0,,888491,omega healthcare investors inc,,1,,,20200609,stephenson robert o,112760220019226,Chief Financial Officer,male,226901698.0
+13676.0,,888491,omega healthcare investors inc,1,,,,20200615,anand kapila k,112760220019547,,male,226901698.0
+94753.0,,888491,omega healthcare investors inc,1,,,,20200615,plavin stephen d,112760220019548,,male,226901698.0
+13585.0,,888491,omega healthcare investors inc,1,,,,20200615,whitman burke w,112760220019549,,male,226901698.0
+,,888491,omega healthcare investors inc,1,,,,20200615,lowenthal edward,112760220019567,,male,226901698.0
+,,888491,omega healthcare investors inc,1,,,,20200615,hill barbara b,112760220019566,,female,226901698.0
+,,888491,omega healthcare investors inc,1,,,,20200615,callen craig r,112760220019565,,male,226901698.0
+,,888491,omega healthcare investors inc,1,1,,,20200702,pickett c taylor,112760220020834,Chief Executive Officer,male,226943000.0
+197807.0,,888491,omega healthcare investors inc,,1,,,20200702,insoft steven j,112760220020823,Chief Corp Development Officer,male,226943000.0
+15641.0,,888491,omega healthcare investors inc,,1,,,20200702,ritz michael,112760220020820,Chief Accounting Officer,male,226943000.0
+240886.0,,888491,omega healthcare investors inc,,1,,,20200702,stephenson robert o,112760220020803,Chief Financial Officer,male,226943000.0
+14085.0,,888491,omega healthcare investors inc,1,,,,20200702,whitman burke w,112760220020762,,male,226943000.0
+169024.0,,888491,omega healthcare investors inc,,1,,,20200702,booth daniel j,112760220020828,Chief Operating Officer,male,226943000.0
+14585.0,,888491,omega healthcare investors inc,1,,,,20200805,whitman burke w,112760220022780,,male,226971092.0
+15085.0,,888491,omega healthcare investors inc,1,,,,20200901,whitman burke w,112760220024521,,male,226971092.0
+15585.0,,888491,omega healthcare investors inc,1,,,,20201002,whitman burke w,112760220026178,,male,226980000.0
+204317.0,,888491,omega healthcare investors inc,,1,,,20201005,insoft steven j,112760220026452,Chief Corp Development Officer,male,226980000.0
+,,888491,omega healthcare investors inc,1,1,,,20201005,pickett c taylor,112760220026455,Chief Executive Officer,male,226980000.0
+246651.0,,888491,omega healthcare investors inc,,1,,,20201005,stephenson robert o,112760220026454,Chief Financial Officer,male,226980000.0
+175595.0,,888491,omega healthcare investors inc,,1,,,20201005,booth daniel j,112760220026449,Chief Operating Officer,male,226980000.0
+3173.0,,888491,omega healthcare investors inc,1,,,,20201026,jacobs kevin j,112760220027485,,male,226980000.0
+16085.0,,888491,omega healthcare investors inc,1,,,,20201103,whitman burke w,112760220027932,,male,227003999.0
+16585.0,,888491,omega healthcare investors inc,1,,,,20201201,whitman burke w,112760220030189,,male,227003999.0
+215251.0,,888491,omega healthcare investors inc,,1,,,20201228,stephenson robert o,112760220032369,Chief Financial Officer,male,227003999.0
+5000.0,,888491,omega healthcare investors inc,1,1,,,20201230,pickett c taylor,112760220032561,Chief Executive Officer,male,227003999.0
+150595.0,,888491,omega healthcare investors inc,,1,,,20201231,booth daniel j,112760220032611,Chief Operating Officer,male,231199000.0
+17085.0,,888491,omega healthcare investors inc,1,,,,20210104,whitman burke w,112760221000018,,male,231199000.0
+172530.0,,888491,omega healthcare investors inc,,1,,,20210106,booth daniel j,112760221000981,Chief Operating Officer,male,231199000.0
+227392.0,,888491,omega healthcare investors inc,,1,,,20210106,insoft steven j,112760221001055,Chief Corp Development Officer,male,231199000.0
+236134.0,,888491,omega healthcare investors inc,,1,,,20210106,stephenson robert o,112760221001090,Chief Financial Officer,male,231199000.0
+32825.0,0.0,888491,omega healthcare investors inc,1,1,,,20210106,pickett c taylor,112760221001124,Chief Executive Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210111,booth daniel j,112760221001417,Chief Operating Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210111,insoft steven j,112760221001425,Chief Corp Development Officer,male,231199000.0
+,,888491,omega healthcare investors inc,1,1,,,20210111,pickett c taylor,112760221001427,Chief Executive Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210111,stephenson robert o,112760221001430,Chief Financial Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210121,stephenson robert o,112760221002222,Chief Financial Officer,male,231199000.0
+,,888491,omega healthcare investors inc,1,1,,,20210121,pickett c taylor,112760221002219,Chief Executive Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210121,makode gail d,112760221002218,Chief Legal Officer,female,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210121,booth daniel j,112760221002214,Chief Operating Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210121,ballew neal,112760221002211,Chief Accounting Officer,male,231199000.0
+,,888491,omega healthcare investors inc,,1,,,20210121,insoft steven j,112760221002215,Chief Corp Development Officer,male,231199000.0
+17585.0,,888491,omega healthcare investors inc,1,,,,20210201,whitman burke w,112760221003204,,male,231199000.0
+4575.0,,888491,omega healthcare investors inc,1,1,,,20210212,pickett c taylor,112760221005340,Chief Executive Officer,male,231776284.0
+202392.0,,888491,omega healthcare investors inc,,1,,,20210212,insoft steven j,112760221005351,Chief Corp Development Officer,male,231776284.0
+216134.0,,888491,omega healthcare investors inc,,1,,,20210224,stephenson robert o,112760221007543,Chief Financial Officer,male,231776284.0
+18085.0,,888491,omega healthcare investors inc,1,,,,20210301,whitman burke w,112760221008213,,male,231776284.0
+147530.0,,888491,omega healthcare investors inc,,1,,,20210331,booth daniel j,112760221012381,Chief Operating Officer,male,233386000.0
+18585.0,,888491,omega healthcare investors inc,1,,,,20210401,whitman burke w,112760221012520,,male,233386000.0
+222506.0,,888491,omega healthcare investors inc,,1,,,20210405,stephenson robert o,112760221012934,Chief Financial Officer,male,233386000.0
+209588.0,,888491,omega healthcare investors inc,,1,,,20210405,insoft steven j,112760221012975,Chief Corp Development Officer,male,233386000.0
+,,888491,omega healthcare investors inc,1,1,,,20210405,pickett c taylor,112760221012984,Chief Executive Officer,male,233386000.0
+154792.0,,888491,omega healthcare investors inc,,1,,,20210405,booth daniel j,112760221012923,Chief Operating Officer,male,233386000.0
+19085.0,,888491,omega healthcare investors inc,1,,,,20210504,whitman burke w,112760221015107,,male,235359702.0
+19585.0,,888491,omega healthcare investors inc,1,,,,20210601,whitman burke w,112760221018398,,male,235359702.0
+,,888491,omega healthcare investors inc,1,,,,20210609,callen craig r,112760221019487,,male,235359702.0
+,,888491,omega healthcare investors inc,1,,,,20210609,hill barbara b,112760221019494,,female,235359702.0
+8754.0,,888491,omega healthcare investors inc,1,,,,20210609,jacobs kevin j,112760221019496,,male,235359702.0
+,,888491,omega healthcare investors inc,1,,,,20210609,plavin stephen d,112760221019504,,male,235359702.0
+23534.0,,888491,omega healthcare investors inc,1,,,,20210609,whitman burke w,112760221019505,,male,235359702.0
+,,888491,omega healthcare investors inc,1,,,,20210609,anand kapila k,112760221019483,,male,235359702.0
+,,888491,omega healthcare investors inc,1,,,,20210609,lowenthal edward,112760221019497,,male,235359702.0
+159588.0,,888491,omega healthcare investors inc,,1,,,20210628,insoft steven j,112760221020729,Chief Corp Development Officer,male,235359702.0
+24034.0,,888491,omega healthcare investors inc,1,,,,20210701,whitman burke w,112760221020924,,male,237570000.0
+,,888491,omega healthcare investors inc,1,1,,,20210701,pickett c taylor,112760221020979,Chief Executive Officer,male,237570000.0
+162054.0,,888491,omega healthcare investors inc,,1,,,20210701,booth daniel j,112760221020982,Chief Operating Officer,male,237570000.0
+166784.0,,888491,omega healthcare investors inc,,1,,,20210701,insoft steven j,112760221020983,Chief Corp Development Officer,male,237570000.0
+228877.0,,888491,omega healthcare investors inc,,1,,,20210701,stephenson robert o,112760221020997,Chief Financial Officer,male,237570000.0
+255.0,,888491,omega healthcare investors inc,,1,,,20210721,ballew neal,112760221022307,Chief Accounting Officer,male,237570000.0
+,,888491,omega healthcare investors inc,1,,,,20210726,anand kapila k,112760221022494,,male,237570000.0
+,,888491,omega healthcare investors inc,1,,,,20210726,hill barbara b,112760221022497,,female,237570000.0
+9635.0,,888491,omega healthcare investors inc,1,,,,20210726,jacobs kevin j,112760221022495,,male,237570000.0
+,,888491,omega healthcare investors inc,1,,,,20210726,callen craig r,112760221022496,,male,237570000.0
+24534.0,,888491,omega healthcare investors inc,1,,,,20210802,whitman burke w,112760221022727,,male,238875381.0
+3387.0,,888491,omega healthcare investors inc,1,,,,20210803,egbuonu-davis lisa,112760221022829,,female,238875381.0
+25034.0,,888491,omega healthcare investors inc,1,,,,20210901,whitman burke w,112760221024647,,male,238875381.0
+,,888491,omega healthcare investors inc,1,1,,,20210908,pickett c taylor,112760221024992,Chief Executive Officer,male,238875381.0
+169316.0,,888491,omega healthcare investors inc,,1,,,20211004,booth daniel j,112760221026432,Chief Operating Officer,male,238939000.0
+,,888491,omega healthcare investors inc,1,1,,,20211004,pickett c taylor,112760221026429,Chief Executive Officer,male,238939000.0
+235249.0,,888491,omega healthcare investors inc,,1,,,20211004,stephenson robert o,112760221026445,Chief Financial Officer,male,238939000.0
+173980.0,,888491,omega healthcare investors inc,,1,,,20211004,insoft steven j,112760221026438,Chief Corp Development Officer,male,238939000.0
+564.0,,888491,omega healthcare investors inc,,1,,,20211026,ballew neal,112760221027621,Chief Accounting Officer,male,238939000.0
+14676.0,,888491,omega healthcare investors inc,1,,,,20211115,anand kapila k,112760221029098,,male,238974122.0
+1000.0,,888491,omega healthcare investors inc,,1,,,20211117,makode gail d,112760221029400,Chief Legal Officer,female,238974122.0
+180929.0,,888491,omega healthcare investors inc,,1,,,20220104,insoft steven j,112760222000504,Chief Corp Development Officer,male,239061000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20220104,pickett c taylor,141588922000116,CHIEF EXECUTIVE OFFICER,male,239061000.0
+186567.0,,888491,omega healthcare investors inc,false,true,false,false,20220104,booth daniel j,141588922000163,CHIEF OPERATING OFFICER,male,239061000.0
+241373.0,,888491,omega healthcare investors inc,false,true,false,false,20220104,stephenson robert o,141588922000169,CHIEF FINANCIAL OFFICER,male,239061000.0
+241373.0,,888491,omega healthcare investors inc,false,true,false,false,20220104,stephenson robert o,141588922000220,CHIEF FINANCIAL OFFICER,male,239061000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20220114,booth daniel j,141588922000582,CHIEF OPERATING OFFICER,male,239061000.0
+874.0,,888491,omega healthcare investors inc,false,true,false,false,20220114,ballew neal,141588922000580,CHIEF ACCOUNTING OFFICER,male,239061000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20220114,pickett c taylor,141588922000565,CHIEF EXECUTIVE OFFICER,male,239061000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20220114,stephenson robert o,141588922000567,CHIEF FINANCIAL OFFICER,male,239061000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20220114,makode gail d,141588922000577,CHIEF LEGAL OFFICER,female,239061000.0
+1187.0,,888491,omega healthcare investors inc,false,true,false,false,20220408,ballew neal,141588922003956,CHIEF ACCOUNTING OFFICER,male,238206000.0
+4100.0,,888491,omega healthcare investors inc,true,true,false,false,20220511,pickett c taylor,141588922004839,CHIEF EXECUTIVE OFFICER,male,235216880.0
+,,888491,omega healthcare investors inc,true,false,false,false,20220606,plavin stephen d,141588922006181,,male,235216880.0
+,,888491,omega healthcare investors inc,true,false,false,false,20220606,callen craig r,141588922006179,,male,235216880.0
+,,888491,omega healthcare investors inc,true,false,false,false,20220606,hill barbara b,141588922006184,,female,235216880.0
+30165.0,,888491,omega healthcare investors inc,true,false,false,false,20220606,whitman burke w,141588922006173,,male,235216880.0
+8518.0,,888491,omega healthcare investors inc,true,false,false,false,20220606,egbuonu-davis lisa,141588922006171,,female,235216880.0
+18016.0,,888491,omega healthcare investors inc,true,false,false,false,20220606,jacobs kevin j,141588922006175,,male,235216880.0
+,,888491,omega healthcare investors inc,true,false,false,false,20220607,anand kapila k,141588922006194,,male,235216880.0
+1516.0,,888491,omega healthcare investors inc,false,true,false,false,20220714,ballew neal,141588922007667,CHIEF ACCOUNTING OFFICER,male,234102000.0
+1845.0,,888491,omega healthcare investors inc,false,true,false,false,20221007,ballew neal,141588922010406,CHIEF ACCOUNTING OFFICER,male,234176000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20230104,pickett c taylor,141588923000271,CHIEF EXECUTIVE OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230104,stephenson robert o,141588923000273,CHIEF FINANCIAL OFFICER,male,234252000.0
+195636.0,,888491,omega healthcare investors inc,false,true,false,false,20230104,booth daniel j,141588923000286,CHIEF OPERATING OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230104,makode gail d,141588923000300,CHIEF LEGAL OFFICER,female,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230111,makode gail d,141588923000821,CHIEF LEGAL OFFICER,female,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230111,booth daniel j,141588923000824,CHIEF OPERATING OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230111,stephenson robert o,141588923000816,CHIEF FINANCIAL OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20230111,pickett c taylor,141588923000817,CHIEF EXECUTIVE OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230113,ballew neal,141588923000966,CHIEF ACCOUNTING OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20230113,pickett c taylor,141588923000967,CHIEF EXECUTIVE OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230113,booth daniel j,141588923000968,CHIEF OPERATING OFFICER,male,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230113,makode gail d,141588923000969,CHIEF LEGAL OFFICER,female,234252000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230113,stephenson robert o,141588923000970,CHIEF FINANCIAL OFFICER,male,234252000.0
+2098.0,,888491,omega healthcare investors inc,false,true,false,false,20230404,ballew neal,141588923005923,CHIEF ACCOUNTING OFFICER,male,234346000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230404,makode gail d,141588923005930,CHIEF LEGAL OFFICER,female,234346000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230404,stephenson robert o,141588923005938,CHIEF FINANCIAL OFFICER,male,234346000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230404,booth daniel j,141588923005943,CHIEF OPERATING OFFICER,male,234346000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20230404,pickett c taylor,141588923005950,CHIEF EXECUTIVE OFFICER,male,234346000.0
+195386.0,,888491,omega healthcare investors inc,false,true,false,false,20230518,booth daniel j,141588923008267,CHIEF OPERATING OFFICER,male,234353375.0
+35160.0,,888491,omega healthcare investors inc,true,false,false,false,20230607,whitman burke w,141588923009383,,male,234353375.0
+26174.0,,888491,omega healthcare investors inc,true,false,false,false,20230607,jacobs kevin j,141588923009385,,male,234353375.0
+,,888491,omega healthcare investors inc,true,false,false,false,20230607,hill barbara b,141588923009386,,female,234353375.0
+13513.0,,888491,omega healthcare investors inc,true,false,false,false,20230607,egbuonu-davis lisa,141588923009387,,female,234353375.0
+,,888491,omega healthcare investors inc,true,false,false,false,20230607,callen craig r,141588923009388,,male,234353375.0
+,,888491,omega healthcare investors inc,true,false,false,false,20230607,anand kapila k,141588923009389,,male,234353375.0
+,,888491,omega healthcare investors inc,true,false,false,false,20230607,plavin stephen d,141588923009384,,male,234353375.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230630,makode gail d,141588923010477,CHIEF LEGAL OFFICER,female,240991000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230630,booth daniel j,141588923010478,CHIEF OPERATING OFFICER,male,240991000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20230630,pickett c taylor,141588923010479,CHIEF EXECUTIVE OFFICER,male,240991000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20230630,stephenson robert o,141588923010480,CHIEF FINANCIAL OFFICER,male,240991000.0
+2351.0,,888491,omega healthcare investors inc,false,true,false,false,20230706,ballew neal,141588923010901,CHIEF ACCOUNTING OFFICER,male,240991000.0
+237468.0,,888491,omega healthcare investors inc,false,true,false,false,20230928,stephenson robert o,141588923013637,CHIEF FINANCIAL OFFICER,male,244872475.0
+,,888491,omega healthcare investors inc,false,true,false,false,20231002,stephenson robert o,141588923013781,CHIEF FINANCIAL OFFICER,male,244989000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20231002,makode gail d,141588923013779,CHIEF LEGAL OFFICER,female,244989000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20231002,pickett c taylor,141588923013780,CHIEF EXECUTIVE OFFICER,male,244989000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20231002,booth daniel j,141588923013778,CHIEF OPERATING OFFICER,male,244989000.0
+2578.0,,888491,omega healthcare investors inc,false,true,false,false,20231004,ballew neal,141588923014016,CHIEF ACCOUNTING OFFICER,male,244989000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240103,ballew neal,141588924000189,CHIEF ACCOUNTING OFFICER,male,245282000.0
+206725.0,,888491,omega healthcare investors inc,false,true,false,false,20240103,booth daniel j,141588924000190,CHIEF OPERATING OFFICER,male,245282000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240103,makode gail d,141588924000191,CHIEF LEGAL OFFICER,female,245282000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20240103,pickett c taylor,141588924000192,CHIEF EXECUTIVE OFFICER,male,245282000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240103,stephenson robert o,141588924000193,CHIEF FINANCIAL OFFICER,male,245282000.0
+2804.0,,888491,omega healthcare investors inc,false,true,false,false,20240105,ballew neal,141588924000736,CHIEF ACCOUNTING OFFICER,male,245282000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240112,stephenson robert o,141588924001035,CHIEF FINANCIAL OFFICER,male,245282000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240112,ballew neal,141588924001030,CHIEF ACCOUNTING OFFICER,male,245282000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240112,makode gail d,141588924001033,CHIEF LEGAL OFFICER,female,245282000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240112,booth daniel j,141588924001032,CHIEF OPERATING OFFICER,male,245282000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20240112,pickett c taylor,141588924001034,CHIEF EXECUTIVE OFFICER,male,245282000.0
+3031.0,,888491,omega healthcare investors inc,false,true,false,false,20240402,ballew neal,141588924009883,CHIEF ACCOUNTING OFFICER,male,246377000.0
+1142.0,,888491,omega healthcare investors inc,false,true,false,false,20240402,makode gail d,141588924009882,CHIEF LEGAL OFFICER,female,246377000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240402,booth daniel j,141588924009880,CHIEF OPERATING OFFICER,male,246377000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240402,stephenson robert o,141588924009881,CHIEF FINANCIAL OFFICER,male,246377000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20240402,pickett c taylor,141588924009879,CHIEF EXECUTIVE OFFICER,male,246377000.0
+,,888491,omega healthcare investors inc,true,false,false,false,20240611,plavin stephen d,141588924016343,,male,247098960.0
+,,888491,omega healthcare investors inc,true,false,false,false,20240611,hill barbara b,141588924016350,,female,247098960.0
+39765.0,,888491,omega healthcare investors inc,true,false,false,false,20240611,whitman burke w,141588924016349,,male,247098960.0
+,,888491,omega healthcare investors inc,true,false,false,false,20240611,anand kapila k,141588924016332,,male,247098960.0
+,,888491,omega healthcare investors inc,true,false,false,false,20240611,callen craig r,141588924016334,,male,247098960.0
+18118.0,,888491,omega healthcare investors inc,true,false,false,false,20240611,egbuonu-davis lisa,141588924016336,,female,247098960.0
+33696.0,,888491,omega healthcare investors inc,true,false,false,false,20240611,jacobs kevin j,141588924016340,,male,247098960.0
+235618.0,,888491,omega healthcare investors inc,false,true,false,false,20240625,stephenson robert o,141588924018144,CHIEF FINANCIAL OFFICER,male,247098960.0
+3247.0,,888491,omega healthcare investors inc,false,true,false,false,20240702,ballew neal,141588924018777,CHIEF ACCOUNTING OFFICER,male,254023000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240702,booth daniel j,141588924018779,CHIEF OPERATING OFFICER,male,254023000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240702,makode gail d,141588924018781,CHIEF LEGAL OFFICER,female,254023000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20240702,pickett c taylor,141588924018784,CHIEF EXECUTIVE OFFICER,male,254023000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20240702,stephenson robert o,141588924018786,CHIEF FINANCIAL OFFICER,male,254023000.0
+16766.0,,888491,omega healthcare investors inc,true,false,false,false,20240813,egbuonu-davis lisa,141588924021152,,female,257838900.0
+181725.0,,888491,omega healthcare investors inc,false,true,false,false,20240826,booth daniel j,141588924022206,CHIEF OPERATING OFFICER,male,257838900.0
+205618.0,,888491,omega healthcare investors inc,false,true,false,false,20240827,stephenson robert o,141588924022291,CHIEF FINANCIAL OFFICER,male,257838900.0
+156725.0,,888491,omega healthcare investors inc,false,true,false,false,20240906,booth daniel j,141588924023014,CHIEF OPERATING OFFICER,male,257838900.0
+100000.0,,888491,omega healthcare investors inc,false,true,false,false,20241001,booth daniel j,141588924024259,CHIEF OPERATING OFFICER,male,268231000.0
+183076.0,,888491,omega healthcare investors inc,false,true,false,false,20241001,stephenson robert o,141588924024257,CHIEF FINANCIAL OFFICER,male,268231000.0
+3443.0,,888491,omega healthcare investors inc,false,true,false,false,20241001,ballew neal,141588924024258,CHIEF ACCOUNTING OFFICER,male,268231000.0
+,,888491,omega healthcare investors inc,true,true,false,false,20241001,pickett c taylor,141588924024255,CHIEF EXECUTIVE OFFICER,male,268231000.0
+,,888491,omega healthcare investors inc,false,true,false,false,20241001,makode gail d,141588924024256,CHIEF LEGAL OFFICER,female,268231000.0

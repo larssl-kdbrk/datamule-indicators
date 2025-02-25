@@ -1,33 +1,373 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-1564405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20101117,colatosti thomas j.,110465910058942,,male,
-1584405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20101118,colatosti thomas j.,110465910059126,,male,
-1604405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20101119,colatosti thomas j.,110465910059321,,male,
-1034405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110819,colatosti thomas j.,110465911047848,,male,78155413.0
-1126938.0,0.0,1019034,bio key international inc,1.0,1.0,0.0,0.0,20110819,depasquale michael w,110465911047928,Pres. & CEO & Director,male,78155413.0
-1059405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110819,colatosti thomas j.,110465911047948,,male,78155413.0
-1084405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110822,colatosti thomas j.,110465911048140,,male,78155413.0
-1151938.0,0.0,1019034,bio key international inc,1.0,1.0,0.0,0.0,20110822,depasquale michael w,110465911048142,Pres. & CEO & Director,male,78155413.0
-482800.0,0.0,1019034,bio key international inc,0.0,1.0,0.0,0.0,20110822,fodero randy,110465911048191,"VP, Sales",male,78155413.0
-1109405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110824,colatosti thomas j.,110465911048449,,male,78155413.0
-1134405.0,0.0,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110829,colatosti thomas j.,110465911049182,,male,78155413.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20130515,romeo charles p,143774913006164,,male,87182348.0
-0.0,0.0,1019034,bio key international inc,1.0,1.0,,,20130515,depasquale michael w,143774913006165,"Pres., CEO & Director",male,87182348.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20130515,schoenherr john,143774913006166,,male,87182348.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20130515,may jeffrey j,143774913006167,,male,87182348.0
-0.0,0.0,1019034,bio key international inc,,1.0,,,20130516,welch cecilia c,143774913006200,Chief Financial Officer,female,87182348.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20130516,colatosti thomas j.,143774913006195,,male,87182348.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20140317,romeo charles p,143774914004361,,male,57921258.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20140317,schoenherr john,143774914004364,,male,57921258.0
-0.0,0.0,1019034,bio key international inc,1.0,1.0,,,20140317,depasquale michael w,143774914004365,"Pres., CEO & Director",male,57921258.0
-0.0,0.0,1019034,bio key international inc,,1.0,,,20140317,welch cecilia c,143774914004366,Chief Financial Officer,female,57921258.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20140317,rivera barbara,143774914004367,,female,57921258.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20140317,gilley thomas,143774914004368,,male,57921258.0
-0.0,0.0,1019034,bio key international inc,1.0,,,,20140317,"bush, iii thomas",143774914004369,,male,57921258.0
-0.0,0.0,1019034,bio key international inc,,1.0,,,20140320,lacous mira k,143774914004656,Chief Technology Officer,female,57921258.0
-22222.0,0.0,1019034,bio key international inc,1.0,,,,20150817,schoenherr john,143774915016001,,male,66001260.0
-16667.0,0.0,1019034,bio key international inc,1.0,,,,20150817,"bush, iii thomas",143774915016002,,male,66001260.0
-0.0,0.0,1019034,bio key international inc,,1.0,,,20150817,welch cecilia c,143774915016003,Chief Financial Officer,female,66001260.0
-23722.0,0.0,1019034,bio key international inc,1.0,,,,20150817,gilley thomas,143774915016004,,male,66001260.0
-11111.0,0.0,1019034,bio key international inc,1.0,,,,20150817,romeo charles p,143774915016005,,male,66001260.0
-0.0,0.0,1019034,bio key international inc,1.0,1.0,,,20150817,depasquale michael w,143774915016006,"Pres., CEO & Director",male,66001260.0
-0.0,0.0,1019034,bio key international inc,,1.0,,,20150817,lacous mira k,143774915016007,Chief Technology Officer,female,66001260.0
+1564405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20101117,colatosti thomas j.,110465910058942,,male,
+1584405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20101118,colatosti thomas j.,110465910059126,,male,
+1604405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20101119,colatosti thomas j.,110465910059321,,male,
+1034405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110819,colatosti thomas j.,110465911047848,,male,78155413.0
+1126938.0,,1019034,bio key international inc,1.0,1.0,0.0,0.0,20110819,depasquale michael w,110465911047928,Pres. & CEO & Director,male,78155413.0
+1059405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110819,colatosti thomas j.,110465911047948,,male,78155413.0
+1084405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110822,colatosti thomas j.,110465911048140,,male,78155413.0
+1151938.0,,1019034,bio key international inc,1.0,1.0,0.0,0.0,20110822,depasquale michael w,110465911048142,Pres. & CEO & Director,male,78155413.0
+482800.0,,1019034,bio key international inc,0.0,1.0,0.0,0.0,20110822,fodero randy,110465911048191,"VP, Sales",male,78155413.0
+1109405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110824,colatosti thomas j.,110465911048449,,male,78155413.0
+1134405.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20110829,colatosti thomas j.,110465911049182,,male,78155413.0
+,,1019034,bio key international inc,1.0,1.0,,,20130515,depasquale michael w,143774913006165,"Pres., CEO & Director",male,87182348.0
+,,1019034,bio key international inc,1.0,,,,20130515,schoenherr john,143774913006166,,male,87182348.0
+,,1019034,bio key international inc,1.0,,,,20130515,romeo charles p,143774913006164,,male,87182348.0
+,,1019034,bio key international inc,1.0,,,,20130515,may jeffrey j,143774913006167,,male,87182348.0
+,,1019034,bio key international inc,,1.0,,,20130516,welch cecilia c,143774913006200,Chief Financial Officer,female,87182348.0
+,,1019034,bio key international inc,1.0,,,,20130516,colatosti thomas j.,143774913006195,,male,87182348.0
+,,1019034,bio key international inc,1.0,,,,20140317,"bush, iii thomas",143774914004369,,male,57921258.0
+,,1019034,bio key international inc,1.0,,,,20140317,gilley thomas,143774914004368,,male,57921258.0
+,,1019034,bio key international inc,1.0,,,,20140317,rivera barbara,143774914004367,,female,57921258.0
+,,1019034,bio key international inc,,1.0,,,20140317,welch cecilia c,143774914004366,Chief Financial Officer,female,57921258.0
+,,1019034,bio key international inc,1.0,1.0,,,20140317,depasquale michael w,143774914004365,"Pres., CEO & Director",male,57921258.0
+,,1019034,bio key international inc,1.0,,,,20140317,romeo charles p,143774914004361,,male,57921258.0
+,,1019034,bio key international inc,1.0,,,,20140317,schoenherr john,143774914004364,,male,57921258.0
+,,1019034,bio key international inc,,1.0,,,20140320,lacous mira k,143774914004656,Chief Technology Officer,female,57921258.0
+,,1019034,bio key international inc,,1.0,,,20150817,lacous mira k,143774915016007,Chief Technology Officer,female,66001260.0
+,,1019034,bio key international inc,,1.0,,,20150817,lacous mira k,143774915016007,Chief Technology Officer,female,66001260.0
+,,1019034,bio key international inc,1.0,1.0,,,20150817,depasquale michael w,143774915016006,"Pres., CEO & Director",male,66001260.0
+11111.0,,1019034,bio key international inc,1.0,,,,20150817,romeo charles p,143774915016005,,male,66001260.0
+23722.0,,1019034,bio key international inc,1.0,,,,20150817,gilley thomas,143774915016004,,male,66001260.0
+,,1019034,bio key international inc,,1.0,,,20150817,welch cecilia c,143774915016003,Chief Financial Officer,female,66001260.0
+16667.0,,1019034,bio key international inc,1.0,,,,20150817,"bush, iii thomas",143774915016002,,male,66001260.0
+22222.0,,1019034,bio key international inc,1.0,,,,20150817,schoenherr john,143774915016001,,male,66001260.0
+16667.0,,1019034,bio key international inc,1.0,,,,20150817,"bush, iii thomas",143774915016002,,male,66001260.0
+,,1019034,bio key international inc,,1.0,,,20150817,welch cecilia c,143774915016003,Chief Financial Officer,female,66001260.0
+23722.0,,1019034,bio key international inc,1.0,,,,20150817,gilley thomas,143774915016004,,male,66001260.0
+11111.0,,1019034,bio key international inc,1.0,,,,20150817,romeo charles p,143774915016005,,male,66001260.0
+22222.0,,1019034,bio key international inc,1.0,,,,20150817,schoenherr john,143774915016001,,male,66001260.0
+,,1019034,bio key international inc,1.0,1.0,,,20150817,depasquale michael w,143774915016006,"Pres., CEO & Director",male,66001260.0
+22917.0,,1019034,bio key international inc,1.0,,,,20151112,"bush, iii thomas",143774915020576,,male,66073482.0
+17361.0,,1019034,bio key international inc,1.0,,,,20151112,romeo charles p,143774915020579,,male,66073482.0
+28472.0,,1019034,bio key international inc,1.0,,,,20151112,schoenherr john,143774915020578,,male,66073482.0
+31472.0,,1019034,bio key international inc,1.0,,,,20151112,gilley thomas,143774915020577,,male,66073482.0
+79972.0,,1019034,bio key international inc,1.0,,,,20151124,gilley thomas,143774915021401,,male,66098482.0
+18750.0,,1019034,bio key international inc,1.0,,,,20160311,yao jianhui,143774916027505,,male,5508261.0
+18750.0,,1019034,bio key international inc,1.0,,,,20160311,kwok fong wong,143774916027506,,male,5508261.0
+47222.0,,1019034,bio key international inc,1.0,,,,20160311,schoenherr john,143774916027507,,male,5508261.0
+23611.0,,1019034,bio key international inc,1.0,,,,20160311,romeo charles p,143774916027508,,male,5508261.0
+98722.0,,1019034,bio key international inc,1.0,,,,20160311,gilley thomas,143774916027509,,male,5508261.0
+41667.0,,1019034,bio key international inc,1.0,,,,20160311,"bush, iii thomas",143774916027510,,male,5508261.0
+24632.0,,1019034,bio key international inc,1.0,,,,20160513,yao jianhui,143774916031817,,male,66198482.0
+24632.0,,1019034,bio key international inc,1.0,,,,20160513,kwok fong wong,143774916031818,,male,66198482.0
+5882.0,,1019034,bio key international inc,1.0,,,,20160513,knook pieter cornelis,143774916031821,,male,66198482.0
+104605.0,,1019034,bio key international inc,1.0,,,,20160513,gilley thomas,143774916031822,,male,66198482.0
+125000.0,,1019034,bio key international inc,1.0,1.0,,,20160513,depasquale michael w,143774916031823,"Pres., CEO & Director",male,66198482.0
+47549.0,,1019034,bio key international inc,1.0,,,,20160513,"bush, iii thomas",143774916031824,,male,66198482.0
+29494.0,,1019034,bio key international inc,1.0,,,,20160513,romeo charles p,143774916031820,,male,66198482.0
+53105.0,,1019034,bio key international inc,1.0,,,,20160513,schoenherr john,143774916031819,,male,66198482.0
+409539.0,,1019034,bio key international inc,1.0,,,,20160601,kwok fong wong,143774916033161,,male,66198482.0
+600144.0,,1019034,bio key international inc,1.0,,,,20160603,kwok fong wong,143774916033257,,male,66198482.0
+1296182.0,,1019034,bio key international inc,1.0,,,,20160606,kwok fong wong,143774916033329,,male,66198482.0
+1861894.0,,1019034,bio key international inc,1.0,,,,20160608,kwok fong wong,143774916033491,,male,66198482.0
+2573994.0,,1019034,bio key international inc,1.0,,,,20160610,kwok fong wong,143774916033678,,male,66198482.0
+3002094.0,,1019034,bio key international inc,1.0,,,,20160613,kwok fong wong,143774916033722,,male,66198482.0
+3788994.0,,1019034,bio key international inc,1.0,,,,20160615,kwok fong wong,143774916033869,,male,66198482.0
+3960994.0,,1019034,bio key international inc,1.0,,,,20160616,kwok fong wong,143774916033958,,male,66198482.0
+,,1019034,bio key international inc,1.0,,,,20160825,rivera barbara,143774916038072,,female,66377157.0
+4807136.0,,1019034,bio key international inc,1.0,,,,20160914,kwok fong wong,143774916038702,,male,66377157.0
+5732336.0,,1019034,bio key international inc,1.0,,,,20160916,kwok fong wong,143774916038826,,male,66377157.0
+57272.0,,1019034,bio key international inc,1.0,,,,20160919,schoenherr john,143774916038863,,male,66377157.0
+51716.0,,1019034,bio key international inc,1.0,,,,20160919,"bush, iii thomas",143774916038865,,male,66377157.0
+6383836.0,,1019034,bio key international inc,1.0,,,,20160919,kwok fong wong,143774916038866,,male,66377157.0
+117105.0,,1019034,bio key international inc,1.0,,,,20160919,gilley thomas,143774916038864,,male,66377157.0
+18382.0,,1019034,bio key international inc,1.0,,,,20160919,knook pieter cornelis,143774916038862,,male,66377157.0
+68383.0,,1019034,bio key international inc,1.0,,,,20161109,schoenherr john,143774916041598,,male,66377157.0
+6394947.0,,1019034,bio key international inc,1.0,,,,20161109,kwok fong wong,143774916041596,,male,66377157.0
+29493.0,,1019034,bio key international inc,1.0,,,,20161109,knook pieter cornelis,143774916041595,,male,66377157.0
+128216.0,,1019034,bio key international inc,1.0,,,,20161109,gilley thomas,143774916041594,,male,66377157.0
+55420.0,,1019034,bio key international inc,1.0,,,,20161109,"bush, iii thomas",143774916041597,,male,66377157.0
+12594947.0,,1019034,bio key international inc,1.0,,1.0,,20161121,kwok fong wong,143774916042461,,male,66425305.0
+6078.0,,1019034,bio key international inc,1.0,,,,20170317,schoenherr john,143774917004822,,male,6093843.0
+2837.0,,1019034,bio key international inc,1.0,,,,20170317,knook pieter cornelis,143774917004820,,male,6093843.0
+4998.0,,1019034,bio key international inc,1.0,,,,20170317,"bush, iii thomas",143774917004823,,male,6093843.0
+11064.0,,1019034,bio key international inc,1.0,,,,20170317,gilley thomas,143774917004821,,male,6093843.0
+,,1019034,bio key international inc,1.0,1.0,,,20170320,depasquale michael w,143774917004936,"Pres., CEO & Director",male,6093843.0
+1049959.0,,1019034,bio key international inc,1.0,,1.0,,20170320,kwok fong wong,143774917004939,,male,6093843.0
+,,1019034,bio key international inc,,1.0,,,20170320,lacous mira k,143774917004940,Chief Technology Officer,female,6093843.0
+,,1019034,bio key international inc,,1.0,,,20170320,rivera barbara,143774917004937,Chief Operating Officer,female,6093843.0
+,,1019034,bio key international inc,,1.0,,,20170320,welch cecilia c,143774917004938,Chief Financial Officer,female,6093843.0
+,,1019034,bio key international inc,1.0,,,,20170411,michel robert j,143774917006430,,male,6096920.0
+1327737.0,,1019034,bio key international inc,1.0,1.0,1.0,,20170502,kwok fong wong,143774917007749,"Managing Director, BIO-key HK",male,6096920.0
+11449.0,,1019034,bio key international inc,1.0,,,,20170515,gilley thomas,143774917009172,,male,6096920.0
+5383.0,,1019034,bio key international inc,1.0,,,,20170515,"bush, iii thomas",143774917009171,,male,6096920.0
+385.0,,1019034,bio key international inc,1.0,,,,20170515,michel robert j,143774917009173,,male,6096920.0
+3222.0,,1019034,bio key international inc,1.0,,,,20170515,knook pieter cornelis,143774917009170,,male,6096920.0
+6463.0,,1019034,bio key international inc,1.0,,,,20170515,schoenherr john,143774917009174,,male,6096920.0
+1243.0,,1019034,bio key international inc,1.0,,,,20170811,michel robert j,143774917014535,,male,6498438.0
+6241.0,,1019034,bio key international inc,1.0,,,,20170811,"bush, iii thomas",143774917014536,,male,6498438.0
+7321.0,,1019034,bio key international inc,1.0,,,,20170811,schoenherr john,143774917014537,,male,6498438.0
+12307.0,,1019034,bio key international inc,1.0,,,,20170811,gilley thomas,143774917014538,,male,6498438.0
+4080.0,,1019034,bio key international inc,1.0,,,,20170811,knook pieter cornelis,143774917014539,,male,6498438.0
+2911.0,,1019034,bio key international inc,1.0,,,,20170811,yao jianhui,143774917014540,,male,6498438.0
+1354037.0,,1019034,bio key international inc,1.0,1.0,1.0,,20170901,kwok fong wong,143774917015517,"Managing Director, BIO-key HK",male,6498438.0
+1781815.0,,1019034,bio key international inc,1.0,1.0,1.0,,20170926,kwok fong wong,143774917016363,"Managing Director, BIO-key HK",male,6498438.0
+2553030.0,,1019034,bio key international inc,1.0,1.0,1.0,,20171018,kwok fong wong,143774917017256,"Managing Director, BIO-key HK",male,6927826.0
+6810.0,,1019034,bio key international inc,1.0,,,,20171115,"bush, iii thomas",143774917019464,,male,7691324.0
+12876.0,,1019034,bio key international inc,1.0,,,,20171115,gilley thomas,143774917019462,,male,7691324.0
+7890.0,,1019034,bio key international inc,1.0,,,,20171115,schoenherr john,143774917019460,,male,7691324.0
+1812.0,,1019034,bio key international inc,1.0,,,,20171115,michel robert j,143774917019466,,male,7691324.0
+765.0,,1019034,bio key international inc,1.0,,,,20180328,shin yick fabian,143774918005710,,male,9493174.0
+,,1019034,bio key international inc,,1.0,,,20180328,welch cecilia c,143774918005714,Chief Financial Officer,female,9493174.0
+,,1019034,bio key international inc,1.0,,,,20180328,yao jianhui,143774918005716,,male,9493174.0
+,,1019034,bio key international inc,,1.0,,,20180328,rivera barbara,143774918005718,Chief Operating Officer,female,9493174.0
+3853.0,,1019034,bio key international inc,1.0,,,,20180328,michel robert j,143774918005702,,male,9493174.0
+8853.0,,1019034,bio key international inc,1.0,,,,20180328,"bush, iii thomas",143774918005699,,male,9493174.0
+5865.0,,1019034,bio key international inc,1.0,,,,20180328,knook pieter cornelis,143774918005705,,male,9493174.0
+14663.0,,1019034,bio key international inc,1.0,,,,20180328,gilley thomas,143774918005693,,male,9493174.0
+,,1019034,bio key international inc,1.0,1.0,,,20180328,depasquale michael w,143774918005728,"Pres., CEO & Director",male,9493174.0
+,,1019034,bio key international inc,,1.0,,,20180328,lacous mira k,143774918005721,Chief Technology Officer,female,9493174.0
+,,1019034,bio key international inc,1.0,1.0,1.0,,20180328,kwok fong wong,143774918005733,"Managing Director, BIO-key HK",male,9493174.0
+3730635.0,,1019034,bio key international inc,1.0,1.0,1.0,,20180405,kwok fong wong,143774918006383,"Managing Director, BIO-key HK",male,9493936.0
+1172.0,,1019034,bio key international inc,1.0,,,,20180514,shin yick fabian,143774918009694,,male,9493936.0
+9260.0,,1019034,bio key international inc,1.0,,,,20180514,"bush, iii thomas",143774918009697,,male,9493936.0
+15070.0,,1019034,bio key international inc,1.0,,,,20180514,gilley thomas,143774918009749,,male,9493936.0
+6488.0,,1019034,bio key international inc,1.0,,,,20180514,knook pieter cornelis,143774918009790,,male,9493936.0
+4476.0,,1019034,bio key international inc,1.0,,,,20180514,michel robert j,143774918009793,,male,9493936.0
+1388.0,,1019034,bio key international inc,1.0,,,,20180515,shin yick fabian,143774918010015,,male,9493936.0
+2178484.0,,1019034,bio key international inc,,,1.0,,20180529,micron technology development ltd,143774918010877,,male,9493936.0
+4390708.0,,1019034,bio key international inc,1.0,1.0,1.0,,20180604,kwok fong wong,143774918011190,"Managing Director, BIO-key HK",male,9493936.0
+9807.0,,1019034,bio key international inc,1.0,,,,20180810,"bush, iii thomas",143774918015237,,male,12587997.0
+1935.0,,1019034,bio key international inc,1.0,,,,20180810,shin yick fabian,143774918015246,,male,12587997.0
+7035.0,,1019034,bio key international inc,1.0,,,,20180810,knook pieter cornelis,143774918015244,,male,12587997.0
+5023.0,,1019034,bio key international inc,1.0,,,,20180810,michel robert j,143774918015242,,male,12587997.0
+15617.0,,1019034,bio key international inc,1.0,,,,20180810,gilley thomas,143774918015239,,male,12587997.0
+3458.0,,1019034,bio key international inc,1.0,,,,20180810,yao jianhui,143774918015233,,male,12587997.0
+5316.0,,1019034,bio key international inc,1.0,,,,20180822,michel robert j,143774918016006,,male,12591279.0
+7328.0,,1019034,bio key international inc,1.0,,,,20180822,knook pieter cornelis,143774918016008,,male,12591279.0
+2228.0,,1019034,bio key international inc,1.0,,,,20180822,shin yick fabian,143774918016003,,male,12591279.0
+3028.0,,1019034,bio key international inc,1.0,,,,20181113,shin yick fabian,143774918020535,,male,13977868.0
+10607.0,,1019034,bio key international inc,1.0,,,,20181113,"bush, iii thomas",143774918020539,,male,13977868.0
+16417.0,,1019034,bio key international inc,1.0,,,,20181113,gilley thomas,143774918020546,,male,13977868.0
+4258.0,,1019034,bio key international inc,1.0,,,,20181113,yao jianhui,143774918020558,,male,13977868.0
+8583.0,,1019034,bio key international inc,1.0,,,,20181113,knook pieter cornelis,143774918020494,,male,13977868.0
+6871.0,,1019034,bio key international inc,1.0,,,,20181113,michel robert j,143774918020512,,male,13977868.0
+11571.0,,1019034,bio key international inc,1.0,,,,20181128,michel robert j,143774918021333,,male,13977868.0
+11126.0,,1019034,bio key international inc,1.0,,,,20190325,knook pieter cornelis,143774919005594,,male,13977868.0
+13150.0,,1019034,bio key international inc,1.0,,,,20190325,"bush, iii thomas",143774919005592,,male,13977868.0
+14114.0,,1019034,bio key international inc,1.0,,,,20190325,michel robert j,143774919005597,,male,13977868.0
+,,1019034,bio key international inc,1.0,1.0,,,20190325,depasquale michael w,143774919005646,"Pres., CEO & Director",male,13977868.0
+,,1019034,bio key international inc,1.0,,,,20190325,shin yick fabian,143774919005644,,male,13977868.0
+,,1019034,bio key international inc,1.0,,,,20190325,knook pieter cornelis,143774919005634,,male,13977868.0
+13998.0,,1019034,bio key international inc,1.0,,,,20190325,"bush, iii thomas",143774919005631,,male,13977868.0
+14538.0,,1019034,bio key international inc,1.0,,,,20190325,michel robert j,143774919005629,,male,13977868.0
+19384.0,,1019034,bio key international inc,1.0,,,,20190325,gilley thomas,143774919005627,,male,13977868.0
+3876.0,,1019034,bio key international inc,1.0,,,,20190325,shin yick fabian,143774919005617,,male,13977868.0
+18960.0,,1019034,bio key international inc,1.0,,,,20190325,gilley thomas,143774919005606,,male,13977868.0
+,,1019034,bio key international inc,,1.0,,,20190325,lacous mira k,143774919005648,Chief Technology Officer,female,13977868.0
+,,1019034,bio key international inc,,1.0,,,20190325,welch cecilia c,143774919005650,Chief Financial Officer,female,13977868.0
+14906.0,,1019034,bio key international inc,1.0,,,,20190401,michel robert j,143774919006230,,male,13991688.0
+11494.0,,1019034,bio key international inc,1.0,,,,20190401,knook pieter cornelis,143774919006223,,male,13991688.0
+4244.0,,1019034,bio key international inc,1.0,,,,20190401,shin yick fabian,143774919006215,,male,13991688.0
+16061.0,,1019034,bio key international inc,1.0,,,,20190516,michel robert j,143774919010170,,male,13991688.0
+12649.0,,1019034,bio key international inc,1.0,,,,20190516,knook pieter cornelis,143774919010176,,male,13991688.0
+5399.0,,1019034,bio key international inc,1.0,,,,20190516,shin yick fabian,143774919010181,,male,13991688.0
+14768.0,,1019034,bio key international inc,1.0,,,,20190516,"bush, iii thomas",143774919010202,,male,13991688.0
+15653.0,,1019034,bio key international inc,1.0,,,,20190812,"bush, iii thomas",143774919016312,,male,14397015.0
+20269.0,,1019034,bio key international inc,1.0,,,,20190812,gilley thomas,143774919016317,,male,14397015.0
+13534.0,,1019034,bio key international inc,1.0,,,,20190812,knook pieter cornelis,143774919016322,,male,14397015.0
+16946.0,,1019034,bio key international inc,1.0,,,,20190812,michel robert j,143774919016331,,male,14397015.0
+6284.0,,1019034,bio key international inc,1.0,,,,20190812,shin yick fabian,143774919016334,,male,14397015.0
+6846.0,,1019034,bio key international inc,1.0,,,,20190816,shin yick fabian,143774919016965,,male,14397015.0
+17508.0,,1019034,bio key international inc,1.0,,,,20190816,michel robert j,143774919016968,,male,14397015.0
+14096.0,,1019034,bio key international inc,1.0,,,,20190816,knook pieter cornelis,143774919016969,,male,14397015.0
+19477.0,,1019034,bio key international inc,1.0,,,,20191114,michel robert j,143774919022873,,male,14408546.0
+17622.0,,1019034,bio key international inc,1.0,,,,20191114,"bush, iii thomas",143774919022876,,male,14408546.0
+22238.0,,1019034,bio key international inc,1.0,,,,20191114,gilley thomas,143774919022882,,male,14408546.0
+16065.0,,1019034,bio key international inc,1.0,,,,20191114,knook pieter cornelis,143774919022885,,male,14408546.0
+8815.0,,1019034,bio key international inc,1.0,,,,20191114,shin yick fabian,143774919022900,,male,14408546.0
+9777.0,,1019034,bio key international inc,1.0,,,,20191115,shin yick fabian,143774919023045,,male,14408546.0
+20439.0,,1019034,bio key international inc,1.0,,,,20191115,michel robert j,143774919023039,,male,14408546.0
+17027.0,,1019034,bio key international inc,1.0,,,,20191115,knook pieter cornelis,143774919023042,,male,14408546.0
+21809.0,,1019034,bio key international inc,1.0,,,,20200406,michel robert j,143774920007194,,male,18391122.0
+11147.0,,1019034,bio key international inc,1.0,,,,20200406,shin yick fabian,143774920007186,,male,18391122.0
+18992.0,,1019034,bio key international inc,1.0,,,,20200406,"bush, iii thomas",143774920007188,,male,18391122.0
+23608.0,,1019034,bio key international inc,1.0,,,,20200406,gilley thomas,143774920007190,,male,18391122.0
+18397.0,,1019034,bio key international inc,1.0,,,,20200406,knook pieter cornelis,143774920007192,,male,18391122.0
+5269.0,,1019034,bio key international inc,1.0,,,,20200514,yao jianhui,143774920010819,,male,21212297.0
+12158.0,,1019034,bio key international inc,1.0,,,,20200514,shin yick fabian,143774920010817,,male,21212297.0
+20003.0,,1019034,bio key international inc,1.0,,,,20200514,"bush, iii thomas",143774920010803,,male,21212297.0
+22820.0,,1019034,bio key international inc,1.0,,,,20200514,michel robert j,143774920010808,,male,21212297.0
+19408.0,,1019034,bio key international inc,1.0,,,,20200514,knook pieter cornelis,143774920010810,,male,21212297.0
+1011.0,,1019034,bio key international inc,1.0,,,,20200514,alia emmanuel,143774920010814,,male,21212297.0
+24619.0,,1019034,bio key international inc,1.0,,,,20200514,gilley thomas,143774920010805,,male,21212297.0
+23364.0,,1019034,bio key international inc,1.0,,,,20200518,michel robert j,143774920011133,,male,21212297.0
+12702.0,,1019034,bio key international inc,1.0,,,,20200518,shin yick fabian,143774920011135,,male,21212297.0
+19952.0,,1019034,bio key international inc,1.0,,,,20200518,knook pieter cornelis,143774920011139,,male,21212297.0
+20479.0,,1019034,bio key international inc,1.0,,,,20200608,knook pieter cornelis,143774920012649,,male,21598544.0
+13229.0,,1019034,bio key international inc,1.0,,,,20200608,shin yick fabian,143774920012653,,male,21598544.0
+23891.0,,1019034,bio key international inc,1.0,,,,20200608,michel robert j,143774920012634,,male,21598544.0
+15417.0,,1019034,bio key international inc,1.0,1.0,,,20200611,depasquale michael w,143774920012879,"Pres., CEO & Director",male,21598544.0
+20417.0,,1019034,bio key international inc,1.0,1.0,,,20200612,depasquale michael w,143774920012981,"Pres., CEO & Director",male,21598544.0
+25243.0,,1019034,bio key international inc,1.0,,,,20200814,michel robert j,143774920017969,,male,22181315.0
+2363.0,,1019034,bio key international inc,1.0,,,,20200814,alia emmanuel,143774920017977,,male,22181315.0
+21355.0,,1019034,bio key international inc,1.0,,,,20200814,"bush, iii thomas",143774920017982,,male,22181315.0
+25971.0,,1019034,bio key international inc,1.0,,,,20200814,gilley thomas,143774920017986,,male,22181315.0
+21831.0,,1019034,bio key international inc,1.0,,,,20200814,knook pieter cornelis,143774920017991,,male,22181315.0
+22507.0,,1019034,bio key international inc,1.0,,,,20200818,knook pieter cornelis,143774920018236,,male,22181315.0
+13905.0,,1019034,bio key international inc,1.0,,,,20200818,shin yick fabian,143774920018239,,male,22181315.0
+25919.0,,1019034,bio key international inc,1.0,,,,20200818,michel robert j,143774920018241,,male,22181315.0
+22125.0,,1019034,bio key international inc,1.0,,,,20200826,"bush, iii thomas",143774920018739,,male,22181315.0
+26689.0,,1019034,bio key international inc,1.0,,,,20200826,michel robert j,143774920018742,,male,22181315.0
+33000.0,,1019034,bio key international inc,,1.0,,,20200827,welch cecilia c,143774920018870,Chief Financial Officer,female,22181315.0
+4423708.0,,1019034,bio key international inc,1.0,1.0,1.0,,20200827,kwok fong wong,143774920018872,"Managing Director, BIO-key HK",male,22181315.0
+,,1019034,bio key international inc,1.0,,,,20200827,alia emmanuel,143774920018856,,male,22181315.0
+,,1019034,bio key international inc,1.0,,,,20200827,"bush, iii thomas",143774920018858,,male,22181315.0
+,,1019034,bio key international inc,1.0,,,,20200827,michel robert j,143774920018866,,male,22181315.0
+,,1019034,bio key international inc,1.0,,,,20200827,knook pieter cornelis,143774920018860,,male,22181315.0
+,,1019034,bio key international inc,1.0,,,,20200827,gilley thomas,143774920018862,,male,22181315.0
+33000.0,,1019034,bio key international inc,,1.0,,,20200827,lacous mira k,143774920018864,Chief Technology Officer,female,22181315.0
+53417.0,,1019034,bio key international inc,1.0,1.0,,,20200827,depasquale michael w,143774920018868,"Pres., CEO & Director",male,22181315.0
+24730.0,,1019034,bio key international inc,1.0,,,,20201113,knook pieter cornelis,143774920023753,,male,62412558.0
+28912.0,,1019034,bio key international inc,1.0,,,,20201113,michel robert j,143774920023739,,male,62412558.0
+24348.0,,1019034,bio key international inc,1.0,,,,20201113,"bush, iii thomas",143774920023745,,male,62412558.0
+28194.0,,1019034,bio key international inc,1.0,,,,20201113,gilley thomas,143774920023750,,male,62412558.0
+4586.0,,1019034,bio key international inc,1.0,,,,20201113,alia emmanuel,143774920023759,,male,62412558.0
+25921.0,,1019034,bio key international inc,1.0,,,,20201117,knook pieter cornelis,143774920024095,,male,62412558.0
+5777.0,,1019034,bio key international inc,1.0,,,,20201117,alia emmanuel,143774920024093,,male,62412558.0
+30103.0,,1019034,bio key international inc,1.0,,,,20201117,michel robert j,143774920024090,,male,62412558.0
+11678.0,,1019034,bio key international inc,1.0,1.0,,1.0,20201124,depasquale michael w,143774920024387,Chief Executive Officer,male,62412558.0
+13458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20201201,depasquale michael w,143774920024622,Chief Executive Officer,male,62412558.0
+14125.0,,1019034,bio key international inc,,1.0,,,20201202,sullivan james david,143774920024691,See Remarks,male,62412558.0
+998.0,,1019034,bio key international inc,1.0,,,,20210305,alia emmanuel,143774921005112,,male,7814572.0
+3516.0,,1019034,bio key international inc,1.0,,,,20210305,knook pieter cornelis,143774921005117,,male,7814572.0
+3800.0,,1019034,bio key international inc,1.0,,,,20210305,gilley thomas,143774921005121,,male,7814572.0
+4038.0,,1019034,bio key international inc,1.0,,,,20210305,michel robert j,143774921005119,,male,7814572.0
+3319.0,,1019034,bio key international inc,1.0,,,,20210305,"bush, iii thomas",143774921005123,,male,7814572.0
+3458.0,,1019034,bio key international inc,1.0,,,,20210310,"bush, iii thomas",143774921005547,,male,7814572.0
+3939.0,,1019034,bio key international inc,1.0,,,,20210310,gilley thomas,143774921005567,,male,7814572.0
+3662.0,,1019034,bio key international inc,1.0,,,,20210330,knook pieter cornelis,143774921007665,,male,7817475.0
+4184.0,,1019034,bio key international inc,1.0,,,,20210330,michel robert j,143774921007674,,male,7817475.0
+1144.0,,1019034,bio key international inc,1.0,,,,20210330,alia emmanuel,143774921007648,,male,7817475.0
+4507.0,,1019034,bio key international inc,1.0,,,,20210514,michel robert j,143774921012272,,male,7817913.0
+1467.0,,1019034,bio key international inc,1.0,,,,20210514,alia emmanuel,143774921012276,,male,7817913.0
+3985.0,,1019034,bio key international inc,1.0,,,,20210514,knook pieter cornelis,143774921012274,,male,7817913.0
+3781.0,,1019034,bio key international inc,1.0,,,,20210514,"bush, iii thomas",143774921012269,,male,7817913.0
+4659.0,,1019034,bio key international inc,1.0,,,,20210518,michel robert j,143774921012605,,male,7817913.0
+4137.0,,1019034,bio key international inc,1.0,,,,20210518,knook pieter cornelis,143774921012603,,male,7817913.0
+1619.0,,1019034,bio key international inc,1.0,,,,20210518,alia emmanuel,143774921012601,,male,7817913.0
+20000.0,,1019034,bio key international inc,,1.0,,1.0,20210521,sullivan james david,143774921013012,Chief Legal Officer,male,7817913.0
+18458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20210521,depasquale michael w,143774921013010,Chief Executive Officer,male,7817913.0
+20458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20210617,depasquale michael w,143774921015001,Chief Executive Officer,male,7817913.0
+4449.0,,1019034,bio key international inc,1.0,,,,20210816,knook pieter cornelis,143774921020216,,male,7824971.0
+4971.0,,1019034,bio key international inc,1.0,,,,20210816,michel robert j,143774921020219,,male,7824971.0
+1931.0,,1019034,bio key international inc,1.0,,,,20210816,alia emmanuel,143774921020064,,male,7824971.0
+4251.0,,1019034,bio key international inc,1.0,,,,20210816,gilley thomas,143774921020053,,male,7824971.0
+4093.0,,1019034,bio key international inc,1.0,,,,20210816,"bush, iii thomas",143774921020045,,male,7824971.0
+5135.0,,1019034,bio key international inc,1.0,,,,20210817,michel robert j,143774921020304,,male,7824971.0
+4613.0,,1019034,bio key international inc,1.0,,,,20210817,knook pieter cornelis,143774921020308,,male,7824971.0
+25000.0,,1019034,bio key international inc,,1.0,,1.0,20210820,sullivan james david,143774921020581,Chief Legal Officer,male,7824971.0
+22458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20210825,depasquale michael w,143774921020979,Chief Executive Officer,male,7824971.0
+5458.0,,1019034,bio key international inc,1.0,,,,20211112,michel robert j,143774921026533,,male,7833789.0
+4416.0,,1019034,bio key international inc,1.0,,,,20211112,"bush, iii thomas",143774921026529,,male,7833789.0
+4574.0,,1019034,bio key international inc,1.0,,,,20211112,gilley thomas,143774921026531,,male,7833789.0
+2254.0,,1019034,bio key international inc,1.0,,,,20211112,alia emmanuel,143774921026537,,male,7833789.0
+4936.0,,1019034,bio key international inc,1.0,,,,20211112,knook pieter cornelis,143774921026535,,male,7833789.0
+5098.0,,1019034,bio key international inc,1.0,,,,20211116,knook pieter cornelis,143774921026880,,male,7833789.0
+2416.0,,1019034,bio key international inc,1.0,,,,20211116,alia emmanuel,143774921026875,,male,7833789.0
+5620.0,,1019034,bio key international inc,1.0,,,,20211116,michel robert j,143774921026886,,male,7833789.0
+27000.0,,1019034,bio key international inc,,1.0,,1.0,20211129,sullivan james david,143774921027456,Chief Legal Officer,male,7833789.0
+24958.0,,1019034,bio key international inc,1.0,1.0,,1.0,20211130,depasquale michael w,143774921027506,Chief Executive Officer,male,7833789.0
+29500.0,,1019034,bio key international inc,,1.0,,1.0,20220104,sullivan james david,143774922000303,Chief Legal Officer,male,7853759.0
+27458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220104,depasquale michael w,143774922000295,Chief Executive Officer,male,7853759.0
+6625.0,,1019034,bio key international inc,,1.0,,,20220104,lacous mira k,143774922000291,Chief Technology Officer,female,7853759.0
+8688.0,,1019034,bio key international inc,1.0,,,,20220314,alia emmanuel,143774922006165,,male,7853759.0
+12358.0,,1019034,bio key international inc,1.0,,,,20220314,michel robert j,143774922006102,,male,7853759.0
+11578.0,,1019034,bio key international inc,1.0,,,,20220314,"bush, iii thomas",143774922006157,,male,7853759.0
+11370.0,,1019034,bio key international inc,1.0,,,,20220314,knook pieter cornelis,143774922006168,,male,7853759.0
+11270.0,,1019034,bio key international inc,1.0,,,,20220314,gilley thomas,143774922006160,,male,7853759.0
+557964.0,,1019034,bio key international inc,1.0,1.0,1.0,,20220315,kwok fong wong,143774922006302,"Managing Director, BIO-key HK",male,7853759.0
+59500.0,,1019034,bio key international inc,,1.0,,1.0,20220315,sullivan james david,143774922006312,Chief Legal Officer,male,7853759.0
+62458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220315,depasquale michael w,143774922006309,Chief Executive Officer,male,7853759.0
+14125.0,,1019034,bio key international inc,,1.0,,,20220315,lacous mira k,143774922006326,Chief Technology Officer,female,7853759.0
+34125.0,,1019034,bio key international inc,,1.0,,,20220315,welch cecilia c,143774922006319,Chief Financial Officer,female,7853759.0
+11784.0,,1019034,bio key international inc,1.0,,,,20220404,knook pieter cornelis,143774922008190,,male,8406451.0
+9102.0,,1019034,bio key international inc,1.0,,,,20220404,alia emmanuel,143774922008198,,male,8406451.0
+12772.0,,1019034,bio key international inc,1.0,,,,20220404,michel robert j,143774922008194,,male,8406451.0
+12809.0,,1019034,bio key international inc,1.0,,,,20220516,gilley thomas,143774922012536,,male,8406451.0
+13117.0,,1019034,bio key international inc,1.0,,,,20220516,"bush, iii thomas",143774922012528,,male,8406451.0
+10641.0,,1019034,bio key international inc,1.0,,,,20220516,alia emmanuel,143774922012546,,male,8406451.0
+13323.0,,1019034,bio key international inc,1.0,,,,20220516,knook pieter cornelis,143774922012544,,male,8406451.0
+14311.0,,1019034,bio key international inc,1.0,,,,20220516,michel robert j,143774922012541,,male,8406451.0
+13797.0,,1019034,bio key international inc,1.0,,,,20220518,knook pieter cornelis,143774922012887,,male,8406451.0
+11115.0,,1019034,bio key international inc,1.0,,,,20220518,alia emmanuel,143774922012884,,male,8406451.0
+14785.0,,1019034,bio key international inc,1.0,,,,20220526,michel robert j,143774922013597,,male,8416818.0
+64958.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220526,depasquale michael w,143774922013599,Chief Executive Officer,male,8416818.0
+66958.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220615,depasquale michael w,143774922015017,Chief Executive Officer,male,8416818.0
+63000.0,,1019034,bio key international inc,,1.0,,1.0,20220615,sullivan james david,143774922015019,Chief Legal Officer,male,8416818.0
+69458.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220705,depasquale michael w,143774922016562,Chief Executive Officer,male,8441574.0
+65500.0,,1019034,bio key international inc,,1.0,,1.0,20220705,sullivan james david,143774922016566,Chief Legal Officer,male,8441574.0
+16625.0,,1019034,bio key international inc,,1.0,,,20220705,lacous mira k,143774922016570,Chief Technology Officer,female,8441574.0
+12498.0,,1019034,bio key international inc,1.0,,,,20220812,alia emmanuel,143774922020376,,male,8441574.0
+14500.0,,1019034,bio key international inc,1.0,,,,20220812,"bush, iii thomas",143774922020354,,male,8441574.0
+14192.0,,1019034,bio key international inc,1.0,,,,20220812,gilley thomas,143774922020360,,male,8441574.0
+16168.0,,1019034,bio key international inc,1.0,,,,20220812,michel robert j,143774922020366,,male,8441574.0
+15180.0,,1019034,bio key international inc,1.0,,,,20220812,knook pieter cornelis,143774922020372,,male,8441574.0
+15724.0,,1019034,bio key international inc,1.0,,,,20220815,knook pieter cornelis,143774922020634,,male,8441574.0
+16712.0,,1019034,bio key international inc,1.0,,,,20220815,michel robert j,143774922020635,,male,8441574.0
+13042.0,,1019034,bio key international inc,1.0,,,,20220815,alia emmanuel,143774922020633,,male,8441574.0
+70505.0,,1019034,bio key international inc,,1.0,,1.0,20220825,sullivan james david,143774922021331,Chief Legal Officer,male,8441574.0
+72882.0,,1019034,bio key international inc,,1.0,,1.0,20220912,sullivan james david,143774922022164,Chief Legal Officer,male,8441574.0
+76500.0,,1019034,bio key international inc,,1.0,,1.0,20220914,sullivan james david,143774922022432,Chief Legal Officer,male,8441574.0
+70727.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220915,depasquale michael w,143774922022488,Chief Executive Officer,male,8441574.0
+71727.0,,1019034,bio key international inc,1.0,1.0,,1.0,20220916,depasquale michael w,143774922022571,Chief Executive Officer,male,8441574.0
+16290.0,,1019034,bio key international inc,1.0,,,,20221114,gilley thomas,143774922027226,,male,8465211.0
+16598.0,,1019034,bio key international inc,1.0,,,,20221114,"bush, iii thomas",143774922027229,,male,8465211.0
+15840.0,,1019034,bio key international inc,1.0,,,,20221114,alia emmanuel,143774922027212,,male,8465211.0
+19510.0,,1019034,bio key international inc,1.0,,,,20221114,michel robert j,143774922027220,,male,8465211.0
+18522.0,,1019034,bio key international inc,1.0,,,,20221114,knook pieter cornelis,143774922027216,,male,8465211.0
+19125.0,,1019034,bio key international inc,,1.0,,,20230109,lacous mira k,143774923000720,Chief Technology Officer,female,552739.0
+74227.0,,1019034,bio key international inc,1.0,1.0,,1.0,20230109,depasquale michael w,143774923000716,Chief Executive Officer,male,552739.0
+79000.0,,1019034,bio key international inc,,1.0,,1.0,20230109,sullivan james david,143774923000718,Chief Legal Officer,male,552739.0
+20445.0,,1019034,bio key international inc,1.0,,,,20230320,"bush, iii thomas",143774923007292,,male,552739.0
+19687.0,,1019034,bio key international inc,1.0,0.0,0.0,0.0,20230320,alia emmanuel,143774923007231,,male,552739.0
+22369.0,,1019034,bio key international inc,1.0,,,,20230320,knook pieter cornelis,143774923007288,,male,552739.0
+23357.0,,1019034,bio key international inc,1.0,,,,20230320,michel robert j,143774923007290,,male,552739.0
+24786.0,,1019034,bio key international inc,1.0,,,,20230508,michel robert j,143774923013048,,male,9226058.0
+23798.0,,1019034,bio key international inc,1.0,,,,20230508,knook pieter cornelis,143774923013052,,male,9226058.0
+29134.0,,1019034,bio key international inc,1.0,,,,20230515,michel robert j,143774923014593,,male,9226058.0
+28146.0,,1019034,bio key international inc,1.0,,,,20230515,knook pieter cornelis,143774923014597,,male,9226058.0
+26243.0,,1019034,bio key international inc,1.0,,,,20230515,"bush, iii thomas",143774923014615,,male,9226058.0
+25485.0,,1019034,bio key international inc,1.0,,,,20230515,alia emmanuel,143774923014622,,male,9226058.0
+79227.0,,1019034,bio key international inc,1.0,1.0,,1.0,20230620,depasquale michael w,143774923017774,Chief Executive Officer,male,9234833.0
+81727.0,,1019034,bio key international inc,1.0,1.0,,1.0,20230705,depasquale michael w,143774923019324,Chief Executive Officer,male,9262853.0
+81500.0,,1019034,bio key international inc,,1.0,,1.0,20230705,sullivan james david,143774923019332,Chief Legal Officer,male,9262853.0
+21625.0,,1019034,bio key international inc,,1.0,,,20230705,lacous mira k,143774923019351,Chief Technology Officer,female,9262853.0
+33546.0,,1019034,bio key international inc,1.0,,,,20230814,michel robert j,143774923023645,,male,9262853.0
+4412.0,,1019034,bio key international inc,1.0,,,,20230814,williams cameron e.,143774923023642,,male,9262853.0
+29897.0,,1019034,bio key international inc,1.0,,,,20230814,alia emmanuel,143774923023596,,male,9262853.0
+6231.0,,1019034,bio key international inc,1.0,,,,20230831,williams cameron e.,143774923024904,,male,9255256.0
+35365.0,,1019034,bio key international inc,1.0,,,,20230831,michel robert j,143774923024908,,male,9255256.0
+116727.0,,1019034,bio key international inc,1.0,1.0,,1.0,20230831,depasquale michael w,143774923024950,Chief Executive Officer,male,9255256.0
+111500.0,,1019034,bio key international inc,,1.0,,1.0,20230831,sullivan james david,143774923024954,Chief Legal Officer,male,9255256.0
+64125.0,,1019034,bio key international inc,,1.0,,,20230831,welch cecilia c,143774923024967,Chief Financial Officer,female,9255256.0
+31625.0,,1019034,bio key international inc,,1.0,,,20230831,lacous mira k,143774923024970,Chief Technology Officer,female,9255256.0
+116500.0,,1019034,bio key international inc,,1.0,,1.0,20230905,sullivan james david,143774923025190,Chief Legal Officer,male,9255256.0
+125500.0,,1019034,bio key international inc,,1.0,,1.0,20230912,sullivan james david,143774923025634,Chief Legal Officer,male,9255256.0
+121827.0,,1019034,bio key international inc,1.0,1.0,,1.0,20230914,depasquale michael w,143774923025845,Chief Executive Officer,male,9255256.0
+130500.0,,1019034,bio key international inc,,1.0,,1.0,20230918,sullivan james david,143774923026164,Chief Legal Officer,male,9255256.0
+286827.0,,1019034,bio key international inc,1.0,1.0,,1.0,20231101,depasquale michael w,143774923029784,Chief Executive Officer,male,9501669.0
+415600.0,,1019034,bio key international inc,,1.0,,1.0,20231101,sullivan james david,143774923029811,Chief Legal Officer,male,9501669.0
+368171.0,,1019034,bio key international inc,,1.0,,1.0,20231128,sullivan james david,143774923033092,Chief Legal Officer,male,13731669.0
+388171.0,,1019034,bio key international inc,,1.0,,1.0,20231204,sullivan james david,143774923033447,Chief Legal Officer,male,13731669.0
+306827.0,,1019034,bio key international inc,1.0,1.0,,1.0,20231204,depasquale michael w,143774923033457,Chief Executive Officer,male,13731669.0
+21934.0,,1019034,bio key international inc,,1.0,,1.0,20240103,sullivan james david,143774924000423,Chief Legal Officer,male,1032777.0
+1341.0,,1019034,bio key international inc,,1.0,,,20240103,lacous mira k,143774924000427,Chief Technology Officer,female,1032777.0
+15241.0,,1019034,bio key international inc,1.0,1.0,,1.0,20240103,depasquale michael w,143774924000439,Chief Executive Officer,male,1032777.0
+3368.0,,1019034,bio key international inc,1.0,,,,20240329,alia emmanuel,143774924010092,,male,1032777.0
+3672.0,,1019034,bio key international inc,1.0,,,,20240329,michel robert j,143774924010087,,male,1032777.0
+2053.0,,1019034,bio key international inc,1.0,,,,20240329,williams cameron e.,143774924010098,,male,1032777.0
+15380.0,,1019034,bio key international inc,1.0,1.0,,1.0,20240702,depasquale michael w,143774924022004,Chief Executive Officer,male,1815618.0
+22073.0,,1019034,bio key international inc,,1.0,,1.0,20240702,sullivan james david,143774924022006,Chief Legal Officer,male,1815618.0
+1480.0,,1019034,bio key international inc,,1.0,,,20240702,lacous mira k,143774924022010,Chief Technology Officer,female,1815618.0
+6229.0,,1019034,bio key international inc,1.0,,,,20240802,williams cameron e.,143774924024536,,male,1815618.0
+44573.0,,1019034,bio key international inc,1.0,1.0,,1.0,20240802,depasquale michael w,143774924024503,Chief Executive Officer,male,1815618.0
+44573.0,,1019034,bio key international inc,,1.0,,1.0,20240802,sullivan james david,143774924024509,Chief Legal Officer,male,1815618.0
+10480.0,,1019034,bio key international inc,,1.0,,,20240802,lacous mira k,143774924024518,Chief Technology Officer,female,1815618.0
+24396.0,,1019034,bio key international inc,,1.0,,,20240802,welch cecilia c,143774924024521,Chief Financial Officer,female,1815618.0
+6868.0,,1019034,bio key international inc,1.0,,,,20240802,alia emmanuel,143774924024525,,male,1815618.0
+7848.0,,1019034,bio key international inc,1.0,,,,20240802,michel robert j,143774924024531,,male,1815618.0
+10435.0,,1019034,bio key international inc,1.0,,,,20241108,michel robert j,143774924034243,,male,3109288.0
+9455.0,,1019034,bio key international inc,1.0,,,,20241108,alia emmanuel,143774924034239,,male,3109288.0
+8816.0,,1019034,bio key international inc,1.0,,,,20241108,williams cameron e.,143774924034228,,male,3109288.0

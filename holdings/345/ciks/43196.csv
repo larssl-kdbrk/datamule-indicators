@@ -1,124 +1,504 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-999676.0,3440618.0,43196,gray television inc,1,0,0,0.0,20100115,robinson j mack,120919110003292,,male,
-999676.0,3089703.0,43196,gray television inc,1,0,0,0.0,20100115,robinson harriett j,120919110003293,,female,
-1002676.0,3440618.0,43196,gray television inc,1,0,0,0.0,20100127,robinson j mack,120919110004913,,male,
-1002676.0,3089703.0,43196,gray television inc,1,0,0,0.0,20100127,robinson harriett j,120919110004914,,female,
-490298.0,3310318.0,43196,gray television inc,1,0,0,0.0,20100503,robinson j mack,120919110024694,,male,
-490298.0,3962079.0,43196,gray television inc,1,0,0,0.0,20100503,robinson harriett j,120919110024696,,female,
-6171.0,3736.0,43196,gray television inc,1,0,0,0.0,20100630,boger richard lee,120919110036166,,male,
-23700.0,9907.0,43196,gray television inc,1,0,0,0.0,20100727,boger richard lee,120919110039741,,male,
-18700.0,9907.0,43196,gray television inc,1,0,0,0.0,20100818,boger richard lee,120919110043220,,male,
-6700.0,9907.0,43196,gray television inc,1,0,0,0.0,20100908,boger richard lee,120919110045475,,male,
-3034.0,3736.0,43196,gray television inc,1,0,0,0.0,20101013,boger richard lee,120919110050291,,male,
-836.0,3034.0,43196,gray television inc,1,0,0,0.0,20110119,boger richard lee,120919111003864,,male,
-36.0,3034.0,43196,gray television inc,1,0,0,0.0,20110121,boger richard lee,120919111004447,,male,
-2700.0,3070.0,43196,gray television inc,1,0,0,0.0,20110125,boger richard lee,120919111004918,,male,
-874583.0,4452377.0,43196,gray television inc,1,0,0,0.0,20110815,robinson harriett j,120919111044143,,female,
-874583.0,2951033.0,43196,gray television inc,1,0,0,0.0,20110815,robinson j mack,120919111044144,,male,
-894583.0,2951033.0,43196,gray television inc,1,0,0,0.0,20110819,robinson j mack,120919111044984,,male,
-894583.0,4452377.0,43196,gray television inc,1,0,0,0.0,20110819,robinson harriett j,120919111044983,,female,
-894864.0,4452377.0,43196,gray television inc,1,0,0,0.0,20110829,robinson harriett j,120919111045807,,female,
-894864.0,2951033.0,43196,gray television inc,1,0,0,0.0,20110829,robinson j mack,120919111045808,,male,
-68488.0,765680.0,43196,gray television inc,1,1,0,0.0,20111221,howell hilton h jr,120919111062496,Chairman & CEO,male,
-68646.0,765680.0,43196,gray television inc,1,1,0,0.0,20111223,howell hilton h jr,120919111062998,Chairman & CEO,male,
-19000.0,0.0,43196,gray television inc,1,0,0,0.0,20120103,elder t l,120919112000517,,male,
-507951.0,766356.0,43196,gray television inc,1,1,0,0.0,20120404,howell hilton h jr,120919112022020,Chairman & CEO,male,
+,,43196,gray television inc,1,0,0,0.0,20100115,robinson j mack,120919110003292,,male,
+,,43196,gray television inc,1,0,0,0.0,20100115,robinson harriett j,120919110003293,,female,
+,,43196,gray television inc,1,0,0,0.0,20100127,robinson harriett j,120919110004914,,female,
+,,43196,gray television inc,1,0,0,0.0,20100127,robinson j mack,120919110004913,,male,
+,,43196,gray television inc,1,0,0,0.0,20100503,robinson j mack,120919110024694,,male,
+,,43196,gray television inc,1,0,0,0.0,20100503,robinson harriett j,120919110024696,,female,
+,,43196,gray television inc,1,0,0,0.0,20100630,boger richard lee,120919110036166,,male,
+,,43196,gray television inc,1,0,0,0.0,20100727,boger richard lee,120919110039741,,male,
+,,43196,gray television inc,1,0,0,0.0,20100818,boger richard lee,120919110043220,,male,
+,,43196,gray television inc,1,0,0,0.0,20100908,boger richard lee,120919110045475,,male,
+,,43196,gray television inc,1,0,0,0.0,20101013,boger richard lee,120919110050291,,male,
+,,43196,gray television inc,1,0,0,0.0,20110119,boger richard lee,120919111003864,,male,
+,,43196,gray television inc,1,0,0,0.0,20110121,boger richard lee,120919111004447,,male,
+,,43196,gray television inc,1,0,0,0.0,20110125,boger richard lee,120919111004918,,male,
+,,43196,gray television inc,1,0,0,0.0,20110815,robinson harriett j,120919111044143,,female,
+,,43196,gray television inc,1,0,0,0.0,20110815,robinson j mack,120919111044144,,male,
+,,43196,gray television inc,1,0,0,0.0,20110819,robinson harriett j,120919111044983,,female,
+,,43196,gray television inc,1,0,0,0.0,20110819,robinson j mack,120919111044984,,male,
+,,43196,gray television inc,1,0,0,0.0,20110829,robinson j mack,120919111045808,,male,
+,,43196,gray television inc,1,0,0,0.0,20110829,robinson harriett j,120919111045807,,female,
+,,43196,gray television inc,1,1,0,0.0,20111221,howell hilton h jr,120919111062496,Chairman & CEO,male,
+,,43196,gray television inc,1,1,0,0.0,20111223,howell hilton h jr,120919111062998,Chairman & CEO,male,
+19000.0,,43196,gray television inc,1,0,0,0.0,20120103,elder t l,120919112000517,,male,
+507951.0,151676.0,43196,gray television inc,1,1,0,0.0,20120404,howell hilton h jr,120919112022020,Chairman & CEO,male,
 301972.0,2645.0,43196,gray television inc,1,1,0,0.0,20120404,prather robert s jr,120919112022024,President and C.O.O.,male,
 34267.0,5672.0,43196,gray television inc,0,1,0,0.0,20120404,ryan james c,120919112022028,SVP & Chief Financial Officer,male,
-31659.0,0.0,43196,gray television inc,0,1,0,0.0,20120404,latek kevin paul,120919112022033,"General Counsel, VP, Law & Dev",male,
-21000.0,0.0,43196,gray television inc,1,0,0,0.0,20120411,elder t l,120919112022800,,male,
-69370.0,766356.0,43196,gray television inc,1,1,0,0.0,20120518,howell hilton h jr,120919112029123,Chairman & CEO,male,
-383569.0,3496215.0,43196,gray television inc,0,0,1,0.0,20120531,robinson j mack,120919112031437,,male,
-876719.0,3604027.0,43196,gray television inc,1,0,0,0.0,20120531,robinson harriett j,120919112031436,,female,
-68119.0,0.0,43196,gray television inc,1,0,0,0.0,20120531,norton hugh,120919112031435,,male,
-51869.0,0.0,43196,gray television inc,1,0,0,0.0,20120531,newton howell,120919112031434,,male,
-49369.0,0.0,43196,gray television inc,1,0,0,0.0,20120531,elder t l,120919112031432,,male,
+31659.0,,43196,gray television inc,0,1,0,0.0,20120404,latek kevin paul,120919112022033,"General Counsel, VP, Law & Dev",male,
+21000.0,,43196,gray television inc,1,0,0,0.0,20120411,elder t l,120919112022800,,male,
+,151676.0,43196,gray television inc,1,1,0,0.0,20120518,howell hilton h jr,120919112029123,Chairman & CEO,male,
+383569.0,366268.0,43196,gray television inc,0,0,1,0.0,20120531,robinson j mack,120919112031437,,male,
+,,43196,gray television inc,1,0,0,0.0,20120531,robinson harriett j,120919112031436,,female,
+68119.0,,43196,gray television inc,1,0,0,0.0,20120531,norton hugh,120919112031435,,male,
+49369.0,,43196,gray television inc,1,0,0,0.0,20120531,elder t l,120919112031432,,male,
+51869.0,,43196,gray television inc,1,0,0,0.0,20120531,newton howell,120919112031434,,male,
+168119.0,,43196,gray television inc,1,0,0,0.0,20120531,mayher william e iii,120919112031433,,male,
 43369.0,312696.0,43196,gray television inc,1,0,0,0.0,20120531,deaver ray m,120919112031431,,male,
-34406.0,3070.0,43196,gray television inc,1,0,0,0.0,20120531,boger richard lee,120919112031430,,male,
-168119.0,0.0,43196,gray television inc,1,0,0,0.0,20120531,mayher william e iii,120919112031433,,male,
-28369.0,1285102.0,43196,gray television inc,1,0,0,0.0,20120601,howell robin robinson,120919112031737,,male,
-28369.0,766356.0,43196,gray television inc,1,1,0,0.0,20120601,howell hilton h jr,120919112031738,Chairman & CEO,male,
+34406.0,3034.0,43196,gray television inc,1,0,0,0.0,20120531,boger richard lee,120919112031430,,male,
+28369.0,659627.0,43196,gray television inc,1,0,0,0.0,20120601,howell robin robinson,120919112031737,,male,
+28369.0,151676.0,43196,gray television inc,1,1,0,0.0,20120601,howell hilton h jr,120919112031738,Chairman & CEO,male,
 287236.0,2645.0,43196,gray television inc,1,1,0,0.0,20121016,prather robert s jr,120919112049624,President and C.O.O.,male,
-0.0,0.0,43196,gray television inc,1,0,0,0.0,20121221,newton howell,120919112059062,,male,
-18724.0,777151.0,43196,gray television inc,1,0,0,0.0,20121227,howell robin robinson,120919112059455,,male,
-18724.0,766356.0,43196,gray television inc,1,1,0,0.0,20121227,howell hilton h jr,120919112059456,Chairman & CEO,male,
-37738.0,0.0,43196,gray television inc,1,0,0,0.0,20121227,elder t l,120919112059457,,male,
-273034.0,2645.0,43196,gray television inc,1,1,0,0.0,20121227,prather robert s jr,120919112059458,President and C.O.O.,male,
-25652.0,5672.0,43196,gray television inc,0,1,0,0.0,20121227,ryan james c,120919112059459,SVP & Chief Financial Officer,male,
-22794.0,0.0,43196,gray television inc,0,1,0,0.0,20121227,latek kevin paul,120919112059460,"General Counsel, VP, Law & Dev",male,
-43243.0,0.0,43196,gray television inc,1,0,0,0.0,20130108,newton howell,120919113002592,,male,
-31738.0,0.0,43196,gray television inc,1,0,0,0.0,20130312,elder t l,120919113016003,,male,
-27754.0,1972656.0,43196,gray television inc,1,1,0,0.0,20130321,howell hilton h jr,120919113017930,Chairman & CEO,male,
-380258.0,2645.0,43196,gray television inc,1,1,0,0.0,20130321,prather robert s jr,120919113017932,President and C.O.O.,male,
-76443.0,5672.0,43196,gray television inc,0,1,0,0.0,20130321,ryan james c,120919113017934,SVP & Chief Financial Officer,male,
-73585.0,0.0,43196,gray television inc,0,1,0,0.0,20130321,latek kevin paul,120919113017935,"General Counsel, VP, Law & Dev",male,
-177149.0,0.0,43196,gray television inc,1,0,0,0.0,20130321,mayher william e iii,120919113017937,,male,
-43436.0,3070.0,43196,gray television inc,1,0,0,0.0,20130321,boger richard lee,120919113017939,,male,
-40768.0,0.0,43196,gray television inc,1,0,0,0.0,20130321,elder t l,120919113017940,,male,
-592369.0,1983451.0,43196,gray television inc,1,0,0,0.0,20130321,howell robin robinson,120919113017941,,male,
-52273.0,0.0,43196,gray television inc,1,0,0,0.0,20130321,newton howell,120919113017943,,male,
-77149.0,0.0,43196,gray television inc,1,0,0,0.0,20130321,norton hugh,120919113017944,,male,
-392599.0,4482646.0,43196,gray television inc,1,0,1,0.0,20130321,robinson harriett j,120919113017945,,female,
-392599.0,4702515.0,43196,gray television inc,0,0,1,0.0,20130321,robinson j mack,120919113017946,,male,
-832500.0,1935420.0,43196,gray television inc,1,0,0,0.0,20130510,howell robin robinson,120919113025631,,male,
-832500.0,1360010.0,43196,gray television inc,1,1,0,0.0,20130510,howell hilton h jr,120919113025630,Chairman & CEO,male,
-30768.0,0.0,43196,gray television inc,1,0,0,0.0,20130510,elder t l,120919113025625,,male,
-832500.0,4454714.0,43196,gray television inc,0,0,1,0.0,20130510,robinson j mack,120919113025627,,male,
-832500.0,3606027.0,43196,gray television inc,1,0,1,0.0,20130510,robinson harriett j,120919113025629,,female,
-909864.0,4392350.0,43196,gray television inc,0,0,1,0.0,20130619,robinson j mack,120919113032896,,male,
-909864.0,4482646.0,43196,gray television inc,1,0,1,0.0,20130619,robinson harriett j,120919113032898,,female,
-910864.0,4392350.0,43196,gray television inc,0,0,1,0.0,20130620,robinson j mack,120919113033120,,male,
-910864.0,4482646.0,43196,gray television inc,1,0,1,0.0,20130620,robinson harriett j,120919113033122,,female,
-919864.0,4482646.0,43196,gray television inc,1,0,1,0.0,20130621,robinson harriett j,120919113033234,,female,
-919864.0,4392350.0,43196,gray television inc,0,0,1,0.0,20130621,robinson j mack,120919113033235,,male,
-658566.0,5145860.0,43196,gray television inc,0,0,1,0.0,20130812,robinson j mack,120919113040211,,male,
-658566.0,4316292.0,43196,gray television inc,1,0,1,0.0,20130812,robinson harriett j,120919113040213,,female,
-569700.0,2120822.0,43196,gray television inc,1,1,0,0.0,20131202,howell hilton h jr,120919113054731,Chairman & CEO,male,
-569700.0,2696232.0,43196,gray television inc,1,0,0,0.0,20131202,howell robin robinson,120919113054732,,male,
-76170.0,2684722.0,43196,gray television inc,1,1,0,0.0,20131204,howell hilton h jr,120919113055354,Chairman & CEO,male,
-76170.0,3190762.0,43196,gray television inc,1,0,0,0.0,20131204,howell robin robinson,120919113055355,,male,
-77170.0,3190762.0,43196,gray television inc,1,0,0,0.0,20131212,howell robin robinson,120919113056690,,male,
-77170.0,2684722.0,43196,gray television inc,1,1,0,0.0,20131212,howell hilton h jr,120919113056689,Chairman & CEO,male,
-74891.0,0.0,43196,gray television inc,1,0,0,0.0,20140103,norton hugh,120919114001084,,male,
-27698.0,0.0,43196,gray television inc,1,0,0,0.0,20140103,elder t l,120919114001088,,male,
-24955.0,3267932.0,43196,gray television inc,1,0,0,0.0,20140103,howell robin robinson,120919114001091,,male,
-24955.0,2656968.0,43196,gray television inc,1,1,0,0.0,20140103,howell hilton h jr,120919114001096,Chairman & CEO,male,
-49273.0,0.0,43196,gray television inc,1,0,0,0.0,20140116,newton howell,120919114003549,,male,
-271583.0,2681923.0,43196,gray television inc,1,1,0,0.0,20140122,howell hilton h jr,120919114004332,Chairman & CEO,male,
-271583.0,3190762.0,43196,gray television inc,1,0,0,0.0,20140122,howell robin robinson,120919114004333,,male,
-154511.0,0.0,43196,gray television inc,0,1,0,0.0,20140122,latek kevin paul,120919114004334,"General Counsel, VP, Law & Dev",male,
-148455.0,5672.0,43196,gray television inc,0,1,0,0.0,20140122,ryan james c,120919114004335,SVP & Chief Financial Officer,male,
-24698.0,0.0,43196,gray television inc,1,0,0,0.0,20140122,elder t l,120919114004337,,male,
-64558.0,2623348.0,43196,gray television inc,1,1,0,0.0,20140307,howell hilton h jr,120919114018407,"Vice Chairman, President & CEO",male,
-64558.0,3603158.0,43196,gray television inc,1,0,0,0.0,20140307,howell robin robinson,120919114018403,,male,
-19483.0,0.0,43196,gray television inc,1,0,0,0.0,20140307,mayher william e iii,120919114018400,,male,
-19483.0,0.0,43196,gray television inc,1,0,0,0.0,20140307,norton hugh,120919114018398,,male,
-7983.0,0.0,43196,gray television inc,1,0,0,0.0,20140307,elder t l,120919114018394,,male,
-5983.0,3070.0,43196,gray television inc,1,0,0,0.0,20140307,boger richard lee,120919114018388,,male,
-925847.0,4974858.0,43196,gray television inc,1,0,1,0.0,20140307,robinson harriett j,120919114018384,,female,
-5983.0,0.0,43196,gray television inc,1,0,0,0.0,20140307,newton howell,120919114018392,,male,
-49998.0,0.0,43196,gray television inc,1,0,0,0.0,20140910,newton howell,120919114057347,,male,
-999000.0,3922545.0,43196,gray television inc,1,0,1,0.0,20150121,robinson harriett j,120919115005529,,female,
-999000.0,864796.0,43196,gray television inc,1,1,0,0.0,20150121,howell hilton h jr,120919115005530,"Vice Chairman, President & CEO",male,
-999000.0,839841.0,43196,gray television inc,1,0,0,0.0,20150121,howell robin robinson,120919115005532,,male,
-132651.0,7117.0,43196,gray television inc,0,1,0,0.0,20150121,ryan james c,120919115005535,SVP & Chief Financial Officer,male,
-143442.0,0.0,43196,gray television inc,0,1,0,0.0,20150121,latek kevin paul,120919115005537,"Senior V.P., Business Affairs",male,
-6128.0,0.0,43196,gray television inc,1,0,0,0.0,20150121,elder t l,120919115005539,,male,
-4128.0,0.0,43196,gray television inc,1,0,0,0.0,20150121,newton howell,120919115005542,,male,
-17987.0,0.0,43196,gray television inc,1,0,0,0.0,20150121,norton hugh,120919115005545,,male,
-184259.0,7117.0,43196,gray television inc,0,1,0,0.0,20150129,ryan james c,120919115007532,SVP & Chief Financial Officer,male,
-73798.0,0.0,43196,gray television inc,0,1,0,0.0,20150129,latek kevin paul,120919115007531,"Senior V.P., Business Affairs",male,
-401351.0,2413621.0,43196,gray television inc,1,0,0,0.0,20150129,howell robin robinson,120919115007530,,male,
-401351.0,1926499.0,43196,gray television inc,1,1,0,0.0,20150129,howell hilton h jr,120919115007528,"Vice Chairman, President & CEO",male,
-14296.0,3070.0,43196,gray television inc,1,0,0,0.0,20150320,boger richard lee,120919115028336,,male,
-14441.0,0.0,43196,gray television inc,1,0,0,0.0,20150320,elder t l,120919115028337,,male,
-557191.0,1863796.0,43196,gray television inc,1,1,0,0.0,20150320,howell hilton h jr,120919115028338,"Vice Chairman, President & CEO",male,
-557191.0,2240192.0,43196,gray television inc,1,0,0,0.0,20150320,howell robin robinson,120919115028339,,male,
-27796.0,0.0,43196,gray television inc,1,0,0,0.0,20150320,mayher william e iii,120919115028340,,male,
-12441.0,0.0,43196,gray television inc,1,0,0,0.0,20150320,newton howell,120919115028341,,male,
-26300.0,0.0,43196,gray television inc,1,0,0,0.0,20150320,norton hugh,120919115028343,,male,
-937836.0,4921545.0,43196,gray television inc,1,0,1,0.0,20150320,robinson harriett j,120919115028344,,female,
-178613.0,7117.0,43196,gray television inc,0,1,0,0.0,20150320,ryan james c,120919115028345,SVP & Chief Financial Officer,male,
-67391.0,0.0,43196,gray television inc,1,0,0,0.0,20150716,norton hugh,120919115061205,,male,
-944566.0,4921545.0,43196,gray television inc,1,0,1,0.0,20150921,robinson harriett j,120919115071683,,female,
-964266.0,4921545.0,43196,gray television inc,1,0,1,0.0,20150928,robinson harriett j,120919115072313,,female,
+49369.0,,43196,gray television inc,1,0,0,0,20121221,newton howell,120919112059062,,male,
+18724.0,151676.0,43196,gray television inc,1,0,0,0,20121227,howell robin robinson,120919112059455,,male,
+18724.0,151676.0,43196,gray television inc,1,1,0,0,20121227,howell hilton h jr,120919112059456,Chairman & CEO,male,
+37738.0,,43196,gray television inc,1,0,0,0,20121227,elder t l,120919112059457,,male,
+273034.0,2645.0,43196,gray television inc,1,1,0,0,20121227,prather robert s jr,120919112059458,President and C.O.O.,male,
+25652.0,5672.0,43196,gray television inc,0,1,0,0,20121227,ryan james c,120919112059459,SVP & Chief Financial Officer,male,
+22794.0,,43196,gray television inc,0,1,0,0,20121227,latek kevin paul,120919112059460,"General Counsel, VP, Law & Dev",male,
+43243.0,,43196,gray television inc,1,0,0,0,20130108,newton howell,120919113002592,,male,
+31738.0,,43196,gray television inc,1,0,0,0,20130312,elder t l,120919113016003,,male,
+76443.0,5672.0,43196,gray television inc,0,1,0,0,20130321,ryan james c,120919113017934,SVP & Chief Financial Officer,male,
+73585.0,,43196,gray television inc,0,1,0,0,20130321,latek kevin paul,120919113017935,"General Counsel, VP, Law & Dev",male,
+177149.0,,43196,gray television inc,1,0,0,0,20130321,mayher william e iii,120919113017937,,male,
+43436.0,3034.0,43196,gray television inc,1,0,0,0,20130321,boger richard lee,120919113017939,,male,
+40768.0,,43196,gray television inc,1,0,0,0,20130321,elder t l,120919113017940,,male,
+592369.0,792076.0,43196,gray television inc,1,0,0,0,20130321,howell robin robinson,120919113017941,,male,
+52273.0,,43196,gray television inc,1,0,0,0,20130321,newton howell,120919113017943,,male,
+77149.0,,43196,gray television inc,1,0,0,0,20130321,norton hugh,120919113017944,,male,
+392599.0,1242887.0,43196,gray television inc,1,0,1,0,20130321,robinson harriett j,120919113017945,,female,
+392599.0,1006668.0,43196,gray television inc,0,0,1,0,20130321,robinson j mack,120919113017946,,male,
+380258.0,2645.0,43196,gray television inc,1,1,0,0,20130321,prather robert s jr,120919113017932,President and C.O.O.,male,
+27754.0,792076.0,43196,gray television inc,1,1,0,0,20130321,howell hilton h jr,120919113017930,Chairman & CEO,male,
+30768.0,,43196,gray television inc,1,0,0,0,20130510,elder t l,120919113025625,,male,
+832500.0,179430.0,43196,gray television inc,1,1,0,0,20130510,howell hilton h jr,120919113025630,Chairman & CEO,male,
+832500.0,758867.0,43196,gray television inc,0,0,1,0,20130510,robinson j mack,120919113025627,,male,
+832500.0,366268.0,43196,gray television inc,1,0,1,0,20130510,robinson harriett j,120919113025629,,female,
+832500.0,744045.0,43196,gray television inc,1,0,0,0,20130510,howell robin robinson,120919113025631,,male,
+909864.0,1242887.0,43196,gray television inc,1,0,1,0,20130619,robinson harriett j,120919113032898,,female,
+,1591367.0,43196,gray television inc,0,0,1,0,20130619,robinson j mack,120919113032896,,male,
+,1591367.0,43196,gray television inc,0,0,1,0,20130620,robinson j mack,120919113033120,,male,
+,1242887.0,43196,gray television inc,1,0,1,0,20130620,robinson harriett j,120919113033122,,female,
+,1242887.0,43196,gray television inc,1,0,1,0,20130621,robinson harriett j,120919113033234,,female,
+,1591367.0,43196,gray television inc,0,0,1,0,20130621,robinson j mack,120919113033235,,male,
+,1591367.0,43196,gray television inc,0,0,1,0,20130812,robinson j mack,120919113040211,,male,
+,1242887.0,43196,gray television inc,1,0,1,0,20130812,robinson harriett j,120919113040213,,female,
+,1011930.0,43196,gray television inc,1,1,0,0,20131202,howell hilton h jr,120919113054731,Chairman & CEO,male,
+,1576545.0,43196,gray television inc,1,0,0,0,20131202,howell robin robinson,120919113054732,,male,
+,1011930.0,43196,gray television inc,1,1,0,0,20131204,howell hilton h jr,120919113055354,Chairman & CEO,male,
+,1576545.0,43196,gray television inc,1,0,0,0,20131204,howell robin robinson,120919113055355,,male,
+,1011930.0,43196,gray television inc,1,1,0,0,20131212,howell hilton h jr,120919113056689,Chairman & CEO,male,
+,1576545.0,43196,gray television inc,1,0,0,0,20131212,howell robin robinson,120919113056690,,male,
+24955.0,984176.0,43196,gray television inc,1,1,0,0,20140103,howell hilton h jr,120919114001096,Chairman & CEO,male,
+24955.0,1576545.0,43196,gray television inc,1,0,0,0,20140103,howell robin robinson,120919114001091,,male,
+27698.0,,43196,gray television inc,1,0,0,0,20140103,elder t l,120919114001088,,male,
+74891.0,,43196,gray television inc,1,0,0,0,20140103,norton hugh,120919114001084,,male,
+49273.0,,43196,gray television inc,1,0,0,0,20140116,newton howell,120919114003549,,male,
+,1009131.0,43196,gray television inc,1,1,0,0,20140122,howell hilton h jr,120919114004332,Chairman & CEO,male,
+,1576545.0,43196,gray television inc,1,0,0,0,20140122,howell robin robinson,120919114004333,,male,
+154511.0,,43196,gray television inc,0,1,0,0,20140122,latek kevin paul,120919114004334,"General Counsel, VP, Law & Dev",male,
+148455.0,5672.0,43196,gray television inc,0,1,0,0,20140122,ryan james c,120919114004335,SVP & Chief Financial Officer,male,
+24698.0,,43196,gray television inc,1,0,0,0,20140122,elder t l,120919114004337,,male,
+,1009131.0,43196,gray television inc,1,1,0,0,20140307,howell hilton h jr,120919114018407,"Vice Chairman, President & CEO",male,
+,1576545.0,43196,gray television inc,1,0,0,0,20140307,howell robin robinson,120919114018403,,male,
+,,43196,gray television inc,1,0,0,0,20140307,mayher william e iii,120919114018400,,male,
+,,43196,gray television inc,1,0,0,0,20140307,norton hugh,120919114018398,,male,
+,3034.0,43196,gray television inc,1,0,0,0,20140307,boger richard lee,120919114018388,,male,
+,,43196,gray television inc,1,0,0,0,20140307,newton howell,120919114018392,,male,
+,,43196,gray television inc,1,0,0,0,20140307,elder t l,120919114018394,,male,
+,1242887.0,43196,gray television inc,1,0,1,0,20140307,robinson harriett j,120919114018384,,female,
+49998.0,,43196,gray television inc,1,0,0,0,20140910,newton howell,120919114057347,,male,
+0.0,1193250.0,43196,gray television inc,1,0,1,0,20150121,robinson harriett j,120919115005529,,female,
+574780.0,864296.0,43196,gray television inc,1,1,0,0,20150121,howell hilton h jr,120919115005530,"Vice Chairman, President & CEO",male,
+574780.0,839341.0,43196,gray television inc,1,0,0,0,20150121,howell robin robinson,120919115005532,,male,
+132651.0,7117.0,43196,gray television inc,0,1,0,0,20150121,ryan james c,120919115005535,SVP & Chief Financial Officer,male,
+143442.0,,43196,gray television inc,0,1,0,0,20150121,latek kevin paul,120919115005537,"Senior V.P., Business Affairs",male,
+,,43196,gray television inc,1,0,0,0,20150121,elder t l,120919115005539,,male,
+,,43196,gray television inc,1,0,0,0,20150121,newton howell,120919115005542,,male,
+,,43196,gray television inc,1,0,0,0,20150121,norton hugh,120919115005545,,male,
+184259.0,7117.0,43196,gray television inc,0,1,0,0,20150129,ryan james c,120919115007532,SVP & Chief Financial Officer,male,
+,864296.0,43196,gray television inc,1,1,0,0,20150129,howell hilton h jr,120919115007528,"Vice Chairman, President & CEO",male,
+,1414121.0,43196,gray television inc,1,0,0,0,20150129,howell robin robinson,120919115007530,,male,
+,,43196,gray television inc,0,1,0,0,20150129,latek kevin paul,120919115007531,"Senior V.P., Business Affairs",male,
+,3034.0,43196,gray television inc,1,0,0,0,20150320,boger richard lee,120919115028336,,male,
+,,43196,gray television inc,1,0,0,0,20150320,elder t l,120919115028337,,male,
+557191.0,864296.0,43196,gray television inc,1,1,0,0,20150320,howell hilton h jr,120919115028338,"Vice Chairman, President & CEO",male,
+557191.0,839341.0,43196,gray television inc,1,0,0,0,20150320,howell robin robinson,120919115028339,,male,
+,,43196,gray television inc,1,0,0,0,20150320,mayher william e iii,120919115028340,,male,
+,,43196,gray television inc,1,0,0,0,20150320,newton howell,120919115028341,,male,
+,,43196,gray television inc,1,0,0,0,20150320,norton hugh,120919115028343,,male,
+,1193250.0,43196,gray television inc,1,0,1,0,20150320,robinson harriett j,120919115028344,,female,
+178613.0,7117.0,43196,gray television inc,0,1,0,0,20150320,ryan james c,120919115028345,SVP & Chief Financial Officer,male,
+67391.0,,43196,gray television inc,1,0,0,0,20150716,norton hugh,120919115061205,,male,
+,1193250.0,43196,gray television inc,1,0,1,0,20150921,robinson harriett j,120919115071683,,female,
+,1193250.0,43196,gray television inc,1,0,1,0,20150921,robinson harriett j,120919115071683,,female,
+,1193250.0,43196,gray television inc,1,0,1,0,20150928,robinson harriett j,120919115072313,,female,
+,1193250.0,43196,gray television inc,1,0,1,0,20150928,robinson harriett j,120919115072313,,female,
+28066.0,,43196,gray television inc,1,0,0,0,20151113,boger richard lee,120919115080062,,male,
+48998.0,,43196,gray television inc,1,0,0,0,20151118,newton howell,120919115081025,,male,
+137549.0,,43196,gray television inc,0,1,0,0,20160120,latek kevin paul,120919116092750,"Senior V.P., Business Affairs",male,
+173682.0,7117.0,43196,gray television inc,0,1,0,0,20160120,ryan james c,120919116092751,SVP & Chief Financial Officer,male,
+,1396532.0,43196,gray television inc,1,0,0,0,20160120,howell robin robinson,120919116092749,,male,
+,864296.0,43196,gray television inc,1,1,0,0,20160120,howell hilton h jr,120919116092748,"Vice Chairman, President & CEO",male,
+,1396532.0,43196,gray television inc,1,0,0,0,20160126,howell robin robinson,120919116093623,,male,
+,864296.0,43196,gray television inc,1,1,0,0,20160126,howell hilton h jr,120919116093622,"Vice Chairman, President & CEO",male,
+225720.0,7117.0,43196,gray television inc,0,1,0,0,20160126,ryan james c,120919116093619,SVP & Chief Financial Officer,male,
+200298.0,,43196,gray television inc,0,1,0,0,20160126,latek kevin paul,120919116093618,"Senior V.P., Business Affairs",male,
+,,43196,gray television inc,1,0,0,0,20160202,norton hugh,120919116094937,,male,
+,,43196,gray television inc,1,0,0,0,20160202,newton howell,120919116094934,,male,
+,,43196,gray television inc,1,0,0,0,20160202,boger richard lee,120919116094932,,male,
+,864296.0,43196,gray television inc,1,1,0,0,20160202,howell hilton h jr,120919116094941,"Vice Chairman, President & CEO",male,
+,,43196,gray television inc,0,1,0,0,20160202,latek kevin paul,120919116094942,EVP-Development & Legal,male,
+,1396532.0,43196,gray television inc,1,0,0,0,20160202,howell robin robinson,120919116094940,,male,
+219802.0,7117.0,43196,gray television inc,0,1,0,0,20160202,ryan james c,120919116094943,EVP & Chief Financial Officer,male,
+,,43196,gray television inc,1,0,0,0,20160202,elder t l,120919116094938,,male,
+539602.0,864296.0,43196,gray television inc,1,1,0,0,20160322,howell hilton h jr,120919116110053,"Vice Chairman, President & CEO",male,
+539602.0,839341.0,43196,gray television inc,1,0,0,0,20160322,howell robin robinson,120919116110058,,male,
+214156.0,7117.0,43196,gray television inc,0,1,0,0,20160322,ryan james c,120919116110061,EVP & Chief Financial Officer,male,
+,,43196,gray television inc,1,0,0,0,20160324,newton howell,120919116110428,,male,
+,,43196,gray television inc,1,0,0,0,20160324,elder t l,120919116110432,,male,
+,,43196,gray television inc,1,0,0,0,20160324,boger richard lee,120919116110426,,male,
+,1378943.0,43196,gray television inc,1,0,0,0,20160324,howell robin robinson,120919116110435,,male,
+,864296.0,43196,gray television inc,1,1,0,0,20160324,howell hilton h jr,120919116110437,"Vice Chairman, President & CEO",male,
+9524.0,,43196,gray television inc,1,0,0,0,20160324,neuhoff elizabeth r.,120919116110438,,female,
+,1193250.0,43196,gray television inc,1,0,1,0,20160324,robinson harriett j,120919116110431,,female,
+76915.0,,43196,gray television inc,1,0,0,0,20160324,norton hugh,120919116110429,,male,
+69915.0,,43196,gray television inc,1,0,0,0,20160407,norton hugh,120919116113640,,male,
+,1193250.0,43196,gray television inc,1,0,1,0,20161115,robinson harriett j,120919116150243,,female,
+,864296.0,43196,gray television inc,1,1,0,0,20161115,howell hilton h jr,120919116150237,"Vice Chairman, President & CEO",male,
+,1378943.0,43196,gray television inc,1,0,0,0,20161115,howell robin robinson,120919116150240,,male,
+,1378943.0,43196,gray television inc,1,0,0,0,20161116,howell robin robinson,120919116150591,,male,
+,864296.0,43196,gray television inc,1,1,0,0,20161116,howell hilton h jr,120919116150589,"Vice Chairman, President & CEO",male,
+,1193250.0,43196,gray television inc,1,0,1,0,20161118,robinson harriett j,120919116151283,,female,
+,,43196,gray television inc,1,0,0,0,20161222,boger richard lee,120919116156577,,male,
+21738.0,,43196,gray television inc,1,0,0,0,20161228,elder t l,120919116156908,,male,
+,864296.0,43196,gray television inc,1,1,0,0,20170119,howell hilton h jr,120919117004649,"Chairman, President & CEO",male,66094091.0
+,1378943.0,43196,gray television inc,1,0,0,0,20170119,howell robin robinson,120919117004650,,male,66094091.0
+192865.0,,43196,gray television inc,0,1,0,0,20170119,latek kevin paul,120919117004651,EVP Chief L & D Officer,male,66094091.0
+207492.0,7117.0,43196,gray television inc,0,1,0,0,20170119,ryan james c,120919117004652,EVP & Chief Financial Officer,male,66094091.0
+,,43196,gray television inc,0,1,0,0,20170120,latek kevin paul,120919117004947,EVP Chief L & D Officer,male,66094091.0
+282039.0,7117.0,43196,gray television inc,0,1,0,0,20170120,ryan james c,120919117004948,EVP & Chief Financial Officer,male,66094091.0
+,864296.0,43196,gray television inc,1,1,0,0,20170120,howell hilton h jr,120919117004944,"Chairman, President & CEO",male,66094091.0
+,1378943.0,43196,gray television inc,1,0,0,0,20170120,howell robin robinson,120919117004945,,male,66094091.0
+,864296.0,43196,gray television inc,1,1,0,0,20170202,howell hilton h jr,120919117007274,"Chairman, President & CEO",male,66094091.0
+,1378943.0,43196,gray television inc,1,0,0,0,20170202,howell robin robinson,120919117007275,,male,66094091.0
+184216.0,,43196,gray television inc,0,1,0,0,20170202,latek kevin paul,120919117007276,EVP Chief L & D Officer,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170202,boger richard lee,120919117007278,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170202,newton howell,120919117007279,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170202,elder t l,120919117007280,,male,66094091.0
+266744.0,7117.0,43196,gray television inc,0,1,0,0,20170202,ryan james c,120919117007281,EVP & Chief Financial Officer,male,66094091.0
+67248.0,,43196,gray television inc,1,0,0,0,20170202,norton hugh,120919117007283,,male,66094091.0
+6857.0,,43196,gray television inc,1,0,0,0,20170202,neuhoff elizabeth r.,120919117007284,,female,66094091.0
+21066.0,,43196,gray television inc,1,0,0,0,20170313,boger richard lee,120919117020278,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,newton howell,120919117032067,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,boger richard lee,120919117032068,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,garcia luis a.,120919117032072,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,elder t l,120919117032070,,male,66094091.0
+,1378943.0,43196,gray television inc,1,0,0,0,20170512,howell robin robinson,120919117032075,,male,66094091.0
+,864296.0,43196,gray television inc,1,1,0,0,20170512,howell hilton h jr,120919117032076,"Chairman, President & CEO",male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,neuhoff elizabeth r.,120919117032080,,female,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,norton hugh,120919117032081,,male,66094091.0
+,,43196,gray television inc,1,0,0,0,20170512,hare richard b,120919117032073,,male,66094091.0
+,,43196,gray television inc,0,1,0,0,20171013,cowart jackson s iv,120919117056922,Chief Accounting Officer,male,66094091.0
+172862.0,,43196,gray television inc,0,1,0,0,20171222,latek kevin paul,120919117067139,EVP Chief L & D Officer,male,66094091.0
+,,43196,gray television inc,0,1,0,0,20180202,cowart jackson s iv,120919118007132,Chief Accounting Officer,male,83253588.0
+135310.0,,43196,gray television inc,0,1,0,0,20180202,latek kevin paul,120919118007129,EVP Chief L & D Officer,male,83253588.0
+,,43196,gray television inc,1,0,0,0,20180202,garcia luis a.,120919118007128,,male,83253588.0
+239699.0,7117.0,43196,gray television inc,0,1,0,0,20180202,ryan james c,120919118007130,EVP & Chief Financial Officer,male,83253588.0
+,,43196,gray television inc,1,0,0,0,20180202,elder t l,120919118007125,,male,83253588.0
+,,43196,gray television inc,1,0,0,0,20180202,norton hugh,120919118007124,,male,83253588.0
+,,43196,gray television inc,1,0,0,0,20180202,newton howell,120919118007123,,male,83253588.0
+,,43196,gray television inc,1,0,0,0,20180202,boger richard lee,120919118007122,,male,83253588.0
+,1378943.0,43196,gray television inc,1,0,0,0,20180202,howell robin robinson,120919118007121,,male,83253588.0
+,864296.0,43196,gray television inc,1,1,0,0,20180202,howell hilton h jr,120919118007120,"Chairman, President & CEO",male,83253588.0
+,,43196,gray television inc,1,0,0,0,20180202,neuhoff elizabeth r.,120919118007127,,female,83253588.0
+,864296.0,43196,gray television inc,1,1,0,0,20180216,howell hilton h jr,120919118010977,"Chairman, President & CEO",male,83253588.0
+,1378943.0,43196,gray television inc,1,0,0,0,20180216,howell robin robinson,120919118010979,,male,83253588.0
+222723.0,,43196,gray television inc,0,1,0,0,20180216,latek kevin paul,120919118010980,EVP Chief L & D Officer,male,83253588.0
+322777.0,7117.0,43196,gray television inc,0,1,0,0,20180216,ryan james c,120919118010982,EVP & Chief Financial Officer,male,83253588.0
+,1193250.0,43196,gray television inc,0,0,1,0,20180316,robinson harriett j,120919118020222,,female,83253588.0
+30271.0,,43196,gray television inc,1,0,0,0,20180511,boger richard lee,120919118029632,,male,82039917.0
+16062.0,,43196,gray television inc,1,0,0,0,20180511,neuhoff elizabeth r.,120919118029635,,female,82039917.0
+30943.0,,43196,gray television inc,1,0,0,0,20180511,elder t l,120919118029633,,male,82039917.0
+34160.0,839341.0,43196,gray television inc,1,1,0,0,20180511,howell hilton h jr,120919118029631,"Chairman, President & CEO",male,82039917.0
+9205.0,,43196,gray television inc,1,0,0,0,20180511,hare richard b,120919118029634,,male,82039917.0
+76453.0,,43196,gray television inc,1,0,0,0,20180511,norton hugh,120919118029629,,male,82039917.0
+9205.0,,43196,gray television inc,1,0,0,0,20180511,garcia luis a.,120919118029628,,male,82039917.0
+58203.0,,43196,gray television inc,1,0,0,0,20180511,newton howell,120919118029627,,male,82039917.0
+34160.0,1378943.0,43196,gray television inc,1,0,0,0,20180511,howell robin robinson,120919118029630,,male,82039917.0
+680259.0,873501.0,43196,gray television inc,1,1,0,0,20190104,howell hilton h jr,120919119002173,"Chairman, President & CEO",male,82022500.0
+680259.0,839341.0,43196,gray television inc,1,0,0,0,20190104,howell robin robinson,120919119002177,,male,82022500.0
+331102.0,,43196,gray television inc,0,1,0,0,20190104,latek kevin paul,120919119002179,EVP Chief L & D Officer,male,82022500.0
+380353.0,7117.0,43196,gray television inc,0,1,0,0,20190104,ryan james c,120919119002184,EVP & Chief Financial Officer,male,82022500.0
+180131.0,,43196,gray television inc,0,1,0,0,20190115,waller kevin nichols,120919119003799,SVP & CAO,male,82022500.0
+135748.0,69.0,43196,gray television inc,0,1,0,0,20190115,smith robert lawrence,120919119003800,SVP & COO,male,82022500.0
+170822.0,69.0,43196,gray television inc,0,1,0,0,20190204,smith robert lawrence,120919119006961,SVP & COO,male,82022500.0
+427038.0,7117.0,43196,gray television inc,0,1,0,0,20190204,ryan james c,120919119006959,EVP & Chief Financial Officer,male,82022500.0
+371838.0,,43196,gray television inc,0,1,0,0,20190204,latek kevin paul,120919119006957,EVP Chief L & D Officer,male,82022500.0
+217666.0,,43196,gray television inc,0,1,0,0,20190204,waller kevin nichols,120919119006962,SVP & CAO,male,82022500.0
+,1519600.0,43196,gray television inc,1,0,0,0,20190204,howell robin robinson,120919119006950,,male,82022500.0
+,873501.0,43196,gray television inc,1,1,0,0,20190204,howell hilton h jr,120919119006947,"Chairman, President & CEO",male,82022500.0
+287275.0,,43196,gray television inc,1,0,0,0,20190204,laplatney d patrick,120919119006955,,male,82022500.0
+,873501.0,43196,gray television inc,1,1,0,0,20190304,howell hilton h jr,120919119015880,"Chairman, President & CEO",male,82022500.0
+,1519600.0,43196,gray television inc,1,0,0,0,20190304,howell robin robinson,120919119015881,,male,82022500.0
+353494.0,,43196,gray television inc,0,1,0,0,20190304,latek kevin paul,120919119015884,EVP Chief L & D Officer,male,82022500.0
+361684.0,7117.0,43196,gray television inc,0,1,0,0,20190304,ryan james c,120919119015887,EVP & Chief Financial Officer,male,82022500.0
+161065.0,69.0,43196,gray television inc,0,1,0,0,20190304,smith robert lawrence,120919119015889,SVP & COO,male,82022500.0
+209949.0,,43196,gray television inc,0,1,0,0,20190304,waller kevin nichols,120919119015890,SVP & CAO,male,82022500.0
+33088.0,,43196,gray television inc,1,0,0,0,20190509,mctear paul,120919119028607,,male,94273389.0
+40043.0,839341.0,43196,gray television inc,1,1,0,0,20190509,howell hilton h jr,120919119028605,"Chairman, President & CEO",male,94273389.0
+40043.0,1519600.0,43196,gray television inc,1,0,0,0,20190509,howell robin robinson,120919119028603,,male,94273389.0
+36154.0,,43196,gray television inc,1,0,0,0,20190509,boger richard lee,120919119028595,,male,94273389.0
+15088.0,,43196,gray television inc,1,0,0,0,20190509,garcia luis a.,120919119028599,,male,94273389.0
+36826.0,,43196,gray television inc,1,0,0,0,20190509,elder t l,120919119028597,,male,94273389.0
+15088.0,,43196,gray television inc,1,0,0,0,20190509,hare richard b,120919119028601,,male,94273389.0
+,,43196,gray television inc,0,1,0,0,20190530,cowart jackson s iv,120919119033469,Chief Accounting Officer,male,94273389.0
+33696.0,,43196,gray television inc,1,0,0,0,20190603,elder t l,120919119034010,,male,94273389.0
+73876.0,,43196,gray television inc,1,0,0,0,20190603,norton hugh,120919119034008,,male,94273389.0
+36913.0,1519600.0,43196,gray television inc,1,0,0,0,20190603,howell robin robinson,120919119034012,,male,94273389.0
+32438.0,,43196,gray television inc,1,0,0,0,20190603,boger richard lee,120919119034007,,male,94273389.0
+11068.0,,43196,gray television inc,1,0,0,0,20190603,garcia luis a.,120919119034019,,male,94273389.0
+36913.0,839341.0,43196,gray television inc,1,1,0,0,20190603,howell hilton h jr,120919119034014,"Chairman, President & CEO",male,94273389.0
+12656.0,,43196,gray television inc,1,0,0,0,20190603,neuhoff elizabeth r.,120919119034016,,female,94273389.0
+11958.0,,43196,gray television inc,1,0,0,0,20190603,hare richard b,120919119034018,,male,94273389.0
+56491.0,,43196,gray television inc,1,0,0,0,20190603,newton howell,120919119034006,,male,94273389.0
+,1519600.0,43196,gray television inc,1,0,0,0,20190812,howell robin robinson,120919119045481,,male,94285366.0
+,876254.0,43196,gray television inc,1,1,0,0,20190812,howell hilton h jr,120919119045480,"Chairman, President & CEO",male,94285366.0
+,1193250.0,43196,gray television inc,0,0,1,0,20190813,robinson harriett j,120919119045749,,female,94285366.0
+,1519600.0,43196,gray television inc,1,0,0,0,20190814,howell robin robinson,120919119045847,,male,94285366.0
+,876254.0,43196,gray television inc,1,1,0,0,20190814,howell hilton h jr,120919119045846,"Chairman, President & CEO",male,94285366.0
+,50000.0,43196,gray television inc,0,0,1,0,20191218,atlantic american corp,156761919023315,,male,93633773.0
+,876254.0,43196,gray television inc,1,1,0,0,20200116,howell hilton h jr,120919120003720,"Chairman, President & CEO",male,92658362.0
+,1519600.0,43196,gray television inc,1,0,0,0,20200116,howell robin robinson,120919120003721,,male,92658362.0
+368787.0,,43196,gray television inc,1,0,0,0,20200116,laplatney d patrick,120919120003724,,male,92658362.0
+412091.0,,43196,gray television inc,0,1,0,0,20200116,latek kevin paul,120919120003725,EVP Chief L & D Officer,male,92658362.0
+417375.0,7117.0,43196,gray television inc,0,1,0,0,20200116,ryan james c,120919120003727,EVP & Chief Financial Officer,male,92658362.0
+213808.0,69.0,43196,gray television inc,0,1,0,0,20200116,smith robert lawrence,120919120003728,SVP & COO,male,92658362.0
+199194.0,69.0,43196,gray television inc,0,1,0,0,20200203,smith robert lawrence,120919120006116,SVP & COO,male,92658362.0
+396172.0,7117.0,43196,gray television inc,0,1,0,0,20200203,ryan james c,120919120006114,EVP & Chief Financial Officer,male,92658362.0
+384860.0,,43196,gray television inc,0,1,0,0,20200203,latek kevin paul,120919120006113,EVP Chief L & D Officer,male,92658362.0
+359304.0,,43196,gray television inc,1,0,0,0,20200203,laplatney d patrick,120919120006115,,male,92658362.0
+,,43196,gray television inc,0,1,0,0,20200303,cowart jackson s iv,120919120015489,Chief Accounting Officer,male,92658362.0
+373316.0,,43196,gray television inc,0,1,0,0,20200303,latek kevin paul,120919120015491,EVP Chief L & D Officer,male,92658362.0
+386720.0,7117.0,43196,gray television inc,0,1,0,0,20200303,ryan james c,120919120015495,EVP & Chief Financial Officer,male,92658362.0
+193199.0,69.0,43196,gray television inc,0,1,0,0,20200303,smith robert lawrence,120919120015497,SVP & COO,male,92658362.0
+205606.0,,43196,gray television inc,0,1,0,0,20200303,waller kevin nichols,120919120015503,SVP & CAO,male,92658362.0
+412980.0,7117.0,43196,gray television inc,0,1,0,0,20200331,ryan james c,120919120021920,EVP & Chief Financial Officer,male,92752512.0
+400986.0,,43196,gray television inc,0,1,0,0,20200331,latek kevin paul,120919120021919,EVP Chief L & D Officer,male,92752512.0
+746140.0,839341.0,43196,gray television inc,1,0,0,0,20200331,howell robin robinson,120919120021918,,male,92752512.0
+746140.0,876254.0,43196,gray television inc,1,1,0,0,20200331,howell hilton h jr,120919120021917,"Chairman, President & CEO",male,92752512.0
+31696.0,,43196,gray television inc,1,0,0,0,20200504,elder t l,120919120026921,,male,92752512.0
+9958.0,,43196,gray television inc,1,0,0,0,20200504,hare richard b,120919120026918,,male,92752512.0
+9421.0,,43196,gray television inc,1,0,0,0,20200504,garcia luis a.,120919120026917,,male,92752512.0
+52608.0,,43196,gray television inc,1,0,0,0,20200504,newton howell,120919120026913,,male,92752512.0
+34913.0,2418802.0,43196,gray television inc,1,0,0,0,20200504,howell robin robinson,120919120026915,,male,92752512.0
+26672.0,,43196,gray television inc,1,0,0,0,20200504,boger richard lee,120919120026912,,male,92752512.0
+34913.0,839341.0,43196,gray television inc,1,1,0,0,20200504,howell hilton h jr,120919120026916,"Chairman, President & CEO",male,92752512.0
+44334.0,,43196,gray television inc,1,0,0,0,20200511,mctear paul,120919120028360,,male,92752512.0
+46159.0,839341.0,43196,gray television inc,1,1,0,0,20200511,howell hilton h jr,120919120028359,"Chairman, President & CEO",male,92752512.0
+21204.0,,43196,gray television inc,1,0,0,0,20200511,hare richard b,120919120028357,,male,92752512.0
+46159.0,2418802.0,43196,gray television inc,1,0,0,0,20200511,howell robin robinson,120919120028358,,male,92752512.0
+42942.0,,43196,gray television inc,1,0,0,0,20200511,elder t l,120919120028355,,male,92752512.0
+37918.0,,43196,gray television inc,1,0,0,0,20200511,boger richard lee,120919120028354,,male,92752512.0
+63854.0,,43196,gray television inc,1,0,0,0,20200511,newton howell,120919120028353,,male,92752512.0
+20667.0,,43196,gray television inc,1,0,0,0,20200511,garcia luis a.,120919120028356,,male,92752512.0
+38942.0,,43196,gray television inc,1,0,0,0,20200528,elder t l,120919120032639,,male,92752512.0
+49334.0,,43196,gray television inc,1,0,0,0,20200528,mctear paul,120919120032638,,male,92752512.0
+,,43196,gray television inc,0,1,0,0,20200603,cowart jackson s iv,120919120034335,Chief Accounting Officer,male,92752512.0
+,885500.0,43196,gray television inc,1,1,0,0,20200701,howell hilton h jr,120919120039855,"Chairman, President & CEO",male,89740619.0
+,1585481.0,43196,gray television inc,1,0,0,0,20200701,howell robin robinson,120919120039858,,male,89740619.0
+308768.0,,43196,gray television inc,0,1,0,0,20201215,latek kevin paul,120919120063588,EVP Chief L & D Officer,male,89112965.0
+731140.0,885500.0,43196,gray television inc,1,1,0,0,20210104,howell hilton h jr,120919121000504,"Chairman, President & CEO",male,88140259.0
+,,43196,gray television inc,0,1,0,0,20210104,cowart jackson s iv,120919121000505,Chief Accounting Officer,male,88140259.0
+731140.0,839341.0,43196,gray television inc,1,0,0,0,20210104,howell robin robinson,120919121000506,,male,88140259.0
+667309.0,885500.0,43196,gray television inc,1,1,0,0,20210105,howell hilton h jr,120919121001578,"Chairman, President & CEO",male,88140259.0
+667309.0,839341.0,43196,gray television inc,1,0,0,0,20210105,howell robin robinson,120919121001579,,male,88140259.0
+386618.0,7117.0,43196,gray television inc,0,1,0,0,20210105,ryan james c,120919121001581,EVP & Chief Financial Officer,male,88140259.0
+276646.0,,43196,gray television inc,0,1,0,0,20210105,latek kevin paul,120919121001580,EVP Chief L & D Officer,male,88140259.0
+174320.0,69.0,43196,gray television inc,0,1,0,0,20210105,smith robert lawrence,120919121001582,SVP & COO,male,88140259.0
+254341.0,,43196,gray television inc,0,1,0,0,20210202,latek kevin paul,120919121006951,EVP Chief L & D Officer,male,88140259.0
+,885500.0,43196,gray television inc,1,1,0,0,20210202,howell hilton h jr,120919121006945,"Chairman, President & CEO",male,88140259.0
+,1506650.0,43196,gray television inc,1,0,0,0,20210202,howell robin robinson,120919121006947,,male,88140259.0
+343667.0,,43196,gray television inc,1,0,0,0,20210202,laplatney d patrick,120919121006949,,male,88140259.0
+368354.0,7117.0,43196,gray television inc,0,1,0,0,20210202,ryan james c,120919121006952,EVP & Chief Financial Officer,male,88140259.0
+159381.0,69.0,43196,gray television inc,0,1,0,0,20210202,smith robert lawrence,120919121006953,SVP & COO,male,88140259.0
+434688.0,7117.0,43196,gray television inc,0,1,0,0,20210210,ryan james c,120919121009439,EVP & Chief Financial Officer,male,88140259.0
+324136.0,,43196,gray television inc,0,1,0,0,20210210,latek kevin paul,120919121009437,EVP Chief L & D Officer,male,88140259.0
+440757.0,,43196,gray television inc,1,0,0,0,20210210,laplatney d patrick,120919121009435,,male,88140259.0
+,1506650.0,43196,gray television inc,1,0,0,0,20210210,howell robin robinson,120919121009433,,male,88140259.0
+222204.0,69.0,43196,gray television inc,0,1,0,0,20210210,smith robert lawrence,120919121009440,SVP & COO,male,88140259.0
+,885500.0,43196,gray television inc,1,1,0,0,20210210,howell hilton h jr,120919121009432,"Chairman, President & CEO",male,88140259.0
+215942.0,69.0,43196,gray television inc,0,1,0,0,20210301,smith robert lawrence,120919121015364,SVP & COO,male,88140259.0
+253568.0,,43196,gray television inc,0,1,0,0,20210301,latek kevin paul,120919121015361,EVP Chief L & D Officer,male,88140259.0
+425236.0,7117.0,43196,gray television inc,0,1,0,0,20210301,ryan james c,120919121015362,EVP & Chief Financial Officer,male,88140259.0
+,1506650.0,43196,gray television inc,1,0,0,0,20210301,howell robin robinson,120919121015359,,male,88140259.0
+,885500.0,43196,gray television inc,1,1,0,0,20210301,howell hilton h jr,120919121015357,"Chairman, President & CEO",male,88140259.0
+,885500.0,43196,gray television inc,1,1,0,0,20210302,howell hilton h jr,120919121016379,"Chairman, President & CEO",male,88140259.0
+,1506650.0,43196,gray television inc,1,0,0,0,20210302,howell robin robinson,120919121016383,,male,88140259.0
+,,43196,gray television inc,0,1,0,0,20210303,cowart jackson s iv,120919121017277,Chief Accounting Officer,male,88140259.0
+241671.0,,43196,gray television inc,0,1,0,0,20210309,latek kevin paul,120919121019232,EVP Chief L & D Officer,male,88140259.0
+,,43196,gray television inc,0,1,0,0,20210325,cowart jackson s iv,120919121023087,Chief Accounting Officer,male,88140259.0
+214001.0,,43196,gray television inc,0,1,0,0,20210421,latek kevin paul,120919121027831,EVP Chief L & D Officer,male,88628868.0
+59523.0,,43196,gray television inc,1,0,0,0,20210503,newton howell,120919121029587,,male,88628868.0
+33243.0,,43196,gray television inc,1,0,0,0,20210503,boger richard lee,120919121029585,,male,88628868.0
+16368.0,,43196,gray television inc,1,0,0,0,20210503,hare richard b,120919121029589,,male,88628868.0
+17518.0,,43196,gray television inc,1,0,0,0,20210503,garcia luis a.,120919121029591,,male,88628868.0
+22288.0,,43196,gray television inc,1,0,0,0,20210507,hare richard b,120919121031044,,male,88628868.0
+23438.0,,43196,gray television inc,1,0,0,0,20210507,garcia luis a.,120919121031043,,male,88628868.0
+44862.0,,43196,gray television inc,1,0,0,0,20210507,elder t l,120919121031042,,male,88628868.0
+39163.0,,43196,gray television inc,1,0,0,0,20210507,boger richard lee,120919121031041,,male,88628868.0
+52079.0,839341.0,43196,gray television inc,1,1,0,0,20210507,howell hilton h jr,120919121031040,"Chairman, President & CEO",male,88628868.0
+52079.0,1506650.0,43196,gray television inc,1,0,0,0,20210507,howell robin robinson,120919121031039,,male,88628868.0
+55254.0,,43196,gray television inc,1,0,0,0,20210507,mctear paul,120919121031045,,male,88628868.0
+,,43196,gray television inc,1,0,0,0,20210507,spainhour sterling a jr.,120919121031047,,male,88628868.0
+65443.0,,43196,gray television inc,1,0,0,0,20210507,newton howell,120919121031046,,male,88628868.0
+617609.0,891420.0,43196,gray television inc,1,1,0,0,20210514,howell hilton h jr,120919121032898,"Chairman, President & CEO",male,88628868.0
+617609.0,839341.0,43196,gray television inc,1,0,0,0,20210514,howell robin robinson,120919121032899,,male,88628868.0
+400727.0,,43196,gray television inc,1,0,0,0,20210616,laplatney d patrick,120919121041068,,male,88628868.0
+360727.0,,43196,gray television inc,1,0,0,0,20210621,laplatney d patrick,120919121042196,,male,88628868.0
+310994.0,,43196,gray television inc,0,1,0,0,20211203,latek kevin paul,89924321046791,EVP Chief L & D Officer,male,88652172.0
+300811.0,69.0,43196,gray television inc,0,1,0,0,20211203,smith robert lawrence,89924321046779,SVP & COO,male,88652172.0
+449874.0,,43196,gray television inc,1,0,0,0,20211203,laplatney d patrick,89924321046783,,male,88652172.0
+522229.0,7117.0,43196,gray television inc,0,1,0,0,20211203,ryan james c,89924321046777,EVP & Chief Financial Officer,male,88652172.0
+,1456950.0,43196,gray television inc,1,0,0,0,20211203,howell robin robinson,89924321046788,,male,88652172.0
+,891420.0,43196,gray television inc,1,1,0,0,20211203,howell hilton h jr,89924321046782,"Chairman, President & CEO",male,88652172.0
+102342.0,69.0,43196,gray television inc,0,1,0,0,20211230,smith robert lawrence,120919121071622,SVP & COO,male,88652172.0
+400404.0,,43196,gray television inc,1,0,0,0,20220201,laplatney d patrick,120919122006014,,male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20220201,howell robin robinson,120919122006008,,male,87539056.0
+284878.0,,43196,gray television inc,0,1,0,0,20220201,latek kevin paul,120919122006010,EVP Chief L & D Officer,male,87539056.0
+493790.0,7117.0,43196,gray television inc,0,1,0,0,20220201,ryan james c,120919122006012,EVP & Chief Financial Officer,male,87539056.0
+172814.0,102411.0,43196,gray television inc,0,1,0,0,20220201,smith robert lawrence,120919122006019,SVP & COO,male,87539056.0
+,891420.0,43196,gray television inc,1,1,0,0,20220201,howell hilton h jr,120919122006007,"Chairman, President & CEO",male,87539056.0
+,891420.0,43196,gray television inc,1,1,0,0,20220215,howell hilton h jr,120919122009952,"Chairman, President & CEO",male,87539056.0
+408849.0,,43196,gray television inc,1,0,0,0,20220215,laplatney d patrick,120919122009646,,male,87539056.0
+235766.0,102411.0,43196,gray television inc,0,1,0,0,20220215,smith robert lawrence,120919122009957,SVP & COO,male,87539056.0
+568248.0,7117.0,43196,gray television inc,0,1,0,0,20220215,ryan james c,120919122009956,EVP & Chief Financial Officer,male,87539056.0
+311563.0,,43196,gray television inc,0,1,0,0,20220215,latek kevin paul,120919122009955,EVP Chief L & D Officer,male,87539056.0
+,891420.0,43196,gray television inc,1,1,0,0,20220215,howell hilton h jr,120919122009644,"Chairman, President & CEO",male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20220215,howell robin robinson,120919122009645,,male,87539056.0
+512639.0,,43196,gray television inc,1,0,0,0,20220215,laplatney d patrick,120919122009954,,male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20220215,howell robin robinson,120919122009953,,male,87539056.0
+,,43196,gray television inc,0,1,0,0,20220303,cowart jackson s iv,120919122016078,Chief Accounting Officer,male,87539056.0
+518248.0,7117.0,43196,gray television inc,0,1,0,0,20220303,ryan james c,120919122015994,EVP & Chief Financial Officer,male,87539056.0
+191466.0,102411.0,43196,gray television inc,0,1,0,0,20220303,smith robert lawrence,120919122015986,SVP & COO,male,87539056.0
+,,43196,gray television inc,1,0,0,0,20220304,boger richard lee,120919122016364,,male,87539056.0
+110000.0,1083250.0,43196,gray television inc,0,0,1,0,20220401,robinson harriett j,120919122022040,,female,87539056.0
+468248.0,11390.0,43196,gray television inc,0,1,0,0,20220404,ryan james c,120919122022407,EVP & Chief Financial Officer,male,87539056.0
+348849.0,,43196,gray television inc,1,0,0,0,20220413,laplatney d patrick,120919122024281,,male,87539056.0
+3374.0,,43196,gray television inc,1,0,0,0,20220503,spainhour sterling a jr.,120919122026880,,male,87539056.0
+19742.0,,43196,gray television inc,1,0,0,0,20220503,hare richard b,120919122026883,,male,87539056.0
+21544.0,,43196,gray television inc,1,0,0,0,20220503,garcia luis a.,120919122026884,,male,87539056.0
+34033.0,,43196,gray television inc,1,0,0,0,20220503,boger richard lee,120919122026889,,male,87539056.0
+62523.0,,43196,gray television inc,1,0,0,0,20220503,newton howell,120919122026881,,male,87539056.0
+42435.0,,43196,gray television inc,1,0,0,0,20220503,elder t l,120919122026882,,male,87539056.0
+41538.0,,43196,gray television inc,1,0,0,0,20220509,boger richard lee,120919122027903,,male,87539056.0
+49940.0,,43196,gray television inc,1,0,0,0,20220509,elder t l,120919122027904,,male,87539056.0
+29049.0,,43196,gray television inc,1,0,0,0,20220509,garcia luis a.,120919122027905,,male,87539056.0
+27247.0,,43196,gray television inc,1,0,0,0,20220509,hare richard b,120919122027906,,male,87539056.0
+62759.0,,43196,gray television inc,1,0,0,0,20220509,mctear paul,120919122027907,,male,87539056.0
+70028.0,,43196,gray television inc,1,0,0,0,20220509,newton howell,120919122027908,,male,87539056.0
+10879.0,,43196,gray television inc,1,0,0,0,20220509,spainhour sterling a jr.,120919122027909,,male,87539056.0
+7505.0,,43196,gray television inc,1,0,0,0,20220509,mcclain lorri,120919122027910,,female,87539056.0
+59584.0,839341.0,43196,gray television inc,1,1,0,0,20220509,howell hilton h jr,120919122027912,"Chairman, President & CEO",male,87539056.0
+59584.0,1456950.0,43196,gray television inc,1,0,0,0,20220509,howell robin robinson,120919122027902,,male,87539056.0
+464248.0,11390.0,43196,gray television inc,0,1,0,0,20220510,ryan james c,120919122028118,EVP & Chief Financial Officer,male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20220513,howell robin robinson,120919122028914,,male,87539056.0
+,898925.0,43196,gray television inc,1,1,0,0,20220513,howell hilton h jr,120919122028913,"Chairman, President & CEO",male,87539056.0
+,,43196,gray television inc,1,0,0,0,20220513,boger richard lee,120919122028910,,male,87539056.0
+463959.0,11390.0,43196,gray television inc,0,1,0,0,20220517,ryan james c,120919122029764,EVP & Chief Financial Officer,male,87539056.0
+,,43196,gray television inc,0,1,0,0,20220520,cowart jackson s iv,120919122031054,Chief Accounting Officer,male,87539056.0
+,898925.0,43196,gray television inc,1,1,0,0,20220701,howell hilton h jr,120919122040088,"Chairman, President & CEO",male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20220701,howell robin robinson,120919122040087,,male,87539056.0
+45538.0,,43196,gray television inc,1,0,0,0,20221107,boger richard lee,120919122056029,,male,87539056.0
+67759.0,,43196,gray television inc,1,0,0,0,20221114,mctear paul,120919122056672,,male,87539056.0
+462639.0,,43196,gray television inc,1,0,0,0,20221114,laplatney d patrick,120919122056529,,male,87539056.0
+44738.0,,43196,gray television inc,1,0,0,0,20221117,boger richard lee,120919122057447,,male,87539056.0
+407312.0,11390.0,43196,gray television inc,0,1,0,0,20221202,ryan james c,120919122059466,EVP & Chief Financial Officer,male,87539056.0
+448358.0,,43196,gray television inc,1,0,0,0,20221202,laplatney d patrick,120919122059465,,male,87539056.0
+181494.0,102411.0,43196,gray television inc,0,1,0,0,20221202,smith robert lawrence,120919122059468,SVP & COO,male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20221202,howell robin robinson,120919122059474,,male,87539056.0
+,898925.0,43196,gray television inc,1,1,0,0,20221202,howell hilton h jr,120919122059475,"Chairman, President & CEO",male,87539056.0
+292807.0,,43196,gray television inc,0,1,0,0,20221202,latek kevin paul,120919122059467,EVP Chief L & D Officer,male,87539056.0
+477236.0,1158250.0,43196,gray television inc,0,0,1,0,20221221,robinson harriett j,120919122062381,,female,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20230202,howell robin robinson,120919123006238,,male,87539056.0
+402119.0,,43196,gray television inc,1,0,0,0,20230202,laplatney d patrick,120919123006239,,male,87539056.0
+,898925.0,43196,gray television inc,1,1,0,0,20230202,howell hilton h jr,120919123006240,"Chairman, President & CEO",male,87539056.0
+263538.0,,43196,gray television inc,0,1,0,0,20230202,latek kevin paul,120919123006242,EVP Chief L & D Officer,male,87539056.0
+383004.0,11390.0,43196,gray television inc,0,1,0,0,20230202,ryan james c,120919123006243,EVP & Chief Financial Officer,male,87539056.0
+158075.0,102411.0,43196,gray television inc,0,1,0,0,20230202,smith robert lawrence,120919123006244,SVP & COO,male,87539056.0
+,898925.0,43196,gray television inc,1,1,0,0,20230209,howell hilton h jr,120919123008153,"Chairman, President & CEO",male,87539056.0
+,1456950.0,43196,gray television inc,1,0,0,0,20230209,howell robin robinson,120919123008154,,male,87539056.0
+407945.0,,43196,gray television inc,1,0,0,0,20230209,laplatney d patrick,120919123008156,,male,87539056.0
+,,43196,gray television inc,0,1,0,0,20230303,cowart jackson s iv,120919123015883,Chief Accounting Officer,male,87539056.0
+593394.0,12173.0,43196,gray television inc,0,1,0,0,20230412,ryan james c,120919123024172,EVP & Chief Financial Officer,male,87539056.0
+,1461318.0,43196,gray television inc,1,0,0,0,20230412,howell robin robinson,120919123024170,,male,87539056.0
+473928.0,1598.0,43196,gray television inc,0,1,0,0,20230412,latek kevin paul,120919123024171,EVP Chief L & D Officer,male,87539056.0
+,903293.0,43196,gray television inc,1,1,0,0,20230412,howell hilton h jr,120919123024168,"Chairman, President & CEO",male,87539056.0
+701217.0,279.0,43196,gray television inc,1,0,0,0,20230412,laplatney d patrick,120919123024169,,male,87539056.0
+,106458.0,43196,gray television inc,0,0,0,1,20230414,smith robert lawrence,120919123024354,,male,87539056.0
+37233.0,,43196,gray television inc,1,0,0,0,20230502,boger richard lee,120919123026783,,male,87539056.0
+27398.0,,43196,gray television inc,1,0,0,0,20230502,garcia luis a.,120919123026789,,male,87539056.0
+62523.0,,43196,gray television inc,1,0,0,0,20230502,newton howell,120919123026787,,male,87539056.0
+25146.0,,43196,gray television inc,1,0,0,0,20230502,hare richard b,120919123026788,,male,87539056.0
+7652.0,,43196,gray television inc,1,0,0,0,20230502,spainhour sterling a jr.,120919123026784,,male,87539056.0
+47238.0,,43196,gray television inc,1,0,0,0,20230502,elder t l,120919123026790,,male,87539056.0
+81226.0,843709.0,43196,gray television inc,1,1,0,0,20230508,howell hilton h jr,120919123028055,"Chairman, President & CEO",male,87539056.0
+46788.0,,43196,gray television inc,1,0,0,0,20230508,hare richard b,120919123028054,,male,87539056.0
+84165.0,,43196,gray television inc,1,0,0,0,20230508,newton howell,120919123028053,,male,87539056.0
+49040.0,,43196,gray television inc,1,0,0,0,20230508,garcia luis a.,120919123028052,,male,87539056.0
+29294.0,,43196,gray television inc,1,0,0,0,20230508,spainhour sterling a jr.,120919123028051,,male,87539056.0
+29147.0,,43196,gray television inc,1,0,0,0,20230508,mcclain lorri,120919123028050,,female,87539056.0
+81226.0,1461318.0,43196,gray television inc,1,0,0,0,20230508,howell robin robinson,120919123028049,,male,87539056.0
+89401.0,,43196,gray television inc,1,0,0,0,20230508,mctear paul,120919123028048,,male,87539056.0
+58875.0,,43196,gray television inc,1,0,0,0,20230508,boger richard lee,120919123028047,,male,87539056.0
+45163.0,,43196,gray television inc,0,0,0,1,20230517,elder t l,120919123030310,,male,87539056.0
+133797.0,,43196,gray television inc,0,1,0,0,20230524,mcnamara sandra breland,120919123031951,"Executive Vice President, COO",female,87539056.0
+,924935.0,43196,gray television inc,1,1,0,0,20230622,howell hilton h jr,120919123039083,"Chairman, President & CEO",male,87539056.0
+,1461318.0,43196,gray television inc,1,0,0,0,20230622,howell robin robinson,120919123039086,,male,87539056.0
+,924935.0,43196,gray television inc,1,1,0,0,20230626,howell hilton h jr,120919123039789,"Chairman, President & CEO",male,87539056.0
+,1461318.0,43196,gray television inc,1,0,0,0,20230626,howell robin robinson,120919123039790,,male,87539056.0
+,1461318.0,43196,gray television inc,1,0,0,0,20230628,howell robin robinson,120919123040066,,male,87539056.0
+,924935.0,43196,gray television inc,1,1,0,0,20230628,howell hilton h jr,120919123040067,"Chairman, President & CEO",male,87539056.0
+,1461318.0,43196,gray television inc,1,0,0,0,20230630,howell robin robinson,120919123040390,,male,87539056.0
+,924935.0,43196,gray television inc,1,1,0,0,20230630,howell hilton h jr,120919123040389,"Chairman, President & CEO",male,87539056.0
+59248.0,,43196,gray television inc,1,0,0,0,20230712,boger richard lee,120919123042092,,male,87539056.0
+41670.0,,43196,gray television inc,0,0,0,1,20230808,elder t l,120919123045066,,male,87539056.0
+,,43196,gray television inc,0,0,0,1,20230905,elder t l,120919123048208,,male,87539056.0
+59693.0,,43196,gray television inc,1,0,0,0,20231004,boger richard lee,120919123052138,,male,87539056.0
+688573.0,279.0,43196,gray television inc,1,1,0,0,20231208,laplatney d patrick,120919123057944,President and Co-CEO,male,87539056.0
+,924935.0,43196,gray television inc,1,1,0,0,20231208,howell hilton h jr,120919123057943,"Chairman, President & CEO",male,87539056.0
+582458.0,12173.0,43196,gray television inc,0,1,0,0,20231208,ryan james c,120919123057946,EVP & Chief Financial Officer,male,87539056.0
+461234.0,1598.0,43196,gray television inc,0,1,0,0,20231208,latek kevin paul,120919123057945,EVP Chief L & D Officer,male,87539056.0
+,1461318.0,43196,gray television inc,1,0,0,0,20231208,howell robin robinson,120919123057942,,male,87539056.0
+60130.0,,43196,gray television inc,1,0,0,0,20240112,boger richard lee,120919124001520,,male,87539056.0
+442033.0,2940.0,43196,gray television inc,0,1,0,0,20240202,latek kevin paul,120919124002715,EVP Chief L & D Officer,male,87539056.0
+566488.0,15024.0,43196,gray television inc,0,1,0,0,20240202,ryan james c,120919124002711,EVP & Chief Financial Officer,male,87539056.0
+,927958.0,43196,gray television inc,1,1,0,0,20240202,howell hilton h jr,120919124002712,"Chairman, President & CEO",male,87539056.0
+,1464341.0,43196,gray television inc,1,0,0,0,20240202,howell robin robinson,120919124002713,,male,87539056.0
+672687.0,605.0,43196,gray television inc,1,1,0,0,20240202,laplatney d patrick,120919124002714,President and Co-CEO,male,87539056.0
+1034909.0,604.0,43196,gray television inc,1,1,0,0,20240216,laplatney d patrick,120919124003480,President and Co-CEO,male,87539056.0
+,1464341.0,43196,gray television inc,1,0,0,0,20240216,howell robin robinson,120919124003479,,male,87539056.0
+,927958.0,43196,gray television inc,1,1,0,0,20240216,howell hilton h jr,120919124003478,"Chairman, President & CEO",male,87539056.0
+702033.0,2938.0,43196,gray television inc,0,1,0,0,20240216,latek kevin paul,120919124003477,EVP Chief L & D Officer,male,87539056.0
+359909.0,604.0,43196,gray television inc,0,1,0,0,20240216,mcnamara sandra breland,120919124003481,"Executive Vice President, COO",female,87539056.0
+826488.0,15273.0,43196,gray television inc,0,1,0,0,20240216,ryan james c,120919124003476,EVP & Chief Financial Officer,male,87539056.0
+,1464341.0,43196,gray television inc,1,0,0,0,20240301,howell robin robinson,120919124004190,,male,87539056.0
+810799.0,15273.0,43196,gray television inc,0,1,0,0,20240301,ryan james c,120919124004192,EVP & Chief Financial Officer,male,87539056.0
+,927958.0,43196,gray television inc,1,1,0,0,20240301,howell hilton h jr,120919124004189,"Chairman, President & CEO",male,87539056.0
+999389.0,604.0,43196,gray television inc,1,1,0,0,20240301,laplatney d patrick,120919124004191,President and Co-CEO,male,87539056.0
+352024.0,604.0,43196,gray television inc,0,1,0,0,20240301,mcnamara sandra breland,120919124004188,"Executive Vice President, COO",female,87539056.0
+683676.0,2939.0,43196,gray television inc,0,1,0,0,20240301,latek kevin paul,120919124004187,EVP Chief L & D Officer,male,87539056.0
+,,43196,gray television inc,0,1,0,0,20240305,cowart jackson s iv,120919124004446,Chief Accounting Officer,male,87539056.0
+,1466309.0,43196,gray television inc,1,0,0,0,20240401,howell robin robinson,120919124005155,,male,87539056.0
+,929926.0,43196,gray television inc,1,1,0,0,20240401,howell hilton h jr,120919124005156,"Chairman, President & CEO",male,87539056.0
+469750.0,,43196,gray television inc,0,1,0,0,20240403,gignac jeffrey r,120919124005223,"EVP, Finance",male,87539056.0
+47608.0,,43196,gray television inc,1,0,0,0,20240502,boger richard lee,120919124005477,,male,87539056.0
+19988.0,,43196,gray television inc,1,0,0,0,20240502,spainhour sterling a jr.,120919124005479,,male,87539056.0
+68513.0,,43196,gray television inc,1,0,0,0,20240502,newton howell,120919124005480,,male,87539056.0
+37482.0,,43196,gray television inc,1,0,0,0,20240502,hare richard b,120919124005481,,male,87539056.0
+41465.0,,43196,gray television inc,1,0,0,0,20240502,garcia luis a.,120919124005478,,male,87539056.0
+65204.0,,43196,gray television inc,1,0,0,0,20240510,garcia luis a.,120919124005601,,male,87539056.0
+113140.0,,43196,gray television inc,1,0,0,0,20240510,mctear paul,120919124005603,,male,87539056.0
+61221.0,,43196,gray television inc,1,0,0,0,20240510,hare richard b,120919124005602,,male,87539056.0
+43727.0,,43196,gray television inc,1,0,0,0,20240510,spainhour sterling a jr.,120919124005606,,male,87539056.0
+52886.0,,43196,gray television inc,1,0,0,0,20240510,mcclain lorri,120919124005607,,female,87539056.0
+104965.0,848700.0,43196,gray television inc,1,1,0,0,20240510,howell hilton h jr,120919124005608,"Chairman, President & CEO",male,87539056.0
+92252.0,,43196,gray television inc,1,0,0,0,20240510,newton howell,120919124005609,,male,87539056.0
+104965.0,1466309.0,43196,gray television inc,1,0,0,0,20240510,howell robin robinson,120919124005604,,male,87539056.0
+71347.0,,43196,gray television inc,1,0,0,0,20240510,boger richard lee,120919124005605,,male,87539056.0
+680799.0,17515.0,43196,gray television inc,false,true,false,false,20240702,ryan james c,95017024080888,EVP & Chief Financial Officer,male,87539056.0
+,1466797.0,43196,gray television inc,true,false,false,false,20241203,howell robin robinson,95017024133056,,male,87539056.0
+978288.0,1858.0,43196,gray television inc,true,true,false,false,20241203,laplatney d patrick,95017024133052,President and Co-CEO,male,87539056.0
+,954153.0,43196,gray television inc,true,true,false,false,20241203,howell hilton h jr,95017024133054,"Chairman, President & CEO",male,87539056.0
+0.0,,43196,gray television inc,false,true,false,false,20241203,latek kevin paul,95017024133059,EVP Chief L & D Officer,male,87539056.0
+95360.0,,43196,gray television inc,true,false,false,false,20241218,mctear paul,95017024137905,,male,87539056.0

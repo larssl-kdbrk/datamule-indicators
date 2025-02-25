@@ -1,458 +1,1166 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,901491,papa johns international inc,1.0,1.0,,,20100104,thompson joseph jude,122520810000257,President and COO,male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100104,mitchell william m,122520810000260,Senior VP,male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100104,alcorn donna s.,122520810000265,"SVP, Research & Development",female,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100104,thompson anthony n,122520810000266,"SVP, PJ Food Service",male,28239855.0
-2432.0,502.365,901491,papa johns international inc,,1.0,,,20100119,alcorn donna s.,122520810001782,"SVP, Research & Development",female,28239855.0
-6940.02,0.0,901491,papa johns international inc,,1.0,,,20100119,mitchell william m,122520810001783,Senior VP,male,28239855.0
-3328.0,0.0,901491,papa johns international inc,,1.0,,,20100119,thompson anthony n,122520810001784,"SVP, PJ Food Service",male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100202,ohern timothy c,122520810003073,"SVP, Development",male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100202,thompson anthony n,122520810003074,"SVP, PJ Food Service",male,28239855.0
-0.0,0.0,901491,papa johns international inc,1.0,,,,20100202,kirtley olivia f,122520810003075,,female,28239855.0
-0.0,0.0,901491,papa johns international inc,1.0,,,,20100202,smith alex,122520810003076,,male,28239855.0
-0.0,0.0,901491,papa johns international inc,1.0,1.0,,,20100202,thompson joseph jude,122520810003077,President and COO,male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100202,mitchell william m,122520810003078,Senior VP,male,28239855.0
-247302.0,0.0,901491,papa johns international inc,,1.0,,,20100301,schnatter charles w,122520810006213,Senior VP and CDO,male,28239855.0
-7158.02,0.0,901491,papa johns international inc,,1.0,,,20100301,mitchell william m,122520810006212,Senior VP,male,28239855.0
-2753.0,502.365,901491,papa johns international inc,,1.0,,,20100301,alcorn donna s.,122520810006211,"SVP, Research & Development",female,28239855.0
-4364453.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20100301,schnatter john h,122520810006210,Chief Executive Officer,male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100302,ohern timothy c,122520810006473,"SVP, Development",male,28239855.0
-0.0,0.0,901491,papa johns international inc,,1.0,,,20100302,thompson anthony n,122520810006474,"SVP, PJ Food Service",male,28239855.0
-0.0,0.0,901491,papa johns international inc,1.0,1.0,,,20100302,thompson joseph jude,122520810006475,President and COO,male,28239855.0
-6940.02,0.0,901491,papa johns international inc,,1.0,,,20100302,mitchell william m,122520810006476,Senior VP,male,28239855.0
-0.0,0.0,901491,papa johns international inc,1.0,,,,20100302,kirtley olivia f,122520810006639,,female,28239855.0
-17007.0,0.0,901491,papa johns international inc,1.0,,,,20100304,cole norborne p,122520810007127,,male,28239855.0
-14796.0,0.0,901491,papa johns international inc,,1.0,,,20100304,flanery j david,122520810007128,Senior VP and CFO,male,28239855.0
-16105.0,0.0,901491,papa johns international inc,,1.0,,,20100308,flanery j david,122520810007370,Senior VP and CFO,male,28239855.0
-29902.0,0.0,901491,papa johns international inc,1.0,,,,20100309,kirtley olivia f,122520810007471,,female,28239855.0
-4233.7726,0.0,901491,papa johns international inc,,1.0,,,20100401,thompson anthony n,122520810009454,"SVP, PJ Food Service",male,28239855.0
-60.2716,586.453,901491,papa johns international inc,,1.0,,,20100401,ohern timothy c,122520810009453,"SVP, Development",male,28239855.0
-14985.8127,0.0,901491,papa johns international inc,1.0,,,,20100401,smith alex,122520810009452,,male,28239855.0
-12017.3182,0.0,901491,papa johns international inc,,1.0,,,20100401,mitchell william m,122520810009450,Senior VP,male,28239855.0
-14828.6916,0.0,901491,papa johns international inc,1.0,1.0,,,20100401,thompson joseph jude,122520810009449,President and COO,male,28239855.0
-52868.5088,0.0,901491,papa johns international inc,1.0,,,,20100401,kirtley olivia f,122520810009448,,female,28239855.0
-2824.5521,52.9769,901491,papa johns international inc,,1.0,,,20100401,north timothy m,122520810009451,"SVP, North American Operations",male,28239855.0
-25402.0,0.0,901491,papa johns international inc,1.0,,,,20100426,guarascio philip,122520810010960,,male,28239855.0
-27254.0,0.0,901491,papa johns international inc,1.0,,,,20100430,guarascio philip,122520810011423,,male,27049882.0
-11229.0,0.0,901491,papa johns international inc,,1.0,,,20100430,varga andrew m.,122520810011428,"SVP, Chief Marketing Officer",male,27049882.0
-12077.7726,0.0,901491,papa johns international inc,,1.0,,,20100430,thompson anthony n,122520810011427,"SVP, PJ Food Service",male,27049882.0
+,,901491,papa johns international inc,1.0,1.0,,,20100104,thompson joseph jude,122520810000257,President and COO,male,
+,,901491,papa johns international inc,,1.0,,,20100104,mitchell william m,122520810000260,Senior VP,male,
+,,901491,papa johns international inc,,1.0,,,20100104,alcorn donna s.,122520810000265,"SVP, Research & Development",female,
+,,901491,papa johns international inc,,1.0,,,20100104,thompson anthony n,122520810000266,"SVP, PJ Food Service",male,
+3328.0,,901491,papa johns international inc,,1.0,,,20100119,thompson anthony n,122520810001784,"SVP, PJ Food Service",male,
+6940.02,,901491,papa johns international inc,,1.0,,,20100119,mitchell william m,122520810001783,Senior VP,male,
+2432.0,502.365,901491,papa johns international inc,,1.0,,,20100119,alcorn donna s.,122520810001782,"SVP, Research & Development",female,
+,,901491,papa johns international inc,1.0,,,,20100202,smith alex,122520810003076,,male,
+,,901491,papa johns international inc,,1.0,,,20100202,thompson anthony n,122520810003074,"SVP, PJ Food Service",male,
+,,901491,papa johns international inc,,1.0,,,20100202,ohern timothy c,122520810003073,"SVP, Development",male,
+,,901491,papa johns international inc,1.0,,,,20100202,kirtley olivia f,122520810003075,,female,
+,,901491,papa johns international inc,1.0,1.0,,,20100202,thompson joseph jude,122520810003077,President and COO,male,
+,,901491,papa johns international inc,,1.0,,,20100202,mitchell william m,122520810003078,Senior VP,male,
+7158.02,,901491,papa johns international inc,,1.0,,,20100301,mitchell william m,122520810006212,Senior VP,male,
+247302.0,,901491,papa johns international inc,,1.0,,,20100301,schnatter charles w,122520810006213,Senior VP and CDO,male,
+4364453.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20100301,schnatter john h,122520810006210,Chief Executive Officer,male,
+2753.0,502.365,901491,papa johns international inc,,1.0,,,20100301,alcorn donna s.,122520810006211,"SVP, Research & Development",female,
+,,901491,papa johns international inc,1.0,,,,20100302,kirtley olivia f,122520810006639,,female,
+,,901491,papa johns international inc,,1.0,,,20100302,ohern timothy c,122520810006473,"SVP, Development",male,
+,,901491,papa johns international inc,1.0,1.0,,,20100302,thompson joseph jude,122520810006475,President and COO,male,
+,,901491,papa johns international inc,,1.0,,,20100302,thompson anthony n,122520810006474,"SVP, PJ Food Service",male,
+6940.02,,901491,papa johns international inc,,1.0,,,20100302,mitchell william m,122520810006476,Senior VP,male,
+17007.0,,901491,papa johns international inc,1.0,,,,20100304,cole norborne p,122520810007127,,male,
+14796.0,,901491,papa johns international inc,,1.0,,,20100304,flanery j david,122520810007128,Senior VP and CFO,male,
+16105.0,,901491,papa johns international inc,,1.0,,,20100308,flanery j david,122520810007370,Senior VP and CFO,male,
+29902.0,,901491,papa johns international inc,1.0,,,,20100309,kirtley olivia f,122520810007471,,female,
+4233.7726,,901491,papa johns international inc,,1.0,,,20100401,thompson anthony n,122520810009454,"SVP, PJ Food Service",male,
+14985.8127,,901491,papa johns international inc,1.0,,,,20100401,smith alex,122520810009452,,male,
+60.2716,586.453,901491,papa johns international inc,,1.0,,,20100401,ohern timothy c,122520810009453,"SVP, Development",male,
+12017.3182,,901491,papa johns international inc,,1.0,,,20100401,mitchell william m,122520810009450,Senior VP,male,
+14828.6916,,901491,papa johns international inc,1.0,1.0,,,20100401,thompson joseph jude,122520810009449,President and COO,male,
+52868.5088,,901491,papa johns international inc,1.0,,,,20100401,kirtley olivia f,122520810009448,,female,
+2824.5521,52.9769,901491,papa johns international inc,,1.0,,,20100401,north timothy m,122520810009451,"SVP, North American Operations",male,
+25402.0,,901491,papa johns international inc,1.0,,,,20100426,guarascio philip,122520810010960,,male,
+11229.0,,901491,papa johns international inc,,1.0,,,20100430,varga andrew m.,122520810011428,"SVP, Chief Marketing Officer",male,27049882.0
+12077.7726,,901491,papa johns international inc,,1.0,,,20100430,thompson anthony n,122520810011427,"SVP, PJ Food Service",male,27049882.0
 21524.85,824.0,901491,papa johns international inc,,1.0,,,20100430,sternberg christopher j,122520810011426,"SVP, Corp Comm & Interim GC",male,27049882.0
-10946.0,0.0,901491,papa johns international inc,1.0,,,,20100430,oney wade s,122520810011425,,male,27049882.0
+10946.0,,901491,papa johns international inc,1.0,,,,20100430,oney wade s,122520810011425,,male,27049882.0
 9460.5521,52.9769,901491,papa johns international inc,,1.0,,,20100430,north timothy m,122520810011424,"SVP, North American Operations",male,27049882.0
-7762.5344,5967.6832,901491,papa johns international inc,,1.0,,,20100430,alcorn donna s.,122520810011422,"SVP, Research & Development",female,27049882.0
-28174.6916,0.0,901491,papa johns international inc,1.0,1.0,,,20100430,thompson joseph jude,122520810011421,President and Co-CEO,male,27049882.0
-46588.0,0.0,901491,papa johns international inc,1.0,,,,20100430,street william m,122520810011420,,male,27049882.0
-16837.8127,0.0,901491,papa johns international inc,1.0,,,,20100430,smith alex,122520810011419,,male,27049882.0
-5797.2716,847.453,901491,papa johns international inc,,1.0,,,20100430,ohern timothy c,122520810011418,"SVP, Development",male,27049882.0
-54720.5088,0.0,901491,papa johns international inc,1.0,,,,20100430,kirtley olivia f,122520810011417,,female,27049882.0
-35386.52,0.0,901491,papa johns international inc,,1.0,,,20100430,flanery j david,122520810011416,Senior VP and CFO,male,27049882.0
-19776.0,0.0,901491,papa johns international inc,1.0,,,,20100430,cole norborne p,122520810011415,,male,27049882.0
+27254.0,,901491,papa johns international inc,1.0,,,,20100430,guarascio philip,122520810011423,,male,27049882.0
+28174.6916,,901491,papa johns international inc,1.0,1.0,,,20100430,thompson joseph jude,122520810011421,President and Co-CEO,male,27049882.0
+46588.0,,901491,papa johns international inc,1.0,,,,20100430,street william m,122520810011420,,male,27049882.0
 4373623.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20100430,schnatter john h,122520810011414,Co-Chief Executive Officer,male,27049882.0
+7762.5344,5967.6832,901491,papa johns international inc,,1.0,,,20100430,alcorn donna s.,122520810011422,"SVP, Research & Development",female,27049882.0
+19776.0,,901491,papa johns international inc,1.0,,,,20100430,cole norborne p,122520810011415,,male,27049882.0
+16837.8127,,901491,papa johns international inc,1.0,,,,20100430,smith alex,122520810011419,,male,27049882.0
+54720.5088,,901491,papa johns international inc,1.0,,,,20100430,kirtley olivia f,122520810011417,,female,27049882.0
+5797.2716,847.453,901491,papa johns international inc,,1.0,,,20100430,ohern timothy c,122520810011418,"SVP, Development",male,27049882.0
+35386.52,,901491,papa johns international inc,,1.0,,,20100430,flanery j david,122520810011416,Senior VP and CFO,male,27049882.0
 9506.0641,52.9769,901491,papa johns international inc,,1.0,,,20100504,north timothy m,122520810011915,"SVP, North American Operations",male,27049882.0
-28322.4343,0.0,901491,papa johns international inc,1.0,1.0,,,20100504,thompson joseph jude,122520810011916,President and Co-CEO,male,27049882.0
-12342.7507,0.0,901491,papa johns international inc,,1.0,,,20100504,thompson anthony n,122520810011917,"SVP, PJ Food Service",male,27049882.0
+28322.4343,,901491,papa johns international inc,1.0,1.0,,,20100504,thompson joseph jude,122520810011916,President and Co-CEO,male,27049882.0
+12342.7507,,901491,papa johns international inc,,1.0,,,20100504,thompson anthony n,122520810011917,"SVP, PJ Food Service",male,27049882.0
 7794.7654,5994.882799999999,901491,papa johns international inc,,1.0,,,20100504,alcorn donna s.,122520810011918,"SVP, Research & Development",female,27049882.0
 5808.9844,847.453,901491,papa johns international inc,,1.0,,,20100504,ohern timothy c,122520810011919,"SVP, Development",male,27049882.0
+11981.7507,,901491,papa johns international inc,,1.0,,,20100510,thompson anthony n,122520810012447,"SVP, PJ Food Service",male,27049882.0
 20722.85,824.0,901491,papa johns international inc,,1.0,,,20100510,sternberg christopher j,122520810012446,"SVP, Corp Comm & Interim GC",male,27049882.0
-11981.7507,0.0,901491,papa johns international inc,,1.0,,,20100510,thompson anthony n,122520810012447,"SVP, PJ Food Service",male,27049882.0
-758.0,48.453,901491,papa johns international inc,,1.0,,,20100510,ohern timothy c,122520810012445,"SVP, Development",male,27049882.0
-7662.7654,5994.882799999999,901491,papa johns international inc,,1.0,,,20100510,alcorn donna s.,122520810012442,"SVP, Research & Development",female,27049882.0
-34704.52,0.0,901491,papa johns international inc,,1.0,,,20100510,flanery j david,122520810012443,Senior VP and CFO,male,27049882.0
+34704.52,,901491,papa johns international inc,,1.0,,,20100510,flanery j david,122520810012443,Senior VP and CFO,male,27049882.0
 9392.0641,52.9769,901491,papa johns international inc,,1.0,,,20100510,north timothy m,122520810012444,"SVP, North American Operations",male,27049882.0
-26007.4343,0.0,901491,papa johns international inc,1.0,1.0,,,20100510,thompson joseph jude,122520810012441,President and Co-CEO,male,27049882.0
-34087.52,0.0,901491,papa johns international inc,,1.0,,,20100513,flanery j david,122520810012802,Senior VP and CFO,male,27049882.0
-13876.0,0.0,901491,papa johns international inc,1.0,,,,20100521,oney wade s,122520810013711,,male,27049882.0
-12053.0048,0.0,901491,papa johns international inc,,1.0,,,20100601,thompson anthony n,122520810014292,"SVP, PJ Food Service",male,27049882.0
-27440.6707,0.0,901491,papa johns international inc,1.0,1.0,,,20100601,thompson joseph jude,122520810014294,President and Co-CEO,male,27049882.0
-9437.7866,52.9769,901491,papa johns international inc,,1.0,,,20100601,north timothy m,122520810014295,"SVP, North American Operations",male,27049882.0
+7662.7654,5994.882799999999,901491,papa johns international inc,,1.0,,,20100510,alcorn donna s.,122520810012442,"SVP, Research & Development",female,27049882.0
+758.0,48.453,901491,papa johns international inc,,1.0,,,20100510,ohern timothy c,122520810012445,"SVP, Development",male,27049882.0
+26007.4343,,901491,papa johns international inc,1.0,1.0,,,20100510,thompson joseph jude,122520810012441,President and Co-CEO,male,27049882.0
+34087.52,,901491,papa johns international inc,,1.0,,,20100513,flanery j david,122520810012802,Senior VP and CFO,male,27049882.0
+13876.0,,901491,papa johns international inc,1.0,,,,20100521,oney wade s,122520810013711,,male,27049882.0
 5834.9554,806.453,901491,papa johns international inc,,1.0,,,20100601,ohern timothy c,122520810014303,"SVP, Development",male,27049882.0
-27584.153,0.0,901491,papa johns international inc,1.0,1.0,,,20100701,thompson joseph jude,122520810016104,President and Co-CEO,male,27049882.0
-12139.51,0.0,901491,papa johns international inc,,1.0,,,20100701,thompson anthony n,122520810016103,"SVP, PJ Food Service",male,27049882.0
-17221.6795,0.0,901491,papa johns international inc,1.0,,,,20100701,smith alex,122520810016102,,male,27049882.0
+9437.7866,52.9769,901491,papa johns international inc,,1.0,,,20100601,north timothy m,122520810014295,"SVP, North American Operations",male,27049882.0
+27440.6707,,901491,papa johns international inc,1.0,1.0,,,20100601,thompson joseph jude,122520810014294,President and Co-CEO,male,27049882.0
+12053.0048,,901491,papa johns international inc,,1.0,,,20100601,thompson anthony n,122520810014292,"SVP, PJ Food Service",male,27049882.0
+55542.3081,,901491,papa johns international inc,1.0,,,,20100701,kirtley olivia f,122520810016099,,female,27049882.0
 9453.4994,52.9769,901491,papa johns international inc,,1.0,,,20100701,north timothy m,122520810016100,"SVP, North American Operations",male,27049882.0
-55542.3081,0.0,901491,papa johns international inc,1.0,,,,20100701,kirtley olivia f,122520810016099,,female,27049882.0
 5846.2218,806.453,901491,papa johns international inc,,1.0,,,20100701,ohern timothy c,122520810016101,"SVP, Development",male,27049882.0
+17221.6795,,901491,papa johns international inc,1.0,,,,20100701,smith alex,122520810016102,,male,27049882.0
+12139.51,,901491,papa johns international inc,,1.0,,,20100701,thompson anthony n,122520810016103,"SVP, PJ Food Service",male,27049882.0
+27584.153,,901491,papa johns international inc,1.0,1.0,,,20100701,thompson joseph jude,122520810016104,President and Co-CEO,male,27049882.0
 5858.8152,806.453,901491,papa johns international inc,,1.0,,,20100802,ohern timothy c,122520810018026,"SVP, Development",male,26292489.0
-27806.7898,0.0,901491,papa johns international inc,1.0,1.0,,,20100802,thompson joseph jude,122520810018027,President and Co-CEO,male,26292489.0
+27806.7898,,901491,papa johns international inc,1.0,1.0,,,20100802,thompson joseph jude,122520810018027,President and Co-CEO,male,26292489.0
 9470.9048,52.9769,901491,papa johns international inc,,1.0,,,20100802,north timothy m,122520810018028,"SVP, North American Operations",male,26292489.0
-12238.2072,0.0,901491,papa johns international inc,,1.0,,,20100802,thompson anthony n,122520810018030,"SVP, PJ Food Service",male,26292489.0
+12238.2072,,901491,papa johns international inc,,1.0,,,20100802,thompson anthony n,122520810018030,"SVP, PJ Food Service",male,26292489.0
 3500.5293,285.3604,901491,papa johns international inc,,1.0,,,20100811,sterrett thomas v.,122520810018982,"SVP, International",male,26292489.0
-5881.8673,806.453,901491,papa johns international inc,,1.0,,,20100902,ohern timothy c,122520810020299,"SVP, Development",male,26292489.0
-12322.2055,0.0,901491,papa johns international inc,,1.0,,,20100902,thompson anthony n,122520810020300,"SVP, PJ Food Service",male,26292489.0
-28219.6457,0.0,901491,papa johns international inc,1.0,1.0,,,20100902,thompson joseph jude,122520810020301,President and Co-CEO,male,26292489.0
 9528.9451,52.9769,901491,papa johns international inc,,1.0,,,20100902,north timothy m,122520810020302,"SVP, North American Operations",male,26292489.0
+5881.8673,806.453,901491,papa johns international inc,,1.0,,,20100902,ohern timothy c,122520810020299,"SVP, Development",male,26292489.0
+12322.2055,,901491,papa johns international inc,,1.0,,,20100902,thompson anthony n,122520810020300,"SVP, PJ Food Service",male,26292489.0
+28219.6457,,901491,papa johns international inc,1.0,1.0,,,20100902,thompson joseph jude,122520810020301,President and Co-CEO,male,26292489.0
 9412.9451,52.9769,901491,papa johns international inc,,1.0,,,20100903,north timothy m,122520810020351,"SVP, North American Operations",male,26292489.0
-34124.52,0.0,901491,papa johns international inc,,1.0,,,20100907,flanery j david,122520810020440,Senior VP and CFO,male,26292489.0
-10343.0,0.0,901491,papa johns international inc,,1.0,,,20100920,varga andrew m.,122520810021101,"SVP, Chief Marketing Officer",male,26292489.0
-34124.52,0.0,901491,papa johns international inc,,1.0,,,20100921,flanery j david,122520810021163,Senior VP and CFO,male,26292489.0
-28361.9607,0.0,901491,papa johns international inc,1.0,1.0,,,20101004,thompson joseph jude,122520810021896,President and Co-CEO,male,26292489.0
-12398.1068,0.0,901491,papa johns international inc,,1.0,,,20101004,thompson anthony n,122520810021897,"SVP, PJ Food Service",male,26292489.0
-3504.1783,285.3604,901491,papa johns international inc,,1.0,,,20101004,sterrett thomas v.,122520810021898,"SVP, International",male,26292489.0
-17530.0286,0.0,901491,papa johns international inc,1.0,,,,20101004,smith alex,122520810021899,,male,26292489.0
-5891.8316,872.86,901491,papa johns international inc,,1.0,,,20101004,ohern timothy c,122520810021900,"SVP, Development",male,26292489.0
+34124.52,,901491,papa johns international inc,,1.0,,,20100907,flanery j david,122520810020440,Senior VP and CFO,male,26292489.0
+10343.0,,901491,papa johns international inc,,1.0,,,20100920,varga andrew m.,122520810021101,"SVP, Chief Marketing Officer",male,26292489.0
+34124.52,,901491,papa johns international inc,,1.0,,,20100921,flanery j david,122520810021163,Senior VP and CFO,male,26292489.0
 9426.8893,52.9769,901491,papa johns international inc,,1.0,,,20101004,north timothy m,122520810021901,"SVP, North American Operations",male,26292489.0
-56206.4447,0.0,901491,papa johns international inc,1.0,,,,20101004,kirtley olivia f,122520810021902,,female,26292489.0
-34124.52,0.0,901491,papa johns international inc,,1.0,,,20101012,flanery j david,122520810022619,Senior VP and CFO,male,26292489.0
-9444.2477,52.9769,901491,papa johns international inc,,1.0,,,20101102,north timothy m,122520810023913,"SVP, North American Operations",male,25773729.0
+5891.8316,872.86,901491,papa johns international inc,,1.0,,,20101004,ohern timothy c,122520810021900,"SVP, Development",male,26292489.0
+56206.4447,,901491,papa johns international inc,1.0,,,,20101004,kirtley olivia f,122520810021902,,female,26292489.0
+3504.1783,285.3604,901491,papa johns international inc,,1.0,,,20101004,sterrett thomas v.,122520810021898,"SVP, International",male,26292489.0
+12398.1068,,901491,papa johns international inc,,1.0,,,20101004,thompson anthony n,122520810021897,"SVP, PJ Food Service",male,26292489.0
+28361.9607,,901491,papa johns international inc,1.0,1.0,,,20101004,thompson joseph jude,122520810021896,President and Co-CEO,male,26292489.0
+17530.0286,,901491,papa johns international inc,1.0,,,,20101004,smith alex,122520810021899,,male,26292489.0
+34124.52,,901491,papa johns international inc,,1.0,,,20101012,flanery j david,122520810022619,Senior VP and CFO,male,26292489.0
+28543.7877,,901491,papa johns international inc,1.0,1.0,,,20101102,thompson joseph jude,122520810023909,President and Co-CEO,male,25773729.0
+12495.0812,,901491,papa johns international inc,,1.0,,,20101102,thompson anthony n,122520810023910,"SVP, PJ Food Service",male,25773729.0
 3508.8404,285.3604,901491,papa johns international inc,,1.0,,,20101102,sterrett thomas v.,122520810023911,"SVP, International",male,25773729.0
 5904.3339,872.86,901491,papa johns international inc,,1.0,,,20101102,ohern timothy c,122520810023912,"SVP, Development",male,25773729.0
-28543.7877,0.0,901491,papa johns international inc,1.0,1.0,,,20101102,thompson joseph jude,122520810023909,President and Co-CEO,male,25773729.0
-12495.0812,0.0,901491,papa johns international inc,,1.0,,,20101102,thompson anthony n,122520810023910,"SVP, PJ Food Service",male,25773729.0
+9444.2477,52.9769,901491,papa johns international inc,,1.0,,,20101102,north timothy m,122520810023913,"SVP, North American Operations",male,25773729.0
 4385823.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20101110,schnatter john h,122520810024592,Co-Chief Executive Officer,male,25773729.0
-10254.0,0.0,901491,papa johns international inc,1.0,,,,20101116,guarascio philip,122520810024919,,male,25773729.0
-34124.52,0.0,901491,papa johns international inc,,1.0,,,20101116,flanery j david,122520810024975,Senior VP and CFO,male,25773729.0
-9476.7184,52.9769,901491,papa johns international inc,,1.0,,,20101201,north timothy m,122520810025992,"SVP, North American Operations",male,25773729.0
-5919.2752,872.86,901491,papa johns international inc,,1.0,,,20101201,ohern timothy c,122520810025993,"SVP, Development",male,25773729.0
+10254.0,,901491,papa johns international inc,1.0,,,,20101116,guarascio philip,122520810024919,,male,25773729.0
+34124.52,,901491,papa johns international inc,,1.0,,,20101116,flanery j david,122520810024975,Senior VP and CFO,male,25773729.0
+28794.5436,,901491,papa johns international inc,1.0,1.0,,,20101201,thompson joseph jude,122520810025996,President and Co-CEO,male,25773729.0
 3512.6021,285.3604,901491,papa johns international inc,,1.0,,,20101201,sterrett thomas v.,122520810025994,"SVP, International",male,25773729.0
-12573.3285,0.0,901491,papa johns international inc,,1.0,,,20101201,thompson anthony n,122520810025995,"SVP, PJ Food Service",male,25773729.0
-28794.5436,0.0,901491,papa johns international inc,1.0,1.0,,,20101201,thompson joseph jude,122520810025996,President and Co-CEO,male,25773729.0
+5919.2752,872.86,901491,papa johns international inc,,1.0,,,20101201,ohern timothy c,122520810025993,"SVP, Development",male,25773729.0
+9476.7184,52.9769,901491,papa johns international inc,,1.0,,,20101201,north timothy m,122520810025992,"SVP, North American Operations",male,25773729.0
+12573.3285,,901491,papa johns international inc,,1.0,,,20101201,thompson anthony n,122520810025995,"SVP, PJ Food Service",male,25773729.0
 4353823.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20101222,schnatter john h,122520810027658,Co-Chief Executive Officer,male,25773729.0
-9492.3729,52.9769,901491,papa johns international inc,,1.0,,,20110104,north timothy m,122520811000539,"SVP, North American Operations",male,25773729.0
-57090.9212,0.0,901491,papa johns international inc,1.0,,,,20110104,kirtley olivia f,122520811000540,,female,25773729.0
-5930.6604,872.86,901491,papa johns international inc,,1.0,,,20110104,ohern timothy c,122520811000538,"SVP, Development",male,25773729.0
-17746.6351,0.0,901491,papa johns international inc,1.0,,,,20110104,smith alex,122520811000667,,male,25773729.0
-12663.5812,0.0,901491,papa johns international inc,,1.0,,,20110104,thompson anthony n,122520811000536,Executive Vice President,male,25773729.0
+28963.7674,,901491,papa johns international inc,1.0,1.0,,,20110104,thompson joseph jude,122520811000535,President and Co-CEO,male,25773729.0
+12663.5812,,901491,papa johns international inc,,1.0,,,20110104,thompson anthony n,122520811000536,Executive Vice President,male,25773729.0
 3516.9411,285.3604,901491,papa johns international inc,,1.0,,,20110104,sterrett thomas v.,122520811000537,"SVP, International",male,25773729.0
-28963.7674,0.0,901491,papa johns international inc,1.0,1.0,,,20110104,thompson joseph jude,122520811000535,President and Co-CEO,male,25773729.0
-29094.3839,0.0,901491,papa johns international inc,1.0,1.0,,,20110202,thompson joseph jude,122520811004511,President and Co-CEO,male,25773729.0
-12743.9602,0.0,901491,papa johns international inc,,1.0,,,20110202,thompson anthony n,122520811004512,Executive Vice President,male,25773729.0
-5939.249,872.86,901491,papa johns international inc,,1.0,,,20110202,ohern timothy c,122520811004513,"SVP, Development",male,25773729.0
+5930.6604,872.86,901491,papa johns international inc,,1.0,,,20110104,ohern timothy c,122520811000538,"SVP, Development",male,25773729.0
+9492.3729,52.9769,901491,papa johns international inc,,1.0,,,20110104,north timothy m,122520811000539,"SVP, North American Operations",male,25773729.0
+57090.9212,,901491,papa johns international inc,1.0,,,,20110104,kirtley olivia f,122520811000540,,female,25773729.0
+17746.6351,,901491,papa johns international inc,1.0,,,,20110104,smith alex,122520811000667,,male,25773729.0
 9492.8048,52.9769,901491,papa johns international inc,,1.0,,,20110202,north timothy m,122520811004514,"SVP, North American Operations",male,25773729.0
-22709.0,0.0,901491,papa johns international inc,1.0,,,,20110228,cole norborne p,122520811007622,,male,24242254.0
-12238.0,0.0,901491,papa johns international inc,1.0,,,,20110228,guarascio philip,122520811007621,,male,24242254.0
-59074.9212,0.0,901491,papa johns international inc,1.0,,,,20110228,kirtley olivia f,122520811007620,,female,24242254.0
-15860.0,0.0,901491,papa johns international inc,1.0,,,,20110228,oney wade s,122520811007619,,male,24242254.0
-1984.0,0.0,901491,papa johns international inc,1.0,,,,20110228,shapiro mark s,122520811007618,,male,24242254.0
-48572.0,0.0,901491,papa johns international inc,1.0,,,,20110228,street william m,122520811007617,,male,24242254.0
-990.0,114.86,901491,papa johns international inc,,1.0,,,20110228,ohern timothy c,122520811007615,"SVP, Development",male,24242254.0
-11406.0,562.27,901491,papa johns international inc,,1.0,,,20110228,calhoun annette w,122520811007616,"SVP, Human Resources",female,24242254.0
-6450.6765,285.3604,901491,papa johns international inc,,1.0,,,20110228,sterrett thomas v.,122520811007613,"SVP, International",male,24242254.0
-21541.9602,0.0,901491,papa johns international inc,,1.0,,,20110228,thompson anthony n,122520811007612,Executive Vice President,male,24242254.0
-43585.3839,0.0,901491,papa johns international inc,1.0,1.0,,,20110228,thompson joseph jude,122520811007611,President and Co-CEO,male,24242254.0
-15092.4,0.0,901491,papa johns international inc,,1.0,,,20110228,tucker lance f.,122520811007610,"Chief of Staff, SVP",male,24242254.0
-18364.0,0.0,901491,papa johns international inc,,1.0,,,20110228,varga andrew m.,122520811007609,"SVP, Chief Marketing Officer",male,24242254.0
+5939.249,872.86,901491,papa johns international inc,,1.0,,,20110202,ohern timothy c,122520811004513,"SVP, Development",male,25773729.0
+29094.3839,,901491,papa johns international inc,1.0,1.0,,,20110202,thompson joseph jude,122520811004511,President and Co-CEO,male,25773729.0
+12743.9602,,901491,papa johns international inc,,1.0,,,20110202,thompson anthony n,122520811004512,Executive Vice President,male,25773729.0
 4368314.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20110228,schnatter john h,122520811007608,Co-Chief Executive Officer,male,24242254.0
+22709.0,,901491,papa johns international inc,1.0,,,,20110228,cole norborne p,122520811007622,,male,24242254.0
+12238.0,,901491,papa johns international inc,1.0,,,,20110228,guarascio philip,122520811007621,,male,24242254.0
+59074.9212,,901491,papa johns international inc,1.0,,,,20110228,kirtley olivia f,122520811007620,,female,24242254.0
+15860.0,,901491,papa johns international inc,1.0,,,,20110228,oney wade s,122520811007619,,male,24242254.0
+1984.0,,901491,papa johns international inc,1.0,,,,20110228,shapiro mark s,122520811007618,,male,24242254.0
+48572.0,,901491,papa johns international inc,1.0,,,,20110228,street william m,122520811007617,,male,24242254.0
+21541.9602,,901491,papa johns international inc,,1.0,,,20110228,thompson anthony n,122520811007612,Executive Vice President,male,24242254.0
+990.0,114.86,901491,papa johns international inc,,1.0,,,20110228,ohern timothy c,122520811007615,"SVP, Development",male,24242254.0
 28689.85,824.0,901491,papa johns international inc,,1.0,,,20110228,sternberg christopher j,122520811007614,"SVP, Corp Comm & GC",male,24242254.0
-15128.7346,0.0,901491,papa johns international inc,,1.0,,,20110301,tucker lance f.,122520811007914,"SVP, CFO and Treasurer",male,24242254.0
-44458.5131,0.0,901491,papa johns international inc,1.0,1.0,,,20110301,thompson joseph jude,122520811007915,President and Co-CEO,male,24242254.0
-21621.2347,0.0,901491,papa johns international inc,,1.0,,,20110301,thompson anthony n,122520811007916,Executive Vice President,male,24242254.0
+6450.6765,285.3604,901491,papa johns international inc,,1.0,,,20110228,sterrett thomas v.,122520811007613,"SVP, International",male,24242254.0
+43585.3839,,901491,papa johns international inc,1.0,1.0,,,20110228,thompson joseph jude,122520811007611,President and Co-CEO,male,24242254.0
+15092.4,,901491,papa johns international inc,,1.0,,,20110228,tucker lance f.,122520811007610,"Chief of Staff, SVP",male,24242254.0
+18364.0,,901491,papa johns international inc,,1.0,,,20110228,varga andrew m.,122520811007609,"SVP, Chief Marketing Officer",male,24242254.0
+11406.0,562.27,901491,papa johns international inc,,1.0,,,20110228,calhoun annette w,122520811007616,"SVP, Human Resources",female,24242254.0
+15128.7346,,901491,papa johns international inc,,1.0,,,20110301,tucker lance f.,122520811007914,"SVP, CFO and Treasurer",male,24242254.0
+44458.5131,,901491,papa johns international inc,1.0,1.0,,,20110301,thompson joseph jude,122520811007915,President and Co-CEO,male,24242254.0
+21621.2347,,901491,papa johns international inc,,1.0,,,20110301,thompson anthony n,122520811007916,Executive Vice President,male,24242254.0
 12017.4084,1104.86,901491,papa johns international inc,,1.0,,,20110301,ohern timothy c,122520811007917,"SVP, Development",male,24242254.0
 7805.6765,285.3604,901491,papa johns international inc,,1.0,,,20110304,sterrett thomas v.,122520811008716,"SVP, International",male,24242254.0
+59675.6167,,901491,papa johns international inc,1.0,,,,20110401,kirtley olivia f,122520811010728,,female,24242254.0
+21694.1933,,901491,papa johns international inc,,1.0,,,20110401,thompson anthony n,122520811010726,Executive Vice President,male,24242254.0
+44577.0714,,901491,papa johns international inc,1.0,1.0,,,20110401,thompson joseph jude,122520811010725,President and Co-CEO,male,24242254.0
+15167.1905,,901491,papa johns international inc,,1.0,,,20110401,tucker lance f.,122520811010724,"SVP, CFO and Treasurer",male,24242254.0
 12025.1978,1104.86,901491,papa johns international inc,,1.0,,,20110401,ohern timothy c,122520811010727,"SVP, Development",male,24242254.0
-59675.6167,0.0,901491,papa johns international inc,1.0,,,,20110401,kirtley olivia f,122520811010728,,female,24242254.0
-21694.1933,0.0,901491,papa johns international inc,,1.0,,,20110401,thompson anthony n,122520811010726,Executive Vice President,male,24242254.0
-44577.0714,0.0,901491,papa johns international inc,1.0,1.0,,,20110401,thompson joseph jude,122520811010725,President and Co-CEO,male,24242254.0
-15167.1905,0.0,901491,papa johns international inc,,1.0,,,20110401,tucker lance f.,122520811010724,"SVP, CFO and Treasurer",male,24242254.0
 11150.0,562.27,901491,papa johns international inc,,1.0,,,20110502,calhoun annette w,122520811012758,"SVP, Human Resources",female,25748841.0
 919.0,114.86,901491,papa johns international inc,,1.0,,,20110502,ohern timothy c,122520811012759,"SVP, Development",male,25748841.0
 4366145.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20110502,schnatter john h,122520811012760,Chief Executive Officer,male,25748841.0
 27925.85,824.0,901491,papa johns international inc,,1.0,,,20110502,sternberg christopher j,122520811012761,"SVP, Corp Comm & GC",male,25748841.0
 7631.6765,285.3604,901491,papa johns international inc,,1.0,,,20110502,sterrett thomas v.,122520811012762,"SVP, International",male,25748841.0
-21045.2186,0.0,901491,papa johns international inc,,1.0,,,20110502,thompson anthony n,122520811012763,Executive Vice President,male,25748841.0
-14902.0051,0.0,901491,papa johns international inc,,1.0,,,20110502,tucker lance f.,122520811012764,"SVP, CFO and Treasurer",male,25748841.0
-17936.0,0.0,901491,papa johns international inc,,1.0,,,20110502,varga andrew m.,122520811012765,"SVP, Chief Marketing Officer",male,25748841.0
-27482.85,824.0,901491,papa johns international inc,,1.0,,,20110509,sternberg christopher j,122520811013600,"SVP, Corp Comm & GC",male,25748841.0
-7497.6765,285.3604,901491,papa johns international inc,,1.0,,,20110509,sterrett thomas v.,122520811013599,"SVP, International",male,25748841.0
+21045.2186,,901491,papa johns international inc,,1.0,,,20110502,thompson anthony n,122520811012763,Executive Vice President,male,25748841.0
+14902.0051,,901491,papa johns international inc,,1.0,,,20110502,tucker lance f.,122520811012764,"SVP, CFO and Treasurer",male,25748841.0
+17936.0,,901491,papa johns international inc,,1.0,,,20110502,varga andrew m.,122520811012765,"SVP, Chief Marketing Officer",male,25748841.0
 11034.0,562.27,901491,papa johns international inc,,1.0,,,20110509,calhoun annette w,122520811013601,"SVP, Human Resources",female,25748841.0
-20871.2186,0.0,901491,papa johns international inc,,1.0,,,20110509,thompson anthony n,122520811013597,Executive Vice President,male,25748841.0
 811.0,114.86,901491,papa johns international inc,,1.0,,,20110509,ohern timothy c,122520811013598,"SVP, Development",male,25748841.0
+7497.6765,285.3604,901491,papa johns international inc,,1.0,,,20110509,sterrett thomas v.,122520811013599,"SVP, International",male,25748841.0
+27482.85,824.0,901491,papa johns international inc,,1.0,,,20110509,sternberg christopher j,122520811013600,"SVP, Corp Comm & GC",male,25748841.0
+20871.2186,,901491,papa johns international inc,,1.0,,,20110509,thompson anthony n,122520811013597,Executive Vice President,male,25748841.0
 10249.0,562.27,901491,papa johns international inc,,1.0,,,20110518,calhoun annette w,122520811014771,"SVP, Human Resources",female,25748841.0
-1307.0,0.0,901491,papa johns international inc,1.0,,,,20110523,taylor wayne kent,122520811014991,,male,25748841.0
-14940.316,0.0,901491,papa johns international inc,,1.0,,,20110602,tucker lance f.,122520811015685,"SVP, CFO and Treasurer",male,25748841.0
-20940.8739,0.0,901491,papa johns international inc,,1.0,,,20110602,thompson anthony n,122520811015686,Executive Vice President,male,25748841.0
+1307.0,,901491,papa johns international inc,1.0,,,,20110523,taylor wayne kent,122520811014991,,male,25748841.0
+14940.316,,901491,papa johns international inc,,1.0,,,20110602,tucker lance f.,122520811015685,"SVP, CFO and Treasurer",male,25748841.0
+20940.8739,,901491,papa johns international inc,,1.0,,,20110602,thompson anthony n,122520811015686,Executive Vice President,male,25748841.0
 11743.5707,925.86,901491,papa johns international inc,,1.0,,,20110602,ohern timothy c,122520811015687,"SVP, Development",male,25748841.0
-14978.5001,0.0,901491,papa johns international inc,,1.0,,,20110701,tucker lance f.,122520811017077,"SVP, CFO and Treasurer",male,25748841.0
-21010.2987,0.0,901491,papa johns international inc,,1.0,,,20110701,thompson anthony n,122520811017078,Executive Vice President,male,25748841.0
+14978.5001,,901491,papa johns international inc,,1.0,,,20110701,tucker lance f.,122520811017077,"SVP, CFO and Treasurer",male,25748841.0
+21010.2987,,901491,papa johns international inc,,1.0,,,20110701,thompson anthony n,122520811017078,Executive Vice President,male,25748841.0
 11751.0481,925.86,901491,papa johns international inc,,1.0,,,20110701,ohern timothy c,122520811017079,"SVP, Development",male,25748841.0
-60367.5541,0.0,901491,papa johns international inc,1.0,,,,20110701,kirtley olivia f,122520811017080,,female,25748841.0
+60367.5541,,901491,papa johns international inc,1.0,,,,20110701,kirtley olivia f,122520811017080,,female,25748841.0
+15029.3185,,901491,papa johns international inc,,1.0,,,20110801,tucker lance f.,122520811018967,"SVP, CFO and Treasurer",male,25308455.0
+21102.6946,,901491,papa johns international inc,,1.0,,,20110801,thompson anthony n,122520811018968,Executive Vice President,male,25308455.0
 11761.0359,925.86,901491,papa johns international inc,,1.0,,,20110801,ohern timothy c,122520811018969,"SVP, Development",male,25308455.0
-15029.3185,0.0,901491,papa johns international inc,,1.0,,,20110801,tucker lance f.,122520811018967,"SVP, CFO and Treasurer",male,25308455.0
-21102.6946,0.0,901491,papa johns international inc,,1.0,,,20110801,thompson anthony n,122520811018968,Executive Vice President,male,25308455.0
+15071.9964,,901491,papa johns international inc,,1.0,,,20110901,tucker lance f.,122520811021070,"SVP, CFO and Treasurer",male,25308455.0
+21183.394,,901491,papa johns international inc,,1.0,,,20110901,thompson anthony n,122520811021071,Executive Vice President,male,25308455.0
 11771.5763,925.86,901491,papa johns international inc,,1.0,,,20110901,ohern timothy c,122520811021072,"SVP, Development",male,25308455.0
-21183.394,0.0,901491,papa johns international inc,,1.0,,,20110901,thompson anthony n,122520811021071,Executive Vice President,male,25308455.0
-15071.9964,0.0,901491,papa johns international inc,,1.0,,,20110901,tucker lance f.,122520811021070,"SVP, CFO and Treasurer",male,25308455.0
-17778.0,0.0,901491,papa johns international inc,,1.0,,,20110919,varga andrew m.,122520811021946,"SVP, Chief Marketing Officer",male,25308455.0
+17778.0,,901491,papa johns international inc,,1.0,,,20110919,varga andrew m.,122520811021946,"SVP, Chief Marketing Officer",male,25308455.0
 7412.6765,285.3604,901491,papa johns international inc,,1.0,,,20110920,sterrett thomas v.,122520811022005,"SVP, International",male,25308455.0
 10222.0,562.27,901491,papa johns international inc,,1.0,,,20110923,calhoun annette w,122520811022097,"SVP, Human Resources",female,25308455.0
-60943.591,0.0,901491,papa johns international inc,1.0,,,,20111003,kirtley olivia f,122520811022465,,female,25308455.0
+15124.2199,,901491,papa johns international inc,,1.0,,,20111003,tucker lance f.,122520811022468,"SVP, CFO and Treasurer",male,25308455.0
 11782.0256,925.86,901491,papa johns international inc,,1.0,,,20111003,ohern timothy c,122520811022466,"SVP, Development",male,25308455.0
-21280.2439,0.0,901491,papa johns international inc,,1.0,,,20111003,thompson anthony n,122520811022467,Executive Vice President,male,25308455.0
-15124.2199,0.0,901491,papa johns international inc,,1.0,,,20111003,tucker lance f.,122520811022468,"SVP, CFO and Treasurer",male,25308455.0
-15161.8159,0.0,901491,papa johns international inc,,1.0,,,20111102,tucker lance f.,122520811024137,"SVP, CFO and Treasurer",male,24375854.0
-21349.9666,0.0,901491,papa johns international inc,,1.0,,,20111102,thompson anthony n,122520811024138,Executive Vice President,male,24375854.0
+60943.591,,901491,papa johns international inc,1.0,,,,20111003,kirtley olivia f,122520811022465,,female,25308455.0
+21280.2439,,901491,papa johns international inc,,1.0,,,20111003,thompson anthony n,122520811022467,Executive Vice President,male,25308455.0
+15161.8159,,901491,papa johns international inc,,1.0,,,20111102,tucker lance f.,122520811024137,"SVP, CFO and Treasurer",male,24375854.0
 11789.6642,925.86,901491,papa johns international inc,,1.0,,,20111102,ohern timothy c,122520811024139,"SVP, Development",male,24375854.0
+21349.9666,,901491,papa johns international inc,,1.0,,,20111102,thompson anthony n,122520811024138,Executive Vice President,male,24375854.0
 4734.6765,285.3604,901491,papa johns international inc,,1.0,,,20111103,sterrett thomas v.,122520811024279,"SVP, International",male,24375854.0
 27749.85,824.0,901491,papa johns international inc,,1.0,,,20111109,sternberg christopher j,122520811024622,"SVP, Corp Comm & GC",male,24375854.0
 29349.85,824.0,901491,papa johns international inc,,1.0,,,20111123,sternberg christopher j,122520811025315,"SVP, Corp Comm & GC",male,24375854.0
+15195.3582,,901491,papa johns international inc,,1.0,,,20111202,tucker lance f.,122520811025692,"SVP, CFO and Treasurer",male,24375854.0
+21412.1717,,901491,papa johns international inc,,1.0,,,20111202,thompson anthony n,122520811025693,Executive Vice President,male,24375854.0
 11801.1417,925.86,901491,papa johns international inc,,1.0,,,20111202,ohern timothy c,122520811025694,"SVP, Development",male,24375854.0
-21412.1717,0.0,901491,papa johns international inc,,1.0,,,20111202,thompson anthony n,122520811025693,Executive Vice President,male,24375854.0
-15195.3582,0.0,901491,papa johns international inc,,1.0,,,20111202,tucker lance f.,122520811025692,"SVP, CFO and Treasurer",male,24375854.0
 4344645.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20111216,schnatter john h,122520811026416,Chief Executive Officer,male,24375854.0
-15237.4641,0.0,901491,papa johns international inc,,1.0,,,20120103,tucker lance f.,122520812000105,"SVP, CFO and Treasurer",male,24375854.0
-21490.2582,0.0,901491,papa johns international inc,,1.0,,,20120103,thompson anthony n,122520812000106,Executive Vice President,male,24375854.0
+61540.7248,,901491,papa johns international inc,1.0,,,,20120103,kirtley olivia f,122520812000108,,female,24375854.0
+21490.2582,,901491,papa johns international inc,,1.0,,,20120103,thompson anthony n,122520812000106,Executive Vice President,male,24375854.0
+15237.4641,,901491,papa johns international inc,,1.0,,,20120103,tucker lance f.,122520812000105,"SVP, CFO and Treasurer",male,24375854.0
 11809.3853,925.86,901491,papa johns international inc,,1.0,,,20120103,ohern timothy c,122520812000107,"SVP, Development",male,24375854.0
-61540.7248,0.0,901491,papa johns international inc,1.0,,,,20120103,kirtley olivia f,122520812000108,,female,24375854.0
-59489.0,0.0,901491,papa johns international inc,1.0,,,,20120124,street william m,122520812001913,,male,24375854.0
-15253.8583,0.0,901491,papa johns international inc,,1.0,,,20120201,tucker lance f.,122520812002723,"SVP, CFO and Treasurer",male,24375854.0
+59489.0,,901491,papa johns international inc,1.0,,,,20120124,street william m,122520812001913,,male,24375854.0
+15253.8583,,901491,papa johns international inc,,1.0,,,20120201,tucker lance f.,122520812002723,"SVP, CFO and Treasurer",male,24375854.0
 11815.8557,925.86,901491,papa johns international inc,,1.0,,,20120201,ohern timothy c,122520812002724,"SVP, Development",male,24375854.0
-6510.6765,285.3604,901491,papa johns international inc,,1.0,,,20120227,sterrett thomas v.,122520812005543,"SVP, International",male,24242254.0
-18144.8583,0.0,901491,papa johns international inc,,1.0,,,20120227,tucker lance f.,122520812005544,"SVP, CFO and Treasurer",male,24242254.0
-17418.0,0.0,901491,papa johns international inc,1.0,,,,20120227,oney wade s,122520812005493,,male,24242254.0
-4350614.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20120227,schnatter john h,122520812005546,Chief Executive Officer,male,24242254.0
-31655.85,824.0,901491,papa johns international inc,,1.0,,,20120227,sternberg christopher j,122520812005542,"SVP, Corp Comm & GC",male,24242254.0
-20364.0,0.0,901491,papa johns international inc,,1.0,,,20120227,varga andrew m.,122520812005545,"SVP, Chief Marketing Officer",male,24242254.0
 962.0,114.86,901491,papa johns international inc,,1.0,,,20120227,ohern timothy c,122520812005541,"SVP, Development",male,24242254.0
-63098.7248,0.0,901491,papa johns international inc,1.0,,,,20120227,kirtley olivia f,122520812005492,,female,24242254.0
-2865.0,0.0,901491,papa johns international inc,1.0,,,,20120227,taylor wayne kent,122520812005496,,male,24242254.0
-61047.0,0.0,901491,papa johns international inc,1.0,,,,20120227,street william m,122520812005495,,male,24242254.0
-3542.0,0.0,901491,papa johns international inc,1.0,,,,20120227,shapiro mark s,122520812005494,,male,24242254.0
-25947.2582,0.0,901491,papa johns international inc,,1.0,,,20120227,thompson anthony n,122520812005540,Executive Vice President,male,24242254.0
-13796.0,0.0,901491,papa johns international inc,1.0,,,,20120227,guarascio philip,122520812005491,,male,24242254.0
-25012.0,0.0,901491,papa johns international inc,1.0,,,,20120227,cole norborne p,122520812005490,,male,24242254.0
-13218.0,0.0,901491,papa johns international inc,1.0,,,,20120229,oney wade s,122520812005891,,male,24242254.0
+4350614.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20120227,schnatter john h,122520812005546,Chief Executive Officer,male,24242254.0
+18144.8583,,901491,papa johns international inc,,1.0,,,20120227,tucker lance f.,122520812005544,"SVP, CFO and Treasurer",male,24242254.0
+31655.85,824.0,901491,papa johns international inc,,1.0,,,20120227,sternberg christopher j,122520812005542,"SVP, Corp Comm & GC",male,24242254.0
+25947.2582,,901491,papa johns international inc,,1.0,,,20120227,thompson anthony n,122520812005540,Executive Vice President,male,24242254.0
+20364.0,,901491,papa johns international inc,,1.0,,,20120227,varga andrew m.,122520812005545,"SVP, Chief Marketing Officer",male,24242254.0
+61047.0,,901491,papa johns international inc,1.0,,,,20120227,street william m,122520812005495,,male,24242254.0
+25012.0,,901491,papa johns international inc,1.0,,,,20120227,cole norborne p,122520812005490,,male,24242254.0
+2865.0,,901491,papa johns international inc,1.0,,,,20120227,taylor wayne kent,122520812005496,,male,24242254.0
+13796.0,,901491,papa johns international inc,1.0,,,,20120227,guarascio philip,122520812005491,,male,24242254.0
+6510.6765,285.3604,901491,papa johns international inc,,1.0,,,20120227,sterrett thomas v.,122520812005543,"SVP, International",male,24242254.0
+17418.0,,901491,papa johns international inc,1.0,,,,20120227,oney wade s,122520812005493,,male,24242254.0
+3542.0,,901491,papa johns international inc,1.0,,,,20120227,shapiro mark s,122520812005494,,male,24242254.0
+63098.7248,,901491,papa johns international inc,1.0,,,,20120227,kirtley olivia f,122520812005492,,female,24242254.0
+13218.0,,901491,papa johns international inc,1.0,,,,20120229,oney wade s,122520812005891,,male,24242254.0
 13816.2405,1076.86,901491,papa johns international inc,,1.0,,,20120301,ohern timothy c,122520812006231,"SVP, Development",male,24242254.0
-18161.9363,0.0,901491,papa johns international inc,,1.0,,,20120301,tucker lance f.,122520812006232,"SVP, CFO and Treasurer",male,24242254.0
-20364.0,0.0,901491,papa johns international inc,,1.0,,,20120305,varga andrew m.,122520812006589,"SVP, Chief Marketing Officer",male,24242254.0
+18161.9363,,901491,papa johns international inc,,1.0,,,20120301,tucker lance f.,122520812006232,"SVP, CFO and Treasurer",male,24242254.0
 13816.2405,1076.86,901491,papa johns international inc,,1.0,,,20120305,ohern timothy c,122520812006562,"SVP, Development",male,24242254.0
-63656.3456,0.0,901491,papa johns international inc,1.0,,,,20120402,kirtley olivia f,122520812008672,,female,24242254.0
+20364.0,,901491,papa johns international inc,,1.0,,,20120305,varga andrew m.,122520812006589,"SVP, Chief Marketing Officer",male,24242254.0
+18232.2284,,901491,papa johns international inc,,1.0,,,20120402,tucker lance f.,122520812008675,"SVP, CFO and Treasurer",male,24242254.0
 13848.9927,1076.86,901491,papa johns international inc,,1.0,,,20120402,ohern timothy c,122520812008673,"SVP, Development",male,24242254.0
-26044.8418,0.0,901491,papa johns international inc,,1.0,,,20120402,thompson anthony n,122520812008674,Executive Vice President,male,24242254.0
-18232.2284,0.0,901491,papa johns international inc,,1.0,,,20120402,tucker lance f.,122520812008675,"SVP, CFO and Treasurer",male,24242254.0
-17932.3198,0.0,901491,papa johns international inc,,1.0,,,20120501,tucker lance f.,122520812010650,"SVP, CFO and Treasurer",male,23822608.0
+63656.3456,,901491,papa johns international inc,1.0,,,,20120402,kirtley olivia f,122520812008672,,female,24242254.0
+26044.8418,,901491,papa johns international inc,,1.0,,,20120402,thompson anthony n,122520812008674,Executive Vice President,male,24242254.0
 4348253.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20120501,schnatter john h,122520812010645,Chief Executive Officer,male,23822608.0
-25298.8418,0.0,901491,papa johns international inc,,1.0,,,20120501,thompson anthony n,122520812010646,Executive Vice President,male,23822608.0
-891.0,114.86,901491,papa johns international inc,,1.0,,,20120501,ohern timothy c,122520812010647,"SVP, Development",male,23822608.0
+25298.8418,,901491,papa johns international inc,,1.0,,,20120501,thompson anthony n,122520812010646,Executive Vice President,male,23822608.0
 30890.85,824.0,901491,papa johns international inc,,1.0,,,20120501,sternberg christopher j,122520812010648,"SVP, Corp Comm & GC",male,23822608.0
 6335.6765,285.3604,901491,papa johns international inc,,1.0,,,20120501,sterrett thomas v.,122520812010649,"SVP, International",male,23822608.0
-19936.0,0.0,901491,papa johns international inc,,1.0,,,20120501,varga andrew m.,122520812010651,"SVP, Chief Marketing Officer",male,23822608.0
-25895.8418,0.0,901491,papa johns international inc,,1.0,,,20120504,thompson anthony n,122520812011238,Executive Vice President,male,23822608.0
-25012.0,0.0,901491,papa johns international inc,1.0,,,,20120504,cole norborne p,122520812011239,,male,23822608.0
-17932.3198,0.0,901491,papa johns international inc,,1.0,,,20120504,tucker lance f.,122520812011237,"SVP, CFO and Treasurer",male,23822608.0
-6977.6765,285.3604,901491,papa johns international inc,,1.0,,,20120504,sterrett thomas v.,122520812011236,"SVP, International",male,23822608.0
+17932.3198,,901491,papa johns international inc,,1.0,,,20120501,tucker lance f.,122520812010650,"SVP, CFO and Treasurer",male,23822608.0
+19936.0,,901491,papa johns international inc,,1.0,,,20120501,varga andrew m.,122520812010651,"SVP, Chief Marketing Officer",male,23822608.0
+891.0,114.86,901491,papa johns international inc,,1.0,,,20120501,ohern timothy c,122520812010647,"SVP, Development",male,23822608.0
+25012.0,,901491,papa johns international inc,1.0,,,,20120504,cole norborne p,122520812011239,,male,23822608.0
+13796.0,,901491,papa johns international inc,1.0,,,,20120504,guarascio philip,122520812011234,,male,23822608.0
 39609.85,824.0,901491,papa johns international inc,,1.0,,,20120504,sternberg christopher j,122520812011235,"SVP, Corp Comm & GC",male,23822608.0
-13796.0,0.0,901491,papa johns international inc,1.0,,,,20120504,guarascio philip,122520812011234,,male,23822608.0
-63656.3456,0.0,901491,papa johns international inc,1.0,,,,20120508,kirtley olivia f,122520812011457,,female,23822608.0
-25395.8418,0.0,901491,papa johns international inc,,1.0,,,20120521,thompson anthony n,122520812012867,Executive Vice President,male,23822608.0
+6977.6765,285.3604,901491,papa johns international inc,,1.0,,,20120504,sterrett thomas v.,122520812011236,"SVP, International",male,23822608.0
+17932.3198,,901491,papa johns international inc,,1.0,,,20120504,tucker lance f.,122520812011237,"SVP, CFO and Treasurer",male,23822608.0
+25895.8418,,901491,papa johns international inc,,1.0,,,20120504,thompson anthony n,122520812011238,Executive Vice President,male,23822608.0
+63656.3456,,901491,papa johns international inc,1.0,,,,20120508,kirtley olivia f,122520812011457,,female,23822608.0
+25395.8418,,901491,papa johns international inc,,1.0,,,20120521,thompson anthony n,122520812012867,Executive Vice President,male,23822608.0
 13558.2427,1005.86,901491,papa johns international inc,,1.0,,,20120601,ohern timothy c,122520812013515,"SVP, Development",male,23822608.0
-17952.831,0.0,901491,papa johns international inc,,1.0,,,20120601,tucker lance f.,122520812013516,"SVP, CFO and Treasurer",male,23822608.0
-17970.1081,0.0,901491,papa johns international inc,,1.0,,,20120702,tucker lance f.,122520812015143,"SVP, CFO and Treasurer",male,23822608.0
+17952.831,,901491,papa johns international inc,,1.0,,,20120601,tucker lance f.,122520812013516,"SVP, CFO and Treasurer",male,23822608.0
 13564.9843,1005.86,901491,papa johns international inc,,1.0,,,20120702,ohern timothy c,122520812015144,"SVP, Development",male,23822608.0
-64024.6116,0.0,901491,papa johns international inc,1.0,,,,20120702,kirtley olivia f,122520812015145,,female,23822608.0
-17983.0436,0.0,901491,papa johns international inc,,1.0,,,20120801,tucker lance f.,122520812016996,"SVP, CFO, CAO and Treasurer",male,23439820.0
+64024.6116,,901491,papa johns international inc,1.0,,,,20120702,kirtley olivia f,122520812015145,,female,23822608.0
+17970.1081,,901491,papa johns international inc,,1.0,,,20120702,tucker lance f.,122520812015143,"SVP, CFO and Treasurer",male,23822608.0
+17983.0436,,901491,papa johns international inc,,1.0,,,20120801,tucker lance f.,122520812016996,"SVP, CFO, CAO and Treasurer",male,23439820.0
 13570.038,1005.86,901491,papa johns international inc,,1.0,,,20120801,ohern timothy c,122520812016997,"SVP, Chief Development Officer",male,23439820.0
-25012.0,0.0,901491,papa johns international inc,1.0,,,,20120806,cole norborne p,122520812017253,,male,23439820.0
+25012.0,,901491,papa johns international inc,1.0,,,,20120806,cole norborne p,122520812017253,,male,23439820.0
 6894.6765,285.3604,901491,papa johns international inc,,1.0,,,20120813,sterrett thomas v.,122520812017641,"SVP, International",male,23439820.0
 6252.6765,285.3604,901491,papa johns international inc,,1.0,,,20120816,sterrett thomas v.,122520812017957,"SVP, International",male,23439820.0
-18340.0,0.0,901491,papa johns international inc,,1.0,,,20120829,varga andrew m.,122520812018694,"SVP, Chief Marketing Officer",male,23439820.0
+18340.0,,901491,papa johns international inc,,1.0,,,20120829,varga andrew m.,122520812018694,"SVP, Chief Marketing Officer",male,23439820.0
 7162.6765,285.3604,901491,papa johns international inc,,1.0,,,20120830,sterrett thomas v.,122520812018746,"SVP, International",male,23439820.0
 13579.2266,1005.86,901491,papa johns international inc,,1.0,,,20120904,ohern timothy c,122520812018867,"SVP, Chief Development Officer",male,23439820.0
-18007.883,0.0,901491,papa johns international inc,,1.0,,,20120904,tucker lance f.,122520812018868,"SVP, CFO, CAO and Treasurer",male,23439820.0
-18181.0,0.0,901491,papa johns international inc,,1.0,,,20120917,varga andrew m.,122520812019695,"SVP, Chief Marketing Officer",male,23439820.0
-64352.2656,0.0,901491,papa johns international inc,1.0,,,,20121001,kirtley olivia f,122520812020357,,female,23439820.0
+18007.883,,901491,papa johns international inc,,1.0,,,20120904,tucker lance f.,122520812018868,"SVP, CFO, CAO and Treasurer",male,23439820.0
+18181.0,,901491,papa johns international inc,,1.0,,,20120917,varga andrew m.,122520812019695,"SVP, Chief Marketing Officer",male,23439820.0
+64352.2656,,901491,papa johns international inc,1.0,,,,20121001,kirtley olivia f,122520812020357,,female,23439820.0
 13584.2674,1005.86,901491,papa johns international inc,,1.0,,,20121001,ohern timothy c,122520812020358,"SVP, Chief Development Officer",male,23439820.0
-18022.2854,0.0,901491,papa johns international inc,,1.0,,,20121001,tucker lance f.,122520812020359,"SVP, CFO, CAO and Treasurer",male,23439820.0
+18022.2854,,901491,papa johns international inc,,1.0,,,20121001,tucker lance f.,122520812020359,"SVP, CFO, CAO and Treasurer",male,23439820.0
 13589.6136,1005.86,901491,papa johns international inc,,1.0,,,20121101,ohern timothy c,122520812022137,"SVP, Chief Development Officer",male,23130154.0
-18037.3057,0.0,901491,papa johns international inc,,1.0,,,20121101,tucker lance f.,122520812022138,"SVP, CFO, CAO and Treasurer",male,23130154.0
-229.0,0.0,901491,papa johns international inc,1.0,,,,20121105,coleman christopher l.,122520812022342,,male,23130154.0
-13796.0,0.0,901491,papa johns international inc,1.0,,,,20121130,guarascio philip,122520812024080,,male,23130154.0
-18063.4209,0.0,901491,papa johns international inc,,1.0,,,20121203,tucker lance f.,122520812024184,"SVP, CFO, CAO and Treasurer",male,23130154.0
+18037.3057,,901491,papa johns international inc,,1.0,,,20121101,tucker lance f.,122520812022138,"SVP, CFO, CAO and Treasurer",male,23130154.0
+229.0,,901491,papa johns international inc,1.0,,,,20121105,coleman christopher l.,122520812022342,,male,23130154.0
+13796.0,,901491,papa johns international inc,1.0,,,,20121130,guarascio philip,122520812024080,,male,23130154.0
 13598.7802,1005.86,901491,papa johns international inc,,1.0,,,20121203,ohern timothy c,122520812024185,"SVP, Chief Development Officer",male,23130154.0
+18063.4209,,901491,papa johns international inc,,1.0,,,20121203,tucker lance f.,122520812024184,"SVP, CFO, CAO and Treasurer",male,23130154.0
 5119.6765,285.3604,901491,papa johns international inc,,1.0,,,20121205,sterrett thomas v.,122520812024560,"SVP, International",male,23130154.0
-18063.4209,0.0,901491,papa johns international inc,,1.0,,,20121207,tucker lance f.,122520812024889,"SVP, CFO, CAO and Treasurer",male,23130154.0
-18077.4196,0.0,901491,papa johns international inc,,1.0,,,20130103,tucker lance f.,122520813000394,"SVP, CFO, CAO and Treasurer",male,44500000.0
+18063.4209,,901491,papa johns international inc,,1.0,,,20121207,tucker lance f.,122520812024889,"SVP, CFO, CAO and Treasurer",male,23130154.0
+18077.4196,,901491,papa johns international inc,,1.0,,,20130103,tucker lance f.,122520813000394,"SVP, CFO, CAO and Treasurer",male,44500000.0
 13603.6797,1005.86,901491,papa johns international inc,,1.0,,,20130103,ohern timothy c,122520813000395,"SVP, Chief Development Officer",male,44500000.0
-64761.7287,0.0,901491,papa johns international inc,1.0,,,,20130103,kirtley olivia f,122520813000396,,female,44500000.0
+64761.7287,,901491,papa johns international inc,1.0,,,,20130103,kirtley olivia f,122520813000396,,female,44500000.0
 4333703.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20130125,schnatter john h,122520813002056,Chief Executive Officer,male,44500000.0
 13608.6311,1005.86,901491,papa johns international inc,,1.0,,,20130204,ohern timothy c,122520813002818,"SVP, Chief Development Officer",male,44500000.0
 5123.7693,285.3604,901491,papa johns international inc,,1.0,,,20130204,sterrett thomas v.,122520813002819,"SVP, International",male,44500000.0
-18077.7304,0.0,901491,papa johns international inc,,1.0,,,20130204,tucker lance f.,122520813002820,"SVP, CFO, CAO and Treasurer",male,44500000.0
-6345.0,0.0,901491,papa johns international inc,,1.0,,,20130226,ritchie steve m,122520813005396,"SVP, North/South American Ops",male,44500000.0
+18077.7304,,901491,papa johns international inc,,1.0,,,20130204,tucker lance f.,122520813002820,"SVP, CFO, CAO and Treasurer",male,44500000.0
+6345.0,,901491,papa johns international inc,,1.0,,,20130226,ritchie steve m,122520813005396,"SVP, North/South American Ops",male,44500000.0
 4750.7693,285.3604,901491,papa johns international inc,,1.0,,,20130226,sterrett thomas v.,122520813005395,"SVP, International",male,44500000.0
-17135.7304,0.0,901491,papa johns international inc,,1.0,,,20130226,tucker lance f.,122520813005394,"SVP, CFO, CAO and Treasurer",male,44500000.0
 4331617.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20130226,schnatter john h,122520813005391,Chief Executive Officer,male,44500000.0
+17312.0,,901491,papa johns international inc,,1.0,,,20130226,varga andrew m.,122520813005393,"SVP, Chief Marketing Officer",male,44500000.0
 832.0,114.86,901491,papa johns international inc,,1.0,,,20130226,ohern timothy c,122520813005392,"SVP, Chief Development Officer",male,44500000.0
-24225.8418,0.0,901491,papa johns international inc,,1.0,,,20130226,thompson anthony n,122520813005390,EVP and COO,male,44500000.0
-17312.0,0.0,901491,papa johns international inc,,1.0,,,20130226,varga andrew m.,122520813005393,"SVP, Chief Marketing Officer",male,44500000.0
-4542.0,0.0,901491,papa johns international inc,1.0,,,,20130301,shapiro mark s,122520813006177,,male,44500000.0
-27783.8418,0.0,901491,papa johns international inc,,1.0,,,20130304,thompson anthony n,122520813006380,EVP and COO,male,44500000.0
-4648.0,0.0,901491,papa johns international inc,1.0,,,,20130304,shapiro mark s,122520813006385,,male,44500000.0
+24225.8418,,901491,papa johns international inc,,1.0,,,20130226,thompson anthony n,122520813005390,EVP and COO,male,44500000.0
+17135.7304,,901491,papa johns international inc,,1.0,,,20130226,tucker lance f.,122520813005394,"SVP, CFO, CAO and Treasurer",male,44500000.0
+4542.0,,901491,papa johns international inc,1.0,,,,20130301,shapiro mark s,122520813006177,,male,44500000.0
+4648.0,,901491,papa johns international inc,1.0,,,,20130304,shapiro mark s,122520813006385,,male,44500000.0
 962.0,114.86,901491,papa johns international inc,,1.0,,,20130304,ohern timothy c,122520813006384,"SVP, Chief Development Officer",male,44500000.0
 6679.9825,285.3604,901491,papa johns international inc,,1.0,,,20130304,sterrett thomas v.,122520813006383,"SVP, International",male,44500000.0
-20693.7304,0.0,901491,papa johns international inc,,1.0,,,20130304,tucker lance f.,122520813006381,"SVP, CFO, CAO and Treasurer",male,44500000.0
-19956.0,0.0,901491,papa johns international inc,,1.0,,,20130304,varga andrew m.,122520813006379,"SVP, Chief Marketing Officer",male,44500000.0
-8749.0,0.0,901491,papa johns international inc,,1.0,,,20130304,ritchie steve m,122520813006382,"SVP, North/South American Ops",male,44500000.0
-75739.0,0.0,901491,papa johns international inc,1.0,,,,20130304,street william m,122520813006377,,male,44500000.0
-14902.0,0.0,901491,papa johns international inc,1.0,,,,20130304,guarascio philip,122520813006376,,male,44500000.0
-65867.7287,0.0,901491,papa johns international inc,1.0,,,,20130304,kirtley olivia f,122520813006375,,female,44500000.0
+8749.0,,901491,papa johns international inc,,1.0,,,20130304,ritchie steve m,122520813006382,"SVP, North/South American Ops",male,44500000.0
+27783.8418,,901491,papa johns international inc,,1.0,,,20130304,thompson anthony n,122520813006380,EVP and COO,male,44500000.0
+20693.7304,,901491,papa johns international inc,,1.0,,,20130304,tucker lance f.,122520813006381,"SVP, CFO, CAO and Treasurer",male,44500000.0
 4336713.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20130304,schnatter john h,122520813006378,Chief Executive Officer,male,44500000.0
-26647.0,0.0,901491,papa johns international inc,1.0,,,,20130304,cole norborne p,122520813006374,,male,44500000.0
-3971.0,0.0,901491,papa johns international inc,1.0,,,,20130304,taylor wayne kent,122520813006373,,male,44500000.0
-1335.0,0.0,901491,papa johns international inc,1.0,,,,20130304,coleman christopher l.,122520813006372,,male,44500000.0
-29118.8418,0.0,901491,papa johns international inc,,1.0,,,20130307,thompson anthony n,122520813006975,EVP and COO,male,44500000.0
+75739.0,,901491,papa johns international inc,1.0,,,,20130304,street william m,122520813006377,,male,44500000.0
+14902.0,,901491,papa johns international inc,1.0,,,,20130304,guarascio philip,122520813006376,,male,44500000.0
+65867.7287,,901491,papa johns international inc,1.0,,,,20130304,kirtley olivia f,122520813006375,,female,44500000.0
+26647.0,,901491,papa johns international inc,1.0,,,,20130304,cole norborne p,122520813006374,,male,44500000.0
+3971.0,,901491,papa johns international inc,1.0,,,,20130304,taylor wayne kent,122520813006373,,male,44500000.0
+1335.0,,901491,papa johns international inc,1.0,,,,20130304,coleman christopher l.,122520813006372,,male,44500000.0
+19956.0,,901491,papa johns international inc,,1.0,,,20130304,varga andrew m.,122520813006379,"SVP, Chief Marketing Officer",male,44500000.0
+29118.8418,,901491,papa johns international inc,,1.0,,,20130307,thompson anthony n,122520813006975,EVP and COO,male,44500000.0
 8196.9825,285.3604,901491,papa johns international inc,,1.0,,,20130307,sterrett thomas v.,122520813006976,"SVP, International",male,44500000.0
-66231.6886,0.0,901491,papa johns international inc,1.0,,,,20130401,kirtley olivia f,122520813008697,,female,44500000.0
+66231.6886,,901491,papa johns international inc,1.0,,,,20130401,kirtley olivia f,122520813008697,,female,44500000.0
 15144.4904,1076.86,901491,papa johns international inc,,1.0,,,20130401,ohern timothy c,122520813008698,"SVP, Chief Development Officer",male,44500000.0
 8203.515,285.3604,901491,papa johns international inc,,1.0,,,20130401,sterrett thomas v.,122520813008699,"SVP, International",male,44500000.0
-20793.2894,0.0,901491,papa johns international inc,,1.0,,,20130401,tucker lance f.,122520813008700,"SVP, CFO, CAO and Treasurer",male,44500000.0
-27456.8418,0.0,901491,papa johns international inc,,1.0,,,20130429,thompson anthony n,122520813010555,EVP and COO,male,44500000.0
-19563.2894,0.0,901491,papa johns international inc,,1.0,,,20130429,tucker lance f.,122520813010554,"SVP, CFO, CAO and Treasurer",male,44500000.0
-929.0,114.86,901491,papa johns international inc,,1.0,,,20130429,ohern timothy c,122520813010552,"SVP, Chief Development Officer",male,44500000.0
+20793.2894,,901491,papa johns international inc,,1.0,,,20130401,tucker lance f.,122520813008700,"SVP, CFO, CAO and Treasurer",male,44500000.0
+27456.8418,,901491,papa johns international inc,,1.0,,,20130429,thompson anthony n,122520813010555,EVP and COO,male,44500000.0
 8054.515,285.3604,901491,papa johns international inc,,1.0,,,20130429,sterrett thomas v.,122520813010551,"SVP, International",male,44500000.0
 4335168.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20130429,schnatter john h,122520813010553,Chief Executive Officer,male,44500000.0
+929.0,114.86,901491,papa johns international inc,,1.0,,,20130429,ohern timothy c,122520813010552,"SVP, Chief Development Officer",male,44500000.0
+19563.2894,,901491,papa johns international inc,,1.0,,,20130429,tucker lance f.,122520813010554,"SVP, CFO, CAO and Treasurer",male,44500000.0
+19578.1845,,901491,papa johns international inc,,1.0,,,20130501,tucker lance f.,122520813010854,"SVP, CFO, CAO and Treasurer",male,21790833.0
 13945.8447,1043.86,901491,papa johns international inc,,1.0,,,20130501,ohern timothy c,122520813010852,"SVP, Chief Development Officer",male,21790833.0
 8059.6483,285.3604,901491,papa johns international inc,,1.0,,,20130501,sterrett thomas v.,122520813010853,"SVP, International",male,21790833.0
-19578.1845,0.0,901491,papa johns international inc,,1.0,,,20130501,tucker lance f.,122520813010854,"SVP, CFO, CAO and Treasurer",male,21790833.0
-74831.6886,0.0,901491,papa johns international inc,1.0,,,,20130508,kirtley olivia f,122520813011684,,female,21790833.0
+74831.6886,,901491,papa johns international inc,1.0,,,,20130508,kirtley olivia f,122520813011684,,female,21790833.0
 4360454.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20130508,schnatter john h,122520813011685,Chief Executive Officer,male,21790833.0
 4364040.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20130513,schnatter john h,122520813012038,Chief Executive Officer,male,21790833.0
-5883.0,0.0,901491,papa johns international inc,1.0,,,,20130517,guarascio philip,122520813012629,,male,21790833.0
-19578.1845,0.0,901491,papa johns international inc,,1.0,,,20130517,tucker lance f.,122520813012667,"SVP, CFO, CAO and Treasurer",male,21790833.0
-16647.0,0.0,901491,papa johns international inc,1.0,,,,20130528,cole norborne p,122520813013351,,male,21790833.0
+5883.0,,901491,papa johns international inc,1.0,,,,20130517,guarascio philip,122520813012629,,male,21790833.0
+19578.1845,,901491,papa johns international inc,,1.0,,,20130517,tucker lance f.,122520813012667,"SVP, CFO, CAO and Treasurer",male,21790833.0
+16647.0,,901491,papa johns international inc,1.0,,,,20130528,cole norborne p,122520813013351,,male,21790833.0
 8065.9191,285.3604,901491,papa johns international inc,,1.0,,,20130604,sterrett thomas v.,122520813013746,"SVP, International",male,21790833.0
 13953.3977,1043.86,901491,papa johns international inc,,1.0,,,20130604,ohern timothy c,122520813013747,"SVP, Chief Development Officer",male,21790833.0
 6548.9191,285.3604,901491,papa johns international inc,,1.0,,,20130610,sterrett thomas v.,122520813014173,"SVP, International",male,21790833.0
-75122.3418,0.0,901491,papa johns international inc,1.0,,,,20130702,kirtley olivia f,122520813015244,,female,21790833.0
 13958.0332,1043.86,901491,papa johns international inc,,1.0,,,20130702,ohern timothy c,122520813015245,"SVP, Chief Development Officer",male,21790833.0
-8675.0,0.0,901491,papa johns international inc,,1.0,,,20130724,ritchie steve m,122520813016530,"SVP, North/South American Ops",male,21790833.0
+75122.3418,,901491,papa johns international inc,1.0,,,,20130702,kirtley olivia f,122520813015244,,female,21790833.0
+8675.0,,901491,papa johns international inc,,1.0,,,20130724,ritchie steve m,122520813016530,"SVP, North/South American Ops",male,21790833.0
 13962.5477,1043.86,901491,papa johns international inc,,1.0,,,20130802,ohern timothy c,122520813017132,"SVP, Chief Development Officer",male,21732784.0
-10413.0,0.0,901491,papa johns international inc,,1.0,,,20130812,ritchie steve m,122520813017651,"SVP, Global Ops",male,21732784.0
-30435.8418,0.0,901491,papa johns international inc,,1.0,,,20130812,thompson anthony n,122520813017652,President and COO,male,21732784.0
-10413.0,0.0,901491,papa johns international inc,,1.0,,,20130820,ritchie steve m,122520813018218,"SVP, Global Ops",male,21732784.0
+10413.0,,901491,papa johns international inc,,1.0,,,20130812,ritchie steve m,122520813017651,"SVP, Global Ops",male,21732784.0
+30435.8418,,901491,papa johns international inc,,1.0,,,20130812,thompson anthony n,122520813017652,President and COO,male,21732784.0
+10413.0,,901491,papa johns international inc,,1.0,,,20130820,ritchie steve m,122520813018218,"SVP, Global Ops",male,21732784.0
 11089.5477,1043.86,901491,papa johns international inc,,1.0,,,20130823,ohern timothy c,122520813018502,"SVP, Chief Development Officer",male,21732784.0
 11097.1943,1043.86,901491,papa johns international inc,,1.0,,,20130903,ohern timothy c,122520813018924,"SVP, Chief Development Officer",male,21732784.0
-34414.8418,0.0,901491,papa johns international inc,,1.0,,,20130906,thompson anthony n,122520813019232,President and COO,male,21732784.0
-75227.4079,0.0,901491,papa johns international inc,1.0,,,,20130923,kirtley olivia f,122520813020393,,female,21732784.0
+34414.8418,,901491,papa johns international inc,,1.0,,,20130906,thompson anthony n,122520813019232,President and COO,male,21732784.0
+19583.9512,,901491,papa johns international inc,,1.0,,,20130923,tucker lance f.,122520813020396,"SVP, CFO, CAO and Treasurer",male,21732784.0
 11099.0856,1043.86,901491,papa johns international inc,,1.0,,,20130923,ohern timothy c,122520813020394,"SVP, Chief Development Officer",male,21732784.0
-34424.9501,0.0,901491,papa johns international inc,,1.0,,,20130923,thompson anthony n,122520813020395,President and COO,male,21732784.0
-19583.9512,0.0,901491,papa johns international inc,,1.0,,,20130923,tucker lance f.,122520813020396,"SVP, CFO, CAO and Treasurer",male,21732784.0
+75227.4079,,901491,papa johns international inc,1.0,,,,20130923,kirtley olivia f,122520813020393,,female,21732784.0
+34424.9501,,901491,papa johns international inc,,1.0,,,20130923,thompson anthony n,122520813020395,President and COO,male,21732784.0
+75477.873,,901491,papa johns international inc,1.0,,,,20131002,kirtley olivia f,122520813020967,,female,21732784.0
 11103.4355,1043.86,901491,papa johns international inc,,1.0,,,20131002,ohern timothy c,122520813020968,"SVP, Chief Development Officer",male,21732784.0
-75477.873,0.0,901491,papa johns international inc,1.0,,,,20131002,kirtley olivia f,122520813020967,,female,21732784.0
 11114.3998,1043.86,901491,papa johns international inc,,1.0,,,20131203,ohern timothy c,122520813024529,"SVP, Chief Development Officer",male,21544498.0
-205.9002,0.0,901491,papa johns international inc,,1.0,,,20131203,kraut robert c.,122520813024530,"SVP, Chief Marketing Officer",male,21544498.0
-34433.3975,0.0,901491,papa johns international inc,,1.0,,,20131205,thompson anthony n,122520813024789,President and COO,male,21544498.0
+205.9002,,901491,papa johns international inc,,1.0,,,20131203,kraut robert c.,122520813024530,"SVP, Chief Marketing Officer",male,21544498.0
+34433.3975,,901491,papa johns international inc,,1.0,,,20131205,thompson anthony n,122520813024789,President and COO,male,21544498.0
 3842390.0,1268052.0,901491,papa johns international inc,1.0,1.0,1.0,,20131223,schnatter john h,122520813025941,Chief Executive Officer,male,21544498.0
 7788986.0,2536104.0,901491,papa johns international inc,1.0,1.0,1.0,,20131231,schnatter john h,122520813026152,Chief Executive Officer,male,41700000.0
 22235.4333,2087.72,901491,papa johns international inc,,1.0,,,20140102,ohern timothy c,122520814000110,"SVP, Chief Development Officer",male,41700000.0
-704.6156,0.0,901491,papa johns international inc,,1.0,,,20140102,kraut robert c.,122520814000111,"SVP, Chief Marketing Officer",male,41700000.0
-151628.9489,0.0,901491,papa johns international inc,1.0,,,,20140102,kirtley olivia f,122520814000112,,female,41700000.0
-714.2611,0.0,901491,papa johns international inc,,1.0,,,20140203,kraut robert c.,122520814003071,"SVP, Chief Marketing Officer",male,41700000.0
+704.6156,,901491,papa johns international inc,,1.0,,,20140102,kraut robert c.,122520814000111,"SVP, Chief Marketing Officer",male,41700000.0
+151628.9489,,901491,papa johns international inc,1.0,,,,20140102,kirtley olivia f,122520814000112,,female,41700000.0
+714.2611,,901491,papa johns international inc,,1.0,,,20140203,kraut robert c.,122520814003071,"SVP, Chief Marketing Officer",male,41700000.0
 22247.6614,2087.72,901491,papa johns international inc,,1.0,,,20140203,ohern timothy c,122520814003072,"SVP, Chief Development Officer",male,41700000.0
 7782321.0,2536104.0,901491,papa johns international inc,1.0,1.0,1.0,,20140225,schnatter john h,122520814005977,Chief Executive Officer,male,41700000.0
-34902.2718,0.0,901491,papa johns international inc,,1.0,,,20140225,tucker lance f.,122520814005975,"SVP, CFO, CAO and Treasurer",male,41700000.0
-64167.0994,0.0,901491,papa johns international inc,,1.0,,,20140225,thompson anthony n,122520814005974,President and COO,male,41700000.0
-18110.0,0.0,901491,papa johns international inc,,1.0,,,20140225,ritchie steve m,122520814005976,"SVP, Global Ops",male,41700000.0
-715.4425,0.0,901491,papa johns international inc,,1.0,,,20140225,kraut robert c.,122520814005972,"SVP, Chief Marketing Officer",male,41700000.0
+18110.0,,901491,papa johns international inc,,1.0,,,20140225,ritchie steve m,122520814005976,"SVP, Global Ops",male,41700000.0
+151994.351,,901491,papa johns international inc,1.0,,,,20140225,kirtley olivia f,122520814005971,,female,41700000.0
+64167.0994,,901491,papa johns international inc,,1.0,,,20140225,thompson anthony n,122520814005974,President and COO,male,41700000.0
 1743.0,229.72,901491,papa johns international inc,,1.0,,,20140225,ohern timothy c,122520814005973,"SVP, Chief Development Officer",male,41700000.0
-151994.351,0.0,901491,papa johns international inc,1.0,,,,20140225,kirtley olivia f,122520814005971,,female,41700000.0
-66734.0994,0.0,901491,papa johns international inc,,1.0,,,20140303,thompson anthony n,122520814007086,President and COO,male,41700000.0
+715.4425,,901491,papa johns international inc,,1.0,,,20140225,kraut robert c.,122520814005972,"SVP, Chief Marketing Officer",male,41700000.0
+34902.2718,,901491,papa johns international inc,,1.0,,,20140225,tucker lance f.,122520814005975,"SVP, CFO, CAO and Treasurer",male,41700000.0
+37375.2718,,901491,papa johns international inc,,1.0,,,20140303,tucker lance f.,122520814007087,"SVP, CFO, CAO and Treasurer",male,41700000.0
+66734.0994,,901491,papa johns international inc,,1.0,,,20140303,thompson anthony n,122520814007086,President and COO,male,41700000.0
+20007.0,,901491,papa johns international inc,,1.0,,,20140303,ritchie steve m,122520814007084,"SVP, Global Ops",male,41700000.0
 7790489.0,2536104.0,901491,papa johns international inc,1.0,1.0,1.0,,20140303,schnatter john h,122520814007085,Chief Executive Officer,male,41700000.0
-20007.0,0.0,901491,papa johns international inc,,1.0,,,20140303,ritchie steve m,122520814007084,"SVP, Global Ops",male,41700000.0
 1841.0,229.72,901491,papa johns international inc,,1.0,,,20140303,ohern timothy c,122520814007083,"SVP, Chief Development Officer",male,41700000.0
-3276.2783,0.0,901491,papa johns international inc,,1.0,,,20140303,kraut robert c.,122520814007082,"SVP, Chief Marketing Officer",male,41700000.0
-37375.2718,0.0,901491,papa johns international inc,,1.0,,,20140303,tucker lance f.,122520814007087,"SVP, CFO, CAO and Treasurer",male,41700000.0
-12532.0,0.0,901491,papa johns international inc,1.0,,,,20140303,shapiro mark s,122520814007080,,male,41700000.0
-153230.351,0.0,901491,papa johns international inc,1.0,,,,20140303,kirtley olivia f,122520814007079,,female,41700000.0
+153230.351,,901491,papa johns international inc,1.0,,,,20140303,kirtley olivia f,122520814007079,,female,41700000.0
+9178.0,,901491,papa johns international inc,1.0,,,,20140303,taylor wayne kent,122520814007081,,male,41700000.0
+3276.2783,,901491,papa johns international inc,,1.0,,,20140303,kraut robert c.,122520814007082,"SVP, Chief Marketing Officer",male,41700000.0
+35024.0,,901491,papa johns international inc,1.0,,,,20140303,cole norborne p,122520814007076,,male,41700000.0
+3585.0,,901491,papa johns international inc,1.0,,,,20140303,coleman christopher l.,122520814007077,,male,41700000.0
 19274.0,11766.0,901491,papa johns international inc,1.0,,,,20140303,guarascio philip,122520814007078,,male,41700000.0
-3585.0,0.0,901491,papa johns international inc,1.0,,,,20140303,coleman christopher l.,122520814007077,,male,41700000.0
-35024.0,0.0,901491,papa johns international inc,1.0,,,,20140303,cole norborne p,122520814007076,,male,41700000.0
-9178.0,0.0,901491,papa johns international inc,1.0,,,,20140303,taylor wayne kent,122520814007081,,male,41700000.0
-66734.0994,0.0,901491,papa johns international inc,,1.0,,,20140306,thompson anthony n,122520814007590,President and COO,male,41700000.0
-154795.8523,0.0,901491,papa johns international inc,1.0,,,,20140402,kirtley olivia f,122520814009467,,female,41700000.0
+12532.0,,901491,papa johns international inc,1.0,,,,20140303,shapiro mark s,122520814007080,,male,41700000.0
+66734.0994,,901491,papa johns international inc,,1.0,,,20140306,thompson anthony n,122520814007590,President and COO,male,41700000.0
 20914.8131,2070.72,901491,papa johns international inc,,1.0,,,20140402,ohern timothy c,122520814009468,"SVP, Chief Development Officer",male,41700000.0
-31194.0,0.0,901491,papa johns international inc,1.0,1.0,1.0,,20140430,schnatter john h,122520814011386,Chief Executive Officer,male,41264884.0
-162762.8523,0.0,901491,papa johns international inc,1.0,,,,20140430,kirtley olivia f,122520814011385,,female,41264884.0
+154795.8523,,901491,papa johns international inc,1.0,,,,20140402,kirtley olivia f,122520814009467,,female,41700000.0
+162762.8523,,901491,papa johns international inc,1.0,,,,20140430,kirtley olivia f,122520814011385,,female,41264884.0
+31194.0,,901491,papa johns international inc,1.0,1.0,1.0,,20140430,schnatter john h,122520814011386,Chief Executive Officer,male,41264884.0
 20926.4481,2070.72,901491,papa johns international inc,,1.0,,,20140501,ohern timothy c,122520814011540,"SVP, Chief Development Officer",male,41264884.0
 10386275.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20140512,schnatter john h,122520814012630,Chief Executive Officer,male,41264884.0
-145.0,0.0,901491,papa johns international inc,,1.0,,,20140512,ritchie steve m,122520814012631,"SVP, Global Ops",male,41264884.0
-162948.9632,0.0,901491,papa johns international inc,1.0,,,,20140528,kirtley olivia f,122520814013712,,female,41264884.0
-3278.594,0.0,901491,papa johns international inc,,1.0,,,20140528,kraut robert c.,122520814013713,"SVP, Chief Marketing Officer",male,41264884.0
+145.0,,901491,papa johns international inc,,1.0,,,20140512,ritchie steve m,122520814012631,"SVP, Global Ops",male,41264884.0
+37385.0728,,901491,papa johns international inc,,1.0,,,20140528,tucker lance f.,122520814013715,"SVP, CFO, CAO and Treasurer",male,41264884.0
+162948.9632,,901491,papa johns international inc,1.0,,,,20140528,kirtley olivia f,122520814013712,,female,41264884.0
+3278.594,,901491,papa johns international inc,,1.0,,,20140528,kraut robert c.,122520814013713,"SVP, Chief Marketing Officer",male,41264884.0
 20930.0217,2070.72,901491,papa johns international inc,,1.0,,,20140528,ohern timothy c,122520814013714,"SVP, Chief Development Officer",male,41264884.0
-37385.0728,0.0,901491,papa johns international inc,,1.0,,,20140528,tucker lance f.,122520814013715,"SVP, CFO, CAO and Treasurer",male,41264884.0
 20948.0584,2070.72,901491,papa johns international inc,,1.0,,,20140603,ohern timothy c,122520814014241,"SVP, Chief Development Officer",male,41264884.0
 20961.969,2070.72,901491,papa johns international inc,,1.0,,,20140702,ohern timothy c,122520814016204,"SVP, Chief Development Officer",male,41264884.0
 20976.0712,2070.72,901491,papa johns international inc,,1.0,,,20140801,ohern timothy c,122520814017709,"SVP, Chief Development Officer",male,40926449.0
 24028.0,145.0,901491,papa johns international inc,,1.0,,,20140811,ritchie steve m,122520814018247,Chief Operating Officer,male,40926449.0
 2012.0,174.0,901491,papa johns international inc,1.0,,,,20140811,koellner laurette t,122520814018248,,female,40926449.0
 21280.0712,2070.72,901491,papa johns international inc,,1.0,,,20140811,ohern timothy c,122520814018249,"SVP, Chief Development Officer",male,40926449.0
-5709.594,0.0,901491,papa johns international inc,,1.0,,,20140811,kraut robert c.,122520814018250,"SVP, Chief Marketing Officer",male,40926449.0
-163175.3081,0.0,901491,papa johns international inc,1.0,,,,20140825,kirtley olivia f,122520814019076,,female,40926449.0
-5712.4104,0.0,901491,papa johns international inc,,1.0,,,20140825,kraut robert c.,122520814019077,"SVP, Chief Marketing Officer",male,40926449.0
+5709.594,,901491,papa johns international inc,,1.0,,,20140811,kraut robert c.,122520814018250,"SVP, Chief Marketing Officer",male,40926449.0
+37396.9927,,901491,papa johns international inc,,1.0,,,20140825,tucker lance f.,122520814019079,"SVP, CFO, CAO and Treasurer",male,40926449.0
+163175.3081,,901491,papa johns international inc,1.0,,,,20140825,kirtley olivia f,122520814019076,,female,40926449.0
+5712.4104,,901491,papa johns international inc,,1.0,,,20140825,kraut robert c.,122520814019077,"SVP, Chief Marketing Officer",male,40926449.0
 21284.5814,2070.72,901491,papa johns international inc,,1.0,,,20140825,ohern timothy c,122520814019078,"SVP, Chief Development Officer",male,40926449.0
-37396.9927,0.0,901491,papa johns international inc,,1.0,,,20140825,tucker lance f.,122520814019079,"SVP, CFO, CAO and Treasurer",male,40926449.0
 21308.395,2070.72,901491,papa johns international inc,,1.0,,,20140902,ohern timothy c,122520814019328,"SVP, Chief Development Officer",male,40926449.0
 10373675.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20140923,schnatter john h,122520814020375,CEO & President,male,40926449.0
 21323.14,2070.72,901491,papa johns international inc,,1.0,,,20141001,ohern timothy c,122520814020724,"SVP, Chief Development Officer",male,40926449.0
 21338.8124,2070.72,901491,papa johns international inc,,1.0,,,20141104,ohern timothy c,122520814022539,"SVP, Chief Development Officer",male,40157097.0
-37396.9927,0.0,901491,papa johns international inc,,1.0,,,20141107,tucker lance f.,122520814022931,"SVP, CFO, CAO and Treasurer",male,40157097.0
+37396.9927,,901491,papa johns international inc,,1.0,,,20141107,tucker lance f.,122520814022931,"SVP, CFO, CAO and Treasurer",male,40157097.0
 24028.0,145.0,901491,papa johns international inc,,1.0,,,20141110,ritchie steve m,122520814022997,Chief Operating Officer,male,40157097.0
+5681.4104,,901491,papa johns international inc,,1.0,,,20141112,kraut robert c.,122520814023040,"SVP, Chief Marketing Officer",male,40157097.0
 21338.8124,2070.72,901491,papa johns international inc,,1.0,,,20141112,ohern timothy c,122520814023213,"SVP, Chief Development Officer",male,40157097.0
-5681.4104,0.0,901491,papa johns international inc,,1.0,,,20141112,kraut robert c.,122520814023040,"SVP, Chief Marketing Officer",male,40157097.0
-163351.5577,0.0,901491,papa johns international inc,1.0,,,,20141125,kirtley olivia f,122520814023921,,female,40157097.0
-5683.6034,0.0,901491,papa johns international inc,,1.0,,,20141125,kraut robert c.,122520814023922,"SVP, Chief Marketing Officer",male,40157097.0
+37406.2744,,901491,papa johns international inc,,1.0,,,20141125,tucker lance f.,122520814023924,"SVP, CFO, CAO and Treasurer",male,40157097.0
 21342.4742,2070.72,901491,papa johns international inc,,1.0,,,20141125,ohern timothy c,122520814023923,"SVP, Chief Development Officer",male,40157097.0
-37406.2744,0.0,901491,papa johns international inc,,1.0,,,20141125,tucker lance f.,122520814023924,"SVP, CFO, CAO and Treasurer",male,40157097.0
+163351.5577,,901491,papa johns international inc,1.0,,,,20141125,kirtley olivia f,122520814023921,,female,40157097.0
+5683.6034,,901491,papa johns international inc,,1.0,,,20141125,kraut robert c.,122520814023922,"SVP, Chief Marketing Officer",male,40157097.0
 21358.5412,2070.72,901491,papa johns international inc,,1.0,,,20141201,ohern timothy c,122520814024121,"SVP, Chief Development Officer",male,40157097.0
-30838.2744,0.0,901491,papa johns international inc,,1.0,,,20141201,tucker lance f.,122520814024146,"SVP, CFO, CAO and Treasurer",male,40157097.0
+30838.2744,,901491,papa johns international inc,,1.0,,,20141201,tucker lance f.,122520814024146,"SVP, CFO, CAO and Treasurer",male,40157097.0
 10357675.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20141211,schnatter john h,122520814024763,CEO & President,male,40157097.0
 10387029.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20141229,schnatter john h,122520814025865,CEO & President,male,39800000.0
 21369.0946,2070.72,901491,papa johns international inc,,1.0,,,20150105,ohern timothy c,122520815000185,"SVP, Chief Development Officer",male,39800000.0
-164832.5724,0.0,901491,papa johns international inc,1.0,,,,20150203,kirtley olivia f,122520815002687,,female,39800000.0
+164832.5724,,901491,papa johns international inc,1.0,,,,20150203,kirtley olivia f,122520815002687,,female,39800000.0
 2287.7208,174.0,901491,papa johns international inc,1.0,,,,20150203,koellner laurette t,122520815002688,,female,39800000.0
-58939.546,0.0,901491,papa johns international inc,,1.0,,,20150223,tucker lance f.,122520815005231,"SVP, CFO, CAO and Treasurer",male,39800000.0
 49466.1708,2070.72,901491,papa johns international inc,,1.0,,,20150223,ohern timothy c,122520815005230,"SVP, Chief Development Officer",male,39800000.0
-5685.3214,0.0,901491,papa johns international inc,,1.0,,,20150223,kraut robert c.,122520815005229,"SVP, Chief Marketing Officer",male,39800000.0
-10415123.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150223,schnatter john h,122520815005225,CEO & President,male,39800000.0
-164973.8504,0.0,901491,papa johns international inc,1.0,,,,20150223,kirtley olivia f,122520815005227,,female,39800000.0
+5685.3214,,901491,papa johns international inc,,1.0,,,20150223,kraut robert c.,122520815005229,"SVP, Chief Marketing Officer",male,39800000.0
+58939.546,,901491,papa johns international inc,,1.0,,,20150223,tucker lance f.,122520815005231,"SVP, CFO, CAO and Treasurer",male,39800000.0
+164973.8504,,901491,papa johns international inc,1.0,,,,20150223,kirtley olivia f,122520815005227,,female,39800000.0
 35266.0,145.0,901491,papa johns international inc,,1.0,,,20150223,ritchie steve m,122520815005226,Chief Operating Officer,male,39800000.0
 2288.3162,174.0,901491,papa johns international inc,1.0,,,,20150223,koellner laurette t,122520815005228,,female,39800000.0
-1790.0,229.72,901491,papa johns international inc,,1.0,,,20150224,ohern timothy c,122520815005483,"SVP, Chief Development Officer",male,39800000.0
+10415123.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150223,schnatter john h,122520815005225,CEO & President,male,39800000.0
+45937.546,,901491,papa johns international inc,,1.0,,,20150224,tucker lance f.,122520815005486,"SVP, CFO, CAO and Treasurer",male,39800000.0
 10400662.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150224,schnatter john h,122520815005484,CEO & President,male,39800000.0
 30754.0,145.0,901491,papa johns international inc,,1.0,,,20150224,ritchie steve m,122520815005485,Chief Operating Officer,male,39800000.0
-45937.546,0.0,901491,papa johns international inc,,1.0,,,20150224,tucker lance f.,122520815005486,"SVP, CFO, CAO and Treasurer",male,39800000.0
-33458.546,0.0,901491,papa johns international inc,,1.0,,,20150302,tucker lance f.,122520815006356,"SVP, CFO, CAO and Treasurer",male,39800000.0
-10406069.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150302,schnatter john h,122520815006355,CEO & President,male,39800000.0
-251.0,0.0,901491,papa johns international inc,,1.0,,,20150302,ritchie steve m,122520815006354,Chief Operating Officer,male,39800000.0
+1790.0,229.72,901491,papa johns international inc,,1.0,,,20150224,ohern timothy c,122520815005483,"SVP, Chief Development Officer",male,39800000.0
+33458.546,,901491,papa johns international inc,,1.0,,,20150302,tucker lance f.,122520815006356,"SVP, CFO, CAO and Treasurer",male,39800000.0
+251.0,,901491,papa johns international inc,,1.0,,,20150302,ritchie steve m,122520815006354,Chief Operating Officer,male,39800000.0
 1896.0,229.72,901491,papa johns international inc,,1.0,,,20150302,ohern timothy c,122520815006353,"SVP, Chief Development Officer",male,39800000.0
-7954.3214,0.0,901491,papa johns international inc,,1.0,,,20150302,kraut robert c.,122520815006352,"SVP, Chief Marketing Officer",male,39800000.0
-36354.0,0.0,901491,papa johns international inc,1.0,,,,20150302,cole norborne p,122520815006351,,male,39800000.0
+7954.3214,,901491,papa johns international inc,,1.0,,,20150302,kraut robert c.,122520815006352,"SVP, Chief Marketing Officer",male,39800000.0
+4485.0,,901491,papa johns international inc,1.0,,,,20150302,coleman christopher l.,122520815006345,,male,39800000.0
 19572.0,11766.0,901491,papa johns international inc,1.0,,,,20150302,guarascio philip,122520815006350,,male,39800000.0
 3188.3162,174.0,901491,papa johns international inc,1.0,,,,20150302,koellner laurette t,122520815006349,,female,39800000.0
-10078.0,0.0,901491,papa johns international inc,1.0,,,,20150302,taylor wayne kent,122520815006348,,male,39800000.0
-165873.8504,0.0,901491,papa johns international inc,1.0,,,,20150302,kirtley olivia f,122520815006347,,female,39800000.0
-13432.0,0.0,901491,papa johns international inc,1.0,,,,20150302,shapiro mark s,122520815006346,,male,39800000.0
-4485.0,0.0,901491,papa johns international inc,1.0,,,,20150302,coleman christopher l.,122520815006345,,male,39800000.0
-4070.0,0.0,901491,papa johns international inc,1.0,,,,20150303,coleman christopher l.,122520815006463,,male,39800000.0
-7695.3214,0.0,901491,papa johns international inc,,1.0,,,20150303,kraut robert c.,122520815006464,"SVP, Chief Marketing Officer",male,39800000.0
+10078.0,,901491,papa johns international inc,1.0,,,,20150302,taylor wayne kent,122520815006348,,male,39800000.0
+165873.8504,,901491,papa johns international inc,1.0,,,,20150302,kirtley olivia f,122520815006347,,female,39800000.0
+13432.0,,901491,papa johns international inc,1.0,,,,20150302,shapiro mark s,122520815006346,,male,39800000.0
+36354.0,,901491,papa johns international inc,1.0,,,,20150302,cole norborne p,122520815006351,,male,39800000.0
+10406069.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150302,schnatter john h,122520815006355,CEO & President,male,39800000.0
+4070.0,,901491,papa johns international inc,1.0,,,,20150303,coleman christopher l.,122520815006463,,male,39800000.0
+7695.3214,,901491,papa johns international inc,,1.0,,,20150303,kraut robert c.,122520815006464,"SVP, Chief Marketing Officer",male,39800000.0
 34225.0,251.0,901491,papa johns international inc,,1.0,,,20150303,ritchie steve m,122520815006465,Chief Operating Officer,male,39800000.0
 10402688.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150303,schnatter john h,122520815006466,CEO & President,male,39800000.0
-31665.546,0.0,901491,papa johns international inc,,1.0,,,20150303,tucker lance f.,122520815006467,"SVP, CFO, CAO and Treasurer",male,39800000.0
+31665.546,,901491,papa johns international inc,,1.0,,,20150303,tucker lance f.,122520815006467,"SVP, CFO, CAO and Treasurer",male,39800000.0
 1841.0,229.72,901491,papa johns international inc,,1.0,,,20150303,ohern timothy c,122520815006468,"SVP, Chief Development Officer",male,39800000.0
-36354.0,0.0,901491,papa johns international inc,1.0,,,,20150309,cole norborne p,122520815007282,,male,39800000.0
+36354.0,,901491,papa johns international inc,1.0,,,,20150309,cole norborne p,122520815007282,,male,39800000.0
 10358865.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150424,schnatter john h,122520815010371,CEO & President,male,39800000.0
 10296162.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150427,schnatter john h,122520815010419,CEO & President,male,39800000.0
 10250621.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150428,schnatter john h,122520815010511,CEO & President,male,39783131.0
-174276.8504,0.0,901491,papa johns international inc,1.0,,,,20150428,kirtley olivia f,122520815010512,,female,39783131.0
+174276.8504,,901491,papa johns international inc,1.0,,,,20150428,kirtley olivia f,122520815010512,,female,39783131.0
 2069.0,229.72,901491,papa johns international inc,,1.0,,,20150428,ohern timothy c,122520815010513,"SVP, Chief Development Officer",male,39783131.0
 10215589.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150429,schnatter john h,122520815010553,CEO & President,male,39783131.0
-10026630.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150507,schnatter john h,122520815011632,CEO & President,male,39783131.0
 18361.0,251.0,901491,papa johns international inc,,1.0,,,20150507,ritchie steve m,122520815011633,Chief Operating Officer,male,39783131.0
+10026630.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150507,schnatter john h,122520815011632,CEO & President,male,39783131.0
 9973096.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150508,schnatter john h,122520815011763,CEO & President,male,39783131.0
 9971888.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20150511,schnatter john h,122520815011860,CEO & President,male,39783131.0
-231.0,0.0,901491,papa johns international inc,,1.0,,,20150511,ritchie steve m,122520815011861,Chief Operating Officer,male,39783131.0
+231.0,,901491,papa johns international inc,,1.0,,,20150511,ritchie steve m,122520815011861,Chief Operating Officer,male,39783131.0
 2069.0,229.72,901491,papa johns international inc,,1.0,,,20150520,ohern timothy c,122520815012521,"SVP, Chief Development Officer",male,39783131.0
-29472.4692,0.0,901491,papa johns international inc,,1.0,,,20150526,tucker lance f.,122520815012774,"SVP, CFO, CAO and Treasurer",male,39783131.0
 14890.4621,2298.72,901491,papa johns international inc,,1.0,,,20150526,ohern timothy c,122520815012773,"SVP, Chief Development Officer",male,39783131.0
-7696.9572,0.0,901491,papa johns international inc,,1.0,,,20150526,kraut robert c.,122520815012772,"SVP, Chief Marketing Officer",male,39783131.0
+29472.4692,,901491,papa johns international inc,,1.0,,,20150526,tucker lance f.,122520815012774,"SVP, CFO, CAO and Treasurer",male,39783131.0
 3266.8831,174.0,901491,papa johns international inc,1.0,,,,20150526,koellner laurette t,122520815012771,,female,39783131.0
-174411.3586,0.0,901491,papa johns international inc,1.0,,,,20150526,kirtley olivia f,122520815012770,,female,39783131.0
+174411.3586,,901491,papa johns international inc,1.0,,,,20150526,kirtley olivia f,122520815012770,,female,39783131.0
+7696.9572,,901491,papa johns international inc,,1.0,,,20150526,kraut robert c.,122520815012772,"SVP, Chief Marketing Officer",male,39783131.0
 15611.0,231.0,901491,papa johns international inc,,1.0,,,20150602,ritchie steve m,122520815013176,Chief Operating Officer,male,39783131.0
-7696.9572,0.0,901491,papa johns international inc,,1.0,,,20150605,kraut robert c.,122520815013487,"SVP, Chief Marketing Officer",male,39783131.0
+7696.9572,,901491,papa johns international inc,,1.0,,,20150605,kraut robert c.,122520815013487,"SVP, Chief Marketing Officer",male,39783131.0
 17731.0,231.0,901491,papa johns international inc,,1.0,,,20150810,ritchie steve m,122520815016665,Chief Operating Officer,male,39457802.0
-29921.4692,0.0,901491,papa johns international inc,,1.0,,,20150810,tucker lance f.,122520815016666,"SVP, CFO, CAO and Treasurer",male,39457802.0
+29921.4692,,901491,papa johns international inc,,1.0,,,20150810,tucker lance f.,122520815016666,"SVP, CFO, CAO and Treasurer",male,39457802.0
+8031.9572,,901491,papa johns international inc,,1.0,,,20150810,kraut robert c.,122520815016668,"SVP, Chief Marketing Officer",male,39457802.0
 15046.4621,2298.72,901491,papa johns international inc,,1.0,,,20150810,ohern timothy c,122520815016667,"SVP, Chief Development Officer",male,39457802.0
-8031.9572,0.0,901491,papa johns international inc,,1.0,,,20150810,kraut robert c.,122520815016668,"SVP, Chief Marketing Officer",male,39457802.0
-174577.9107,0.0,901491,papa johns international inc,1.0,,,,20150825,kirtley olivia f,122520815017549,,female,39457802.0
-3267.585,174.0,901491,papa johns international inc,1.0,,,,20150825,koellner laurette t,122520815017550,,female,39457802.0
-8033.9827,0.0,901491,papa johns international inc,,1.0,,,20150825,kraut robert c.,122520815017551,"SVP, Chief Marketing Officer",male,39457802.0
+29921.4692,,901491,papa johns international inc,,1.0,,,20150810,tucker lance f.,122520815016666,"SVP, CFO, CAO and Treasurer",male,39457802.0
+17731.0,231.0,901491,papa johns international inc,,1.0,,,20150810,ritchie steve m,122520815016665,Chief Operating Officer,male,39457802.0
+15046.4621,2298.72,901491,papa johns international inc,,1.0,,,20150810,ohern timothy c,122520815016667,"SVP, Chief Development Officer",male,39457802.0
+8031.9572,,901491,papa johns international inc,,1.0,,,20150810,kraut robert c.,122520815016668,"SVP, Chief Marketing Officer",male,39457802.0
+29930.0417,,901491,papa johns international inc,,1.0,,,20150825,tucker lance f.,122520815017553,"SVP, CFO, CAO and Treasurer",male,39457802.0
 15050.0378,2298.72,901491,papa johns international inc,,1.0,,,20150825,ohern timothy c,122520815017552,"SVP, Chief Development Officer",male,39457802.0
-29930.0417,0.0,901491,papa johns international inc,,1.0,,,20150825,tucker lance f.,122520815017553,"SVP, CFO, CAO and Treasurer",male,39457802.0
+8033.9827,,901491,papa johns international inc,,1.0,,,20150825,kraut robert c.,122520815017551,"SVP, Chief Marketing Officer",male,39457802.0
+3267.585,174.0,901491,papa johns international inc,1.0,,,,20150825,koellner laurette t,122520815017550,,female,39457802.0
+174577.9107,,901491,papa johns international inc,1.0,,,,20150825,kirtley olivia f,122520815017549,,female,39457802.0
+174577.9107,,901491,papa johns international inc,1.0,,,,20150825,kirtley olivia f,122520815017549,,female,39457802.0
+3267.585,174.0,901491,papa johns international inc,1.0,,,,20150825,koellner laurette t,122520815017550,,female,39457802.0
+8033.9827,,901491,papa johns international inc,,1.0,,,20150825,kraut robert c.,122520815017551,"SVP, Chief Marketing Officer",male,39457802.0
+29930.0417,,901491,papa johns international inc,,1.0,,,20150825,tucker lance f.,122520815017553,"SVP, CFO, CAO and Treasurer",male,39457802.0
+15050.0378,2298.72,901491,papa johns international inc,,1.0,,,20150825,ohern timothy c,122520815017552,"SVP, Chief Development Officer",male,39457802.0
+314.0,,901491,papa johns international inc,1.0,,,,20151109,medina sonya e,122520815020553,,female,39014067.0
+18746.0,,901491,papa johns international inc,1.0,,,,20151109,taylor wayne kent,122520815020593,,male,39014067.0
+174781.052,,901491,papa johns international inc,1.0,,,,20151124,kirtley olivia f,122520815021341,,female,39014067.0
+3268.4411,174.0,901491,papa johns international inc,1.0,,,,20151124,koellner laurette t,122520815021342,,female,39014067.0
+24604.399,2298.72,901491,papa johns international inc,,1.0,,,20151124,ohern timothy c,122520815021343,"SVP, Chief Development Officer",male,39014067.0
+29940.4974,,901491,papa johns international inc,,1.0,,,20151124,tucker lance f.,122520815021344,"SVP, CFO, CAO and Treasurer",male,39014067.0
+173781.052,,901491,papa johns international inc,1.0,,,,20160107,kirtley olivia f,122520816023876,,female,38400000.0
+24609.4929,2298.72,901491,papa johns international inc,,1.0,,,20160201,ohern timothy c,122520816025349,"SVP, Chief Development Officer",male,38400000.0
+4001.8862,174.0,901491,papa johns international inc,1.0,,,,20160201,koellner laurette t,122520816025348,,female,38400000.0
+175750.8754,,901491,papa johns international inc,1.0,,,,20160201,kirtley olivia f,122520816025347,,female,38400000.0
+175978.4897,,901491,papa johns international inc,1.0,,,,20160222,kirtley olivia f,122520816027266,,female,38400000.0
+24614.2551,2298.72,901491,papa johns international inc,,1.0,,,20160222,ohern timothy c,122520816027268,"SVP, Chief Development Officer",male,38400000.0
+4005.2714,174.0,901491,papa johns international inc,1.0,,,,20160222,koellner laurette t,122520816027267,,female,38400000.0
+29951.8736,,901491,papa johns international inc,,1.0,,,20160222,tucker lance f.,122520816027269,"SVP, CFO, CAO and Treasurer",male,38400000.0
+10014149.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160225,schnatter john h,122520816028218,CEO & President,male,38400000.0
+49204.0,,901491,papa johns international inc,1.0,,,,20160225,cole norborne p,122520816028215,,male,38400000.0
+184644.4897,,901491,papa johns international inc,1.0,,,,20160225,kirtley olivia f,122520816028216,,female,38400000.0
+22176.0,,901491,papa johns international inc,1.0,,,,20160225,shapiro mark s,122520816028217,,male,38400000.0
+5622.0,,901491,papa johns international inc,1.0,,,,20160229,coleman christopher l.,122520816028613,,male,38400000.0
+185703.4897,,901491,papa johns international inc,1.0,,,,20160229,kirtley olivia f,122520816028614,,female,38400000.0
+5064.2714,174.0,901491,papa johns international inc,1.0,,,,20160229,koellner laurette t,122520816028615,,female,38400000.0
+34314.8736,,901491,papa johns international inc,,1.0,,,20160229,tucker lance f.,122520816028622,"SVP, CFO, CAO and Treasurer",male,38400000.0
+2184.0,229.72,901491,papa johns international inc,,1.0,,,20160229,ohern timothy c,122520816028617,"SVP, Chief Development Officer",male,38400000.0
+346.0,,901491,papa johns international inc,,1.0,,,20160229,ritchie steve m,122520816028618,President and COO,male,38400000.0
+23235.0,,901491,papa johns international inc,1.0,,,,20160229,shapiro mark s,122520816028620,,male,38400000.0
+19805.0,,901491,papa johns international inc,1.0,,,,20160229,taylor wayne kent,122520816028621,,male,38400000.0
+49699.0,,901491,papa johns international inc,1.0,,,,20160229,cole norborne p,122520816028623,,male,38400000.0
+1373.0,,901491,papa johns international inc,1.0,,,,20160229,medina sonya e,122520816028616,,female,38400000.0
+10022620.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160229,schnatter john h,122520816028619,CEO,male,38400000.0
+39699.0,,901491,papa johns international inc,1.0,,,,20160303,cole norborne p,122520816029069,,male,38400000.0
+10006521.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160308,schnatter john h,122520816029391,CEO,male,38400000.0
+26899.194,2342.72,901491,papa johns international inc,,1.0,,,20160401,ohern timothy c,122520816030589,"SVP, Chief Development Officer",male,38400000.0
+26904.8302,2342.72,901491,papa johns international inc,,1.0,,,20160502,ohern timothy c,122520816032169,"SVP, Chief Development Officer",male,37242152.0
+185981.4897,,901491,papa johns international inc,1.0,,,,20160509,kirtley olivia f,122520816032857,,female,37242152.0
+311.0,,901491,papa johns international inc,,1.0,,,20160509,ritchie steve m,122520816032858,President and COO,male,37242152.0
+10005312.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160510,schnatter john h,122520816032950,CEO,male,37242152.0
+25528.0,,901491,papa johns international inc,1.0,,,,20160520,taylor wayne kent,122520816033725,,male,37242152.0
+186177.2992,,901491,papa johns international inc,1.0,,,,20160523,kirtley olivia f,122520816033790,,female,37242152.0
+32640.6602,,901491,papa johns international inc,,1.0,,,20160523,tucker lance f.,122520816033793,"SVP, CFO, CAO and Treasurer",male,37242152.0
+26908.9688,2342.72,901491,papa johns international inc,,1.0,,,20160523,ohern timothy c,122520816033792,"SVP, Chief Development Officer",male,37242152.0
+5067.1836,174.0,901491,papa johns international inc,1.0,,,,20160523,koellner laurette t,122520816033791,,female,37242152.0
+26913.6139,2342.72,901491,papa johns international inc,,1.0,,,20160602,ohern timothy c,122520816034436,"SVP, Chief Development Officer",male,37242152.0
+5193.5459,174.0,901491,papa johns international inc,1.0,,,,20160602,koellner laurette t,122520816034435,,female,37242152.0
+186419.4936,,901491,papa johns international inc,1.0,,,,20160602,kirtley olivia f,122520816034434,,female,37242152.0
+26917.3688,2342.72,901491,papa johns international inc,,1.0,,,20160701,ohern timothy c,122520816035817,"SVP, Chief Development Officer",male,37242152.0
+26921.6752,2342.72,901491,papa johns international inc,,1.0,,,20160801,ohern timothy c,122520816037230,"SVP, Chief Development Officer",male,36984132.0
+32640.6602,,901491,papa johns international inc,,1.0,,,20160805,tucker lance f.,122520816037557,"SVP, CFO, CAO and Treasurer",male,36984132.0
+26860.6752,2342.72,901491,papa johns international inc,,1.0,,,20160808,ohern timothy c,122520816037613,"SVP, Chief Development Officer",male,36984132.0
+32580.6602,,901491,papa johns international inc,,1.0,,,20160808,tucker lance f.,122520816037614,"SVP, CFO, CAO and Treasurer",male,36984132.0
+9980990.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160809,schnatter john h,122520816037634,CEO,male,36984132.0
+22937.0,311.0,901491,papa johns international inc,,1.0,,,20160809,ritchie steve m,122520816037635,President and COO,male,36984132.0
+22937.0,311.0,901491,papa johns international inc,,1.0,,,20160815,ritchie steve m,122520816037883,President and COO,male,36984132.0
+186602.9211,,901491,papa johns international inc,1.0,,,,20160823,kirtley olivia f,122520816038266,,female,36984132.0
+5196.6017,174.0,901491,papa johns international inc,1.0,,,,20160823,koellner laurette t,122520816038267,,female,36984132.0
+26864.5723,2342.72,901491,papa johns international inc,,1.0,,,20160823,ohern timothy c,122520816038268,"SVP, Chief Development Officer",male,36984132.0
+32589.7956,,901491,papa johns international inc,,1.0,,,20160823,tucker lance f.,122520816038269,"SVP, CFO, CAO and Treasurer",male,36984132.0
+9969507.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160824,schnatter john h,122520816038310,CEO,male,36984132.0
+9947246.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160825,schnatter john h,122520816038376,CEO,male,36984132.0
+9902532.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160829,schnatter john h,122520816038472,CEO,male,36984132.0
+9866929.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160831,schnatter john h,122520816038607,CEO,male,36984132.0
+26869.1851,2342.72,901491,papa johns international inc,,1.0,,,20160902,ohern timothy c,122520816038723,"SVP, Chief Development Officer",male,36984132.0
+9862193.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20160906,schnatter john h,122520816038816,CEO,male,36984132.0
+26873.2255,2342.72,901491,papa johns international inc,,1.0,,,20161004,ohern timothy c,122520816040084,"SVP, Chief Development Officer",male,36984132.0
+9788556.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161004,schnatter john h,122520816040085,CEO,male,36984132.0
+9702193.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161006,schnatter john h,122520816040251,CEO,male,36984132.0
+9649835.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161012,schnatter john h,122520816040437,CEO,male,36984132.0
+9623745.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161017,schnatter john h,122520816040505,CEO,male,36984132.0
+9542193.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161019,schnatter john h,122520816040600,CEO,male,36984132.0
+9455879.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161021,schnatter john h,122520816040681,CEO,male,36984132.0
+9368693.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161025,schnatter john h,122520816040738,CEO,male,36889475.0
+26876.6116,2342.72,901491,papa johns international inc,,1.0,,,20161101,ohern timothy c,122520816040934,"SVP, Chief Development Officer",male,36889475.0
+26263.7956,,901491,papa johns international inc,,1.0,,,20161108,tucker lance f.,122520816041306,"SVP, CFO, CAO and Treasurer",male,36889475.0
+22937.0,311.0,901491,papa johns international inc,,1.0,,,20161108,ritchie steve m,122520816041307,President and COO,male,36889475.0
+26876.6116,2342.72,901491,papa johns international inc,,1.0,,,20161114,ohern timothy c,122520816041562,"SVP, Chief Development Officer",male,36889475.0
+1838.0,229.72,901491,papa johns international inc,,1.0,,,20161118,ohern timothy c,122520816041996,"SVP, Chief Development Officer",male,36889475.0
+26271.8633,,901491,papa johns international inc,,1.0,,,20161122,tucker lance f.,122520816042075,"SVP, CFO, CAO and Treasurer",male,36889475.0
+26880.0816,2067.72,901491,papa johns international inc,,1.0,,,20161122,ohern timothy c,122520816042074,"SVP, Chief Development Officer",male,36889475.0
+186764.911,,901491,papa johns international inc,1.0,,,,20161122,kirtley olivia f,122520816042072,,female,36889475.0
+5199.3003,174.0,901491,papa johns international inc,1.0,,,,20161122,koellner laurette t,122520816042073,,female,36889475.0
+26884.1341,2067.72,901491,papa johns international inc,,1.0,,,20161202,ohern timothy c,122520816042576,"SVP, Chief Development Officer",male,36889475.0
+184464.911,,901491,papa johns international inc,1.0,,,,20161222,kirtley olivia f,122520816043658,,female,36889475.0
+9360993.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20161222,schnatter john h,122520816043662,CEO,male,36889475.0
+26887.8415,2067.72,901491,papa johns international inc,,1.0,,,20170104,ohern timothy c,122520817000228,"SVP, Chief Development Officer",male,36700000.0
+185837.9893,,901491,papa johns international inc,1.0,,,,20170202,kirtley olivia f,122520817002215,,female,36700000.0
+5750.8788,174.0,901491,papa johns international inc,1.0,,,,20170202,koellner laurette t,122520817002216,,female,36700000.0
+26279.8597,,901491,papa johns international inc,,1.0,,,20170221,tucker lance f.,122520817003854,"SVP, CFO, CAO and Treasurer",male,36755723.0
+186001.7407,,901491,papa johns international inc,1.0,,,,20170221,kirtley olivia f,122520817003851,,female,36755723.0
+5754.8362,174.0,901491,papa johns international inc,1.0,,,,20170221,koellner laurette t,122520817003852,,female,36755723.0
+26891.3225,2067.72,901491,papa johns international inc,,1.0,,,20170221,ohern timothy c,122520817003853,"SVP, Chief Development Officer",male,36755723.0
+1893.0,229.72,901491,papa johns international inc,,1.0,,,20170227,ohern timothy c,122520817004752,"SVP, Chief Development Officer",male,36755723.0
+395.0,,901491,papa johns international inc,,1.0,,,20170227,ritchie steve m,122520817004751,President and COO,male,36755723.0
+29159.8597,,901491,papa johns international inc,,1.0,,,20170227,tucker lance f.,122520817004750,"SVP, CFO, CAO and Treasurer",male,36755723.0
+26322.0,,901491,papa johns international inc,1.0,,,,20170227,taylor wayne kent,122520817004749,,male,36755723.0
+9365153.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20170227,schnatter john h,122520817004748,CEO,male,36755723.0
+24029.0,,901491,papa johns international inc,1.0,,,,20170227,shapiro mark s,122520817004747,,male,36755723.0
+2167.0,,901491,papa johns international inc,1.0,,,,20170227,medina sonya e,122520817004746,,female,36755723.0
+187112.7407,,901491,papa johns international inc,1.0,,,,20170227,kirtley olivia f,122520817004744,,female,36755723.0
+6548.8362,174.0,901491,papa johns international inc,1.0,,,,20170227,koellner laurette t,122520817004745,,female,36755723.0
+6416.0,,901491,papa johns international inc,1.0,,,,20170227,coleman christopher l.,122520817004743,,male,36755723.0
+30185.0,395.0,901491,papa johns international inc,,1.0,,,20170228,ritchie steve m,122520817004927,President and COO,male,36755723.0
+2842.0,229.72,901491,papa johns international inc,,1.0,,,20170228,ohern timothy c,122520817004928,"SVP, Chief Development Officer",male,36755723.0
+9364685.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20170228,schnatter john h,122520817004929,CEO,male,36755723.0
+29572.8597,,901491,papa johns international inc,,1.0,,,20170228,tucker lance f.,122520817004930,"SVP, CFO, CAO and Treasurer",male,36755723.0
+30015.9352,2103.72,901491,papa johns international inc,,1.0,,,20170302,ohern timothy c,122520817005218,"SVP, Chief Development Officer",male,36755723.0
+374.0,,901491,papa johns international inc,,1.0,,,20170509,ritchie steve m,122520817009423,President and COO,male,36766262.0
+25521.8597,,901491,papa johns international inc,,1.0,,,20170512,tucker lance f.,122520817009612,"SVP, CFO, CAO and Treasurer",male,36766262.0
+6553.1723,174.0,901491,papa johns international inc,1.0,,,,20170523,koellner laurette t,122520817010269,,female,36766262.0
+30019.7785,2103.72,901491,papa johns international inc,,1.0,,,20170523,ohern timothy c,122520817010270,"SVP, Chief Development Officer",male,36766262.0
+25530.6214,,901491,papa johns international inc,,1.0,,,20170523,tucker lance f.,122520817010271,"SVP, CFO, CAO and Treasurer",male,36766262.0
+187292.1638,,901491,papa johns international inc,1.0,,,,20170523,kirtley olivia f,122520817010268,,female,36766262.0
+30185.0,374.0,901491,papa johns international inc,,1.0,,,20170601,ritchie steve m,122520817010660,President and COO,male,36766262.0
+30019.7785,2103.72,901491,papa johns international inc,,1.0,,,20170606,ohern timothy c,122520817010971,"SVP, Chief Development Officer",male,36766262.0
+29387.0,374.0,901491,papa johns international inc,,1.0,,,20170808,ritchie steve m,122520817013375,President and COO,male,36416998.0
+25477.6214,,901491,papa johns international inc,,1.0,,,20170808,tucker lance f.,122520817013376,"SVP, CFO, CAO and Treasurer",male,36416998.0
+29933.7785,2103.72,901491,papa johns international inc,,1.0,,,20170808,ohern timothy c,122520817013374,"SVP, Chief Development Officer",male,36416998.0
+25487.5223,,901491,papa johns international inc,,1.0,,,20170822,tucker lance f.,122520817014252,"SVP, CFO, CAO and Treasurer",male,36416998.0
+29938.1214,2103.72,901491,papa johns international inc,,1.0,,,20170822,ohern timothy c,122520817014251,"SVP, Chief Development Officer",male,36416998.0
+187494.9144,,901491,papa johns international inc,1.0,,,,20170822,kirtley olivia f,122520817014249,,female,36416998.0
+6558.0722,174.0,901491,papa johns international inc,1.0,,,,20170822,koellner laurette t,122520817014250,,female,36416998.0
+29938.1214,2103.72,901491,papa johns international inc,,1.0,,,20170831,ohern timothy c,122520817014443,"SVP, Chief Development Officer",male,36416998.0
+35182.0,,901491,papa johns international inc,1.0,,,,20171109,taylor wayne kent,122520817017150,,male,35042057.0
+25501.0854,,901491,papa johns international inc,,1.0,,,20171120,tucker lance f.,122520817017524,"SVP, CFO and CAO",male,35042057.0
+29944.0707,2103.72,901491,papa johns international inc,,1.0,,,20171120,ohern timothy c,122520817017523,"SVP, Chief Development Officer",male,35042057.0
+6564.7845,174.0,901491,papa johns international inc,1.0,,,,20171120,koellner laurette t,122520817017522,,female,35042057.0
+187772.6605,,901491,papa johns international inc,1.0,,,,20171120,kirtley olivia f,122520817017521,,female,35042057.0
+9356965.0,31194.0,901491,papa johns international inc,1.0,1.0,1.0,,20171215,schnatter john h,122520817018747,CEO,male,35042057.0
+7289.1988,174.0,901491,papa johns international inc,1.0,,,,20180202,koellner laurette t,122520818002019,,female,33900000.0
+31391.0,,901491,papa johns international inc,1.0,1.0,1.0,,20180226,schnatter john h,122520818004117,Chairman of the Board,male,33900000.0
+15858.0,591.5,901491,papa johns international inc,,1.0,,,20180226,oyler caroline miller,122520818004123,"SVP, General Counsel",female,33900000.0
+2933.0,,901491,papa johns international inc,,1.0,,,20180226,nettles michael r,122520818004122,"SVP, CIDO",male,33900000.0
+2182.0,1513.13,901491,papa johns international inc,,1.0,,,20180226,coke steven r,122520818004121,"VP, IR and Strategy",male,33900000.0
+1848.0,235.03,901491,papa johns international inc,,1.0,,,20180226,ohern timothy c,122520818004120,"SVP, Chief Development Officer",male,33900000.0
+24590.0854,,901491,papa johns international inc,,1.0,,,20180226,tucker lance f.,122520818004119,"SVP, CFO and CAO",male,33900000.0
+344.0,,901491,papa johns international inc,,1.0,,,20180226,ritchie steve m,122520818004118,President and CEO,male,33900000.0
+9355079.0,31391.0,901491,papa johns international inc,1.0,1.0,1.0,,20180227,schnatter john h,122520818004450,Chairman of the Board,male,33900000.0
+16071.0,591.5,901491,papa johns international inc,,1.0,,,20180227,oyler caroline miller,122520818004448,"SVP, General Counsel",female,33900000.0
+1834.0,235.03,901491,papa johns international inc,,1.0,,,20180227,ohern timothy c,122520818004447,"SVP, Chief Development Officer",male,33900000.0
+2127.0,1513.13,901491,papa johns international inc,,1.0,,,20180227,coke steven r,122520818004446,"VP, IR and Strategy",male,33900000.0
+330.0,,901491,papa johns international inc,,1.0,,,20180227,ritchie steve m,122520818004449,President and CEO,male,33900000.0
+188053.0053,,901491,papa johns international inc,1.0,,,,20180227,kirtley olivia f,122520818004452,,female,33900000.0
+24920.7754,,901491,papa johns international inc,,1.0,,,20180227,tucker lance f.,122520818004451,"SVP, CFO and CAO",male,33900000.0
+7298.8245,174.0,901491,papa johns international inc,1.0,,,,20180227,koellner laurette t,122520818004453,,female,33900000.0
+7457.0,,901491,papa johns international inc,1.0,,,,20180305,coleman christopher l.,122520818005301,,male,33900000.0
+189511.0053,,901491,papa johns international inc,1.0,,,,20180305,kirtley olivia f,122520818005302,,female,33900000.0
+8339.8245,174.0,901491,papa johns international inc,1.0,,,,20180305,koellner laurette t,122520818005303,,female,33900000.0
+6265.0,,901491,papa johns international inc,,1.0,,,20180305,nettles michael r,122520818005305,"SVP, CIDO",male,33900000.0
+1947.0,235.03,901491,papa johns international inc,,1.0,,,20180305,ohern timothy c,122520818005306,"SVP, Chief Development Officer",male,33900000.0
+18528.0,591.5,901491,papa johns international inc,,1.0,,,20180305,oyler caroline miller,122520818005307,"SVP, General Counsel",female,33900000.0
+4690.0,,901491,papa johns international inc,,1.0,,,20180305,rhoten brandon p,122520818005308,"SVP, Chief Marketing Officer",male,33900000.0
+480.0,,901491,papa johns international inc,,1.0,,,20180305,ritchie steve m,122520818005309,President and CEO,male,33900000.0
+,,901491,papa johns international inc,1.0,1.0,1.0,,20180305,schnatter john h,122520818005310,Chairman of the Board,male,33900000.0
+25070.0,,901491,papa johns international inc,1.0,,,,20180305,shapiro mark s,122520818005311,,male,33900000.0
+7637.7754,,901491,papa johns international inc,,1.0,,,20180305,tucker lance f.,122520818005312,"SVP, CFO and CAO",male,33900000.0
+3208.0,,901491,papa johns international inc,1.0,,,,20180305,medina sonya e,122520818005304,,female,33900000.0
+2986.0,1513.13,901491,papa johns international inc,,1.0,,,20180305,coke steven r,122520818005300,"VP, IR and Strategy",male,33900000.0
+23826.0757,2182.03,901491,papa johns international inc,,1.0,,,20180309,ohern timothy c,122520818005835,"SVP, Chief Development Officer",male,33900000.0
+16762.0,591.5,901491,papa johns international inc,,1.0,,,20180309,oyler caroline miller,122520818005834,"SVP, General Counsel",female,33900000.0
+19335.1102,1084.46,901491,papa johns international inc,,1.0,,,20180501,smith joseph h iv,122520818008412,SVP and CFO,male,32193319.0
+17027.0,591.5,901491,papa johns international inc,,1.0,,,20180511,oyler caroline miller,122520818009171,"SVP, Chief Legal Officer",female,32193319.0
+5294.0,,901491,papa johns international inc,,1.0,,,20180511,swaysland jack h,122520818009173,"SVP, COO - International",male,32193319.0
+21320.1102,1084.46,901491,papa johns international inc,,1.0,,,20180511,smith joseph h iv,122520818009172,SVP and CFO,male,32193319.0
+24708.0757,2182.03,901491,papa johns international inc,,1.0,,,20180511,ohern timothy c,122520818009170,"President, Int'l & SVP, CDO",male,32193319.0
+21397.8473,1084.46,901491,papa johns international inc,,1.0,,,20180529,smith joseph h iv,122520818009910,SVP and CFO,male,32193319.0
+24714.6268,2182.03,901491,papa johns international inc,,1.0,,,20180529,ohern timothy c,122520818009909,"President, Int'l & SVP, CDO",male,32193319.0
+8350.3255,174.0,901491,papa johns international inc,1.0,,,,20180529,koellner laurette t,122520818009908,,female,32193319.0
+189816.8432,,901491,papa johns international inc,1.0,,,,20180529,kirtley olivia f,122520818009907,,female,32193319.0
+21411.6848,1084.46,901491,papa johns international inc,,1.0,,,20180601,smith joseph h iv,122520818010036,SVP and CFO,male,32193319.0
+21425.9052,1084.46,901491,papa johns international inc,,1.0,,,20180702,smith joseph h iv,122520818011022,SVP and CFO,male,31500000.0
+21439.997,1084.46,901491,papa johns international inc,,1.0,,,20180801,smith joseph h iv,122520818012143,SVP and CFO,male,31619630.0
+16985.0,591.5,901491,papa johns international inc,,1.0,,,20180808,oyler caroline miller,122520818012432,"SVP, Chief Legal Officer",female,31619630.0
+42968.0,480.0,901491,papa johns international inc,,1.0,,,20180808,ritchie steve m,122520818012433,President and CEO,male,31619630.0
+24692.6268,2182.03,901491,papa johns international inc,,1.0,,,20180808,ohern timothy c,122520818012431,"President, Int'l & SVP, CDO",male,31619630.0
+24700.3715,2182.03,901491,papa johns international inc,,1.0,,,20180828,ohern timothy c,122520818012925,"President, Int'l & SVP, CDO",male,31619630.0
+21532.1111,1084.46,901491,papa johns international inc,,1.0,,,20180828,smith joseph h iv,122520818012926,SVP and CFO,male,31619630.0
+190178.4093,,901491,papa johns international inc,1.0,,,,20180828,kirtley olivia f,122520818012923,,female,31619630.0
+8362.7399,174.0,901491,papa johns international inc,1.0,,,,20180828,koellner laurette t,122520818012924,,female,31619630.0
+21547.8439,1084.46,901491,papa johns international inc,,1.0,,,20180904,smith joseph h iv,122520818013070,SVP and CFO,male,31619630.0
+21558.9685,1084.46,901491,papa johns international inc,,1.0,,,20181001,smith joseph h iv,122520818013933,SVP and CFO,male,31400000.0
+21569.3465,1084.46,901491,papa johns international inc,,1.0,,,20181101,smith joseph h iv,122520818015076,SVP and CFO,male,31541761.0
+38311.3465,1084.46,901491,papa johns international inc,,1.0,,,20181109,smith joseph h iv,122520818015363,SVP and CFO,male,31541761.0
+25219.0,,901491,papa johns international inc,,1.0,,,20181109,nettles michael r,122520818015362,"EVP, Chief Op & Growth Officer",male,31541761.0
+67337.0,480.0,901491,papa johns international inc,,1.0,,,20181109,ritchie steve m,122520818015361,President and CEO,male,31541761.0
+32780.0,591.5,901491,papa johns international inc,,1.0,,,20181109,oyler caroline miller,122520818015364,"SVP, Chief Legal Officer",female,31541761.0
+17749.0,,901491,papa johns international inc,,1.0,,,20181109,swaysland jack h,122520818015365,"SVP, COO - International",male,31541761.0
+8372.4765,174.0,901491,papa johns international inc,1.0,,,,20181127,koellner laurette t,122520818015900,,female,31541761.0
+190461.9874,,901491,papa johns international inc,1.0,,,,20181127,kirtley olivia f,122520818015899,,female,31541761.0
+38383.7383,1084.46,901491,papa johns international inc,,1.0,,,20181127,smith joseph h iv,122520818015901,SVP and CFO,male,31541761.0
+38402.8425,1084.46,901491,papa johns international inc,,1.0,,,20181203,smith joseph h iv,122520818016091,SVP and CFO,male,31541761.0
+9314.4509,174.0,901491,papa johns international inc,1.0,,,,20190102,koellner laurette t,122520819000101,,female,31400000.0
+38420.8357,1084.46,901491,papa johns international inc,,1.0,,,20190102,smith joseph h iv,122520819000102,SVP and CFO,male,31400000.0
+38437.8454,1084.46,901491,papa johns international inc,,1.0,,,20190201,smith joseph h iv,122520819001675,SVP and CFO,male,31400000.0
+38397.4651,1095.971,901491,papa johns international inc,,1.0,,,20190226,smith joseph h iv,122520819003768,SVP and CFO,male,31400000.0
+450.0,,901491,papa johns international inc,1.0,1.0,,,20190226,ritchie steve m,122520819003767,President and CEO,male,31400000.0
+32414.0,599.504,901491,papa johns international inc,,1.0,,,20190226,oyler caroline miller,122520819003766,SVP Chief Legal & Risk Officer,female,31400000.0
+17332.0,,901491,papa johns international inc,,1.0,,,20190226,swaysland jack h,122520819003769,"SVP, COO - International",male,31400000.0
+24576.0,,901491,papa johns international inc,,1.0,,,20190226,nettles michael r,122520819003765,"EVP, Chief Op & Growth Officer",male,31400000.0
+9353568.0,31391.0,901491,papa johns international inc,1.0,0.0,1.0,0.0,20190226,schnatter john h,114420419010214,,male,31400000.0
+9332.8677,174.0,901491,papa johns international inc,1.0,,,,20190227,koellner laurette t,122520819003898,,female,31400000.0
+190851.087,,901491,papa johns international inc,1.0,,,,20190227,kirtley olivia f,122520819003899,,female,31400000.0
+656.0,,901491,papa johns international inc,1.0,1.0,,,20190301,ritchie steve m,122520819004161,President and CEO,male,31400000.0
+28580.0,,901491,papa johns international inc,,1.0,,,20190301,nettles michael r,122520819004162,"EVP, Chief Op & Growth Officer",male,31400000.0
+2002.0,,901491,papa johns international inc,,1.0,,,20190301,boakye marvin,122520819004166,Chief People Officer,male,31400000.0
+34559.0,599.504,901491,papa johns international inc,,1.0,,,20190301,oyler caroline miller,122520819004164,SVP Chief Legal & Risk Officer,female,31400000.0
+19620.0,,901491,papa johns international inc,,1.0,,,20190301,swaysland jack h,122520819004165,"SVP, COO - International",male,31400000.0
+41130.1316,1095.971,901491,papa johns international inc,,1.0,,,20190301,smith joseph h iv,122520819004163,SVP and CFO,male,31400000.0
+19195.0,,901491,papa johns international inc,,1.0,,,20190304,swaysland jack h,122520819004428,"SVP, COO - International",male,31642269.0
+637.0,,901491,papa johns international inc,1.0,1.0,,,20190304,ritchie steve m,122520819004429,President and CEO,male,31642269.0
+34276.0,599.504,901491,papa johns international inc,,1.0,,,20190304,oyler caroline miller,122520819004430,SVP Chief Legal & Risk Officer,female,31642269.0
+41051.1316,1095.971,901491,papa johns international inc,,1.0,,,20190304,smith joseph h iv,122520819004431,SVP and CFO,male,31642269.0
+28228.0,,901491,papa johns international inc,,1.0,,,20190304,nettles michael r,122520819004427,"EVP, Chief Op & Growth Officer",male,31642269.0
+41090.9052,1095.971,901491,papa johns international inc,,1.0,,,20190401,smith joseph h iv,122520819005962,SVP and CFO,male,31400000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20190401,smith jeffrey c,92189519000962,,male,31400000.0
+41104.2925,1095.971,901491,papa johns international inc,,1.0,,,20190501,smith joseph h iv,122520819007500,SVP and CFO,male,31400000.0
+716.9925,,901491,papa johns international inc,1.0,,,,20190501,sanfilippo anthony michael,122520819007499,,male,31400000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20190502,smith jeffrey c,92189519001245,,male,31400000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20190513,smith jeffrey c,92189519001403,,male,31400000.0
+3653.9925,,901491,papa johns international inc,1.0,,,,20190513,sanfilippo anthony michael,122520819007845,,male,31400000.0
+2545.0,,901491,papa johns international inc,1.0,,,,20190513,dubin michael r,122520819007846,,male,31400000.0
+2545.0,,901491,papa johns international inc,1.0,,,,20190513,mangan jocelyn c,122520819007847,,female,31400000.0
+2545.0,,901491,papa johns international inc,1.0,,,,20190513,o'neal shaquille r,122520819007848,,male,31400000.0
+10198.0,,901491,papa johns international inc,1.0,,,,20190513,coleman christopher l.,122520819007849,,male,31400000.0
+12073.8677,174.0,901491,papa johns international inc,1.0,,,,20190513,koellner laurette t,122520819007850,,female,31400000.0
+193592.087,,901491,papa johns international inc,1.0,,,,20190513,kirtley olivia f,122520819007851,,female,31400000.0
+5949.0,,901491,papa johns international inc,1.0,,,,20190513,medina sonya e,122520819007852,,female,31400000.0
+19091.0,,901491,papa johns international inc,,1.0,,,20190513,swaysland jack h,122520819007853,"SVP, COO - International",male,31400000.0
+40892.2925,1095.971,901491,papa johns international inc,,1.0,,,20190513,smith joseph h iv,122520819007854,SVP and CFO,male,31400000.0
+34247.0,599.504,901491,papa johns international inc,,1.0,,,20190513,oyler caroline miller,122520819007855,SVP Chief Legal & Risk Officer,female,31400000.0
+9239507.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190514,schnatter john h,120919119029533,,male,31400000.0
+9039424.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190516,schnatter john h,120919119030308,,male,31400000.0
+3000.0,,901491,papa johns international inc,1.0,,,,20190520,sanfilippo anthony michael,122520819008232,,male,31400000.0
+8960996.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190520,schnatter john h,120919119031304,,male,31400000.0
+5509583.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190523,schnatter john h,120919119032244,,male,31400000.0
+10211.0,,901491,papa johns international inc,1.0,,,,20190529,coleman christopher l.,122520819008609,,male,31400000.0
+5962.0,,901491,papa johns international inc,1.0,,,,20190529,medina sonya e,122520819008614,,female,31400000.0
+2557.0,,901491,papa johns international inc,1.0,,,,20190529,mangan jocelyn c,122520819008613,,female,31400000.0
+2557.0,,901491,papa johns international inc,1.0,,,,20190529,dubin michael r,122520819008610,,male,31400000.0
+193956.0763,,901491,papa johns international inc,1.0,,,,20190529,kirtley olivia f,122520819008611,,female,31400000.0
+3671.4462,3000.0,901491,papa johns international inc,1.0,,,,20190529,sanfilippo anthony michael,122520819008608,,male,31400000.0
+2557.0,,901491,papa johns international inc,1.0,,,,20190529,o'neal shaquille r,122520819008615,,male,31400000.0
+12103.4807,174.0,901491,papa johns international inc,1.0,,,,20190529,koellner laurette t,122520819008612,,female,31400000.0
+40982.4865,1095.971,901491,papa johns international inc,,1.0,,,20190529,smith joseph h iv,122520819008616,SVP and CFO,male,31400000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20190529,smith jeffrey c,92189519001665,,male,31400000.0
+41000.149,1095.971,901491,papa johns international inc,,1.0,,,20190603,smith joseph h iv,122520819008720,SVP and CFO,male,31400000.0
+89693.0,,901491,papa johns international inc,1.0,,,,20190614,o'neal shaquille r,122520819009281,,male,31400000.0
+41015.4788,1095.971,901491,papa johns international inc,,1.0,,,20190702,smith joseph h iv,122520819009741,SVP and CFO,male,31400000.0
+41030.9053,1095.971,901491,papa johns international inc,,1.0,,,20190801,smith joseph h iv,122520819010770,SVP and CFO,male,31786388.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20190802,smith jeffrey c,92189519002096,,male,31786388.0
+4426.2907,3000.0,901491,papa johns international inc,1.0,,,,20190802,sanfilippo anthony michael,122520819010801,,male,31786388.0
+1017.0,,901491,papa johns international inc,,1.0,,,20190812,norberg james,122520819011225,"SVP, CROO",male,31786388.0
+5409583.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190822,schnatter john h,120919119047151,,male,31786388.0
+5259583.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190823,schnatter john h,120919119047291,,male,31786388.0
+4783722.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20190826,schnatter john h,120919119047399,,male,31786388.0
+41129.4919,1095.971,901491,papa johns international inc,,1.0,,,20190827,smith joseph h iv,122520819011939,SVP and CFO,male,31786388.0
+4449.0012,3000.0,901491,papa johns international inc,1.0,,,,20190827,sanfilippo anthony michael,122520819011938,,male,31786388.0
+89706.0,,901491,papa johns international inc,1.0,,,,20190827,o'neal shaquille r,122520819011937,,male,31786388.0
+5976.0,,901491,papa johns international inc,1.0,,,,20190827,medina sonya e,122520819011936,,female,31786388.0
+2570.0,,901491,papa johns international inc,1.0,,,,20190827,mangan jocelyn c,122520819011935,,female,31786388.0
+10225.0,,901491,papa johns international inc,1.0,,,,20190827,coleman christopher l.,122520819011931,,male,31786388.0
+194352.7402,,901491,papa johns international inc,1.0,,,,20190827,kirtley olivia f,122520819011933,,female,31786388.0
+2570.0,,901491,papa johns international inc,1.0,,,,20190827,dubin michael r,122520819011932,,male,31786388.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20190827,smith jeffrey c,92189519002348,,male,31786388.0
+12135.5929,174.0,901491,papa johns international inc,1.0,,,,20190827,koellner laurette t,122520819011934,,female,31786388.0
+68461.0,,901491,papa johns international inc,1.0,1.0,0.0,0.0,20190828,lynch robert,112329219001089,President and CEO,male,31786388.0
+41146.6963,1095.971,901491,papa johns international inc,,1.0,,,20190904,smith joseph h iv,122520819012070,SVP and CFO,male,31786388.0
+41159.7817,1095.971,901491,papa johns international inc,,1.0,,,20191001,smith joseph h iv,122520819012898,SVP and CFO,male,31400000.0
+4783722.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20191029,schnatter john h,120919119054377,,male,31400000.0
+4808.0369,3000.0,901491,papa johns international inc,1.0,,,,20191101,sanfilippo anthony michael,122520819014021,,male,31946162.0
+41171.4868,1095.971,901491,papa johns international inc,,1.0,,,20191101,smith joseph h iv,122520819014022,SVP and CFO,male,31946162.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20191101,smith jeffrey c,92189519002658,,male,31946162.0
+2881606.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20191105,schnatter john h,120919119055208,,male,31946162.0
+17468.0,,901491,papa johns international inc,,1.0,,,20191112,swaysland jack h,122520819014383,"COO, International",male,31946162.0
+41098.4868,1095.971,901491,papa johns international inc,,1.0,,,20191112,smith joseph h iv,122520819014384,Chief Financial Officer,male,31946162.0
+29423.0,599.504,901491,papa johns international inc,,1.0,,,20191112,oyler caroline miller,122520819014385,Chief Legal & Risk Officer,female,31946162.0
+6696.0,,901491,papa johns international inc,,1.0,,,20191120,papa johns international inc,122520819014725,Chief Comm & Marketing Officer,male,31946162.0
+12158.3419,174.0,901491,papa johns international inc,1.0,,,,20191126,koellner laurette t,122520819014930,,female,31946162.0
+2579.0,,901491,papa johns international inc,1.0,,,,20191126,mangan jocelyn c,122520819014931,,female,31946162.0
+2579.0,,901491,papa johns international inc,1.0,,,,20191126,dubin michael r,122520819014928,,male,31946162.0
+89715.0,,901491,papa johns international inc,1.0,,,,20191126,o'neal shaquille r,122520819014933,,male,31946162.0
+10235.0,,901491,papa johns international inc,1.0,,,,20191126,coleman christopher l.,122520819014927,,male,31946162.0
+4824.7782,3000.0,901491,papa johns international inc,1.0,,,,20191126,sanfilippo anthony michael,122520819014934,,male,31946162.0
+41168.0343,1095.971,901491,papa johns international inc,,1.0,,,20191126,smith joseph h iv,122520819014935,Chief Financial Officer,male,31946162.0
+6696.0,,901491,papa johns international inc,,1.0,,,20191126,wetzel christopher maxwell,122520819014936,Chief Comm & Marketing Officer,male,31946162.0
+194632.0925,,901491,papa johns international inc,1.0,,,,20191126,kirtley olivia f,122520819014929,,female,31946162.0
+5986.0,,901491,papa johns international inc,1.0,,,,20191126,medina sonya e,122520819014932,,female,31946162.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20191126,smith jeffrey c,92189519002885,,male,31946162.0
+41181.566,1095.971,901491,papa johns international inc,,1.0,,,20191203,smith joseph h iv,122520819015228,Chief Financial Officer,male,31946162.0
+2881606.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20191205,schnatter john h,120919119059351,,male,31946162.0
+2881606.0,31391.0,901491,papa johns international inc,0.0,0.0,1.0,0.0,20191209,schnatter john h,120919119059710,,male,31946162.0
+41192.4159,1095.971,901491,papa johns international inc,,1.0,,,20200102,smith joseph h iv,122520820000049,Chief Financial Officer,male,31900000.0
+2057.7475,,901491,papa johns international inc,,1.0,,,20200203,boakye marvin,122520820001486,Chief People & Diversity Ofc,male,31900000.0
+5149.4535,3000.0,901491,papa johns international inc,1.0,,,,20200203,sanfilippo anthony michael,122520820001487,,male,31900000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200204,smith jeffrey c,92189520000240,,male,31900000.0
+1881606.0,,901491,papa johns international inc,0.0,0.0,1.0,0.0,20200212,schnatter john h,120919120008781,,male,31900000.0
+9018.0,,901491,papa johns international inc,,1.0,,,20200218,clark amanda,122520820002643,Chief Development Officer,female,31900000.0
+12178.7232,174.0,901491,papa johns international inc,1.0,,,,20200224,koellner laurette t,122520820003316,,female,31900000.0
+194881.5495,,901491,papa johns international inc,1.0,,,,20200224,kirtley olivia f,122520820003313,,female,31900000.0
+10244.0,,901491,papa johns international inc,1.0,,,,20200224,coleman christopher l.,122520820003314,,male,31900000.0
+2587.0,,901491,papa johns international inc,1.0,,,,20200224,dubin michael r,122520820003315,,male,31900000.0
+89723.0,,901491,papa johns international inc,1.0,,,,20200224,o'neal shaquille r,122520820003319,,male,31900000.0
+2587.0,,901491,papa johns international inc,1.0,,,,20200224,mangan jocelyn c,122520820003317,,female,31900000.0
+5995.0,,901491,papa johns international inc,1.0,,,,20200224,medina sonya e,122520820003318,,female,31900000.0
+29266.0,599.504,901491,papa johns international inc,,1.0,,,20200224,oyler caroline miller,122520820003320,Chief Legal & Risk Officer,female,31900000.0
+5165.5285,3000.0,901491,papa johns international inc,1.0,,,,20200224,sanfilippo anthony michael,122520820003321,,male,31900000.0
+41193.5819,1095.971,901491,papa johns international inc,,1.0,,,20200224,smith joseph h iv,122520820003322,Chief Financial Officer,male,31900000.0
+17243.0,,901491,papa johns international inc,,1.0,,,20200224,swaysland jack h,122520820003323,"COO, International",male,31900000.0
+2057.929,,901491,papa johns international inc,,1.0,,,20200224,boakye marvin,122520820003324,Chief People & Diversity Ofc,male,31900000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200225,smith jeffrey c,92189520000597,,male,31900000.0
+75581.0,,901491,papa johns international inc,1.0,1.0,,,20200302,lynch robert,122520820003937,President and CEO,male,31900000.0
+9995.0,,901491,papa johns international inc,,1.0,,,20200303,wetzel christopher maxwell,122520820004197,Chief Comm & Marketing Officer,male,31900000.0
+40977.2965,1113.13,901491,papa johns international inc,,1.0,,,20200303,smith joseph h iv,122520820004198,Chief Financial Officer,male,31900000.0
+4142.0,,901491,papa johns international inc,,1.0,,,20200303,norberg james,122520820004194,"COO, North America",male,31900000.0
+31369.0,608.892,901491,papa johns international inc,,1.0,,,20200303,oyler caroline miller,122520820004195,Chief Legal & Risk Officer,female,31900000.0
+19237.0,,901491,papa johns international inc,,1.0,,,20200303,swaysland jack h,122520820004196,"COO, International",male,31900000.0
+5514.0001,,901491,papa johns international inc,,1.0,,,20200303,boakye marvin,122520820004191,Chief People & Diversity Ofc,male,31900000.0
+92069.0,,901491,papa johns international inc,1.0,1.0,,,20200303,lynch robert,122520820004193,President and CEO,male,31900000.0
+11539.0,,901491,papa johns international inc,,1.0,,,20200303,clark amanda,122520820004192,Chief Development Officer,female,31900000.0
+5570.243,,901491,papa johns international inc,,1.0,,,20200402,boakye marvin,122520820005960,Chief People & Diversity Ofc,male,32000000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200501,smith jeffrey c,92189520001263,,male,32466249.0
+5611.956,,901491,papa johns international inc,,1.0,,,20200501,boakye marvin,122520820006960,Chief People & Diversity Ofc,male,32466249.0
+5457.5196,3000.0,901491,papa johns international inc,1.0,,,,20200501,sanfilippo anthony michael,122520820006961,,male,32466249.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200512,smith jeffrey c,92189520001354,,male,32466249.0
+19133.0,,901491,papa johns international inc,,1.0,,,20200512,swaysland jack h,122520820007501,"COO, International",male,32466249.0
+4127.0,,901491,papa johns international inc,1.0,,,,20200512,dubin michael r,122520820007493,,male,32466249.0
+196421.5495,,901491,papa johns international inc,1.0,,,,20200512,kirtley olivia f,122520820007494,,female,32466249.0
+13718.7232,174.0,901491,papa johns international inc,1.0,,,,20200512,koellner laurette t,122520820007495,,female,32466249.0
+4127.0,,901491,papa johns international inc,1.0,,,,20200512,mangan jocelyn c,122520820007496,,female,32466249.0
+7535.0,,901491,papa johns international inc,1.0,,,,20200512,medina sonya e,122520820007497,,female,32466249.0
+6997.5196,3000.0,901491,papa johns international inc,1.0,,,,20200512,sanfilippo anthony michael,122520820007499,,male,32466249.0
+31340.0,608.892,901491,papa johns international inc,,1.0,,,20200512,oyler caroline miller,122520820007500,Chief Legal & Risk Officer,female,32466249.0
+11784.0,,901491,papa johns international inc,1.0,,,,20200512,coleman christopher l.,122520820007492,,male,32466249.0
+91263.0,,901491,papa johns international inc,1.0,,,,20200512,o'neal shaquille r,122520820007498,,male,32466249.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200526,smith jeffrey c,119380520000637,,male,32466249.0
+5612.5466,,901491,papa johns international inc,,1.0,,,20200526,boakye marvin,122520820008241,Chief People & Diversity Ofc,male,32466249.0
+7016.6794,3000.0,901491,papa johns international inc,1.0,,,,20200526,sanfilippo anthony michael,122520820008249,,male,32466249.0
+91274.0,,901491,papa johns international inc,1.0,,,,20200526,o'neal shaquille r,122520820008248,,male,32466249.0
+7547.0,,901491,papa johns international inc,1.0,,,,20200526,medina sonya e,122520820008247,,female,32466249.0
+4138.0,,901491,papa johns international inc,1.0,,,,20200526,mangan jocelyn c,122520820008246,,female,32466249.0
+13740.8807,174.0,901491,papa johns international inc,1.0,,,,20200526,koellner laurette t,122520820008245,,female,32466249.0
+196648.1503,,901491,papa johns international inc,1.0,,,,20200526,kirtley olivia f,122520820008244,,female,32466249.0
+4138.0,,901491,papa johns international inc,1.0,,,,20200526,dubin michael r,122520820008243,,male,32466249.0
+11796.0,,901491,papa johns international inc,1.0,,,,20200526,coleman christopher l.,122520820008242,,male,32466249.0
+5660.7719,,901491,papa johns international inc,,1.0,,,20200602,boakye marvin,122520820008519,Chief People & Diversity Ofc,male,32466249.0
+19133.0,,901491,papa johns international inc,,1.0,,,20200605,swaysland jack h,122520820008683,"COO, International",male,32466249.0
+5698.5933,,901491,papa johns international inc,,1.0,,,20200702,boakye marvin,122520820009434,Chief People & Diversity Ofc,male,32300000.0
+7238.526,3000.0,901491,papa johns international inc,1.0,,,,20200804,sanfilippo anthony michael,122520820010223,,male,32814222.0
+5738.3631,,901491,papa johns international inc,,1.0,,,20200804,boakye marvin,122520820010222,Chief People & Diversity Ofc,male,32814222.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200804,smith jeffrey c,92189520002075,,male,32814222.0
+13555.0,1557.59,901491,papa johns international inc,,1.0,,,20200811,coke steven r,122520820010483,"VP, IR and Strategy",male,32814222.0
+4036.0,,901491,papa johns international inc,,1.0,,,20200811,norberg james,122520820010482,"COO, North America",male,32814222.0
+19133.0,,901491,papa johns international inc,,1.0,,,20200814,swaysland jack h,122520820010649,"COO, International",male,32814222.0
+31340.0,608.892,901491,papa johns international inc,,1.0,,,20200814,oyler caroline miller,122520820010650,Chief Legal & Risk Officer,female,32814222.0
+13555.0,1557.59,901491,papa johns international inc,,1.0,,,20200814,coke steven r,122520820010651,"VP, IR and Strategy",male,32814222.0
+7253.6331,3000.0,901491,papa johns international inc,1.0,,,,20200825,sanfilippo anthony michael,122520820010993,,male,32814222.0
+64270.0,,901491,papa johns international inc,1.0,,,,20200825,o'neal shaquille r,122520820010992,,male,32814222.0
+7556.0,,901491,papa johns international inc,1.0,,,,20200825,medina sonya e,122520820010991,,female,32814222.0
+4146.0,,901491,papa johns international inc,1.0,,,,20200825,mangan jocelyn c,122520820010990,,female,32814222.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20200825,smith jeffrey c,92189520002326,,male,32814222.0
+196825.1677,,901491,papa johns international inc,1.0,,,,20200825,kirtley olivia f,122520820010988,,female,32814222.0
+4146.0,,901491,papa johns international inc,1.0,,,,20200825,dubin michael r,122520820010987,,male,32814222.0
+11805.0,,901491,papa johns international inc,1.0,,,,20200825,coleman christopher l.,122520820010986,,male,32814222.0
+5739.1099,,901491,papa johns international inc,,1.0,,,20200825,boakye marvin,122520820010985,Chief People & Diversity Ofc,male,32814222.0
+13757.8333,174.0,901491,papa johns international inc,1.0,,,,20200825,koellner laurette t,122520820010989,,female,32814222.0
+5769.666,,901491,papa johns international inc,,1.0,,,20200901,boakye marvin,122520820011147,Chief People & Diversity Ofc,male,32814222.0
+5806.1313,,901491,papa johns international inc,,1.0,,,20201001,boakye marvin,122520820012001,Chief People & Diversity Ofc,male,32500000.0
+15637.0,,901491,papa johns international inc,,1.0,,,20201006,gugino ann b,122520820012281,Chief Financial Officer,female,32500000.0
+7527.8203,3000.0,901491,papa johns international inc,1.0,,,,20201103,sanfilippo anthony michael,122520820012959,,male,32952184.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20201103,smith jeffrey c,92189520002780,,male,32952184.0
+5855.0933,,901491,papa johns international inc,,1.0,,,20201103,boakye marvin,122520820012958,Chief People & Diversity Ofc,male,32952184.0
+13279.0,,901491,papa johns international inc,,1.0,,,20201109,swaysland jack h,122520820013245,"COO, International",male,32952184.0
+24483.0,608.892,901491,papa johns international inc,,1.0,,,20201109,oyler caroline miller,122520820013246,Chief Legal & Risk Officer,female,32952184.0
+9016.0,,901491,papa johns international inc,,1.0,,,20201120,wetzel christopher maxwell,122520820013737,Chief Comm & Marketing Officer,male,32952184.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20201124,smith jeffrey c,92189520003107,,male,32952184.0
+5856.3637,,901491,papa johns international inc,,1.0,,,20201124,boakye marvin,122520820013887,Chief People & Diversity Ofc,male,32952184.0
+11816.0,,901491,papa johns international inc,1.0,,,,20201124,coleman christopher l.,122520820013888,,male,32952184.0
+4157.0,,901491,papa johns international inc,1.0,,,,20201124,dubin michael r,122520820013889,,male,32952184.0
+197047.8446,,901491,papa johns international inc,1.0,,,,20201124,kirtley olivia f,122520820013890,,female,32952184.0
+13778.8524,174.0,901491,papa johns international inc,1.0,,,,20201124,koellner laurette t,122520820013891,,female,32952184.0
+4157.0,,901491,papa johns international inc,1.0,,,,20201124,mangan jocelyn c,122520820013892,,female,32952184.0
+7567.0,,901491,papa johns international inc,1.0,,,,20201124,medina sonya e,122520820013893,,female,32952184.0
+64281.0,,901491,papa johns international inc,1.0,,,,20201124,o'neal shaquille r,122520820013894,,male,32952184.0
+7548.2935,3000.0,901491,papa johns international inc,1.0,,,,20201124,sanfilippo anthony michael,122520820013895,,male,32952184.0
+197047.8446,,901491,papa johns international inc,1.0,,,,20201202,kirtley olivia f,122520820014103,,female,32952184.0
+5893.7003,,901491,papa johns international inc,,1.0,,,20201202,boakye marvin,122520820014104,Chief People & Diversity Ofc,male,32952184.0
+5937.8959,,901491,papa johns international inc,,1.0,,,20210104,boakye marvin,122520821000055,Chief People & Diversity Ofc,male,32500000.0
+7752.8124,3000.0,901491,papa johns international inc,1.0,,,,20210202,sanfilippo anthony michael,122520821001471,,male,32500000.0
+5967.1129,,901491,papa johns international inc,,1.0,,,20210202,boakye marvin,122520821001469,Chief People & Diversity Ofc,male,32500000.0
+11548.4394,,901491,papa johns international inc,,1.0,,,20210202,clark amanda,122520821001470,Chief Development Officer,female,32500000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210203,smith jeffrey c,92189521000217,,male,32500000.0
+0.0,112498.8539,901491,papa johns international inc,1.0,,,,20210208,kirtley olivia f,122520821001885,,female,32500000.0
+10588.4394,,901491,papa johns international inc,,1.0,,,20210218,clark amanda,122520821003028,Chief Development Officer,female,32500000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210223,smith jeffrey c,92189521000538,,male,32500000.0
+7768.7456,3000.0,901491,papa johns international inc,1.0,,,,20210223,sanfilippo anthony michael,122520821003477,,male,32500000.0
+64289.0,,901491,papa johns international inc,1.0,,,,20210223,o'neal shaquille r,122520821003476,,male,32500000.0
+7576.0,,901491,papa johns international inc,1.0,,,,20210223,medina sonya e,122520821003475,,female,32500000.0
+13795.5257,174.0,901491,papa johns international inc,1.0,,,,20210223,koellner laurette t,122520821003473,,female,32500000.0
+4165.0,,901491,papa johns international inc,1.0,,,,20210223,dubin michael r,122520821003472,,male,32500000.0
+11825.0,,901491,papa johns international inc,1.0,,,,20210223,coleman christopher l.,122520821003471,,male,32500000.0
+79720.1069,112498.8539,901491,papa johns international inc,1.0,,,,20210223,kirtley olivia f,122520821003470,,female,32500000.0
+10588.4599,,901491,papa johns international inc,,1.0,,,20210223,clark amanda,122520821003469,Chief Development Officer,female,32500000.0
+5968.3262,,901491,papa johns international inc,,1.0,,,20210223,boakye marvin,122520821003468,Chief People & Diversity Ofc,male,32500000.0
+4165.0,,901491,papa johns international inc,1.0,,,,20210223,mangan jocelyn c,122520821003474,,female,32500000.0
+11848.2292,,901491,papa johns international inc,,1.0,,,20210302,clark amanda,122520821004377,Chief Development Officer,female,32500000.0
+10998.0,,901491,papa johns international inc,,1.0,,,20210302,wetzel christopher maxwell,122520821004384,Chief Comm & Marketing Officer,male,32500000.0
+11703.0,,901491,papa johns international inc,1.0,,,,20210302,coleman christopher l.,122520821004378,,male,32500000.0
+25344.0,608.892,901491,papa johns international inc,,1.0,,,20210302,oyler caroline miller,122520821004382,Chief Legal & Risk Officer,female,32500000.0
+13765.0,,901491,papa johns international inc,,1.0,,,20210302,swaysland jack h,122520821004383,"COO, International",male,32500000.0
+18793.0,,901491,papa johns international inc,,1.0,,,20210302,gugino ann b,122520821004379,Chief Financial Officer,female,32500000.0
+8660.3134,,901491,papa johns international inc,,1.0,,,20210302,boakye marvin,122520821004376,Chief People & Diversity Ofc,male,32500000.0
+5647.0,,901491,papa johns international inc,,1.0,,,20210302,norberg james,122520821004381,"COO, North America",male,32500000.0
+112739.0,,901491,papa johns international inc,1.0,1.0,,,20210302,lynch robert,122520821004380,President and CEO,male,32500000.0
+8695.0259,,901491,papa johns international inc,,1.0,,,20210401,boakye marvin,122520821006229,Chief People & Diversity Ofc,male,32700000.0
+11859.4239,,901491,papa johns international inc,,1.0,,,20210401,clark amanda,122520821006230,Chief Development Officer,female,32700000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210504,smith jeffrey c,92189521001209,,male,33074641.0
+7986.1369,3000.0,901491,papa johns international inc,1.0,,,,20210504,sanfilippo anthony michael,122520821007509,,male,33074641.0
+8734.8411,,901491,papa johns international inc,,1.0,,,20210504,boakye marvin,122520821007510,Chief People & Diversity Ofc,male,33074641.0
+11872.2642,,901491,papa johns international inc,,1.0,,,20210504,clark amanda,122520821007511,Chief Development Officer,female,33074641.0
+25316.0,608.892,901491,papa johns international inc,,1.0,,,20210512,oyler caroline miller,122520821008051,Chief Legal & Risk Officer,female,33074641.0
+13661.0,,901491,papa johns international inc,,1.0,,,20210512,swaysland jack h,122520821008052,"COO, International",male,33074641.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210513,smith jeffrey c,92189521001310,,male,33074641.0
+11872.3723,,901491,papa johns international inc,,1.0,,,20210525,clark amanda,122520821008556,Chief Development Officer,female,33074641.0
+8738.2137,,901491,papa johns international inc,,1.0,,,20210525,boakye marvin,122520821008555,Chief People & Diversity Ofc,male,33074641.0
+13026.0,,901491,papa johns international inc,1.0,,,,20210525,coleman christopher l.,122520821008554,,male,33074641.0
+5488.0,,901491,papa johns international inc,1.0,,,,20210525,mangan jocelyn c,122520821008553,,female,33074641.0
+9318.488,3000.0,901491,papa johns international inc,1.0,,,,20210525,sanfilippo anthony michael,122520821008552,,male,33074641.0
+15127.1806,174.0,901491,papa johns international inc,1.0,,,,20210525,koellner laurette t,122520821008548,,female,33074641.0
+81225.9627,112498.8539,901491,papa johns international inc,1.0,,,,20210525,kirtley olivia f,122520821008550,,female,33074641.0
+36857.0,,901491,papa johns international inc,1.0,,,,20210525,o'neal shaquille r,122520821008549,,male,33074641.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210525,smith jeffrey c,92189521001491,,male,33074641.0
+8899.0,,901491,papa johns international inc,1.0,,,,20210525,medina sonya e,122520821008551,,female,33074641.0
+8770.9887,,901491,papa johns international inc,,1.0,,,20210601,boakye marvin,122520821008711,Chief People & Diversity Ofc,male,33074641.0
+11882.9421,,901491,papa johns international inc,,1.0,,,20210601,clark amanda,122520821008712,Chief Development Officer,female,33074641.0
+8800.4498,,901491,papa johns international inc,,1.0,,,20210701,boakye marvin,122520821009963,Chief People & Diversity Ofc,male,36200000.0
+11892.4432,,901491,papa johns international inc,,1.0,,,20210701,clark amanda,122520821009964,Chief Development Officer,female,36200000.0
+13661.0,,901491,papa johns international inc,,1.0,,,20210706,swaysland jack h,122520821010327,"COO, International",male,36200000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210803,smith jeffrey c,92189521001916,,male,36563793.0
+8834.1525,,901491,papa johns international inc,,1.0,,,20210803,boakye marvin,122520821011066,Chief People & Diversity Ofc,male,36563793.0
+11903.3123,,901491,papa johns international inc,,1.0,,,20210803,clark amanda,122520821011067,Chief Development Officer,female,36563793.0
+9535.3649,3000.0,901491,papa johns international inc,1.0,,,,20210803,sanfilippo anthony michael,122520821011068,,male,36563793.0
+5545.0,,901491,papa johns international inc,,1.0,,,20210809,norberg james,122520821011332,"COO, North America",male,36563793.0
+22161.0,608.892,901491,papa johns international inc,,1.0,,,20210813,oyler caroline miller,122520821011473,Chief Legal & Risk Officer,female,36563793.0
+5545.0,,901491,papa johns international inc,,1.0,,,20210813,norberg james,122520821011474,"COO, North America",male,36563793.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210820,smith jeffrey c,119380521001207,,male,36563793.0
+102447.0,,901491,papa johns international inc,1.0,1.0,,,20210827,lynch robert,122520821011772,President and CEO,male,36563793.0
+8838.2959,,901491,papa johns international inc,,1.0,,,20210831,boakye marvin,122520821011853,Chief People & Diversity Ofc,male,36563793.0
+11903.5231,,901491,papa johns international inc,,1.0,,,20210831,clark amanda,122520821011854,Chief Development Officer,female,36563793.0
+13040.0,,901491,papa johns international inc,1.0,,,,20210831,coleman christopher l.,122520821011855,,male,36563793.0
+15151.1243,174.0,901491,papa johns international inc,1.0,,,,20210831,koellner laurette t,122520821011857,,female,36563793.0
+5502.0,,901491,papa johns international inc,1.0,,,,20210831,mangan jocelyn c,122520821011858,,female,36563793.0
+8913.0,,901491,papa johns international inc,1.0,,,,20210831,medina sonya e,122520821011859,,female,36563793.0
+36871.0,,901491,papa johns international inc,1.0,,,,20210831,o'neal shaquille r,122520821011860,,male,36563793.0
+9560.5666,3000.0,901491,papa johns international inc,1.0,,,,20210831,sanfilippo anthony michael,122520821011861,,male,36563793.0
+81450.0469,112498.8539,901491,papa johns international inc,1.0,,,,20210831,kirtley olivia f,122520821011856,,female,36563793.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20210831,smith jeffrey c,92189521002228,,male,36563793.0
+8862.4229,,901491,papa johns international inc,,1.0,,,20210902,boakye marvin,122520821011972,Chief People & Diversity Ofc,male,36563793.0
+11911.304,,901491,papa johns international inc,,1.0,,,20210902,clark amanda,122520821011973,Chief Development Officer,female,36563793.0
+8886.6525,,901491,papa johns international inc,,1.0,,,20211001,boakye marvin,122520821012659,Chief People & Diversity Ofc,male,36200000.0
+11919.118,,901491,papa johns international inc,,1.0,,,20211001,clark amanda,122520821012660,Chief Development Officer,female,36200000.0
+17198.0,,901491,papa johns international inc,,1.0,,,20211007,gugino ann b,122520821013049,Chief Financial Officer,female,36200000.0
+8917.6498,,901491,papa johns international inc,,1.0,,,20211102,boakye marvin,122520821013444,Chief People & Diversity Ofc,male,36363904.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20211102,smith jeffrey c,92189521002508,,male,36363904.0
+9760.0346,3000.0,901491,papa johns international inc,1.0,,,,20211102,sanfilippo anthony michael,122520821013446,,male,36363904.0
+11929.1146,,901491,papa johns international inc,,1.0,,,20211102,clark amanda,122520821013445,Chief Development Officer,female,36363904.0
+22092.0,608.892,901491,papa johns international inc,,1.0,,,20211110,oyler caroline miller,122520821013767,Chief Legal & Risk Officer,female,36363904.0
+11206.0,,901491,papa johns international inc,,1.0,,,20211110,wetzel christopher maxwell,122520821013768,"EVP, Chief Commercial Officer",male,36363904.0
+9225.0,,901491,papa johns international inc,,1.0,,,20211122,wetzel christopher maxwell,122520821014039,"EVP, Chief Commercial Officer",male,36363904.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20211123,smith jeffrey c,92189521002760,,male,36363904.0
+15174.494,174.0,901491,papa johns international inc,1.0,,,,20211123,koellner laurette t,122520821014105,,female,36363904.0
+8921.7628,,901491,papa johns international inc,,1.0,,,20211123,boakye marvin,122520821014106,Chief People & Diversity Ofc,male,36363904.0
+13054.0,,901491,papa johns international inc,1.0,,,,20211123,coleman christopher l.,122520821014104,,male,36363904.0
+5515.0,,901491,papa johns international inc,1.0,,,,20211123,mangan jocelyn c,122520821014109,,female,36363904.0
+8927.0,,901491,papa johns international inc,1.0,,,,20211123,medina sonya e,122520821014110,,female,36363904.0
+36884.0,,901491,papa johns international inc,1.0,,,,20211123,o'neal shaquille r,122520821014111,,male,36363904.0
+9784.1722,3000.0,901491,papa johns international inc,1.0,,,,20211123,sanfilippo anthony michael,122520821014112,,male,36363904.0
+9661.0,,901491,papa johns international inc,,1.0,,,20211123,swaysland jack h,122520821014115,"COO, International",male,36363904.0
+11929.3805,,901491,papa johns international inc,,1.0,,,20211123,clark amanda,122520821014107,Chief Development Officer,female,36363904.0
+81662.0054,112498.8539,901491,papa johns international inc,1.0,,,,20211123,kirtley olivia f,122520821014108,,female,36363904.0
+89947.0,,901491,papa johns international inc,1.0,1.0,,,20211126,lynch robert,122520821014160,President and CEO,male,36363904.0
+86372.0054,112498.8539,901491,papa johns international inc,1.0,,,,20211201,kirtley olivia f,122520821014287,,female,36363904.0
+8947.0124,,901491,papa johns international inc,,1.0,,,20211201,boakye marvin,122520821014285,Chief People & Diversity Ofc,male,36363904.0
+11937.5234,,901491,papa johns international inc,,1.0,,,20211201,clark amanda,122520821014286,Chief Development Officer,female,36363904.0
+8975.8549,,901491,papa johns international inc,,1.0,,,20220104,boakye marvin,122520822000234,Chief People & Diversity Ofc,male,35800000.0
+11946.825,,901491,papa johns international inc,,1.0,,,20220104,clark amanda,122520822000235,Chief Development Officer,female,35800000.0
+11962.9027,,901491,papa johns international inc,,1.0,,,20220202,clark amanda,122520822001254,Chief Development Officer,female,35800000.0
+8995.7962,,901491,papa johns international inc,,1.0,,,20220202,boakye marvin,122520822001253,Chief People & Diversity Ofc,male,35800000.0
+9984.6744,3000.0,901491,papa johns international inc,1.0,,,,20220202,sanfilippo anthony michael,122520822001255,,male,35800000.0
+9000.8279,,901491,papa johns international inc,,1.0,,,20220222,boakye marvin,122520822002980,Chief People & Diversity Ofc,male,35800000.0
+9160.3161,,901491,papa johns international inc,,1.0,,,20220222,clark amanda,122520822002979,Chief Development Officer,female,35800000.0
+5531.0,,901491,papa johns international inc,1.0,,,,20220223,mangan jocelyn c,122520822003158,,female,35800000.0
+86619.2633,112498.8539,901491,papa johns international inc,1.0,,,,20220223,kirtley olivia f,122520822003156,,female,35800000.0
+13070.0,,901491,papa johns international inc,1.0,,,,20220223,coleman christopher l.,122520822003155,,male,35800000.0
+8943.0,,901491,papa johns international inc,1.0,,,,20220223,medina sonya e,122520822003159,,female,35800000.0
+36900.0,,901491,papa johns international inc,1.0,,,,20220223,o'neal shaquille r,122520822003160,,male,35800000.0
+10014.1318,3000.0,901491,papa johns international inc,1.0,,,,20220223,sanfilippo anthony michael,122520822003161,,male,35800000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20220223,smith jeffrey c,92189522000639,,male,35800000.0
+15201.4399,174.0,901491,papa johns international inc,1.0,,,,20220223,koellner laurette t,122520822003157,,female,35800000.0
+14704.6057,,901491,papa johns international inc,,1.0,,,20220302,boakye marvin,122520822003881,Chief People & Diversity Ofc,male,35800000.0
+10322.4706,,901491,papa johns international inc,,1.0,,,20220302,clark amanda,122520822003882,Chief Development Officer,female,35800000.0
+19685.0,,901491,papa johns international inc,,1.0,,,20220302,gugino ann b,122520822003883,Chief Financial Officer,female,35800000.0
+27657.0,608.892,901491,papa johns international inc,,1.0,,,20220302,oyler caroline miller,122520822003885,Chief Legal & Risk Officer,female,35800000.0
+13886.0,,901491,papa johns international inc,,1.0,,,20220302,swaysland jack h,122520822003886,"COO, International",male,35800000.0
+11671.0,,901491,papa johns international inc,,1.0,,,20220302,wetzel christopher maxwell,122520822003887,"EVP, Chief Commercial Officer",male,35800000.0
+100143.0,,901491,papa johns international inc,1.0,1.0,,,20220302,lynch robert,122520822003884,President and CEO,male,35800000.0
+10071.4706,,901491,papa johns international inc,,1.0,,,20220303,clark amanda,122520822004147,Chief Development Officer,female,35800000.0
+11296.0,,901491,papa johns international inc,,1.0,,,20220303,wetzel christopher maxwell,122520822004148,"EVP, Chief Commercial Officer",male,35800000.0
+14733.8487,,901491,papa johns international inc,,1.0,,,20220401,boakye marvin,122520822005310,Chief People & Diversity Ofc,male,35700000.0
+10095.0478,,901491,papa johns international inc,,1.0,,,20220401,clark amanda,122520822005311,Chief Development Officer,female,35700000.0
+61429.0,,901491,papa johns international inc,1.0,,,,20220413,o'neal shaquille r,122520822005828,,male,35700000.0
+14764.2633,,901491,papa johns international inc,,1.0,,,20220503,boakye marvin,122520822006351,Chief People & Diversity Ofc,male,35794906.0
+10285.9604,3000.0,901491,papa johns international inc,1.0,,,,20220503,sanfilippo anthony michael,122520822006353,,male,35794906.0
+10118.8727,,901491,papa johns international inc,,1.0,,,20220503,clark amanda,122520822006352,Chief Intl & Devt Officer,female,35794906.0
+16698.4399,174.0,901491,papa johns international inc,1.0,,,,20220511,koellner laurette t,122520822006829,,female,35794906.0
+62926.0,,901491,papa johns international inc,1.0,,,,20220511,o'neal shaquille r,122520822006832,,male,35794906.0
+10440.0,,901491,papa johns international inc,1.0,,,,20220511,medina sonya e,122520822006831,,female,35794906.0
+7028.0,,901491,papa johns international inc,1.0,,,,20220511,mangan jocelyn c,122520822006830,,female,35794906.0
+88116.2633,112498.8539,901491,papa johns international inc,1.0,,,,20220511,kirtley olivia f,122520822006828,,female,35794906.0
+14567.0,,901491,papa johns international inc,1.0,,,,20220511,coleman christopher l.,122520822006827,,male,35794906.0
+22678.0,,901491,papa johns international inc,,1.0,,,20220511,gugino ann b,122520822006826,Chief Financial Officer,female,35794906.0
+10454.8727,,901491,papa johns international inc,,1.0,,,20220511,clark amanda,122520822006825,Chief Intl & Devt Officer,female,35794906.0
+11782.9604,3000.0,901491,papa johns international inc,1.0,,,,20220511,sanfilippo anthony michael,122520822006833,,male,35794906.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20220511,smith jeffrey c,92189522001576,,male,35794906.0
+11983.0,,901491,papa johns international inc,,1.0,,,20220517,wetzel christopher maxwell,122520822007124,"EVP, Chief Operating Officer",male,35794906.0
+11828.2574,3000.0,901491,papa johns international inc,1.0,,,,20220531,sanfilippo anthony michael,122520822007476,,male,35794906.0
+62952.0,,901491,papa johns international inc,1.0,,,,20220531,o'neal shaquille r,122520822007475,,male,35794906.0
+10467.0,,901491,papa johns international inc,1.0,,,,20220531,medina sonya e,122520822007474,,female,35794906.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20220531,smith jeffrey c,92189522001846,,male,35794906.0
+7054.0,,901491,papa johns international inc,1.0,,,,20220531,mangan jocelyn c,122520822007473,,female,35794906.0
+16739.6882,174.0,901491,papa johns international inc,1.0,,,,20220531,koellner laurette t,122520822007472,,female,35794906.0
+88444.2927,112498.8539,901491,papa johns international inc,1.0,,,,20220531,kirtley olivia f,122520822007471,,female,35794906.0
+14594.0,,901491,papa johns international inc,1.0,,,,20220531,coleman christopher l.,122520822007470,,male,35794906.0
+10481.4588,,901491,papa johns international inc,,1.0,,,20220601,clark amanda,122520822007498,Chief Intl & Devt Officer,female,35794906.0
+14803.5222,,901491,papa johns international inc,,1.0,,,20220601,boakye marvin,122520822007497,Chief People & Diversity Ofc,male,35794906.0
+14842.6655,,901491,papa johns international inc,,1.0,,,20220701,boakye marvin,122520822008402,Chief People & Diversity Ofc,male,35200000.0
+10515.9972,,901491,papa johns international inc,,1.0,,,20220701,clark amanda,122520822008403,Chief Intl & Devt Officer,female,35200000.0
+14869.9405,,901491,papa johns international inc,,1.0,,,20220801,boakye marvin,122520822009095,Chief People & Diversity Ofc,male,35347234.0
+10540.0635,,901491,papa johns international inc,,1.0,,,20220801,clark amanda,122520822009096,Chief Intl & Devt Officer,female,35347234.0
+12112.4371,3000.0,901491,papa johns international inc,1.0,,,,20220801,sanfilippo anthony michael,122520822009097,,male,35347234.0
+11932.7624,,901491,papa johns international inc,,1.0,,,20220829,boakye marvin,122520822009823,Chief People & Diversity Ofc,male,35347234.0
+10541.81,,901491,papa johns international inc,,1.0,,,20220829,clark amanda,122520822009824,Chief Intl & Devt Officer,female,35347234.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20220830,smith jeffrey c,92189522002586,,male,35347234.0
+81805.0,,901491,papa johns international inc,1.0,1.0,,,20220830,lynch robert,122520822009852,President and CEO,male,35347234.0
+12172.2506,3000.0,901491,papa johns international inc,1.0,,,,20220830,sanfilippo anthony michael,122520822009859,,male,35347234.0
+88868.4068,112498.8539,901491,papa johns international inc,1.0,,,,20220830,kirtley olivia f,122520822009854,,female,35347234.0
+16793.1057,174.0,901491,papa johns international inc,1.0,,,,20220830,koellner laurette t,122520822009855,,female,35347234.0
+7088.0,,901491,papa johns international inc,1.0,,,,20220830,mangan jocelyn c,122520822009856,,female,35347234.0
+10502.0,,901491,papa johns international inc,1.0,,,,20220830,medina sonya e,122520822009857,,female,35347234.0
+62986.0,,901491,papa johns international inc,1.0,,,,20220830,o'neal shaquille r,122520822009858,,male,35347234.0
+14629.0,,901491,papa johns international inc,1.0,,,,20220830,coleman christopher l.,122520822009853,,male,35347234.0
+10570.3921,,901491,papa johns international inc,,1.0,,,20220901,clark amanda,122520822009910,Chief Intl & Devt Officer,female,35347234.0
+11965.1552,,901491,papa johns international inc,,1.0,,,20220901,boakye marvin,122520822009909,Chief People & Diversity Ofc,male,35347234.0
+10611.6013,,901491,papa johns international inc,,1.0,,,20221004,clark amanda,122520822010712,Chief Intl & Devt Officer,female,35100000.0
+12011.8587,,901491,papa johns international inc,,1.0,,,20221004,boakye marvin,122520822010711,Chief People & Diversity Ofc,male,35100000.0
+20301.0,,901491,papa johns international inc,,1.0,,,20221007,gugino ann b,122520822010909,Chief Financial Officer,female,35100000.0
+15853.0,,901491,papa johns international inc,1.0,,,,20221020,coleman christopher l.,122520822011058,,male,35100000.0
+12547.6466,3000.0,901491,papa johns international inc,1.0,,,,20221101,sanfilippo anthony michael,122520822011278,,male,35328153.0
+10643.3924,,901491,papa johns international inc,,1.0,,,20221101,clark amanda,122520822011277,Chief Intl & Devt Officer,female,35328153.0
+12047.8884,,901491,papa johns international inc,,1.0,,,20221101,boakye marvin,122520822011276,Chief People & Diversity Ofc,male,35328153.0
+11952.0,,901491,papa johns international inc,,1.0,,,20221110,wetzel christopher maxwell,122520822011588,"EVP, Chief Operating Officer",male,35328153.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20221129,smith jeffrey c,92189522003129,,male,35328153.0
+12608.1039,3000.0,901491,papa johns international inc,1.0,,,,20221129,sanfilippo anthony michael,122520822011976,,male,35328153.0
+63019.0,,901491,papa johns international inc,1.0,,,,20221129,o'neal shaquille r,122520822011975,,male,35328153.0
+10536.0,,901491,papa johns international inc,1.0,,,,20221129,medina sonya e,122520822011974,,female,35328153.0
+7121.0,,901491,papa johns international inc,1.0,,,,20221129,mangan jocelyn c,122520822011973,,female,35328153.0
+16845.3309,174.0,901491,papa johns international inc,1.0,,,,20221129,koellner laurette t,122520822011972,,female,35328153.0
+89287.4574,112498.8539,901491,papa johns international inc,1.0,,,,20221129,kirtley olivia f,122520822011971,,female,35328153.0
+15887.0,,901491,papa johns international inc,1.0,,,,20221129,coleman christopher l.,122520822011970,,male,35328153.0
+10645.6327,,901491,papa johns international inc,,1.0,,,20221129,clark amanda,122520822011969,Chief Intl & Devt Officer,female,35328153.0
+10673.353,,901491,papa johns international inc,,1.0,,,20221201,clark amanda,122520822012054,Chief Intl & Devt Officer,female,35328153.0
+10708.4204,,901491,papa johns international inc,,1.0,,,20230104,clark amanda,122520823000104,Chief Intl & Devt Officer,female,34700000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20230201,smith jeffrey c,92189523000247,,male,34700000.0
+12911.9281,3000.0,901491,papa johns international inc,1.0,,,,20230201,sanfilippo anthony michael,122520823001179,,male,34700000.0
+,,901491,papa johns international inc,1.0,0.0,0.0,0.0,20230222,smith jeffrey c,92189523000594,,male,34700000.0
+10566.0,,901491,papa johns international inc,1.0,,,,20230222,medina sonya e,122520823002546,,female,34700000.0
+21823.0,,901491,papa johns international inc,1.0,,,,20230222,coleman christopher l.,122520823002542,,male,34700000.0
+89657.3297,112498.8539,901491,papa johns international inc,1.0,,,,20230222,kirtley olivia f,122520823002543,,female,34700000.0
+16891.4177,174.0,901491,papa johns international inc,1.0,,,,20230222,koellner laurette t,122520823002544,,female,34700000.0
+10710.6759,,901491,papa johns international inc,,1.0,,,20230222,clark amanda,122520823002541,Chief Intl & Devt Officer,female,34700000.0
+12966.7437,3000.0,901491,papa johns international inc,1.0,,,,20230222,sanfilippo anthony michael,122520823002548,,male,34700000.0
+63048.0,,901491,papa johns international inc,1.0,,,,20230222,o'neal shaquille r,122520823002547,,male,34700000.0
+7150.0,,901491,papa johns international inc,1.0,,,,20230222,mangan jocelyn c,122520823002545,,female,34700000.0
+30047.0,628.0,901491,papa johns international inc,,1.0,,,20230301,oyler caroline miller,122520823003059,Chief Legal & Risk Officer,female,34700000.0
+13339.6759,,901491,papa johns international inc,,1.0,,,20230301,clark amanda,122520823003058,Chief Intl & Devt Officer,female,34700000.0
+23958.0,,901491,papa johns international inc,,1.0,,,20230301,gugino ann b,122520823003057,Chief Financial Officer,female,34700000.0
+105703.0,,901491,papa johns international inc,1.0,1.0,,,20230301,lynch robert,122520823003056,President and CEO,male,34700000.0
+13466.0,,901491,papa johns international inc,,1.0,,,20230302,wetzel christopher maxwell,122520823003193,"EVP, Chief Operating Officer",male,34700000.0
+32424.0,628.0,901491,papa johns international inc,,1.0,,,20230302,oyler caroline miller,122520823003192,Chief Legal & Risk Officer,female,34700000.0
+122679.0,,901491,papa johns international inc,1.0,1.0,,,20230302,lynch robert,122520823003191,President and CEO,male,34700000.0
+14890.6759,,901491,papa johns international inc,,1.0,,,20230302,clark amanda,122520823003189,Chief Intl & Devt Officer,female,34700000.0
+23624.0,,901491,papa johns international inc,,1.0,,,20230302,gugino ann b,122520823003190,Chief Financial Officer,female,34700000.0
+13101.0,,901491,papa johns international inc,,1.0,,,20230303,wetzel christopher maxwell,122520823003224,"EVP, Chief Operating Officer",male,34700000.0
+,,901491,papa johns international inc,0.0,0.0,0.0,1.0,20230303,smith jeffrey c,92189523000636,,male,34700000.0
+32250.0,628.0,901491,papa johns international inc,,1.0,,,20230303,oyler caroline miller,122520823003223,Chief Legal & Risk Officer,female,34700000.0
+120114.0,,901491,papa johns international inc,1.0,1.0,,,20230303,lynch robert,122520823003222,President and CEO,male,34700000.0
+23304.0,,901491,papa johns international inc,,1.0,,,20230303,gugino ann b,122520823003221,Chief Financial Officer,female,34700000.0
+14665.6759,,901491,papa johns international inc,,1.0,,,20230303,clark amanda,122520823003220,Chief Intl & Devt Officer,female,34700000.0
+13331.1459,3000.0,901491,papa johns international inc,1.0,,,,20230501,sanfilippo anthony michael,122520823005214,,male,32656059.0
+24518.0,,901491,papa johns international inc,1.0,,,,20230510,coleman christopher l.,122520823005685,,male,32656059.0
+12170.0,,901491,papa johns international inc,1.0,,,,20230510,medina sonya e,122520823005688,,female,32656059.0
+46020.0,,901491,papa johns international inc,1.0,,,,20230510,o'neal shaquille r,122520823005689,,male,32656059.0
+14935.1459,3000.0,901491,papa johns international inc,1.0,,,,20230510,sanfilippo anthony michael,122520823005690,,male,32656059.0
+8754.0,,901491,papa johns international inc,1.0,,,,20230510,mangan jocelyn c,122520823005687,,female,32656059.0
+18495.4177,174.0,901491,papa johns international inc,1.0,,,,20230510,koellner laurette t,122520823005686,,female,32656059.0
+14614.6759,,901491,papa johns international inc,,1.0,,,20230511,clark amanda,122520823005751,Chief Intl & Devt Officer,female,32656059.0
+14617.704,,901491,papa johns international inc,,1.0,,,20230531,clark amanda,122520823006292,Chief Intl & Devt Officer,female,32656059.0
+24575.0,,901491,papa johns international inc,1.0,,,,20230531,coleman christopher l.,122520823006293,,male,32656059.0
+18568.0149,174.0,901491,papa johns international inc,1.0,,,,20230531,koellner laurette t,122520823006294,,female,32656059.0
+8803.0,,901491,papa johns international inc,1.0,,,,20230531,mangan jocelyn c,122520823006295,,female,32656059.0
+12221.0,,901491,papa johns international inc,1.0,,,,20230531,medina sonya e,122520823006296,,female,32656059.0
+46069.0,,901491,papa johns international inc,1.0,,,,20230531,o'neal shaquille r,122520823006297,,male,32656059.0
+15021.2758,3000.0,901491,papa johns international inc,1.0,,,,20230531,sanfilippo anthony michael,122520823006298,,male,32656059.0
+15366.0199,3000.0,901491,papa johns international inc,1.0,,,,20230802,sanfilippo anthony michael,122520823007882,,male,32736862.0
+1120.0,,901491,papa johns international inc,1.0,,,,20230809,miller john c,122520823008133,,male,32736862.0
+23279.0,,901491,papa johns international inc,,1.0,,,20230809,thanawala ravi,122520823008132,Chief Financial Officer,male,32736862.0
+15455.0829,3000.0,901491,papa johns international inc,1.0,,,,20230828,sanfilippo anthony michael,122520823008517,,male,32736862.0
+46119.0,,901491,papa johns international inc,1.0,,,,20230828,o'neal shaquille r,122520823008516,,male,32736862.0
+1126.0,,901491,papa johns international inc,1.0,,,,20230828,miller john c,122520823008515,,male,32736862.0
+12272.0,,901491,papa johns international inc,1.0,,,,20230828,medina sonya e,122520823008514,,female,32736862.0
+8853.0,,901491,papa johns international inc,1.0,,,,20230828,mangan jocelyn c,122520823008513,,female,32736862.0
+18641.1526,174.0,901491,papa johns international inc,1.0,,,,20230828,koellner laurette t,122520823008512,,female,32736862.0
+24633.0,,901491,papa johns international inc,1.0,,,,20230828,coleman christopher l.,122520823008511,,male,32736862.0
+14620.8078,,901491,papa johns international inc,,1.0,,,20230828,clark amanda,122520823008510,Chief Intl & Devt Officer,female,32736862.0
+15893.4095,3000.0,901491,papa johns international inc,1.0,,,,20231101,sanfilippo anthony michael,122520823009868,,male,32755858.0
+918.0,,901491,papa johns international inc,1.0,,,,20231108,gibbs stephen l,122520823010112,,male,32755858.0
+918.0,,901491,papa johns international inc,1.0,,,,20231108,garratt john w,122520823010111,,male,32755858.0
+14885.8078,,901491,papa johns international inc,,1.0,,,20231108,clark amanda,122520823010110,"COO, International",female,32755858.0
+24699.0,,901491,papa johns international inc,1.0,,,,20231128,coleman christopher l.,122520823010480,,male,32755858.0
+924.0,,901491,papa johns international inc,1.0,,,,20231128,garratt john w,122520823010481,,male,32755858.0
+924.0,,901491,papa johns international inc,1.0,,,,20231128,gibbs stephen l,122520823010482,,male,32755858.0
+18725.4068,174.0,901491,papa johns international inc,1.0,,,,20231128,koellner laurette t,122520823010483,,female,32755858.0
+8911.0,,901491,papa johns international inc,1.0,,,,20231128,mangan jocelyn c,122520823010484,,female,32755858.0
+12331.0,,901491,papa johns international inc,1.0,,,,20231128,medina sonya e,122520823010485,,female,32755858.0
+1133.0,,901491,papa johns international inc,1.0,,,,20231128,miller john c,122520823010486,,male,32755858.0
+46177.0,,901491,papa johns international inc,1.0,,,,20231128,o'neal shaquille r,122520823010487,,male,32755858.0
+14889.3486,,901491,papa johns international inc,,1.0,,,20231128,clark amanda,122520823010479,"COO, International",female,32755858.0
+15999.6874,3000.0,901491,papa johns international inc,1.0,,,,20231128,sanfilippo anthony michael,122520823010488,,male,32755858.0
+16387.548,3000.0,901491,papa johns international inc,1.0,,,,20240202,sanfilippo anthony michael,122520824001491,,male,32500000.0
+28407.0,,901491,papa johns international inc,1.0,,,,20240216,coleman christopher l.,122520824002326,,male,32500000.0
+929.0,,901491,papa johns international inc,1.0,,,,20240227,gibbs stephen l,122520824003110,,male,32500000.0
+18804.256,174.0,901491,papa johns international inc,1.0,,,,20240227,koellner laurette t,122520824003111,,female,32500000.0
+46231.0,,901491,papa johns international inc,1.0,,,,20240227,o'neal shaquille r,122520824003115,,male,32500000.0
+12386.0,,901491,papa johns international inc,1.0,,,,20240227,medina sonya e,122520824003113,,female,32500000.0
+1140.0,,901491,papa johns international inc,1.0,,,,20240227,miller john c,122520824003114,,male,32500000.0
+28469.0,,901491,papa johns international inc,1.0,,,,20240227,coleman christopher l.,122520824003108,,male,32500000.0
+16489.7946,3000.0,901491,papa johns international inc,1.0,,,,20240227,sanfilippo anthony michael,122520824003116,,male,32500000.0
+8965.0,,901491,papa johns international inc,1.0,,,,20240227,mangan jocelyn c,122520824003112,,female,32500000.0
+929.0,,901491,papa johns international inc,1.0,,,,20240227,garratt john w,122520824003109,,male,32500000.0
+31956.0,628.0,901491,papa johns international inc,,1.0,,,20240229,oyler caroline miller,122520824003276,Chief Legal & Risk Officer,female,32500000.0
+117740.0,,901491,papa johns international inc,1.0,1.0,,,20240229,lynch robert,122520824003275,President and CEO,male,32500000.0
+116026.0,,901491,papa johns international inc,1.0,1.0,,,20240304,lynch robert,122520824003490,President and CEO,male,32500000.0
+31788.0,628.0,901491,papa johns international inc,,1.0,,,20240304,oyler caroline miller,122520824003491,Chief Legal & Risk Officer,female,32500000.0
+33070.0,628.0,901491,papa johns international inc,,1.0,,,20240305,oyler caroline miller,122520824003715,Chief Legal & Risk Officer,female,32500000.0
+126013.0,,901491,papa johns international inc,1.0,1.0,,,20240305,lynch robert,122520824003716,President and CEO,male,32500000.0
+161052.0,,901491,papa johns international inc,1.0,1.0,,,20240306,lynch robert,122520824003800,President and CEO,male,32500000.0
+30988.0,,901491,papa johns international inc,,1.0,,,20240306,thanawala ravi,122520824003801,Chief Financial Officer,male,32500000.0
+36925.0,638.0,901491,papa johns international inc,,1.0,,,20240306,oyler caroline miller,122520824003802,Chief Legal & Risk Officer,female,32500000.0
+18804.256,174.0,901491,papa johns international inc,1.0,,,,20240307,koellner laurette t,122520824003864,,female,32500000.0
+39187.0,638.0,901491,papa johns international inc,,1.0,,,20240327,oyler caroline miller,122520824004579,Chief Legal & Risk Officer,female,32500000.0
+37020.0,,901491,papa johns international inc,,1.0,,,20240327,thanawala ravi,122520824004578,"Interim CEO, and CFO",male,32500000.0
+3723.0,,901491,papa johns international inc,1.0,,,,20240514,miller john c,122520824006025,,male,32972325.0
+14969.0,,901491,papa johns international inc,1.0,,,,20240514,medina sonya e,122520824006024,,female,32972325.0
+11548.0,,901491,papa johns international inc,1.0,,,,20240514,mangan jocelyn c,122520824006023,,female,32972325.0
+21387.256,174.0,901491,papa johns international inc,1.0,,,,20240514,koellner laurette t,122520824006022,,female,32972325.0
+3512.0,,901491,papa johns international inc,1.0,,,,20240514,gibbs stephen l,122520824006021,,male,32972325.0
+3512.0,,901491,papa johns international inc,1.0,,,,20240514,garratt john w,122520824006020,,male,32972325.0
+32678.0,,901491,papa johns international inc,1.0,,,,20240514,coleman christopher l.,122520824006019,,male,32972325.0
+38920.0,,901491,papa johns international inc,,1.0,,,20240514,thanawala ravi,122520824006027,"Interim CEO, and CFO",male,32972325.0
+19072.7946,3000.0,901491,papa johns international inc,1.0,,,,20240514,sanfilippo anthony michael,122520824006026,,male,32972325.0
+3546.0,,901491,papa johns international inc,1.0,,,,20240604,garratt john w,122520824006596,,male,32972325.0
+3546.0,,901491,papa johns international inc,1.0,,,,20240604,gibbs stephen l,122520824006597,,male,32972325.0
+11660.0,,901491,papa johns international inc,1.0,,,,20240604,mangan jocelyn c,122520824006599,,female,32972325.0
+15083.0,,901491,papa johns international inc,1.0,,,,20240604,medina sonya e,122520824006600,,female,32972325.0
+3759.0,,901491,papa johns international inc,1.0,,,,20240604,miller john c,122520824006601,,male,32972325.0
+19872.5205,3000.0,901491,papa johns international inc,1.0,,,,20240604,sanfilippo anthony michael,122520824006602,,male,32972325.0
+32819.0,,901491,papa johns international inc,1.0,,,,20240604,coleman christopher l.,122520824006595,,male,32972325.0
+21538.308,174.0,901491,papa johns international inc,1.0,,,,20240604,koellner laurette t,122520824006598,,female,32972325.0
+,,901491,papa johns international inc,,1.0,,,20240719,thanawala ravi,122520824007508,"Interim CEO, and CFO",male,32600000.0
+,,901491,papa johns international inc,,1.0,,,20240719,oyler caroline miller,122520824007507,Chief Legal & Risk Officer,female,32600000.0
+56524.0,,901491,papa johns international inc,1.0,1.0,,,20240802,penegor todd allan,122520824007810,President & CEO,male,32625886.0
+20545.1409,3000.0,901491,papa johns international inc,1.0,,,,20240802,sanfilippo anthony michael,122520824007809,,male,32625886.0
+36584.0,,901491,papa johns international inc,,1.0,,,20240809,thanawala ravi,122520824007961,"Interim CEO, and CFO",male,32625886.0
+35069.0,,901491,papa johns international inc,1.0,,,,20240814,coleman christopher l.,122520824008009,,male,32625886.0
+3580.0,,901491,papa johns international inc,1.0,,,,20240904,garratt john w,122520824008440,,male,32625886.0
+35210.0,,901491,papa johns international inc,1.0,,,,20240904,coleman christopher l.,122520824008439,,male,32625886.0
+21689.008,174.0,901491,papa johns international inc,1.0,,,,20240904,koellner laurette t,122520824008442,,female,32625886.0
+3795.0,,901491,papa johns international inc,1.0,,,,20240904,miller john c,122520824008472,,male,32625886.0
+20743.2567,3000.0,901491,papa johns international inc,1.0,,,,20240904,sanfilippo anthony michael,122520824008446,,male,32625886.0
+11771.0,,901491,papa johns international inc,1.0,,,,20240904,mangan jocelyn c,122520824008443,,female,32625886.0
+15197.0,,901491,papa johns international inc,1.0,,,,20240904,medina sonya e,122520824008444,,female,32625886.0
+3580.0,,901491,papa johns international inc,1.0,,,,20240904,gibbs stephen l,122520824008441,,male,32625886.0
+37850.0,,901491,papa johns international inc,,1.0,,,20240910,thanawala ravi,122520824008577,"CFO and EVP, International",male,32625886.0
+9619.3,,901491,papa johns international inc,,1.0,,,20240910,sieve joseph,122520824008576,Chief Restaurant & Development,male,32625886.0
+21311.2215,3000.0,901491,papa johns international inc,1.0,,,,20241101,sanfilippo anthony michael,122520824009571,,male,32641623.0
+3829.0,,901491,papa johns international inc,1.0,,,,20241202,miller john c,122520824010343,,male,32641623.0
+35342.0,,901491,papa johns international inc,1.0,,,,20241202,coleman christopher l.,122520824010337,,male,32641623.0
+3612.0,,901491,papa johns international inc,1.0,,,,20241202,garratt john w,122520824010338,,male,32641623.0
+21831.235,174.0,901491,papa johns international inc,1.0,,,,20241202,koellner laurette t,122520824010340,,female,32641623.0
+11876.0,,901491,papa johns international inc,1.0,,,,20241202,mangan jocelyn c,122520824010341,,female,32641623.0
+15304.0,,901491,papa johns international inc,1.0,,,,20241202,medina sonya e,122520824010342,,female,32641623.0
+21504.2845,3000.0,901491,papa johns international inc,1.0,,,,20241202,sanfilippo anthony michael,122520824010344,,male,32641623.0
+3612.0,,901491,papa johns international inc,1.0,,,,20241202,gibbs stephen l,122520824010339,,male,32641623.0

@@ -1,13 +1,13 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3700.0,0.0,1499961,"net element international, inc.",0,1,0,0,20121029,hernandez alberto,114420412058315,Chief Operating Officer,male,5750000.0
-1153700.0,0.0,1499961,"net element international, inc.",1,1,0,0,20121029,piovanetti francesco,114420412058317,Chief Executive Officer,male,5750000.0
-4600.0,0.0,1499961,"net element international, inc.",0,1,0,0,20121126,hernandez alberto,114420412064767,Chief Operating Officer,male,28338306.0
-1154600.0,0.0,1499961,"net element international, inc.",1,1,0,0,20121126,piovanetti francesco,114420412064770,Chief Executive Officer,male,28338306.0
-726563.0,0.0,1499961,"net element international, inc.",1,1,0,0,20121128,kozko dmitry,114420412065296,President,male,28338306.0
+3700.0,,1499961,"net element international, inc.",0,1,0,0,20121029,hernandez alberto,114420412058315,Chief Operating Officer,male,5750000.0
+1153700.0,,1499961,"net element international, inc.",1,1,0,0,20121029,piovanetti francesco,114420412058317,Chief Executive Officer,male,5750000.0
+4600.0,,1499961,"net element international, inc.",0,1,0,0,20121126,hernandez alberto,114420412064767,Chief Operating Officer,male,28338306.0
+1154600.0,,1499961,"net element international, inc.",1,1,0,0,20121126,piovanetti francesco,114420412064770,Chief Executive Officer,male,28338306.0
+726563.0,,1499961,"net element international, inc.",1,1,0,0,20121128,kozko dmitry,114420412065296,President,male,28338306.0
 0.0,15673726.0,1499961,"net element international, inc.",1,0,1,0,20121130,zoi mike,114420412065882,,male,28338306.0
 1777344.0,13896382.0,1499961,"net element international, inc.",1,0,1,0,20121231,zoi mike,114420412070319,,male,28303659.0
-5749.0,0.0,1499961,"net element international, inc.",0,1,0,0,20130628,new jonathan,114420413037289,Chief Financial Officer,male,28303659.0
-1155520.0,0.0,1499961,"net element international, inc.",0,0,1,0,20131018,piovanetti francesco,114420413055710,,male,28214797.0
+5749.0,,1499961,"net element international, inc.",0,1,0,0,20130628,new jonathan,114420413037289,Chief Financial Officer,male,28303659.0
+1155520.0,,1499961,"net element international, inc.",0,0,1,0,20131018,piovanetti francesco,114420413055710,,male,28214797.0
 34463.0,11498.0,1499961,"net element international, inc.",0,1,0,0,20131203,new jonathan,114420413065400,Chief Financial Officer,male,28214797.0
 34170.0,11498.0,1499961,"net element international, inc.",0,1,0,0,20131205,new jonathan,114420413065849,Chief Financial Officer,male,28214797.0
 33970.0,11498.0,1499961,"net element, inc.",0,1,0,0,20131209,new jonathan,114420413066301,Chief Financial Officer,male,28214797.0
@@ -18,30 +18,214 @@ direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,is
 12109.0,11498.0,1499961,"net element, inc.",0,1,0,0,20131223,new jonathan,114420413068626,Chief Financial Officer,male,28214797.0
 10470.0,11498.0,1499961,"net element, inc.",0,1,0,0,20131224,new jonathan,114420413068949,Chief Financial Officer,male,28214797.0
 517108.0,726563.0,1499961,"net element, inc.",1,1,0,0,20140224,kozko dmitry,114420414011160,President,male,32273298.0
-127134.0,0.0,1499961,"net element, inc.",1,0,0,0,20140625,caan james,114420414039672,,male,32273298.0
-126381.0,0.0,1499961,"net element, inc.",1,0,0,0,20140627,caan james,114420414040181,,male,32273298.0
-1411135.0,0.0,1499961,"net element, inc.",1,1,0,0,20140812,firer oleg,114420414048865,CEO,male,38350329.0
-627171.0,0.0,1499961,"net element, inc.",0,1,0,0,20140812,wolberg steven,114420414048858,CLO,male,38350329.0
-150131.0,0.0,1499961,"net element, inc.",1,0,0,0,20140905,caan james,114420414054593,,male,38350329.0
-75200.0,0.0,1499961,"net element, inc.",1,0,0,0,20140908,healy william,114420414054911,,male,38350329.0
-23750.0,0.0,1499961,"net element, inc.",1,0,0,0,20140911,kelley david p ii,114420414055489,,male,38350329.0
-2849272.0,0.0,1499961,"net element, inc.",1,1,0,0,20140912,firer oleg,114420414055751,CEO,male,38350329.0
-59167.0,0.0,1499961,"net element, inc.",1,0,0,0,20140922,vulis felix,114420414057194,,male,38350329.0
-7677835.0,0.0,1499961,"net element, inc.",1,0,1,0,20141104,rakishev kenges,120919114066132,,male,44333289.0
-22500.0,0.0,1499961,"net element, inc.",1,0,0,0,20141106,vulis felix,114420414065607,,male,44333289.0
+127134.0,,1499961,"net element, inc.",1,0,0,0,20140625,caan james,114420414039672,,male,32273298.0
+126381.0,,1499961,"net element, inc.",1,0,0,0,20140627,caan james,114420414040181,,male,32273298.0
+627171.0,,1499961,"net element, inc.",0,1,0,0,20140812,wolberg steven,114420414048858,CLO,male,38350329.0
+1411135.0,,1499961,"net element, inc.",1,1,0,0,20140812,firer oleg,114420414048865,CEO,male,38350329.0
+150131.0,,1499961,"net element, inc.",1,0,0,0,20140905,caan james,114420414054593,,male,38350329.0
+75200.0,,1499961,"net element, inc.",1,0,0,0,20140908,healy william,114420414054911,,male,38350329.0
+23750.0,,1499961,"net element, inc.",1,0,0,0,20140911,kelley david p ii,114420414055489,,male,38350329.0
+2849272.0,,1499961,"net element, inc.",1,1,0,0,20140912,firer oleg,114420414055751,CEO,male,38350329.0
+59167.0,,1499961,"net element, inc.",1,0,0,0,20140922,vulis felix,114420414057194,,male,38350329.0
+7677835.0,,1499961,"net element, inc.",1,0,1,0,20141104,rakishev kenges,120919114066132,,male,44333289.0
+22500.0,,1499961,"net element, inc.",1,0,0,0,20141106,vulis felix,114420414065607,,male,44333289.0
 106495.0,16498.0,1499961,"net element, inc.",0,1,0,0,20141205,new jonathan,114420414072512,Chief Financial Officer,male,45622111.0
-792862.0,0.0,1499961,"net element, inc.",0,1,0,0,20141211,wolberg steven,114420414073499,Chief Legal Officer,male,45622111.0
-3180655.0,0.0,1499961,"net element, inc.",1,1,0,0,20141211,firer oleg,114420414073503,CEO,male,45622111.0
-204639.0,16498.0,1499961,"net element, inc.",0,1,0,0,20141211,new jonathan,114420414073505,Chief Financial Officer,male,45622111.0
-0.0,0.0,1499961,"net element, inc.",0,0,1,0,20150401,mametov anvar,114420415020673,,male,46186962.0
-97700.0,0.0,1499961,"net element, inc.",1,0,0,0,20150609,healy william,114420415036358,,male,46186962.0
-23750.0,0.0,1499961,"net element, inc.",1,0,0,0,20150609,freeman drew j,114420415036356,,male,46186962.0
-172631.0,0.0,1499961,"net element, inc.",1,0,0,0,20150609,caan james,114420415036357,,male,46186962.0
-46250.0,0.0,1499961,"net element, inc.",1,0,0,0,20150609,kelley david p ii,114420415036359,,male,46186962.0
-7700335.0,0.0,1499961,"net element, inc.",1,0,1,0,20150610,rakishev kenges,120919115051796,,male,46186962.0
+,,1499961,"net element, inc.",0,1,0,0,20141211,wolberg steven,114420414073499,Chief Legal Officer,male,45622111.0
+,,1499961,"net element, inc.",1,1,0,0,20141211,firer oleg,114420414073503,CEO,male,45622111.0
+,16498.0,1499961,"net element, inc.",0,1,0,0,20141211,new jonathan,114420414073505,Chief Financial Officer,male,45622111.0
+0.0,,1499961,"net element, inc.",0,0,1,0,20150401,mametov anvar,114420415020673,,male,46186962.0
+23750.0,,1499961,"net element, inc.",1,0,0,0,20150609,freeman drew j,114420415036356,,male,46186962.0
+172631.0,,1499961,"net element, inc.",1,0,0,0,20150609,caan james,114420415036357,,male,46186962.0
+97700.0,,1499961,"net element, inc.",1,0,0,0,20150609,healy william,114420415036358,,male,46186962.0
+46250.0,,1499961,"net element, inc.",1,0,0,0,20150609,kelley david p ii,114420415036359,,male,46186962.0
+7700335.0,,1499961,"net element, inc.",1,0,1,0,20150610,rakishev kenges,120919115051796,,male,46186962.0
 211191.0,16498.0,1499961,"net element, inc.",0,1,0,0,20150619,new jonathan,114420415038171,Chief Financial Officer,male,46186962.0
 176639.0,16498.0,1499961,"net element, inc.",0,1,0,0,20150625,new jonathan,114420415039101,Chief Financial Officer,male,46186962.0
-1150005.0,0.0,1499961,"net element, inc.",0,1,0,0,20150915,wolberg steven,114420415055020,Chief Legal Officer,male,67140012.0
-811986.0,0.0,1499961,"net element, inc.",1,0,0,0,20150915,healy william,114420415055023,,male,67140012.0
-2142857.0,0.0,1499961,"net element, inc.",1,1,0,0,20150915,firer oleg,114420415055105,CEO,male,67140012.0
-14843192.0,0.0,1499961,"net element, inc.",1,0,1,0,20150916,rakishev kenges,89924315004861,,male,67140012.0
+,,1499961,"net element, inc.",0,1,0,0,20150915,wolberg steven,114420415055020,Chief Legal Officer,male,67140012.0
+,,1499961,"net element, inc.",1,1,0,0,20150915,firer oleg,114420415055105,CEO,male,67140012.0
+,,1499961,"net element, inc.",1,0,0,0,20150915,healy william,114420415055023,,male,67140012.0
+,,1499961,"net element, inc.",0,1,0,0,20150915,wolberg steven,114420415055020,Chief Legal Officer,male,67140012.0
+,,1499961,"net element, inc.",1,0,0,0,20150915,healy william,114420415055023,,male,67140012.0
+,,1499961,"net element, inc.",1,1,0,0,20150915,firer oleg,114420415055105,CEO,male,67140012.0
+14843192.0,,1499961,"net element, inc.",1,0,1,0,20150916,rakishev kenges,89924315004861,,male,67140012.0
+14843192.0,,1499961,"net element, inc.",1,0,1,0,20150916,rakishev kenges,89924315004861,,male,67140012.0
+1056706.0,,1499961,"net element, inc.",1,0,0,0,20151120,healy william,114420415067161,,male,80001143.0
+,,1499961,"net element, inc.",0,1,0,0,20151214,wolberg steven,114420415070749,Chief Legal Officer,male,80001143.0
+,,1499961,"net element, inc.",0,1,0,0,20151214,new jonathan,114420415070752,Chief Financial Officer,male,80001143.0
+19507467.0,,1499961,"net element, inc.",1,0,1,0,20160122,rakishev kenges,89924316012094,,male,1126196.0
+,,1499961,"net element, inc.",0,1,0,0,20160614,wolberg steven,114420416108180,Chief Legal Officer,male,11316869.0
+,,1499961,"net element, inc.",1,1,1,0,20160614,firer oleg,114420416108184,Chief Executive Officer,male,11316869.0
+812.0,,1499961,"net element, inc.",1,0,0,0,20160629,ash howard,114420416110646,,male,11316869.0
+107171.0,,1499961,"net element, inc.",1,0,0,0,20160629,healy william,114420416110647,,male,11316869.0
+3875.0,,1499961,"net element, inc.",1,0,0,0,20160629,freeman drew j,114420416110648,,male,11316869.0
+1952247.0,,1499961,"net element, inc.",1,0,1,0,20160630,rakishev kenges,89924316023944,,male,13356092.0
+5313.0,,1499961,"net element, inc.",1,0,0,0,20160630,kelley david p ii,114420416110882,,male,13356092.0
+18764.0,,1499961,"net element, inc.",1,0,0,0,20160630,caan james,114420416110940,,male,13356092.0
+,,1499961,"net element, inc.",0,1,0,0,20160805,wolberg steven,114420416116871,Chief Legal Officer,male,13356092.0
+,,1499961,"net element, inc.",0,1,0,0,20160805,new jonathan,114420416116908,Chief Financial Officer,male,13356092.0
+,1650.0,1499961,"net element, inc.",0,1,0,0,20170302,new jonathan,114420417012462,Chief Financial Officer,male,1535350.0
+,,1499961,"net element, inc.",0,1,0,0,20170302,wolberg steven,114420417012475,Chief Legal Officer,male,1535350.0
+28478.0,,1499961,"net element, inc.",1,0,0,0,20170811,caan james,114420417042435,,male,1900039.0
+10526.0,,1499961,"net element, inc.",1,0,0,0,20170811,ash howard,114420417042431,,male,1900039.0
+13589.0,,1499961,"net element, inc.",1,0,0,0,20170811,freeman drew j,114420417042441,,male,1900039.0
+1961961.0,,1499961,"net element, inc.",1,0,1,0,20170811,rakishev kenges,121390017008511,,male,1900039.0
+116885.0,,1499961,"net element, inc.",1,0,0,0,20170811,healy william,114420417042438,,male,1900039.0
+,,1499961,"net element, inc.",1,1,1,0,20171004,firer oleg,114420417051302,Chief Executive Officer,male,2141208.0
+,,1499961,"net element, inc.",1,1,1,0,20171023,firer oleg,114420417053642,Chief Executive Officer,male,2141208.0
+243863.0,95884.0,1499961,"net element, inc.",1,1,1,0,20171229,firer oleg,114420417065991,Chief Executive Officer,male,2454457.0
+11174.0,166.0,1499961,"net element, inc.",0,1,0,0,20180102,new jonathan,114420418000035,Chief Financial Officer,male,3853100.0
+3116.0,,1499961,"net element, inc.",1,0,0,0,20180102,ash howard,114420418000041,,male,3853100.0
+4709.0,,1499961,"net element, inc.",1,0,0,0,20180102,freeman drew j,114420418000043,,male,3853100.0
+39047.0,,1499961,"net element, inc.",0,1,0,0,20180102,wolberg steven,114420418000045,Chief Legal Officer,male,3853100.0
+5397.0,,1499961,"net element, inc.",1,0,0,0,20180111,freeman drew j,114420418001855,,male,3853100.0
+3804.0,,1499961,"net element, inc.",1,0,0,0,20180112,ash howard,114420418002045,,male,3853100.0
+196885.0,,1499961,"net element, inc.",1,0,0,0,20180116,rakishev kenges,121390018000558,,male,3853100.0
+3536.0,,1499961,"net element, inc.",1,0,0,0,20180215,caan james,114420418009366,,male,3853100.0
+67312.0,,1499961,"net element, inc.",1,1,1,0,20180612,firer oleg,161577418005155,Chief Executive Officer,male,3855833.0
+4894.0,,1499961,"net element, inc.",1,0,0,0,20180717,ash howard,161577418006583,,male,3853813.0
+6487.0,,1499961,"net element, inc.",1,0,0,0,20180717,freeman drew j,161577418006586,,male,3853813.0
+1090.0,,1499961,"net element, inc.",1,0,0,0,20180717,fichman jonathan,161577418006588,,male,3853813.0
+4626.0,,1499961,"net element, inc.",1,0,0,0,20180717,caan james,161577418006591,,male,3853813.0
+197975.0,,1499961,"net element, inc.",1,0,0,0,20180719,rakishev kenges,121390018009418,,male,3853813.0
+1090.0,,1499961,"net element, inc.",1,0,0,0,20180820,najarian jon,161577418008325,,male,3858813.0
+0.0,,1499961,"net element, inc.",1,0,0,0,20180904,ash howard,161577418009128,,male,3858813.0
+701.0,,1499961,"net element, inc.",1,,,,20181017,ash howard,143774918018394,,male,3858813.0
+5327.0,,1499961,"net element, inc.",1,,,,20181017,caan james,143774918018418,,male,3858813.0
+1791.0,,1499961,"net element, inc.",1,,,,20181017,fichman jonathan,143774918018415,,male,3858813.0
+7188.0,,1499961,"net element, inc.",1,,,,20181017,freeman drew j,143774918018399,,male,3858813.0
+198676.0,,1499961,"net element, inc.",1,0,0,0,20181018,rakishev kenges,121390018014078,,male,3858813.0
+1791.0,,1499961,"net element, inc.",1,,,,20181030,najarian jon,143774918019073,,male,3858813.0
+1313.0,,1499961,"net element, inc.",1,,,,20190109,ash howard,143774919000606,,male,3863019.0
+7800.0,,1499961,"net element, inc.",1,,,,20190109,freeman drew j,143774919000619,,male,3863019.0
+2403.0,,1499961,"net element, inc.",1,,,,20190109,fichman jonathan,143774919000605,,male,3863019.0
+2403.0,,1499961,"net element, inc.",1,,,,20190211,najarian jon,143774919002239,,male,3863019.0
+6538.0,,1499961,"net element, inc.",1,,,,20190411,fichman jonathan,143774919007029,,male,3865467.0
+5813.0,,1499961,"net element, inc.",1,,,,20190411,ash howard,143774919006917,,male,3865467.0
+,,1499961,"net element, inc.",,1,,,20190411,ginsberg jeffrey,143774919006919,Chief Financial Officer,male,3865467.0
+365576.0,67312.0,1499961,"net element, inc.",1,1,1,,20190411,firer oleg,143774919006923,Chief Executive Officer,male,3865467.0
+68235.0,,1499961,"net element, inc.",,1,,,20190411,wolberg steven,143774919006926,Chief Legal Officer,male,3865467.0
+26800.0,,1499961,"net element, inc.",1,,,,20190411,freeman drew j,143774919006928,,male,3865467.0
+5903.0,,1499961,"net element, inc.",1,,,,20190411,fichman jonathan,143774919006931,,male,3865467.0
+4903.0,,1499961,"net element, inc.",1,,,,20190411,najarian jon,143774919007022,,male,3865467.0
+6448.0,,1499961,"net element, inc.",1,,,,20190411,ash howard,143774919007028,,male,3865467.0
+27435.0,,1499961,"net element, inc.",1,,,,20190411,freeman drew j,143774919007030,,male,3865467.0
+5538.0,,1499961,"net element, inc.",1,,,,20190415,najarian jon,143774919007198,,male,3865467.0
+28256.0,,1499961,"net element, inc.",1,,,,20190715,freeman drew j,143774919013970,,male,4184514.0
+7269.0,,1499961,"net element, inc.",1,,,,20190715,ash howard,143774919013969,,male,4184514.0
+6359.0,,1499961,"net element, inc.",1,,,,20190715,najarian jon,143774919013967,,male,4184514.0
+7359.0,,1499961,"net element, inc.",1,,,,20190715,fichman jonathan,143774919013968,,male,4184514.0
+29077.0,,1499961,"net element, inc.",1,,,,20191011,freeman drew j,143774919019961,,male,4107798.0
+8090.0,,1499961,"net element, inc.",1,,,,20191011,ash howard,143774919019957,,male,4107798.0
+8180.0,,1499961,"net element, inc.",1,,,,20191011,fichman jonathan,143774919019956,,male,4107798.0
+7180.0,,1499961,"net element, inc.",1,,,,20191015,najarian jon,143774919020000,,male,4107798.0
+61671.0,,1499961,"net element, inc.",,1,,,20191206,wolberg steven,143774919023998,Chief Legal Officer,male,4111082.0
+57167.0,,1499961,"net element, inc.",,1,,,20191209,wolberg steven,143774919024095,Chief Legal Officer,male,4111082.0
+51964.0,,1499961,"net element, inc.",,1,,,20191211,wolberg steven,143774919024188,Chief Legal Officer,male,4111082.0
+3090.0,,1499961,"net element, inc.",1,,,,20191212,ash howard,143774919024344,,male,4111082.0
+47287.0,,1499961,"net element, inc.",,1,,,20191212,wolberg steven,143774919024345,Chief Legal Officer,male,4111082.0
+8348.0,,1499961,"net element, inc.",1,,,,20200122,najarian jon,143774920000971,,male,4111082.0
+1168.0,,1499961,"net element, inc.",1,,,,20200122,wiegand john joseph,143774920000972,,male,4111082.0
+9348.0,,1499961,"net element, inc.",1,,,,20200122,fichman jonathan,143774920001015,,male,4111082.0
+4258.0,,1499961,"net element, inc.",1,,,,20200122,ash howard,143774920000950,,male,4111082.0
+32387.0,,1499961,"net element, inc.",,1,,,20200207,wolberg steven,143774920001961,Chief Legal Officer,male,4111082.0
+27287.0,,1499961,"net element, inc.",,1,,,20200207,wolberg steven,143774920001959,Chief Legal Officer,male,4111082.0
+37287.0,,1499961,"net element, inc.",,1,,,20200303,wolberg steven,143774920004290,Chief Legal Officer,male,4111082.0
+6285.0,,1499961,"net element, inc.",1,,,,20200422,ash howard,143774920008263,,male,4125754.0
+10375.0,,1499961,"net element, inc.",1,,,,20200423,najarian jon,143774920008364,,male,4125754.0
+1485.0,,1499961,"net element, inc.",1,,,,20200519,ash howard,143774920011277,,male,4125754.0
+1916.0,,1499961,"net element, inc.",1,,,,20200709,ash howard,143774920014970,,male,4195670.0
+10806.0,,1499961,"net element, inc.",1,,,,20200710,najarian jon,143774920014993,,male,4195670.0
+17806.0,,1499961,"net element, inc.",1,,,,20200901,najarian jon,143774920019114,,male,4117878.0
+64287.0,,1499961,"net element, inc.",,1,,,20200901,wolberg steven,143774920019113,Chief Legal Officer,male,4117878.0
+10000.0,,1499961,"net element, inc.",,1,,,20200901,ginsberg jeffrey,143774920019112,Chief Financial Officer,male,4117878.0
+417.0,,1499961,"net element, inc.",1,,,,20201006,roland john,143774920020832,,male,5086225.0
+18223.0,,1499961,"net element, inc.",1,,,,20201006,najarian jon,143774920020831,,male,5086225.0
+417.0,,1499961,"net element, inc.",1,,,,20201008,raarup todd,143774920020874,,male,5086225.0
+76574.0,,1499961,"net element, inc.",,1,,,20201202,wolberg steven,143774920024709,Chief Legal Officer,male,4845211.0
+484937.0,67312.0,1499961,"net element, inc.",1,1,1,,20201202,firer oleg,143774920024708,Chief Executive Officer,male,4845211.0
+14824.0,,1499961,"net element, inc.",,1,,,20201202,ginsberg jeffrey,143774920024707,Chief Financial Officer,male,4845211.0
+18492.0,,1499961,"net element, inc.",1,,,,20210209,najarian jon,143774921002364,,male,4997349.0
+686.0,,1499961,"net element, inc.",1,,,,20210209,roland john,143774921002363,,male,4997349.0
+686.0,,1499961,"net element, inc.",1,,,,20210210,raarup todd,143774921002439,,male,4997349.0
+1029.0,,1499961,"net element, inc.",1,,,,20210510,raarup todd,143774921011401,,male,5198156.0
+1029.0,,1499961,"net element, inc.",1,,,,20210510,roland john,143774921011400,,male,5198156.0
+18835.0,,1499961,"net element, inc.",1,,,,20210510,najarian jon,143774921011402,,male,5198156.0
+1319.0,,1499961,"net element, inc.",1,,,,20210707,roland john,143774921016578,,male,5199185.0
+18782.0,,1499961,"net element, inc.",1,,,,20210707,najarian jon,143774921016579,,male,5199185.0
+1319.0,,1499961,"net element, inc.",1,,,,20210707,raarup todd,143774921016580,,male,5199185.0
+8319.0,,1499961,"net element, inc.",1,,,,20210708,roland john,143774921016653,,male,5199185.0
+6319.0,,1499961,"net element, inc.",1,,,,20210708,raarup todd,143774921016654,,male,5199185.0
+23782.0,,1499961,"net element, inc.",1,,,,20210708,najarian jon,143774921016655,,male,5199185.0
+573978.0,67312.0,1499961,"net element, inc.",1,1,1,,20210708,firer oleg,143774921016656,Chief Executive Officer,male,5199185.0
+105684.0,,1499961,"net element, inc.",,1,,,20210708,wolberg steven,143774921016658,Chief Legal Officer,male,5199185.0
+22687.0,,1499961,"net element, inc.",,1,,,20210708,ginsberg jeffrey,143774921016657,Chief Financial Officer,male,5199185.0
+192684.0,,1499961,"net element, inc.",,1,,,20210820,wolberg steven,143774921020590,Chief Legal Officer,male,5404287.0
+147603.0,,1499961,"net element, inc.",,1,,,20210824,wolberg steven,143774921020780,Chief Legal Officer,male,5404287.0
+4824.0,,1499961,"net element, inc.",,1,,,20210824,ginsberg jeffrey,143774921020782,Chief Financial Officer,male,5404287.0
+101684.0,,1499961,"net element, inc.",,1,,,20210825,wolberg steven,143774921021015,Chief Legal Officer,male,5404287.0
+100884.0,,1499961,"net element, inc.",,1,,,20210827,wolberg steven,143774921021106,Chief Legal Officer,male,5404287.0
+14796.0,,1499961,"net element, inc.",,1,,,20210831,wolberg steven,143774921021273,Chief Legal Officer,male,5404287.0
+0.0,,1499961,"net element, inc.",,1,,,20210831,ginsberg jeffrey,143774921021238,Chief Financial Officer,male,5404287.0
+14296.0,,1499961,"net element, inc.",,1,,,20210903,wolberg steven,143774921021511,Chief Legal Officer,male,5404287.0
+24237.0,,1499961,"net element, inc.",1,,,,20211021,najarian jon,143774921024057,,male,7048387.0
+8774.0,,1499961,"net element, inc.",1,,,,20211021,roland john,143774921024056,,male,7048387.0
+6774.0,,1499961,"net element, inc.",1,,,,20211026,raarup todd,143774921024271,,male,7048387.0
+18774.0,,1499961,"net element, inc.",1,,,,20211105,roland john,143774921025471,,male,7048387.0
+16774.0,,1499961,"net element, inc.",1,,,,20211105,raarup todd,143774921025476,,male,7048387.0
+34237.0,,1499961,"net element, inc.",1,,,,20211105,najarian jon,143774921025535,,male,7048387.0
+87800.0,,1499961,"net element, inc.",,1,,,20211105,wolberg steven,143774921025469,Chief Legal Officer,male,7048387.0
+17489.0,,1499961,"net element, inc.",,1,,,20211105,ginsberg jeffrey,143774921025470,Chief Financial Officer,male,7048387.0
+724150.0,67312.0,1499961,"net element, inc.",1,1,1,,20211105,firer oleg,143774921025468,Chief Executive Officer,male,7048387.0
+7438913.0,,1499961,mullen automotive inc.,1,1,0,0,20211118,michery david,120919121065646,"CEO, President",male,7048387.0
+7421120.0,,1499961,mullen automotive inc.,1,1,1,0,20211202,michery david,120919121067537,"CEO, President",male,7048387.0
+7391120.0,,1499961,mullen automotive inc.,1,1,1,0,20220119,michery david,120919122003689,"CEO, President",male,23936162.0
+31157.0,,1499961,mullen automotive inc.,1,0,0,0,20220120,puckett kent,120919122004236,,male,23936162.0
+308174.0,,1499961,mullen automotive inc.,1,1,0,0,20220120,alban jerry,120919122004227,COO,male,23936162.0
+59869.0,,1499961,mullen automotive inc.,1,0,0,0,20220120,betor mark,120919122004230,,male,23936162.0
+8391120.0,,1499961,mullen automotive inc.,1,1,1,0,20220120,michery david,120919122004231,"CEO, President",male,23936162.0
+18611.0,,1499961,mullen automotive inc.,1,0,0,0,20220120,miltner william,120919122004233,,male,23936162.0
+308174.0,,1499961,mullen automotive inc.,0,1,0,0,20220120,sadler kerri,120919122004235,CFO,female,23936162.0
+18611.0,,1499961,mullen automotive inc.,1,0,0,0,20220120,new jonathan,120919122004237,,male,23936162.0
+59729.0,,1499961,mullen automotive inc.,0,1,0,0,20220131,popa calin,120919122005747,Pres. Mullen Automotive,male,23936162.0
+8191120.0,,1499961,mullen automotive inc.,1,1,1,0,20220318,michery david,120919122020108,"CEO, President",male,23936162.0
+8661066.0,,1499961,mullen automotive inc.,1,1,1,0,20220331,michery david,120919122021851,"CEO, President",male,289784112.0
+8611.0,,1499961,mullen automotive inc.,1,0,0,0,20220404,new jonathan,120919122022731,,male,289784112.0
+0.0,,1499961,mullen automotive inc.,1,0,0,0,20220406,puckett kent,120919122023571,,male,289784112.0
+159729.0,,1499961,mullen automotive inc.,0,1,0,0,20220411,popa calin,120919122024069,Pres. Mullen Automotive,male,289784112.0
+304174.0,,1499961,mullen automotive inc.,0,1,0,0,20220425,sadler kerri,120919122025571,CFO,female,289784112.0
+7911066.0,,1499961,mullen automotive inc.,1,1,0,0,20220525,michery david,120919122032006,"CEO, President",male,332443385.0
+7761066.0,,1499961,mullen automotive inc.,1,1,0,0,20220617,michery david,120919122038174,"CEO, President",male,332443385.0
+6969969.0,,1499961,mullen automotive inc.,1,1,0,0,20220701,michery david,120919122040375,"CEO, President",male,498694481.0
+59729.0,,1499961,mullen automotive inc.,0,1,0,0,20220831,popa calin,120919122048202,Pres. Mullen Automotive,male,509294481.0
+9729.0,,1499961,mullen automotive inc.,0,1,0,0,20220915,popa calin,120919122050177,Pres. Mullen Automotive,male,509294481.0
+15843789.0,,1499961,mullen automotive inc.,1,1,0,0,20220923,michery david,120919122051125,"CEO, President",male,509294481.0
+283000.0,,1499961,mullen automotive inc.,1,0,0,0,20220928,novoa ignacio,120919122051498,,male,509294481.0
+604174.0,,1499961,mullen automotive inc.,0,1,0,0,20221014,sadler kerri,120919122053652,CAO,female,37043.0
+309729.0,,1499961,mullen automotive inc.,0,1,0,0,20221014,popa calin,120919122053654,Pres. Mullen Automotive,male,37043.0
+43774395.0,,1499961,mullen automotive inc.,1,1,0,0,20221014,michery david,120919122053656,"CEO, President",male,37043.0
+87453.0,,1499961,mullen automotive inc.,1,1,0,0,20221107,winter mary,120919122056034,Secretary,female,37043.0
+159869.0,,1499961,mullen automotive inc.,1,0,0,0,20221107,betor mark,120919122056036,,male,37043.0
+56085896.0,,1499961,mullen automotive inc.,1,1,0,0,20221114,michery david,120919122056660,"CEO, President",male,37043.0
+79501322.0,,1499961,mullen automotive inc.,1,1,0,0,20221202,michery david,120919122059457,"CEO, President",male,37043.0
+100000.0,,1499961,mullen automotive inc.,1,0,0,0,20221213,puckett kent,120919122060847,,male,37043.0
+0.0,,1499961,mullen automotive inc.,1,0,0,0,20221223,puckett kent,120919122062659,,male,37043.0
+111917806.0,,1499961,mullen automotive inc.,1,1,0,0,20230119,michery david,120919123004059,"CEO, President",male,1696543863.0
+408000.0,,1499961,mullen automotive inc.,1,0,0,0,20230130,novoa ignacio,120919123005561,,male,1696543863.0
+113665510.0,,1499961,mullen automotive inc.,1,1,0,0,20230217,michery david,120919123010878,"CEO, President",male,1696543863.0
+167677.0,,1499961,mullen automotive inc.,0,1,0,0,20230217,new jonathan,120919123010934,CFO,male,1696543863.0
+8611.0,,1499961,mullen automotive inc.,0,1,0,0,20230307,new jonathan,120919123016976,CFO,male,1696543863.0
+113665510.0,,1499961,mullen automotive inc.,1,1,0,0,20230616,michery david,120919123038164,"CEO, President",male,172510340.0
+10980385.0,,1499961,mullen automotive inc.,1,1,0,0,20230707,michery david,120919123041862,"CEO, President",male,86762748.0
+1322083.0,,1499961,mullen automotive inc.,1,1,0,0,20230817,michery david,120919123046159,"CEO, President",male,184168720.0
+9979671.0,,1499961,mullen automotive inc.,1,1,0,0,20231102,michery david,120919123054100,"CEO, President",male,28718.0
+13335.0,,1499961,mullen automotive inc.,true,false,false,false,20240520,miltner william,121390024045288,,male,11412596.0
+16214.0,,1499961,mullen automotive inc.,true,false,false,false,20240520,andersen john kevin,121390024045279,,male,11412596.0
+13923.0,,1499961,mullen automotive inc.,true,false,false,false,20240520,novoa ignacio,121390024045280,,male,11412596.0
+13912.0,,1499961,mullen automotive inc.,true,false,false,false,20240520,betor mark,121390024045281,,male,11412596.0
+13894.0,,1499961,mullen automotive inc.,true,false,false,false,20240520,winter mary,121390024045283,,female,11412596.0
+16667.0,,1499961,mullen automotive inc.,true,false,false,false,20240520,puckett kent,121390024045297,,male,11412596.0
+284784.0,,1499961,mullen automotive inc.,false,true,false,false,20240612,popa calin,121390024052193,President - Mullen Automotive,male,11412596.0
+,,1499961,mullen automotive inc.,0,1,0,0,20241101,new jonathan,182912624007247,CFO,male,76288.0
+1.0,,1499961,mullen automotive inc.,0,1,0,0,20241206,popa calin,182912624008148,President - Mullen Automotive,male,76288.0
+0.0,,1499961,mullen automotive inc.,0,1,0,0,20241213,bragado chester a.,182912624008312,Chief Accounting Officer,male,76288.0
+0.0,,1499961,mullen automotive inc.,1,0,0,0,20241227,novoa ignacio,182912624008591,,male,76288.0

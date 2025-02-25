@@ -1,33 +1,228 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-20909.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20140617,garg gaurav,118143114024186,,male,11008283.0
-20090.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20140617,marshall frank,118143114024187,,male,11008283.0
-322978.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20140617,hilaly aaref,120919114041893,,male,11008283.0
-20000.0,21426.0,1470099,"mobileiron, inc.",0,1,0,0,20140805,ford todd r,118143114028204,Chief Financial Officer,male,75867717.0
-14208.0,422396.0,1470099,"mobileiron, inc.",1,0,0,0,20150206,garg gaurav,120919115010244,,male,76153844.0
-957947.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150213,batchu suresh,120919115013952,Chief Technology Officer,male,76153844.0
-246184.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150213,donnelly john k,120919115013954,Sr. VP of Sales,male,76153844.0
-99722.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150213,finch laurel,120919115013955,"VP Legal, General Cousel, Secy",female,76153844.0
-119298.0,21426.0,1470099,"mobileiron, inc.",0,1,0,0,20150213,ford todd r,120919115013957,Chief Financial Officer,male,76153844.0
-202000.0,1577127.0,1470099,"mobileiron, inc.",1,1,0,0,20150213,tinker robert b,120919115013969,President and CEO,male,76153844.0
-88487.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150213,viarengo vittorio,120919115013971,VP Marketing and Products,male,76153844.0
-100000.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150512,biddiscombe simon,120919115041804,Interim CFO,male,77991885.0
-86426.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150528,viarengo vittorio,120919115047584,VP Marketing and Products,male,77991885.0
-243825.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150528,donnelly john k,120919115047588,Sr. VP of Sales,male,77991885.0
-954016.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150528,batchu suresh,120919115047580,Chief Technology Officer,male,77991885.0
-95668.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150528,finch laurel,120919115047582,"VP Legal, General Cousel, Secy",female,77991885.0
-93668.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150610,finch laurel,120919115052076,"VP Legal, General Cousel, Secy",female,77991885.0
-0.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20150626,garg gaurav,120919115056922,,male,77991885.0
-0.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20150626,hilaly aaref,120919115056923,,male,77991885.0
-0.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20150626,marshall frank,120919115056924,,male,77991885.0
-0.0,0.0,1470099,"mobileiron, inc.",1,0,0,0,20150626,tolonen james r,120919115056925,,male,77991885.0
-0.0,12322294.0,1470099,"mobileiron, inc.",1,0,1,0,20150629,howard matthew d.,120919115057081,,male,77991885.0
-0.0,0.0,1470099,"mobileiron, inc.",1,0,1,0,20150629,nahm tae hea,120919115057012,,male,77991885.0
-205300.0,1577127.0,1470099,"mobileiron, inc.",1,1,0,0,20150804,tinker robert b,120919115063819,President and CEO,male,78603696.0
-952130.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150824,batchu suresh,120919115067665,Chief Technology Officer,male,78788392.0
-94113.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150824,finch laurel,120919115067666,"VP Legal, General Cousel, Secy",female,78788392.0
-97661.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150824,biddiscombe simon,120919115067667,Interim CFO,male,78788392.0
-86353.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150824,viarengo vittorio,120919115067668,VP Marketing and Products,male,78788392.0
-207661.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150901,biddiscombe simon,120919115068850,Chief Financial Officer,male,78788392.0
-91614.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150901,finch laurel,120919115068852,"VP Legal, General Cousel, Secy",female,78788392.0
-89614.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150911,finch laurel,120919115070371,"VP Legal, General Cousel, Secy",female,78788392.0
-150000.0,0.0,1470099,"mobileiron, inc.",0,1,0,0,20150928,artt damian,120919115072352,SVP of Worldwide Sales,male,78788392.0
+322978.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20140617,hilaly aaref,120919114041893,,male,11008283.0
+20090.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20140617,marshall frank,118143114024187,,male,11008283.0
+20909.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20140617,garg gaurav,118143114024186,,male,11008283.0
+20000.0,21426.0,1470099,"mobileiron, inc.",0,1,0,0.0,20140805,ford todd r,118143114028204,Chief Financial Officer,male,75867717.0
+14208.0,422396.0,1470099,"mobileiron, inc.",1,0,0,0.0,20150206,garg gaurav,120919115010244,,male,76153844.0
+202000.0,1577127.0,1470099,"mobileiron, inc.",1,1,0,0.0,20150213,tinker robert b,120919115013969,President and CEO,male,76153844.0
+88487.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150213,viarengo vittorio,120919115013971,VP Marketing and Products,male,76153844.0
+99722.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150213,finch laurel,120919115013955,"VP Legal, General Cousel, Secy",female,76153844.0
+246184.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150213,donnelly john k,120919115013954,Sr. VP of Sales,male,76153844.0
+957947.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150213,batchu suresh,120919115013952,Chief Technology Officer,male,76153844.0
+119298.0,21426.0,1470099,"mobileiron, inc.",0,1,0,0.0,20150213,ford todd r,120919115013957,Chief Financial Officer,male,76153844.0
+100000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150512,biddiscombe simon,120919115041804,Interim CFO,male,77991885.0
+954016.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150528,batchu suresh,120919115047580,Chief Technology Officer,male,77991885.0
+86426.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150528,viarengo vittorio,120919115047584,VP Marketing and Products,male,77991885.0
+243825.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150528,donnelly john k,120919115047588,Sr. VP of Sales,male,77991885.0
+95668.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150528,finch laurel,120919115047582,"VP Legal, General Cousel, Secy",female,77991885.0
+93668.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150610,finch laurel,120919115052076,"VP Legal, General Cousel, Secy",female,77991885.0
+,,1470099,"mobileiron, inc.",1,0,0,0.0,20150626,garg gaurav,120919115056922,,male,77991885.0
+,,1470099,"mobileiron, inc.",1,0,0,0.0,20150626,hilaly aaref,120919115056923,,male,77991885.0
+,,1470099,"mobileiron, inc.",1,0,0,0.0,20150626,marshall frank,120919115056924,,male,77991885.0
+,,1470099,"mobileiron, inc.",1,0,0,0.0,20150626,tolonen james r,120919115056925,,male,77991885.0
+,,1470099,"mobileiron, inc.",1,0,1,0.0,20150629,nahm tae hea,120919115057012,,male,77991885.0
+,12322294.0,1470099,"mobileiron, inc.",1,0,1,0.0,20150629,howard matthew d.,120919115057081,,male,77991885.0
+205300.0,1577127.0,1470099,"mobileiron, inc.",1,1,0,0.0,20150804,tinker robert b,120919115063819,President and CEO,male,78603696.0
+205300.0,1577127.0,1470099,"mobileiron, inc.",1,1,0,0.0,20150804,tinker robert b,120919115063819,President and CEO,male,78603696.0
+952130.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,batchu suresh,120919115067665,Chief Technology Officer,male,78788392.0
+97661.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,biddiscombe simon,120919115067667,Interim CFO,male,78788392.0
+86353.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,viarengo vittorio,120919115067668,VP Marketing and Products,male,78788392.0
+952130.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,batchu suresh,120919115067665,Chief Technology Officer,male,78788392.0
+94113.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,finch laurel,120919115067666,"VP Legal, General Cousel, Secy",female,78788392.0
+97661.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,biddiscombe simon,120919115067667,Interim CFO,male,78788392.0
+86353.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,viarengo vittorio,120919115067668,VP Marketing and Products,male,78788392.0
+94113.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150824,finch laurel,120919115067666,"VP Legal, General Cousel, Secy",female,78788392.0
+207661.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150901,biddiscombe simon,120919115068850,Chief Financial Officer,male,78788392.0
+207661.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150901,biddiscombe simon,120919115068850,Chief Financial Officer,male,78788392.0
+91614.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150901,finch laurel,120919115068852,"VP Legal, General Cousel, Secy",female,78788392.0
+91614.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150901,finch laurel,120919115068852,"VP Legal, General Cousel, Secy",female,78788392.0
+89614.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150911,finch laurel,120919115070371,"VP Legal, General Cousel, Secy",female,78788392.0
+89614.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150911,finch laurel,120919115070371,"VP Legal, General Cousel, Secy",female,78788392.0
+150000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150928,artt damian,120919115072352,SVP of Worldwide Sales,male,78788392.0
+150000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20150928,artt damian,120919115072352,SVP of Worldwide Sales,male,78788392.0
+13737.0,422396.0,1470099,"mobileiron, inc.",1,0,0,0.0,20151029,garg gaurav,120919115077327,,male,80306506.0
+13737.0,322978.0,1470099,"mobileiron, inc.",1,0,0,0.0,20151029,hilaly aaref,120919115077328,,male,80306506.0
+124614.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20151029,finch laurel,120919115077330,"VP Legal, General Cousel, Secy",female,80306506.0
+13737.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20151029,tolonen james r,120919115077329,,male,80306506.0
+948214.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20151125,batchu suresh,120919115082260,Chief Technology Officer,male,80306506.0
+202590.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20151125,biddiscombe simon,120919115082261,Chief Financial Officer,male,80306506.0
+123047.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20151125,finch laurel,120919115082262,"VP Legal, General Cousel, Secy",female,80306506.0
+84264.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20151125,viarengo vittorio,120919115082263,VP Marketing and Products,male,80306506.0
+120560.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20151130,finch laurel,120919115082511,"VP Legal, General Cousel, Secy",female,80306506.0
+760000.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20160107,barry mainz,120919116090423,President and CEO,male,81326237.0
+,,1470099,"mobileiron, inc.",1,1,0,0.0,20160211,mainz barry,120919116097644,President and CEO,male,81326237.0
+220000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160224,fields daniel c.,120919116102087,Senior VP Engineering,male,81326237.0
+377058.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160224,biddiscombe simon,120919116102089,Chief Financial Officer,male,81326237.0
+220642.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160224,finch laurel,120919116102091,"VP General Counsel, Secretary",female,81326237.0
+16876.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20160226,klein kenneth r.,120919116103060,,male,81326237.0
+190351.0,1577127.0,1470099,"mobileiron, inc.",1,0,0,0.0,20160229,tinker robert b,120919116103463,,male,81326237.0
+216756.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160229,finch laurel,120919116103461,"VP General Counsel, Secretary",female,81326237.0
+210245.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160303,finch laurel,120919116105773,"VP General Counsel, Secretary",female,81326237.0
+811200.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20160307,mainz barry,120919116106763,President and CEO,male,81326237.0
+,,1470099,"mobileiron, inc.",1,1,0,0.0,20160314,mainz barry,120919116108161,President and CEO,male,81326237.0
+364072.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160525,biddiscombe simon,120919116123357,Chief Financial Officer,male,85097579.0
+204893.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160525,finch laurel,120919116123360,"VP General Counsel, Secretary",female,85097579.0
+185359.0,1577127.0,1470099,"mobileiron, inc.",1,0,0,0.0,20160525,tinker robert b,120919116123364,,male,85097579.0
+175000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160613,patton greig,120919116127267,Sr. VP of Sales,male,85097579.0
+68424.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20160627,tolonen james r,120919116129761,,male,85097579.0
+54687.0,12066577.0,1470099,"mobileiron, inc.",1,0,1,0.0,20160627,nahm tae hea,120919116129686,,male,85097579.0
+71563.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20160627,klein kenneth r.,120919116129759,,male,85097579.0
+68424.0,759993.0,1470099,"mobileiron, inc.",1,0,0,0.0,20160627,garg gaurav,120919116129756,,male,85097579.0
+54687.0,12322294.0,1470099,"mobileiron, inc.",1,0,1,0.0,20160627,howard matthew d.,120919116129752,,male,85097579.0
+54687.0,747912.0,1470099,"mobileiron, inc.",1,0,0,0.0,20160627,marshall frank,120919116129762,,male,85097579.0
+68424.0,322978.0,1470099,"mobileiron, inc.",1,0,0,0.0,20160627,hilaly aaref,120919116129758,,male,85097579.0
+184474.0,1577127.0,1470099,"mobileiron, inc.",1,0,0,0.0,20160829,tinker robert b,120919116139019,,male,85714533.0
+203644.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160829,finch laurel,120919116139017,"VP General Counsel, Secretary",female,85714533.0
+355278.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20160829,biddiscombe simon,120919116139016,Chief Financial Officer,male,85714533.0
+100000.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20161130,tinker robert b,120919116152555,,male,87912106.0
+198435.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20161130,finch laurel,120919116152556,"VP General Counsel, Secretary",female,87912106.0
+346551.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20161130,biddiscombe simon,120919116152557,Chief Financial Officer,male,87912106.0
+1215200.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20170202,mainz barry,120919117007320,President and CEO,male,89066031.0
+596551.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170202,biddiscombe simon,120919117007321,Chief Financial Officer,male,89066031.0
+470000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170202,fields daniel c.,120919117007322,Senior VP Engineering,male,89066031.0
+288435.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170202,finch laurel,120919117007324,"VP General Counsel, Secretary",female,89066031.0
+,,1470099,"mobileiron, inc.",1,1,0,0.0,20170210,mainz barry,120919117009788,President and CEO,male,89226493.0
+461329.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170228,fields daniel c.,120919117015550,Senior VP Engineering,male,89226493.0
+304192.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170228,finch laurel,120919117015549,"VP General Counsel, Secretary",female,89226493.0
+609283.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170228,biddiscombe simon,120919117015548,Chief Financial Officer,male,89226493.0
+67126.0,1577127.0,1470099,"mobileiron, inc.",1,0,0,0.0,20170301,tinker robert b,120919117016097,,male,89226493.0
+1152570.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20170301,mainz barry,120919117016173,President and CEO,male,89226493.0
+11107.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170310,denecour jessica,120919117019912,,female,89226493.0
+283633.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170509,hilaly aaref,89924317012517,,male,92180759.0
+1447127.0,100000.0,1470099,"mobileiron, inc.",1,0,0,0.0,20170511,tinker robert b,120919117031613,,male,92180759.0
+297080.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170511,finch laurel,120919117031615,"VP General Counsel, Secretary",female,92180759.0
+268500.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170526,hilaly aaref,89924317014522,,male,92180759.0
+449759.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170526,fields daniel c.,120919117035989,Senior VP Engineering,male,92180759.0
+289574.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170526,finch laurel,120919117035988,"VP General Counsel, Secretary",female,92180759.0
+1119760.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20170526,mainz barry,120919117035986,President and CEO,male,92180759.0
+594266.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170526,biddiscombe simon,120919117035991,Chief Financial Officer,male,92180759.0
+253367.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170601,hilaly aaref,89924317014995,,male,92180759.0
+1417127.0,100000.0,1470099,"mobileiron, inc.",1,0,0,0.0,20170601,tinker robert b,120919117036962,,male,92180759.0
+1407127.0,100000.0,1470099,"mobileiron, inc.",1,0,0,0.0,20170613,tinker robert b,120919117039734,,male,92180759.0
+86797.0,12066577.0,1470099,"mobileiron, inc.",1,0,1,0.0,20170616,nahm tae hea,120919117040460,,male,92180759.0
+43217.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170616,denecour jessica,120919117040523,,female,92180759.0
+100534.0,322978.0,1470099,"mobileiron, inc.",1,0,0,0.0,20170616,hilaly aaref,120919117040526,,male,92180759.0
+86797.0,12322294.0,1470099,"mobileiron, inc.",1,0,1,0.0,20170616,howard matthew d.,120919117040651,,male,92180759.0
+100534.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170616,tolonen james r,120919117040534,,male,92180759.0
+103673.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20170616,klein kenneth r.,120919117040532,,male,92180759.0
+86797.0,747912.0,1470099,"mobileiron, inc.",1,0,0,0.0,20170616,marshall frank,120919117040530,,male,92180759.0
+284898.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170621,finch laurel,120919117041196,"VP General Counsel, Secretary",female,92180759.0
+10323823.0,,1470099,"mobileiron, inc.",1,0,1,0.0,20170623,howard matthew d.,120919117041785,,male,92180759.0
+1092217.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20170828,mainz barry,120919117050385,President and CEO,male,94135654.0
+438637.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170828,fields daniel c.,120919117050382,Senior VP Engineering,male,94135654.0
+579830.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170828,biddiscombe simon,120919117050380,Chief Financial Officer,male,94135654.0
+370654.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20170908,fields daniel c.,120919117052156,Senior VP Engineering,male,94135654.0
+1004830.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20171102,biddiscombe simon,120919117058873,President and CEO,male,96056561.0
+114253.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20171102,ayers shawn,120919117058874,Interim CFO,male,96056561.0
+275000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20171102,randolph gregory,120919117058881,"SVP, Worldwide Sales",male,96056561.0
+356250.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20171122,fields daniel c.,120919117062376,Senior VP Engineering,male,96056561.0
+326875.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20171127,fields daniel c.,120919117062642,Senior VP Engineering,male,96056561.0
+989923.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20171127,biddiscombe simon,120919117062641,President and CEO,male,96056561.0
+111736.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20171127,ayers shawn,120919117062640,Interim CFO,male,96056561.0
+244236.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180222,hilaly aaref,89924318005212,,male,97203950.0
+326875.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180222,fields daniel c.,120919118012315,Senior VP Engineering,male,97203950.0
+124187.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180226,ayers shawn,120919118013697,Interim CFO,male,97203950.0
+999713.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20180226,biddiscombe simon,120919118013699,President and CEO,male,97203950.0
+322955.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180226,fields daniel c.,120919118013700,Senior VP Engineering,male,97203950.0
+231539.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180227,hilaly aaref,89924318005729,,male,97203950.0
+297500.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180301,fields daniel c.,120919118015059,Senior VP Engineering,male,97203950.0
+227074.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180302,hilaly aaref,89924318006267,,male,97203950.0
+206943.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180307,hilaly aaref,89924318006758,,male,100560616.0
+196674.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180312,hilaly aaref,89924318007091,,male,100560616.0
+224187.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180316,ayers shawn,120919118020330,Interim CFO,male,100560616.0
+375000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180319,parekh sohail m.,120919118020615,"Senior VP, Engineering",male,100560616.0
+195161.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180510,hilaly aaref,89924318012437,,male,100608155.0
+213168.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180529,ayers shawn,120919118033834,Interim CFO,male,100608155.0
+977030.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20180529,biddiscombe simon,120919118033832,President and CEO,male,100608155.0
+40322.0,100534.0,1470099,"mobileiron, inc.",1,0,0,0.0,20180621,tolonen james r,120919118038958,,male,100608155.0
+83539.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180621,denecour jessica,120919118038951,,female,100608155.0
+140856.0,195161.0,1470099,"mobileiron, inc.",1,0,0,0.0,20180621,hilaly aaref,120919118038952,,male,100608155.0
+143995.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180621,klein kenneth r.,120919118038953,,male,100608155.0
+40322.0,834709.0,1470099,"mobileiron, inc.",1,0,0,0.0,20180621,marshall frank,120919118038955,,male,100608155.0
+127119.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20180621,howard matthew d.,120919118038977,,male,100608155.0
+127119.0,12066577.0,1470099,"mobileiron, inc.",1,0,1,0.0,20180621,nahm tae hea,120919118038940,,male,100608155.0
+325000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20180710,hill scott d.,120919118042178,Chief Financial Officer,male,102454185.0
+953144.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20180824,biddiscombe simon,120919118048414,President and CEO,male,102736379.0
+915335.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20181123,biddiscombe simon,120919118059847,President and CEO,male,105554695.0
+254410.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20181123,randolph gregory,120919118059848,"SVP, Worldwide Sales",male,105554695.0
+344396.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20181212,hill scott d.,120919118062178,Chief Financial Officer,male,105554695.0
+1415335.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190128,biddiscombe simon,120919119005530,President and CEO,male,106206545.0
+575000.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190128,parekh sohail m.,120919119005531,"Senior VP, Engineering",male,106206545.0
+434410.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190128,randolph gregory,120919119005534,"SVP, Worldwide Sales",male,106206545.0
+544396.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190128,hill scott d.,120919119005536,Chief Financial Officer,male,106206545.0
+1392173.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190221,biddiscombe simon,120919119012233,President and CEO,male,106206545.0
+541631.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190221,parekh sohail m.,120919119012236,"Senior VP, Engineering",male,106206545.0
+429382.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190221,randolph gregory,120919119012239,"SVP, Worldwide Sales",male,106206545.0
+1494844.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190225,biddiscombe simon,120919119013133,President and CEO,male,106206545.0
+568536.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190225,hill scott d.,120919119013134,Chief Financial Officer,male,106206545.0
+580533.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190225,parekh sohail m.,120919119013135,"Senior VP, Engineering",male,106206545.0
+567080.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190228,parekh sohail m.,120919119014492,"Senior VP, Engineering",male,106206545.0
+560058.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190228,hill scott d.,120919119014488,Chief Financial Officer,male,106206545.0
+10278.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190228,stretch leslie,120919119014665,,female,106206545.0
+1459340.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190228,biddiscombe simon,120919119014485,President and CEO,male,106206545.0
+22228.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190319,stretch leslie,120919119020423,,female,106206545.0
+541631.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190507,parekh sohail m.,120919119028028,"Senior VP, Engineering",male,108721847.0
+113995.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190507,klein kenneth r.,120919119028029,,male,108721847.0
+420935.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190522,randolph gregory,120919119032163,"SVP, Worldwide Sales",male,108721847.0
+1416690.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190522,biddiscombe simon,120919119032157,President and CEO,male,108721847.0
+555735.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190522,hill scott d.,120919119032159,Chief Financial Officer,male,108721847.0
+529203.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190522,parekh sohail m.,120919119032161,"Senior VP, Engineering",male,108721847.0
+115201.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190614,denecour jessica,120919119037181,,female,108721847.0
+145657.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190614,klein kenneth r.,120919119037182,,male,108721847.0
+53890.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190614,stretch leslie,120919119037186,,female,108721847.0
+71984.0,100534.0,1470099,"mobileiron, inc.",1,0,0,0.0,20190614,tolonen james r,120919119037297,,male,108721847.0
+158781.0,12066577.0,1470099,"mobileiron, inc.",1,0,1,0.0,20190614,nahm tae hea,120919119037184,,male,108721847.0
+1371601.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190628,biddiscombe simon,120919119039561,President and CEO,male,108721847.0
+1319105.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190705,biddiscombe simon,120919119041316,President and CEO,male,109770021.0
+515049.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190822,parekh sohail m.,120919119047172,"Senior VP, Engineering",male,109797877.0
+525315.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190822,hill scott d.,120919119047171,Chief Financial Officer,male,109797877.0
+1271883.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20190822,biddiscombe simon,120919119047170,President and CEO,male,109797877.0
+412488.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20190822,randolph gregory,120919119047173,"SVP, Worldwide Sales",male,109797877.0
+19578.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20190917,joshi anjali,120919119049834,,female,109797877.0
+404041.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20191122,randolph gregory,120919119057841,"SVP, Worldwide Sales",male,112030673.0
+495835.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20191122,parekh sohail m.,120919119057840,"Senior VP, Engineering",male,112030673.0
+512960.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20191122,hill scott d.,120919119057837,Chief Financial Officer,male,112030673.0
+1228280.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20191122,biddiscombe simon,120919119057835,President and CEO,male,112030673.0
+384050.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20191213,randolph gregory,120919119060481,"SVP, Worldwide Sales",male,112030673.0
+455835.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20191213,parekh sohail m.,120919119060471,"Senior VP, Engineering",male,112030673.0
+415835.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200204,parekh sohail m.,120919120006440,"Senior VP, Engineering",male,112725391.0
+375476.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200221,randolph gregory,120919120011657,"SVP, Worldwide Sales",male,112725391.0
+1196208.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20200221,biddiscombe simon,120919120011650,President and CEO,male,112725391.0
+401232.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200221,parekh sohail m.,120919120011653,"Senior VP, Engineering",male,112725391.0
+501493.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200221,hill scott d.,120919120011652,Chief Financial Officer,male,112725391.0
+355613.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200226,randolph gregory,120919120013281,"SVP, Worldwide Sales",male,112725391.0
+1506208.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20200316,biddiscombe simon,120919120019420,President and CEO,male,112725391.0
+651493.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200318,hill scott d.,120919120020152,Chief Financial Officer,male,112725391.0
+551232.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200318,parekh sohail m.,120919120020153,"Senior VP, Engineering",male,112725391.0
+9429.0,7950075.0,1470099,"mobileiron, inc.",1,0,0,0.0,20200416,bajaj rishi,120919120024679,,male,115369759.0
+511232.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200506,parekh sohail m.,120919120027541,"Senior VP, Engineering",male,115369759.0
+494170.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200520,parekh sohail m.,120919120031075,"Senior VP, Engineering",male,115369759.0
+635608.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200520,hill scott d.,120919120031074,Chief Financial Officer,male,115369759.0
+1471263.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20200520,biddiscombe simon,120919120031072,President and CEO,male,115369759.0
+374340.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200520,foster brian,120919120031073,"Senior VP, Product Management",male,115369759.0
+56507.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20200625,joshi anjali,120919120038992,,female,115369759.0
+182586.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20200625,klein kenneth r.,120919120038994,,male,115369759.0
+195710.0,10766577.0,1470099,"mobileiron, inc.",1,0,1,0.0,20200625,nahm tae hea,120919120039015,,male,115369759.0
+36929.0,172518.0,1470099,"mobileiron, inc.",1,0,0,0.0,20200625,tolonen james r,120919120039006,,male,115369759.0
+152130.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20200625,denecour jessica,120919120038991,,female,115369759.0
+471131.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200729,baumgaertner christof,120919120043997,Chief Revenue Officer,male,116883504.0
+1365463.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20200731,biddiscombe simon,120919120044390,President and CEO,male,116883504.0
+366840.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200814,foster brian,120919120046858,"Senior VP, Product Management",male,116883504.0
+451563.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200824,baumgaertner christof,120919120048110,Chief Revenue Officer,male,116883504.0
+357438.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200824,foster brian,120919120048113,"Senior VP, Product Management",male,116883504.0
+1321261.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20200824,biddiscombe simon,120919120048111,President and CEO,male,116883504.0
+621723.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20200824,hill scott d.,120919120048114,Chief Financial Officer,male,116883504.0
+1284596.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20201021,biddiscombe simon,120919120055463,President and CEO,male,118560029.0
+349938.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20201118,foster brian,120919120059110,"Senior VP, Product Management",male,118584315.0
+430288.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20201124,baumgaertner christof,120919120060252,Chief Revenue Officer,male,118584315.0
+1235728.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20201124,biddiscombe simon,120919120060254,President and CEO,male,118584315.0
+340536.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20201124,foster brian,120919120060256,"Senior VP, Product Management",male,118584315.0
+607741.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20201124,hill scott d.,120919120060260,Chief Financial Officer,male,118584315.0
+0.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20201203,joshi anjali,120919120061548,,female,118584315.0
+0.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20201203,nahm tae hea,120919120061564,,male,118584315.0
+0.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20201203,hill scott d.,120919120061563,Chief Financial Officer,male,118584315.0
+0.0,,1470099,"mobileiron, inc.",1,1,0,0.0,20201203,biddiscombe simon,120919120061559,President and CEO,male,118584315.0
+0.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20201203,tolonen james r,120919120061555,,male,118584315.0
+0.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20201203,denecour jessica,120919120061554,,female,118584315.0
+0.0,,1470099,"mobileiron, inc.",0,1,0,0.0,20201203,foster brian,120919120061551,"Senior VP, Product Management",male,118584315.0
+0.0,,1470099,"mobileiron, inc.",1,0,0,0.0,20201203,klein kenneth r.,120919120061558,,male,118584315.0

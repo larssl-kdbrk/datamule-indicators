@@ -1,20 +1,147 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-26238427.0,0.0,1053691,"stratus media group, inc",1,1,1.0,0.0,20100415,feller paul,114036110016594,Chief Executive Officer,male,
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140310,bright rex,125085314000060,,male,5813785.0
-0.0,0.0,1053691,restorgenex corp,1,1,0.0,0.0,20140312,simes stephen m,101968714000820,Chief Executive Officer,male,5813785.0
-0.0,0.0,1053691,restorgenex corp,0,1,0.0,0.0,20140606,donenberg philip b,125085314000081,Chief Financial Officer,male,8683785.0
-46386071.0,0.0,1053691,restorgenex corp,1,1,1.0,0.0,20140610,barer sol j,125085314000083,Chairman of the Board,female,8683785.0
-0.0,0.0,1053691,restorgenex corp,0,1,0.0,0.0,20140612,abolin craig,125085314000085,VP of Research & Dev - Subsid.,male,8683785.0
-0.0,0.0,1053691,restorgenex corp,1,1,0.0,0.0,20140612,sherris david,125085314000086,CSO & President of Division,male,8683785.0
-0.0,0.0,1053691,restorgenex corp,1,1,0.0,0.0,20140612,schwartz yael,125085314000084,President of Subsidiaries,female,8683785.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140729,boris timothy,101968714002849,,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140729,stacks nelson k.,101968714002855,,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140729,donenberg philip b,101968714002851,,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140729,bright rex,101968714002850,,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,1,0.0,0.0,20140729,schwartz yael,101968714002852,Exe. VP Preclinical Dev.,female,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140729,blech isaac,101968714002848,,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20140729,barer sol j,101968714002847,,female,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,1,0.0,0.0,20140729,sherris david,101968714002853,Chief Scientific Officer,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,1,0.0,0.0,20140729,simes stephen m,101968714002854,Chief Executive Officer,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,0,1,0.0,0.0,20140806,weinberg mark a.,125085314000098,Sr. V.P.- Clinical Development,male,18391193.0
-0.0,0.0,1053691,restorgenex corp,1,0,0.0,0.0,20150921,blech isaac,101297515000677,,male,18614968.0
+26238427.0,,1053691,"stratus media group, inc",1.0,1.0,1.0,0.0,20100415,feller paul,114036110016594,Chief Executive Officer,male,
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140310,bright rex,125085314000060,,male,5813785.0
+,,1053691,restorgenex corp,1.0,1.0,0.0,0.0,20140312,simes stephen m,101968714000820,Chief Executive Officer,male,5813785.0
+,,1053691,restorgenex corp,0.0,1.0,0.0,0.0,20140606,donenberg philip b,125085314000081,Chief Financial Officer,male,8683785.0
+46386071.0,,1053691,restorgenex corp,1.0,1.0,1.0,0.0,20140610,barer sol j,125085314000083,Chairman of the Board,female,8683785.0
+,,1053691,restorgenex corp,1.0,1.0,0.0,0.0,20140612,sherris david,125085314000086,CSO & President of Division,male,8683785.0
+,,1053691,restorgenex corp,0.0,1.0,0.0,0.0,20140612,abolin craig,125085314000085,VP of Research & Dev - Subsid.,male,8683785.0
+,,1053691,restorgenex corp,1.0,1.0,0.0,0.0,20140612,schwartz yael,125085314000084,President of Subsidiaries,female,8683785.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140729,barer sol j,101968714002847,,female,18391193.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140729,blech isaac,101968714002848,,male,18391193.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140729,boris timothy,101968714002849,,male,18391193.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140729,bright rex,101968714002850,,male,18391193.0
+,,1053691,restorgenex corp,1.0,1.0,0.0,0.0,20140729,sherris david,101968714002853,Chief Scientific Officer,male,18391193.0
+,,1053691,restorgenex corp,1.0,1.0,0.0,0.0,20140729,schwartz yael,101968714002852,Exe. VP Preclinical Dev.,female,18391193.0
+,,1053691,restorgenex corp,1.0,1.0,0.0,0.0,20140729,simes stephen m,101968714002854,Chief Executive Officer,male,18391193.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140729,stacks nelson k.,101968714002855,,male,18391193.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20140729,donenberg philip b,101968714002851,,male,18391193.0
+,,1053691,restorgenex corp,0.0,1.0,0.0,0.0,20140806,weinberg mark a.,125085314000098,Sr. V.P.- Clinical Development,male,18391193.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20150921,blech isaac,101297515000677,,male,18614968.0
+,,1053691,restorgenex corp,1.0,0.0,0.0,0.0,20150921,blech isaac,101297515000677,,male,18614968.0
+1391867.0,,1053691,restorgenex corp,1.0,,,,20160112,byrne thomas s,143774916023552,,male,8118939.0
+188973.0,,1053691,restorgenex corp,1.0,,,,20160112,adams robert w,143774916023551,,male,8118939.0
+6296346.0,,1053691,restorgenex corp,1.0,,,,20160112,giles mark t,143774916023550,,male,8118939.0
+248032.0,,1053691,restorgenex corp,1.0,,,,20160112,levin alan g,143774916023549,,male,8118939.0
+3725711.0,,1053691,restorgenex corp,1.0,1.0,,,20160112,gainer john,143774916023548,Chief Scientific Officer,male,8118939.0
+215506.0,,1053691,restorgenex corp,1.0,1.0,,,20160113,kalergis david g,143774916023581,Chairman and CEO,male,8118939.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20160520,kalergis david g,143774916032595,Chairman and CEO,male,102429200.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20160520,gainer john,143774916032593,Chief Scientific Officer,male,102429200.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20160520,byrne thomas e,143774916032596,General Counsel,male,102429200.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20160520,shealy ben,143774916032594,Senior Vice President Finance,male,102429200.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20160725,adams robert w,143774916035626,,male,103453492.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20160725,giles mark t,143774916035627,,male,103453492.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20160725,levin alan g,143774916035628,,male,103453492.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20160916,blech isaac,143774916038810,,male,103453492.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20161213,shealy ben,143774916043296,Sr VP Finance & Treasurer,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20161213,levin alan g,143774916043293,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20161213,kalergis david g,143774916043294,Chairman and CEO,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20161213,giles mark t,143774916043295,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20161213,adams robert w,143774916043298,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20161213,gainer john,143774916043297,Chief Scientific Officer,male,10345637.0
+512109.0,4407.0,1053691,diffusion pharmaceuticals inc.,1.0,,,,20161216,giles mark t,143774916043483,,male,10345637.0
+802689.0,4407.0,1053691,diffusion pharmaceuticals inc.,1.0,,,,20161228,giles mark t,143774916043856,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20170104,byrne thomas e,143774917000152,General Counsel,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20170512,shealy ben,143774917008976,Sr VP Finance & Treasurer,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20170512,kalergis david g,143774917008974,Chairman and CEO,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20170512,gainer john,143774917008975,Chief Scientific Officer,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20170616,giles mark t,143774917011437,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20170616,adams robert w,143774917011436,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20170616,levin alan g,143774917011435,,male,10345637.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20170713,ruffolo robert r,143774917012576,,male,12247984.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180104,giles mark t,143774918000256,,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180104,adams robert w,143774918000257,,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180104,ruffolo robert r,143774918000259,,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180104,levin alan g,143774918000261,,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20180104,shealy ben,143774918000263,Sr VP Finance & Treasurer,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20180104,byrne thomas e,143774918000264,General Counsel,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20180104,kalergis david g,143774918000258,Chairman and CEO,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20180104,gainer john,143774918000260,Chief Scientific Officer,male,967976.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180618,ruffolo robert r,143774918012012,,male,50526547.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180618,levin alan g,143774918012013,,male,50526547.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180618,giles mark t,143774918012014,,male,50526547.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20180618,adams robert w,143774918012015,,male,50526547.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20190104,hornung william karl,143774919000343,Chief Financial Officer,male,3376230.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20190130,byrne thomas e,143774919001522,General Counsel,male,3376230.0
+,53807.0,1053691,diffusion pharmaceuticals inc.,1.0,,,,20190719,giles mark t,143774919014277,,male,4693290.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20190719,levin alan g,143774919014278,,male,4693290.0
+,1260.0,1053691,diffusion pharmaceuticals inc.,1.0,,,,20190719,adams robert w,143774919014279,,male,4693290.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20200109,byrne thomas e,143774920000403,General Counsel,male,33480365.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20200113,cobuzzi robert joseph jr.,143774920000552,,male,33480365.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20200130,gainer john,143774920001423,Chief Scientific Officer,male,33480365.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20200130,hornung william karl,143774920001420,Chief Financial Officer,male,33480365.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20200130,kalergis david g,143774920001421,Chairman and CEO,male,33480365.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20200618,giles mark t,143774920013421,,male,34604436.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20200618,adams robert w,143774920013423,,male,34604436.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20200618,cobuzzi robert joseph jr.,143774920013422,,male,34604436.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20200618,levin alan g,143774920013420,,male,34604436.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20200911,cobuzzi robert joseph jr.,143774920019648,President & CEO,male,63998298.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20201001,hollingsworth jane h,143774920020635,,female,64015441.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20201014,elder william robert,143774920021143,GC & Secretary,male,64015441.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20201021,galloway christopher d,143774920021435,Chief Medical Officer,male,64015441.0
+14000.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20201118,cobuzzi robert joseph jr.,143774920024187,President & CEO,male,64015441.0
+15000.0,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20201118,elder william robert,143774920024126,GC & Secretary,male,64015441.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20210304,cobuzzi robert joseph jr.,143774921005060,President & CEO,male,64015441.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20210304,elder william robert,143774921005059,GC & Secretary,male,64015441.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20210304,galloway christopher d,143774921005058,Chief Medical Officer,male,64015441.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20210304,hornung william karl,143774921005057,Chief Financial Officer,male,64015441.0
+32786.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20210517,hollingsworth jane h,143774921012537,,female,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20210706,adams robert w,143774921016510,,male,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20210706,giles mark t,143774921016508,,male,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20210706,francois eric,143774921016509,,male,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20210706,levin alan g,143774921016511,,male,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20210706,hollingsworth jane h,143774921016512,,female,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20211015,lanchoney diana m,143774921023770,,female,101903979.0
+30350.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20211103,cobuzzi robert joseph jr.,143774921025138,President & CEO,male,101903979.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20220131,elder william robert,143774922001913,GC & Secretary,male,2038185.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20220131,cobuzzi robert joseph jr.,143774922001911,President & CEO,male,2038185.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20220131,galloway christopher d,143774922001915,Chief Medical Officer,male,2038185.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20220131,hornung william karl,143774922001917,Chief Financial Officer,male,2038185.0
+34602.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20220202,cobuzzi robert joseph jr.,143774922002262,President & CEO,male,2038185.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20220322,elder william robert,143774922006872,GC & Secretary,male,101924581.0
+,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20220322,cobuzzi robert joseph jr.,143774922006871,President & CEO,male,101924581.0
+400.0,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20220419,elder william robert,143774922009233,GC & Secretary,male,2038392.0
+792.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20220419,cobuzzi robert joseph jr.,143774922009234,President & CEO,male,2038392.0
+1119.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20220503,cobuzzi robert joseph jr.,143774922010718,President & CEO,male,2038392.0
+771.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20220602,hollingsworth jane h,143774922014181,,female,2038392.0
+1204.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20220803,cobuzzi robert joseph jr.,143774922018666,President & CEO,male,2038914.0
+,,1053691,diffusion pharmaceuticals inc.,,1.0,,,20220826,jaeger raven,143774922021414,Chief Regulatory Officer,female,2039120.0
+886.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20220902,hollingsworth jane h,143774922021841,,female,2039120.0
+1410.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20221102,cobuzzi robert joseph jr.,143774922025572,President & CEO,male,2039236.0
+1001.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20221202,hollingsworth jane h,143774922028356,,female,2039442.0
+1616.0,,1053691,diffusion pharmaceuticals inc.,1.0,1.0,,,20230203,cobuzzi robert joseph jr.,143774923002473,President & CEO,male,518140.0
+1116.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20230303,hollingsworth jane h,143774923005435,,female,518140.0
+147.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20230403,lanchoney diana m,143774923009126,,female,2040025.0
+1231.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20230602,hollingsworth jane h,143774923016502,,female,2040025.0
+294.0,,1053691,diffusion pharmaceuticals inc.,1.0,,,,20230705,lanchoney diana m,143774923019395,,female,2040287.0
+898.0,,1053691,cervomed inc.,1.0,,,,20230906,hollingsworth jane h,143774923025311,,female,2040287.0
+,,1053691,cervomed inc.,1.0,,1.0,,20230915,gregoire sylvie,143774923026071,,female,2040287.0
+,,1053691,cervomed inc.,,1.0,,,20230915,blackburn kelly,143774923026068,"VP, Clinical Development",female,2040287.0
+,,1053691,cervomed inc.,1.0,,,,20230915,poulton jeffrey v.,143774923026073,,male,2040287.0
+,,1053691,cervomed inc.,1.0,,,,20230915,sabbagh marwan,143774923026074,,male,2040287.0
+,,1053691,cervomed inc.,1.0,,,,20230915,hollingsworth jane h,143774923026072,,female,2040287.0
+,,1053691,cervomed inc.,,1.0,,,20230915,cobuzzi robert joseph jr.,143774923026079,Chief Operating Officer,male,2040287.0
+,,1053691,cervomed inc.,,1.0,,,20230915,tanner john william,143774923026077,Chief Financial Officer,male,2040287.0
+,,1053691,cervomed inc.,1.0,1.0,1.0,,20230915,alam john j,143774923026076,CEO & President,male,2040287.0
+,,1053691,cervomed inc.,1.0,,,,20230915,zavrl frank,143774923026075,,male,2040287.0
+,,1053691,cervomed inc.,,1.0,,,20230915,elder william robert,143774923026070,GC & Secretary,male,2040287.0
+,,1053691,cervomed inc.,1.0,,,,20230915,davidson jill,143774923026069,,female,2040287.0
+732039.0,729539.0,1053691,cervomed inc.,1.0,,1.0,,20231109,gregoire sylvie,143774923031330,,female,5674520.0
+729539.0,732039.0,1053691,cervomed inc.,1.0,1.0,1.0,,20231109,alam john j,143774923031329,CEO & President,male,5674520.0
+,,1053691,cervomed inc.,,1.0,,,20231122,tanner john william,143774923032892,Chief Financial Officer,male,5674520.0
+,,1053691,cervomed inc.,1.0,1.0,1.0,,20240126,alam john j,143774924002349,CEO & President,male,5674520.0
+,,1053691,cervomed inc.,,1.0,,,20240126,blackburn kelly,143774924002348,"SVP, Clinical Development",female,5674520.0
+,,1053691,cervomed inc.,,1.0,,,20240126,tanner john william,143774924002347,Chief Financial Officer,male,5674520.0
+,,1053691,cervomed inc.,,1.0,,,20240126,elder william robert,143774924002346,GC & Secretary,male,5674520.0
+,,1053691,cervomed inc.,1.0,,1.0,,20240126,gregoire sylvie,143774924002345,,female,5674520.0
+,,1053691,cervomed inc.,,1.0,,,20240126,cobuzzi robert joseph jr.,143774924002344,Chief Operating Officer,male,5674520.0
+,,1053691,cervomed inc.,1.0,,,,20240213,boger joshua s,143774924003927,,male,5674520.0
+840451.0,,1053691,cervomed inc.,1.0,,1.0,,20240228,boger joshua s,143774924005918,,male,5674520.0
+,,1053691,cervomed inc.,1.0,,1.0,,20240614,boger joshua s,143774924020413,,male,6170479.0
+,,1053691,cervomed inc.,1.0,,1.0,,20240614,gregoire sylvie,143774924020412,,female,6170479.0
+,,1053691,cervomed inc.,1.0,,,,20240614,hollingsworth jane h,143774924020411,,female,6170479.0
+,,1053691,cervomed inc.,1.0,,,,20240614,poulton jeffrey v.,143774924020410,,male,6170479.0
+,,1053691,cervomed inc.,1.0,,,,20240614,sabbagh marwan,143774924020409,,male,6170479.0
+,,1053691,cervomed inc.,1.0,,,,20240614,zavrl frank,143774924020408,,male,6170479.0
+,,1053691,cervomed inc.,1.0,1.0,1.0,,20240614,alam john j,143774924020414,CEO & President,male,6170479.0
+1267.0,,1053691,cervomed inc.,,1.0,,,20240827,elder william robert,143774924027848,CFO & GC,male,8253741.0

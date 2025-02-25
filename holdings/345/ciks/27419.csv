@@ -1,364 +1,957 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-44598.0,0.0,27419,target corp,1.0,,,,20100111,trujillo solomon d,122520810001296,,male,752312784.0
-30552.0,0.0,27419,target corp,1.0,,,,20100112,sanger stephen w,122520810001407,,male,752312784.0
-21703.0,3334.8648,27419,target corp,,1.0,,,20100113,kozlak jodee a,122520810001526,Executive Officer,female,752312784.0
-45495.0,5399.8434,27419,target corp,,1.0,,,20100113,griffith john d,122520810001521,Executive Officer,male,752312784.0
-135022.0,10634.9245,27419,target corp,,1.0,,,20100113,scovanner douglas a,122520810001522,Executive Officer,male,752312784.0
-37302.0,773.4125,27419,target corp,,1.0,,,20100113,baer timothy r,122520810001523,Executive Officer,male,752312784.0
-448704.0,82692.8212,27419,target corp,1.0,1.0,,,20100113,steinhafel gregg w,122520810001524,Executive Officer,male,752312784.0
-43391.0,6018.3387,27419,target corp,,1.0,,,20100113,francis michael,122520810001525,Executive Officer,male,752312784.0
-25850.0,634.985,27419,target corp,,1.0,,,20100113,risch troy h,122520810001527,Executive Officer,male,752312784.0
-22067.0,28355.5371,27419,target corp,,1.0,,,20100113,scully terrence j,122520810001528,Executive Officer,male,752312784.0
-0.0,0.0,27419,target corp,1.0,,,,20100115,tamke george w,122520810001621,,male,752312784.0
-58145.0,5399.8434,27419,target corp,,1.0,,,20100115,griffith john d,122520810001623,Executive Officer,male,752312784.0
-57212.0,10000.0,27419,target corp,1.0,,,,20100115,kovacevich richard m,122520810001624,,male,752312784.0
-26851.0,0.0,27419,target corp,1.0,,,,20100115,minnick mary e,122520810001625,,female,752312784.0
-49952.0,773.4125,27419,target corp,,1.0,,,20100115,baer timothy r,122520810001622,Executive Officer,male,752312784.0
-162851.0,10634.9245,27419,target corp,,1.0,,,20100115,scovanner douglas a,122520810001627,Executive Officer,male,752312784.0
-32187.0,28355.5371,27419,target corp,,1.0,,,20100115,scully terrence j,122520810001620,Executive Officer,male,752312784.0
-496772.0,82692.8212,27419,target corp,1.0,1.0,,,20100115,steinhafel gregg w,122520810001628,Executive Officer,male,752312784.0
-93314.0,3273.0883,27419,target corp,,1.0,,,20100115,tesija kathryn a,122520810001629,Executive Officer,female,752312784.0
-39765.0,634.985,27419,target corp,,1.0,,,20100115,risch troy h,122520810001626,Executive Officer,male,752312784.0
-35511.0,0.0,27419,target corp,1.0,,,,20100115,sanger stephen w,122520810001619,,male,752312784.0
-15016.0,0.0,27419,target corp,1.0,,,,20100115,mulcahy anne m,122520810001618,,female,752312784.0
-10803.0,0.0,27419,target corp,1.0,,,,20100115,darden calvin,122520810001609,,male,752312784.0
-24932.0,1888.9532,27419,target corp,,1.0,,,20100115,jacob beth m,122520810001616,Executive Officer,female,752312784.0
-62618.0,6018.3387,27419,target corp,,1.0,,,20100115,francis michael,122520810001615,Executive Officer,male,752312784.0
-18162.0,0.0,27419,target corp,1.0,,,,20100115,rice derica w,122520810001614,,male,752312784.0
-0.0,0.0,27419,target corp,1.0,,,,20100115,johnson james a /dc/,122520810001613,,male,752312784.0
-18162.0,0.0,27419,target corp,1.0,,,,20100115,dillon mary,122520810001612,,female,752312784.0
-10290.0,0.0,27419,target corp,1.0,,,,20100115,austin roxanne s,122520810001611,,female,752312784.0
-46116.0,0.0,27419,target corp,1.0,,,,20100115,trujillo solomon d,122520810001610,,male,752312784.0
-34353.0,3334.8648,27419,target corp,,1.0,,,20100115,kozlak jodee a,122520810001617,Executive Officer,female,752312784.0
-123035.0,10634.9245,27419,target corp,,1.0,,,20100122,scovanner douglas a,122520810002109,Executive Officer,male,752312784.0
-25172.0,28355.5371,27419,target corp,,1.0,,,20100125,scully terrence j,122520810002156,Executive Officer,male,752312784.0
-36491.0,634.985,27419,target corp,,1.0,,,20100127,risch troy h,122520810002321,Executive Officer,male,752312784.0
-39750.0,82692.8212,27419,target corp,1.0,1.0,,,20100129,steinhafel gregg w,122520810002565,Executive Officer,male,752312784.0
-34353.0,3334.8648,27419,target corp,,1.0,,,20100201,kozlak jodee a,122520810002753,Executive Officer,female,744644454.0
-123035.0,10634.9245,27419,target corp,,1.0,,,20100309,scovanner douglas a,122520810007486,Executive Officer,male,744644454.0
+44598.0,,27419,target corp,1.0,,,,20100111,trujillo solomon d,122520810001296,,male,
+30552.0,,27419,target corp,1.0,,,,20100112,sanger stephen w,122520810001407,,male,
+135022.0,10634.9245,27419,target corp,,1.0,,,20100113,scovanner douglas a,122520810001522,Executive Officer,male,
+22067.0,28355.5371,27419,target corp,,1.0,,,20100113,scully terrence j,122520810001528,Executive Officer,male,
+25850.0,634.985,27419,target corp,,1.0,,,20100113,risch troy h,122520810001527,Executive Officer,male,
+21703.0,3334.8648,27419,target corp,,1.0,,,20100113,kozlak jodee a,122520810001526,Executive Officer,female,
+45495.0,5399.8434,27419,target corp,,1.0,,,20100113,griffith john d,122520810001521,Executive Officer,male,
+448704.0,82692.8212,27419,target corp,1.0,1.0,,,20100113,steinhafel gregg w,122520810001524,Executive Officer,male,
+37302.0,773.4125,27419,target corp,,1.0,,,20100113,baer timothy r,122520810001523,Executive Officer,male,
+43391.0,6018.3387,27419,target corp,,1.0,,,20100113,francis michael,122520810001525,Executive Officer,male,
+93314.0,3273.0883,27419,target corp,,1.0,,,20100115,tesija kathryn a,122520810001629,Executive Officer,female,
+496772.0,82692.8212,27419,target corp,1.0,1.0,,,20100115,steinhafel gregg w,122520810001628,Executive Officer,male,
+162851.0,10634.9245,27419,target corp,,1.0,,,20100115,scovanner douglas a,122520810001627,Executive Officer,male,
+39765.0,634.985,27419,target corp,,1.0,,,20100115,risch troy h,122520810001626,Executive Officer,male,
+26851.0,,27419,target corp,1.0,,,,20100115,minnick mary e,122520810001625,,female,
+57212.0,10000.0,27419,target corp,1.0,,,,20100115,kovacevich richard m,122520810001624,,male,
+49952.0,773.4125,27419,target corp,,1.0,,,20100115,baer timothy r,122520810001622,Executive Officer,male,
+,,27419,target corp,1.0,,,,20100115,tamke george w,122520810001621,,male,
+32187.0,28355.5371,27419,target corp,,1.0,,,20100115,scully terrence j,122520810001620,Executive Officer,male,
+35511.0,,27419,target corp,1.0,,,,20100115,sanger stephen w,122520810001619,,male,
+58145.0,5399.8434,27419,target corp,,1.0,,,20100115,griffith john d,122520810001623,Executive Officer,male,
+34353.0,3334.8648,27419,target corp,,1.0,,,20100115,kozlak jodee a,122520810001617,Executive Officer,female,
+24932.0,1888.9532,27419,target corp,,1.0,,,20100115,jacob beth m,122520810001616,Executive Officer,female,
+62618.0,6018.3387,27419,target corp,,1.0,,,20100115,francis michael,122520810001615,Executive Officer,male,
+18162.0,,27419,target corp,1.0,,,,20100115,rice derica w,122520810001614,,male,
+15016.0,,27419,target corp,1.0,,,,20100115,mulcahy anne m,122520810001618,,female,
+,,27419,target corp,1.0,,,,20100115,johnson james a /dc/,122520810001613,,male,
+18162.0,,27419,target corp,1.0,,,,20100115,dillon mary,122520810001612,,female,
+10290.0,,27419,target corp,1.0,,,,20100115,austin roxanne s,122520810001611,,female,
+46116.0,,27419,target corp,1.0,,,,20100115,trujillo solomon d,122520810001610,,male,
+10803.0,,27419,target corp,1.0,,,,20100115,darden calvin,122520810001609,,male,
+123035.0,10634.9245,27419,target corp,,1.0,,,20100122,scovanner douglas a,122520810002109,Executive Officer,male,
+25172.0,28355.5371,27419,target corp,,1.0,,,20100125,scully terrence j,122520810002156,Executive Officer,male,
+36491.0,634.985,27419,target corp,,1.0,,,20100127,risch troy h,122520810002321,Executive Officer,male,
+39750.0,82692.8212,27419,target corp,1.0,1.0,,,20100129,steinhafel gregg w,122520810002565,Executive Officer,male,
+34353.0,3334.8648,27419,target corp,,1.0,,,20100201,kozlak jodee a,122520810002753,Executive Officer,female,
+123035.0,10634.9245,27419,target corp,,1.0,,,20100309,scovanner douglas a,122520810007486,Executive Officer,male,
 39986.0,773.4125,27419,target corp,,1.0,,,20100310,baer timothy r,122520810007688,Executive Officer,male,739316518.0
 516743.0,122442.8212,27419,target corp,1.0,1.0,,,20100312,steinhafel gregg w,122520810008120,Executive Officer,male,739316518.0
-946.0,0.0,27419,target corp,1.0,,,,20100315,stumpf john g,122520810008163,,male,739316518.0
+946.0,,27419,target corp,1.0,,,,20100315,stumpf john g,122520810008163,,male,739316518.0
 61502.0,10000.0,27419,target corp,1.0,,,,20100318,kovacevich richard m,122520810008552,,male,739316518.0
-417097.0,122863.2845,27419,target corp,1.0,1.0,,,20100413,steinhafel gregg w,122520810010304,Executive Officer,male,739316518.0
-10642.0,0.0,27419,target corp,1.0,,,,20100413,johnson james a /dc/,122520810010302,,male,739316518.0
+10642.0,,27419,target corp,1.0,,,,20100413,johnson james a /dc/,122520810010302,,male,739316518.0
 123256.0,10892.0662,27419,target corp,,1.0,,,20100413,scovanner douglas a,122520810010303,Executive Officer,male,739316518.0
 25013.0,2128.3098,27419,target corp,,1.0,,,20100413,jacob beth m,122520810010301,Executive Officer,female,739316518.0
-58254.0,5853.7394,27419,target corp,,1.0,,,20100413,griffith john d,122520810010300,Executive Officer,male,739316518.0
+417097.0,122863.2845,27419,target corp,1.0,1.0,,,20100413,steinhafel gregg w,122520810010304,Executive Officer,male,739316518.0
 47979.0,6269.1384,27419,target corp,,1.0,,,20100413,francis michael,122520810010299,Executive Officer,male,739316518.0
+58254.0,5853.7394,27419,target corp,,1.0,,,20100413,griffith john d,122520810010300,Executive Officer,male,739316518.0
+40149.0,,27419,target corp,1.0,,,,20100414,sanger stephen w,122520810010330,,male,739316518.0
 36609.0,831.1754,27419,target corp,,1.0,,,20100414,risch troy h,122520810010331,Executive Officer,male,739316518.0
-40149.0,0.0,27419,target corp,1.0,,,,20100414,sanger stephen w,122520810010330,,male,739316518.0
 123035.0,3576.422,27419,target corp,,1.0,,,20100430,tesija kathryn a,122520810011359,Executive Officer,female,739316518.0
 48133.0,6280.9864,27419,target corp,,1.0,,,20100720,francis michael,122520810017369,Executive Officer,male,736470956.0
 36727.0,832.7463,27419,target corp,,1.0,,,20100727,risch troy h,122520810017571,Executive Officer,male,736470956.0
-0.0,0.0,27419,target corp,0.0,1.0,0.0,0.0,20100823,baer timothy r,120172910000001,Executive Officer,male,722600000.0
-10658.0,0.0,27419,target corp,1.0,0.0,0.0,0.0,20100824,johnson james a /dc/,2741910000001,,male,722600000.0
+0.0,,27419,target corp,0.0,1.0,0.0,0.0,20100823,baer timothy r,120172910000001,Executive Officer,male,722600000.0
+10658.0,,27419,target corp,1.0,0.0,0.0,0.0,20100824,johnson james a /dc/,2741910000001,,male,722600000.0
 48133.0,6280.9864,27419,target corp,0.0,1.0,0.0,0.0,20100826,francis michael,2741910000002,Executive Officer,male,721447816.0
 372180.0,123020.3604,27419,target corp,1.0,1.0,,,20100910,steinhafel gregg w,122520810020653,Executive Officer,male,721447816.0
 100536.0,10908.3989,27419,target corp,,1.0,,,20100910,scovanner douglas a,122520810020654,Executive Officer,male,721447816.0
-4693.0,0.0,27419,target corp,1.0,,,,20100914,johnson james a /dc/,122520810020759,,male,721447816.0
-7996.0,0.0,27419,target corp,1.0,,,,20100922,darden calvin,122520810021228,,male,721447816.0
+4693.0,,27419,target corp,1.0,,,,20100914,johnson james a /dc/,122520810020759,,male,721447816.0
+7996.0,,27419,target corp,1.0,,,,20100922,darden calvin,122520810021228,,male,721447816.0
 58525.0,5884.1592,27419,target corp,,1.0,,,20101129,griffith john d,122520810025651,Executive Officer,male,707900000.0
 25214.0,2139.3698,27419,target corp,,1.0,,,20101129,jacob beth m,122520810025653,Executive Officer,female,707900000.0
 100863.0,10936.9759,27419,target corp,,1.0,,,20101206,scovanner douglas a,122520810026475,Executive Officer,male,708081740.0
 354907.0,123295.1947,27419,target corp,1.0,1.0,,,20101206,steinhafel gregg w,122520810026477,Executive Officer,male,708081740.0
-0.0,0.0,27419,target corp,1.0,,,,20101206,johnson james a /dc/,122520810026478,,male,708081740.0
-51186.0,0.0,27419,target corp,1.0,,,,20101210,trujillo solomon d,122520810026721,,male,708081740.0
-7996.0,0.0,27419,target corp,1.0,,,,20101213,austin roxanne s,122520810026856,,female,708081740.0
+,,27419,target corp,1.0,,,,20101206,johnson james a /dc/,122520810026478,,male,708081740.0
+51186.0,,27419,target corp,1.0,,,,20101210,trujillo solomon d,122520810026721,,male,708081740.0
+7996.0,,27419,target corp,1.0,,,,20101213,austin roxanne s,122520810026856,,female,708081740.0
 64742.0,10000.0,27419,target corp,1.0,,,,20101228,kovacevich richard m,122520810027770,,male,708081740.0
 141583.0,3604.7986,27419,target corp,,1.0,,,20110114,tesija kathryn a,122520811003069,Executive Officer,female,708081740.0
 400453.0,123522.736,27419,target corp,1.0,1.0,,,20110114,steinhafel gregg w,122520811003068,Executive Officer,male,708081740.0
 36836.0,28880.0039,27419,target corp,,1.0,,,20110114,scully terrence j,122520811003067,Executive Officer,male,708081740.0
 97420.0,41743.6355,27419,target corp,,1.0,,,20110114,scovanner douglas a,122520811003066,Executive Officer,male,708081740.0
+66597.0,6318.8801,27419,target corp,,1.0,,,20110114,francis michael,122520811003062,Executive Officer,male,708081740.0
 46100.0,3766.9823,27419,target corp,,1.0,,,20110114,kozlak jodee a,122520811003065,Executive Officer,female,708081740.0
 36591.0,2145.1965,27419,target corp,,1.0,,,20110114,jacob beth m,122520811003064,Executive Officer,female,708081740.0
 69939.0,5932.0477,27419,target corp,,1.0,,,20110114,griffith john d,122520811003063,Executive Officer,male,708081740.0
-66597.0,6318.8801,27419,target corp,,1.0,,,20110114,francis michael,122520811003062,Executive Officer,male,708081740.0
-51780.0,0.0,27419,target corp,,1.0,,,20110114,baer timothy r,122520811003061,Executive Officer,male,708081740.0
-16817.0,8932.9647,27419,target corp,,1.0,,,20110114,schiel tina m,122520811003050,Executive Officer,female,708081740.0
-31773.0,0.0,27419,target corp,1.0,,,,20110114,minnick mary e,122520811003041,,female,708081740.0
-9386.0,0.0,27419,target corp,1.0,,,,20110114,austin roxanne s,122520811003045,,female,708081740.0
-9386.0,0.0,27419,target corp,1.0,,,,20110114,darden calvin,122520811003044,,male,708081740.0
-22870.0,0.0,27419,target corp,1.0,,,,20110114,dillon mary,122520811003043,,female,708081740.0
-9583.0,0.0,27419,target corp,1.0,,,,20110114,johnson james a /dc/,122520811003042,,male,708081740.0
-16500.0,0.0,27419,target corp,1.0,,,,20110114,mulcahy anne m,122520811003040,,female,708081740.0
-22870.0,0.0,27419,target corp,1.0,,,,20110114,rice derica w,122520811003039,,male,708081740.0
-44629.0,0.0,27419,target corp,1.0,,,,20110114,sanger stephen w,122520811003038,,male,708081740.0
-2313.0,0.0,27419,target corp,1.0,,,,20110114,stumpf john g,122520811003037,,male,708081740.0
-52563.0,0.0,27419,target corp,1.0,,,,20110114,trujillo solomon d,122520811003036,,male,708081740.0
+51780.0,,27419,target corp,,1.0,,,20110114,baer timothy r,122520811003061,Executive Officer,male,708081740.0
+31773.0,,27419,target corp,1.0,,,,20110114,minnick mary e,122520811003041,,female,708081740.0
 4508.0,2632.3914,27419,target corp,,1.0,,,20110114,ward laysha,122520811003049,Executive Officer,male,708081740.0
-0.0,124215.9617,27419,target corp,1.0,1.0,,,20110520,steinhafel gregg w,122520811014866,Executive Officer,male,689000000.0
-0.0,29275.767,27419,target corp,,1.0,,,20110608,scully terrence j,122520811016087,Executive Officer,male,689145299.0
+9386.0,,27419,target corp,1.0,,,,20110114,austin roxanne s,122520811003045,,female,708081740.0
+9386.0,,27419,target corp,1.0,,,,20110114,darden calvin,122520811003044,,male,708081740.0
+22870.0,,27419,target corp,1.0,,,,20110114,dillon mary,122520811003043,,female,708081740.0
+9583.0,,27419,target corp,1.0,,,,20110114,johnson james a /dc/,122520811003042,,male,708081740.0
+16500.0,,27419,target corp,1.0,,,,20110114,mulcahy anne m,122520811003040,,female,708081740.0
+44629.0,,27419,target corp,1.0,,,,20110114,sanger stephen w,122520811003038,,male,708081740.0
+2313.0,,27419,target corp,1.0,,,,20110114,stumpf john g,122520811003037,,male,708081740.0
+52563.0,,27419,target corp,1.0,,,,20110114,trujillo solomon d,122520811003036,,male,708081740.0
+16817.0,8932.9647,27419,target corp,,1.0,,,20110114,schiel tina m,122520811003050,Executive Officer,female,708081740.0
+22870.0,,27419,target corp,1.0,,,,20110114,rice derica w,122520811003039,,male,708081740.0
+,124215.9617,27419,target corp,1.0,1.0,,,20110520,steinhafel gregg w,122520811014866,Executive Officer,male,689000000.0
+,29275.767,27419,target corp,,1.0,,,20110608,scully terrence j,122520811016087,Executive Officer,male,689145299.0
 4555.0,2887.4176,27419,target corp,,1.0,,,20110712,ward laysha,122520811018103,Executive Officer,male,689145299.0
-9743.0,0.0,27419,target corp,1.0,,,,20110919,johnson james a /dc/,122520811021975,,male,675227176.0
-9743.0,0.0,27419,target corp,1.0,,,,20111121,johnson james a /dc/,122520811025185,,male,671596926.0
-52526.0,0.0,27419,target corp,,1.0,,,20111122,baer timothy r,122520811025226,Executive Officer,male,671596926.0
+9743.0,,27419,target corp,1.0,,,,20110919,johnson james a /dc/,122520811021975,,male,675227176.0
+9743.0,,27419,target corp,1.0,,,,20111121,johnson james a /dc/,122520811025185,,male,671596926.0
 46797.0,4221.5904,27419,target corp,,1.0,,,20111122,kozlak jodee a,122520811025227,Executive Officer,female,671596926.0
+52526.0,,27419,target corp,,1.0,,,20111122,baer timothy r,122520811025226,Executive Officer,male,671596926.0
 37443.0,29573.1463,27419,target corp,,1.0,,,20111122,scully terrence j,122520811025228,Executive Officer,male,671596926.0
 37443.0,29573.1463,27419,target corp,,1.0,,,20111205,scully terrence j,122520811025869,Executive Officer,male,671596926.0
-55044.0,0.0,27419,target corp,1.0,,,,20111214,trujillo solomon d,122520811026311,,male,671596926.0
-6698.8514,0.0,27419,target corp,,1.0,,,20111215,schiel tina m,122520811026334,Executive Officer,female,671596926.0
-54645.0,0.0,27419,target corp,1.0,,,,20120105,sanger stephen w,122520812000761,,male,671596926.0
-83735.0,6528.088,27419,target corp,,1.0,,,20120113,griffith john d,122520812001362,Executive Officer,male,671596926.0
-18111.0,3267.7391,27419,target corp,,1.0,,,20120113,fisher anthony s.,122520812001380,Executive Officer,male,671596926.0
-52999.0,29715.4889,27419,target corp,,1.0,,,20120113,scully terrence j,122520812001381,Executive Officer,male,671596926.0
-123438.0,125490.8183,27419,target corp,1.0,1.0,,,20120113,steinhafel gregg w,122520812001382,Executive Officer,male,671596926.0
+55044.0,,27419,target corp,1.0,,,,20111214,trujillo solomon d,122520811026311,,male,671596926.0
+6698.8514,,27419,target corp,,1.0,,,20111215,schiel tina m,122520811026334,Executive Officer,female,671596926.0
+54645.0,,27419,target corp,1.0,,,,20120105,sanger stephen w,122520812000761,,male,671596926.0
 32536.0,10615.0966,27419,target corp,,1.0,,,20120113,schiel tina m,122520812001387,Executive Officer,female,671596926.0
-165942.0,3974.667,27419,target corp,,1.0,,,20120113,tesija kathryn a,122520812001385,Executive Officer,female,671596926.0
 27054.0,11141.067,27419,target corp,,1.0,,,20120113,scovanner douglas a,122520812001386,Executive Officer,male,671596926.0
+165942.0,3974.667,27419,target corp,,1.0,,,20120113,tesija kathryn a,122520812001385,Executive Officer,female,671596926.0
+123438.0,125490.8183,27419,target corp,1.0,1.0,,,20120113,steinhafel gregg w,122520812001382,Executive Officer,male,671596926.0
+52999.0,29715.4889,27419,target corp,,1.0,,,20120113,scully terrence j,122520812001381,Executive Officer,male,671596926.0
+18111.0,3267.7391,27419,target corp,,1.0,,,20120113,fisher anthony s.,122520812001380,Executive Officer,male,671596926.0
+65574.0,,27419,target corp,,1.0,,,20120113,baer timothy r,122520812001366,Executive Officer,male,671596926.0
+83735.0,6528.088,27419,target corp,,1.0,,,20120113,griffith john d,122520812001362,Executive Officer,male,671596926.0
 50190.0,2427.1454,27419,target corp,,1.0,,,20120113,jacob beth m,122520812001361,Executive Officer,female,671596926.0
 59828.0,4241.9099,27419,target corp,,1.0,,,20120113,kozlak jodee a,122520812001383,Executive Officer,female,671596926.0
+56886.0,,27419,target corp,1.0,,,,20120113,trujillo solomon d,122520812001350,,male,671596926.0
+4210.0,,27419,target corp,1.0,,,,20120113,stumpf john g,122520812001349,,male,671596926.0
+,,27419,target corp,1.0,,,,20120113,sanger stephen w,122520812001348,,male,671596926.0
+28706.0,,27419,target corp,1.0,,,,20120113,rice derica w,122520812001347,,male,671596926.0
+22349.0,,27419,target corp,1.0,,,,20120113,mulcahy anne m,122520812001346,,female,671596926.0
+11450.0,,27419,target corp,1.0,,,,20120113,austin roxanne s,122520812001341,,female,671596926.0
+37700.0,,27419,target corp,1.0,,,,20120113,minnick mary e,122520812001345,,female,671596926.0
+11641.0,,27419,target corp,1.0,,,,20120113,johnson james a /dc/,122520812001344,,male,671596926.0
+28706.0,,27419,target corp,1.0,,,,20120113,dillon mary,122520812001343,,female,671596926.0
+11450.0,,27419,target corp,1.0,,,,20120113,darden calvin,122520812001342,,male,671596926.0
 12281.0,2915.6195,27419,target corp,,1.0,,,20120113,ward laysha,122520812001360,Executive Officer,male,671596926.0
-65574.0,0.0,27419,target corp,,1.0,,,20120113,baer timothy r,122520812001366,Executive Officer,male,671596926.0
-4210.0,0.0,27419,target corp,1.0,,,,20120113,stumpf john g,122520812001349,,male,671596926.0
-0.0,0.0,27419,target corp,1.0,,,,20120113,sanger stephen w,122520812001348,,male,671596926.0
-28706.0,0.0,27419,target corp,1.0,,,,20120113,rice derica w,122520812001347,,male,671596926.0
-22349.0,0.0,27419,target corp,1.0,,,,20120113,mulcahy anne m,122520812001346,,female,671596926.0
-37700.0,0.0,27419,target corp,1.0,,,,20120113,minnick mary e,122520812001345,,female,671596926.0
-11641.0,0.0,27419,target corp,1.0,,,,20120113,johnson james a /dc/,122520812001344,,male,671596926.0
-28706.0,0.0,27419,target corp,1.0,,,,20120113,dillon mary,122520812001343,,female,671596926.0
-11450.0,0.0,27419,target corp,1.0,,,,20120113,darden calvin,122520812001342,,male,671596926.0
-11450.0,0.0,27419,target corp,1.0,,,,20120113,austin roxanne s,122520812001341,,female,671596926.0
-56886.0,0.0,27419,target corp,1.0,,,,20120113,trujillo solomon d,122520812001350,,male,671596926.0
 157902.0,3974.667,27419,target corp,,1.0,,,20120119,tesija kathryn a,122520812001655,Executive Officer,female,671596926.0
 82692.0,38195.067,27419,target corp,,1.0,,,20120119,scovanner douglas a,122520812001654,Executive Officer,male,671596926.0
 47835.0,29715.4889,27419,target corp,,1.0,,,20120119,scully terrence j,122520812001653,Executive Officer,male,671596926.0
-29927.0,6700.9061,27419,target corp,,1.0,,,20120119,schiel tina m,122520812001652,Executive Officer,female,671596926.0
+53646.0,4241.9099,27419,target corp,,1.0,,,20120119,kozlak jodee a,122520812001651,Executive Officer,female,671596926.0
 45536.0,2427.1454,27419,target corp,,1.0,,,20120119,jacob beth m,122520812001650,Executive Officer,female,671596926.0
 76352.0,6528.088,27419,target corp,,1.0,,,20120119,griffith john d,122520812001649,Executive Officer,male,671596926.0
-59400.0,0.0,27419,target corp,,1.0,,,20120119,baer timothy r,122520812001648,Executive Officer,male,671596926.0
-53646.0,4241.9099,27419,target corp,,1.0,,,20120119,kozlak jodee a,122520812001651,Executive Officer,female,671596926.0
+59400.0,,27419,target corp,,1.0,,,20120119,baer timothy r,122520812001648,Executive Officer,male,671596926.0
+29927.0,6700.9061,27419,target corp,,1.0,,,20120119,schiel tina m,122520812001652,Executive Officer,female,671596926.0
 12281.0,2915.6195,27419,target corp,,1.0,,,20120228,ward laysha,122520812005757,Executive Officer,male,669292929.0
 36128.0,2427.1454,27419,target corp,,1.0,,,20120228,jacob beth m,122520812005758,Executive Officer,female,669292929.0
-11641.0,0.0,27419,target corp,1.0,,,,20120302,johnson james a /dc/,122520812006368,,male,669292929.0
-323011.0,312970.8183,27419,target corp,1.0,1.0,,,20120316,steinhafel gregg w,122520812007773,Executive Officer,male,668486970.0
-17984.0,2915.6195,27419,target corp,,1.0,,,20120316,ward laysha,122520812007775,Executive Officer,male,668486970.0
-178226.0,3974.667,27419,target corp,,1.0,,,20120316,tesija kathryn a,122520812007774,Executive Officer,female,668486970.0
+11641.0,,27419,target corp,1.0,,,,20120302,johnson james a /dc/,122520812006368,,male,669292929.0
 61364.0,29715.4889,27419,target corp,,1.0,,,20120316,scully terrence j,122520812007772,Executive Officer,male,668486970.0
+323011.0,312970.8183,27419,target corp,1.0,1.0,,,20120316,steinhafel gregg w,122520812007773,Executive Officer,male,668486970.0
 118988.0,38195.067,27419,target corp,,1.0,,,20120316,scovanner douglas a,122520812007771,Executive Officer,male,668486970.0
+17984.0,2915.6195,27419,target corp,,1.0,,,20120316,ward laysha,122520812007775,Executive Officer,male,668486970.0
 69844.0,4241.9099,27419,target corp,,1.0,,,20120316,kozlak jodee a,122520812007769,Executive Officer,female,668486970.0
-48318.0,2427.1454,27419,target corp,,1.0,,,20120316,jacob beth m,122520812007768,Executive Officer,female,668486970.0
-95216.0,6528.088,27419,target corp,,1.0,,,20120316,griffith john d,122520812007767,Executive Officer,male,668486970.0
-75614.0,0.0,27419,target corp,,1.0,,,20120316,baer timothy r,122520812007766,Executive Officer,male,668486970.0
 39907.0,6700.9061,27419,target corp,,1.0,,,20120316,schiel tina m,122520812007770,Executive Officer,female,668486970.0
+75614.0,,27419,target corp,,1.0,,,20120316,baer timothy r,122520812007766,Executive Officer,male,668486970.0
+178226.0,3974.667,27419,target corp,,1.0,,,20120316,tesija kathryn a,122520812007774,Executive Officer,female,668486970.0
+95216.0,6528.088,27419,target corp,,1.0,,,20120316,griffith john d,122520812007767,Executive Officer,male,668486970.0
+48318.0,2427.1454,27419,target corp,,1.0,,,20120316,jacob beth m,122520812007768,Executive Officer,female,668486970.0
 40318.0,2427.1454,27419,target corp,,1.0,,,20120320,jacob beth m,122520812008021,Executive Officer,female,668486970.0
 41277.0,4241.9099,27419,target corp,,1.0,,,20120320,kozlak jodee a,122520812008022,Executive Officer,female,668486970.0
 37567.0,29715.4889,27419,target corp,,1.0,,,20120320,scully terrence j,122520812008023,Executive Officer,male,668486970.0
 12345.0,2915.6195,27419,target corp,,1.0,,,20120327,ward laysha,122520812008301,Executive Officer,male,668486970.0
-34359.0,0.0,27419,target corp,,1.0,,,20120404,jones jeffrey j ii,122520812009349,Executive Officer,male,668486970.0
-11513.0,0.0,27419,target corp,1.0,,,,20120604,austin roxanne s,122520812013590,,female,661205822.0
+34359.0,,27419,target corp,,1.0,,,20120404,jones jeffrey j ii,122520812009349,Executive Officer,male,668486970.0
+11513.0,,27419,target corp,1.0,,,,20120604,austin roxanne s,122520812013590,,female,661205822.0
 24907.0,7163.7421,27419,target corp,,1.0,,,20120606,schiel tina m,122520812013902,Executive Officer,female,661205822.0
-40742.0,0.0,27419,target corp,,1.0,,,20120612,baer timothy r,122520812014216,Executive Officer,male,661205822.0
-11513.0,0.0,27419,target corp,1.0,,,,20120612,austin roxanne s,122520812014218,,female,661205822.0
+11513.0,,27419,target corp,1.0,,,,20120612,austin roxanne s,122520812014218,,female,661205822.0
+40742.0,,27419,target corp,,1.0,,,20120612,baer timothy r,122520812014216,Executive Officer,male,661205822.0
 242151.0,126150.4645,27419,target corp,1.0,1.0,,,20120619,steinhafel gregg w,122520812014601,Executive Officer,male,661205822.0
 95409.0,7048.382,27419,target corp,,1.0,,,20120620,griffith john d,122520812014703,Executive Officer,male,661205822.0
-0.0,0.0,27419,target corp,,1.0,,,20120621,griffith john d,122520812014773,Executive Officer,male,661205822.0
-47594.0,0.0,27419,target corp,,1.0,,,20120625,griffith john d,122520812014875,Executive Officer,male,661205822.0
+0.0,,27419,target corp,,1.0,,,20120621,griffith john d,122520812014773,Executive Officer,male,661205822.0
+47594.0,,27419,target corp,,1.0,,,20120625,griffith john d,122520812014875,Executive Officer,male,661205822.0
+38088.0,,27419,target corp,1.0,,,,20120713,minnick mary e,122520812016260,,female,661205822.0
 36503.0,2675.8605,27419,target corp,,1.0,,,20120713,jacob beth m,122520812016262,Executive Officer,female,661205822.0
-38088.0,0.0,27419,target corp,1.0,,,,20120713,minnick mary e,122520812016260,,female,661205822.0
-25035.0,7197.4784,27419,target corp,,1.0,,,20120820,schiel tina m,122520812018182,Executive Officer,female,654885290.0
-0.0,30229.7542,27419,target corp,,1.0,,,20120820,scully terrence j,122520812018180,Executive Officer,male,654885290.0
 21677.0,6419.8496,27419,target corp,,1.0,,,20120820,mulligan john j,122520812018181,Executive Officer,male,654885290.0
-61765.0,0.0,27419,target corp,1.0,,,,20120820,sanger stephen w,122520812018173,,male,654885290.0
+25035.0,7197.4784,27419,target corp,,1.0,,,20120820,schiel tina m,122520812018182,Executive Officer,female,654885290.0
 36503.0,2675.8605,27419,target corp,,1.0,,,20120820,jacob beth m,122520812018174,Executive Officer,female,654885290.0
+61765.0,,27419,target corp,1.0,,,,20120820,sanger stephen w,122520812018173,,male,654885290.0
+,30229.7542,27419,target corp,,1.0,,,20120820,scully terrence j,122520812018180,Executive Officer,male,654885290.0
 40037.0,4665.4821,27419,target corp,,1.0,,,20120823,kozlak jodee a,122520812018486,Executive Officer,female,654885290.0
 37828.0,4665.4821,27419,target corp,,1.0,,,20120827,kozlak jodee a,122520812018547,Executive Officer,female,654885290.0
 18300.0,3829.8195,27419,target corp,,1.0,,,20120911,fisher anthony s.,122520812019390,Executive Officer,male,654885290.0
-38612.0,0.0,27419,target corp,,1.0,,,20120914,jones jeffrey j ii,122520812019634,Executive Officer,male,654885290.0
 12480.0,3158.238,27419,target corp,,1.0,,,20120914,ward laysha,122520812019635,Executive Officer,male,654885290.0
+38612.0,,27419,target corp,,1.0,,,20120914,jones jeffrey j ii,122520812019634,Executive Officer,male,654885290.0
 269924.0,368708.3509,27419,target corp,1.0,1.0,,,20120917,steinhafel gregg w,122520812019754,Executive Officer,male,654885290.0
 37971.0,30356.8148,27419,target corp,,1.0,,,20121026,scully terrence j,122520812021863,Executive Officer,male,654885290.0
 36708.0,2687.1075,27419,target corp,,1.0,,,20121030,jacob beth m,122520812022008,Executive Officer,female,654465209.0
-41181.0,0.0,27419,target corp,,1.0,,,20121030,baer timothy r,122520812022009,Executive Officer,male,654465209.0
-63876.0,0.0,27419,target corp,1.0,,,,20121204,trujillo solomon d,122520812024381,,male,650794426.0
+41181.0,,27419,target corp,,1.0,,,20121030,baer timothy r,122520812022009,Executive Officer,male,654465209.0
+63876.0,,27419,target corp,1.0,,,,20121204,trujillo solomon d,122520812024381,,male,650794426.0
 37971.0,30356.8148,27419,target corp,,1.0,,,20121205,scully terrence j,122520812024565,Executive Officer,male,650794426.0
+13204.0,,27419,target corp,1.0,,,,20130111,austin roxanne s,122520813001309,,female,650794426.0
+33647.0,,27419,target corp,1.0,,,,20130111,rice derica w,122520813001312,,male,650794426.0
+27244.0,,27419,target corp,1.0,,,,20130111,mulcahy anne m,122520813001313,,female,650794426.0
+42823.0,,27419,target corp,1.0,,,,20130111,minnick mary e,122520813001314,,female,650794426.0
+,,27419,target corp,1.0,,,,20130111,johnson james a /dc/,122520813001315,,male,650794426.0
+,,27419,target corp,1.0,,,,20130111,sanger stephen w,122520813001316,,male,650794426.0
+5798.0,,27419,target corp,1.0,,,,20130111,stumpf john g,122520813001317,,male,650794426.0
+65418.0,,27419,target corp,1.0,,,,20130111,trujillo solomon d,122520813001318,,male,650794426.0
+13204.0,,27419,target corp,1.0,,,,20130111,darden calvin,122520813001310,,male,650794426.0
+33647.0,,27419,target corp,1.0,,,,20130111,dillon mary,122520813001311,,female,650794426.0
+49631.0,4713.9037,27419,target corp,,1.0,,,20130111,kozlak jodee a,122520813001319,Executive Officer,female,650794426.0
 34329.0,6486.4792,27419,target corp,,1.0,,,20130111,mulligan john j,122520813001322,Executive Officer,male,650794426.0
-0.0,30543.4993,27419,target corp,,1.0,,,20130111,scully terrence j,122520813001323,Executive Officer,male,650794426.0
+51238.0,121.5472,27419,target corp,,1.0,,,20130111,jones jeffrey j ii,122520813001320,Executive Officer,male,650794426.0
+47877.0,2703.6324,27419,target corp,,1.0,,,20130111,jacob beth m,122520813001331,Executive Officer,female,650794426.0
+58984.0,48.1176,27419,target corp,,1.0,,,20130111,griffith john d,122520813001330,Executive Officer,male,650794426.0
+52789.0,,27419,target corp,,1.0,,,20130111,baer timothy r,122520813001329,Executive Officer,male,650794426.0
+22647.0,3869.5678,27419,target corp,,1.0,,,20130111,fisher anthony s.,122520813001321,Executive Officer,male,650794426.0
+199923.0,4347.0466,27419,target corp,,1.0,,,20130111,tesija kathryn a,122520813001326,Executive Officer,female,650794426.0
+,30543.4993,27419,target corp,,1.0,,,20130111,scully terrence j,122520813001323,Executive Officer,male,650794426.0
+38757.0,7272.1788,27419,target corp,,1.0,,,20130111,schiel tina m,122520813001328,Executive Officer,female,650794426.0
 319363.0,369611.2468,27419,target corp,1.0,1.0,,,20130111,steinhafel gregg w,122520813001324,Executive Officer,male,650794426.0
 19788.0,3196.8258,27419,target corp,,1.0,,,20130111,ward laysha,122520813001325,Executive Officer,male,650794426.0
-22647.0,3869.5678,27419,target corp,,1.0,,,20130111,fisher anthony s.,122520813001321,Executive Officer,male,650794426.0
-38757.0,7272.1788,27419,target corp,,1.0,,,20130111,schiel tina m,122520813001328,Executive Officer,female,650794426.0
-52789.0,0.0,27419,target corp,,1.0,,,20130111,baer timothy r,122520813001329,Executive Officer,male,650794426.0
-58984.0,48.1176,27419,target corp,,1.0,,,20130111,griffith john d,122520813001330,Executive Officer,male,650794426.0
-47877.0,2703.6324,27419,target corp,,1.0,,,20130111,jacob beth m,122520813001331,Executive Officer,female,650794426.0
-199923.0,4347.0466,27419,target corp,,1.0,,,20130111,tesija kathryn a,122520813001326,Executive Officer,female,650794426.0
-51238.0,121.5472,27419,target corp,,1.0,,,20130111,jones jeffrey j ii,122520813001320,Executive Officer,male,650794426.0
-5798.0,0.0,27419,target corp,1.0,,,,20130111,stumpf john g,122520813001317,,male,650794426.0
-65418.0,0.0,27419,target corp,1.0,,,,20130111,trujillo solomon d,122520813001318,,male,650794426.0
-49631.0,4713.9037,27419,target corp,,1.0,,,20130111,kozlak jodee a,122520813001319,Executive Officer,female,650794426.0
-0.0,0.0,27419,target corp,1.0,,,,20130111,sanger stephen w,122520813001316,,male,650794426.0
-0.0,0.0,27419,target corp,1.0,,,,20130111,johnson james a /dc/,122520813001315,,male,650794426.0
-42823.0,0.0,27419,target corp,1.0,,,,20130111,minnick mary e,122520813001314,,female,650794426.0
-27244.0,0.0,27419,target corp,1.0,,,,20130111,mulcahy anne m,122520813001313,,female,650794426.0
-33647.0,0.0,27419,target corp,1.0,,,,20130111,rice derica w,122520813001312,,male,650794426.0
-33647.0,0.0,27419,target corp,1.0,,,,20130111,dillon mary,122520813001311,,female,650794426.0
-13204.0,0.0,27419,target corp,1.0,,,,20130111,darden calvin,122520813001310,,male,650794426.0
-13204.0,0.0,27419,target corp,1.0,,,,20130111,austin roxanne s,122520813001309,,female,650794426.0
-191994.0,4347.0466,27419,target corp,,1.0,,,20130116,tesija kathryn a,122520813001501,Executive Officer,female,650794426.0
-43407.0,2703.6324,27419,target corp,,1.0,,,20130116,jacob beth m,122520813001500,Executive Officer,female,650794426.0
-44684.0,4713.9037,27419,target corp,,1.0,,,20130116,kozlak jodee a,122520813001499,Executive Officer,female,650794426.0
-47833.0,0.0,27419,target corp,,1.0,,,20130116,baer timothy r,122520813001497,Executive Officer,male,650794426.0
-296725.0,369611.2468,27419,target corp,1.0,1.0,,,20130116,steinhafel gregg w,122520813001496,Executive Officer,male,650794426.0
 34220.0,30543.4993,27419,target corp,,1.0,,,20130116,scully terrence j,122520813001495,Executive Officer,male,650794426.0
+296725.0,369611.2468,27419,target corp,1.0,1.0,,,20130116,steinhafel gregg w,122520813001496,Executive Officer,male,650794426.0
+47833.0,,27419,target corp,,1.0,,,20130116,baer timothy r,122520813001497,Executive Officer,male,650794426.0
 54040.0,48.1176,27419,target corp,,1.0,,,20130116,griffith john d,122520813001498,Executive Officer,male,650794426.0
+44684.0,4713.9037,27419,target corp,,1.0,,,20130116,kozlak jodee a,122520813001499,Executive Officer,female,650794426.0
+43407.0,2703.6324,27419,target corp,,1.0,,,20130116,jacob beth m,122520813001500,Executive Officer,female,650794426.0
+191994.0,4347.0466,27419,target corp,,1.0,,,20130116,tesija kathryn a,122520813001501,Executive Officer,female,650794426.0
 38757.0,7272.1788,27419,target corp,,1.0,,,20130307,schiel tina m,122520813006977,Executive Officer,female,645294423.0
 36209.0,4713.9037,27419,target corp,,1.0,,,20130307,kozlak jodee a,122520813006978,Executive Officer,female,645294423.0
 282332.0,369611.2468,27419,target corp,1.0,1.0,,,20130312,steinhafel gregg w,122520813007501,Executive Officer,male,645294423.0
-22174.0,3196.8258,27419,target corp,,1.0,,,20130315,ward laysha,122520813007750,Executive Officer,male,641387165.0
 202390.0,4347.0466,27419,target corp,,1.0,,,20130315,tesija kathryn a,122520813007755,Executive Officer,female,641387165.0
-42552.0,7272.1788,27419,target corp,,1.0,,,20130315,schiel tina m,122520813007754,Executive Officer,female,641387165.0
 45042.0,2703.6324,27419,target corp,,1.0,,,20130315,jacob beth m,122520813007753,Executive Officer,female,641387165.0
-54988.0,0.0,27419,target corp,,1.0,,,20130315,baer timothy r,122520813007752,Executive Officer,male,641387165.0
+22174.0,3196.8258,27419,target corp,,1.0,,,20130315,ward laysha,122520813007750,Executive Officer,male,641387165.0
 308266.0,369611.2468,27419,target corp,1.0,1.0,,,20130315,steinhafel gregg w,122520813007749,Executive Officer,male,641387165.0
-1863.0,0.0,27419,target corp,1.0,,,,20130315,de castro henrique,122520813007728,,male,641387165.0
+42552.0,7272.1788,27419,target corp,,1.0,,,20130315,schiel tina m,122520813007754,Executive Officer,female,641387165.0
 37114.0,6486.4792,27419,target corp,,1.0,,,20130315,mulligan john j,122520813007747,Executive Officer,male,641387165.0
-43020.0,4713.9037,27419,target corp,,1.0,,,20130315,kozlak jodee a,122520813007746,Executive Officer,female,641387165.0
-60849.0,48.1176,27419,target corp,,1.0,,,20130315,griffith john d,122520813007745,Executive Officer,male,641387165.0
-1863.0,0.0,27419,target corp,1.0,,,,20130315,baker douglas m jr,122520813007727,,male,641387165.0
 32893.0,30543.4993,27419,target corp,,1.0,,,20130315,scully terrence j,122520813007748,Executive Officer,male,641387165.0
+1863.0,,27419,target corp,1.0,,,,20130315,baker douglas m jr,122520813007727,,male,641387165.0
+54988.0,,27419,target corp,,1.0,,,20130315,baer timothy r,122520813007752,Executive Officer,male,641387165.0
+60849.0,48.1176,27419,target corp,,1.0,,,20130315,griffith john d,122520813007745,Executive Officer,male,641387165.0
+43020.0,4713.9037,27419,target corp,,1.0,,,20130315,kozlak jodee a,122520813007746,Executive Officer,female,641387165.0
+1863.0,,27419,target corp,1.0,,,,20130315,de castro henrique,122520813007728,,male,641387165.0
 41601.0,2703.6324,27419,target corp,,1.0,,,20130321,jacob beth m,122520813008160,Executive Officer,female,641387165.0
 38908.0,7272.1788,27419,target corp,,1.0,,,20130321,schiel tina m,122520813008161,Executive Officer,female,641387165.0
 36406.0,4713.9037,27419,target corp,,1.0,,,20130322,kozlak jodee a,122520813008196,Executive Officer,female,641387165.0
 267666.0,369611.2468,27419,target corp,1.0,1.0,,,20130327,steinhafel gregg w,122520813008504,Executive Officer,male,641387165.0
-50727.0,0.0,27419,target corp,,1.0,,,20130328,baer timothy r,122520813008561,Executive Officer,male,641387165.0
+50727.0,,27419,target corp,,1.0,,,20130328,baer timothy r,122520813008561,Executive Officer,male,641387165.0
 22174.0,3196.8258,27419,target corp,,1.0,,,20130328,ward laysha,122520813008562,Executive Officer,male,641387165.0
-50227.0,0.0,27419,target corp,,1.0,,,20130329,baer timothy r,122520813008617,Executive Officer,male,641387165.0
+50227.0,,27419,target corp,,1.0,,,20130329,baer timothy r,122520813008617,Executive Officer,male,641387165.0
 60849.0,478.3945,27419,target corp,,1.0,,,20130423,griffith john d,122520813010251,Executive Officer,male,641387165.0
 38908.0,7692.3871,27419,target corp,,1.0,,,20130423,schiel tina m,122520813010255,Executive Officer,female,641387165.0
 41601.0,2714.9628,27419,target corp,,1.0,,,20130424,jacob beth m,122520813010288,Executive Officer,female,641387165.0
-39395.0,0.0,27419,target corp,,1.0,,,20130530,baer timothy r,122520813013463,Executive Officer,male,641703245.0
+39395.0,,27419,target corp,,1.0,,,20130530,baer timothy r,122520813013463,Executive Officer,male,641703245.0
 41601.0,2714.9628,27419,target corp,,1.0,,,20130531,jacob beth m,122520813013546,Executive Officer,female,641703245.0
 37114.0,6984.5089,27419,target corp,,1.0,,,20130603,mulligan john j,122520813013683,Executive Officer,male,641703245.0
 36406.0,4959.3208,27419,target corp,,1.0,,,20130605,kozlak jodee a,122520813013933,Executive Officer,female,641703245.0
 19897.0,3405.4248,27419,target corp,,1.0,,,20130605,ward laysha,122520813014011,Executive Officer,male,641703245.0
 22771.0,4092.2563,27419,target corp,,1.0,,,20130607,fisher anthony s.,122520813014085,Executive Officer,male,641703245.0
-1363.0,0.0,27419,target corp,1.0,,,,20130703,salazar kenneth l.,122520813015789,,male,641703245.0
-0.0,0.0,27419,target corp,,1.0,,,20130826,jones jeffrey j ii,122520813018589,Executive Officer,male,631124948.0
+1363.0,,27419,target corp,1.0,,,,20130703,salazar kenneth l.,122520813015789,,male,641703245.0
+0.0,,27419,target corp,,1.0,,,20130826,jones jeffrey j ii,122520813018589,Executive Officer,male,631124948.0
 242271.0,4635.8098,27419,target corp,,1.0,,,20130917,tesija kathryn a,122520813020123,Executive Officer,female,631124948.0
-0.0,0.0,27419,target corp,,1.0,,,20131202,fisher anthony s.,122520813024436,Executive Officer,male,632087699.0
-69698.0,0.0,27419,target corp,1.0,,,,20131204,trujillo solomon d,122520813024672,,male,632087699.0
+0.0,,27419,target corp,,1.0,,,20131202,fisher anthony s.,122520813024436,Executive Officer,male,632087699.0
+69698.0,,27419,target corp,1.0,,,,20131204,trujillo solomon d,122520813024672,,male,632087699.0
 361101.0,129021.5452,27419,target corp,1.0,1.0,,,20131206,steinhafel gregg w,122520813024981,Executive Officer,male,632087699.0
-17583.0,0.0,27419,target corp,1.0,,,,20131223,darden calvin,122520813025938,,male,632087699.0
+17583.0,,27419,target corp,1.0,,,,20131223,darden calvin,122520813025938,,male,632087699.0
 25514.0,3462.7021,27419,target corp,,1.0,,,20140110,ward laysha,122520814001578,Executive Officer,male,632087699.0
 257683.0,4694.1423,27419,target corp,,1.0,,,20140110,tesija kathryn a,122520814001577,Executive Officer,female,632087699.0
 49374.0,7821.7683,27419,target corp,,1.0,,,20140110,schiel tina m,122520814001576,Executive Officer,female,632087699.0
 46750.0,7101.9839,27419,target corp,,1.0,,,20140110,mulligan john j,122520814001575,Executive Officer,male,632087699.0
-45326.0,5042.7336,27419,target corp,,1.0,,,20140110,kozlak jodee a,122520814001574,Executive Officer,female,632087699.0
 175456.0,490618.9779,27419,target corp,1.0,1.0,,,20140110,steinhafel gregg w,122520814001569,Executive Officer,male,632087699.0
 61469.0,41.1468,27419,target corp,,1.0,,,20140110,jones jeffrey j ii,122520814001568,Executive Officer,male,632087699.0
 50213.0,2760.6268,27419,target corp,,1.0,,,20140110,jacob beth m,122520814001567,Executive Officer,female,632087699.0
 69461.0,42.9632,27419,target corp,,1.0,,,20140110,griffith john d,122520814001566,Executive Officer,male,632087699.0
-35979.0,0.0,27419,target corp,,1.0,,,20140110,fisher anthony s.,122520814001565,Executive Officer,male,632087699.0
-48374.0,0.0,27419,target corp,,1.0,,,20140110,baer timothy r,122520814001564,Executive Officer,male,632087699.0
-72488.0,0.0,27419,target corp,1.0,,,,20140110,trujillo solomon d,122520814001534,,male,632087699.0
-8662.0,0.0,27419,target corp,1.0,,,,20140110,stumpf john g,122520814001533,,male,632087699.0
-30462.0,0.0,27419,target corp,1.0,,,,20140110,mulcahy anne m,122520814001525,,female,632087699.0
-48015.0,0.0,27419,target corp,1.0,,,,20140110,minnick mary e,122520814001526,,female,632087699.0
-16443.0,0.0,27419,target corp,1.0,,,,20140110,johnson james a /dc/,122520814001527,,male,632087699.0
-6053.0,0.0,27419,target corp,1.0,,,,20140110,de castro henrique,122520814001528,,male,632087699.0
-20298.0,0.0,27419,target corp,1.0,,,,20140110,darden calvin,122520814001524,,male,632087699.0
-16256.0,0.0,27419,target corp,1.0,,,,20140110,austin roxanne s,122520814001530,,female,632087699.0
-38870.0,0.0,27419,target corp,1.0,,,,20140110,rice derica w,122520814001531,,male,632087699.0
-4098.0,0.0,27419,target corp,1.0,,,,20140110,salazar kenneth l.,122520814001532,,male,632087699.0
-4615.0,0.0,27419,target corp,1.0,,,,20140110,baker douglas m jr,122520814001529,,male,632087699.0
+35979.0,,27419,target corp,,1.0,,,20140110,fisher anthony s.,122520814001565,Executive Officer,male,632087699.0
+45326.0,5042.7336,27419,target corp,,1.0,,,20140110,kozlak jodee a,122520814001574,Executive Officer,female,632087699.0
+72488.0,,27419,target corp,1.0,,,,20140110,trujillo solomon d,122520814001534,,male,632087699.0
+8662.0,,27419,target corp,1.0,,,,20140110,stumpf john g,122520814001533,,male,632087699.0
+4098.0,,27419,target corp,1.0,,,,20140110,salazar kenneth l.,122520814001532,,male,632087699.0
+38870.0,,27419,target corp,1.0,,,,20140110,rice derica w,122520814001531,,male,632087699.0
+16256.0,,27419,target corp,1.0,,,,20140110,austin roxanne s,122520814001530,,female,632087699.0
+4615.0,,27419,target corp,1.0,,,,20140110,baker douglas m jr,122520814001529,,male,632087699.0
+6053.0,,27419,target corp,1.0,,,,20140110,de castro henrique,122520814001528,,male,632087699.0
+16443.0,,27419,target corp,1.0,,,,20140110,johnson james a /dc/,122520814001527,,male,632087699.0
+48015.0,,27419,target corp,1.0,,,,20140110,minnick mary e,122520814001526,,female,632087699.0
+30462.0,,27419,target corp,1.0,,,,20140110,mulcahy anne m,122520814001525,,female,632087699.0
+20298.0,,27419,target corp,1.0,,,,20140110,darden calvin,122520814001524,,male,632087699.0
+48374.0,,27419,target corp,,1.0,,,20140110,baer timothy r,122520814001564,Executive Officer,male,632087699.0
+34508.0,,27419,target corp,,1.0,,,20140115,fisher anthony s.,122520814001786,Executive Officer,male,632087699.0
 45912.0,7101.9839,27419,target corp,,1.0,,,20140115,mulligan john j,122520814001762,Executive Officer,male,632087699.0
-43916.0,0.0,27419,target corp,,1.0,,,20140115,baer timothy r,122520814001754,Executive Officer,male,632087699.0
-65009.0,42.9632,27419,target corp,,1.0,,,20140115,griffith john d,122520814001755,Executive Officer,male,632087699.0
-45751.0,2760.6268,27419,target corp,,1.0,,,20140115,jacob beth m,122520814001756,Executive Officer,female,632087699.0
-40872.0,5042.7336,27419,target corp,,1.0,,,20140115,kozlak jodee a,122520814001757,Executive Officer,female,632087699.0
-45804.0,7821.7683,27419,target corp,,1.0,,,20140115,schiel tina m,122520814001758,Executive Officer,female,632087699.0
-250236.0,4694.1423,27419,target corp,,1.0,,,20140115,tesija kathryn a,122520814001759,Executive Officer,female,632087699.0
-23700.0,3462.7021,27419,target corp,,1.0,,,20140115,ward laysha,122520814001760,Executive Officer,male,632087699.0
 154089.0,490618.9779,27419,target corp,1.0,1.0,,,20140115,steinhafel gregg w,122520814001761,Executive Officer,male,632087699.0
-34508.0,0.0,27419,target corp,,1.0,,,20140115,fisher anthony s.,122520814001786,Executive Officer,male,632087699.0
+23700.0,3462.7021,27419,target corp,,1.0,,,20140115,ward laysha,122520814001760,Executive Officer,male,632087699.0
+45751.0,2760.6268,27419,target corp,,1.0,,,20140115,jacob beth m,122520814001756,Executive Officer,female,632087699.0
+45804.0,7821.7683,27419,target corp,,1.0,,,20140115,schiel tina m,122520814001758,Executive Officer,female,632087699.0
+40872.0,5042.7336,27419,target corp,,1.0,,,20140115,kozlak jodee a,122520814001757,Executive Officer,female,632087699.0
+65009.0,42.9632,27419,target corp,,1.0,,,20140115,griffith john d,122520814001755,Executive Officer,male,632087699.0
+43916.0,,27419,target corp,,1.0,,,20140115,baer timothy r,122520814001754,Executive Officer,male,632087699.0
+250236.0,4694.1423,27419,target corp,,1.0,,,20140115,tesija kathryn a,122520814001759,Executive Officer,female,632087699.0
+49336.0,,27419,target corp,,1.0,,,20140313,baer timothy r,122520814008241,Executive Officer,male,633174692.0
 258319.0,4694.1423,27419,target corp,,1.0,,,20140313,tesija kathryn a,122520814008242,Executive Officer,female,633174692.0
-49336.0,0.0,27419,target corp,,1.0,,,20140313,baer timothy r,122520814008241,Executive Officer,male,633174692.0
-35901.0,0.0,27419,target corp,,1.0,,,20140314,fisher anthony s.,122520814008260,Executive Officer,male,633174692.0
-71132.0,42.9632,27419,target corp,,1.0,,,20140314,griffith john d,122520814008261,Executive Officer,male,633174692.0
-46418.0,5042.7336,27419,target corp,,1.0,,,20140314,kozlak jodee a,122520814008262,Executive Officer,female,633174692.0
-47276.0,7101.9839,27419,target corp,,1.0,,,20140314,mulligan john j,122520814008263,Executive Officer,male,633174692.0
+26213.0,3462.7021,27419,target corp,,1.0,,,20140314,ward laysha,122520814008266,Executive Officer,male,633174692.0
 50714.0,7821.7683,27419,target corp,,1.0,,,20140314,schiel tina m,122520814008264,Executive Officer,female,633174692.0
 174323.0,490618.9779,27419,target corp,1.0,1.0,,,20140314,steinhafel gregg w,122520814008265,Executive Officer,male,633174692.0
-26213.0,3462.7021,27419,target corp,,1.0,,,20140314,ward laysha,122520814008266,Executive Officer,male,633174692.0
-20545.0,0.0,27419,target corp,,1.0,,,20140509,derodes robert p,122520814012511,Executive Officer,male,633613396.0
+71132.0,42.9632,27419,target corp,,1.0,,,20140314,griffith john d,122520814008261,Executive Officer,male,633174692.0
+47276.0,7101.9839,27419,target corp,,1.0,,,20140314,mulligan john j,122520814008263,Executive Officer,male,633174692.0
+46418.0,5042.7336,27419,target corp,,1.0,,,20140314,kozlak jodee a,122520814008262,Executive Officer,female,633174692.0
+35901.0,,27419,target corp,,1.0,,,20140314,fisher anthony s.,122520814008260,Executive Officer,male,633174692.0
+20545.0,,27419,target corp,,1.0,,,20140509,derodes robert p,122520814012511,Executive Officer,male,633613396.0
 65111.0,7301.5245,27419,target corp,,1.0,,,20140527,mulligan john j,122520814013683,Executive Officer,male,633704405.0
-26375.0,0.0,27419,target corp,1.0,,,,20140604,austin roxanne s,122520814014497,,female,633704405.0
-19709.0,0.0,27419,target corp,,1.0,,,20140605,derodes robert p,122520814014542,Executive Officer,male,633704405.0
-19004.0,0.0,27419,target corp,,1.0,,,20140701,derodes robert p,122520814015971,Executive Officer,male,633704405.0
-18161.0,0.0,27419,target corp,,1.0,,,20140804,derodes robert p,122520814017813,Executive Officer,male,633644605.0
-201754.0,0.0,27419,target corp,1.0,1.0,,,20140822,cornell brian c,122520814019040,Executive Officer,male,633716483.0
+26375.0,,27419,target corp,1.0,,,,20140604,austin roxanne s,122520814014497,,female,633704405.0
+19709.0,,27419,target corp,,1.0,,,20140605,derodes robert p,122520814014542,Executive Officer,male,633704405.0
+19004.0,,27419,target corp,,1.0,,,20140701,derodes robert p,122520814015971,Executive Officer,male,633704405.0
+18161.0,,27419,target corp,,1.0,,,20140804,derodes robert p,122520814017813,Executive Officer,male,633644605.0
 40311.0,8250.5898,27419,target corp,,1.0,,,20140822,schiel tina m,122520814019041,Executive Officer,female,633716483.0
-16503.0,0.0,27419,target corp,1.0,,,,20140829,darden calvin,122520814019249,,male,633716483.0
-17318.0,0.0,27419,target corp,,1.0,,,20140903,derodes robert p,122520814019398,Executive Officer,male,633716483.0
+201754.0,,27419,target corp,1.0,1.0,,,20140822,cornell brian c,122520814019040,Executive Officer,male,633716483.0
+16503.0,,27419,target corp,1.0,,,,20140829,darden calvin,122520814019249,,male,633716483.0
+17318.0,,27419,target corp,,1.0,,,20140903,derodes robert p,122520814019398,Executive Officer,male,633716483.0
 34044.0,5260.805,27419,target corp,,1.0,,,20140918,kozlak jodee a,122520814020136,Executive Officer,female,633716483.0
 21169.0,3676.695,27419,target corp,,1.0,,,20140925,ward laysha,122520814020458,Executive Officer,male,633716483.0
-36835.0,0.0,27419,target corp,,1.0,,,20140929,baer timothy r,122520814020562,Executive Officer,male,633716483.0
-16566.0,0.0,27419,target corp,,1.0,,,20141002,derodes robert p,122520814020959,Executive Officer,male,633716483.0
+36835.0,,27419,target corp,,1.0,,,20140929,baer timothy r,122520814020562,Executive Officer,male,633716483.0
+16566.0,,27419,target corp,,1.0,,,20141002,derodes robert p,122520814020959,Executive Officer,male,633716483.0
 218942.0,5170.5529,27419,target corp,,1.0,,,20141003,tesija kathryn a,122520814021167,Executive Officer,female,633716483.0
 63731.0,7478.5987,27419,target corp,,1.0,,,20141022,mulligan john j,122520814021896,Executive Officer,male,633716483.0
-15716.0,0.0,27419,target corp,,1.0,,,20141104,derodes robert p,122520814022543,Executive Officer,male,634378337.0
-31018.0,0.0,27419,target corp,1.0,,,,20141124,mulcahy anne m,122520814023888,,female,636964385.0
-16833.0,0.0,27419,target corp,1.0,,,,20141124,johnson james a /dc/,122520814023893,,male,636964385.0
+15716.0,,27419,target corp,,1.0,,,20141104,derodes robert p,122520814022543,Executive Officer,male,634378337.0
+31018.0,,27419,target corp,1.0,,,,20141124,mulcahy anne m,122520814023888,,female,636964385.0
+16833.0,,27419,target corp,1.0,,,,20141124,johnson james a /dc/,122520814023893,,male,636964385.0
 21169.0,3754.226,27419,target corp,,1.0,,,20141125,ward laysha,122520814023935,Executive Officer,male,636964385.0
-16648.0,0.0,27419,target corp,1.0,,,,20141125,darden calvin,122520814023936,,male,636964385.0
-14865.0,0.0,27419,target corp,,1.0,,,20141203,derodes robert p,122520814024311,Executive Officer,male,636964385.0
+16648.0,,27419,target corp,1.0,,,,20141125,darden calvin,122520814023936,,male,636964385.0
+14865.0,,27419,target corp,,1.0,,,20141203,derodes robert p,122520814024311,Executive Officer,male,636964385.0
 40653.0,8312.5181,27419,target corp,,1.0,,,20141204,schiel tina m,122520814024383,Executive Officer,female,636964385.0
-14111.0,0.0,27419,target corp,,1.0,,,20150105,derodes robert p,122520815000479,Executive Officer,male,636964385.0
-29486.0,0.0,27419,target corp,1.0,,,,20150108,austin roxanne s,122520815001052,,female,636964385.0
-12611.0,2874.9616,27419,target corp,,1.0,,,20150114,casey l. carl,122520815001325,Executive Officer,male,636964385.0
+14111.0,,27419,target corp,,1.0,,,20150105,derodes robert p,122520815000479,Executive Officer,male,636964385.0
+29486.0,,27419,target corp,1.0,,,,20150108,austin roxanne s,122520815001052,,female,636964385.0
 29116.0,5398.9928,27419,target corp,,1.0,,,20150114,kozlak jodee a,122520815001326,Executive Officer,female,636964385.0
 62587.0,7520.0089,27419,target corp,,1.0,,,20150114,mulligan john j,122520815001327,Executive Officer,male,636964385.0
 34447.0,8358.5459,27419,target corp,,1.0,,,20150114,schiel tina m,122520815001328,Executive Officer,female,636964385.0
 208908.0,5138.1616,27419,target corp,,1.0,,,20150114,tesija kathryn a,122520815001329,Executive Officer,female,636964385.0
 18239.0,3775.0137,27419,target corp,,1.0,,,20150114,ward laysha,122520815001330,Executive Officer,male,636964385.0
-31907.0,0.0,27419,target corp,,1.0,,,20150114,baer timothy r,122520815001324,Executive Officer,male,636964385.0
-225931.0,0.0,27419,target corp,1.0,1.0,,,20150116,cornell brian c,122520815001547,Executive Officer,male,636964385.0
-71565.0,195.9373,27419,target corp,,1.0,,,20150116,jones jeffrey j ii,122520815001548,Executive Officer,male,636964385.0
-37079.0,5398.9928,27419,target corp,,1.0,,,20150116,kozlak jodee a,122520815001549,Executive Officer,female,636964385.0
-21067.0,0.0,27419,target corp,1.0,,,,20150116,johnson james a /dc/,122520815001518,,male,636964385.0
-42663.0,8358.5459,27419,target corp,,1.0,,,20150116,schiel tina m,122520815001551,Executive Officer,female,636964385.0
+31907.0,,27419,target corp,,1.0,,,20150114,baer timothy r,122520815001324,Executive Officer,male,636964385.0
+12611.0,2874.9616,27419,target corp,,1.0,,,20150114,casey l. carl,122520815001325,Executive Officer,male,636964385.0
 219651.0,5138.1616,27419,target corp,,1.0,,,20150116,tesija kathryn a,122520815001552,Executive Officer,female,636964385.0
+42663.0,8358.5459,27419,target corp,,1.0,,,20150116,schiel tina m,122520815001551,Executive Officer,female,636964385.0
+71434.0,7520.0089,27419,target corp,,1.0,,,20150116,mulligan john j,122520815001550,Executive Officer,male,636964385.0
+37079.0,5398.9928,27419,target corp,,1.0,,,20150116,kozlak jodee a,122520815001549,Executive Officer,female,636964385.0
+71565.0,195.9373,27419,target corp,,1.0,,,20150116,jones jeffrey j ii,122520815001548,Executive Officer,male,636964385.0
+225931.0,,27419,target corp,1.0,1.0,,,20150116,cornell brian c,122520815001547,Executive Officer,male,636964385.0
+38878.0,,27419,target corp,,1.0,,,20150116,baer timothy r,122520815001545,Executive Officer,male,636964385.0
 22663.0,3775.0137,27419,target corp,,1.0,,,20150116,ward laysha,122520815001553,Executive Officer,male,636964385.0
 15443.0,2874.9616,27419,target corp,,1.0,,,20150116,casey l. carl,122520815001546,Executive Officer,male,636964385.0
-71434.0,7520.0089,27419,target corp,,1.0,,,20150116,mulligan john j,122520815001550,Executive Officer,male,636964385.0
-38878.0,0.0,27419,target corp,,1.0,,,20150116,baer timothy r,122520815001545,Executive Officer,male,636964385.0
-9749.0,0.0,27419,target corp,1.0,,,,20150116,de castro henrique,122520815001517,,male,636964385.0
-6521.0,0.0,27419,target corp,1.0,,,,20150116,salazar kenneth l.,122520815001522,,male,636964385.0
-43778.0,0.0,27419,target corp,1.0,,,,20150116,rice derica w,122520815001521,,male,636964385.0
-33483.0,0.0,27419,target corp,1.0,,,,20150116,mulcahy anne m,122520815001520,,female,636964385.0
-52979.0,0.0,27419,target corp,1.0,,,,20150116,minnick mary e,122520815001519,,female,636964385.0
-11228.0,0.0,27419,target corp,1.0,,,,20150116,stumpf john g,122520815001523,,male,636964385.0
-19062.0,0.0,27419,target corp,1.0,,,,20150116,darden calvin,122520815001516,,male,636964385.0
-7054.0,0.0,27419,target corp,1.0,,,,20150116,baker douglas m jr,122520815001515,,male,636964385.0
-31778.0,0.0,27419,target corp,1.0,,,,20150116,austin roxanne s,122520815001514,,female,636964385.0
+43778.0,,27419,target corp,1.0,,,,20150116,rice derica w,122520815001521,,male,636964385.0
+6521.0,,27419,target corp,1.0,,,,20150116,salazar kenneth l.,122520815001522,,male,636964385.0
+31778.0,,27419,target corp,1.0,,,,20150116,austin roxanne s,122520815001514,,female,636964385.0
+7054.0,,27419,target corp,1.0,,,,20150116,baker douglas m jr,122520815001515,,male,636964385.0
+19062.0,,27419,target corp,1.0,,,,20150116,darden calvin,122520815001516,,male,636964385.0
+11228.0,,27419,target corp,1.0,,,,20150116,stumpf john g,122520815001523,,male,636964385.0
+21067.0,,27419,target corp,1.0,,,,20150116,johnson james a /dc/,122520815001518,,male,636964385.0
+33483.0,,27419,target corp,1.0,,,,20150116,mulcahy anne m,122520815001520,,female,636964385.0
+9749.0,,27419,target corp,1.0,,,,20150116,de castro henrique,122520815001517,,male,636964385.0
+52979.0,,27419,target corp,1.0,,,,20150116,minnick mary e,122520815001519,,female,636964385.0
 67336.0,7520.0089,27419,target corp,,1.0,,,20150128,mulligan john j,122520815002147,Executive Officer,male,636964385.0
-13258.0,0.0,27419,target corp,,1.0,,,20150204,derodes robert p,122520815002945,Executive Officer,male,640213987.0
-21067.0,0.0,27419,target corp,1.0,,,,20150306,johnson james a /dc/,122520815007112,,male,641738798.0
-204439.0,5138.1616,27419,target corp,,1.0,,,20150312,tesija kathryn a,122520815007772,Executive Officer,female,641738798.0
-32785.0,8358.5459,27419,target corp,,1.0,,,20150312,tyler tina m,122520815007771,Executive Officer,female,641738798.0
-58346.0,7520.0089,27419,target corp,,1.0,,,20150312,mulligan john j,122520815007770,Executive Officer,male,641738798.0
-17345.0,3775.0137,27419,target corp,,1.0,,,20150312,ward laysha,122520815007773,Executive Officer,male,641738798.0
-215539.0,0.0,27419,target corp,1.0,1.0,,,20150312,cornell brian c,122520815007768,Executive Officer,male,641738798.0
-30537.0,0.0,27419,target corp,,1.0,,,20150312,baer timothy r,122520815007767,Executive Officer,male,641738798.0
+13258.0,,27419,target corp,,1.0,,,20150204,derodes robert p,122520815002945,Executive Officer,male,640213987.0
+21067.0,,27419,target corp,1.0,,,,20150306,johnson james a /dc/,122520815007112,,male,641738798.0
 62724.0,195.9373,27419,target corp,,1.0,,,20150312,jones jeffrey j ii,122520815007766,Executive Officer,male,641738798.0
+30537.0,,27419,target corp,,1.0,,,20150312,baer timothy r,122520815007767,Executive Officer,male,641738798.0
+215539.0,,27419,target corp,1.0,1.0,,,20150312,cornell brian c,122520815007768,Executive Officer,male,641738798.0
+58346.0,7520.0089,27419,target corp,,1.0,,,20150312,mulligan john j,122520815007770,Executive Officer,male,641738798.0
+32785.0,8358.5459,27419,target corp,,1.0,,,20150312,tyler tina m,122520815007771,Executive Officer,female,641738798.0
+204439.0,5138.1616,27419,target corp,,1.0,,,20150312,tesija kathryn a,122520815007772,Executive Officer,female,641738798.0
+17345.0,3775.0137,27419,target corp,,1.0,,,20150312,ward laysha,122520815007773,Executive Officer,male,641738798.0
 28726.0,5398.9928,27419,target corp,,1.0,,,20150312,kozlak jodee a,122520815007769,Executive Officer,female,641738798.0
 16162.0,2874.9616,27419,target corp,,1.0,,,20150313,casey l. carl,122520815007799,Executive Officer,male,641738798.0
-183239.0,0.0,27419,target corp,1.0,1.0,,,20150313,cornell brian c,122520815007800,Executive Officer,male,641738798.0
+183239.0,,27419,target corp,1.0,1.0,,,20150313,cornell brian c,122520815007800,Executive Officer,male,641738798.0
 62724.0,195.9373,27419,target corp,,1.0,,,20150324,jones jeffrey j ii,122520815008460,Executive Officer,male,641738798.0
-29195.0,0.0,27419,target corp,1.0,,,,20150324,austin roxanne s,122520815008461,,female,641738798.0
+29195.0,,27419,target corp,1.0,,,,20150324,austin roxanne s,122520815008461,,female,641738798.0
 0.0,2529.9616,27419,target corp,,1.0,,,20150324,casey l. carl,122520815008463,Executive Officer,male,641738798.0
-30537.0,0.0,27419,target corp,,1.0,,,20150327,baer timothy r,122520815008630,Executive Officer,male,641738798.0
 58346.0,7520.0089,27419,target corp,,1.0,,,20150327,mulligan john j,122520815008628,Executive Officer,male,641738798.0
-49492.0,5138.1616,27419,target corp,,1.0,,,20150330,tesija kathryn a,122520815008690,Executive Officer,female,641738798.0
+30537.0,,27419,target corp,,1.0,,,20150327,baer timothy r,122520815008630,Executive Officer,male,641738798.0
 22728.0,8358.5459,27419,target corp,,1.0,,,20150330,tyler tina m,122520815008691,Executive Officer,female,641738798.0
+49492.0,5138.1616,27419,target corp,,1.0,,,20150330,tesija kathryn a,122520815008690,Executive Officer,female,641738798.0
 33217.0,196.9284,27419,target corp,,1.0,,,20150407,jones jeffrey j ii,122520815009744,Executive Officer,male,641738798.0
 55415.0,7558.0494,27419,target corp,,1.0,,,20150526,mulligan john j,122520815012782,Executive Officer,male,638491711.0
-5075.0,0.0,27419,target corp,,1.0,,,20150605,mcnamara michael edward,122520815013476,Executive Officer,male,638491711.0
+5075.0,,27419,target corp,,1.0,,,20150605,mcnamara michael edward,122520815013476,Executive Officer,male,638491711.0
 28859.0,5461.0803,27419,target corp,,1.0,,,20150706,kozlak jodee a,122520815015191,Executive Officer,female,638491711.0
-30682.0,0.0,27419,target corp,,1.0,,,20150720,baer timothy r,122520815015665,Executive Officer,male,638491711.0
-1548.0,0.0,27419,target corp,1.0,,,,20150813,edwards robert l,122520815016820,,male,630446029.0
-1548.0,0.0,27419,target corp,1.0,,,,20150813,knauss donald r,122520815016821,,male,630446029.0
+30682.0,,27419,target corp,,1.0,,,20150720,baer timothy r,122520815015665,Executive Officer,male,638491711.0
+1548.0,,27419,target corp,1.0,,,,20150813,knauss donald r,122520815016821,,male,630446029.0
+1548.0,,27419,target corp,1.0,,,,20150813,edwards robert l,122520815016820,,male,630446029.0
+1548.0,,27419,target corp,1.0,,,,20150813,edwards robert l,122520815016820,,male,630446029.0
+1548.0,,27419,target corp,1.0,,,,20150813,knauss donald r,122520815016821,,male,630446029.0
 18509.0,2559.0557,27419,target corp,,1.0,,,20150817,casey l. carl,122520815017085,Executive Officer,male,630446029.0
-3339.0,0.0,27419,target corp,,1.0,,,20150903,smith catherine r,122520815017922,Executive Officer,female,628430247.0
+18509.0,2559.0557,27419,target corp,,1.0,,,20150817,casey l. carl,122520815017085,Executive Officer,male,630446029.0
+3339.0,,27419,target corp,,1.0,,,20150903,smith catherine r,122520815017922,Executive Officer,female,628430247.0
+3339.0,,27419,target corp,,1.0,,,20150903,smith catherine r,122520815017922,Executive Officer,female,628430247.0
+31542.0,198.1905,27419,target corp,,1.0,,,20150916,jones jeffrey j ii,122520815018424,Executive Officer,male,628430247.0
 31542.0,198.1905,27419,target corp,,1.0,,,20150916,jones jeffrey j ii,122520815018424,Executive Officer,male,628430247.0
 12317.0,3818.4257,27419,target corp,,1.0,,,20150924,ward laysha,122520815018659,Executive Officer,male,628430247.0
+12317.0,3818.4257,27419,target corp,,1.0,,,20150924,ward laysha,122520815018659,Executive Officer,male,628430247.0
+1047.0,,27419,target corp,1.0,,,,20151113,healey melanie,122520815020849,,female,618604168.0
+10000.0,,27419,target corp,1.0,,,,20151123,edwards robert l,122520815021306,,male,616051610.0
+,3845.4381,27419,target corp,,1.0,,,20151123,ward laysha,122520815021307,Executive Officer,male,616051610.0
+12211.0,11.3983,27419,target corp,,1.0,,,20151203,jacqueline hourigan rice,122520815021743,Executive Officer,male,616051610.0
+34043.0,,27419,target corp,1.0,,,,20151207,mulcahy anne m,122520815021811,,female,616051610.0
+19471.0,,27419,target corp,1.0,,,,20151207,darden calvin,122520815021812,,male,616051610.0
+29627.0,,27419,target corp,1.0,,,,20160111,austin roxanne s,122520816023995,,female,616051610.0
+51186.0,7718.7257,27419,target corp,,1.0,,,20160113,mulligan john j,122520816024074,Executive Officer,male,616051610.0
+8911.0,292.5489,27419,target corp,,1.0,,,20160113,potts janna a.,122520816024076,Executive Officer,female,616051610.0
+9473.0,3874.7687,27419,target corp,,1.0,,,20160113,ward laysha,122520816024075,Executive Officer,male,616051610.0
+24589.0,5541.6617,27419,target corp,,1.0,,,20160113,kozlak jodee a,122520816024073,Executive Officer,female,616051610.0
+6895.0,,27419,target corp,,1.0,,,20160113,harrison robert m,122520816024071,Chief Accounting Officer,male,616051610.0
+17663.0,2596.8161,27419,target corp,,1.0,,,20160113,casey l. carl,122520816024070,Executive Officer,male,616051610.0
+26440.0,,27419,target corp,,1.0,,,20160113,baer timothy r,122520816024069,Executive Officer,male,616051610.0
+26725.0,201.1149,27419,target corp,,1.0,,,20160113,jones jeffrey j ii,122520816024072,Executive Officer,male,616051610.0
+64139.0,7718.7257,27419,target corp,,1.0,,,20160115,mulligan john j,122520816024249,Executive Officer,male,616051610.0
+35145.0,201.1149,27419,target corp,,1.0,,,20160115,jones jeffrey j ii,122520816024246,Executive Officer,male,616051610.0
+32750.0,5541.6617,27419,target corp,,1.0,,,20160115,kozlak jodee a,122520816024247,Executive Officer,female,616051610.0
+13572.0,,27419,target corp,,1.0,,,20160115,mcnamara michael edward,122520816024248,Executive Officer,male,616051610.0
+12797.0,292.5489,27419,target corp,,1.0,,,20160115,potts janna a.,122520816024250,Executive Officer,female,616051610.0
+20902.0,2596.8161,27419,target corp,,1.0,,,20160115,casey l. carl,122520816024244,Executive Officer,male,616051610.0
+11785.0,,27419,target corp,,1.0,,,20160115,smith catherine r,122520816024252,Executive Officer,female,616051610.0
+14007.0,3874.7687,27419,target corp,,1.0,,,20160115,ward laysha,122520816024253,Executive Officer,male,616051610.0
+37804.0,,27419,target corp,1.0,1.0,,,20160115,cornell brian c,122520816024254,Executive Officer,male,616051610.0
+8158.0,,27419,target corp,,1.0,,,20160115,harrison robert m,122520816024245,Chief Accounting Officer,male,616051610.0
+14880.0,20.2088,27419,target corp,,1.0,,,20160115,jacqueline hourigan rice,122520816024251,Executive Officer,male,616051610.0
+33565.0,,27419,target corp,,1.0,,,20160115,baer timothy r,122520816024243,Executive Officer,male,616051610.0
+49053.0,,27419,target corp,1.0,,,,20160115,rice derica w,122520816024194,,male,616051610.0
+9064.0,,27419,target corp,1.0,,,,20160115,salazar kenneth l.,122520816024195,,male,616051610.0
+13911.0,,27419,target corp,1.0,,,,20160115,stumpf john g,122520816024196,,male,616051610.0
+9613.0,,27419,target corp,1.0,,,,20160115,baker douglas m jr,122520816024186,,male,616051610.0
+21976.0,,27419,target corp,1.0,,,,20160115,darden calvin,122520816024187,,male,616051610.0
+12384.0,,27419,target corp,1.0,,,,20160115,de castro henrique,122520816024188,,male,616051610.0
+3922.0,10000.0,27419,target corp,1.0,,,,20160115,edwards robert l,122520816024189,,male,616051610.0
+31976.0,,27419,target corp,1.0,,,,20160115,austin roxanne s,122520816024185,,female,616051610.0
+3922.0,,27419,target corp,1.0,,,,20160115,knauss donald r,122520816024191,,male,616051610.0
+56839.0,,27419,target corp,1.0,,,,20160115,minnick mary e,122520816024192,,female,616051610.0
+36605.0,,27419,target corp,1.0,,,,20160115,mulcahy anne m,122520816024193,,female,616051610.0
+3405.0,,27419,target corp,1.0,,,,20160115,healey melanie,122520816024190,,female,616051610.0
+16090.0,285.669,27419,target corp,,1.0,,,20160217,lundquist stephanie a,122520816026825,Executive Officer,female,602226517.0
+14007.0,3874.7687,27419,target corp,,1.0,,,20160307,ward laysha,122520816029281,Executive Officer,male,599982121.0
+2364.0,,27419,target corp,1.0,,,,20160310,lozano monica c,122520816029618,,female,599982121.0
+161855.0,37804.0,27419,target corp,1.0,1.0,,,20160311,cornell brian c,122520816029665,Executive Officer,male,599982121.0
+12903.0,292.5489,27419,target corp,,1.0,,,20160311,potts janna a.,122520816029667,Executive Officer,female,599982121.0
+8199.0,,27419,target corp,,1.0,,,20160311,harrison robert m,122520816029663,Chief Accounting Officer,male,599982121.0
+21065.0,2596.8161,27419,target corp,,1.0,,,20160311,casey l. carl,122520816029664,Executive Officer,male,599982121.0
+16131.0,285.669,27419,target corp,,1.0,,,20160311,lundquist stephanie a,122520816029666,Executive Officer,female,599982121.0
+6978.0,,27419,target corp,,1.0,,,20160316,harrison robert m,122520816029992,Chief Accounting Officer,male,599982121.0
+64357.0,7718.7257,27419,target corp,,1.0,,,20160316,mulligan john j,122520816029991,Executive Officer,male,599982121.0
+33680.0,,27419,target corp,,1.0,,,20160318,baer timothy r,122520816030109,Executive Officer,male,599982121.0
+16868.0,,27419,target corp,,1.0,,,20160523,smith catherine r,122520816033794,Executive Officer,female,589274533.0
+22134.0,,27419,target corp,1.0,,,,20160523,darden calvin,122520816033795,,male,589274533.0
+61361.0,7767.259,27419,target corp,,1.0,,,20160524,mulligan john j,122520816033893,Executive Officer,male,589274533.0
+18234.0,,27419,target corp,,1.0,,,20160607,tritton mark j,122520816034672,Executive Officer,male,589274533.0
+13375.0,336.6131,27419,target corp,,1.0,,,20160815,goldberger jason,122520816037875,Executive Officer,male,574801225.0
+46068.0,,27419,target corp,,1.0,,,20160823,liu don h,122520816038286,Executive Officer,male,574864718.0
+37332.0,,27419,target corp,1.0,,,,20161121,mulcahy anne m,122520816042031,,female,561695464.0
+14041.0,40.9176,27419,target corp,,1.0,,,20161202,jacqueline hourigan rice,122520816042600,Executive Officer,male,561695464.0
+0.0,,27419,target corp,,1.0,,,20161202,casey l. carl,122520816042598,Executive Officer,male,561695464.0
+32522.0,,27419,target corp,1.0,,,,20161206,austin roxanne s,122520816042777,,female,561695464.0
+20038.0,,27419,target corp,,1.0,,,20170111,casey l. carl,122520817001000,Executive Officer,male,561695464.0
+6749.0,,27419,target corp,,1.0,,,20170111,harrison robert m,122520817001001,Chief Accounting Officer,male,561695464.0
+11990.0,301.623,27419,target corp,,1.0,,,20170111,potts janna a.,122520817001002,Executive Officer,female,561695464.0
+16112.0,306.6096,27419,target corp,,1.0,,,20170111,lundquist stephanie a,122520817001003,Executive Officer,female,561695464.0
+16737.0,41.226,27419,target corp,,1.0,,,20170113,jacqueline hourigan rice,122520817001099,Executive Officer,male,561695464.0
+16185.0,301.623,27419,target corp,,1.0,,,20170113,potts janna a.,122520817001098,Executive Officer,female,561695464.0
+75185.0,7957.5358,27419,target corp,,1.0,,,20170113,mulligan john j,122520817001097,Executive Officer,male,561695464.0
+18891.0,3994.6504,27419,target corp,,1.0,,,20170113,ward laysha,122520817001096,Executive Officer,male,561695464.0
+21762.0,,27419,target corp,,1.0,,,20170113,tritton mark j,122520817001095,Executive Officer,male,561695464.0
+22533.0,,27419,target corp,,1.0,,,20170113,mcnamara michael edward,122520817001094,Executive Officer,male,561695464.0
+19783.0,306.6096,27419,target corp,,1.0,,,20170113,lundquist stephanie a,122520817001093,Executive Officer,female,561695464.0
+52984.0,,27419,target corp,,1.0,,,20170113,liu don h,122520817001092,Executive Officer,male,561695464.0
+23316.0,,27419,target corp,,1.0,,,20170113,casey l. carl,122520817001091,Executive Officer,male,561695464.0
+11741.0,,27419,target corp,1.0,,,,20170113,salazar kenneth l.,122520817001080,,male,561695464.0
+39950.0,,27419,target corp,1.0,,,,20170113,mulcahy anne m,122520817001079,,female,561695464.0
+4803.0,,27419,target corp,1.0,,,,20170113,lozano monica c,122520817001077,,female,561695464.0
+25687.0,,27419,target corp,,1.0,,,20170113,smith cathy r,122520817001101,Executive Officer,female,561695464.0
+6431.0,,27419,target corp,1.0,,,,20170113,knauss donald r,122520817001076,,male,561695464.0
+5897.0,,27419,target corp,1.0,,,,20170113,healey melanie,122520817001075,,female,561695464.0
+6431.0,10000.0,27419,target corp,1.0,,,,20170113,edwards robert l,122520817001073,,male,561695464.0
+15167.0,,27419,target corp,1.0,,,,20170113,de castro henrique,122520817001072,,male,561695464.0
+25080.0,,27419,target corp,1.0,,,,20170113,darden calvin,122520817001071,,male,561695464.0
+12308.0,,27419,target corp,1.0,,,,20170113,baker douglas m jr,122520817001070,,male,561695464.0
+35080.0,,27419,target corp,1.0,,,,20170113,austin roxanne s,122520817001069,,female,561695464.0
+54703.0,,27419,target corp,1.0,,,,20170113,rice derica w,122520817001051,,male,561695464.0
+61037.0,,27419,target corp,1.0,,,,20170113,minnick mary e,122520817001078,,female,561695464.0
+68085.0,,27419,target corp,1.0,1.0,,,20170113,cornell brian c,122520817001100,Executive Officer,male,561695464.0
+19307.0,299.3419,27419,target corp,,1.0,,,20170131,gomez richard h.,122520817002132,Executive Officer,male,556156228.0
+54983.0,,27419,target corp,,1.0,,,20170302,liu don h,122520817005343,Executive Officer,male,552675341.0
+30686.0,,27419,target corp,,1.0,,,20170302,smith cathy r,122520817005344,Executive Officer,female,552675341.0
+382.2278,68085.0,27419,target corp,1.0,1.0,,,20170303,cornell brian c,122520817005566,Executive Officer,male,552675341.0
+,7957.5358,27419,target corp,,1.0,,,20170303,mulligan john j,122520817005567,Executive Officer,male,552675341.0
+56983.0,,27419,target corp,,1.0,,,20170307,liu don h,122520817005707,Executive Officer,male,552675341.0
+32527.0,3994.6504,27419,target corp,,1.0,,,20170309,ward laysha,122520817006032,Executive Officer,male,552675341.0
+9299.0,,27419,target corp,,1.0,,,20170309,harrison robert m,122520817006034,Chief Accounting Officer,male,552675341.0
+177531.0,68467.2278,27419,target corp,1.0,1.0,,,20170309,cornell brian c,122520817006033,Executive Officer,male,552675341.0
+40223.0,,27419,target corp,,1.0,,,20170309,smith cathy r,122520817006031,Executive Officer,female,552675341.0
+99853.0,7957.5358,27419,target corp,,1.0,,,20170309,mulligan john j,122520817006030,Executive Officer,male,552675341.0
+42917.0,,27419,target corp,,1.0,,,20170309,mcnamara michael edward,122520817006029,Executive Officer,male,552675341.0
+30468.0,,27419,target corp,,1.0,,,20170309,casey l. carl,122520817006028,Executive Officer,male,552675341.0
+16431.0,,27419,target corp,1.0,,,,20170309,knauss donald r,122520817006027,,male,552675341.0
+21312.0,302.6593,27419,target corp,,1.0,,,20170412,gomez richard h.,122520817007990,Executive Officer,male,552675341.0
+10067.0,,27419,target corp,,1.0,,,20170412,harrison robert m,122520817007991,Chief Accounting Officer,male,552675341.0
+32813.0,,27419,target corp,,1.0,,,20170412,casey l. carl,122520817007992,Executive Officer,male,552675341.0
+20923.0,330.1253,27419,target corp,,1.0,,,20170412,lundquist stephanie a,122520817007993,Executive Officer,female,552675341.0
+18789.0,305.0656,27419,target corp,,1.0,,,20170412,potts janna a.,122520817007994,Executive Officer,female,552675341.0
+,67.4296,27419,target corp,,1.0,,,20170524,jacqueline hourigan rice,122520817010392,Executive Officer,male,551708283.0
+,305.0656,27419,target corp,,1.0,,,20170524,potts janna a.,122520817010391,Executive Officer,female,551708283.0
+,4040.2435,27419,target corp,,1.0,,,20170524,ward laysha,122520817010395,Executive Officer,male,551708283.0
+,,27419,target corp,,1.0,,,20170524,mcnamara michael edward,122520817010390,Executive Officer,male,551708283.0
+,,27419,target corp,,1.0,,,20170524,tritton mark j,122520817010394,Executive Officer,male,551708283.0
+,,27419,target corp,,1.0,,,20170524,smith cathy r,122520817010393,Executive Officer,female,551708283.0
+,330.1253,27419,target corp,,1.0,,,20170524,lundquist stephanie a,122520817010389,Executive Officer,female,551708283.0
+,,27419,target corp,,1.0,,,20170524,liu don h,122520817010388,Executive Officer,male,551708283.0
+,302.6593,27419,target corp,,1.0,,,20170524,gomez richard h.,122520817010387,Executive Officer,male,551708283.0
+128034.0,382.4941,27419,target corp,1.0,1.0,,,20170524,cornell brian c,122520817010386,Executive Officer,male,551708283.0
+97190.0,8048.3595,27419,target corp,,1.0,,,20170524,mulligan john j,122520817010385,Executive Officer,male,551708283.0
+9412.0,,27419,target corp,,1.0,,,20170524,harrison robert m,122520817010369,Chief Accounting Officer,male,551708283.0
+6845.0,,27419,target corp,,1.0,,,20170707,harrison robert m,122520817012409,Chief Accounting Officer,male,551708283.0
+20506.0,340.3467,27419,target corp,,1.0,,,20170801,lundquist stephanie a,122520817013094,Executive Officer,female,546183291.0
+20492.0,305.899,27419,target corp,,1.0,,,20170814,gomez richard h.,122520817013969,Executive Officer,male,546183291.0
+53187.0,,27419,target corp,,1.0,,,20170824,liu don h,122520817014338,Executive Officer,male,546183291.0
+10330.0,,27419,target corp,,1.0,,,20170913,pak minsok,122520817014948,Executive Officer,male,546183291.0
+12450.0,68.1513,27419,target corp,,1.0,,,20170918,jacqueline hourigan rice,122520817015094,Executive Officer,male,546183291.0
+36177.0,,27419,target corp,1.0,,,,20171218,austin roxanne s,122520817018795,,female,543572649.0
+,,27419,target corp,,1.0,,,20180112,harrison robert m,122520818000961,Chief Accounting Officer,male,543572649.0
+18077.0,314.5744,27419,target corp,,1.0,,,20180118,potts janna a.,122520818001209,Executive Officer,female,543572649.0
+19906.0,347.2384,27419,target corp,,1.0,,,20180118,lundquist stephanie a,122520818001208,Executive Officer,female,543572649.0
+19433.0,312.0933,27419,target corp,,1.0,,,20180118,gomez richard h.,122520818001206,Executive Officer,male,543572649.0
+6524.0,,27419,target corp,,1.0,,,20180118,harrison robert m,122520818001207,Chief Accounting Officer,male,543572649.0
+5791.0,,27419,target corp,,1.0,,,20180122,harrison robert m,122520818001331,Chief Accounting Officer,male,543572649.0
+16906.0,347.2384,27419,target corp,,1.0,,,20180125,lundquist stephanie a,122520818001493,Executive Officer,female,543572649.0
+5590.0,,27419,target corp,,1.0,,,20180309,harrison robert m,122520818005870,Chief Accounting Officer,male,538796010.0
+97778.0,8299.2281,27419,target corp,,1.0,,,20180315,mulligan john j,122520818006260,Executive Officer,male,538796010.0
+106339.0,128428.4164,27419,target corp,1.0,1.0,,,20180315,cornell brian c,122520818006257,Executive Officer,male,538796010.0
+43681.0,,27419,target corp,,1.0,,,20180315,mcnamara michael edward,122520818006258,Executive Officer,male,538796010.0
+32889.0,4166.1784,27419,target corp,,1.0,,,20180315,ward laysha,122520818006259,Executive Officer,male,538796010.0
+41032.0,,27419,target corp,,1.0,,,20180315,smith cathy r,122520818006261,Executive Officer,female,538796010.0
+24145.0,312.0933,27419,target corp,,1.0,,,20180316,gomez richard h.,122520818006317,Executive Officer,male,538796010.0
+9444.0,,27419,target corp,,1.0,,,20180316,harrison robert m,122520818006318,Chief Accounting Officer,male,538796010.0
+64945.0,,27419,target corp,,1.0,,,20180316,liu don h,122520818006319,Executive Officer,male,538796010.0
+22962.0,347.2384,27419,target corp,,1.0,,,20180316,lundquist stephanie a,122520818006320,Executive Officer,female,538796010.0
+57426.0,,27419,target corp,,1.0,,,20180316,mcnamara michael edward,122520818006321,Executive Officer,male,538796010.0
+40290.0,4166.1784,27419,target corp,,1.0,,,20180316,ward laysha,122520818006327,Executive Officer,male,538796010.0
+14757.0,,27419,target corp,,1.0,,,20180316,pak minsok,122520818006323,Executive Officer,male,538796010.0
+29663.0,,27419,target corp,,1.0,,,20180316,tritton mark j,122520818006326,Executive Officer,male,538796010.0
+24933.0,314.5744,27419,target corp,,1.0,,,20180316,potts janna a.,122520818006324,Executive Officer,female,538796010.0
+54777.0,,27419,target corp,,1.0,,,20180316,smith cathy r,122520818006325,Executive Officer,female,538796010.0
+147572.0,128428.4164,27419,target corp,1.0,1.0,,,20180316,cornell brian c,122520818006316,Executive Officer,male,538796010.0
+118923.0,8299.2281,27419,target corp,,1.0,,,20180316,mulligan john j,122520818006322,Executive Officer,male,538796010.0
+19726.403,,27419,target corp,1.0,,,,20180316,knauss donald r,122520818006315,,male,538796010.0
+18509.0,,27419,target corp,1.0,,,,20180316,de castro henrique,122520818006308,,male,538796010.0
+14902.0,,27419,target corp,1.0,,,,20180316,salazar kenneth l.,122520818006313,,male,538796010.0
+66740.0,,27419,target corp,1.0,,,,20180316,minnick mary e,122520818006312,,female,538796010.0
+7595.0,,27419,target corp,1.0,,,,20180316,lozano monica c,122520818006311,,female,538796010.0
+8752.0,,27419,target corp,1.0,,,,20180316,healey melanie,122520818006310,,female,538796010.0
+9314.0,10000.0,27419,target corp,1.0,,,,20180316,edwards robert l,122520818006309,,male,538796010.0
+28951.0,,27419,target corp,1.0,,,,20180316,darden calvin,122520818006307,,male,538796010.0
+17544.0,,27419,target corp,1.0,,,,20180316,baker douglas m jr,122520818006306,,male,538796010.0
+38951.0,,27419,target corp,1.0,,,,20180316,austin roxanne s,122520818006305,,female,538796010.0
+3243.0,,27419,target corp,1.0,,,,20180316,stockton dmitri l,122520818006314,,male,538796010.0
+118923.0,8371.516,27419,target corp,,1.0,,,20180404,mulligan john j,122520818007382,Executive Officer,male,538796010.0
+25592.0,350.2629,27419,target corp,,1.0,,,20180411,lundquist stephanie a,122520818007675,Executive Officer,female,538796010.0
+10672.0,,27419,target corp,,1.0,,,20180411,harrison robert m,122520818007674,Chief Accounting Officer,male,538796010.0
+27029.0,314.8116,27419,target corp,,1.0,,,20180411,gomez richard h.,122520818007673,Executive Officer,male,538796010.0
+201575.0,128431.8519,27419,target corp,1.0,1.0,,,20180411,cornell brian c,122520818007672,Executive Officer,male,538796010.0
+62544.0,,27419,target corp,,1.0,,,20180411,smith cathy r,122520818007679,Executive Officer,female,538796010.0
+27456.0,317.3144,27419,target corp,,1.0,,,20180411,potts janna a.,122520818007678,Executive Officer,female,538796010.0
+69317.0,,27419,target corp,,1.0,,,20180411,mcnamara michael edward,122520818007676,Executive Officer,male,538796010.0
+50794.0,4202.4667,27419,target corp,,1.0,,,20180411,ward laysha,122520818007680,Executive Officer,male,538796010.0
+139926.0,8371.516,27419,target corp,,1.0,,,20180411,mulligan john j,122520818007677,Executive Officer,male,538796010.0
+62210.0,,27419,target corp,,1.0,,,20180517,liu don h,122520818009511,Executive Officer,male,532916612.0
+22304.0,317.3144,27419,target corp,,1.0,,,20180605,potts janna a.,122520818010172,Executive Officer,female,533134856.0
+55210.0,,27419,target corp,,1.0,,,20180606,liu don h,122520818010264,Executive Officer,male,533134856.0
+50794.0,4202.4667,27419,target corp,,1.0,,,20180613,ward laysha,122520818010612,Executive Officer,male,533134856.0
+10314.0,,27419,target corp,,1.0,,,20180814,harrison robert m,122520818012531,Chief Accounting Officer,male,526112846.0
+21795.0,319.7229,27419,target corp,,1.0,,,20180814,potts janna a.,122520818012532,Executive Officer,female,526112846.0
+23196.0,352.9214,27419,target corp,,1.0,,,20180814,lundquist stephanie a,122520818012530,Executive Officer,female,526112846.0
+48672.0,,27419,target corp,,1.0,,,20180824,liu don h,122520818012892,Executive Officer,male,526350987.0
+10314.0,,27419,target corp,,1.0,,,20180827,harrison robert m,122520818012915,Chief Accounting Officer,male,526350987.0
+14062.0,,27419,target corp,,1.0,,,20180912,pak minsok,122520818013343,Executive Officer,male,526350987.0
+21140.0,319.7229,27419,target corp,,1.0,,,20180926,potts janna a.,122520818013760,Executive Officer,female,526350987.0
+22477.0,355.3116,27419,target corp,,1.0,,,20181010,lundquist stephanie a,122520818014525,Executive Officer,female,526350987.0
+1135.0,,27419,target corp,1.0,,,,20181115,barrett george s,122520818015539,,male,521810597.0
+21240.0,358.773,27419,target corp,,1.0,,,20190116,lundquist stephanie a,122520819000901,Executive Officer,female,521833603.0
+26106.0,322.4604,27419,target corp,,1.0,,,20190116,gomez richard h.,122520819000899,Executive Officer,male,521833603.0
+9791.0,,27419,target corp,,1.0,,,20190116,harrison robert m,122520819000900,Chief Accounting Officer,male,521833603.0
+9082.0,,27419,target corp,,1.0,,,20190116,kremer melissa k,122520819000898,Executive Officer,female,521833603.0
+33334.0,,27419,target corp,,1.0,,,20190305,smith cathy r,122520819004632,Executive Officer,female,517761600.0
+8766.0,,27419,target corp,,1.0,,,20190312,kremer melissa k,122520819005100,Executive Officer,female,516333213.0
+9580.0,,27419,target corp,,1.0,,,20190312,harrison robert m,122520819005099,Chief Accounting Officer,male,516333213.0
+37062.0,,27419,target corp,,1.0,,,20190314,tritton mark j,122520819005311,Executive Officer,male,516333213.0
+32909.0,,27419,target corp,,1.0,,,20190314,smith cathy r,122520819005313,Executive Officer,female,516333213.0
+27720.0,325.024,27419,target corp,,1.0,,,20190314,potts janna a.,122520819005309,Executive Officer,female,516333213.0
+159020.0,8574.9123,27419,target corp,,1.0,,,20190314,mulligan john j,122520819005308,Executive Officer,male,516333213.0
+82736.0,,27419,target corp,,1.0,,,20190314,mcnamara michael edward,122520819005307,Executive Officer,male,516333213.0
+27174.0,358.773,27419,target corp,,1.0,,,20190314,lundquist stephanie a,122520819005306,Executive Officer,female,516333213.0
+57806.0,4304.5708,27419,target corp,,1.0,,,20190314,ward laysha,122520819005315,Executive Officer,male,516333213.0
+18332.0,,27419,target corp,,1.0,,,20190314,pak minsok,122520819005304,Executive Officer,male,516333213.0
+54930.0,,27419,target corp,,1.0,,,20190314,liu don h,122520819005303,Executive Officer,male,516333213.0
+31043.0,322.4604,27419,target corp,,1.0,,,20190314,gomez richard h.,122520819005305,Executive Officer,male,516333213.0
+235454.0,407.5182,27419,target corp,1.0,1.0,,,20190314,cornell brian c,122520819005302,Executive Officer,male,516333213.0
+32287.0,,27419,target corp,1.0,,,,20190315,darden calvin,122520819005344,,male,516333213.0
+12836.0,,27419,target corp,,1.0,,,20190315,harrison robert m,122520819005369,Chief Accounting Officer,male,516333213.0
+11527.0,,27419,target corp,,1.0,,,20190315,kremer melissa k,122520819005368,Executive Officer,female,516333213.0
+5475.0,,27419,target corp,1.0,,,,20190315,stockton dmitri l,122520819005352,,male,516333213.0
+17756.0,,27419,target corp,1.0,,,,20190315,salazar kenneth l.,122520819005351,,male,516333213.0
+71313.0,,27419,target corp,1.0,,,,20190315,minnick mary e,122520819005350,,female,516333213.0
+11975.0,10757.631,27419,target corp,1.0,,,,20190315,knauss donald r,122520819005349,,male,516333213.0
+10196.0,,27419,target corp,1.0,,,,20190315,lozano monica c,122520819005348,,female,516333213.0
+11396.0,,27419,target corp,1.0,,,,20190315,healey melanie,122520819005347,,female,516333213.0
+42287.0,,27419,target corp,1.0,,,,20190315,austin roxanne s,122520819005341,,female,516333213.0
+22365.0,,27419,target corp,1.0,,,,20190315,baker douglas m jr,122520819005342,,male,516333213.0
+4794.0,,27419,target corp,1.0,,,,20190315,barrett george s,122520819005343,,male,516333213.0
+21481.0,,27419,target corp,1.0,,,,20190315,de castro henrique,122520819005345,,male,516333213.0
+11975.0,10000.0,27419,target corp,1.0,,,,20190315,edwards robert l,122520819005346,,male,516333213.0
+77550.0,,27419,target corp,,1.0,,,20190328,mcnamara michael edward,122520819005858,Executive Officer,male,516333213.0
+188456.0,235864.7197,27419,target corp,1.0,1.0,,,20190410,cornell brian c,122520819006625,Executive Officer,male,516333213.0
+96524.0,,27419,target corp,,1.0,,,20190410,mcnamara michael edward,122520819006631,Executive Officer,male,516333213.0
+36479.0,327.5775,27419,target corp,,1.0,,,20190410,potts janna a.,122520819006637,Executive Officer,female,516333213.0
+43120.0,,27419,target corp,,1.0,,,20190410,tritton mark j,122520819006638,Executive Officer,male,516333213.0
+68025.0,4338.3881,27419,target corp,,1.0,,,20190410,ward laysha,122520819006639,Executive Officer,male,516333213.0
+51883.0,,27419,target corp,,1.0,,,20190410,smith cathy r,122520819006640,Executive Officer,female,516333213.0
+12425.0,,27419,target corp,,1.0,,,20190410,kremer melissa k,122520819006628,Executive Officer,female,516333213.0
+33848.0,324.9937,27419,target corp,,1.0,,,20190410,gomez richard h.,122520819006626,Executive Officer,male,516333213.0
+188210.0,8642.2778,27419,target corp,,1.0,,,20190410,mulligan john j,122520819006632,Executive Officer,male,516333213.0
+14627.0,,27419,target corp,,1.0,,,20190410,harrison robert m,122520819006627,Chief Accounting Officer,male,516333213.0
+60580.0,,27419,target corp,,1.0,,,20190410,liu don h,122520819006629,Executive Officer,male,516333213.0
+33805.0,361.5916,27419,target corp,,1.0,,,20190410,lundquist stephanie a,122520819006630,Executive Officer,female,516333213.0
+12836.0,,27419,target corp,,1.0,,,20190411,harrison robert m,122520819006655,Chief Accounting Officer,male,516333213.0
+31883.0,,27419,target corp,,1.0,,,20190412,smith cathy r,122520819006662,Executive Officer,female,516333213.0
+27720.0,327.5775,27419,target corp,,1.0,,,20190524,potts janna a.,122520819008513,Executive Officer,female,512334476.0
+35850.0,,27419,target corp,,1.0,,,20190610,tritton mark j,122520819009057,Executive Officer,male,512334476.0
+33924.0,361.5916,27419,target corp,,1.0,,,20190613,lundquist stephanie a,122520819009198,Executive Officer,female,512334476.0
+42532.0,,27419,target corp,1.0,,,,20190617,austin roxanne s,122520819009292,,female,512334476.0
+84903.0,,27419,target corp,,1.0,,,20190710,mcnamara michael edward,122520819010171,Executive Officer,male,512334476.0
+45921.0,,27419,target corp,,1.0,,,20190823,liu don h,122520819011844,Executive Officer,male,511335375.0
+0.0,,27419,target corp,,1.0,,,20190826,mulligan john j,122520819011902,Executive Officer,male,510928517.0
+7903.0,,27419,target corp,,1.0,,,20190826,harrison robert m,122520819011893,Chief Accounting Officer,male,510928517.0
+18316.0,329.9014,27419,target corp,,1.0,,,20190826,potts janna a.,122520819011894,Executive Officer,female,510928517.0
+23645.0,,27419,target corp,,1.0,,,20190826,smith cathy r,122520819011896,Executive Officer,female,510928517.0
+33924.0,364.1567,27419,target corp,,1.0,,,20190826,lundquist stephanie a,122520819011900,Executive Officer,female,510928517.0
+68171.0,4369.1653,27419,target corp,,1.0,,,20190826,ward laysha,122520819011901,Executive Officer,male,510928517.0
+20986.0,,27419,target corp,,1.0,,,20190828,tritton mark j,122520819011965,Executive Officer,male,510928517.0
+64517.0,,27419,target corp,,1.0,,,20190830,mcnamara michael edward,122520819011981,Executive Officer,male,510928517.0
+68171.0,4369.1653,27419,target corp,,1.0,,,20190909,ward laysha,122520819012253,Executive Officer,male,510928517.0
+41890.0,,27419,target corp,,1.0,,,20190912,liu don h,122520819012377,Executive Officer,male,510928517.0
+17347.0,,27419,target corp,,1.0,,,20190912,pak minsok,122520819012378,Executive Officer,male,510928517.0
+11807.0,,27419,target corp,,1.0,,,20191002,kremer melissa k,122520819013014,Executive Officer,female,510928517.0
+39890.0,,27419,target corp,,1.0,,,20191010,liu don h,122520819013320,Executive Officer,male,510928517.0
+12999.0,,27419,target corp,,1.0,,,20191105,fiddelke michael j,122520819014165,Executive Officer,male,506677740.0
+37616.0,,27419,target corp,,1.0,,,20191121,liu don h,122520819014737,Executive Officer,male,506677740.0
+27394.0,366.2204,27419,target corp,,1.0,,,20191127,lundquist stephanie a,122520819014991,Executive Officer,female,506737121.0
+0.0,,27419,target corp,,1.0,,,20191203,lundquist stephanie a,122520819015230,Executive Officer,female,506737121.0
+7339.0,,27419,target corp,,1.0,,,20200311,harrison robert m,122520820004853,Chief Accounting Officer,male,500961951.0
+12839.0,,27419,target corp,,1.0,,,20200311,fiddelke michael j,122520820004854,Executive Officer,male,500961951.0
+15376.0,404.6711,27419,target corp,,1.0,,,20200311,hennington christina,122520820004855,Executive Officer,female,500961951.0
+11571.0,,27419,target corp,,1.0,,,20200311,kremer melissa k,122520820004856,Executive Officer,female,500961951.0
+13796.0,2074.051,27419,target corp,,1.0,,,20200311,sando jill,122520820004857,Executive Officer,female,500961951.0
+10037.0,,27419,target corp,,1.0,,,20200311,schindele mark,122520820004858,Executive Officer,male,500961951.0
+16648.0,2074.051,27419,target corp,,1.0,,,20200313,sando jill,122520820005091,Executive Officer,female,500961951.0
+12889.0,,27419,target corp,,1.0,,,20200313,schindele mark,122520820005092,Executive Officer,male,500961951.0
+9906.0,,27419,target corp,,1.0,,,20200313,harrison robert m,122520820005093,Chief Accounting Officer,male,500961951.0
+39255.0,330.736,27419,target corp,,1.0,,,20200313,gomez richard h.,122520820005095,Executive Officer,male,500961951.0
+202894.0,417.9768,27419,target corp,1.0,1.0,,,20200313,cornell brian c,122520820005100,Executive Officer,male,500961951.0
+198706.0,,27419,target corp,,1.0,,,20200313,mulligan john j,122520820005106,Executive Officer,male,500961951.0
+32587.0,,27419,target corp,,1.0,,,20200313,lundquist stephanie a,122520820005102,Executive Officer,female,500961951.0
+75258.0,,27419,target corp,,1.0,,,20200313,mcnamara michael edward,122520820005103,Executive Officer,male,500961951.0
+74311.0,4415.043,27419,target corp,,1.0,,,20200313,ward laysha,122520820005107,Executive Officer,male,500961951.0
+45284.0,,27419,target corp,,1.0,,,20200313,liu don h,122520820005101,Executive Officer,male,500961951.0
+18228.0,404.6711,27419,target corp,,1.0,,,20200313,hennington christina,122520820005090,Executive Officer,female,500961951.0
+34838.0,,27419,target corp,1.0,,,,20200313,darden calvin,122520820005079,,male,500961951.0
+17544.0,,27419,target corp,,1.0,,,20200313,fiddelke michael j,122520820005088,Executive Officer,male,500961951.0
+26200.0,,27419,target corp,1.0,,,,20200313,baker douglas m jr,122520820005077,,male,500961951.0
+7724.0,,27419,target corp,1.0,,,,20200313,barrett george s,122520820005078,,male,500961951.0
+14708.0,,27419,target corp,,1.0,,,20200313,kremer melissa k,122520820005089,Executive Officer,female,500961951.0
+13406.0,,27419,target corp,1.0,,,,20200313,healey melanie,122520820005081,,female,500961951.0
+13999.0,11029.853,27419,target corp,1.0,,,,20200313,knauss donald r,122520820005082,,male,500961951.0
+13999.0,10000.0,27419,target corp,1.0,,,,20200313,edwards robert l,122520820005080,,male,500961951.0
+74827.0,,27419,target corp,1.0,,,,20200313,minnick mary e,122520820005084,,female,500961951.0
+19929.0,,27419,target corp,1.0,,,,20200313,salazar kenneth l.,122520820005085,,male,500961951.0
+8422.0,,27419,target corp,1.0,,,,20200313,stockton dmitri l,122520820005086,,male,500961951.0
+23748.0,,27419,target corp,1.0,,,,20200313,de castro henrique,122520820005087,,male,500961951.0
+12175.0,,27419,target corp,1.0,,,,20200313,lozano monica c,122520820005083,,female,500961951.0
+44838.0,,27419,target corp,1.0,,,,20200313,austin roxanne s,122520820005076,,female,500961951.0
+8692.0,,27419,target corp,,1.0,,,20200317,harrison robert m,122520820005311,Chief Accounting Officer,male,500961951.0
+16943.0,,27419,target corp,,1.0,,,20200317,fiddelke michael j,122520820005312,Executive Officer,male,500961951.0
+17566.0,404.6711,27419,target corp,,1.0,,,20200317,hennington christina,122520820005313,Executive Officer,female,500961951.0
+14466.0,,27419,target corp,,1.0,,,20200317,kremer melissa k,122520820005314,Executive Officer,female,500961951.0
+15986.0,2074.051,27419,target corp,,1.0,,,20200317,sando jill,122520820005315,Executive Officer,female,500961951.0
+12190.0,,27419,target corp,,1.0,,,20200317,schindele mark,122520820005316,Executive Officer,male,500961951.0
+20387.0,,27419,target corp,,1.0,,,20200409,fiddelke michael j,122520820006326,Executive Officer,male,500961951.0
+46628.0,332.9166,27419,target corp,,1.0,,,20200409,gomez richard h.,122520820006327,Executive Officer,male,500961951.0
+85830.0,4444.1527,27419,target corp,,1.0,,,20200409,ward laysha,122520820006337,Executive Officer,male,500961951.0
+16951.0,,27419,target corp,,1.0,,,20200409,schindele mark,122520820006336,Executive Officer,male,500961951.0
+20608.0,2087.5519,27419,target corp,,1.0,,,20200409,sando jill,122520820006335,Executive Officer,female,500961951.0
+231607.0,,27419,target corp,,1.0,,,20200409,mulligan john j,122520820006334,Executive Officer,male,500961951.0
+15761.0,,27419,target corp,,1.0,,,20200409,kremer melissa k,122520820006330,Executive Officer,female,500961951.0
+41802.0,,27419,target corp,,1.0,,,20200409,lundquist stephanie a,122520820006332,Executive Officer,female,500961951.0
+318502.0,203314.7326,27419,target corp,1.0,1.0,,,20200409,cornell brian c,122520820006325,Executive Officer,male,500961951.0
+11708.0,,27419,target corp,,1.0,,,20200409,harrison robert m,122520820006328,Chief Accounting Officer,male,500961951.0
+96644.0,,27419,target corp,,1.0,,,20200409,mcnamara michael edward,122520820006333,Executive Officer,male,500961951.0
+61736.0,,27419,target corp,,1.0,,,20200409,liu don h,122520820006331,Executive Officer,male,500961951.0
+21965.0,407.3053,27419,target corp,,1.0,,,20200409,hennington christina,122520820006329,Executive Officer,female,500961951.0
+194994.0,420.7326,27419,target corp,1.0,1.0,,,20200513,cornell brian c,122520820007627,Executive Officer,male,499919691.0
+18173.0,2087.5519,27419,target corp,,1.0,,,20200526,sando jill,122520820008198,Executive Officer,female,500015480.0
+9208.0,,27419,target corp,,1.0,,,20200526,harrison robert m,122520820008199,Chief Accounting Officer,male,500015480.0
+44838.0,,27419,target corp,1.0,,,,20200602,austin roxanne s,122520820008515,,female,500015480.0
+34838.0,,27419,target corp,1.0,,,,20200604,austin roxanne s,122520820008651,,female,500015480.0
+57865.0,,27419,target corp,,1.0,,,20200701,liu don h,122520820009363,Executive Officer,male,500015480.0
+17617.0,2087.5519,27419,target corp,,1.0,,,20200701,sando jill,122520820009364,Executive Officer,female,500015480.0
+51047.0,334.4789,27419,target corp,,1.0,,,20200717,gomez richard h.,122520820009819,Executive Officer,male,500015480.0
+72330.0,,27419,target corp,,1.0,,,20200717,liu don h,122520820009818,Executive Officer,male,500015480.0
+275950.0,,27419,target corp,,1.0,,,20200727,mulligan john j,122520820009983,Executive Officer,male,500015480.0
+68330.0,,27419,target corp,,1.0,,,20200727,liu don h,122520820009981,Executive Officer,male,500015480.0
+63910.0,,27419,target corp,,1.0,,,20200727,lundquist stephanie a,122520820009982,Executive Officer,female,500015480.0
+57782.0,334.4789,27419,target corp,,1.0,,,20200804,gomez richard h.,122520820010233,Executive Officer,male,500252831.0
+86362.0,,27419,target corp,,1.0,,,20200804,lundquist stephanie a,122520820010234,Executive Officer,female,500252831.0
+83298.0,,27419,target corp,,1.0,,,20200804,liu don h,122520820010235,Executive Officer,male,500252831.0
+64689.0,334.4789,27419,target corp,,1.0,,,20200806,gomez richard h.,122520820010367,Executive Officer,male,500252831.0
+90647.0,,27419,target corp,,1.0,,,20200806,liu don h,122520820010368,Executive Officer,male,500252831.0
+18455.0,409.2165,27419,target corp,,1.0,,,20200824,hennington christina,122520820010844,Executive Officer,female,500617844.0
+182455.0,422.7069,27419,target corp,1.0,1.0,,,20200824,cornell brian c,122520820010845,Executive Officer,male,500617844.0
+10811.0,,27419,target corp,,1.0,,,20200824,kremer melissa k,122520820010842,Executive Officer,female,500617844.0
+79731.0,,27419,target corp,,1.0,,,20200824,lundquist stephanie a,122520820010841,Executive Officer,female,500617844.0
+26688.0,,27419,target corp,,1.0,,,20200824,fiddelke michael j,122520820010843,Executive Officer,male,500617844.0
+247379.0,,27419,target corp,,1.0,,,20200824,mulligan john j,122520820010826,Executive Officer,male,500617844.0
+85940.0,4465.0071,27419,target corp,,1.0,,,20200824,ward laysha,122520820010840,Executive Officer,male,500617844.0
+80991.0,,27419,target corp,,1.0,,,20200826,liu don h,122520820011019,Executive Officer,male,500617844.0
+927.0,,27419,target corp,1.0,,,,20200902,rice derica w,122520820011215,,male,500617844.0
+21020.0,409.2165,27419,target corp,,1.0,,,20200921,hennington christina,122520820011701,Executive Officer,female,500617844.0
+9838.0,,27419,target corp,,1.0,,,20200923,schindele mark,122520820011774,Executive Officer,male,500617844.0
+121190.0,,27419,target corp,,1.0,,,20200930,mcnamara michael edward,122520820011907,Executive Officer,male,500617844.0
+75339.0,,27419,target corp,,1.0,,,20201009,lundquist stephanie a,122520820012343,Executive Officer,female,500617844.0
+8072.0,,27419,target corp,,1.0,,,20201123,harrison robert m,122520820013820,Chief Accounting Officer,male,500773141.0
+369.0,,27419,target corp,1.0,,,,20210104,leahy christine a,122520821000060,,female,500773141.0
+58514.0,,27419,target corp,,1.0,,,20210119,lundquist stephanie a,122520821000889,Executive Officer,female,500773141.0
+26529.0,412.3403,27419,target corp,,1.0,,,20210122,hennington christina,122520821001051,Executive Officer,female,500773141.0
+130465.0,182880.9337,27419,target corp,1.0,1.0,,,20210305,cornell brian c,122520821004809,Executive Officer,male,498616180.0
+26513.0,,27419,target corp,,1.0,,,20210310,fiddelke michael j,122520821005019,Executive Officer,male,498616180.0
+7877.0,,27419,target corp,,1.0,,,20210310,harrison robert m,122520821005020,Chief Accounting Officer,male,498616180.0
+25981.0,412.3403,27419,target corp,,1.0,,,20210310,hennington christina,122520821005021,Executive Officer,female,498616180.0
+10567.0,,27419,target corp,,1.0,,,20210310,kremer melissa k,122520821005022,Executive Officer,female,498616180.0
+17353.0,2113.3582,27419,target corp,,1.0,,,20210310,sando jill,122520821005023,Executive Officer,female,498616180.0
+9494.0,,27419,target corp,,1.0,,,20210310,schindele mark,122520821005024,Executive Officer,male,498616180.0
+7597.0,,27419,target corp,,1.0,,,20210310,sylvester cara a,122520821005025,Executive Officer,female,498616180.0
+12749.0,,27419,target corp,,1.0,,,20210310,boylan katie m,122520821005018,Executive Officer,female,498616180.0
+21308.0,,27419,target corp,1.0,,,,20210311,salazar kenneth l.,122520821005160,,male,498616180.0
+15268.0,11228.464,27419,target corp,1.0,,,,20210311,knauss donald r,122520821005155,,male,498616180.0
+2583.0,,27419,target corp,1.0,,,,20210311,rice derica w,122520821005159,,male,498616180.0
+77931.0,,27419,target corp,1.0,,,,20210311,minnick mary e,122520821005158,,female,498616180.0
+13408.0,,27419,target corp,1.0,,,,20210311,lozano monica c,122520821005157,,female,498616180.0
+27691.0,,27419,target corp,1.0,,,,20210311,baker douglas m jr,122520821005137,,male,498616180.0
+9518.0,,27419,target corp,1.0,,,,20210311,barrett george s,122520821005138,,male,498616180.0
+36497.0,,27419,target corp,1.0,,,,20210311,darden calvin,122520821005139,,male,498616180.0
+15268.0,10000.0,27419,target corp,1.0,,,,20210311,edwards robert l,122520821005140,,male,498616180.0
+14665.0,,27419,target corp,1.0,,,,20210311,healey melanie,122520821005141,,female,498616180.0
+1376.0,,27419,target corp,1.0,,,,20210311,leahy christine a,122520821005156,,female,498616180.0
+10228.0,,27419,target corp,1.0,,,,20210311,stockton dmitri l,122520821005161,,male,498616180.0
+32206.0,,27419,target corp,,1.0,,,20210312,fiddelke michael j,122520821005310,Executive Officer,male,498616180.0
+12668.0,,27419,target corp,,1.0,,,20210312,schindele mark,122520821005318,Executive Officer,male,498616180.0
+14221.0,,27419,target corp,,1.0,,,20210312,boylan katie m,122520821005321,Executive Officer,female,498616180.0
+90015.0,4499.0914,27419,target corp,,1.0,,,20210312,ward laysha,122520821005320,Executive Officer,male,498616180.0
+89091.0,425.9337,27419,target corp,1.0,1.0,,,20210312,cornell brian c,122520821005319,Executive Officer,male,498616180.0
+22950.0,2113.3582,27419,target corp,,1.0,,,20210312,sando jill,122520821005317,Executive Officer,female,498616180.0
+258508.0,,27419,target corp,,1.0,,,20210312,mulligan john j,122520821005316,Executive Officer,male,498616180.0
+9147.0,,27419,target corp,,1.0,,,20210312,harrison robert m,122520821005322,Chief Accounting Officer,male,498616180.0
+129118.0,,27419,target corp,,1.0,,,20210312,mcnamara michael edward,122520821005315,Executive Officer,male,498616180.0
+14116.0,,27419,target corp,,1.0,,,20210312,kremer melissa k,122520821005313,Executive Officer,female,498616180.0
+29154.0,412.3403,27419,target corp,,1.0,,,20210312,hennington christina,122520821005312,Executive Officer,female,498616180.0
+69049.0,337.0322,27419,target corp,,1.0,,,20210312,gomez richard h.,122520821005311,Executive Officer,male,498616180.0
+86557.0,,27419,target corp,,1.0,,,20210312,liu don h,122520821005314,Executive Officer,male,498616180.0
+9434.0,,27419,target corp,,1.0,,,20210312,sylvester cara a,122520821005323,Executive Officer,female,498616180.0
+38448.0,,27419,target corp,,1.0,,,20210315,fiddelke michael j,122520821005342,Executive Officer,male,498616180.0
+13276.0,,27419,target corp,,1.0,,,20210317,boylan katie m,122520821005505,Executive Officer,female,498616180.0
+37533.0,,27419,target corp,,1.0,,,20210317,fiddelke michael j,122520821005506,Executive Officer,male,498616180.0
+8547.0,,27419,target corp,,1.0,,,20210317,harrison robert m,122520821005507,Chief Accounting Officer,male,498616180.0
+9211.0,,27419,target corp,,1.0,,,20210317,sylvester cara a,122520821005513,Executive Officer,female,498616180.0
+22012.0,2113.3582,27419,target corp,,1.0,,,20210317,sando jill,122520821005510,Executive Officer,female,498616180.0
+11606.0,,27419,target corp,,1.0,,,20210317,schindele mark,122520821005512,Executive Officer,male,498616180.0
+28147.0,412.3403,27419,target corp,,1.0,,,20210317,hennington christina,122520821005508,Executive Officer,female,498616180.0
+13868.0,,27419,target corp,,1.0,,,20210317,kremer melissa k,122520821005509,Executive Officer,female,498616180.0
+11981.0,,27419,target corp,,1.0,,,20210323,kremer melissa k,122520821005789,Executive Officer,female,498616180.0
+25249.0,412.3403,27419,target corp,,1.0,,,20210323,hennington christina,122520821005790,Executive Officer,female,498616180.0
+6265.0,,27419,target corp,,1.0,,,20210326,harrison robert m,122520821005888,Chief Accounting Officer,male,498616180.0
+150589.0,,27419,target corp,,1.0,,,20210408,mcnamara michael edward,122520821006684,Executive Officer,male,498616180.0
+101624.0,4514.979,27419,target corp,,1.0,,,20210408,ward laysha,122520821006689,Executive Officer,male,498616180.0
+9310.0,,27419,target corp,,1.0,,,20210408,sylvester cara a,122520821006688,Executive Officer,female,498616180.0
+13179.0,,27419,target corp,,1.0,,,20210408,schindele mark,122520821006687,Executive Officer,male,498616180.0
+23213.0,2120.8211,27419,target corp,,1.0,,,20210408,sando jill,122520821006686,Executive Officer,female,498616180.0
+291666.0,,27419,target corp,,1.0,,,20210408,mulligan john j,122520821006685,Executive Officer,male,498616180.0
+103139.0,,27419,target corp,,1.0,,,20210408,liu don h,122520821006683,Executive Officer,male,498616180.0
+13911.0,,27419,target corp,,1.0,,,20210408,kremer melissa k,122520821006682,Executive Officer,female,498616180.0
+27370.0,413.7964,27419,target corp,,1.0,,,20210408,hennington christina,122520821006681,Executive Officer,female,498616180.0
+37772.0,,27419,target corp,,1.0,,,20210408,fiddelke michael j,122520821006679,Executive Officer,male,498616180.0
+320059.0,89518.4378,27419,target corp,1.0,1.0,,,20210408,cornell brian c,122520821006678,Executive Officer,male,498616180.0
+6265.0,,27419,target corp,,1.0,,,20210408,harrison robert m,122520821006677,Chief Accounting Officer,male,498616180.0
+12881.0,,27419,target corp,,1.0,,,20210408,boylan katie m,122520821006676,Executive Officer,female,498616180.0
+75719.0,338.2223,27419,target corp,,1.0,,,20210408,gomez richard h.,122520821006680,Executive Officer,male,498616180.0
+25249.0,413.7964,27419,target corp,,1.0,,,20210412,hennington christina,122520821006704,Executive Officer,female,498616180.0
+11981.0,,27419,target corp,,1.0,,,20210412,kremer melissa k,122520821006705,Executive Officer,female,498616180.0
+119166.0,,27419,target corp,,1.0,,,20210415,mcnamara michael edward,122520821006791,Executive Officer,male,498616180.0
+95914.0,,27419,target corp,,1.0,,,20210521,liu don h,122520821008403,Executive Officer,male,494723834.0
+32507.0,,27419,target corp,,1.0,,,20210521,fiddelke michael j,122520821008404,Executive Officer,male,494723834.0
+8421.0,,27419,target corp,,1.0,,,20210521,schindele mark,122520821008405,Executive Officer,male,494723834.0
+7360.0,,27419,target corp,,1.0,,,20210528,sylvester cara a,122520821008674,Executive Officer,female,494723834.0
+9378.0,,27419,target corp,,1.0,,,20210528,kremer melissa k,122520821008673,Executive Officer,female,494723834.0
+22613.0,2120.8211,27419,target corp,,1.0,,,20210630,sando jill,122520821009726,Executive Officer,female,494723834.0
+7008.0,,27419,target corp,,1.0,,,20210630,sylvester cara a,122520821009727,Executive Officer,female,494723834.0
+78994.0,,27419,target corp,,1.0,,,20210720,liu don h,122520821010792,Executive Officer,male,494723834.0
+65017.0,,27419,target corp,,1.0,,,20210805,liu don h,122520821011227,Executive Officer,male,489651196.0
+62017.0,,27419,target corp,,1.0,,,20210809,liu don h,122520821011330,Executive Officer,male,489651196.0
+531.0,,27419,target corp,1.0,,,,20210812,abney david p,122520821011410,,male,489651196.0
+211012.0,,27419,target corp,,1.0,,,20210820,mulligan john j,122520821011589,Executive Officer,male,488039053.0
+188879.0,428.4987,27419,target corp,1.0,1.0,,,20210903,cornell brian c,122520821012035,Executive Officer,male,488039053.0
+514.0,,27419,target corp,1.0,,,,20210924,boudreaux gail,122520821012556,,female,488039053.0
+19636.0,416.3368,27419,target corp,,1.0,,,20211122,hennington christina,122520821014051,Executive Officer,female,479123918.0
+72275.0,340.2988,27419,target corp,,1.0,,,20211122,gomez richard h.,122520821014050,Executive Officer,male,479123918.0
+22662.0,2133.8417,27419,target corp,,1.0,,,20211129,sando jill,122520821014182,Executive Officer,female,479123918.0
+164810.0,430.062,27419,target corp,1.0,1.0,,,20211206,cornell brian c,122520821014524,Executive Officer,male,479123918.0
+182419.0,,27419,target corp,,1.0,,,20211220,mulligan john j,122520821015156,Executive Officer,male,479123918.0
+28871.0,,27419,target corp,1.0,,,,20220310,baker douglas m jr,122520822004489,,male,462418075.0
+80311.0,,27419,target corp,1.0,,,,20220310,minnick mary e,122520822004506,,female,462418075.0
+11774.0,,27419,target corp,1.0,,,,20220310,stockton dmitri l,122520822004505,,male,462418075.0
+4047.0,,27419,target corp,1.0,,,,20220310,rice derica w,122520822004504,,male,462418075.0
+2827.0,,27419,target corp,1.0,,,,20220310,leahy christine a,122520822004503,,female,462418075.0
+14435.0,,27419,target corp,1.0,,,,20220310,lozano monica c,122520822004502,,female,462418075.0
+1415.0,,27419,target corp,1.0,,,,20220310,abney david p,122520822004488,,male,462418075.0
+16318.0,10000.0,27419,target corp,1.0,,,,20220310,edwards robert l,122520822004493,,male,462418075.0
+1949.0,,27419,target corp,1.0,,,,20220310,boudreaux gail,122520822004492,,female,462418075.0
+11057.0,,27419,target corp,1.0,,,,20220310,barrett george s,122520822004491,,male,462418075.0
+15708.0,,27419,target corp,1.0,,,,20220310,healey melanie,122520822004490,,female,462418075.0
+16318.0,11344.716,27419,target corp,1.0,,,,20220310,knauss donald r,122520822004501,,male,462418075.0
+118991.0,,27419,target corp,,1.0,,,20220311,mcnamara michael edward,122520822004595,Executive Officer,male,462418075.0
+9337.0,,27419,target corp,,1.0,,,20220311,liu don h,122520822004594,Executive Officer,male,462418075.0
+12365.0,,27419,target corp,,1.0,,,20220311,kremer melissa k,122520822004593,Executive Officer,female,462418075.0
+75644.0,341.5318,27419,target corp,,1.0,,,20220311,gomez richard h.,122520822004592,Executive Officer,male,462418075.0
+160710.0,431.6203,27419,target corp,1.0,1.0,,,20220311,cornell brian c,122520822004591,Executive Officer,male,462418075.0
+9068.0,,27419,target corp,,1.0,,,20220311,sylvester cara a,122520822004589,Executive Officer,female,462418075.0
+11010.0,,27419,target corp,,1.0,,,20220311,schindele mark,122520822004588,Executive Officer,male,462418075.0
+24653.0,2141.5735,27419,target corp,,1.0,,,20220311,sando jill,122520822004587,Executive Officer,female,462418075.0
+23064.0,417.8454,27419,target corp,,1.0,,,20220311,hennington christina,122520822004586,Executive Officer,female,462418075.0
+13726.0,,27419,target corp,,1.0,,,20220311,boylan katie m,122520822004584,Executive Officer,female,462418075.0
+37048.0,,27419,target corp,,1.0,,,20220311,fiddelke michael j,122520822004590,Executive Officer,male,462418075.0
+7098.0,,27419,target corp,,1.0,,,20220311,harrison robert m,122520822004585,Chief Accounting Officer,male,462418075.0
+8892.0,,27419,target corp,,1.0,,,20220314,sylvester cara a,122520822004653,Executive Officer,female,462418075.0
+24490.0,2141.5735,27419,target corp,,1.0,,,20220314,sando jill,122520822004654,Executive Officer,female,462418075.0
+6792.0,,27419,target corp,,1.0,,,20220314,harrison robert m,122520822004652,Chief Accounting Officer,male,462418075.0
+104423.0,4559.1583,27419,target corp,,1.0,,,20220314,ward laysha,122520822004597,Executive Officer,male,462418075.0
+188727.0,,27419,target corp,,1.0,,,20220314,mulligan john j,122520822004596,Executive Officer,male,462418075.0
+13487.0,,27419,target corp,,1.0,,,20220314,boylan katie m,122520822004651,Executive Officer,female,462418075.0
+12355.0,,27419,target corp,,1.0,,,20220316,boylan katie m,122520822004783,Executive Officer,female,462418075.0
+6189.0,,27419,target corp,,1.0,,,20220316,harrison robert m,122520822004784,Chief Accounting Officer,male,462418075.0
+36130.0,,27419,target corp,,1.0,,,20220316,fiddelke michael j,122520822004785,Executive Officer,male,462418075.0
+22423.0,417.8454,27419,target corp,,1.0,,,20220316,hennington christina,122520822004786,Executive Officer,female,462418075.0
+11999.0,,27419,target corp,,1.0,,,20220316,kremer melissa k,122520822004787,Executive Officer,female,462418075.0
+23732.0,2141.5735,27419,target corp,,1.0,,,20220316,sando jill,122520822004788,Executive Officer,female,462418075.0
+10153.0,,27419,target corp,,1.0,,,20220316,schindele mark,122520822004789,Executive Officer,male,462418075.0
+8670.0,,27419,target corp,,1.0,,,20220316,sylvester cara a,122520822004790,Executive Officer,female,462418075.0
+179064.0,161141.6203,27419,target corp,1.0,1.0,,,20220317,cornell brian c,122520822004877,Executive Officer,male,462418075.0
+4109.0,,27419,target corp,,1.0,,,20220317,harrison robert m,122520822004878,Chief Accounting Officer,male,462418075.0
+159265.0,,27419,target corp,,1.0,,,20220321,mulligan john j,122520822004946,Executive Officer,male,462418075.0
+8738.0,,27419,target corp,,1.0,,,20220323,boylan katie m,122520822004998,Executive Officer,female,462418075.0
+32890.0,,27419,target corp,1.0,,,,20220331,baker douglas m jr,122520822005262,,male,462418075.0
+31130.0,,27419,target corp,,1.0,,,20220405,fiddelke michael j,122520822005595,Executive Officer,male,462418075.0
+11059.0,,27419,target corp,,1.0,,,20220407,boylan katie m,122520822005710,Executive Officer,female,462418075.0
+276342.0,161143.4486,27419,target corp,1.0,1.0,,,20220407,cornell brian c,122520822005711,Executive Officer,male,462418075.0
+36600.0,,27419,target corp,,1.0,,,20220407,fiddelke michael j,122520822005712,Executive Officer,male,462418075.0
+86492.0,342.9785,27419,target corp,,1.0,,,20220407,gomez richard h.,122520822005713,Executive Officer,male,462418075.0
+26154.0,419.6154,27419,target corp,,1.0,,,20220407,hennington christina,122520822005714,Executive Officer,female,462418075.0
+4020.0,,27419,target corp,,1.0,,,20220407,liegel matthew a,122520822005716,Chief Accounting Officer,male,462418075.0
+68759.0,18674.0,27419,target corp,,1.0,,,20220407,liu don h,122520822005717,Executive Officer,male,462418075.0
+148053.0,,27419,target corp,,1.0,,,20220407,mcnamara michael edward,122520822005718,Executive Officer,male,462418075.0
+202638.0,,27419,target corp,,1.0,,,20220407,mulligan john j,122520822005719,Executive Officer,male,462418075.0
+13339.0,,27419,target corp,,1.0,,,20220407,schindele mark,122520822005721,Executive Officer,male,462418075.0
+9921.0,,27419,target corp,,1.0,,,20220407,sylvester cara a,122520822005722,Executive Officer,female,462418075.0
+27207.0,2150.645,27419,target corp,,1.0,,,20220407,sando jill,122520822005720,Executive Officer,female,462418075.0
+18511.0,,27419,target corp,,1.0,,,20220407,kremer melissa k,122520822005715,Executive Officer,female,462418075.0
+119609.0,4578.4705,27419,target corp,,1.0,,,20220407,ward laysha,122520822005723,Executive Officer,male,462418075.0
+0.0,,27419,target corp,,1.0,,,20220411,liu don h,122520822005755,Executive Officer,male,462418075.0
+51759.0,,27419,target corp,,1.0,,,20220419,liu don h,122520822005918,Executive Officer,male,462418075.0
+7891.0,,27419,target corp,,1.0,,,20220422,sylvester cara a,122520822006052,Executive Officer,female,462418075.0
+9909.0,,27419,target corp,,1.0,,,20220422,kremer melissa k,122520822006050,Executive Officer,female,462418075.0
+25207.0,2150.645,27419,target corp,,1.0,,,20220422,sando jill,122520822006051,Executive Officer,female,462418075.0
+,,27419,target corp,,1.0,,,20220524,liegel matthew a,122520822007370,Chief Accounting Officer,male,463696413.0
+157333.0,,27419,target corp,,1.0,,,20220622,mulligan john j,122520822008224,Executive Officer,male,463696413.0
+,419.6154,27419,target corp,,1.0,,,20220627,hennington christina,122520822008303,Executive Officer,female,463696413.0
+7510.0,,27419,target corp,,1.0,,,20220629,sylvester cara a,122520822008316,Executive Officer,female,463696413.0
+1164.0,,27419,target corp,1.0,,,,20220812,whiteford grace puma,122520822009472,,female,460236393.0
+2812.0,,27419,target corp,,1.0,,,20220822,liegel matthew a,122520822009707,Chief Accounting Officer,male,460262630.0
+118425.0,,27419,target corp,,1.0,,,20220916,mulligan john j,122520822010369,Executive Officer,male,460262630.0
+93943.0,,27419,target corp,,1.0,,,20221220,mulligan john j,122520822012928,Executive Officer,male,460310088.0
+13962.0,,27419,target corp,1.0,,,,20230310,stockton dmitri l,122520823003770,,male,460363991.0
+249615.0,441.8763,27419,target corp,1.0,1.0,,,20230310,cornell brian c,122520823003771,Executive Officer,male,460363991.0
+18146.0,,27419,target corp,,1.0,,,20230310,boylan katie m,122520823003772,Executive Officer,female,460363991.0
+53439.0,,27419,target corp,,1.0,,,20230310,fiddelke michael j,122520823003773,Executive Officer,male,460363991.0
+129466.0,4667.4905,27419,target corp,,1.0,,,20230310,ward laysha,122520823003779,Executive Officer,male,460363991.0
+24713.0,,27419,target corp,,1.0,,,20230310,kremer melissa k,122520823003775,Executive Officer,female,460363991.0
+64925.0,,27419,target corp,,1.0,,,20230310,liu don h,122520823003776,Executive Officer,male,460363991.0
+111905.0,,27419,target corp,,1.0,,,20230310,mulligan john j,122520823003777,Executive Officer,male,460363991.0
+15978.0,,27419,target corp,,1.0,,,20230310,sylvester cara a,122520823003778,Executive Officer,female,460363991.0
+38097.0,427.7741,27419,target corp,,1.0,,,20230310,hennington christina,122520823003774,Executive Officer,female,460363991.0
+15959.0,,27419,target corp,1.0,,,,20230310,lozano monica c,122520823003767,,female,460363991.0
+3080.0,,27419,target corp,1.0,,,,20230310,whiteford grace puma,122520823003769,,female,460363991.0
+6047.0,,27419,target corp,1.0,,,,20230310,rice derica w,122520823003768,,male,460363991.0
+17887.0,11611.446,27419,target corp,1.0,,,,20230310,knauss donald r,122520823003765,,male,460363991.0
+17262.0,,27419,target corp,1.0,,,,20230310,healey melanie,122520823003764,,female,460363991.0
+17887.0,10000.0,27419,target corp,1.0,,,,20230310,edwards robert l,122520823003763,,male,460363991.0
+3896.0,,27419,target corp,1.0,,,,20230310,boudreaux gail,122520823003762,,female,460363991.0
+13228.0,,27419,target corp,1.0,,,,20230310,barrett george s,122520823003761,,male,460363991.0
+35529.0,,27419,target corp,1.0,,,,20230310,baker douglas m jr,122520823003760,,male,460363991.0
+2618.0,,27419,target corp,1.0,,,,20230310,abney david p,122520823003759,,male,460363991.0
+4739.0,,27419,target corp,,1.0,,,20230310,liegel matthew a,122520823003758,Chief Accounting Officer,male,460363991.0
+4798.0,,27419,target corp,1.0,,,,20230310,leahy christine a,122520823003766,,female,460363991.0
+4535.0,,27419,target corp,,1.0,,,20230314,liegel matthew a,122520823003933,Chief Accounting Officer,male,460363991.0
+129577.0,4667.4905,27419,target corp,,1.0,,,20230314,ward laysha,122520823003931,Executive Officer,male,460363991.0
+112166.0,,27419,target corp,,1.0,,,20230314,mulligan john j,122520823003930,Executive Officer,male,460363991.0
+65078.0,,27419,target corp,,1.0,,,20230314,liu don h,122520823003929,Executive Officer,male,460363991.0
+24839.0,,27419,target corp,,1.0,,,20230314,kremer melissa k,122520823003928,Executive Officer,female,460363991.0
+53126.0,,27419,target corp,,1.0,,,20230314,fiddelke michael j,122520823003927,Executive Officer,male,460363991.0
+37631.0,427.7741,27419,target corp,,1.0,,,20230314,hennington christina,122520823003924,Executive Officer,female,460363991.0
+17412.0,,27419,target corp,,1.0,,,20230314,boylan katie m,122520823003925,Executive Officer,female,460363991.0
+191272.0,250056.8763,27419,target corp,1.0,1.0,,,20230314,cornell brian c,122520823003923,Executive Officer,male,460363991.0
+15535.0,,27419,target corp,,1.0,,,20230314,sylvester cara a,122520823003926,Executive Officer,female,460363991.0
+53078.0,,27419,target corp,,1.0,,,20230404,liu don h,122520823004589,Executive Officer,male,460363991.0
+135306.0,,27419,target corp,,1.0,,,20230406,mulligan john j,122520823004753,Executive Officer,male,460363991.0
+64650.0,,27419,target corp,,1.0,,,20230406,liu don h,122520823004752,Executive Officer,male,460363991.0
+5207.0,,27419,target corp,,1.0,,,20230406,liegel matthew a,122520823004751,Chief Accounting Officer,male,460363991.0
+16928.0,,27419,target corp,,1.0,,,20230406,sylvester cara a,122520823004754,Executive Officer,female,460363991.0
+137680.0,4696.9555,27419,target corp,,1.0,,,20230406,ward laysha,122520823004755,Executive Officer,male,460363991.0
+42263.0,430.4745,27419,target corp,,1.0,,,20230406,hennington christina,122520823004749,Executive Officer,female,460363991.0
+29934.0,,27419,target corp,,1.0,,,20230406,kremer melissa k,122520823004750,Executive Officer,female,460363991.0
+19267.0,,27419,target corp,,1.0,,,20230406,boylan katie m,122520823004746,Executive Officer,female,460363991.0
+248910.0,250059.6657,27419,target corp,1.0,1.0,,,20230406,cornell brian c,122520823004747,Executive Officer,male,460363991.0
+60766.0,,27419,target corp,,1.0,,,20230406,fiddelke michael j,122520823004748,Executive Officer,male,460363991.0
+3748.0,,27419,target corp,,1.0,,,20230522,liegel matthew a,122520823006153,Chief Accounting Officer,male,461559612.0
+16570.0,,27419,target corp,,1.0,,,20230629,sylvester cara a,122520823007020,Executive Officer,female,461559612.0
+399669.0,448.4233,27419,target corp,1.0,1.0,,,20230822,cornell brian c,122520823008385,Executive Officer,male,461605464.0
+20486.0,,27419,target corp,,1.0,,,20231102,zabel matthew l,122520823009911,Executive Officer,male,461651176.0
+48882.0,,27419,target corp,,1.0,,,20231117,liu don h,122520823010317,Executive Officer,male,461661800.0
+391919.0,452.4861,27419,target corp,1.0,1.0,,,20231127,cornell brian c,122520823010453,Executive Officer,male,461661800.0
+38451.0,438.0453,27419,target corp,,1.0,,,20231127,hennington christina,122520823010454,Executive Officer,female,461661800.0
+16486.0,,27419,target corp,,1.0,,,20231129,zabel matthew l,122520823010499,Executive Officer,male,461661800.0
+16376.0,,27419,target corp,0.0,1.0,0.0,0.0,20240131,zabel matthew l,2741924000005,Executive Officer,male,461661800.0
+55378.0,,27419,target corp,0.0,1.0,0.0,0.0,20240307,fiddelke michael j,2741924000011,Executive Officer,male,461690206.0
+27992.0,,27419,target corp,0.0,1.0,0.0,0.0,20240307,liu don h,2741924000012,Executive Officer,male,461690206.0
+12570.0,,27419,target corp,0.0,1.0,0.0,0.0,20240311,sylvester cara a,2741924000014,Executive Officer,female,461690206.0
+12376.0,,27419,target corp,0.0,1.0,0.0,0.0,20240311,zabel matthew l,2741924000016,Executive Officer,male,461690206.0
+3463.0,,27419,target corp,0.0,1.0,0.0,0.0,20240312,liegel matthew a,2741924000023,Chief Accounting Officer,male,461690206.0
+346919.0,455.9286,27419,target corp,1.0,1.0,0.0,0.0,20240312,cornell brian c,2741924000025,Executive Officer,male,461690206.0
+12407.0,,27419,target corp,0.0,1.0,0.0,0.0,20240313,sylvester cara a,2741924000031,Executive Officer,female,461690206.0
+11965.0,,27419,target corp,0.0,1.0,0.0,0.0,20240313,zabel matthew l,2741924000034,Executive Officer,male,461690206.0
+8159.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,rice derica w,2741924000094,,male,461690206.0
+30527.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,kremer melissa k,2741924000095,Executive Officer,female,461690206.0
+62749.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,fiddelke michael j,2741924000096,Executive Officer,male,461690206.0
+4331.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,whiteford grace puma,2741924000102,,female,461690206.0
+43087.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,hennington christina,2741924000098,Executive Officer,female,461690206.0
+15778.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,barrett george s,2741924000099,,male,461690206.0
+89509.0,347374.9286,27419,target corp,1.0,1.0,0.0,0.0,20240315,cornell brian c,2741924000100,Executive Officer,male,461690206.0
+19757.0,10000.0,27419,target corp,1.0,0.0,0.0,0.0,20240315,edwards robert l,2741924000097,,male,461690206.0
+15680.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,sylvester cara a,2741924000101,Executive Officer,female,461690206.0
+14412.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,zabel matthew l,2741924000093,Executive Officer,male,461690206.0
+6859.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,leahy christine a,2741924000090,,female,461690206.0
+16389.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,stockton dmitri l,2741924000091,,male,461690206.0
+37848.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,baker douglas m jr,2741924000084,,male,461690206.0
+5918.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,boudreaux gail,2741924000085,,female,461690206.0
+31598.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,liu don h,2741924000092,Executive Officer,male,461690206.0
+3871.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,abney david p,2741924000087,,male,461690206.0
+17753.0,,27419,target corp,1.0,0.0,0.0,0.0,20240315,lozano monica c,2741924000088,,female,461690206.0
+7873.0,,27419,target corp,0.0,1.0,0.0,0.0,20240315,liegel matthew a,2741924000086,Chief Accounting Officer,male,461690206.0
+19757.0,12064.002,27419,target corp,1.0,0.0,0.0,0.0,20240315,knauss donald r,2741924000089,,male,461690206.0
+38487.0,441.3779,27419,target corp,0.0,1.0,0.0,0.0,20240322,hennington christina,2741924000105,Executive Officer,female,461690206.0
+37361.0,,27419,target corp,0.0,1.0,0.0,0.0,20240411,liu don h,2741924000121,Executive Officer,male,461690206.0
+67937.0,,27419,target corp,0.0,1.0,0.0,0.0,20240411,fiddelke michael j,2741924000120,Executive Officer,male,461690206.0
+17974.0,,27419,target corp,0.0,1.0,0.0,0.0,20240411,sylvester cara a,2741924000118,Executive Officer,female,461690206.0
+15337.0,,27419,target corp,0.0,1.0,0.0,0.0,20240411,zabel matthew l,2741924000119,Executive Officer,male,461690206.0
+8221.0,,27419,target corp,0.0,1.0,0.0,0.0,20240411,liegel matthew a,2741924000115,Chief Accounting Officer,male,461690206.0
+41805.0,444.0083,27419,target corp,0.0,1.0,0.0,0.0,20240411,hennington christina,2741924000114,Executive Officer,female,461690206.0
+34164.0,,27419,target corp,0.0,1.0,0.0,0.0,20240411,kremer melissa k,2741924000116,Executive Officer,female,461690206.0
+121810.0,347377.6456,27419,target corp,1.0,1.0,0.0,0.0,20240411,cornell brian c,2741924000117,Executive Officer,male,461690206.0
+348843.0,458.6456,27419,target corp,1.0,1.0,0.0,0.0,20240605,cornell brian c,2741924000132,Executive Officer,male,462636573.0
+31216.0,,27419,target corp,0.0,1.0,0.0,0.0,20240823,liu don h,2741924000144,Executive Officer,male,460674666.0
+303843.0,462.2615,27419,target corp,1.0,1.0,0.0,0.0,20240828,cornell brian c,2741924000148,Executive Officer,male,460674666.0
+7276.0,,27419,target corp,0.0,1.0,0.0,0.0,20240903,liegel matthew a,2741924000156,Chief Accounting Officer,male,460674666.0
+32002.0,,27419,target corp,0.0,1.0,0.0,0.0,20240903,tu amy,2741924000158,Executive Officer,female,460674666.0
+123551.0,365.7844,27419,target corp,0.0,1.0,0.0,0.0,20240930,gomez richard h.,2741924000166,Executive Officer,male,460674666.0
+47645.0,,27419,target corp,0.0,1.0,0.0,0.0,20241002,lee james,2741924000169,Executive Officer,male,460674666.0

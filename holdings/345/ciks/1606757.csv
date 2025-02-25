@@ -1,21 +1,222 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1606757,"kimball electronics, inc.",0.0,0.0,1.0,0.0,20141031,kimball international inc,5577214000056,,male,29100000.0
-30297.0,0.0,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,vujovich christine m,104007014000005,,female,29143049.0
-4000.0,0.0,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,curtis christopher b,162077914000004,,male,29143049.0
-41056.0,0.0,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,stringer geoffrey l,123118514000005,,male,29143049.0
-5600.0,0.0,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,lampert gregory j.,141519614000004,,male,29143049.0
-32565.0,0.0,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,tischhauser thomas j,144383914000006,,male,29143049.0
-4000.0,0.0,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,repplier colleen c,162082414000004,,female,29143049.0
-17290.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20141201,korn steven t,162076914000005,Vice President,male,29143049.0
-8918.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20141202,dutchess julia a,162071914000004,Vice President,female,29143049.0
-23575.0,4455.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20141211,thyen christopher j,162077614000004,Vice President,male,29143049.0
-53148.0,28030.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,thyen christopher j,162077615000002,Vice President,male,29171749.0
-14244.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,smith sandy a,162077315000002,Vice President,female,29171749.0
-32108.0,17290.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,korn steven t,162076915000002,Vice President,male,29171749.0
-9512.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,hodell mark d,162071415000002,Corporate Controller,male,29171749.0
-12274.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,kasprzyk janusz f,162070915000002,Vice President,male,29171749.0
-44076.0,4500.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,sergesketter michael k.,162056115000002,Vice President,male,29171749.0
-124241.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,kahle john h,130519315000002,VICE PRESIDENT,male,29171749.0
-164515.0,27123.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20150831,charron donald d,108838715000002,CHAIRMAN AND CEO,male,29171749.0
-16247.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,dutchess julia a,162071915000002,Vice President,female,29171749.0
-37192.0,0.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,chang roger,162086415000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,0.0,1.0,0.0,20141031,kimball international inc,5577214000056,,male,29100000.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,repplier colleen c,162082414000004,,female,29143049.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,curtis christopher b,162077914000004,,male,29143049.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,vujovich christine m,104007014000005,,female,29143049.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,stringer geoffrey l,123118514000005,,male,29143049.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,lampert gregory j.,141519614000004,,male,29143049.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20141126,tischhauser thomas j,144383914000006,,male,29143049.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20141201,korn steven t,162076914000005,Vice President,male,29143049.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20141202,dutchess julia a,162071914000004,Vice President,female,29143049.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20141211,thyen christopher j,162077614000004,Vice President,male,29143049.0
+,,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20150831,charron donald d,108838715000002,CHAIRMAN AND CEO,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,kahle john h,130519315000002,VICE PRESIDENT,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,sergesketter michael k.,162056115000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,kasprzyk janusz f,162070915000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,hodell mark d,162071415000002,Corporate Controller,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,dutchess julia a,162071915000002,Vice President,female,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,chang roger,162086415000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,smith sandy a,162077315000002,Vice President,female,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,korn steven t,162076915000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,dutchess julia a,162071915000002,Vice President,female,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,hodell mark d,162071415000002,Corporate Controller,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,kasprzyk janusz f,162070915000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,sergesketter michael k.,162056115000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,kahle john h,130519315000002,VICE PRESIDENT,male,29171749.0
+,,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20150831,charron donald d,108838715000002,CHAIRMAN AND CEO,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,korn steven t,162076915000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,smith sandy a,162077315000002,Vice President,female,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,thyen christopher j,162077615000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,chang roger,162086415000002,Vice President,male,29171749.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20150831,thyen christopher j,162077615000002,Vice President,male,29171749.0
+37839.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20151113,vujovich christine m,104007015000002,,female,29352209.0
+14696.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20151113,lampert gregory j.,141519615000002,,male,29352209.0
+37593.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20151113,tischhauser thomas j,144383915000002,,male,29352209.0
+11085.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20151113,curtis christopher b,162077915000002,,male,29352209.0
+11085.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20151113,repplier colleen c,162082415000002,,female,29352209.0
+52482.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20151113,stringer geoffrey l,123118515000002,,male,29352209.0
+18723.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,smith sandy a,162077316000004,Vice President,female,28492862.0
+60270.0,30737.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,thyen christopher j,162077616000004,Vice President,male,28492862.0
+198845.0,29530.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20160823,charron donald d,108838716000004,CHAIRMAN AND CEO,male,28492862.0
+46736.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,chang roger,162086416000004,Vice President,male,28492862.0
+39426.0,17248.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,korn steven t,162076916000004,Vice President,male,28492862.0
+20726.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,dutchess julia a,162071916000004,Vice President,female,28492862.0
+12128.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,hodell mark d,162071416000004,Corporate Controller,male,28492862.0
+16683.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,kasprzyk janusz f,162070916000004,Vice President,male,28492862.0
+51171.0,4732.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,sergesketter michael k.,162056116000004,Vice President,male,28492862.0
+150371.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20160823,kahle john h,130519316000004,VICE PRESIDENT,male,28492862.0
+40133.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20161114,tischhauser thomas j,144383916000014,,male,27483304.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20161114,vujovich christine m,104007016000010,,female,27483304.0
+60419.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20161114,stringer geoffrey l,123118516000014,,male,27483304.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20161114,repplier colleen c,162082416000004,,female,27483304.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20161114,lampert gregory j.,141519616000004,,male,27483304.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20170419,thaxton gregory a,160675717000013,,male,27330079.0
+25168.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,smith sandy a,160675717000032,Vice President,female,27127146.0
+16331.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,hodell mark d,160675717000026,Corporate Controller,male,27127146.0
+173233.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,kahle john h,160675717000044,VICE PRESIDENT,male,27127146.0
+59417.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,chang roger,160675717000028,Vice President,male,27127146.0
+60461.0,4924.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,sergesketter michael k.,160675717000040,Vice President,male,27127146.0
+27172.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,dutchess julia a,160675717000038,Vice President,female,27127146.0
+240274.0,31201.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20170823,charron donald d,160675717000036,CHAIRMAN AND CEO,male,27127146.0
+23044.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,kasprzyk janusz f,160675717000034,Vice President,male,27127146.0
+49062.0,17207.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,korn steven t,160675717000030,Vice President,male,27127146.0
+69433.0,32438.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20170823,thyen christopher j,160675717000042,Vice President,male,27127146.0
+42119.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20171121,tischhauser thomas j,160675717000065,,male,26838864.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20171121,vujovich christine m,160675717000067,,female,26838864.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20171121,lampert gregory j.,160675717000069,,male,26838864.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20171121,thaxton gregory a,160675717000071,,male,26838864.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20171121,repplier colleen c,160675717000073,,female,26838864.0
+66127.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20171121,stringer geoffrey l,160675717000075,,male,26838864.0
+30616.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,kasprzyk janusz f,160675718000045,Vice President,male,26694649.0
+286925.0,33226.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20180822,charron donald d,160675718000037,CHAIRMAN AND CEO,male,26694649.0
+79853.0,34380.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,thyen christopher j,160675718000041,Vice President,male,26694649.0
+33056.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,smith sandy a,160675718000035,Vice President,female,26694649.0
+192375.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,kahle john h,160675718000033,VICE PRESIDENT,male,26694649.0
+783.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,delorenzo jessica l,160675718000031,Vice President,female,26694649.0
+35105.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,dutchess julia a,160675718000029,Vice President,female,26694649.0
+21649.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,hodell mark d,160675718000027,Corporate Controller,male,26694649.0
+60127.0,17198.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,korn steven t,160675718000043,Vice President,male,26694649.0
+73112.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,chang roger,160675718000039,Vice President,male,26694649.0
+71136.0,5113.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20180822,sergesketter michael k.,160675718000047,Vice President,male,26694649.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20181119,vujovich christine m,160675718000081,,female,26283988.0
+45855.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20181119,tischhauser thomas j,160675718000077,,male,26283988.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20181119,thaxton gregory a,160675718000075,,male,26283988.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20181119,phillippy robert j,160675718000073,,male,26283988.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20181119,repplier colleen c,160675718000083,,female,26283988.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20181119,lampert gregory j.,160675718000079,,male,26283988.0
+40143.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,kasprzyk janusz f,160675719000040,Vice President,male,25418807.0
+80373.0,5326.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,sergesketter michael k.,160675719000030,Vice President,male,25418807.0
+1556.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,thomson kathy r,160675719000038,Vice President,female,25418807.0
+331049.0,35267.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20190821,charron donald d,160675719000036,CHAIRMAN AND CEO,male,25418807.0
+204335.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,kahle john h,160675719000034,VICE PRESIDENT,male,25418807.0
+26588.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,hodell mark d,160675719000032,Corporate Controller,male,25418807.0
+69541.0,17224.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,korn steven t,160675719000028,Vice President,male,25418807.0
+84557.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,chang roger,160675719000026,Vice President,male,25418807.0
+2525.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,delorenzo jessica l,160675719000024,Vice President,female,25418807.0
+88674.0,36492.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,thyen christopher j,160675719000044,Vice President,male,25418807.0
+1853.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,castillejos desiree l.,160675719000022,Vice President,female,25418807.0
+39520.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20190821,smith sandy a,160675719000042,Vice President,female,25418807.0
+65541.0,17213.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20191021,korn steven t,160675719000062,Vice President,male,25418807.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20191118,lampert gregory j.,160675719000088,,male,25199305.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20191118,holcomb michele,160675719000086,,female,25199305.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20191118,thaxton gregory a,160675719000084,,male,25199305.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20191118,repplier colleen c,160675719000082,,female,25199305.0
+3758.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20191118,van deursen holly,160675719000079,,male,25199305.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20191118,phillippy robert j,160675719000090,,male,25199305.0
+81034.0,,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20200316,charron donald d,160675720000011,CHAIRMAN AND CEO,male,25198049.0
+5581.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,kemper leroy w,160675720000038,Vice President,male,24987321.0
+5702.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,delorenzo jessica l,160675720000046,Vice President,female,24987321.0
+369001.0,82083.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20200826,charron donald d,160675720000044,CHAIRMAN AND CEO,male,24987321.0
+95850.0,38655.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,thyen christopher j,160675720000042,Vice President,male,24987321.0
+30876.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,hodell mark d,160675720000040,Corporate Controller,male,24987321.0
+44569.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,smith sandy a,160675720000036,Vice President,female,24987321.0
+5104.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,thomson kathy r,160675720000034,Vice President,female,24987321.0
+210695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,kahle john h,160675720000032,VICE PRESIDENT,male,24987321.0
+87990.0,5371.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,sergesketter michael k.,160675720000028,Vice President,male,24987321.0
+5985.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,castillejos desiree l.,160675720000030,Vice President,female,24987321.0
+73214.0,17171.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20200826,korn steven t,160675720000048,"President, Global EMS Ops.",male,24987321.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20201119,holcomb michele,160675720000077,,female,25143289.0
+7993.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20201119,van deursen holly,160675720000079,,male,25143289.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20201119,phillippy robert j,160675720000081,,male,25143289.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20201119,lampert gregory j.,160675720000075,,male,25143289.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20201119,repplier colleen c,160675720000071,,female,25143289.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20201119,thaxton gregory a,160675720000073,,male,25143289.0
+69214.0,17207.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20201124,korn steven t,160675720000083,"President, Global EMS Ops.",male,25143289.0
+207195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210217,kahle john h,160675721000011,VICE PRESIDENT,male,24957061.0
+203695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210302,kahle john h,160675721000015,VICE PRESIDENT,male,24957061.0
+200195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210316,kahle john h,160675721000019,VICE PRESIDENT,male,24957061.0
+196695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210330,kahle john h,160675721000026,VICE PRESIDENT,male,24957061.0
+193195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210416,kahle john h,160675721000028,VICE PRESIDENT,male,24957061.0
+189695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210429,kahle john h,160675721000030,VICE PRESIDENT,male,24957061.0
+186195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210518,kahle john h,160675721000042,VICE PRESIDENT,male,24957061.0
+182695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210601,kahle john h,160675721000046,VICE PRESIDENT,male,24957061.0
+179195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210616,kahle john h,160675721000048,VICE PRESIDENT,male,24957061.0
+175695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210629,kahle john h,160675721000050,VICE PRESIDENT,male,24957061.0
+172195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210716,kahle john h,160675721000055,VICE PRESIDENT,male,24957061.0
+168695.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210729,kahle john h,160675721000057,VICE PRESIDENT,male,24957061.0
+165195.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210817,kahle john h,160675721000061,VICE PRESIDENT,male,24957061.0
+11159.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,thomson kathy r,160675721000075,Vice President,female,24957061.0
+411885.0,83906.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20210826,charron donald d,160675721000069,CHAIRMAN AND CEO,male,24957061.0
+8990.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,kemper leroy w,160675721000067,Vice President,male,24957061.0
+80424.0,17177.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,korn steven t,160675721000065,"President, Global EMS Ops.",male,24957061.0
+1323.0,283.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,baumann adam m,160675721000063,Corporate Controller,male,24957061.0
+10193.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,delorenzo jessica l,160675721000071,Vice President,female,24957061.0
+103880.0,40753.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,thyen christopher j,160675721000073,Vice President,male,24957061.0
+11494.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,castillejos desiree l.,160675721000084,Vice President,female,24957061.0
+1235.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,croom jana t,160675721000082,Vice President,female,24957061.0
+172125.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,kahle john h,160675721000080,VICE PRESIDENT,male,24957061.0
+49728.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210826,smith sandy a,160675721000077,Vice President,female,24957061.0
+168625.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210901,kahle john h,160675721000089,VICE PRESIDENT,male,24957061.0
+77424.0,17208.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210916,korn steven t,160675721000093,"President, Global EMS Ops.",male,24957061.0
+165125.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210916,kahle john h,160675721000091,VICE PRESIDENT,male,24957061.0
+161625.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20210929,kahle john h,160675721000103,VICE PRESIDENT,male,24957061.0
+158125.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20211018,kahle john h,160675721000105,VICE PRESIDENT,male,24957061.0
+154625.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20211029,kahle john h,160675721000107,VICE PRESIDENT,male,25100911.0
+151125.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20211116,kahle john h,160675721000119,VICE PRESIDENT,male,25100911.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20211119,thaxton gregory a,160675721000123,,male,25100911.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20211119,lampert gregory j.,160675721000125,,male,25100911.0
+13020.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20211119,van deursen holly,160675721000127,,male,25100911.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20211119,phillippy robert j,160675721000131,,male,25100911.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20211119,holcomb michele,160675721000121,,female,25100911.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20211119,repplier colleen c,160675721000129,,female,25100911.0
+147625.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20211130,kahle john h,160675721000133,VICE PRESIDENT,male,25100911.0
+144125.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20211216,kahle john h,160675721000135,VICE PRESIDENT,male,25100911.0
+140625.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20211229,kahle john h,160675721000139,VICE PRESIDENT,male,25100911.0
+1088.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220506,wells isabel s,160675722000014,CIO,female,24850155.0
+84859.0,17016.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,korn steven t,160675722000036,"President, Global EMS Ops.",male,24626000.0
+2901.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,hass douglas,160675722000028,"CL&CO, Secretary",male,24626000.0
+11122.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,kemper leroy w,160675722000026,Vice President,male,24626000.0
+442532.0,85355.0,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20220823,charron donald d,160675722000024,CHAIRMAN AND CEO,male,24626000.0
+108560.0,42578.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,thyen christopher j,160675722000022,Vice President,male,24626000.0
+1854.0,519.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,baumann adam m,160675722000032,Corporate Controller,male,24626000.0
+2294.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,croom jana t,160675722000030,CFO,female,24626000.0
+14806.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,thomson kathy r,160675722000034,Vice President,female,24626000.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,wells isabel s,160675722000040,CIO,female,24626000.0
+13068.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20220823,delorenzo jessica l,160675722000038,Vice President,female,24626000.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221007,vadaketh tom george,160675722000054,,male,24626000.0
+80859.0,17165.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20221117,korn steven t,160675722000062,"President, Global EMS Ops.",male,24710331.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,holcomb michele,160675722000074,,female,24710331.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,phillippy robert j,160675722000072,,male,24710331.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,repplier colleen c,160675722000070,,female,24710331.0
+18385.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,van deursen holly,160675722000068,,male,24710331.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,vadaketh tom george,160675722000066,,male,24710331.0
+23173.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,lampert gregory j.,160675722000076,,male,24710331.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20221122,thaxton gregory a,160675722000064,,male,24710331.0
+,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230303,phillips richard d,160675723000011,CEO,male,24724173.0
+23281.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20230321,lampert gregory j.,160675723000015,,male,24724173.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20230321,vadaketh tom george,160675723000017,,male,24724173.0
+109840.0,43119.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230523,thyen christopher j,160675723000023,Vice President,male,24724281.0
+,,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20230831,phillips richard d,160675723000039,CEO and Director,male,24724281.0
+7224.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,croom jana t,160675723000049,CFO,female,24724281.0
+3237.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,wells isabel s,160675723000035,CIO,female,24724281.0
+116042.0,44928.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,thyen christopher j,160675723000037,Vice President,male,24724281.0
+20082.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,thomson kathy r,160675723000041,Chief Commercial Officer,female,24724281.0
+88892.0,17136.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,korn steven t,160675723000043,Chief Operating Officer,male,24724281.0
+6806.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,hass douglas,160675723000045,"CL&CO, Secretary",male,24724281.0
+17570.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,delorenzo jessica l,160675723000047,Vice President,female,24724281.0
+3301.0,788.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20230831,baumann adam m,160675723000051,Chief Accounting Officer,male,24724281.0
+,17175.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20231117,korn steven t,160675723000065,Chief Operating Officer,male,24845148.0
+31503.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,lampert gregory j.,160675723000083,,male,24845148.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,thaxton gregory a,160675723000077,,male,24845148.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,holcomb michele,160675723000075,,female,24845148.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,repplier colleen c,160675723000079,,female,24845148.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,vadaketh tom george,160675723000073,,male,24845148.0
+23338.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,van deursen holly,160675723000071,,male,24845148.0
+4953.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20231129,phillippy robert j,160675723000081,,male,24845148.0
+4214.0,,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20240122,phillips richard d,160675724000004,CEO and Director,male,24865000.0
+5141.0,1122.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,baumann adam m,160675724000040,Chief Accounting Officer,male,24733358.0
+15977.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,croom jana t,160675724000038,CFO,female,24733358.0
+22508.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,delorenzo jessica l,160675724000036,Vice President,female,24733358.0
+11343.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,hass douglas,160675724000034,"CL&CO, Secretary",male,24733358.0
+101100.0,17182.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,korn steven t,160675724000032,Chief Operating Officer,male,24733358.0
+7811.0,,1606757,"kimball electronics, inc.",1.0,1.0,0.0,0.0,20240903,phillips richard d,160675724000030,CEO and Director,male,24733358.0
+25505.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,thomson kathy r,160675724000028,Chief Commercial Officer,female,24733358.0
+6796.0,,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240903,wells isabel s,160675724000026,CIO,female,24733358.0
+97100.0,17182.0,1606757,"kimball electronics, inc.",0.0,1.0,0.0,0.0,20240909,korn steven t,160675724000042,Chief Operating Officer,male,24733358.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,repplier colleen c,160675724000065,,female,24680651.0
+6548.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,holcomb michele,160675724000059,,female,24680651.0
+11501.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,phillippy robert j,160675724000071,,male,24680651.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,vadaketh tom george,160675724000061,,male,24680651.0
+38051.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,lampert gregory j.,160675724000067,,male,24680651.0
+29886.0,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,van deursen holly,160675724000063,,male,24680651.0
+,,1606757,"kimball electronics, inc.",1.0,0.0,0.0,0.0,20241119,thaxton gregory a,160675724000069,,male,24680651.0

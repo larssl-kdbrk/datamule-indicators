@@ -1,126 +1,303 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-2500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,bay anthony,118143110001858,,male,44931506.0
-18500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,lucente edward,118143110001864,,male,44931506.0
-7500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,johnson thomas h,118143110001863,,male,44931506.0
-9500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,mardy michael j,118143110001862,,male,44931506.0
-3450.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,jules francis j,118143110001861,,male,44931506.0
-2500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,breen virginia g,118143110001860,,female,44931506.0
-93956.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100209,mclennan william r,118143110007710,"Pres. Global Operations, ML",male,44293804.0
-78956.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100331,mclennan william r,118143110019027,"Pres. Global Operations, ML",male,44293804.0
-44913.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100415,riley david,118143110021717,"Exec VP, Corp. Develop.",male,44293804.0
-89049.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100427,crane steven g,118143110023049,Chief Financial Officer,male,44293804.0
-77368.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100615,mclennan william r,118143110033144,"Pres. Global Operations, ML",male,44056151.0
-34009.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100622,gray peter l,118143110034285,EVP and General Counsel,male,44056151.0
-20500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100707,lucente edward,118143110036868,,male,44056151.0
-10500.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100709,mardy michael j,118143110037075,,male,44056151.0
-362068.0,0.0,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20100825,lawler joseph c,118143110044133,"Chairman, President and CEO",male,43729338.0
-33479.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,gray peter l,118143110048469,EVP and General Counsel,male,43729338.0
-88096.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,crane steven g,118143110048470,Chief Financial Officer,male,43729338.0
-75250.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,mclennan william r,118143110048471,"Pres. Global Operations, ML",male,43729338.0
-43960.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,riley david,118143110048472,"Exec VP, Corp. Develop.",male,43729338.0
-57896.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,gray peter l,118143110049895,EVP and General Counsel,male,43729338.0
-114925.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,crane steven g,118143110049896,Chief Financial Officer,male,43729338.0
-438368.0,0.0,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20101005,lawler joseph c,118143110049897,"Chairman, President and CEO",male,43729338.0
-108023.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,mclennan william r,118143110049899,"Pres. Global Operations, ML",male,43729338.0
-67318.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,riley david,118143110049898,"Exec VP, Corp. Develop.",male,43729338.0
-0.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20101103,odonnell joseph m,118143110053290,,male,43723322.0
-0.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20101103,fenton jeffrey j,118143110053291,,male,43723322.0
-11494.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,odonnell joseph m,118143111001856,,male,43723322.0
+2500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,bay anthony,118143110001858,,male,
+2500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,breen virginia g,118143110001860,,female,
+3450.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,jules francis j,118143110001861,,male,
+9500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,mardy michael j,118143110001862,,male,
+7500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,johnson thomas h,118143110001863,,male,
+18500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100106,lucente edward,118143110001864,,male,
+93956.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100209,mclennan william r,118143110007710,"Pres. Global Operations, ML",male,
+78956.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100331,mclennan william r,118143110019027,"Pres. Global Operations, ML",male,
+44913.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100415,riley david,118143110021717,"Exec VP, Corp. Develop.",male,
+89049.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100427,crane steven g,118143110023049,Chief Financial Officer,male,
+77368.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100615,mclennan william r,118143110033144,"Pres. Global Operations, ML",male,44056151.0
+34009.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100622,gray peter l,118143110034285,EVP and General Counsel,male,44056151.0
+20500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100707,lucente edward,118143110036868,,male,44056151.0
+10500.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20100709,mardy michael j,118143110037075,,male,44056151.0
+362068.0,,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20100825,lawler joseph c,118143110044133,"Chairman, President and CEO",male,43729338.0
+33479.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,gray peter l,118143110048469,EVP and General Counsel,male,43729338.0
+88096.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,crane steven g,118143110048470,Chief Financial Officer,male,43729338.0
+75250.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,mclennan william r,118143110048471,"Pres. Global Operations, ML",male,43729338.0
+43960.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20100930,riley david,118143110048472,"Exec VP, Corp. Develop.",male,43729338.0
+108023.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,mclennan william r,118143110049899,"Pres. Global Operations, ML",male,43729338.0
+67318.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,riley david,118143110049898,"Exec VP, Corp. Develop.",male,43729338.0
+438368.0,,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20101005,lawler joseph c,118143110049897,"Chairman, President and CEO",male,43729338.0
+57896.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,gray peter l,118143110049895,EVP and General Counsel,male,43729338.0
+114925.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20101005,crane steven g,118143110049896,Chief Financial Officer,male,43729338.0
+,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20101103,odonnell joseph m,118143110053290,,male,43723322.0
+,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20101103,fenton jeffrey j,118143110053291,,male,43723322.0
+11494.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,odonnell joseph m,118143111001856,,male,43723322.0
+21994.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,mardy michael j,118143111001854,,male,43723322.0
+14944.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,jules francis j,118143111001851,,male,43723322.0
 16994.0,15000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,lucente edward,118143111001853,,male,43723322.0
-21994.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,mardy michael j,118143111001854,,male,43723322.0
-18994.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,johnson thomas h,118143111001849,,male,43723322.0
-25894.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,fenton jeffrey j,118143111001847,,male,43723322.0
-13994.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,breen virginia g,118143111001845,,female,43723322.0
-14944.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,jules francis j,118143111001851,,male,43723322.0
-445386.219,0.0,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20110404,lawler joseph c,118143111022125,"Chairman, President and CEO",male,43814824.0
-115599.125,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20110404,mclennan william r,118143111022126,"Pres. Global Operations, ML",male,43814824.0
-114011.125,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20110614,mclennan william r,118143111036540,"Pres. Global Operations, ML",male,43824651.0
-23994.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110617,mardy michael j,118143111037340,,male,43824651.0
-433962.219,0.0,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20110825,lawler joseph c,118143111047032,"Chairman, President and CEO",male,43829097.0
-61333.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,riley david,118143111051699,"Exec VP, Corp. Develop.",male,43829097.0
-425886.219,0.0,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20111004,lawler joseph c,118143111051700,"Chairman, President and CEO",male,43829097.0
-108201.125,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,mclennan william r,118143111051702,"Pres. Global Operations, ML",male,43829097.0
-52970.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,gray peter l,118143111051703,EVP and General Counsel,male,43829097.0
-107988.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,crane steven g,118143111051705,Chief Financial Officer,male,43829097.0
-3818690.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111019,handy & harman ltd.,92189511001989,,male,43829097.0
-3865760.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111103,handy & harman ltd.,92189511002072,,male,44076160.0
-3868561.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111114,handy & harman ltd.,92189511002193,,male,44076160.0
-3916910.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111118,handy & harman ltd.,92189511002223,,male,44076160.0
-3957881.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111122,handy & harman ltd.,92189511002245,,male,44076160.0
-4024086.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111128,handy & harman ltd.,92189511002262,,male,44076160.0
-4114643.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111130,handy & harman ltd.,92189511002268,,male,43831809.0
-4612643.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20111205,handy & harman ltd.,92189511002287,,male,43831809.0
-60000.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111214,nightingale thomas,118143111060488,President - Sales & Marketing,male,43831809.0
-4761756.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20111215,handy & harman ltd.,92189511002365,,male,43831809.0
-4788156.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20111219,handy & harman ltd.,92189511002386,,male,43831809.0
+25894.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,fenton jeffrey j,118143111001847,,male,43723322.0
+13994.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,breen virginia g,118143111001845,,female,43723322.0
+18994.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110105,johnson thomas h,118143111001849,,male,43723322.0
+445386.219,,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20110404,lawler joseph c,118143111022125,"Chairman, President and CEO",male,43814824.0
+115599.125,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20110404,mclennan william r,118143111022126,"Pres. Global Operations, ML",male,43814824.0
+114011.125,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20110614,mclennan william r,118143111036540,"Pres. Global Operations, ML",male,43824651.0
+23994.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20110617,mardy michael j,118143111037340,,male,43824651.0
+433962.219,,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20110825,lawler joseph c,118143111047032,"Chairman, President and CEO",male,43829097.0
+52970.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,gray peter l,118143111051703,EVP and General Counsel,male,43829097.0
+61333.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,riley david,118143111051699,"Exec VP, Corp. Develop.",male,43829097.0
+108201.125,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,mclennan william r,118143111051702,"Pres. Global Operations, ML",male,43829097.0
+107988.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111004,crane steven g,118143111051705,Chief Financial Officer,male,43829097.0
+425886.219,,914712,moduslink global solutions inc,1.0,1.0,0.0,0.0,20111004,lawler joseph c,118143111051700,"Chairman, President and CEO",male,43829097.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111019,handy & harman ltd.,92189511001989,,male,43829097.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111103,handy & harman ltd.,92189511002072,,male,44076160.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111114,handy & harman ltd.,92189511002193,,male,44076160.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111118,handy & harman ltd.,92189511002223,,male,44076160.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111122,handy & harman ltd.,92189511002245,,male,44076160.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111128,handy & harman ltd.,92189511002262,,male,44076160.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20111130,handy & harman ltd.,92189511002268,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20111205,handy & harman ltd.,92189511002287,,male,43831809.0
+60000.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20111214,nightingale thomas,118143111060488,President - Sales & Marketing,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20111215,handy & harman ltd.,92189511002365,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20111219,handy & harman ltd.,92189511002386,,male,43831809.0
+26616.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,odonnell joseph m,118143112001474,,male,43831809.0
+29116.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,breen virginia g,118143112001463,,female,43831809.0
+41016.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,fenton jeffrey j,118143112001464,,male,43831809.0
+30066.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,jules francis j,118143112001466,,male,43831809.0
 32116.0,15000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,lucente edward,118143112001468,,male,43831809.0
-30066.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,jules francis j,118143112001466,,male,43831809.0
-41016.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,fenton jeffrey j,118143112001464,,male,43831809.0
-29116.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,breen virginia g,118143112001463,,female,43831809.0
-39116.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,mardy michael j,118143112001475,,male,43831809.0
-34116.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,johnson thomas h,118143112001472,,male,43831809.0
-26616.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,odonnell joseph m,118143112001474,,male,43831809.0
-4826417.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120109,handy & harman ltd.,92189512000086,,male,43831809.0
-4955350.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120111,handy & harman ltd.,92189512000103,,male,43831809.0
-4998927.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120113,handy & harman ltd.,92189512000123,,male,43831809.0
-5054438.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120118,handy & harman ltd.,92189512000134,,male,43831809.0
-5086244.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120120,handy & harman ltd.,92189512000162,,male,43831809.0
-5102296.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120124,handy & harman ltd.,92189512000182,,male,43831809.0
-5160636.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120127,handy & harman ltd.,92189512000221,,male,43831809.0
-18994.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20120203,johnson thomas h,118143112005725,,male,44264450.0
-5195204.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120214,handy & harman ltd.,92189512000355,,male,44264450.0
-5246251.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120216,handy & harman ltd.,92189512000371,,male,44264450.0
-5247851.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120221,handy & harman ltd.,92189512000384,,male,44264450.0
-5264436.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120223,handy & harman ltd.,92189512000397,,male,44264450.0
-5264786.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120227,handy & harman ltd.,92189512000407,,male,44264450.0
-5271383.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120229,handy & harman ltd.,92189512000419,,male,44264450.0
-5321343.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120302,handy & harman ltd.,92189512000438,,male,43982113.0
-5434854.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120306,handy & harman ltd.,92189512000455,,male,43982113.0
-5657801.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120308,handy & harman ltd.,92189512000485,,male,43982113.0
-5839301.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120312,handy & harman ltd.,92189512000499,,male,43982113.0
-5941170.0,0.0,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120314,handy & harman ltd.,92189512000532,,male,43982113.0
-13505.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120330,wald jeffrey s,118143112020750,,male,43982113.0
-68274.125,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120613,mclennan william r,118143112036330,"Pres. Global Operations, ML",male,44255430.0
-0.0,0.0,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20120615,"bns holding, inc.",92189512001375,,male,44255430.0
-36976.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120706,riley david,118143112040017,"Exec VP, Corp. Develop.",male,44255430.0
-417318.219,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120827,lawler joseph c,118143112047490,President and CEO,male,43926622.0
-22354.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120831,crawley scott r,118143112048287,"President, Global Operations",male,43926622.0
-50760.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,nightingale thomas,118143112053500,"President - Sales, Marketing",male,43926622.0
-354283.219,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,lawler joseph c,118143112053497,President and CEO,male,43926622.0
-102639.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,crane steven g,118143112053498,Chief Financial Officer,male,43926622.0
-48044.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,gray peter l,118143112053499,"EVP, CAO and General Counsel",male,43926622.0
-51080.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,odonnell joseph m,118143113001682,,male,43841024.0
-37969.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,wald jeffrey s,118143113001672,,male,43841024.0
-65480.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,fenton jeffrey j,118143113001674,,male,43841024.0
-53580.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,breen virginia g,118143113001676,,female,43841024.0
-63580.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,mardy michael j,118143113001677,,male,43841024.0
-54530.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,jules francis j,118143113001679,,male,43841024.0
+34116.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,johnson thomas h,118143112001472,,male,43831809.0
+39116.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120105,mardy michael j,118143112001475,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120109,handy & harman ltd.,92189512000086,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120111,handy & harman ltd.,92189512000103,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120113,handy & harman ltd.,92189512000123,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120118,handy & harman ltd.,92189512000134,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120120,handy & harman ltd.,92189512000162,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120124,handy & harman ltd.,92189512000182,,male,43831809.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120127,handy & harman ltd.,92189512000221,,male,43831809.0
+18994.0,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20120203,johnson thomas h,118143112005725,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120214,handy & harman ltd.,92189512000355,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120216,handy & harman ltd.,92189512000371,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120221,handy & harman ltd.,92189512000384,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120223,handy & harman ltd.,92189512000397,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120227,handy & harman ltd.,92189512000407,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120229,handy & harman ltd.,92189512000419,,male,44264450.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120302,handy & harman ltd.,92189512000438,,male,43982113.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120306,handy & harman ltd.,92189512000455,,male,43982113.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120308,handy & harman ltd.,92189512000485,,male,43982113.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120312,handy & harman ltd.,92189512000499,,male,43982113.0
+,,914712,moduslink global solutions inc,0.0,0.0,1.0,1.0,20120314,handy & harman ltd.,92189512000532,,male,43982113.0
+13505.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20120330,wald jeffrey s,118143112020750,,male,43982113.0
+68274.125,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120613,mclennan william r,118143112036330,"Pres. Global Operations, ML",male,44255430.0
+,,914712,moduslink global solutions inc,0.0,0.0,0.0,1.0,20120615,"bns holding, inc.",92189512001375,,male,44255430.0
+36976.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120706,riley david,118143112040017,"Exec VP, Corp. Develop.",male,44255430.0
+417318.219,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120827,lawler joseph c,118143112047490,President and CEO,male,43926622.0
+22354.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20120831,crawley scott r,118143112048287,"President, Global Operations",male,43926622.0
+102639.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,crane steven g,118143112053498,Chief Financial Officer,male,43926622.0
+354283.219,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,lawler joseph c,118143112053497,President and CEO,male,43926622.0
+48044.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,gray peter l,118143112053499,"EVP, CAO and General Counsel",male,43926622.0
+50760.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20121003,nightingale thomas,118143112053500,"President - Sales, Marketing",male,43926622.0
+37969.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,wald jeffrey s,118143113001672,,male,43841024.0
+65480.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,fenton jeffrey j,118143113001674,,male,43841024.0
+53580.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,breen virginia g,118143113001676,,female,43841024.0
+63580.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,mardy michael j,118143113001677,,male,43841024.0
+54530.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,jules francis j,118143113001679,,male,43841024.0
 56580.0,15000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,lucente edward,118143113001680,,male,43841024.0
-20760.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130204,nightingale thomas,118143113006372,"President - Sales, Marketing",male,43970878.0
-0.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,gray peter l,118143113017047,"EVP, CAO and General Counsel",male,43990600.0
-0.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,crane steven g,118143113017046,Chief Financial Officer,male,43990600.0
-0.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,crawley scott r,118143113017044,"President, Global Operations",male,43990600.0
-50000.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,boucher j.,118143113017045,President and CEO,male,43990600.0
-23006.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20130617,kassan glen m,92189513001271,,male,51546052.0
-23006.0,60000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20130617,lichtenstein warren g,92189513001272,,male,51546052.0
-19637.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130903,crawley scott r,118143113047256,"President, Global Operations",male,51575893.0
-99320.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20131003,crane steven g,118143113052300,Chief Financial Officer,male,51594517.0
-45159.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20131003,gray peter l,118143113052301,"EVP, CAO and General Counsel",male,51594517.0
-5000.0,0.0,914712,moduslink global solutions inc,1.0,,,,20131227,bergamo anthony,122520813026084,,male,51621754.0
-19311.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140106,bergamo anthony,118143114001250,,male,51621754.0
-37317.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20140106,kassan glen m,118143114001252,,male,51621754.0
+51080.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20130104,odonnell joseph m,118143113001682,,male,43841024.0
+20760.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130204,nightingale thomas,118143113006372,"President - Sales, Marketing",male,43970878.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,crawley scott r,118143113017044,"President, Global Operations",male,43990600.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,gray peter l,118143113017047,"EVP, CAO and General Counsel",male,43990600.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,crane steven g,118143113017046,Chief Financial Officer,male,43990600.0
+50000.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130314,boucher j.,118143113017045,President and CEO,male,43990600.0
+,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20130617,lichtenstein warren g,92189513001272,,male,51546052.0
+,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20130617,kassan glen m,92189513001271,,male,51546052.0
+19637.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20130903,crawley scott r,118143113047256,"President, Global Operations",male,51575893.0
+45159.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20131003,gray peter l,118143113052301,"EVP, CAO and General Counsel",male,51594517.0
+99320.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20131003,crane steven g,118143113052300,Chief Financial Officer,male,51594517.0
+,,914712,moduslink global solutions inc,1.0,,,,20131227,bergamo anthony,122520813026084,,male,51621754.0
+37317.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20140106,kassan glen m,118143114001252,,male,51621754.0
 37317.0,60000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20140106,lichtenstein warren g,118143114001254,,male,51621754.0
-52280.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140106,wald jeffrey s,118143114001255,,male,51621754.0
-79791.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140106,fenton jeffrey j,118143114001258,,male,51621754.0
-0.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20140515,crane steven g,118143114019712,Chief Financial Officer,male,51891548.0
-12575.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140710,lengyel philip e.,118143114026535,,male,51931730.0
-12700.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20141021,cormier alan,118143114034612,SVP & General Counsel,male,52111136.0
-246800.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20141021,boucher j.,118143114034611,President and CEO,male,52111136.0
-41533.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,bergamo anthony,118143115000408,,male,52115711.0
-102013.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,fenton jeffrey j,118143115000409,,male,52115711.0
-74502.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,wald jeffrey s,118143115000413,,male,52115711.0
-34797.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,lengyel philip e.,118143115000414,,male,52115711.0
+52280.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140106,wald jeffrey s,118143114001255,,male,51621754.0
+79791.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140106,fenton jeffrey j,118143114001258,,male,51621754.0
+19311.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140106,bergamo anthony,118143114001250,,male,51621754.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20140515,crane steven g,118143114019712,Chief Financial Officer,male,51891548.0
+12575.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20140710,lengyel philip e.,118143114026535,,male,51931730.0
+246800.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20141021,boucher j.,118143114034611,President and CEO,male,52111136.0
+12700.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20141021,cormier alan,118143114034612,SVP & General Counsel,male,52111136.0
+34797.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,lengyel philip e.,118143115000414,,male,52115711.0
+41533.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,bergamo anthony,118143115000408,,male,52115711.0
+102013.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,fenton jeffrey j,118143115000409,,male,52115711.0
+74502.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150106,wald jeffrey s,118143115000413,,male,52115711.0
 59539.0,60000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20150107,lichtenstein warren g,118143115000587,,male,52115711.0
-56257.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20150219,kassan glen m,120919115015986,,male,52220127.0
-22222.0,0.0,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150326,lengyel philip e.,120919115029678,,male,52248465.0
-0.0,0.0,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20150501,boucher j.,120919115038135,President and CEO,male,52190790.0
+56257.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20150219,kassan glen m,120919115015986,,male,52220127.0
+22222.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20150326,lengyel philip e.,120919115029678,,male,52248465.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20150501,boucher j.,120919115038135,President and CEO,male,52190790.0
+10500.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,1.0,20151007,sherk joseph b,120919115074469,Principal Financial Officer,male,52273569.0
+11324.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20151020,cormier alan,120919115076280,SVP & General Counsel,male,52273569.0
+225482.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20151020,boucher j.,120919115076282,President and CEO,male,52273569.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20151222,boucher j.,120919115086596,President and CEO,male,52330459.0
+142829.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20160106,fenton jeffrey j,120919116090093,,male,52330459.0
+100355.0,60000.0,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20160106,lichtenstein warren g,120919116090098,,male,52330459.0
+97073.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20160106,kassan glen m,120919116090099,,male,52330459.0
+115318.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20160106,wald jeffrey s,120919116090105,,male,52330459.0
+75613.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20160106,lengyel philip e.,120919116090107,,male,52330459.0
+82349.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20160111,bergamo anthony,120919116090743,,male,52330459.0
+181207.0,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20160201,boucher j.,120919116094483,President and CEO,male,52682326.0
+146455.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20170104,kassan glen m,92189517000033,,male,55253581.0
+192211.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170104,fenton jeffrey j,92189517000028,,male,55253581.0
+112420.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170104,lengyel philip e.,92189517000029,,male,55253581.0
+149737.0,60000.0,914712,moduslink global solutions inc,1.0,1.0,0.0,1.0,20170104,lichtenstein warren g,92189517000030,Executive Chairman,male,55253581.0
+164700.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170104,wald jeffrey s,92189517000031,,male,55253581.0
+131731.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170104,bergamo anthony,92189517000032,,male,55253581.0
+109382.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170321,lengyel philip e.,92189517000790,,male,55553041.0
+108722.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170711,lengyel philip e.,92189517001900,,male,55554589.0
+95644.0,,914712,moduslink global solutions inc,1.0,0.0,0.0,0.0,20170726,lengyel philip e.,92189517001987,,male,55554589.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20171006,belardi louis j,92189517002382,CFO and Executive VP,male,55555973.0
+,,914712,moduslink global solutions inc,0.0,1.0,0.0,0.0,20171006,henderson james r,92189517002383,President and CEO,male,55555973.0
+,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20171219,fejes william theodore jr,92189517002923,,male,55557326.0
+,,914712,moduslink global solutions inc,1.0,0.0,0.0,1.0,20171219,howard jack l,92189517002922,,male,55557326.0
+,,914712,moduslink global solutions inc,1.0,1.0,0.0,1.0,20171219,lichtenstein warren g,92189517002921,Executive Chairman,male,55557326.0
+94657.0,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180326,lengyel philip e.,92189518001075,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20180328,fejes william theodore jr,92189518001097,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180413,wald jeffrey s,92189518001318,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180413,fenton jeffrey j,92189518001319,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20180416,lichtenstein warren g,92189518001358,Executive Chairman,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20180416,kassan glen m,92189518001354,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180416,lengyel philip e.,92189518001355,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20180416,howard jack l,92189518001356,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20180416,fejes william theodore jr,92189518001357,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180417,lengyel philip e.,92189518001371,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180420,lengyel philip e.,92189518001404,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180427,lengyel philip e.,92189518001487,,male,60205946.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20180711,lengyel philip e.,92189518002091,,male,60739100.0
+232779.0,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20181009,belardi louis j,92189518002725,CFO and Executive VP,male,60742859.0
+408143.0,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20181009,henderson james r,92189518002731,President and CEO,male,60742859.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20190104,lichtenstein warren g,92189519000026,"Exec Chairman, Interim CEO",male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20190104,fejes william theodore jr,92189519000024,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20190104,kassan glen m,92189519000025,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20190104,howard jack l,92189519000023,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20190104,wald jeffrey s,92189519000020,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20190104,lengyel philip e.,92189519000021,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20190104,fenton jeffrey j,92189519000022,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20190124,lengyel philip e.,92189519000148,,male,61386888.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20190128,lengyel philip e.,92189519000163,,male,61386888.0
+,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20191219,whitenack john,92189519003039,"CEO, ModusLink Corporation",male,61810253.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20200106,kassan glen m,92189520000051,,male,61810253.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20200106,molland maria,92189520000053,,female,61810253.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20200106,howard jack l,92189520000050,,male,61810253.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20200106,fejes william theodore jr,92189520000052,,male,61810253.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20200106,lichtenstein warren g,92189520000048,"Exec Chairman, Interim CEO",male,61810253.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20200106,fenton jeffrey j,92189520000047,,male,61810253.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20200106,wald jeffrey s,92189520000049,,male,61810253.0
+,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20200702,ashe john,92189520001916,"CEO,IWCO Direct Holdings, Inc.",male,62383678.0
+,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20200702,khalil fawaz,92189520001917,"CEO, ModusLink Corporation",male,62383678.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20201027,simril renata,92189520002708,,female,62755024.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210122,fenton jeffrey j,92189521000134,,male,62793969.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20210122,howard jack l,92189521000135,,male,62793969.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210122,kassan glen m,92189521000136,,male,62793969.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20210122,lichtenstein warren g,92189521000137,"Exec Chairman, Interim CEO",male,62793969.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210122,molland maria,92189521000138,,female,62793969.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210122,simril renata,92189521000139,,female,62793969.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210122,wald jeffrey s,92189521000140,,male,62793969.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210405,wald jeffrey s,92189521000976,,male,63000314.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210405,simril renata,92189521000975,,female,63000314.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210405,molland maria,92189521000974,,female,63000314.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20210405,howard jack l,92189521000971,,male,63000314.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210405,kassan glen m,92189521000972,,male,63000314.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210405,fenton jeffrey j,92189521000970,,male,63000314.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20210405,lichtenstein warren g,92189521000973,"Exec Chairman, Interim CEO",male,63000314.0
+,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20210706,ashe john,92189521001777,"CEO,IWCO Direct Holdings, Inc.",male,63096394.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210706,fenton jeffrey j,92189521001778,,male,63096394.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20210706,howard jack l,92189521001779,,male,63096394.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210706,kassan glen m,92189521001780,,male,63096394.0
+,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20210706,khalil fawaz,92189521001781,"CEO, ModusLink Corporation",male,63096394.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20210706,lichtenstein warren g,92189521001782,"Exec Chairman, Interim CEO",male,63096394.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210706,simril renata,92189521001784,,female,63096394.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210706,wald jeffrey s,92189521001785,,male,63096394.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20210706,molland maria,92189521001783,,female,63096394.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20210819,lichtenstein warren g,92189521002158,"Exec Chairman, Interim CEO",male,63099496.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20210819,howard jack l,92189521002157,,male,63099496.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20211005,howard jack l,92189521002381,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20211005,wald jeffrey s,92189521002380,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20211005,kassan glen m,92189521002379,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20211005,simril renata,92189521002378,,female,60437654.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20211005,lichtenstein warren g,92189521002377,"Exec Chairman, Interim CEO",male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20211005,molland maria,92189521002376,,female,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20211005,fenton jeffrey j,92189521002375,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220104,fenton jeffrey j,92189522000068,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220104,simril renata,92189522000075,,female,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220104,molland maria,92189522000074,,female,60437654.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20220104,lichtenstein warren g,92189522000073,"Exec Chairman, Interim CEO",male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220104,wald jeffrey s,92189522000072,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220104,kassan glen m,92189522000071,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20220104,howard jack l,92189522000070,,male,60437654.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220405,molland maria,92189522001123,,female,60457720.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20220405,lichtenstein warren g,92189522001122,"Exec Chairman, Interim CEO",male,60457720.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220405,wald jeffrey s,92189522001125,,male,60457720.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220405,simril renata,92189522001124,,female,60457720.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20220405,howard jack l,92189522001121,,male,60457720.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220405,fenton jeffrey j,92189522001119,,male,60457720.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220405,kassan glen m,92189522001120,,male,60457720.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220706,wald jeffrey s,92189522002183,,male,60398784.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220706,simril renata,92189522002182,,female,60398784.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220706,molland maria,92189522002181,,female,60398784.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20220706,lichtenstein warren g,92189522002180,"Exec Chairman, Interim CEO",male,60398784.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220706,kassan glen m,92189522002179,,male,60398784.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20220706,fenton jeffrey j,92189522002177,,male,60398784.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20220706,howard jack l,92189522002178,,male,60398784.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20221004,kassan glen m,92189522002775,,male,6485309.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20221004,lichtenstein warren g,92189522002776,"Exec Chairman, Interim CEO",male,6485309.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20221004,molland maria,92189522002777,,female,6485309.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20221004,simril renata,92189522002778,,female,6485309.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20221004,wald jeffrey s,92189522002779,,male,6485309.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20221004,howard jack l,92189522002774,,male,6485309.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20221004,fenton jeffrey j,92189522002773,,male,6485309.0
+,,914712,"steel connect, inc.",0.0,1.0,0.0,0.0,20221116,khalil fawaz,92189522003063,"CEO, ModusLink Corporation",male,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230104,simril renata,92189523000048,,female,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230104,fenton jeffrey j,92189523000043,,male,60657539.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20230104,lichtenstein warren g,92189523000046,"Exec Chairman, Interim CEO",male,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230104,wald jeffrey s,92189523000049,,male,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230104,molland maria,92189523000047,,female,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230104,kassan glen m,92189523000045,,male,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20230104,howard jack l,92189523000044,,male,60657539.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230404,kassan glen m,119380523000476,,male,60784589.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230404,molland maria,119380523000478,,female,60784589.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20230404,lichtenstein warren g,119380523000477,"Exec Chairman, Interim CEO",male,60784589.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20230404,howard jack l,119380523000475,,male,60784589.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230404,wald jeffrey s,119380523000473,,male,60784589.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230404,fenton jeffrey j,119380523000474,,male,60784589.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230404,simril renata,119380523000472,,female,60784589.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230705,fenton jeffrey j,92189523001651,,male,60942460.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20230705,howard jack l,92189523001652,,male,60942460.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230705,kassan glen m,92189523001653,,male,60942460.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20230705,lichtenstein warren g,92189523001654,"Exec Chairman, Interim CEO",male,60942460.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230705,molland maria,92189523001655,,female,60942460.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230705,simril renata,92189523001656,,female,60942460.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20230705,wald jeffrey s,92189523001657,,male,60942460.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20231003,wald jeffrey s,92189523002299,,male,6250493.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20231003,simril renata,92189523002298,,female,6250493.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20231003,martin joseph richards,92189523002297,,male,6250493.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20231003,lichtenstein warren g,92189523002296,"Exec Chairman, Interim CEO",male,6250493.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20231003,kassan glen m,92189523002295,,male,6250493.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20231003,howard jack l,92189523002294,,male,6250493.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20231003,fenton jeffrey j,92189523002293,,male,6250493.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240103,fenton jeffrey j,92189524000033,,male,6267230.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20240103,lichtenstein warren g,92189524000036,"Exec Chairman, Interim CEO",male,6267230.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240103,martin joseph richards,92189524000037,,male,6267230.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240103,kassan glen m,92189524000035,,male,6267230.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20240103,howard jack l,92189524000034,,male,6267230.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240103,wald jeffrey s,92189524000039,,male,6267230.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240103,simril renata,92189524000038,,female,6267230.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240403,martin joseph richards,92189524000800,,male,6285591.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240403,wald jeffrey s,92189524000802,,male,6285591.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240403,simril renata,92189524000801,,female,6285591.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20240403,lichtenstein warren g,92189524000799,"Exec Chairman, Interim CEO",male,6285591.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20240403,howard jack l,92189524000797,,male,6285591.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240403,kassan glen m,92189524000798,,male,6285591.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240403,fenton jeffrey j,92189524000796,,male,6285591.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240702,fenton jeffrey j,92189524001518,,male,6304750.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20240702,howard jack l,92189524001519,,male,6304750.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240702,kassan glen m,92189524001520,,male,6304750.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20240702,lichtenstein warren g,92189524001521,"Exec Chairman, Interim CEO",male,6304750.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240702,martin joseph richards,92189524001522,,male,6304750.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240702,simril renata,92189524001523,,female,6304750.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20240702,wald jeffrey s,92189524001524,,male,6304750.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20241002,wald jeffrey s,92189524002232,,male,6319513.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20241002,simril renata,92189524002231,,female,6319513.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20241002,martin joseph richards,92189524002230,,male,6319513.0
+,,914712,"steel connect, inc.",1.0,1.0,0.0,1.0,20241002,lichtenstein warren g,92189524002229,"Exec Chairman, Interim CEO",male,6319513.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20241002,kassan glen m,92189524002228,,male,6319513.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,1.0,20241002,howard jack l,92189524002226,,male,6319513.0
+,,914712,"steel connect, inc.",1.0,0.0,0.0,0.0,20241002,fenton jeffrey j,92189524002224,,male,6319513.0

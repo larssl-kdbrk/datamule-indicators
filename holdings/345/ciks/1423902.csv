@@ -1,28 +1,218 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-40000.0,0.0,1423902,"western gas equity partners, lp",0.0,1.0,0.0,0.0,20121210,rea danny j,118143112063324,Senior VP and COO,male,
-239500.0,0.0,1423902,"western gas equity partners, lp",1.0,1.0,0.0,0.0,20121210,sinclair donald r.,118143112063320,President and CEO,male,
-7500.0,0.0,1423902,"western gas equity partners, lp",0.0,1.0,0.0,0.0,20121210,peacock philip h,118143112063319,"VP, Gen. Counsel & Corp. Sec.",male,
-12500.0,0.0,1423902,"western gas equity partners, lp",0.0,1.0,0.0,0.0,20121210,fink benjamin matthew,118143112063318,"SVP, CFO, and Treasurer",male,
-5000.0,0.0,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,meloy charles alvin,118143112063317,,male,
-9000.0,0.0,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,reeves robert k,118143112063316,,male,
-2000.0,0.0,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,tudor david j,118143112063315,,male,
-5000.0,0.0,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,walker r a,118143112063314,,male,
-200000.0,0.0,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,gwin robert g,118143112063322,,male,
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20130204,tudor david j,112760213003925,,male,
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20130204,hix thomas r,112760213003928,,male,
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20130204,stewart craig w.,112760213003930,,male,
-3703.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20140203,hix thomas r,112760214004002,,male,218895515.0
-4074.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20140203,tudor david j,112760214004003,,male,218895515.0
-22206.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20140203,stewart craig w.,112760214004004,,male,218895515.0
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20140527,stewart craig w.,112760214018890,,male,218903498.0
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20140527,hix thomas r,112760214018894,,male,218903498.0
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20140527,tudor david j,112760214018884,,male,218903498.0
-14561.0,0.0,1423902,"western gas equity partners, lp",,1.0,,,20141124,fink benjamin matthew,112760214033326,"SVP,  CFO & Treasurer",male,218903498.0
-243918.0,60500.0,1423902,"western gas equity partners, lp",1.0,1.0,,,20141124,sinclair donald r.,112760214033324,"CEO, President & Director",male,218903498.0
-4574.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150115,tudor david j,112760215001921,,male,218903498.0
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150514,tudor david j,112760215017383,,male,218909977.0
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150514,hix thomas r,112760215017381,,male,218909977.0
-0.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150514,stewart craig w.,112760215017382,,male,218909977.0
-23278.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150527,stewart craig w.,112760215018735,,male,218909977.0
-5454.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150527,tudor david j,112760215018719,,male,218909977.0
-5462.0,0.0,1423902,"western gas equity partners, lp",1.0,,,,20150527,hix thomas r,112760215018714,,male,218909977.0
+,,1423902,"western gas equity partners, lp",0.0,1.0,0.0,0.0,20121210,rea danny j,118143112063324,Senior VP and COO,male,
+,,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,walker r a,118143112063314,,male,
+,,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,tudor david j,118143112063315,,male,
+,,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,reeves robert k,118143112063316,,male,
+,,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,gwin robert g,118143112063322,,male,
+,,1423902,"western gas equity partners, lp",0.0,1.0,0.0,0.0,20121210,fink benjamin matthew,118143112063318,"SVP, CFO, and Treasurer",male,
+,,1423902,"western gas equity partners, lp",0.0,1.0,0.0,0.0,20121210,peacock philip h,118143112063319,"VP, Gen. Counsel & Corp. Sec.",male,
+,,1423902,"western gas equity partners, lp",1.0,1.0,0.0,0.0,20121210,sinclair donald r.,118143112063320,President and CEO,male,
+,,1423902,"western gas equity partners, lp",1.0,0.0,0.0,0.0,20121210,meloy charles alvin,118143112063317,,male,
+,,1423902,"western gas equity partners, lp",1.0,,,,20130204,hix thomas r,112760213003928,,male,
+,,1423902,"western gas equity partners, lp",1.0,,,,20130204,stewart craig w.,112760213003930,,male,
+,,1423902,"western gas equity partners, lp",1.0,,,,20130204,tudor david j,112760213003925,,male,
+,,1423902,"western gas equity partners, lp",1.0,,,,20140203,hix thomas r,112760214004002,,male,218895515.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20140203,tudor david j,112760214004003,,male,218895515.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20140203,stewart craig w.,112760214004004,,male,218895515.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20140527,tudor david j,112760214018884,,male,218903498.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20140527,stewart craig w.,112760214018890,,male,218903498.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20140527,hix thomas r,112760214018894,,male,218903498.0
+,,1423902,"western gas equity partners, lp",,1.0,,,20141124,fink benjamin matthew,112760214033326,"SVP,  CFO & Treasurer",male,218903498.0
+,,1423902,"western gas equity partners, lp",1.0,1.0,,,20141124,sinclair donald r.,112760214033324,"CEO, President & Director",male,218903498.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150115,tudor david j,112760215001921,,male,218903498.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150514,stewart craig w.,112760215017382,,male,218909977.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150514,tudor david j,112760215017383,,male,218909977.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150514,hix thomas r,112760215017381,,male,218909977.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150527,hix thomas r,112760215018714,,male,218909977.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150527,tudor david j,112760215018719,,male,218909977.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20150527,stewart craig w.,112760215018735,,male,218909977.0
+,,1423902,"western gas equity partners, lp",1.0,1.0,,,20151124,sinclair donald r.,112760215032531,"CEO, President & Director",male,218913688.0
+,,1423902,"western gas equity partners, lp",,1.0,,,20151124,fink benjamin matthew,112760215032534,"SVP,  CFO & Treasurer",male,218913688.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20160509,hix thomas r,112760216051561,,male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20160509,stewart craig w.,112760216051563,,male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20160509,tudor david j,112760216051565,,male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20160517,stewart craig w.,112760216052597,,male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20160517,hix thomas r,112760216052599,,male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20160517,tudor david j,112760216052601,,male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,1.0,,,20160601,sinclair donald r.,112760216054218,"CEO, President & Director",male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,1.0,,,20160606,sinclair donald r.,112760216054857,"CEO, President & Director",male,218919380.0
+,,1423902,"western gas equity partners, lp",1.0,1.0,,,20160621,sinclair donald r.,112760216056009,"CEO, President & Director",male,218919380.0
+,,1423902,"western gas equity partners, lp",,1.0,,,20161121,fink benjamin matthew,112760216067921,"SVP,  CFO & Treasurer",male,218922303.0
+,,1423902,"western gas equity partners, lp",1.0,1.0,,,20161121,sinclair donald r.,112760216067917,"CEO, President & Director",male,218922303.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20170509,hix thomas r,112760217017391,,male,218928570.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20170509,stewart craig w.,112760217017400,,male,218928570.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20170509,tudor david j,112760217017404,,male,218928570.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20170601,hix thomas r,112760217020029,,male,218928570.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20170601,stewart craig w.,112760217020035,,male,218928570.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20170601,tudor david j,112760217020041,,male,218928570.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20180509,hix thomas r,112760218016763,,male,218933141.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20180509,stewart craig w.,112760218016772,,male,218933141.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20180509,tudor david j,112760218016776,,male,218933141.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20180604,hix thomas r,112760218019748,,male,218933141.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20180604,stewart craig w.,112760218019752,,male,218933141.0
+,,1423902,"western gas equity partners, lp",1.0,,,,20180604,tudor david j,112760218019762,,male,218933141.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20190304,arnold steven d,89924319005834,,male,218937797.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20190304,fink benjamin matthew,112760219009658,Chairman of the Board,male,218937797.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20190304,carroll milton,89924319005836,,male,218937797.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190304,crane james r,112760219009667,,male,218937797.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190304,gwin robert g,112760219009661,,male,218937797.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190304,tudor david j,112760219009663,,male,218937797.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190509,carroll milton,112760219017964,,male,452990862.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190509,arnold steven d,112760219017966,,male,452990862.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190509,crane james r,112760219017960,,male,452990862.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190509,tudor david j,112760219017956,,male,452990862.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190509,hix thomas r,112760219017953,,male,452990862.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190509,stewart craig w.,112760219017949,,male,452990862.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190812,crane james r,112760219026435,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190812,stewart craig w.,112760219026442,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190812,hix thomas r,112760219026437,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190812,arnold steven d,112760219026423,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190812,carroll milton,112760219026432,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190812,tudor david j,112760219026440,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20190923,tudor david j,112760219028948,,male,453008854.0
+,,1423902,"western midstream partners, lp",1.0,,,,20191122,crane james r,112760219033592,,male,453032050.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200214,green catherine a.,112760220005634,VP & Chief Accounting Officer,female,453032050.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20200214,ure michael,112760220005621,President & CEO,male,453032050.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200214,dial christopher b.,112760220005640,"SVP, GC and Secretary",male,453032050.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200214,bourne robert w.,112760220005654,SVP & Chief Commercial Officer,male,453032050.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200214,collins craig w,112760220005647,SVP & Chief Operating Officer,male,453032050.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200214,pearl michael c,112760220005625,SVP and CFO,male,453032050.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200214,griffie charles g.,112760220005627,"SVP, Ops and Engineering",male,453032050.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200305,crane james r,112760220009648,,male,453032050.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20200310,ure michael,89924320007761,President & CEO,male,453032050.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20200310,crane james r,89924320007760,,male,453032050.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200518,hix thomas r,112760220017045,,male,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200518,pearl michael c,112760220017024,SVP and CFO,male,443971409.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200518,arnold steven d,112760220017042,,male,443971409.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200518,crane james r,112760220017041,,male,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200518,bourne robert w.,112760220017018,SVP & Chief Commercial Officer,male,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200518,green catherine a.,112760220017019,VP & Chief Accounting Officer,female,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200518,dial christopher b.,112760220017020,"SVP, GC and Secretary",male,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200518,griffie charles g.,112760220017021,"SVP, Ops and Engineering",male,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200518,collins craig w,112760220017023,SVP & Chief Operating Officer,male,443971409.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200518,stewart craig w.,112760220017035,,male,443971409.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20200518,ure michael,112760220017025,President & CEO,male,443971409.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200518,brown oscar k,112760220017026,,male,443971409.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200518,tudor david j,112760220017034,,male,443971409.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200817,pearl michael c,112760220023715,SVP and CFO,male,443992499.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20200817,ure michael,112760220023709,President & CEO,male,443992499.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200817,dial christopher b.,112760220023711,"SVP, GC and Secretary",male,443992499.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200817,collins craig w,112760220023717,SVP & Chief Operating Officer,male,443992499.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200817,bourne robert w.,112760220023719,SVP & Chief Commercial Officer,male,443992499.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200817,green catherine a.,112760220023723,VP & Chief Accounting Officer,female,443992499.0
+,,1423902,"western midstream partners, lp",,1.0,,,20200817,griffie charles g.,112760220023713,"SVP, Ops and Engineering",male,443992499.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200924,stewart lisa a,112760220025691,,female,443992499.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200924,schulte david j,112760220025689,,male,443992499.0
+,,1423902,"western midstream partners, lp",1.0,,,,20200924,owen kenneth f.,112760220025694,,male,443992499.0
+,,1423902,"western midstream partners, lp",,1.0,,,20201117,dial christopher b.,112760220029213,"SVP, GC and Secretary",male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20201117,ure michael,112760220029216,President & CEO,male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20201117,green catherine a.,112760220029218,VP & Chief Accounting Officer,female,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20201117,bourne robert w.,112760220029220,SVP & Chief Commercial Officer,male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20201117,griffie charles g.,112760220029215,"SVP, Ops and Engineering",male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20201117,collins craig w,112760220029226,SVP & Chief Operating Officer,male,416196339.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20210218,griffie charles g.,89924321007266,"SVP, Ops and Engineering",male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20210218,schulte david j,89924321007264,,male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20210218,owen kenneth f.,89924321007261,,male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20210218,ure michael,89924321007260,President & CEO,male,416196339.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20210218,dial christopher b.,89924321007253,"SVP, GC and Secretary",male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20210218,stewart lisa a,89924321007250,,female,416196339.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20210218,green catherine a.,89924321007249,VP & Chief Accounting Officer,female,416196339.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20210218,collins craig w,89924321007247,SVP & Chief Operating Officer,male,416196339.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20210218,bourne robert w.,89924321007241,SVP & Chief Commercial Officer,male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20210222,ure michael,112760221007127,President & CEO,male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,,,,20210222,schulte david j,112760221007104,,male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,,,,20210222,brown oscar k,112760221007108,,male,416196339.0
+,,1423902,"western midstream partners, lp",1.0,,,,20210222,stewart lisa a,112760221007098,,female,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210222,collins craig w,112760221007125,SVP & Chief Operating Officer,male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210222,griffie charles g.,112760221007123,"SVP, Ops and Engineering",male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210222,dial christopher b.,112760221007121,"SVP, GC and Secretary",male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210222,bourne robert w.,112760221007119,SVP & Chief Commercial Officer,male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210222,green catherine a.,112760221007115,VP & Chief Accounting Officer,female,416196339.0
+,,1423902,"western midstream partners, lp",1.0,,,,20210222,owen kenneth f.,112760221007111,,male,416196339.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210518,green catherine a.,112760221017138,VP & Chief Accounting Officer,female,413063706.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210518,griffie charles g.,112760221017158,"SVP, Ops and Engineering",male,413063706.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20210518,ure michael,112760221017156,President & CEO,male,413063706.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210518,dial christopher b.,112760221017152,"SVP, GC and Secretary",male,413063706.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210518,collins craig w,112760221017145,SVP & Chief Operating Officer,male,413063706.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210518,bourne robert w.,112760221017143,SVP & Chief Commercial Officer,male,413063706.0
+,,1423902,"western midstream partners, lp",1.0,,,,20210518,brown oscar k,112760221017140,,male,413063706.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20210817,ure michael,112760221023866,President & CEO,male,413076510.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210817,green catherine a.,112760221023853,VP & Chief Accounting Officer,female,413076510.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210817,griffie charles g.,112760221023863,"SVP, Ops and Engineering",male,413076510.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210817,bourne robert w.,112760221023855,SVP & Chief Commercial Officer,male,413076510.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210817,collins craig w,112760221023858,SVP & Chief Operating Officer,male,413076510.0
+,,1423902,"western midstream partners, lp",,1.0,,,20210817,dial christopher b.,112760221023860,"SVP, GC and Secretary",male,413076510.0
+,,1423902,"western midstream partners, lp",,1.0,,,20211116,griffie charles g.,112760221029313,"SVP, Ops and Engineering",male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20211116,green catherine a.,112760221029319,VP & Chief Accounting Officer,female,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20211116,bourne robert w.,112760221029322,SVP & Chief Commercial Officer,male,408390278.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20211116,ure michael,112760221029334,President & CEO,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20211116,dial christopher b.,112760221029330,"SVP, GC and Secretary",male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20211116,collins craig w,112760221029327,SVP & Chief Operating Officer,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220215,green catherine a.,112760222005097,VP & Chief Accounting Officer,female,408390278.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20220215,ure michael,112760222005113,President & CEO,male,408390278.0
+,,1423902,"western midstream partners, lp",1.0,,,,20220215,owen kenneth f.,112760222005104,,male,408390278.0
+,,1423902,"western midstream partners, lp",1.0,,,,20220215,schulte david j,112760222005107,,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220215,dial christopher b.,112760222005093,"SVP, GC and Secretary",male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220215,collins craig w,112760222005089,SVP & Chief Operating Officer,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220215,bourne robert w.,112760222005081,SVP & Chief Commercial Officer,male,408390278.0
+,,1423902,"western midstream partners, lp",1.0,,,,20220215,brown oscar k,112760222005074,,male,408390278.0
+,,1423902,"western midstream partners, lp",1.0,,,,20220215,stewart lisa a,112760222005109,,female,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220216,collins craig w,112760222005378,SVP & Chief Operating Officer,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220216,bourne robert w.,112760222005376,SVP & Chief Commercial Officer,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220216,dial christopher b.,112760222005368,"SVP, GC and Secretary",male,408390278.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20220216,ure michael,112760222005363,President & CEO,male,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220216,green catherine a.,112760222005374,VP & Chief Accounting Officer,female,408390278.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220504,shults kristen s.,112760222013233,SVP & Chief Financial Officer,female,403333810.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220517,dial christopher b.,112760222014780,"SVP, GC and Secretary",male,403333810.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220517,green catherine a.,112760222014784,VP & Chief Accounting Officer,female,403333810.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20220517,ure michael,112760222014782,President & CEO,male,403333810.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220517,collins craig w,112760222014781,SVP & Chief Operating Officer,male,403333810.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220517,bourne robert w.,112760222014779,SVP & Chief Commercial Officer,male,403333810.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220617,bourne robert w.,112760222017816,SVP & Chief Commercial Officer,male,403333810.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220816,green catherine a.,112760222021076,VP & Chief Accounting Officer,female,386450080.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220816,bourne robert w.,112760222021074,SVP & Chief Commercial Officer,male,386450080.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220816,collins craig w,112760222021070,SVP & Chief Operating Officer,male,386450080.0
+,,1423902,"western midstream partners, lp",1.0,1.0,,,20220816,ure michael,112760222021062,President & CEO,male,386450080.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220816,dial christopher b.,112760222021066,"SVP, GC and Secretary",male,386450080.0
+,,1423902,"western midstream partners, lp",,1.0,,,20220829,holderman daniel p.,112760222021722,SVP Co-Chief Operating Officer,male,386450080.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20221116,green catherine a.,142390222000039,SVP & Chief Accounting Officer,female,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20221116,bourne robert w.,142390222000041,SVP & Chief Commercial Officer,male,385069991.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20221116,ure michael,142390222000043,President & CEO,male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20221116,dial christopher b.,142390222000045,"SVP, GC and Secretary",male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230214,shults kristen s.,142390223000007,SVP & Chief Financial Officer,female,385069991.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20230214,brown oscar k,142390223000002,,male,385069991.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20230214,owen kenneth f.,142390223000003,,male,385069991.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20230214,schulte david j,142390223000004,,male,385069991.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20230214,stewart lisa a,142390223000005,,female,385069991.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20230214,ure michael,142390223000006,President & CEO,male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230214,dial christopher b.,142390223000008,"SVP, GC and Secretary",male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230214,bourne robert w.,142390223000009,SVP & Chief Commercial Officer,male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230214,holderman daniel p.,142390223000010,"SVP, South Operations",male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230214,forsyth michael s.,142390223000011,"SVP, North Operations",male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230214,green catherine a.,142390223000012,SVP & Chief Accounting Officer,female,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230215,dial christopher b.,142390223000014,"SVP, GC and Secretary",male,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230215,green catherine a.,142390223000016,SVP & Chief Accounting Officer,female,385069991.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20230215,bourne robert w.,142390223000015,SVP & Chief Commercial Officer,male,385069991.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20230215,ure michael,142390223000013,President & CEO,male,385069991.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20230922,ure michael,142390223000056,President & CEO,male,384614611.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,dial christopher b.,142390224000011,"SVP, GC and Secretary",male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240214,brown oscar k,142390224000002,,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240214,owen kenneth f.,142390224000003,,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240214,schulte david j,142390224000004,,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240214,stewart lisa a,142390224000005,,female,380483668.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20240214,ure michael,142390224000006,President & CEO,male,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,shults kristen s.,142390224000009,SVP & Chief Financial Officer,female,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,nebreda alejandro o,142390224000012,"SVP, Business Services",male,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,holderman daniel p.,142390224000013,"SVP, South Operations",male,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,forsyth michael s.,142390224000014,"SVP, North Operations",male,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,bourne robert w.,142390224000010,SVP & Chief Commercial Officer,male,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240214,green catherine a.,142390224000015,SVP & Chief Accounting Officer,female,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240227,owen kenneth f.,142390224000024,,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240228,brown oscar k,142390224000025,,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240229,stewart lisa a,142390224000027,,female,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240229,schulte david j,142390224000026,,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20240301,ure michael,142390224000028,President & CEO,male,380483668.0
+,,1423902,"western midstream partners, lp",1.0,0.0,0.0,0.0,20240306,stewart lisa a,142390224000029,,female,380483668.0
+,,1423902,"western midstream partners, lp",0.0,1.0,0.0,0.0,20240516,bourne robert w.,142390224000040,SVP & Chief Commercial Officer,male,380490963.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20240520,ure michael,142390224000043,President & CEO,male,380490963.0
+,,1423902,"western midstream partners, lp",1.0,1.0,0.0,0.0,20241030,brown oscar k,142390224000071,President & CEO,male,380492104.0

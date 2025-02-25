@@ -1,78 +1,230 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3305.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130717,gabbard alan bradley,151515613000004,,male,10097272.0
-12036.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,johnson derek,151515613000006,,male,10097272.0
-3718.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130718,mattison graham o,151515613000010,VP Investor Relations,male,10097272.0
-17823.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,swanson richard john,151515613000009,,male,10097272.0
-44303.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,smith jeffrey clark,151515613000008,,male,10097272.0
-38482.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,marcum w phillip,151515613000007,,male,10097272.0
-1545.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,clarke kim b,151515613000005,,female,10097272.0
-86560.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,mckinnies mark h,151515613000016,SVP and CFO,male,10108265.0
-15622.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,martin cameron e.,151515613000015,VP,male,10108265.0
-15893.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,lagarenne jonathan r,151515613000014,Executive Vice President,male,10108265.0
-250333.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,durham michael d,151515613000013,President & CEO,male,10108265.0
-72850.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,bustard c jean,151515613000012,COO,male,10108265.0
-15639.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,amrhein christine b.,151515613000011,General Counsel & VP,female,10108265.0
-29212.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,schlager richard j,151515613000017,VP,male,10108265.0
-19244.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,sjostrom sharon,151515613000018,CTO,female,10108265.0
-4318.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20131003,mattison graham o,151515613000021,VP Investor Relations,male,10116150.0
-83724.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20131204,mckinnies mark h,151515613000036,SVP and CFO,male,10116719.0
-80724.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20131209,mckinnies mark h,151515613000037,SVP and CFO,male,10116719.0
-78724.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20131212,mckinnies mark h,151515613000038,SVP and CFO,male,10116719.0
-78024.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20131227,mckinnies mark h,151515613000039,SVP & CFO,male,10116719.0
+3305.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130717,gabbard alan bradley,151515613000004,,male,10097272.0
+1545.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,clarke kim b,151515613000005,,female,10097272.0
+12036.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,johnson derek,151515613000006,,male,10097272.0
+38482.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,marcum w phillip,151515613000007,,male,10097272.0
+44303.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,smith jeffrey clark,151515613000008,,male,10097272.0
+17823.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20130718,swanson richard john,151515613000009,,male,10097272.0
+3718.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130718,mattison graham o,151515613000010,VP Investor Relations,male,10097272.0
+72850.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,bustard c jean,151515613000012,COO,male,10108265.0
+19244.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,sjostrom sharon,151515613000018,CTO,female,10108265.0
+29212.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,schlager richard j,151515613000017,VP,male,10108265.0
+15639.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,amrhein christine b.,151515613000011,General Counsel & VP,female,10108265.0
+86560.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,mckinnies mark h,151515613000016,SVP and CFO,male,10108265.0
+250333.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,durham michael d,151515613000013,President & CEO,male,10108265.0
+15893.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,lagarenne jonathan r,151515613000014,Executive Vice President,male,10108265.0
+15622.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20130802,martin cameron e.,151515613000015,VP,male,10108265.0
+4318.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20131003,mattison graham o,151515613000021,VP Investor Relations,male,10116150.0
+83724.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20131204,mckinnies mark h,151515613000036,SVP and CFO,male,10116719.0
+80724.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20131209,mckinnies mark h,151515613000037,SVP and CFO,male,10116719.0
+78724.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20131212,mckinnies mark h,151515613000038,SVP and CFO,male,10116719.0
+78024.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20131227,mckinnies mark h,151515613000039,SVP & CFO,male,10116719.0
+72635.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,bustard c jean,151515614000002,COO,male,21397919.0
 6307.0,15699.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,amrhein christine b.,151515614000001,General Counsel & VP,female,21397919.0
-72635.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,bustard c jean,151515614000002,COO,male,21397919.0
-259822.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140107,durham michael d,151515614000003,CEO,male,21397919.0
-14641.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,lagarenne jonathan r,151515614000004,Executive Vice President,male,21397919.0
-5833.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,mattison graham o,151515614000005,VP Investor Relations,male,21397919.0
-77942.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140107,mckinnies mark h,151515614000006,SVP & CFO,male,21397919.0
-20505.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,sjostrom sharon,151515614000007,CTO,female,21397919.0
-256522.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140115,durham michael d,151515614000008,President & CEO,male,21397919.0
-17855.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,swanson richard john,151515614000015,,male,21397919.0
-44335.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,smith jeffrey clark,151515614000014,,male,21397919.0
-38514.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,marcum w phillip,151515614000013,,male,21397919.0
-12068.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,johnson derek,151515614000012,,male,21397919.0
-3337.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,gabbard alan bradley,151515614000011,,male,21397919.0
-1577.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,clarke kim b,151515614000010,,female,21397919.0
-20574.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140218,sjostrom sharon,151515614000034,CTO,female,21397919.0
-256540.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140218,durham michael d,151515614000031,President and CEO,male,21397919.0
-15914.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140218,amrhein christine b.,151515614000030,General Counsel & VP,female,21397919.0
-14735.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140218,lagarenne jonathan r,151515614000032,Executive Vice President,male,21397919.0
-77668.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140218,mckinnies mark h,151515614000033,SVP & CFO,male,21397919.0
-76668.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140306,mckinnies mark h,151515614000035,SVP & CFO,male,21397919.0
-3345.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140430,smith rachel ann,160686614000002,Chief Accounting Officer,female,21397919.0
-27455.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140604,lagarenne jonathan r,151515614000037,Executive Vice President,male,21397919.0
+259822.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140107,durham michael d,151515614000003,CEO,male,21397919.0
+14641.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,lagarenne jonathan r,151515614000004,Executive Vice President,male,21397919.0
+5833.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,mattison graham o,151515614000005,VP Investor Relations,male,21397919.0
+77942.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140107,mckinnies mark h,151515614000006,SVP & CFO,male,21397919.0
+20505.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140107,sjostrom sharon,151515614000007,CTO,female,21397919.0
+256522.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140115,durham michael d,151515614000008,President & CEO,male,21397919.0
+1577.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,clarke kim b,151515614000010,,female,21397919.0
+3337.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,gabbard alan bradley,151515614000011,,male,21397919.0
+17855.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,swanson richard john,151515614000015,,male,21397919.0
+44335.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,smith jeffrey clark,151515614000014,,male,21397919.0
+38514.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,marcum w phillip,151515614000013,,male,21397919.0
+12068.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20140127,johnson derek,151515614000012,,male,21397919.0
+20574.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140218,sjostrom sharon,151515614000034,CTO,female,21397919.0
+77668.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140218,mckinnies mark h,151515614000033,SVP & CFO,male,21397919.0
+256540.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140218,durham michael d,151515614000031,President and CEO,male,21397919.0
+14735.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140218,lagarenne jonathan r,151515614000032,Executive Vice President,male,21397919.0
+15914.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140218,amrhein christine b.,151515614000030,General Counsel & VP,female,21397919.0
+76668.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140306,mckinnies mark h,151515614000035,SVP & CFO,male,21397919.0
+3345.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140430,smith rachel ann,160686614000002,Chief Accounting Officer,female,21397919.0
+27455.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140604,lagarenne jonathan r,151515614000037,Executive Vice President,male,21397919.0
 12637.0,31828.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140805,amrhein christine b.,151515614000039,General Counsel & VP,female,21397919.0
-167389.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140826,bustard c jean,151515614000042,COO,male,21397919.0
-560161.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140826,durham michael d,151515614000041,President and CEO,male,21397919.0
-186200.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140826,mckinnies mark h,151515614000040,SVP & CFO,male,21397919.0
-159782.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,0.0,0.0,1.0,20150105,bustard c jean,124636315000001,,male,21643342.0
-11002.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,mattison graham o,156623915000001,VP Investor Relations,male,21643342.0
-31786.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,amrhein christine b.,153265915000001,General Counsel,female,21643342.0
-11735.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,sampson l heath,161877415000001,Chief Financial Officer,male,21643342.0
-26011.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,lagarenne jonathan r,121772615000003,Executive Vice President,male,21643342.0
-3024.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,smith rachel ann,160686615000001,Chief Accounting Officer,female,21643342.0
-40199.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150109,sjostrom sharon,138415815000002,CTO,female,21643342.0
-2114.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,simonton taylor,120919115014519,,male,21643342.0
-2070.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,wells louis spencer,120919115014522,,male,21643342.0
-90784.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,smith jeffrey clark,120919115014525,,male,21643342.0
-79142.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,marcum w phillip,120919115014517,,male,21643342.0
-5268.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,clarke kim b,120919115014530,,female,21643342.0
-26250.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150218,johnson derek,120919115015118,,male,21643342.0
-8788.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150218,gabbard alan bradley,120919115015116,,male,21643342.0
-32482.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,lagarenne jonathan r,153265915000007,Executive Vice President,male,21643342.0
-26318.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,sampson l heath,153265915000008,Chief Financial Officer,male,21643342.0
-44454.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,sjostrom sharon,153265915000005,Chief Technology Officer,female,21643342.0
-14640.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,mattison graham o,153265915000004,VP Strategic Initiatives & IR,male,21643342.0
-15489.0,31786.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,amrhein christine b.,153265915000003,General Counsel,female,21643342.0
+186200.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140826,mckinnies mark h,151515614000040,SVP & CFO,male,21397919.0
+560161.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20140826,durham michael d,151515614000041,President and CEO,male,21397919.0
+167389.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20140826,bustard c jean,151515614000042,COO,male,21397919.0
+159782.0,,1515156,"advanced emissions solutions, inc.",0.0,0.0,0.0,1.0,20150105,bustard c jean,124636315000001,,male,21643342.0
+26011.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,lagarenne jonathan r,121772615000003,Executive Vice President,male,21643342.0
+11735.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,sampson l heath,161877415000001,Chief Financial Officer,male,21643342.0
+3024.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,smith rachel ann,160686615000001,Chief Accounting Officer,female,21643342.0
+31786.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,amrhein christine b.,153265915000001,General Counsel,female,21643342.0
+11002.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150107,mattison graham o,156623915000001,VP Investor Relations,male,21643342.0
+40199.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150109,sjostrom sharon,138415815000002,CTO,female,21643342.0
+2070.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,wells louis spencer,120919115014522,,male,21643342.0
+90784.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,smith jeffrey clark,120919115014525,,male,21643342.0
+5268.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,clarke kim b,120919115014530,,female,21643342.0
+79142.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,marcum w phillip,120919115014517,,male,21643342.0
+2114.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150217,simonton taylor,120919115014519,,male,21643342.0
+8788.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150218,gabbard alan bradley,120919115015116,,male,21643342.0
+26250.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150218,johnson derek,120919115015118,,male,21643342.0
+44454.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,sjostrom sharon,153265915000005,Chief Technology Officer,female,21643342.0
 541895.0,2750.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20150305,durham michael d,153265915000006,President and CEO,male,21643342.0
-0.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20150609,sampson l heath,151515615000010,President & CEO,male,21699217.0
-39926.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20150616,gabbard alan bradley,122985615000004,Chief Financial Officer,male,21699217.0
-30191.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,johnson derek,153265915000014,,male,21779721.0
-6011.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,wells louis spencer,153265915000015,,male,21779721.0
-83083.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,marcum w phillip,153265915000017,,male,21779721.0
-6055.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,simonton taylor,153265915000018,,male,21779721.0
-9209.0,0.0,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,clarke kim b,153265915000016,,female,21779721.0
-45022.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150707,sjostrom sharon,153265915000023,Chief Product Officer,female,21779721.0
-31203.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150721,lagarenne jonathan r,153265915000026,Executive Vice President,male,21779721.0
+32482.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,lagarenne jonathan r,153265915000007,Executive Vice President,male,21643342.0
+26318.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,sampson l heath,153265915000008,Chief Financial Officer,male,21643342.0
+15489.0,31786.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,amrhein christine b.,153265915000003,General Counsel,female,21643342.0
+14640.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150305,mattison graham o,153265915000004,VP Strategic Initiatives & IR,male,21643342.0
+,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20150609,sampson l heath,151515615000010,President & CEO,male,21699217.0
+39926.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20150616,gabbard alan bradley,122985615000004,Chief Financial Officer,male,21699217.0
+6055.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,simonton taylor,153265915000018,,male,21779721.0
+83083.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,marcum w phillip,153265915000017,,male,21779721.0
+9209.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,clarke kim b,153265915000016,,female,21779721.0
+6011.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,wells louis spencer,153265915000015,,male,21779721.0
+30191.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20150702,johnson derek,153265915000014,,male,21779721.0
+45022.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150707,sjostrom sharon,153265915000023,Chief Product Officer,female,21779721.0
 15357.0,31786.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150721,amrhein christine b.,153265915000027,General Counsel,female,21779721.0
-30994.0,0.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150813,amrhein christine b.,153265915000029,General Counsel,female,21779721.0
+31203.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150721,lagarenne jonathan r,153265915000026,Executive Vice President,male,21779721.0
+30994.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150813,amrhein christine b.,153265915000029,General Counsel,female,21779721.0
+30994.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20150813,amrhein christine b.,153265915000029,General Counsel,female,21779721.0
+28955.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160105,lagarenne jonathan r,121772616000007,Executive Vice President,male,21809164.0
+43474.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160105,sjostrom sharon,138415816000006,Chief Product Officer,female,21809164.0
+14134.0,30994.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160105,amrhein christine b.,153265916000031,General Counsel,female,21809164.0
+13525.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160105,mattison graham o,156623916000005,VP Investor Relations,male,21809164.0
+98318.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20160106,sampson l heath,161877416000006,President & CEO,male,21809164.0
+23818.0,,1515156,"advanced emissions solutions, inc.",0.0,0.0,0.0,1.0,20160119,lagarenne jonathan r,121772616000009,,male,21809164.0
+27162.0,,1515156,"advanced emissions solutions, inc.",0.0,0.0,0.0,1.0,20160303,lagarenne jonathan r,121772616000011,,male,21809164.0
+46705.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160303,sjostrom sharon,138415816000008,Chief Product Officer,female,21809164.0
+16742.0,30994.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160303,amrhein christine b.,153265916000035,General Counsel,female,21809164.0
+15644.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160303,mattison graham o,156623916000007,VP Investor Relations,male,21809164.0
+,,1515156,"advanced emissions solutions, inc.",0.0,0.0,0.0,1.0,20160415,marcum w phillip,153265916000037,,male,22011494.0
+66705.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160512,sjostrom sharon,153265916000041,Chief Product Officer,female,22011494.0
+26742.0,30994.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160512,amrhein christine b.,153265916000039,General Counsel,female,22011494.0
+6212.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20160706,pate r carter,153265916000053,,male,21967969.0
+12223.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20160706,wells louis spencer,153265916000052,,male,21967969.0
+12267.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20160706,simonton taylor,153265916000051,,male,21967969.0
+40544.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20160706,johnson derek,153265916000050,,male,21967969.0
+46138.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20160706,gabbard alan bradley,153265916000049,,male,21967969.0
+26740.0,30994.0,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20160720,amrhein christine b.,153265916000056,General Counsel,female,21967969.0
+25713.0,30994.0,1515156,"advanced emissions solutions, inc.",0.0,0.0,0.0,1.0,20160811,amrhein christine b.,153265916000059,,female,22037821.0
+148318.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20161018,sampson l heath,161877416000008,President & CEO,male,22001585.0
+65748.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170104,sjostrom sharon,138415817000002,Chief Product Officer,female,22024675.0
+138013.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20170104,sampson l heath,161877417000002,President & CEO,male,22024675.0
+21893.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170104,hanson ron,167729617000002,SVP of Operations of ADA-ES,male,22024675.0
+26427.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170117,marken greg,167729117000002,Chief Accounting Officer,male,22024675.0
+140292.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20170302,sampson l heath,161877417000007,President & CEO,male,22024675.0
+66768.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170302,sjostrom sharon,138415817000004,Chief Product Officer,female,22024675.0
+76768.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170327,sjostrom sharon,138415817000006,Chief Product Officer,female,22022683.0
+200292.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20170327,sampson l heath,161877417000009,President & CEO,male,22022683.0
+18190.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170327,sanders theodore james,170064017000004,General Counsel,male,22022683.0
+38927.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170327,marken greg,167729117000004,Chief Accounting Officer,male,22022683.0
+31893.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170327,hanson ron,167729617000004,SVP of Operations of ADA-ES,male,22022683.0
+27168.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170418,hanson ron,167729617000006,SVP of Operations of ADA-ES,male,22072056.0
+34130.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170418,marken greg,167729117000006,Chief Accounting Officer,male,22072056.0
+15481.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170418,sanders theodore james,170064017000006,General Counsel,male,22072056.0
+70372.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170512,sjostrom sharon,138415817000008,Chief Product Officer,female,22072056.0
+1024068.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170614,alta fundamental advisers llc,151515617000070,,male,22072056.0
+32531.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170614,marken greg,167729117000008,Chief Accounting Officer,male,22072056.0
+25569.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20170614,hanson ron,167729617000008,SVP of Operations of ADA-ES,male,22072056.0
+44338.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170627,gabbard alan bradley,122985617000002,,male,22072056.0
+39638.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170630,gabbard alan bradley,122985617000004,,male,21076726.0
+11054.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170705,pate r carter,151515617000092,,male,21076726.0
+47000.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170705,johnson derek,151515617000090,,male,21076726.0
+44480.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170705,gabbard alan bradley,122985617000006,,male,21076726.0
+17065.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170705,wells louis spencer,151515617000087,,male,21076726.0
+17109.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20170705,simonton taylor j.,151515617000089,,male,21076726.0
+196295.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20171018,sampson l heath,151515617000106,President & CEO,male,21093675.0
+34480.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20171208,gabbard alan bradley,151515617000125,,male,21089470.0
+53241.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180104,sjostrom sharon,151515618000006,Chief Product Officer,female,20752055.0
+186417.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20180104,sampson l heath,151515618000008,President & CEO,male,20752055.0
+31581.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180117,marken greg,151515618000011,Chief Accounting Officer,male,20752055.0
+196054.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20180305,sampson l heath,151515618000014,President & CEO,male,20752939.0
+55915.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180305,sjostrom sharon,151515618000015,Chief Product Officer,female,20752939.0
+66506.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180327,sjostrom sharon,151515618000033,Chief Product Officer,female,20752939.0
+251609.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20180327,sampson l heath,151515618000034,President & CEO,male,20752939.0
+35091.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180327,hanson ron,151515618000035,SVP of Operations of ADA-ES,male,20752939.0
+46629.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180327,marken greg,151515618000036,Chief Financial Officer,male,20752939.0
+26580.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180327,sanders theodore james,151515618000037,General Counsel,male,20752939.0
+33863.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20180529,hanson ron,151515618000064,SVP of Operations of ADA-ES,male,20774046.0
+14958.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20180703,pate r carter,151515618000080,,male,20088451.0
+20969.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20180703,wells louis spencer,151515618000083,,male,20088451.0
+21013.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20180703,simonton taylor j.,151515618000082,,male,20088451.0
+270276.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20180816,sampson l heath,151515618000094,President & CEO,male,20112343.0
+264779.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20181018,sampson l heath,151515618000101,President & CEO,male,19921128.0
+257222.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20190104,sampson l heath,151515619000004,President & CEO,male,18576489.0
+35789.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20190326,sanders theodore james,151515619000027,General Counsel,male,18514078.0
+57262.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20190326,marken greg,151515619000029,Chief Financial Officer,male,18514078.0
+312222.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20190326,sampson l heath,151515619000031,President & CEO,male,18514078.0
+24522.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20190703,simonton taylor j.,151515619000067,,male,18554626.0
+18467.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20190703,pate r carter,151515619000066,,male,18554626.0
+3509.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20190703,leen brian,151515619000071,,male,18554626.0
+24478.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20190703,wells louis spencer,151515619000069,,male,18554626.0
+3509.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20190703,eicher carol s,151515619000065,,female,18554626.0
+338042.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20190820,sampson l heath,151515619000082,President & CEO,male,18578019.0
+332545.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20191018,sampson l heath,151515619000094,President & CEO,male,18594498.0
+25496.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200103,simonton taylor j.,151515620000010,,male,18362624.0
+19441.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200103,pate r carter,151515620000008,,male,18362624.0
+4483.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200103,leen brian,151515620000012,,male,18362624.0
+4483.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200103,eicher carol s,151515620000009,,female,18362624.0
+25452.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200103,wells louis spencer,151515620000011,,male,18362624.0
+40827.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20200325,sanders theodore james,151515620000024,General Counsel,male,18341113.0
+22161.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20200325,wong joseph m,151515620000025,Chief Technology Officer,male,18341113.0
+59982.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20200325,marken greg,151515620000026,Chief Financial Officer,male,18341113.0
+325905.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20200325,sampson l heath,151515620000027,President & CEO,male,18341113.0
+34683.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200706,pate r carter,151515620000062,,male,18492139.0
+40694.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200706,wells louis spencer,151515620000065,,male,18492139.0
+19725.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200706,eicher carol s,151515620000066,,female,18492139.0
+19725.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200706,leen brian,151515620000067,,male,18492139.0
+40738.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20200706,simonton taylor j.,151515620000063,,male,18492139.0
+54054.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20210325,sanders theodore james,151515621000017,General Counsel,male,18518846.0
+83709.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20210325,marken greg,151515621000015,Interim CEO,male,18518846.0
+39046.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20210325,wong joseph m,151515621000016,Chief Technology Officer,male,18518846.0
+29649.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20210706,eicher carol s,151515621000059,,female,18834339.0
+50662.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20210706,simonton taylor j.,151515621000058,,male,18834339.0
+50618.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20210706,wells louis spencer,151515621000057,,male,18834339.0
+28382.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20210819,fields morgan,151515621000077,Chief Accounting Officer,male,18853288.0
+28231.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20211123,sanders theodore james,151515621000085,General Counsel,male,18865140.0
+55756.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20220325,wong joseph m,151515622000021,Chief Technology Officer,male,18842066.0
+41844.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20220325,fields morgan,151515622000022,Chief Accounting Officer,male,18842066.0
+104919.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20220325,marken greg,151515622000023,CEO,male,18842066.0
+44808.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20220706,eicher carol s,151515622000049,,female,19075062.0
+65821.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20220706,simonton taylor j.,151515622000051,,male,19075062.0
+65777.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20220706,wells louis spencer,151515622000052,,male,19075062.0
+52742.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230203,campbell-breeden richard,151515623000015,,male,19170173.0
+631866.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230203,blank jeremy,151515623000013,,male,19170173.0
+6526.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230203,mcintyre julian alexander,151515623000014,,male,19170173.0
+12951.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230313,mcintyre julian alexander,151515623000030,,male,19170173.0
+19804.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230313,blank jeremy,151515623000031,,male,19170173.0
+93843.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230313,campbell-breeden richard,151515623000032,,male,19170173.0
+81913.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20230327,wong joseph m,151515623000036,Chief Technology Officer,male,19170173.0
+186411.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20230327,marken greg,151515623000038,CEO,male,19170173.0
+65920.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20230327,fields morgan,151515623000037,Chief Accounting Officer,male,19170173.0
+69450.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230705,eicher carol s,151515623000078,,female,32576013.0
+28028.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230705,campbell-breeden richard,151515623000081,,male,32576013.0
+90419.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230705,wells louis spencer,151515623000077,,male,32576013.0
+24642.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230705,mcintyre julian alexander,151515623000079,,male,32576013.0
+24642.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230705,blank jeremy,151515623000080,,male,32576013.0
+24642.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230706,bergman laurie,151515623000087,,female,32576013.0
+527779.0,,1515156,"advanced emissions solutions, inc.",1.0,1.0,0.0,0.0,20230719,rasmus robert e.,151515623000099,Chief Executive Officer,male,32576013.0
+43270.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230724,blank jeremy,151515623000103,,male,32576013.0
+142542.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230724,campbell-breeden richard,151515623000104,,male,32576013.0
+20563.0,,1515156,"advanced emissions solutions, inc.",1.0,0.0,0.0,0.0,20230724,mcintyre julian alexander,151515623000105,,male,32576013.0
+64599.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20230821,fields morgan,151515623000119,Chief Accounting Officer,male,32748507.0
+102292.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20230920,williamson jeremy,151515623000126,Chief Operating Officer,male,32748507.0
+106913.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20231117,wong joseph m,151515623000138,Chief Technology Officer,male,33180907.0
+161913.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20231120,wong joseph m,151515623000140,Chief Technology Officer,male,33180907.0
+251913.0,,1515156,"advanced emissions solutions, inc.",0.0,1.0,0.0,0.0,20231121,wong joseph m,151515623000144,Chief Technology Officer,male,33180907.0
+91240.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240326,williamson jeremy,151515624000045,Chief Operating Officer,male,33238436.0
+244587.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240326,wong joseph m,151515624000049,Chief Technology Officer,male,33238436.0
+38472.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240326,hansen stacia,151515624000047,Chief Accounting Officer,female,33238436.0
+96225.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240326,williamson jeremy,151515624000043,Chief Operating Officer,male,33238436.0
+324955.0,1898658.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240402,blank jeremy,151515624000065,,male,33474983.0
+49658.0,2223613.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240703,blank jeremy,151515624000124,,male,35996496.0
+37150.0,,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240703,bergman laurie,151515624000120,,female,35996496.0
+102927.0,,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240703,wells louis spencer,151515624000121,,male,35996496.0
+81958.0,,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240703,eicher carol s,151515624000122,,female,35996496.0
+57056.0,142542.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240703,campbell-breeden richard,151515624000123,,male,35996496.0
+37150.0,3044836.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20240703,mcintyre julian alexander,151515624000125,,male,35996496.0
+305788.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240725,wong joseph m,151515624000127,Chief Technology Officer,male,35996496.0
+66279.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240805,smith claiborne benson,151515624000139,"Gen Counsel, Corp Secretary",male,35996496.0
+117892.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240805,williamson jeremy,151515624000138,Chief Operating Officer,male,35996496.0
+57043.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240805,hansen stacia,151515624000137,Chief Accounting Officer,female,35996496.0
+425792.0,527779.0,1515156,"arq, inc.",1.0,1.0,0.0,0.0,20240805,rasmus robert e.,151515624000135,Chief Executive Officer,male,35996496.0
+327455.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240805,wong joseph m,151515624000136,Chief Technology Officer,male,35996496.0
+115863.0,,1515156,"arq, inc.",0.0,1.0,0.0,0.0,20240918,williamson jeremy,151515624000156,Chief Operating Officer,male,36513855.0
+450792.0,527779.0,1515156,"arq, inc.",1.0,1.0,0.0,0.0,20240924,rasmus robert e.,151515624000166,Chief Executive Officer,male,36513855.0
+2774305.0,408466.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20241121,mcintyre julian alexander,151515624000178,,male,42032086.0
+47416.0,2180343.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20241121,blank jeremy,151515624000179,,male,42032086.0
+57764.0,,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20241127,campbell-breeden richard,151515624000183,,male,42032086.0
+1987434.0,372371.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20241127,blank jeremy,151515624000185,,male,42032086.0
+21908.0,2774305.0,1515156,"arq, inc.",1.0,0.0,0.0,0.0,20241127,mcintyre julian alexander,151515624000184,,male,42032086.0

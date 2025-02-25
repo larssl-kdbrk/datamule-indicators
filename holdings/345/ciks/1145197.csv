@@ -1,237 +1,725 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-1249.0,0.0,1145197,insulet corp,,1.0,,,20100105,diehl r anthony,112760210000546,Secretary and General Counsel,male,
-320.0,0.0,1145197,insulet corp,,1.0,,,20100106,depietro ruthann,112760210000951,Vice President of Quality,female,
-63633.0,0.0,1145197,insulet corp,,1.0,,,20100127,campbell robert,112760210002332,Vice President for Clinical,male,
-1249.0,0.0,1145197,insulet corp,,1.0,,,20100201,diehl r anthony,112760210002895,Secretary and General Counsel,male,
-320.0,0.0,1145197,insulet corp,,1.0,,,20100212,depietro ruthann,112760210004595,Vice President of Quality,female,
-33240.0,0.0,1145197,insulet corp,,1.0,,,20100303,boess carsten,112760210007199,"Vice President, International",male,
-8320.0,0.0,1145197,insulet corp,,1.0,,,20100303,depietro ruthann,112760210007206,Vice President of Quality,female,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100303,diehl r anthony,112760210007204,Secretary and General Counsel,male,
-44545.0,0.0,1145197,insulet corp,1.0,1.0,,,20100303,desisto duane,112760210007168,President and CEO,male,
-195857.0,0.0,1145197,insulet corp,,1.0,,,20100303,malave luis,112760210007179,Chief Operating Officer,male,
-20000.0,0.0,1145197,insulet corp,,1.0,,,20100303,devlin peter,112760210007187,Chief Commercial Officer,male,
-24000.0,0.0,1145197,insulet corp,,1.0,,,20100303,roberts brian k,112760210007195,Chief Financial Officer,male,
-82778.0,0.0,1145197,insulet corp,1.0,0.0,0.0,0.0,20100311,jaffe ross a md,110465910013794,,male,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100405,diehl r anthony,112760210010508,Secretary and General Counsel,male,
-8320.0,0.0,1145197,insulet corp,,1.0,,,20100405,depietro ruthann,112760210010512,Vice President of Quality,female,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100504,diehl r anthony,112760210013030,Secretary and General Counsel,male,
-8320.0,0.0,1145197,insulet corp,,1.0,,,20100512,depietro ruthann,112760210013874,Vice President of Quality,female,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100602,diehl r anthony,112760210016049,Secretary and General Counsel,male,
-4000.0,0.0,1145197,insulet corp,1.0,,,,20100602,crawford sally,112760210016055,,female,
-12000.0,0.0,1145197,insulet corp,1.0,,,,20100602,liamos charles t,112760210016060,,male,
-24000.0,0.0,1145197,insulet corp,1.0,,,,20100602,sobieski steven,112760210016069,,male,
-9500.0,0.0,1145197,insulet corp,1.0,,,,20100602,sommer regina o,112760210016072,,female,
+1249.0,,1145197,insulet corp,,1.0,,,20100105,diehl r anthony,112760210000546,Secretary and General Counsel,male,
+320.0,,1145197,insulet corp,,1.0,,,20100106,depietro ruthann,112760210000951,Vice President of Quality,female,
+63633.0,,1145197,insulet corp,,1.0,,,20100127,campbell robert,112760210002332,Vice President for Clinical,male,
+1249.0,,1145197,insulet corp,,1.0,,,20100201,diehl r anthony,112760210002895,Secretary and General Counsel,male,
+320.0,,1145197,insulet corp,,1.0,,,20100212,depietro ruthann,112760210004595,Vice President of Quality,female,
+44545.0,,1145197,insulet corp,1.0,1.0,,,20100303,desisto duane,112760210007168,President and CEO,male,
+195857.0,,1145197,insulet corp,,1.0,,,20100303,malave luis,112760210007179,Chief Operating Officer,male,
+20000.0,,1145197,insulet corp,,1.0,,,20100303,devlin peter,112760210007187,Chief Commercial Officer,male,
+24000.0,,1145197,insulet corp,,1.0,,,20100303,roberts brian k,112760210007195,Chief Financial Officer,male,
+33240.0,,1145197,insulet corp,,1.0,,,20100303,boess carsten,112760210007199,"Vice President, International",male,
+17249.0,,1145197,insulet corp,,1.0,,,20100303,diehl r anthony,112760210007204,Secretary and General Counsel,male,
+8320.0,,1145197,insulet corp,,1.0,,,20100303,depietro ruthann,112760210007206,Vice President of Quality,female,
+82778.0,,1145197,insulet corp,1.0,0.0,0.0,0.0,20100311,jaffe ross a md,110465910013794,,male,
+8320.0,,1145197,insulet corp,,1.0,,,20100405,depietro ruthann,112760210010512,Vice President of Quality,female,
+17249.0,,1145197,insulet corp,,1.0,,,20100405,diehl r anthony,112760210010508,Secretary and General Counsel,male,
+17249.0,,1145197,insulet corp,,1.0,,,20100504,diehl r anthony,112760210013030,Secretary and General Counsel,male,
+8320.0,,1145197,insulet corp,,1.0,,,20100512,depietro ruthann,112760210013874,Vice President of Quality,female,
+17249.0,,1145197,insulet corp,,1.0,,,20100602,diehl r anthony,112760210016049,Secretary and General Counsel,male,
+4000.0,,1145197,insulet corp,1.0,,,,20100602,crawford sally,112760210016055,,female,
+12000.0,,1145197,insulet corp,1.0,,,,20100602,liamos charles t,112760210016060,,male,
+24000.0,,1145197,insulet corp,1.0,,,,20100602,sobieski steven,112760210016069,,male,
+9500.0,,1145197,insulet corp,1.0,,,,20100602,sommer regina o,112760210016072,,female,
 4000.0,1970943.0,1145197,insulet corp,1.0,,,,20100602,jaffe ross a md,112760210016076,,male,
-9000.0,0.0,1145197,insulet corp,1.0,,,,20100602,zakrzewski joseph s,112760210016079,,male,
-8320.0,0.0,1145197,insulet corp,,1.0,,,20100603,depietro ruthann,112760210016333,Vice President of Quality,female,
-8371.0,0.0,1145197,insulet corp,,1.0,,,20100706,depietro ruthann,112760210018826,Vice President of Quality,female,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100706,diehl r anthony,112760210018832,Secretary and General Counsel,male,
-8371.0,0.0,1145197,insulet corp,,1.0,,,20100803,depietro ruthann,112760210020487,Vice President of Quality,female,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100803,diehl r anthony,112760210020492,Secretary and General Counsel,male,
-17249.0,0.0,1145197,insulet corp,,1.0,,,20100902,diehl r anthony,112760210022402,Secretary and General Counsel,male,
-10000.0,0.0,1145197,insulet corp,,1.0,,,20101007,boess carsten,112760210025180,"Vice President, International",male,
-8371.0,0.0,1145197,insulet corp,,1.0,,,20101220,depietro ruthann,112760210031255,Vice President of Quality,female,
-8420.0,0.0,1145197,insulet corp,,1.0,,,20110105,depietro ruthann,112760211001031,Vice President of Quality,female,45440839.0
-112000.0,0.0,1145197,insulet corp,1.0,1.0,,,20110111,liamos charles t,112760211001484,Chief Operating Officer,male,45440839.0
-10000.0,0.0,1145197,insulet corp,,1.0,,,20110120,boess carsten,112760211001960,"Vice President, International",male,45440839.0
-8420.0,0.0,1145197,insulet corp,,1.0,,,20110203,depietro ruthann,112760211003786,Vice President of Quality,female,45440839.0
-10000.0,0.0,1145197,insulet corp,,1.0,,,20110204,boess carsten,112760211003912,"Vice President, International",male,45440839.0
-10000.0,0.0,1145197,insulet corp,,1.0,,,20110209,boess carsten,112760211004652,"Vice President, International",male,45440839.0
-46026.0,0.0,1145197,insulet corp,1.0,1.0,,,20110215,desisto duane,112760211005682,President and CEO,male,45440839.0
-46026.0,0.0,1145197,insulet corp,1.0,1.0,,,20110218,desisto duane,112760211006419,President and CEO,male,45440839.0
-15573.0,0.0,1145197,insulet corp,,1.0,,,20110303,depietro ruthann,112760211008799,Vice President of Quality,female,45440839.0
-18941.0,0.0,1145197,insulet corp,,1.0,,,20110303,boess carsten,112760211008805,"Vice President, International",male,45440839.0
-80459.0,0.0,1145197,insulet corp,1.0,1.0,,,20110303,desisto duane,112760211008816,President and CEO,male,45440839.0
-33555.0,0.0,1145197,insulet corp,,1.0,,,20110303,diehl r anthony,112760211008801,Secretary and General Counsel,male,45440839.0
-37883.0,0.0,1145197,insulet corp,,1.0,,,20110303,devlin peter,112760211008807,Chief Commercial Officer,male,45440839.0
-60459.0,0.0,1145197,insulet corp,,1.0,,,20110303,roberts brian k,112760211008811,Chief Financial Officer,male,45440839.0
-18941.0,0.0,1145197,insulet corp,,1.0,,,20110325,boess carsten,112760211011222,"Vice President, International",male,45440839.0
-18941.0,0.0,1145197,insulet corp,,1.0,,,20110331,boess carsten,112760211011487,"Vice President, International",male,45440839.0
-15573.0,0.0,1145197,insulet corp,,1.0,,,20110401,depietro ruthann,112760211011704,Vice President of Quality,female,45440839.0
-80459.0,0.0,1145197,insulet corp,1.0,1.0,,,20110401,desisto duane,112760211011722,President and CEO,male,45440839.0
-37883.0,0.0,1145197,insulet corp,,1.0,,,20110420,devlin peter,112760211013354,Chief Commercial Officer,male,45440839.0
-18941.0,0.0,1145197,insulet corp,,1.0,,,20110420,boess carsten,112760211013352,"Vice President, International",male,45440839.0
-15573.0,0.0,1145197,insulet corp,,1.0,,,20110420,depietro ruthann,112760211013356,Vice President of Quality,female,45440839.0
-18941.0,0.0,1145197,insulet corp,,1.0,,,20110427,boess carsten,112760211013840,"Vice President, International",male,45440839.0
-15573.0,0.0,1145197,insulet corp,,1.0,,,20110503,depietro ruthann,112760211014720,Vice President of Quality,female,45440839.0
+9000.0,,1145197,insulet corp,1.0,,,,20100602,zakrzewski joseph s,112760210016079,,male,
+8320.0,,1145197,insulet corp,,1.0,,,20100603,depietro ruthann,112760210016333,Vice President of Quality,female,
+8371.0,,1145197,insulet corp,,1.0,,,20100706,depietro ruthann,112760210018826,Vice President of Quality,female,
+17249.0,,1145197,insulet corp,,1.0,,,20100706,diehl r anthony,112760210018832,Secretary and General Counsel,male,
+17249.0,,1145197,insulet corp,,1.0,,,20100803,diehl r anthony,112760210020492,Secretary and General Counsel,male,
+8371.0,,1145197,insulet corp,,1.0,,,20100803,depietro ruthann,112760210020487,Vice President of Quality,female,
+17249.0,,1145197,insulet corp,,1.0,,,20100902,diehl r anthony,112760210022402,Secretary and General Counsel,male,
+10000.0,,1145197,insulet corp,,1.0,,,20101007,boess carsten,112760210025180,"Vice President, International",male,
+8371.0,,1145197,insulet corp,,1.0,,,20101220,depietro ruthann,112760210031255,Vice President of Quality,female,
+8420.0,,1145197,insulet corp,,1.0,,,20110105,depietro ruthann,112760211001031,Vice President of Quality,female,45440839.0
+112000.0,,1145197,insulet corp,1.0,1.0,,,20110111,liamos charles t,112760211001484,Chief Operating Officer,male,45440839.0
+10000.0,,1145197,insulet corp,,1.0,,,20110120,boess carsten,112760211001960,"Vice President, International",male,45440839.0
+8420.0,,1145197,insulet corp,,1.0,,,20110203,depietro ruthann,112760211003786,Vice President of Quality,female,45440839.0
+10000.0,,1145197,insulet corp,,1.0,,,20110204,boess carsten,112760211003912,"Vice President, International",male,45440839.0
+10000.0,,1145197,insulet corp,,1.0,,,20110209,boess carsten,112760211004652,"Vice President, International",male,45440839.0
+46026.0,,1145197,insulet corp,1.0,1.0,,,20110215,desisto duane,112760211005682,President and CEO,male,45440839.0
+46026.0,,1145197,insulet corp,1.0,1.0,,,20110218,desisto duane,112760211006419,President and CEO,male,45440839.0
+18941.0,,1145197,insulet corp,,1.0,,,20110303,boess carsten,112760211008805,"Vice President, International",male,45440839.0
+80459.0,,1145197,insulet corp,1.0,1.0,,,20110303,desisto duane,112760211008816,President and CEO,male,45440839.0
+60459.0,,1145197,insulet corp,,1.0,,,20110303,roberts brian k,112760211008811,Chief Financial Officer,male,45440839.0
+33555.0,,1145197,insulet corp,,1.0,,,20110303,diehl r anthony,112760211008801,Secretary and General Counsel,male,45440839.0
+15573.0,,1145197,insulet corp,,1.0,,,20110303,depietro ruthann,112760211008799,Vice President of Quality,female,45440839.0
+37883.0,,1145197,insulet corp,,1.0,,,20110303,devlin peter,112760211008807,Chief Commercial Officer,male,45440839.0
+18941.0,,1145197,insulet corp,,1.0,,,20110325,boess carsten,112760211011222,"Vice President, International",male,45440839.0
+18941.0,,1145197,insulet corp,,1.0,,,20110331,boess carsten,112760211011487,"Vice President, International",male,45440839.0
+15573.0,,1145197,insulet corp,,1.0,,,20110401,depietro ruthann,112760211011704,Vice President of Quality,female,45440839.0
+80459.0,,1145197,insulet corp,1.0,1.0,,,20110401,desisto duane,112760211011722,President and CEO,male,45440839.0
+18941.0,,1145197,insulet corp,,1.0,,,20110420,boess carsten,112760211013352,"Vice President, International",male,45440839.0
+37883.0,,1145197,insulet corp,,1.0,,,20110420,devlin peter,112760211013354,Chief Commercial Officer,male,45440839.0
+15573.0,,1145197,insulet corp,,1.0,,,20110420,depietro ruthann,112760211013356,Vice President of Quality,female,45440839.0
+18941.0,,1145197,insulet corp,,1.0,,,20110427,boess carsten,112760211013840,"Vice President, International",male,45440839.0
+15573.0,,1145197,insulet corp,,1.0,,,20110503,depietro ruthann,112760211014720,Vice President of Quality,female,45440839.0
 8000.0,1970943.0,1145197,insulet corp,1.0,,,,20110513,jaffe ross a md,112760211016296,,male,45440839.0
-28000.0,0.0,1145197,insulet corp,1.0,,,,20110513,sobieski steven,112760211016280,,male,45440839.0
-13000.0,0.0,1145197,insulet corp,1.0,,,,20110513,zakrzewski joseph s,112760211016290,,male,45440839.0
-13500.0,0.0,1145197,insulet corp,1.0,,,,20110513,sommer regina o,112760211016285,,female,45440839.0
-8000.0,0.0,1145197,insulet corp,1.0,,,,20110513,crawford sally,112760211016272,,female,45440839.0
-15573.0,0.0,1145197,insulet corp,,1.0,,,20110603,depietro ruthann,112760211018639,Vice President of Quality,female,45440839.0
-80991.0,0.0,1145197,insulet corp,1.0,1.0,,,20110705,desisto duane,112760211020651,President and CEO,male,47254163.0
-15608.0,0.0,1145197,insulet corp,,1.0,,,20110705,depietro ruthann,112760211020668,Vice President of Quality,female,47254163.0
-15608.0,0.0,1145197,insulet corp,,1.0,,,20110803,depietro ruthann,112760211022696,Vice President of Quality,female,47289602.0
-15608.0,0.0,1145197,insulet corp,,1.0,,,20110902,depietro ruthann,112760211024734,Vice President of Quality,female,47289602.0
-37883.0,0.0,1145197,insulet corp,,1.0,,,20110921,devlin peter,112760211025741,Chief Commercial Officer,male,47289602.0
-15608.0,0.0,1145197,insulet corp,,1.0,,,20111005,depietro ruthann,112760211026990,Vice President of Quality,female,47386448.0
-15608.0,0.0,1145197,insulet corp,,1.0,,,20111101,depietro ruthann,112760211028229,Vice President of Quality,female,47386448.0
-0.0,0.0,1145197,insulet corp,1.0,,,,20111101,levangie daniel j,112760211028235,,male,47386448.0
-80991.0,0.0,1145197,insulet corp,1.0,1.0,,,20111104,desisto duane,112760211028668,President and CEO,male,47393824.0
-15608.0,0.0,1145197,insulet corp,,1.0,,,20111202,depietro ruthann,112760211031102,Vice President of Quality,female,47393824.0
-80991.0,0.0,1145197,insulet corp,1.0,1.0,,,20111202,desisto duane,112760211031110,President and CEO,male,47393824.0
-58077.0,0.0,1145197,insulet corp,,1.0,,,20120104,roberts brian k,112760212000706,Chief Financial Officer,male,47504131.0
-100083.0,0.0,1145197,insulet corp,1.0,1.0,,,20120104,liamos charles t,112760212000715,Chief Operating Officer,male,47504131.0
-15648.0,0.0,1145197,insulet corp,,1.0,,,20120104,depietro ruthann,112760212000689,Vice President of Quality,female,47504131.0
-81631.0,0.0,1145197,insulet corp,1.0,1.0,,,20120104,desisto duane,112760212000698,President and CEO,male,47504131.0
-15648.0,0.0,1145197,insulet corp,,1.0,,,20120124,depietro ruthann,112760212002330,Vice President of Quality,female,47504131.0
-15648.0,0.0,1145197,insulet corp,,1.0,,,20120203,depietro ruthann,112760212004010,Vice President of Quality,female,47504131.0
-81631.0,0.0,1145197,insulet corp,1.0,1.0,,,20120203,desisto duane,112760212004014,President and CEO,male,47504131.0
-18520.0,0.0,1145197,insulet corp,1.0,0.0,0.0,0.0,20120221,jaffe ross a md,110465912011315,,male,47504131.0
-8000.0,0.0,1145197,insulet corp,1.0,,,,20120221,zakrzewski joseph s,112760212007200,,male,47504131.0
-55461.0,0.0,1145197,insulet corp,1.0,0.0,0.0,0.0,20120222,jaffe ross a md,110465912011784,,male,47504131.0
-29955.0,0.0,1145197,insulet corp,,1.0,,,20120302,diehl r anthony,112760212009289,Secretary and General Counsel,male,47504131.0
-70497.0,0.0,1145197,insulet corp,1.0,1.0,,,20120302,desisto duane,112760212009291,President and CEO,male,47504131.0
-52995.0,0.0,1145197,insulet corp,,1.0,,,20120302,roberts brian k,112760212009285,Chief Financial Officer,male,47504131.0
-32315.0,0.0,1145197,insulet corp,,1.0,,,20120302,devlin peter,112760212009287,Chief Commercial Officer,male,47504131.0
-12135.0,0.0,1145197,insulet corp,,1.0,,,20120302,depietro ruthann,112760212009294,Vice President of Quality,female,47504131.0
-12135.0,0.0,1145197,insulet corp,,1.0,,,20120316,depietro ruthann,112760212010958,Vice President of Quality,female,47504131.0
-132083.0,0.0,1145197,insulet corp,1.0,1.0,,,20120403,liamos charles t,112760212013031,Chief Operating Officer,male,47712076.0
-20135.0,0.0,1145197,insulet corp,,1.0,,,20120403,depietro ruthann,112760212013027,Vice President of Quality,female,47712076.0
-49955.0,0.0,1145197,insulet corp,,1.0,,,20120403,diehl r anthony,112760212013023,Secretary and General Counsel,male,47712076.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20120403,roberts brian k,112760212013013,Chief Financial Officer,male,47712076.0
-130497.0,0.0,1145197,insulet corp,1.0,1.0,,,20120403,desisto duane,112760212013016,President and CEO,male,47712076.0
-54315.0,0.0,1145197,insulet corp,,1.0,,,20120403,devlin peter,112760212013019,Chief Commercial Officer,male,47712076.0
-140497.0,0.0,1145197,insulet corp,1.0,1.0,,,20120502,desisto duane,112760212015574,President and CEO,male,47712076.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20120502,roberts brian k,112760212015577,Chief Financial Officer,male,47712076.0
-49955.0,0.0,1145197,insulet corp,,1.0,,,20120524,diehl r anthony,112760212018081,Secretary and General Counsel,male,47773642.0
-12000.0,0.0,1145197,insulet corp,1.0,,,,20120605,zakrzewski joseph s,112760212019339,,male,47773642.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20120605,roberts brian k,112760212019325,Chief Financial Officer,male,47773642.0
-32000.0,0.0,1145197,insulet corp,1.0,,,,20120605,sobieski steven,112760212019349,,male,47773642.0
-140497.0,0.0,1145197,insulet corp,1.0,1.0,,,20120605,desisto duane,112760212019335,President and CEO,male,47773642.0
-4000.0,0.0,1145197,insulet corp,1.0,,,,20120605,levangie daniel j,112760212019355,,male,47773642.0
-12000.0,0.0,1145197,insulet corp,1.0,,,,20120605,crawford sally,112760212019358,,female,47773642.0
-17500.0,0.0,1145197,insulet corp,1.0,,,,20120605,sommer regina o,112760212019343,,female,47773642.0
-18315.0,0.0,1145197,insulet corp,,1.0,,,20120613,depietro ruthann,112760212020028,Vice President of Quality,female,47773642.0
-12000.0,0.0,1145197,insulet corp,1.0,,,,20120613,sobieski steven,112760212020024,,male,47773642.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20120703,roberts brian k,112760212021583,Chief Financial Officer,male,47915851.0
-141077.0,0.0,1145197,insulet corp,1.0,1.0,,,20120703,desisto duane,112760212021590,President and CEO,male,47915851.0
-18351.0,0.0,1145197,insulet corp,,1.0,,,20120705,depietro ruthann,112760212021805,Vice President of Quality,female,47915851.0
-0.0,0.0,1145197,insulet corp,1.0,,,,20120801,lortz w mark,112760212023410,,male,47915851.0
-18351.0,0.0,1145197,insulet corp,,1.0,,,20120803,depietro ruthann,112760212023761,Vice President of Quality,female,47990312.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20120803,roberts brian k,112760212023763,Chief Financial Officer,male,47990312.0
-141077.0,0.0,1145197,insulet corp,1.0,1.0,,,20120803,desisto duane,112760212023767,President and CEO,male,47990312.0
-18351.0,0.0,1145197,insulet corp,,1.0,,,20120813,depietro ruthann,112760212024314,Vice President of Quality,female,47990312.0
-141077.0,0.0,1145197,insulet corp,1.0,1.0,,,20120906,desisto duane,112760212025899,President and CEO,male,47990312.0
-18351.0,0.0,1145197,insulet corp,,1.0,,,20120906,depietro ruthann,112760212025894,Vice President of Quality,female,47990312.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20120906,roberts brian k,112760212025896,Chief Financial Officer,male,47990312.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20121002,roberts brian k,112760212027972,Chief Financial Officer,male,48114876.0
-141077.0,0.0,1145197,insulet corp,1.0,1.0,,,20121002,desisto duane,112760212027968,President and CEO,male,48114876.0
-0.0,0.0,1145197,insulet corp,1.0,,,,20121101,fallon john a.,112760212029389,,male,48114876.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20121102,roberts brian k,112760212029624,Chief Financial Officer,male,48164869.0
-77995.0,0.0,1145197,insulet corp,,1.0,,,20121205,roberts brian k,112760212032972,Chief Financial Officer,male,48164869.0
-49955.0,0.0,1145197,insulet corp,,1.0,,,20121219,diehl r anthony,112760212034610,Secretary and General Counsel,male,48164869.0
-120883.0,0.0,1145197,insulet corp,1.0,1.0,,,20130103,liamos charles t,112760213000806,Chief Operating Officer,male,48359063.0
-76429.0,0.0,1145197,insulet corp,,1.0,,,20130103,roberts brian k,112760213000813,Chief Financial Officer,male,48359063.0
-65427.0,0.0,1145197,insulet corp,,1.0,,,20130305,devlin peter,112760213009353,Chief Commercial Officer,male,48359063.0
-190292.0,0.0,1145197,insulet corp,1.0,1.0,,,20130305,desisto duane,112760213009363,President and CEO,male,48359063.0
-58812.0,0.0,1145197,insulet corp,,1.0,,,20130305,diehl r anthony,112760213009373,Secretary and General Counsel,male,48359063.0
-101257.0,0.0,1145197,insulet corp,,1.0,,,20130305,roberts brian k,112760213009389,Chief Financial Officer,male,48359063.0
-150883.0,0.0,1145197,insulet corp,1.0,1.0,,,20130305,liamos charles t,112760213009394,Chief Operating Officer,male,48359063.0
-99216.0,0.0,1145197,insulet corp,,1.0,,,20130403,roberts brian k,112760213013339,Chief Financial Officer,male,53301450.0
-147951.0,0.0,1145197,insulet corp,1.0,1.0,,,20130403,liamos charles t,112760213013337,Chief Operating Officer,male,53301450.0
-57179.0,0.0,1145197,insulet corp,,1.0,,,20130403,diehl r anthony,112760213013334,Secretary and General Counsel,male,53301450.0
-63081.0,0.0,1145197,insulet corp,,1.0,,,20130403,devlin peter,112760213013328,Chief Commercial Officer,male,53301450.0
-182023.0,0.0,1145197,insulet corp,1.0,1.0,,,20130403,desisto duane,112760213013324,President and CEO,male,53301450.0
-182023.0,0.0,1145197,insulet corp,1.0,1.0,,,20130503,desisto duane,112760213015596,President and CEO,male,53434429.0
-16000.0,0.0,1145197,insulet corp,1.0,,,,20130605,zakrzewski joseph s,112760213019635,,male,53434429.0
-21500.0,0.0,1145197,insulet corp,1.0,,,,20130605,sommer regina o,112760213019638,,female,53434429.0
-16000.0,0.0,1145197,insulet corp,1.0,,,,20130605,sobieski steven,112760213019644,,male,53434429.0
-4000.0,0.0,1145197,insulet corp,1.0,,,,20130605,lortz w mark,112760213019646,,male,53434429.0
-8000.0,0.0,1145197,insulet corp,1.0,,,,20130605,levangie daniel j,112760213019649,,male,53434429.0
-4000.0,0.0,1145197,insulet corp,1.0,,,,20130605,fallon john a.,112760213019652,,male,53434429.0
-16000.0,0.0,1145197,insulet corp,1.0,,,,20130605,crawford sally,112760213019656,,female,53434429.0
-182023.0,0.0,1145197,insulet corp,1.0,1.0,,,20130605,desisto duane,112760213019659,President and CEO,male,53434429.0
-51371.0,0.0,1145197,insulet corp,,1.0,,,20130611,diehl r anthony,112760213020075,Secretary and General Counsel,male,53434429.0
-16000.0,0.0,1145197,insulet corp,1.0,,,,20130628,crawford sally,112760213021360,,female,53434429.0
-182433.0,0.0,1145197,insulet corp,1.0,1.0,,,20130703,desisto duane,112760213022382,President and CEO,male,54329612.0
-63081.0,0.0,1145197,insulet corp,,1.0,,,20130703,devlin peter,112760213022380,Chief Commercial Officer,male,54329612.0
-182433.0,0.0,1145197,insulet corp,1.0,1.0,,,20130802,desisto duane,112760213024267,President and CEO,male,54418963.0
-16500.0,0.0,1145197,insulet corp,1.0,,,,20130816,sommer regina o,112760213025423,,female,54418963.0
-7000.0,0.0,1145197,insulet corp,1.0,,,,20130830,crawford sally,112760213026314,,female,54418963.0
-182433.0,0.0,1145197,insulet corp,1.0,1.0,,,20130905,desisto duane,112760213026708,President and CEO,male,54418963.0
-182433.0,0.0,1145197,insulet corp,1.0,1.0,,,20131002,desisto duane,112760213028588,President and CEO,male,54521310.0
-99216.0,0.0,1145197,insulet corp,,1.0,,,20131204,roberts brian k,112760213033693,Chief Financial Officer,male,54539340.0
-183933.0,0.0,1145197,insulet corp,1.0,1.0,,,20131204,desisto duane,112760213033698,President and CEO,male,54539340.0
-118194.0,0.0,1145197,insulet corp,1.0,1.0,,,20131204,liamos charles t,112760213033700,Chief Operating Officer,male,54539340.0
-77316.0,0.0,1145197,insulet corp,1.0,1.0,,,20140103,liamos charles t,112760214000831,Chief Operating Officer,male,54870424.0
-184293.0,0.0,1145197,insulet corp,1.0,1.0,,,20140103,desisto duane,112760214000835,President and CEO,male,54870424.0
-97444.0,0.0,1145197,insulet corp,,1.0,,,20140103,roberts brian k,112760214000841,Chief Financial Officer,male,54870424.0
-10000.0,0.0,1145197,insulet corp,1.0,,,,20140117,crawford sally,112760214002258,,female,54870424.0
-35000.0,0.0,1145197,insulet corp,,1.0,,,20140205,ryan patrick,112760214004596,Chief Operating Officer,male,54870424.0
-77316.0,0.0,1145197,insulet corp,1.0,,,,20140205,liamos charles t,112760214004594,,male,54870424.0
-184293.0,0.0,1145197,insulet corp,1.0,1.0,,,20140205,desisto duane,112760214004592,President and CEO,male,54870424.0
-63081.0,0.0,1145197,insulet corp,,1.0,,,20140205,devlin peter,112760214004590,Chief Commercial Officer,male,54870424.0
-67024.0,0.0,1145197,insulet corp,,1.0,,,20140305,diehl r anthony,112760214010258,Secretary and General Counsel,male,54870424.0
-100834.0,0.0,1145197,insulet corp,1.0,,,,20140305,liamos charles t,112760214010261,,male,54870424.0
-265453.0,0.0,1145197,insulet corp,1.0,1.0,,,20140305,desisto duane,112760214010265,President and CEO,male,54870424.0
-82267.0,0.0,1145197,insulet corp,,1.0,,,20140305,devlin peter,112760214010268,Chief Commercial Officer,male,54870424.0
-123004.0,0.0,1145197,insulet corp,,1.0,,,20140305,roberts brian k,112760214010272,Chief Financial Officer,male,54870424.0
-27275.0,0.0,1145197,insulet corp,,1.0,,,20140305,wielinski tracey haas,112760214010278,"VP, Global Regulatory, CA, QA",female,54870424.0
-58246.0,0.0,1145197,insulet corp,,1.0,,,20140307,diehl r anthony,112760214010768,Secretary and General Counsel,male,54870424.0
-24000.0,0.0,1145197,insulet corp,,1.0,,,20140307,wielinski tracey haas,112760214010742,"VP, Global Regulatory, CA, QA",female,54870424.0
-79668.0,0.0,1145197,insulet corp,,1.0,,,20140403,devlin peter,112760214014037,Chief Commercial Officer,male,55261626.0
-53246.0,0.0,1145197,insulet corp,,1.0,,,20140403,diehl r anthony,112760214014039,Secretary and General Counsel,male,55261626.0
-96733.0,0.0,1145197,insulet corp,1.0,,,,20140403,liamos charles t,112760214014031,,male,55261626.0
-257184.0,0.0,1145197,insulet corp,1.0,1.0,,,20140403,desisto duane,112760214014034,President and CEO,male,55261626.0
-120050.0,0.0,1145197,insulet corp,,1.0,,,20140403,roberts brian k,112760214014042,Chief Financial Officer,male,55261626.0
-79668.0,0.0,1145197,insulet corp,,1.0,,,20140410,devlin peter,112760214014420,Chief Commercial Officer,male,55261626.0
-65746.0,0.0,1145197,insulet corp,,1.0,,,20140509,diehl r anthony,112760214017000,Secretary and General Counsel,male,55414556.0
-257184.0,0.0,1145197,insulet corp,1.0,1.0,,,20140604,desisto duane,112760214019946,President and CEO,male,55414556.0
-67354.0,0.0,1145197,insulet corp,,1.0,,,20140610,devlin peter,112760214020445,Chief Commercial Officer,male,55414556.0
-47875.0,0.0,1145197,insulet corp,,1.0,,,20140613,diehl r anthony,112760214020818,Secretary and General Counsel,male,55414556.0
-14000.0,0.0,1145197,insulet corp,1.0,,,,20140613,crawford sally,112760214020820,,female,55414556.0
-8000.0,0.0,1145197,insulet corp,1.0,,,,20140613,fallon john a.,112760214020824,,male,55414556.0
-12000.0,0.0,1145197,insulet corp,1.0,,,,20140613,levangie daniel j,112760214020827,,male,55414556.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20140613,liamos charles t,112760214020831,,male,55414556.0
-20000.0,0.0,1145197,insulet corp,1.0,,,,20140613,sobieski steven,112760214020834,,male,55414556.0
-20500.0,0.0,1145197,insulet corp,1.0,,,,20140613,sommer regina o,112760214020836,,female,55414556.0
-20000.0,0.0,1145197,insulet corp,1.0,,,,20140613,zakrzewski joseph s,112760214020838,,male,55414556.0
-12000.0,0.0,1145197,insulet corp,1.0,,,,20140702,sobieski steven,112760214022573,,male,55495352.0
-47875.0,0.0,1145197,insulet corp,,1.0,,,20140702,diehl r anthony,112760214022581,Secretary and General Counsel,male,55495352.0
-257184.0,0.0,1145197,insulet corp,1.0,1.0,,,20140702,desisto duane,112760214022596,President and CEO,male,55495352.0
-257184.0,0.0,1145197,insulet corp,1.0,1.0,,,20140805,desisto duane,112760214024832,President and CEO,male,55881647.0
-4581.0,0.0,1145197,insulet corp,1.0,,,,20140904,scannell timothy j,112760214027208,,male,55881647.0
-257184.0,0.0,1145197,insulet corp,1.0,1.0,,,20140904,desisto duane,112760214027210,President and CEO,male,55881647.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20140912,liamos charles t,112760214027690,,male,55881647.0
-47875.0,0.0,1145197,insulet corp,,1.0,,,20141003,diehl r anthony,112760214029368,Secretary and General Counsel,male,56040361.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20141003,liamos charles t,112760214029370,,male,56040361.0
-0.0,0.0,1145197,insulet corp,1.0,1.0,,,20141003,sullivan patrick j,112760214029372,President & CEO,male,56040361.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20141104,liamos charles t,112760214031121,,male,56081464.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20141203,liamos charles t,112760214034121,,male,56081464.0
-29918.0,0.0,1145197,insulet corp,,1.0,,,20141203,dorval allison,112760214034134,Chief Financial Officer,female,56081464.0
-18182.0,0.0,1145197,insulet corp,,1.0,,,20141203,thomas bradley a,112760214034141,EVP Human Resources,male,56081464.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20150106,liamos charles t,112760215001234,,male,56299022.0
-32017.0,0.0,1145197,insulet corp,,1.0,,,20150205,ryan patrick,112760215004549,Chief Operating Officer,male,56299022.0
-56965.0,0.0,1145197,insulet corp,,1.0,,,20150211,petrovic shacey,112760215005545,CCO,male,56299022.0
-0.0,0.0,1145197,insulet corp,,1.0,,,20150211,levangie daniel j,112760215005543,"President, Drug Delivery",male,56299022.0
-100733.0,0.0,1145197,insulet corp,1.0,,,,20150213,liamos charles t,112760215006013,,male,56299022.0
-45452.0,0.0,1145197,insulet corp,,1.0,,,20150303,diehl r anthony,112760215009713,Secretary and General Counsel,male,56299022.0
-93782.0,0.0,1145197,insulet corp,1.0,,,,20150303,liamos charles t,112760215009735,,male,56299022.0
-28827.0,0.0,1145197,insulet corp,,1.0,,,20150303,dorval allison,112760215009740,Chief Financial Officer,female,56299022.0
-30486.0,0.0,1145197,insulet corp,,1.0,,,20150304,thomas bradley a,112760215010181,EVP Human Resources,male,56299022.0
-44321.0,0.0,1145197,insulet corp,,1.0,,,20150304,ryan patrick,112760215010185,Chief Operating Officer,male,56299022.0
-43650.0,0.0,1145197,insulet corp,1.0,1.0,,,20150304,sullivan patrick j,112760215010187,President & CEO,male,56299022.0
-54837.0,0.0,1145197,insulet corp,,1.0,,,20150304,diehl r anthony,112760215010190,Secretary and General Counsel,male,56299022.0
-38229.0,0.0,1145197,insulet corp,,1.0,,,20150304,dorval allison,112760215010192,Chief Financial Officer,female,56299022.0
-48337.0,0.0,1145197,insulet corp,,1.0,,,20150306,diehl r anthony,112760215010467,Secretary and General Counsel,male,56299022.0
-53650.0,0.0,1145197,insulet corp,1.0,1.0,,,20150311,sullivan patrick j,112760215011076,President & CEO,male,56299022.0
-43337.0,0.0,1145197,insulet corp,,1.0,,,20150403,diehl r anthony,112760215013949,Secretary and General Counsel,male,56704347.0
-87575.0,0.0,1145197,insulet corp,1.0,,,,20150403,liamos charles t,112760215013945,,male,56704347.0
-37415.0,0.0,1145197,insulet corp,,1.0,,,20150403,dorval allison,112760215013943,Chief Financial Officer,female,56704347.0
-10663.0,0.0,1145197,insulet corp,,1.0,,,20150504,levangie daniel j,112760215016140,"President, Drug Delivery",male,56750931.0
-43028.0,0.0,1145197,insulet corp,,1.0,,,20150504,levitz michael l,112760215016144,CFO,male,56750931.0
-31486.0,0.0,1145197,insulet corp,,1.0,,,20150506,thomas bradley a,112760215016501,EVP Human Resources,male,56750931.0
-47990.0,0.0,1145197,insulet corp,,1.0,,,20150506,ryan patrick,112760215016503,Chief Operating Officer,male,56750931.0
-40854.0,0.0,1145197,insulet corp,,1.0,,,20150513,diehl r anthony,112760215017122,Secretary and General Counsel,male,56750931.0
-18039.0,0.0,1145197,insulet corp,1.0,,,,20150518,crawford sally,112760215017686,,female,56750931.0
-12039.0,0.0,1145197,insulet corp,1.0,,,,20150518,fallon john a.,112760215017689,,male,56750931.0
-12120.0,0.0,1145197,insulet corp,1.0,,,,20150518,scannell timothy j,112760215017692,,male,56750931.0
-16039.0,0.0,1145197,insulet corp,1.0,,,,20150518,sobieski steven,112760215017694,,male,56750931.0
-24539.0,0.0,1145197,insulet corp,1.0,,,,20150518,sommer regina o,112760215017695,,female,56750931.0
-24039.0,0.0,1145197,insulet corp,1.0,,,,20150518,zakrzewski joseph s,112760215017696,,male,56750931.0
-73650.0,0.0,1145197,insulet corp,1.0,1.0,,,20150528,sullivan patrick j,112760215018862,President & CEO,male,56750931.0
-83650.0,0.0,1145197,insulet corp,1.0,1.0,,,20150608,sullivan patrick j,112760215019990,President & CEO,male,56750931.0
-5608.0,0.0,1145197,insulet corp,1.0,,,,20150729,hopfield jessica,112760215023645,,female,56876012.0
-32331.0,0.0,1145197,insulet corp,,1.0,,,20150824,thomas bradley a,112760215025692,EVP Human Resources,male,56895050.0
+13500.0,,1145197,insulet corp,1.0,,,,20110513,sommer regina o,112760211016285,,female,45440839.0
+13000.0,,1145197,insulet corp,1.0,,,,20110513,zakrzewski joseph s,112760211016290,,male,45440839.0
+8000.0,,1145197,insulet corp,1.0,,,,20110513,crawford sally,112760211016272,,female,45440839.0
+28000.0,,1145197,insulet corp,1.0,,,,20110513,sobieski steven,112760211016280,,male,45440839.0
+15573.0,,1145197,insulet corp,,1.0,,,20110603,depietro ruthann,112760211018639,Vice President of Quality,female,45440839.0
+80991.0,,1145197,insulet corp,1.0,1.0,,,20110705,desisto duane,112760211020651,President and CEO,male,47254163.0
+15608.0,,1145197,insulet corp,,1.0,,,20110705,depietro ruthann,112760211020668,Vice President of Quality,female,47254163.0
+15608.0,,1145197,insulet corp,,1.0,,,20110803,depietro ruthann,112760211022696,Vice President of Quality,female,47289602.0
+15608.0,,1145197,insulet corp,,1.0,,,20110902,depietro ruthann,112760211024734,Vice President of Quality,female,47289602.0
+37883.0,,1145197,insulet corp,,1.0,,,20110921,devlin peter,112760211025741,Chief Commercial Officer,male,47289602.0
+15608.0,,1145197,insulet corp,,1.0,,,20111005,depietro ruthann,112760211026990,Vice President of Quality,female,47386448.0
+15608.0,,1145197,insulet corp,,1.0,,,20111101,depietro ruthann,112760211028229,Vice President of Quality,female,47386448.0
+,,1145197,insulet corp,1.0,,,,20111101,levangie daniel j,112760211028235,,male,47386448.0
+80991.0,,1145197,insulet corp,1.0,1.0,,,20111104,desisto duane,112760211028668,President and CEO,male,47393824.0
+80991.0,,1145197,insulet corp,1.0,1.0,,,20111202,desisto duane,112760211031110,President and CEO,male,47393824.0
+15608.0,,1145197,insulet corp,,1.0,,,20111202,depietro ruthann,112760211031102,Vice President of Quality,female,47393824.0
+15648.0,,1145197,insulet corp,,1.0,,,20120104,depietro ruthann,112760212000689,Vice President of Quality,female,47504131.0
+81631.0,,1145197,insulet corp,1.0,1.0,,,20120104,desisto duane,112760212000698,President and CEO,male,47504131.0
+58077.0,,1145197,insulet corp,,1.0,,,20120104,roberts brian k,112760212000706,Chief Financial Officer,male,47504131.0
+100083.0,,1145197,insulet corp,1.0,1.0,,,20120104,liamos charles t,112760212000715,Chief Operating Officer,male,47504131.0
+15648.0,,1145197,insulet corp,,1.0,,,20120124,depietro ruthann,112760212002330,Vice President of Quality,female,47504131.0
+15648.0,,1145197,insulet corp,,1.0,,,20120203,depietro ruthann,112760212004010,Vice President of Quality,female,47504131.0
+81631.0,,1145197,insulet corp,1.0,1.0,,,20120203,desisto duane,112760212004014,President and CEO,male,47504131.0
+18520.0,,1145197,insulet corp,1.0,0.0,0.0,0.0,20120221,jaffe ross a md,110465912011315,,male,47504131.0
+8000.0,,1145197,insulet corp,1.0,,,,20120221,zakrzewski joseph s,112760212007200,,male,47504131.0
+55461.0,,1145197,insulet corp,1.0,0.0,0.0,0.0,20120222,jaffe ross a md,110465912011784,,male,47504131.0
+29955.0,,1145197,insulet corp,,1.0,,,20120302,diehl r anthony,112760212009289,Secretary and General Counsel,male,47504131.0
+70497.0,,1145197,insulet corp,1.0,1.0,,,20120302,desisto duane,112760212009291,President and CEO,male,47504131.0
+12135.0,,1145197,insulet corp,,1.0,,,20120302,depietro ruthann,112760212009294,Vice President of Quality,female,47504131.0
+32315.0,,1145197,insulet corp,,1.0,,,20120302,devlin peter,112760212009287,Chief Commercial Officer,male,47504131.0
+52995.0,,1145197,insulet corp,,1.0,,,20120302,roberts brian k,112760212009285,Chief Financial Officer,male,47504131.0
+12135.0,,1145197,insulet corp,,1.0,,,20120316,depietro ruthann,112760212010958,Vice President of Quality,female,47504131.0
+132083.0,,1145197,insulet corp,1.0,1.0,,,20120403,liamos charles t,112760212013031,Chief Operating Officer,male,47712076.0
+20135.0,,1145197,insulet corp,,1.0,,,20120403,depietro ruthann,112760212013027,Vice President of Quality,female,47712076.0
+130497.0,,1145197,insulet corp,1.0,1.0,,,20120403,desisto duane,112760212013016,President and CEO,male,47712076.0
+54315.0,,1145197,insulet corp,,1.0,,,20120403,devlin peter,112760212013019,Chief Commercial Officer,male,47712076.0
+49955.0,,1145197,insulet corp,,1.0,,,20120403,diehl r anthony,112760212013023,Secretary and General Counsel,male,47712076.0
+77995.0,,1145197,insulet corp,,1.0,,,20120403,roberts brian k,112760212013013,Chief Financial Officer,male,47712076.0
+140497.0,,1145197,insulet corp,1.0,1.0,,,20120502,desisto duane,112760212015574,President and CEO,male,47712076.0
+77995.0,,1145197,insulet corp,,1.0,,,20120502,roberts brian k,112760212015577,Chief Financial Officer,male,47712076.0
+49955.0,,1145197,insulet corp,,1.0,,,20120524,diehl r anthony,112760212018081,Secretary and General Counsel,male,47773642.0
+12000.0,,1145197,insulet corp,1.0,,,,20120605,crawford sally,112760212019358,,female,47773642.0
+4000.0,,1145197,insulet corp,1.0,,,,20120605,levangie daniel j,112760212019355,,male,47773642.0
+32000.0,,1145197,insulet corp,1.0,,,,20120605,sobieski steven,112760212019349,,male,47773642.0
+12000.0,,1145197,insulet corp,1.0,,,,20120605,zakrzewski joseph s,112760212019339,,male,47773642.0
+140497.0,,1145197,insulet corp,1.0,1.0,,,20120605,desisto duane,112760212019335,President and CEO,male,47773642.0
+17500.0,,1145197,insulet corp,1.0,,,,20120605,sommer regina o,112760212019343,,female,47773642.0
+77995.0,,1145197,insulet corp,,1.0,,,20120605,roberts brian k,112760212019325,Chief Financial Officer,male,47773642.0
+18315.0,,1145197,insulet corp,,1.0,,,20120613,depietro ruthann,112760212020028,Vice President of Quality,female,47773642.0
+12000.0,,1145197,insulet corp,1.0,,,,20120613,sobieski steven,112760212020024,,male,47773642.0
+141077.0,,1145197,insulet corp,1.0,1.0,,,20120703,desisto duane,112760212021590,President and CEO,male,47915851.0
+77995.0,,1145197,insulet corp,,1.0,,,20120703,roberts brian k,112760212021583,Chief Financial Officer,male,47915851.0
+18351.0,,1145197,insulet corp,,1.0,,,20120705,depietro ruthann,112760212021805,Vice President of Quality,female,47915851.0
+,,1145197,insulet corp,1.0,,,,20120801,lortz w mark,112760212023410,,male,47915851.0
+77995.0,,1145197,insulet corp,,1.0,,,20120803,roberts brian k,112760212023763,Chief Financial Officer,male,47990312.0
+141077.0,,1145197,insulet corp,1.0,1.0,,,20120803,desisto duane,112760212023767,President and CEO,male,47990312.0
+18351.0,,1145197,insulet corp,,1.0,,,20120803,depietro ruthann,112760212023761,Vice President of Quality,female,47990312.0
+18351.0,,1145197,insulet corp,,1.0,,,20120813,depietro ruthann,112760212024314,Vice President of Quality,female,47990312.0
+18351.0,,1145197,insulet corp,,1.0,,,20120906,depietro ruthann,112760212025894,Vice President of Quality,female,47990312.0
+77995.0,,1145197,insulet corp,,1.0,,,20120906,roberts brian k,112760212025896,Chief Financial Officer,male,47990312.0
+141077.0,,1145197,insulet corp,1.0,1.0,,,20120906,desisto duane,112760212025899,President and CEO,male,47990312.0
+141077.0,,1145197,insulet corp,1.0,1.0,,,20121002,desisto duane,112760212027968,President and CEO,male,48114876.0
+77995.0,,1145197,insulet corp,,1.0,,,20121002,roberts brian k,112760212027972,Chief Financial Officer,male,48114876.0
+,,1145197,insulet corp,1.0,,,,20121101,fallon john a.,112760212029389,,male,48114876.0
+77995.0,,1145197,insulet corp,,1.0,,,20121102,roberts brian k,112760212029624,Chief Financial Officer,male,48164869.0
+77995.0,,1145197,insulet corp,,1.0,,,20121205,roberts brian k,112760212032972,Chief Financial Officer,male,48164869.0
+49955.0,,1145197,insulet corp,,1.0,,,20121219,diehl r anthony,112760212034610,Secretary and General Counsel,male,48164869.0
+120883.0,,1145197,insulet corp,1.0,1.0,,,20130103,liamos charles t,112760213000806,Chief Operating Officer,male,48359063.0
+76429.0,,1145197,insulet corp,,1.0,,,20130103,roberts brian k,112760213000813,Chief Financial Officer,male,48359063.0
+190292.0,,1145197,insulet corp,1.0,1.0,,,20130305,desisto duane,112760213009363,President and CEO,male,48359063.0
+150883.0,,1145197,insulet corp,1.0,1.0,,,20130305,liamos charles t,112760213009394,Chief Operating Officer,male,48359063.0
+65427.0,,1145197,insulet corp,,1.0,,,20130305,devlin peter,112760213009353,Chief Commercial Officer,male,48359063.0
+58812.0,,1145197,insulet corp,,1.0,,,20130305,diehl r anthony,112760213009373,Secretary and General Counsel,male,48359063.0
+101257.0,,1145197,insulet corp,,1.0,,,20130305,roberts brian k,112760213009389,Chief Financial Officer,male,48359063.0
+182023.0,,1145197,insulet corp,1.0,1.0,,,20130403,desisto duane,112760213013324,President and CEO,male,53301450.0
+63081.0,,1145197,insulet corp,,1.0,,,20130403,devlin peter,112760213013328,Chief Commercial Officer,male,53301450.0
+57179.0,,1145197,insulet corp,,1.0,,,20130403,diehl r anthony,112760213013334,Secretary and General Counsel,male,53301450.0
+147951.0,,1145197,insulet corp,1.0,1.0,,,20130403,liamos charles t,112760213013337,Chief Operating Officer,male,53301450.0
+99216.0,,1145197,insulet corp,,1.0,,,20130403,roberts brian k,112760213013339,Chief Financial Officer,male,53301450.0
+182023.0,,1145197,insulet corp,1.0,1.0,,,20130503,desisto duane,112760213015596,President and CEO,male,53434429.0
+182023.0,,1145197,insulet corp,1.0,1.0,,,20130605,desisto duane,112760213019659,President and CEO,male,53434429.0
+16000.0,,1145197,insulet corp,1.0,,,,20130605,crawford sally,112760213019656,,female,53434429.0
+4000.0,,1145197,insulet corp,1.0,,,,20130605,fallon john a.,112760213019652,,male,53434429.0
+8000.0,,1145197,insulet corp,1.0,,,,20130605,levangie daniel j,112760213019649,,male,53434429.0
+21500.0,,1145197,insulet corp,1.0,,,,20130605,sommer regina o,112760213019638,,female,53434429.0
+16000.0,,1145197,insulet corp,1.0,,,,20130605,zakrzewski joseph s,112760213019635,,male,53434429.0
+4000.0,,1145197,insulet corp,1.0,,,,20130605,lortz w mark,112760213019646,,male,53434429.0
+16000.0,,1145197,insulet corp,1.0,,,,20130605,sobieski steven,112760213019644,,male,53434429.0
+51371.0,,1145197,insulet corp,,1.0,,,20130611,diehl r anthony,112760213020075,Secretary and General Counsel,male,53434429.0
+16000.0,,1145197,insulet corp,1.0,,,,20130628,crawford sally,112760213021360,,female,53434429.0
+63081.0,,1145197,insulet corp,,1.0,,,20130703,devlin peter,112760213022380,Chief Commercial Officer,male,54329612.0
+182433.0,,1145197,insulet corp,1.0,1.0,,,20130703,desisto duane,112760213022382,President and CEO,male,54329612.0
+182433.0,,1145197,insulet corp,1.0,1.0,,,20130802,desisto duane,112760213024267,President and CEO,male,54418963.0
+16500.0,,1145197,insulet corp,1.0,,,,20130816,sommer regina o,112760213025423,,female,54418963.0
+7000.0,,1145197,insulet corp,1.0,,,,20130830,crawford sally,112760213026314,,female,54418963.0
+182433.0,,1145197,insulet corp,1.0,1.0,,,20130905,desisto duane,112760213026708,President and CEO,male,54418963.0
+182433.0,,1145197,insulet corp,1.0,1.0,,,20131002,desisto duane,112760213028588,President and CEO,male,54521310.0
+99216.0,,1145197,insulet corp,,1.0,,,20131204,roberts brian k,112760213033693,Chief Financial Officer,male,54539340.0
+183933.0,,1145197,insulet corp,1.0,1.0,,,20131204,desisto duane,112760213033698,President and CEO,male,54539340.0
+118194.0,,1145197,insulet corp,1.0,1.0,,,20131204,liamos charles t,112760213033700,Chief Operating Officer,male,54539340.0
+77316.0,,1145197,insulet corp,1.0,1.0,,,20140103,liamos charles t,112760214000831,Chief Operating Officer,male,54870424.0
+184293.0,,1145197,insulet corp,1.0,1.0,,,20140103,desisto duane,112760214000835,President and CEO,male,54870424.0
+97444.0,,1145197,insulet corp,,1.0,,,20140103,roberts brian k,112760214000841,Chief Financial Officer,male,54870424.0
+10000.0,,1145197,insulet corp,1.0,,,,20140117,crawford sally,112760214002258,,female,54870424.0
+63081.0,,1145197,insulet corp,,1.0,,,20140205,devlin peter,112760214004590,Chief Commercial Officer,male,54870424.0
+184293.0,,1145197,insulet corp,1.0,1.0,,,20140205,desisto duane,112760214004592,President and CEO,male,54870424.0
+77316.0,,1145197,insulet corp,1.0,,,,20140205,liamos charles t,112760214004594,,male,54870424.0
+35000.0,,1145197,insulet corp,,1.0,,,20140205,ryan patrick,112760214004596,Chief Operating Officer,male,54870424.0
+27275.0,,1145197,insulet corp,,1.0,,,20140305,wielinski tracey haas,112760214010278,"VP, Global Regulatory, CA, QA",female,54870424.0
+123004.0,,1145197,insulet corp,,1.0,,,20140305,roberts brian k,112760214010272,Chief Financial Officer,male,54870424.0
+82267.0,,1145197,insulet corp,,1.0,,,20140305,devlin peter,112760214010268,Chief Commercial Officer,male,54870424.0
+67024.0,,1145197,insulet corp,,1.0,,,20140305,diehl r anthony,112760214010258,Secretary and General Counsel,male,54870424.0
+265453.0,,1145197,insulet corp,1.0,1.0,,,20140305,desisto duane,112760214010265,President and CEO,male,54870424.0
+100834.0,,1145197,insulet corp,1.0,,,,20140305,liamos charles t,112760214010261,,male,54870424.0
+24000.0,,1145197,insulet corp,,1.0,,,20140307,wielinski tracey haas,112760214010742,"VP, Global Regulatory, CA, QA",female,54870424.0
+58246.0,,1145197,insulet corp,,1.0,,,20140307,diehl r anthony,112760214010768,Secretary and General Counsel,male,54870424.0
+96733.0,,1145197,insulet corp,1.0,,,,20140403,liamos charles t,112760214014031,,male,55261626.0
+257184.0,,1145197,insulet corp,1.0,1.0,,,20140403,desisto duane,112760214014034,President and CEO,male,55261626.0
+79668.0,,1145197,insulet corp,,1.0,,,20140403,devlin peter,112760214014037,Chief Commercial Officer,male,55261626.0
+53246.0,,1145197,insulet corp,,1.0,,,20140403,diehl r anthony,112760214014039,Secretary and General Counsel,male,55261626.0
+120050.0,,1145197,insulet corp,,1.0,,,20140403,roberts brian k,112760214014042,Chief Financial Officer,male,55261626.0
+79668.0,,1145197,insulet corp,,1.0,,,20140410,devlin peter,112760214014420,Chief Commercial Officer,male,55261626.0
+65746.0,,1145197,insulet corp,,1.0,,,20140509,diehl r anthony,112760214017000,Secretary and General Counsel,male,55414556.0
+257184.0,,1145197,insulet corp,1.0,1.0,,,20140604,desisto duane,112760214019946,President and CEO,male,55414556.0
+67354.0,,1145197,insulet corp,,1.0,,,20140610,devlin peter,112760214020445,Chief Commercial Officer,male,55414556.0
+8000.0,,1145197,insulet corp,1.0,,,,20140613,fallon john a.,112760214020824,,male,55414556.0
+47875.0,,1145197,insulet corp,,1.0,,,20140613,diehl r anthony,112760214020818,Secretary and General Counsel,male,55414556.0
+20000.0,,1145197,insulet corp,1.0,,,,20140613,zakrzewski joseph s,112760214020838,,male,55414556.0
+20500.0,,1145197,insulet corp,1.0,,,,20140613,sommer regina o,112760214020836,,female,55414556.0
+14000.0,,1145197,insulet corp,1.0,,,,20140613,crawford sally,112760214020820,,female,55414556.0
+100733.0,,1145197,insulet corp,1.0,,,,20140613,liamos charles t,112760214020831,,male,55414556.0
+12000.0,,1145197,insulet corp,1.0,,,,20140613,levangie daniel j,112760214020827,,male,55414556.0
+20000.0,,1145197,insulet corp,1.0,,,,20140613,sobieski steven,112760214020834,,male,55414556.0
+12000.0,,1145197,insulet corp,1.0,,,,20140702,sobieski steven,112760214022573,,male,55495352.0
+47875.0,,1145197,insulet corp,,1.0,,,20140702,diehl r anthony,112760214022581,Secretary and General Counsel,male,55495352.0
+257184.0,,1145197,insulet corp,1.0,1.0,,,20140702,desisto duane,112760214022596,President and CEO,male,55495352.0
+257184.0,,1145197,insulet corp,1.0,1.0,,,20140805,desisto duane,112760214024832,President and CEO,male,55881647.0
+4581.0,,1145197,insulet corp,1.0,,,,20140904,scannell timothy j,112760214027208,,male,55881647.0
+257184.0,,1145197,insulet corp,1.0,1.0,,,20140904,desisto duane,112760214027210,President and CEO,male,55881647.0
+100733.0,,1145197,insulet corp,1.0,,,,20140912,liamos charles t,112760214027690,,male,55881647.0
+47875.0,,1145197,insulet corp,,1.0,,,20141003,diehl r anthony,112760214029368,Secretary and General Counsel,male,56040361.0
+100733.0,,1145197,insulet corp,1.0,,,,20141003,liamos charles t,112760214029370,,male,56040361.0
+,,1145197,insulet corp,1.0,1.0,,,20141003,sullivan patrick j,112760214029372,President & CEO,male,56040361.0
+100733.0,,1145197,insulet corp,1.0,,,,20141104,liamos charles t,112760214031121,,male,56081464.0
+100733.0,,1145197,insulet corp,1.0,,,,20141203,liamos charles t,112760214034121,,male,56081464.0
+29918.0,,1145197,insulet corp,,1.0,,,20141203,dorval allison,112760214034134,Chief Financial Officer,female,56081464.0
+18182.0,,1145197,insulet corp,,1.0,,,20141203,thomas bradley a,112760214034141,EVP Human Resources,male,56081464.0
+100733.0,,1145197,insulet corp,1.0,,,,20150106,liamos charles t,112760215001234,,male,56299022.0
+32017.0,,1145197,insulet corp,,1.0,,,20150205,ryan patrick,112760215004549,Chief Operating Officer,male,56299022.0
+,,1145197,insulet corp,,1.0,,,20150211,levangie daniel j,112760215005543,"President, Drug Delivery",male,56299022.0
+56965.0,,1145197,insulet corp,,1.0,,,20150211,petrovic shacey,112760215005545,CCO,male,56299022.0
+100733.0,,1145197,insulet corp,1.0,,,,20150213,liamos charles t,112760215006013,,male,56299022.0
+28827.0,,1145197,insulet corp,,1.0,,,20150303,dorval allison,112760215009740,Chief Financial Officer,female,56299022.0
+45452.0,,1145197,insulet corp,,1.0,,,20150303,diehl r anthony,112760215009713,Secretary and General Counsel,male,56299022.0
+93782.0,,1145197,insulet corp,1.0,,,,20150303,liamos charles t,112760215009735,,male,56299022.0
+43650.0,,1145197,insulet corp,1.0,1.0,,,20150304,sullivan patrick j,112760215010187,President & CEO,male,56299022.0
+54837.0,,1145197,insulet corp,,1.0,,,20150304,diehl r anthony,112760215010190,Secretary and General Counsel,male,56299022.0
+38229.0,,1145197,insulet corp,,1.0,,,20150304,dorval allison,112760215010192,Chief Financial Officer,female,56299022.0
+44321.0,,1145197,insulet corp,,1.0,,,20150304,ryan patrick,112760215010185,Chief Operating Officer,male,56299022.0
+30486.0,,1145197,insulet corp,,1.0,,,20150304,thomas bradley a,112760215010181,EVP Human Resources,male,56299022.0
+48337.0,,1145197,insulet corp,,1.0,,,20150306,diehl r anthony,112760215010467,Secretary and General Counsel,male,56299022.0
+53650.0,,1145197,insulet corp,1.0,1.0,,,20150311,sullivan patrick j,112760215011076,President & CEO,male,56299022.0
+37415.0,,1145197,insulet corp,,1.0,,,20150403,dorval allison,112760215013943,Chief Financial Officer,female,56704347.0
+87575.0,,1145197,insulet corp,1.0,,,,20150403,liamos charles t,112760215013945,,male,56704347.0
+43337.0,,1145197,insulet corp,,1.0,,,20150403,diehl r anthony,112760215013949,Secretary and General Counsel,male,56704347.0
+43028.0,,1145197,insulet corp,,1.0,,,20150504,levitz michael l,112760215016144,CFO,male,56750931.0
+10663.0,,1145197,insulet corp,,1.0,,,20150504,levangie daniel j,112760215016140,"President, Drug Delivery",male,56750931.0
+31486.0,,1145197,insulet corp,,1.0,,,20150506,thomas bradley a,112760215016501,EVP Human Resources,male,56750931.0
+47990.0,,1145197,insulet corp,,1.0,,,20150506,ryan patrick,112760215016503,Chief Operating Officer,male,56750931.0
+40854.0,,1145197,insulet corp,,1.0,,,20150513,diehl r anthony,112760215017122,Secretary and General Counsel,male,56750931.0
+18039.0,,1145197,insulet corp,1.0,,,,20150518,crawford sally,112760215017686,,female,56750931.0
+12039.0,,1145197,insulet corp,1.0,,,,20150518,fallon john a.,112760215017689,,male,56750931.0
+12120.0,,1145197,insulet corp,1.0,,,,20150518,scannell timothy j,112760215017692,,male,56750931.0
+16039.0,,1145197,insulet corp,1.0,,,,20150518,sobieski steven,112760215017694,,male,56750931.0
+24539.0,,1145197,insulet corp,1.0,,,,20150518,sommer regina o,112760215017695,,female,56750931.0
+24039.0,,1145197,insulet corp,1.0,,,,20150518,zakrzewski joseph s,112760215017696,,male,56750931.0
+73650.0,,1145197,insulet corp,1.0,1.0,,,20150528,sullivan patrick j,112760215018862,President & CEO,male,56750931.0
+83650.0,,1145197,insulet corp,1.0,1.0,,,20150608,sullivan patrick j,112760215019990,President & CEO,male,56750931.0
+5608.0,,1145197,insulet corp,1.0,,,,20150729,hopfield jessica,112760215023645,,female,56876012.0
+32331.0,,1145197,insulet corp,,1.0,,,20150824,thomas bradley a,112760215025692,EVP Human Resources,male,56895050.0
+32331.0,,1145197,insulet corp,,1.0,,,20150824,thomas bradley a,112760215025692,EVP Human Resources,male,56895050.0
+30358.0,,1145197,insulet corp,,1.0,,,20151203,thomas bradley a,112760215033186,EVP Human Resources,male,56928573.0
+16021.0,,1145197,insulet corp,,1.0,,,20160205,alpuche charles,112760216039854,"SVP, Global Manufacturing",male,56954830.0
+6410.0,,1145197,insulet corp,1.0,,,,20160210,lemoine david a,112760216040471,,male,56954830.0
+51349.0,,1145197,insulet corp,,1.0,,,20160210,petrovic shacey,112760216040472,CCO,male,56954830.0
+37171.0,,1145197,insulet corp,,1.0,,,20160225,thomas bradley a,112760216043394,EVP Human Resources,male,56954830.0
+130075.0,,1145197,insulet corp,1.0,1.0,,,20160225,sullivan patrick j,112760216043392,President & CEO,male,56954830.0
+17476.0,,1145197,insulet corp,,1.0,,,20160225,levangie daniel j,112760216043390,"President, Drug Delivery",male,56954830.0
+58162.0,,1145197,insulet corp,,1.0,,,20160225,petrovic shacey,112760216043388,"President, Diabetes Products",male,56954830.0
+53281.0,,1145197,insulet corp,,1.0,,,20160226,levitz michael l,112760216043653,SVP and CFO,male,56954830.0
+28462.0,,1145197,insulet corp,,1.0,,,20160226,colleran david,112760216043651,"SVP, Secretary and GC",male,56954830.0
+32684.0,,1145197,insulet corp,,1.0,,,20160226,spears michael p,112760216043689,"SVP, Quality and Regulatory",male,56954830.0
+172795.0,,1145197,insulet corp,1.0,1.0,,,20160226,sullivan patrick j,112760216043655,President & CEO,male,56954830.0
+79522.0,,1145197,insulet corp,,1.0,,,20160226,petrovic shacey,112760216043654,"President, Diabetes Products",male,56954830.0
+47424.0,,1145197,insulet corp,,1.0,,,20160226,thomas bradley a,112760216043657,EVP Human Resources,male,56954830.0
+8838.0,,1145197,insulet corp,1.0,,,,20160303,hopfield jessica,112760216044649,,female,56954830.0
+9813.0,,1145197,insulet corp,,1.0,,,20160309,levangie daniel j,112760216045715,"President, Drug Delivery",male,56954830.0
+22514.0,,1145197,insulet corp,,1.0,,,20160311,levangie daniel j,112760216046112,"President, Drug Delivery",male,56954830.0
+14022.0,,1145197,insulet corp,,1.0,,,20160330,abdel-malek aiman,112760216047851,"SVP, Advanced Technology",female,56954830.0
+46684.0,,1145197,insulet corp,,1.0,,,20160405,thomas bradley a,112760216048837,EVP Human Resources,male,57112482.0
+78782.0,,1145197,insulet corp,,1.0,,,20160405,petrovic shacey,112760216048845,"President, Diabetes Products",male,57112482.0
+21774.0,,1145197,insulet corp,,1.0,,,20160405,levangie daniel j,112760216048830,"President, Drug Delivery",male,57112482.0
+21122.0,,1145197,insulet corp,,1.0,,,20160502,levangie daniel j,112760216050507,"EVP & President, Drug Delivery",male,57159581.0
+48612.0,,1145197,insulet corp,,1.0,,,20160506,levitz michael l,112760216051418,SVP and CFO,male,57159581.0
+48340.0,,1145197,insulet corp,,1.0,,,20160506,thomas bradley a,112760216051420,EVP Human Resources,male,57159581.0
+15930.0,,1145197,insulet corp,1.0,,,,20160513,scannell timothy j,112760216052200,,male,57159581.0
+10220.0,,1145197,insulet corp,1.0,,,,20160513,lemoine david a,112760216052194,,male,57159581.0
+28349.0,,1145197,insulet corp,1.0,,,,20160513,sommer regina o,112760216052196,,female,57159581.0
+12648.0,,1145197,insulet corp,1.0,,,,20160513,hopfield jessica,112760216052192,,female,57159581.0
+15849.0,,1145197,insulet corp,1.0,,,,20160513,fallon john a.,112760216052189,,male,57159581.0
+27849.0,,1145197,insulet corp,1.0,,,,20160513,zakrzewski joseph s,112760216052198,,male,57159581.0
+21849.0,,1145197,insulet corp,1.0,,,,20160513,crawford sally,112760216052180,,female,57159581.0
+51315.0,,1145197,insulet corp,,1.0,,,20160516,thomas bradley a,112760216052232,EVP Human Resources,male,57159581.0
+217795.0,,1145197,insulet corp,1.0,1.0,,,20160519,sullivan patrick j,112760216052741,President & CEO,male,57159581.0
+20330.0,,1145197,insulet corp,1.0,,,,20160527,sommer regina o,112760216053777,,female,57159581.0
+26115.0,,1145197,insulet corp,,1.0,,,20160630,colleran david,112760216056653,"SVP, Secretary and GC",male,57240894.0
+30250.0,,1145197,insulet corp,,1.0,,,20160729,spears michael p,112760216058931,"SVP, QA, RA and CA",male,57240894.0
+221544.0,,1145197,insulet corp,1.0,1.0,,,20161014,sullivan patrick j,112760216064786,President & CEO,male,57418432.0
+261544.0,,1145197,insulet corp,1.0,1.0,,,20161205,sullivan patrick j,112760216069057,CEO and Chairman of the Board,male,57426072.0
+54983.0,,1145197,insulet corp,,1.0,,,20161205,thomas bradley a,112760216069056,EVP Human Resources,male,57426072.0
+22621.0,,1145197,insulet corp,,1.0,,,20161212,alpuche charles,112760216069618,"SVP, Global Manufacturing",male,57426072.0
+20778.0,,1145197,insulet corp,,1.0,,,20170207,alpuche charles,112760217004351,"SVP, Global Manufacturing",male,57457967.0
+73203.0,,1145197,insulet corp,,1.0,,,20170210,petrovic shacey,112760217005036,President and COO,male,57457967.0
+279577.0,,1145197,insulet corp,1.0,1.0,,,20170224,sullivan patrick j,112760217008307,CEO and Chairman of the Board,male,57457967.0
+36741.0,,1145197,insulet corp,,1.0,,,20170224,spears michael p,112760217008308,"SVP, QA and RA",male,57457967.0
+55103.0,,1145197,insulet corp,,1.0,,,20170224,levitz michael l,112760217008314,SVP and CFO,male,57457967.0
+30442.0,,1145197,insulet corp,,1.0,,,20170224,colleran david,112760217008320,"SVP, Secretary and GC",male,57457967.0
+31596.0,,1145197,insulet corp,,1.0,,,20170224,alpuche charles,112760217008325,"EVP, Global Manufacturing",male,57457967.0
+17875.0,,1145197,insulet corp,,1.0,,,20170224,abdel-malek aiman,112760217008330,"SVP, Advanced Technology",female,57457967.0
+60778.0,,1145197,insulet corp,,1.0,,,20170224,thomas bradley a,112760217008304,EVP Human Resources,male,57457967.0
+86725.0,,1145197,insulet corp,,1.0,,,20170224,petrovic shacey,112760217008311,President and COO,male,57457967.0
+83993.0,,1145197,insulet corp,,1.0,,,20170228,petrovic shacey,112760217008949,President and COO,male,57457967.0
+35555.0,,1145197,insulet corp,,1.0,,,20170228,spears michael p,112760217008950,"SVP, QA and RA",male,57457967.0
+27849.0,,1145197,insulet corp,1.0,,,,20170303,zakrzewski joseph s,112760217010311,,male,57457967.0
+8938.0,,1145197,insulet corp,1.0,,,,20170308,lemoine david a,112760217010881,,male,57457967.0
+20330.0,,1145197,insulet corp,1.0,,,,20170314,sommer regina o,112760217011631,,female,57457967.0
+16353.0,,1145197,insulet corp,,1.0,,,20170330,abdel-malek aiman,112760217013320,"SVP, Advanced Technology",female,57457967.0
+82922.0,,1145197,insulet corp,,1.0,,,20170404,petrovic shacey,112760217014011,President and COO,male,57912745.0
+7414.0,,1145197,insulet corp,1.0,,,,20170502,lemoine david a,112760217016338,,male,57916580.0
+63778.0,,1145197,insulet corp,,1.0,,,20170512,thomas bradley a,112760217017834,EVP Human Resources,male,57916580.0
+15228.0,,1145197,insulet corp,1.0,,,,20170512,hopfield jessica,112760217017836,,female,57916580.0
+17937.0,,1145197,insulet corp,1.0,,,,20170518,hopfield jessica,112760217018712,,female,57916580.0
+30558.0,,1145197,insulet corp,1.0,,,,20170518,zakrzewski joseph s,112760217018719,,male,57916580.0
+23039.0,,1145197,insulet corp,1.0,,,,20170518,sommer regina o,112760217018717,,female,57916580.0
+10123.0,,1145197,insulet corp,1.0,,,,20170518,lemoine david a,112760217018714,,male,57916580.0
+18639.0,,1145197,insulet corp,1.0,,,,20170518,scannell timothy j,112760217018708,,male,57916580.0
+18558.0,,1145197,insulet corp,1.0,,,,20170518,fallon john a.,112760217018705,,male,57916580.0
+24558.0,,1145197,insulet corp,1.0,,,,20170518,crawford sally,112760217018703,,female,57916580.0
+38055.0,,1145197,insulet corp,,1.0,,,20170518,spears michael p,112760217018563,"SVP, QA and RA",male,57916580.0
+7006.0,,1145197,insulet corp,,1.0,,,20170531,christensen bret,112760217019863,SVP and CCO,male,57916580.0
+35621.0,,1145197,insulet corp,,1.0,,,20170728,spears michael p,112760217024328,"SVP, QA and RA",male,58044088.0
+3098.0,,1145197,insulet corp,1.0,,,,20170811,mullen james c,112760217025505,,male,58059598.0
+3173.0,,1145197,insulet corp,1.0,,,,20170811,minogue michael r,112760217025503,,male,58059598.0
+,,1145197,insulet corp,1.0,1.0,,,20170830,sullivan patrick j,112760217026732,CEO and Chairman of the Board,male,58059598.0
+34709.0,,1145197,insulet corp,,1.0,,,20170907,alpuche charles,112760217027140,"EVP, Global Manufacturing",male,58059598.0
+5598.0,,1145197,insulet corp,1.0,,,,20171114,mullen james c,112760217032107,,male,58187756.0
+61811.0,,1145197,insulet corp,,1.0,,,20171204,thomas bradley a,112760217033856,EVP Human Resources,male,58187756.0
+33196.0,,1145197,insulet corp,,1.0,,,20180205,alpuche charles,112760218004089,"EVP, Global Manufacturing",male,58319348.0
+76504.0,,1145197,insulet corp,,1.0,,,20180213,petrovic shacey,112760218005485,President and COO,male,58319348.0
+294188.0,100000.0,1145197,insulet corp,1.0,1.0,,,20180215,sullivan patrick j,112760218006485,CEO and Chairman of the Board,male,58319348.0
+100303.0,,1145197,insulet corp,,1.0,,,20180215,petrovic shacey,112760218006483,President and COO,male,58319348.0
+51610.0,,1145197,insulet corp,,1.0,,,20180215,spears michael p,112760218006484,"SVP, QA and RA",male,58319348.0
+44995.0,,1145197,insulet corp,,1.0,,,20180215,colleran david,112760218006481,"SVP, Secretary and GC",male,58319348.0
+11704.0,,1145197,insulet corp,,1.0,,,20180215,christensen bret,112760218006480,SVP and CCO,male,58319348.0
+53577.0,,1145197,insulet corp,,1.0,,,20180215,alpuche charles,112760218006479,EVP & Chief Operations Officer,male,58319348.0
+27050.0,,1145197,insulet corp,,1.0,,,20180215,abdel-malek aiman,112760218006478,EVP & Chief Technology Officer,female,58319348.0
+79508.0,,1145197,insulet corp,,1.0,,,20180215,thomas bradley a,112760218006477,EVP Human Resources,male,58319348.0
+71092.0,,1145197,insulet corp,,1.0,,,20180215,levitz michael l,112760218006482,SVP and CFO,male,58319348.0
+13486.0,,1145197,insulet corp,,1.0,,,20180216,benjamin eric,112760218006626,"SVP, R&D, New Prod Dev. & Comm",male,58319348.0
+292413.0,100000.0,1145197,insulet corp,1.0,1.0,,,20180226,sullivan patrick j,112760218008536,CEO and Chairman of the Board,male,58319348.0
+78833.0,,1145197,insulet corp,,1.0,,,20180226,thomas bradley a,112760218008537,EVP Human Resources,male,58319348.0
+50930.0,,1145197,insulet corp,,1.0,,,20180226,spears michael p,112760218008533,"SVP, QA and RA",male,58319348.0
+52515.0,,1145197,insulet corp,,1.0,,,20180226,alpuche charles,112760218008521,EVP & Chief Operations Officer,male,58319348.0
+70415.0,,1145197,insulet corp,,1.0,,,20180226,levitz michael l,112760218008531,SVP and CFO,male,58319348.0
+44525.0,,1145197,insulet corp,,1.0,,,20180226,colleran david,112760218008527,"SVP, Secretary and GC",male,58319348.0
+13266.0,,1145197,insulet corp,,1.0,,,20180226,benjamin eric,112760218008525,"SVP, R&D, New Prod Dev. & Comm",male,58319348.0
+98299.0,,1145197,insulet corp,,1.0,,,20180226,petrovic shacey,112760218008532,President and COO,male,58319348.0
+26583.0,,1145197,insulet corp,,1.0,,,20180226,abdel-malek aiman,112760218008519,EVP & Chief Technology Officer,female,58319348.0
+50063.0,,1145197,insulet corp,,1.0,,,20180227,alpuche charles,112760218008816,EVP & Chief Operations Officer,male,58319348.0
+12239.0,,1145197,insulet corp,,1.0,,,20180227,benjamin eric,112760218008814,"SVP, R&D, New Prod Dev. & Comm",male,58319348.0
+42095.0,,1145197,insulet corp,,1.0,,,20180227,colleran david,112760218008812,"SVP, Secretary and GC",male,58319348.0
+67646.0,,1145197,insulet corp,,1.0,,,20180227,levitz michael l,112760218008810,SVP and CFO,male,58319348.0
+48161.0,,1145197,insulet corp,,1.0,,,20180227,spears michael p,112760218008808,"SVP, QA and RA",male,58319348.0
+91336.0,,1145197,insulet corp,,1.0,,,20180227,petrovic shacey,112760218008809,President and COO,male,58319348.0
+75812.0,,1145197,insulet corp,,1.0,,,20180227,thomas bradley a,112760218008804,EVP Human Resources,male,58319348.0
+264320.0,100000.0,1145197,insulet corp,1.0,1.0,,,20180227,sullivan patrick j,112760218008806,CEO and Chairman of the Board,male,58319348.0
+77578.0,,1145197,insulet corp,,1.0,,,20180306,thomas bradley a,112760218010422,EVP Human Resources,male,58319348.0
+257852.0,100000.0,1145197,insulet corp,1.0,1.0,,,20180306,sullivan patrick j,112760218010424,CEO and Chairman of the Board,male,58319348.0
+9482.0,,1145197,insulet corp,1.0,,,,20180308,lemoine david a,112760218010790,,male,58319348.0
+90017.0,,1145197,insulet corp,,1.0,,,20180308,petrovic shacey,112760218010792,President and COO,male,58319348.0
+28605.0,,1145197,insulet corp,,1.0,,,20180315,abdel-malek aiman,112760218011732,EVP & Chief Technology Officer,female,58319348.0
+329516.0,28336.0,1145197,insulet corp,1.0,1.0,,,20180316,sullivan patrick j,112760218011889,CEO and Chairman of the Board,male,58319348.0
+9558.0,,1145197,insulet corp,1.0,,,,20180316,fallon john a.,112760218011891,,male,58319348.0
+70328.0,,1145197,insulet corp,,1.0,,,20180316,thomas bradley a,112760218011893,EVP Human Resources,male,58319348.0
+42973.0,,1145197,insulet corp,,1.0,,,20180316,alpuche charles,112760218011895,EVP & Chief Operations Officer,male,58319348.0
+66828.0,,1145197,insulet corp,,1.0,,,20180320,thomas bradley a,112760218012324,EVP Human Resources,male,58319348.0
+51559.0,,1145197,insulet corp,,1.0,,,20180326,spears michael p,112760218012788,"SVP, QA and RA",male,58319348.0
+25633.0,,1145197,insulet corp,,1.0,,,20180330,abdel-malek aiman,112760218013143,EVP & Chief Technology Officer,female,58319348.0
+89007.0,,1145197,insulet corp,,1.0,,,20180402,petrovic shacey,112760218013373,President and COO,male,58723242.0
+65818.0,,1145197,insulet corp,,1.0,,,20180402,thomas bradley a,112760218013367,EVP Human Resources,male,58723242.0
+322752.0,28336.0,1145197,insulet corp,1.0,1.0,,,20180402,sullivan patrick j,112760218013370,CEO and Chairman of the Board,male,58723242.0
+8398.0,,1145197,insulet corp,1.0,,,,20180502,lemoine david a,112760218016089,,male,58744475.0
+61270.0,,1145197,insulet corp,,1.0,,,20180508,levitz michael l,112760218016669,SVP and CFO,male,58744475.0
+37139.0,,1145197,insulet corp,,1.0,,,20180516,colleran david,112760218017690,"SVP, Secretary and GC",male,58744475.0
+43445.0,,1145197,insulet corp,,1.0,,,20180516,spears michael p,112760218017705,"SVP, QA and RA",male,58744475.0
+20122.0,,1145197,insulet corp,1.0,,,,20180518,hopfield jessica,112760218018180,,female,58744475.0
+27161.0,,1145197,insulet corp,,1.0,,,20180518,abdel-malek aiman,112760218018166,EVP & Chief Technology Officer,female,58744475.0
+20824.0,,1145197,insulet corp,1.0,,,,20180518,scannell timothy j,112760218018176,,male,58744475.0
+7783.0,,1145197,insulet corp,1.0,,,,20180518,mullen james c,112760218018177,,male,58744475.0
+5358.0,,1145197,insulet corp,1.0,,,,20180518,minogue michael r,112760218018178,,male,58744475.0
+26743.0,,1145197,insulet corp,1.0,,,,20180518,crawford sally,112760218018182,,female,58744475.0
+11743.0,,1145197,insulet corp,1.0,,,,20180518,fallon john a.,112760218018181,,male,58744475.0
+10583.0,,1145197,insulet corp,1.0,,,,20180518,lemoine david a,112760218018179,,male,58744475.0
+35671.0,,1145197,insulet corp,,1.0,,,20180522,spears michael p,112760218018416,"SVP, QA and RA",male,58744475.0
+11016.0,,1145197,insulet corp,,1.0,,,20180529,christensen bret,112760218019057,SVP and CCO,male,58744475.0
+35671.0,,1145197,insulet corp,,1.0,,,20180529,spears michael p,112760218019058,"SVP, QA and RA",male,58744475.0
+35671.0,,1145197,insulet corp,,1.0,,,20180531,spears michael p,112760218019386,"SVP, QA and RA",male,58744475.0
+88293.0,,1145197,insulet corp,,1.0,,,20180605,petrovic shacey,112760218020055,President and COO,male,58744475.0
+35671.0,,1145197,insulet corp,,1.0,,,20180614,spears michael p,112760218020924,"SVP, QA and RA",male,58744475.0
+27959.0,,1145197,insulet corp,,1.0,,,20180629,abdel-malek aiman,112760218022025,EVP & Chief Technology Officer,female,58744475.0
+34042.0,,1145197,insulet corp,,1.0,,,20180703,colleran david,112760218022579,"SVP, Secretary and GC",male,58975395.0
+12367.0,,1145197,insulet corp,,1.0,,,20180703,benjamin eric,112760218022575,"SVP, R&D, New Prod Dev. & Comm",male,58975395.0
+32347.0,,1145197,insulet corp,,1.0,,,20180730,spears michael p,112760218024017,"SVP, QA and RA",male,58975395.0
+27357.0,,1145197,insulet corp,,1.0,,,20180815,abdel-malek aiman,112760218025489,EVP & Chief Technology Officer,female,58997012.0
+27304.0,,1145197,insulet corp,,1.0,,,20180815,spears michael p,112760218025492,"SVP, QA and RA",male,58997012.0
+87333.0,,1145197,insulet corp,,1.0,,,20180905,petrovic shacey,112760218026815,President and COO,male,58997012.0
+26755.0,,1145197,insulet corp,,1.0,,,20180918,abdel-malek aiman,112760218027924,EVP & Chief Technology Officer,female,58997012.0
+26153.0,,1145197,insulet corp,,1.0,,,20181016,abdel-malek aiman,112760218030338,EVP & Chief Technology Officer,female,59068586.0
+86199.0,,1145197,insulet corp,,1.0,,,20181105,petrovic shacey,112760218032090,President and COO,male,59077244.0
+25551.0,,1145197,insulet corp,,1.0,,,20181115,abdel-malek aiman,112760218033160,EVP & Chief Technology Officer,female,59077244.0
+34042.0,,1145197,insulet corp,,1.0,,,20181115,colleran david,112760218033174,"SVP, Secretary and GC",male,59077244.0
+90606.0,,1145197,insulet corp,,1.0,,,20181210,petrovic shacey,112760218035731,President and COO,male,59077244.0
+97415.0,,1145197,insulet corp,1.0,1.0,,,20190103,petrovic shacey,112760219000681,President and CEO,male,59188758.0
+3187.0,,1145197,insulet corp,1.0,,,,20190129,nevinny corinne h,112760219002869,,female,59188758.0
+34133.0,,1145197,insulet corp,,1.0,,,20190201,colleran david,112760219003443,"SVP, Secretary and GC",male,59188758.0
+34133.0,,1145197,insulet corp,,1.0,,,20190206,colleran david,112760219004324,"SVP, Secretary and GC",male,59188758.0
+41714.0,,1145197,insulet corp,,1.0,,,20190207,alpuche charles,112760219004631,EVP & Chief Operations Officer,male,59188758.0
+97490.0,,1145197,insulet corp,1.0,1.0,,,20190219,petrovic shacey,112760219006923,President and CEO,male,59188758.0
+26018.0,,1145197,insulet corp,,1.0,,,20190219,abdel-malek aiman,112760219006910,EVP & Chief Technology Officer,female,59188758.0
+41056.0,,1145197,insulet corp,,1.0,,,20190219,alpuche charles,112760219006913,EVP & Chief Operations Officer,male,59188758.0
+12226.0,,1145197,insulet corp,,1.0,,,20190219,benjamin eric,112760219006916,"SVP, R&D, New Prod Dev. & Comm",male,59188758.0
+10831.0,,1145197,insulet corp,,1.0,,,20190219,christensen bret,112760219006917,SVP and CCO,male,59188758.0
+34181.0,,1145197,insulet corp,,1.0,,,20190219,colleran david,112760219006919,"SVP, Secretary and GC",male,59188758.0
+61616.0,,1145197,insulet corp,,1.0,,,20190219,levitz michael l,112760219006921,SVP and CFO,male,59188758.0
+26853.0,,1145197,insulet corp,,1.0,,,20190219,spears michael p,112760219006925,"SVP, QA and RA",male,59188758.0
+89920.0,,1145197,insulet corp,1.0,1.0,,,20190226,petrovic shacey,112760219008495,President and CEO,male,59188758.0
+58001.0,,1145197,insulet corp,,1.0,,,20190226,levitz michael l,112760219008494,SVP and CFO,male,59188758.0
+30433.0,,1145197,insulet corp,,1.0,,,20190226,colleran david,112760219008491,"SVP, Secretary and GC",male,59188758.0
+11023.0,,1145197,insulet corp,,1.0,,,20190226,benjamin eric,112760219008488,"SVP, R&D, New Prod Dev. & Comm",male,59188758.0
+37037.0,,1145197,insulet corp,,1.0,,,20190226,alpuche charles,112760219008485,EVP & Chief Operations Officer,male,59188758.0
+25600.0,,1145197,insulet corp,,1.0,,,20190226,abdel-malek aiman,112760219008481,EVP & Chief Technology Officer,female,59188758.0
+23239.0,,1145197,insulet corp,,1.0,,,20190226,spears michael p,112760219008496,"SVP, QA and RA",male,59188758.0
+97520.0,,1145197,insulet corp,1.0,1.0,,,20190228,petrovic shacey,112760219009055,President and CEO,male,59188758.0
+14496.0,,1145197,insulet corp,,1.0,,,20190228,christensen bret,112760219009054,EVP and CCO,male,59188758.0
+13331.0,,1145197,insulet corp,,1.0,,,20190228,benjamin eric,112760219009053,"SVP, R&D, New Prod Dev. & Comm",male,59188758.0
+56651.0,,1145197,insulet corp,,1.0,,,20190228,levitz michael l,112760219009058,SVP and CFO,male,59188758.0
+25275.0,,1145197,insulet corp,,1.0,,,20190228,spears michael p,112760219009056,"SVP, QA and RA",male,59188758.0
+43144.0,,1145197,insulet corp,,1.0,,,20190228,alpuche charles,112760219009052,EVP & Chief Operating Officer,male,59188758.0
+24727.0,,1145197,insulet corp,,1.0,,,20190305,mcmillan wayde d.,112760219010068,"EVP, CFO",male,59188758.0
+30433.0,,1145197,insulet corp,,1.0,,,20190305,colleran david,112760219010077,"SVP, Secretary and GC",male,59188758.0
+10022.0,,1145197,insulet corp,1.0,,,,20190305,lemoine david a,112760219010064,,male,59188758.0
+23992.0,,1145197,insulet corp,,1.0,,,20190305,abdel-malek aiman,112760219010081,EVP & Chief Technology Officer,female,59188758.0
+96454.0,,1145197,insulet corp,1.0,1.0,,,20190308,petrovic shacey,112760219010590,President and CEO,male,59188758.0
+11743.0,,1145197,insulet corp,1.0,,,,20190308,fallon john a.,112760219010579,,male,59188758.0
+23992.0,,1145197,insulet corp,,1.0,,,20190314,abdel-malek aiman,112760219011378,EVP & Chief Technology Officer,female,59188758.0
+11743.0,,1145197,insulet corp,1.0,,,,20190314,fallon john a.,112760219011377,,male,59188758.0
+11743.0,,1145197,insulet corp,1.0,,,,20190322,fallon john a.,112760219012921,,male,59188758.0
+19687.0,,1145197,insulet corp,,1.0,,,20190401,abdel-malek aiman,112760219013815,EVP & Chief Technology Officer,female,59638439.0
+9825.0,,1145197,insulet corp,,1.0,,,20190402,kapples john w.,112760219014244,"SVP, Secretary and GC",male,59638439.0
+30433.0,,1145197,insulet corp,,1.0,,,20190404,colleran david,112760219014797,"SVP, Secretary and GC",male,59638439.0
+39244.0,,1145197,insulet corp,,1.0,,,20190517,alpuche charles,112760219018970,EVP & Chief Operating Officer,male,59675242.0
+9148.0,,1145197,insulet corp,1.0,,,,20190517,lemoine david a,112760219018976,,male,59675242.0
+13809.0,,1145197,insulet corp,,1.0,,,20190529,christensen bret,112760219020161,EVP and CCO,male,59675242.0
+22550.0,,1145197,insulet corp,1.0,,,,20190603,scannell timothy j,112760219020552,,male,59675242.0
+4913.0,,1145197,insulet corp,1.0,,,,20190603,nevinny corinne h,112760219020544,,female,59675242.0
+10874.0,,1145197,insulet corp,1.0,,,,20190603,lemoine david a,112760219020539,,male,59675242.0
+21848.0,,1145197,insulet corp,1.0,,,,20190603,hopfield jessica,112760219020537,,female,59675242.0
+13469.0,,1145197,insulet corp,1.0,,,,20190603,fallon john a.,112760219020531,,male,59675242.0
+28469.0,,1145197,insulet corp,1.0,,,,20190603,crawford sally,112760219020530,,female,59675242.0
+7084.0,,1145197,insulet corp,1.0,,,,20190603,minogue michael r,112760219020541,,male,59675242.0
+95559.0,,1145197,insulet corp,1.0,1.0,,,20190605,petrovic shacey,112760219020912,President and CEO,male,59675242.0
+3721.0,,1145197,insulet corp,,1.0,,,20190605,budden lauren,112760219020910,"VP, CAO and Controller",female,59675242.0
+26779.0,,1145197,insulet corp,,1.0,,,20190614,spears michael p,112760219021638,"SVP, RA and Compliance",male,59675242.0
+2033.0,,1145197,insulet corp,1.0,,,,20190801,hollingshead james,112760219025690,,male,60271673.0
+22626.0,,1145197,insulet corp,,1.0,,,20190819,spears michael p,112760219026977,"SVP, RA and Compliance",male,60271673.0
+95199.0,,1145197,insulet corp,1.0,1.0,,,20190905,petrovic shacey,112760219027980,President and CEO,male,60271673.0
+94510.0,,1145197,insulet corp,1.0,1.0,,,20191101,petrovic shacey,112760219031559,President and CEO,male,61821566.0
+23545.0,,1145197,insulet corp,,1.0,,,20191115,spears michael p,112760219032855,"SVP, RA and Compliance",male,61821566.0
+96538.0,,1145197,insulet corp,1.0,1.0,,,20191119,petrovic shacey,112760219033199,President and CEO,male,61821566.0
+13469.0,,1145197,insulet corp,1.0,,,,20191119,fallon john a.,112760219033198,,male,61821566.0
+95530.0,,1145197,insulet corp,1.0,1.0,,,20200106,petrovic shacey,112760220001206,President and CEO,male,62685000.0
+4564.0,,1145197,insulet corp,1.0,,,,20200106,minogue michael r,112760220001187,,male,62685000.0
+7990.0,,1145197,insulet corp,1.0,,,,20200106,lemoine david a,112760220001196,,male,62685000.0
+15929.0,,1145197,insulet corp,,1.0,,,20200212,christensen bret,112760220005087,EVP and CCO,male,62685000.0
+4098.0,,1145197,insulet corp,,1.0,,,20200212,budden lauren,112760220005084,"VP, CAO and Controller",female,62685000.0
+11153.0,,1145197,insulet corp,,1.0,,,20200212,kapples john w.,112760220005088,"SVP, Secretary and GC",male,62685000.0
+13373.0,,1145197,insulet corp,,1.0,,,20200212,benjamin eric,112760220005082,"SVP, R&D, New Prod Dev & Comm",male,62685000.0
+100958.0,,1145197,insulet corp,1.0,1.0,,,20200212,petrovic shacey,112760220005090,President and CEO,male,62685000.0
+24470.0,,1145197,insulet corp,,1.0,,,20200212,spears michael p,112760220005091,"SVP, RA and Compliance",male,62685000.0
+26639.0,,1145197,insulet corp,,1.0,,,20200212,mcmillan wayde d.,112760220005089,"EVP, CFO",male,62685000.0
+41692.0,,1145197,insulet corp,,1.0,,,20200212,alpuche charles,112760220005081,EVP & Chief Operating Officer,male,62685000.0
+41018.0,,1145197,insulet corp,,1.0,,,20200220,alpuche charles,112760220006734,EVP & Chief Operating Officer,male,62685000.0
+13152.0,,1145197,insulet corp,,1.0,,,20200220,benjamin eric,112760220006738,"SVP, R&D, New Prod Dev & Comm",male,62685000.0
+24054.0,,1145197,insulet corp,,1.0,,,20200220,spears michael p,112760220006744,"SVP, RA and Compliance",male,62685000.0
+15449.0,,1145197,insulet corp,,1.0,,,20200220,christensen bret,112760220006740,EVP and CCO,male,62685000.0
+99965.0,,1145197,insulet corp,1.0,1.0,,,20200220,petrovic shacey,112760220006742,President and CEO,male,62685000.0
+23623.0,,1145197,insulet corp,,1.0,,,20200224,christensen bret,112760220007324,EVP and CCO,male,62685000.0
+45438.0,,1145197,insulet corp,,1.0,,,20200224,alpuche charles,112760220007316,EVP & Chief Operating Officer,male,62685000.0
+27488.0,,1145197,insulet corp,,1.0,,,20200224,spears michael p,112760220007338,"SVP, RA and Compliance",male,62685000.0
+122045.0,,1145197,insulet corp,1.0,1.0,,,20200224,petrovic shacey,112760220007335,President and CEO,male,62685000.0
+15259.0,,1145197,insulet corp,,1.0,,,20200224,benjamin eric,112760220007331,"SVP, R&D, New Prod Dev & Comm",male,62685000.0
+15117.0,,1145197,insulet corp,,1.0,,,20200227,benjamin eric,112760220008176,"SVP, R&D, New Prod Dev & Comm",male,62685000.0
+44535.0,,1145197,insulet corp,,1.0,,,20200227,alpuche charles,112760220008175,EVP & Chief Operating Officer,male,62685000.0
+23264.0,,1145197,insulet corp,,1.0,,,20200227,christensen bret,112760220008177,EVP and CCO,male,62685000.0
+26276.0,,1145197,insulet corp,,1.0,,,20200227,mcmillan wayde d.,112760220008178,"EVP, CFO",male,62685000.0
+120921.0,,1145197,insulet corp,1.0,1.0,,,20200227,petrovic shacey,112760220008179,President and CEO,male,62685000.0
+27187.0,,1145197,insulet corp,,1.0,,,20200227,spears michael p,112760220008180,"SVP, RA and Compliance",male,62685000.0
+12896.0,,1145197,insulet corp,,1.0,,,20200302,spears michael p,112760220008596,"SVP, RA and Compliance",male,62685000.0
+23764.0,,1145197,insulet corp,,1.0,,,20200302,mcmillan wayde d.,112760220008600,"EVP, CFO",male,62685000.0
+6948.0,,1145197,insulet corp,1.0,,,,20200310,lemoine david a,112760220010119,,male,62685000.0
+10191.0,,1145197,insulet corp,0.0,1.0,0.0,0.0,20200402,kapples john w.,120919120022620,"SVP, Secretary and GC",male,63057874.0
+11447.0,,1145197,insulet corp,0.0,1.0,0.0,0.0,20200420,spears michael p,120919120025076,"SVP, RA and Compliance",male,63057874.0
+3254.0,,1145197,insulet corp,1.0,0.0,0.0,0.0,20200504,nevinny corinne h,120919120026778,,female,63084855.0
+18601.0,,1145197,insulet corp,,1.0,,,20200527,christensen bret,112760220017995,EVP and CCO,male,63084855.0
+3062.0,,1145197,insulet corp,1.0,,,,20200601,hollingshead james,112760220018244,,male,63084855.0
+22877.0,,1145197,insulet corp,1.0,,,,20200601,hopfield jessica,112760220018245,,female,63084855.0
+29498.0,,1145197,insulet corp,1.0,,,,20200601,crawford sally,112760220018246,,female,63084855.0
+14498.0,,1145197,insulet corp,1.0,,,,20200601,fallon john a.,112760220018247,,male,63084855.0
+7977.0,,1145197,insulet corp,1.0,,,,20200601,lemoine david a,112760220018248,,male,63084855.0
+3549.0,4564.0,1145197,insulet corp,1.0,,,,20200601,minogue michael r,112760220018249,,male,63084855.0
+23579.0,,1145197,insulet corp,1.0,,,,20200601,scannell timothy j,112760220018251,,male,63084855.0
+4283.0,,1145197,insulet corp,1.0,,,,20200601,nevinny corinne h,112760220018254,,female,63084855.0
+2383.0,,1145197,insulet corp,,1.0,,,20200602,manea dan,112760220018524,"SVP, Chief HR Officer",male,63084855.0
+3840.0,,1145197,insulet corp,,1.0,,,20200604,budden lauren,112760220018832,"VP, CAO and Controller",female,63084855.0
+8704.0,,1145197,insulet corp,,1.0,,,20200724,benjamin eric,112760220022089,"SVP, Innovation and Strategy",male,65604347.0
+13700.0,,1145197,insulet corp,,1.0,,,20200813,christensen bret,112760220023539,EVP and CCO,male,65650528.0
+18813.0,87495.0,1145197,insulet corp,1.0,1.0,,,20200824,petrovic shacey,112760220024133,President and CEO,male,65650528.0
+41257.0,,1145197,insulet corp,,1.0,,,20200902,alpuche charles,112760220024641,EVP & Chief Operating Officer,male,65650528.0
+18813.0,87495.0,1145197,insulet corp,1.0,1.0,,,20201007,petrovic shacey,112760220026662,President and CEO,male,65871736.0
+8947.0,,1145197,insulet corp,,1.0,,,20201013,spears michael p,112760220026862,"SVP, RA and Compliance",male,65871736.0
+1016.0,,1145197,insulet corp,1.0,,,,20201021,frederick wayne a.i.,112760220027383,,male,65871736.0
+14498.0,,1145197,insulet corp,1.0,,,,20201103,fallon john a.,112760220027995,,male,65927871.0
+14498.0,,1145197,insulet corp,1.0,,,,20201106,fallon john a.,112760220028354,,male,65927871.0
+6977.0,,1145197,insulet corp,1.0,,,,20201118,lemoine david a,112760220029429,,male,65927871.0
+3883.0,,1145197,insulet corp,,1.0,,,20201217,budden lauren,112760220031797,"VP, CAO and Controller",female,65927871.0
+22230.0,87495.0,1145197,insulet corp,1.0,1.0,,,20201221,petrovic shacey,112760220032103,President and CEO,male,65927871.0
+21535.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210105,petrovic shacey,112760221000596,President and CEO,male,66017444.0
+8840.0,,1145197,insulet corp,,1.0,,,20210211,spears michael p,112760221005248,"SVP, RA and Compliance",male,66017444.0
+20732.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210211,petrovic shacey,112760221005246,President and CEO,male,66017444.0
+23562.0,,1145197,insulet corp,,1.0,,,20210211,mcmillan wayde d.,112760221005242,"EVP, CFO",male,66017444.0
+10201.0,,1145197,insulet corp,,1.0,,,20210211,kapples john w.,112760221005240,"SVP, Secretary and GC",male,66017444.0
+13540.0,,1145197,insulet corp,,1.0,,,20210211,christensen bret,112760221005238,EVP and CCO,male,66017444.0
+3859.0,,1145197,insulet corp,,1.0,,,20210211,budden lauren,112760221005236,"VP, CAO and Controller",female,66017444.0
+8626.0,,1145197,insulet corp,,1.0,,,20210211,benjamin eric,112760221005234,"SVP, Innovation and Strategy",male,66017444.0
+41032.0,,1145197,insulet corp,,1.0,,,20210211,alpuche charles,112760221005231,EVP & Chief Operating Officer,male,66017444.0
+8445.0,,1145197,insulet corp,,1.0,,,20210216,spears michael p,112760221005849,"SVP, RA and Compliance",male,66017444.0
+13002.0,,1145197,insulet corp,,1.0,,,20210216,christensen bret,112760221005834,EVP and CCO,male,66017444.0
+8429.0,,1145197,insulet corp,,1.0,,,20210216,benjamin eric,112760221005832,"SVP, Innovation and Strategy",male,66017444.0
+40039.0,,1145197,insulet corp,,1.0,,,20210216,alpuche charles,112760221005830,EVP & Chief Operating Officer,male,66017444.0
+19739.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210216,petrovic shacey,112760221005836,President and CEO,male,66017444.0
+42713.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210219,petrovic shacey,112760221006751,President and CEO,male,66017444.0
+50485.0,,1145197,insulet corp,,1.0,,,20210219,alpuche charles,112760221006719,EVP & Chief Operating Officer,male,66017444.0
+11145.0,,1145197,insulet corp,,1.0,,,20210219,benjamin eric,112760221006724,"SVP, Innovation and Strategy",male,66017444.0
+4104.0,,1145197,insulet corp,,1.0,,,20210219,budden lauren,112760221006726,"VP, CAO and Controller",female,66017444.0
+16862.0,,1145197,insulet corp,,1.0,,,20210219,christensen bret,112760221006730,EVP and CCO,male,66017444.0
+11318.0,,1145197,insulet corp,,1.0,,,20210219,kapples john w.,112760221006733,"SVP, Secretary and GC",male,66017444.0
+3008.0,,1145197,insulet corp,,1.0,,,20210219,manea dan,112760221006740,"SVP, Chief HR Officer",male,66017444.0
+25126.0,,1145197,insulet corp,,1.0,,,20210219,mcmillan wayde d.,112760221006744,"EVP, CFO",male,66017444.0
+11364.0,,1145197,insulet corp,,1.0,,,20210219,spears michael p,112760221006755,"SVP, RA and Compliance",male,66017444.0
+21933.0,,1145197,insulet corp,,1.0,,,20210302,mcmillan wayde d.,112760221008705,"EVP, CFO",male,66017444.0
+16259.0,,1145197,insulet corp,,1.0,,,20210302,christensen bret,112760221008700,EVP and CCO,male,66017444.0
+10974.0,,1145197,insulet corp,,1.0,,,20210302,benjamin eric,112760221008697,"SVP, Innovation and Strategy",male,66017444.0
+11062.0,,1145197,insulet corp,,1.0,,,20210302,spears michael p,112760221008709,"SVP, RA and Compliance",male,66017444.0
+41589.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210302,petrovic shacey,112760221008707,President and CEO,male,66017444.0
+49582.0,,1145197,insulet corp,,1.0,,,20210302,alpuche charles,112760221008693,EVP & Chief Operating Officer,male,66017444.0
+10172.0,,1145197,insulet corp,,1.0,,,20210402,kapples john w.,112760221012823,"SVP, Secretary and GC",male,66213670.0
+41589.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210402,petrovic shacey,112760221012826,President and CEO,male,66213670.0
+3350.0,,1145197,insulet corp,1.0,,,,20210514,nevinny corinne h,112760221016804,,female,66271242.0
+14498.0,,1145197,insulet corp,1.0,,,,20210525,fallon john a.,112760221018010,,male,66271242.0
+24387.0,,1145197,insulet corp,1.0,,,,20210528,scannell timothy j,112760221018313,,male,66271242.0
+4158.0,,1145197,insulet corp,1.0,,,,20210528,nevinny corinne h,112760221018312,,female,66271242.0
+7785.0,,1145197,insulet corp,1.0,,,,20210528,lemoine david a,112760221018308,,male,66271242.0
+23685.0,,1145197,insulet corp,1.0,,,,20210528,hopfield jessica,112760221018307,,female,66271242.0
+3870.0,,1145197,insulet corp,1.0,,,,20210528,hollingshead james,112760221018304,,male,66271242.0
+4357.0,4564.0,1145197,insulet corp,1.0,,,,20210528,minogue michael r,112760221018311,,male,66271242.0
+30306.0,,1145197,insulet corp,1.0,,,,20210528,crawford sally,112760221018302,,female,66271242.0
+1824.0,,1145197,insulet corp,1.0,,,,20210528,frederick wayne a.i.,112760221018303,,male,66271242.0
+2869.0,,1145197,insulet corp,,1.0,,,20210603,manea dan,112760221018973,"SVP, Chief HR Officer",male,66271242.0
+47777.0,,1145197,insulet corp,,1.0,,,20210603,alpuche charles,112760221018950,EVP & Chief Operating Officer,male,66271242.0
+3816.0,,1145197,insulet corp,,1.0,,,20210604,budden lauren,112760221019247,"VP, CAO and Controller",female,66271242.0
+20306.0,,1145197,insulet corp,1.0,,,,20210607,crawford sally,112760221019361,,female,66271242.0
+15779.0,87495.0,1145197,insulet corp,1.0,1.0,,,20210702,petrovic shacey,112760221021212,President and CEO,male,68610078.0
+45527.0,,1145197,insulet corp,,1.0,,,20210702,alpuche charles,112760221021222,EVP & Chief Operating Officer,male,68610078.0
+6499.0,,1145197,insulet corp,1.0,,,,20210810,lemoine david a,112760221023463,,male,68873869.0
+41527.0,,1145197,insulet corp,,1.0,,,20210818,alpuche charles,112760221023975,EVP & Chief Operating Officer,male,68873869.0
+19331.0,,1145197,insulet corp,,1.0,,,20210819,christensen bret,112760221024039,EVP and CCO,male,68873869.0
+16331.0,,1145197,insulet corp,,1.0,,,20210830,christensen bret,112760221024527,EVP and CCO,male,68873869.0
+15779.0,,1145197,insulet corp,1.0,1.0,,,20211004,petrovic shacey,112760221026440,President and CEO,male,68921847.0
+998.0,,1145197,insulet corp,1.0,,,,20211018,borio luciana,112760221027198,,female,68921847.0
+10756.0,,1145197,insulet corp,1.0,,,,20211112,lemoine david a,112760221028955,,male,68967286.0
+13146.0,,1145197,insulet corp,,1.0,,,20211208,spears michael p,112760221030527,"SVP, RA and Compliance",male,68967286.0
+17942.0,6401.0,1145197,insulet corp,1.0,1.0,,,20211217,petrovic shacey,112760221031340,President and CEO,male,68967286.0
+20078.0,,1145197,insulet corp,,1.0,,,20220104,mcmillan wayde d.,112760222000457,"EVP, CFO",male,69178691.0
+17249.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220105,petrovic shacey,112760222000839,President and CEO,male,69178691.0
+17249.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220107,petrovic shacey,112760222001144,President and CEO,male,69178691.0
+1232.0,,1145197,insulet corp,1.0,,,,20220207,weatherman elizabeth h,112760222003515,,female,69178691.0
+41299.0,,1145197,insulet corp,,1.0,,,20220211,alpuche charles,112760222004554,EVP & Chief Operating Officer,male,69178691.0
+3810.0,,1145197,insulet corp,,1.0,,,20220211,budden lauren,112760222004555,"VP, CAO and Controller",female,69178691.0
+16155.0,,1145197,insulet corp,,1.0,,,20220211,christensen bret,112760222004557,EVP and CCO,male,69178691.0
+10137.0,,1145197,insulet corp,,1.0,,,20220211,kapples john w.,112760222004558,SVP and General Counsel,male,69178691.0
+19873.0,,1145197,insulet corp,,1.0,,,20220211,mcmillan wayde d.,112760222004559,"EVP, CFO",male,69178691.0
+16446.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220211,petrovic shacey,112760222004560,President and CEO,male,69178691.0
+13039.0,,1145197,insulet corp,,1.0,,,20220211,spears michael p,112760222004561,"SVP, RA and Compliance",male,69178691.0
+15600.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220218,petrovic shacey,112760222005766,President and CEO,male,69178691.0
+19720.0,,1145197,insulet corp,,1.0,,,20220218,mcmillan wayde d.,112760222005765,"EVP, CFO",male,69178691.0
+2796.0,,1145197,insulet corp,,1.0,,,20220218,manea dan,112760222005763,"SVP, Chief HR Officer",male,69178691.0
+12976.0,,1145197,insulet corp,,1.0,,,20220218,spears michael p,112760222005767,"SVP, RA and Compliance",male,69178691.0
+16002.0,,1145197,insulet corp,,1.0,,,20220218,christensen bret,112760222005761,EVP and CCO,male,69178691.0
+3781.0,,1145197,insulet corp,,1.0,,,20220218,budden lauren,112760222005760,"VP, CAO and Controller",female,69178691.0
+41128.0,,1145197,insulet corp,,1.0,,,20220218,alpuche charles,112760222005759,EVP & Chief Operating Officer,male,69178691.0
+10029.0,,1145197,insulet corp,,1.0,,,20220218,kapples john w.,112760222005762,SVP and General Counsel,male,69178691.0
+15801.0,,1145197,insulet corp,,1.0,,,20220222,spears michael p,112760222006042,"SVP, RA and Compliance",male,69178691.0
+28287.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220222,petrovic shacey,112760222006038,President and CEO,male,69178691.0
+12739.0,,1145197,insulet corp,,1.0,,,20220222,kapples john w.,112760222006031,SVP and General Counsel,male,69178691.0
+24104.0,,1145197,insulet corp,,1.0,,,20220222,mcmillan wayde d.,112760222006035,"EVP, CFO",male,69178691.0
+4504.0,,1145197,insulet corp,,1.0,,,20220222,budden lauren,112760222006027,"VP, CAO and Controller",female,69178691.0
+13377.0,,1145197,insulet corp,,1.0,,,20220222,benjamin eric,112760222006024,"SVP, Innovation and Strategy",male,69178691.0
+48353.0,,1145197,insulet corp,,1.0,,,20220222,alpuche charles,112760222006021,EVP & Chief Operating Officer,male,69178691.0
+20544.0,,1145197,insulet corp,,1.0,,,20220222,christensen bret,112760222006029,EVP and CCO,male,69178691.0
+47450.0,,1145197,insulet corp,,1.0,,,20220228,alpuche charles,112760222007004,EVP & Chief Operating Officer,male,69178691.0
+20002.0,,1145197,insulet corp,,1.0,,,20220228,christensen bret,112760222007006,EVP and CCO,male,69178691.0
+23582.0,,1145197,insulet corp,,1.0,,,20220228,mcmillan wayde d.,112760222007009,"EVP, CFO",male,69178691.0
+27163.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220228,petrovic shacey,112760222007011,President and CEO,male,69178691.0
+15499.0,,1145197,insulet corp,,1.0,,,20220228,spears michael p,112760222007014,"SVP, RA and Compliance",male,69178691.0
+49811.0,,1145197,insulet corp,,1.0,,,20220302,alpuche charles,112760222007711,EVP & Chief Operating Officer,male,69178691.0
+5873.0,,1145197,insulet corp,,1.0,,,20220302,budden lauren,112760222007721,"Group VP, CAO and Controller",female,69178691.0
+14888.0,,1145197,insulet corp,,1.0,,,20220302,benjamin eric,112760222007714,"SVP, Innovation and Strategy",male,69178691.0
+22363.0,,1145197,insulet corp,,1.0,,,20220302,christensen bret,112760222007716,EVP and CCO,male,69178691.0
+16160.0,,1145197,insulet corp,,1.0,,,20220302,spears michael p,112760222007732,"SVP, RA and Compliance",male,69178691.0
+35096.0,67660.0,1145197,insulet corp,1.0,1.0,,,20220302,petrovic shacey,112760222007731,President and CEO,male,69178691.0
+22809.0,,1145197,insulet corp,,1.0,,,20220302,mcmillan wayde d.,112760222007729,"EVP, CFO",male,69178691.0
+14108.0,,1145197,insulet corp,,1.0,,,20220302,kapples john w.,112760222007723,SVP and General Counsel,male,69178691.0
+3504.0,,1145197,insulet corp,,1.0,,,20220302,manea dan,112760222007726,"SVP, Chief HR Officer",male,69178691.0
+12655.0,,1145197,insulet corp,,1.0,,,20220405,kapples john w.,112760222011534,SVP and General Counsel,male,69320427.0
+21354.0,,1145197,insulet corp,,1.0,,,20220405,mcmillan wayde d.,112760222011546,"EVP, CFO",male,69320427.0
+13607.0,61259.0,1145197,insulet corp,1.0,1.0,,,20220405,petrovic shacey,112760222011550,President and CEO,male,69320427.0
+5167.0,,1145197,insulet corp,1.0,,,,20220526,nevinny corinne h,112760222015766,,female,69339638.0
+2007.0,,1145197,insulet corp,1.0,,,,20220526,borio luciana,112760222015761,,female,69339638.0
+2833.0,,1145197,insulet corp,1.0,,,,20220526,frederick wayne a.i.,112760222015762,,male,69339638.0
+24694.0,,1145197,insulet corp,1.0,,,,20220526,hopfield jessica,112760222015763,,female,69339638.0
+1817.0,,1145197,insulet corp,1.0,,,,20220526,minogue michael r,112760222015765,,male,69339638.0
+2241.0,,1145197,insulet corp,1.0,,,,20220526,weatherman elizabeth h,112760222015768,,female,69339638.0
+25396.0,,1145197,insulet corp,1.0,,,,20220526,scannell timothy j,112760222015767,,male,69339638.0
+3358.0,,1145197,insulet corp,,1.0,,,20220602,manea dan,112760222016444,"SVP, Chief HR Officer",male,69339638.0
+25569.0,,1145197,insulet corp,1.0,1.0,,,20220602,hollingshead james,112760222016388,President and CEO,male,69339638.0
+5578.0,,1145197,insulet corp,,1.0,,,20220606,budden lauren,112760222016870,"Group VP, CAO and Controller",female,69339638.0
+43899.0,,1145197,insulet corp,,1.0,,,20220607,alpuche charles,112760222017001,EVP & Chief Operating Officer,male,69339638.0
+8921.0,,1145197,insulet corp,1.0,,,,20220706,minogue michael r,112760222018928,,male,69386057.0
+13695.0,87563.0,1145197,insulet corp,1.0,,,,20220706,petrovic shacey,112760222018935,,male,69386057.0
+19551.0,,1145197,insulet corp,,1.0,,,20220825,christensen bret,112760222021599,EVP and CCO,male,69403602.0
+13695.0,87563.0,1145197,insulet corp,1.0,,,,20221004,petrovic shacey,112760222023460,,male,69431159.0
+8792.0,,1145197,insulet corp,,1.0,,,20221107,spears michael p,112760222025027,"SVP, RA and Compliance",male,69448703.0
+16551.0,,1145197,insulet corp,,1.0,,,20221121,christensen bret,112760222026150,EVP and CCO,male,69448703.0
+3158.0,,1145197,insulet corp,,1.0,,,20221121,manea dan,112760222026152,"SVP, Chief HR Officer",male,69448703.0
+22887.0,,1145197,insulet corp,1.0,,,,20221208,petrovic shacey,112760222027082,,male,69448703.0
+11837.0,,1145197,insulet corp,,1.0,,,20221213,spears michael p,112760222027392,"SVP, RA and Compliance",male,69448703.0
+14789.0,,1145197,insulet corp,1.0,,,,20221219,petrovic shacey,112760222027824,,male,69448703.0
+19995.0,,1145197,insulet corp,,1.0,,,20230104,mcmillan wayde d.,112760223000512,"EVP, CFO",male,69511286.0
+14789.0,73205.0,1145197,insulet corp,1.0,,,,20230106,petrovic shacey,112760223001064,,male,69511286.0
+11723.0,,1145197,insulet corp,,1.0,,,20230213,spears michael p,112760223004869,Advisor,male,69511286.0
+12619.0,,1145197,insulet corp,,1.0,,,20230213,kapples john w.,112760223004860,SVP and General Counsel,male,69511286.0
+19790.0,,1145197,insulet corp,,1.0,,,20230213,mcmillan wayde d.,112760223004863,"EVP, CFO",male,69511286.0
+14076.0,73205.0,1145197,insulet corp,1.0,1.0,,,20230213,petrovic shacey,112760223004867,Advisor,male,69511286.0
+43685.0,,1145197,insulet corp,,1.0,,,20230213,alpuche charles,112760223004848,Advisor,male,69511286.0
+14868.0,,1145197,insulet corp,,1.0,,,20230213,benjamin eric,112760223004854,"EVP, Innovation and Strategy",male,69511286.0
+5577.0,,1145197,insulet corp,,1.0,,,20230213,budden lauren,112760223004856,"Group VP, CAO and Controller",female,69511286.0
+16352.0,,1145197,insulet corp,,1.0,,,20230213,christensen bret,112760223004859,EVP and CCO,male,69511286.0
+45919.0,,1145197,insulet corp,,1.0,,,20230221,alpuche charles,112760223006174,Advisor,male,69511286.0
+21621.0,73205.0,1145197,insulet corp,1.0,1.0,,,20230221,petrovic shacey,112760223006187,Advisor,male,69511286.0
+21757.0,,1145197,insulet corp,,1.0,,,20230221,mcmillan wayde d.,112760223006184,"EVP, CFO",male,69511286.0
+12723.0,,1145197,insulet corp,,1.0,,,20230221,spears michael p,112760223006193,Advisor,male,69511286.0
+13826.0,,1145197,insulet corp,,1.0,,,20230221,kapples john w.,112760223006181,SVP and General Counsel,male,69511286.0
+18266.0,,1145197,insulet corp,,1.0,,,20230221,christensen bret,112760223006180,EVP and CCO,male,69511286.0
+5779.0,,1145197,insulet corp,,1.0,,,20230221,budden lauren,112760223006178,"Group VP, CAO and Controller",female,69511286.0
+15878.0,,1145197,insulet corp,,1.0,,,20230221,benjamin eric,112760223006176,"EVP, Innovation and Strategy",male,69511286.0
+4023.0,,1145197,insulet corp,,1.0,,,20230221,manea dan,112760223006182,"SVP, Chief HR Officer",male,69511286.0
+58205.0,,1145197,insulet corp,1.0,1.0,,,20230301,petrovic shacey,112760223007981,Advisor,male,69511286.0
+45584.0,,1145197,insulet corp,,1.0,,,20230301,alpuche charles,112760223007983,Advisor,male,69511286.0
+17539.0,,1145197,insulet corp,,1.0,,,20230301,benjamin eric,112760223007984,"EVP, Innovation and Strategy",male,69511286.0
+6638.0,,1145197,insulet corp,,1.0,,,20230301,budden lauren,112760223007986,"Group VP, CAO and Controller",female,69511286.0
+20178.0,,1145197,insulet corp,,1.0,,,20230301,christensen bret,112760223007988,EVP and CCO,male,69511286.0
+15003.0,,1145197,insulet corp,,1.0,,,20230301,kapples john w.,112760223007990,SVP and General Counsel,male,69511286.0
+4948.0,,1145197,insulet corp,,1.0,,,20230301,manea dan,112760223007991,"SVP, Chief HR Officer",male,69511286.0
+24120.0,,1145197,insulet corp,,1.0,,,20230301,mcmillan wayde d.,112760223007992,"EVP, CFO",male,69511286.0
+12654.0,,1145197,insulet corp,,1.0,,,20230301,spears michael p,112760223007993,Advisor,male,69511286.0
+32444.0,,1145197,insulet corp,1.0,1.0,,,20230301,hollingshead james,112760223007982,President and CEO,male,69511286.0
+45584.0,,1145197,insulet corp,,1.0,,,20230310,alpuche charles,112760223009755,Advisor,male,69511286.0
+13645.0,,1145197,insulet corp,,1.0,,,20230313,spears michael p,112760223009860,Advisor,male,69511286.0
+45584.0,,1145197,insulet corp,,1.0,,,20230314,alpuche charles,112760223010081,Advisor,male,69511286.0
+56954.0,,1145197,insulet corp,,1.0,,,20230315,alpuche charles,112760223010295,Advisor,male,69511286.0
+12925.0,58205.0,1145197,insulet corp,1.0,1.0,,,20230316,petrovic shacey,112760223010446,Advisor,male,69511286.0
+22865.0,,1145197,insulet corp,,1.0,,,20230404,mcmillan wayde d.,112760223012414,"EVP, CFO",male,69694363.0
+3084.0,,1145197,insulet corp,1.0,,,,20230524,weatherman elizabeth h,112760223016721,,female,69695828.0
+26239.0,,1145197,insulet corp,1.0,,,,20230524,scannell timothy j,112760223016719,,male,69695828.0
+2567.0,71130.0,1145197,insulet corp,1.0,,,,20230524,petrovic shacey,112760223016718,,male,69695828.0
+2850.0,,1145197,insulet corp,1.0,,,,20230524,borio luciana,112760223016710,,female,69695828.0
+1852.0,,1145197,insulet corp,1.0,,,,20230524,minogue michael r,112760223016714,,male,69695828.0
+25537.0,,1145197,insulet corp,1.0,,,,20230524,hopfield jessica,112760223016713,,female,69695828.0
+6010.0,,1145197,insulet corp,1.0,,,,20230524,nevinny corinne h,112760223016716,,female,69695828.0
+3676.0,,1145197,insulet corp,1.0,,,,20230524,frederick wayne a.i.,112760223016711,,male,69695828.0
+43205.0,12925.0,1145197,insulet corp,1.0,,,,20230602,petrovic shacey,112760223017512,,male,69695828.0
+28627.0,,1145197,insulet corp,1.0,1.0,,,20230602,hollingshead james,112760223017516,President and CEO,male,69695828.0
+4697.0,,1145197,insulet corp,,1.0,,,20230602,manea dan,112760223017519,"SVP, Chief HR Officer",male,69695828.0
+2350.0,,1145197,insulet corp,1.0,,,,20230606,borio luciana,112760223018036,,female,69695828.0
+4522.0,,1145197,insulet corp,,1.0,,,20230621,manea dan,112760223019147,"SVP, Chief HR Officer",male,69695828.0
+21477.0,,1145197,insulet corp,,1.0,,,20230706,mcmillan wayde d.,112760223020391,"EVP, CFO",male,69804489.0
+9459.0,,1145197,insulet corp,1.0,,,,20230818,minogue michael r,112760223022944,,male,69821118.0
+34177.0,,1145197,insulet corp,1.0,1.0,,,20230829,hollingshead james,112760223023341,President and CEO,male,69821118.0
+4032.0,,1145197,insulet corp,,1.0,,,20230921,singh prem,112760223024598,"SVP, Global Operations",female,69821118.0
+2567.0,,1145197,insulet corp,1.0,,,,20231114,petrovic shacey,112760223027356,,male,69827619.0
+30000.0,,1145197,insulet corp,1.0,,,,20231212,petrovic shacey,112760223029417,,male,69827619.0
+2278.0,,1145197,insulet corp,1.0,,,,20231218,borio luciana,112760223029804,,female,69827619.0
+1446.0,,1145197,insulet corp,,1.0,,,20240104,cousin laetitia,112760224000811,"SVP, Reg, Quality & Compliance",female,69907289.0
+3390.0,,1145197,insulet corp,,1.0,,,20240112,singh prem,112760224001266,"SVP, Global Operations",female,69907289.0
+1471.0,,1145197,insulet corp,1.0,,,,20240122,stonesifer timothy c.,112760224001809,,male,69907289.0
+1471.0,,1145197,insulet corp,1.0,,,,20240122,pease flavia,112760224001807,,female,69907289.0
+18908.0,,1145197,insulet corp,,1.0,,,20240221,benjamin eric,112760224006040,"EVP, Innovation and Strategy",male,69907289.0
+7055.0,,1145197,insulet corp,,1.0,,,20240221,budden lauren,112760224006041,"Group VP, CAO and Controller",female,69907289.0
+12910.0,,1145197,insulet corp,,1.0,,,20240221,field mark n,112760224006042,SVP & Chief Technology Officer,male,69907289.0
+16618.0,,1145197,insulet corp,,1.0,,,20240221,kapples john w.,112760224006043,SVP and General Counsel,male,69907289.0
+5414.0,,1145197,insulet corp,,1.0,,,20240221,manea dan,112760224006045,"SVP, Chief HR Officer",male,69907289.0
+2567.0,30000.0,1145197,insulet corp,1.0,,,,20240229,petrovic shacey,112760224007635,,male,69907289.0
+5400.0,,1145197,insulet corp,,1.0,,,20240229,singh prem,112760224007633,"SVP, Global Operations",female,69907289.0
+7496.0,,1145197,insulet corp,,1.0,,,20240229,manea dan,112760224007631,"SVP, Chief HR Officer",male,69907289.0
+8022.0,,1145197,insulet corp,,1.0,,,20240229,budden lauren,112760224007606,Interim CFO and Treasurer,female,69907289.0
+45572.0,,1145197,insulet corp,1.0,1.0,,,20240229,hollingshead james,112760224007622,President and CEO,male,69907289.0
+16376.0,,1145197,insulet corp,,1.0,,,20240229,field mark n,112760224007617,SVP & Chief Technology Officer,male,69907289.0
+3109.0,,1145197,insulet corp,,1.0,,,20240229,cousin laetitia,112760224007611,"SVP, Reg, Quality & Compliance",female,69907289.0
+22934.0,,1145197,insulet corp,,1.0,,,20240229,benjamin eric,112760224007608,"EVP, CPXPO",male,69907289.0
+19130.0,,1145197,insulet corp,,1.0,,,20240229,kapples john w.,112760224007626,SVP and General Counsel,male,69907289.0
+13214.0,,1145197,insulet corp,,1.0,,,20240502,chadwick ana maria,112760224013934,"EVP, CFO & Treasurer",female,70039511.0
+26917.0,,1145197,insulet corp,1.0,,,,20240523,hopfield jessica,112760224016459,,female,70039511.0
+2223.0,13230.0,1145197,insulet corp,1.0,,,,20240523,minogue michael r,112760224016460,,male,70039511.0
+2851.0,,1145197,insulet corp,1.0,,,,20240523,pease flavia,112760224016462,,female,70039511.0
+27619.0,,1145197,insulet corp,1.0,,,,20240523,scannell timothy j,112760224016464,,male,70039511.0
+3658.0,,1145197,insulet corp,1.0,,,,20240523,borio luciana,112760224016455,,female,70039511.0
+4464.0,,1145197,insulet corp,1.0,,,,20240523,weatherman elizabeth h,112760224016468,,female,70039511.0
+5056.0,,1145197,insulet corp,1.0,,,,20240523,frederick wayne a.i.,112760224016456,,male,70039511.0
+2851.0,,1145197,insulet corp,1.0,,,,20240523,stonesifer timothy c.,112760224016467,,male,70039511.0
+42586.0,,1145197,insulet corp,1.0,,,,20240529,scannell timothy j,112760224016771,,male,70039511.0
+41599.0,,1145197,insulet corp,1.0,1.0,,,20240604,hollingshead james,112760224017652,President and CEO,male,70039511.0
+3298.0,,1145197,insulet corp,1.0,,,,20240605,borio luciana,112760224017915,,female,70039511.0
+4614.0,9459.0,1145197,insulet corp,1.0,,,,20240605,minogue michael r,112760224017916,,male,70039511.0
+14375.0,,1145197,insulet corp,,1.0,,,20240611,field mark n,112760224018358,SVP & Chief Technology Officer,male,70039511.0
+35586.0,,1145197,insulet corp,1.0,,,,20240611,scannell timothy j,112760224018360,,male,70039511.0
+12875.0,,1145197,insulet corp,,1.0,,,20240617,field mark n,112760224018817,SVP & Chief Technology Officer,male,70039511.0
+12734.0,,1145197,insulet corp,,1.0,,,20240701,field mark n,112760224019538,SVP & Chief Technology Officer,male,70112039.0
+11347.0,,1145197,insulet corp,,1.0,,,20240829,field mark n,112760224023143,SVP & Chief Technology Officer,male,70115482.0
+13314.0,,1145197,insulet corp,,1.0,,,20240829,chadwick ana maria,112760224023146,"EVP, CFO & Treasurer",female,70115482.0
+3656.0,,1145197,insulet corp,,1.0,,,20240903,singh prem,112760224023311,"SVP, Global Operations",female,70115482.0
+11144.0,,1145197,insulet corp,,1.0,,,20240903,field mark n,112760224023314,SVP & Chief Technology Officer,male,70115482.0
+6609.0,,1145197,insulet corp,,1.0,,,20240910,budden lauren,112760224023705,"Group VP, CAO and Controller",female,70115482.0
+9761.0,,1145197,insulet corp,,1.0,,,20240910,field mark n,112760224023706,SVP & Chief Technology Officer,male,70115482.0
+30586.0,,1145197,insulet corp,1.0,,,,20240911,scannell timothy j,112760224023776,,male,70115482.0
+26917.0,,1145197,insulet corp,1.0,,,,20240912,hopfield jessica,112760224023843,,female,70115482.0
+2790.0,,1145197,insulet corp,1.0,,,,20241113,borio luciana,112760224027203,,female,70144775.0
+5733.0,,1145197,insulet corp,,1.0,,,20241211,budden lauren,112760224029133,"Group VP, CAO and Controller",female,70144775.0
+18702.0,,1145197,insulet corp,,1.0,,,20241217,benjamin eric,112760224029585,"EVP, CPXPO",male,70144775.0

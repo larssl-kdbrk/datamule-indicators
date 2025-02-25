@@ -1,77 +1,663 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3719106.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100323,cannell j carlo,144738710000049,,male,
-3720106.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100405,cannell j carlo,144738710000059,,male,
-0.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100406,cannell j carlo,144738710000061,,male,
-0.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100408,cannell j carlo,144738710000062,,male,
-3727106.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100819,cannell j carlo,144738710000117,,male,
-3729606.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100823,cannell j carlo,144738710000120,,male,
-3838829.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20100826,thompson h brian,93244010000183,Executive Chairman,male,
-847628.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20100826,calder richard,93244010000185,President and CEO,male,
-3734381.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20100831,cannell j carlo,144738710000123,,male,
-4818829.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110104,thompson h brian,93244011000004,Executive Chairman,male,17880254.0
-4943829.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110316,thompson h brian,93244011000111,Executive Chairman,male,17880254.0
-872628.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20110316,calder richard,93244011000110,President and CEO,male,17880254.0
-3659381.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20110328,cannell j carlo,144738711000024,,male,17880254.0
-877628.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20110407,calder richard,93244011000434,President and CEO,male,17880254.0
-3609381.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20110513,cannell j carlo,144738711000031,,male,17880254.0
-4963829.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110608,thompson h brian,93244011000732,Executive Chairman,male,17880254.0
-5008829.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110609,thompson h brian,93244011000736,Executive Chairman,male,17880254.0
-5022821.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110614,thompson h brian,93244011000757,Executive Chairman,male,17880254.0
-1039128.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20110615,calder richard,93244011000761,President and CEO,male,17880254.0
-5033321.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110615,thompson h brian,93244011000759,Executive Chairman,male,17880254.0
-5053321.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110616,thompson h brian,93244011000767,Executive Chairman,male,17880254.0
-5053521.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110621,thompson h brian,93244011000771,Executive Chairman,male,17880254.0
-3472080.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20110630,cannell j carlo,144738711000034,,male,18717252.0
-1039722.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20110711,calder richard,93244011000795,President and CEO,male,18717252.0
-1037722.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20110712,calder richard,93244011000863,President and CEO,male,18717252.0
-5071071.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110817,thompson h brian,93244011000966,Executive Chairman,male,18717252.0
-5087071.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110824,thompson h brian,93244011001010,Executive Chairman,male,18717252.0
-5090071.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110826,thompson h brian,93244011001012,Executive Chairman,male,18717252.0
-5096071.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20110830,thompson h brian,93244011001016,Executive Chairman,male,18717252.0
+3719106.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20100323,cannell j carlo,144738710000049,,male,
+3720106.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20100405,cannell j carlo,144738710000059,,male,
+,,1315255,"global telecom & technology, inc.",0,0,1,0,20100406,cannell j carlo,144738710000061,,male,
+,,1315255,"global telecom & technology, inc.",0,0,1,0,20100408,cannell j carlo,144738710000062,,male,
+3727106.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20100819,cannell j carlo,144738710000117,,male,
+3729606.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20100823,cannell j carlo,144738710000120,,male,
+847628.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20100826,calder richard,93244010000185,President and CEO,male,
+3838829.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20100826,thompson h brian,93244010000183,Executive Chairman,male,
+3734381.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20100831,cannell j carlo,144738710000123,,male,
+4818829.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110104,thompson h brian,93244011000004,Executive Chairman,male,17880254.0
+872628.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20110316,calder richard,93244011000110,President and CEO,male,17880254.0
+4943829.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110316,thompson h brian,93244011000111,Executive Chairman,male,17880254.0
+3659381.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20110328,cannell j carlo,144738711000024,,male,17880254.0
+877628.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20110407,calder richard,93244011000434,President and CEO,male,17880254.0
+3609381.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20110513,cannell j carlo,144738711000031,,male,17880254.0
+4963829.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110608,thompson h brian,93244011000732,Executive Chairman,male,17880254.0
+5008829.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110609,thompson h brian,93244011000736,Executive Chairman,male,17880254.0
+5022821.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110614,thompson h brian,93244011000757,Executive Chairman,male,17880254.0
+5033321.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110615,thompson h brian,93244011000759,Executive Chairman,male,17880254.0
+1039128.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20110615,calder richard,93244011000761,President and CEO,male,17880254.0
+5053321.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110616,thompson h brian,93244011000767,Executive Chairman,male,17880254.0
+5053521.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110621,thompson h brian,93244011000771,Executive Chairman,male,17880254.0
+3472080.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20110630,cannell j carlo,144738711000034,,male,18717252.0
+1039722.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20110711,calder richard,93244011000795,President and CEO,male,18717252.0
+1037722.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20110712,calder richard,93244011000863,President and CEO,male,18717252.0
+5071071.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110817,thompson h brian,93244011000966,Executive Chairman,male,18717252.0
+5087071.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110824,thompson h brian,93244011001010,Executive Chairman,male,18717252.0
+5090071.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110826,thompson h brian,93244011001012,Executive Chairman,male,18717252.0
+5096071.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20110830,thompson h brian,93244011001016,Executive Chairman,male,18717252.0
 494600.0,5096071.0,1315255,"global telecom & technology, inc.",1,1,1,0,20111118,thompson h brian,93244011001180,Executive Chairman,male,18749861.0
 521600.0,5096071.0,1315255,"global telecom & technology, inc.",1,1,1,0,20111118,thompson h brian,93244011001184,Executive Chairman,male,18749861.0
 526000.0,5096071.0,1315255,"global telecom & technology, inc.",1,1,1,0,20111121,thompson h brian,93244011001186,Executive Chairman,male,18749861.0
-230500.0,0.0,1315255,"global telecom & technology, inc.",0,1,0,0,20120330,mckee chris,93244012000098,Secretary and General Counsel,male,18910564.0
-15102671.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120402,thompson h brian,93244012000100,Executive Chairman,male,18921798.0
-5113171.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120405,thompson h brian,93244012000104,Executive Chairman,male,18921798.0
-5120171.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120412,thompson h brian,93244012000114,Executive Chairman,male,18921798.0
-5130071.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120525,thompson h brian,93244012000142,Executive Chairman,male,18921798.0
-5133571.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120529,thompson h brian,93244012000146,Executive Chairman,male,18921798.0
-5150171.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120606,thompson h brian,93244012000150,Executive Chairman,male,18921798.0
-1159431.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20120608,calder richard,93244012000152,President and CEO,male,18921798.0
-5170171.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20120816,thompson h brian,93244012000219,Executive Chairman,male,19014379.0
-81630.0,0.0,1315255,"global telecom & technology, inc.",1,0,0,0,20121116,smith theodore b. iii,93244012000257,,male,19028065.0
-5180171.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20121116,thompson h brian,93244012000255,Executive Chairman,male,19028065.0
-84470.0,0.0,1315255,"global telecom & technology, inc.",1,0,0,0,20121119,smith theodore b. iii,93244012000261,,male,19028065.0
-5190171.0,0.0,1315255,"global telecom & technology, inc.",1,1,1,0,20121119,thompson h brian,93244012000259,Executive Chairman,male,19028065.0
-1163431.0,0.0,1315255,"global telecom & technology, inc.",1,1,0,0,20121214,calder richard,93244012000293,President and CEO,male,19028065.0
-3471980.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20130626,cannell j carlo,144738713000048,,male,21463538.0
-3465495.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20130805,cannell j carlo,144738713000049,,male,22866676.0
-3459096.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20130816,cannell j carlo,144738713000053,,male,22910426.0
-3458296.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20130912,cannell j carlo,144738713000054,,male,22910426.0
-3440527.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20131002,cannell j carlo,144738713000055,,male,22983331.0
-3435395.0,0.0,1315255,"global telecom & technology, inc.",0,0,1,0,20131007,cannell j carlo,144738713000057,,male,22983331.0
-290252.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20140827,janzen howard e,93244014000295,,male,28735387.0
-353393.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20140827,smith theodore b. iii,93244014000294,,male,28735387.0
-291198.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20140827,mckee chris,93244014000296,Secretary and General Counsel,male,28735387.0
-1287216.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20140827,calder richard,93244014000297,President and CEO,male,28735387.0
-108757.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20140915,bauer michael r.,93244014000317,Chief Financial Officer,male,28735387.0
-153563.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20140922,obrien morgan e,93244014000321,,male,28735387.0
-85668.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20140922,bruno s joseph,93244014000322,,male,28735387.0
-85668.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20140922,bruno s joseph,93244014000323,,male,28735387.0
-153563.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20140922,obrien morgan e,93244014000324,,male,28735387.0
-376016.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20150331,smith theodore b. iii,93244015000120,,male,34026212.0
-1639969.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20150515,calder richard,93244015000162,President and CEO,male,34026212.0
-542947.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20150515,mckee chris,93244015000163,General Counsel and EVP,male,34026212.0
-543702.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20150527,mckee chris,131525515000014,General Counsel and EVP,male,34026212.0
-1649093.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20150602,calder richard,131525515000016,President and CEO,male,34026212.0
-284104.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20150605,janzen howard e,131525515000018,,male,34026212.0
-249342.0,0.0,1315255,"gtt communications, inc.",1,0,0,0,20150609,janzen howard e,124248515000004,,male,34026212.0
-1647787.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20150701,calder richard,131525515000024,President and CEO,male,34887904.0
-546616.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20150701,mckee chris,131525515000023,General Counsel and EVP,male,34887904.0
-545571.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20150707,mckee chris,131525515000026,General Counsel and EVP,male,34887904.0
-543841.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20150804,mckee chris,131525515000030,General Counsel and EVP,male,34887904.0
-1649518.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20150804,calder richard,131525515000028,President and CEO,male,34887904.0
-1649518.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20150813,calder richard,131525515000037,President and CEO,male,34924290.0
-541977.0,0.0,1315255,"gtt communications, inc.",0,1,0,0,20150909,mckee chris,131525515000039,General Counsel and EVP,male,34924290.0
-1653144.0,0.0,1315255,"gtt communications, inc.",1,1,0,0,20150929,calder richard,131525515000041,President and CEO,male,34924290.0
+230500.0,,1315255,"global telecom & technology, inc.",0,1,0,0,20120330,mckee chris,93244012000098,Secretary and General Counsel,male,18910564.0
+15102671.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120402,thompson h brian,93244012000100,Executive Chairman,male,18921798.0
+5113171.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120405,thompson h brian,93244012000104,Executive Chairman,male,18921798.0
+5120171.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120412,thompson h brian,93244012000114,Executive Chairman,male,18921798.0
+5130071.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120525,thompson h brian,93244012000142,Executive Chairman,male,18921798.0
+5133571.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120529,thompson h brian,93244012000146,Executive Chairman,male,18921798.0
+5150171.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120606,thompson h brian,93244012000150,Executive Chairman,male,18921798.0
+1159431.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20120608,calder richard,93244012000152,President and CEO,male,18921798.0
+5170171.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20120816,thompson h brian,93244012000219,Executive Chairman,male,19014379.0
+81630.0,,1315255,"global telecom & technology, inc.",1,0,0,0,20121116,smith theodore b. iii,93244012000257,,male,19028065.0
+5180171.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20121116,thompson h brian,93244012000255,Executive Chairman,male,19028065.0
+84470.0,,1315255,"global telecom & technology, inc.",1,0,0,0,20121119,smith theodore b. iii,93244012000261,,male,19028065.0
+5190171.0,,1315255,"global telecom & technology, inc.",1,1,1,0,20121119,thompson h brian,93244012000259,Executive Chairman,male,19028065.0
+1163431.0,,1315255,"global telecom & technology, inc.",1,1,0,0,20121214,calder richard,93244012000293,President and CEO,male,19028065.0
+3471980.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20130626,cannell j carlo,144738713000048,,male,21463538.0
+3465495.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20130805,cannell j carlo,144738713000049,,male,22866676.0
+3459096.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20130816,cannell j carlo,144738713000053,,male,22910426.0
+3458296.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20130912,cannell j carlo,144738713000054,,male,22910426.0
+3440527.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20131002,cannell j carlo,144738713000055,,male,22983331.0
+3435395.0,,1315255,"global telecom & technology, inc.",0,0,1,0,20131007,cannell j carlo,144738713000057,,male,22983331.0
+290252.0,,1315255,"gtt communications, inc.",1,0,0,0,20140827,janzen howard e,93244014000295,,male,28735387.0
+353393.0,,1315255,"gtt communications, inc.",1,0,0,0,20140827,smith theodore b. iii,93244014000294,,male,28735387.0
+1287216.0,,1315255,"gtt communications, inc.",1,1,0,0,20140827,calder richard,93244014000297,President and CEO,male,28735387.0
+291198.0,,1315255,"gtt communications, inc.",0,1,0,0,20140827,mckee chris,93244014000296,Secretary and General Counsel,male,28735387.0
+108757.0,,1315255,"gtt communications, inc.",0,1,0,0,20140915,bauer michael r.,93244014000317,Chief Financial Officer,male,28735387.0
+153563.0,,1315255,"gtt communications, inc.",1,0,0,0,20140922,obrien morgan e,93244014000321,,male,28735387.0
+85668.0,,1315255,"gtt communications, inc.",1,0,0,0,20140922,bruno s joseph,93244014000322,,male,28735387.0
+85668.0,,1315255,"gtt communications, inc.",1,0,0,0,20140922,bruno s joseph,93244014000323,,male,28735387.0
+153563.0,,1315255,"gtt communications, inc.",1,0,0,0,20140922,obrien morgan e,93244014000324,,male,28735387.0
+376016.0,,1315255,"gtt communications, inc.",1,0,0,0,20150331,smith theodore b. iii,93244015000120,,male,34026212.0
+1639969.0,,1315255,"gtt communications, inc.",1,1,0,0,20150515,calder richard,93244015000162,President and CEO,male,34026212.0
+542947.0,,1315255,"gtt communications, inc.",0,1,0,0,20150515,mckee chris,93244015000163,General Counsel and EVP,male,34026212.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150527,mckee chris,131525515000014,General Counsel and EVP,male,34026212.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150602,calder richard,131525515000016,President and CEO,male,34026212.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20150605,janzen howard e,131525515000018,,male,34026212.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20150609,janzen howard e,124248515000004,,male,34026212.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150701,mckee chris,131525515000023,General Counsel and EVP,male,34887904.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150701,calder richard,131525515000024,President and CEO,male,34887904.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150707,mckee chris,131525515000026,General Counsel and EVP,male,34887904.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150804,calder richard,131525515000028,President and CEO,male,34887904.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150804,calder richard,131525515000028,President and CEO,male,34887904.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150804,mckee chris,131525515000030,General Counsel and EVP,male,34887904.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150804,mckee chris,131525515000030,General Counsel and EVP,male,34887904.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150813,calder richard,131525515000037,President and CEO,male,34924290.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150813,calder richard,131525515000037,President and CEO,male,34924290.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150909,mckee chris,131525515000039,General Counsel and EVP,male,34924290.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20150909,mckee chris,131525515000039,General Counsel and EVP,male,34924290.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150929,calder richard,131525515000041,President and CEO,male,34924290.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20150929,calder richard,131525515000041,President and CEO,male,34924290.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151007,mckee chris,131525515000043,General Counsel and EVP,male,35009506.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151015,hackman rhodric c,131525515000053,,male,35009506.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151015,bruno s joseph,131525515000054,,male,35009506.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151015,janzen howard e,131525515000052,,male,35009506.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151015,smith theodore b. iii,131525515000050,,male,35009506.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151015,thompson h brian,131525515000055,,male,35009506.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151015,obrien morgan e,131525515000051,,male,35009506.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151103,mckee chris,131525515000057,General Counsel and EVP,male,35009506.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151106,mckee chris,131525515000061,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151106,calder richard,131525515000063,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151106,sicoli michael,131525515000065,Chief Financial Officer,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151110,smith theodore b. iii,131525515000069,,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151112,smith theodore b. iii,131525515000071,,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151112,thompson h brian,131525515000073,,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151113,smith theodore b. iii,131525515000075,,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151119,smith theodore b. iii,131525515000077,,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151125,mckee chris,131525515000079,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151125,calder richard,131525515000081,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151130,mckee chris,131525515000085,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151130,sicoli michael,131525515000087,Chief Financial Officer,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151130,calder richard,131525515000083,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20151202,obrien morgan e,131525515000091,,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151202,mckee chris,131525515000092,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151202,calder richard,131525515000093,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151207,calder richard,131525515000096,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151207,mckee chris,131525515000097,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151218,mckee chris,131525515000099,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151218,calder richard,131525515000101,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151228,mckee chris,131525515000105,General Counsel and EVP,male,35634686.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20151228,sicoli michael,131525515000107,Chief Financial Officer,male,35634686.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20151228,calder richard,131525515000103,President and CEO,male,35634686.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160104,obrien morgan e,131525516000111,,male,36533634.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160104,bruno s joseph,131525516000112,,male,36533634.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160104,janzen howard e,131525516000113,,male,36533634.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160104,hackman rhodric c,131525516000114,,male,36533634.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160105,mckee chris,131525516000115,General Counsel and EVP,male,36533634.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160105,calder richard,131525516000116,President and CEO,male,36533634.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160107,smith theodore b. iii,131525516000117,,male,36533634.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160203,mckee chris,131525516000120,General Counsel and EVP,male,36533634.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160203,bruno s joseph,131525516000121,,male,36533634.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160203,sicoli michael,131525516000118,Chief Financial Officer,male,36533634.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160203,calder richard,131525516000119,President and CEO,male,36533634.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160218,mckee chris,131525516000123,General Counsel and EVP,male,36533634.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160218,calder richard,131525516000125,President and CEO,male,36533634.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160218,sicoli michael,131525516000126,Chief Financial Officer,male,36533634.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160218,bruno s joseph,131525516000127,,male,36533634.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160309,sicoli michael,131525516000130,Chief Financial Officer,male,37184497.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160309,mckee chris,131525516000131,General Counsel and EVP,male,37184497.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160309,calder richard,131525516000132,President and CEO,male,37184497.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160310,calder richard,131525516000136,President and CEO,male,37184497.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160317,calder richard,131525516000137,President and CEO,male,37184497.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160322,obrien morgan e,131525516000138,,male,37184497.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160401,adamo nicola,131525516000145,,female,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160401,obrien morgan e,131525516000143,,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160401,janzen howard e,131525516000140,,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160401,bruno s joseph,131525516000144,,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160401,hackman rhodric c,131525516000141,,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160401,smith theodore b. iii,131525516000142,,male,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160407,calder richard,131525516000146,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160407,mckee chris,131525516000147,General Counsel and EVP,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160412,mckee chris,131525516000148,General Counsel and EVP,male,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160412,calder richard,131525516000149,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160414,sicoli michael,131525516000150,Chief Financial Officer,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160506,sicoli michael,131525516000155,Chief Financial Officer,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160506,mckee chris,131525516000156,General Counsel and EVP,male,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160506,calder richard,131525516000157,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160525,adamo nicola,131525516000158,,female,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160602,calder richard,131525516000160,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160602,sicoli michael,131525516000161,Chief Financial Officer,male,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160602,mckee chris,131525516000159,General Counsel and EVP,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160606,adamo nicola,131525516000162,,female,37152201.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160607,mckee chris,131525516000163,General Counsel and EVP,male,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160607,calder richard,131525516000164,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160613,calder richard,131525516000165,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160627,calder richard,131525516000167,President and CEO,male,37152201.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,thompson h brian,131525516000172,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,janzen howard e,131525516000168,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,hackman rhodric c,131525516000171,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,smith theodore b. iii,131525516000173,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,obrien morgan e,131525516000169,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,adamo nicola,131525516000174,,female,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160701,bruno s joseph,131525516000170,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160705,calder richard,131525516000175,President and CEO,male,37037077.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160705,mckee chris,131525516000176,General Counsel and EVP,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160707,adamo nicola,131525516000178,,female,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160707,smith theodore b. iii,131525516000181,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160707,thompson h brian,131525516000180,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160707,janzen howard e,131525516000179,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160707,bruno s joseph,131525516000183,,male,37037077.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20160707,hackman rhodric c,131525516000177,,male,37037077.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160712,mckee chris,131525516000184,General Counsel and EVP,male,37037077.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160712,calder richard,131525516000185,President and CEO,male,37037077.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160713,mckee chris,131525516000186,General Counsel and EVP,male,37037077.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160713,calder richard,131525516000187,President and CEO,male,37037077.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160714,sicoli michael,131525516000188,Chief Financial Officer,male,37037077.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160803,calder richard,131525516000189,President and CEO,male,37037077.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160803,sicoli michael,131525516000190,Chief Financial Officer,male,37037077.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160803,mckee chris,131525516000191,General Counsel and EVP,male,37037077.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160826,calder richard,131525516000198,President and CEO,male,37072931.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160831,mckee chris,131525516000200,General Counsel and EVP,male,37072931.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160906,calder richard,131525516000202,President and CEO,male,37072931.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160906,sicoli michael,131525516000201,Chief Financial Officer,male,37072931.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20160908,calder richard,131525516000207,President and CEO,male,37072931.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20160908,mckee chris,131525516000206,General Counsel and EVP,male,37072931.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20161004,satin elizabeth,131525516000208,,female,37226966.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20161004,bruno s joseph,131525516000209,,male,37226966.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20161004,janzen howard e,131525516000210,,male,37226966.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20161004,adamo nicola,131525516000211,,female,37226966.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20161004,smith theodore b. iii,131525516000212,,male,37226966.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161005,mckee chris,131525516000214,General Counsel and EVP,male,37226966.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161005,calder richard,131525516000213,President and CEO,male,37226966.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161011,calder richard,131525516000216,President and CEO,male,37226966.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161011,mckee chris,131525516000215,General Counsel and EVP,male,37226966.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161014,sicoli michael,131525516000217,Chief Financial Officer,male,37226966.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161102,sicoli michael,131525516000219,Chief Financial Officer,male,37226966.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161102,calder richard,131525516000218,President and CEO,male,37226966.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161102,mckee chris,131525516000220,General Counsel and EVP,male,37226966.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161128,calder richard,131525516000226,President and CEO,male,37198778.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161205,sicoli michael,131525516000233,Chief Financial Officer,male,37198778.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161205,calder richard,131525516000232,President and CEO,male,37198778.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161205,mckee chris,131525516000231,General Counsel and EVP,male,37198778.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161208,calder richard,131525516000234,President and CEO,male,37198778.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20161208,mckee chris,131525516000235,General Counsel and EVP,male,37198778.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20161213,calder richard,131525516000236,President and CEO,male,37198778.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170104,janzen howard e,131525517000001,,male,37228144.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170104,smith theodore b. iii,131525517000002,,male,37228144.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170104,adamo nicola,131525517000003,,female,37228144.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170104,satin elizabeth,131525517000004,,female,37228144.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170105,calder richard,131525517000005,President and CEO,male,37228144.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170105,bruno s joseph,131525517000007,,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170105,mckee chris,131525517000006,General Counsel and EVP,male,37228144.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170111,calder richard,131525517000008,President and CEO,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170111,mckee chris,131525517000009,General Counsel and EVP,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170118,sicoli michael,131525517000010,Chief Financial Officer,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170202,mckee chris,131525517000012,General Counsel and EVP,male,37228144.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170202,calder richard,131525517000011,President and CEO,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170208,sicoli michael,131525517000013,Chief Financial Officer,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170222,mckee chris,131525517000016,General Counsel and EVP,male,37228144.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170222,calder richard,131525517000015,President and CEO,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170222,sicoli michael,131525517000014,Chief Financial Officer,male,37228144.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170227,calder richard,131525517000019,President and CEO,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170227,mckee chris,131525517000018,General Counsel and EVP,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170227,sicoli michael,131525517000017,Chief Financial Officer,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170303,mckee chris,131525517000021,General Counsel and EVP,male,37228144.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170303,calder richard,131525517000022,President and CEO,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170303,sicoli michael,131525517000020,Chief Financial Officer,male,37228144.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170308,mckee chris,131525517000027,General Counsel and EVP,male,40998289.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170308,calder richard,131525517000028,President and CEO,male,40998289.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170314,smith theodore b. iii,131525517000033,,male,40998289.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170314,mckee chris,131525517000034,General Counsel and EVP,male,40998289.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170314,satin elizabeth,131525517000032,,female,40998289.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170314,adamo nicola,131525517000035,,female,40998289.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170314,thompson h brian,131525517000036,,male,40998289.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170315,calder richard,131525517000037,President and CEO,male,40998289.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170405,smith theodore b. iii,131525517000045,,male,41154397.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170405,bruno s joseph,131525517000043,,male,41154397.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170405,satin elizabeth,131525517000042,,female,41154397.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170405,janzen howard e,131525517000044,,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170405,mckee chris,131525517000040,General Counsel and EVP,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170405,calder richard,131525517000039,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170405,adamo nicola,131525517000041,,female,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170412,calder richard,131525517000046,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170412,mckee chris,131525517000047,General Counsel and EVP,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170417,sicoli michael,131525517000048,Chief Financial Officer,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170502,mckee chris,131525517000049,General Counsel and EVP,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170502,calder richard,131525517000050,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170511,janzen howard e,131525517000058,,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170518,calder richard,131525517000063,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170518,mckee chris,131525517000065,General Counsel and EVP,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170518,sicoli michael,131525517000061,Chief Financial Officer,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170526,calder richard,131525517000067,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170526,sicoli michael,131525517000069,Chief Financial Officer,male,41154397.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170602,janzen howard e,131525517000074,,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170602,calder richard,131525517000073,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170602,mckee chris,131525517000071,General Counsel and EVP,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170602,sicoli michael,131525517000072,Chief Financial Officer,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170608,calder richard,131525517000075,President and CEO,male,41154397.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170608,mckee chris,131525517000076,General Counsel and EVP,male,41154397.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170706,calder richard,131525517000078,President and CEO,male,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170706,janzen howard e,131525517000080,,male,41272319.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170706,mckee chris,131525517000082,General Counsel and EVP,male,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,hackman rhodric c,131525517000084,,male,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,janzen howard e,131525517000085,,male,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,thompson h brian,131525517000086,,male,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,bruno s joseph,131525517000087,,male,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,adamo nicola,131525517000088,,female,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,satin elizabeth,131525517000089,,female,41272319.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170710,smith theodore b. iii,131525517000090,,male,41272319.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170713,mckee chris,131525517000092,General Counsel and EVP,male,41272319.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170713,calder richard,131525517000091,President and CEO,male,41272319.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170714,sicoli michael,131525517000093,Chief Financial Officer,male,41272319.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170802,mckee chris,131525517000094,General Counsel and EVP,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170802,sicoli michael,131525517000095,Chief Financial Officer,male,41378971.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170802,calder richard,131525517000096,President and CEO,male,41378971.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20170802,janzen howard e,131525517000097,,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170811,mckee chris,131525517000103,General Counsel and EVP,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170821,sicoli michael,131525517000104,Chief Financial Officer,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170821,mckee chris,131525517000106,General Counsel and EVP,male,41378971.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170821,calder richard,131525517000105,President and CEO,male,41378971.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170829,calder richard,131525517000107,President and CEO,male,41378971.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170906,calder richard,131525517000111,President and CEO,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170906,mckee chris,131525517000112,General Counsel and EVP,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170906,sicoli michael,131525517000110,Chief Financial Officer,male,41378971.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20170911,mckee chris,131525517000113,General Counsel and EVP,male,41378971.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20170911,calder richard,131525517000114,President and CEO,male,41378971.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20171003,janzen howard e,131525517000121,,male,43439282.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20171003,smith theodore b. iii,131525517000115,,male,43439282.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20171003,bruno s joseph,131525517000119,,male,43439282.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171003,calder richard,131525517000116,President and CEO,male,43439282.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171003,mckee chris,131525517000117,General Counsel and EVP,male,43439282.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20171003,satin elizabeth,131525517000118,,female,43439282.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20171003,adamo nicola,131525517000120,,female,43439282.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171011,calder richard,131525517000122,President and CEO,male,43439282.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171011,mckee chris,131525517000123,General Counsel and EVP,male,43439282.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171017,sicoli michael,131525517000124,Chief Financial Officer,male,43439282.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171103,mckee chris,131525517000130,General Counsel and EVP,male,43455120.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171103,calder richard,131525517000132,President and CEO,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171103,sicoli michael,131525517000134,Chief Financial Officer,male,43455120.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171109,calder richard,131525517000136,President and CEO,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171114,mckee chris,131525517000140,General Counsel and EVP,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171117,sicoli michael,131525517000144,Chief Financial Officer,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171117,mckee chris,131525517000142,General Counsel and EVP,male,43455120.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171117,calder richard,131525517000146,President and CEO,male,43455120.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171127,calder richard,131525517000148,President and CEO,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171204,mckee chris,131525517000150,General Counsel and EVP,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171204,sicoli michael,131525517000152,Chief Financial Officer,male,43455120.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171204,calder richard,131525517000153,President and CEO,male,43455120.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20171204,bruno s joseph,131525517000154,,male,43455120.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20171208,calder richard,131525517000156,President and CEO,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171212,mckee chris,131525517000158,General Counsel and EVP,male,43455120.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20171218,mckee chris,131525517000160,General Counsel and EVP,male,43455120.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180109,satin elizabeth,131525518000002,,female,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180109,janzen howard e,131525518000003,,male,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180109,adamo nicola,131525518000004,,female,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180109,bruno s joseph,131525518000005,,male,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180109,smith theodore b. iii,131525518000006,,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180116,mckee chris,131525518000008,General Counsel and EVP,male,44531905.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180116,calder richard,131525518000009,President and CEO,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180117,sicoli michael,131525518000010,Chief Financial Officer,male,44531905.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180118,calder richard,131525518000011,President and CEO,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180118,mckee chris,131525518000012,General Counsel and EVP,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180220,sicoli michael,131525518000014,Chief Financial Officer,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180220,mckee chris,131525518000015,General Counsel and EVP,male,44531905.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180220,calder richard,131525518000016,President and CEO,male,44531905.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180222,calder richard,131525518000017,President and CEO,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180222,sicoli michael,131525518000018,Chief Financial Officer,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180222,mckee chris,131525518000019,General Counsel and EVP,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180307,mckee chris,131525518000025,General Counsel and EVP,male,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180307,satin elizabeth,131525518000028,,female,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180307,sicoli michael,131525518000026,Chief Financial Officer,male,44531905.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180307,calder richard,131525518000027,President and CEO,male,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180314,bruno s joseph,131525518000030,,male,44531905.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180316,calder richard,131525518000032,President and CEO,male,44531905.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180316,mckee chris,131525518000033,General Counsel and EVP,male,44531905.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180403,janzen howard e,131525518000035,,male,44868585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180403,adamo nicola,131525518000036,,female,44868585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180403,smith theodore b. iii,131525518000037,,male,44868585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180403,satin elizabeth,131525518000038,,female,44868585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180403,bruno s joseph,131525518000039,,male,44868585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180410,calder richard,131525518000043,President and CEO,male,44868585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180410,mckee chris,131525518000044,General Counsel and EVP,male,44868585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180417,sicoli michael,131525518000048,Chief Financial Officer,male,44868585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180417,mckee chris,131525518000047,General Counsel and EVP,male,44868585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180417,calder richard,131525518000046,President and CEO,male,44868585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180426,mckee chris,131525518000050,General Counsel and EVP,male,44868585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180426,sicoli michael,131525518000051,Chief Financial Officer,male,44868585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180426,calder richard,131525518000052,President and CEO,male,44868585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180503,calder richard,131525518000056,President and CEO,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180503,mckee chris,131525518000057,General Counsel and EVP,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180503,sicoli michael,131525518000058,Chief Financial Officer,male,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180509,satin elizabeth,131525518000062,,female,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180509,smith theodore b. iii,131525518000063,,male,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180509,thompson h brian,131525518000064,,male,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180516,adamo nicola,131525518000066,,female,44954763.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180518,calder richard,131525518000069,President and CEO,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180518,mckee chris,131525518000070,General Counsel and EVP,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180518,sicoli michael,131525518000068,Chief Financial Officer,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180524,mckee chris,131525518000072,General Counsel and EVP,male,44954763.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180524,calder richard,131525518000073,President and CEO,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180524,sicoli michael,131525518000074,Chief Financial Officer,male,44954763.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180607,calder richard,131525518000076,President and CEO,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180608,sicoli michael,131525518000078,Chief Financial Officer,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180608,mckee chris,131525518000080,General Counsel and EVP,male,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180612,bruno s joseph,131525518000084,,male,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180613,bruno s joseph,131525518000086,,male,44954763.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180619,calder richard,131525518000089,President and CEO,male,44954763.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180619,mckee chris,131525518000088,General Counsel and EVP,male,44954763.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180702,erving julius w ii,131525518000091,,male,54609511.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180712,mckee chris,131525518000095,General Counsel and EVP,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,hackman rhodric c,131525518000096,,male,54609511.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180712,calder richard,131525518000097,President and CEO,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,thompson h brian,131525518000098,,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,smith theodore b. iii,131525518000099,,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,satin elizabeth,131525518000100,,female,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,bruno s joseph,131525518000101,,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,janzen howard e,131525518000102,,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,erving julius w ii,131525518000103,,male,54609511.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180712,adamo nicola,131525518000104,,female,54609511.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180719,calder richard,131525518000107,President and CEO,male,54609511.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180719,sicoli michael,131525518000108,Chief Financial Officer,male,54609511.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180719,mckee chris,131525518000106,General Counsel and EVP,male,54609511.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180806,sicoli michael,131525518000116,Chief Financial Officer,male,54628445.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180806,thompson h brian,131525518000117,,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180806,mckee chris,131525518000115,General Counsel and EVP,male,54628445.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180806,calder richard,131525518000114,President and CEO,male,54628445.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180813,thompson h brian,131525518000125,,male,54628445.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180814,satin elizabeth,131525518000127,,female,54628445.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20180817,smith theodore b. iii,131525518000129,,male,54628445.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180817,calder richard,131525518000130,President and CEO,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180817,mckee chris,131525518000132,General Counsel and EVP,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180817,sicoli michael,131525518000131,Chief Financial Officer,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180822,sicoli michael,131525518000136,Chief Financial Officer,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180822,mckee chris,131525518000137,General Counsel and EVP,male,54628445.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180822,calder richard,131525518000138,President and CEO,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180906,mckee chris,131525518000142,General Counsel and EVP,male,54628445.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180906,calder richard,131525518000140,President and CEO,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180906,sicoli michael,131525518000141,Chief Financial Officer,male,54628445.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20180911,calder richard,131525518000144,President and CEO,male,54628445.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20180924,mckee chris,131525518000146,General Counsel and EVP,male,54628445.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181011,smith theodore b. iii,131525518000148,,male,54671841.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181011,janzen howard e,131525518000149,,male,54671841.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181011,bruno s joseph,131525518000150,,male,54671841.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181011,satin elizabeth,131525518000155,,female,54671841.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181011,erving julius w ii,131525518000153,,male,54671841.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181012,calder richard,131525518000161,President and CEO,male,54671841.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181012,mckee chris,131525518000159,General Counsel and EVP,male,54671841.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181012,adamo nicola,131525518000157,,female,54671841.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181017,sicoli michael,131525518000163,Chief Financial Officer,male,54671841.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181102,calder richard,131525518000165,President and CEO,male,54671841.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181102,sicoli michael,131525518000166,Chief Financial Officer,male,54671841.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181102,mckee chris,131525518000167,General Counsel and EVP,male,54671841.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181109,calder richard,131525518000176,President and CEO,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181109,mckee chris,131525518000175,General Counsel and EVP,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181109,sicoli michael,131525518000174,Chief Financial Officer,male,54701256.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20181115,thompson h brian,131525518000178,,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181119,mckee chris,131525518000181,General Counsel and EVP,male,54701256.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181119,calder richard,131525518000180,President and CEO,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181119,sicoli michael,131525518000182,Chief Financial Officer,male,54701256.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181120,calder richard,131525518000184,President and CEO,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181120,mckee chris,131525518000185,General Counsel and EVP,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181120,sicoli michael,131525518000186,Chief Financial Officer,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181206,sicoli michael,131525518000189,Chief Financial Officer,male,54701256.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181206,calder richard,131525518000188,President and CEO,male,54701256.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20181206,mckee chris,131525518000187,General Counsel and EVP,male,54701256.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20181217,calder richard,131525518000190,President and CEO,male,54701256.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190102,smith theodore b. iii,131525519000012,,male,55625149.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190102,adamo nicola,131525519000006,,female,55625149.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190102,janzen howard e,131525519000008,,male,55625149.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190102,erving julius w ii,131525519000004,,male,55625149.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190102,satin elizabeth,131525519000002,,female,55625149.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190102,bruno s joseph,131525519000010,,male,55625149.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190110,calder richard,131525519000014,President and CEO,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190110,mckee chris,131525519000016,General Counsel and EVP,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190114,sicoli michael,131525519000018,Chief Financial Officer,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190205,mckee chris,131525519000024,General Counsel and EVP,male,55625149.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190205,calder richard,131525519000020,President and CEO,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190205,sicoli michael,131525519000022,Chief Financial Officer,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190221,sicoli michael,131525519000030,Chief Financial Officer,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190221,mckee chris,131525519000028,General Counsel and EVP,male,55625149.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190221,calder richard,131525519000026,President and CEO,male,55625149.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190225,calder richard,131525519000034,President and CEO,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190225,mckee chris,131525519000032,General Counsel and EVP,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190225,sicoli michael,131525519000036,Chief Financial Officer,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190226,sicoli michael,131525519000042,Chief Financial Officer,male,55625149.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190226,mckee chris,131525519000040,General Counsel and EVP,male,55625149.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190226,calder richard,131525519000038,President and CEO,male,55625149.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190228,calder richard,131525519000052,President and CEO,male,55803359.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190228,mckee chris,131525519000054,General Counsel and EVP,male,55803359.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190228,sicoli michael,131525519000056,Chief Financial Officer,male,55803359.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190307,mckee chris,131525519000060,General Counsel and EVP,male,55803359.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190308,calder richard,131525519000062,President and CEO,male,55803359.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190402,janzen howard e,131525519000069,,male,56227038.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190402,smith theodore b. iii,131525519000067,,male,56227038.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190402,erving julius w ii,131525519000068,,male,56227038.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190402,bruno s joseph,131525519000065,,male,56227038.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190402,adamo nicola,131525519000064,,female,56227038.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190402,satin elizabeth,131525519000066,,female,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190411,mckee chris,131525519000071,General Counsel and EVP,male,56227038.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190411,calder richard,131525519000072,President and CEO,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190416,sicoli michael,131525519000073,Chief Financial Officer,male,56227038.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190506,calder richard,131525519000074,President and CEO,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190506,mckee chris,131525519000075,General Counsel and EVP,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190506,sicoli michael,131525519000076,Chief Financial Officer,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190521,sicoli michael,131525519000081,Chief Financial Officer,male,56227038.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190521,calder richard,131525519000083,President and CEO,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190521,mckee chris,131525519000082,General Counsel and EVP,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190523,sicoli michael,131525519000084,Chief Financial Officer,male,56227038.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190523,calder richard,131525519000085,President and CEO,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190523,mckee chris,131525519000086,General Counsel and EVP,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190529,mckee chris,131525519000088,General Counsel and EVP,male,56227038.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190529,sicoli michael,131525519000089,Chief Financial Officer,male,56227038.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190529,calder richard,131525519000087,President and CEO,male,56227038.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,satin elizabeth,131525519000094,,female,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,thompson h brian,131525519000091,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,erving julius w ii,131525519000092,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,smith theodore b. iii,131525519000093,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,bruno s joseph,131525519000095,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,adamo nicola,131525519000096,,female,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,janzen howard e,131525519000097,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190702,hackman rhodric c,131525519000090,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190708,calder richard,131525519000098,President and CEO,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20190710,stein benjamin forester,131525519000099,,male,56258886.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20190710,thompson h brian,131525519000100,,male,56258886.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190807,sicoli michael,131525519000102,Chief Financial Officer,male,56361585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190807,calder richard,131525519000103,President and CEO,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190807,mckee chris,131525519000101,General Counsel and EVP,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190812,mckee chris,131525519000109,General Counsel and EVP,male,56361585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190812,calder richard,131525519000108,President and CEO,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20190813,thompson h brian,131525519000118,,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190813,bruno s joseph,131525519000116,,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190813,adamo nicola,131525519000114,,female,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190813,hackman rhodric c,131525519000112,,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190813,smith theodore b. iii,131525519000111,,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190813,satin elizabeth,131525519000110,,female,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190815,adamo nicola,131525519000120,,female,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190822,sicoli michael,131525519000124,Chief Financial Officer,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190822,mckee chris,131525519000123,General Counsel and EVP,male,56361585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190823,calder richard,131525519000126,President and CEO,male,56361585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190827,calder richard,131525519000127,President and CEO,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190827,sicoli michael,131525519000130,Chief Financial Officer,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190827,sicoli michael,131525519000129,Chief Financial Officer,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190827,mckee chris,131525519000128,General Counsel and EVP,male,56361585.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20190829,calder richard,131525519000133,President and CEO,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190829,sicoli michael,131525519000132,Chief Financial Officer,male,56361585.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20190829,mckee chris,131525519000131,General Counsel and EVP,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20190829,janzen howard e,131525519000134,,male,56361585.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20191002,stein benjamin forester,131525519000144,,male,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191002,smith theodore b. iii,131525519000142,,male,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191002,adamo nicola,131525519000141,,female,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191002,erving julius w ii,131525519000140,,male,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191002,satin elizabeth,131525519000136,,female,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191002,janzen howard e,131525519000138,,male,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191002,bruno s joseph,131525519000139,,male,56314914.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20191003,calder richard,131525519000146,President and CEO,male,56314914.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191009,fraser daniel m.,131525519000148,Interim Chief Financial Office,male,56314914.0
+,,1315255,"gtt communications, inc.",0,0,1,0,20191030,"conifer management, l.l.c.",91957419006621,,male,56314914.0
+,,1315255,"gtt communications, inc.",0,0,1,0,20191101,"conifer management, l.l.c.",91957419006645,,male,56314914.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191104,fraser daniel m.,131525519000151,Interim Chief Financial Office,male,56314914.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191104,mckee chris,131525519000150,General Counsel and EVP,male,56314914.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20191104,calder richard,131525519000149,President and CEO,male,56314914.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191108,erving julius w ii,131525519000152,,male,56650772.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20191119,calder richard,131525519000159,President and CEO,male,56650772.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191119,fraser daniel m.,131525519000160,Interim Chief Financial Office,male,56650772.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191119,mckee chris,131525519000161,General Counsel and EVP,male,56650772.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191121,mckee chris,131525519000162,General Counsel and EVP,male,56650772.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20191121,calder richard,131525519000163,President and CEO,male,56650772.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191126,fraser daniel m.,131525519000165,Interim Chief Financial Office,male,56650772.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20191126,calder richard,131525519000164,President and CEO,male,56650772.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191126,mckee chris,131525519000166,General Counsel and EVP,male,56650772.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191126,hackman rhodric c,131525519000167,,male,56650772.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20191126,thompson h brian,131525519000168,,male,56650772.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191127,satin elizabeth,131525519000170,,female,56650772.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20191129,fraser daniel m.,131525519000171,Interim Chief Financial Office,male,56650772.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191202,bruno s joseph,131525519000172,,male,56650772.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20191205,calder richard,131525519000173,President and CEO,male,56650772.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20191211,bruno s joseph,131525519000174,,male,56650772.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20200102,stein benjamin forester,131525520000008,,male,56686459.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200102,smith theodore b. iii,131525520000007,,male,56686459.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200102,erving julius w ii,131525520000006,,male,56686459.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200102,bruno s joseph,131525520000005,,male,56686459.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200102,satin elizabeth,131525520000003,,female,56686459.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200102,adamo nicola,131525520000002,,female,56686459.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200102,calder richard,131525520000001,President and CEO,male,56686459.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200102,janzen howard e,131525520000004,,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200107,fraser daniel m.,131525520000009,Interim Chief Financial Office,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200109,fraser daniel m.,131525520000010,Interim Chief Financial Office,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200204,mckee chris,131525520000011,General Counsel and EVP,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200204,fraser daniel m.,131525520000012,Interim Chief Financial Office,male,56686459.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200204,calder richard,131525520000013,President and CEO,male,56686459.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200219,calder richard,131525520000014,President and CEO,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200219,fraser daniel m.,131525520000015,Interim Chief Financial Office,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200219,mckee chris,131525520000016,General Counsel and EVP,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200221,mckee chris,131525520000018,General Counsel and EVP,male,56686459.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200221,calder richard,131525520000017,President and CEO,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200225,mckee chris,131525520000021,General Counsel and EVP,male,56686459.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200225,calder richard,131525520000019,President and CEO,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200225,fraser daniel m.,131525520000020,Interim Chief Financial Office,male,56686459.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200228,fraser daniel m.,131525520000022,Interim Chief Financial Office,male,56737341.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200228,mckee chris,131525520000023,General Counsel and EVP,male,56737341.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200228,calder richard,131525520000024,President and CEO,male,56737341.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200305,fraser daniel m.,131525520000030,Interim Chief Financial Office,male,56737341.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200310,mckee chris,131525520000031,General Counsel and EVP,male,56737341.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200310,fraser daniel m.,131525520000032,Interim Chief Financial Office,male,56737341.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200310,calder richard,131525520000033,President and CEO,male,56737341.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200402,janzen howard e,131525520000037,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200402,smith theodore b. iii,131525520000043,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200402,erving julius w ii,131525520000042,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20200402,stein benjamin forester,131525520000041,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200402,adamo nicola,131525520000040,,female,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200402,mckee chris,131525520000035,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200402,bruno s joseph,131525520000038,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200402,calder richard,131525520000036,President and CEO,male,58451083.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200402,calder richard,131525520000044,President and CEO,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200402,fraser daniel m.,131525520000034,Interim Chief Financial Office,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200402,satin elizabeth,131525520000039,,female,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200408,fraser daniel m.,131525520000045,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200505,mckee chris,131525520000050,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200505,calder richard,131525520000049,President and CEO,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200505,fraser daniel m.,131525520000051,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200522,mckee chris,131525520000062,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200522,calder richard,131525520000061,President and CEO,male,58451083.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200526,calder richard,131525520000063,President and CEO,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200526,fraser daniel m.,131525520000065,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200526,mckee chris,131525520000064,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200528,fraser daniel m.,131525520000068,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200528,mckee chris,131525520000067,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",1,1,0,0,20200528,calder richard,131525520000066,President and CEO,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200608,fraser daniel m.,131525520000069,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200611,ortega ernest,131525520000071,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20200706,thompson h brian,131525520000073,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,satin elizabeth,131525520000081,,female,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200706,ortega ernest,131525520000082,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,bruno s joseph,131525520000078,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20200706,stein benjamin forester,131525520000077,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,smith theodore b. iii,131525520000080,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,erving julius w ii,131525520000079,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,hackman rhodric c,131525520000072,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,adamo nicola,131525520000074,,female,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,sternberg zachary,131525520000076,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20200706,janzen howard e,131525520000075,,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200709,fraser daniel m.,131525520000083,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200820,mckee chris,162828020012943,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200825,mckee chris,162828020013054,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200825,fraser daniel m.,162828020013055,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200826,mckee chris,162828020013067,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200827,fraser daniel m.,162828020013094,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200908,fraser daniel m.,162827920000215,Senior VP and Controller,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20200925,ortega ernest,162828020013916,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20201001,stein benjamin forester,162828020014144,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,smith theodore b. iii,162828020014145,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,erving julius w ii,162828020014142,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,bruno s joseph,162828020014140,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,janzen howard e,162828020014139,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20201001,thompson h brian,162828020014138,,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,satin elizabeth,162828020014137,,female,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,adamo nicola,162828020014143,,female,58451083.0
+,,1315255,"gtt communications, inc.",1,0,0,0,20201001,sternberg zachary,162828020014146,,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20201102,ortega ernest,162828020015283,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20201123,mckee chris,162828020016729,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20201130,mckee chris,162828020016916,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20201229,ortega ernest,162828020017792,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210129,ortega ernest,162828021001083,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210223,mckee chris,162828021002881,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210224,mckee chris,162828021002958,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210301,mckee chris,162828021003669,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210309,ortega ernest,162828021004290,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210309,mckee chris,162828021004292,General Counsel and EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210324,ortega ernest,162828021005487,Chief Revenue Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210429,ortega ernest,162828021008237,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210525,mckee chris,162828021011064,EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210525,ortega ernest,162828021011067,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210528,mckee chris,162828021011336,EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210608,mckee chris,162828021011830,EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210608,ortega ernest,162828021011832,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210628,ortega ernest,162828021013009,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210630,granato donna marie,162828021013229,Chief Financial Officer,female,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210708,macneil don,162828021013663,Chief Operating Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",1,0,1,0,20210709,thompson h brian,162828021013699,,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210709,ortega ernest,162828021013697,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210729,ortega ernest,162828021014898,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210824,mckee chris,162828021017552,EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210825,ortega ernest,162828021017606,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210827,mckee chris,162828021017735,EVP,male,58451083.0
+0.0,,1315255,"gtt communications, inc.",1,0,1,0,20210902,sternberg zachary,120919121054348,,male,58451083.0
+0.0,,1315255,"gtt communications, inc.",1,0,1,0,20210902,stein benjamin forester,120919121054349,,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210909,mckee chris,162828021018334,EVP,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210909,ortega ernest,162828021018331,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210927,ortega ernest,162828021019201,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20210927,granato donna marie,162828021019203,Chief Financial Officer,female,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211006,ortega ernest,162828021019765,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211007,macneil don,162828021019836,Chief Operating Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211029,ortega ernest,162828021020860,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211130,ortega ernest,162828021024191,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211214,ortega ernest,162828021025007,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211229,granato donna marie,162828021025644,Chief Financial Officer,female,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20211229,ortega ernest,162828021025649,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20220104,ortega ernest,162828022000201,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20220107,macneil don,162828022000462,Chief Operating Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20220111,ortega ernest,162828022000696,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20220201,ortega ernest,162828022001550,Chief Executive Officer,male,58451083.0
+,,1315255,"gtt communications, inc.",0,1,0,0,20220228,ortega ernest,162828022004108,Chief Executive Officer,male,58451083.0

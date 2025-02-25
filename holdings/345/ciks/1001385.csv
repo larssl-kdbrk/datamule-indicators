@@ -1,153 +1,389 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-1269.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,welty stephanie,144634310000001,CFO,female,
-132371.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100222,dunham brian w,123320410000001,President & CEO,male,
-11499.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,stokes gary a,124991010000001,"President, Water Transmission",male,
-7486.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,mahoney robert l,124991110000001,"President, Tubular Products",male,
-852.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,winsor jenkins,140814710000001,"VP, Human Resources",male,
-819.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,carrier greg,140814910000001,"VP, Purchasing",male,
-790.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,stone gary,140815010000001,"VP, Quality Assurance",male,
-1527.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,welty stephanie,144552510000008,CFO,female,
-883.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,stone gary,144552510000007,"VP, Quality Assurance",male,
-11802.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,stokes gary a,144552510000006,"President, Water Transmission",male,
-7661.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,mahoney robert l,144552510000005,"President, Tubular Products",male,
-989.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,winsor jenkins,144552510000004,"VP, Human Resources",male,
-133437.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100316,dunham brian w,144552510000003,President & CEO,male,
-906.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,carrier greg,144552510000002,"VP, Purchasing",male,
-0.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100402,roman richard a,144552510000009,CEO,male,
-149169.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100504,dunham brian w,144552510000010,President,male,
-11417.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100504,mahoney robert l,144552510000011,"President, Tubular Products",male,
-17669.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100504,stokes gary a,144552510000012,"President, Water Transmission",male,
-1044.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,winsor jenkins,144552510000015,"VP, Human Resources",male,
-1663.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,welty stephanie,144552510000019,CFO,female,
-932.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,stone gary,144552510000018,"VP, Quality Assurance",male,
-149732.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100820,dunham brian w,144552510000014,President,male,
-952.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,carrier greg,144552510000013,"VP, Purchasing",male,
-11522.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,mahoney robert l,144552510000016,"President, Tubular Products",male,
-17829.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,stokes gary a,144552510000017,"President, Water Transmission",male,
+1269.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,welty stephanie,144634310000001,CFO,female,
+132371.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100222,dunham brian w,123320410000001,President & CEO,male,
+11499.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,stokes gary a,124991010000001,"President, Water Transmission",male,
+7486.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,mahoney robert l,124991110000001,"President, Tubular Products",male,
+852.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,winsor jenkins,140814710000001,"VP, Human Resources",male,
+819.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,carrier greg,140814910000001,"VP, Purchasing",male,
+790.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100222,stone gary,140815010000001,"VP, Quality Assurance",male,
+906.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,carrier greg,144552510000002,"VP, Purchasing",male,
+133437.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100316,dunham brian w,144552510000003,President & CEO,male,
+989.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,winsor jenkins,144552510000004,"VP, Human Resources",male,
+7661.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,mahoney robert l,144552510000005,"President, Tubular Products",male,
+11802.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,stokes gary a,144552510000006,"President, Water Transmission",male,
+883.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,stone gary,144552510000007,"VP, Quality Assurance",male,
+1527.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100316,welty stephanie,144552510000008,CFO,female,
+,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100402,roman richard a,144552510000009,CEO,male,
+11417.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100504,mahoney robert l,144552510000011,"President, Tubular Products",male,
+17669.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100504,stokes gary a,144552510000012,"President, Water Transmission",male,
+149169.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100504,dunham brian w,144552510000010,President,male,
+952.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,carrier greg,144552510000013,"VP, Purchasing",male,
+149732.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20100820,dunham brian w,144552510000014,President,male,
+1044.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,winsor jenkins,144552510000015,"VP, Human Resources",male,
+11522.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,mahoney robert l,144552510000016,"President, Tubular Products",male,
+17829.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,stokes gary a,144552510000017,"President, Water Transmission",male,
+932.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,stone gary,144552510000018,"VP, Quality Assurance",male,
+1663.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20100820,welty stephanie,144552510000019,CFO,female,
+11455.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20101228,franson michael c,144552510000021,,male,
 19155.0,2593.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20101228,kinglsey wayne,144552510000020,,male,
-11455.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20101228,franson michael c,144552510000021,,male,
-2220.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20101228,larson keith r,144552510000022,,male,
-4500.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20110106,roman richard a,144552511000001,CEO,male,9298156.0
-2247.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110124,welty stephanie,144552511000002,CFO,female,9298156.0
-11696.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,mahoney robert l,144552511000007,"President, Tubular Products",male,9298156.0
-18132.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,stokes gary a,144552511000008,"President, Water Transmission",male,9298156.0
-1147.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,winsor jenkins,144552511000006,"VP, Human Resources",male,9298156.0
-1025.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,stone gary,144552511000009,"VP, Quality Assurance",male,9298156.0
-1039.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,carrier greg,144552511000005,"VP, Purchasing",male,9298156.0
-15684.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110516,mahoney robert l,144552511000011,"President, Tubular Products",male,9298156.0
-24055.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110516,stokes gary a,144552511000012,"President, Water Transmission",male,9298156.0
-400.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110516,gantt robin a,144552511000013,CFO,male,9298156.0
-19055.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110519,stokes gary a,144552511000014,"President, Water Transmission",male,9298156.0
-3114.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,larson keith r,144552511000018,,male,9298156.0
-20944.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,kinglsey wayne,144552511000019,,male,9298156.0
-3679.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,declusin james e,144552511000017,,male,9298156.0
-13244.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,franson michael c,144552511000016,,male,9298156.0
-1900.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110811,gantt robin a,144552511000020,CFO,male,9344701.0
-24944.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110825,kinglsey wayne,144552511000021,,male,9344701.0
-9000.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20111004,roman richard a,144552511000022,CEO,male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,carrier greg,144552511000031,"VP, Purchasing",male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,stone gary,144552511000030,"VP, Quality Assurance",male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,winsor jenkins,144552511000029,"VP, Human Resources",male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,stokes gary a,144552511000028,"President, Water Transmission",male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,mahoney robert l,144552511000027,"President, Tubular Products",male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,gantt robin a,144552511000026,CFO,male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,baum richard l.,144552511000025,General Counsel,male,9348701.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,montross scott j,144552511000024,Chief Operating Officer,male,9348701.0
-0.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20111012,roman richard a,144552511000023,CEO,male,9348701.0
-1384.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,winsor jenkins,144552512000004,"VP, Human Resources",male,9353201.0
-1232.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,stone gary,144552512000009,"VP, Quality Assurance",male,9353201.0
-20072.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,stokes gary a,144552512000008,"President, Water Transmission",male,9353201.0
-11618.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20120104,roman richard a,144552512000007,CEO,male,9353201.0
-2668.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,gantt robin a,144552512000003,CFO,male,9353201.0
-1238.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,carrier greg,144552512000002,"VP, Purchasing",male,9353201.0
-682.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,baum richard l.,144552512000001,General Counsel,male,9353201.0
-16408.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,mahoney robert l,144552512000005,"President, Tubular Products",male,9353201.0
-1390.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,montross scott j,144552512000006,Chief Operating Officer,male,9353201.0
-1349.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,carrier greg,144552512000010,"VP, Purchasing",male,9353201.0
-1501.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,winsor jenkins,144552512000011,"VP, Human Resources",male,9353201.0
-16647.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,mahoney robert l,144552512000012,"President, Tubular Products",male,9353201.0
-20456.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,stokes gary a,144552512000013,"President, Water Transmission",male,9353201.0
-1350.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,stone gary,144552512000014,"VP, Quality Assurance",male,9353201.0
-26944.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120507,kinglsey wayne,144552512000015,,male,9371111.0
-1351.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120518,carrier greg,144552512000016,"VP, Purchasing",male,9371111.0
-17078.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120518,mahoney robert l,144552512000017,"President, Tubular Products",male,9371111.0
-21087.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120518,stokes gary a,144552512000018,"President, Water Transmission",male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,carrier greg,144552512000030,"VP, Purchasing",male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,gantt robin a,144552512000025,CFO,male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,stone gary,144552512000029,"VP, Quality Assurance",male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,stokes gary a,144552512000027,"Senior VP, Sales and Marketing",male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,winsor jenkins,144552512000028,"VP, Human Resources",male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,mahoney robert l,144552512000026,"Sr VP, Strategy & Bus Devlpmnt",male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,montross scott j,144552512000023,COO,male,9371111.0
-5602.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120618,declusin james e,144552512000020,,male,9371111.0
-28867.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120618,kinglsey wayne,144552512000019,,male,9371111.0
-4075.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120618,larson keith r,144552512000021,,male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,baum richard l.,144552512000024,General Counsel,male,9371111.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,roman richard a,144552512000022,CEO,male,9371111.0
-14836.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20120703,roman richard a,144552512000031,CEO,male,9379776.0
-20287.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120720,stokes gary a,144552512000032,"Senior VP, Sales & Marketing",male,9379776.0
-1490.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20121121,winsor jenkins,144552512000033,"VP, Human Resources",male,9382944.0
-7.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20121127,winsor jenkins,144552512000034,"VP, Human Resources",male,9382944.0
-21502.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,mahoney robert l,144552513000005,"Sr VP, Business Development",male,9382994.0
-24641.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,stokes gary a,144552513000008,"Senior VP, Sales & Marketing",male,9382994.0
-26134.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130111,roman richard a,144552513000007,Exec Chairman of the Board,male,9382994.0
-2579.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,stone gary,144552513000009,"VP, Quality Assurance",male,9382994.0
-2265.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,carrier greg,144552513000002,"VP, Purchasing",male,9382994.0
-1106.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130111,winsor jenkins,144552513000004,"VP, Human Resources",male,9382994.0
-5698.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,gantt robin a,144552513000003,CFO,male,9382994.0
-8921.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130111,montross scott j,144552513000006,CEO,male,9382994.0
-3795.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,baum richard l.,144552513000001,General Counsel,male,9382994.0
-19641.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130510,stokes gary a,144552513000012,"Senior VP, Sales & Marketing",male,9437387.0
-33134.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130513,roman richard a,144552513000013,Exec Chairman of the Board,male,9437387.0
-13697.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130524,mahoney robert l,118143113030773,"Sr VP, Business Development",male,9437387.0
-8244.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130531,franson michael c,144552513000015,,male,9437387.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,mahoney robert l,144552513000024,"Sr VP, Business Development",male,9437387.0
-9062.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,franson michael c,144552513000016,,male,9437387.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,carrier greg,144552513000027,"VP, Purchasing",male,9437387.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,stone gary,144552513000026,"VP, Quality Assurance",male,9437387.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,stokes gary a,144552513000023,"Senior VP, Sales & Marketing",male,9437387.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,winsor jenkins,144552513000025,"VP, Human Resources",male,9437387.0
-0.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130604,baum richard l.,144552513000021,General Counsel,male,9437387.0
-4893.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,larson keith r,144552513000019,,male,9437387.0
-7240.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,declusin james e,144552513000018,,male,9437387.0
+2220.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20101228,larson keith r,144552510000022,,male,
+4500.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20110106,roman richard a,144552511000001,CEO,male,9298156.0
+2247.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110124,welty stephanie,144552511000002,CFO,female,9298156.0
+18132.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,stokes gary a,144552511000008,"President, Water Transmission",male,9298156.0
+11696.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,mahoney robert l,144552511000007,"President, Tubular Products",male,9298156.0
+1025.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,stone gary,144552511000009,"VP, Quality Assurance",male,9298156.0
+1039.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,carrier greg,144552511000005,"VP, Purchasing",male,9298156.0
+1147.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110317,winsor jenkins,144552511000006,"VP, Human Resources",male,9298156.0
+24055.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110516,stokes gary a,144552511000012,"President, Water Transmission",male,9298156.0
+400.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110516,gantt robin a,144552511000013,CFO,male,9298156.0
+15684.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110516,mahoney robert l,144552511000011,"President, Tubular Products",male,9298156.0
+19055.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110519,stokes gary a,144552511000014,"President, Water Transmission",male,9298156.0
+13244.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,franson michael c,144552511000016,,male,9298156.0
+3679.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,declusin james e,144552511000017,,male,9298156.0
+3114.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,larson keith r,144552511000018,,male,9298156.0
+20944.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110621,kinglsey wayne,144552511000019,,male,9298156.0
+1900.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20110811,gantt robin a,144552511000020,CFO,male,9344701.0
+24944.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20110825,kinglsey wayne,144552511000021,,male,9344701.0
+9000.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20111004,roman richard a,144552511000022,CEO,male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,carrier greg,144552511000031,"VP, Purchasing",male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,stone gary,144552511000030,"VP, Quality Assurance",male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,winsor jenkins,144552511000029,"VP, Human Resources",male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,stokes gary a,144552511000028,"President, Water Transmission",male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,montross scott j,144552511000024,Chief Operating Officer,male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,gantt robin a,144552511000026,CFO,male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,baum richard l.,144552511000025,General Counsel,male,9348701.0
+,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20111012,roman richard a,144552511000023,CEO,male,9348701.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20111012,mahoney robert l,144552511000027,"President, Tubular Products",male,9348701.0
+11618.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20120104,roman richard a,144552512000007,CEO,male,9353201.0
+1232.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,stone gary,144552512000009,"VP, Quality Assurance",male,9353201.0
+20072.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,stokes gary a,144552512000008,"President, Water Transmission",male,9353201.0
+1390.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,montross scott j,144552512000006,Chief Operating Officer,male,9353201.0
+682.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,baum richard l.,144552512000001,General Counsel,male,9353201.0
+1384.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,winsor jenkins,144552512000004,"VP, Human Resources",male,9353201.0
+2668.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,gantt robin a,144552512000003,CFO,male,9353201.0
+1238.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,carrier greg,144552512000002,"VP, Purchasing",male,9353201.0
+16408.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120104,mahoney robert l,144552512000005,"President, Tubular Products",male,9353201.0
+1349.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,carrier greg,144552512000010,"VP, Purchasing",male,9353201.0
+1501.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,winsor jenkins,144552512000011,"VP, Human Resources",male,9353201.0
+16647.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,mahoney robert l,144552512000012,"President, Tubular Products",male,9353201.0
+20456.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,stokes gary a,144552512000013,"President, Water Transmission",male,9353201.0
+1350.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120319,stone gary,144552512000014,"VP, Quality Assurance",male,9353201.0
+26944.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120507,kinglsey wayne,144552512000015,,male,9371111.0
+17078.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120518,mahoney robert l,144552512000017,"President, Tubular Products",male,9371111.0
+1351.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120518,carrier greg,144552512000016,"VP, Purchasing",male,9371111.0
+21087.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120518,stokes gary a,144552512000018,"President, Water Transmission",male,9371111.0
+28867.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120618,kinglsey wayne,144552512000019,,male,9371111.0
+5602.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120618,declusin james e,144552512000020,,male,9371111.0
+4075.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20120618,larson keith r,144552512000021,,male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,roman richard a,144552512000022,CEO,male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,stone gary,144552512000029,"VP, Quality Assurance",male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,winsor jenkins,144552512000028,"VP, Human Resources",male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,stokes gary a,144552512000027,"Senior VP, Sales and Marketing",male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,carrier greg,144552512000030,"VP, Purchasing",male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,gantt robin a,144552512000025,CFO,male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,baum richard l.,144552512000024,General Counsel,male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,montross scott j,144552512000023,COO,male,9371111.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120618,mahoney robert l,144552512000026,"Sr VP, Strategy & Bus Devlpmnt",male,9371111.0
+14836.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20120703,roman richard a,144552512000031,CEO,male,9379776.0
+20287.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20120720,stokes gary a,144552512000032,"Senior VP, Sales & Marketing",male,9379776.0
+1490.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20121121,winsor jenkins,144552512000033,"VP, Human Resources",male,9382944.0
+7.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20121127,winsor jenkins,144552512000034,"VP, Human Resources",male,9382944.0
+8921.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130111,montross scott j,144552513000006,CEO,male,9382994.0
+24641.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,stokes gary a,144552513000008,"Senior VP, Sales & Marketing",male,9382994.0
+26134.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130111,roman richard a,144552513000007,Exec Chairman of the Board,male,9382994.0
+21502.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,mahoney robert l,144552513000005,"Sr VP, Business Development",male,9382994.0
+2579.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,stone gary,144552513000009,"VP, Quality Assurance",male,9382994.0
+5698.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,gantt robin a,144552513000003,CFO,male,9382994.0
+2265.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,carrier greg,144552513000002,"VP, Purchasing",male,9382994.0
+3795.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130111,baum richard l.,144552513000001,General Counsel,male,9382994.0
+1106.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130111,winsor jenkins,144552513000004,"VP, Human Resources",male,9382994.0
+19641.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130510,stokes gary a,144552513000012,"Senior VP, Sales & Marketing",male,9437387.0
+33134.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130513,roman richard a,144552513000013,Exec Chairman of the Board,male,9437387.0
+13697.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130524,mahoney robert l,118143113030773,"Sr VP, Business Development",male,9437387.0
+8244.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130531,franson michael c,144552513000015,,male,9437387.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,carrier greg,144552513000027,"VP, Purchasing",male,9437387.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,stone gary,144552513000026,"VP, Quality Assurance",male,9437387.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,winsor jenkins,144552513000025,"VP, Human Resources",male,9437387.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,mahoney robert l,144552513000024,"Sr VP, Business Development",male,9437387.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,stokes gary a,144552513000023,"Senior VP, Sales & Marketing",male,9437387.0
+,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130604,baum richard l.,144552513000021,General Counsel,male,9437387.0
+,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130604,montross scott j,144552513000020,President and CEO,male,9437387.0
+4893.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,larson keith r,144552513000019,,male,9437387.0
+7240.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,declusin james e,144552513000018,,male,9437387.0
 3638.0,550.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,demorest harry l,144552513000017,,male,9437387.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,gantt robin a,144552513000022,CFO,male,9437387.0
-0.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20130604,montross scott j,144552513000020,President and CEO,male,9437387.0
-4349.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,smith william m,144552514000009,"Exec VP, Water Transmission",male,9449299.0
-42580.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140117,roman richard a,144552514000008,Exec Chairman of the Board,male,9449299.0
-6560.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,dana martin w,144552514000003,"Exec VP, Tubular Products",male,9449299.0
-25478.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,stokes gary a,144552514000010,"Senior VP, Sales & Marketing",male,9449299.0
-17410.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140117,montross scott j,144552514000007,President and CEO,male,9449299.0
-17976.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,mahoney robert l,144552514000006,"Sr VP, Business Development",male,9449299.0
-12396.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,gantt robin a,144552514000005,CFO,male,9449299.0
-3242.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,carrier greg,144552514000002,"VP, Purchasing",male,9449299.0
-8109.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,baum richard l.,144552514000001,General Counsel,male,9449299.0
-2229.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,winsor jenkins,144552514000004,"VP, Human Resources",male,9449299.0
-3745.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,stone gary,144552514000011,"VP, Quality Assurance",male,9449299.0
-44580.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140513,roman richard a,144552514000012,Exec Chairman of the Board,male,9508917.0
-30395.0,2593.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,kinglsey wayne,144552514000023,,male,9508917.0
-6421.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,larson keith r,144552514000024,,male,9508917.0
+9062.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20130604,franson michael c,144552513000016,,male,9437387.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20130604,gantt robin a,144552513000022,CFO,male,9437387.0
+42580.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140117,roman richard a,144552514000008,Exec Chairman of the Board,male,9449299.0
+3745.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,stone gary,144552514000011,"VP, Quality Assurance",male,9449299.0
+25478.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,stokes gary a,144552514000010,"Senior VP, Sales & Marketing",male,9449299.0
+4349.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,smith william m,144552514000009,"Exec VP, Water Transmission",male,9449299.0
+17410.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140117,montross scott j,144552514000007,President and CEO,male,9449299.0
+8109.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,baum richard l.,144552514000001,General Counsel,male,9449299.0
+12396.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,gantt robin a,144552514000005,CFO,male,9449299.0
+2229.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,winsor jenkins,144552514000004,"VP, Human Resources",male,9449299.0
+6560.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,dana martin w,144552514000003,"Exec VP, Tubular Products",male,9449299.0
+3242.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,carrier greg,144552514000002,"VP, Purchasing",male,9449299.0
+17976.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140117,mahoney robert l,144552514000006,"Sr VP, Business Development",male,9449299.0
+44580.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140513,roman richard a,144552514000012,Exec Chairman of the Board,male,9508917.0
+6421.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,larson keith r,144552514000024,,male,9508917.0
+10590.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,franson michael c,144552514000022,,male,9508917.0
 5710.0,550.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,demorest harry l,144552514000021,,male,9508917.0
-8768.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,declusin james e,144552514000020,,male,9508917.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,stone gary,144552514000019,"VP, Quality Assurance",male,9508917.0
-10590.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,franson michael c,144552514000022,,male,9508917.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,mahoney robert l,144552514000017,"Sr VP, Business Development",male,9508917.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,smith william m,144552514000018,"Exec VP, Operations",male,9508917.0
-0.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140602,montross scott j,144552514000013,President and CEO,male,9508917.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,gantt robin a,144552514000016,CFO,male,9508917.0
-0.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,dana martin w,144552514000015,"Exec VP, Sales",male,9508917.0
-0.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140602,baum richard l.,144552514000014,General Counsel,male,9508917.0
-1510.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140915,applebaum michelle galanter,144552514000026,,female,9518557.0
-17330.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,gantt robin a,144552515000002,CFO,male,9520067.0
-11236.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,baum richard l.,144552515000001,General Counsel,male,9520067.0
-8131.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,dana martin w,144552515000003,"Exec VP, Sales & Marketing",male,9520067.0
-23954.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,montross scott j,144552515000005,President and CEO,male,9520067.0
-21202.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,mahoney robert l,144552515000004,"Sr VP, Business Development",male,9520067.0
-6178.0,0.0,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,smith william m,144552515000006,"Exec VP, Operations",male,9520067.0
-6710.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150508,demorest harry l,144552515000007,,male,9554222.0
-44646.0,0.0,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20150512,roman richard a,144552515000008,Exec Chairman of the Board,male,9554222.0
+8768.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,declusin james e,144552514000020,,male,9508917.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,stone gary,144552514000019,"VP, Quality Assurance",male,9508917.0
+30395.0,2593.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140602,kinglsey wayne,144552514000023,,male,9508917.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,mahoney robert l,144552514000017,"Sr VP, Business Development",male,9508917.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,gantt robin a,144552514000016,CFO,male,9508917.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,dana martin w,144552514000015,"Exec VP, Sales",male,9508917.0
+,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140602,baum richard l.,144552514000014,General Counsel,male,9508917.0
+,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20140602,montross scott j,144552514000013,President and CEO,male,9508917.0
+,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20140602,smith william m,144552514000018,"Exec VP, Operations",male,9508917.0
+1510.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20140915,applebaum michelle galanter,144552514000026,,female,9518557.0
+6178.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,smith william m,144552515000006,"Exec VP, Operations",male,9520067.0
+23954.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,montross scott j,144552515000005,President and CEO,male,9520067.0
+21202.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,mahoney robert l,144552515000004,"Sr VP, Business Development",male,9520067.0
+17330.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,gantt robin a,144552515000002,CFO,male,9520067.0
+11236.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,baum richard l.,144552515000001,General Counsel,male,9520067.0
+8131.0,,1001385,northwest pipe co,0.0,1.0,0.0,0.0,20150120,dana martin w,144552515000003,"Exec VP, Sales & Marketing",male,9520067.0
+6710.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150508,demorest harry l,144552515000007,,male,9554222.0
+44646.0,,1001385,northwest pipe co,1.0,1.0,0.0,0.0,20150512,roman richard a,144552515000008,Exec Chairman of the Board,male,9554222.0
 7710.0,550.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150601,demorest harry l,144552515000009,,male,9554222.0
-4126.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,applebaum michelle galanter,144552515000012,,female,9554222.0
-11384.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,declusin james e,144552515000013,,male,9554222.0
-9037.0,0.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,larson keith r,144552515000015,,male,9554222.0
+4126.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,applebaum michelle galanter,144552515000012,,female,9554222.0
+11384.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,declusin james e,144552515000013,,male,9554222.0
 10326.0,550.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,demorest harry l,144552515000014,,male,9554222.0
+9037.0,,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20150608,larson keith r,144552515000015,,male,9554222.0
+16826.0,550.0,1001385,northwest pipe co,1.0,0.0,0.0,0.0,20151112,demorest harry l,144552515000017,,male,9564752.0
+8689.0,,1001385,northwest pipe co,,1.0,,,20160120,dana martin w,143774916023859,"Exec VP, Sales & Marketing",male,9564752.0
+6843.0,,1001385,northwest pipe co,,1.0,,,20160120,smith william m,143774916023855,"Exec VP, Operations",male,9564752.0
+462.0,,1001385,northwest pipe co,,,,1.0,20160120,goad gregory,143774916023857,,male,9564752.0
+18562.0,,1001385,northwest pipe co,,1.0,,,20160120,gantt robin a,143774916023858,CFO,male,9564752.0
+26254.0,,1001385,northwest pipe co,,1.0,,,20160120,montross scott j,143774916023856,President & CEO,male,9564752.0
+,,1001385,northwest pipe co,,1.0,,,20160422,gantt robin a,143774916029856,CFO,male,9573371.0
+,,1001385,northwest pipe co,,1.0,,,20160422,dana martin w,143774916029857,"Exec VP, Bus Devel & Strategy",male,9573371.0
+,,1001385,northwest pipe co,,1.0,,,20160422,smith william m,143774916029858,"Exec VP, Water Transmission",male,9573371.0
+,,1001385,northwest pipe co,,1.0,,,20160422,montross scott j,143774916029855,President & CEO,male,9573371.0
+18826.0,,1001385,northwest pipe co,1.0,,,,20160512,demorest harry l,143774916031609,,male,9573371.0
+20826.0,,1001385,northwest pipe co,1.0,,,,20160512,demorest harry l,143774916031726,,male,9573371.0
+21826.0,,1001385,northwest pipe co,1.0,,,,20160516,demorest harry l,143774916031933,,male,9573371.0
+17125.0,,1001385,northwest pipe co,1.0,,,,20160603,declusin james e,143774916033283,,male,9573371.0
+9867.0,,1001385,northwest pipe co,1.0,,,,20160603,applebaum michelle galanter,143774916033284,,female,9573371.0
+14778.0,,1001385,northwest pipe co,1.0,,,,20160603,larson keith r,143774916033285,,male,9573371.0
+27567.0,550.0,1001385,northwest pipe co,1.0,,,,20160603,demorest harry l,143774916033286,,male,9573371.0
+4676.0,,1001385,northwest pipe co,1.0,,,,20160926,franson michael c,143774916039125,,male,9596335.0
+,,1001385,northwest pipe co,,1.0,,,20160926,wilkins aaron,143774916039127,VP of Finance &Corp Controller,male,9596335.0
+27424.0,,1001385,northwest pipe co,,1.0,,,20170117,montross scott j,143774917000736,President & CEO,male,9601011.0
+19197.0,,1001385,northwest pipe co,,1.0,,,20170117,gantt robin a,143774917000737,CFO,male,9601011.0
+9043.0,,1001385,northwest pipe co,,1.0,,,20170117,dana martin w,143774917000738,"Exec VP, Bus Devel & Strategy",male,9601011.0
+7252.0,,1001385,northwest pipe co,,1.0,,,20170117,smith william m,143774917000739,"Exec VP, Water Transmission",male,9601011.0
+143.0,,1001385,northwest pipe co,,1.0,,,20170117,wilkins aaron,143774917000740,VP of Finance &Corp Controller,male,9601011.0
+31303.0,550.0,1001385,northwest pipe co,1.0,,,,20170605,demorest harry l,143774917010665,,male,9604811.0
+18514.0,,1001385,northwest pipe co,1.0,,,,20170605,larson keith r,143774917010667,,male,9604811.0
+18514.0,,1001385,northwest pipe co,1.0,,,,20170605,larson keith r,143774917010666,,male,9604811.0
+8412.0,,1001385,northwest pipe co,1.0,,,,20170605,franson michael c,143774917010668,,male,9604811.0
+13603.0,,1001385,northwest pipe co,1.0,,,,20170605,applebaum michelle galanter,143774917010669,,female,9604811.0
+4381.0,,1001385,northwest pipe co,,1.0,,,20180117,wilkins aaron,143774918000754,VP of Finance &Corp Controller,male,9619755.0
+21946.0,,1001385,northwest pipe co,,1.0,,,20180117,dana martin w,143774918000750,"Exec VP, Bus Devel & Strategy",male,9619755.0
+22371.0,,1001385,northwest pipe co,,1.0,,,20180117,smith william m,143774918000753,"Exec VP, Water Transmission",male,9619755.0
+35515.0,,1001385,northwest pipe co,,1.0,,,20180117,gantt robin a,143774918000751,CFO,male,9619755.0
+59242.0,,1001385,northwest pipe co,,1.0,,,20180117,montross scott j,143774918000752,President & CEO,male,9619755.0
+16396.0,,1001385,northwest pipe co,1.0,,,,20180608,applebaum michelle galanter,143774918011512,,female,9723883.0
+21307.0,,1001385,northwest pipe co,1.0,,,,20180608,larson keith r,143774918011510,,male,9723883.0
+11205.0,,1001385,northwest pipe co,1.0,,,,20180608,franson michael c,143774918011509,,male,9723883.0
+34096.0,550.0,1001385,northwest pipe co,1.0,,,,20180608,demorest harry l,143774918011511,,male,9723883.0
+20000.0,,1001385,northwest pipe co,1.0,,,,20180907,applebaum michelle galanter,143774918016736,,female,9735055.0
+35200.0,,1001385,northwest pipe co,1.0,,,,20181218,roman richard a,143774918022212,,male,9735055.0
+,,1001385,northwest pipe co,,1.0,,,20190328,montross scott j,143774919005944,President & CEO,male,9735055.0
+,,1001385,northwest pipe co,,1.0,,,20190328,gantt robin a,143774919005945,CFO,male,9735055.0
+,,1001385,northwest pipe co,,1.0,,,20190328,smith william m,143774919005946,"Exec VP, Water Transmission",male,9735055.0
+,,1001385,northwest pipe co,,1.0,,,20190328,wilkins aaron,143774919005948,VP of Finance &Corp Controller,male,9735055.0
+,,1001385,northwest pipe co,,,,1.0,20190328,brittain miles,143774919005952,,male,9735055.0
+23750.0,,1001385,northwest pipe co,1.0,,,,20190624,larson keith r,143774919012587,,male,9735055.0
+22443.0,,1001385,northwest pipe co,1.0,,,,20190624,applebaum michelle galanter,143774919012585,,female,9735055.0
+13648.0,,1001385,northwest pipe co,1.0,,,,20190624,franson michael c,143774919012586,,male,9735055.0
+37643.0,,1001385,northwest pipe co,1.0,,,,20190624,roman richard a,143774919012584,,male,9735055.0
+2152.0,,1001385,northwest pipe co,1.0,,,,20190916,paschal john,143774919018499,,male,9744827.0
+6528.0,,1001385,northwest pipe co,,,,1.0,20200117,brittain miles,143774920000786,,male,9746979.0
+35950.0,,1001385,northwest pipe co,,1.0,,,20200117,gantt robin a,143774920000787,CFO,male,9746979.0
+60799.0,,1001385,northwest pipe co,,1.0,,,20200117,montross scott j,143774920000789,President & CEO,male,9746979.0
+22884.0,,1001385,northwest pipe co,,1.0,,,20200117,smith william m,143774920000791,"Exec VP, Water Transmission",male,9746979.0
+4518.0,,1001385,northwest pipe co,,1.0,,,20200117,wilkins aaron,143774920000793,VP of Finance &Corp Controller,male,9746979.0
+14648.0,,1001385,northwest pipe co,1.0,,,,20200316,franson michael c,143774920005360,,male,9746979.0
+,,1001385,northwest pipe co,,1.0,,,20200330,montross scott j,143774920006545,President & CEO,male,9746979.0
+39894.0,,1001385,northwest pipe co,1.0,,,,20200330,roman richard a,143774920006540,,male,9746979.0
+,,1001385,northwest pipe co,,1.0,,,20200330,stokes eric,143774920006562,Sr. VP of Sales & Marketing,male,9746979.0
+,,1001385,northwest pipe co,,1.0,,,20200330,smith william m,143774920006551,"Exec VP, Water Transmission",male,9746979.0
+,,1001385,northwest pipe co,,1.0,,,20200330,brittain miles,143774920006553,Sr. VP of Operations,male,9746979.0
+,,1001385,northwest pipe co,,1.0,,,20200330,wilkins aaron,143774920006548,VP of Finance &Corp Controller,male,9746979.0
+,,1001385,northwest pipe co,,1.0,,,20200330,kendrick megan a.,143774920006571,VP of Human Resources,female,9746979.0
+74717.0,,1001385,northwest pipe co,,1.0,,,20200402,montross scott j,143774920006949,President & CEO,male,9787995.0
+39904.0,,1001385,northwest pipe co,,1.0,,,20200402,gantt robin a,143774920006951,CFO,male,9787995.0
+5757.0,,1001385,northwest pipe co,,1.0,,,20200402,wilkins aaron,143774920006953,VP of Finance &Corp Controller,male,9787995.0
+27468.0,,1001385,northwest pipe co,,1.0,,,20200402,smith william m,143774920006956,"Exec VP, Water Transmission",male,9787995.0
+8499.0,,1001385,northwest pipe co,,1.0,,,20200402,brittain miles,143774920006958,Sr. VP of Operations,male,9787995.0
+3508.0,,1001385,northwest pipe co,,1.0,,,20200402,stokes eric,143774920006960,Sr. VP of Sales & Marketing,male,9787995.0
+1932.0,,1001385,northwest pipe co,,1.0,,,20200402,kendrick megan a.,143774920006962,VP of Human Resources,female,9787995.0
+18317.0,,1001385,northwest pipe co,1.0,,,,20200605,applebaum michelle galanter,143774920012541,,female,9787995.0
+42457.0,,1001385,northwest pipe co,1.0,,,,20200608,roman richard a,143774920012607,,male,9787995.0
+17211.0,,1001385,northwest pipe co,1.0,,,,20200608,franson michael c,143774920012609,,male,9787995.0
+26313.0,,1001385,northwest pipe co,1.0,,,,20200608,larson keith r,143774920012611,,male,9787995.0
+4715.0,,1001385,northwest pipe co,1.0,,,,20200608,paschal john,143774920012613,,male,9787995.0
+2563.0,,1001385,northwest pipe co,1.0,,,,20200608,yearsley william s.,143774920012615,,male,9787995.0
+4784.0,,1001385,northwest pipe co,1.0,,,,20200911,yearsley william s.,143774920019644,,male,9800810.0
+2406.0,,1001385,northwest pipe co,1.0,,,,20200911,kulesa amanda,143774920019646,,female,9800810.0
+9178.0,,1001385,northwest pipe co,,1.0,,,20210119,brittain miles,143774921000896,Sr. VP of Operations,male,9805437.0
+2257.0,,1001385,northwest pipe co,,1.0,,,20210119,kendrick megan a.,143774921000898,VP of Human Resources,female,9805437.0
+77855.0,,1001385,northwest pipe co,,1.0,,,20210119,montross scott j,143774921000900,President & CEO,male,9805437.0
+28467.0,,1001385,northwest pipe co,,1.0,,,20210119,smith william m,143774921000902,"Exec VP, Water Transmission",male,9805437.0
+4115.0,,1001385,northwest pipe co,,1.0,,,20210119,stokes eric,143774921000904,Sr. VP of Sales & Marketing,male,9805437.0
+6277.0,,1001385,northwest pipe co,,1.0,,,20210119,wilkins aaron,143774921000906,VP of Finance &Corp Controller,male,9805437.0
+,,1001385,northwest pipe co,,1.0,,,20210322,kendrick megan a.,143774921006795,VP of Human Resources,female,9805437.0
+,,1001385,northwest pipe co,,1.0,,,20210322,stokes eric,143774921006792,Sr. VP of Sales & Marketing,male,9805437.0
+,,1001385,northwest pipe co,,1.0,,,20210322,montross scott j,143774921006782,President & CEO,male,9805437.0
+,,1001385,northwest pipe co,,1.0,,,20210322,smith william m,143774921006786,"Exec VP, Water Transmission",male,9805437.0
+,,1001385,northwest pipe co,,1.0,,,20210322,wilkins aaron,143774921006784,CFO,male,9805437.0
+,,1001385,northwest pipe co,,1.0,,,20210322,brittain miles,143774921006790,Sr. VP of Operations,male,9805437.0
+7626.0,,1001385,northwest pipe co,,1.0,,,20210402,stokes eric,143774921008112,Sr. VP of Sales & Marketing,male,9857961.0
+12965.0,,1001385,northwest pipe co,,1.0,,,20210402,brittain miles,143774921008110,Sr. VP of Operations,male,9857961.0
+3986.0,,1001385,northwest pipe co,,1.0,,,20210402,kendrick megan a.,143774921008114,VP of Human Resources,female,9857961.0
+9402.0,,1001385,northwest pipe co,,1.0,,,20210402,wilkins aaron,143774921008106,CFO,male,9857961.0
+94274.0,,1001385,northwest pipe co,,1.0,,,20210402,montross scott j,143774921008104,President & CEO,male,9857961.0
+33782.0,,1001385,northwest pipe co,,1.0,,,20210402,smith william m,143774921008108,"Exec VP, Water Transmission",male,9857961.0
+93774.0,,1001385,northwest pipe co,,1.0,,,20210512,montross scott j,143774921011863,President & CEO,male,9857961.0
+24813.0,,1001385,northwest pipe co,1.0,,,,20210512,larson keith r,143774921011867,,male,9857961.0
+93374.0,,1001385,northwest pipe co,,1.0,,,20210514,montross scott j,143774921012321,President & CEO,male,9857961.0
+92974.0,,1001385,northwest pipe co,,1.0,,,20210518,montross scott j,143774921012660,President & CEO,male,9857961.0
+23813.0,,1001385,northwest pipe co,1.0,,,,20210519,larson keith r,143774921012761,,male,9857961.0
+92474.0,,1001385,northwest pipe co,,1.0,,,20210520,montross scott j,143774921012927,President & CEO,male,9857961.0
+39457.0,,1001385,northwest pipe co,1.0,,,,20210521,roman richard a,143774921013047,,male,9857961.0
+91874.0,,1001385,northwest pipe co,,1.0,,,20210524,montross scott j,143774921013187,President & CEO,male,9857961.0
+22313.0,,1001385,northwest pipe co,1.0,,,,20210526,larson keith r,143774921013382,,male,9857961.0
+91274.0,,1001385,northwest pipe co,,1.0,,,20210526,montross scott j,143774921013384,President & CEO,male,9857961.0
+90774.0,,1001385,northwest pipe co,,1.0,,,20210528,montross scott j,143774921013696,President & CEO,male,9857961.0
+90274.0,,1001385,northwest pipe co,,1.0,,,20210602,montross scott j,143774921013982,President & CEO,male,9857961.0
+21313.0,,1001385,northwest pipe co,1.0,,,,20210602,larson keith r,143774921013986,,male,9857961.0
+89874.0,,1001385,northwest pipe co,,1.0,,,20210604,montross scott j,143774921014171,President & CEO,male,9857961.0
+20313.0,,1001385,northwest pipe co,1.0,,,,20210608,larson keith r,143774921014311,,male,9857961.0
+89474.0,,1001385,northwest pipe co,,1.0,,,20210608,montross scott j,143774921014309,President & CEO,male,9857961.0
+89154.0,,1001385,northwest pipe co,,1.0,,,20210610,montross scott j,143774921014503,President & CEO,male,9857961.0
+6885.0,,1001385,northwest pipe co,1.0,,,,20210614,yearsley william s.,143774921014761,,male,9857961.0
+88754.0,,1001385,northwest pipe co,,1.0,,,20210614,montross scott j,143774921014765,President & CEO,male,9857961.0
+4507.0,,1001385,northwest pipe co,1.0,,,,20210614,kulesa amanda,143774921014763,,female,9857961.0
+19312.0,,1001385,northwest pipe co,1.0,,,,20210614,franson michael c,143774921014754,,male,9857961.0
+22414.0,,1001385,northwest pipe co,1.0,,,,20210614,larson keith r,143774921014756,,male,9857961.0
+41558.0,,1001385,northwest pipe co,1.0,,,,20210614,roman richard a,143774921014752,,male,9857961.0
+6816.0,,1001385,northwest pipe co,1.0,,,,20210614,paschal john,143774921014758,,male,9857961.0
+88554.0,,1001385,northwest pipe co,,1.0,,,20210616,montross scott j,143774921014977,President & CEO,male,9857961.0
+21414.0,,1001385,northwest pipe co,1.0,,,,20210616,larson keith r,143774921014975,,male,9857961.0
+20414.0,,1001385,northwest pipe co,1.0,,,,20210623,larson keith r,143774921015427,,male,9857961.0
+19414.0,,1001385,northwest pipe co,1.0,,,,20210630,larson keith r,143774921016001,,male,9870567.0
+18414.0,,1001385,northwest pipe co,1.0,,,,20210708,larson keith r,143774921016677,,male,9870567.0
+17414.0,,1001385,northwest pipe co,1.0,,,,20210721,larson keith r,143774921017266,,male,9870567.0
+16414.0,,1001385,northwest pipe co,1.0,,,,20210728,larson keith r,143774921017785,,male,9870567.0
+15414.0,,1001385,northwest pipe co,1.0,,,,20210804,larson keith r,143774921018482,,male,9870567.0
+88354.0,,1001385,northwest pipe co,,1.0,,,20211118,montross scott j,143774921027028,President & CEO,male,9870567.0
+14414.0,,1001385,northwest pipe co,1.0,,,,20211118,larson keith r,143774921027030,,male,9870567.0
+13414.0,,1001385,northwest pipe co,1.0,,,,20211124,larson keith r,143774921027356,,male,9870567.0
+87954.0,,1001385,northwest pipe co,,1.0,,,20211124,montross scott j,143774921027359,President & CEO,male,9870567.0
+87554.0,,1001385,northwest pipe co,,1.0,,,20211130,montross scott j,143774921027515,President & CEO,male,9870567.0
+12414.0,,1001385,northwest pipe co,1.0,,,,20211130,larson keith r,143774921027541,,male,9870567.0
+12101.0,,1001385,northwest pipe co,1.0,,,,20211207,larson keith r,143774921028025,,male,9870567.0
+87354.0,,1001385,northwest pipe co,,1.0,,,20211210,montross scott j,143774921028291,President & CEO,male,9870567.0
+86954.0,,1001385,northwest pipe co,,1.0,,,20211216,montross scott j,143774921028702,President & CEO,male,9870567.0
+86554.0,,1001385,northwest pipe co,,1.0,,,20211220,montross scott j,143774921028956,President & CEO,male,9870567.0
+86154.0,,1001385,northwest pipe co,,1.0,,,20211229,montross scott j,143774921029387,President & CEO,male,9870567.0
+85554.0,,1001385,northwest pipe co,,1.0,,,20220103,montross scott j,143774922000108,President & CEO,male,9870567.0
+85054.0,,1001385,northwest pipe co,,1.0,,,20220105,montross scott j,143774922000414,President & CEO,male,9870567.0
+84454.0,,1001385,northwest pipe co,,1.0,,,20220110,montross scott j,143774922000634,President & CEO,male,9870567.0
+83854.0,,1001385,northwest pipe co,,1.0,,,20220112,montross scott j,143774922000821,President & CEO,male,9870567.0
+83454.0,,1001385,northwest pipe co,,1.0,,,20220118,montross scott j,143774922001034,President & CEO,male,9870567.0
+4473.0,,1001385,northwest pipe co,,1.0,,,20220119,kendrick megan a.,143774922001245,VP of Human Resources,female,9870567.0
+8567.0,,1001385,northwest pipe co,,1.0,,,20220119,stokes eric,143774922001242,Sr VP/GM of Water Transmission,male,9870567.0
+35170.0,,1001385,northwest pipe co,,1.0,,,20220119,smith william m,143774922001236,"Exec VP, Water Transmission",male,9870567.0
+13976.0,,1001385,northwest pipe co,,1.0,,,20220119,brittain miles,143774922001238,Executive Vice President,male,9870567.0
+10230.0,,1001385,northwest pipe co,,1.0,,,20220119,wilkins aaron,143774922001240,CFO,male,9870567.0
+87923.0,,1001385,northwest pipe co,,1.0,,,20220119,montross scott j,143774922001233,President & CEO,male,9870567.0
+87723.0,,1001385,northwest pipe co,,1.0,,,20220120,montross scott j,143774922001288,President & CEO,male,9870567.0
+87523.0,,1001385,northwest pipe co,,1.0,,,20220210,montross scott j,143774922003024,President & CEO,male,9870567.0
+11501.0,,1001385,northwest pipe co,,1.0,,,20220404,stokes eric,143774922008125,Sr VP/GM of Water Transmission,male,9915980.0
+5711.0,,1001385,northwest pipe co,,1.0,,,20220404,kendrick megan a.,143774922008127,VP of Human Resources,female,9915980.0
+17102.0,,1001385,northwest pipe co,,1.0,,,20220404,brittain miles,143774922008121,Executive Vice President,male,9915980.0
+38609.0,,1001385,northwest pipe co,,1.0,,,20220404,smith william m,143774922008119,"Exec VP, Water Transmission",male,9915980.0
+98266.0,,1001385,northwest pipe co,,1.0,,,20220404,montross scott j,143774922008117,President & CEO,male,9915980.0
+12989.0,,1001385,northwest pipe co,,1.0,,,20220404,wilkins aaron,143774922008123,CFO,male,9915980.0
+97791.0,,1001385,northwest pipe co,,1.0,,,20220512,montross scott j,143774922012181,President & CEO,male,9915980.0
+96791.0,,1001385,northwest pipe co,,1.0,,,20220517,montross scott j,143774922012752,President & CEO,male,9915980.0
+95291.0,,1001385,northwest pipe co,,1.0,,,20220519,montross scott j,143774922013023,President & CEO,male,9915980.0
+35132.0,,1001385,northwest pipe co,1.0,,,,20220519,roman richard a,143774922013027,,male,9915980.0
+92791.0,,1001385,northwest pipe co,,1.0,,,20220524,montross scott j,143774922013440,President & CEO,male,9915980.0
+31558.0,,1001385,northwest pipe co,1.0,,,,20220524,roman richard a,143774922013447,,male,9915980.0
+90291.0,,1001385,northwest pipe co,,1.0,,,20220601,montross scott j,143774922013994,President & CEO,male,9915980.0
+88739.0,,1001385,northwest pipe co,,1.0,,,20220606,montross scott j,143774922014445,President & CEO,male,9915980.0
+14377.0,,1001385,northwest pipe co,1.0,,,,20220617,larson keith r,143774922015320,,male,9915980.0
+9092.0,,1001385,northwest pipe co,1.0,,,,20220617,paschal john,143774922015326,,male,9915980.0
+6783.0,,1001385,northwest pipe co,1.0,,,,20220617,kulesa amanda,143774922015328,,female,9915980.0
+31334.0,,1001385,northwest pipe co,1.0,,,,20220617,roman richard a,143774922015317,,male,9915980.0
+21588.0,,1001385,northwest pipe co,1.0,,,,20220617,franson michael c,143774922015331,,male,9915980.0
+,,1001385,northwest pipe co,,1.0,,,20220621,montross scott j,143774922015422,President & CEO,male,9915980.0
+,,1001385,northwest pipe co,,1.0,,,20220621,brittain miles,143774922015424,Executive Vice President,male,9915980.0
+,,1001385,northwest pipe co,,1.0,,,20220621,wilkins aaron,143774922015428,CFO,male,9915980.0
+,,1001385,northwest pipe co,,1.0,,,20220621,stokes eric,143774922015431,SVP/GM of Engineered SPP,male,9915980.0
+,,1001385,northwest pipe co,,1.0,,,20220621,wray michael,143774922015433,"SVP/GM, Precast Infrastructure",male,9915980.0
+,,1001385,northwest pipe co,,1.0,,,20220621,kendrick megan a.,143774922015436,VP of Human Resources,female,9915980.0
+19487.0,,1001385,northwest pipe co,1.0,,,,20221020,franson michael c,143774922024425,,male,9927360.0
+28878.0,,1001385,northwest pipe co,1.0,,,,20221020,roman richard a,143774922024423,,male,9927360.0
+26334.0,,1001385,northwest pipe co,1.0,,,,20221024,roman richard a,143774922024584,,male,9927360.0
+16924.0,,1001385,northwest pipe co,1.0,,,,20221031,franson michael c,143774922025130,,male,9927360.0
+93083.0,,1001385,northwest pipe co,,1.0,,,20230118,montross scott j,143774923001224,President & CEO,male,9927360.0
+18351.0,,1001385,northwest pipe co,,1.0,,,20230118,brittain miles,143774923001226,Executive Vice President,male,9927360.0
+14077.0,,1001385,northwest pipe co,,1.0,,,20230118,wilkins aaron,143774923001228,CFO,male,9927360.0
+12643.0,,1001385,northwest pipe co,,1.0,,,20230118,stokes eric,143774923001231,SVP/GM of Engineered SPP,male,9927360.0
+6900.0,,1001385,northwest pipe co,,1.0,,,20230118,wray michael,143774923001233,"SVP/GM, Precast Infrastructure",male,9927360.0
+6229.0,,1001385,northwest pipe co,,1.0,,,20230118,kendrick megan a.,143774923001235,VP of Human Resources,female,9927360.0
+8594.0,,1001385,northwest pipe co,,1.0,,,20230404,kendrick megan a.,143774923009297,VP of Human Resources,female,9998292.0
+112409.0,,1001385,northwest pipe co,,1.0,,,20230404,montross scott j,143774923009279,President & CEO,male,9998292.0
+19149.0,,1001385,northwest pipe co,,1.0,,,20230404,wilkins aaron,143774923009284,CFO,male,9998292.0
+24141.0,,1001385,northwest pipe co,,1.0,,,20230404,brittain miles,143774923009289,Executive Vice President,male,9998292.0
+17879.0,,1001385,northwest pipe co,,1.0,,,20230404,stokes eric,143774923009292,SVP/GM of Engineered SPP,male,9998292.0
+10253.0,,1001385,northwest pipe co,,1.0,,,20230404,wray michael,143774923009294,"SVP/GM, Precast Infrastructure",male,9998292.0
+,,1001385,northwest pipe co,,1.0,,,20230411,kendrick megan a.,143774923009957,VP of Human Resources,female,9998292.0
+,,1001385,northwest pipe co,,1.0,,,20230411,wray michael,143774923009955,"SVP/GM, Precast Infrastructure",male,9998292.0
+,,1001385,northwest pipe co,,1.0,,,20230411,stokes eric,143774923009953,SVP/GM of Engineered SPP,male,9998292.0
+682.0,,1001385,northwest pipe co,1.0,,,,20230411,lockridge irma,143774923009943,,female,9998292.0
+,,1001385,northwest pipe co,,1.0,,,20230411,wilkins aaron,143774923009949,CFO,male,9998292.0
+,,1001385,northwest pipe co,,1.0,,,20230411,montross scott j,143774923009945,President & CEO,male,9998292.0
+,,1001385,northwest pipe co,,1.0,,,20230411,brittain miles,143774923009951,Executive Vice President,male,9998292.0
+3219.0,,1001385,northwest pipe co,1.0,,,,20230626,lockridge irma,143774923018379,,female,9998974.0
+28871.0,,1001385,northwest pipe co,1.0,,,,20230626,roman richard a,143774923018366,,male,9998974.0
+19461.0,,1001385,northwest pipe co,1.0,,,,20230626,franson michael c,143774923018368,,male,9998974.0
+16914.0,,1001385,northwest pipe co,1.0,,,,20230626,larson keith r,143774923018370,,male,9998974.0
+11629.0,,1001385,northwest pipe co,1.0,,,,20230626,paschal john,143774923018372,,male,9998974.0
+9320.0,,1001385,northwest pipe co,1.0,,,,20230626,kulesa amanda,143774923018377,,female,9998974.0
+116759.0,,1001385,northwest pipe co,,1.0,,,20240117,montross scott j,143774924001538,President & CEO,male,9985580.0
+20552.0,,1001385,northwest pipe co,,1.0,,,20240117,wilkins aaron,143774924001541,CFO,male,9985580.0
+25539.0,,1001385,northwest pipe co,,1.0,,,20240117,brittain miles,143774924001543,Executive Vice President,male,9985580.0
+19150.0,,1001385,northwest pipe co,,1.0,,,20240117,stokes eric,143774924001545,SVP/GM of Engineered SPP,male,9985580.0
+11323.0,,1001385,northwest pipe co,,1.0,,,20240117,wray michael,143774924001547,"SVP/GM, Precast Infrastructure",male,9985580.0
+9310.0,,1001385,northwest pipe co,,1.0,,,20240117,kendrick megan a.,143774924001550,VP of Human Resources,female,9985580.0
+,,1001385,northwest pipe co,,1.0,,,20240401,wray michael,143774924010203,"SVP/GM, Precast Infrastructure",male,9872897.0
+,,1001385,northwest pipe co,,1.0,,,20240401,stokes eric,143774924010201,SVP/GM of Engineered SPP,male,9872897.0
+,,1001385,northwest pipe co,,1.0,,,20240401,brittain miles,143774924010199,Executive Vice President,male,9872897.0
+,,1001385,northwest pipe co,,1.0,,,20240401,wilkins aaron,143774924010197,CFO,male,9872897.0
+,,1001385,northwest pipe co,,1.0,,,20240401,kendrick megan a.,143774924010205,VP of Human Resources,female,9872897.0
+,,1001385,northwest pipe co,,1.0,,,20240401,montross scott j,143774924010195,President & CEO,male,9872897.0
+14933.0,,1001385,northwest pipe co,,1.0,,,20240403,wray michael,143774924010903,"SVP/GM, Precast Infrastructure",male,9872897.0
+131527.0,,1001385,northwest pipe co,,1.0,,,20240403,montross scott j,143774924010891,President & CEO,male,9872897.0
+25395.0,,1001385,northwest pipe co,,1.0,,,20240403,wilkins aaron,143774924010893,CFO,male,9872897.0
+30358.0,,1001385,northwest pipe co,,1.0,,,20240403,brittain miles,143774924010896,Executive Vice President,male,9872897.0
+23532.0,,1001385,northwest pipe co,,1.0,,,20240403,stokes eric,143774924010901,SVP/GM of Engineered SPP,male,9872897.0
+11725.0,,1001385,northwest pipe co,,1.0,,,20240403,kendrick megan a.,143774924010905,VP of Human Resources,female,9872897.0
+14033.0,,1001385,northwest pipe co,1.0,,,,20240617,paschal john,143774924020500,,male,9915489.0
+11724.0,,1001385,northwest pipe co,1.0,,,,20240617,julian amanda,143774924020498,,female,9915489.0
+5623.0,,1001385,northwest pipe co,1.0,,,,20240617,lockridge irma,143774924020496,,female,9915489.0
+19318.0,,1001385,northwest pipe co,1.0,,,,20240617,larson keith r,143774924020493,,male,9915489.0
+31275.0,,1001385,northwest pipe co,1.0,,,,20240617,roman richard a,143774924020488,,male,9915489.0
+21865.0,,1001385,northwest pipe co,1.0,,,,20240617,franson michael c,143774924020491,,male,9915489.0
+25858.0,,1001385,northwest pipe co,,1.0,,,20240906,brittain miles,143774924028663,Executive Vice President,male,9918711.0
+10725.0,,1001385,northwest pipe co,,1.0,,,20240917,kendrick megan a.,143774924029355,VP of Human Resources,female,9918711.0
+9725.0,,1001385,northwest pipe co,,1.0,,,20241016,kendrick megan a.,143774924031345,VP of Human Resources,female,9918711.0
+22895.0,,1001385,northwest pipe co,,1.0,,,20241120,wilkins aaron,143774924035840,CFO,male,9918711.0
+110133.0,,1001385,northwest pipe co,,1.0,,,20241209,montross scott j,143774924037024,President & CEO,male,9918711.0
+65764.0,,1001385,northwest pipe co,,1.0,,,20241213,montross scott j,143774924037420,President & CEO,male,9918711.0

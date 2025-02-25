@@ -1,24 +1,242 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-5000.0,0.0,1466085,"independence realty trust, inc",1,1,0,0,20130816,schaeffer scott,120919113041144,"Chairman, CEO & President",male,5643540.0
-1000.0,0.0,1466085,"independence realty trust, inc",0,1,0,0,20130816,sebra james j,120919113041148,CFO & Treasurer,male,5643540.0
-5000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20130816,mccadden robert f,120919113041155,,male,5643540.0
-1000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20130816,soaries deforest b. jr.,120919113041156,,male,5643540.0
-3000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20131030,dunkelberg william c,120919113049822,,male,9643540.0
-8000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20131030,mccadden robert f,120919113049823,,male,9643540.0
-4000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20131030,soaries deforest b. jr.,120919113049825,,male,9643540.0
-13000.0,0.0,1466085,"independence realty trust, inc",1,1,0,0,20140204,schaeffer scott,120919114006960,"Chairman, CEO & President",male,9652540.0
-5000.0,0.0,1466085,"independence realty trust, inc",0,1,0,0,20140204,sebra james j,120919114006962,CFO & Treasurer,male,9652540.0
-11000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20140514,mccadden robert f,120919114033756,,male,17742540.0
-7000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20140514,soaries deforest b. jr.,120919114033762,,male,17742540.0
-6000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20140514,dunkelberg william c,120919114033749,,male,17742540.0
-31827.0,0.0,1466085,"independence realty trust, inc",1,1,0,0,20150219,schaeffer scott,120919115016146,Chairman & CEO,male,31800076.0
-37580.0,0.0,1466085,"independence realty trust, inc",0,1,0,0,20150219,ender farrell m.,120919115016152,President,male,31800076.0
-20373.0,0.0,1466085,"independence realty trust, inc",0,1,0,0,20150219,sebra james j,120919115016158,CFO & Treasurer,male,31800076.0
-9000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150515,dunkelberg william c,120919115043331,,male,31894751.0
-10000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150515,soaries deforest b. jr.,120919115043381,,male,31894751.0
-3000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150515,tsao sharon m.,120919115043385,,female,31894751.0
-14000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150515,mccadden robert f,120919115043387,,male,31894751.0
-40580.0,0.0,1466085,"independence realty trust, inc",0,1,0,0,20150604,ender farrell m.,120919115050105,President,male,31894751.0
-4000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150608,tsao sharon m.,120919115050989,,female,31894751.0
-16000.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150616,mccadden robert f,120919115053553,,male,31894751.0
-35737.0,0.0,1466085,"independence realty trust, inc",1,0,0,0,20150918,pridgen mack d iii,120919115071400,,male,31959684.0
+1000.0,,1466085,"independence realty trust, inc",1,0,0,0,20130816,soaries deforest b. jr.,120919113041156,,male,5643540.0
+1000.0,,1466085,"independence realty trust, inc",0,1,0,0,20130816,sebra james j,120919113041148,CFO & Treasurer,male,5643540.0
+5000.0,,1466085,"independence realty trust, inc",1,0,0,0,20130816,mccadden robert f,120919113041155,,male,5643540.0
+5000.0,,1466085,"independence realty trust, inc",1,1,0,0,20130816,schaeffer scott,120919113041144,"Chairman, CEO & President",male,5643540.0
+8000.0,,1466085,"independence realty trust, inc",1,0,0,0,20131030,mccadden robert f,120919113049823,,male,9643540.0
+4000.0,,1466085,"independence realty trust, inc",1,0,0,0,20131030,soaries deforest b. jr.,120919113049825,,male,9643540.0
+3000.0,,1466085,"independence realty trust, inc",1,0,0,0,20131030,dunkelberg william c,120919113049822,,male,9643540.0
+13000.0,,1466085,"independence realty trust, inc",1,1,0,0,20140204,schaeffer scott,120919114006960,"Chairman, CEO & President",male,9652540.0
+5000.0,,1466085,"independence realty trust, inc",0,1,0,0,20140204,sebra james j,120919114006962,CFO & Treasurer,male,9652540.0
+6000.0,,1466085,"independence realty trust, inc",1,0,0,0,20140514,dunkelberg william c,120919114033749,,male,17742540.0
+11000.0,,1466085,"independence realty trust, inc",1,0,0,0,20140514,mccadden robert f,120919114033756,,male,17742540.0
+7000.0,,1466085,"independence realty trust, inc",1,0,0,0,20140514,soaries deforest b. jr.,120919114033762,,male,17742540.0
+20373.0,,1466085,"independence realty trust, inc",0,1,0,0,20150219,sebra james j,120919115016158,CFO & Treasurer,male,31800076.0
+31827.0,,1466085,"independence realty trust, inc",1,1,0,0,20150219,schaeffer scott,120919115016146,Chairman & CEO,male,31800076.0
+37580.0,,1466085,"independence realty trust, inc",0,1,0,0,20150219,ender farrell m.,120919115016152,President,male,31800076.0
+9000.0,,1466085,"independence realty trust, inc",1,0,0,0,20150515,dunkelberg william c,120919115043331,,male,31894751.0
+10000.0,,1466085,"independence realty trust, inc",1,0,0,0,20150515,soaries deforest b. jr.,120919115043381,,male,31894751.0
+3000.0,,1466085,"independence realty trust, inc",1,0,0,0,20150515,tsao sharon m.,120919115043385,,female,31894751.0
+14000.0,,1466085,"independence realty trust, inc",1,0,0,0,20150515,mccadden robert f,120919115043387,,male,31894751.0
+40580.0,,1466085,"independence realty trust, inc",0,1,0,0,20150604,ender farrell m.,120919115050105,President,male,31894751.0
+4000.0,,1466085,"independence realty trust, inc",1,0,0,0,20150608,tsao sharon m.,120919115050989,,female,31894751.0
+16000.0,,1466085,"independence realty trust, inc",1,0,0,0,20150616,mccadden robert f,120919115053553,,male,31894751.0
+35737.0,,1466085,"independence realty trust, inc",1,0,0,0,20150918,pridgen mack d iii,120919115071400,,male,31959684.0
+40706.0,,1466085,"independence realty trust, inc",1,0,0,0,20150918,ross richard h,120919115071402,,male,31959684.0
+35737.0,,1466085,"independence realty trust, inc",1,0,0,0,20150918,pridgen mack d iii,120919115071400,,male,31959684.0
+9500.0,,1466085,"independence realty trust, inc",1,0,0,0,20151124,dunkelberg william c,120919115082008,,male,47070678.0
+41705.0,,1466085,"independence realty trust, inc",1,0,0,0,20151208,ross richard h,120919115084080,,male,47070678.0
+89000.0,,1466085,"independence realty trust, inc",1,1,0,0,20160212,schaeffer scott,120919116098121,Chairman & CEO,male,47070678.0
+49000.0,,1466085,"independence realty trust, inc",0,1,0,0,20160212,sebra james j,120919116098130,CFO & Treasurer,male,47070678.0
+96580.0,,1466085,"independence realty trust, inc",0,1,0,0,20160212,ender farrell m.,120919116098125,President,male,47070678.0
+84894.0,,1466085,"independence realty trust, inc",1,1,0,0,20160225,schaeffer scott,120919116102256,Chairman & CEO,male,47070678.0
+25705.0,,1466085,"independence realty trust, inc",1,0,0,0,20160225,ross richard h,120919116102281,,male,47070678.0
+90721.0,,1466085,"independence realty trust, inc",0,1,0,0,20160225,ender farrell m.,120919116102273,President,male,47070678.0
+45449.0,,1466085,"independence realty trust, inc",0,1,0,0,20160225,sebra james j,120919116102266,CFO & Treasurer,male,47070678.0
+13000.0,,1466085,"independence realty trust, inc",1,0,0,0,20160513,soaries deforest b. jr.,120919116119959,,male,47458250.0
+28705.0,,1466085,"independence realty trust, inc",1,0,0,0,20160513,ross richard h,120919116119958,,male,47458250.0
+38737.0,,1466085,"independence realty trust, inc",1,0,0,0,20160513,pridgen mack d iii,120919116119955,,male,47458250.0
+19000.0,,1466085,"independence realty trust, inc",1,0,0,0,20160513,mccadden robert f,120919116119954,,male,47458250.0
+12500.0,,1466085,"independence realty trust, inc",1,0,0,0,20160513,dunkelberg william c,120919116119952,,male,47458250.0
+7000.0,,1466085,"independence realty trust, inc",1,0,0,0,20160516,tsao sharon m.,120919116120390,,female,47458250.0
+8000.0,,1466085,"independence realty trust, inc",1,0,0,0,20160518,tsao sharon m.,120919116121323,,female,47458250.0
+96894.0,,1466085,"independence realty trust, inc",1,1,0,0,20160518,schaeffer scott,120919116121316,Chairman & CEO,male,47458250.0
+29855.0,,1466085,"independence realty trust, inc",1,0,0,0,20161104,ross richard h,120919116148417,,male,68996070.0
+40088.0,,1466085,"independence realty trust, inc",1,0,0,0,20161104,pridgen mack d iii,120919116148416,,male,68996070.0
+106894.0,,1466085,"independence realty trust, inc",1,1,0,0,20161107,schaeffer scott,120919116148622,Chairman & CEO,male,68996070.0
+47949.0,,1466085,"independence realty trust, inc",0,1,0,0,20161107,sebra james j,120919116148515,CFO & Treasurer,male,68996070.0
+2000.0,,1466085,"independence realty trust, inc",0,1,0,0,20161107,ender farrell m.,120919116148514,President,male,68996070.0
+39891.0,,1466085,"independence realty trust, inc",0,1,0,0,20170227,sebra james j,120919117014759,CFO & Treasurer,male,68996070.0
+93103.0,,1466085,"independence realty trust, inc",1,1,0,0,20170227,schaeffer scott,120919117014752,Chairman & CEO,male,68996070.0
+77025.0,2000.0,1466085,"independence realty trust, inc",0,1,0,0,20170227,ender farrell m.,120919117014839,President,male,68996070.0
+52133.0,,1466085,"independence realty trust, inc",0,1,0,0,20170301,sebra james j,120919117015867,CFO & Treasurer,male,69035969.0
+88231.0,2000.0,1466085,"independence realty trust, inc",0,1,0,0,20170301,ender farrell m.,120919117015904,President,male,69035969.0
+120306.0,,1466085,"independence realty trust, inc",1,1,0,0,20170301,schaeffer scott,120919117015861,Chairman & CEO,male,69035969.0
+17466.0,,1466085,"independence realty trust, inc",1,0,0,0,20170517,dunkelberg william c,120919117033153,,male,68996070.0
+23966.0,,1466085,"independence realty trust, inc",1,0,0,0,20170517,mccadden robert f,120919117033159,,male,68996070.0
+17966.0,,1466085,"independence realty trust, inc",1,0,0,0,20170517,soaries deforest b. jr.,120919117033173,,male,68996070.0
+34821.0,,1466085,"independence realty trust, inc",1,0,0,0,20170517,ross richard h,120919117033170,,male,68996070.0
+45052.0,,1466085,"independence realty trust, inc",1,0,0,0,20170517,pridgen mack d iii,120919117033165,,male,68996070.0
+52833.0,,1466085,"independence realty trust, inc",0,1,0,0,20170619,sebra james j,120919117040818,CFO & Treasurer,male,68996070.0
+155306.0,,1466085,"independence realty trust, inc.",1,1,0,0,20170809,schaeffer scott,120919117048203,Chairman & CEO,male,69143955.0
+55333.0,,1466085,"independence realty trust, inc.",0,1,0,0,20180222,sebra james j,120919118012324,CFO & Treasurer,male,84708551.0
+170306.0,,1466085,"independence realty trust, inc.",1,1,0,0,20180222,schaeffer scott,120919118012306,Chairman & CEO,male,84708551.0
+75517.0,,1466085,"independence realty trust, inc.",0,1,0,0,20180226,sebra james j,120919118013446,CFO & Treasurer,male,84708551.0
+227976.0,,1466085,"independence realty trust, inc.",1,1,0,0,20180226,schaeffer scott,120919118013436,Chairman & CEO,male,84708551.0
+111299.0,2000.0,1466085,"independence realty trust, inc.",0,1,0,0,20180226,ender farrell m.,120919118013407,President,male,84708551.0
+69869.0,,1466085,"independence realty trust, inc.",0,1,0,0,20180309,sebra james j,120919118018536,CFO & Treasurer,male,84708551.0
+11555.0,,1466085,"independence realty trust, inc.",0,1,0,0,20180309,delozier jason r,120919118018529,CAO and Controller,male,84708551.0
+102245.0,2000.0,1466085,"independence realty trust, inc.",0,1,0,0,20180309,ender farrell m.,120919118018531,President,male,84708551.0
+217263.0,,1466085,"independence realty trust, inc.",1,1,0,0,20180309,schaeffer scott,120919118018533,Chairman & CEO,male,84708551.0
+6514.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180521,"independence realty trust, inc.",120919118031841,,male,86973397.0
+6514.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180521,"independence realty trust, inc.",120919118031846,,male,86973397.0
+51566.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180521,"independence realty trust, inc.",120919118031851,,male,86973397.0
+23980.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180521,"independence realty trust, inc.",120919118031834,,male,86973397.0
+41335.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180521,"independence realty trust, inc.",120919118031852,,male,86973397.0
+24929.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180521,"independence realty trust, inc.",120919118031856,,male,86973397.0
+6514.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180523,gebert richard d,120919118032556,,male,86973397.0
+6514.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180523,mcclure melinda h,120919118032558,,female,86973397.0
+51566.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180523,pridgen mack d iii,120919118032559,,male,86973397.0
+41335.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180523,ross richard h,120919118032560,,male,86973397.0
+24929.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180523,soaries deforest b. jr.,120919118032554,,male,86973397.0
+23980.0,,1466085,"independence realty trust, inc.",1,0,0,0,20180523,dunkelberg william c,120919118032557,,male,86973397.0
+219134.0,,1466085,"independence realty trust, inc.",1,1,0,0,20180912,schaeffer scott,120919118050641,Chairman & CEO,male,87656356.0
+33369.0,,1466085,"independence realty trust, inc.",1,0,0,0,20181107,ross richard h,120919118057577,,male,88920879.0
+20275.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190208,delozier jason r,120919119008493,CAO and Controller,male,89184443.0
+97955.0,2000.0,1466085,"independence realty trust, inc.",0,1,0,0,20190214,ender farrell m.,120919119010136,President,male,89184443.0
+20019.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190214,delozier jason r,120919119010133,CAO and Controller,male,89184443.0
+68154.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190214,sebra james j,120919119010137,CFO & Treasurer,male,89184443.0
+212970.0,,1466085,"independence realty trust, inc.",1,1,0,0,20190214,schaeffer scott,120919119010141,Chairman & CEO,male,89184443.0
+95308.0,2000.0,1466085,"independence realty trust, inc.",0,1,0,0,20190226,ender farrell m.,120919119013588,President,male,89184443.0
+65846.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190226,sebra james j,120919119013591,CFO & Treasurer,male,89184443.0
+208455.0,,1466085,"independence realty trust, inc.",1,1,0,0,20190226,schaeffer scott,120919119013594,Chairman & CEO,male,89184443.0
+19450.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190304,delozier jason r,120919119015572,CAO and Controller,male,89184443.0
+94059.0,2000.0,1466085,"independence realty trust, inc.",0,1,0,0,20190304,ender farrell m.,120919119015576,President,male,89184443.0
+205305.0,,1466085,"independence realty trust, inc.",1,1,0,0,20190304,schaeffer scott,120919119015584,Chairman & CEO,male,89184443.0
+64441.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190304,sebra james j,120919119015598,CFO & Treasurer,male,89184443.0
+83991.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190311,sebra james j,120919119018503,CFO & Treasurer,male,89184443.0
+113609.0,2000.0,1466085,"independence realty trust, inc.",0,1,0,0,20190311,ender farrell m.,120919119018500,President,male,89184443.0
+254180.0,,1466085,"independence realty trust, inc.",1,1,0,0,20190311,schaeffer scott,120919119018509,Chairman & CEO,male,89184443.0
+27369.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190313,ross richard h,120919119019150,,male,89184443.0
+258956.0,,1466085,"independence realty trust, inc.",1,1,0,0,20190329,schaeffer scott,120919119021709,Chairman & CEO,male,89184443.0
+29454.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190528,dunkelberg william c,120919119033049,,male,89834501.0
+30403.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190528,soaries deforest b. jr.,120919119033032,,male,89834501.0
+32843.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190528,ross richard h,120919119033035,,male,89834501.0
+57040.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190528,pridgen mack d iii,120919119033036,,male,89834501.0
+11988.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190528,mcclure melinda h,120919119033051,,female,89834501.0
+11988.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190528,gebert richard d,120919119033053,,male,89834501.0
+14722.0,,1466085,"independence realty trust, inc.",0,1,0,0,20190610,norman jessica k,120919119035691,"EVP, General Counsel",female,89834501.0
+28843.0,,1466085,"independence realty trust, inc.",1,0,0,0,20190813,ross richard h,120919119045717,,male,90190145.0
+13442.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200211,norman jessica k,120919120008284,"EVP, General Counsel",female,91133802.0
+18170.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200211,delozier jason r,120919120008288,CAO and Controller,male,91133802.0
+349544.0,,1466085,"independence realty trust, inc.",1,1,0,0,20200218,schaeffer scott,120919120010297,Chairman & CEO,male,91133802.0
+124756.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200218,sebra james j,120919120010309,CFO & Treasurer,male,91133802.0
+144345.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20200218,ender farrell m.,120919120010311,President,male,91133802.0
+142766.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20200225,ender farrell m.,120919120012565,President,male,91133802.0
+123695.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200225,sebra james j,120919120012563,CFO & Treasurer,male,91133802.0
+345973.0,,1466085,"independence realty trust, inc.",1,1,0,0,20200225,schaeffer scott,120919120012564,Chairman & CEO,male,91133802.0
+154743.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20200303,ender farrell m.,120919120015352,President,male,91133802.0
+375888.0,,1466085,"independence realty trust, inc.",1,1,0,0,20200303,schaeffer scott,120919120015353,Chairman & CEO,male,91133802.0
+16173.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200303,norman jessica k,120919120015355,"EVP, General Counsel",female,91133802.0
+135516.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200303,sebra james j,120919120015356,CFO & Treasurer,male,91133802.0
+18804.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200303,delozier jason r,120919120015354,CAO and Controller,male,91133802.0
+133274.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200317,sebra james j,120919120019663,CFO & Treasurer,male,91133802.0
+152501.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20200317,ender farrell m.,120919120019661,President,male,91133802.0
+370232.0,,1466085,"independence realty trust, inc.",1,1,0,0,20200317,schaeffer scott,120919120019662,Chairman & CEO,male,91133802.0
+135974.0,,1466085,"independence realty trust, inc.",0,1,0,0,20200323,sebra james j,120919120020678,CFO & Treasurer,male,91133802.0
+395232.0,,1466085,"independence realty trust, inc.",1,1,0,0,20200323,schaeffer scott,120919120020679,Chairman & CEO,male,91133802.0
+30454.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200323,dunkelberg william c,120919120020677,,male,91133802.0
+38391.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200513,dunkelberg william c,120919120028867,,male,94708263.0
+64977.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200513,pridgen mack d iii,120919120028866,,male,94708263.0
+19925.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200513,mcclure melinda h,120919120028861,,female,94708263.0
+7495.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200513,ross richard h,120919120028860,,male,94708263.0
+19925.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200513,gebert richard d,120919120028859,,male,94708263.0
+38340.0,,1466085,"independence realty trust, inc.",1,0,0,0,20200513,soaries deforest b. jr.,120919120028868,,male,94708263.0
+370619.0,,1466085,"independence realty trust, inc.",1,1,0,0,20210106,schaeffer scott,120919121001961,Chairman & CEO,male,101803762.0
+141588.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20210106,ender farrell m.,120919121001963,President,male,101803762.0
+123764.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210106,sebra james j,120919121001959,CFO & Treasurer,male,101803762.0
+14980.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210210,norman jessica k,120919121009343,"EVP, General Counsel",female,101803762.0
+17611.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210210,delozier jason r,120919121009342,CAO and Controller,male,101803762.0
+239769.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20210222,ender farrell m.,120919121012769,President,male,101856947.0
+620031.0,,1466085,"independence realty trust, inc.",1,1,0,0,20210222,schaeffer scott,120919121012771,Chairman & CEO,male,101856947.0
+21306.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210222,delozier jason r,120919121012772,CAO and Controller,male,101856947.0
+211722.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210222,sebra james j,120919121012773,CFO & Treasurer,male,101856947.0
+22368.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210222,norman jessica k,120919121012777,"EVP, General Counsel",female,101856947.0
+209581.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210225,sebra james j,120919121014421,CFO & Treasurer,male,101856947.0
+614357.0,,1466085,"independence realty trust, inc.",1,1,0,0,20210225,schaeffer scott,120919121014420,Chairman & CEO,male,101856947.0
+237322.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20210225,ender farrell m.,120919121014422,President,male,101856947.0
+19368.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210303,delozier jason r,120919121017090,CAO and Controller,male,101856947.0
+234764.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20210303,ender farrell m.,120919121017089,President,male,101856947.0
+206879.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210303,sebra james j,120919121017091,CFO & Treasurer,male,101856947.0
+20450.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210303,norman jessica k,120919121017087,"EVP, General Counsel",female,101856947.0
+608427.0,,1466085,"independence realty trust, inc.",1,1,0,0,20210303,schaeffer scott,120919121017088,Chairman & CEO,male,101856947.0
+473861.0,,1466085,"independence realty trust, inc.",1,1,0,0,20210316,schaeffer scott,120919121020971,Chairman & CEO,male,101856947.0
+159391.0,,1466085,"independence realty trust, inc.",0,1,0,0,20210316,sebra james j,120919121020970,CFO & Treasurer,male,101856947.0
+180787.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20210316,ender farrell m.,120919121020972,President,male,101856947.0
+24471.0,,1466085,"independence realty trust, inc.",1,0,0,0,20210513,mcclure melinda h,120919121032387,,female,102147512.0
+4546.0,,1466085,"independence realty trust, inc.",1,0,0,0,20210513,washington lisa,120919121032390,,female,102147512.0
+42886.0,,1466085,"independence realty trust, inc.",1,0,0,0,20210513,soaries deforest b. jr.,120919121032388,,male,102147512.0
+69523.0,,1466085,"independence realty trust, inc.",1,0,0,0,20210513,pridgen mack d iii,120919121032389,,male,102147512.0
+24471.0,,1466085,"independence realty trust, inc.",1,0,0,0,20210513,gebert richard d,120919121032393,,male,102147512.0
+4546.0,,1466085,"independence realty trust, inc.",1,0,0,0,20210513,dunkelberg william c,120919121032392,,male,102147512.0
+,,1466085,"independence realty trust, inc.",1,0,0,0,20211216,dunkelberg william c,120919121069925,,male,105111943.0
+50694.0,,1466085,"independence realty trust, inc.",1,0,0,0,20211216,del rio ana marie,120919121069926,,female,105111943.0
+3493.0,,1466085,"independence realty trust, inc.",1,0,0,0,20211216,purcell thomas h.,120919121069927,,male,105111943.0
+20288.0,,1466085,"independence realty trust, inc.",1,0,0,0,20211216,bowie stephen r.,120919121069928,,male,105111943.0
+34959.0,,1466085,"independence realty trust, inc.",1,1,0,0,20211216,neyland ella s,120919121069924,Chief Operating Officer,female,105111943.0
+1371.0,,1466085,"independence realty trust, inc.",1,0,0,0,20211216,brines ned,120919121069923,,male,105111943.0
+185241.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220105,sebra james j,120919122001762,CFO & Treasurer,male,220753735.0
+552259.0,,1466085,"independence realty trust, inc.",1,1,0,0,20220105,schaeffer scott,120919122001766,Chairman & CEO,male,220753735.0
+210372.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20220105,ender farrell m.,120919122001771,President,male,220753735.0
+757460.0,,1466085,"independence realty trust, inc.",1,1,0,0,20220210,schaeffer scott,120919122008533,Chairman & CEO,male,220753735.0
+265427.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220210,sebra james j,120919122008534,CFO & Treasurer,male,220753735.0
+289675.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20220210,ender farrell m.,120919122008535,President,male,220753735.0
+21619.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220210,delozier jason r,120919122008538,CAO and Controller,male,220753735.0
+49825.0,34959.0,1466085,"independence realty trust, inc.",1,1,0,0,20220210,neyland ella s,120919122008536,Chief Operating Officer,female,220753735.0
+24952.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220210,norman jessica k,120919122008537,"EVP, General Counsel",female,220753735.0
+287228.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20220225,ender farrell m.,120919122013261,President,male,220753735.0
+751786.0,,1466085,"independence realty trust, inc.",1,1,0,0,20220225,schaeffer scott,120919122013262,Chairman & CEO,male,220753735.0
+263286.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220225,sebra james j,120919122013263,CFO & Treasurer,male,220753735.0
+284086.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20220303,ender farrell m.,120919122015651,President,male,220753735.0
+744503.0,,1466085,"independence realty trust, inc.",1,1,0,0,20220303,schaeffer scott,120919122015652,Chairman & CEO,male,220753735.0
+22037.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220303,norman jessica k,120919122015653,Chief Legal Officer,female,220753735.0
+260144.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220303,sebra james j,120919122015655,CFO & Treasurer,male,220753735.0
+19240.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220303,delozier jason r,120919122015656,CAO and Controller,male,220753735.0
+284086.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20220317,ender farrell m.,120919122019694,President,male,220753735.0
+739695.0,,1466085,"independence realty trust, inc.",1,1,0,0,20220317,schaeffer scott,120919122019697,Chairman & CEO,male,220753735.0
+258070.0,,1466085,"independence realty trust, inc.",0,1,0,0,20220317,sebra james j,120919122019695,CFO & Treasurer,male,220753735.0
+8143.0,,1466085,"independence realty trust, inc.",1,0,0,0,20220520,washington lisa,146608522000043,,female,221161162.0
+54291.0,,1466085,"independence realty trust, inc.",1,0,0,0,20220520,del rio ana marie,146608522000045,,female,221161162.0
+27638.0,3493.0,1466085,"independence realty trust, inc.",1,0,0,0,20220520,purcell thomas h.,146608522000046,,male,221161162.0
+46483.0,,1466085,"independence realty trust, inc.",1,0,0,0,20220520,soaries deforest b. jr.,146608522000044,,male,221161162.0
+35755.0,1371.0,1466085,"independence realty trust, inc.",1,0,0,0,20220520,brines ned,146608522000048,,male,221161162.0
+28068.0,,1466085,"independence realty trust, inc.",1,0,0,0,20220520,gebert richard d,146608522000042,,male,221161162.0
+28068.0,,1466085,"independence realty trust, inc.",1,0,0,0,20220520,mcclure melinda h,146608522000047,,female,221161162.0
+6522.0,23213.0,1466085,"independence realty trust, inc.",1,0,0,0,20220520,bowie stephen r.,146608522000041,,male,221161162.0
+567209.0,,1466085,"independence realty trust, inc.",1,1,0,0,20221208,schaeffer scott,146608522000083,Chair of Board & CEO,male,224074403.0
+53185.0,34959.0,1466085,"independence realty trust, inc.",1,1,0,0,20221215,neyland ella s,146608522000085,Chief Operating Officer,female,224074403.0
+237415.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230104,sebra james j,146608523000005,CFO & Treasurer,male,224064940.0
+262870.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20230104,ender farrell m.,146608523000004,President,male,224064940.0
+523453.0,,1466085,"independence realty trust, inc.",1,1,0,0,20230104,schaeffer scott,146608523000006,Chair of Board & CEO,male,224064940.0
+322347.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20230209,ender farrell m.,146608523000016,President,male,224064940.0
+296982.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230209,sebra james j,146608523000014,CFO & Treasurer,male,224064940.0
+680402.0,,1466085,"independence realty trust, inc.",1,1,0,0,20230209,schaeffer scott,146608523000013,Chair of Board & CEO,male,224064940.0
+31821.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230209,delozier jason r,146608523000012,Chief Accounting Officer,male,224064940.0
+43941.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230209,norman jessica k,146608523000015,Chief Legal Officer,female,224064940.0
+42160.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230303,norman jessica k,146608523000044,Chief Legal Officer,female,224064940.0
+30837.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230303,delozier jason r,146608523000043,Chief Accounting Officer,male,224064940.0
+292336.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230303,sebra james j,146608523000042,CFO & Treasurer,male,224064940.0
+670316.0,,1466085,"independence realty trust, inc.",1,1,0,0,20230303,schaeffer scott,146608523000041,Chair of Board & CEO,male,224064940.0
+318141.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20230303,ender farrell m.,146608523000040,President,male,224064940.0
+665507.0,,1466085,"independence realty trust, inc.",1,1,0,0,20230317,schaeffer scott,146608523000052,Chair of Board & CEO,male,224064940.0
+290093.0,,1466085,"independence realty trust, inc.",0,1,0,0,20230317,sebra james j,146608523000053,CFO & Treasurer,male,224064940.0
+316067.0,7500.0,1466085,"independence realty trust, inc.",0,1,0,0,20230317,ender farrell m.,146608523000054,President,male,224064940.0
+13653.0,,1466085,"independence realty trust, inc.",1,0,0,0,20230512,washington lisa,146608523000085,,female,224589077.0
+33148.0,3493.0,1466085,"independence realty trust, inc.",1,0,0,0,20230512,purcell thomas h.,146608523000079,,male,224589077.0
+33578.0,,1466085,"independence realty trust, inc.",1,0,0,0,20230512,mcclure melinda h,146608523000080,,female,224589077.0
+12032.0,23213.0,1466085,"independence realty trust, inc.",1,0,0,0,20230512,bowie stephen r.,146608523000081,,male,224589077.0
+41265.0,1371.0,1466085,"independence realty trust, inc.",1,0,0,0,20230512,brines ned,146608523000082,,male,224589077.0
+33578.0,,1466085,"independence realty trust, inc.",1,0,0,0,20230512,gebert richard d,146608523000083,,male,224589077.0
+59801.0,,1466085,"independence realty trust, inc.",1,0,0,0,20230512,del rio ana marie,146608523000084,,female,224589077.0
+51993.0,,1466085,"independence realty trust, inc.",1,0,0,0,20230512,soaries deforest b. jr.,146608523000086,,male,224589077.0
+42124.0,,1466085,"independence realty trust, inc.",1,0,0,0,20231026,brines ned,146608523000116,,male,224710624.0
+10106.0,,1466085,"independence realty trust, inc.",0,0,0,1,20231103,weisbaum michele r.,146608523000127,,female,224710624.0
+635665.0,,1466085,"independence realty trust, inc.",1,1,0,0,20240103,schaeffer scott,146608524000010,Chair of Board & CEO,male,224706731.0
+27485.0,,1466085,"independence realty trust, inc.",0,1,0,0,20240103,delozier jason r,146608524000011,Chief Accounting Officer,male,224706731.0
+275878.0,,1466085,"independence realty trust, inc.",0,1,0,0,20240103,sebra james j,146608524000012,CFO & Treasurer,male,224706731.0
+349410.0,,1466085,"independence realty trust, inc.",0,1,0,0,20240228,sebra james j,146608524000025,CFO & Treasurer,male,224706731.0
+829274.0,,1466085,"independence realty trust, inc.",1,1,0,0,20240228,schaeffer scott,146608524000026,Chair of Board & CEO,male,224706731.0
+17194.0,,1466085,"independence realty trust, inc.",0,0,0,1,20240228,weisbaum michele r.,146608524000027,,female,224706731.0
+43753.0,,1466085,"independence realty trust, inc.",0,1,0,0,20240228,delozier jason r,146608524000024,Chief Accounting Officer,male,224706731.0
+42256.0,,1466085,"independence realty trust, inc.",0,1,0,0,20240305,delozier jason r,146608524000034,Chief Accounting Officer,male,224706731.0
+343194.0,,1466085,"independence realty trust, inc.",0,1,0,0,20240305,sebra james j,146608524000035,CFO & Treasurer,male,224706731.0
+815509.0,,1466085,"independence realty trust, inc.",1,1,0,0,20240305,schaeffer scott,146608524000036,Chair of Board & CEO,male,224706731.0
+5616.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,macnab craig,146608524000074,,male,225080141.0
+38764.0,3493.0,1466085,"independence realty trust, inc.",1,0,0,0,20240517,purcell thomas h.,146608524000082,,male,225080141.0
+39194.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,gebert richard d,146608524000081,,male,225080141.0
+19269.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,washington lisa,146608524000080,,female,225080141.0
+57609.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,soaries deforest b. jr.,146608524000079,,male,225080141.0
+39194.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,mcclure melinda h,146608524000078,,female,225080141.0
+1428.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,brines ned,146608524000077,,male,225080141.0
+17648.0,23213.0,1466085,"independence realty trust, inc.",1,0,0,0,20240517,bowie stephen r.,146608524000076,,male,225080141.0
+65417.0,,1466085,"independence realty trust, inc.",1,0,0,0,20240517,del rio ana marie,146608524000075,,female,225080141.0

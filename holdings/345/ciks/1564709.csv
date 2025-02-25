@@ -1,37 +1,80 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-34000.0,1.0,1564709,"truett-hurst, inc.",true,false,true,false,20130620,dolan heath e,121465913003546,,male,
-54500.0,1.0,1564709,"truett-hurst, inc.",true,true,true,false,20130620,hurst phillip l,121465913003544,President and CEO,male,
-38700.0,1.0,1564709,"truett-hurst, inc.",true,false,true,false,20130620,carroll daniel a,121465913003543,,male,
-34000.0,1.0,1564709,"truett-hurst, inc.",true,false,true,false,20130620,dolan paul e iii,121465913003542,,male,
-9500.0,0.0,1564709,"truett-hurst, inc.",true,false,true,false,20130620,graham james barrie,121465913003545,,male,
-0.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20131211,verhey james frederick,114420413066803,,male,2700000.0
-0.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20131211,graham james barrie,114420413066805,,male,2700000.0
-0.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20131211,fruth john d,114420413066806,,male,2700000.0
-14000.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20131230,bielenberg james d,114420413069495,Chief Financial Officer,male,2700000.0
-34000.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20140307,dolan heath e,114420414014178,,male,2714000.0
-34000.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20140307,dolan paul e iii,114420414014183,,male,2714000.0
-34000.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20140314,dolan heath e,114420414015827,Director,male,2714000.0
-34000.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20140314,dolan paul e iii,114420414015840,Director,male,2714000.0
-13000.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20140404,graham james barrie,114420414020814,,male,3599778.0
-0.0,483472.0,1564709,"truett-hurst, inc.",0,0,0,1,20140522,hambrecht william r,114420414033060,,male,3599778.0
-52500.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20140606,hurst phillip l,114420414036220,President and CEO,male,3599778.0
-0.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20140627,forgue paul,114420414040185,CFO & COO,male,3599778.0
-28000.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20140702,bielenberg james d,114420414041001,Former Chief Financial Officer,male,3599778.0
-14350.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20141119,forgue paul,114420414069823,CFO & COO,male,3750472.0
-0.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20141124,forgue paul,114420414070701,CFO & COO,male,3750472.0
-1429.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141211,fruth john d,114420414073418,,male,3750472.0
-1607.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141211,verhey james frederick,114420414073413,,male,3750472.0
-1429.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141211,graham james barrie,114420414073409,,male,3750472.0
-2500.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20141212,hurst phillip l,114420414073711,President and CEO,male,3750472.0
-0.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20141215,hurst phillip l,114420414074041,President and CEO,male,3750472.0
-9325.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141217,fruth john d,114420414074492,,male,3750472.0
-22325.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141217,graham james barrie,114420414074496,,male,3750472.0
-10489.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141217,verhey james frederick,114420414074487,,male,3750472.0
-10527.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20141218,benedetti marcus dante,114420414074850,,male,3750472.0
-7400.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20150219,forgue paul,114420415011019,CFO & COO,male,3847986.0
-22725.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20150223,graham james barrie,114420415011328,,male,3847986.0
-23225.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20150302,graham james barrie,114420415013315,,male,3847986.0
-10155.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20150306,forgue paul,114420415014640,CFO & COO,male,3847986.0
-12155.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20150310,forgue paul,114420415015078,CFO & COO,male,3847986.0
-23625.0,0.0,1564709,"truett-hurst, inc.",1,0,0,0,20150312,graham james barrie,114420415015714,,male,3847986.0
-34030.0,0.0,1564709,"truett-hurst, inc.",0,1,0,0,20150720,forgue paul,114420415043240,CFO & COO,male,4010120.0
+,,1564709,"truett-hurst, inc.",true,false,true,false,20130620,dolan heath e,121465913003546,,male,
+,,1564709,"truett-hurst, inc.",true,false,true,false,20130620,dolan paul e iii,121465913003542,,male,
+,,1564709,"truett-hurst, inc.",true,false,true,false,20130620,graham james barrie,121465913003545,,male,
+,,1564709,"truett-hurst, inc.",true,true,true,false,20130620,hurst phillip l,121465913003544,President and CEO,male,
+,,1564709,"truett-hurst, inc.",true,false,true,false,20130620,carroll daniel a,121465913003543,,male,
+,,1564709,"truett-hurst, inc.",1,0,0,0,20131211,fruth john d,114420413066806,,male,2700000.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20131211,verhey james frederick,114420413066803,,male,2700000.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20131211,graham james barrie,114420413066805,,male,2700000.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20131230,bielenberg james d,114420413069495,Chief Financial Officer,male,2700000.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20140307,dolan heath e,114420414014178,,male,2714000.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20140307,dolan paul e iii,114420414014183,,male,2714000.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20140314,dolan heath e,114420414015827,Director,male,2714000.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20140314,dolan paul e iii,114420414015840,Director,male,2714000.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20140404,graham james barrie,114420414020814,,male,3599778.0
+,,1564709,"truett-hurst, inc.",0,0,0,1,20140522,hambrecht william r,114420414033060,,male,3599778.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20140606,hurst phillip l,114420414036220,President and CEO,male,3599778.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20140627,forgue paul,114420414040185,CFO & COO,male,3599778.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20140702,bielenberg james d,114420414041001,Former Chief Financial Officer,male,3599778.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20141119,forgue paul,114420414069823,CFO & COO,male,3750472.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20141124,forgue paul,114420414070701,CFO & COO,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141211,graham james barrie,114420414073409,,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141211,verhey james frederick,114420414073413,,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141211,fruth john d,114420414073418,,male,3750472.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20141212,hurst phillip l,114420414073711,President and CEO,male,3750472.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20141215,hurst phillip l,114420414074041,President and CEO,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141217,verhey james frederick,114420414074487,,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141217,fruth john d,114420414074492,,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141217,graham james barrie,114420414074496,,male,3750472.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20141218,benedetti marcus dante,114420414074850,,male,3750472.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20150219,forgue paul,114420415011019,CFO & COO,male,3847986.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20150223,graham james barrie,114420415011328,,male,3847986.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20150302,graham james barrie,114420415013315,,male,3847986.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20150306,forgue paul,114420415014640,CFO & COO,male,3847986.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20150310,forgue paul,114420415015078,CFO & COO,male,3847986.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20150312,graham james barrie,114420415015714,,male,3847986.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20150720,forgue paul,114420415043240,CFO & COO,male,4010120.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20151119,forgue paul,114420415066904,CFO & COO,male,4031995.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20151120,forgue paul,114420415067327,CFO & COO,male,4031995.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20151125,forgue paul,114420415068042,CFO & COO,male,4031995.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20151127,forgue paul,114420415068348,CFO & COO,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20151214,graham james barrie,114420415070641,,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,1,0,0,20151215,graham james barrie,114420415070821,Director,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20151216,dolan paul e iii,114420415071401,,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20151216,graham james barrie,114420415071403,,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20151216,verhey james frederick,114420415071404,,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20151216,fruth john d,114420415071402,,male,4031995.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20151217,hurst phillip l,114420415071523,President and CEO,male,4031995.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20151217,benedetti marcus dante,114420415071532,,male,4031995.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160224,forgue paul,114420416084114,CFO & COO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160224,hurst phillip l,114420416084115,President and CEO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160226,forgue paul,114420416084563,CFO & COO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160226,hurst phillip l,114420416084710,President and CEO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160303,hurst phillip l,114420416085908,President and CEO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160304,hurst phillip l,114420416086228,President and CEO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160321,forgue paul,114420416089030,CFO & COO,male,4203258.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160401,hurst phillip l,114420416092364,President and CEO,male,4279470.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20160630,forgue paul,114420416110977,CFO & COO,male,4279470.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20160705,benedetti marcus dante,114420416111504,,male,4279470.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20161215,graham james barrie,114420416139832,,male,4306609.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20161215,fruth john d,114420416139831,,male,4306609.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20161215,weber paul j,114420416139827,,male,4306609.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20161215,benedetti marcus dante,114420416139833,,male,4306609.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20170314,hurst phillip l,114420417014572,President and CEO,male,4351789.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20170316,hurst phillip l,114420417015128,President and CEO,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20170712,dolan paul e iii,114420417036506,,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20180302,graham james barrie,114420418012428,,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20180302,weber paul j,114420418012430,,male,4351789.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20180302,meyer evan b,114420418012431,Chief Financial Officer,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20180307,grimes spencer b,114420418013315,,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20180427,benedetti marcus dante,114420418023279,,male,4351789.0
+14973.0,,1564709,"truett-hurst, inc.",1,0,0,0,20180427,benedetti marcus dante,114420418023280,,male,4351789.0
+66789.0,,1564709,"truett-hurst, inc.",1,0,0,0,20180427,graham james barrie,114420418023281,,male,4351789.0
+23554.0,,1564709,"truett-hurst, inc.",1,0,0,0,20180508,weber paul j,114420418026024,,male,4351789.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20180508,strobbe jason j,114420418026022,EVP- Sales,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20180515,grimes spencer b,114420418029041,,male,4351789.0
+68694.0,,1564709,"truett-hurst, inc.",1,0,0,0,20180515,graham james barrie,114420418029039,,male,4351789.0
+15820.0,,1564709,"truett-hurst, inc.",1,0,0,0,20180515,benedetti marcus dante,114420418029040,,male,4351789.0
+,,1564709,"truett-hurst, inc.",1,0,0,0,20180713,hansen gerry l,114420418038398,,male,4351789.0
+,,1564709,"truett-hurst, inc.",0,1,0,0,20180713,weaver karen,114420418038359,Chief Financial Officer,female,4351789.0

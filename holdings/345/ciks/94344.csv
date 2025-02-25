@@ -1,152 +1,526 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-15659.0,410.7809,94344,stewart information services corp,0,1,0,0.0,20100105,smith edgar ashley,120919110001096,Exec. VP & Chief Legal Officer,male,
-17159.0,409.3189,94344,stewart information services corp,0,1,0,0.0,20100222,smith edgar ashley,120919110010992,Exec. VP & Chief Legal Officer,male,
-17659.0,407.4059,94344,stewart information services corp,0,1,0,0.0,20100224,smith edgar ashley,120919110011869,Exec. VP & Chief Legal Officer,male,
-67833.0,0.0,94344,stewart information services corp,1,1,0,0.0,20100312,morris malcolm s,120919110016657,Chairman & Co-CEO,male,
-23406.0,408.3269,94344,stewart information services corp,0,1,0,0.0,20100312,smith edgar ashley,120919110016646,Exec. VP & Chief Legal Officer,male,
-57859.0,0.0,94344,stewart information services corp,1,1,0,0.0,20100312,morris stewart jr,120919110016660,President & Co-CEO,male,
-22215.0,482.6457,94344,stewart information services corp,0,1,0,0.0,20100312,morris matthew,120919110016642,Senior Exec. Vice President,male,
-12662.0,0.0,94344,stewart information services corp,0,0,0,1.0,20100312,skalka michael barry,120919110016636,,male,
-14070.0,10.6878,94344,stewart information services corp,0,1,0,0.0,20100312,berryman joseph allen,120919110016643,"EVP, CFO, Secr. and Treasurer",male,
-14853.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,hobby paul w,120919110025496,,male,
-8104.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,allen catherine a,120919110025336,,female,
-9131.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,apel thomas g,120919110025338,,male,
-21594.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,clarke robert,120919110025340,,male,
-15138.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,hodo edward douglas,120919110025344,,male,
-9532.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,moore laurie c,120919110025349,,female,
-11938.0,0.0,94344,stewart information services corp,1,0,0,0.0,20100505,porter w arthur,120919110025353,,male,
-8153.0,0.0,94344,stewart information services corp,0,0,0,1.0,20100505,keating frank a,120919110025481,,male,
-25906.0,415.5066,94344,stewart information services corp,0,1,0,0.0,20100802,smith edgar ashley,120919110040518,Exec. VP & Chief Legal Officer,male,
-26906.0,415.2944,94344,stewart information services corp,0,1,0,0.0,20100803,smith edgar ashley,120919110040893,Exec. VP & Chief Legal Officer,male,
-28006.0,414.1652,94344,stewart information services corp,0,1,0,0.0,20100823,smith edgar ashley,120919110043641,Exec. VP & Chief Legal Officer,male,
-31506.0,414.22,94344,stewart information services corp,0,1,0,0.0,20101105,smith edgar ashley,120919110053459,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100105,smith edgar ashley,120919110001096,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100222,smith edgar ashley,120919110010992,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100224,smith edgar ashley,120919110011869,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,0,0,1.0,20100312,skalka michael barry,120919110016636,,male,
+,,94344,stewart information services corp,1,1,0,0.0,20100312,morris stewart jr,120919110016660,President & Co-CEO,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100312,morris matthew,120919110016642,Senior Exec. Vice President,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100312,smith edgar ashley,120919110016646,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,1,1,0,0.0,20100312,morris malcolm s,120919110016657,Chairman & Co-CEO,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100312,berryman joseph allen,120919110016643,"EVP, CFO, Secr. and Treasurer",male,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,clarke robert,120919110025340,,male,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,hodo edward douglas,120919110025344,,male,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,moore laurie c,120919110025349,,female,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,porter w arthur,120919110025353,,male,
+,,94344,stewart information services corp,0,0,0,1.0,20100505,keating frank a,120919110025481,,male,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,hobby paul w,120919110025496,,male,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,allen catherine a,120919110025336,,female,
+,,94344,stewart information services corp,1,0,0,0.0,20100505,apel thomas g,120919110025338,,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100802,smith edgar ashley,120919110040518,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100803,smith edgar ashley,120919110040893,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,1,0,0.0,20100823,smith edgar ashley,120919110043641,Exec. VP & Chief Legal Officer,male,
+,,94344,stewart information services corp,0,1,0,0.0,20101105,smith edgar ashley,120919110053459,Exec. VP & Chief Legal Officer,male,
 10.0,141.0,94344,stewart information services corp,0,1,0,0.0,20110222,glaze brian,120919111011381,SVP & PAO,male,18375058.0
-103556.0,0.0,94344,stewart information services corp,0,0,0,1.0,20110309,morris stewart,120919111016740,,male,18375058.0
-74592.0,0.0,94344,stewart information services corp,1,1,0,0.0,20110311,morris stewart jr,120919111017494,President & Co-CEO,male,18375058.0
-23276.0,0.0,94344,stewart information services corp,0,0,0,1.0,20110311,skalka michael barry,120919111017491,,male,18375058.0
-85972.0,0.0,94344,stewart information services corp,1,1,0,0.0,20110311,morris malcolm s,120919111017496,Chairman & Co-CEO,male,18375058.0
-22024.0,10.6878,94344,stewart information services corp,0,1,0,0.0,20110311,berryman joseph allen,120919111017486,"EVP, CFO, Secr. and Treasurer",male,18375058.0
-37608.0,414.22,94344,stewart information services corp,0,1,0,0.0,20110311,smith edgar ashley,120919111017483,Exec. VP & Chief Legal Officer,male,18375058.0
-31754.0,482.6457,94344,stewart information services corp,0,1,0,0.0,20110311,morris matthew,120919111017489,Senior Exec. Vice President,male,18375058.0
-20530.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,porter w arthur,120919111025998,,male,18375058.0
-12134.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,allen catherine a,120919111025981,,female,18375058.0
-13127.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,apel thomas g,120919111025983,,male,18375058.0
-30186.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,clarke robert,120919111025985,,male,18375058.0
-18849.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,hobby paul w,120919111025987,,male,18375058.0
-19134.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,hodo edward douglas,120919111025989,,male,18375058.0
-16745.0,0.0,94344,stewart information services corp,0,0,0,1.0,20110504,keating frank a,120919111025992,,male,18375058.0
-18124.0,0.0,94344,stewart information services corp,1,0,0,0.0,20110504,moore laurie c,120919111025996,,female,18375058.0
-81592.0,0.0,94344,stewart information services corp,1,1,0,0.0,20110505,morris stewart jr,120919111026255,President & Co-CEO,male,18375058.0
-92972.0,0.0,94344,stewart information services corp,1,1,0,0.0,20110505,morris malcolm s,120919111026399,Chairman & Co-CEO,male,18375058.0
-37618.0,416.74,94344,stewart information services corp,0,1,0,0.0,20110505,smith edgar ashley,120919111026247,Exec. VP & Chief Legal Officer,male,18375058.0
-36306.0,417.17,94344,stewart information services corp,0,1,0,0.0,20110617,smith edgar ashley,120919111035392,Exec. VP & Chief Legal Officer,male,18375058.0
-36291.0,489.25,94344,stewart information services corp,0,1,0,0.0,20120328,morris matthew,120919112020177,Chief Executive Officer,male,19303844.0
-21441.0,0.0,94344,stewart information services corp,0,1,0,0.0,20120419,berryman joseph allen,120919112023590,"EVP, CFO, Secr. and Treasurer",male,19328333.0
-91805.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120419,morris malcolm s,120919112023591,,male,19328333.0
-80257.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120419,morris stewart jr,120919112023592,,male,19328333.0
-22075.0,0.0,94344,stewart information services corp,0,0,0,1.0,20120419,skalka michael barry,120919112023593,,male,19328333.0
-35762.0,0.0,94344,stewart information services corp,0,1,0,0.0,20120419,morris matthew,120919112023594,Chief Executive Officer,male,19328333.0
-23248.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,porter w arthur,120919112025579,,male,19328333.0
-20842.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,moore laurie c,120919112025576,,female,19328333.0
-14852.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,allen catherine a,120919112025574,,female,19328333.0
-80257.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,morris stewart jr,120919112025547,,male,19328333.0
-36029.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,clarke robert,120919112025504,,male,19328333.0
-24977.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,hodo edward douglas,120919112025517,,male,19328333.0
-21567.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,hobby paul w,120919112025512,,male,19328333.0
-91805.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,morris malcolm s,120919112025584,,male,19328333.0
-18970.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120502,apel thomas g,120919112025498,,male,19328333.0
-19463.0,0.0,94344,stewart information services corp,0,0,0,1.0,20120502,keating frank a,120919112025523,,male,19328333.0
-1000.0,0.0,94344,stewart information services corp,0,1,0,0.0,20120524,nadeau jason,120919112030159,Group President,male,19328333.0
-76257.0,0.0,94344,stewart information services corp,1,0,0,0.0,20120912,morris stewart jr,120919112045240,,male,19351985.0
-106259.0,0.0,94344,stewart information services corp,1,0,0,0.0,20121121,morris stewart jr,120919112054341,,male,19352905.0
-109679.0,0.0,94344,stewart information services corp,1,0,0,0.0,20121219,morris stewart jr,120919112058547,,male,19352905.0
-10.0,0.0,94344,stewart information services corp,0,1,0,0.0,20121220,lessack steven mark,120919112058900,Group President,male,19352905.0
-116805.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130102,morris malcolm s,120919113000134,,male,19403765.0
-13310.2322,2217.29,94344,stewart information services corp,0,1,0,0.0,20130222,houghton george l,120919113011042,Group President,male,19403765.0
-19087.0,0.0,94344,stewart information services corp,0,1,0,0.0,20130222,nadeau jason,120919113010977,Group President,male,19403765.0
-10522.0,0.0,94344,stewart information services corp,0,1,0,0.0,20130222,lessack steven mark,120919113010969,Group President,male,19403765.0
-33661.0,0.0,94344,stewart information services corp,0,1,0,0.0,20130222,berryman joseph allen,120919113010973,"EVP, CFO, Secr. and Treasurer",male,19403765.0
-62041.0,477.83,94344,stewart information services corp,0,1,0,0.0,20130222,morris matthew,120919113010950,Chief Executive Officer,male,19403765.0
-12223.6645,0.0,94344,stewart information services corp,0,1,0,0.0,20130222,killea john l,120919113010938,Chief Legal Officer,male,19403765.0
-24126.0,0.0,94344,stewart information services corp,0,1,0,0.0,20130222,clements glenn h,120919113010962,Group President-Direct Operati,male,19403765.0
-33069.0,10.63,94344,stewart information services corp,0,1,0,0.0,20130312,berryman joseph allen,120919113015857,"EVP, CFO, Secr. and Treasurer",male,19403765.0
-113104.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130312,morris malcolm s,120919113015867,,male,19403765.0
-106236.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130312,morris stewart jr,120919113015959,,male,19403765.0
-61144.0,474.92,94344,stewart information services corp,0,1,0,0.0,20130312,morris matthew,120919113015971,Chief Executive Officer,male,19403765.0
-88104.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130430,morris malcolm s,120919113023076,,male,22421821.0
-22269.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,moore laurie c,120919113024688,,female,22421821.0
-22530.0,0.0,94344,stewart information services corp,0,0,0,1.0,20130507,keating frank a,120919113024686,,male,22421821.0
-24675.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,porter w arthur,120919113024691,,male,22421821.0
-28044.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,hodo edward douglas,120919113024684,,male,22421821.0
-18057.4663,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,allen catherine a,120919113024670,,female,22421821.0
-39096.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,clarke robert,120919113024678,,male,22421821.0
-20397.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,apel thomas g,120919113024674,,male,22421821.0
-22994.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130507,hobby paul w,120919113024681,,male,22421821.0
-96236.0,0.0,94344,stewart information services corp,1,0,0,0.0,20130530,morris stewart jr,120919113029670,,male,22421821.0
-78104.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140117,morris malcolm s,120919114003680,,male,22501030.0
-86236.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140220,morris stewart jr,120919114012159,,male,22501030.0
-8906.0,78104.0,94344,stewart information services corp,1,0,0,0.0,20140312,morris malcolm s,120919114019958,,male,22501030.0
-85142.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140312,morris stewart jr,120919114019961,,male,22501030.0
-60243.0,468.87,94344,stewart information services corp,0,1,0,0.0,20140312,morris matthew,120919114019963,Chief Executive Officer,male,22501030.0
-32482.0,10.5,94344,stewart information services corp,0,1,0,0.0,20140312,berryman joseph allen,120919114019965,"EVP, CFO, Secr. and Treasurer",male,22501030.0
-14241.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140318,lessack steven mark,120919114021515,Group President,male,22501030.0
-16545.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140318,killea john l,120919114021513,Chief Legal Officer,male,22501030.0
-17553.343,2186.16,94344,stewart information services corp,0,1,0,0.0,20140318,houghton george l,120919114021512,Group President,male,22501030.0
-25595.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140318,nadeau jason,120919114021516,Group President,male,22501030.0
-37021.0,10.51,94344,stewart information services corp,0,1,0,0.0,20140318,berryman joseph allen,120919114021509,"EVP, CFO, Secr. and Treasurer",male,22501030.0
-70702.0,468.65,94344,stewart information services corp,0,1,0,0.0,20140318,morris matthew,120919114021505,Chief Executive Officer,male,22501030.0
-2094.0,134.37,94344,stewart information services corp,0,1,0,0.0,20140318,glaze brian,120919114021499,SVP & PAO,male,22501030.0
-29704.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140318,clements glenn h,120919114021511,Group President-Direct Operati,male,22501030.0
-84646.0,468.65,94344,stewart information services corp,0,1,0,0.0,20140507,morris matthew,120919114031863,Chief Executive Officer,male,22516819.0
-17339.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140507,lessack steven mark,120919114031860,Group President,male,22516819.0
-20385.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140507,killea john l,120919114031856,Chief Legal Officer,male,22516819.0
-22097.343,2186.16,94344,stewart information services corp,0,1,0,0.0,20140507,houghton george l,120919114031851,Group President,male,22516819.0
-35282.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140507,clements glenn h,120919114031849,Group President-Direct Operati,male,22516819.0
-41056.0,10.51,94344,stewart information services corp,0,1,0,0.0,20140507,berryman joseph allen,120919114031846,"EVP, CFO, Secr. and Treasurer",male,22516819.0
-26638.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140507,porter w arthur,120919114031825,,male,22516819.0
-25997.0,0.0,94344,stewart information services corp,0,0,0,1.0,20140507,keating frank a,120919114031822,,male,22516819.0
-30007.0,0.0,94344,stewart information services corp,0,0,0,1.0,20140507,hodo edward douglas,120919114031819,,male,22516819.0
-26461.0,0.0,94344,stewart information services corp,0,0,0,1.0,20140507,hobby paul w,120919114031817,,male,22516819.0
-42563.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140507,clarke robert,120919114031813,,male,22516819.0
-21963.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140507,christenson glenn c,120919114031811,,male,22516819.0
-22360.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140507,apel thomas g,120919114031809,,male,22516819.0
-1963.0,240284.0,94344,stewart information services corp,1,0,0,0.0,20140507,ajdler arnaud,120919114031802,,male,22516819.0
-29933.0,0.0,94344,stewart information services corp,0,1,0,0.0,20140507,nadeau jason,120919114031869,Group President,male,22516819.0
-24232.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140507,moore laurie c,120919114031823,,female,22516819.0
-73142.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140616,morris stewart jr,120919114041527,,male,22516819.0
-25963.0,0.0,94344,stewart information services corp,1,0,0,0.0,20140806,christenson glenn c,120919114050879,,male,22443506.0
-30963.0,0.0,94344,stewart information services corp,1,0,0,0.0,20141211,christenson glenn c,120919114074363,,male,22021813.0
-25391.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150105,nadeau jason,120919115000571,Group President,male,24005760.0
-84002.0,468.65,94344,stewart information services corp,0,1,0,0.0,20150105,morris matthew,120919115000575,Chief Executive Officer,male,24005760.0
-15136.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150105,lessack steven mark,120919115000582,Group President,male,24005760.0
-18008.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150105,killea john l,120919115000597,Chief Legal Officer,male,24005760.0
-32184.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150105,clements glenn h,120919115000604,Group President-Direct Operati,male,24005760.0
-38496.0,10.51,94344,stewart information services corp,0,1,0,0.0,20150105,berryman joseph allen,120919115000614,"EVP, CFO, Secr. and Treasurer",male,24005760.0
-25099.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150312,apel thomas g,120919115025526,,male,24005760.0
-7744.0,78104.0,94344,stewart information services corp,1,0,0,0.0,20150313,morris malcolm s,120919115026242,,male,24005760.0
-71980.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150313,morris stewart jr,120919115026243,,male,24005760.0
-78569.0,468.65,94344,stewart information services corp,0,1,0,0.0,20150313,morris matthew,120919115026244,Chief Executive Officer,male,24005760.0
-37839.0,10.51,94344,stewart information services corp,0,1,0,0.0,20150313,berryman joseph allen,120919115026245,"EVP, CFO, Secr. and Treasurer",male,24005760.0
-11442.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150428,lessack steven mark,120919115036721,Group President,male,23983505.0
-2499.03,134.32,94344,stewart information services corp,0,1,0,0.0,20150505,glaze brian,120919115038972,SVP & PAO,male,23983505.0
-28540.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150505,nadeau jason,120919115038963,Group President,male,23983505.0
-13422.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150505,lessack steven mark,120919115038958,Group President,male,23983505.0
-20687.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150505,killea john l,120919115038955,Chief Legal Officer,male,23983505.0
-40516.0,10.41,94344,stewart information services corp,0,1,0,0.0,20150505,berryman joseph allen,120919115038952,"EVP, CFO, Secr. and Treasurer",male,23983505.0
-2661.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150505,beall patrick henry,120919115038949,Group President,male,23983505.0
-86443.0,468.49,94344,stewart information services corp,0,1,0,0.0,20150505,morris matthew,120919115038944,Chief Executive Officer,male,23983505.0
-35585.06,0.0,94344,stewart information services corp,0,1,0,0.0,20150505,clements glenn h,120919115038953,Group President-Direct Operati,male,23983505.0
-29364.0,0.0,94344,stewart information services corp,0,0,0,1.0,20150506,hobby paul w,120919115039526,,male,23983505.0
-3606.0,240284.0,94344,stewart information services corp,1,0,0,0.0,20150506,ajdler arnaud,120919115039508,,male,23983505.0
-26742.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150506,apel thomas g,120919115039512,,male,23983505.0
-32606.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150506,christenson glenn c,120919115039518,,male,23983505.0
-45466.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150506,clarke robert,120919115039525,,male,23983505.0
-28900.0,0.0,94344,stewart information services corp,0,0,0,1.0,20150506,keating frank a,120919115039527,,male,23983505.0
-27135.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150506,moore laurie c,120919115039533,,female,23983505.0
-1893.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150506,chadwick james m,120919115039538,,male,23983505.0
-37585.06,0.0,94344,stewart information services corp,0,1,0,0.0,20150506,clements glenn h,120919115039542,Group President-Direct Operati,male,23983505.0
-35585.06,0.0,94344,stewart information services corp,0,1,0,0.0,20150508,clements glenn h,120919115040657,Group President-Direct Operati,male,23983505.0
-19187.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150511,killea john l,120919115041038,Chief Legal Officer,male,23983505.0
-30000.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150611,chadwick james m,120919115052379,,male,23983505.0
-41606.0,0.0,94344,stewart information services corp,1,0,0,0.0,20150807,christenson glenn c,120919115064711,,male,23285290.0
-13122.0,0.0,94344,stewart information services corp,0,1,0,0.0,20150810,killea john l,120919115064941,Chief Legal Officer,male,23285290.0
+,,94344,stewart information services corp,0,0,0,1.0,20110309,morris stewart,120919111016740,,male,18375058.0
+,,94344,stewart information services corp,1,1,0,0.0,20110311,morris malcolm s,120919111017496,Chairman & Co-CEO,male,18375058.0
+,,94344,stewart information services corp,1,1,0,0.0,20110311,morris stewart jr,120919111017494,President & Co-CEO,male,18375058.0
+,,94344,stewart information services corp,0,1,0,0.0,20110311,berryman joseph allen,120919111017486,"EVP, CFO, Secr. and Treasurer",male,18375058.0
+,,94344,stewart information services corp,0,1,0,0.0,20110311,morris matthew,120919111017489,Senior Exec. Vice President,male,18375058.0
+,,94344,stewart information services corp,0,0,0,1.0,20110311,skalka michael barry,120919111017491,,male,18375058.0
+,,94344,stewart information services corp,0,1,0,0.0,20110311,smith edgar ashley,120919111017483,Exec. VP & Chief Legal Officer,male,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,allen catherine a,120919111025981,,female,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,apel thomas g,120919111025983,,male,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,clarke robert,120919111025985,,male,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,hobby paul w,120919111025987,,male,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,hodo edward douglas,120919111025989,,male,18375058.0
+,,94344,stewart information services corp,0,0,0,1.0,20110504,keating frank a,120919111025992,,male,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,moore laurie c,120919111025996,,female,18375058.0
+,,94344,stewart information services corp,1,0,0,0.0,20110504,porter w arthur,120919111025998,,male,18375058.0
+,,94344,stewart information services corp,1,1,0,0.0,20110505,morris malcolm s,120919111026399,Chairman & Co-CEO,male,18375058.0
+,,94344,stewart information services corp,0,1,0,0.0,20110505,smith edgar ashley,120919111026247,Exec. VP & Chief Legal Officer,male,18375058.0
+,,94344,stewart information services corp,1,1,0,0.0,20110505,morris stewart jr,120919111026255,President & Co-CEO,male,18375058.0
+,,94344,stewart information services corp,0,1,0,0.0,20110617,smith edgar ashley,120919111035392,Exec. VP & Chief Legal Officer,male,18375058.0
+,,94344,stewart information services corp,0,1,0,0.0,20120328,morris matthew,120919112020177,Chief Executive Officer,male,19303844.0
+,,94344,stewart information services corp,0,1,0,0.0,20120419,morris matthew,120919112023594,Chief Executive Officer,male,19328333.0
+,,94344,stewart information services corp,0,1,0,0.0,20120419,berryman joseph allen,120919112023590,"EVP, CFO, Secr. and Treasurer",male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120419,morris stewart jr,120919112023592,,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120419,morris malcolm s,120919112023591,,male,19328333.0
+,,94344,stewart information services corp,0,0,0,1.0,20120419,skalka michael barry,120919112023593,,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,apel thomas g,120919112025498,,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,clarke robert,120919112025504,,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,hobby paul w,120919112025512,,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,hodo edward douglas,120919112025517,,male,19328333.0
+,,94344,stewart information services corp,0,0,0,1.0,20120502,keating frank a,120919112025523,,male,19328333.0
+80257.0,,94344,stewart information services corp,1,0,0,0.0,20120502,morris stewart jr,120919112025547,,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,allen catherine a,120919112025574,,female,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,moore laurie c,120919112025576,,female,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120502,porter w arthur,120919112025579,,male,19328333.0
+91805.0,,94344,stewart information services corp,1,0,0,0.0,20120502,morris malcolm s,120919112025584,,male,19328333.0
+,,94344,stewart information services corp,0,1,0,0.0,20120524,nadeau jason,120919112030159,Group President,male,19328333.0
+,,94344,stewart information services corp,1,0,0,0.0,20120912,morris stewart jr,120919112045240,,male,19351985.0
+,,94344,stewart information services corp,1,0,0,0.0,20121121,morris stewart jr,120919112054341,,male,19352905.0
+,,94344,stewart information services corp,1,0,0,0.0,20121219,morris stewart jr,120919112058547,,male,19352905.0
+,,94344,stewart information services corp,0,1,0,0.0,20121220,lessack steven mark,120919112058900,Group President,male,19352905.0
+,,94344,stewart information services corp,1,0,0,0.0,20130102,morris malcolm s,120919113000134,,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,killea john l,120919113010938,Chief Legal Officer,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,morris matthew,120919113010950,Chief Executive Officer,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,clements glenn h,120919113010962,Group President-Direct Operati,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,lessack steven mark,120919113010969,Group President,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,berryman joseph allen,120919113010973,"EVP, CFO, Secr. and Treasurer",male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,nadeau jason,120919113010977,Group President,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130222,houghton george l,120919113011042,Group President,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130312,berryman joseph allen,120919113015857,"EVP, CFO, Secr. and Treasurer",male,19403765.0
+,,94344,stewart information services corp,1,0,0,0.0,20130312,morris malcolm s,120919113015867,,male,19403765.0
+,,94344,stewart information services corp,1,0,0,0.0,20130312,morris stewart jr,120919113015959,,male,19403765.0
+,,94344,stewart information services corp,0,1,0,0.0,20130312,morris matthew,120919113015971,Chief Executive Officer,male,19403765.0
+,,94344,stewart information services corp,1,0,0,0.0,20130430,morris malcolm s,120919113023076,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,allen catherine a,120919113024670,,female,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,hobby paul w,120919113024681,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,apel thomas g,120919113024674,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,porter w arthur,120919113024691,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,clarke robert,120919113024678,,male,22421821.0
+,,94344,stewart information services corp,0,0,0,1.0,20130507,keating frank a,120919113024686,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,hodo edward douglas,120919113024684,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130507,moore laurie c,120919113024688,,female,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20130530,morris stewart jr,120919113029670,,male,22421821.0
+,,94344,stewart information services corp,1,0,0,0.0,20140117,morris malcolm s,120919114003680,,male,22501030.0
+,,94344,stewart information services corp,1,0,0,0.0,20140220,morris stewart jr,120919114012159,,male,22501030.0
+,,94344,stewart information services corp,1,0,0,0.0,20140312,morris malcolm s,120919114019958,,male,22501030.0
+,,94344,stewart information services corp,1,0,0,0.0,20140312,morris stewart jr,120919114019961,,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140312,morris matthew,120919114019963,Chief Executive Officer,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140312,berryman joseph allen,120919114019965,"EVP, CFO, Secr. and Treasurer",male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,nadeau jason,120919114021516,Group President,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,lessack steven mark,120919114021515,Group President,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,killea john l,120919114021513,Chief Legal Officer,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,clements glenn h,120919114021511,Group President-Direct Operati,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,berryman joseph allen,120919114021509,"EVP, CFO, Secr. and Treasurer",male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,morris matthew,120919114021505,Chief Executive Officer,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,glaze brian,120919114021499,SVP & PAO,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140318,houghton george l,120919114021512,Group President,male,22501030.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,clements glenn h,120919114031849,Group President-Direct Operati,male,22516819.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,nadeau jason,120919114031869,Group President,male,22516819.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,morris matthew,120919114031863,Chief Executive Officer,male,22516819.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,lessack steven mark,120919114031860,Group President,male,22516819.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,killea john l,120919114031856,Chief Legal Officer,male,22516819.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,houghton george l,120919114031851,Group President,male,22516819.0
+,,94344,stewart information services corp,0,1,0,0.0,20140507,berryman joseph allen,120919114031846,"EVP, CFO, Secr. and Treasurer",male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140507,christenson glenn c,120919114031811,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140507,moore laurie c,120919114031823,,female,22516819.0
+,,94344,stewart information services corp,0,0,0,1.0,20140507,keating frank a,120919114031822,,male,22516819.0
+,,94344,stewart information services corp,0,0,0,1.0,20140507,hodo edward douglas,120919114031819,,male,22516819.0
+,,94344,stewart information services corp,0,0,0,1.0,20140507,hobby paul w,120919114031817,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140507,clarke robert,120919114031813,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140507,apel thomas g,120919114031809,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140507,porter w arthur,120919114031825,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140507,ajdler arnaud,120919114031802,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140616,morris stewart jr,120919114041527,,male,22516819.0
+,,94344,stewart information services corp,1,0,0,0.0,20140806,christenson glenn c,120919114050879,,male,22443506.0
+,,94344,stewart information services corp,1,0,0,0.0,20141211,christenson glenn c,120919114074363,,male,22021813.0
+,,94344,stewart information services corp,0,1,0,0.0,20150105,berryman joseph allen,120919115000614,"EVP, CFO, Secr. and Treasurer",male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150105,clements glenn h,120919115000604,Group President-Direct Operati,male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150105,nadeau jason,120919115000571,Group President,male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150105,lessack steven mark,120919115000582,Group President,male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150105,killea john l,120919115000597,Chief Legal Officer,male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150105,morris matthew,120919115000575,Chief Executive Officer,male,24005760.0
+,,94344,stewart information services corp,1,0,0,0.0,20150312,apel thomas g,120919115025526,,male,24005760.0
+,,94344,stewart information services corp,1,0,0,0.0,20150313,morris malcolm s,120919115026242,,male,24005760.0
+,,94344,stewart information services corp,1,0,0,0.0,20150313,morris stewart jr,120919115026243,,male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150313,morris matthew,120919115026244,Chief Executive Officer,male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150313,berryman joseph allen,120919115026245,"EVP, CFO, Secr. and Treasurer",male,24005760.0
+,,94344,stewart information services corp,0,1,0,0.0,20150428,lessack steven mark,120919115036721,Group President,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,nadeau jason,120919115038963,Group President,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,lessack steven mark,120919115038958,Group President,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,glaze brian,120919115038972,SVP & PAO,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,berryman joseph allen,120919115038952,"EVP, CFO, Secr. and Treasurer",male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,clements glenn h,120919115038953,Group President-Direct Operati,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,killea john l,120919115038955,Chief Legal Officer,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,beall patrick henry,120919115038949,Group President,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150505,morris matthew,120919115038944,Chief Executive Officer,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150506,ajdler arnaud,120919115039508,,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150506,apel thomas g,120919115039512,,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150506,christenson glenn c,120919115039518,,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150506,clarke robert,120919115039525,,male,23983505.0
+,,94344,stewart information services corp,0,0,0,1.0,20150506,hobby paul w,120919115039526,,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150506,moore laurie c,120919115039533,,female,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150506,chadwick james m,120919115039538,,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150506,clements glenn h,120919115039542,Group President-Direct Operati,male,23983505.0
+,,94344,stewart information services corp,0,0,0,1.0,20150506,keating frank a,120919115039527,,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150508,clements glenn h,120919115040657,Group President-Direct Operati,male,23983505.0
+,,94344,stewart information services corp,0,1,0,0.0,20150511,killea john l,120919115041038,Chief Legal Officer,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150611,chadwick james m,120919115052379,,male,23983505.0
+,,94344,stewart information services corp,1,0,0,0.0,20150807,christenson glenn c,120919115064711,,male,23285290.0
+,,94344,stewart information services corp,1,0,0,0.0,20150807,christenson glenn c,120919115064711,,male,23285290.0
+,,94344,stewart information services corp,0,1,0,0.0,20150810,killea john l,120919115064941,Chief Legal Officer,male,23285290.0
+,,94344,stewart information services corp,0,1,0,0.0,20150810,killea john l,120919115064941,Chief Legal Officer,male,23285290.0
+,,94344,stewart information services corp,1,0,0,0.0,20151026,moore laurie c,114036115038616,,female,23285450.0
+,,94344,stewart information services corp,0,1,0,0.0,20151202,clements glenn h,114036115043424,Group President-Direct Ops,male,23285450.0
+,,94344,stewart information services corp,0,1,0,0.0,20151217,clements glenn h,114036115044963,Group President-Direct Ops,male,23285450.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,beall patrick henry,114036116046674,Group President,male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,glaze brian,114036116046682,SVP & PAO,male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,nadeau jason,114036116046679,Group President,male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,morris matthew,114036116046673,Chief Executive Officer,male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,killea john l,114036116046677,Chief Legal Officer,male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,berryman joseph allen,114036116046671,"EVP, CFO, Secty & Treasurer",male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,clements glenn h,114036116046675,Group President-Direct Ops,male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160105,lessack steven mark,114036116046678,Group President,male,23341106.0
+66909.0,483.98,94344,stewart information services corp,0,1,0,0.0,20160311,morris matthew,114036116057536,Chief Executive Officer,male,23341106.0
+71327.0,,94344,stewart information services corp,1,0,0,0.0,20160311,morris stewart jr,114036116057537,,male,23341106.0
+8253.0,78104.0,94344,stewart information services corp,1,0,0,0.0,20160311,morris malcolm s,114036116057538,,male,23341106.0
+33161.0,10.75,94344,stewart information services corp,0,1,0,0.0,20160311,berryman joseph allen,114036116057535,"EVP, CFO, Secty & Treasurer",male,23341106.0
+,,94344,stewart information services corp,0,1,0,0.0,20160425,lessack steven mark,114036116061949,Group President,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160428,morris malcolm s,114036116062485,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160428,morris stewart jr,114036116062487,,male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160428,morris matthew,114036116062486,Chief Executive Officer,male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160429,berryman joseph allen,114036116062652,"EVP, CFO, Secty & Treasurer",male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160429,glaze brian,114036116062653,SVP & PAO,male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160429,lessack steven mark,114036116062654,Group President,male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160429,killea john l,114036116062655,Chief Legal Officer,male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160429,beall patrick henry,114036116062656,Group President,male,23351264.0
+,,94344,stewart information services corp,0,1,0,0.0,20160429,morris matthew,114036116062657,Chief Executive Officer,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160502,christenson glenn c,114036116062853,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160502,ajdler arnaud,114036116062855,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160502,apel thomas g,114036116062854,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160502,clarke robert,114036116062850,,male,23351264.0
+,,94344,stewart information services corp,0,0,0,1.0,20160502,hobby paul w,114036116062846,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160502,chadwick james m,114036116062842,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160502,moore laurie c,114036116062840,,female,23351264.0
+,,94344,stewart information services corp,0,0,0,1.0,20160502,keating frank a,114036116062839,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160516,chadwick james m,114036116065650,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20160617,ajdler arnaud,114036116070261,,male,23351264.0
+,,94344,stewart information services corp,1,0,0,0.0,20161025,ajdler arnaud,114036116083545,,male,23371297.0
+,,94344,stewart information services corp,0,1,0,0.0,20161025,killea john l,114036116083519,Chief Legal Officer,male,23371297.0
+,,94344,stewart information services corp,1,0,0,0.0,20161114,press clifford,114036116086394,,male,23371297.0
+,,94344,stewart information services corp,1,1,0,0.0,20161117,morris matthew,114036116087019,Chief Executive Officer,male,23371297.0
+,,94344,stewart information services corp,0,1,0,0.0,20161201,morris matthew,114036116088441,Chief Executive Officer,male,23371297.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,rable brad,114036117000539,Chief Information Officer,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,killea john l,114036117000537,Chief Legal Officer,male,23431279.0
+,,94344,stewart information services corp,1,1,0,0.0,20170104,morris matthew,114036117000536,Chief Executive Officer,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,fauth dave,114036117000535,Group President,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,lessack steven mark,114036117000540,Group President,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,milligan jay,114036117000533,Chief Enterprise Sales Officer,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,beall patrick henry,114036117000532,Group President,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,berryman joseph allen,114036117000531,"EVP, CFO, Secty & Treasurer",male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170104,glaze brian,114036117000534,SVP & PAO,male,23431279.0
+,,94344,stewart information services corp,1,0,0,0.0,20170110,bradley c allen jr,114036117001417,,male,23431279.0
+,,94344,stewart information services corp,1,0,0,0.0,20170110,eppinger frederick h,114036117001418,,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170213,killea john l,114036117006363,Chief Legal Officer,male,23431279.0
+,,94344,stewart information services corp,1,0,0,0.0,20170314,chadwick james m,114036117011899,,male,23431279.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,milligan jay,114036117014691,Chief Enterprise Sales Officer,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,beall patrick henry,114036117014692,Group President,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,okrie timothy,114036117014693,Chief Operating Officer,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,killea john l,114036117014695,Chief Legal Officer,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,manal ann,114036117014696,Chief Human Resources Officer,female,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,rable brad,114036117014697,Chief Information Officer,male,23710234.0
+,,94344,stewart information services corp,1,1,0,0.0,20170404,morris matthew,114036117014698,Chief Executive Officer,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170404,fauth dave,114036117014694,Group President,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,clarke robert,114036117018105,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,ajdler arnaud,114036117018121,,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170503,glaze brian,114036117018092,SVP & PAO,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,press clifford,114036117018096,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,eppinger frederick h,114036117018101,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,apel thomas g,114036117018120,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,christenson glenn c,114036117018109,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,chadwick james m,114036117018114,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170503,bradley c allen jr,114036117018119,,male,23710234.0
+,,94344,stewart information services corp,1,0,0,0.0,20170504,chadwick james m,114036117018493,,male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170616,berryman joseph allen,90866217000131,"EVP, CFO, Secretary, Treasurer",male,23710234.0
+,,94344,stewart information services corp,0,1,0,0.0,20170831,fauth dave,90866217000157,Group President,male,23741722.0
+,,94344,stewart information services corp,0,1,0,0.0,20170908,hisey david c,90866217000163,CFO,male,23741722.0
+,,94344,stewart information services corp,0,1,0,0.0,20171020,magness john,90866217000218,Chief Corp. Development Off.,male,23765807.0
+,,94344,stewart information services corp,0,1,0,0.0,20171201,killea john l,90866217000222,Chief Legal Officer,male,23764016.0
+,,94344,stewart information services corp,0,1,0,0.0,20180103,manal ann,90866218000021,Chief Human Resources Officer,female,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180103,rable brad,90866218000020,Chief Information Officer,male,23719522.0
+,,94344,stewart information services corp,1,1,0,0.0,20180103,morris matthew,90866218000019,Chief Executive Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180103,killea john l,90866218000022,Chief Legal Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180103,fauth dave,90866218000017,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180103,beall patrick henry,90866218000016,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180103,glaze brian,90866218000018,SVP & PAO,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180212,fauth dave,90866218000034,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180212,manal ann,90866218000035,Chief Human Resources Officer,female,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180212,rable brad,90866218000036,Chief Information Officer,male,23719522.0
+,,94344,stewart information services corp,1,1,0,0.0,20180212,morris matthew,90866218000037,Chief Executive Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180212,killea john l,90866218000038,Chief Legal Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180212,beall patrick henry,90866218000039,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180302,killea john l,90866218000062,Chief Legal Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180302,rable brad,90866218000065,Chief Information Officer,male,23719522.0
+,,94344,stewart information services corp,1,1,0,0.0,20180302,morris matthew,90866218000064,Chief Executive Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180302,fauth dave,90866218000063,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180302,beall patrick henry,90866218000061,Group President,male,23719522.0
+,,94344,stewart information services corp,1,1,0,0.0,20180313,morris matthew,90866218000074,Chief Executive Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,beall patrick henry,90866218000072,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,fauth dave,90866218000079,Group President,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,rable brad,90866218000073,Chief Information Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,hisey david c,90866218000078,Chief Financial Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,killea john l,90866218000077,Chief Legal Officer,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,magness john,90866218000076,Chief Corp. Development Off.,male,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180313,manal ann,90866218000075,Chief Human Resources Officer,female,23719522.0
+,,94344,stewart information services corp,0,1,0,0.0,20180410,rable brad,90866218000088,Chief Information Officer,male,23733672.0
+,,94344,stewart information services corp,0,1,0,0.0,20180417,glaze brian,90866218000090,SVP & PAO,male,23733672.0
+,,94344,stewart information services corp,0,1,0,0.0,20180426,glaze brian,90866218000092,SVP & PAO,male,23733672.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,eppinger frederick h,90866218000150,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,clarke robert,90866218000151,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,christenson glenn c,90866218000152,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,chadwick james m,90866218000153,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,bradley c allen jr,90866218000154,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,apel thomas g,90866218000155,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,press clifford,90866218000149,,male,23731548.0
+,,94344,stewart information services corp,1,0,0,0.0,20180524,ajdler arnaud,90866218000156,,male,23731548.0
+,,94344,stewart information services corp,0,1,0,0.0,20180905,hisey david c,90866218000196,Chief Financial Officer,male,23744381.0
+,,94344,stewart information services corp,0,1,0,0.0,20181018,magness john,90866218000216,Chief Corp. Development Off.,male,23740900.0
+13552.134,,94344,stewart information services corp,0,1,0,0.0,20181108,killea john l,90866218000222,Chief Legal Officer,male,23740794.0
+,,94344,stewart information services corp,1,1,0,0.0,20190103,morris matthew,90866219000012,Chief Executive Officer,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190103,killea john l,90866219000013,Chief Legal Officer,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190103,beall patrick henry,90866219000014,Group President,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190103,glaze brian,90866219000015,SVP & PAO,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190103,fauth dave,90866219000016,Group President,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190103,rable brad,90866219000017,Chief Information Officer,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190103,manal ann,90866219000018,Chief Human Resources Officer,female,23719347.0
+7350.0,,94344,stewart information services corp,0,1,0,0.0,20190212,rable brad,90866219000040,Chief Information Officer,male,23719347.0
+20619.0,,94344,stewart information services corp,0,1,0,0.0,20190212,hisey david c,90866219000035,Chief Financial Officer,male,23719347.0
+14632.0,,94344,stewart information services corp,0,1,0,0.0,20190212,killea john l,90866219000036,Chief Legal Officer,male,23719347.0
+1491.0,,94344,stewart information services corp,0,1,0,0.0,20190212,magness john,90866219000038,Chief Corp. Development Off.,male,23719347.0
+328494.0,,94344,stewart information services corp,1,1,0,0.0,20190212,morris matthew,90866219000039,Chief Executive Officer,male,23719347.0
+14632.0,,94344,stewart information services corp,0,1,0,0.0,20190212,killea john l,90866219000037,Chief Legal Officer,male,23719347.0
+2138.0,,94344,stewart information services corp,0,1,0,0.0,20190212,manal ann,90866219000034,Chief Human Resources Officer,female,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190227,hisey david c,90866219000072,Chief Financial Officer,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190227,killea john l,90866219000071,Chief Legal Officer,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190227,rable brad,90866219000067,Chief Information Officer,male,23719347.0
+,,94344,stewart information services corp,1,1,0,0.0,20190227,morris matthew,90866219000068,Chief Executive Officer,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190227,magness john,90866219000070,Chief Corp. Development Off.,male,23719347.0
+,,94344,stewart information services corp,0,1,0,0.0,20190227,manal ann,90866219000069,Chief Human Resources Officer,female,23719347.0
+0.0,603.0,94344,stewart information services corp,0,1,0,0.0,20190306,lessack steven mark,90866219000077,Group President,male,23719347.0
+16241.0,,94344,stewart information services corp,0,1,0,0.0,20190311,killea john l,90866219000088,Chief Legal Officer,male,23719347.0
+334046.0,,94344,stewart information services corp,1,1,0,0.0,20190311,morris matthew,90866219000087,Chief Executive Officer,male,23719347.0
+2665.0,,94344,stewart information services corp,0,1,0,0.0,20190311,manal ann,90866219000089,Chief Human Resources Officer,female,23719347.0
+8884.0,,94344,stewart information services corp,0,1,0,0.0,20190311,rable brad,90866219000086,Chief Information Officer,male,23719347.0
+1198.0,603.0,94344,stewart information services corp,0,1,0,0.0,20190311,lessack steven mark,90866219000085,Group President,male,23719347.0
+979.0,10.78,94344,stewart information services corp,0,1,0,0.0,20190416,smith tara,90866219000115,Group President,female,23699103.0
+3134.0,149.06,94344,stewart information services corp,0,1,0,0.0,20190416,glaze brian,90866219000114,SVP & PAO,male,23699103.0
+,,94344,stewart information services corp,0,1,0,0.0,20190508,glaze brian,90866219000119,SVP & PAO,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,eppinger frederick h,90866219000169,,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,clarke robert,90866219000168,,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,christenson glenn c,90866219000167,,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,bradley c allen jr,90866219000165,,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,apel thomas g,90866219000164,,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,chadwick james m,90866219000166,,male,23700473.0
+,,94344,stewart information services corp,1,0,0,0.0,20190621,ajdler arnaud,90866219000163,,male,23700473.0
+20340.0,,94344,stewart information services corp,0,1,0,0.0,20190904,hisey david c,90866219000180,Chief Financial Officer,male,23712238.0
+,,94344,stewart information services corp,1,0,0,0.0,20190913,bradley c allen jr,90866219000183,,male,23712238.0
+,,94344,stewart information services corp,1,0,0,0.0,20190913,chadwick james m,90866219000184,,male,23712238.0
+,,94344,stewart information services corp,1,1,0,0.0,20190923,eppinger frederick h,90866219000190,Chief Executive Officer,male,23712238.0
+1437.0,,94344,stewart information services corp,0,1,0,0.0,20191018,magness john,110465919055002,Chief Corp. Development Off.,male,23711652.0
+,,94344,stewart information services corp,1,0,0,0.0,20191031,christenson glenn c,90866219000234,,male,23706719.0
+19018.0,,94344,stewart information services corp,1,1,0,0.0,20191107,eppinger frederick h,90866219000255,Chief Executive Officer,male,23706719.0
+19215.0,,94344,stewart information services corp,0,1,0,0.0,20191108,killea john l,90866219000258,Chief Legal Officer,male,23706719.0
+19215.0,,94344,stewart information services corp,0,1,0,0.0,20191112,killea john l,90866219000260,Chief Legal Officer,male,23706719.0
+,,94344,stewart information services corp,0,1,0,0.0,20191122,smith tara,90866219000266,Group President,female,23706719.0
+639.0,,94344,stewart information services corp,1,0,0,0.0,20191220,pallotta karen r,90866219000274,,female,23706719.0
+639.0,,94344,stewart information services corp,1,0,0,0.0,20191220,sanchez rodriquez manuel,90866219000275,,male,23706719.0
+334003.0,,94344,stewart information services corp,1,0,0,0.0,20200203,morris matthew,90866220000011,,male,23709407.0
+10788.0,,94344,stewart information services corp,0,1,0,0.0,20200211,rable brad,90866220000034,Chief Information Officer,male,23709407.0
+,,94344,stewart information services corp,0,1,0,0.0,20200211,glaze brian,90866220000032,SVP and PAO,male,23709407.0
+,,94344,stewart information services corp,0,1,0,0.0,20200211,lessack steven mark,90866220000040,Group President,male,23709407.0
+25088.0,,94344,stewart information services corp,0,1,0,0.0,20200211,hisey david c,90866220000033,Chief Financial Officer,male,23709407.0
+45441.0,,94344,stewart information services corp,1,1,0,0.0,20200211,eppinger frederick h,90866220000038,Chief Executive Officer,male,23709407.0
+22206.0,,94344,stewart information services corp,0,1,0,0.0,20200211,killea john l,90866220000037,Chief Legal Officer,male,23709407.0
+,,94344,stewart information services corp,0,1,0,0.0,20200211,smith tara,90866220000036,Group President,female,23709407.0
+,,94344,stewart information services corp,0,1,0,0.0,20200211,kain emily,90866220000035,Chief Human Resource Officer,female,23709407.0
+341508.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200211,morris matthew,90866220000039,,male,23709407.0
+332729.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200214,morris matthew,90866220000043,,male,23709407.0
+330229.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200219,morris matthew,90866220000046,,male,23709407.0
+330157.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200227,morris matthew,90866220000057,,male,23709407.0
+326957.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200306,morris matthew,90866220000060,,male,23709407.0
+59441.0,,94344,stewart information services corp,1,1,0,0.0,20200312,eppinger frederick h,90866220000063,Chief Executive Officer,male,23709407.0
+1050.0,10.78,94344,stewart information services corp,0,1,0,0.0,20200415,smith tara,90866220000074,Group President,female,23679888.0
+3347.0,149.06,94344,stewart information services corp,0,1,0,0.0,20200415,glaze brian,90866220000075,SVP & PAO,male,23679888.0
+75541.0,,94344,stewart information services corp,1,1,0,0.0,20200513,eppinger frederick h,90866220000078,Chief Executive Officer,male,23682911.0
+311437.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200526,morris matthew,90866220000084,,male,23682911.0
+268020.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200528,morris matthew,90866220000087,,male,23682911.0
+243957.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200601,morris matthew,90866220000108,,male,23682911.0
+203957.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200605,morris matthew,90866220000111,,male,23682911.0
+,,94344,stewart information services corp,1,0,0,0.0,20200608,apel thomas g,90866220000118,,male,23682911.0
+,,94344,stewart information services corp,1,0,0,0.0,20200608,bradley c allen jr,90866220000119,,male,23682911.0
+,,94344,stewart information services corp,1,0,0,0.0,20200608,clarke robert,90866220000120,,male,23682911.0
+205783.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200608,morris matthew,90866220000121,,male,23682911.0
+2465.0,,94344,stewart information services corp,1,0,0,0.0,20200608,pallotta karen r,90866220000122,,female,23682911.0
+3865.0,,94344,stewart information services corp,1,0,0,0.0,20200608,sanchez rodriquez manuel,90866220000123,,male,23682911.0
+180783.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200609,morris matthew,90866220000125,,male,23682911.0
+1826.0,,94344,stewart information services corp,1,0,0,0.0,20200610,matz deborah jane,90866220000127,,female,23682911.0
+1691.0,,94344,stewart information services corp,1,0,0,0.0,20200702,corey william s. jr.,90866220000136,,male,23699228.0
+138634.0,11.0,94344,stewart information services corp,1,0,0,0.0,20200731,morris matthew,90866220000146,,male,23700919.0
+130783.0,,94344,stewart information services corp,1,0,0,0.0,20200804,morris matthew,90866220000147,,male,23700919.0
+105781.0,,94344,stewart information services corp,1,0,0,0.0,20200806,morris matthew,90866220000148,,male,23700919.0
+17171.0,,94344,stewart information services corp,0,1,0,0.0,20200903,hisey david c,90866220000154,Chief Financial Officer,male,23700919.0
+1970.0,16.249,94344,stewart information services corp,0,1,0,0.0,20201110,smith tara,90866220000167,Group President,female,26719342.0
+30186.0,,94344,stewart information services corp,0,1,0,0.0,20201110,killea john l,90866220000168,Chief Legal Officer,male,26719342.0
+76983.0,11.0,94344,stewart information services corp,1,0,0,0.0,20201118,morris matthew,90866220000173,,male,26719342.0
+,,94344,stewart information services corp,1,0,0,0.0,20201210,clarke robert,90866220000179,,male,26719342.0
+2578.0,11.0,94344,stewart information services corp,0,1,0,0.0,20210209,smith tara,90866221000018,Group President,female,26728242.0
+247.0,10.0,94344,stewart information services corp,0,1,0,0.0,20210209,kain emily,90866221000022,Chief Human Resource Officer,female,26728242.0
+30925.0,,94344,stewart information services corp,0,1,0,0.0,20210209,hisey david c,90866221000016,Chief Financial Officer,male,26728242.0
+79543.0,11.0,94344,stewart information services corp,1,0,0,0.0,20210209,morris matthew,90866221000015,,male,26728242.0
+33024.0,9.0,94344,stewart information services corp,0,1,0,0.0,20210209,killea john l,90866221000021,Chief Legal Officer,male,26728242.0
+3424.0,166.0,94344,stewart information services corp,0,1,0,0.0,20210209,glaze brian,90866221000023,SVP and PAO,male,26728242.0
+12353.0,10.0,94344,stewart information services corp,0,1,0,0.0,20210209,rable brad,90866221000019,Chief Information Officer,male,26728242.0
+80304.0,,94344,stewart information services corp,1,1,0,0.0,20210209,eppinger frederick h,90866221000017,Chief Executive Officer,male,26728242.0
+695.0,10.0,94344,stewart information services corp,0,1,0,0.0,20210209,lessack steven mark,90866221000020,Group President,male,26728242.0
+3680.0,166.0,94344,stewart information services corp,0,1,0,0.0,20210216,glaze brian,90866221000029,SVP and PAO,male,26728242.0
+16809.0,10.0,94344,stewart information services corp,0,1,0,0.0,20210216,rable brad,90866221000031,Chief Information Officer,male,26728242.0
+47910.0,,94344,stewart information services corp,0,1,0,0.0,20210216,hisey david c,90866221000028,Chief Financial Officer,male,26728242.0
+2855.0,11.0,94344,stewart information services corp,0,1,0,0.0,20210216,smith tara,90866221000027,Group President,female,26728242.0
+42197.0,9.0,94344,stewart information services corp,0,1,0,0.0,20210216,killea john l,90866221000030,Chief Legal Officer,male,26728242.0
+97374.0,11.0,94344,stewart information services corp,1,0,0,0.0,20210216,morris matthew,90866221000026,,male,26728242.0
+,,94344,stewart information services corp,1,1,0,0.0,20210312,eppinger frederick h,90866221000058,Chief Executive Officer,male,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,kain emily,90866221000052,Chief Human Resource Officer,female,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,rable brad,90866221000053,Chief Information Officer,male,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,hisey david c,90866221000054,Chief Financial Officer,male,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,glaze brian,90866221000055,SVP and PAO,male,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,lessack steven mark,90866221000056,Group President,male,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,killea john l,90866221000057,Chief Legal Officer,male,26728242.0
+,,94344,stewart information services corp,0,1,0,0.0,20210312,smith tara,90866221000059,Group President,female,26728242.0
+2954.0,11.0,94344,stewart information services corp,0,1,0,0.0,20210415,smith tara,90866221000068,Group President,female,26806025.0
+3865.0,166.0,94344,stewart information services corp,0,1,0,0.0,20210415,glaze brian,90866221000069,SVP & PAO,male,26806025.0
+3241.0,,94344,stewart information services corp,1,0,0,0.0,20210601,matz deborah jane,90866221000102,,female,26811242.0
+98061.0,11.0,94344,stewart information services corp,1,0,0,0.0,20210601,morris matthew,90866221000101,,male,26811242.0
+3880.0,,94344,stewart information services corp,1,0,0,0.0,20210601,pallotta karen r,90866221000100,,female,26811242.0
+5280.0,,94344,stewart information services corp,1,0,0,0.0,20210601,sanchez rodriquez manuel,90866221000099,,male,26811242.0
+3106.0,,94344,stewart information services corp,1,0,0,0.0,20210601,corey william s. jr.,90866221000103,,male,26811242.0
+35866.0,,94344,stewart information services corp,1,0,0,0.0,20210601,apel thomas g,90866221000104,,male,26811242.0
+10718.0,,94344,stewart information services corp,1,0,0,0.0,20210601,bradley c allen jr,90866221000098,,male,26811242.0
+53301.0,,94344,stewart information services corp,1,0,0,0.0,20210601,clarke robert,90866221000105,,male,26811242.0
+4400.0,11.0,94344,stewart information services corp,0,1,0,0.0,20211109,smith tara,106299321010510,Group President,female,26890755.0
+96336.0,11.0,94344,stewart information services corp,1,0,0,0.0,20211117,morris matthew,106299321011053,,male,26890755.0
+95276.0,11.0,94344,stewart information services corp,1,0,0,0.0,20211119,morris matthew,106299321011238,,male,26890755.0
+79311.0,11.0,94344,stewart information services corp,1,0,0,0.0,20211122,morris matthew,106299321011354,,male,26890755.0
+84507.0,,94344,stewart information services corp,1,1,0,0.0,20220209,eppinger frederick h,106299322003315,Chief Executive Officer,male,26893430.0
+47608.0,,94344,stewart information services corp,0,1,0,0.0,20220209,hisey david c,106299322003316,Chief Financial Officer,male,26893430.0
+5011.0,11.0,94344,stewart information services corp,0,1,0,0.0,20220209,smith tara,106299322003317,Group President,female,26893430.0
+17565.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220209,rable brad,106299322003318,Chief Information Officer,male,26893430.0
+533.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220209,kain emily,106299322003319,Chief Human Resource Officer,female,26893430.0
+43366.0,9.0,94344,stewart information services corp,0,1,0,0.0,20220209,killea john l,106299322003320,Chief Legal Officer,male,26893430.0
+1390.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220209,lessack steven mark,106299322003321,Group President,male,26893430.0
+3942.0,167.0,94344,stewart information services corp,0,1,0,0.0,20220209,glaze brian,106299322003314,SVP and PAO,male,26893430.0
+49272.0,,94344,stewart information services corp,0,1,0,0.0,20220210,hisey david c,106299322003525,Chief Financial Officer,male,26893430.0
+44247.0,9.0,94344,stewart information services corp,0,1,0,0.0,20220210,killea john l,106299322003523,Chief Legal Officer,male,26893430.0
+80055.0,11.0,94344,stewart information services corp,1,0,0,0.0,20220210,morris matthew,106299322003521,,male,26893430.0
+18043.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220210,rable brad,106299322003524,Chief Information Officer,male,26893430.0
+4204.0,167.0,94344,stewart information services corp,0,1,0,0.0,20220214,glaze brian,106299322004245,SVP and PAO,male,26893430.0
+58103.0,,94344,stewart information services corp,0,1,0,0.0,20220214,hisey david c,106299322004247,Chief Financial Officer,male,26893430.0
+50174.0,9.0,94344,stewart information services corp,0,1,0,0.0,20220214,killea john l,106299322004248,Chief Legal Officer,male,26893430.0
+21518.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220214,rable brad,106299322004249,Chief Information Officer,male,26893430.0
+85410.0,11.0,94344,stewart information services corp,1,0,0,0.0,20220214,morris matthew,106299322004251,,male,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,smith tara,106299322007441,Group President,female,26893430.0
+,,94344,stewart information services corp,1,1,0,0.0,20220311,eppinger frederick h,106299322007439,Chief Executive Officer,male,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,lessack steven mark,106299322007440,Group President,male,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,hisey david c,106299322007443,Chief Financial Officer,male,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,killea john l,106299322007444,Chief Legal Officer,male,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,rable brad,106299322007445,Chief Information Officer,male,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,kain emily,106299322007446,Chief Human Resource Officer,female,26893430.0
+,,94344,stewart information services corp,0,1,0,0.0,20220311,glaze brian,106299322007448,SVP and PAO,male,26893430.0
+4913.0,167.0,94344,stewart information services corp,0,1,0,0.0,20220314,glaze brian,106299322007638,SVP and PAO,male,26893430.0
+761.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220314,kain emily,106299322007635,Chief Human Resource Officer,female,26893430.0
+59459.0,,94344,stewart information services corp,0,1,0,0.0,20220314,hisey david c,106299322007636,Chief Financial Officer,male,26893430.0
+50927.0,9.0,94344,stewart information services corp,0,1,0,0.0,20220314,killea john l,106299322007637,Chief Legal Officer,male,26893430.0
+5093.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220314,lessack steven mark,106299322007642,Group President,male,26893430.0
+5588.0,11.0,94344,stewart information services corp,0,1,0,0.0,20220314,smith tara,106299322007639,Group President,female,26893430.0
+22042.0,10.0,94344,stewart information services corp,0,1,0,0.0,20220314,rable brad,106299322007640,Chief Information Officer,male,26893430.0
+87262.0,,94344,stewart information services corp,1,1,0,0.0,20220314,eppinger frederick h,106299322007641,Chief Executive Officer,male,26893430.0
+90262.0,,94344,stewart information services corp,1,1,0,0.0,20220316,eppinger frederick h,106299322007851,Chief Executive Officer,male,26893430.0
+53001.0,,94344,stewart information services corp,1,0,0,0.0,20220316,clarke robert,106299322007850,,male,26893430.0
+11718.0,,94344,stewart information services corp,1,0,0,0.0,20220317,bradley c allen jr,106299322008033,,male,26893430.0
+4950.0,167.0,94344,stewart information services corp,0,1,0,0.0,20220415,glaze brian,106299322010342,SVP and PAO,male,27015078.0
+93262.0,,94344,stewart information services corp,1,1,0,0.0,20220502,eppinger frederick h,106299322011184,Chief Executive Officer,male,27017045.0
+9291.0,825.0,94344,stewart information services corp,0,1,0,0.0,20220513,lessack steven mark,106299322012366,Group President,male,27017045.0
+86919.0,11.0,94344,stewart information services corp,1,0,0,0.0,20220527,morris matthew,106299322013698,,male,27017045.0
+6789.0,,94344,stewart information services corp,1,0,0,0.0,20220527,sanchez rodriquez manuel,106299322013699,,male,27017045.0
+4762.0,,94344,stewart information services corp,1,0,0,0.0,20220527,matz deborah jane,106299322013696,,female,27017045.0
+4626.0,,94344,stewart information services corp,1,0,0,0.0,20220527,corey william s. jr.,106299322013692,,male,27017045.0
+13227.0,,94344,stewart information services corp,1,0,0,0.0,20220527,bradley c allen jr,106299322013694,,male,27017045.0
+56019.0,,94344,stewart information services corp,1,0,0,0.0,20220527,clarke robert,106299322013689,,male,27017045.0
+5389.0,,94344,stewart information services corp,1,0,0,0.0,20220527,pallotta karen r,106299322013688,,female,27017045.0
+37375.0,,94344,stewart information services corp,1,0,0,0.0,20220527,apel thomas g,106299322013691,,male,27017045.0
+94762.0,,94344,stewart information services corp,1,1,0,0.0,20220616,eppinger frederick h,106299322014950,Chief Executive Officer,male,27017045.0
+,,94344,stewart information services corp,0,1,0,0.0,20220907,hamm john earl jr.,89924322030580,EVP Chief Information Officer,male,27108912.0
+103001.0,,94344,stewart information services corp,1,1,0,0.0,20220912,eppinger frederick h,106299322019471,Chief Executive Officer,male,27108912.0
+6911.7196,12.0,94344,stewart information services corp,0,1,0,0.0,20221107,smith tara,106299322021655,Group President,female,27127013.0
+107490.0,,94344,stewart information services corp,1,1,0,0.0,20230209,eppinger frederick h,106299323002558,Chief Executive Officer,male,27130412.0
+10904.0,1002.0,94344,stewart information services corp,0,1,0,0.0,20230209,lessack steven mark,106299323002555,Group President,male,27130412.0
+1562.0,10.0,94344,stewart information services corp,0,1,0,0.0,20230209,kain emily,106299323002557,Chief Human Resource Officer,female,27130412.0
+7523.7196,12.0,94344,stewart information services corp,0,1,0,0.0,20230209,smith tara,106299323002554,Group President,female,27130412.0
+5028.0,167.0,94344,stewart information services corp,0,1,0,0.0,20230209,glaze brian,106299323002551,SVP and PAO,male,27130412.0
+53671.0,,94344,stewart information services corp,0,1,0,0.0,20230209,hisey david c,106299323002552,Chief Financial Officer,male,27130412.0
+22673.0,10.0,94344,stewart information services corp,0,1,0,0.0,20230209,rable brad,106299323002553,Group President,male,27130412.0
+52668.0,,94344,stewart information services corp,1,0,0,0.0,20230308,clarke robert,106299323006263,,male,27130412.0
+,,94344,stewart information services corp,1,1,0,0.0,20230310,eppinger frederick h,106299323006535,Chief Executive Officer,male,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,hisey david c,106299323006536,Chief Financial Officer,male,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,giddens elizabeth,106299323006538,"Chief Legal Officer, Secretary",female,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,lessack steven mark,106299323006540,Group President,male,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,kain emily,106299323006541,Chief Human Resource Officer,female,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,smith tara,106299323006546,Group President,female,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,hamm john earl jr.,106299323006547,Chief Information Officer,male,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,glaze brian,106299323006548,PAO,male,27130412.0
+,,94344,stewart information services corp,0,1,0,0.0,20230310,rable brad,106299323006543,Group President,male,27130412.0
+23159.0,10.0,94344,stewart information services corp,0,1,0,0.0,20230313,rable brad,106299323006725,Group President,male,27130412.0
+109820.0,,94344,stewart information services corp,1,1,0,0.0,20230313,eppinger frederick h,106299323006721,Chief Executive Officer,male,27130412.0
+11960.0,1002.0,94344,stewart information services corp,0,1,0,0.0,20230313,lessack steven mark,106299323006722,Group President,male,27130412.0
+8086.7196,12.0,94344,stewart information services corp,0,1,0,0.0,20230313,smith tara,106299323006723,Group President,female,27130412.0
+55157.0,,94344,stewart information services corp,0,1,0,0.0,20230313,hisey david c,106299323006724,Chief Financial Officer,male,27130412.0
+1840.0,10.0,94344,stewart information services corp,0,1,0,0.0,20230313,kain emily,106299323006726,Chief Human Resource Officer,female,27130412.0
+5621.0,167.0,94344,stewart information services corp,0,1,0,0.0,20230313,glaze brian,106299323006727,PAO,male,27130412.0
+23683.0,10.0,94344,stewart information services corp,0,1,0,0.0,20230314,rable brad,106299323006814,Group President,male,27130412.0
+6330.0,167.0,94344,stewart information services corp,0,1,0,0.0,20230314,glaze brian,106299323006815,PAO,male,27130412.0
+56885.0,,94344,stewart information services corp,0,1,0,0.0,20230314,hisey david c,106299323006817,Chief Financial Officer,male,27130412.0
+8663.7196,12.0,94344,stewart information services corp,0,1,0,0.0,20230314,smith tara,106299323006818,Group President,female,27130412.0
+2068.0,10.0,94344,stewart information services corp,0,1,0,0.0,20230314,kain emily,106299323006819,Chief Human Resource Officer,female,27130412.0
+112416.0,,94344,stewart information services corp,1,1,0,0.0,20230314,eppinger frederick h,106299323006821,Chief Executive Officer,male,27130412.0
+13028.0,1002.0,94344,stewart information services corp,0,1,0,0.0,20230314,lessack steven mark,106299323006822,Group President,male,27130412.0
+115416.0,,94344,stewart information services corp,1,1,0,0.0,20230317,eppinger frederick h,106299323007115,Chief Executive Officer,male,27130412.0
+8737.0,,94344,stewart information services corp,1,0,0,0.0,20230518,sanchez rodriquez manuel,106299323011566,,male,27245097.0
+7337.0,,94344,stewart information services corp,1,0,0,0.0,20230518,pallotta karen r,106299323011565,,female,27245097.0
+88867.0,11.0,94344,stewart information services corp,1,0,0,0.0,20230518,morris matthew,106299323011564,,male,27245097.0
+6574.0,,94344,stewart information services corp,1,0,0,0.0,20230518,corey william s. jr.,106299323011559,,male,27245097.0
+56564.0,,94344,stewart information services corp,1,0,0,0.0,20230518,clarke robert,106299323011561,,male,27245097.0
+15175.0,,94344,stewart information services corp,1,0,0,0.0,20230518,bradley c allen jr,106299323011560,,male,27245097.0
+39323.0,,94344,stewart information services corp,1,0,0,0.0,20230518,apel thomas g,106299323011557,,male,27245097.0
+6710.0,,94344,stewart information services corp,1,0,0,0.0,20230518,matz deborah jane,106299323011563,,female,27245097.0
+117416.0,,94344,stewart information services corp,1,1,0,0.0,20230615,eppinger frederick h,106299323013623,Chief Executive Officer,male,27245097.0
+16175.0,,94344,stewart information services corp,1,0,0,0.0,20230615,bradley c allen jr,106299323013624,,male,27245097.0
+1425.0,,94344,stewart information services corp,1,0,0,0.0,20230802,vaid helen,106299323015673,,female,27346403.0
+124094.0,,94344,stewart information services corp,1,1,0,0.0,20240301,eppinger frederick h,106299324005111,Chief Executive Officer,male,27370227.0
+60265.0,,94344,stewart information services corp,0,1,0,0.0,20240301,hisey david c,106299324005110,Chief Financial Officer,male,27370227.0
+24657.0,,94344,stewart information services corp,0,1,0,0.0,20240301,rable brad,106299324005112,Group President,male,27370227.0
+10308.7196,,94344,stewart information services corp,0,1,0,0.0,20240301,smith tara,106299324005113,Group President,female,27370227.0
+2715.0,,94344,stewart information services corp,0,1,0,0.0,20240301,kain emily,106299324005114,Chief Human Resource Officer,female,27370227.0
+15691.0,522.0,94344,stewart information services corp,0,1,0,0.0,20240301,lessack steven mark,106299324005115,Group President,male,27370227.0
+76867.0,11.0,94344,stewart information services corp,1,0,0,0.0,20240308,morris matthew,106299324005953,,male,27370227.0
+3757.0,,94344,stewart information services corp,0,1,0,0.0,20240312,kain emily,106299324006242,Chief Human Resource Officer,female,27370227.0
+19481.0,522.0,94344,stewart information services corp,0,1,0,0.0,20240312,lessack steven mark,106299324006286,Group President,male,27370227.0
+12336.7196,,94344,stewart information services corp,0,1,0,0.0,20240312,smith tara,106299324006241,Group President,female,27370227.0
+8642.0,,94344,stewart information services corp,0,1,0,0.0,20240312,glaze brian,106299324006285,PAO,male,27370227.0
+27667.0,,94344,stewart information services corp,0,1,0,0.0,20240312,rable brad,106299324006243,Group President,male,27370227.0
+68566.0,,94344,stewart information services corp,0,1,0,0.0,20240312,hisey david c,106299324006246,Chief Financial Officer,male,27370227.0
+1452.0,,94344,stewart information services corp,0,1,0,0.0,20240312,giddens elizabeth,106299324006251,"Chief Legal Officer, Secretary",female,27370227.0
+132641.0,,94344,stewart information services corp,1,1,0,0.0,20240312,eppinger frederick h,106299324006272,Chief Executive Officer,male,27370227.0
+54889.0,,94344,stewart information services corp,1,0,0,0.0,20240315,clarke robert,106299324006515,,male,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,glaze brian,106299324007199,PAO,male,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,rable brad,106299324007198,Group President,male,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,lessack steven mark,106299324007197,Group President,male,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,kain emily,106299324007196,Chief Human Resource Officer,female,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,giddens elizabeth,106299324007195,"Chief Legal Officer, Secretary",female,27370227.0
+,,94344,stewart information services corp,1,1,0,0.0,20240327,eppinger frederick h,106299324007193,Chief Executive Officer,male,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,smith tara,106299324007192,Group President,female,27370227.0
+,,94344,stewart information services corp,0,1,0,0.0,20240327,hisey david c,106299324007194,Chief Financial Officer,male,27370227.0
+2787.0,,94344,stewart information services corp,1,0,0,0.0,20240509,vaid helen,106299324009774,,female,27580535.0
+8699.0,,94344,stewart information services corp,1,0,0,0.0,20240509,pallotta karen r,106299324009771,,female,27580535.0
+40685.0,,94344,stewart information services corp,1,0,0,0.0,20240509,apel thomas g,106299324009764,,male,27580535.0
+7936.0,,94344,stewart information services corp,1,0,0,0.0,20240509,corey william s. jr.,106299324009766,,male,27580535.0
+17537.0,,94344,stewart information services corp,1,0,0,0.0,20240509,bradley c allen jr,106299324009767,,male,27580535.0
+57613.0,,94344,stewart information services corp,1,0,0,0.0,20240509,clarke robert,106299324009768,,male,27580535.0
+8072.0,,94344,stewart information services corp,1,0,0,0.0,20240509,matz deborah jane,106299324009769,,female,27580535.0
+78229.0,11.0,94344,stewart information services corp,1,0,0,0.0,20240509,morris matthew,106299324009770,,male,27580535.0
+10099.0,,94344,stewart information services corp,1,0,0,0.0,20240509,sanchez rodriquez manuel,106299324009773,,male,27580535.0
+1793.0,,94344,stewart information services corp,0,1,0,0.0,20240710,bryant iain martyn,106299324013643,Group President,male,27605057.0
+55917.0,,94344,stewart information services corp,0,1,0,0.0,20240809,hisey david c,106299324014784,Chief Financial Officer,male,27679051.0
+10387.0,598.0,94344,stewart information services corp,0,1,0,0.0,20240829,lessack steven mark,106299324015870,Group President,male,27679051.0
+65330.0,11.0,94344,stewart information services corp,1,0,0,0.0,20241202,morris matthew,106299324019863,,male,27721674.0
+10387.0,598.0,94344,stewart information services corp,0,1,0,0.0,20241216,lessack steven mark,106299324020654,Group President,male,27721674.0

@@ -1,238 +1,581 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-57628.0,10995.0,31791,perkinelmer inc,1,0,0,0,20100105,lopardo nicholas a,118143110001349,,male,117023000.0
-192438.0,4745.0,31791,perkinelmer inc,0,1,0,0,20100106,walsh richard f,118143110001603,SVP & CAO,male,117023000.0
-459201.0,0.0,31791,perkinelmer inc,1,1,0,0,20100107,friel robert f,118143110002056,"Chairman, President & CEO",male,117023000.0
-100541.0,0.0,31791,perkinelmer inc,0,1,0,0,20100128,roush john a,118143110005116,Senior Vice President,male,117023000.0
-432150.0,0.0,31791,perkinelmer inc,1,1,0,0,20100128,friel robert f,118143110005111,"Chairman, President & CEO",male,117023000.0
-18294.0,0.0,31791,perkinelmer inc,0,1,0,0,20100128,goldberg joel s,118143110005112,"SVP,General Counsel&Secretary",male,117023000.0
-21201.0,0.0,31791,perkinelmer inc,0,1,0,0,20100128,marshak daniel r,118143110005113,SVP & CSO,male,117023000.0
-7140.0,0.0,31791,perkinelmer inc,0,1,0,0,20100128,wilson frank anders,118143110005114,"SVP, CFO & CAO",male,117023000.0
-183491.0,4745.0,31791,perkinelmer inc,0,1,0,0,20100128,walsh richard f,118143110005117,SVP & CAO,male,117023000.0
-29736.0,0.0,31791,perkinelmer inc,1,0,0,0,20100208,sicchitano kenton j,118143110007314,,male,117023000.0
-503955.0,0.0,31791,perkinelmer inc,1,1,0,0,20100211,friel robert f,118143110008484,President and CEO,male,117023000.0
-20416.0,0.0,31791,perkinelmer inc,0,1,0,0,20100211,wilson frank anders,118143110008483,"SVP, CFO & CAO",male,117023000.0
-120407.0,0.0,31791,perkinelmer inc,0,1,0,0,20100211,roush john a,118143110008481,Senior Vice President,male,117023000.0
-30177.0,0.0,31791,perkinelmer inc,0,1,0,0,20100211,marshak daniel r,118143110008480,SVP & CSO,male,117023000.0
-26079.0,0.0,31791,perkinelmer inc,0,1,0,0,20100211,letcher john r,118143110008479,"Senior Vice President, HR",male,117023000.0
-29144.0,0.0,31791,perkinelmer inc,0,1,0,0,20100211,goldberg joel s,118143110008478,"SVP,General Counsel&Secretary",male,117023000.0
-27886.0,0.0,31791,perkinelmer inc,0,1,0,0,20100302,marshak daniel r,118143110013001,SVP & CSO,male,117023000.0
-94106.0,3500.0,31791,perkinelmer inc,1,0,0,0,20100326,michas alexis p,118143110018284,,male,117023000.0
-14534.0,0.0,31791,perkinelmer inc,1,0,0,0,20100513,sullivan patrick j,118143110026642,,male,117023000.0
-34073.0,0.0,31791,perkinelmer inc,1,0,0,0,20100513,sicchitano kenton j,118143110026644,,male,117023000.0
-32791.0,0.0,31791,perkinelmer inc,1,0,0,0,20100513,mullen james c,118143110026639,,male,117023000.0
-64026.0,0.0,31791,perkinelmer inc,1,0,0,0,20100513,schmergel gabriel,118143110026638,,male,117023000.0
-34983.0,0.0,31791,perkinelmer inc,1,0,0,0,20100513,sato vicki l,118143110026641,,female,117023000.0
-60656.0,10995.0,31791,perkinelmer inc,1,0,0,0,20100513,lopardo nicholas a,118143110026657,,male,117023000.0
-98443.0,3500.0,31791,perkinelmer inc,1,0,0,0,20100513,michas alexis p,118143110026636,,male,117023000.0
-74280.0,0.0,31791,perkinelmer inc,1,0,0,0,20100513,tod g robert,118143110026660,,male,117023000.0
-32791.0,0.0,31791,perkinelmer inc,1,0,0,0,20101105,mullen james c,118143110053728,,male,118044588.0
+57628.0,10995.0,31791,perkinelmer inc,1,0,0,0,20100105,lopardo nicholas a,118143110001349,,male,
+192438.0,4745.0,31791,perkinelmer inc,0,1,0,0,20100106,walsh richard f,118143110001603,SVP & CAO,male,
+459201.0,,31791,perkinelmer inc,1,1,0,0,20100107,friel robert f,118143110002056,"Chairman, President & CEO",male,
+18294.0,,31791,perkinelmer inc,0,1,0,0,20100128,goldberg joel s,118143110005112,"SVP,General Counsel&Secretary",male,
+432150.0,,31791,perkinelmer inc,1,1,0,0,20100128,friel robert f,118143110005111,"Chairman, President & CEO",male,
+21201.0,,31791,perkinelmer inc,0,1,0,0,20100128,marshak daniel r,118143110005113,SVP & CSO,male,
+183491.0,4745.0,31791,perkinelmer inc,0,1,0,0,20100128,walsh richard f,118143110005117,SVP & CAO,male,
+100541.0,,31791,perkinelmer inc,0,1,0,0,20100128,roush john a,118143110005116,Senior Vice President,male,
+7140.0,,31791,perkinelmer inc,0,1,0,0,20100128,wilson frank anders,118143110005114,"SVP, CFO & CAO",male,
+29736.0,,31791,perkinelmer inc,1,0,0,0,20100208,sicchitano kenton j,118143110007314,,male,
+26079.0,,31791,perkinelmer inc,0,1,0,0,20100211,letcher john r,118143110008479,"Senior Vice President, HR",male,
+30177.0,,31791,perkinelmer inc,0,1,0,0,20100211,marshak daniel r,118143110008480,SVP & CSO,male,
+120407.0,,31791,perkinelmer inc,0,1,0,0,20100211,roush john a,118143110008481,Senior Vice President,male,
+20416.0,,31791,perkinelmer inc,0,1,0,0,20100211,wilson frank anders,118143110008483,"SVP, CFO & CAO",male,
+503955.0,,31791,perkinelmer inc,1,1,0,0,20100211,friel robert f,118143110008484,President and CEO,male,
+29144.0,,31791,perkinelmer inc,0,1,0,0,20100211,goldberg joel s,118143110008478,"SVP,General Counsel&Secretary",male,
+27886.0,,31791,perkinelmer inc,0,1,0,0,20100302,marshak daniel r,118143110013001,SVP & CSO,male,
+94106.0,3500.0,31791,perkinelmer inc,1,0,0,0,20100326,michas alexis p,118143110018284,,male,
+32791.0,,31791,perkinelmer inc,1,0,0,0,20100513,mullen james c,118143110026639,,male,
+34983.0,,31791,perkinelmer inc,1,0,0,0,20100513,sato vicki l,118143110026641,,female,
+14534.0,,31791,perkinelmer inc,1,0,0,0,20100513,sullivan patrick j,118143110026642,,male,
+34073.0,,31791,perkinelmer inc,1,0,0,0,20100513,sicchitano kenton j,118143110026644,,male,
+60656.0,10995.0,31791,perkinelmer inc,1,0,0,0,20100513,lopardo nicholas a,118143110026657,,male,
+74280.0,,31791,perkinelmer inc,1,0,0,0,20100513,tod g robert,118143110026660,,male,
+98443.0,3500.0,31791,perkinelmer inc,1,0,0,0,20100513,michas alexis p,118143110026636,,male,
+64026.0,,31791,perkinelmer inc,1,0,0,0,20100513,schmergel gabriel,118143110026638,,male,
+32791.0,,31791,perkinelmer inc,1,0,0,0,20101105,mullen james c,118143110053728,,male,118044588.0
 95526.0,3500.0,31791,perkinelmer inc,1,0,0,0,20101119,michas alexis p,118143110056771,,male,118044588.0
-54778.0,0.0,31791,perkinelmer inc,1,0,0,0,20101123,schmergel gabriel,118143110057344,,male,118044588.0
-64280.0,0.0,31791,perkinelmer inc,1,0,0,0,20101129,tod g robert,118143110057808,,male,118044588.0
-19436.0,0.0,31791,perkinelmer inc,0,1,0,0,20110124,wilson frank anders,118143111004856,"SVP, CFO & CAO",male,115715000.0
-23715.0,0.0,31791,perkinelmer inc,0,1,0,0,20110124,marshak daniel r,118143111004857,SVP & CSO,male,115715000.0
-24535.0,0.0,31791,perkinelmer inc,0,1,0,0,20110124,goldberg joel s,118143111004858,"SVP,General Counsel&Secretary",male,115715000.0
-452891.0,0.0,31791,perkinelmer inc,1,1,0,0,20110124,friel robert f,118143111004859,President and CEO,male,115715000.0
-22792.0,0.0,31791,perkinelmer inc,0,1,0,0,20110208,letcher john r,118143111008195,"Senior Vice President, HR",male,115715000.0
-33027.0,0.0,31791,perkinelmer inc,0,1,0,0,20110210,marshak daniel r,118143111008943,SVP & CSO,male,115715000.0
-30418.0,0.0,31791,perkinelmer inc,0,1,0,0,20110210,wilson frank anders,118143111008942,"SVP, CFO & CAO",male,115715000.0
-26910.0,0.0,31791,perkinelmer inc,0,1,0,0,20110210,letcher john r,118143111008944,"Senior Vice President, HR",male,115715000.0
-36120.0,0.0,31791,perkinelmer inc,0,1,0,0,20110210,goldberg joel s,118143111008946,"SVP,General Counsel&Secretary",male,115715000.0
-560922.0,0.0,31791,perkinelmer inc,1,1,0,0,20110210,friel robert f,118143111008947,President and CEO,male,115715000.0
-32863.0,0.0,31791,perkinelmer inc,0,1,0,0,20110302,marshak daniel r,118143111014407,SVP & CSO,male,115715000.0
-38527.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,sato vicki l,118143111029387,,female,112761872.0
-36335.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,mullen james c,118143111029386,,male,112761872.0
-102093.0,500.0,31791,perkinelmer inc,1,0,0,0,20110512,michas alexis p,118143111029385,,male,112761872.0
-67824.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,tod g robert,118143111029393,,male,112761872.0
-58322.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,schmergel gabriel,118143111029389,,male,112761872.0
-18078.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,sullivan patrick j,118143111029391,,male,112761872.0
-64605.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,lopardo nicholas a,118143111029396,,male,112761872.0
+54778.0,,31791,perkinelmer inc,1,0,0,0,20101123,schmergel gabriel,118143110057344,,male,118044588.0
+64280.0,,31791,perkinelmer inc,1,0,0,0,20101129,tod g robert,118143110057808,,male,118044588.0
+452891.0,,31791,perkinelmer inc,1,1,0,0,20110124,friel robert f,118143111004859,President and CEO,male,115715000.0
+24535.0,,31791,perkinelmer inc,0,1,0,0,20110124,goldberg joel s,118143111004858,"SVP,General Counsel&Secretary",male,115715000.0
+19436.0,,31791,perkinelmer inc,0,1,0,0,20110124,wilson frank anders,118143111004856,"SVP, CFO & CAO",male,115715000.0
+23715.0,,31791,perkinelmer inc,0,1,0,0,20110124,marshak daniel r,118143111004857,SVP & CSO,male,115715000.0
+22792.0,,31791,perkinelmer inc,0,1,0,0,20110208,letcher john r,118143111008195,"Senior Vice President, HR",male,115715000.0
+30418.0,,31791,perkinelmer inc,0,1,0,0,20110210,wilson frank anders,118143111008942,"SVP, CFO & CAO",male,115715000.0
+33027.0,,31791,perkinelmer inc,0,1,0,0,20110210,marshak daniel r,118143111008943,SVP & CSO,male,115715000.0
+26910.0,,31791,perkinelmer inc,0,1,0,0,20110210,letcher john r,118143111008944,"Senior Vice President, HR",male,115715000.0
+36120.0,,31791,perkinelmer inc,0,1,0,0,20110210,goldberg joel s,118143111008946,"SVP,General Counsel&Secretary",male,115715000.0
+560922.0,,31791,perkinelmer inc,1,1,0,0,20110210,friel robert f,118143111008947,President and CEO,male,115715000.0
+32863.0,,31791,perkinelmer inc,0,1,0,0,20110302,marshak daniel r,118143111014407,SVP & CSO,male,115715000.0
+64605.0,,31791,perkinelmer inc,1,0,0,0,20110512,lopardo nicholas a,118143111029396,,male,112761872.0
+18078.0,,31791,perkinelmer inc,1,0,0,0,20110512,sullivan patrick j,118143111029391,,male,112761872.0
+37617.0,,31791,perkinelmer inc,1,0,0,0,20110512,sicchitano kenton j,118143111029390,,male,112761872.0
+67824.0,,31791,perkinelmer inc,1,0,0,0,20110512,tod g robert,118143111029393,,male,112761872.0
+38527.0,,31791,perkinelmer inc,1,0,0,0,20110512,sato vicki l,118143111029387,,female,112761872.0
 10738.0,21.0,31791,perkinelmer inc,0,1,0,0,20110512,okun andrew,118143111029311,VP & Chief Accounting Officer,male,112761872.0
-37617.0,0.0,31791,perkinelmer inc,1,0,0,0,20110512,sicchitano kenton j,118143111029390,,male,112761872.0
-540922.0,0.0,31791,perkinelmer inc,1,1,0,0,20110617,friel robert f,120919111035210,President and CEO,male,112761872.0
-520922.0,0.0,31791,perkinelmer inc,1,1,0,0,20110802,friel robert f,120919111041971,President and CEO,male,113077000.0
-57824.0,0.0,31791,perkinelmer inc,1,0,0,0,20110810,tod g robert,120919111043434,,male,113082542.0
-48012.0,0.0,31791,perkinelmer inc,1,0,0,0,20110811,schmergel gabriel,120919111043683,,male,113082542.0
-55324.0,0.0,31791,perkinelmer inc,1,0,0,0,20111115,tod g robert,120919111055994,,male,113083533.0
-52824.0,0.0,31791,perkinelmer inc,1,0,0,0,20111201,tod g robert,120919111058645,,male,113083533.0
-37617.0,0.0,31791,perkinelmer inc,1,0,0,0,20120118,sicchitano kenton j,120919112004137,,male,113157000.0
-31733.0,0.0,31791,perkinelmer inc,0,1,0,0,20120131,marshak daniel r,118143112004617,SVP & CSO,male,113157000.0
-34195.0,0.0,31791,perkinelmer inc,0,1,0,0,20120131,goldberg joel s,118143112004622,"SVP,General Counsel&Secretary",male,113157000.0
-509039.0,0.0,31791,perkinelmer inc,1,1,0,0,20120131,friel robert f,118143112004624,President and CEO,male,113157000.0
-29439.0,0.0,31791,perkinelmer inc,0,1,0,0,20120131,wilson frank anders,118143112004628,SVP and CFO,male,113157000.0
+58322.0,,31791,perkinelmer inc,1,0,0,0,20110512,schmergel gabriel,118143111029389,,male,112761872.0
+102093.0,500.0,31791,perkinelmer inc,1,0,0,0,20110512,michas alexis p,118143111029385,,male,112761872.0
+36335.0,,31791,perkinelmer inc,1,0,0,0,20110512,mullen james c,118143111029386,,male,112761872.0
+540922.0,,31791,perkinelmer inc,1,1,0,0.0,20110617,friel robert f,120919111035210,President and CEO,male,112761872.0
+520922.0,,31791,perkinelmer inc,1,1,0,0.0,20110802,friel robert f,120919111041971,President and CEO,male,113077000.0
+57824.0,,31791,perkinelmer inc,1,0,0,0.0,20110810,tod g robert,120919111043434,,male,113082542.0
+48012.0,,31791,perkinelmer inc,1,0,0,0.0,20110811,schmergel gabriel,120919111043683,,male,113082542.0
+55324.0,,31791,perkinelmer inc,1,0,0,0.0,20111115,tod g robert,120919111055994,,male,113083533.0
+52824.0,,31791,perkinelmer inc,1,0,0,0.0,20111201,tod g robert,120919111058645,,male,113083533.0
+37617.0,,31791,perkinelmer inc,1,0,0,0.0,20120118,sicchitano kenton j,120919112004137,,male,113157000.0
+34195.0,,31791,perkinelmer inc,0,1,0,0,20120131,goldberg joel s,118143112004622,"SVP,General Counsel&Secretary",male,113157000.0
+509039.0,,31791,perkinelmer inc,1,1,0,0,20120131,friel robert f,118143112004624,President and CEO,male,113157000.0
+29439.0,,31791,perkinelmer inc,0,1,0,0,20120131,wilson frank anders,118143112004628,SVP and CFO,male,113157000.0
+31733.0,,31791,perkinelmer inc,0,1,0,0,20120131,marshak daniel r,118143112004617,SVP & CSO,male,113157000.0
 10735.0,18.0,31791,perkinelmer inc,0,1,0,0,20120207,okun andrew,118143112006393,VP & Chief Accounting Officer,male,113157000.0
-15915.0,0.0,31791,perkinelmer inc,0,1,0,0,20120209,hrusovsky e kevin,118143112007330,See Remarks,male,113157000.0
-15761.0,18.0,31791,perkinelmer inc,0,1,0,0,20120209,okun andrew,118143112007322,VP & Chief Accounting Officer,male,113157000.0
-39594.0,0.0,31791,perkinelmer inc,0,1,0,0,20120209,marshak daniel r,118143112007316,SVP & CSO,male,113157000.0
-43459.0,0.0,31791,perkinelmer inc,0,1,0,0,20120209,goldberg joel s,118143112007265,See Remarks,male,113157000.0
-18789.0,0.0,31791,perkinelmer inc,0,1,0,0,20120209,corbett james,118143112007287,See Remarks,male,113157000.0
-31259.0,0.0,31791,perkinelmer inc,0,1,0,0,20120209,letcher john r,118143112007251,"Senior Vice President, HR",male,113157000.0
-41143.0,0.0,31791,perkinelmer inc,0,1,0,0,20120209,wilson frank anders,118143112007302,"SVP, CFO",male,113157000.0
-955.0,0.0,31791,perkinelmer inc,1,0,0,0,20120209,barrett peter,118143112007254,,male,113157000.0
-560114.0,0.0,31791,perkinelmer inc,1,1,0,0,20120209,friel robert f,118143112007270,President and CEO,male,113157000.0
+39594.0,,31791,perkinelmer inc,0,1,0,0,20120209,marshak daniel r,118143112007316,SVP & CSO,male,113157000.0
+18789.0,,31791,perkinelmer inc,0,1,0,0,20120209,corbett james,118143112007287,See Remarks,male,113157000.0
 23247.0,467.0,31791,perkinelmer inc,0,1,0,0,20120209,tenney maurice h.,118143112007280,See Remarks,male,113157000.0
-38527.0,0.0,31791,perkinelmer inc,1,0,0,0,20120210,sato vicki l,118143112007753,,female,113157000.0
+15761.0,18.0,31791,perkinelmer inc,0,1,0,0,20120209,okun andrew,118143112007322,VP & Chief Accounting Officer,male,113157000.0
+560114.0,,31791,perkinelmer inc,1,1,0,0,20120209,friel robert f,118143112007270,President and CEO,male,113157000.0
+43459.0,,31791,perkinelmer inc,0,1,0,0,20120209,goldberg joel s,118143112007265,See Remarks,male,113157000.0
+955.0,,31791,perkinelmer inc,1,0,0,0,20120209,barrett peter,118143112007254,,male,113157000.0
+31259.0,,31791,perkinelmer inc,0,1,0,0,20120209,letcher john r,118143112007251,"Senior Vice President, HR",male,113157000.0
+15915.0,,31791,perkinelmer inc,0,1,0,0,20120209,hrusovsky e kevin,118143112007330,See Remarks,male,113157000.0
+41143.0,,31791,perkinelmer inc,0,1,0,0,20120209,wilson frank anders,118143112007302,"SVP, CFO",male,113157000.0
+18668.0,,31791,perkinelmer inc,0,1,0,0,20120210,corbett james,118143112007740,"S V P, President Diagnostics",male,113157000.0
 15677.0,18.0,31791,perkinelmer inc,0,1,0,0,20120210,okun andrew,118143112007743,VP & Chief Accounting Officer,male,113157000.0
-48012.0,0.0,31791,perkinelmer inc,1,0,0,0,20120210,schmergel gabriel,118143112007746,,male,113157000.0
-18668.0,0.0,31791,perkinelmer inc,0,1,0,0,20120210,corbett james,118143112007740,"S V P, President Diagnostics",male,113157000.0
-42824.0,0.0,31791,perkinelmer inc,1,0,0,0,20120215,tod g robert,118143112009111,,male,113157000.0
-48012.0,0.0,31791,perkinelmer inc,1,0,0,0,20120217,schmergel gabriel,118143112009982,,male,113157000.0
+48012.0,,31791,perkinelmer inc,1,0,0,0,20120210,schmergel gabriel,118143112007746,,male,113157000.0
+38527.0,,31791,perkinelmer inc,1,0,0,0,20120210,sato vicki l,118143112007753,,female,113157000.0
+42824.0,,31791,perkinelmer inc,1,0,0,0,20120215,tod g robert,118143112009111,,male,113157000.0
+48012.0,,31791,perkinelmer inc,1,0,0,0,20120217,schmergel gabriel,118143112009982,,male,113157000.0
 108066.0,500.0,31791,perkinelmer inc,1,0,0,0,20120217,michas alexis p,118143112009991,,male,113157000.0
-65015.0,0.0,31791,perkinelmer inc,1,0,0,0,20120221,lopardo nicholas a,118143112010234,,male,113157000.0
-36335.0,0.0,31791,perkinelmer inc,1,0,0,0,20120222,mullen james c,118143112010764,,male,113157000.0
+65015.0,,31791,perkinelmer inc,1,0,0,0,20120221,lopardo nicholas a,118143112010234,,male,113157000.0
+36335.0,,31791,perkinelmer inc,1,0,0,0,20120222,mullen james c,118143112010764,,male,113157000.0
 23247.0,464.0,31791,perkinelmer inc,0,1,0,0,20120328,tenney maurice h.,118143112019906,See Remarks,male,113157000.0
 15677.0,18.0,31791,perkinelmer inc,0,1,0,0,20120329,okun andrew,118143112020345,VP & Chief Accounting Officer,male,113157000.0
 23247.0,464.0,31791,perkinelmer inc,0,1,0,0,20120403,tenney maurice h.,118143112021533,See Remarks,male,113831000.0
 15359.0,18.0,31791,perkinelmer inc,0,1,0,0,20120418,okun andrew,118143112024473,See Remarks,male,113831000.0
-21658.0,0.0,31791,perkinelmer inc,1,0,0,0,20120503,sullivan patrick j,118143112027344,,male,113831000.0
-4535.0,0.0,31791,perkinelmer inc,1,0,0,0,20120503,barrett peter,118143112027324,,male,113831000.0
-41197.0,0.0,31791,perkinelmer inc,1,0,0,0,20120503,sicchitano kenton j,118143112027326,,male,113831000.0
+39915.0,,31791,perkinelmer inc,1,0,0,0,20120503,mullen james c,118143112027339,,male,113831000.0
+21658.0,,31791,perkinelmer inc,1,0,0,0,20120503,sullivan patrick j,118143112027344,,male,113831000.0
+41197.0,,31791,perkinelmer inc,1,0,0,0,20120503,sicchitano kenton j,118143112027326,,male,113831000.0
 111647.0,500.0,31791,perkinelmer inc,1,0,0,0,20120503,michas alexis p,118143112027325,,male,113831000.0
-68595.0,0.0,31791,perkinelmer inc,1,0,0,0,20120503,lopardo nicholas a,118143112027323,,male,113831000.0
-39915.0,0.0,31791,perkinelmer inc,1,0,0,0,20120503,mullen james c,118143112027339,,male,113831000.0
-42107.0,0.0,31791,perkinelmer inc,1,0,0,0,20120503,sato vicki l,118143112027322,,female,113831000.0
+4535.0,,31791,perkinelmer inc,1,0,0,0,20120503,barrett peter,118143112027324,,male,113831000.0
+68595.0,,31791,perkinelmer inc,1,0,0,0,20120503,lopardo nicholas a,118143112027323,,male,113831000.0
+42107.0,,31791,perkinelmer inc,1,0,0,0,20120503,sato vicki l,118143112027322,,female,113831000.0
 13774.0,18.0,31791,perkinelmer inc,0,1,0,0,20120508,okun andrew,118143112028365,See Remarks,male,113886250.0
-510114.0,0.0,31791,perkinelmer inc,1,1,0,0,20120808,friel robert f,118143112044286,President and CEO,male,114071095.0
-38183.0,0.0,31791,perkinelmer inc,1,0,0,0,20120813,sicchitano kenton j,118143112045125,,male,114071095.0
-37433.0,0.0,31791,perkinelmer inc,1,0,0,0,20120814,sicchitano kenton j,118143112045444,,male,114071095.0
-31273.0,0.0,31791,perkinelmer inc,0,1,0,0,20120905,letcher john r,118143112048724,"Senior Vice President, HR",male,114071095.0
+510114.0,,31791,perkinelmer inc,1,1,0,0,20120808,friel robert f,118143112044286,President and CEO,male,114071095.0
+38183.0,,31791,perkinelmer inc,1,0,0,0,20120813,sicchitano kenton j,118143112045125,,male,114071095.0
+37433.0,,31791,perkinelmer inc,1,0,0,0,20120814,sicchitano kenton j,118143112045444,,male,114071095.0
+31273.0,,31791,perkinelmer inc,0,1,0,0,20120905,letcher john r,118143112048724,"Senior Vice President, HR",male,114071095.0
 13774.0,17.0,31791,perkinelmer inc,0,1,0,0,20120912,okun andrew,118143112050089,See Remarks,male,114071095.0
-510114.0,0.0,31791,perkinelmer inc,1,1,0,0,20120914,friel robert f,118143112050543,President and CEO,male,114071095.0
-510114.0,0.0,31791,perkinelmer inc,1,1,0,0,20121002,friel robert f,118143112052899,President and CEO,male,114595000.0
+510114.0,,31791,perkinelmer inc,1,1,0,0,20120914,friel robert f,118143112050543,President and CEO,male,114071095.0
+510114.0,,31791,perkinelmer inc,1,1,0,0,20121002,friel robert f,118143112052899,President and CEO,male,114595000.0
 23247.0,466.0,31791,perkinelmer inc,0,1,0,0,20121012,tenney maurice h.,118143112054619,See Remarks,male,114595000.0
-41225.0,0.0,31791,perkinelmer inc,0,1,0,0,20121127,wilson frank anders,118143112060642,SVP & Chief Financial Officer,male,114780142.0
+41225.0,,31791,perkinelmer inc,0,1,0,0,20121127,wilson frank anders,118143112060642,SVP & Chief Financial Officer,male,114780142.0
 13774.0,18.0,31791,perkinelmer inc,0,1,0,0,20121204,okun andrew,118143112062192,See Remarks,male,114780142.0
 23247.0,467.0,31791,perkinelmer inc,0,1,0,0,20121226,tenney maurice h.,118143112066973,See Remarks,male,114780142.0
-33205.0,0.0,31791,perkinelmer inc,1,0,0,0,20130111,sicchitano kenton j,118143113002979,,male,115036000.0
-17958.0,18.0,31791,perkinelmer inc,0,1,0,0,20130207,okun andrew,118143113007628,VP & Chief Accounting Officer,male,115036000.0
-51285.0,0.0,31791,perkinelmer inc,0,1,0,0,20130207,goldberg joel s,118143113007625,See Remarks,male,115036000.0
-50522.0,0.0,31791,perkinelmer inc,0,1,0,0,20130207,wilson frank anders,118143113007629,SVP & Chief Financial Officer,male,115036000.0
-558313.0,0.0,31791,perkinelmer inc,1,1,0,0,20130207,friel robert f,118143113007622,President and CEO,male,115036000.0
-45950.0,0.0,31791,perkinelmer inc,0,1,0,0,20130207,marshak daniel r,118143113007618,SVP & CSO,male,115036000.0
-28515.0,0.0,31791,perkinelmer inc,0,1,0,0,20130207,hrusovsky e kevin,118143113007617,See Remarks,male,115036000.0
-23733.0,0.0,31791,perkinelmer inc,0,1,0,0,20130207,corbett james,118143113007616,"SVP, President Diagnostics",male,115036000.0
+33205.0,,31791,perkinelmer inc,1,0,0,0,20130111,sicchitano kenton j,118143113002979,,male,115036000.0
 28532.0,467.0,31791,perkinelmer inc,0,1,0,0,20130207,tenney maurice h.,118143113007612,See Remarks,male,115036000.0
-34702.0,0.0,31791,perkinelmer inc,0,1,0,0,20130207,letcher john r,118143113007623,"Senior Vice President, HR",male,115036000.0
+17958.0,18.0,31791,perkinelmer inc,0,1,0,0,20130207,okun andrew,118143113007628,VP & Chief Accounting Officer,male,115036000.0
+51285.0,,31791,perkinelmer inc,0,1,0,0,20130207,goldberg joel s,118143113007625,See Remarks,male,115036000.0
+50522.0,,31791,perkinelmer inc,0,1,0,0,20130207,wilson frank anders,118143113007629,SVP & Chief Financial Officer,male,115036000.0
+558313.0,,31791,perkinelmer inc,1,1,0,0,20130207,friel robert f,118143113007622,President and CEO,male,115036000.0
+45950.0,,31791,perkinelmer inc,0,1,0,0,20130207,marshak daniel r,118143113007618,SVP & CSO,male,115036000.0
+28515.0,,31791,perkinelmer inc,0,1,0,0,20130207,hrusovsky e kevin,118143113007617,See Remarks,male,115036000.0
+23733.0,,31791,perkinelmer inc,0,1,0,0,20130207,corbett james,118143113007616,"SVP, President Diagnostics",male,115036000.0
+34702.0,,31791,perkinelmer inc,0,1,0,0,20130207,letcher john r,118143113007623,"Senior Vice President, HR",male,115036000.0
+23612.0,,31791,perkinelmer inc,0,1,0,0,20130212,corbett james,118143113008814,"SVP, President Diagnostics",male,115036000.0
 26109.0,468.0,31791,perkinelmer inc,0,1,0,0,20130212,tenney maurice h.,118143113008734,See Remarks,male,115036000.0
-33040.0,0.0,31791,perkinelmer inc,0,1,0,0,20130212,letcher john r,118143113008735,"Senior Vice President, HR",male,115036000.0
-46194.0,0.0,31791,perkinelmer inc,0,1,0,0,20130212,wilson frank anders,118143113008737,SVP & Chief Financial Officer,male,115036000.0
-516849.0,0.0,31791,perkinelmer inc,1,1,0,0,20130212,friel robert f,118143113008773,President and CEO,male,115036000.0
-47323.0,0.0,31791,perkinelmer inc,0,1,0,0,20130212,goldberg joel s,118143113008780,See Remarks,male,115036000.0
-23612.0,0.0,31791,perkinelmer inc,0,1,0,0,20130212,corbett james,118143113008814,"SVP, President Diagnostics",male,115036000.0
+33040.0,,31791,perkinelmer inc,0,1,0,0,20130212,letcher john r,118143113008735,"Senior Vice President, HR",male,115036000.0
+46194.0,,31791,perkinelmer inc,0,1,0,0,20130212,wilson frank anders,118143113008737,SVP & Chief Financial Officer,male,115036000.0
+516849.0,,31791,perkinelmer inc,1,1,0,0,20130212,friel robert f,118143113008773,President and CEO,male,115036000.0
+47323.0,,31791,perkinelmer inc,0,1,0,0,20130212,goldberg joel s,118143113008780,See Remarks,male,115036000.0
+42762.0,,31791,perkinelmer inc,0,1,0,0,20130212,marshak daniel r,118143113008789,SVP & CSO,male,115036000.0
 17650.0,18.0,31791,perkinelmer inc,0,1,0,0,20130212,okun andrew,118143113008815,VP & Chief Accounting Officer,male,115036000.0
-42762.0,0.0,31791,perkinelmer inc,0,1,0,0,20130212,marshak daniel r,118143113008789,SVP & CSO,male,115036000.0
-42762.0,0.0,31791,perkinelmer inc,0,1,0,0,20130311,marshak daniel r,118143113015972,SVP & CSO,male,115036000.0
 17650.0,18.0,31791,perkinelmer inc,0,1,0,0,20130311,okun andrew,118143113015974,VP & Chief Accounting Officer,male,115036000.0
+42762.0,,31791,perkinelmer inc,0,1,0,0,20130311,marshak daniel r,118143113015972,SVP & CSO,male,115036000.0
 26109.0,468.0,31791,perkinelmer inc,0,1,0,0,20130410,tenney maurice h.,118143113021745,See Remarks,male,111865000.0
 26109.0,468.0,31791,perkinelmer inc,0,1,0,0,20130412,tenney maurice h.,118143113022085,See Remarks,male,111865000.0
 17322.0,18.0,31791,perkinelmer inc,0,1,0,0,20130416,okun andrew,118143113022274,VP & Chief Accounting Officer,male,111865000.0
-43178.0,0.0,31791,perkinelmer inc,1,0,0,0,20130502,mullen james c,118143113024684,,male,111937640.0
+43178.0,,31791,perkinelmer inc,1,0,0,0,20130502,mullen james c,118143113024684,,male,111937640.0
+7798.0,,31791,perkinelmer inc,1,0,0,0,20130502,barrett peter,118143113024682,,male,111937640.0
 114996.0,500.0,31791,perkinelmer inc,1,0,0,0,20130502,michas alexis p,118143113024675,,male,111937640.0
-45370.0,0.0,31791,perkinelmer inc,1,0,0,0,20130502,sato vicki l,118143113024680,,female,111937640.0
-7798.0,0.0,31791,perkinelmer inc,1,0,0,0,20130502,barrett peter,118143113024682,,male,111937640.0
-72190.0,0.0,31791,perkinelmer inc,1,0,0,0,20130502,lopardo nicholas a,118143113024677,,male,111937640.0
-24921.0,0.0,31791,perkinelmer inc,1,0,0,0,20130502,sullivan patrick j,118143113024678,,male,111937640.0
-36468.0,0.0,31791,perkinelmer inc,1,0,0,0,20130502,sicchitano kenton j,118143113024676,,male,111937640.0
-0.0,0.0,31791,perkinelmer inc,0,1,0,0,20130603,hrusovsky e kevin,118143113032063,See Remarks,male,111937640.0
-21417.0,0.0,31791,perkinelmer inc,0,1,0,0,20130716,corbett james,118143113040123,See Remarks,male,111999000.0
-33044.0,0.0,31791,perkinelmer inc,0,1,0,0,20130807,letcher john r,118143113043311,"Senior Vice President, HR",male,112020960.0
+24921.0,,31791,perkinelmer inc,1,0,0,0,20130502,sullivan patrick j,118143113024678,,male,111937640.0
+36468.0,,31791,perkinelmer inc,1,0,0,0,20130502,sicchitano kenton j,118143113024676,,male,111937640.0
+45370.0,,31791,perkinelmer inc,1,0,0,0,20130502,sato vicki l,118143113024680,,female,111937640.0
+72190.0,,31791,perkinelmer inc,1,0,0,0,20130502,lopardo nicholas a,118143113024677,,male,111937640.0
+0.0,,31791,perkinelmer inc,0,1,0,0,20130603,hrusovsky e kevin,118143113032063,See Remarks,male,111937640.0
+21417.0,,31791,perkinelmer inc,0,1,0,0,20130716,corbett james,118143113040123,See Remarks,male,111999000.0
+33044.0,,31791,perkinelmer inc,0,1,0,0,20130807,letcher john r,118143113043311,"Senior Vice President, HR",male,112020960.0
 10517.0,18.0,31791,perkinelmer inc,0,1,0,0,20130910,okun andrew,118143113048401,VP & Chief Accounting Officer,male,112020960.0
-516849.0,0.0,31791,perkinelmer inc,1,1,0,0,20130911,friel robert f,118143113048596,President and CEO,male,112020960.0
-5295.0,0.0,31791,perkinelmer inc,0,1,0,0,20131203,divincenzo jonathan,120919113055062,See Remarks,male,112392600.0
-42762.0,0.0,31791,perkinelmer inc,0,1,0,0,20131211,marshak daniel r,120919113056343,SVP & CSO,male,112392600.0
+516849.0,,31791,perkinelmer inc,1,1,0,0,20130911,friel robert f,118143113048596,President and CEO,male,112020960.0
+5295.0,,31791,perkinelmer inc,0,1,0,0,20131203,divincenzo jonathan,120919113055062,See Remarks,male,112392600.0
+42762.0,,31791,perkinelmer inc,0,1,0,0,20131211,marshak daniel r,120919113056343,SVP & CSO,male,112392600.0
 26109.0,471.0,31791,perkinelmer inc,0,1,0,0,20131216,tenney maurice h.,120919113057119,See Remarks,male,112392600.0
-53784.0,0.0,31791,perkinelmer inc,0,1,0,0,20140206,goldberg joel s,120919114008003,See Remarks,male,112626000.0
 14018.0,18.0,31791,perkinelmer inc,0,1,0,0,20140206,okun andrew,120919114008018,See Remarks,male,112626000.0
+11520.0,,31791,perkinelmer inc,0,1,0,0,20140206,divincenzo jonathan p.,120919114008016,See Remarks,male,112626000.0
 30427.0,471.0,31791,perkinelmer inc,0,1,0,0,20140206,tenney maurice h.,120919114008010,See Remarks,male,112626000.0
-47956.0,0.0,31791,perkinelmer inc,0,1,0,0,20140206,marshak daniel r,120919114008006,SVP & CSO,male,112626000.0
-35852.0,0.0,31791,perkinelmer inc,0,1,0,0,20140206,letcher john r,120919114008002,See Remarks,male,112626000.0
-11520.0,0.0,31791,perkinelmer inc,0,1,0,0,20140206,divincenzo jonathan p.,120919114008016,See Remarks,male,112626000.0
-27642.0,0.0,31791,perkinelmer inc,0,1,0,0,20140206,corbett james,120919114007994,"SVP, President Diagnostics",male,112626000.0
-54949.0,0.0,31791,perkinelmer inc,0,1,0,0,20140206,wilson frank anders,120919114007999,SVP & Chief Financial Officer,male,112626000.0
-556337.0,0.0,31791,perkinelmer inc,1,1,0,0,20140206,friel robert f,120919114008004,President and CEO,male,112626000.0
-50859.0,0.0,31791,perkinelmer inc,0,1,0,0,20140211,goldberg joel s,120919114009194,See Remarks,male,112626000.0
-532310.0,0.0,31791,perkinelmer inc,1,1,0,0,20140211,friel robert f,120919114009192,President and CEO,male,112626000.0
-45445.0,0.0,31791,perkinelmer inc,0,1,0,0,20140211,marshak daniel r,120919114009185,SVP & CSO,male,112626000.0
+556337.0,,31791,perkinelmer inc,1,1,0,0,20140206,friel robert f,120919114008004,President and CEO,male,112626000.0
+35852.0,,31791,perkinelmer inc,0,1,0,0,20140206,letcher john r,120919114008002,See Remarks,male,112626000.0
+54949.0,,31791,perkinelmer inc,0,1,0,0,20140206,wilson frank anders,120919114007999,SVP & Chief Financial Officer,male,112626000.0
+27642.0,,31791,perkinelmer inc,0,1,0,0,20140206,corbett james,120919114007994,"SVP, President Diagnostics",male,112626000.0
+47956.0,,31791,perkinelmer inc,0,1,0,0,20140206,marshak daniel r,120919114008006,SVP & CSO,male,112626000.0
+53784.0,,31791,perkinelmer inc,0,1,0,0,20140206,goldberg joel s,120919114008003,See Remarks,male,112626000.0
+50859.0,,31791,perkinelmer inc,0,1,0,0,20140211,goldberg joel s,120919114009194,See Remarks,male,112626000.0
+532310.0,,31791,perkinelmer inc,1,1,0,0,20140211,friel robert f,120919114009192,President and CEO,male,112626000.0
+51375.0,,31791,perkinelmer inc,0,1,0,0,20140211,wilson frank anders,120919114009190,SVP & Chief Financial Officer,male,112626000.0
+45445.0,,31791,perkinelmer inc,0,1,0,0,20140211,marshak daniel r,120919114009185,SVP & CSO,male,112626000.0
+25759.0,,31791,perkinelmer inc,0,1,0,0,20140211,corbett james,120919114009148,See Remarks,male,112626000.0
+34514.0,,31791,perkinelmer inc,0,1,0,0,20140211,letcher john r,120919114009157,See Remarks,male,112626000.0
+43178.0,,31791,perkinelmer inc,1,0,0,0,20140211,mullen james c,120919114009084,,male,112626000.0
 28528.0,471.0,31791,perkinelmer inc,0,1,0,0,20140211,tenney maurice h.,120919114009163,See Remarks,male,112626000.0
-34514.0,0.0,31791,perkinelmer inc,0,1,0,0,20140211,letcher john r,120919114009157,See Remarks,male,112626000.0
-25759.0,0.0,31791,perkinelmer inc,0,1,0,0,20140211,corbett james,120919114009148,See Remarks,male,112626000.0
-51375.0,0.0,31791,perkinelmer inc,0,1,0,0,20140211,wilson frank anders,120919114009190,SVP & Chief Financial Officer,male,112626000.0
-105067.0,500.0,31791,perkinelmer inc,1,0,0,0,20140211,michas alexis p,120919114009085,,male,112626000.0
-43178.0,0.0,31791,perkinelmer inc,1,0,0,0,20140211,mullen james c,120919114009084,,male,112626000.0
 13816.0,18.0,31791,perkinelmer inc,0,1,0,0,20140211,okun andrew,120919114009143,VP and CAO,male,112626000.0
+105067.0,500.0,31791,perkinelmer inc,1,0,0,0,20140211,michas alexis p,120919114009085,,male,112626000.0
 100067.0,500.0,31791,perkinelmer inc,1,0,0,0,20140214,michas alexis p,120919114010850,,male,112626000.0
-45370.0,0.0,31791,perkinelmer inc,1,0,0,0,20140218,sato vicki l,120919114011279,,female,112626000.0
+45370.0,,31791,perkinelmer inc,1,0,0,0,20140218,sato vicki l,120919114011279,,female,112626000.0
 95067.0,500.0,31791,perkinelmer inc,1,0,0,0,20140228,michas alexis p,120919114015231,,male,112626000.0
 90067.0,500.0,31791,perkinelmer inc,1,0,0,0,20140307,michas alexis p,120919114018267,,male,112626000.0
 13816.0,18.0,31791,perkinelmer inc,0,1,0,0,20140310,okun andrew,120919114018835,VP and CAO,male,112626000.0
-34514.0,0.0,31791,perkinelmer inc,0,1,0,0,20140312,letcher john r,120919114019864,"SVP, Human Resources",male,112626000.0
-45445.0,0.0,31791,perkinelmer inc,0,1,0,0,20140313,marshak daniel r,120919114020272,SVP & CSO,male,112626000.0
+34514.0,,31791,perkinelmer inc,0,1,0,0,20140312,letcher john r,120919114019864,"SVP, Human Resources",male,112626000.0
+45445.0,,31791,perkinelmer inc,0,1,0,0,20140313,marshak daniel r,120919114020272,SVP & CSO,male,112626000.0
 95921.0,500.0,31791,perkinelmer inc,1,0,0,0,20140403,michas alexis p,120919114025347,,male,113104000.0
 28528.0,471.0,31791,perkinelmer inc,0,1,0,0,20140408,tenney maurice h.,120919114026414,See Remarks,male,113104000.0
-21858.0,0.0,31791,perkinelmer inc,0,1,0,0,20140408,corbett james,120919114026427,See Remarks,male,113104000.0
-82104.0,0.0,31791,perkinelmer inc,1,0,0,0,20140424,lopardo nicholas a,120919114029039,,male,113104000.0
+21858.0,,31791,perkinelmer inc,0,1,0,0,20140408,corbett james,120919114026427,See Remarks,male,113104000.0
+82104.0,,31791,perkinelmer inc,1,0,0,0,20140424,lopardo nicholas a,120919114029039,,male,113104000.0
+47743.0,,31791,perkinelmer inc,1,0,0,0,20140501,sato vicki l,120919114030161,,female,113219986.0
+10171.0,,31791,perkinelmer inc,1,0,0,0,20140501,barrett peter,120919114030162,,male,113219986.0
+78622.0,,31791,perkinelmer inc,1,0,0,0,20140501,lopardo nicholas a,120919114030163,,male,113219986.0
+38841.0,,31791,perkinelmer inc,1,0,0,0,20140501,sicchitano kenton j,120919114030167,,male,113219986.0
+27294.0,,31791,perkinelmer inc,1,0,0,0,20140501,sullivan patrick j,120919114030169,,male,113219986.0
 101306.0,500.0,31791,perkinelmer inc,1,0,0,0,20140501,michas alexis p,120919114030172,,male,113219986.0
-45551.0,0.0,31791,perkinelmer inc,1,0,0,0,20140501,mullen james c,120919114030175,,male,113219986.0
-38841.0,0.0,31791,perkinelmer inc,1,0,0,0,20140501,sicchitano kenton j,120919114030167,,male,113219986.0
-27294.0,0.0,31791,perkinelmer inc,1,0,0,0,20140501,sullivan patrick j,120919114030169,,male,113219986.0
-78622.0,0.0,31791,perkinelmer inc,1,0,0,0,20140501,lopardo nicholas a,120919114030163,,male,113219986.0
-47743.0,0.0,31791,perkinelmer inc,1,0,0,0,20140501,sato vicki l,120919114030161,,female,113219986.0
-10171.0,0.0,31791,perkinelmer inc,1,0,0,0,20140501,barrett peter,120919114030162,,male,113219986.0
+45551.0,,31791,perkinelmer inc,1,0,0,0,20140501,mullen james c,120919114030175,,male,113219986.0
 13671.0,18.0,31791,perkinelmer inc,0,1,0,0,20140513,okun andrew,120919114033274,VP and CAO,male,113219986.0
 96321.0,500.0,31791,perkinelmer inc,1,0,0,0,20140513,michas alexis p,120919114033275,,male,113219986.0
 90467.0,500.0,31791,perkinelmer inc,1,0,0,0,20140603,michas alexis p,120919114038623,,male,113219986.0
-50859.0,0.0,31791,perkinelmer inc,0,1,0,0,20140603,goldberg joel s,120919114038629,See Remarks,male,113219986.0
+50859.0,,31791,perkinelmer inc,0,1,0,0,20140603,goldberg joel s,120919114038629,See Remarks,male,113219986.0
 81321.0,500.0,31791,perkinelmer inc,1,0,0,0,20140606,michas alexis p,120919114039558,,male,113219986.0
-27294.0,0.0,31791,perkinelmer inc,1,0,0,0,20140606,sullivan patrick j,120919114039559,,male,113219986.0
-532310.0,0.0,31791,perkinelmer inc,1,1,0,0,20140609,friel robert f,120919114039881,President and CEO,male,113219986.0
-532310.0,0.0,31791,perkinelmer inc,1,1,0,0,20140610,friel robert f,120919114040164,President and CEO,male,113219986.0
+27294.0,,31791,perkinelmer inc,1,0,0,0,20140606,sullivan patrick j,120919114039559,,male,113219986.0
+532310.0,,31791,perkinelmer inc,1,1,0,0,20140609,friel robert f,120919114039881,President and CEO,male,113219986.0
 28528.0,471.0,31791,perkinelmer inc,0,1,0,0,20140610,tenney maurice h.,120919114040161,See Remarks,male,113219986.0
-21858.0,0.0,31791,perkinelmer inc,0,1,0,0,20140620,corbett james,120919114042812,See Remarks,male,113219986.0
-45445.0,0.0,31791,perkinelmer inc,0,1,0,0,20140627,marshak daniel r,120919114044122,SVP & CSO,male,113219986.0
-45445.0,0.0,31791,perkinelmer inc,0,1,0,0,20140707,marshak daniel r,120919114046182,SVP & CSO,male,112875000.0
-45445.0,0.0,31791,perkinelmer inc,0,1,0,0,20140709,marshak daniel r,120919114046526,SVP & CSO,male,112875000.0
-87410.0,0.0,31791,perkinelmer inc,0,1,0,0,20140807,marshak daniel r,120919114051113,SVP & CSO,male,112919479.0
-38841.0,0.0,31791,perkinelmer inc,1,0,0,0,20140905,sicchitano kenton j,120919114056126,,male,112919479.0
-67743.0,0.0,31791,perkinelmer inc,0,1,0,0,20140929,marshak daniel r,120919114060104,SVP & CSO,male,112962000.0
+532310.0,,31791,perkinelmer inc,1,1,0,0,20140610,friel robert f,120919114040164,President and CEO,male,113219986.0
+21858.0,,31791,perkinelmer inc,0,1,0,0,20140620,corbett james,120919114042812,See Remarks,male,113219986.0
+45445.0,,31791,perkinelmer inc,0,1,0,0,20140627,marshak daniel r,120919114044122,SVP & CSO,male,113219986.0
+45445.0,,31791,perkinelmer inc,0,1,0,0,20140707,marshak daniel r,120919114046182,SVP & CSO,male,112875000.0
+45445.0,,31791,perkinelmer inc,0,1,0,0,20140709,marshak daniel r,120919114046526,SVP & CSO,male,112875000.0
+87410.0,,31791,perkinelmer inc,0,1,0,0,20140807,marshak daniel r,120919114051113,SVP & CSO,male,112919479.0
+38841.0,,31791,perkinelmer inc,1,0,0,0,20140905,sicchitano kenton j,120919114056126,,male,112919479.0
+67743.0,,31791,perkinelmer inc,0,1,0,0,20140929,marshak daniel r,120919114060104,SVP & CSO,male,112962000.0
 12241.0,471.0,31791,perkinelmer inc,0,1,0,0,20141110,tenney maurice h.,120919114067569,See Remarks,male,112962552.0
-27294.0,0.0,31791,perkinelmer inc,1,0,0,0,20141114,sullivan patrick j,120919114068831,,male,112962552.0
-45551.0,0.0,31791,perkinelmer inc,1,0,0,0,20141117,mullen james c,120919114069186,,male,112962552.0
-532310.0,0.0,31791,perkinelmer inc,1,1,0,0,20150203,friel robert f,120919115008735,President and CEO,male,112481000.0
-50859.0,0.0,31791,perkinelmer inc,0,1,0,0,20150203,goldberg joel s,120919115008739,See Remarks,male,112481000.0
-569145.0,0.0,31791,perkinelmer inc,1,1,0,0,20150204,friel robert f,120919115009486,President and CEO,male,112481000.0
-37156.0,0.0,31791,perkinelmer inc,0,1,0,0,20150204,letcher john r,120919115009481,See Remarks,male,112481000.0
+27294.0,,31791,perkinelmer inc,1,0,0,0,20141114,sullivan patrick j,120919114068831,,male,112962552.0
+45551.0,,31791,perkinelmer inc,1,0,0,0,20141117,mullen james c,120919114069186,,male,112962552.0
+532310.0,,31791,perkinelmer inc,1,1,0,0,20150203,friel robert f,120919115008735,President and CEO,male,112481000.0
+50859.0,,31791,perkinelmer inc,0,1,0,0,20150203,goldberg joel s,120919115008739,See Remarks,male,112481000.0
+59624.0,,31791,perkinelmer inc,0,1,0,0,20150204,wilson frank anders,120919115009487,SVP & Chief Financial Officer,male,112481000.0
+569145.0,,31791,perkinelmer inc,1,1,0,0,20150204,friel robert f,120919115009486,President and CEO,male,112481000.0
 16970.0,8.0,31791,perkinelmer inc,0,1,0,0,20150204,okun andrew,120919115009488,See Remarks,male,112481000.0
-57123.0,0.0,31791,perkinelmer inc,0,1,0,0,20150204,goldberg joel s,120919115009484,See Remarks,male,112481000.0
-59624.0,0.0,31791,perkinelmer inc,0,1,0,0,20150204,wilson frank anders,120919115009487,SVP & Chief Financial Officer,male,112481000.0
-28122.0,0.0,31791,perkinelmer inc,0,1,0,0,20150204,corbett james,120919115009446,See Remarks,male,112481000.0
-17784.0,0.0,31791,perkinelmer inc,0,1,0,0,20150204,divincenzo jonathan p.,120919115009427,See Remarks,male,112481000.0
-78792.0,0.0,31791,perkinelmer inc,1,0,0,0,20150204,lopardo nicholas a,120919115009467,,male,112481000.0
+37156.0,,31791,perkinelmer inc,0,1,0,0,20150204,letcher john r,120919115009481,See Remarks,male,112481000.0
+78792.0,,31791,perkinelmer inc,1,0,0,0,20150204,lopardo nicholas a,120919115009467,,male,112481000.0
+28122.0,,31791,perkinelmer inc,0,1,0,0,20150204,corbett james,120919115009446,See Remarks,male,112481000.0
+57123.0,,31791,perkinelmer inc,0,1,0,0,20150204,goldberg joel s,120919115009484,See Remarks,male,112481000.0
+17784.0,,31791,perkinelmer inc,0,1,0,0,20150204,divincenzo jonathan p.,120919115009427,See Remarks,male,112481000.0
 15278.0,8.0,31791,perkinelmer inc,0,1,0,0,20150210,okun andrew,120919115011384,See Remarks,male,112481000.0
-52763.0,0.0,31791,perkinelmer inc,0,1,0,0,20150210,goldberg joel s,120919115011373,See Remarks,male,112481000.0
-55858.0,0.0,31791,perkinelmer inc,0,1,0,0,20150210,wilson frank anders,120919115011371,See Remarks,male,112481000.0
-544.0,0.0,31791,perkinelmer inc,1,0,0,0,20150210,gregoire sylvie,120919115011328,,female,112481000.0
-26415.0,0.0,31791,perkinelmer inc,0,1,0,0,20150210,corbett james,120919115011350,See Remarks,male,112481000.0
-35752.0,0.0,31791,perkinelmer inc,0,1,0,0,20150210,letcher john r,120919115011364,See Remarks,male,112481000.0
-540359.0,0.0,31791,perkinelmer inc,1,1,0,0,20150210,friel robert f,120919115011370,President and CEO,male,112481000.0
-23743.0,0.0,31791,perkinelmer inc,1,0,0,0,20150211,sato vicki l,120919115011936,,female,112481000.0
-52763.0,0.0,31791,perkinelmer inc,0,1,0,0,20150306,goldberg joel s,120919115023489,Please See Remarks,male,112481000.0
+52763.0,,31791,perkinelmer inc,0,1,0,0,20150210,goldberg joel s,120919115011373,See Remarks,male,112481000.0
+26415.0,,31791,perkinelmer inc,0,1,0,0,20150210,corbett james,120919115011350,See Remarks,male,112481000.0
+540359.0,,31791,perkinelmer inc,1,1,0,0,20150210,friel robert f,120919115011370,President and CEO,male,112481000.0
+35752.0,,31791,perkinelmer inc,0,1,0,0,20150210,letcher john r,120919115011364,See Remarks,male,112481000.0
+544.0,,31791,perkinelmer inc,1,0,0,0,20150210,gregoire sylvie,120919115011328,,female,112481000.0
+55858.0,,31791,perkinelmer inc,0,1,0,0,20150210,wilson frank anders,120919115011371,See Remarks,male,112481000.0
+23743.0,,31791,perkinelmer inc,1,0,0,0,20150211,sato vicki l,120919115011936,,female,112481000.0
+52763.0,,31791,perkinelmer inc,0,1,0,0,20150306,goldberg joel s,120919115023489,Please See Remarks,male,112481000.0
 81365.0,500.0,31791,perkinelmer inc,1,0,0,0,20150306,michas alexis p,120919115023493,,male,112481000.0
-27294.0,0.0,31791,perkinelmer inc,1,0,0,0,20150309,sullivan patrick j,120919115024055,,male,112481000.0
-52763.0,0.0,31791,perkinelmer inc,0,1,0,0,20150319,goldberg joel s,120919115027846,See Remarks,male,112481000.0
-24664.0,0.0,31791,perkinelmer inc,0,1,0,0,20150323,corbett james,120919115028519,Please See Remarks,male,112481000.0
+27294.0,,31791,perkinelmer inc,1,0,0,0,20150309,sullivan patrick j,120919115024055,,male,112481000.0
+52763.0,,31791,perkinelmer inc,0,1,0,0,20150319,goldberg joel s,120919115027846,See Remarks,male,112481000.0
+24664.0,,31791,perkinelmer inc,0,1,0,0,20150323,corbett james,120919115028519,Please See Remarks,male,112481000.0
 13278.0,8.0,31791,perkinelmer inc,0,1,0,0,20150324,okun andrew,120919115028766,Please See Remarks,male,112481000.0
-52763.0,0.0,31791,perkinelmer inc,0,1,0,0,20150330,goldberg joel s,120919115030163,Please See Remarks,male,113190000.0
+52763.0,,31791,perkinelmer inc,0,1,0,0,20150330,goldberg joel s,120919115030163,Please See Remarks,male,113190000.0
+81879.0,,31791,perkinelmer inc,1,0,0,0,20150507,lopardo nicholas a,120919115039909,,male,113193707.0
+13204.0,,31791,perkinelmer inc,1,0,0,0,20150507,barrett peter,120919115039911,,male,113193707.0
+3577.0,,31791,perkinelmer inc,1,0,0,0,20150507,gregoire sylvie,120919115039916,,female,113193707.0
 84398.0,500.0,31791,perkinelmer inc,1,0,0,0,20150507,michas alexis p,120919115039921,,male,113193707.0
-30327.0,0.0,31791,perkinelmer inc,1,0,0,0,20150507,sullivan patrick j,120919115039938,,male,113193707.0
-41874.0,0.0,31791,perkinelmer inc,1,0,0,0,20150507,sicchitano kenton j,120919115039906,,male,113193707.0
-81879.0,0.0,31791,perkinelmer inc,1,0,0,0,20150507,lopardo nicholas a,120919115039909,,male,113193707.0
-13204.0,0.0,31791,perkinelmer inc,1,0,0,0,20150507,barrett peter,120919115039911,,male,113193707.0
-3577.0,0.0,31791,perkinelmer inc,1,0,0,0,20150507,gregoire sylvie,120919115039916,,female,113193707.0
-26776.0,0.0,31791,perkinelmer inc,1,0,0,0,20150507,sato vicki l,120919115039931,,female,113193707.0
-55858.0,0.0,31791,perkinelmer inc,0,1,0,0,20150604,wilson frank anders,120919115050092,Please See Remarks,male,113193707.0
+26776.0,,31791,perkinelmer inc,1,0,0,0,20150507,sato vicki l,120919115039931,,female,113193707.0
+30327.0,,31791,perkinelmer inc,1,0,0,0,20150507,sullivan patrick j,120919115039938,,male,113193707.0
+41874.0,,31791,perkinelmer inc,1,0,0,0,20150507,sicchitano kenton j,120919115039906,,male,113193707.0
+55858.0,,31791,perkinelmer inc,0,1,0,0,20150604,wilson frank anders,120919115050092,Please See Remarks,male,113193707.0
 13278.0,8.0,31791,perkinelmer inc,0,1,0,0,20150604,okun andrew,120919115050093,Please See Remarks,male,113193707.0
 64410.0,500.0,31791,perkinelmer inc,1,0,0,0,20150609,michas alexis p,120919115051389,,male,113193707.0
-26894.0,0.0,31791,perkinelmer inc,0,1,0,0,20150609,letcher john r,120919115051387,See Remarks,male,113193707.0
-51977.0,0.0,31791,perkinelmer inc,1,0,0,0,20150813,lopardo nicholas a,89924315003049,,male,113383409.0
-41874.0,0.0,31791,perkinelmer inc,1,0,0,0,20150904,sicchitano kenton j,89924315004503,,male,113383409.0
-21664.0,0.0,31791,perkinelmer inc,0,1,0,0,20150915,corbett james,89924315004831,Please See Remarks,male,113383409.0
+26894.0,,31791,perkinelmer inc,0,1,0,0,20150609,letcher john r,120919115051387,See Remarks,male,113193707.0
+51977.0,,31791,perkinelmer inc,1,0,0,0,20150813,lopardo nicholas a,89924315003049,,male,113383409.0
+51977.0,,31791,perkinelmer inc,1,0,0,0,20150813,lopardo nicholas a,89924315003049,,male,113383409.0
+41874.0,,31791,perkinelmer inc,1,0,0,0,20150904,sicchitano kenton j,89924315004503,,male,113383409.0
+41874.0,,31791,perkinelmer inc,1,0,0,0,20150904,sicchitano kenton j,89924315004503,,male,113383409.0
+21664.0,,31791,perkinelmer inc,0,1,0,0,20150915,corbett james,89924315004831,Please See Remarks,male,113383409.0
+21664.0,,31791,perkinelmer inc,0,1,0,0,20150915,corbett james,89924315004831,Please See Remarks,male,113383409.0
+11278.0,8.0,31791,perkinelmer inc,0,1,0,0,20151026,okun andrew,89924315007108,Please See Remarks,male,111905000.0
+55859.0,,31791,perkinelmer inc,0,1,0,0,20151104,wilson frank anders,89924315007578,Please See Remarks,male,111905000.0
+52025.0,,31791,perkinelmer inc,1,0,0,0,20151112,lopardo nicholas a,89924315007953,,male,111934189.0
+16063.0,,31791,perkinelmer inc,0,1,0,0,20151203,divincenzo jonathan p.,89924315009233,Please See Remarks,male,111934189.0
+31658.0,,31791,perkinelmer inc,1,0,0,0,20151204,sicchitano kenton j,89924315009315,,male,111934189.0
+52842.0,,31791,perkinelmer inc,0,1,0,0,20160208,wilson frank anders,89924316012791,See Remarks,male,112481000.0
+50222.0,,31791,perkinelmer inc,0,1,0,0,20160208,goldberg joel s,89924316012792,See Remarks,male,112481000.0
+520815.0,,31791,perkinelmer inc,1,1,0,0,20160208,friel robert f,89924316012793,President and CEO,male,112481000.0
+9840.0,8.0,31791,perkinelmer inc,0,1,0,0,20160208,okun andrew,89924316012794,See Remarks,male,112481000.0
+20020.0,,31791,perkinelmer inc,0,1,0,0,20160208,corbett james,89924316012795,See Remarks,male,112481000.0
+62184.0,,31791,perkinelmer inc,0,1,0,0,20160210,wilson frank anders,89924316013029,Please See Remarks,male,112481000.0
+9641.0,,31791,perkinelmer inc,0,1,0,0,20160210,tereau daniel r,89924316013032,Please See Remarks,male,112481000.0
+58204.0,,31791,perkinelmer inc,0,1,0,0,20160210,goldberg joel s,89924316013031,Please See Remarks,male,112481000.0
+23158.0,,31791,perkinelmer inc,0,1,0,0,20160210,divincenzo jonathan p.,89924316013030,Please See Remarks,male,112481000.0
+562531.0,,31791,perkinelmer inc,1,1,0,0,20160210,friel robert f,89924316013028,President and CEO,male,112481000.0
+28002.0,,31791,perkinelmer inc,0,1,0,0,20160210,corbett james,89924316013026,See Remarks,male,112481000.0
+13572.0,8.0,31791,perkinelmer inc,0,1,0,0,20160210,okun andrew,89924316013027,See Remarks,male,112481000.0
+54451.0,500.0,31791,perkinelmer inc,1,0,0,0,20160226,michas alexis p,89924316014497,,male,112481000.0
+27158.0,,31791,perkinelmer inc,0,1,0,0,20160323,corbett james,89924316016464,Please See Remarks,male,112481000.0
+67037.0,500.0,31791,perkinelmer inc,1,0,0,0,20160323,michas alexis p,89924316016465,,male,112481000.0
+6444.0,,31791,perkinelmer inc,0,1,0,0,20160419,tereau daniel r,89924316018259,See Remarks,male,109015000.0
+39362.0,,31791,perkinelmer inc,1,0,0,0,20160427,sato vicki l,89924316018626,,female,109015000.0
+562531.0,,31791,perkinelmer inc,1,1,0,0,20160509,friel robert f,89924316019507,President and CEO,male,109030445.0
+6771.0,,31791,perkinelmer inc,1,0,0,0,20160512,gregoire sylvie,89924316019767,,female,109030445.0
+33521.0,,31791,perkinelmer inc,1,0,0,0,20160512,sullivan patrick j,89924316019768,,male,109030445.0
+70243.0,500.0,31791,perkinelmer inc,1,0,0,0,20160512,michas alexis p,89924316019769,,male,109030445.0
+562531.0,,31791,perkinelmer inc,1,1,0,0,20160512,friel robert f,89924316019772,President and CEO,male,109030445.0
+55324.0,,31791,perkinelmer inc,1,0,0,0,20160512,lopardo nicholas a,89924316019766,,male,109030445.0
+29970.0,,31791,perkinelmer inc,1,0,0,0,20160512,sato vicki l,89924316019774,,female,109030445.0
+34852.0,,31791,perkinelmer inc,1,0,0,0,20160512,sicchitano kenton j,89924316019773,,male,109030445.0
+16398.0,,31791,perkinelmer inc,1,0,0,0,20160512,barrett peter,89924316019765,,male,109030445.0
+562531.0,,31791,perkinelmer inc,1,1,0,0,20160517,friel robert f,89924316020204,President and CEO,male,109030445.0
+562531.0,,31791,perkinelmer inc,1,1,0,0,20160526,friel robert f,89924316021024,President and CEO,male,109030445.0
+68290.0,500.0,31791,perkinelmer inc,1,0,0,0,20160603,michas alexis p,89924316021656,,male,109030445.0
+6551.0,,31791,perkinelmer inc,0,1,0,0,20160718,butters deborah a.,89924316025239,Please See Remarks,female,109394000.0
+2756.0,,31791,perkinelmer inc,1,0,0,0,20160816,witney frank,89924316027263,,male,109401961.0
+33521.0,,31791,perkinelmer inc,1,0,0,0,20160818,sullivan patrick j,89924316027529,,male,109401961.0
+27971.0,,31791,perkinelmer inc,1,0,0,0,20160825,sicchitano kenton j,89924316028049,,male,109401961.0
+5920.0,,31791,perkinelmer inc,0,1,0,0,20160913,tereau daniel r,89924316028863,Please See Remarks,male,109401961.0
+58204.0,,31791,perkinelmer inc,0,1,0,0,20160922,goldberg joel s,89924316029758,Please See Remarks,male,109401961.0
+62185.0,,31791,perkinelmer inc,0,1,0,0,20160922,wilson frank anders,89924316029762,Please See Remarks,male,109401961.0
+36905.0,,31791,perkinelmer inc,0,1,0,0,20161018,corbett james,89924316031826,Please See Remarks,male,109511000.0
+2010.0,,31791,perkinelmer inc,1,0,0,0,20161116,chapin samuel r.,89924316033674,,male,109545379.0
+53315.0,500.0,31791,perkinelmer inc,1,0,0,0,20161202,michas alexis p,89924316034823,,male,109545379.0
+12142.0,,31791,perkinelmer inc,0,1,0,0,20170206,singh prahlad r.,89924317002839,Please See Remarks,male,109617000.0
+5077.0,,31791,perkinelmer inc,0,1,0,0,20170207,tereau daniel r,89924317002932,Please See Remarks,male,109617000.0
+8986.0,,31791,perkinelmer inc,0,1,0,0,20170208,butters deborah a.,89924317003131,Please See Remarks,female,109617000.0
+571973.0,,31791,perkinelmer inc,1,1,0,0,20170208,friel robert f,89924317003129,President and CEO,male,109617000.0
+61058.0,,31791,perkinelmer inc,0,1,0,0,20170208,goldberg joel s,89924317003128,Please See Remarks,male,109617000.0
+65141.0,,31791,perkinelmer inc,0,1,0,0,20170208,wilson frank anders,89924317003144,Please See Remarks,male,109617000.0
+15441.0,8.0,31791,perkinelmer inc,0,1,0,0,20170208,okun andrew,89924317003143,See Remarks,male,109617000.0
+19319.0,,31791,perkinelmer inc,0,1,0,0,20170208,singh prahlad r.,89924317003151,Please See Remarks,male,109617000.0
+40874.0,,31791,perkinelmer inc,0,1,0,0,20170208,corbett james,89924317003139,Please See Remarks,male,109617000.0
+7146.0,,31791,perkinelmer inc,0,1,0,0,20170208,tereau daniel r,89924317003146,Please See Remarks,male,109617000.0
+29970.0,,31791,perkinelmer inc,1,0,0,0,20170210,sato vicki l,89924317003481,,female,109617000.0
+7146.0,,31791,perkinelmer inc,0,1,0,0,20170210,tereau daniel r,89924317003455,Please See Remarks,male,109617000.0
+16319.0,,31791,perkinelmer inc,0,1,0,0,20170216,singh prahlad r.,89924317004357,Please See Remarks,male,109617000.0
+15952.0,,31791,perkinelmer inc,0,1,0,0,20170221,singh prahlad r.,89924317004740,Please See Remarks,male,109617000.0
+53328.0,500.0,31791,perkinelmer inc,1,0,0,0,20170222,michas alexis p,89924317004945,,male,109617000.0
+65141.0,,31791,perkinelmer inc,0,1,0,0,20170315,wilson frank anders,89924317007615,Please See Remarks,male,109617000.0
+61058.0,,31791,perkinelmer inc,0,1,0,0,20170315,goldberg joel s,89924317007614,Please See Remarks,male,109617000.0
+12441.0,8.0,31791,perkinelmer inc,0,1,0,0,20170321,okun andrew,89924317008292,Please See Remarks,male,109617000.0
+6854.0,,31791,perkinelmer inc,0,1,0,0,20170418,tereau daniel r,89924317010410,Please See Remarks,male,109859000.0
+571973.0,,31791,perkinelmer inc,1,1,0,0,20170428,friel robert f,89924317011194,President and CEO,male,109859000.0
+571971.0,,31791,perkinelmer inc,1,1,0,0,20170503,friel robert f,89924317011617,President and CEO,male,109859000.0
+571971.0,,31791,perkinelmer inc,1,1,0,0,20170505,friel robert f,89924317011975,President and CEO,male,110039013.0
+36323.0,,31791,perkinelmer inc,1,0,0,0,20170510,sullivan patrick j,89924317012619,,male,110039013.0
+56130.0,500.0,31791,perkinelmer inc,1,0,0,0,20170510,michas alexis p,89924317012620,,male,110039013.0
+9573.0,,31791,perkinelmer inc,1,0,0,0,20170510,gregoire sylvie,89924317012623,,female,110039013.0
+5558.0,,31791,perkinelmer inc,1,0,0,0,20170510,witney frank,89924317012642,,male,110039013.0
+19200.0,,31791,perkinelmer inc,1,0,0,0,20170510,barrett peter,89924317012644,,male,110039013.0
+4812.0,,31791,perkinelmer inc,1,0,0,0,20170510,chapin samuel r.,89924317012621,,male,110039013.0
+58268.0,,31791,perkinelmer inc,1,0,0,0,20170510,lopardo nicholas a,89924317012624,,male,110039013.0
+15653.0,,31791,perkinelmer inc,0,1,0,0,20170516,singh prahlad r.,89924317013343,Please See Remarks,male,110039013.0
+36323.0,,31791,perkinelmer inc,1,0,0,0,20170516,sullivan patrick j,89924317013344,,male,110039013.0
+19200.0,,31791,perkinelmer inc,1,0,0,0,20170602,barrett peter,89924317015145,,male,110039013.0
+12441.0,8.0,31791,perkinelmer inc,0,1,0,0,20170620,okun andrew,89924317016754,Please See Remarks,male,110039013.0
+8031.0,,31791,perkinelmer inc,0,1,0,0,20170718,butters deborah a.,89924317018428,Please See Remarks,female,110196000.0
+58354.0,,31791,perkinelmer inc,1,0,0,0,20171108,lopardo nicholas a,89924317025597,,male,110225251.0
+19200.0,,31791,perkinelmer inc,1,0,0,0,20171114,barrett peter,89924317026191,,male,110225251.0
+1438.0,,31791,perkinelmer inc,1,0,0,0,20171116,witz pascale,89924317026587,,female,110225251.0
+56160.0,500.0,31791,perkinelmer inc,1,0,0,0,20171201,michas alexis p,89924317027795,,male,110225251.0
+65142.0,,31791,perkinelmer inc,0,1,0,0,20171208,wilson frank anders,89924317028237,Please See Remarks,male,110225251.0
+12441.0,8.0,31791,perkinelmer inc,0,1,0,0,20171218,okun andrew,89924317029001,Please See Remarks,male,110225251.0
+14499.0,8.0,31791,perkinelmer inc,0,1,0,0,20180201,okun andrew,89924318002567,See Remarks,male,110361000.0
+19779.0,,31791,perkinelmer inc,0,1,0,0,20180201,singh prahlad r.,89924318002564,Please See Remarks,male,110361000.0
+45000.0,,31791,perkinelmer inc,0,1,0,0,20180201,corbett james,89924318002577,See Remarks,male,110361000.0
+5225.0,,31791,perkinelmer inc,0,1,0,0,20180201,vohra tajinder,89924318002510,Please See Remarks,male,110361000.0
+9979.0,,31791,perkinelmer inc,0,1,0,0,20180201,butters deborah a.,89924318002575,Please See Remarks,female,110361000.0
+64292.0,,31791,perkinelmer inc,0,1,0,0,20180201,goldberg joel s,89924318002579,Please See Remarks,male,110361000.0
+589031.0,,31791,perkinelmer inc,1,1,0,0,20180201,friel robert f,89924318002572,President and CEO,male,110361000.0
+8233.0,,31791,perkinelmer inc,0,1,0,0,20180201,tereau daniel r,89924318002571,Please See Remarks,male,110361000.0
+61925.0,,31791,perkinelmer inc,0,1,0,0,20180207,wilson frank anders,89924318003087,See Remarks,male,110361000.0
+572657.0,,31791,perkinelmer inc,1,1,0,0,20180207,friel robert f,89924318003088,President and CEO,male,110361000.0
+62311.0,,31791,perkinelmer inc,0,1,0,0,20180207,goldberg joel s,89924318003089,Please See Remarks,male,110361000.0
+19486.0,,31791,perkinelmer inc,0,1,0,0,20180207,singh prahlad r.,89924318003092,Please See Remarks,male,110361000.0
+11200.0,8.0,31791,perkinelmer inc,0,1,0,0,20180207,okun andrew,89924318003086,See Remarks,male,110361000.0
+43019.0,,31791,perkinelmer inc,0,1,0,0,20180207,corbett james,89924318003093,Please See Remarks,male,110361000.0
+7940.0,,31791,perkinelmer inc,0,1,0,0,20180207,tereau daniel r,89924318003094,Please See Remarks,male,110361000.0
+8876.0,8.0,31791,perkinelmer inc,0,1,0,0,20180209,okun andrew,89924318003379,Please See Remarks,male,110361000.0
+5044.0,,31791,perkinelmer inc,0,1,0,0,20180216,vohra tajinder s,89924318004409,Please See Remarks,male,110361000.0
+19168.0,,31791,perkinelmer inc,0,1,0,0,20180216,singh prahlad r.,89924318004410,Please See Remarks,male,110361000.0
+55385.0,500.0,31791,perkinelmer inc,1,0,0,0,20180301,michas alexis p,89924318005938,,male,110361000.0
+61925.0,,31791,perkinelmer inc,0,1,0,0,20180306,wilson frank anders,89924318006499,Please See Remarks,male,110361000.0
+6784.0,,31791,perkinelmer inc,0,1,0,0,20180419,tereau daniel r,89924318010407,Please See Remarks,male,110620000.0
+60818.0,,31791,perkinelmer inc,1,0,0,0,20180504,lopardo nicholas a,89924318011507,,male,110634371.0
+38752.0,,31791,perkinelmer inc,1,0,0,0,20180504,sullivan patrick j,89924318011506,,male,110634371.0
+7241.0,,31791,perkinelmer inc,1,0,0,0,20180504,chapin samuel r.,89924318011504,,male,110634371.0
+12002.0,,31791,perkinelmer inc,1,0,0,0,20180504,gregoire sylvie,89924318011503,,female,110634371.0
+7987.0,,31791,perkinelmer inc,1,0,0,0,20180504,witney frank,89924318011508,,male,110634371.0
+57814.0,500.0,31791,perkinelmer inc,1,0,0,0,20180504,michas alexis p,89924318011500,,male,110634371.0
+21629.0,,31791,perkinelmer inc,1,0,0,0,20180504,barrett peter,89924318011498,,male,110634371.0
+3867.0,,31791,perkinelmer inc,1,0,0,0,20180504,witz pascale,89924318011501,,female,110634371.0
+31089.0,,31791,perkinelmer inc,0,1,0,0,20180517,mock james m,89924318013200,Please See Remarks,male,110634371.0
+56852.0,,31791,perkinelmer inc,1,0,0,0,20180529,lopardo nicholas a,89924318014244,,male,110634371.0
+9455.0,,31791,perkinelmer inc,0,1,0,0,20180717,butters deborah a.,89924318019941,Please See Remarks,female,110716000.0
+8876.0,8.0,31791,perkinelmer inc,0,1,0,0,20180803,okun andrew,89924318021372,Please See Remarks,male,110734011.0
+62311.0,,31791,perkinelmer inc,0,1,0,0,20180803,goldberg joel s,89924318021370,Please See Remarks,male,110734011.0
+572657.0,,31791,perkinelmer inc,1,1,0,0,20180803,friel robert f,89924318021369,President and CEO,male,110734011.0
+53347.0,,31791,perkinelmer inc,1,0,0,0,20180807,lopardo nicholas a,89924318021543,,male,110734011.0
+38752.0,,31791,perkinelmer inc,1,0,0,0,20180809,sullivan patrick j,89924318021921,,male,110734011.0
+49877.0,,31791,perkinelmer inc,1,0,0,0,20180829,lopardo nicholas a,89924318023465,,male,110734011.0
+47177.0,,31791,perkinelmer inc,1,0,0,0,20180904,lopardo nicholas a,89924318023709,,male,110734011.0
+43019.0,,31791,perkinelmer inc,0,1,0,0,20180911,corbett james,89924318024186,Please See Remarks,male,110734011.0
+6784.0,,31791,perkinelmer inc,0,1,0,0,20180925,tereau daniel r,89924318025186,Please See Remarks,male,110734011.0
+572657.0,,31791,perkinelmer inc,1,1,0,0,20181002,friel robert f,89924318025773,President and CEO,male,111087000.0
+6189.0,,31791,perkinelmer inc,0,1,0,0,20181002,butters deborah a.,89924318025772,Please See Remarks,female,111087000.0
+45177.0,,31791,perkinelmer inc,1,0,0,0,20181106,lopardo nicholas a,89924318028307,,male,111239214.0
+1661.0,,31791,perkinelmer inc,1,0,0,0,20181107,witz pascale,89924318028405,,female,111239214.0
+28752.0,,31791,perkinelmer inc,1,0,0,0,20181114,sullivan patrick j,89924318028911,,male,111239214.0
+43177.0,,31791,perkinelmer inc,1,0,0,0,20181203,lopardo nicholas a,89924318029938,,male,111239214.0
+52839.0,500.0,31791,perkinelmer inc,1,0,0,0,20181204,michas alexis p,89924318030038,,male,111239214.0
+8225.0,,31791,perkinelmer inc,0,1,0,0,20190207,butters deborah a.,89924319002856,Please See Remarks,female,110361000.0
+587551.0,,31791,perkinelmer inc,1,1,0,0,20190207,friel robert f,89924319002857,Chairman and CEO,male,110361000.0
+39635.0,,31791,perkinelmer inc,1,0,0,0,20190207,lopardo nicholas a,89924319002858,,male,110361000.0
+46714.0,,31791,perkinelmer inc,0,1,0,0,20190207,corbett james,89924319002859,See Remarks,male,110361000.0
+25294.0,,31791,perkinelmer inc,0,1,0,0,20190207,singh prahlad r.,89924319002884,Please See Remarks,male,110361000.0
+62159.0,,31791,perkinelmer inc,0,1,0,0,20190207,goldberg joel s,89924319002887,Please See Remarks,male,110361000.0
+8020.0,,31791,perkinelmer inc,0,1,0,0,20190207,tereau daniel r,89924319002889,Please See Remarks,male,110361000.0
+34353.0,,31791,perkinelmer inc,0,1,0,0,20190207,mock james m,89924319002890,Please See Remarks,male,110361000.0
+10028.0,8.0,31791,perkinelmer inc,0,1,0,0,20190207,okun andrew,89924319002891,See Remarks,male,110361000.0
+6425.0,,31791,perkinelmer inc,0,1,0,0,20190207,vohra tajinder s,89924319002893,Please See Remarks,male,110361000.0
+570662.0,,31791,perkinelmer inc,1,1,0,0,20190214,friel robert f,89924319003727,Chairman and CEO,male,110361000.0
+59812.0,,31791,perkinelmer inc,0,1,0,0,20190214,goldberg joel s,89924319003721,Please See Remarks,male,110361000.0
+7039.0,,31791,perkinelmer inc,0,1,0,0,20190214,tereau daniel r,89924319003717,Please See Remarks,male,110361000.0
+8882.0,8.0,31791,perkinelmer inc,0,1,0,0,20190214,okun andrew,89924319003723,See Remarks,male,110361000.0
+7694.0,,31791,perkinelmer inc,0,1,0,0,20190214,butters deborah a.,89924319003706,Please See Remarks,female,110361000.0
+44367.0,,31791,perkinelmer inc,0,1,0,0,20190214,corbett james,89924319003708,Please See Remarks,male,110361000.0
+21629.0,,31791,perkinelmer inc,1,0,0,0,20190214,barrett peter,89924319003704,,male,110361000.0
+24953.0,,31791,perkinelmer inc,0,1,0,0,20190219,singh prahlad r.,89924319004042,President and COO,male,110361000.0
+6245.0,,31791,perkinelmer inc,0,1,0,0,20190219,vohra tajinder s,89924319004044,Please See Remarks,male,110361000.0
+57799.0,500.0,31791,perkinelmer inc,1,0,0,0,20190222,michas alexis p,89924319004555,,male,110361000.0
+5839.0,,31791,perkinelmer inc,0,1,0,0,20190308,tereau daniel r,89924319006887,Please See Remarks,male,110361000.0
+59812.0,,31791,perkinelmer inc,0,1,0,0,20190312,goldberg joel s,89924319007232,Please See Remarks,male,110361000.0
+8882.0,8.0,31791,perkinelmer inc,0,1,0,0,20190320,okun andrew,89924319008517,Please See Remarks,male,110361000.0
+7694.0,,31791,perkinelmer inc,0,1,0,0,20190404,butters deborah a.,89924319009979,Please See Remarks,female,110891000.0
+24953.0,,31791,perkinelmer inc,0,1,0,0,20190410,singh prahlad r.,89924319010465,President and COO,male,110891000.0
+30580.0,,31791,perkinelmer inc,1,0,0,0,20190501,sullivan patrick j,89924319011591,,male,110891000.0
+13830.0,,31791,perkinelmer inc,1,0,0,0,20190501,gregoire sylvie,89924319011592,,female,110891000.0
+9069.0,,31791,perkinelmer inc,1,0,0,0,20190501,chapin samuel r.,89924319011596,,male,110891000.0
+9815.0,,31791,perkinelmer inc,1,0,0,0,20190501,witney frank,89924319011597,,male,110891000.0
+3489.0,,31791,perkinelmer inc,1,0,0,0,20190501,witz pascale,89924319011599,,female,110891000.0
+59627.0,500.0,31791,perkinelmer inc,1,0,0,0,20190501,michas alexis p,89924319011610,,male,110891000.0
+23457.0,,31791,perkinelmer inc,1,0,0,0,20190501,barrett peter,89924319011612,,male,110891000.0
+40531.0,,31791,perkinelmer inc,0,1,0,0,20190502,corbett james,89924319011772,Please See Remarks,male,110918491.0
+30947.0,,31791,perkinelmer inc,0,1,0,0,20190516,mock james m,89924319013738,Please See Remarks,male,110918491.0
+57642.0,500.0,31791,perkinelmer inc,1,0,0,0,20190903,michas alexis p,89924319022664,,male,111076181.0
+22502.0,,31791,perkinelmer inc,1,0,0,0,20191112,barrett peter,89924319027110,,male,111100811.0
+2446.0,,31791,perkinelmer inc,1,0,0,0,20191122,witz pascale,89924319027947,,female,111100811.0
+6296.0,8.0,31791,perkinelmer inc,0,1,0,0,20191205,okun andrew,89924319028561,Please See Remarks,male,111100811.0
+9726.0,,31791,perkinelmer inc,0,1,0,0,20200131,butters deborah a.,89924320002460,Please See Remarks,female,111140000.0
+65884.0,,31791,perkinelmer inc,0,1,0,0,20200131,goldberg joel s,89924320002456,Please See Remarks,male,111140000.0
+57860.0,500.0,31791,perkinelmer inc,1,0,0,0,20200131,michas alexis p,89924320002421,,male,111140000.0
+7381.0,,31791,perkinelmer inc,0,1,0,0,20200131,tereau daniel r,89924320002465,Please See Remarks,male,111140000.0
+7900.0,,31791,perkinelmer inc,0,1,0,0,20200131,vohra tajinder s,89924320002467,Please See Remarks,male,111140000.0
+35841.0,,31791,perkinelmer inc,1,1,0,0,20200131,singh prahlad r.,89924320002471,Please See Remarks,male,111140000.0
+34567.0,,31791,perkinelmer inc,0,1,0,0,20200131,mock james m,89924320002474,Please See Remarks,male,111140000.0
+12046.0,8.0,31791,perkinelmer inc,0,1,0,0,20200131,okun andrew,89924320002461,See Remarks,male,111140000.0
+61609.0,500.0,31791,perkinelmer inc,1,0,0,0,20200206,michas alexis p,89924320003477,,male,111140000.0
+12310.0,8.0,31791,perkinelmer inc,0,1,0,0,20200210,okun andrew,89924320003829,Please See Remarks,male,111140000.0
+37913.0,,31791,perkinelmer inc,1,1,0,0,20200210,singh prahlad r.,89924320003825,Please See Remarks,male,111140000.0
+10280.0,,31791,perkinelmer inc,0,1,0,0,20200210,vohra tajinder s,89924320003821,Please See Remarks,male,111140000.0
+9637.0,,31791,perkinelmer inc,0,1,0,0,20200210,tereau daniel r,89924320003812,Please See Remarks,male,111140000.0
+12383.0,,31791,perkinelmer inc,0,1,0,0,20200210,butters deborah a.,89924320003807,Please See Remarks,female,111140000.0
+70656.0,,31791,perkinelmer inc,0,1,0,0,20200210,goldberg joel s,89924320003815,Please See Remarks,male,111140000.0
+61691.0,500.0,31791,perkinelmer inc,1,0,0,0,20200211,michas alexis p,89924320003984,,male,111140000.0
+9766.0,,31791,perkinelmer inc,0,1,0,0,20200219,vohra tajinder s,89924320005029,Please See Remarks,male,111140000.0
+438.0,,31791,perkinelmer inc,1,0,0,0,20200317,vounatsos michel,89924320008596,,male,111140000.0
+39901.0,,31791,perkinelmer inc,1,1,0,0,20200407,singh prahlad r.,89924320010394,Please See Remarks,male,111306000.0
+35791.0,,31791,perkinelmer inc,0,1,0,0,20200407,mock james m,89924320010390,Please See Remarks,male,111306000.0
+71792.0,,31791,perkinelmer inc,0,1,0,0,20200407,goldberg joel s,89924320010393,Please See Remarks,male,111306000.0
+10384.0,,31791,perkinelmer inc,0,1,0,0,20200407,vohra tajinder s,89924320010395,Please See Remarks,male,111306000.0
+64872.0,500.0,31791,perkinelmer inc,1,0,0,0,20200512,michas alexis p,89924320012811,,male,111386181.0
+4693.0,,31791,perkinelmer inc,1,0,0,0,20200512,witz pascale,89924320012810,,female,111386181.0
+24803.0,,31791,perkinelmer inc,1,0,0,0,20200512,barrett peter,89924320012813,,male,111386181.0
+16077.0,,31791,perkinelmer inc,1,0,0,0,20200512,gregoire sylvie,89924320012807,,female,111386181.0
+12062.0,,31791,perkinelmer inc,1,0,0,0,20200512,witney frank,89924320012806,,male,111386181.0
+2685.0,,31791,perkinelmer inc,1,0,0,0,20200512,vounatsos michel,89924320012808,,male,111386181.0
+11384.0,,31791,perkinelmer inc,1,0,0,0,20200512,chapin samuel r.,89924320012816,,male,111386181.0
+32841.0,,31791,perkinelmer inc,0,1,0,0,20200519,mock james m,89924320013559,Please See Remarks,male,111386181.0
+22001.0,,31791,perkinelmer inc,1,0,0,0,20200529,barrett peter,89924320014541,,male,111386181.0
+7427.0,,31791,perkinelmer inc,0,1,0,0,20200616,tereau daniel r,89924320016640,Please See Remarks,male,111386181.0
+10310.0,8.0,31791,perkinelmer inc,0,1,0,0,20200730,okun andrew,89924320020776,Please See Remarks,male,111501000.0
+71792.0,,31791,perkinelmer inc,0,1,0,0,20200803,goldberg joel s,89924320020982,Please See Remarks,male,111501000.0
+27218.0,,31791,perkinelmer inc,0,1,0,0,20201005,mock james m,89924320027231,Please See Remarks,male,111878000.0
+10310.0,8.0,31791,perkinelmer inc,0,1,0,0,20201109,okun andrew,89924320030622,Please See Remarks,male,111974485.0
+7427.0,,31791,perkinelmer inc,0,1,0,0,20201215,tereau daniel r,89924320033891,Please See Remarks,male,111974485.0
+39901.0,,31791,perkinelmer inc,1,1,0,0,20210107,singh prahlad r.,89924321000905,Please See Remarks,male,112090000.0
+71775.0,,31791,perkinelmer inc,0,1,0,0,20210107,goldberg joel s,89924321000897,Please See Remarks,male,112090000.0
+10622.0,8.0,31791,perkinelmer inc,0,1,0,0,20210202,okun andrew,89924321004207,Please See Remarks,male,112090000.0
+42984.0,,31791,perkinelmer inc,1,1,0,0,20210202,singh prahlad r.,89924321004212,Please See Remarks,male,112090000.0
+74321.0,,31791,perkinelmer inc,0,1,0,0,20210202,goldberg joel s,89924321004221,Please See Remarks,male,112090000.0
+31194.0,,31791,perkinelmer inc,0,1,0,0,20210202,mock james m,89924321004222,Please See Remarks,male,112090000.0
+9071.0,,31791,perkinelmer inc,0,1,0,0,20210202,tereau daniel r,89924321004240,Please See Remarks,male,112090000.0
+11675.0,,31791,perkinelmer inc,0,1,0,0,20210202,vohra tajinder s,89924321004244,Please See Remarks,male,112090000.0
+10105.0,,31791,perkinelmer inc,0,1,0,0,20210208,tereau daniel r,89924321005260,Please See Remarks,male,112090000.0
+76618.0,,31791,perkinelmer inc,0,1,0,0,20210208,goldberg joel s,89924321005253,Please See Remarks,male,112090000.0
+6233.0,,31791,perkinelmer inc,0,1,0,0,20210208,victor miriame,89924321005243,Please See Remarks,male,112090000.0
+12972.0,,31791,perkinelmer inc,0,1,0,0,20210208,vohra tajinder s,89924321005234,Please See Remarks,male,112090000.0
+52486.0,,31791,perkinelmer inc,1,1,0,0,20210208,singh prahlad r.,89924321005233,Please See Remarks,male,112090000.0
+33872.0,,31791,perkinelmer inc,0,1,0,0,20210208,mock james m,89924321005241,Please See Remarks,male,112090000.0
+,,31791,perkinelmer inc,0,1,0,0,20210208,okun andrew,89924321005237,See Remarks,male,112090000.0
+76114.0,,31791,perkinelmer inc,0,1,0,0,20210407,goldberg joel s,89924321015255,Please See Remarks,male,112066000.0
+33329.0,,31791,perkinelmer inc,0,1,0,0,20210407,mock james m,89924321015256,Please See Remarks,male,112066000.0
+51604.0,,31791,perkinelmer inc,1,1,0,0,20210407,singh prahlad r.,89924321015257,Please See Remarks,male,112066000.0
+12697.0,,31791,perkinelmer inc,0,1,0,0,20210407,vohra tajinder s,89924321015258,Please See Remarks,male,112066000.0
+69637.0,500.0,31791,perkinelmer inc,1,0,0,0,20210426,michas alexis p,89924321016976,,male,112066000.0
+23314.0,,31791,perkinelmer inc,1,0,0,0,20210510,barrett peter,89924321019008,,male,112066000.0
+12697.0,,31791,perkinelmer inc,1,0,0,0,20210510,chapin samuel r.,89924321018962,,male,112066000.0
+17390.0,,31791,perkinelmer inc,1,0,0,0,20210510,gregoire sylvie,89924321018967,,female,112066000.0
+13375.0,,31791,perkinelmer inc,1,0,0,0,20210510,witney frank,89924321018980,,male,112066000.0
+6006.0,,31791,perkinelmer inc,1,0,0,0,20210510,witz pascale,89924321018992,,female,112066000.0
+3998.0,,31791,perkinelmer inc,1,0,0,0,20210510,vounatsos michel,89924321018993,,male,112066000.0
+71381.0,500.0,31791,perkinelmer inc,1,0,0,0,20210510,michas alexis p,89924321018995,,male,112066000.0
+66631.0,500.0,31791,perkinelmer inc,1,0,0,0,20210512,michas alexis p,89924321019253,,male,112066000.0
+17390.0,,31791,perkinelmer inc,1,0,0,0,20210514,gregoire sylvie,89924321019499,,female,112066000.0
+29324.0,,31791,perkinelmer inc,0,1,0,0,20210518,mock james m,89924321019755,Please See Remarks,male,112066000.0
+8252.0,8.0,31791,perkinelmer inc,0,1,0,0,20210611,okun andrew,89924321023217,Please See Remarks,male,112066000.0
+17390.0,,31791,perkinelmer inc,1,0,0,0,20210707,gregoire sylvie,89924321027779,,female,112025000.0
+18314.0,,31791,perkinelmer inc,1,0,0,0,20210802,barrett peter,89924321030974,,male,112025000.0
+8252.0,8.0,31791,perkinelmer inc,0,1,0,0,20210831,okun andrew,89924321034586,Please See Remarks,male,112114149.0
+23244.0,,31791,perkinelmer inc,0,1,0,0,20210921,mock james m,89924321036768,Please See Remarks,male,112114149.0
+63709.0,,31791,perkinelmer inc,0,1,0,0,20211105,goldberg joel s,89924321043264,Please See Remarks,male,126200192.0
+10105.0,,31791,perkinelmer inc,0,1,0,0,20211210,tereau daniel r,89924321047769,Please See Remarks,male,126200192.0
+6902.0,8.0,31791,perkinelmer inc,0,1,0,0,20211217,okun andrew,89924321048807,Please See Remarks,male,126200192.0
+10411.0,500.0,31791,perkinelmer inc,1,0,0,0,20211223,michas alexis p,89924321049569,,male,126200192.0
+20850.0,63709.0,31791,perkinelmer inc,0,1,0,0,20220208,goldberg joel s,89924322005205,Please See Remarks,male,126241000.0
+13380.0,,31791,perkinelmer inc,0,1,0,0,20220208,tereau daniel r,89924322005206,Please See Remarks,male,126241000.0
+32602.0,,31791,perkinelmer inc,0,1,0,0,20220208,mock james m,89924322005208,Please See Remarks,male,126241000.0
+73370.0,,31791,perkinelmer inc,1,1,0,0,20220208,singh prahlad r.,89924322005209,Please See Remarks,male,126241000.0
+9564.0,8.0,31791,perkinelmer inc,0,1,0,0,20220208,okun andrew,89924322005210,Please See Remarks,male,126241000.0
+17205.0,,31791,perkinelmer inc,0,1,0,0,20220208,vohra tajinder s,89924322005211,Please See Remarks,male,126241000.0
+7218.0,,31791,perkinelmer inc,0,1,0,0,20220208,victor miriame,89924322005212,Please See Remarks,male,126241000.0
+7068.0,,31791,perkinelmer inc,0,1,0,0,20220216,victor miriame,89924322006625,Please See Remarks,male,126241000.0
+13380.0,8.0,31791,perkinelmer inc,0,1,0,0,20220315,tereau daniel r,89924322011038,Please See Remarks,male,126183492.0
+5352.0,,31791,perkinelmer inc,1,0,0,0,20220509,vounatsos michel,89924322017248,,male,126140000.0
+18744.0,,31791,perkinelmer inc,1,0,0,0,20220509,gregoire sylvie,89924322017247,,female,126140000.0
+14729.0,,31791,perkinelmer inc,1,0,0,0,20220509,witney frank,89924322017246,,male,126140000.0
+19668.0,,31791,perkinelmer inc,1,0,0,0,20220509,barrett peter,89924322017245,,male,126140000.0
+14051.0,,31791,perkinelmer inc,1,0,0,0,20220509,chapin samuel r.,89924322017249,,male,126140000.0
+7360.0,,31791,perkinelmer inc,1,0,0,0,20220509,witz pascale,89924322017244,,female,126140000.0
+58127.0,10911.0,31791,perkinelmer inc,1,0,0,0,20220509,michas alexis p,89924322017243,,male,126140000.0
+25088.0,,31791,perkinelmer inc,1,1,0,0,20220527,singh prahlad r.,89924322019921,Please See Remarks,male,126140000.0
+27577.0,,31791,perkinelmer inc,0,1,0,0,20220627,mock james m,89924322024186,Please See Remarks,male,126140000.0
+13380.0,,31791,perkinelmer inc,0,1,0,0,20220725,tereau daniel r,89924322026638,Please See Remarks,male,126218000.0
+6391.0,8.0,31791,perkinelmer inc,0,1,0,0,20220803,okun andrew,89924322027573,Please See Remarks,male,126218000.0
+1058.0,,31791,perkinelmer inc,1,0,0,0,20220817,mcmurry-heath michelle,89924322028972,,female,126223944.0
+9100.0,500.0,31791,perkinelmer inc,1,0,0,0,20220825,michas alexis p,89924322029768,,male,126223944.0
+2873.0,,31791,perkinelmer inc,0,1,0,0,20220916,krakowiak maxwell,89924322031285,Please See Remarks,male,126223944.0
+6391.0,8.0,31791,perkinelmer inc,0,1,0,0,20221216,okun andrew,89924322038819,Please See Remarks,male,126315920.0
+17205.0,,31791,perkinelmer inc,0,1,0,0,20221221,vohra tajinder s,89924322039167,Please See Remarks,male,126315920.0
+20850.0,63709.0,31791,perkinelmer inc,0,1,0,0,20221221,goldberg joel s,89924322039166,Please See Remarks,male,126315920.0
+17205.0,,31791,perkinelmer inc,0,1,0,0,20221223,vohra tajinder s,89924322039302,Please See Remarks,male,126315920.0
+48282.0,25088.0,31791,perkinelmer inc,1,1,0,0,20221223,singh prahlad r.,89924322039301,Please See Remarks,male,126315920.0
+17164.0,,31791,perkinelmer inc,0,1,0,0,20230201,tereau daniel r,89924323003118,Please See Remarks,male,126300000.0
+68744.0,25088.0,31791,perkinelmer inc,1,1,0,0,20230201,singh prahlad r.,89924323003114,Please See Remarks,male,126300000.0
+27319.0,63709.0,31791,perkinelmer inc,0,1,0,0,20230201,goldberg joel s,89924323003111,Please See Remarks,male,126300000.0
+21604.0,,31791,perkinelmer inc,0,1,0,0,20230201,vohra tajinder s,89924323003112,Please See Remarks,male,126300000.0
+6398.0,8.0,31791,perkinelmer inc,0,1,0,0,20230201,okun andrew,89924323003113,Please See Remarks,male,126300000.0
+6960.0,,31791,perkinelmer inc,0,1,0,0,20230216,victor miriame,89924323005243,Please See Remarks,male,126300000.0
+2668.0,,31791,perkinelmer inc,0,1,0,0,20230216,krakowiak maxwell,89924323005245,Please See Remarks,male,126300000.0
+83016.0,25088.0,31791,perkinelmer inc,1,1,0,0,20230221,singh prahlad r.,89924323005671,Please See Remarks,male,126300000.0
+23805.0,,31791,perkinelmer inc,0,1,0,0,20230221,vohra tajinder s,89924323005672,Please See Remarks,male,126300000.0
+7545.0,,31791,perkinelmer inc,0,1,0,0,20230221,krakowiak maxwell,89924323005673,Please See Remarks,male,126300000.0
+9092.0,,31791,perkinelmer inc,0,1,0,0,20230221,victor miriame,89924323005676,Please See Remarks,male,126300000.0
+18602.0,,31791,perkinelmer inc,0,1,0,0,20230221,tereau daniel r,89924323005677,Please See Remarks,male,126300000.0
+10113.0,8.0,31791,perkinelmer inc,0,1,0,0,20230221,okun andrew,89924323005679,Please See Remarks,male,126300000.0
+30887.0,63709.0,31791,perkinelmer inc,0,1,0,0,20230221,goldberg joel s,89924323005675,Please See Remarks,male,126300000.0
+7524.0,,31791,perkinelmer inc,0,1,0,0,20230317,krakowiak maxwell,89924323008857,Please See Remarks,male,126411985.0
+11611.0,,31791,perkinelmer inc,false,true,false,false,20230322,tereau daniel r,95017023009170,Please See Remarks,male,126411985.0
+7202.0,,31791,perkinelmer inc,false,true,false,false,20230331,krakowiak maxwell,95017023011368,Please See Remarks,male,126411985.0
+6135.0,8.0,31791,perkinelmer inc,false,true,false,false,20230413,okun andrew,95017023012707,Please See Remarks,male,125981000.0
+4356.0,8.0,31791,perkinelmer inc,false,true,false,false,20230414,okun andrew,95017023012875,Please See Remarks,male,125981000.0
+9098.0,,31791,"revvity, inc.",true,false,false,false,20230517,witz pascale,95017023022710,,female,125981000.0
+2796.0,,31791,"revvity, inc.",true,false,false,false,20230517,mcmurry-heath michelle,95017023022712,,female,125981000.0
+21406.0,,31791,"revvity, inc.",true,false,false,false,20230517,barrett peter,95017023022713,,male,125981000.0
+7090.0,,31791,"revvity, inc.",true,false,false,false,20230517,vounatsos michel,95017023022714,,male,125981000.0
+20482.0,,31791,"revvity, inc.",true,false,false,false,20230517,gregoire sylvie,95017023022716,,female,125981000.0
+16467.0,,31791,"revvity, inc.",true,false,false,false,20230517,witney frank,95017023022717,,male,125981000.0
+60584.0,9600.0,31791,"revvity, inc.",true,false,false,false,20230517,michas alexis p,95017023022718,,male,125981000.0
+15789.0,,31791,"revvity, inc.",true,false,false,false,20230517,chapin samuel r.,95017023022719,,male,125981000.0
+3611.0,,31791,"revvity, inc.",false,true,false,false,20230616,gonzales anita,95017023028713,Please See Remarks,female,125981000.0
+8620.0,500.0,31791,"revvity, inc.",true,false,false,false,20231129,michas alexis p,95017023066729,,male,123407288.0
+3859.0,,31791,"revvity, inc.",false,true,false,false,20231228,gonzales anita,95017023073584,Please See Remarks,female,123407288.0
+3710.0,,31791,"revvity, inc.",false,true,false,false,20240126,gonzales anita,95017024008027,Please See Remarks,female,123426000.0
+10470.0,,31791,"revvity, inc.",false,true,false,false,20240207,victor miriame,95017024012363,Please See Remarks,male,123426000.0
+26113.0,,31791,"revvity, inc.",false,true,false,false,20240207,vohra tajinder s,95017024012184,Please See Remarks,male,123426000.0
+13246.0,,31791,"revvity, inc.",false,true,false,false,20240207,tereau daniel r,95017024012185,Please See Remarks,male,123426000.0
+,,31791,"revvity, inc.",false,true,false,false,20240207,krakowiak maxwell,95017024012198,Please See Remarks,male,123426000.0
+41735.0,63709.0,31791,"revvity, inc.",false,true,false,false,20240207,goldberg joel s,95017024012354,Please See Remarks,male,123426000.0
+103414.0,25088.0,31791,"revvity, inc.",true,true,false,false,20240207,singh prahlad r.,95017024012386,Please See Remarks,male,123426000.0
+481.0,,31791,"revvity, inc.",true,false,false,false,20240216,klobuchar michael a,95017024016346,,male,123426000.0
+3591.0,,31791,"revvity, inc.",false,true,false,false,20240216,gonzales anita,95017024016569,Please See Remarks,female,123426000.0
+7117.0,,31791,"revvity, inc.",false,true,false,false,20240216,krakowiak maxwell,95017024016533,Please See Remarks,male,123426000.0
+481.0,,31791,"revvity, inc.",true,false,false,false,20240216,vandebroek sophie v.,95017024016344,,female,123426000.0
+102270.0,25088.0,31791,"revvity, inc.",true,true,false,false,20240226,singh prahlad r.,95017024020132,Please See Remarks,male,123426000.0
+40900.0,63709.0,31791,"revvity, inc.",false,true,false,false,20240226,goldberg joel s,95017024020137,Please See Remarks,male,123426000.0
+26113.0,,31791,"revvity, inc.",false,true,false,false,20240229,vohra tajinder s,95017024023057,Please See Remarks,male,123426000.0
+55604.0,9120.0,31791,"revvity, inc.",true,false,false,false,20240301,michas alexis p,95017024023828,,male,123426000.0
+4306.0,,31791,"revvity, inc.",false,true,false,false,20240321,gonzales anita,95017024034669,Please See Remarks,female,123426000.0
+37163.0,,31791,"revvity, inc.",true,true,false,false,20240327,singh prahlad r.,95017024037156,Please See Remarks,male,123426000.0
+4198.0,,31791,"revvity, inc.",false,true,false,false,20240416,gonzales anita,95017024044768,Please See Remarks,female,123492000.0
+17984.0,,31791,"revvity, inc.",true,false,false,false,20240502,chapin samuel r.,95017024052078,,male,123492000.0
+2676.0,,31791,"revvity, inc.",true,false,false,false,20240502,vandebroek sophie v.,95017024052077,,female,123492000.0
+23601.0,,31791,"revvity, inc.",true,false,false,false,20240502,barrett peter,95017024052076,,male,123492000.0
+11293.0,,31791,"revvity, inc.",true,false,false,false,20240502,witz pascale,95017024052075,,female,123492000.0
+2676.0,,31791,"revvity, inc.",true,false,false,false,20240502,klobuchar michael a,95017024052073,,male,123492000.0
+58190.0,9120.0,31791,"revvity, inc.",true,false,false,false,20240502,michas alexis p,95017024052071,,male,123492000.0
+9285.0,,31791,"revvity, inc.",true,false,false,false,20240502,vounatsos michel,95017024052069,,male,123492000.0
+18662.0,,31791,"revvity, inc.",true,false,false,false,20240502,witney frank,95017024052068,,male,123492000.0
+4991.0,,31791,"revvity, inc.",true,false,false,false,20240502,mcmurry-heath michelle,95017024052072,,female,123492000.0
+36900.0,63709.0,31791,"revvity, inc.",false,true,false,false,20240610,goldberg joel s,95017024071270,Please See Remarks,male,123392991.0
+4166.0,,31791,"revvity, inc.",false,true,false,false,20240618,gonzales anita,95017024074843,Please See Remarks,female,123392991.0
+33400.0,63709.0,31791,"revvity, inc.",false,true,false,false,20240808,goldberg joel s,95017024093883,Please See Remarks,male,123336708.0
+7770.0,500.0,31791,"revvity, inc.",true,false,false,false,20240816,michas alexis p,95017024098047,,male,123336708.0
+4017.0,,31791,"revvity, inc.",false,true,false,false,20240917,gonzales anita,95017024107255,Please See Remarks,female,123336708.0
+21806.0,,31791,"revvity, inc.",false,true,false,false,20241009,vohra tajinder s,95017024113738,Please See Remarks,male,122091000.0
+19652.0,,31791,"revvity, inc.",false,true,false,false,20241010,vohra tajinder s,95017024114048,Please See Remarks,male,122091000.0
+90195.0,37163.0,31791,"revvity, inc.",true,true,false,false,20241203,singh prahlad r.,95017024132735,Please See Remarks,male,121702145.0
+3992.0,,31791,"revvity, inc.",false,true,false,false,20241217,gonzales anita,95017024137178,Please See Remarks,female,121702145.0

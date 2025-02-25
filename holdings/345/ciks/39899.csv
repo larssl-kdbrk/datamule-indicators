@@ -1,317 +1,676 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-859.089,5088.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100114,van lare wendell j,112329210000030,Senior VP/Labor Relations,male,236236708.0
-501.577,5088.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100114,van lare wendell j,112329210000033,Senior VP/Labor Relations,male,236236708.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100203,saridakis christopher d,112329210000100,Senior VP & Chief Digital Ofc.,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100203,mayman todd a.,112329210000101,"Sen. VP, Gen. Counsel and Sec.",male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100203,lougee david t,112329210000102,Pres/Broadcasting Division,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100204,martore gracia c,112329210000106,"President, COO and CFO",female,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,martore gracia c,112329210000215,"President, CFO and COO",female,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,hunke david l.,112329210000213,Pres. and Publisher-USA TODAY,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,lougee david t,112329210000212,Pres/Broadcasting Division,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,saridakis christopher d,112329210000211,Senior VP & Chief Digital Ofc.,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,williams john a,112329210000210,Pres - Gannett Digital,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,dickey robert j.,112329210000214,Pres./US Community Publishing,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,horning roxanne v,112329210000208,Senior VP/Human Resources,female,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,van lare wendell j,112329210000207,Senior VP/Labor Relations,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,ehrman daniel s jr,112329210000206,VP/Planning and Development,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,davidson paul,112329210000205,Chief Exec/Newsquest Media Grp,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,mayman todd a.,112329210000209,"Sen. VP, Gen. Counsel and Sec.",male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20100226,dubow craig a,112329210000204,Chairman & CEO,male,237356592.0
-501.577,4252.125,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100301,van lare wendell j,112329210000224,Senior VP/Labor Relations,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100302,behan william a.,112329210000228,Senior VP/Labor Relations,male,237356592.0
-2720.928,3774.919,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100302,horning roxanne v,112329210000230,Senior VP/Human Resources,female,237356592.0
-10026.696,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100303,davidson paul,112329210000248,Chief Exec/Newsquest Media Grp,male,237356592.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100311,van lare wendell j,112329210000279,Senior VP/Labor Relations,male,237356592.0
-407.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100324,lougee david t,112329210000323,Pres/Broadcasting Division,male,237356592.0
-729.227,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100326,saridakis christopher d,112329210000327,Senior VP & Chief Digital Ofc.,male,237356592.0
+501.577,5088.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100114,van lare wendell j,112329210000033,Senior VP/Labor Relations,male,
+859.089,5088.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100114,van lare wendell j,112329210000030,Senior VP/Labor Relations,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100203,saridakis christopher d,112329210000100,Senior VP & Chief Digital Ofc.,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100203,mayman todd a.,112329210000101,"Sen. VP, Gen. Counsel and Sec.",male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100203,lougee david t,112329210000102,Pres/Broadcasting Division,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100204,martore gracia c,112329210000106,"President, COO and CFO",female,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,martore gracia c,112329210000215,"President, CFO and COO",female,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,dickey robert j.,112329210000214,Pres./US Community Publishing,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,hunke david l.,112329210000213,Pres. and Publisher-USA TODAY,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,lougee david t,112329210000212,Pres/Broadcasting Division,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,saridakis christopher d,112329210000211,Senior VP & Chief Digital Ofc.,male,
+,,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20100226,dubow craig a,112329210000204,Chairman & CEO,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,mayman todd a.,112329210000209,"Sen. VP, Gen. Counsel and Sec.",male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,horning roxanne v,112329210000208,Senior VP/Human Resources,female,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,van lare wendell j,112329210000207,Senior VP/Labor Relations,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,ehrman daniel s jr,112329210000206,VP/Planning and Development,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,davidson paul,112329210000205,Chief Exec/Newsquest Media Grp,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100226,williams john a,112329210000210,Pres - Gannett Digital,male,
+501.577,4252.125,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100301,van lare wendell j,112329210000224,Senior VP/Labor Relations,male,
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100302,behan william a.,112329210000228,Senior VP/Labor Relations,male,
+2720.928,3774.919,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100302,horning roxanne v,112329210000230,Senior VP/Human Resources,female,
+10026.696,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100303,davidson paul,112329210000248,Chief Exec/Newsquest Media Grp,male,
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100311,van lare wendell j,112329210000279,Senior VP/Labor Relations,male,
+407.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100324,lougee david t,112329210000323,Pres/Broadcasting Division,male,
+729.227,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100326,saridakis christopher d,112329210000327,Senior VP & Chief Digital Ofc.,male,
 4509.0,9341.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100329,williams john a,112329210000329,Pres - Gannett Digital,male,238171891.0
 1009.348,2811.508,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100402,mayman todd a.,112329210000358,"Sen. VP, Gen. Counsel and Sec.",male,238171891.0
 1703.0,434.443,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100409,lougee david t,112329210000371,Pres/Broadcasting Division,male,238171891.0
 10201.0,728.126,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100419,saridakis christopher d,112329210000373,Senior VP & Chief Digital Ofc.,male,238171891.0
 2454.7622,728.126,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20100428,saridakis christopher d,112329210000385,Senior VP & Chief Digital Ofc.,male,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,harper arthur h,112329210000443,,male,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,louis john jeffry,112329210000442,,male,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,mccune scott k,112329210000440,,male,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,mcfarland duncan m,112329210000439,,male,238171891.0
-8750.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,magner marjorie,112329210000441,,female,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,shapiro neal,112329210000437,,male,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,shalala donna e,112329210000438,,female,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,williams karen hastie,112329210000436,,female,238171891.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,elias howard d,112329210000435,,male,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,elias howard d,112329210000435,,male,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,williams karen hastie,112329210000436,,female,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,shapiro neal,112329210000437,,male,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,shalala donna e,112329210000438,,female,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,mcfarland duncan m,112329210000439,,male,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,mccune scott k,112329210000440,,male,238171891.0
+8750.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,magner marjorie,112329210000441,,female,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,louis john jeffry,112329210000442,,male,238171891.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20100506,harper arthur h,112329210000443,,male,238171891.0
 7130.0,3014.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101026,dickey robert j.,112329210000698,Pres./US Community Publishing,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101117,saleh paul n,112329210000720,Senior VP and CFO,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101117,saleh paul n,112329210000720,Senior VP and CFO,male,238928204.0
+8322.0,425.835,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,lougee david t,112329210000741,Pres/Broadcasting Division,male,238928204.0
+5980.0,9428.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,williams john a,112329210000739,Pres - Gannett Digital,male,238928204.0
 372.0,417.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,behan william a.,112329210000750,Senior VP/Labor Relations,male,238928204.0
-11497.079,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,davidson paul,112329210000749,Chief Exec/Newsquest Media Grp,male,238928204.0
+1355.437,2818.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,mayman todd a.,112329210000740,"Sen. VP, Gen. Counsel and Sec.",male,238928204.0
 8012.0,3014.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,dickey robert j.,112329210000748,Pres./US Community Publishing,male,238928204.0
 42177.0,8268.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20101210,dubow craig a,112329210000747,Chairman & CEO,male,238928204.0
-7508.0,5180.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,ehrman daniel s jr,112329210000746,VP/Planning and Development,male,238928204.0
+11497.079,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,davidson paul,112329210000749,Chief Exec/Newsquest Media Grp,male,238928204.0
 6044.0,2448.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,gavagan george r,112329210000745,Vice President and Controller,male,238928204.0
 4026.974,4950.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,horning roxanne v,112329210000744,Senior VP/Human Resources,female,238928204.0
 1295.231,4832.979,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,hunke david l.,112329210000743,Pres. and Publisher-USA TODAY,male,238928204.0
 17324.0,4846.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,martore gracia c,112329210000742,President and COO,female,238928204.0
-8322.0,425.835,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,lougee david t,112329210000741,Pres/Broadcasting Division,male,238928204.0
-1355.437,2818.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,mayman todd a.,112329210000740,"Sen. VP, Gen. Counsel and Sec.",male,238928204.0
-5980.0,9428.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,williams john a,112329210000739,Pres - Gannett Digital,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,martore gracia c,112329210000794,President and COO,female,238928204.0
-0.0,0.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20101214,dubow craig a,112329210000795,Chairman & CEO,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,saleh paul n,112329210000793,Senior VP and CFO,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,dickey robert j.,112329210000792,Pres./US Community Publishing,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,davidson paul,112329210000791,Chief Exec/Newsquest Media Grp,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,hunke david l.,112329210000790,Pres. and Publisher-USA TODAY,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,ehrman daniel s jr,112329210000784,VP/Planning and Development,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,williams john a,112329210000788,Pres - Gannett Digital,male,238928204.0
+7508.0,5180.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101210,ehrman daniel s jr,112329210000746,VP/Planning and Development,male,238928204.0
+,,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20101214,dubow craig a,112329210000795,Chairman & CEO,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,martore gracia c,112329210000794,President and COO,female,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,saleh paul n,112329210000793,Senior VP and CFO,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,dickey robert j.,112329210000792,Pres./US Community Publishing,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,davidson paul,112329210000791,Chief Exec/Newsquest Media Grp,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,williams john a,112329210000788,Pres - Gannett Digital,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,lougee david t,112329210000789,Pres/Broadcasting Division,male,238928204.0
 1355.437,2818.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,mayman todd a.,112329210000787,"Sen. VP, Gen. Counsel and Sec.",male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,behan william a.,112329210000786,Senior VP/Labor Relations,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,horning roxanne v,112329210000785,Senior VP/Human Resources,female,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,gavagan george r,112329210000783,Vice President and Controller,male,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,lougee david t,112329210000789,Pres/Broadcasting Division,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,behan william a.,112329210000786,Senior VP/Labor Relations,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,horning roxanne v,112329210000785,Senior VP/Human Resources,female,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,ehrman daniel s jr,112329210000784,VP/Planning and Development,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,gavagan george r,112329210000783,Vice President and Controller,male,238928204.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101214,hunke david l.,112329210000790,Pres. and Publisher-USA TODAY,male,238928204.0
 2744.974,4950.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20101222,horning roxanne v,112329210000855,Senior VP/Human Resources,female,238928204.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110203,lougee david t,112329211000102,Pres/Broadcasting Division,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110203,mayman todd a.,112329211000104,"Sen. VP, Gen. Counsel and Sec.",male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,martore gracia c,112329211000190,President and COO,female,239686303.0
-11497.079,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,davidson paul,112329211000194,Chief Exec/Newsquest Media Grp,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110203,lougee david t,112329211000102,Pres/Broadcasting Division,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110203,mayman todd a.,112329211000104,"Sen. VP, Gen. Counsel and Sec.",male,239686303.0
+,,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20110225,dubow craig a,112329211000191,Chairman & CEO,male,239686303.0
 8322.0,702.73,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,lougee david t,112329211000193,Pres/Broadcasting Division,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20110225,dubow craig a,112329211000191,Chairman & CEO,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,hunke david l.,112329211000189,Pres. and Publisher-USA TODAY,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,dickey robert j.,112329211000192,Pres./US Community Publishing,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,mayman todd a.,112329211000187,"Sen. VP, Gen. Counsel and Sec.",male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,williams john a,112329211000186,Pres - Gannett Digital,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,horning roxanne v,112329211000185,Senior VP/Human Resources,female,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,saleh paul n,112329211000188,Senior VP and CFO,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,behan william a.,112329211000184,Senior VP/Labor Relations,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,ehrman daniel s jr,112329211000183,VP/Planning and Development,male,239686303.0
-1000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110304,cody john e,112329211000205,,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,dickey robert j.,112329211000192,Pres./US Community Publishing,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,martore gracia c,112329211000190,President and COO,female,239686303.0
+11497.079,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,davidson paul,112329211000194,Chief Exec/Newsquest Media Grp,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,saleh paul n,112329211000188,Senior VP and CFO,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,mayman todd a.,112329211000187,"Sen. VP, Gen. Counsel and Sec.",male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,williams john a,112329211000186,Pres - Gannett Digital,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,horning roxanne v,112329211000185,Senior VP/Human Resources,female,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,behan william a.,112329211000184,Senior VP/Labor Relations,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,ehrman daniel s jr,112329211000183,VP/Planning and Development,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110225,hunke david l.,112329211000189,Pres. and Publisher-USA TODAY,male,239686303.0
+1000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110304,cody john e,112329211000205,,male,239686303.0
 1515.231,5463.58,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110308,hunke david l.,112329211000210,Pres. and Publisher-USA TODAY,male,239686303.0
 1575.437,4077.94,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110308,mayman todd a.,112329211000211,"Sen. VP, Gen. Counsel and Sec.",male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110311,lougee david t,112329211000220,Pres/Broadcasting Division,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110316,banikarim maryam,112329211000226,Sr. VP/Chief Marketing Officer,female,239686303.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110318,payne david a.,112329211000232,Sr . VP/Chief Digital Officer,male,239686303.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,shalala donna e,112329211000349,,female,240432276.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,shapiro neal,112329211000350,,male,240432276.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,mcfarland duncan m,112329211000351,,male,240432276.0
-5000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,mccune scott k,112329211000352,,male,240432276.0
-10750.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,magner marjorie,112329211000353,,female,240432276.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,louis john jeffry,112329211000354,,male,240432276.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,harper arthur h,112329211000355,,male,240432276.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,elias howard d,112329211000356,,male,240432276.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,cody john e,112329211000357,,male,240432276.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110311,lougee david t,112329211000220,Pres/Broadcasting Division,male,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110316,banikarim maryam,112329211000226,Sr. VP/Chief Marketing Officer,female,239686303.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110318,payne david a.,112329211000232,Sr . VP/Chief Digital Officer,male,239686303.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,elias howard d,112329211000356,,male,240432276.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,harper arthur h,112329211000355,,male,240432276.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,louis john jeffry,112329211000354,,male,240432276.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,cody john e,112329211000357,,male,240432276.0
+5000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,mccune scott k,112329211000352,,male,240432276.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,mcfarland duncan m,112329211000351,,male,240432276.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,shapiro neal,112329211000350,,male,240432276.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,shalala donna e,112329211000349,,female,240432276.0
+10750.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20110505,magner marjorie,112329211000353,,female,240432276.0
 542.0,896.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20110805,behan william a.,112329211000606,Senior VP/Labor Relations,male,240794072.0
-13232.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20111026,magner marjorie,112329211000794,,female,238288133.0
-1000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20111110,ness susan,112329211000815,,female,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111129,gendron teresa s,112329211000886,Vice President and Controller,female,238288133.0
-15217.079,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,davidson paul,112329211000922,Chief Exec/Newsquest Media Grp,male,238288133.0
+13232.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20111026,magner marjorie,112329211000794,,female,238288133.0
+1000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20111110,ness susan,112329211000815,,female,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111129,gendron teresa s,112329211000886,Vice President and Controller,female,238288133.0
+7220.0,2942.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,gavagan george r,112329211000920,Vice President and CAO,male,238288133.0
+15217.079,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,davidson paul,112329211000922,Chief Exec/Newsquest Media Grp,male,238288133.0
 15808.0,3506.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,dickey robert j.,112329211000921,Pres./US Community Publishing,male,238288133.0
 4819.974,5466.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,horning roxanne v,112329211000919,Senior VP/Human Resources,female,238288133.0
-2875.231,5540.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,hunke david l.,112329211000918,Pres. and Publisher-USA TODAY,male,238288133.0
-7220.0,2942.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,gavagan george r,112329211000920,Vice President and CAO,male,238288133.0
+8186.0,10345.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,williams john a,112329211000914,Pres -  Digital Ventures,male,238288133.0
+11264.0,1210.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,lougee david t,112329211000917,Pres/Broadcasting Division,male,238288133.0
 32034.0,5367.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20111209,martore gracia c,112329211000916,President and CEO,female,238288133.0
 2757.437,4136.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,mayman todd a.,112329211000915,"Sen. VP, Gen. Counsel and Sec.",male,238288133.0
-8186.0,10345.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,williams john a,112329211000914,Pres -  Digital Ventures,male,238288133.0
 1084.0,904.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,behan william a.,112329211000913,Senior VP/Labor Relations,male,238288133.0
-11264.0,1210.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,lougee david t,112329211000917,Pres/Broadcasting Division,male,238288133.0
+2875.231,5540.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111209,hunke david l.,112329211000918,Pres. and Publisher-USA TODAY,male,238288133.0
 4819.947,5466.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111223,horning roxanne v,112329211000940,Senior VP/Human Resources,female,238288133.0
 7182.0,10345.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20111230,williams john a,112329211000955,Pres -  Digital Ventures,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,lougee david t,112329212000077,Pres/Broadcasting Division,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,saleh paul n,112329212000085,Senior VP and CFO,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,payne david a.,112329212000083,Sr . VP/Chief Digital Officer,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,mayman todd a.,112329212000081,"Sen. VP, Gen. Counsel and Sec.",male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,williams john a,112329212000087,President - Digital Ventures,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20120104,martore gracia c,112329212000079,President and CEO,female,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,hunke david l.,112329212000075,Pres. and Publisher-USA TODAY,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,dickey robert j.,112329212000067,Pres./US Community Publishing,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,gendron teresa s,112329212000071,Vice President and Controller,female,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,gavagan george r,112329212000069,Vice President and CAO,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,davidson paul,112329212000065,Chief Exec/Newsquest Media Grp,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,behan william a.,112329212000063,Senior VP/Labor Relations,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,banikarim maryam,112329212000061,Sr. VP/Chief Marketing Officer,female,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,horning roxanne v,112329212000073,Senior VP/Human Resources,female,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,williams john a,112329212000087,President - Digital Ventures,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,saleh paul n,112329212000085,Senior VP and CFO,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,payne david a.,112329212000083,Sr . VP/Chief Digital Officer,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,mayman todd a.,112329212000081,"Sen. VP, Gen. Counsel and Sec.",male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,lougee david t,112329212000077,Pres/Broadcasting Division,male,238288133.0
+,,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20120104,martore gracia c,112329212000079,President and CEO,female,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,horning roxanne v,112329212000073,Senior VP/Human Resources,female,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,hunke david l.,112329212000075,Pres. and Publisher-USA TODAY,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,banikarim maryam,112329212000061,Sr. VP/Chief Marketing Officer,female,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,behan william a.,112329212000063,Senior VP/Labor Relations,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,gendron teresa s,112329212000071,Vice President and Controller,female,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,dickey robert j.,112329212000067,Pres./US Community Publishing,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,gavagan george r,112329212000069,Vice President and CAO,male,238288133.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120104,davidson paul,112329212000065,Chief Exec/Newsquest Media Grp,male,238288133.0
 13653.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120117,louis john jeffry,112329212000141,,male,238288133.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120203,lougee david t,112329212000217,Pres/Broadcasting Division,male,236934167.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120203,saleh paul n,112329212000218,Senior VP and CFO,male,236934167.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120203,mayman todd a.,112329212000219,"Sen. VP, Gen. Counsel and Sec.",male,236934167.0
-51800.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120223,mcfarland duncan m,112329212000343,,male,236934167.0
-24332.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120224,magner marjorie,112329212000345,,female,236934167.0
-10000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120229,elias howard d,112329212000381,,male,236934167.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120203,saleh paul n,112329212000218,Senior VP and CFO,male,236934167.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120203,mayman todd a.,112329212000219,"Sen. VP, Gen. Counsel and Sec.",male,236934167.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120203,lougee david t,112329212000217,Pres/Broadcasting Division,male,236934167.0
+51800.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120223,mcfarland duncan m,112329212000343,,male,236934167.0
+24332.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120224,magner marjorie,112329212000345,,female,236934167.0
+10000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120229,elias howard d,112329212000381,,male,236934167.0
 16153.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120302,louis john jeffry,112329212000388,,male,236934167.0
-271.34,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120323,lougee david t,112329212000444,Pres/Broadcasting Division,male,236934167.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120326,behan william a.,112329212000446,Senior VP/Labor Relations,male,234955956.0
-71800.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120501,mcfarland duncan m,112329212000517,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,elias howard d,112329212000567,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,cody john e,112329212000568,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,harper arthur h,112329212000566,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,louis john jeffry,112329212000565,,male,234955956.0
-3000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,ness susan,112329212000561,,female,234955956.0
-7000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,mccune scott k,112329212000563,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,mcfarland duncan m,112329212000562,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,shapiro neal,112329212000560,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,magner marjorie,112329212000564,,female,234955956.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120515,kramer lawrence s,112329212000594,Pres. and Publisher-USA TODAY,male,234955956.0
-10750.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120517,mccune scott k,112329212000598,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120518,saleh paul n,112329212000619,Senior VP and CFO,male,234955956.0
-91800.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120531,mcfarland duncan m,112329212000654,,male,234955956.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120725,harker victoria d,112329212000757,Chief Financial Officer,female,231421058.0
+271.34,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120323,lougee david t,112329212000444,Pres/Broadcasting Division,male,236934167.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120326,behan william a.,112329212000446,Senior VP/Labor Relations,male,234955956.0
+71800.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120501,mcfarland duncan m,112329212000517,,male,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,harper arthur h,112329212000566,,male,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,cody john e,112329212000568,,male,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,elias howard d,112329212000567,,male,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,magner marjorie,112329212000564,,female,234955956.0
+7000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,mccune scott k,112329212000563,,male,234955956.0
+3000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,ness susan,112329212000561,,female,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,shapiro neal,112329212000560,,male,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,louis john jeffry,112329212000565,,male,234955956.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120503,mcfarland duncan m,112329212000562,,male,234955956.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120515,kramer lawrence s,112329212000594,Pres. and Publisher-USA TODAY,male,234955956.0
+10750.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120517,mccune scott k,112329212000598,,male,234955956.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120518,saleh paul n,112329212000619,Senior VP and CFO,male,234955956.0
+91800.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20120531,mcfarland duncan m,112329212000654,,male,234955956.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120725,harker victoria d,112329212000757,Chief Financial Officer,female,231421058.0
 7182.0,11497.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120824,williams john a,112329212000849,President - Digital Ventures,male,231421058.0
 2757.437,5700.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120824,mayman todd a.,112329212000850,"Sen. VP, Gen. Counsel and Sec.",male,231421058.0
 15808.0,4115.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20120914,dickey robert j.,112329212000872,Pres./US Community Publishing,male,231421058.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121024,lord kevin e,112329212000922,SVP and Chief HR Officer,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121024,lord kevin e,112329212000922,SVP and Chief HR Officer,male,229787136.0
 11264.0,276.667,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121106,lougee david t,112329212000969,Pres/Broadcasting Division,male,229787136.0
 30034.0,6068.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20121211,martore gracia c,112329212001039,President and CEO,female,229787136.0
 15808.0,4141.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121212,dickey robert j.,112329212001044,Pres./US Community Publishing,male,229787136.0
-12557.0,11627.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,williams john a,112329212001055,President - Digital Ventures,male,229787136.0
-4963.437,5736.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,mayman todd a.,112329212001056,"Sen. VP, Gen. Counsel and Sec.",male,229787136.0
 60494.0,6068.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20121214,martore gracia c,112329212001057,President and CEO,female,229787136.0
-20405.0,277.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,lougee david t,112329212001058,Pres/Broadcasting Division,male,229787136.0
-29979.0,4142.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,dickey robert j.,112329212001059,Pres./US Community Publishing,male,229787136.0
-20785.079,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,davidson paul,112329212001060,Chief Exec/Newsquest Media Grp,male,229787136.0
-2779.0,27.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,behan william a.,112329212001061,Senior VP/Labor Relations,male,229787136.0
+4963.437,5736.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,mayman todd a.,112329212001056,"Sen. VP, Gen. Counsel and Sec.",male,229787136.0
 144570.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20121214,louis john jeffry,112329212001062,,male,229787136.0
-11264.0,277.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121219,lougee david t,112329212001105,Pres./Broadcasting Division,male,229787136.0
+2779.0,27.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,behan william a.,112329212001061,Senior VP/Labor Relations,male,229787136.0
+12557.0,11627.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,williams john a,112329212001055,President - Digital Ventures,male,229787136.0
+29979.0,4142.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,dickey robert j.,112329212001059,Pres./US Community Publishing,male,229787136.0
+20785.079,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,davidson paul,112329212001060,Chief Exec/Newsquest Media Grp,male,229787136.0
+20405.0,277.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121214,lougee david t,112329212001058,Pres/Broadcasting Division,male,229787136.0
 7182.0,11627.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121219,williams john a,112329212001102,President - Digital Ventures,male,229787136.0
 15808.0,4142.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121219,dickey robert j.,112329212001104,Pres./US Community Publishing,male,229787136.0
+11264.0,277.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121219,lougee david t,112329212001105,Pres./Broadcasting Division,male,229787136.0
 2779.0,27.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20121221,behan william a.,112329212001121,Senior VP/Labor Relations,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,williams john a,112329213000051,President - Digital Ventures,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,harker victoria d,112329213000056,Chief Financial Officer,female,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,gendron teresa s,112329213000055,Vice President and Controller,female,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,dickey robert j.,112329213000054,Pres./US Community Publishing,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,davidson paul,112329213000053,Chief Exec/Newsquest Media Grp,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,payne david a.,112329213000047,Sr . VP/Chief Digital Officer,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,kramer lawrence s,112329213000052,Pres. & Publisher - USA Today,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,behan william a.,112329213000040,Senior VP/Labor Relations,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,mayman todd a.,112329213000041,"Sen. VP, Gen. Counsel and Sec.",male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,gendron teresa s,112329213000055,Vice President and Controller,female,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,dickey robert j.,112329213000054,Pres./US Community Publishing,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,davidson paul,112329213000053,Chief Exec/Newsquest Media Grp,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,kramer lawrence s,112329213000052,Pres. & Publisher - USA Today,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,williams john a,112329213000051,President - Digital Ventures,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,harker victoria d,112329213000056,Chief Financial Officer,female,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,mayman todd a.,112329213000041,"Sen. VP, Gen. Counsel and Sec.",male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,behan william a.,112329213000040,Senior VP/Labor Relations,male,229787136.0
 30034.0,6134.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20130103,martore gracia c,112329213000038,President and CEO,female,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,banikarim maryam,112329213000034,Sr. VP/Chief Marketing Officer,female,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,lougee david t,112329213000033,Pres/Broadcasting Division,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,lord kevin e,112329213000030,SVP and Chief HR Officer,male,229787136.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,payne david a.,112329213000220,Sr . VP/Chief Digital Officer,male,229626485.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,mayman todd a.,112329213000221,"Sen. VP, Gen. Counsel and Sec.",male,229626485.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,lougee david t,112329213000222,Pres/Broadcasting Division,male,229626485.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,banikarim maryam,112329213000223,Sr. VP/Chief Marketing Officer,female,229626485.0
-20787.3461,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130227,davidson paul,112329213000443,Chief Exec/Newsquest Media Grp,male,229626485.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,banikarim maryam,112329213000034,Sr. VP/Chief Marketing Officer,female,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,lord kevin e,112329213000030,SVP and Chief HR Officer,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,payne david a.,112329213000047,Sr . VP/Chief Digital Officer,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130103,lougee david t,112329213000033,Pres/Broadcasting Division,male,229787136.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,payne david a.,112329213000220,Sr . VP/Chief Digital Officer,male,229626485.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,mayman todd a.,112329213000221,"Sen. VP, Gen. Counsel and Sec.",male,229626485.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,lougee david t,112329213000222,Pres/Broadcasting Division,male,229626485.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130205,banikarim maryam,112329213000223,Sr. VP/Chief Marketing Officer,female,229626485.0
+20787.3461,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130227,davidson paul,112329213000443,Chief Exec/Newsquest Media Grp,male,229626485.0
 0.0,1908.63,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130305,banikarim maryam,112329213000537,Sr. VP/Chief Marketing Officer,female,229626485.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130308,lougee david t,112329213000547,Pres./Broadcasting Division,male,229626485.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130308,lougee david t,112329213000547,Pres./Broadcasting Division,male,229626485.0
 15808.0,4573.17,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130313,dickey robert j.,112329213000626,Pres./US Community Publishing,male,229626485.0
 2847.0,408.61,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130314,behan william a.,112329213000630,Senior VP/Labor Relations,male,229626485.0
 7433.0,12475.9,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130325,williams john a,112329213000684,President - Digital Ventures,male,229626485.0
-20787.3461,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130426,davidson paul,112329213000803,Chief Exec/Newsquest Media Grp,male,228886158.0
+20787.3461,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130426,davidson paul,112329213000803,Chief Exec/Newsquest Media Grp,male,228886158.0
 11831.74,6938.901,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20130503,mayman todd a.,112329213000857,"Sen. VP, Gen. Counsel and Sec.",male,228886158.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,cody john e,112329213000927,,male,228886158.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,elias howard d,112329213000926,,male,228886158.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,harper arthur h,112329213000925,,male,228886158.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,elias howard d,112329213000926,,male,228886158.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,cody john e,112329213000927,,male,228886158.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,harper arthur h,112329213000925,,male,228886158.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,magner marjorie,112329213000923,,female,228886158.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,shapiro neal,112329213000919,,male,228886158.0
+15022.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,mccune scott k,112329213000922,,male,228886158.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,mcfarland duncan m,112329213000921,,male,228886158.0
 154348.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,louis john jeffry,112329213000924,,male,228886158.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,shapiro neal,112329213000919,,male,228886158.0
-15022.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,mccune scott k,112329213000922,,male,228886158.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,mcfarland duncan m,112329213000921,,male,228886158.0
-7272.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,ness susan,112329213000920,,female,228886158.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,magner marjorie,112329213000923,,female,228886158.0
+7272.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130509,ness susan,112329213000920,,female,228886158.0
 189653.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20130522,louis john jeffry,112329213001015,,male,228886158.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131015,lord kevin e,112329213001463,SVP and Chief HR Officer,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20131030,prophet tony a,112329213001523,,male,227893735.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131015,lord kevin e,112329213001463,SVP and Chief HR Officer,male,227893735.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20131030,prophet tony a,112329213001523,,male,227893735.0
 8065.0,416.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,behan william a.,112329213001650,Senior VP/Labor Relations,male,227893735.0
-28737.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,davidson paul,112329213001651,Chief Exec/Newsquest Media Grp,male,227893735.0
+28737.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,davidson paul,112329213001651,Chief Exec/Newsquest Media Grp,male,227893735.0
 31498.0,4658.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,dickey robert j.,112329213001652,Pres./US Community Publishing,male,227893735.0
-24718.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,lougee david t,112329213001653,Pres/Broadcasting Division,male,227893735.0
+24718.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,lougee david t,112329213001653,Pres/Broadcasting Division,male,227893735.0
 87040.0,6649.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20131213,martore gracia c,112329213001654,President and CEO,female,227893735.0
 19677.0,7010.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,mayman todd a.,112329213001655,"Sen. VP, Gen. Counsel and Sec.",male,227893735.0
 19043.0,12620.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131213,williams john a,112329213001656,President - Digital Ventures,male,227893735.0
-11264.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131227,lougee david t,112329213001686,Pres/Broadcasting Division,male,227893735.0
 19461.0,7010.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131227,mayman todd a.,112329213001687,"Sen. VP, Gen. Counsel and Sec.",male,227893735.0
 0.0,1944.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131227,banikarim maryam,112329213001685,Sr. VP/Chief Marketing Officer,female,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,lord kevin e,112329214000038,SVP and Chief HR Officer,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,banikarim maryam,112329214000031,Sr. VP/Chief Marketing Officer,female,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,behan william a.,112329214000032,Senior VP/Labor Relations,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,davidson paul,112329214000033,Chief Exec/Newsquest Media Grp,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,dickey robert j.,112329214000034,Pres./US Community Publishing,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,gendron teresa s,112329214000035,Vice President and Controller,female,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,harker victoria d,112329214000036,Chief Financial Officer,female,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,kramer lawrence s,112329214000037,Pres. & Publisher - USA Today,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,lougee david t,112329214000039,Pres/Broadcasting Division,male,227893735.0
+11264.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20131227,lougee david t,112329213001686,Pres/Broadcasting Division,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,behan william a.,112329214000032,Senior VP/Labor Relations,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,davidson paul,112329214000033,Chief Exec/Newsquest Media Grp,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,dickey robert j.,112329214000034,Pres./US Community Publishing,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,gendron teresa s,112329214000035,Vice President and Controller,female,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,harker victoria d,112329214000036,Chief Financial Officer,female,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,kramer lawrence s,112329214000037,Pres. & Publisher - USA Today,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,lord kevin e,112329214000038,SVP and Chief HR Officer,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,lougee david t,112329214000039,Pres/Broadcasting Division,male,227893735.0
 30034.0,6681.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20140103,martore gracia c,112329214000040,President and CEO,female,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,mayman todd a.,112329214000041,"Sen. VP, Gen. Counsel and Sec.",male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,mayman todd a.,112329214000041,"Sen. VP, Gen. Counsel and Sec.",male,227893735.0
 0.0,2512.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,payne david a.,112329214000042,Sr . VP/Chief Digital Officer,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,williams john a,112329214000043,President - Digital Ventures,male,227893735.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,harker victoria d,112329214000162,Chief Financial Officer,female,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,banikarim maryam,112329214000164,Sr. VP/Chief Marketing Officer,female,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,kramer lawrence s,112329214000161,Pres. & Publisher - USA Today,male,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,gendron teresa s,112329214000163,Vice President and Controller,female,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,lougee david t,112329214000159,Pres/Broadcasting Division,male,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,mayman todd a.,112329214000157,"Sen. VP, Gen. Counsel and Sec.",male,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,lord kevin e,112329214000160,SVP and Chief HR Officer,male,227365020.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,payne david a.,112329214000156,Sr . VP/Chief Digital Officer,male,227365020.0
-2000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140206,prophet tony a,112329214000166,,male,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,williams john a,112329214000043,President - Digital Ventures,male,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140103,banikarim maryam,112329214000031,Sr. VP/Chief Marketing Officer,female,227893735.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,gendron teresa s,112329214000163,Vice President and Controller,female,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,harker victoria d,112329214000162,Chief Financial Officer,female,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,banikarim maryam,112329214000164,Sr. VP/Chief Marketing Officer,female,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,lord kevin e,112329214000160,SVP and Chief HR Officer,male,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,lougee david t,112329214000159,Pres/Broadcasting Division,male,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,mayman todd a.,112329214000157,"Sen. VP, Gen. Counsel and Sec.",male,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,payne david a.,112329214000156,Sr . VP/Chief Digital Officer,male,227365020.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140205,kramer lawrence s,112329214000161,Pres. & Publisher - USA Today,male,227365020.0
+2000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140206,prophet tony a,112329214000166,,male,227365020.0
 31498.0,4678.749,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140228,dickey robert j.,112329214000270,Pres./US Community Publishing,male,227365020.0
 0.0,418.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140311,behan william a.,112329214000306,Senior VP/Labor Relations,male,227365020.0
-11264.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140311,lougee david t,112329214000307,Pres/Broadcasting Division,male,227365020.0
+11264.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140311,lougee david t,112329214000307,Pres/Broadcasting Division,male,227365020.0
 19139.0,12704.286,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140326,williams john a,112329214000375,President - Digital Ventures,male,227365020.0
-10485.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,ness susan,112329214000497,,female,226792490.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,shapiro neal,112329214000496,,male,226792490.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,prophet tony a,112329214000495,,male,226792490.0
-18235.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,mccune scott k,112329214000494,,male,226792490.0
-4819.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,cody john e,112329214000490,,male,226792490.0
+4819.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,cody john e,112329214000490,,male,226792490.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,elias howard d,112329214000491,,male,226792490.0
 197007.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,louis john jeffry,112329214000492,,male,226792490.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,elias howard d,112329214000491,,male,226792490.0
-27545.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,magner marjorie,112329214000493,,female,226792490.0
-1000.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140701,fonseca lidia,112329214000691,,female,225647176.0
-3403.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140730,fonseca lidia,112329214000764,,female,225647176.0
+27545.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,magner marjorie,112329214000493,,female,226792490.0
+18235.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,mccune scott k,112329214000494,,male,226792490.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,prophet tony a,112329214000495,,male,226792490.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,shapiro neal,112329214000496,,male,226792490.0
+10485.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140505,ness susan,112329214000497,,female,226792490.0
+1000.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140701,fonseca lidia,112329214000691,,female,225647176.0
+3403.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140730,fonseca lidia,112329214000764,,female,225647176.0
 228930.0,126884.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20140805,louis john jeffry,112329214000803,,male,225647176.0
-0.0,0.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20140807,martore gracia c,112329214000821,President and CEO,female,225647176.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140808,gendron teresa s,112329214000823,Vice President and Controller,female,225647176.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141024,payne david a.,112329214000958,Sr . VP/Chief Digital Officer,male,225830862.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141028,banikarim maryam,112329214000960,Sr. VP/Chief Marketing Officer,female,225830862.0
-19485.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20141113,mccune scott k,112329214001034,,male,225830862.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,banikarim maryam,112329214001079,Sr. VP/Chief Marketing Officer,female,225830862.0
-55032.0,5033.473,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,dickey robert j.,112329214001077,Pres./US Community Publishing,male,225830862.0
-29568.0,453.955,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,lougee david t,112329214001076,Pres/Broadcasting Division,male,225830862.0
+,,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20140807,martore gracia c,112329214000821,President and CEO,female,225647176.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20140808,gendron teresa s,112329214000823,Vice President and Controller,female,225647176.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141024,payne david a.,112329214000958,Sr . VP/Chief Digital Officer,male,225830862.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141028,banikarim maryam,112329214000960,Sr. VP/Chief Marketing Officer,female,225830862.0
+19485.0,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20141113,mccune scott k,112329214001034,,male,225830862.0
 9366.0,695.311,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,behan william a.,112329214001078,Senior VP/Labor Relations,male,225830862.0
-19177.0,7945.052,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,mayman todd a.,112329214001074,"Sen. VP, Gen. Counsel and Sec.",male,225830862.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,payne david a.,112329214001073,Sr . VP/Chief Digital Officer,male,225830862.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,banikarim maryam,112329214001079,Sr. VP/Chief Marketing Officer,female,225830862.0
+55032.0,5033.473,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,dickey robert j.,112329214001077,Pres./US Community Publishing,male,225830862.0
 19139.0,13388.86,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,williams john a,112329214001072,President - Digital Ventures,male,225830862.0
 77104.0,7076.398,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20141212,martore gracia c,112329214001075,President and CEO,female,225830862.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141217,banikarim maryam,112329214001083,Sr. VP/Chief Marketing Officer,female,225830862.0
+19177.0,7945.052,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,mayman todd a.,112329214001074,"Sen. VP, Gen. Counsel and Sec.",male,225830862.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,payne david a.,112329214001073,Sr . VP/Chief Digital Officer,male,225830862.0
+29568.0,453.955,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141212,lougee david t,112329214001076,Pres/Broadcasting Division,male,225830862.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141217,banikarim maryam,112329214001083,Sr. VP/Chief Marketing Officer,female,225830862.0
 30034.0,7076.398,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20141223,martore gracia c,112329214001097,President and CEO,female,225830862.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141223,banikarim maryam,112329214001098,Sr. VP/Chief Marketing Officer,female,225830862.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141223,banikarim maryam,112329214001098,Sr. VP/Chief Marketing Officer,female,225830862.0
 0.0,695.311,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20141223,behan william a.,112329214001099,Senior VP/Labor Relations,male,225830862.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,banikarim maryam,112329215000037,Sr. VP/Chief Marketing Officer,female,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,behan william a.,112329215000036,Senior VP/Labor Relations,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,dickey robert j.,112329215000035,Pres./US Community Publishing,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,harker victoria d,112329215000034,Chief Financial Officer,female,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,kramer lawrence s,112329215000033,Pres. & Publisher - USA Today,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20150105,martore gracia c,112329215000030,President and CEO,female,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,lougee david t,112329215000031,Pres/Broadcasting Division,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,mayman todd a.,112329215000029,"Sen. VP, Gen. Counsel and Sec.",male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,payne david a.,112329215000028,Sr . VP/Chief Digital Officer,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,williams john a,112329215000027,President - Digital Ventures,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,lord kevin e,112329215000032,SVP and Chief HR Officer,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150109,payne david a.,112329215000131,Sr . VP/Chief Digital Officer,male,227000000.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,harker victoria d,112329215000302,Chief Financial Officer,female,226851543.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,kramer lawrence s,112329215000303,Pres. & Publisher - USA Today,male,226851543.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,lord kevin e,112329215000304,SVP and Chief HR Officer,male,226851543.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,lougee david t,112329215000305,Pres/Broadcasting Division,male,226851543.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,mayman todd a.,112329215000306,"Sen. VP, Gen. Counsel and Sec.",male,226851543.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,payne david a.,112329215000307,Sr . VP/Chief Digital Officer,male,226851543.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,banikarim maryam,112329215000037,Sr. VP/Chief Marketing Officer,female,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,behan william a.,112329215000036,Senior VP/Labor Relations,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,dickey robert j.,112329215000035,Pres./US Community Publishing,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,kramer lawrence s,112329215000033,Pres. & Publisher - USA Today,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,harker victoria d,112329215000034,Chief Financial Officer,female,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,lougee david t,112329215000031,Pres/Broadcasting Division,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,lord kevin e,112329215000032,SVP and Chief HR Officer,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,williams john a,112329215000027,President - Digital Ventures,male,227000000.0
+,,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20150105,martore gracia c,112329215000030,President and CEO,female,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,payne david a.,112329215000028,Sr . VP/Chief Digital Officer,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150105,mayman todd a.,112329215000029,"Sen. VP, Gen. Counsel and Sec.",male,227000000.0
+0.0,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150109,payne david a.,112329215000131,Sr . VP/Chief Digital Officer,male,227000000.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,harker victoria d,112329215000302,Chief Financial Officer,female,226851543.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,kramer lawrence s,112329215000303,Pres. & Publisher - USA Today,male,226851543.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,lord kevin e,112329215000304,SVP and Chief HR Officer,male,226851543.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,lougee david t,112329215000305,Pres/Broadcasting Division,male,226851543.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,mayman todd a.,112329215000306,"Sen. VP, Gen. Counsel and Sec.",male,226851543.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150204,payne david a.,112329215000307,Sr . VP/Chief Digital Officer,male,226851543.0
 0.0,78.43,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,payne david a.,112329215000327,Sr . VP/Chief Digital Officer,male,226851543.0
 19177.0,8062.83,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,mayman todd a.,112329215000326,"Sen. VP, Gen. Counsel and Sec.",male,226851543.0
-153594.0,7194.07,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20150206,martore gracia c,112329215000325,President and CEO,female,226851543.0
 48431.0,13548.16,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,williams john a,112329215000328,President - Digital Ventures,male,226851543.0
+64037.0,550.87,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,lougee david t,112329215000324,Pres/Broadcasting Division,male,226851543.0
 36730.0,1533.72,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,harker victoria d,112329215000323,Chief Financial Officer,female,226851543.0
 102418.0,5119.24,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,dickey robert j.,112329215000322,Pres./US Community Publishing,male,226851543.0
 16141.0,728.77,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,behan william a.,112329215000321,Senior VP/Labor Relations,male,226851543.0
-64037.0,550.87,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150206,lougee david t,112329215000324,Pres/Broadcasting Division,male,226851543.0
+153594.0,7194.07,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20150206,martore gracia c,112329215000325,President and CEO,female,226851543.0
 0.0,728.77,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150211,behan william a.,112329215000353,Senior VP/Labor Relations,male,226851543.0
-0.0,0.0,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150305,lord kevin e,112329215000486,SVP and Chief HR Officer,male,226851543.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,shapiro neal,112329215000744,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,prophet tony a,112329215000743,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,nolop bruce p,112329215000742,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,ness susan,112329215000741,,female,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,mccune scott k,112329215000740,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,louis john jeffry,112329215000738,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,fonseca lidia,112329215000737,,female,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,elias howard d,112329215000736,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,cody john e,112329215000735,,male,226856486.0
-0.0,0.0,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,magner marjorie,112329215000739,,female,226856486.0
+,,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150305,lord kevin e,112329215000486,SVP and Chief HR Officer,male,226851543.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,fonseca lidia,112329215000737,,female,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,louis john jeffry,112329215000738,,male,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,magner marjorie,112329215000739,,female,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,cody john e,112329215000735,,male,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,ness susan,112329215000741,,female,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,nolop bruce p,112329215000742,,male,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,prophet tony a,112329215000743,,male,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,shapiro neal,112329215000744,,male,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,elias howard d,112329215000736,,male,226856486.0
+,,39899,gannett co inc /de/,1.0,0.0,0.0,0.0,20150501,mccune scott k,112329215000740,,male,226856486.0
 55032.0,5308.633,39899,gannett co inc /de/,0.0,1.0,0.0,0.0,20150508,dickey robert j.,112329215000770,Pres./US Community Publishing,male,226856486.0
 30034.0,7374.381,39899,gannett co inc /de/,1.0,1.0,0.0,0.0,20150513,martore gracia c,112329215000788,President and CEO,female,226856486.0
-0.0,0.0,39899,tegna inc,0.0,1.0,0.0,0.0,20150702,mayman todd a.,112329215000988,EVP Chief Legal and Admin. Off,male,226471846.0
-0.0,0.0,39899,tegna inc,0.0,1.0,0.0,0.0,20150702,harker victoria d,112329215000989,"EVP, Chief Financial Officer",female,226471846.0
-0.0,0.0,39899,tegna inc,1.0,0.0,0.0,0.0,20150731,greenthal jill a,112329215001032,,female,226471846.0
-0.0,0.0,39899,tegna inc,0.0,1.0,0.0,0.0,20150731,mcclelland clifton a. iii,112329215001031,"VP, Controller, Prin. Acc. Off",male,226471846.0
-0.0,0.0,39899,tegna inc,1.0,0.0,0.0,0.0,20150731,mcgee henry wadsworth iii,112329215001033,,male,226471846.0
+,,39899,tegna inc,0.0,1.0,0.0,0.0,20150702,mayman todd a.,112329215000988,EVP Chief Legal and Admin. Off,male,226471846.0
+,,39899,tegna inc,0.0,1.0,0.0,0.0,20150702,harker victoria d,112329215000989,"EVP, Chief Financial Officer",female,226471846.0
+,,39899,tegna inc,1.0,0.0,0.0,0.0,20150731,mcgee henry wadsworth iii,112329215001033,,male,226471846.0
+,,39899,tegna inc,0.0,1.0,0.0,0.0,20150731,mcclelland clifton a. iii,112329215001031,"VP, Controller, Prin. Acc. Off",male,226471846.0
+,,39899,tegna inc,1.0,0.0,0.0,0.0,20150731,greenthal jill a,112329215001032,,female,226471846.0
+,,39899,tegna inc,0,1,0,0,20160105,lehman nicholas,92542116000021,Chief Strategy Officer,male,220000000.0
+59372.0,7453.13,39899,tegna inc,1,1,0,0,20160105,martore gracia c,92542116000022,President and CEO,female,220000000.0
+52481.0,1861.95,39899,tegna inc,0,1,0,0,20160105,harker victoria d,92542116000023,"EVP, CFO",female,220000000.0
+77103.0,859.04,39899,tegna inc,0,1,0,0,20160105,lougee david t,92542116000024,"President, TEGNA Media",male,220000000.0
+60788.0,14099.22,39899,tegna inc,0,1,0,0,20160105,williams john a,92542116000025,"President, TEGNA Digital",male,220000000.0
+32602.0,8775.39,39899,tegna inc,0,1,0,0,20160105,mayman todd a.,92542116000026,"EVP, Chief Legal and Admin Off",male,220000000.0
+8005.0,943.68,39899,tegna inc,0,1,0,0,20160105,behan william a.,92542116000027,"SVP, Labor Relations",male,220000000.0
+11069.0,971.19,39899,tegna inc,0,1,0,0,20160105,lord kevin e,92542116000028,"SVP, Chief HR Officer",male,220000000.0
+14888.0,1066.21,39899,tegna inc,0,1,0,0,20160105,mcclelland clifton a. iii,92542116000029,"VP, Cntlr. and Prin. Acc. Off.",male,220000000.0
+20947.0,943.68,39899,tegna inc,0,1,0,0,20160202,behan william a.,92542116000041,"Sr VP, Labor Relations",male,219720167.0
+86412.0,14099.22,39899,tegna inc,0,1,0,0,20160202,williams john a,92542116000048,"President, TEGNA Digital",male,219720167.0
+19381.0,1066.21,39899,tegna inc,0,1,0,0,20160202,mcclelland clifton a. iii,92542116000047,"VP, Cntlr. and Prin. Acc. Off.",male,219720167.0
+56250.28,8775.39,39899,tegna inc,0,1,0,0,20160202,mayman todd a.,92542116000046,"EVP, Chief Legal and Admin Off",male,219720167.0
+93938.0,1861.95,39899,tegna inc,0,1,0,0,20160202,harker victoria d,92542116000042,"EVP, CFO",female,219720167.0
+30035.0,971.19,39899,tegna inc,0,1,0,0,20160202,lord kevin e,92542116000043,"SVP, Chief HR Officer",male,219720167.0
+110050.0,859.04,39899,tegna inc,0,1,0,0,20160202,lougee david t,92542116000044,"President, TEGNA Media",male,219720167.0
+170213.0,7453.13,39899,tegna inc,1,1,0,0,20160202,martore gracia c,92542116000045,President and CEO,female,219720167.0
+0.0,,39899,tegna inc,0,1,0,0,20160304,lord kevin e,92542116000052,"SVP, Chief HR Officer",male,219720167.0
+,,39899,tegna inc,1,0,0,0,20160506,nolop bruce p,92542116000101,,male,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,shapiro neal,92542116000102,,male,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,ness susan,92542116000100,,female,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,mcgee henry wadsworth iii,92542116000099,,male,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,mccune scott k,92542116000098,,male,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,magner marjorie,92542116000097,,female,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,greenthal jill a,92542116000096,,female,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,dulski jennifer,92542116000093,,female,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,elias howard d,92542116000094,,male,217587943.0
+,,39899,tegna inc,1,0,0,0,20160506,fonseca lidia,92542116000095,,female,217587943.0
+19381.0,1689.04,39899,tegna inc,0,1,0,0,20161209,mcclelland clifton a. iii,92542116000195,"VP, Cntlr. and Prin. Acc. Off.",male,214416511.0
+30034.0,8029.78,39899,tegna inc,1,1,0,0,20161222,martore gracia c,92542116000203,President and CEO,female,214416511.0
+22462.0,1689.04,39899,tegna inc,0,1,0,0,20170104,mcclelland clifton a. iii,92542117000023,"VP, Cntlr. and Prin. Acc. Off.",male,214500000.0
+26455.0,1485.7,39899,tegna inc,0,1,0,0,20170104,behan william a.,92542117000017,"Sr VP, Labor Relations",male,214500000.0
+109346.0,2543.7,39899,tegna inc,0,1,0,0,20170104,harker victoria d,92542117000018,"EVP, CFO",female,214500000.0
+38065.0,29.13,39899,tegna inc,0,1,0,0,20170104,lord kevin e,92542117000019,"SVP, Chief HR Officer",male,214500000.0
+121760.0,1462.51,39899,tegna inc,0,1,0,0,20170104,lougee david t,92542117000020,"President, TEGNA Media",male,214500000.0
+58209.0,8029.78,39899,tegna inc,1,1,0,0,20170104,martore gracia c,92542117000021,President and CEO,female,214500000.0
+56250.0,9877.05,39899,tegna inc,0,1,0,0,20170104,mayman todd a.,92542117000022,"EVP, Chief Legal and Admin Off",male,214500000.0
+86412.0,15198.87,39899,tegna inc,0,1,0,0,20170104,williams john a,92542117000024,"President, TEGNA Digital",male,214500000.0
+137887.0,1462.51,39899,tegna inc,0,1,0,0,20170201,lougee david t,92542117000065,"President, TEGNA Media",male,214716069.0
+132642.0,8029.78,39899,tegna inc,1,1,0,0,20170201,martore gracia c,92542117000064,President and CEO,female,214716069.0
+24595.0,1689.04,39899,tegna inc,0,1,0,0,20170201,mcclelland clifton a. iii,92542117000067,"VP, Cntlr. and Prin. Acc. Off.",male,214716069.0
+98763.0,15198.87,39899,tegna inc,0,1,0,0,20170201,williams john a,92542117000068,"President, TEGNA Digital",male,214716069.0
+129908.0,2543.7,39899,tegna inc,0,1,0,0,20170201,harker victoria d,92542117000063,"EVP, CFO",female,214716069.0
+32649.0,1485.7,39899,tegna inc,0,1,0,0,20170201,behan william a.,92542117000062,"Sr VP, Labor Relations",male,214716069.0
+67804.0,9877.05,39899,tegna inc,0,1,0,0,20170201,mayman todd a.,92542117000066,"EVP, Chief Legal and Admin Off",male,214716069.0
+95423.0,15198.87,39899,tegna inc,0,1,0,0,20170301,williams john a,92542117000127,"President, TEGNA Digital",male,214716069.0
+10000.0,,39899,tegna inc,1,0,0,0,20170301,elias howard d,92542117000125,,male,214716069.0
+56250.0,9877.05,39899,tegna inc,0,1,0,0,20170301,mayman todd a.,92542117000126,"EVP, Chief Legal and Admin Off",male,214716069.0
+8005.0,1485.7,39899,tegna inc,0,1,0,0,20170308,behan william a.,92542117000152,"SVP, Labor Relations",male,214716069.0
+16091.0,,39899,tegna inc,1,0,0,0,20170502,ness susan,92542117000170,,female,214789597.0
+33151.0,,39899,tegna inc,1,0,0,0,20170502,magner marjorie,92542117000171,,female,214789597.0
+9009.0,,39899,tegna inc,1,0,0,0,20170502,fonseca lidia,92542117000172,,female,214789597.0
+5606.0,,39899,tegna inc,1,0,0,0,20170502,nolop bruce p,92542117000169,,male,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,magner marjorie,92542117000203,,female,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,shapiro neal,92542117000208,,male,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,nolop bruce p,92542117000207,,male,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,ness susan,92542117000206,,female,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,mcgee henry wadsworth iii,92542117000205,,male,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,mccune scott k,92542117000204,,male,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,greenthal jill a,92542117000202,,female,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,fonseca lidia,92542117000201,,female,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,elias howard d,92542117000200,,male,214789597.0
+,,39899,tegna inc,1,0,0,0,20170505,dulski jennifer,92542117000199,,female,214789597.0
+,,39899,tegna inc,1,1,0,0,20170613,lougee david t,92542117000260,President and CEO,male,214789597.0
+,,39899,tegna inc,0,1,0,0,20170613,trelstad lynn b.,92542117000261,EVP and COO - Media Operations,female,214789597.0
+19420.0,,39899,tegna inc,0,1,0,0,20171113,mayman todd a.,92542117000379,"EVP, Chief Legal and Admin Off",male,215205823.0
+24595.0,1689.04,39899,tegna inc,0,1,0,0,20171208,mcclelland clifton a. iii,92542117000388,"SVP, Cntlr and Prin. Acc. Off.",male,215205823.0
+,,39899,tegna inc,1,0,0,0,20171214,witmer melinda,92542117000392,,female,215205823.0
+2856.0,4526.88,39899,tegna inc,0,1,0,0,20180103,trelstad lynn b.,92542118000020,EVP and COO - Media Operations,female,214900000.0
+28986.0,2270.51,39899,tegna inc,0,1,0,0,20180103,mcclelland clifton a. iii,92542118000018,"SVP, Cntlr and Prin. Acc. Off.",male,214900000.0
+166273.0,2114.22,39899,tegna inc,1,1,0,0,20180103,lougee david t,92542118000016,President and CEO,male,214900000.0
+155096.0,3171.23,39899,tegna inc,0,1,0,0,20180103,harker victoria d,92542118000014,"EVP, CFO",female,214900000.0
+35481.0,,39899,tegna inc,0,1,0,0,20180103,mayman todd a.,92542118000017,"EVP, Chief Legal and Admin Off",male,214900000.0
+3112.0,4526.88,39899,tegna inc,0,1,0,0,20180123,trelstad lynn b.,92542118000040,EVP and COO - Media Operations,female,214900000.0
+29465.0,2270.51,39899,tegna inc,0,1,0,0,20180123,mcclelland clifton a. iii,92542118000041,"SVP, Cntlr and Prin. Acc. Off.",male,214900000.0
+53260.0,120.37,39899,tegna inc,0,1,0,0,20180123,mayman todd a.,92542118000042,"EVP, Chief Legal and Admin Off",male,214900000.0
+170614.0,2114.22,39899,tegna inc,1,1,0,0,20180123,lougee david t,92542118000043,President and CEO,male,214900000.0
+159425.0,3171.23,39899,tegna inc,0,1,0,0,20180123,harker victoria d,92542118000044,"EVP, CFO",female,214900000.0
+,,39899,tegna inc,0,1,0,0,20180205,harker victoria d,92542118000061,"EVP, CFO",female,215603092.0
+,,39899,tegna inc,1,1,0,0,20180205,lougee david t,92542118000060,President and CEO,male,215603092.0
+,,39899,tegna inc,0,1,0,0,20180205,mcclelland clifton a. iii,92542118000058,"SVP, Cntlr and Prin. Acc. Off.",male,215603092.0
+,,39899,tegna inc,0,1,0,0,20180205,mayman todd a.,92542118000059,"EVP, Chief Legal and Admin Off",male,215603092.0
+,,39899,tegna inc,1,0,0,0,20180223,epstein stuart j.,92542118000095,,male,215603092.0
+,,39899,tegna inc,1,0,0,0,20180228,bianchini gina l,92542118000099,,female,215603092.0
+,,39899,tegna inc,1,1,0,0,20180305,lougee david t,92542118000107,President and CEO,male,215603092.0
+,,39899,tegna inc,0,1,0,0,20180305,harker victoria d,92542118000108,"EVP, CFO",female,215603092.0
+,,39899,tegna inc,0,1,0,0,20180305,mayman todd a.,92542118000109,"EVP, Chief Legal and Admin Off",male,215603092.0
+,,39899,tegna inc,0,1,0,0,20180305,mcclelland clifton a. iii,92542118000110,"SVP, Cntlr and Prin. Acc. Off.",male,215603092.0
+,,39899,tegna inc,0,1,0,0,20180305,trelstad lynn b.,92542118000111,EVP and COO - Media Operations,female,215603092.0
+0.0,4526.88,39899,tegna inc,0,1,0,0,20180309,trelstad lynn b.,92542118000137,EVP and COO - Media Operations,female,215603092.0
+2250.0,,39899,tegna inc,1,0,0,0,20180316,shapiro neal,92542118000146,,male,215603092.0
+19485.0,,39899,tegna inc,1,0,0,0,20180316,mccune scott k,92542118000147,,male,215603092.0
+12565.0,,39899,tegna inc,1,0,0,0,20180420,elias howard d,92542118000173,,male,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,elias howard d,92542118000192,,male,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,epstein stuart j.,92542118000191,,male,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,fonseca lidia,92542118000190,,female,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,mccune scott k,92542118000189,,male,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,bianchini gina l,92542118000193,,female,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,ness susan,92542118000187,,female,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,nolop bruce p,92542118000186,,male,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,shapiro neal,92542118000185,,male,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,witmer melinda,92542118000184,,female,215679758.0
+,,39899,tegna inc,1,0,0,0,20180427,mcgee henry wadsworth iii,92542118000188,,male,215679758.0
+13701.0,,39899,tegna inc,1,0,0,0,20180503,nolop bruce p,92542118000200,,male,215679758.0
+27580.0,,39899,tegna inc,1,0,0,0,20180503,mccune scott k,92542118000201,,male,215679758.0
+17104.0,,39899,tegna inc,1,0,0,0,20180503,fonseca lidia,92542118000202,,female,215679758.0
+1585.0,,39899,tegna inc,1,0,0,0,20180503,epstein stuart j.,92542118000203,,male,215679758.0
+20660.0,,39899,tegna inc,1,0,0,0,20180503,elias howard d,92542118000204,,male,215679758.0
+1510.0,,39899,tegna inc,1,0,0,0,20180503,bianchini gina l,92542118000205,,female,215679758.0
+174339.0,2114.22,39899,tegna inc,1,1,0,0,20180829,lougee david t,92542118000304,President and CEO,male,215266835.0
+31375.0,2270.51,39899,tegna inc,0,1,0,0,20181207,mcclelland clifton a. iii,92542118000346,"SVP, Cntlr and Prin. Acc. Off.",male,215302010.0
+180814.0,4054.6,39899,tegna inc,0,1,0,0,20190103,harker victoria d,92542119000010,"EVP, CFO",female,215800000.0
+69908.0,814.98,39899,tegna inc,0,1,0,0,20190103,mayman todd a.,92542119000008,"EVP, Chief Legal and Admin Off",male,215800000.0
+195552.0,2971.41,39899,tegna inc,1,1,0,0,20190103,lougee david t,92542119000009,President and CEO,male,215800000.0
+35745.0,3197.08,39899,tegna inc,0,1,0,0,20190103,mcclelland clifton a. iii,92542119000006,"SVP, Cntlr and Prin. Acc. Off.",male,215800000.0
+1851.0,6378.33,39899,tegna inc,0,1,0,0,20190103,trelstad lynn b.,92542119000007,EVP and COO - Media Operations,female,215800000.0
+1967.0,6378.33,39899,tegna inc,0,1,0,0,20190129,trelstad lynn b.,92542119000022,EVP and COO - Media Operations,female,215800000.0
+36066.0,3197.08,39899,tegna inc,0,1,0,0,20190129,mcclelland clifton a. iii,92542119000023,"SVP, Cntlr and Prin. Acc. Off.",male,215800000.0
+197776.0,2971.41,39899,tegna inc,1,1,0,0,20190129,lougee david t,92542119000024,President and CEO,male,215800000.0
+15014.0,886.18,39899,tegna inc,0,1,0,0,20190129,harrison akinyale s.,92542119000025,"SVP, General Counsel and Sec.",male,215800000.0
+182922.0,4054.6,39899,tegna inc,0,1,0,0,20190129,harker victoria d,92542119000026,"EVP, CFO",female,215800000.0
+,,39899,tegna inc,0,1,0,0,20190205,trelstad lynn b.,92542119000032,EVP and COO - Media Operations,female,215801306.0
+,,39899,tegna inc,0,1,0,0,20190205,mcclelland clifton a. iii,92542119000033,"SVP, Cntlr and Prin. Acc. Off.",male,215801306.0
+,,39899,tegna inc,1,1,0,0,20190205,lougee david t,92542119000034,President and CEO,male,215801306.0
+,,39899,tegna inc,0,1,0,0,20190205,harrison akinyale s.,92542119000035,"SVP, General Counsel and Sec.",male,215801306.0
+,,39899,tegna inc,0,1,0,0,20190205,harker victoria d,92542119000036,"EVP, CFO",female,215801306.0
+190015.0,4054.6,39899,tegna inc,0,1,0,0,20190304,harker victoria d,92542119000067,"EVP, CFO",female,215801306.0
+16286.0,886.18,39899,tegna inc,0,1,0,0,20190304,harrison akinyale s.,92542119000066,"SVP, General Counsel and Sec.",male,215801306.0
+208612.0,2971.41,39899,tegna inc,1,1,0,0,20190304,lougee david t,92542119000065,President and CEO,male,215801306.0
+2712.0,6378.33,39899,tegna inc,0,1,0,0,20190304,trelstad lynn b.,92542119000063,EVP and COO - Media Operations,female,215801306.0
+37872.0,3197.08,39899,tegna inc,0,1,0,0,20190304,mcclelland clifton a. iii,92542119000064,"SVP, Cntlr and Prin. Acc. Off.",male,215801306.0
+2250.0,,39899,tegna inc,1,0,0,0,20190307,shapiro neal,92542119000106,,male,215801306.0
+25970.0,,39899,tegna inc,1,0,0,0,20190312,elias howard d,92542119000111,,male,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,ness susan,92542119000171,,female,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,bianchini gina l,92542119000177,,female,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,elias howard d,92542119000176,,male,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,epstein stuart j.,92542119000175,,male,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,fonseca lidia,92542119000174,,female,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,mccune scott k,92542119000173,,male,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,witmer melinda,92542119000168,,female,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,nolop bruce p,92542119000170,,male,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,shapiro neal,92542119000169,,male,215801306.0
+,,39899,tegna inc,1,0,0,0,20190429,mcgee henry wadsworth iii,92542119000172,,male,215801306.0
+13178.0,,39899,tegna inc,1,0,0,0,20190503,bianchini gina l,92542119000191,,female,216350179.0
+13253.0,,39899,tegna inc,1,0,0,0,20190503,epstein stuart j.,92542119000190,,male,216350179.0
+28772.0,,39899,tegna inc,1,0,0,0,20190503,fonseca lidia,92542119000189,,female,216350179.0
+27759.0,,39899,tegna inc,1,0,0,0,20190503,ness susan,92542119000187,,female,216350179.0
+25369.0,,39899,tegna inc,1,0,0,0,20190503,nolop bruce p,92542119000186,,male,216350179.0
+39248.0,,39899,tegna inc,1,0,0,0,20190503,mccune scott k,92542119000188,,male,216350179.0
+0.0,,39899,tegna inc,0,1,0,0,20191119,harker victoria d,92542119000301,"EVP, CFO",female,216903652.0
+32451.0,,39899,tegna inc,1,0,0,0,20191209,elias howard d,92542119000305,,male,216903652.0
+17701.0,,39899,tegna inc,1,0,0,0,20191209,shapiro neal,92542119000304,,male,216903652.0
+5163.0,8127.52,39899,tegna inc,0,1,0,0,20200103,trelstad lynn b.,92542120000008,EVP and COO - Media Operations,female,217500000.0
+43276.0,4094.54,39899,tegna inc,0,1,0,0,20200103,mcclelland clifton a. iii,92542120000009,"SVP, Cntlr and Prin. Acc. Off.",male,217500000.0
+238000.0,3908.49,39899,tegna inc,1,1,0,0,20200103,lougee david t,92542120000010,President and CEO,male,217500000.0
+19785.0,1748.41,39899,tegna inc,0,1,0,0,20200103,harrison akinyale s.,92542120000011,"SVP, General Counsel and Sec.",male,217500000.0
+213856.0,,39899,tegna inc,0,1,0,0,20200103,harker victoria d,92542120000012,"EVP, CFO",female,217500000.0
+249492.0,,39899,tegna inc,0,1,0,0,20200129,harker victoria d,92542120000026,"EVP, CFO",female,217500000.0
+23044.0,1748.41,39899,tegna inc,0,1,0,0,20200129,harrison akinyale s.,92542120000025,"SVP, General Counsel and Sec.",male,217500000.0
+7146.0,8127.52,39899,tegna inc,0,1,0,0,20200129,trelstad lynn b.,92542120000022,EVP and COO - Media Operations,female,217500000.0
+48470.0,4094.54,39899,tegna inc,0,1,0,0,20200129,mcclelland clifton a. iii,92542120000023,"SVP, Cntlr and Prin. Acc. Off.",male,217500000.0
+305229.0,3908.49,39899,tegna inc,1,1,0,0,20200129,lougee david t,92542120000024,President and CEO,male,217500000.0
+,,39899,tegna inc,0,1,0,0,20200211,harker victoria d,92542120000040,"EVP, CFO",female,217815465.0
+,,39899,tegna inc,0,1,0,0,20200211,harrison akinyale s.,92542120000039,"SVP, General Counsel and Sec.",male,217815465.0
+,,39899,tegna inc,0,1,0,0,20200211,mcclelland clifton a. iii,92542120000037,"SVP, Cntlr and Prin. Acc. Off.",male,217815465.0
+,,39899,tegna inc,0,1,0,0,20200211,trelstad lynn b.,92542120000036,EVP and COO - Media Operations,female,217815465.0
+,,39899,tegna inc,1,1,0,0,20200211,lougee david t,92542120000038,President and CEO,male,217815465.0
+,,39899,tegna inc,false,true,false,false,20200220,mcclelland clifton a. iii,121465920001636,"SVP, Cntlr and Prin. Acc. Off.",male,217815465.0
+,,39899,tegna inc,false,true,false,false,20200220,harrison akinyale s.,121465920001637,"SVP, General Counsel and Sec.",male,217815465.0
+,,39899,tegna inc,false,true,false,false,20200220,harker victoria d,121465920001638,"EVP, CFO",female,217815465.0
+,,39899,tegna inc,false,true,false,false,20200220,trelstad lynn b.,121465920001639,"EVP and COO, Media Operations",female,217815465.0
+,,39899,tegna inc,true,true,false,false,20200220,lougee david t,121465920001640,President and CEO,male,217815465.0
+,,39899,tegna inc,true,false,false,false,20200221,grimes karen h.,121465920001694,,female,217815465.0
+263502.0,,39899,tegna inc,false,true,false,false,20200303,harker victoria d,121465920002192,"EVP, CFO",female,217815465.0
+26787.0,1748.41,39899,tegna inc,false,true,false,false,20200303,harrison akinyale s.,121465920002193,"SVP, General Counsel and Sec.",male,217815465.0
+328843.0,3908.49,39899,tegna inc,true,true,false,false,20200303,lougee david t,121465920002194,President and CEO,male,217815465.0
+8685.0,8127.52,39899,tegna inc,false,true,false,false,20200303,trelstad lynn b.,121465920002195,"EVP and COO, Media Operations",female,217815465.0
+52037.0,4094.54,39899,tegna inc,false,true,false,false,20200303,mcclelland clifton a. iii,121465920002196,"SVP, Cntlr and Prin. Acc. Off.",male,217815465.0
+21328.0,,39899,tegna inc,true,false,false,false,20200505,epstein stuart j.,121465920004091,,male,218530133.0
+47323.0,,39899,tegna inc,true,false,false,false,20200505,mccune scott k,121465920004093,,male,218530133.0
+35834.0,,39899,tegna inc,true,false,false,false,20200505,ness susan,121465920004094,,female,218530133.0
+33444.0,,39899,tegna inc,true,false,false,false,20200505,nolop bruce p,121465920004095,,male,218530133.0
+1117.0,,39899,tegna inc,true,false,false,false,20200505,grimes karen h.,121465920004092,,female,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,witmer melinda,121465920005219,,female,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,shapiro neal,121465920005218,,male,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,nolop bruce p,121465920005217,,male,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,mcgee henry wadsworth iii,121465920005215,,male,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,ness susan,121465920005216,,female,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,grimes karen h.,121465920005213,,female,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,fonseca lidia,121465920005212,,female,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,epstein stuart j.,121465920005211,,male,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,elias howard d,121465920005210,,male,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,bianchini gina l,121465920005209,,female,218530133.0
+,,39899,tegna inc,true,false,false,false,20200529,mccune scott k,121465920005214,,male,218530133.0
+27593.0,2522.23,39899,tegna inc,false,true,false,false,20210105,harrison akinyale s.,121465921000134,"SVP, General Counsel and Sec.",male,219500000.0
+268825.0,760.43,39899,tegna inc,false,true,false,false,20210105,harker victoria d,121465921000135,"EVP, CFO",female,219500000.0
+338701.0,4741.55,39899,tegna inc,true,true,false,false,20210105,lougee david t,121465921000136,President and CEO,male,219500000.0
+53281.0,4929.38,39899,tegna inc,false,true,false,false,20210105,mcclelland clifton a. iii,121465921000137,"SVP, Cntlr and Prin. Acc. Off.",male,219500000.0
+9305.0,9921.87,39899,tegna inc,false,true,false,false,20210105,trelstad lynn b.,121465921000138,"EVP and COO, Media Operations",female,219500000.0
+,,39899,tegna inc,false,true,false,false,20210203,trelstad lynn b.,121465921001244,"EVP and COO, Media Operations",female,219500000.0
+,,39899,tegna inc,true,true,false,false,20210203,lougee david t,121465921001242,President and CEO,male,219500000.0
+,,39899,tegna inc,false,true,false,false,20210203,harrison akinyale s.,121465921001241,"SVP, General Counsel and Sec.",male,219500000.0
+,,39899,tegna inc,false,true,false,false,20210203,mcclelland clifton a. iii,121465921001243,"SVP, Cntlr and Prin. Acc. Off.",male,219500000.0
+,,39899,tegna inc,false,true,false,false,20210203,harker victoria d,121465921001240,"EVP, CFO",female,219500000.0
+,,39899,tegna inc,false,true,false,false,20210222,harrison akinyale s.,121465921002244,"SVP, General Counsel and Sec.",male,219500000.0
+,,39899,tegna inc,true,true,false,false,20210222,lougee david t,121465921002245,President and CEO,male,219500000.0
+,,39899,tegna inc,false,true,false,false,20210222,mcclelland clifton a. iii,121465921002246,"SVP, Cntlr and Prin. Acc. Off.",male,219500000.0
+,,39899,tegna inc,false,true,false,false,20210222,harker victoria d,121465921002243,"EVP, CFO",female,219500000.0
+,,39899,tegna inc,false,true,false,false,20210222,trelstad lynn b.,121465921002242,"EVP and COO, Media Operations",female,219500000.0
+34506.0,2522.23,39899,tegna inc,false,true,false,false,20210302,harrison akinyale s.,121465921002626,"SVP, General Counsel and Sec.",male,219500000.0
+,,39899,tegna inc,true,true,false,false,20210302,lougee david t,121465921002627,President and CEO,male,219500000.0
+289108.0,760.43,39899,tegna inc,false,true,false,false,20210302,harker victoria d,121465921002628,"EVP, CFO",female,219500000.0
+57452.0,4929.38,39899,tegna inc,false,true,false,false,20210302,mcclelland clifton a. iii,121465921002629,"SVP, Cntlr and Prin. Acc. Off.",male,219500000.0
+11852.0,9921.87,39899,tegna inc,false,true,false,false,20210302,trelstad lynn b.,121465921002630,"EVP and COO, Media Operations",female,219500000.0
+39054.0,2522.23,39899,tegna inc,false,true,false,false,20210308,harrison akinyale s.,121465921002856,"SVP, General Counsel and Sec.",male,219500000.0
+62523.0,4929.38,39899,tegna inc,false,true,false,false,20210308,mcclelland clifton a. iii,121465921002852,"SVP, Cntlr and Prin. Acc. Off.",male,219500000.0
+,,39899,tegna inc,true,true,false,false,20210308,lougee david t,121465921002854,President and CEO,male,219500000.0
+14609.0,9921.87,39899,tegna inc,false,true,false,false,20210308,trelstad lynn b.,121465921002853,"EVP and COO, Media Operations",female,219500000.0
+335590.0,760.43,39899,tegna inc,false,true,false,false,20210308,harker victoria d,121465921002855,"EVP, CFO",female,219500000.0
+3631.0,,39899,tegna inc,true,false,false,false,20210409,witmer melinda,121465921004094,,female,219500000.0
+23588.0,,39899,tegna inc,true,false,false,false,20210504,bianchini gina l,121465921004907,,female,220773150.0
+11831.0,,39899,tegna inc,true,false,false,false,20210504,grimes karen h.,121465921004908,,female,220773150.0
+43854.0,,39899,tegna inc,true,false,false,false,20210504,nolop bruce p,121465921004906,,male,220773150.0
+46244.0,,39899,tegna inc,true,false,false,false,20210504,ness susan,121465921004904,,female,220773150.0
+57733.0,,39899,tegna inc,true,false,false,false,20210504,mccune scott k,121465921004903,,male,220773150.0
+39182.0,,39899,tegna inc,true,false,false,false,20210504,fonseca lidia,121465921004902,,female,220773150.0
+31738.0,,39899,tegna inc,true,false,false,false,20210504,epstein stuart j.,121465921004905,,male,220773150.0
+22647.0,,39899,tegna inc,true,false,false,false,20210511,shapiro neal,121465921005208,,male,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,witmer melinda,121465921005832,,female,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,shapiro neal,121465921005831,,male,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,nolop bruce p,121465921005830,,male,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,mcgee henry wadsworth iii,121465921005828,,male,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,ness susan,121465921005829,,female,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,grimes karen h.,121465921005826,,female,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,fonseca lidia,121465921005825,,female,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,epstein stuart j.,121465921005824,,male,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,elias howard d,121465921005823,,male,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,bianchini gina l,121465921005822,,female,220773150.0
+,,39899,tegna inc,true,false,false,false,20210521,mccune scott k,121465921005827,,male,220773150.0
+,,39899,tegna inc,false,true,false,false,20220203,trelstad lynn b.,121465922001826,"EVP and COO, Media Operations",female,221400000.0
+,,39899,tegna inc,false,true,false,false,20220203,mcclelland clifton a. iii,121465922001827,"SVP, Cntlr and Prin. Acc. Off.",male,221400000.0
+,,39899,tegna inc,false,true,false,false,20220203,harker victoria d,121465922001828,"EVP, CFO",female,221400000.0
+,,39899,tegna inc,false,true,false,false,20220203,harrison akinyale s.,121465922001829,SVP and General Counsel,male,221400000.0
+,,39899,tegna inc,true,true,false,false,20220203,lougee david t,121465922001830,President and CEO,male,221400000.0
+,,39899,tegna inc,false,true,false,false,20220225,mcclelland clifton a. iii,121465922003243,"SVP, Cntlr and Prin. Acc. Off.",male,221400000.0
+,,39899,tegna inc,false,true,false,false,20220225,harker victoria d,121465922003242,"EVP, CFO",female,221400000.0
+,,39899,tegna inc,true,true,false,false,20220225,lougee david t,121465922003240,President and CEO,male,221400000.0
+,,39899,tegna inc,false,true,false,false,20220225,harrison akinyale s.,121465922003241,SVP and General Counsel,male,221400000.0
+,,39899,tegna inc,false,true,false,false,20220225,trelstad lynn b.,121465922003239,"EVP and COO, Media Operations",female,221400000.0
+21200.0,11711.24,39899,tegna inc,false,true,false,false,20220302,trelstad lynn b.,121465922003518,"EVP and COO, Media Operations",female,221400000.0
+73637.0,5799.46,39899,tegna inc,false,true,false,false,20220302,mcclelland clifton a. iii,121465922003520,"SVP, Cntlr and Prin. Acc. Off.",male,221400000.0
+661936.0,5812.55,39899,tegna inc,true,true,false,false,20220302,lougee david t,121465922003521,President and CEO,male,221400000.0
+65464.0,3359.0,39899,tegna inc,false,true,false,false,20220302,harrison akinyale s.,121465922003522,SVP and General Counsel,male,221400000.0
+407562.0,1643.57,39899,tegna inc,false,true,false,false,20220302,harker victoria d,121465922003523,"EVP, CFO",female,221400000.0
+16028.0,,39899,tegna inc,true,false,false,false,20220405,witmer melinda,121465922004848,,female,221400000.0
+38456.512,,39899,tegna inc,true,false,false,false,20220503,epstein stuart j.,121465922006205,,male,222851730.0
+18549.512,,39899,tegna inc,true,false,false,false,20220503,grimes karen h.,121465922006204,,female,222851730.0
+64451.512,,39899,tegna inc,true,false,false,false,20220503,mccune scott k,121465922006203,,male,222851730.0
+50572.512,,39899,tegna inc,true,false,false,false,20220503,nolop bruce p,121465922006201,,male,222851730.0
+52962.512,,39899,tegna inc,true,false,false,false,20220503,ness susan,121465922006202,,female,222851730.0
+30306.512,,39899,tegna inc,true,false,false,false,20220503,bianchini gina l,121465922006200,,female,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,epstein stuart j.,121465922008474,,male,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,elias howard d,121465922008473,,male,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,witmer melinda,121465922008481,,female,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,nolop bruce p,121465922008479,,male,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,bianchini gina l,121465922008472,,female,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,mccune scott k,121465922008477,,male,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,grimes karen h.,121465922008476,,female,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,fonseca lidia,121465922008475,,female,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,mcgee henry wadsworth iii,121465922008478,,male,222851730.0
+,,39899,tegna inc,true,false,false,false,20220630,shapiro neal,121465922008480,,male,222851730.0
+,,39899,tegna inc,false,true,false,false,20230203,mcclelland clifton a. iii,121465923001620,"SVP, Cntlr and Prin. Acc. Off.",male,223400000.0
+,,39899,tegna inc,false,true,false,false,20230203,harker victoria d,121465923001621,"EVP, CFO",female,223400000.0
+,,39899,tegna inc,true,true,false,false,20230203,lougee david t,121465923001622,President and CEO,male,223400000.0
+,,39899,tegna inc,false,true,false,false,20230203,trelstad lynn b.,121465923001623,"EVP and COO, Media Operations",female,223400000.0
+,,39899,tegna inc,false,true,false,false,20230203,harrison akinyale s.,121465923001624,SVP and General Counsel,male,223400000.0
+85762.0,6471.57,39899,tegna inc,false,true,false,false,20230302,mcclelland clifton a. iii,121465923003475,"SVP, Cntlr and Prin. Acc. Off.",male,223400000.0
+886262.0,6492.51,39899,tegna inc,true,true,false,false,20230302,lougee david t,121465923003476,President and CEO,male,223400000.0
+100219.0,3999.51,39899,tegna inc,false,true,false,false,20230302,harrison akinyale s.,121465923003474,SVP and General Counsel,male,223400000.0
+28634.0,13072.37,39899,tegna inc,false,true,false,false,20230302,trelstad lynn b.,121465923003472,"EVP and COO, Media Operations",female,223400000.0
+475596.0,2252.65,39899,tegna inc,false,true,false,false,20230302,harker victoria d,121465923003473,"EVP, CFO",female,223400000.0
+24604.0,,39899,tegna inc,true,false,false,false,20230404,witmer melinda,121465923004930,,female,223400000.0
+44495.902,,39899,tegna inc,true,false,false,false,20230502,epstein stuart j.,121465923006353,,male,225028376.0
+45221.39,,39899,tegna inc,true,false,false,false,20230502,fonseca lidia,121465923006352,,female,225028376.0
+70490.902,,39899,tegna inc,true,false,false,false,20230502,mccune scott k,121465923006351,,male,225028376.0
+24588.902,,39899,tegna inc,true,false,false,false,20230502,grimes karen h.,121465923006350,,female,225028376.0
+56611.902,,39899,tegna inc,true,false,false,false,20230502,nolop bruce p,121465923006349,,male,225028376.0
+,,39899,tegna inc,true,true,false,false,20230524,lougee david t,121465923007787,President and CEO,male,225028376.0
+,,39899,tegna inc,false,true,false,false,20230524,harker victoria d,121465923007788,"EVP, CFO",female,225028376.0
+,,39899,tegna inc,false,true,false,false,20230524,trelstad lynn b.,121465923007789,"EVP and COO, Media Operations",female,225028376.0
+,,39899,tegna inc,false,true,false,false,20230524,harrison akinyale s.,121465923007790,SVP and General Counsel,male,225028376.0
+,,39899,tegna inc,false,true,false,false,20230524,mcclelland clifton a. iii,121465923007791,"SVP, Cntlr and Prin. Acc. Off.",male,225028376.0
+,,39899,tegna inc,false,true,false,false,20230809,trelstad lynn b.,121465923010937,"EVP and COO, Media Operations",female,201522005.0
+,,39899,tegna inc,false,true,false,false,20230809,mcclelland clifton a. iii,121465923010938,"SVP, Cntlr and Prin. Acc. Off.",male,201522005.0
+,,39899,tegna inc,true,true,false,false,20230809,lougee david t,121465923010939,President and CEO,male,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,grimes karen h.,121465923011636,,female,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,witmer melinda,121465923011635,,female,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,epstein stuart j.,121465923011634,,male,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,bianchini gina l,121465923011633,,female,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,elias howard d,121465923011632,,male,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,shapiro neal,121465923011631,,male,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,mcgee henry wadsworth iii,121465923011630,,male,201522005.0
+,,39899,tegna inc,true,false,false,false,20230823,mccune scott k,121465923011629,,male,201522005.0
+22043.0,14512.45,39899,tegna inc,false,true,false,false,20230831,trelstad lynn b.,121465923011903,"EVP and COO, Media Operations",female,201522005.0
+786262.0,7080.82,39899,tegna inc,true,true,false,false,20231204,lougee david t,121465923015975,President and CEO,male,196967937.0
+,,39899,tegna inc,false,true,false,false,20231205,fisher newberg lauren,121465923016051,SVP and Chief Legal Officer,male,196967937.0
+0.0,,39899,tegna inc,true,false,false,false,20240112,elias howard d,121465924000725,,male,179900000.0
+,,39899,tegna inc,false,true,false,false,20240202,heskett julie,121465924001799,SVP and CFO,female,179900000.0
+,,39899,tegna inc,false,true,false,false,20240202,trelstad lynn b.,121465924001800,"EVP and COO, Media Operations",female,179900000.0
+,,39899,tegna inc,true,true,false,false,20240202,lougee david t,121465924001801,President and CEO,male,179900000.0
+,,39899,tegna inc,false,true,false,false,20240202,mcclelland clifton a. iii,121465924001802,"SVP, Cntlr and Prin. Acc. Off.",male,179900000.0
+636262.0,7323.02,39899,tegna inc,true,true,false,false,20240206,lougee david t,121465924002020,President and CEO,male,179900000.0
+,,39899,tegna inc,true,true,false,false,20240223,lougee david t,121465924003468,President and CEO,male,179900000.0
+,,39899,tegna inc,false,true,false,false,20240223,trelstad lynn b.,121465924003467,"EVP and COO, Media Operations",female,179900000.0
+,,39899,tegna inc,false,true,false,false,20240223,mcclelland clifton a. iii,121465924003469,"SVP, Cntlr and Prin. Acc. Off.",male,179900000.0
+,,39899,tegna inc,false,true,false,false,20240223,heskett julie,121465924003470,SVP and CFO,female,179900000.0
+27384.0,15133.09,39899,tegna inc,false,true,false,false,20240304,trelstad lynn b.,121465924004034,"EVP and COO, Media Operations",female,179900000.0
+98958.0,9302.97,39899,tegna inc,false,true,false,false,20240304,cox thomas r.,121465924004035,See Remarks,male,179900000.0
+21643.0,8560.25,39899,tegna inc,false,true,false,false,20240304,heskett julie,121465924004036,SVP and CFO,female,179900000.0
+769401.0,7532.52,39899,tegna inc,true,true,false,false,20240304,lougee david t,121465924004038,President and CEO,male,179900000.0
+8478.0,798.228,39899,tegna inc,false,true,false,false,20240304,fisher newberg lauren,121465924004040,SVP and Chief Legal Officer,male,179900000.0
+96695.0,7504.24,39899,tegna inc,false,true,false,false,20240304,mcclelland clifton a. iii,121465924004041,"SVP, Cntlr and Prin. Acc. Off.",male,179900000.0
+1.0,847.052,39899,tegna inc,false,true,false,false,20240319,fisher newberg lauren,121465924004819,SVP and Chief Legal Officer,male,179900000.0
+725651.0,8131.98,39899,tegna inc,true,true,false,false,20240402,lougee david t,121465924005890,President and CEO,male,179900000.0
+35827.0,,39899,tegna inc,true,false,false,false,20240403,witmer melinda,121465924006070,,female,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,elias howard d,121465924007732,,male,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,bianchini gina l,121465924007733,,female,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,grimes karen h.,121465924007734,,female,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,epstein stuart j.,121465924007735,,male,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,shapiro neal,121465924007736,,male,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,mccune scott k,121465924007737,,male,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,mcgee henry wadsworth iii,121465924007738,,male,179900000.0
+,,39899,tegna inc,true,false,false,false,20240429,witmer melinda,121465924007739,,female,179900000.0
+45226.0,,39899,tegna inc,true,false,false,false,20240503,witmer melinda,121465924008313,,female,169605246.0
+9398.57,,39899,tegna inc,true,false,false,false,20240503,elias howard d,121465924008314,,male,169605246.0
+39705.082,,39899,tegna inc,true,false,false,false,20240503,bianchini gina l,121465924008315,,female,169605246.0
+53894.472,,39899,tegna inc,true,false,false,false,20240503,epstein stuart j.,121465924008312,,male,169605246.0
+79889.472,,39899,tegna inc,true,false,false,false,20240503,mccune scott k,121465924008317,,male,169605246.0
+32045.57,,39899,tegna inc,true,false,false,false,20240503,shapiro neal,121465924008318,,male,169605246.0
+33987.472,,39899,tegna inc,true,false,false,false,20240503,grimes karen h.,121465924008316,,female,169605246.0
+42602.0,8363.27,39899,tegna inc,false,true,false,false,20240515,mcclelland clifton a. iii,121465924009349,"SVP, Cntlr and Prin. Acc. Off.",male,169605246.0
+692838.0,8129.61,39899,tegna inc,true,true,false,false,20240520,lougee david t,121465924009653,President and CEO,male,169605246.0
+119777.072,10098.144,39899,tegna inc,false,true,false,false,20240604,cox thomas r.,121465924010541,See Remarks,male,169605246.0
+43750.681,9129.845,39899,tegna inc,false,true,false,false,20240604,heskett julie,121465924010542,SVP and CFO,female,169605246.0
+190474.0,43522.128,39899,tegna inc,false,true,false,false,20240610,trelstad lynn b.,121465924010760,"EVP and COO, Media Operations",female,169605246.0
+594401.0,8202.207,39899,tegna inc,true,true,false,false,20240702,lougee david t,121465924011879,President and CEO,male,169605246.0
+50111.221,8437.956,39899,tegna inc,false,true,false,false,20240808,mcclelland clifton a. iii,121465924014119,"SVP, Cntlr and Prin. Acc. Off.",male,165432173.0
+31438.692,16358.955000000002,39899,tegna inc,false,true,false,false,20240808,trelstad lynn b.,121465924014117,"EVP and COO, Media Operations",female,165432173.0
+654473.678,8202.207,39899,tegna inc,true,true,false,false,20240808,lougee david t,121465924014118,President and CEO,male,165432173.0
+0.0,,39899,tegna inc,true,false,false,false,20240819,dunleavy catherine,121465924014966,,female,165432173.0
+0.0,,39899,tegna inc,true,false,false,false,20240819,dunleavy catherine,121465924014968,,female,165432173.0
+,,39899,tegna inc,true,true,false,false,20240904,steib michael f,121465924016055,President and CEO,male,165432173.0
+,,39899,tegna inc,true,false,false,false,20240904,west denmark,121465924016056,,male,165432173.0
+,,39899,tegna inc,true,false,false,false,20240904,dunleavy catherine,121465924016057,,female,165432173.0
+179616.535,48313.837,39899,tegna inc,false,true,false,false,20240916,trelstad lynn b.,121465924016450,"EVP and COO, Media Operations",female,165432173.0
+154616.535,48448.111,39899,tegna inc,false,true,false,false,20241028,trelstad lynn b.,121465924018005,"EVP and COO, Media Operations",female,165432173.0
+,,39899,tegna inc,false,true,false,false,20241204,tolston alex j,121465924019984,SVP and Chief Legal Officer,male,161121748.0
+41904.072,10269.392,39899,tegna inc,false,true,false,false,20241210,cox thomas r.,121465924020192,See Remarks,male,161121748.0
+23750.681,9530.332,39899,tegna inc,false,true,false,false,20241210,heskett julie,121465924020191,SVP and CFO,female,161121748.0

@@ -1,458 +1,895 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-965.0,0.0,875045,biogen idec inc.,1.0,,,,20100106,dorsa caroline,112760210000802,,female,274855.0
-23260.9467,0.0,875045,biogen idec inc.,,1.0,,,20100119,maclean michael f,112760210001737,"SVP, Chief Accounting Officer",male,274855.0
-95886.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100217,mullen james c,112760210005082,CEO & President,male,269601262.0
-24063.7486,460.0,875045,biogen idec inc.,,1.0,,,20100217,schneier craig eric,112760210005084,"EVP, HR, Public Affairs & Comm",male,269601262.0
-21258.9467,0.0,875045,biogen idec inc.,,1.0,,,20100217,maclean michael f,112760210005086,"SVP, Chief Accounting Officer",male,269601262.0
-29527.41,0.0,875045,biogen idec inc.,,1.0,,,20100217,hamm robert a,112760210005088,Chief Operating Officer,male,269601262.0
-41137.0,0.0,875045,biogen idec inc.,,1.0,,,20100217,clancy paul j,112760210005089,Executive VP and CFO,male,269601262.0
-34818.0,0.0,875045,biogen idec inc.,,1.0,,,20100217,alexander susan h,112760210005091,"EVP, General Counsel",female,269601262.0
-22946.41,0.0,875045,biogen idec inc.,,1.0,,,20100219,hamm robert a,112760210005573,Chief Operating Officer,male,269601262.0
-17511.7486,460.0,875045,biogen idec inc.,,1.0,,,20100219,schneier craig eric,112760210005571,"EVP, HR, Public Affairs & Comm",male,269601262.0
-48985.0,0.0,875045,biogen idec inc.,,1.0,,,20100225,clancy paul j,112760210006328,Executive VP and CFO,male,269601262.0
-24398.9467,0.0,875045,biogen idec inc.,,1.0,,,20100225,maclean michael f,112760210006329,"SVP, Chief Accounting Officer",male,269601262.0
-24836.7486,460.0,875045,biogen idec inc.,,1.0,,,20100225,schneier craig eric,112760210006330,"EVP, HR, Public Affairs & Comm",male,269601262.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20100225,lytton michael,112760210006331,EVP Corporate & Business Devel,male,269601262.0
-30271.41,0.0,875045,biogen idec inc.,,1.0,,,20100225,hamm robert a,112760210006333,Chief Operating Officer,male,269601262.0
-42143.0,0.0,875045,biogen idec inc.,,1.0,,,20100225,alexander susan h,112760210006334,"EVP, General Counsel",female,269601262.0
-131149.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100301,mullen james c,112760210006558,CEO & President,male,269601262.0
-20581.7486,460.0,875045,biogen idec inc.,,1.0,,,20100304,schneier craig eric,112760210007465,"EVP, HR, Public Affairs & Comm",male,269601262.0
-18869.0,0.0,875045,biogen idec inc.,,1.0,,,20100304,lytton michael,112760210007464,EVP Corporate & Business Devel,male,269601262.0
-20313.9467,0.0,875045,biogen idec inc.,,1.0,,,20100323,maclean michael f,112760210009326,"SVP, Chief Accounting Officer",male,269601262.0
-131149.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100323,mullen james c,112760210009327,CEO & President,male,269601262.0
-500.0,0.0,875045,biogen idec inc.,1.0,,,,20100324,sherwin stephen a,112760210009432,,male,269601262.0
-500.0,0.0,875045,biogen idec inc.,1.0,,,,20100324,rowinsky eric k,112760210009434,,male,269601262.0
-29256.41,0.0,875045,biogen idec inc.,,1.0,,,20100405,hamm robert a,112760210010452,Chief Operating Officer,male,269601262.0
-27212.41,0.0,875045,biogen idec inc.,,1.0,,,20100426,hamm robert a,112760210012025,Chief Operating Officer,male,266998007.0
-1152.0,0.0,875045,biogen idec inc.,1.0,,,,20100503,dorsa caroline,112760210012742,,female,266998007.0
-1347.0,0.0,875045,biogen idec inc.,1.0,,,,20100517,dorsa caroline,112760210014480,,female,266998007.0
-1555.0,0.0,875045,biogen idec inc.,1.0,,,,20100601,dorsa caroline,112760210015693,,female,266998007.0
-47732.0,0.0,875045,biogen idec inc.,,1.0,,,20100603,clancy paul j,112760210016282,Executive VP and CFO,male,266998007.0
+965.0,,875045,biogen idec inc.,1.0,,,,20100106,dorsa caroline,112760210000802,,female,
+23260.9467,,875045,biogen idec inc.,,1.0,,,20100119,maclean michael f,112760210001737,"SVP, Chief Accounting Officer",male,
+95886.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100217,mullen james c,112760210005082,CEO & President,male,
+24063.7486,460.0,875045,biogen idec inc.,,1.0,,,20100217,schneier craig eric,112760210005084,"EVP, HR, Public Affairs & Comm",male,
+21258.9467,,875045,biogen idec inc.,,1.0,,,20100217,maclean michael f,112760210005086,"SVP, Chief Accounting Officer",male,
+29527.41,,875045,biogen idec inc.,,1.0,,,20100217,hamm robert a,112760210005088,Chief Operating Officer,male,
+41137.0,,875045,biogen idec inc.,,1.0,,,20100217,clancy paul j,112760210005089,Executive VP and CFO,male,
+34818.0,,875045,biogen idec inc.,,1.0,,,20100217,alexander susan h,112760210005091,"EVP, General Counsel",female,
+17511.7486,460.0,875045,biogen idec inc.,,1.0,,,20100219,schneier craig eric,112760210005571,"EVP, HR, Public Affairs & Comm",male,
+22946.41,,875045,biogen idec inc.,,1.0,,,20100219,hamm robert a,112760210005573,Chief Operating Officer,male,
+48985.0,,875045,biogen idec inc.,,1.0,,,20100225,clancy paul j,112760210006328,Executive VP and CFO,male,
+24398.9467,,875045,biogen idec inc.,,1.0,,,20100225,maclean michael f,112760210006329,"SVP, Chief Accounting Officer",male,
+24836.7486,460.0,875045,biogen idec inc.,,1.0,,,20100225,schneier craig eric,112760210006330,"EVP, HR, Public Affairs & Comm",male,
+,,875045,biogen idec inc.,,1.0,,,20100225,lytton michael,112760210006331,EVP Corporate & Business Devel,male,
+30271.41,,875045,biogen idec inc.,,1.0,,,20100225,hamm robert a,112760210006333,Chief Operating Officer,male,
+42143.0,,875045,biogen idec inc.,,1.0,,,20100225,alexander susan h,112760210006334,"EVP, General Counsel",female,
+131149.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100301,mullen james c,112760210006558,CEO & President,male,
+18869.0,,875045,biogen idec inc.,,1.0,,,20100304,lytton michael,112760210007464,EVP Corporate & Business Devel,male,
+20581.7486,460.0,875045,biogen idec inc.,,1.0,,,20100304,schneier craig eric,112760210007465,"EVP, HR, Public Affairs & Comm",male,
+20313.9467,,875045,biogen idec inc.,,1.0,,,20100323,maclean michael f,112760210009326,"SVP, Chief Accounting Officer",male,
+131149.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100323,mullen james c,112760210009327,CEO & President,male,
+500.0,,875045,biogen idec inc.,1.0,,,,20100324,rowinsky eric k,112760210009434,,male,
+500.0,,875045,biogen idec inc.,1.0,,,,20100324,sherwin stephen a,112760210009432,,male,
+29256.41,,875045,biogen idec inc.,,1.0,,,20100405,hamm robert a,112760210010452,Chief Operating Officer,male,
+27212.41,,875045,biogen idec inc.,,1.0,,,20100426,hamm robert a,112760210012025,Chief Operating Officer,male,266998007.0
+1152.0,,875045,biogen idec inc.,1.0,,,,20100503,dorsa caroline,112760210012742,,female,266998007.0
+1347.0,,875045,biogen idec inc.,1.0,,,,20100517,dorsa caroline,112760210014480,,female,266998007.0
+1555.0,,875045,biogen idec inc.,1.0,,,,20100601,dorsa caroline,112760210015693,,female,266998007.0
+47732.0,,875045,biogen idec inc.,,1.0,,,20100603,clancy paul j,112760210016282,Executive VP and CFO,male,266998007.0
+10030.0,,875045,biogen idec inc.,1.0,,,,20100610,papadopoulos stelios,112760210016987,,male,266998007.0
+7980.0,,875045,biogen idec inc.,1.0,,,,20100610,mulligan richard,112760210016990,,male,266998007.0
+14080.0,,875045,biogen idec inc.,1.0,,,,20100610,pangia robert w,112760210016981,,male,266998007.0
 95503.0,75000.0,875045,biogen idec inc.,1.0,1.0,,,20100610,mullen james c,112760210017009,CEO & President,male,266998007.0
-6235.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,sherwin stephen a,112760210016991,,male,266998007.0
-7980.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,mulligan richard,112760210016990,,male,266998007.0
-10030.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,papadopoulos stelios,112760210016987,,male,266998007.0
-6235.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,rowinsky eric k,112760210016986,,male,266998007.0
-9730.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,posner brian s,112760210016984,,male,266998007.0
-9900.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,ross bruce,112760210016972,,male,266998007.0
-7290.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,dorsa caroline,112760210016979,,female,266998007.0
-19315.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,young william,112760210016978,,male,266998007.0
+6235.0,,875045,biogen idec inc.,1.0,,,,20100610,rowinsky eric k,112760210016986,,male,266998007.0
+6235.0,,875045,biogen idec inc.,1.0,,,,20100610,sherwin stephen a,112760210016991,,male,266998007.0
+9730.0,,875045,biogen idec inc.,1.0,,,,20100610,posner brian s,112760210016984,,male,266998007.0
 7980.0,7600.0,875045,biogen idec inc.,1.0,,,,20100610,schenk lynn,112760210016976,,female,266998007.0
-8820.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,leaming nancy,112760210016974,,female,266998007.0
-14080.0,0.0,875045,biogen idec inc.,1.0,,,,20100610,pangia robert w,112760210016981,,male,266998007.0
-7980.0,0.0,875045,biogen idec inc.,1.0,,,,20100611,denner alexander j,112760210017052,,male,266998007.0
-7493.0,0.0,875045,biogen idec inc.,1.0,,,,20100621,dorsa caroline,112760210017664,,female,266998007.0
-7698.0,0.0,875045,biogen idec inc.,1.0,,,,20100701,dorsa caroline,112760210018225,,female,266998007.0
-63165.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20100719,scangos george a,112760210019361,Chief Executive Officer,male,241915236.0
-7883.0,0.0,875045,biogen idec inc.,1.0,,,,20100719,dorsa caroline,112760210019367,,female,241915236.0
-11634.4773,0.0,875045,biogen idec inc.,,1.0,,,20100803,maclean michael f,112760210020455,"SVP, Chief Accounting Officer",male,241915236.0
-46897.0,0.0,875045,biogen idec inc.,,1.0,,,20100803,clancy paul j,112760210020452,Executive VP and CFO,male,241915236.0
-41308.0,0.0,875045,biogen idec inc.,,1.0,,,20100803,alexander susan h,112760210020450,"EVP, General Counsel",female,241915236.0
-8066.0,0.0,875045,biogen idec inc.,1.0,,,,20100803,dorsa caroline,112760210020448,,female,241915236.0
-8243.0,0.0,875045,biogen idec inc.,1.0,,,,20100817,dorsa caroline,112760210021492,,female,241915236.0
-45783.0,0.0,875045,biogen idec inc.,,1.0,,,20100907,clancy paul j,112760210022599,Executive VP and CFO,male,241915236.0
-10681.4773,0.0,875045,biogen idec inc.,,1.0,,,20101004,maclean michael f,112760210024560,"SVP, Chief Accounting Officer",male,241915236.0
-18254.0411,0.0,875045,biogen idec inc.,,1.0,,,20101029,cox john,112760210026174,EVP Pharmaceutical Oper & Tech,male,238302269.0
-14080.0,0.0,875045,biogen idec inc.,1.0,,,,20101029,pangia robert w,112760210026175,,male,238302269.0
-17129.0411,0.0,875045,biogen idec inc.,,1.0,,,20101103,cox john,112760210026742,EVP Pharmaceutical Oper & Tech,male,238302269.0
-16356.0411,0.0,875045,biogen idec inc.,,1.0,,,20101110,cox john,112760210027651,EVP Pharmaceutical Oper & Tech,male,238302269.0
-12406.0,0.0,875045,biogen idec inc.,,1.0,,,20101203,gagnon robert e.,112760210029595,Chief Acct Officer VP & Contr,male,238302269.0
+7290.0,,875045,biogen idec inc.,1.0,,,,20100610,dorsa caroline,112760210016979,,female,266998007.0
+19315.0,,875045,biogen idec inc.,1.0,,,,20100610,young william,112760210016978,,male,266998007.0
+8820.0,,875045,biogen idec inc.,1.0,,,,20100610,leaming nancy,112760210016974,,female,266998007.0
+9900.0,,875045,biogen idec inc.,1.0,,,,20100610,ross bruce,112760210016972,,male,266998007.0
+7980.0,,875045,biogen idec inc.,1.0,,,,20100611,denner alexander j,112760210017052,,male,266998007.0
+7493.0,,875045,biogen idec inc.,1.0,,,,20100621,dorsa caroline,112760210017664,,female,266998007.0
+7698.0,,875045,biogen idec inc.,1.0,,,,20100701,dorsa caroline,112760210018225,,female,266998007.0
+63165.0,,875045,biogen idec inc.,1.0,1.0,,,20100719,scangos george a,112760210019361,Chief Executive Officer,male,241915236.0
+7883.0,,875045,biogen idec inc.,1.0,,,,20100719,dorsa caroline,112760210019367,,female,241915236.0
+8066.0,,875045,biogen idec inc.,1.0,,,,20100803,dorsa caroline,112760210020448,,female,241915236.0
+41308.0,,875045,biogen idec inc.,,1.0,,,20100803,alexander susan h,112760210020450,"EVP, General Counsel",female,241915236.0
+46897.0,,875045,biogen idec inc.,,1.0,,,20100803,clancy paul j,112760210020452,Executive VP and CFO,male,241915236.0
+11634.4773,,875045,biogen idec inc.,,1.0,,,20100803,maclean michael f,112760210020455,"SVP, Chief Accounting Officer",male,241915236.0
+8243.0,,875045,biogen idec inc.,1.0,,,,20100817,dorsa caroline,112760210021492,,female,241915236.0
+45783.0,,875045,biogen idec inc.,,1.0,,,20100907,clancy paul j,112760210022599,Executive VP and CFO,male,241915236.0
+10681.4773,,875045,biogen idec inc.,,1.0,,,20101004,maclean michael f,112760210024560,"SVP, Chief Accounting Officer",male,241915236.0
+18254.0411,,875045,biogen idec inc.,,1.0,,,20101029,cox john,112760210026174,EVP Pharmaceutical Oper & Tech,male,238302269.0
+14080.0,,875045,biogen idec inc.,1.0,,,,20101029,pangia robert w,112760210026175,,male,238302269.0
+17129.0411,,875045,biogen idec inc.,,1.0,,,20101103,cox john,112760210026742,EVP Pharmaceutical Oper & Tech,male,238302269.0
+16356.0411,,875045,biogen idec inc.,,1.0,,,20101110,cox john,112760210027651,EVP Pharmaceutical Oper & Tech,male,238302269.0
+12406.0,,875045,biogen idec inc.,,1.0,,,20101203,gagnon robert e.,112760210029595,Chief Acct Officer VP & Contr,male,238302269.0
 21116.2794,460.0,875045,biogen idec inc.,,1.0,,,20101207,schneier craig eric,112760210029875,"EVP, HR, Public Affairs & Comm",male,238302269.0
-11610.0,0.0,875045,biogen idec inc.,,1.0,,,20101207,gagnon robert e.,112760210029877,Chief Acct Officer VP & Contr,male,238302269.0
+11610.0,,875045,biogen idec inc.,,1.0,,,20101207,gagnon robert e.,112760210029877,Chief Acct Officer VP & Contr,male,238302269.0
 21116.2794,460.0,875045,biogen idec inc.,,1.0,,,20101221,schneier craig eric,112760210031328,"EVP, HR, Public Affairs & Comm",male,238302269.0
 7980.0,7600.0,875045,biogen idec inc.,1.0,,,,20110103,schenk lynn,112760211000005,,female,240538000.0
-21059.0,0.0,875045,biogen idec inc.,1.0,,,,20110104,young william,112760211000603,,male,240538000.0
-10814.0,0.0,875045,biogen idec inc.,,1.0,,,20110105,gagnon robert e.,112760211000974,Chief Acct Officer VP & Contr,male,240538000.0
+21059.0,,875045,biogen idec inc.,1.0,,,,20110104,young william,112760211000603,,male,240538000.0
+10814.0,,875045,biogen idec inc.,,1.0,,,20110105,gagnon robert e.,112760211000974,Chief Acct Officer VP & Contr,male,240538000.0
 21116.2794,460.0,875045,biogen idec inc.,,1.0,,,20110124,schneier craig eric,112760211002185,"EVP, HR, Public Affairs & Comm",male,240538000.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110203,williams douglas e,112760211003731,EVP Research & Development,male,240911883.0
-2901.0,0.0,875045,biogen idec inc.,,1.0,,,20110203,granata francesco,112760211003750,EVP Global Commercial Operatio,male,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110203,holtzman steven h,112760211003762,EVP Corp Devel and Strategy,male,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110211,alexander susan h,112760211005095,"EVP, General Counsel",female,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110211,clancy paul j,112760211005098,Executive VP and CFO,male,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110211,granata francesco,112760211005101,EVP Global Commercial Operatio,male,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110211,schneier craig eric,112760211005102,"EVP, HR, Public Affairs & Comm",male,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110211,gagnon robert e.,112760211005105,Chief Acct Officer VP & Contr,male,240911883.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110211,cox john,112760211005108,EVP Pharmaceutical Oper & Tech,male,240911883.0
-0.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20110211,scangos george a,112760211005109,Chief Executive Officer,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110203,williams douglas e,112760211003731,EVP Research & Development,male,240911883.0
+2901.0,,875045,biogen idec inc.,,1.0,,,20110203,granata francesco,112760211003750,EVP Global Commercial Operatio,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110203,holtzman steven h,112760211003762,EVP Corp Devel and Strategy,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110211,cox john,112760211005108,EVP Pharmaceutical Oper & Tech,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110211,gagnon robert e.,112760211005105,Chief Acct Officer VP & Contr,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110211,schneier craig eric,112760211005102,"EVP, HR, Public Affairs & Comm",male,240911883.0
+,,875045,biogen idec inc.,1.0,1.0,,,20110211,scangos george a,112760211005109,Chief Executive Officer,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110211,clancy paul j,112760211005098,Executive VP and CFO,male,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110211,alexander susan h,112760211005095,"EVP, General Counsel",female,240911883.0
+,,875045,biogen idec inc.,,1.0,,,20110211,granata francesco,112760211005101,EVP Global Commercial Operatio,male,240911883.0
+11269.0,,875045,biogen idec inc.,,1.0,,,20110215,gagnon robert e.,112760211005571,Chief Acct Officer VP & Contr,male,240911883.0
+15446.0411,,875045,biogen idec inc.,,1.0,,,20110215,cox john,112760211005570,EVP Pharmaceutical Oper & Tech,male,240911883.0
 19630.2794,460.0,875045,biogen idec inc.,,1.0,,,20110215,schneier craig eric,112760211005572,"EVP, HR, Public Affairs & Comm",male,240911883.0
-11269.0,0.0,875045,biogen idec inc.,,1.0,,,20110215,gagnon robert e.,112760211005571,Chief Acct Officer VP & Contr,male,240911883.0
-39793.0,0.0,875045,biogen idec inc.,,1.0,,,20110215,alexander susan h,112760211005568,"EVP, General Counsel",female,240911883.0
-44097.0,0.0,875045,biogen idec inc.,,1.0,,,20110215,clancy paul j,112760211005569,Executive VP and CFO,male,240911883.0
-15446.0411,0.0,875045,biogen idec inc.,,1.0,,,20110215,cox john,112760211005570,EVP Pharmaceutical Oper & Tech,male,240911883.0
-13603.0411,0.0,875045,biogen idec inc.,,1.0,,,20110218,cox john,112760211006362,EVP Pharmaceutical Oper & Tech,male,240911883.0
+39793.0,,875045,biogen idec inc.,,1.0,,,20110215,alexander susan h,112760211005568,"EVP, General Counsel",female,240911883.0
+44097.0,,875045,biogen idec inc.,,1.0,,,20110215,clancy paul j,112760211005569,Executive VP and CFO,male,240911883.0
+13603.0411,,875045,biogen idec inc.,,1.0,,,20110218,cox john,112760211006362,EVP Pharmaceutical Oper & Tech,male,240911883.0
 16436.2794,460.0,875045,biogen idec inc.,,1.0,,,20110218,schneier craig eric,112760211006363,"EVP, HR, Public Affairs & Comm",male,240911883.0
-10537.0,0.0,875045,biogen idec inc.,,1.0,,,20110218,gagnon robert e.,112760211006365,Chief Acct Officer VP & Contr,male,240911883.0
-41938.0,0.0,875045,biogen idec inc.,,1.0,,,20110225,alexander susan h,112760211007662,"EVP, General Counsel",female,240911883.0
+10537.0,,875045,biogen idec inc.,,1.0,,,20110218,gagnon robert e.,112760211006365,Chief Acct Officer VP & Contr,male,240911883.0
+15061.0411,,875045,biogen idec inc.,,1.0,,,20110225,cox john,112760211007666,EVP Pharmaceutical Oper & Tech,male,240911883.0
+41938.0,,875045,biogen idec inc.,,1.0,,,20110225,alexander susan h,112760211007662,"EVP, General Counsel",female,240911883.0
 19868.2794,460.0,875045,biogen idec inc.,,1.0,,,20110225,schneier craig eric,112760211007663,"EVP, HR, Public Affairs & Comm",male,240911883.0
-11223.0,0.0,875045,biogen idec inc.,,1.0,,,20110225,gagnon robert e.,112760211007664,Chief Acct Officer VP & Contr,male,240911883.0
-46499.0,0.0,875045,biogen idec inc.,,1.0,,,20110225,clancy paul j,112760211007665,Executive VP and CFO,male,240911883.0
-15061.0411,0.0,875045,biogen idec inc.,,1.0,,,20110225,cox john,112760211007666,EVP Pharmaceutical Oper & Tech,male,240911883.0
-39958.0,0.0,875045,biogen idec inc.,,1.0,,,20110228,alexander susan h,112760211007852,"EVP, General Counsel",female,240911883.0
-44335.0,0.0,875045,biogen idec inc.,,1.0,,,20110228,clancy paul j,112760211007850,Executive VP and CFO,male,240911883.0
-10888.0,0.0,875045,biogen idec inc.,,1.0,,,20110228,gagnon robert e.,112760211007847,Chief Acct Officer VP & Contr,male,240911883.0
+11223.0,,875045,biogen idec inc.,,1.0,,,20110225,gagnon robert e.,112760211007664,Chief Acct Officer VP & Contr,male,240911883.0
+46499.0,,875045,biogen idec inc.,,1.0,,,20110225,clancy paul j,112760211007665,Executive VP and CFO,male,240911883.0
+39958.0,,875045,biogen idec inc.,,1.0,,,20110228,alexander susan h,112760211007852,"EVP, General Counsel",female,240911883.0
+44335.0,,875045,biogen idec inc.,,1.0,,,20110228,clancy paul j,112760211007850,Executive VP and CFO,male,240911883.0
+10888.0,,875045,biogen idec inc.,,1.0,,,20110228,gagnon robert e.,112760211007847,Chief Acct Officer VP & Contr,male,240911883.0
+13859.0411,,875045,biogen idec inc.,,1.0,,,20110228,cox john,112760211007841,EVP Pharmaceutical Oper & Tech,male,240911883.0
 17712.2794,460.0,875045,biogen idec inc.,,1.0,,,20110228,schneier craig eric,112760211007842,"EVP, HR, Public Affairs & Comm",male,240911883.0
-13859.0411,0.0,875045,biogen idec inc.,,1.0,,,20110228,cox john,112760211007841,EVP Pharmaceutical Oper & Tech,male,240911883.0
-9486.0,0.0,875045,biogen idec inc.,,1.0,,,20110303,gagnon robert e.,112760211008673,Chief Acct Officer VP & Contr,male,240911883.0
-9818.0411,0.0,875045,biogen idec inc.,,1.0,,,20110303,cox john,112760211008674,EVP Pharmaceutical Oper & Tech,male,240911883.0
+9486.0,,875045,biogen idec inc.,,1.0,,,20110303,gagnon robert e.,112760211008673,Chief Acct Officer VP & Contr,male,240911883.0
+9818.0411,,875045,biogen idec inc.,,1.0,,,20110303,cox john,112760211008674,EVP Pharmaceutical Oper & Tech,male,240911883.0
 10201.2794,460.0,875045,biogen idec inc.,,1.0,,,20110303,schneier craig eric,112760211008680,"EVP, HR, Public Affairs & Comm",male,240911883.0
-9818.0411,0.0,875045,biogen idec inc.,,1.0,,,20110401,cox john,112760211011607,EVP Pharmaceutical Oper & Tech,male,240911883.0
-47197.0,0.0,875045,biogen idec inc.,,1.0,,,20110408,clancy paul j,112760211012729,Executive VP and CFO,male,240911883.0
-10353.0295,0.0,875045,biogen idec inc.,,1.0,,,20110413,cox john,112760211012908,EVP Pharmaceutical Oper & Tech,male,240911883.0
-10353.0295,0.0,875045,biogen idec inc.,,1.0,,,20110415,cox john,112760211013035,EVP Pharmaceutical Oper & Tech,male,240911883.0
+9818.0411,,875045,biogen idec inc.,,1.0,,,20110401,cox john,112760211011607,EVP Pharmaceutical Oper & Tech,male,240911883.0
+47197.0,,875045,biogen idec inc.,,1.0,,,20110408,clancy paul j,112760211012729,Executive VP and CFO,male,240911883.0
+10353.0295,,875045,biogen idec inc.,,1.0,,,20110413,cox john,112760211012908,EVP Pharmaceutical Oper & Tech,male,240911883.0
+10353.0295,,875045,biogen idec inc.,,1.0,,,20110415,cox john,112760211013035,EVP Pharmaceutical Oper & Tech,male,240911883.0
 7980.0,7600.0,875045,biogen idec inc.,1.0,,,,20110421,schenk lynn,112760211013449,,female,241632189.0
-10353.0295,0.0,875045,biogen idec inc.,,1.0,,,20110425,cox john,112760211013555,EVP Pharmaceutical Oper & Tech,male,241632189.0
-42247.0,0.0,875045,biogen idec inc.,,1.0,,,20110429,clancy paul j,112760211014105,Executive VP and CFO,male,241632189.0
-18965.0,0.0,875045,biogen idec inc.,,1.0,,,20110503,alexander susan h,112760211014605,"EVP, General Counsel",female,241632189.0
-9385.0,0.0,875045,biogen idec inc.,,1.0,,,20110503,gagnon robert e.,112760211014607,Chief Acct Officer VP & Contr,male,241632189.0
-8720.0,0.0,875045,biogen idec inc.,,1.0,,,20110504,gagnon robert e.,112760211015044,Chief Acct Officer VP & Contr,male,241632189.0
-9588.0295,0.0,875045,biogen idec inc.,,1.0,,,20110504,cox john,112760211015043,EVP Pharmaceutical Oper & Tech,male,241632189.0
-7753.0,0.0,875045,biogen idec inc.,,1.0,,,20110509,gagnon robert e.,112760211015560,Chief Acct Officer VP & Contr,male,241632189.0
-14080.0,0.0,875045,biogen idec inc.,1.0,,,,20110527,pangia robert w,112760211017746,,male,241632189.0
-8820.0,0.0,875045,biogen idec inc.,1.0,,,,20110527,leaming nancy,112760211017747,,female,241632189.0
-9730.0,0.0,875045,biogen idec inc.,1.0,,,,20110527,posner brian s,112760211017748,,male,241632189.0
-9135.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,sherwin stephen a,112760211018311,,male,241632189.0
-26859.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,young william,112760211018312,,male,241632189.0
+10353.0295,,875045,biogen idec inc.,,1.0,,,20110425,cox john,112760211013555,EVP Pharmaceutical Oper & Tech,male,241632189.0
+42247.0,,875045,biogen idec inc.,,1.0,,,20110429,clancy paul j,112760211014105,Executive VP and CFO,male,241632189.0
+18965.0,,875045,biogen idec inc.,,1.0,,,20110503,alexander susan h,112760211014605,"EVP, General Counsel",female,241632189.0
+9385.0,,875045,biogen idec inc.,,1.0,,,20110503,gagnon robert e.,112760211014607,Chief Acct Officer VP & Contr,male,241632189.0
+9588.0295,,875045,biogen idec inc.,,1.0,,,20110504,cox john,112760211015043,EVP Pharmaceutical Oper & Tech,male,241632189.0
+8720.0,,875045,biogen idec inc.,,1.0,,,20110504,gagnon robert e.,112760211015044,Chief Acct Officer VP & Contr,male,241632189.0
+7753.0,,875045,biogen idec inc.,,1.0,,,20110509,gagnon robert e.,112760211015560,Chief Acct Officer VP & Contr,male,241632189.0
+14080.0,,875045,biogen idec inc.,1.0,,,,20110527,pangia robert w,112760211017746,,male,241632189.0
+8820.0,,875045,biogen idec inc.,1.0,,,,20110527,leaming nancy,112760211017747,,female,241632189.0
+9730.0,,875045,biogen idec inc.,1.0,,,,20110527,posner brian s,112760211017748,,male,241632189.0
+11143.0,,875045,biogen idec inc.,1.0,,,,20110602,dorsa caroline,112760211018323,,female,241632189.0
+11720.0,,875045,biogen idec inc.,1.0,,,,20110602,leaming nancy,112760211018321,,female,241632189.0
+16980.0,,875045,biogen idec inc.,1.0,,,,20110602,pangia robert w,112760211018318,,male,241632189.0
+10880.0,,875045,biogen idec inc.,1.0,,,,20110602,mulligan richard,112760211018317,,male,241632189.0
 10880.0,7600.0,875045,biogen idec inc.,1.0,,,,20110602,schenk lynn,112760211018313,,female,241632189.0
-9135.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,rowinsky eric k,112760211018314,,male,241632189.0
-12630.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,posner brian s,112760211018315,,male,241632189.0
-12930.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,papadopoulos stelios,112760211018316,,male,241632189.0
-10880.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,mulligan richard,112760211018317,,male,241632189.0
-16980.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,pangia robert w,112760211018318,,male,241632189.0
-11720.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,leaming nancy,112760211018321,,female,241632189.0
-11143.0,0.0,875045,biogen idec inc.,1.0,,,,20110602,dorsa caroline,112760211018323,,female,241632189.0
-10800.0,0.0,875045,biogen idec inc.,1.0,0.0,0.0,0.0,20110603,denner alexander j,114036111031332,,male,241632189.0
-9420.0,0.0,875045,biogen idec inc.,1.0,,,,20110614,leaming nancy,112760211019231,,female,241632189.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20110701,granata francesco,112760211020299,EVP Global Commercial Operatio,male,241632189.0
-66804.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20110719,scangos george a,112760211021729,Chief Executive Officer,male,241632189.0
-54457.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20110721,scangos george a,112760211021848,Chief Executive Officer,male,241632189.0
-16965.0,0.0,875045,biogen idec inc.,,1.0,,,20110803,alexander susan h,112760211022653,"EVP, General Counsel",female,242545771.0
-41412.0,0.0,875045,biogen idec inc.,,1.0,,,20110803,clancy paul j,112760211022652,Executive VP and CFO,male,242545771.0
-26859.0,0.0,875045,biogen idec inc.,1.0,,,,20110831,young william,112760211024534,,male,242545771.0
-12630.0,0.0,875045,biogen idec inc.,1.0,,,,20110831,posner brian s,112760211024535,,male,242545771.0
-26859.0,0.0,875045,biogen idec inc.,1.0,,,,20110902,young william,112760211024701,,male,242545771.0
-6335.0,0.0,875045,biogen idec inc.,1.0,,,,20110919,leaming nancy,112760211025539,,female,242545771.0
-26859.0,0.0,875045,biogen idec inc.,1.0,,,,20110929,young william,112760211026048,,male,242545771.0
-7635.0,0.0,875045,biogen idec inc.,,1.0,,,20111004,gagnon robert e.,112760211026878,Chief Acct Officer VP & Contr,male,242545771.0
-7383.0,0.0,875045,biogen idec inc.,,1.0,,,20111007,gagnon robert e.,112760211027065,Chief Acct Officer VP & Contr,male,242545771.0
-9588.0295,0.0,875045,biogen idec inc.,,1.0,,,20111103,cox john,112760211028521,EVP Pharmaceutical Oper & Tech,male,242917349.0
-7012.0,0.0,875045,biogen idec inc.,,1.0,,,20111104,gagnon robert e.,112760211028641,Chief Acct Officer VP & Contr,male,242917349.0
-6216.0,0.0,875045,biogen idec inc.,,1.0,,,20111114,gagnon robert e.,112760211029335,Chief Acct Officer VP & Contr,male,242917349.0
-5845.0,0.0,875045,biogen idec inc.,,1.0,,,20111202,gagnon robert e.,112760211030992,Chief Acct Officer VP & Contr,male,242917349.0
-5050.0,0.0,875045,biogen idec inc.,,1.0,,,20111208,gagnon robert e.,112760211031516,Chief Acct Officer VP & Contr,male,242917349.0
-6635.0,0.0,875045,biogen idec inc.,1.0,,,,20111220,sherwin stephen a,112760211032906,,male,242917349.0
-21168.0,0.0,875045,biogen idec inc.,,1.0,,,20120104,clancy paul j,112760212000448,Executive VP and CFO,male,242115000.0
-6335.0,0.0,875045,biogen idec inc.,1.0,,,,20120104,leaming nancy,112760212000449,,female,242115000.0
-9135.0,0.0,875045,biogen idec inc.,1.0,,,,20120109,rowinsky eric k,112760212001330,,male,242115000.0
-6335.0,0.0,875045,biogen idec inc.,1.0,,,,20120109,leaming nancy,112760212001331,,female,242115000.0
-6335.0,0.0,875045,biogen idec inc.,1.0,,,,20120124,leaming nancy,112760212002307,,female,242115000.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120203,dipietro kenneth,112760212003987,EVP Human Resources,male,238725065.0
-21168.0,0.0,875045,biogen idec inc.,,1.0,,,20120203,clancy paul j,112760212003921,Executive VP and CFO,male,238725065.0
-3906.0,0.0,875045,biogen idec inc.,,1.0,,,20120203,williams douglas e,112760212003920,EVP Research & Development,male,238725065.0
-3529.0,0.0,875045,biogen idec inc.,,1.0,,,20120203,granata francesco,112760212003918,EVP Global Commercial Operatio,male,238725065.0
-6335.0,0.0,875045,biogen idec inc.,1.0,,,,20120203,leaming nancy,112760212003916,,female,238725065.0
-3501.0,0.0,875045,biogen idec inc.,,1.0,,,20120203,holtzman steven h,112760212003919,EVP Corp Devel and Strategy,male,238725065.0
-3110.0,0.0,875045,biogen idec inc.,,1.0,,,20120203,kingsley stuart a,112760212003917,"EVP, Global Comm. Operations",male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120208,kingsley stuart a,112760212004640,"EVP, Global Comm. Operations",male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,alexander susan h,112760212005204,"EVP, General Counsel",female,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,clancy paul j,112760212005205,Executive VP and CFO,male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,cox john,112760212005206,EVP Pharmaceutical Oper & Tech,male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,gagnon robert e.,112760212005210,"Vice President, Finance",male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,holtzman steven h,112760212005213,EVP Corporate Development,male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,kingsley stuart a,112760212005214,"EVP, Global Comm. Operations",male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120210,williams douglas e,112760212005215,EVP Research & Development,male,238725065.0
-0.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120210,scangos george a,112760212005216,Chief Executive Officer,male,238725065.0
-12776.0295,0.0,875045,biogen idec inc.,,1.0,,,20120213,cox john,112760212005510,EVP Pharmaceutical Oper & Tech,male,238725065.0
-5610.0,0.0,875045,biogen idec inc.,,1.0,,,20120213,gagnon robert e.,112760212005508,"Vice President, Finance",male,238725065.0
-19619.0,0.0,875045,biogen idec inc.,,1.0,,,20120213,alexander susan h,112760212005507,"EVP, General Counsel",female,238725065.0
-23903.0,0.0,875045,biogen idec inc.,,1.0,,,20120213,clancy paul j,112760212005500,Executive VP and CFO,male,238725065.0
-66283.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120213,scangos george a,112760212005502,Chief Executive Officer,male,238725065.0
-1247.0,0.0,875045,biogen idec inc.,,1.0,,,20120214,kingsley stuart a,112760212005867,"EVP, Global Comm. Operations",male,238725065.0
-16777.0,0.0,875045,biogen idec inc.,,1.0,,,20120214,alexander susan h,112760212005870,"EVP, General Counsel",female,238725065.0
-5050.0,0.0,875045,biogen idec inc.,,1.0,,,20120216,gagnon robert e.,112760212006309,"Vice President, Finance",male,238725065.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120216,kingsley stuart a,112760212006311,"EVP, Global Comm. Operations",male,238725065.0
-23612.0,0.0,875045,biogen idec inc.,,1.0,,,20120227,clancy paul j,112760212008086,Executive VP and CFO,male,238725065.0
-5551.0,0.0,875045,biogen idec inc.,,1.0,,,20120227,gagnon robert e.,112760212008088,"Vice President, Finance",male,238725065.0
-12713.0295,0.0,875045,biogen idec inc.,,1.0,,,20120227,cox john,112760212008089,EVP Pharmaceutical Oper & Tech,male,238725065.0
-14440.0,0.0,875045,biogen idec inc.,,1.0,,,20120227,alexander susan h,112760212008090,"EVP, General Counsel",female,238725065.0
-10185.0,0.0,875045,biogen idec inc.,,1.0,,,20120228,alexander susan h,112760212008351,"EVP, General Counsel",female,238725065.0
-16578.0,0.0,875045,biogen idec inc.,1.0,,,,20120301,pangia robert w,112760212008868,,male,238725065.0
-3999.0,0.0,875045,biogen idec inc.,,1.0,,,20120301,gagnon robert e.,112760212008872,"Vice President, Finance",male,238725065.0
-16578.0,0.0,875045,biogen idec inc.,1.0,,,,20120312,pangia robert w,112760212010376,,male,238725065.0
-10185.0,0.0,875045,biogen idec inc.,,1.0,,,20120406,alexander susan h,112760212013444,"EVP, General Counsel",female,238725065.0
-10185.0,0.0,875045,biogen idec inc.,,1.0,,,20120426,alexander susan h,112760212014742,"EVP, General Counsel",female,239562899.0
-10185.0,0.0,875045,biogen idec inc.,,1.0,,,20120503,alexander susan h,112760212015774,"EVP, General Counsel",female,239562899.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20120503,covino gregory f,112760212015777,"VP, Chief Accounting Officer",male,239562899.0
-7100.0,0.0,875045,biogen idec inc.,1.0,,,,20120503,schenk lynn,112760212015793,,female,239562899.0
-8720.7107,0.0,875045,biogen idec inc.,,1.0,,,20120504,pawlicki raymond,112760212015904,"SVP, Chief Information Officer",male,239562899.0
-12178.4445,0.0,875045,biogen idec inc.,,1.0,,,20120504,cox john,112760212015905,EVP Pharmaceutical Oper & Tech,male,239562899.0
-65100.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120604,scangos george a,112760212019004,Chief Executive Officer,male,239562899.0
-4135.0,0.0,875045,biogen idec inc.,1.0,,,,20120605,sherwin stephen a,112760212019280,,male,239562899.0
-16578.0,0.0,875045,biogen idec inc.,1.0,,,,20120605,pangia robert w,112760212019282,,male,239562899.0
-7652.7107,0.0,875045,biogen idec inc.,,1.0,,,20120605,pawlicki raymond,112760212019276,"SVP, Chief Information Officer",male,239562899.0
-12630.0,0.0,875045,biogen idec inc.,1.0,,,,20120605,posner brian s,112760212019278,,male,239562899.0
+12630.0,,875045,biogen idec inc.,1.0,,,,20110602,posner brian s,112760211018315,,male,241632189.0
+9135.0,,875045,biogen idec inc.,1.0,,,,20110602,rowinsky eric k,112760211018314,,male,241632189.0
+26859.0,,875045,biogen idec inc.,1.0,,,,20110602,young william,112760211018312,,male,241632189.0
+12930.0,,875045,biogen idec inc.,1.0,,,,20110602,papadopoulos stelios,112760211018316,,male,241632189.0
+9135.0,,875045,biogen idec inc.,1.0,,,,20110602,sherwin stephen a,112760211018311,,male,241632189.0
+10800.0,,875045,biogen idec inc.,1.0,0.0,0.0,0.0,20110603,denner alexander j,114036111031332,,male,241632189.0
+9420.0,,875045,biogen idec inc.,1.0,,,,20110614,leaming nancy,112760211019231,,female,241632189.0
+0.0,,875045,biogen idec inc.,,1.0,,,20110701,granata francesco,112760211020299,EVP Global Commercial Operatio,male,241632189.0
+66804.0,,875045,biogen idec inc.,1.0,1.0,,,20110719,scangos george a,112760211021729,Chief Executive Officer,male,241632189.0
+54457.0,,875045,biogen idec inc.,1.0,1.0,,,20110721,scangos george a,112760211021848,Chief Executive Officer,male,241632189.0
+41412.0,,875045,biogen idec inc.,,1.0,,,20110803,clancy paul j,112760211022652,Executive VP and CFO,male,242545771.0
+16965.0,,875045,biogen idec inc.,,1.0,,,20110803,alexander susan h,112760211022653,"EVP, General Counsel",female,242545771.0
+26859.0,,875045,biogen idec inc.,1.0,,,,20110831,young william,112760211024534,,male,242545771.0
+12630.0,,875045,biogen idec inc.,1.0,,,,20110831,posner brian s,112760211024535,,male,242545771.0
+26859.0,,875045,biogen idec inc.,1.0,,,,20110902,young william,112760211024701,,male,242545771.0
+6335.0,,875045,biogen idec inc.,1.0,,,,20110919,leaming nancy,112760211025539,,female,242545771.0
+26859.0,,875045,biogen idec inc.,1.0,,,,20110929,young william,112760211026048,,male,242545771.0
+7635.0,,875045,biogen idec inc.,,1.0,,,20111004,gagnon robert e.,112760211026878,Chief Acct Officer VP & Contr,male,242545771.0
+7383.0,,875045,biogen idec inc.,,1.0,,,20111007,gagnon robert e.,112760211027065,Chief Acct Officer VP & Contr,male,242545771.0
+9588.0295,,875045,biogen idec inc.,,1.0,,,20111103,cox john,112760211028521,EVP Pharmaceutical Oper & Tech,male,242917349.0
+7012.0,,875045,biogen idec inc.,,1.0,,,20111104,gagnon robert e.,112760211028641,Chief Acct Officer VP & Contr,male,242917349.0
+6216.0,,875045,biogen idec inc.,,1.0,,,20111114,gagnon robert e.,112760211029335,Chief Acct Officer VP & Contr,male,242917349.0
+5845.0,,875045,biogen idec inc.,,1.0,,,20111202,gagnon robert e.,112760211030992,Chief Acct Officer VP & Contr,male,242917349.0
+5050.0,,875045,biogen idec inc.,,1.0,,,20111208,gagnon robert e.,112760211031516,Chief Acct Officer VP & Contr,male,242917349.0
+6635.0,,875045,biogen idec inc.,1.0,,,,20111220,sherwin stephen a,112760211032906,,male,242917349.0
+6335.0,,875045,biogen idec inc.,1.0,,,,20120104,leaming nancy,112760212000449,,female,242115000.0
+21168.0,,875045,biogen idec inc.,,1.0,,,20120104,clancy paul j,112760212000448,Executive VP and CFO,male,242115000.0
+9135.0,,875045,biogen idec inc.,1.0,,,,20120109,rowinsky eric k,112760212001330,,male,242115000.0
+6335.0,,875045,biogen idec inc.,1.0,,,,20120109,leaming nancy,112760212001331,,female,242115000.0
+6335.0,,875045,biogen idec inc.,1.0,,,,20120124,leaming nancy,112760212002307,,female,242115000.0
+6335.0,,875045,biogen idec inc.,1.0,,,,20120203,leaming nancy,112760212003916,,female,238725065.0
+3110.0,,875045,biogen idec inc.,,1.0,,,20120203,kingsley stuart a,112760212003917,"EVP, Global Comm. Operations",male,238725065.0
+3529.0,,875045,biogen idec inc.,,1.0,,,20120203,granata francesco,112760212003918,EVP Global Commercial Operatio,male,238725065.0
+3501.0,,875045,biogen idec inc.,,1.0,,,20120203,holtzman steven h,112760212003919,EVP Corp Devel and Strategy,male,238725065.0
+3906.0,,875045,biogen idec inc.,,1.0,,,20120203,williams douglas e,112760212003920,EVP Research & Development,male,238725065.0
+21168.0,,875045,biogen idec inc.,,1.0,,,20120203,clancy paul j,112760212003921,Executive VP and CFO,male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120203,dipietro kenneth,112760212003987,EVP Human Resources,male,238725065.0
+0.0,,875045,biogen idec inc.,,1.0,,,20120208,kingsley stuart a,112760212004640,"EVP, Global Comm. Operations",male,238725065.0
+,,875045,biogen idec inc.,1.0,1.0,,,20120210,scangos george a,112760212005216,Chief Executive Officer,male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,williams douglas e,112760212005215,EVP Research & Development,male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,holtzman steven h,112760212005213,EVP Corporate Development,male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,kingsley stuart a,112760212005214,"EVP, Global Comm. Operations",male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,cox john,112760212005206,EVP Pharmaceutical Oper & Tech,male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,clancy paul j,112760212005205,Executive VP and CFO,male,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,alexander susan h,112760212005204,"EVP, General Counsel",female,238725065.0
+,,875045,biogen idec inc.,,1.0,,,20120210,gagnon robert e.,112760212005210,"Vice President, Finance",male,238725065.0
+12776.0295,,875045,biogen idec inc.,,1.0,,,20120213,cox john,112760212005510,EVP Pharmaceutical Oper & Tech,male,238725065.0
+5610.0,,875045,biogen idec inc.,,1.0,,,20120213,gagnon robert e.,112760212005508,"Vice President, Finance",male,238725065.0
+66283.0,,875045,biogen idec inc.,1.0,1.0,,,20120213,scangos george a,112760212005502,Chief Executive Officer,male,238725065.0
+23903.0,,875045,biogen idec inc.,,1.0,,,20120213,clancy paul j,112760212005500,Executive VP and CFO,male,238725065.0
+19619.0,,875045,biogen idec inc.,,1.0,,,20120213,alexander susan h,112760212005507,"EVP, General Counsel",female,238725065.0
+1247.0,,875045,biogen idec inc.,,1.0,,,20120214,kingsley stuart a,112760212005867,"EVP, Global Comm. Operations",male,238725065.0
+16777.0,,875045,biogen idec inc.,,1.0,,,20120214,alexander susan h,112760212005870,"EVP, General Counsel",female,238725065.0
+5050.0,,875045,biogen idec inc.,,1.0,,,20120216,gagnon robert e.,112760212006309,"Vice President, Finance",male,238725065.0
+0.0,,875045,biogen idec inc.,,1.0,,,20120216,kingsley stuart a,112760212006311,"EVP, Global Comm. Operations",male,238725065.0
+23612.0,,875045,biogen idec inc.,,1.0,,,20120227,clancy paul j,112760212008086,Executive VP and CFO,male,238725065.0
+5551.0,,875045,biogen idec inc.,,1.0,,,20120227,gagnon robert e.,112760212008088,"Vice President, Finance",male,238725065.0
+12713.0295,,875045,biogen idec inc.,,1.0,,,20120227,cox john,112760212008089,EVP Pharmaceutical Oper & Tech,male,238725065.0
+14440.0,,875045,biogen idec inc.,,1.0,,,20120227,alexander susan h,112760212008090,"EVP, General Counsel",female,238725065.0
+10185.0,,875045,biogen idec inc.,,1.0,,,20120228,alexander susan h,112760212008351,"EVP, General Counsel",female,238725065.0
+16578.0,,875045,biogen idec inc.,1.0,,,,20120301,pangia robert w,112760212008868,,male,238725065.0
+3999.0,,875045,biogen idec inc.,,1.0,,,20120301,gagnon robert e.,112760212008872,"Vice President, Finance",male,238725065.0
+16578.0,,875045,biogen idec inc.,1.0,,,,20120312,pangia robert w,112760212010376,,male,238725065.0
+10185.0,,875045,biogen idec inc.,,1.0,,,20120406,alexander susan h,112760212013444,"EVP, General Counsel",female,238725065.0
+10185.0,,875045,biogen idec inc.,,1.0,,,20120426,alexander susan h,112760212014742,"EVP, General Counsel",female,239562899.0
+10185.0,,875045,biogen idec inc.,,1.0,,,20120503,alexander susan h,112760212015774,"EVP, General Counsel",female,239562899.0
+,,875045,biogen idec inc.,,1.0,,,20120503,covino gregory f,112760212015777,"VP, Chief Accounting Officer",male,239562899.0
+7100.0,,875045,biogen idec inc.,1.0,,,,20120503,schenk lynn,112760212015793,,female,239562899.0
+8720.7107,,875045,biogen idec inc.,,1.0,,,20120504,pawlicki raymond,112760212015904,"SVP, Chief Information Officer",male,239562899.0
+12178.4445,,875045,biogen idec inc.,,1.0,,,20120504,cox john,112760212015905,EVP Pharmaceutical Oper & Tech,male,239562899.0
+65100.0,,875045,biogen idec inc.,1.0,1.0,,,20120604,scangos george a,112760212019004,Chief Executive Officer,male,239562899.0
+7652.7107,,875045,biogen idec inc.,,1.0,,,20120605,pawlicki raymond,112760212019276,"SVP, Chief Information Officer",male,239562899.0
+12630.0,,875045,biogen idec inc.,1.0,,,,20120605,posner brian s,112760212019278,,male,239562899.0
+4135.0,,875045,biogen idec inc.,1.0,,,,20120605,sherwin stephen a,112760212019280,,male,239562899.0
+16578.0,,875045,biogen idec inc.,1.0,,,,20120605,pangia robert w,112760212019282,,male,239562899.0
+14950.0,,875045,biogen idec inc.,1.0,,,,20120611,papadopoulos stelios,112760212019789,,male,239562899.0
+14650.0,,875045,biogen idec inc.,1.0,,,,20120611,posner brian s,112760212019787,,male,239562899.0
 4920.0,7100.0,875045,biogen idec inc.,1.0,,,,20120611,schenk lynn,112760212019799,,female,239562899.0
-12900.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,denner alexander j,112760212019778,,male,239562899.0
-11155.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,rowinsky eric k,112760212019779,,male,239562899.0
-13163.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,dorsa caroline,112760212019780,,female,239562899.0
-18598.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,pangia robert w,112760212019781,,male,239562899.0
-6155.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,sherwin stephen a,112760212019782,,male,239562899.0
-8355.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,leaming nancy,112760212019785,,female,239562899.0
-14650.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,posner brian s,112760212019787,,male,239562899.0
-14950.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,papadopoulos stelios,112760212019789,,male,239562899.0
-30899.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,young william,112760212019792,,male,239562899.0
-12900.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,mulligan richard,112760212019795,,male,239562899.0
-12630.0,0.0,875045,biogen idec inc.,1.0,,,,20120611,posner brian s,112760212019719,,male,239562899.0
-18598.0,0.0,875045,biogen idec inc.,1.0,,,,20120618,pangia robert w,112760212020207,,male,239562899.0
-10185.0,0.0,875045,biogen idec inc.,,1.0,,,20120618,alexander susan h,112760212020208,"EVP, General Counsel",female,239562899.0
-7652.7107,0.0,875045,biogen idec inc.,,1.0,,,20120621,pawlicki raymond,112760212020527,"SVP, Chief Information Officer",male,239562899.0
-63917.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120703,scangos george a,112760212021261,Chief Executive Officer,male,239562899.0
-67577.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120717,scangos george a,112760212022383,Chief Executive Officer,male,239562899.0
-65105.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120718,scangos george a,112760212022543,Chief Executive Officer,male,236346955.0
-10185.0,0.0,875045,biogen idec inc.,,1.0,,,20120730,alexander susan h,112760212023107,"EVP, General Counsel",female,236346955.0
-61450.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120802,scangos george a,112760212023547,Chief Executive Officer,male,236346955.0
-9020.0,0.0,875045,biogen idec inc.,,1.0,,,20120803,alexander susan h,112760212023694,"EVP, General Counsel",female,236346955.0
-57796.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20120905,scangos george a,112760212025735,Chief Executive Officer,male,236346955.0
-4155.0,0.0,875045,biogen idec inc.,1.0,,,,20120905,sherwin stephen a,112760212025736,,male,236346955.0
-18598.0,0.0,875045,biogen idec inc.,1.0,,,,20120910,pangia robert w,112760212026030,,male,236346955.0
-18598.0,0.0,875045,biogen idec inc.,1.0,,,,20120918,pangia robert w,112760212026604,,male,236346955.0
-54142.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20121002,scangos george a,112760212027688,Chief Executive Officer,male,236346955.0
-51670.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20121102,scangos george a,112760212029581,Chief Executive Officer,male,236596922.0
-4920.0,0.0,875045,biogen idec inc.,1.0,,,,20121228,denner alexander j,112760212035115,,male,236596922.0
-5378.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20130124,scangos george a,112760213002622,Chief Executive Officer,male,236582000.0
-3095.0,0.0,875045,biogen idec inc.,,1.0,,,20130205,kingsley stuart a,112760213004325,"EVP, Global Comm. Operations",male,236312191.0
-1440.0,0.0,875045,biogen idec inc.,,1.0,,,20130205,dipietro kenneth,112760213004326,EVP Human Resources,male,236312191.0
-6982.0,0.0,875045,biogen idec inc.,,1.0,,,20130205,holtzman steven h,112760213004328,EVP Corporate Development,male,236312191.0
-7185.0,0.0,875045,biogen idec inc.,,1.0,,,20130205,williams douglas e,112760213004401,EVP Research & Development,male,236312191.0
-7652.7107,0.0,875045,biogen idec inc.,,1.0,,,20130207,pawlicki raymond,112760213004641,"SVP, Chief Information Officer",male,236312191.0
-18598.0,0.0,875045,biogen idec inc.,1.0,,,,20130207,pangia robert w,112760213004644,,male,236312191.0
-28439.0,0.0,875045,biogen idec inc.,,1.0,,,20130212,clancy paul j,112760213005653,Executive VP and CFO,male,236312191.0
-5511.0,0.0,875045,biogen idec inc.,,1.0,,,20130212,kingsley stuart a,112760213005657,"EVP, Global Comm. Operations",male,236312191.0
-8386.0,0.0,875045,biogen idec inc.,,1.0,,,20130212,holtzman steven h,112760213005650,EVP Corporate Development,male,236312191.0
-13117.0,0.0,875045,biogen idec inc.,,1.0,,,20130212,alexander susan h,112760213005628,"EVP, General Counsel",female,236312191.0
-9232.7107,0.0,875045,biogen idec inc.,,1.0,,,20130212,pawlicki raymond,112760213005645,"SVP, Chief Information Officer",male,236312191.0
-8939.0,0.0,875045,biogen idec inc.,,1.0,,,20130212,williams douglas e,112760213005619,EVP Research & Development,male,236312191.0
+12900.0,,875045,biogen idec inc.,1.0,,,,20120611,mulligan richard,112760212019795,,male,239562899.0
+30899.0,,875045,biogen idec inc.,1.0,,,,20120611,young william,112760212019792,,male,239562899.0
+8355.0,,875045,biogen idec inc.,1.0,,,,20120611,leaming nancy,112760212019785,,female,239562899.0
+11155.0,,875045,biogen idec inc.,1.0,,,,20120611,rowinsky eric k,112760212019779,,male,239562899.0
+18598.0,,875045,biogen idec inc.,1.0,,,,20120611,pangia robert w,112760212019781,,male,239562899.0
+13163.0,,875045,biogen idec inc.,1.0,,,,20120611,dorsa caroline,112760212019780,,female,239562899.0
+12900.0,,875045,biogen idec inc.,1.0,,,,20120611,denner alexander j,112760212019778,,male,239562899.0
+12630.0,,875045,biogen idec inc.,1.0,,,,20120611,posner brian s,112760212019719,,male,239562899.0
+6155.0,,875045,biogen idec inc.,1.0,,,,20120611,sherwin stephen a,112760212019782,,male,239562899.0
+18598.0,,875045,biogen idec inc.,1.0,,,,20120618,pangia robert w,112760212020207,,male,239562899.0
+10185.0,,875045,biogen idec inc.,,1.0,,,20120618,alexander susan h,112760212020208,"EVP, General Counsel",female,239562899.0
+7652.7107,,875045,biogen idec inc.,,1.0,,,20120621,pawlicki raymond,112760212020527,"SVP, Chief Information Officer",male,239562899.0
+63917.0,,875045,biogen idec inc.,1.0,1.0,,,20120703,scangos george a,112760212021261,Chief Executive Officer,male,239562899.0
+67577.0,,875045,biogen idec inc.,1.0,1.0,,,20120717,scangos george a,112760212022383,Chief Executive Officer,male,239562899.0
+65105.0,,875045,biogen idec inc.,1.0,1.0,,,20120718,scangos george a,112760212022543,Chief Executive Officer,male,236346955.0
+10185.0,,875045,biogen idec inc.,,1.0,,,20120730,alexander susan h,112760212023107,"EVP, General Counsel",female,236346955.0
+61450.0,,875045,biogen idec inc.,1.0,1.0,,,20120802,scangos george a,112760212023547,Chief Executive Officer,male,236346955.0
+9020.0,,875045,biogen idec inc.,,1.0,,,20120803,alexander susan h,112760212023694,"EVP, General Counsel",female,236346955.0
+57796.0,,875045,biogen idec inc.,1.0,1.0,,,20120905,scangos george a,112760212025735,Chief Executive Officer,male,236346955.0
+4155.0,,875045,biogen idec inc.,1.0,,,,20120905,sherwin stephen a,112760212025736,,male,236346955.0
+18598.0,,875045,biogen idec inc.,1.0,,,,20120910,pangia robert w,112760212026030,,male,236346955.0
+18598.0,,875045,biogen idec inc.,1.0,,,,20120918,pangia robert w,112760212026604,,male,236346955.0
+54142.0,,875045,biogen idec inc.,1.0,1.0,,,20121002,scangos george a,112760212027688,Chief Executive Officer,male,236346955.0
+51670.0,,875045,biogen idec inc.,1.0,1.0,,,20121102,scangos george a,112760212029581,Chief Executive Officer,male,236596922.0
+4920.0,,875045,biogen idec inc.,1.0,,,,20121228,denner alexander j,112760212035115,,male,236596922.0
+5378.0,,875045,biogen idec inc.,1.0,1.0,,,20130124,scangos george a,112760213002622,Chief Executive Officer,male,236582000.0
+7185.0,,875045,biogen idec inc.,,1.0,,,20130205,williams douglas e,112760213004401,EVP Research & Development,male,236312191.0
+6982.0,,875045,biogen idec inc.,,1.0,,,20130205,holtzman steven h,112760213004328,EVP Corporate Development,male,236312191.0
+3095.0,,875045,biogen idec inc.,,1.0,,,20130205,kingsley stuart a,112760213004325,"EVP, Global Comm. Operations",male,236312191.0
+1440.0,,875045,biogen idec inc.,,1.0,,,20130205,dipietro kenneth,112760213004326,EVP Human Resources,male,236312191.0
+7652.7107,,875045,biogen idec inc.,,1.0,,,20130207,pawlicki raymond,112760213004641,"SVP, Chief Information Officer",male,236312191.0
+18598.0,,875045,biogen idec inc.,1.0,,,,20130207,pangia robert w,112760213004644,,male,236312191.0
+9232.7107,,875045,biogen idec inc.,,1.0,,,20130212,pawlicki raymond,112760213005645,"SVP, Chief Information Officer",male,236312191.0
 56901.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130212,scangos george a,112760213005615,Chief Executive Officer,male,236312191.0
-17388.4445,0.0,875045,biogen idec inc.,,1.0,,,20130212,cox john,112760213005623,EVP Pharmaceutical Oper & Tech,male,236312191.0
+8939.0,,875045,biogen idec inc.,,1.0,,,20130212,williams douglas e,112760213005619,EVP Research & Development,male,236312191.0
+17388.4445,,875045,biogen idec inc.,,1.0,,,20130212,cox john,112760213005623,EVP Pharmaceutical Oper & Tech,male,236312191.0
+13117.0,,875045,biogen idec inc.,,1.0,,,20130212,alexander susan h,112760213005628,"EVP, General Counsel",female,236312191.0
+8386.0,,875045,biogen idec inc.,,1.0,,,20130212,holtzman steven h,112760213005650,EVP Corporate Development,male,236312191.0
+28439.0,,875045,biogen idec inc.,,1.0,,,20130212,clancy paul j,112760213005653,Executive VP and CFO,male,236312191.0
+5511.0,,875045,biogen idec inc.,,1.0,,,20130212,kingsley stuart a,112760213005657,"EVP, Global Comm. Operations",male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,williams douglas e,112760213006119,EVP Research & Development,male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,pawlicki raymond,112760213006115,"SVP, Chief Information Officer",male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,alexander susan h,112760213006129,"EVP, Chief Legal Officer",female,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,dipietro kenneth,112760213006124,EVP Human Resources,male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,cox john,112760213006113,EVP Pharmaceutical Oper & Tech,male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,covino gregory f,112760213006099,"VP, Chief Accounting Officer",male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,kingsley stuart a,112760213006107,"EVP, Global Comm. Operations",male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,holtzman steven h,112760213006103,EVP Corporate Development,male,236312191.0
+,,875045,biogen idec inc.,,1.0,,,20130214,clancy paul j,112760213006109,Executive VP and CFO,male,236312191.0
 55303.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130214,scangos george a,112760213006096,Chief Executive Officer,male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,covino gregory f,112760213006099,"VP, Chief Accounting Officer",male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,holtzman steven h,112760213006103,EVP Corporate Development,male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,kingsley stuart a,112760213006107,"EVP, Global Comm. Operations",male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,clancy paul j,112760213006109,Executive VP and CFO,male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,cox john,112760213006113,EVP Pharmaceutical Oper & Tech,male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,pawlicki raymond,112760213006115,"SVP, Chief Information Officer",male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,williams douglas e,112760213006119,EVP Research & Development,male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,dipietro kenneth,112760213006124,EVP Human Resources,male,236312191.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20130214,alexander susan h,112760213006129,"EVP, Chief Legal Officer",female,236312191.0
-18759.4445,0.0,875045,biogen idec inc.,,1.0,,,20130226,cox john,112760213007948,EVP Pharmaceutical Oper & Tech,male,236312191.0
-15135.0,0.0,875045,biogen idec inc.,,1.0,,,20130226,alexander susan h,112760213007947,"EVP, Chief Legal Officer",female,236312191.0
-30699.0,0.0,875045,biogen idec inc.,,1.0,,,20130226,clancy paul j,112760213007945,Executive VP and CFO,male,236312191.0
-10039.7107,0.0,875045,biogen idec inc.,,1.0,,,20130226,pawlicki raymond,112760213007946,"SVP, Chief Information Officer",male,236312191.0
+30699.0,,875045,biogen idec inc.,,1.0,,,20130226,clancy paul j,112760213007945,Executive VP and CFO,male,236312191.0
+10039.7107,,875045,biogen idec inc.,,1.0,,,20130226,pawlicki raymond,112760213007946,"SVP, Chief Information Officer",male,236312191.0
+15135.0,,875045,biogen idec inc.,,1.0,,,20130226,alexander susan h,112760213007947,"EVP, Chief Legal Officer",female,236312191.0
+18759.4445,,875045,biogen idec inc.,,1.0,,,20130226,cox john,112760213007948,EVP Pharmaceutical Oper & Tech,male,236312191.0
 53705.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130304,scangos george a,112760213009047,Chief Executive Officer,male,236312191.0
-9409.7107,0.0,875045,biogen idec inc.,,1.0,,,20130304,pawlicki raymond,112760213009050,"SVP, Chief Information Officer",male,236312191.0
-14950.0,0.0,875045,biogen idec inc.,1.0,,,,20130312,papadopoulos stelios,112760213010432,,male,236312191.0
-4920.0,0.0,875045,biogen idec inc.,1.0,,,,20130313,mulligan richard,112760213010652,,male,236312191.0
-10150.0,0.0,875045,biogen idec inc.,1.0,,,,20130319,posner brian s,112760213011387,,male,236312191.0
-2655.0,0.0,875045,biogen idec inc.,1.0,,,,20130325,sherwin stephen a,112760213011886,,male,236312191.0
-2020.0,0.0,875045,biogen idec inc.,1.0,,,,20130325,mulligan richard,112760213011887,,male,236312191.0
+9409.7107,,875045,biogen idec inc.,,1.0,,,20130304,pawlicki raymond,112760213009050,"SVP, Chief Information Officer",male,236312191.0
+14950.0,,875045,biogen idec inc.,1.0,,,,20130312,papadopoulos stelios,112760213010432,,male,236312191.0
+4920.0,,875045,biogen idec inc.,1.0,,,,20130313,mulligan richard,112760213010652,,male,236312191.0
+10150.0,,875045,biogen idec inc.,1.0,,,,20130319,posner brian s,112760213011387,,male,236312191.0
+2655.0,,875045,biogen idec inc.,1.0,,,,20130325,sherwin stephen a,112760213011886,,male,236312191.0
+2020.0,,875045,biogen idec inc.,1.0,,,,20130325,mulligan richard,112760213011887,,male,236312191.0
 52107.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130402,scangos george a,112760213012748,Chief Executive Officer,male,236312191.0
-7087.0,0.0,875045,biogen idec inc.,,1.0,,,20130501,clancy paul j,112760213014981,Executive VP and CFO,male,237374815.0
+7087.0,,875045,biogen idec inc.,,1.0,,,20130501,clancy paul j,112760213014981,Executive VP and CFO,male,237374815.0
 50509.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130503,scangos george a,112760213015483,Chief Executive Officer,male,237374815.0
-375.477,0.0,875045,biogen idec inc.,,1.0,,,20130503,covino gregory f,112760213015484,"VP, Chief Accounting Officer",male,237374815.0
-18060.1115,0.0,875045,biogen idec inc.,,1.0,,,20130507,cox john,112760213015893,EVP Pharmaceutical Oper & Tech,male,237374815.0
-8710.3777,0.0,875045,biogen idec inc.,,1.0,,,20130507,pawlicki raymond,112760213015895,"SVP, Chief Information Officer",male,237374815.0
-12698.0,0.0,875045,biogen idec inc.,1.0,,,,20130529,pangia robert w,112760213018665,,male,237374815.0
-4920.0,0.0,875045,biogen idec inc.,1.0,,,,20130529,denner alexander j,112760213018668,,male,237374815.0
-2020.0,0.0,875045,biogen idec inc.,1.0,,,,20130529,mulligan richard,112760213018669,,male,237374815.0
-7920.0,0.0,875045,biogen idec inc.,1.0,,,,20130531,denner alexander j,112760213018837,,male,237374815.0
-5020.0,0.0,875045,biogen idec inc.,1.0,,,,20130531,mulligan richard,112760213018838,,male,237374815.0
-2655.0,0.0,875045,biogen idec inc.,1.0,,,,20130604,sherwin stephen a,112760213019294,,male,237374815.0
+375.477,,875045,biogen idec inc.,,1.0,,,20130503,covino gregory f,112760213015484,"VP, Chief Accounting Officer",male,237374815.0
+18060.1115,,875045,biogen idec inc.,,1.0,,,20130507,cox john,112760213015893,EVP Pharmaceutical Oper & Tech,male,237374815.0
+8710.3777,,875045,biogen idec inc.,,1.0,,,20130507,pawlicki raymond,112760213015895,"SVP, Chief Information Officer",male,237374815.0
+12698.0,,875045,biogen idec inc.,1.0,,,,20130529,pangia robert w,112760213018665,,male,237374815.0
+4920.0,,875045,biogen idec inc.,1.0,,,,20130529,denner alexander j,112760213018668,,male,237374815.0
+2020.0,,875045,biogen idec inc.,1.0,,,,20130529,mulligan richard,112760213018669,,male,237374815.0
+7920.0,,875045,biogen idec inc.,1.0,,,,20130531,denner alexander j,112760213018837,,male,237374815.0
+5020.0,,875045,biogen idec inc.,1.0,,,,20130531,mulligan richard,112760213018838,,male,237374815.0
+2655.0,,875045,biogen idec inc.,1.0,,,,20130604,sherwin stephen a,112760213019294,,male,237374815.0
 48911.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130604,scangos george a,112760213019298,Chief Executive Officer,male,237374815.0
 2920.0,7100.0,875045,biogen idec inc.,1.0,,,,20130611,schenk lynn,112760213020031,,female,237374815.0
-33509.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,young william,112760213020329,,male,237374815.0
-6325.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,mulligan richard,112760213020328,,male,237374815.0
-14003.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,pangia robert w,112760213020327,,male,237374815.0
-12460.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,rowinsky eric k,112760213020326,,male,237374815.0
+33509.0,,875045,biogen idec inc.,1.0,,,,20130613,young william,112760213020329,,male,237374815.0
+14003.0,,875045,biogen idec inc.,1.0,,,,20130613,pangia robert w,112760213020327,,male,237374815.0
+12460.0,,875045,biogen idec inc.,1.0,,,,20130613,rowinsky eric k,112760213020326,,male,237374815.0
 4225.0,7100.0,875045,biogen idec inc.,1.0,,,,20130613,schenk lynn,112760213020325,,female,237374815.0
-3960.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,sherwin stephen a,112760213020324,,male,237374815.0
-14468.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,dorsa caroline,112760213020322,,female,237374815.0
-9225.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,denner alexander j,112760213020320,,male,237374815.0
-14235.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,papadopoulos stelios,112760213020319,,male,237374815.0
-9435.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,posner brian s,112760213020317,,male,237374815.0
-9660.0,0.0,875045,biogen idec inc.,1.0,,,,20130613,leaming nancy,112760213020323,,female,237374815.0
-6325.0,0.0,875045,biogen idec inc.,1.0,,,,20130617,denner alexander j,112760213020492,,male,237374815.0
+6325.0,,875045,biogen idec inc.,1.0,,,,20130613,mulligan richard,112760213020328,,male,237374815.0
+9660.0,,875045,biogen idec inc.,1.0,,,,20130613,leaming nancy,112760213020323,,female,237374815.0
+14468.0,,875045,biogen idec inc.,1.0,,,,20130613,dorsa caroline,112760213020322,,female,237374815.0
+9225.0,,875045,biogen idec inc.,1.0,,,,20130613,denner alexander j,112760213020320,,male,237374815.0
+14235.0,,875045,biogen idec inc.,1.0,,,,20130613,papadopoulos stelios,112760213020319,,male,237374815.0
+9435.0,,875045,biogen idec inc.,1.0,,,,20130613,posner brian s,112760213020317,,male,237374815.0
+3960.0,,875045,biogen idec inc.,1.0,,,,20130613,sherwin stephen a,112760213020324,,male,237374815.0
+6325.0,,875045,biogen idec inc.,1.0,,,,20130617,denner alexander j,112760213020492,,male,237374815.0
 50239.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130716,scangos george a,112760213022933,Chief Executive Officer,male,237374815.0
 48000.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130718,scangos george a,112760213023071,Chief Executive Officer,male,237671593.0
 45761.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130802,scangos george a,112760213024187,Chief Executive Officer,male,237671593.0
-4571.0,0.0,875045,biogen idec inc.,,1.0,,,20130828,williams douglas e,112760213026159,EVP Research & Development,male,237671593.0
+4571.0,,875045,biogen idec inc.,,1.0,,,20130828,williams douglas e,112760213026159,EVP Research & Development,male,237671593.0
 43522.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20130904,scangos george a,112760213026579,Chief Executive Officer,male,237671593.0
 3325.0,7100.0,875045,biogen idec inc.,1.0,,,,20130913,schenk lynn,112760213027119,,female,237671593.0
-4885.0,0.0,875045,biogen idec inc.,,1.0,,,20130918,holtzman steven h,112760213027471,EVP Corporate Development,male,237671593.0
-7087.0,0.0,875045,biogen idec inc.,,1.0,,,20130918,clancy paul j,112760213027474,Executive VP and CFO,male,237671593.0
-8710.3777,0.0,875045,biogen idec inc.,,1.0,,,20130918,pawlicki raymond,112760213027467,"SVP, Chief Information Officer",male,237671593.0
-14500.0,0.0,875045,biogen idec inc.,,1.0,,,20130918,sandrock alfred,112760213027470,"Grp SVP, Chief Medical Officer",male,237671593.0
-7087.0,0.0,875045,biogen idec inc.,,1.0,,,20130919,clancy paul j,112760213027535,Executive VP and CFO,male,237671593.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20131002,dipietro kenneth,112760213028316,EVP Human Resources,male,237671593.0
+8710.3777,,875045,biogen idec inc.,,1.0,,,20130918,pawlicki raymond,112760213027467,"SVP, Chief Information Officer",male,237671593.0
+4885.0,,875045,biogen idec inc.,,1.0,,,20130918,holtzman steven h,112760213027471,EVP Corporate Development,male,237671593.0
+14500.0,,875045,biogen idec inc.,,1.0,,,20130918,sandrock alfred,112760213027470,"Grp SVP, Chief Medical Officer",male,237671593.0
+7087.0,,875045,biogen idec inc.,,1.0,,,20130918,clancy paul j,112760213027474,Executive VP and CFO,male,237671593.0
+7087.0,,875045,biogen idec inc.,,1.0,,,20130919,clancy paul j,112760213027535,Executive VP and CFO,male,237671593.0
 41283.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20131002,scangos george a,112760213028519,Chief Executive Officer,male,237671593.0
-6100.0,0.0,875045,biogen idec inc.,1.0,,,,20131002,schenk lynn,112760213028575,,female,237671593.0
-14500.0,0.0,875045,biogen idec inc.,,1.0,,,20131023,sandrock alfred,112760213029672,"Grp SVP, Chief Medical Officer",male,236212930.0
-4100.0,0.0,875045,biogen idec inc.,1.0,,,,20131202,schenk lynn,112760213033273,,female,236212930.0
-17860.1115,0.0,875045,biogen idec inc.,,1.0,,,20131204,cox john,112760213033587,EVP Pharmaceutical Oper & Tech,male,236212930.0
-13667.0,0.0,875045,biogen idec inc.,,1.0,,,20131205,sandrock alfred,112760213033779,"Grp SVP, Chief Medical Officer",male,236212930.0
-3960.0,0.0,875045,biogen idec inc.,1.0,,,,20140106,sherwin stephen a,112760214001094,,male,236332000.0
-14003.0,0.0,875045,biogen idec inc.,1.0,,,,20140107,pangia robert w,112760214001352,,male,236332000.0
-18509.0,0.0,875045,biogen idec inc.,1.0,,,,20140109,young william,112760214001603,,male,236332000.0
-3100.0,0.0,875045,biogen idec inc.,1.0,,,,20140116,schenk lynn,112760214002007,,female,236332000.0
-10440.0,0.0,875045,biogen idec inc.,1.0,,,,20140122,rowinsky eric k,112760214002534,,male,236332000.0
-8073.0,0.0,875045,biogen idec inc.,,1.0,,,20140203,holtzman steven h,112760214004011,EVP Corporate Development,male,236393930.0
-8396.0,0.0,875045,biogen idec inc.,,1.0,,,20140203,kingsley stuart a,112760214004013,"EVP, Global Comm. Operations",male,236393930.0
-7761.0,0.0,875045,biogen idec inc.,,1.0,,,20140203,williams douglas e,112760214004015,EVP Research & Development,male,236393930.0
-1655.0,0.0,875045,biogen idec inc.,,1.0,,,20140203,dipietro kenneth,112760214004020,EVP Human Resources,male,236393930.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20140205,dipietro kenneth,112760214004584,EVP Human Resources,male,236393930.0
-11710.0,0.0,875045,biogen idec inc.,,1.0,,,20140211,clancy paul j,112760214005694,Executive VP and CFO,male,236393930.0
-10752.0,0.0,875045,biogen idec inc.,,1.0,,,20140211,kingsley stuart a,112760214005695,"EVP, Global Comm. Operations",male,236393930.0
-9593.0,0.0,875045,biogen idec inc.,,1.0,,,20140211,williams douglas e,112760214005693,EVP Research & Development,male,236393930.0
+6100.0,,875045,biogen idec inc.,1.0,,,,20131002,schenk lynn,112760213028575,,female,237671593.0
+0.0,,875045,biogen idec inc.,,1.0,,,20131002,dipietro kenneth,112760213028316,EVP Human Resources,male,237671593.0
+14500.0,,875045,biogen idec inc.,,1.0,,,20131023,sandrock alfred,112760213029672,"Grp SVP, Chief Medical Officer",male,236212930.0
+4100.0,,875045,biogen idec inc.,1.0,,,,20131202,schenk lynn,112760213033273,,female,236212930.0
+17860.1115,,875045,biogen idec inc.,,1.0,,,20131204,cox john,112760213033587,EVP Pharmaceutical Oper & Tech,male,236212930.0
+13667.0,,875045,biogen idec inc.,,1.0,,,20131205,sandrock alfred,112760213033779,"Grp SVP, Chief Medical Officer",male,236212930.0
+3960.0,,875045,biogen idec inc.,1.0,,,,20140106,sherwin stephen a,112760214001094,,male,236332000.0
+14003.0,,875045,biogen idec inc.,1.0,,,,20140107,pangia robert w,112760214001352,,male,236332000.0
+18509.0,,875045,biogen idec inc.,1.0,,,,20140109,young william,112760214001603,,male,236332000.0
+3100.0,,875045,biogen idec inc.,1.0,,,,20140116,schenk lynn,112760214002007,,female,236332000.0
+10440.0,,875045,biogen idec inc.,1.0,,,,20140122,rowinsky eric k,112760214002534,,male,236332000.0
+8073.0,,875045,biogen idec inc.,,1.0,,,20140203,holtzman steven h,112760214004011,EVP Corporate Development,male,236393930.0
+8396.0,,875045,biogen idec inc.,,1.0,,,20140203,kingsley stuart a,112760214004013,"EVP, Global Comm. Operations",male,236393930.0
+7761.0,,875045,biogen idec inc.,,1.0,,,20140203,williams douglas e,112760214004015,EVP Research & Development,male,236393930.0
+1655.0,,875045,biogen idec inc.,,1.0,,,20140203,dipietro kenneth,112760214004020,EVP Human Resources,male,236393930.0
+0.0,,875045,biogen idec inc.,,1.0,,,20140205,dipietro kenneth,112760214004584,EVP Human Resources,male,236393930.0
 55417.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140211,scangos george a,112760214005696,Chief Executive Officer,male,236393930.0
-15752.0,0.0,875045,biogen idec inc.,,1.0,,,20140211,sandrock alfred,112760214005691,"Grp SVP, Chief Medical Officer",male,236393930.0
-18977.0,0.0,875045,biogen idec inc.,,1.0,,,20140211,alexander susan h,112760214005643,"EVP, Chief Legal Officer",female,236393930.0
-22921.1115,0.0,875045,biogen idec inc.,,1.0,,,20140211,cox john,112760214005637,EVP Pharmaceutical Oper & Tech,male,236393930.0
-9502.0,0.0,875045,biogen idec inc.,,1.0,,,20140211,holtzman steven h,112760214005692,EVP Corporate Development,male,236393930.0
+10752.0,,875045,biogen idec inc.,,1.0,,,20140211,kingsley stuart a,112760214005695,"EVP, Global Comm. Operations",male,236393930.0
+11710.0,,875045,biogen idec inc.,,1.0,,,20140211,clancy paul j,112760214005694,Executive VP and CFO,male,236393930.0
+9593.0,,875045,biogen idec inc.,,1.0,,,20140211,williams douglas e,112760214005693,EVP Research & Development,male,236393930.0
+9502.0,,875045,biogen idec inc.,,1.0,,,20140211,holtzman steven h,112760214005692,EVP Corporate Development,male,236393930.0
+15752.0,,875045,biogen idec inc.,,1.0,,,20140211,sandrock alfred,112760214005691,"Grp SVP, Chief Medical Officer",male,236393930.0
+18977.0,,875045,biogen idec inc.,,1.0,,,20140211,alexander susan h,112760214005643,"EVP, Chief Legal Officer",female,236393930.0
+22921.1115,,875045,biogen idec inc.,,1.0,,,20140211,cox john,112760214005637,EVP Pharmaceutical Oper & Tech,male,236393930.0
 52961.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140212,scangos george a,112760214005927,Chief Executive Officer,male,236393930.0
-13667.0,0.0,875045,biogen idec inc.,,1.0,,,20140212,sandrock alfred,112760214005930,"Grp SVP, Chief Medical Officer",male,236393930.0
-11481.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,williams douglas e,112760214006510,EVP Research & Development,male,236393930.0
-1701.834,0.0,875045,biogen idec inc.,,1.0,,,20140214,artavanis-tsakonas spyridon,112760214006506,"SVP, Chief Scientific Officer",male,236393930.0
-20109.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,alexander susan h,112760214006503,"EVP, Chief Legal Officer",female,236393930.0
-21407.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,sandrock alfred,112760214006501,"Grp SVP, Chief Medical Officer",male,236393930.0
-13193.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,clancy paul j,112760214006507,Executive VP and CFO,male,236393930.0
-682.477,0.0,875045,biogen idec inc.,,1.0,,,20140214,covino gregory f,112760214006499,"VP, Chief Accounting Officer",male,236393930.0
+13667.0,,875045,biogen idec inc.,,1.0,,,20140212,sandrock alfred,112760214005930,"Grp SVP, Chief Medical Officer",male,236393930.0
+11481.0,,875045,biogen idec inc.,,1.0,,,20140214,williams douglas e,112760214006510,EVP Research & Development,male,236393930.0
+13193.0,,875045,biogen idec inc.,,1.0,,,20140214,clancy paul j,112760214006507,Executive VP and CFO,male,236393930.0
+1701.834,,875045,biogen idec inc.,,1.0,,,20140214,artavanis-tsakonas spyridon,112760214006506,"SVP, Chief Scientific Officer",male,236393930.0
+20109.0,,875045,biogen idec inc.,,1.0,,,20140214,alexander susan h,112760214006503,"EVP, Chief Legal Officer",female,236393930.0
+21407.0,,875045,biogen idec inc.,,1.0,,,20140214,sandrock alfred,112760214006501,"Grp SVP, Chief Medical Officer",male,236393930.0
+682.477,,875045,biogen idec inc.,,1.0,,,20140214,covino gregory f,112760214006499,"VP, Chief Accounting Officer",male,236393930.0
 57331.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140214,scangos george a,112760214006497,Chief Executive Officer,male,236393930.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,dipietro kenneth,112760214006494,EVP Human Resources,male,236393930.0
-24108.1115,0.0,875045,biogen idec inc.,,1.0,,,20140214,cox john,112760214006491,EVP Pharmaceutical Oper & Tech,male,236393930.0
-11939.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,kingsley stuart a,112760214006487,"EVP, Global Comm. Operations",male,236393930.0
-10634.0,0.0,875045,biogen idec inc.,,1.0,,,20140214,holtzman steven h,112760214006500,EVP Corporate Development,male,236393930.0
-9412.0,0.0,875045,biogen idec inc.,,1.0,,,20140219,holtzman steven h,112760214007120,EVP Corporate Development,male,236393930.0
-25478.1115,0.0,875045,biogen idec inc.,,1.0,,,20140225,cox john,112760214008180,EVP Pharmaceutical Oper & Tech,male,236393930.0
-22455.0,0.0,875045,biogen idec inc.,,1.0,,,20140225,sandrock alfred,112760214008186,"Grp SVP, Chief Medical Officer",male,236393930.0
-22127.0,0.0,875045,biogen idec inc.,,1.0,,,20140225,alexander susan h,112760214008172,"EVP, Chief Legal Officer",female,236393930.0
-15455.0,0.0,875045,biogen idec inc.,,1.0,,,20140225,clancy paul j,112760214008176,Executive VP and CFO,male,236393930.0
-21407.0,0.0,875045,biogen idec inc.,,1.0,,,20140227,sandrock alfred,112760214008888,"Grp SVP, Chief Medical Officer",male,236393930.0
+0.0,,875045,biogen idec inc.,,1.0,,,20140214,dipietro kenneth,112760214006494,EVP Human Resources,male,236393930.0
+24108.1115,,875045,biogen idec inc.,,1.0,,,20140214,cox john,112760214006491,EVP Pharmaceutical Oper & Tech,male,236393930.0
+11939.0,,875045,biogen idec inc.,,1.0,,,20140214,kingsley stuart a,112760214006487,"EVP, Global Comm. Operations",male,236393930.0
+10634.0,,875045,biogen idec inc.,,1.0,,,20140214,holtzman steven h,112760214006500,EVP Corporate Development,male,236393930.0
+9412.0,,875045,biogen idec inc.,,1.0,,,20140219,holtzman steven h,112760214007120,EVP Corporate Development,male,236393930.0
+22455.0,,875045,biogen idec inc.,,1.0,,,20140225,sandrock alfred,112760214008186,"Grp SVP, Chief Medical Officer",male,236393930.0
+25478.1115,,875045,biogen idec inc.,,1.0,,,20140225,cox john,112760214008180,EVP Pharmaceutical Oper & Tech,male,236393930.0
+22127.0,,875045,biogen idec inc.,,1.0,,,20140225,alexander susan h,112760214008172,"EVP, Chief Legal Officer",female,236393930.0
+15455.0,,875045,biogen idec inc.,,1.0,,,20140225,clancy paul j,112760214008176,Executive VP and CFO,male,236393930.0
+21407.0,,875045,biogen idec inc.,,1.0,,,20140227,sandrock alfred,112760214008888,"Grp SVP, Chief Medical Officer",male,236393930.0
 54389.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140304,scangos george a,112760214009893,Chief Executive Officer,male,236393930.0
-18578.0,0.0,875045,biogen idec inc.,,1.0,,,20140304,sandrock alfred,112760214009894,"Grp SVP, Chief Medical Officer",male,236393930.0
-15407.0,0.0,875045,biogen idec inc.,,1.0,,,20140305,sandrock alfred,112760214010230,"Grp SVP, Chief Medical Officer",male,236393930.0
-3511.0,0.0,875045,biogen idec inc.,,1.0,,,20140312,kingsley stuart a,112760214011380,"EVP, Global Comm. Operations",male,236393930.0
-7660.0,0.0,875045,biogen idec inc.,1.0,,,,20140312,leaming nancy,112760214011383,,female,236393930.0
+18578.0,,875045,biogen idec inc.,,1.0,,,20140304,sandrock alfred,112760214009894,"Grp SVP, Chief Medical Officer",male,236393930.0
+15407.0,,875045,biogen idec inc.,,1.0,,,20140305,sandrock alfred,112760214010230,"Grp SVP, Chief Medical Officer",male,236393930.0
+3511.0,,875045,biogen idec inc.,,1.0,,,20140312,kingsley stuart a,112760214011380,"EVP, Global Comm. Operations",male,236393930.0
+7660.0,,875045,biogen idec inc.,1.0,,,,20140312,leaming nancy,112760214011383,,female,236393930.0
 28265.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140312,scangos george a,112760214011384,Chief Executive Officer,male,236393930.0
-8191.0,0.0,875045,biogen idec inc.,,1.0,,,20140318,holtzman steven h,112760214012093,EVP Corporate Development,male,236393930.0
-14468.0,0.0,875045,biogen idec inc.,1.0,,,,20140321,dorsa caroline,112760214012478,,female,236393930.0
-7976.0,0.0,875045,biogen idec inc.,,1.0,,,20140321,williams douglas e,112760214012476,EVP Research & Development,male,236393930.0
-6435.0,0.0,875045,biogen idec inc.,1.0,,,,20140401,posner brian s,112760214013127,,male,236393930.0
-14003.0,0.0,875045,biogen idec inc.,1.0,,,,20140402,pangia robert w,112760214013561,,male,236393930.0
+8191.0,,875045,biogen idec inc.,,1.0,,,20140318,holtzman steven h,112760214012093,EVP Corporate Development,male,236393930.0
+14468.0,,875045,biogen idec inc.,1.0,,,,20140321,dorsa caroline,112760214012478,,female,236393930.0
+7976.0,,875045,biogen idec inc.,,1.0,,,20140321,williams douglas e,112760214012476,EVP Research & Development,male,236393930.0
+6435.0,,875045,biogen idec inc.,1.0,,,,20140401,posner brian s,112760214013127,,male,236393930.0
 26142.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140402,scangos george a,112760214013552,Chief Executive Officer,male,236393930.0
-2243.834,0.0,875045,biogen idec inc.,,1.0,,,20140403,artavanis-tsakonas spyridon,112760214013989,"SVP, Chief Scientific Officer",male,236393930.0
-6970.0,0.0,875045,biogen idec inc.,,1.0,,,20140421,holtzman steven h,112760214014900,EVP Corporate Development,male,237199825.0
-916.477,0.0,875045,biogen idec inc.,,1.0,,,20140502,covino gregory f,112760214016101,"VP, Chief Accounting Officer",male,237199825.0
+14003.0,,875045,biogen idec inc.,1.0,,,,20140402,pangia robert w,112760214013561,,male,236393930.0
+2243.834,,875045,biogen idec inc.,,1.0,,,20140403,artavanis-tsakonas spyridon,112760214013989,"SVP, Chief Scientific Officer",male,236393930.0
+6970.0,,875045,biogen idec inc.,,1.0,,,20140421,holtzman steven h,112760214014900,EVP Corporate Development,male,237199825.0
+916.477,,875045,biogen idec inc.,,1.0,,,20140502,covino gregory f,112760214016101,"VP, Chief Accounting Officer",male,237199825.0
 24019.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140502,scangos george a,112760214016105,Chief Executive Officer,male,237199825.0
-5749.0,0.0,875045,biogen idec inc.,,1.0,,,20140520,holtzman steven h,112760214018206,EVP Corporate Development,male,237199825.0
+5749.0,,875045,biogen idec inc.,,1.0,,,20140520,holtzman steven h,112760214018206,EVP Corporate Development,male,237199825.0
+,,875045,biogen idec inc.,,1.0,,,20140603,koppel adam,112760214019748,"SVP, Chief Strategy Officer",male,237199825.0
 23535.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140603,scangos george a,112760214019743,Chief Executive Officer,male,237199825.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20140603,koppel adam,112760214019748,"SVP, Chief Strategy Officer",male,237199825.0
-15338.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,dorsa caroline,112760214020939,,female,237199825.0
-4830.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,sherwin stephen a,112760214020938,,male,237199825.0
+14873.0,,875045,biogen idec inc.,1.0,,,,20140616,pangia robert w,112760214020910,,male,237199825.0
+7195.0,,875045,biogen idec inc.,1.0,,,,20140616,mulligan richard,112760214020911,,male,237199825.0
+6605.0,,875045,biogen idec inc.,1.0,,,,20140616,posner brian s,112760214020912,,male,237199825.0
+15540.0,,875045,biogen idec inc.,1.0,,,,20140616,papadopoulos stelios,112760214020913,,male,237199825.0
+11310.0,,875045,biogen idec inc.,1.0,,,,20140616,rowinsky eric k,112760214020914,,male,237199825.0
+7195.0,,875045,biogen idec inc.,1.0,,,,20140616,denner alexander j,112760214020916,,male,237199825.0
+8530.0,,875045,biogen idec inc.,1.0,,,,20140616,leaming nancy,112760214020926,,female,237199825.0
 4195.0,3100.0,875045,biogen idec inc.,1.0,,,,20140616,schenk lynn,112760214020935,,female,237199825.0
-8530.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,leaming nancy,112760214020926,,female,237199825.0
-7195.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,denner alexander j,112760214020916,,male,237199825.0
-15540.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,papadopoulos stelios,112760214020913,,male,237199825.0
-6605.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,posner brian s,112760214020912,,male,237199825.0
-7195.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,mulligan richard,112760214020911,,male,237199825.0
-14873.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,pangia robert w,112760214020910,,male,237199825.0
-11310.0,0.0,875045,biogen idec inc.,1.0,,,,20140616,rowinsky eric k,112760214020914,,male,237199825.0
-6000.0,0.0,875045,biogen idec inc.,1.0,,,,20140623,posner brian s,112760214021498,,male,237199825.0
+4830.0,,875045,biogen idec inc.,1.0,,,,20140616,sherwin stephen a,112760214020938,,male,237199825.0
+15338.0,,875045,biogen idec inc.,1.0,,,,20140616,dorsa caroline,112760214020939,,female,237199825.0
+6000.0,,875045,biogen idec inc.,1.0,,,,20140623,posner brian s,112760214021498,,male,237199825.0
 34812.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140717,scangos george a,112760214023507,Chief Executive Officer,male,237199825.0
 22496.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140718,scangos george a,112760214023584,Chief Executive Officer,male,236144705.0
-5700.0,0.0,875045,biogen idec inc.,1.0,,,,20140725,posner brian s,112760214023843,,male,236144705.0
+5700.0,,875045,biogen idec inc.,1.0,,,,20140725,posner brian s,112760214023843,,male,236144705.0
 21368.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140804,scangos george a,112760214024651,Chief Executive Officer,male,236144705.0
 20240.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20140904,scangos george a,112760214027194,Chief Executive Officer,male,236144705.0
-5249.0,0.0,875045,biogen idec inc.,,1.0,,,20140922,holtzman steven h,112760214028289,EVP Corporate Development,male,236144705.0
-7420.0,0.0,875045,biogen idec inc.,,1.0,,,20141002,karaboutis adriana,112760214029122,"EVP, Tech. and Bus. Solutions",female,236144705.0
-3499.0,0.0,875045,biogen idec inc.,,1.0,,,20141002,holtzman steven h,112760214029119,EVP Corporate Development,male,236144705.0
+5249.0,,875045,biogen idec inc.,,1.0,,,20140922,holtzman steven h,112760214028289,EVP Corporate Development,male,236144705.0
 19113.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20141002,scangos george a,112760214029121,Chief Executive Officer,male,236144705.0
+7420.0,,875045,biogen idec inc.,,1.0,,,20141002,karaboutis adriana,112760214029122,"EVP, Tech. and Bus. Solutions",female,236144705.0
+3499.0,,875045,biogen idec inc.,,1.0,,,20141002,holtzman steven h,112760214029119,EVP Corporate Development,male,236144705.0
 17985.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20141104,scangos george a,112760214031049,Chief Executive Officer,male,236155407.0
-1749.0,0.0,875045,biogen idec inc.,,1.0,,,20141112,holtzman steven h,112760214032008,EVP Corporate Development,male,236155407.0
-4425.0,0.0,875045,biogen idec inc.,1.0,,,,20141203,sherwin stephen a,112760214034136,,male,236155407.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20141203,holtzman steven h,112760214034138,EVP Corporate Development,male,236155407.0
-8507.0,0.0,875045,biogen idec inc.,,1.0,,,20141203,karaboutis adriana,112760214034142,"EVP, Tech. and Bus. Solutions",female,236155407.0
-14574.0,0.0,875045,biogen idec inc.,,1.0,,,20141205,sandrock alfred,112760214034342,"Grp SVP, Chief Medical Officer",male,236155407.0
-352.015,0.0,875045,biogen idec inc.,,1.0,,,20141216,artavanis-tsakonas spyridon,112760214035275,"SVP, Chief Scientific Officer",male,236155407.0
-3097.0,0.0,875045,biogen idec inc.,,1.0,,,20150202,holtzman steven h,112760215003822,EVP Corporate Development,male,234614474.0
-11074.0,0.0,875045,biogen idec inc.,,1.0,,,20150202,williams douglas e,112760215003824,EVP Research & Development,male,234614474.0
-1656.0,0.0,875045,biogen idec inc.,,1.0,,,20150202,dipietro kenneth,112760215003826,EVP Human Resources,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150203,dipietro kenneth,112760215004114,EVP Human Resources,male,234614474.0
-12908.0,0.0,875045,biogen idec inc.,,1.0,,,20150210,williams douglas e,112760215005315,EVP Research & Development,male,234614474.0
-25874.0,0.0,875045,biogen idec inc.,,1.0,,,20150210,alexander susan h,112760215005314,"EVP, Chief Legal Officer",female,234614474.0
-15717.0,0.0,875045,biogen idec inc.,,1.0,,,20150210,sandrock alfred,112760215005312,"Grp SVP, Chief Medical Officer",male,234614474.0
-30534.2925,0.0,875045,biogen idec inc.,,1.0,,,20150210,cox john,112760215005308,EVP Pharmaceutical Oper & Tech,male,234614474.0
-6228.0,0.0,875045,biogen idec inc.,,1.0,,,20150210,kingsley stuart a,112760215005309,"EVP, Global Comm. Operations",male,234614474.0
-5450.0,0.0,875045,biogen idec inc.,1.0,,,,20150210,posner brian s,112760215005306,,male,234614474.0
-4527.0,0.0,875045,biogen idec inc.,,1.0,,,20150210,holtzman steven h,112760215005310,EVP Corporate Development,male,234614474.0
-19984.0,0.0,875045,biogen idec inc.,,1.0,,,20150210,clancy paul j,112760215005307,Executive VP and CFO,male,234614474.0
+1749.0,,875045,biogen idec inc.,,1.0,,,20141112,holtzman steven h,112760214032008,EVP Corporate Development,male,236155407.0
+4425.0,,875045,biogen idec inc.,1.0,,,,20141203,sherwin stephen a,112760214034136,,male,236155407.0
+0.0,,875045,biogen idec inc.,,1.0,,,20141203,holtzman steven h,112760214034138,EVP Corporate Development,male,236155407.0
+8507.0,,875045,biogen idec inc.,,1.0,,,20141203,karaboutis adriana,112760214034142,"EVP, Tech. and Bus. Solutions",female,236155407.0
+14574.0,,875045,biogen idec inc.,,1.0,,,20141205,sandrock alfred,112760214034342,"Grp SVP, Chief Medical Officer",male,236155407.0
+352.015,,875045,biogen idec inc.,,1.0,,,20141216,artavanis-tsakonas spyridon,112760214035275,"SVP, Chief Scientific Officer",male,236155407.0
+3097.0,,875045,biogen idec inc.,,1.0,,,20150202,holtzman steven h,112760215003822,EVP Corporate Development,male,234614474.0
+11074.0,,875045,biogen idec inc.,,1.0,,,20150202,williams douglas e,112760215003824,EVP Research & Development,male,234614474.0
+1656.0,,875045,biogen idec inc.,,1.0,,,20150202,dipietro kenneth,112760215003826,EVP Human Resources,male,234614474.0
+0.0,,875045,biogen idec inc.,,1.0,,,20150203,dipietro kenneth,112760215004114,EVP Human Resources,male,234614474.0
+12908.0,,875045,biogen idec inc.,,1.0,,,20150210,williams douglas e,112760215005315,EVP Research & Development,male,234614474.0
+25874.0,,875045,biogen idec inc.,,1.0,,,20150210,alexander susan h,112760215005314,"EVP, Chief Legal Officer",female,234614474.0
+15717.0,,875045,biogen idec inc.,,1.0,,,20150210,sandrock alfred,112760215005312,"Grp SVP, Chief Medical Officer",male,234614474.0
+4527.0,,875045,biogen idec inc.,,1.0,,,20150210,holtzman steven h,112760215005310,EVP Corporate Development,male,234614474.0
+19984.0,,875045,biogen idec inc.,,1.0,,,20150210,clancy paul j,112760215005307,Executive VP and CFO,male,234614474.0
+30534.2925,,875045,biogen idec inc.,,1.0,,,20150210,cox john,112760215005308,EVP Pharmaceutical Oper & Tech,male,234614474.0
+5450.0,,875045,biogen idec inc.,1.0,,,,20150210,posner brian s,112760215005306,,male,234614474.0
+6228.0,,875045,biogen idec inc.,,1.0,,,20150210,kingsley stuart a,112760215005309,"EVP, Global Comm. Operations",male,234614474.0
 34277.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20150211,scangos george a,112760215005507,Chief Executive Officer,male,234614474.0
-14574.0,0.0,875045,biogen idec inc.,,1.0,,,20150211,sandrock alfred,112760215005509,"Grp SVP, Chief Medical Officer",male,234614474.0
-15422.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,sandrock alfred,112760215006510,"Grp SVP, Chief Medical Officer",male,234614474.0
+14574.0,,875045,biogen idec inc.,,1.0,,,20150211,sandrock alfred,112760215005509,"Grp SVP, Chief Medical Officer",male,234614474.0
+1159.015,,875045,biogen idec inc.,,1.0,,,20150217,artavanis-tsakonas spyridon,112760215006514,"SVP, Chief Scientific Officer",male,234614474.0
 47900.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20150217,scangos george a,112760215006529,Chief Executive Officer,male,234614474.0
-1445.871,0.0,875045,biogen idec inc.,,1.0,,,20150217,covino gregory f,112760215006525,"VP, Chief Accounting Officer",male,234614474.0
-6449.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,holtzman steven h,112760215006518,EVP Corporate Development,male,234614474.0
-1159.015,0.0,875045,biogen idec inc.,,1.0,,,20150217,artavanis-tsakonas spyridon,112760215006514,"SVP, Chief Scientific Officer",male,234614474.0
-22257.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,clancy paul j,112760215006507,Executive VP and CFO,male,234614474.0
-15658.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,williams douglas e,112760215006499,EVP Research & Development,male,234614474.0
-8132.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,kingsley stuart a,112760215006494,"EVP, Global Comm. Operations",male,234614474.0
-32511.2925,0.0,875045,biogen idec inc.,,1.0,,,20150217,cox john,112760215006501,EVP Pharmaceutical Oper & Tech,male,234614474.0
-27867.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,alexander susan h,112760215006497,"EVP, Chief Legal Officer",female,234614474.0
-1991.0,0.0,875045,biogen idec inc.,,1.0,,,20150217,dipietro kenneth,112760215006495,EVP Human Resources,male,234614474.0
-15004.0,0.0,875045,biogen idec inc.,,1.0,,,20150218,sandrock alfred,112760215006766,"Grp SVP, Chief Medical Officer",male,234614474.0
-803.0,0.0,875045,biogen idec inc.,,1.0,,,20150218,dipietro kenneth,112760215006769,EVP Human Resources,male,234614474.0
-4321.0,0.0,875045,biogen idec inc.,,1.0,,,20150218,holtzman steven h,112760215006771,EVP Corporate Development,male,234614474.0
+1445.871,,875045,biogen idec inc.,,1.0,,,20150217,covino gregory f,112760215006525,"VP, Chief Accounting Officer",male,234614474.0
+6449.0,,875045,biogen idec inc.,,1.0,,,20150217,holtzman steven h,112760215006518,EVP Corporate Development,male,234614474.0
+15422.0,,875045,biogen idec inc.,,1.0,,,20150217,sandrock alfred,112760215006510,"Grp SVP, Chief Medical Officer",male,234614474.0
+8132.0,,875045,biogen idec inc.,,1.0,,,20150217,kingsley stuart a,112760215006494,"EVP, Global Comm. Operations",male,234614474.0
+32511.2925,,875045,biogen idec inc.,,1.0,,,20150217,cox john,112760215006501,EVP Pharmaceutical Oper & Tech,male,234614474.0
+15658.0,,875045,biogen idec inc.,,1.0,,,20150217,williams douglas e,112760215006499,EVP Research & Development,male,234614474.0
+27867.0,,875045,biogen idec inc.,,1.0,,,20150217,alexander susan h,112760215006497,"EVP, Chief Legal Officer",female,234614474.0
+1991.0,,875045,biogen idec inc.,,1.0,,,20150217,dipietro kenneth,112760215006495,EVP Human Resources,male,234614474.0
+22257.0,,875045,biogen idec inc.,,1.0,,,20150217,clancy paul j,112760215006507,Executive VP and CFO,male,234614474.0
+15004.0,,875045,biogen idec inc.,,1.0,,,20150218,sandrock alfred,112760215006766,"Grp SVP, Chief Medical Officer",male,234614474.0
+803.0,,875045,biogen idec inc.,,1.0,,,20150218,dipietro kenneth,112760215006769,EVP Human Resources,male,234614474.0
+4321.0,,875045,biogen idec inc.,,1.0,,,20150218,holtzman steven h,112760215006771,EVP Corporate Development,male,234614474.0
 47075.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20150218,scangos george a,112760215006777,Chief Executive Officer,male,234614474.0
 46538.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20150220,scangos george a,112760215007422,Chief Executive Officer,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,1.0,1.0,,,20150225,scangos george a,112760215008398,Chief Executive Officer,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,kingsley stuart a,112760215008397,"EVP, Global Comm. Operations",male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,cox john,112760215008396,EVP Pharmaceutical Oper & Tech,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,sandrock alfred,112760215008395,"Grp SVP, Chief Medical Officer",male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,artavanis-tsakonas spyridon,112760215008393,"SVP, Chief Scientific Officer",male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,clancy paul j,112760215008392,Executive VP and CFO,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,williams douglas e,112760215008391,EVP Research & Development,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,koppel adam,112760215008387,"SVP, Chief Strategy Officer",male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,dipietro kenneth,112760215008386,EVP Human Resources,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,covino gregory f,112760215008384,"VP, Chief Accounting Officer",male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,alexander susan h,112760215008382,"EVP, Chief Legal Officer",female,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,karaboutis adriana,112760215008390,"EVP, Tech. and Bus. Solutions",female,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150225,holtzman steven h,112760215008388,EVP Corporate Development,male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,sandrock alfred,112760215008395,"Grp SVP, Chief Medical Officer",male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,cox john,112760215008396,EVP Pharmaceutical Oper & Tech,male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,holtzman steven h,112760215008388,EVP Corporate Development,male,234614474.0
+,,875045,biogen idec inc.,1.0,1.0,,,20150225,scangos george a,112760215008398,Chief Executive Officer,male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,artavanis-tsakonas spyridon,112760215008393,"SVP, Chief Scientific Officer",male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,kingsley stuart a,112760215008397,"EVP, Global Comm. Operations",male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,clancy paul j,112760215008392,Executive VP and CFO,male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,koppel adam,112760215008387,"SVP, Chief Strategy Officer",male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,karaboutis adriana,112760215008390,"EVP, Tech. and Bus. Solutions",female,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,williams douglas e,112760215008391,EVP Research & Development,male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,dipietro kenneth,112760215008386,EVP Human Resources,male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,covino gregory f,112760215008384,"VP, Chief Accounting Officer",male,234614474.0
+,,875045,biogen idec inc.,,1.0,,,20150225,alexander susan h,112760215008382,"EVP, Chief Legal Officer",female,234614474.0
 45713.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20150303,scangos george a,112760215009590,Chief Executive Officer,male,234614474.0
-9004.0,0.0,875045,biogen idec inc.,,1.0,,,20150303,sandrock alfred,112760215009601,"Grp SVP, Chief Medical Officer",male,234614474.0
-4150.0,0.0,875045,biogen idec inc.,1.0,,,,20150311,sherwin stephen a,112760215011050,,male,234614474.0
-14873.0,0.0,875045,biogen idec inc.,1.0,,,,20150311,pangia robert w,112760215011048,,male,234614474.0
-11310.0,0.0,875045,biogen idec inc.,1.0,,,,20150311,rowinsky eric k,112760215011049,,male,234614474.0
+9004.0,,875045,biogen idec inc.,,1.0,,,20150303,sandrock alfred,112760215009601,"Grp SVP, Chief Medical Officer",male,234614474.0
+4150.0,,875045,biogen idec inc.,1.0,,,,20150311,sherwin stephen a,112760215011050,,male,234614474.0
+11310.0,,875045,biogen idec inc.,1.0,,,,20150311,rowinsky eric k,112760215011049,,male,234614474.0
+14873.0,,875045,biogen idec inc.,1.0,,,,20150311,pangia robert w,112760215011048,,male,234614474.0
 45176.0,10756.0,875045,biogen idec inc.,1.0,1.0,,,20150316,scangos george a,112760215011504,Chief Executive Officer,male,234614474.0
-0.0,0.0,875045,biogen idec inc.,,1.0,,,20150317,dipietro kenneth,112760215011798,EVP Human Resources,male,234614474.0
-11310.0,0.0,875045,biogen idec inc.,1.0,,,,20150318,rowinsky eric k,112760215011911,,male,234614474.0
-11310.0,0.0,875045,biogen idec inc.,1.0,,,,20150320,rowinsky eric k,112760215012208,,male,234614474.0
-11310.0,0.0,875045,biogen inc.,1.0,,,,20150323,rowinsky eric k,112760215012316,,male,234614474.0
-25567.2925,0.0,875045,biogen inc.,,1.0,,,20150326,cox john,112760215012652,EVP Pharmaceutical Oper & Tech,male,234614474.0
-8574.0,0.0,875045,biogen inc.,,1.0,,,20150330,sandrock alfred,112760215012773,"Grp SVP, Chief Medical Officer",male,234614474.0
+0.0,,875045,biogen idec inc.,,1.0,,,20150317,dipietro kenneth,112760215011798,EVP Human Resources,male,234614474.0
+11310.0,,875045,biogen idec inc.,1.0,,,,20150318,rowinsky eric k,112760215011911,,male,234614474.0
+11310.0,,875045,biogen idec inc.,1.0,,,,20150320,rowinsky eric k,112760215012208,,male,234614474.0
+11310.0,,875045,biogen inc.,1.0,,,,20150323,rowinsky eric k,112760215012316,,male,234614474.0
+25567.2925,,875045,biogen inc.,,1.0,,,20150326,cox john,112760215012652,EVP Pharmaceutical Oper & Tech,male,234614474.0
+8574.0,,875045,biogen inc.,,1.0,,,20150330,sandrock alfred,112760215012773,"Grp SVP, Chief Medical Officer",male,234614474.0
 43814.0,10756.0,875045,biogen inc.,1.0,1.0,,,20150402,scangos george a,112760215013588,Chief Executive Officer,male,234614474.0
-1674.015,0.0,875045,biogen inc.,,1.0,,,20150403,artavanis-tsakonas spyridon,112760215013942,"SVP, Chief Scientific Officer",male,234614474.0
+1674.015,,875045,biogen inc.,,1.0,,,20150403,artavanis-tsakonas spyridon,112760215013942,"SVP, Chief Scientific Officer",male,234614474.0
 42452.0,10756.0,875045,biogen inc.,1.0,1.0,,,20150505,scangos george a,112760215016296,Chief Executive Officer,male,235229512.0
-1760.968,0.0,875045,biogen inc.,,1.0,,,20150505,covino gregory f,112760215016297,"VP, Chief Accounting Officer",male,235229512.0
+1760.968,,875045,biogen inc.,,1.0,,,20150505,covino gregory f,112760215016297,"VP, Chief Accounting Officer",male,235229512.0
 41090.0,10756.0,875045,biogen inc.,1.0,1.0,,,20150602,scangos george a,112760215019442,Chief Executive Officer,male,235229512.0
-1662.2572,0.0,875045,biogen inc.,,1.0,,,20150604,koppel adam,112760215019879,"SVP, Chief Strategy Officer",male,235229512.0
-4845.0,0.0,875045,biogen inc.,1.0,,,,20150611,sherwin stephen a,112760215020463,,male,235229512.0
-16580.0,0.0,875045,biogen inc.,1.0,,,,20150611,papadopoulos stelios,112760215020462,,male,235229512.0
-6145.0,0.0,875045,biogen inc.,1.0,,,,20150611,posner brian s,112760215020461,,male,235229512.0
+1662.2572,,875045,biogen inc.,,1.0,,,20150604,koppel adam,112760215019879,"SVP, Chief Strategy Officer",male,235229512.0
+4845.0,,875045,biogen inc.,1.0,,,,20150611,sherwin stephen a,112760215020463,,male,235229512.0
+16580.0,,875045,biogen inc.,1.0,,,,20150611,papadopoulos stelios,112760215020462,,male,235229512.0
+6145.0,,875045,biogen inc.,1.0,,,,20150611,posner brian s,112760215020461,,male,235229512.0
 4890.0,3100.0,875045,biogen inc.,1.0,,,,20150611,schenk lynn,112760215020460,,female,235229512.0
-7924.0,0.0,875045,biogen inc.,1.0,,,,20150611,leaming nancy,112760215020451,,female,235229512.0
-15568.0,0.0,875045,biogen inc.,1.0,,,,20150611,pangia robert w,112760215020458,,male,235229512.0
-16033.0,0.0,875045,biogen inc.,1.0,,,,20150611,dorsa caroline,112760215020454,,female,235229512.0
-7890.0,0.0,875045,biogen inc.,1.0,,,,20150611,denner alexander j,112760215020452,,male,235229512.0
-12005.0,0.0,875045,biogen inc.,1.0,,,,20150611,rowinsky eric k,112760215020450,,male,235229512.0
-7890.0,0.0,875045,biogen inc.,1.0,,,,20150611,mulligan richard,112760215020459,,male,235229512.0
-5745.0,0.0,875045,biogen inc.,1.0,,,,20150616,posner brian s,112760215020831,,male,235229512.0
-11817.0,0.0,875045,biogen inc.,,1.0,,,20150622,williams douglas e,112760215021125,EVP Research & Development,male,235229512.0
-5275.0,0.0,875045,biogen inc.,1.0,,,,20150623,posner brian s,112760215021184,,male,235229512.0
-5000.0,0.0,875045,biogen inc.,1.0,,,,20150727,papadopoulos stelios,112760215023479,,male,235169225.0
+7890.0,,875045,biogen inc.,1.0,,,,20150611,mulligan richard,112760215020459,,male,235229512.0
+16033.0,,875045,biogen inc.,1.0,,,,20150611,dorsa caroline,112760215020454,,female,235229512.0
+7890.0,,875045,biogen inc.,1.0,,,,20150611,denner alexander j,112760215020452,,male,235229512.0
+7924.0,,875045,biogen inc.,1.0,,,,20150611,leaming nancy,112760215020451,,female,235229512.0
+12005.0,,875045,biogen inc.,1.0,,,,20150611,rowinsky eric k,112760215020450,,male,235229512.0
+15568.0,,875045,biogen inc.,1.0,,,,20150611,pangia robert w,112760215020458,,male,235229512.0
+5745.0,,875045,biogen inc.,1.0,,,,20150616,posner brian s,112760215020831,,male,235229512.0
+11817.0,,875045,biogen inc.,,1.0,,,20150622,williams douglas e,112760215021125,EVP Research & Development,male,235229512.0
+5275.0,,875045,biogen inc.,1.0,,,,20150623,posner brian s,112760215021184,,male,235229512.0
+5000.0,,875045,biogen inc.,1.0,,,,20150727,papadopoulos stelios,112760215023479,,male,235169225.0
+8363.0,,875045,biogen inc.,,1.0,,,20151005,karaboutis adriana,112760215028653,"EVP, Tech. and Bus. Solutions",female,235169225.0
+8094.0,,875045,biogen inc.,,1.0,,,20151006,karaboutis adriana,112760215028731,"EVP, Tech. and Bus. Solutions",female,235169225.0
+310000.0,,875045,biogen inc.,1.0,0.0,0.0,0.0,20151026,denner alexander j,89924315007138,,male,222903109.0
+2243.968,,875045,biogen inc.,,1.0,,,20151203,covino gregory f,112760215033163,"VP, Chief Accounting Officer",male,222903109.0
+7875.0,,875045,biogen inc.,,1.0,,,20151203,karaboutis adriana,112760215033167,"EVP, Tech. and Bus. Solutions",female,222903109.0
+7740.0,,875045,biogen inc.,,1.0,,,20151207,sandrock alfred,112760215033389,EVP CMO Neuro & Neurodegenerat,male,222903109.0
+1654.0,,875045,biogen inc.,,1.0,,,20160202,dipietro kenneth,112760216039046,EVP Human Resources,male,218672717.0
+6140.0,,875045,biogen inc.,,1.0,,,20160209,holtzman steven h,112760216040238,EVP Corporate Development,male,218672717.0
+28342.3895,,875045,biogen inc.,,1.0,,,20160209,cox john,112760216040239,EVP Pharmaceutical Oper & Tech,male,218672717.0
+24404.0,,875045,biogen inc.,,1.0,,,20160209,clancy paul j,112760216040240,Executive VP and CFO,male,218672717.0
+29543.0,,875045,biogen inc.,,1.0,,,20160209,alexander susan h,112760216040242,"EVP, Chief Legal Officer",female,218672717.0
+7740.0,,875045,biogen inc.,,1.0,,,20160210,sandrock alfred,112760216040394,EVP CMO Neuro & Neurodegenerat,male,218672717.0
+47059.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160210,scangos george a,112760216040395,Chief Executive Officer,male,218672717.0
+60335.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160217,scangos george a,112760216041961,Chief Executive Officer,male,218672717.0
+30088.3895,,875045,biogen inc.,,1.0,,,20160217,cox john,112760216041960,EVP Pharmaceutical Oper & Tech,male,218672717.0
+3601.0,,875045,biogen inc.,,1.0,,,20160217,dipietro kenneth,112760216041958,EVP Human Resources,male,218672717.0
+2642.968,,875045,biogen inc.,,1.0,,,20160217,covino gregory f,112760216041956,"VP, Chief Accounting Officer",male,218672717.0
+31504.0,,875045,biogen inc.,,1.0,,,20160217,alexander susan h,112760216041952,"EVP, Chief Legal Officer",female,218672717.0
+8020.0,,875045,biogen inc.,,1.0,,,20160217,holtzman steven h,112760216041954,EVP Corporate Development,male,218672717.0
+2452.112,,875045,biogen inc.,,1.0,,,20160217,artavanis-tsakonas spyridon,112760216041950,"SVP, Chief Scientific Officer",male,218672717.0
+26564.0,,875045,biogen inc.,,1.0,,,20160217,clancy paul j,112760216041949,Executive VP and CFO,male,218672717.0
+8712.0,,875045,biogen inc.,,1.0,,,20160217,sandrock alfred,112760216041955,EVP CMO Neuro & Neurodegenerat,male,218672717.0
+7990.0,,875045,biogen inc.,,1.0,,,20160219,sandrock alfred,112760216042447,EVP CMO Neuro & Neurodegenerat,male,218672717.0
+59848.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160219,scangos george a,112760216042448,Chief Executive Officer,male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,artavanis-tsakonas spyridon,112760216043222,"SVP, Chief Scientific Officer",male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,karaboutis adriana,112760216043225,"EVP, Tech, Bus. Sol & Corp Aff",female,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,alexander susan h,112760216043224,"EVP, Chief Legal Officer",female,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,sandrock alfred,112760216043223,EVP CMO Neuro & Neurodegenerat,male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,dipietro kenneth,112760216043221,EVP Human Resources,male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,koppel adam,112760216043216,"EVP, Strategy and Bus. Dev.",male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,clancy paul j,112760216043219,Executive VP and CFO,male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,cox john,112760216043218,EVP Pharmaceutical Oper & Tech,male,218672717.0
+,,875045,biogen inc.,1.0,1.0,,,20160224,scangos george a,112760216043217,Chief Executive Officer,male,218672717.0
+,,875045,biogen inc.,,1.0,,,20160224,covino gregory f,112760216043220,"VP, Chief Accounting Officer",male,218672717.0
+26870.0,,875045,biogen inc.,,1.0,,,20160225,clancy paul j,112760216043358,Executive VP and CFO,male,218672717.0
+61417.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160225,scangos george a,112760216043343,Chief Executive Officer,male,218672717.0
+8173.0,,875045,biogen inc.,,1.0,,,20160225,sandrock alfred,112760216043344,EVP CMO Neuro & Neurodegenerat,male,218672717.0
+8211.0,,875045,biogen inc.,,1.0,,,20160225,karaboutis adriana,112760216043348,"EVP, Tech, Bus. Sol & Corp Aff",female,218672717.0
+8326.0,,875045,biogen inc.,,1.0,,,20160225,holtzman steven h,112760216043349,EVP Corporate Development,male,218672717.0
+3937.0,,875045,biogen inc.,,1.0,,,20160225,dipietro kenneth,112760216043351,EVP Human Resources,male,218672717.0
+1865.2572,,875045,biogen inc.,,1.0,,,20160225,koppel adam,112760216043352,"EVP, Strategy and Bus. Dev.",male,218672717.0
+30516.3895,,875045,biogen inc.,,1.0,,,20160225,cox john,112760216043353,EVP Pharmaceutical Oper & Tech,male,218672717.0
+31840.0,,875045,biogen inc.,,1.0,,,20160225,alexander susan h,112760216043354,"EVP, Chief Legal Officer",female,218672717.0
+2549.112,,875045,biogen inc.,,1.0,,,20160225,artavanis-tsakonas spyridon,112760216043356,"SVP, Chief Scientific Officer",male,218672717.0
+2686.968,,875045,biogen inc.,,1.0,,,20160225,covino gregory f,112760216043357,"VP, Chief Accounting Officer",male,218672717.0
+8127.0,,875045,biogen inc.,,1.0,,,20160226,karaboutis adriana,112760216043585,"EVP, Tech, Bus. Sol & Corp Aff",female,218672717.0
+7990.0,,875045,biogen inc.,,1.0,,,20160226,sandrock alfred,112760216043586,EVP CMO Neuro & Neurodegenerat,male,218672717.0
+60921.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160303,scangos george a,112760216044842,Chief Executive Officer,male,218672717.0
+39045.2446,,875045,biogen inc.,,1.0,,,20160405,cox john,112760216048854,EVP Pharmaceutical Oper & Tech,male,218672717.0
+60434.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160405,scangos george a,112760216048853,Chief Executive Officer,male,218672717.0
+3149.9671,,875045,biogen inc.,,1.0,,,20160405,artavanis-tsakonas spyridon,112760216048856,"EVP, Chief Scientific Officer",male,218672717.0
+60277.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160407,scangos george a,112760216049043,Chief Executive Officer,male,218672717.0
+1848.1123,,875045,biogen inc.,,1.0,,,20160407,koppel adam,112760216049044,"EVP, Strategy and Bus. Dev.",male,218672717.0
+3006.8231,,875045,biogen inc.,,1.0,,,20160502,covino gregory f,112760216050480,"VP, Chief Accounting Officer",male,219051491.0
+59790.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160504,scangos george a,112760216051137,Chief Executive Officer,male,219051491.0
+,,875045,biogen inc.,,1.0,,,20160504,vounatsos michel,112760216051139,EVP & Chief Commercial Officer,male,219051491.0
+59633.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160527,scangos george a,112760216053642,Chief Executive Officer,male,219051491.0
+55778.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160602,scangos george a,112760216054486,Chief Executive Officer,male,219051491.0
+3034.0,,875045,biogen inc.,,1.0,,,20160602,ehlers michael d,112760216054487,"EVP, Research and Development",male,219051491.0
+54936.0,10756.0,875045,biogen inc.,1.0,1.0,0.0,0.0,20160606,scangos george a,89924316021852,Chief Executive Officer,male,219051491.0
+2957.1123,,875045,biogen inc.,0.0,1.0,0.0,0.0,20160606,koppel adam,89924316021857,"EVP, Strategy and Bus. Dev.",male,219051491.0
+2402.1123,,875045,biogen inc.,,1.0,,,20160607,koppel adam,112760216054895,"EVP, Strategy and Bus. Dev.",male,219051491.0
+8950.0,310000.0,875045,biogen inc.,1.0,,,,20160609,denner alexander j,112760216055227,,male,219051491.0
+5905.0,,875045,biogen inc.,1.0,,,,20160609,sherwin stephen a,112760216055214,,male,219051491.0
+5950.0,3100.0,875045,biogen inc.,1.0,,,,20160609,schenk lynn,112760216055212,,female,219051491.0
+13065.0,,875045,biogen inc.,1.0,,,,20160609,rowinsky eric k,112760216055210,,male,219051491.0
+18170.0,10000.0,875045,biogen inc.,1.0,,,,20160609,papadopoulos stelios,112760216055209,,male,219051491.0
+8984.0,,875045,biogen inc.,1.0,,,,20160609,leaming nancy,112760216055203,,female,219051491.0
+17093.0,,875045,biogen inc.,1.0,,,,20160609,dorsa caroline,112760216055202,,female,219051491.0
+16628.0,,875045,biogen inc.,1.0,,,,20160609,pangia robert w,112760216055198,,male,219051491.0
+6335.0,,875045,biogen inc.,1.0,,,,20160609,posner brian s,112760216055193,,male,219051491.0
+8950.0,,875045,biogen inc.,1.0,,,,20160609,mulligan richard,112760216055205,,male,219051491.0
+54779.0,10756.0,875045,biogen inc.,1.0,1.0,,,20160722,scangos george a,112760216058454,Chief Executive Officer,male,219120762.0
+17093.0,,875045,biogen inc.,1.0,,,,20160926,dorsa caroline,112760216063177,,female,219120762.0
+7841.0,,875045,biogen inc.,,1.0,,,20161004,karaboutis adriana,112760216064102,"EVP, Tech, Bus. Sol & Corp Aff",female,219120762.0
+7579.0,,875045,biogen inc.,,1.0,,,20161005,karaboutis adriana,112760216064339,"EVP, Tech, Bus. Sol & Corp Aff",female,219120762.0
+4905.0,,875045,biogen inc.,1.0,,,,20161114,sherwin stephen a,112760216066963,,male,217574479.0
+3883.8231,,875045,biogen inc.,,1.0,,,20161205,covino gregory f,112760216069149,"VP, Chief Accounting Officer",male,217574479.0
+7360.0,,875045,biogen inc.,,1.0,,,20161205,karaboutis adriana,112760216069152,"EVP, Tech, Bus. Sol & Corp Aff",female,217574479.0
+16628.0,,875045,biogen inc.,1.0,,,,20170110,pangia robert w,112760217001434,,male,215900000.0
+,,875045,biogen inc.,1.0,1.0,,,20170217,vounatsos michel,112760217007116,Chief Executive Officer,male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,alexander susan h,112760217007118,"EVP, Chief Legal Officer",female,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,sandrock alfred,112760217007117,EVP CMO Neuro & Neurodegenerat,male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,clancy paul j,112760217007115,Executive VP and CFO,male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,covino gregory f,112760217007113,"VP, Chief Accounting Officer",male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,ehlers michael d,112760217007110,"EVP, Research and Development",male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,mckenzie paul,112760217007109,EVP Pharmaceutical Oper & Tech,male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,dipietro kenneth,112760217007108,EVP Human Resources,male,215951945.0
+,,875045,biogen inc.,,1.0,,,20170217,karaboutis adriana,112760217007114,"EVP, Tech, Bus. Sol & Corp Aff",female,215951945.0
+1433.931,,875045,biogen inc.,1.0,1.0,,,20170301,vounatsos michel,112760217009254,Chief Executive Officer,male,215951945.0
+34990.0,,875045,biogen inc.,,1.0,,,20170302,alexander susan h,112760217009820,"EVP, Chief Legal Officer",female,215951945.0
+7177.0,,875045,biogen inc.,,1.0,,,20170302,dipietro kenneth,112760217009803,EVP Human Resources,male,215951945.0
+8752.0,,875045,biogen inc.,,1.0,,,20170302,karaboutis adriana,112760217009807,"EVP, Tech, Bus. Sol & Corp Aff",female,215951945.0
+30596.0,,875045,biogen inc.,,1.0,,,20170302,clancy paul j,112760217009829,Executive VP and CFO,male,215951945.0
+10013.8551,,875045,biogen inc.,,1.0,,,20170302,sandrock alfred,112760217009826,EVP CMO Neuro & Neurodegenerat,male,215951945.0
+4504.8231,,875045,biogen inc.,,1.0,,,20170302,covino gregory f,112760217009812,"VP, Chief Accounting Officer",male,215951945.0
+9040.8551,,875045,biogen inc.,,1.0,,,20170303,sandrock alfred,112760217010297,EVP CMO Neuro & Neurodegenerat,male,215951945.0
+3291.443,,875045,biogen inc.,,1.0,,,20170303,mckenzie paul,112760217010305,EVP Pharmaceutical Oper & Tech,male,215951945.0
+20705.0,,875045,biogen inc.,,1.0,,,20170314,clancy paul j,112760217011701,Executive VP and CFO,male,215951945.0
+7059.8551,,875045,biogen inc.,,1.0,,,20170404,sandrock alfred,112760217013898,EVP CMO Neuro & Neurodegenerat,male,215951945.0
+10813.0,,875045,biogen inc.,,1.0,,,20170427,clancy paul j,112760217015712,Executive VP and CFO,male,212115203.0
+383858.0,,875045,biogen inc.,1.0,,,,20170501,denner alexander j,112760217016142,,male,212115203.0
+2927.458,,875045,biogen inc.,1.0,1.0,,,20170502,vounatsos michel,112760217016342,Chief Executive Officer,male,212115203.0
+4099.458,,875045,biogen inc.,1.0,1.0,,,20170504,vounatsos michel,112760217016857,Chief Executive Officer,male,212115203.0
+3616.0,,875045,biogen inc.,,1.0,,,20170605,ehlers michael d,112760217020555,"EVP, Research and Development",male,212115203.0
+10063.0,,875045,biogen inc.,1.0,,,,20170609,leaming nancy,112760217021097,,female,212115203.0
+17707.0,,875045,biogen inc.,1.0,,,,20170609,pangia robert w,112760217021098,,male,212115203.0
+19946.0,10000.0,875045,biogen inc.,1.0,,,,20170609,papadopoulos stelios,112760217021099,,male,212115203.0
+5984.0,,875045,biogen inc.,1.0,,,,20170609,sherwin stephen a,112760217021101,,male,212115203.0
+7414.0,,875045,biogen inc.,1.0,,,,20170609,posner brian s,112760217021096,,male,212115203.0
+10029.0,,875045,biogen inc.,1.0,,,,20170609,mulligan richard,112760217021103,,male,212115203.0
+10029.0,383858.0,875045,biogen inc.,1.0,,,,20170609,denner alexander j,112760217021094,,male,212115203.0
+14144.0,,875045,biogen inc.,1.0,,,,20170609,rowinsky eric k,112760217021106,,male,212115203.0
+7029.0,3100.0,875045,biogen inc.,1.0,,,,20170609,schenk lynn,112760217021095,,female,212115203.0
+18172.0,,875045,biogen inc.,1.0,,,,20170609,dorsa caroline,112760217021105,,female,212115203.0
+6330.0,,875045,biogen inc.,1.0,,,,20170612,posner brian s,112760217021193,,male,212115203.0
+,,875045,biogen inc.,,1.0,,,20170705,kress jean-paul,112760217023131,EVP Pres Int'l & Global Hd GTO,male,212115203.0
+27232.0,,875045,biogen inc.,,1.0,,,20170720,alexander susan h,112760217023953,EVP Chief Legal Corp Svc & Sec,female,212115203.0
+22258.0,,875045,biogen inc.,,1.0,,,20170726,alexander susan h,112760217024164,EVP Chief Legal Corp Svc & Sec,female,211431746.0
+860.0,,875045,biogen inc.,,1.0,,,20170803,gregory ginger,112760217024875,"EVP, Human Resources",female,211431746.0
+383858.0,,875045,biogen inc.,1.0,0.0,0.0,0.0,20170831,denner alexander j,114036117034050,,male,211431746.0
+413858.0,,875045,biogen inc.,1.0,0.0,0.0,0.0,20171130,denner alexander j,89924317027610,,male,211476936.0
+4439.3601,,875045,biogen inc.,,1.0,,,20171205,covino gregory f,112760217033936,"VP, Chief Accounting Officer",male,211476936.0
+2350.0,,875045,biogen inc.,,1.0,,,20171205,guindo chirfi,112760217033939,EVP Glob. Mkt Acc & Cust Innov,male,211476936.0
+5134.0,,875045,biogen inc.,1.0,,,,20171205,sherwin stephen a,112760217033932,,male,211476936.0
+4879.458,,875045,biogen inc.,1.0,1.0,,,20180102,vounatsos michel,112760218000128,Chief Executive Officer,male,211500000.0
+,,875045,biogen inc.,,1.0,,,20180104,capello jeffrey d,112760218001115,EVP & Chief Financial Officer,male,211500000.0
+17707.0,,875045,biogen inc.,1.0,,,,20180110,pangia robert w,112760218001563,,male,211500000.0
+7847.3821,,875045,biogen inc.,,1.0,,,20180214,sandrock alfred,112760218006179,"EVP, Chief Medical Officer",male,211562686.0
+,,875045,biogen inc.,1.0,1.0,,,20180214,vounatsos michel,112760218006182,Chief Executive Officer,male,211562686.0
+,,875045,biogen inc.,,1.0,,,20180214,gregory ginger,112760218006184,"EVP, Human Resources",female,211562686.0
+,,875045,biogen inc.,,1.0,,,20180214,mckenzie paul,112760218006186,EVP Pharmaceutical Oper & Tech,male,211562686.0
+,,875045,biogen inc.,,1.0,,,20180214,covino gregory f,112760218006187,"VP, Chief Accounting Officer",male,211562686.0
+,,875045,biogen inc.,,1.0,,,20180214,alexander susan h,112760218006188,EVP Chief Legal Corp Svc & Sec,female,211562686.0
+,,875045,biogen inc.,,1.0,,,20180214,ehlers michael d,112760218006193,"EVP, Research and Development",male,211562686.0
+7296.3821,,875045,biogen inc.,,1.0,,,20180220,sandrock alfred,112760218007393,"EVP, Chief Medical Officer",male,211562686.0
+8590.3821,,875045,biogen inc.,,1.0,,,20180220,sandrock alfred,112760218007209,"EVP, Chief Medical Officer",male,211562686.0
+4411.819,,875045,biogen inc.,,1.0,,,20180220,mckenzie paul,112760218007206,EVP Pharmaceutical Oper & Tech,male,211562686.0
+4898.359,,875045,biogen inc.,,1.0,,,20180220,ehlers michael d,112760218007195,"EVP, Research and Development",male,211562686.0
+8356.458,,875045,biogen inc.,1.0,1.0,,,20180220,vounatsos michel,112760218007215,Chief Executive Officer,male,211562686.0
+23460.0,,875045,biogen inc.,,1.0,,,20180220,alexander susan h,112760218007183,EVP Chief Legal Corp Svc & Sec,female,211562686.0
+4544.3601,,875045,biogen inc.,,1.0,,,20180220,covino gregory f,112760218007189,"VP, Chief Accounting Officer",male,211562686.0
+6553.3821,,875045,biogen inc.,,1.0,,,20180221,sandrock alfred,112760218007526,"EVP, Chief Medical Officer",male,211562686.0
+24368.0,,875045,biogen inc.,,1.0,,,20180226,alexander susan h,112760218008398,EVP Chief Legal Corp Svc & Sec,female,211562686.0
+4680.3601,,875045,biogen inc.,,1.0,,,20180226,covino gregory f,112760218008404,"VP, Chief Accounting Officer",male,211562686.0
+7461.3821,,875045,biogen inc.,,1.0,,,20180226,sandrock alfred,112760218008406,"EVP, Chief Medical Officer",male,211562686.0
+4744.3601,,875045,biogen inc.,,1.0,,,20180227,covino gregory f,112760218008813,"VP, Chief Accounting Officer",male,211562686.0
+24844.0,,875045,biogen inc.,,1.0,,,20180227,alexander susan h,112760218008811,EVP Chief Legal Corp Svc & Sec,female,211562686.0
+6812.3821,,875045,biogen inc.,,1.0,,,20180227,sandrock alfred,112760218008815,"EVP, Chief Medical Officer",male,211562686.0
+6553.3821,,875045,biogen inc.,,1.0,,,20180228,sandrock alfred,112760218009190,"EVP, Chief Medical Officer",male,211562686.0
+,,875045,biogen inc.,,1.0,,,20180305,covino gregory f,112760218010078,"VP, Chief Accounting Officer",male,211562686.0
+4301.819,,875045,biogen inc.,,1.0,,,20180305,mckenzie paul,112760218010088,EVP Pharmaceutical Oper & Tech,male,211562686.0
+461858.0,,875045,biogen inc.,1.0,,,,20180427,denner alexander j,112760218015376,,male,211007945.0
+9368.27,,875045,biogen inc.,1.0,1.0,,,20180504,vounatsos michel,112760218016415,Chief Executive Officer,male,211007945.0
+5281.171,,875045,biogen inc.,,1.0,,,20180605,ehlers michael d,112760218020025,"EVP, Research and Development",male,211007945.0
+10943.0,,875045,biogen inc.,1.0,,,,20180614,leaming nancy,112760218020959,,female,211007945.0
+7210.0,,875045,biogen inc.,1.0,,,,20180614,posner brian s,112760218020970,,male,211007945.0
+18587.0,,875045,biogen inc.,1.0,,,,20180614,pangia robert w,112760218020966,,male,211007945.0
+10909.0,,875045,biogen inc.,1.0,,,,20180614,mulligan richard,112760218020962,,male,211007945.0
+10909.0,461858.0,875045,biogen inc.,1.0,,,,20180614,denner alexander j,112760218020987,,male,211007945.0
+19052.0,,875045,biogen inc.,1.0,,,,20180614,dorsa caroline,112760218020954,,female,211007945.0
+15024.0,,875045,biogen inc.,1.0,,,,20180614,rowinsky eric k,112760218020945,,male,211007945.0
+7909.0,3100.0,875045,biogen inc.,1.0,,,,20180614,schenk lynn,112760218020940,,female,211007945.0
+6014.0,,875045,biogen inc.,1.0,,,,20180614,sherwin stephen a,112760218020935,,male,211007945.0
+3190.0,28206.0,875045,biogen inc.,1.0,,,,20180614,papadopoulos stelios,112760218020950,,male,211007945.0
+,,875045,biogen inc.,,1.0,,,20180703,karp daniel,112760218022624,"EVP, Corporate Development",male,211007945.0
+959.0,,875045,biogen inc.,,1.0,,,20180803,gregory ginger,112760218024587,"EVP, Human Resources",female,201442850.0
+4281.171,,875045,biogen inc.,,1.0,,,20180927,ehlers michael d,112760218028453,"EVP, Research and Development",male,201442850.0
+5164.0,,875045,biogen inc.,1.0,,,,20181105,sherwin stephen a,112760218032080,,male,201482595.0
+7877.0,3100.0,875045,biogen inc.,1.0,,,,20181203,schenk lynn,112760218035013,,female,201482595.0
+2543.0,,875045,biogen inc.,,1.0,,,20181204,guindo chirfi,112760218035245,EVP Glob. Mkt Acc & Cust Innov,male,201482595.0
+,,875045,biogen inc.,,1.0,,,20181206,kramer robin,112760218035371,"VP, Chief Accounting Officer",male,201482595.0
+917.0,,875045,biogen inc.,,1.0,,,20190104,capello jeffrey d,112760219001282,EVP & Chief Financial Officer,male,197200000.0
+524658.0,,875045,biogen inc.,1.0,,,,20190201,denner alexander j,112760219003363,,male,196708784.0
+,,875045,biogen inc.,,1.0,,,20190214,kramer robin,112760219006086,"VP, Chief Accounting Officer",male,196708784.0
+6519.631,,875045,biogen inc.,,1.0,,,20190214,mckenzie paul,112760219006088,EVP Pharmaceutical Oper & Tech,male,196708784.0
+2244.0,,875045,biogen inc.,,1.0,,,20190214,gregory ginger,112760219006080,"EVP, Human Resources",female,196708784.0
+13645.27,,875045,biogen inc.,1.0,1.0,,,20190214,vounatsos michel,112760219006101,Chief Executive Officer,male,196708784.0
+8753.1941,,875045,biogen inc.,,1.0,,,20190214,sandrock alfred,112760219006099,"EVP, Chief Medical Officer",male,196708784.0
+,,875045,biogen inc.,,1.0,,,20190214,karp daniel,112760219006084,"EVP, Corporate Development",male,196708784.0
+6841.171,,875045,biogen inc.,,1.0,,,20190214,ehlers michael d,112760219006077,"EVP, Research and Development",male,196708784.0
+,,875045,biogen inc.,,1.0,,,20190214,capello jeffrey d,112760219006075,EVP & Chief Financial Officer,male,196708784.0
+27091.0,,875045,biogen inc.,,1.0,,,20190214,alexander susan h,112760219006073,EVP Chief Legal Officer & Sec.,female,196708784.0
+,,875045,biogen inc.,,1.0,,,20190214,guindo chirfi,112760219006082,EVP Glob. Mkt Acc & Cust Innov,male,196708784.0
+6895.0,,875045,biogen inc.,1.0,,,,20190215,posner brian s,112760219006317,,male,196708784.0
+28027.0,,875045,biogen inc.,,1.0,,,20190220,alexander susan h,112760219007250,EVP Chief Legal Officer & Sec.,female,196708784.0
+7777.171,,875045,biogen inc.,,1.0,,,20190220,ehlers michael d,112760219007251,"EVP, Research and Development",male,196708784.0
+7324.631,,875045,biogen inc.,,1.0,,,20190220,mckenzie paul,112760219007260,EVP Pharmaceutical Oper & Tech,male,196708784.0
+9485.1941,,875045,biogen inc.,,1.0,,,20190220,sandrock alfred,112760219007261,"EVP, Chief Medical Officer",male,196708784.0
+16574.27,,875045,biogen inc.,1.0,1.0,,,20190220,vounatsos michel,112760219007262,Chief Executive Officer,male,196708784.0
+10409.1941,,875045,biogen inc.,,1.0,,,20190226,sandrock alfred,112760219008414,"EVP, Chief Medical Officer",male,196708784.0
+31976.0,,875045,biogen inc.,,1.0,,,20190226,alexander susan h,112760219008415,EVP Chief Legal Officer & Sec.,female,196708784.0
+7234.631,,875045,biogen inc.,,1.0,,,20190305,mckenzie paul,112760219009924,EVP Pharmaceutical Oper & Tech,male,196708784.0
+18587.0,,875045,biogen inc.,1.0,,,,20190319,pangia robert w,112760219012198,,male,196708784.0
+643000.0,,875045,biogen inc.,1.0,,,,20190502,denner alexander j,112760219017009,,male,193893397.0
+21007.321,,875045,biogen inc.,1.0,1.0,,,20190502,vounatsos michel,112760219016956,Chief Executive Officer,male,193893397.0
+21829.321,,875045,biogen inc.,1.0,1.0,,,20190506,vounatsos michel,112760219017441,Chief Executive Officer,male,193893397.0
+8025.222,,875045,biogen inc.,,1.0,,,20190604,ehlers michael d,112760219020742,"EVP, Research and Development",male,193893397.0
+20207.0,,875045,biogen inc.,1.0,,,,20190620,dorsa caroline,112760219022416,,female,193893397.0
+12064.0,643000.0,875045,biogen inc.,1.0,,,,20190620,denner alexander j,112760219022414,,male,193893397.0
+12098.0,,875045,biogen inc.,1.0,,,,20190620,leaming nancy,112760219022418,,female,193893397.0
+12064.0,,875045,biogen inc.,1.0,,,,20190620,mulligan richard,112760219022420,,male,193893397.0
+19742.0,,875045,biogen inc.,1.0,,,,20190620,pangia robert w,112760219022422,,male,193893397.0
+5095.0,28206.0,875045,biogen inc.,1.0,,,,20190620,papadopoulos stelios,112760219022424,,male,193893397.0
+8050.0,,875045,biogen inc.,1.0,,,,20190620,posner brian s,112760219022426,,male,193893397.0
+16179.0,,875045,biogen inc.,1.0,,,,20190620,rowinsky eric k,112760219022427,,male,193893397.0
+9032.0,3100.0,875045,biogen inc.,1.0,,,,20190620,schenk lynn,112760219022429,,female,193893397.0
+6319.0,,875045,biogen inc.,1.0,,,,20190620,sherwin stephen a,112760219022431,,male,193893397.0
+1155.0,,875045,biogen inc.,1.0,,,,20190620,hawkins william a,112760219022434,,male,193893397.0
+1155.0,,875045,biogen inc.,1.0,,,,20190620,mantas jesus b,112760219022435,,male,193893397.0
+264.387,,875045,biogen inc.,,1.0,,,20190705,karp daniel,112760219024060,"EVP, Corporate Development",male,193893397.0
+2215.0,,875045,biogen inc.,,1.0,,,20190805,gregory ginger,112760219026026,"EVP, Human Resources",female,184447218.0
+6995.0,,875045,biogen inc.,1.0,,,,20191203,posner brian s,112760219034175,,male,180441878.0
+2695.0,,875045,biogen inc.,,1.0,,,20191203,guindo chirfi,112760219034176,EVP Glob. Prod Strat and Comm,male,180441878.0
+150.481,,875045,biogen inc.,,1.0,,,20191205,kramer robin,112760219034363,"VP, Chief Accounting Officer",male,180441878.0
+1813.0,,875045,biogen inc.,,1.0,,,20200106,capello jeffrey d,112760220001123,EVP & Chief Financial Officer,male,174200000.0
+930.387,,875045,biogen inc.,,1.0,,,20200214,karp daniel,112760220005781,"EVP, Corporate Development",male,174064011.0
+236.481,,875045,biogen inc.,,1.0,,,20200214,kramer robin,112760220005782,"VP, Chief Accounting Officer",male,174064011.0
+4603.0,,875045,biogen inc.,,1.0,,,20200214,gregory ginger,112760220005779,"EVP, Human Resources",female,174064011.0
+2231.264,969.366,875045,biogen inc.,,1.0,,,20200214,galdes alphonse,112760220005776,EVP Pharmaceutical Oper & Tech,male,174064011.0
+3118.0,,875045,biogen inc.,,1.0,,,20200214,capello jeffrey d,112760220005773,EVP & Chief Financial Officer,male,174064011.0
+3871.0,,875045,biogen inc.,,1.0,,,20200214,guindo chirfi,112760220005780,EVP Glob. Prod Strat and Comm,male,174064011.0
+28928.321,,875045,biogen inc.,1.0,1.0,,,20200214,vounatsos michel,112760220005771,Chief Executive Officer,male,174064011.0
+13806.2451,,875045,biogen inc.,,1.0,,,20200214,sandrock alfred,112760220005770,"EVP, Research & Development",male,174064011.0
+35708.0,,875045,biogen inc.,,1.0,,,20200214,alexander susan h,112760220005772,EVP Chief Legal Off & Corp Sec,female,174064011.0
+36572.0,,875045,biogen inc.,,1.0,,,20200219,alexander susan h,112760220006544,EVP Chief Legal Off & Corp Sec,female,174064011.0
+2542.264,969.366,875045,biogen inc.,,1.0,,,20200219,galdes alphonse,112760220006546,EVP Pharmaceutical Oper & Tech,male,174064011.0
+14481.2451,,875045,biogen inc.,,1.0,,,20200219,sandrock alfred,112760220006549,"EVP, Research & Development",male,174064011.0
+31625.321,,875045,biogen inc.,1.0,1.0,,,20200219,vounatsos michel,112760220006552,Chief Executive Officer,male,174064011.0
+15438.0,,875045,biogen inc.,1.0,,,,20200312,sherwin stephen a,112760220010505,,male,174064011.0
+16328.0,,875045,biogen inc.,1.0,,,,20200605,sherwin stephen a,112760220019033,,male,163187486.0
+17069.0,,875045,biogen inc.,1.0,,,,20200605,rowinsky eric k,112760220019032,,male,163187486.0
+7885.0,,875045,biogen inc.,1.0,,,,20200605,posner brian s,112760220019031,,male,163187486.0
+6565.0,28206.0,875045,biogen inc.,1.0,,,,20200605,papadopoulos stelios,112760220019030,,male,163187486.0
+20632.0,,875045,biogen inc.,1.0,,,,20200605,pangia robert w,112760220019029,,male,163187486.0
+12954.0,,875045,biogen inc.,1.0,,,,20200605,mulligan richard,112760220019027,,male,163187486.0
+2045.0,,875045,biogen inc.,1.0,,,,20200605,mantas jesus b,112760220019025,,male,163187486.0
+2045.0,,875045,biogen inc.,1.0,,,,20200605,hawkins william a,112760220019021,,male,163187486.0
+12954.0,643000.0,875045,biogen inc.,1.0,,,,20200605,denner alexander j,112760220019014,,male,163187486.0
+12988.0,,875045,biogen inc.,1.0,,,,20200605,leaming nancy,112760220019023,,female,163187486.0
+21097.0,,875045,biogen inc.,1.0,,,,20200605,dorsa caroline,112760220019019,,female,163187486.0
+,,875045,biogen inc.,,1.0,,,20200706,kramer robin,112760220021183,"VP, Chief Accounting Officer",male,163187486.0
+4691.3603,,875045,biogen inc.,,1.0,,,20200804,gregory ginger,112760220022686,"EVP, Human Resources",female,158313471.0
+,,875045,biogen inc.,,1.0,,,20200903,mcdonnell michael r,112760220024721,"EVP, Chief Financial Officer",male,158313471.0
+13066.2101,,875045,biogen inc.,,1.0,,,20201106,sandrock alfred,112760220028410,"EVP, Research & Development",male,153881597.0
+34810.286,,875045,biogen inc.,1.0,1.0,,,20201201,vounatsos michel,112760220030238,Chief Executive Officer,male,153881597.0
+3790.0,,875045,biogen inc.,,1.0,,,20201203,guindo chirfi,112760220030492,EVP Glob. Prod Strat and Comm,male,153881597.0
+373.446,,875045,biogen inc.,,1.0,,,20201207,kramer robin,112760220030793,"VP, Chief Accounting Officer",male,153881597.0
+7249.3603,,875045,biogen inc.,,1.0,,,20210129,gregory ginger,112760221002975,"EVP, Human Resources",female,152400000.0
+3445.229,969.366,875045,biogen inc.,,1.0,,,20210129,galdes alphonse,112760221002978,EVP Pharmaceutical Oper & Tech,male,152400000.0
+41117.0,,875045,biogen inc.,,1.0,,,20210129,alexander susan h,112760221002980,EVP Chief Legal Off & Corp Sec,female,152400000.0
+51153.286,,875045,biogen inc.,1.0,1.0,,,20210129,vounatsos michel,112760221002973,Chief Executive Officer,male,152400000.0
+16794.2101,,875045,biogen inc.,,1.0,,,20210129,sandrock alfred,112760221002974,"EVP, Research & Development",male,152400000.0
+2943.0,,875045,biogen inc.,1.0,,,,20210210,mantas jesus b,112760221004941,,male,152335731.0
+591.446,,875045,biogen inc.,,1.0,,,20210217,kramer robin,112760221006274,"SVP, Chief Accounting Officer",male,152335731.0
+52969.286,,875045,biogen inc.,1.0,1.0,,,20210217,vounatsos michel,112760221006281,Chief Executive Officer,male,152335731.0
+17738.2101,,875045,biogen inc.,,1.0,,,20210217,sandrock alfred,112760221006278,"EVP, Research & Development",male,152335731.0
+6006.0,,875045,biogen inc.,,1.0,,,20210217,guindo chirfi,112760221006270,EVP Glob. Prod Strat and Comm,male,152335731.0
+4303.229,969.366,875045,biogen inc.,,1.0,,,20210217,galdes alphonse,112760221006267,EVP Pharmaceutical Oper & Tech,male,152335731.0
+41576.0,,875045,biogen inc.,,1.0,,,20210217,alexander susan h,112760221006261,EVP Chief Legal Off & Corp Sec,female,152335731.0
+7990.3603,,875045,biogen inc.,,1.0,,,20210217,gregory ginger,112760221006268,"EVP, Human Resources",female,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,sandrock alfred,112760221007000,"EVP, Research & Development",male,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,mcdonnell michael r,112760221006995,"EVP, Chief Financial Officer",male,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,kramer robin,112760221006986,"SVP, Chief Accounting Officer",male,152335731.0
+,,875045,biogen inc.,1.0,1.0,,,20210222,vounatsos michel,112760221007011,Chief Executive Officer,male,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,gregory ginger,112760221006976,"EVP, Human Resources",female,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,galdes alphonse,112760221006974,EVP Pharmaceutical Oper & Tech,male,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,alexander susan h,112760221006970,EVP Chief Legal Off & Corp Sec,female,152335731.0
+,,875045,biogen inc.,,1.0,,,20210222,guindo chirfi,112760221006982,EVP Glob. Prod Strat and Comm,male,152335731.0
+7400.0,,875045,biogen inc.,1.0,,,,20210607,posner brian s,112760221019402,,male,150554750.0
+2919.0,,875045,biogen inc.,,1.0,,,20210609,guindo chirfi,112760221019552,Head of Glob Prod Strat & Com,male,150554750.0
+10169.1121,,875045,biogen inc.,,1.0,,,20210609,sandrock alfred,112760221019553,Head of Research & Development,male,150554750.0
+871.348,,875045,biogen inc.,,1.0,,,20210702,kramer robin,112760221021266,Chief Accounting Officer,male,150554750.0
+775.0,,875045,biogen inc.,1.0,,,,20210702,jones william d /ca/,112760221021327,,male,150554750.0
+3718.0,,875045,biogen inc.,1.0,,,,20210702,mantas jesus b,112760221021331,,male,150554750.0
+2820.0,,875045,biogen inc.,1.0,,,,20210702,hawkins william a,112760221021332,,male,150554750.0
+7840.0,28206.0,875045,biogen inc.,1.0,,,,20210702,papadopoulos stelios,112760221021336,,male,150554750.0
+775.0,,875045,biogen inc.,1.0,,,,20210702,freire maria c,112760221021337,,female,150554750.0
+13729.0,,875045,biogen inc.,1.0,,,,20210702,mulligan richard,112760221021341,,male,150554750.0
+8175.0,,875045,biogen inc.,1.0,,,,20210702,posner brian s,112760221021343,,male,150554750.0
+17844.0,,875045,biogen inc.,1.0,,,,20210702,rowinsky eric k,112760221021346,,male,150554750.0
+17103.0,,875045,biogen inc.,1.0,,,,20210702,sherwin stephen a,112760221021349,,male,150554750.0
+21872.0,,875045,biogen inc.,1.0,,,,20210702,dorsa caroline,112760221021351,,female,150554750.0
+13729.0,643000.0,875045,biogen inc.,1.0,,,,20210702,denner alexander j,112760221021352,,male,150554750.0
+13763.0,,875045,biogen inc.,1.0,,,,20210702,leaming nancy,112760221021340,,female,150554750.0
+3423.0,,875045,biogen inc.,,1.0,,,20210903,mcdonnell michael r,112760221024863,"EVP, Chief Financial Officer",male,149033443.0
+1106.0,,875045,biogen inc.,,1.0,,,20211206,izzar rachid,112760221030351,Head of Alzheimer's Disease,male,146892712.0
+1110.348,,875045,biogen inc.,,1.0,,,20211207,kramer robin,112760221030462,Chief Accounting Officer,male,146892712.0
+,,875045,biogen inc.,,1.0,,,20211210,kramer robin,112760221030720,Chief Accounting Officer,male,146892712.0
+10027.6165,,875045,biogen inc.,,1.0,,,20220121,gregory ginger,112760222001863,"EVP, Human Resources",female,147000000.0
+1354.348,,875045,biogen inc.,,1.0,,,20220121,kramer robin,112760222001861,Chief Accounting Officer,male,147000000.0
+63666.188,,875045,biogen inc.,1.0,1.0,,,20220121,vounatsos michel,112760222001859,Chief Executive Officer,male,147000000.0
+43878.0,,875045,biogen inc.,,1.0,,,20220121,alexander susan h,112760222001858,EVP Chief Legal Off & Corp Sec,female,147000000.0
+6007.0,,875045,biogen inc.,,1.0,,,20220121,guindo chirfi,112760222001862,Head of Glob Prod Strat & Com,male,147000000.0
+5064.131,969.366,875045,biogen inc.,,1.0,,,20220121,galdes alphonse,112760222001864,EVP Pharmaceutical Oper & Tech,male,147000000.0
+,,875045,biogen inc.,,1.0,,,20220214,kramer robin,112760222004794,Chief Accounting Officer,male,146962793.0
+,,875045,biogen inc.,,1.0,,,20220214,alexander susan h,112760222004811,EVP Chief Legal Off & Corp Sec,female,146962793.0
+,,875045,biogen inc.,,1.0,,,20220214,gregory ginger,112760222004806,"EVP, Human Resources",female,146962793.0
+,,875045,biogen inc.,,1.0,,,20220214,guindo chirfi,112760222004801,Head of Glob Prod Strat & Com,male,146962793.0
+,,875045,biogen inc.,1.0,1.0,,,20220214,vounatsos michel,112760222004775,Chief Executive Officer,male,146962793.0
+,,875045,biogen inc.,,1.0,,,20220214,izzar rachid,112760222004781,Head of Alzheimer's Disease,male,146962793.0
+,,875045,biogen inc.,,1.0,,,20220214,murphy nicole,112760222004784,Head of Pharm Ops and Tech,female,146962793.0
+,,875045,biogen inc.,,1.0,,,20220214,mcdonnell michael r,112760222004790,"EVP, Chief Financial Officer",male,146962793.0
+6262.0,,875045,biogen inc.,,1.0,,,20220215,guindo chirfi,112760222004989,Head of Glob Prod Strat & Com,male,146962793.0
+1458.348,,875045,biogen inc.,,1.0,,,20220215,kramer robin,112760222004987,Chief Accounting Officer,male,146962793.0
+1335.0,,875045,biogen inc.,,1.0,,,20220215,izzar rachid,112760222004988,Head of Alzheimer's Disease,male,146962793.0
+1396.89,,875045,biogen inc.,,1.0,,,20220215,murphy nicole,112760222004984,Head of Pharm Ops and Tech,female,146962793.0
+10447.6165,,875045,biogen inc.,,1.0,,,20220215,gregory ginger,112760222004991,"EVP, Human Resources",female,146962793.0
+44102.0,,875045,biogen inc.,,1.0,,,20220215,alexander susan h,112760222004993,EVP Chief Legal Off & Corp Sec,female,146962793.0
+63816.188,,875045,biogen inc.,1.0,1.0,,,20220215,vounatsos michel,112760222004986,Chief Executive Officer,male,146962793.0
+1754.0,,875045,biogen inc.,,1.0,,,20220223,izzar rachid,112760222006269,Head of Alzheimer's Disease,male,146962793.0
+4427.0,,875045,biogen inc.,,1.0,,,20220223,mcdonnell michael r,112760222006275,"EVP, Chief Financial Officer",male,146962793.0
+1657.89,,875045,biogen inc.,,1.0,,,20220223,murphy nicole,112760222006278,Head of Pharm Ops and Tech,female,146962793.0
+67261.188,,875045,biogen inc.,1.0,1.0,,,20220223,vounatsos michel,112760222006280,Chief Executive Officer,male,146962793.0
+1737.348,,875045,biogen inc.,,1.0,,,20220223,kramer robin,112760222006271,Chief Accounting Officer,male,146962793.0
+7364.0,,875045,biogen inc.,,1.0,,,20220223,guindo chirfi,112760222006266,Head of Glob Prod Strat & Com,male,146962793.0
+44928.0,,875045,biogen inc.,,1.0,,,20220223,alexander susan h,112760222006262,EVP Chief Legal Off & Corp Sec,female,146962793.0
+11218.6165,,875045,biogen inc.,,1.0,,,20220223,gregory ginger,112760222006264,"EVP, Human Resources",female,146962793.0
+1812.89,,875045,biogen inc.,,1.0,,,20220405,murphy nicole,112760222011610,Head of Pharm Ops and Tech,female,146962793.0
+4190.0,,875045,biogen inc.,1.0,,,,20220617,hawkins william a,112760222017781,,male,146452013.0
+18473.0,,875045,biogen inc.,1.0,,,,20220617,sherwin stephen a,112760222017811,,male,146452013.0
+15099.0,643000.0,875045,biogen inc.,1.0,,,,20220617,denner alexander j,112760222017773,,male,146452013.0
+23242.0,,875045,biogen inc.,1.0,,,,20220617,dorsa caroline,112760222017776,,female,146452013.0
+2145.0,,875045,biogen inc.,1.0,,,,20220617,freire maria c,112760222017779,,female,146452013.0
+19214.0,,875045,biogen inc.,1.0,,,,20220617,rowinsky eric k,112760222017808,,male,146452013.0
+2145.0,,875045,biogen inc.,1.0,,,,20220617,jones william d /ca/,112760222017793,,male,146452013.0
+5088.0,,875045,biogen inc.,1.0,,,,20220617,mantas jesus b,112760222017796,,male,146452013.0
+15099.0,,875045,biogen inc.,1.0,,,,20220617,mulligan richard,112760222017797,,male,146452013.0
+10095.0,28206.0,875045,biogen inc.,1.0,,,,20220617,papadopoulos stelios,112760222017806,,male,146452013.0
+2017.7483,,875045,biogen inc.,,1.0,,,20220706,kramer robin,112760222019021,Chief Accounting Officer,male,146452013.0
+2110.0,,875045,biogen inc.,,1.0,,,20220706,izzar rachid,112760222019020,Head of Alzheimer's Disease,male,146452013.0
+2676.2903,,875045,biogen inc.,,1.0,,,20220803,murphy nicole,112760222020415,Head of Pharm Ops and Tech,female,145113047.0
+6745.0,,875045,biogen inc.,,1.0,,,20220906,mcdonnell michael r,112760222022132,"EVP, Chief Financial Officer",male,145113047.0
+39396.0,,875045,biogen inc.,,1.0,,,20221028,alexander susan h,112760222024470,EVP Chief Legal Off & Corp Sec,female,144001404.0
+,,875045,biogen inc.,1.0,1.0,,,20221205,viehbacher christopher,112760222026909,President and CEO,male,144001404.0
+2768.2903,,875045,biogen inc.,,1.0,,,20221206,murphy nicole,112760222026992,Head of Pharm Ops and Tech,female,144001404.0
+3061.0,,875045,biogen inc.,,1.0,,,20221206,izzar rachid,112760222026993,Head of Alzheimer's Disease,male,144001404.0
+5711.0168,,875045,biogen inc.,,1.0,,,20221212,gregory ginger,112760222027348,"EVP, Human Resources",female,144001404.0
+2211.7483,,875045,biogen inc.,,1.0,,,20221212,kramer robin,112760222027340,Chief Accounting Officer,male,144001404.0
+10163.0168,,875045,biogen inc.,,1.0,,,20230127,gregory ginger,112760223002479,"EVP, Human Resources",female,144000000.0
+4844.0,,875045,biogen inc.,,1.0,,,20230127,izzar rachid,112760223002481,Head of Alzheimer's Disease,male,144000000.0
+4108.2903,,875045,biogen inc.,,1.0,,,20230127,murphy nicole,112760223002483,Head of Pharm Ops and Tech,female,144000000.0
+2652.3923,,875045,biogen inc.,,1.0,,,20230127,singhal priya,112760223002485,Head of Development,female,144000000.0
+3098.7483,,875045,biogen inc.,,1.0,,,20230127,kramer robin,112760223002487,Chief Accounting Officer,male,144000000.0
+45099.0,,875045,biogen inc.,,1.0,,,20230127,alexander susan h,112760223002477,EVP Chief Legal Off & Corp Sec,female,144000000.0
+,,875045,biogen inc.,,1.0,,,20230203,singhal priya,112760223003460,Head of Development,female,144000000.0
+,,875045,biogen inc.,,1.0,,,20230210,alexander susan h,112760223004573,EVP Chief Legal Off & Corp Sec,female,144000000.0
+,,875045,biogen inc.,,1.0,,,20230210,gregory ginger,112760223004577,"EVP, Human Resources",female,144000000.0
+,,875045,biogen inc.,,1.0,,,20230210,izzar rachid,112760223004578,Head of Global Product Strat.,male,144000000.0
+,,875045,biogen inc.,,1.0,,,20230210,mcdonnell michael r,112760223004579,"EVP, Chief Financial Officer",male,144000000.0
+,,875045,biogen inc.,,1.0,,,20230210,kramer robin,112760223004581,Chief Accounting Officer,male,144000000.0
+,,875045,biogen inc.,,1.0,,,20230210,murphy nicole,112760223004582,Head of Pharm Ops and Tech,female,144000000.0
+44920.0,,875045,biogen inc.,,1.0,,,20230214,alexander susan h,112760223005273,EVP Chief Legal Off & Corp Sec,female,144485646.0
+10147.0168,,875045,biogen inc.,,1.0,,,20230214,gregory ginger,112760223005272,"EVP, Human Resources",female,144485646.0
+3569.7483,,875045,biogen inc.,,1.0,,,20230214,kramer robin,112760223005270,Chief Accounting Officer,male,144485646.0
+5488.0,,875045,biogen inc.,,1.0,,,20230214,izzar rachid,112760223005271,Head of Global Product Strat.,male,144485646.0
+5332.2903,,875045,biogen inc.,,1.0,,,20230214,murphy nicole,112760223005268,Head of Pharm Ops and Tech,female,144485646.0
+3491.3923,,875045,biogen inc.,,1.0,,,20230214,singhal priya,112760223005267,Head of Development,female,144485646.0
+8896.0,,875045,biogen inc.,,1.0,,,20230214,mcdonnell michael r,112760223005269,"EVP, Chief Financial Officer",male,144485646.0
+3800.3923,,875045,biogen inc.,,1.0,,,20230222,singhal priya,112760223006527,Head of Development,female,144485646.0
+7586.0,,875045,biogen inc.,,1.0,,,20230222,mcdonnell michael r,112760223006522,"EVP, Chief Financial Officer",male,144485646.0
+3331.7483,,875045,biogen inc.,,1.0,,,20230222,kramer robin,112760223006519,Chief Accounting Officer,male,144485646.0
+5099.2903,,875045,biogen inc.,,1.0,,,20230222,murphy nicole,112760223006524,Head of Pharm Ops and Tech,female,144485646.0
+9280.0168,,875045,biogen inc.,,1.0,,,20230222,gregory ginger,112760223006507,"EVP, Human Resources",female,144485646.0
+45911.0,,875045,biogen inc.,,1.0,,,20230222,alexander susan h,112760223006502,EVP Chief Legal Off & Corp Sec,female,144485646.0
+5117.0,,875045,biogen inc.,,1.0,,,20230222,izzar rachid,112760223006513,Head of Global Product Strat.,male,144485646.0
+3410.3923,,875045,biogen inc.,,1.0,,,20230306,singhal priya,112760223009142,Head of Development,female,144485646.0
+2842.3923,,875045,biogen inc.,,1.0,,,20230330,singhal priya,112760223011661,Head of Development,female,144485646.0
+5702.2903,,875045,biogen inc.,,1.0,,,20230404,murphy nicole,112760223012361,Head of Pharm Ops and Tech,female,144485646.0
+2843.0915,,875045,biogen inc.,,1.0,,,20230406,singhal priya,112760223012691,Head of Development,female,144485646.0
+8482.716,,875045,biogen inc.,,1.0,,,20230502,gregory ginger,112760223014146,"EVP, Human Resources",female,144742305.0
+,,875045,biogen inc.,,1.0,,,20230502,keeney adam,112760223014148,Head of Corporate Development,male,144742305.0
+20174.0,,875045,biogen inc.,1.0,,,,20230628,rowinsky eric k,112760223019547,,male,144742305.0
+18738.0,,875045,biogen inc.,1.0,,,,20230628,sherwin stephen a,112760223019548,,male,144742305.0
+6048.0,,875045,biogen inc.,1.0,,,,20230628,mantas jesus b,112760223019546,,male,144742305.0
+1419.1,,875045,biogen inc.,1.0,,,,20230628,langer susan,112760223019545,,female,144742305.0
+3105.0,,875045,biogen inc.,1.0,,,,20230628,freire maria c,112760223019542,,female,144742305.0
+24822.0,,875045,biogen inc.,1.0,,,,20230628,dorsa caroline,112760223019541,,female,144742305.0
+5150.0,,875045,biogen inc.,1.0,,,,20230628,hawkins william a,112760223019543,,male,144742305.0
+2924.0915,,875045,biogen inc.,,1.0,,,20230705,singhal priya,112760223020235,Head of Development,female,144742305.0
+3973.7483,,875045,biogen inc.,,1.0,,,20230705,kramer robin,112760223020236,Chief Accounting Officer,male,144742305.0
+6144.0,,875045,biogen inc.,,1.0,,,20230705,izzar rachid,112760223020238,Head of Global Product Strat.,male,144742305.0
+12728.0,,875045,biogen inc.,,1.0,,,20230906,mcdonnell michael r,112760223023825,"EVP, Chief Financial Officer",male,144823335.0
+3354.0915,,875045,biogen inc.,,1.0,,,20230906,singhal priya,112760223023824,Head of Development,female,144823335.0
+,,875045,biogen inc.,,1.0,,,20231103,grogan jane,112760223026781,Head of Research,female,144823335.0
+4154.7483,,875045,biogen inc.,,1.0,,,20231212,kramer robin,112760223029441,Chief Accounting Officer,male,144898112.0
+3464.0915,,875045,biogen inc.,,1.0,,,20231212,singhal priya,112760223029445,Head of Development,female,144898112.0
+,,875045,biogen inc.,,1.0,,,20240131,alexander susan h,112760224002799,EVP Chief Legal Officer,female,144900000.0
+,,875045,biogen inc.,,1.0,,,20240131,gregory ginger,112760224002805,"EVP, Human Resources",female,144900000.0
+,,875045,biogen inc.,,1.0,,,20240131,izzar rachid,112760224002807,Head of Global Product Strat.,male,144900000.0
+,,875045,biogen inc.,,1.0,,,20240131,kramer robin,112760224002808,Chief Accounting Officer,male,144900000.0
+,,875045,biogen inc.,,1.0,,,20240131,mcdonnell michael r,112760224002810,"EVP, Chief Financial Officer",male,144900000.0
+,,875045,biogen inc.,,1.0,,,20240131,murphy nicole,112760224002812,Head of Pharm Ops and Tech,female,144900000.0
+,,875045,biogen inc.,,1.0,,,20240131,singhal priya,112760224002813,Head of Development,female,144900000.0
+4097.0915,,875045,biogen inc.,,1.0,,,20240205,singhal priya,112760224003440,Head of Development,female,144900000.0
+47446.0,,875045,biogen inc.,,1.0,,,20240209,alexander susan h,112760224004311,EVP Chief Legal Officer,female,144900000.0
+,,875045,biogen inc.,,1.0,,,20240209,grogan jane,112760224004309,Head of Research,female,144900000.0
+7566.0,,875045,biogen inc.,,1.0,,,20240209,izzar rachid,112760224004308,Head of Global Product Strat.,male,144900000.0
+,,875045,biogen inc.,,1.0,,,20240209,keeney adam,112760224004307,Head of Corporate Development,male,144900000.0
+4689.7483,,875045,biogen inc.,,1.0,,,20240209,kramer robin,112760224004306,Chief Accounting Officer,male,144900000.0
+9619.716,,875045,biogen inc.,,1.0,,,20240209,gregory ginger,112760224004310,"EVP, Human Resources",female,144900000.0
+7256.9895,,875045,biogen inc.,,1.0,,,20240209,murphy nicole,112760224004304,Head of Pharm Ops and Tech,female,144900000.0
+,,875045,biogen inc.,,1.0,,,20240209,singhal priya,112760224004303,Head of Development,female,144900000.0
+,,875045,biogen inc.,1.0,1.0,,,20240209,viehbacher christopher,112760224004302,President and CEO,male,144900000.0
+14298.0,,875045,biogen inc.,,1.0,,,20240209,mcdonnell michael r,112760224004305,"EVP, Chief Financial Officer",male,144900000.0
+49083.0,,875045,biogen inc.,,1.0,,,20240213,alexander susan h,112760224004786,EVP Chief Legal Officer,female,145360798.0
+8636.0,,875045,biogen inc.,,1.0,,,20240213,izzar rachid,112760224004794,Head of Global Product Strat.,male,145360798.0
+5277.7483,,875045,biogen inc.,,1.0,,,20240213,kramer robin,112760224004797,Chief Accounting Officer,male,145360798.0
+16124.0,,875045,biogen inc.,,1.0,,,20240213,mcdonnell michael r,112760224004799,"EVP, Chief Financial Officer",male,145360798.0
+8767.9895,,875045,biogen inc.,,1.0,,,20240213,murphy nicole,112760224004800,Head of Pharm Ops and Tech,female,145360798.0
+4516.0915,,875045,biogen inc.,,1.0,,,20240213,singhal priya,112760224004801,Head of Development,female,145360798.0
+11143.716,,875045,biogen inc.,,1.0,,,20240213,gregory ginger,112760224004805,"EVP, Human Resources",female,145360798.0
+20629.0,,875045,biogen inc.,1.0,,,,20240220,rowinsky eric k,112760224005922,,male,145360798.0
+51683.0,,875045,biogen inc.,,1.0,,,20240221,alexander susan h,112760224006220,EVP Chief Legal Officer,female,145360798.0
+9701.0,,875045,biogen inc.,,1.0,,,20240221,izzar rachid,112760224006216,Head of Global Product Strat.,male,145360798.0
+13583.716,,875045,biogen inc.,,1.0,,,20240221,gregory ginger,112760224006217,"EVP, Human Resources",female,145360798.0
+6226.7483,,875045,biogen inc.,,1.0,,,20240221,kramer robin,112760224006215,Chief Accounting Officer,male,145360798.0
+5148.0915,,875045,biogen inc.,,1.0,,,20240221,singhal priya,112760224006212,Head of Development,female,145360798.0
+9417.9895,,875045,biogen inc.,,1.0,,,20240221,murphy nicole,112760224006213,Head of Pharm Ops and Tech,female,145360798.0
+19406.0,,875045,biogen inc.,,1.0,,,20240221,mcdonnell michael r,112760224006214,"EVP, Chief Financial Officer",male,145360798.0
+4886.0915,,875045,biogen inc.,,1.0,,,20240226,singhal priya,112760224006947,Head of Development,female,145360798.0
+9634.3741,,875045,biogen inc.,,1.0,,,20240403,murphy nicole,112760224012405,Head of Pharm Ops and Tech,female,145360798.0
+4886.4761,,875045,biogen inc.,,1.0,,,20240403,singhal priya,112760224012414,Head of Development,female,145360798.0
+662.0,,875045,biogen inc.,,1.0,,,20240503,keeney adam,112760224014199,Head of Corporate Development,male,145596895.0
+20078.0,,875045,biogen inc.,1.0,,,,20240625,sherwin stephen a,112760224019240,,male,145596895.0
+7388.0,,875045,biogen inc.,1.0,,,,20240625,mantas jesus b,112760224019239,,male,145596895.0
+21969.0,,875045,biogen inc.,1.0,,,,20240625,rowinsky eric k,112760224019238,,male,145596895.0
+2759.1,,875045,biogen inc.,1.0,,,,20240625,langer susan,112760224019237,,female,145596895.0
+1340.0,,875045,biogen inc.,1.0,,,,20240625,patolawala monish d,112760224019236,,male,145596895.0
+4445.0,,875045,biogen inc.,1.0,,,,20240625,freire maria c,112760224019234,,female,145596895.0
+26607.0,,875045,biogen inc.,1.0,,,,20240625,dorsa caroline,112760224019231,,female,145596895.0
+6490.0,,875045,biogen inc.,1.0,,,,20240625,hawkins william a,112760224019235,,male,145596895.0
+5316.4761,,875045,biogen inc.,,1.0,,,20240905,singhal priya,112760224023505,Head of Development,female,145661642.0
+491.0,,875045,biogen inc.,,1.0,,,20241104,grogan jane,112760224026385,Head of Research,female,145719340.0
+20082.0,,875045,biogen inc.,,1.0,,,20241107,alexander susan h,112760224026727,EVP Chief Legal Officer,female,145719340.0
+6407.7483,,875045,biogen inc.,,1.0,,,20241209,kramer robin,112760224028860,Chief Accounting Officer,male,145719340.0
+5426.4761,,875045,biogen inc.,,1.0,,,20241209,singhal priya,112760224028861,Head of Development,female,145719340.0

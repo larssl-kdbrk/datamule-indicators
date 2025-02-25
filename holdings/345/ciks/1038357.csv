@@ -1,442 +1,1099 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-596673.0,22177.0,1038357,pioneer natural resources co,true,true,false,false,20100105,sheffield scott d,124636010000119,Chairman & CEO,male,115320979.0
-68675.0,8323.0,1038357,pioneer natural resources co,false,true,false,false,20100105,berg mark stephen,124636010000112,EVP & General Counsel,male,115320979.0
-79119.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100105,cheatwood chris j,124636010000113,"EVP, Geoscience",male,115320979.0
-121663.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100105,dealy richard p,124636010000114,EVP & CFO,male,115320979.0
-216848.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100105,dove timothy l,124636010000115,President & COO,male,115320979.0
-72546.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100105,hannes william f,124636010000116,"EVP, Business Development",male,115320979.0
-108325.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100105,kellum danny l,124636010000117,"EVP, Domestic Operations",male,115320979.0
-63756.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100105,mcmanus david,124636010000118,"EVP, International Operations",male,115320979.0
-213709.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100113,dove timothy l,124636010000205,President & COO,male,115320979.0
-588936.0,22177.0,1038357,pioneer natural resources co,true,true,false,false,20100113,sheffield scott d,124636010000209,Chairman & CEO,male,115320979.0
-61962.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100113,mcmanus david,124636010000208,"EVP, International Operations",male,115320979.0
-106575.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100113,kellum danny l,124636010000207,"EVP, Domestic Operations",male,115320979.0
-71027.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100113,hannes william f,124636010000206,"EVP, Business Development",male,115320979.0
-77369.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100113,cheatwood chris j,124636010000203,"EVP, Geoscience",male,115320979.0
-66925.0,8323.0,1038357,pioneer natural resources co,false,true,false,false,20100113,berg mark stephen,124636010000202,EVP & General Counsel,male,115320979.0
-53171.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100113,still jay p,124636010000201,"EVP, Domestic Operations",male,115320979.0
-53171.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100113,still jay p,124636010000210,"EVP, Domestic Operations",male,115320979.0
-119334.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100113,dealy richard p,124636010000204,EVP & CFO,male,115320979.0
-213709.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100210,dove timothy l,124636010000773,President & COO,male,115320979.0
-20709.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100216,hall frank w.,124636010000888,VP & CAO,male,115320979.0
-8468.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100218,berg mark stephen,124636010001063,EVP & General Counsel,male,115320979.0
-1772.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100218,hall frank w.,124636010001069,VP & CAO,male,115320979.0
-78981.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100218,hannes william f,124636010001066,"EVP, Business Development",male,115320979.0
-69659.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100218,mcmanus david,124636010001068,"EVP, International Operations",male,115320979.0
-61279.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100218,still jay p,124636010001067,"EVP, Domestic Operations",male,115320979.0
-113964.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100218,kellum danny l,124636010001065,"EVP, Domestic Operations",male,115320979.0
-634092.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100218,sheffield scott d,124636010001060,Chairman & CEO,male,115320979.0
-238955.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100218,dove timothy l,124636010001061,President & COO,male,115320979.0
-87119.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100218,cheatwood chris j,124636010001064,"EVP, Geoscience",male,115320979.0
-131649.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100218,dealy richard p,124636010001062,EVP & CFO,male,115320979.0
-111804.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100302,kellum danny l,124636010001314,"EVP, Permian Operations",male,115550322.0
+121663.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100105,dealy richard p,124636010000114,EVP & CFO,male,
+79119.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100105,cheatwood chris j,124636010000113,"EVP, Geoscience",male,
+68675.0,8323.0,1038357,pioneer natural resources co,false,true,false,false,20100105,berg mark stephen,124636010000112,EVP & General Counsel,male,
+596673.0,22177.0,1038357,pioneer natural resources co,true,true,false,false,20100105,sheffield scott d,124636010000119,Chairman & CEO,male,
+216848.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100105,dove timothy l,124636010000115,President & COO,male,
+63756.0,,1038357,pioneer natural resources co,false,true,false,false,20100105,mcmanus david,124636010000118,"EVP, International Operations",male,
+72546.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100105,hannes william f,124636010000116,"EVP, Business Development",male,
+108325.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100105,kellum danny l,124636010000117,"EVP, Domestic Operations",male,
+53171.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100113,still jay p,124636010000210,"EVP, Domestic Operations",male,
+588936.0,22177.0,1038357,pioneer natural resources co,true,true,false,false,20100113,sheffield scott d,124636010000209,Chairman & CEO,male,
+61962.0,,1038357,pioneer natural resources co,false,true,false,false,20100113,mcmanus david,124636010000208,"EVP, International Operations",male,
+106575.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100113,kellum danny l,124636010000207,"EVP, Domestic Operations",male,
+53171.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100113,still jay p,124636010000201,"EVP, Domestic Operations",male,
+71027.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100113,hannes william f,124636010000206,"EVP, Business Development",male,
+213709.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100113,dove timothy l,124636010000205,President & COO,male,
+119334.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100113,dealy richard p,124636010000204,EVP & CFO,male,
+77369.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100113,cheatwood chris j,124636010000203,"EVP, Geoscience",male,
+66925.0,8323.0,1038357,pioneer natural resources co,false,true,false,false,20100113,berg mark stephen,124636010000202,EVP & General Counsel,male,
+213709.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100210,dove timothy l,124636010000773,President & COO,male,
+20709.0,,1038357,pioneer natural resources co,false,true,false,false,20100216,hall frank w.,124636010000888,VP & CAO,male,
+1772.0,,1038357,pioneer natural resources co,false,true,false,false,20100218,hall frank w.,124636010001069,VP & CAO,male,
+69659.0,,1038357,pioneer natural resources co,false,true,false,false,20100218,mcmanus david,124636010001068,"EVP, International Operations",male,
+61279.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100218,still jay p,124636010001067,"EVP, Domestic Operations",male,
+78981.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100218,hannes william f,124636010001066,"EVP, Business Development",male,
+113964.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100218,kellum danny l,124636010001065,"EVP, Domestic Operations",male,
+8468.0,,1038357,pioneer natural resources co,false,true,false,false,20100218,berg mark stephen,124636010001063,EVP & General Counsel,male,
+131649.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100218,dealy richard p,124636010001062,EVP & CFO,male,
+238955.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100218,dove timothy l,124636010001061,President & COO,male,
+634092.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100218,sheffield scott d,124636010001060,Chairman & CEO,male,
+87119.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100218,cheatwood chris j,124636010001064,"EVP, Geoscience",male,
+59581.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100302,still jay p,124636010001317,"EVP, Domestic Operations",male,115550322.0
 617309.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100302,sheffield scott d,124636010001323,Chairman & CEO,male,115550322.0
 233882.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100302,dove timothy l,124636010001321,President & COO,male,115550322.0
-67267.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100302,mcmanus david,124636010001319,"EVP, International Operations",male,115550322.0
-59581.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100302,still jay p,124636010001317,"EVP, Domestic Operations",male,115550322.0
-77129.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100302,hannes william f,124636010001311,"EVP, S Texas Operations",male,115550322.0
+67267.0,,1038357,pioneer natural resources co,false,true,false,false,20100302,mcmanus david,124636010001319,"EVP, International Operations",male,115550322.0
+111804.0,533.0,1038357,pioneer natural resources co,false,true,false,false,20100302,kellum danny l,124636010001314,"EVP, Permian Operations",male,115550322.0
 84959.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100302,cheatwood chris j,124636010001304,"EVP, BD & Technology",male,115550322.0
-73899.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100302,berg mark stephen,124636010001302,EVP & General Counsel,male,115550322.0
+26221.0,,1038357,pioneer natural resources co,false,true,false,false,20100302,hall frank w.,124636010001308,VP & CAO,male,115550322.0
 128717.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100302,dealy richard p,124636010001306,EVP & CFO,male,115550322.0
-26221.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100302,hall frank w.,124636010001308,VP & CAO,male,115550322.0
+77129.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100302,hannes william f,124636010001311,"EVP, S Texas Operations",male,115550322.0
+73899.0,,1038357,pioneer natural resources co,false,true,false,false,20100302,berg mark stephen,124636010001302,EVP & General Counsel,male,115550322.0
 84959.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100312,cheatwood chris j,124636010001504,"EVP, BD & Technology",male,115550322.0
 128717.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100316,dealy richard p,124636010001580,EVP & CFO,male,115550322.0
+71982.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100316,hannes william f,124636010001581,"EVP, S Texas Operations",male,115550322.0
 233882.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20100316,dove timothy l,124636010001582,President & COO,male,115550322.0
 622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100316,sheffield scott d,124636010001583,Chairman & CEO,male,115550322.0
-71982.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100316,hannes william f,124636010001581,"EVP, S Texas Operations",male,115550322.0
 622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100316,sheffield scott d,124636010001606,Chairman & CEO,male,115550322.0
-18724.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100331,ramsey charles e jr,124636010001709,,male,115550322.0
-8643.0,18724.0,1038357,pioneer natural resources co,true,false,false,false,20100517,ramsey charles e jr,124636010002182,,male,115550322.0
-15029.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,reiman scott,124636010002183,,male,115550322.0
-17834.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,risch frank a,124636010002184,,male,115550322.0
-21434.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,watson jim albert,124636010002185,,male,115550322.0
-17254.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,lundquist andrew d,124636010002181,,male,115550322.0
-50311.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,gardner r hartwell,124636010002180,,male,115550322.0
-16409.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,arthur thomas d,124636010002177,,male,115550322.0
-27449.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100517,buchanan edison c,124636010002178,,male,115550322.0
+18724.0,,1038357,pioneer natural resources co,true,false,false,false,20100331,ramsey charles e jr,124636010001709,,male,115550322.0
+16409.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,arthur thomas d,124636010002177,,male,115550322.0
+27449.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,buchanan edison c,124636010002178,,male,115550322.0
 20400.0,1336.0,1038357,pioneer natural resources co,true,false,false,false,20100517,cates andrew f.,124636010002179,,male,115550322.0
-52981.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100630,still jay p,124636010002527,"EVP, Domestic Operations",male,115550322.0
-622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100630,sheffield scott d,124636010002528,Chairman & CEO,male,115550322.0
-27295.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100630,buchanan edison c,124636010002526,,male,115550322.0
-622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100630,sheffield scott d,124636010002530,Chairman & CEO,male,115550322.0
+50311.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,gardner r hartwell,124636010002180,,male,115550322.0
+17254.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,lundquist andrew d,124636010002181,,male,115550322.0
+8643.0,18724.0,1038357,pioneer natural resources co,true,false,false,false,20100517,ramsey charles e jr,124636010002182,,male,115550322.0
+15029.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,reiman scott,124636010002183,,male,115550322.0
+17834.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,risch frank a,124636010002184,,male,115550322.0
+21434.0,,1038357,pioneer natural resources co,true,false,false,false,20100517,watson jim albert,124636010002185,,male,115550322.0
 622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100630,sheffield scott d,124636010002529,Chairman & CEO,male,115550322.0
-17434.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100804,watson jim albert,124636010002896,,male,115994034.0
-69854.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20100907,berg mark stephen,124636010003105,EVP & General Counsel,male,115994034.0
+622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100630,sheffield scott d,124636010002530,Chairman & CEO,male,115550322.0
+622283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20100630,sheffield scott d,124636010002528,Chairman & CEO,male,115550322.0
+27295.0,,1038357,pioneer natural resources co,true,false,false,false,20100630,buchanan edison c,124636010002526,,male,115550322.0
+52981.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100630,still jay p,124636010002527,"EVP, Domestic Operations",male,115550322.0
+17434.0,,1038357,pioneer natural resources co,true,false,false,false,20100804,watson jim albert,124636010002896,,male,115994034.0
+69854.0,,1038357,pioneer natural resources co,false,true,false,false,20100907,berg mark stephen,124636010003105,EVP & General Counsel,male,115994034.0
 84959.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100907,cheatwood chris j,124636010003106,"EVP, BD & Technology",male,115994034.0
 84959.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100907,cheatwood chris j,124636010003108,"EVP, BD & Technology",male,115994034.0
 101804.0,532.0,1038357,pioneer natural resources co,false,true,false,false,20100913,kellum danny l,124636010003145,"EVP, Permian Operations",male,115994034.0
-1500.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20100913,lundquist andrew d,124636010003146,,male,115994034.0
+1500.0,,1038357,pioneer natural resources co,true,false,false,false,20100913,lundquist andrew d,124636010003146,,male,115994034.0
 76334.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20100916,cheatwood chris j,124636010003183,"EVP, BD & Technology",male,115994034.0
 71982.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100916,hannes william f,124636010003184,"EVP, S Texas Operations",male,115994034.0
 128717.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20100921,dealy richard p,124636010003207,EVP & CFO,male,115994034.0
 56982.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20100921,hannes william f,124636010003208,"EVP, S Texas Operations",male,115994034.0
 46809.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20100923,still jay p,124636010003219,"EVP, Domestic Operations",male,115994034.0
 68254.0,9147.0,1038357,pioneer natural resources co,false,true,false,false,20100923,berg mark stephen,124636010003220,EVP & General Counsel,male,115994034.0
+49561.0,,1038357,pioneer natural resources co,true,false,false,false,20101001,gardner r hartwell,124636010003299,,male,115994034.0
 612283.0,22133.0,1038357,pioneer natural resources co,true,true,false,false,20101001,sheffield scott d,124636010003298,Chairman & CEO,male,115994034.0
-49561.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20101001,gardner r hartwell,124636010003299,,male,115994034.0
-14564.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20101108,ramsey charles e jr,124636010003637,,male,116096190.0
-13434.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20101108,watson jim albert,124636010003638,,male,116096190.0
+14564.0,,1038357,pioneer natural resources co,true,false,false,false,20101108,ramsey charles e jr,124636010003637,,male,116096190.0
+13434.0,,1038357,pioneer natural resources co,true,false,false,false,20101108,watson jim albert,124636010003638,,male,116096190.0
 126217.0,312.0,1038357,pioneer natural resources co,false,true,false,false,20101108,dealy richard p,124636010003639,EVP & CFO,male,116096190.0
 233882.0,352.0,1038357,pioneer natural resources co,false,true,false,false,20101108,dove timothy l,124636010003640,President & COO,male,116096190.0
 610283.0,22114.0,1038357,pioneer natural resources co,true,true,false,false,20101108,sheffield scott d,124636010003641,Chairman & CEO,male,116096190.0
-21966.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20101112,buchanan edison c,124636010003672,,male,116096190.0
 610283.0,22114.0,1038357,pioneer natural resources co,true,true,false,false,20101112,sheffield scott d,124636010003671,Chairman & CEO,male,116096190.0
-58712.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20101115,mcmanus david,124636010003720,"EVP, International Operations",male,116096190.0
-48511.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20101115,gardner r hartwell,124636010003721,,male,116096190.0
+21966.0,,1038357,pioneer natural resources co,true,false,false,false,20101112,buchanan edison c,124636010003672,,male,116096190.0
+58712.0,,1038357,pioneer natural resources co,false,true,false,false,20101115,mcmanus david,124636010003720,"EVP, International Operations",male,116096190.0
+48511.0,,1038357,pioneer natural resources co,true,false,false,false,20101115,gardner r hartwell,124636010003721,,male,116096190.0
+67164.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20110104,hannes william f,124636011000125,"EVP, S Texas Operations",male,116096190.0
+262228.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20110104,dove timothy l,124636011000126,President & COO,male,116096190.0
+660287.0,22096.0,1038357,pioneer natural resources co,true,true,false,false,20110104,sheffield scott d,124636011000124,Chairman & CEO,male,116096190.0
+143385.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20110104,dealy richard p,124636011000123,EVP & CFO,male,116096190.0
 56991.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20110104,still jay p,124636011000122,"EVP, Domestic Operations",male,116096190.0
 88262.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20110104,cheatwood chris j,124636011000118,"EVP, BD & Technology",male,116096190.0
 113732.0,532.0,1038357,pioneer natural resources co,false,true,false,false,20110104,kellum danny l,124636011000120,"EVP, Permian Operations",male,116096190.0
 80182.0,9136.0,1038357,pioneer natural resources co,false,true,false,false,20110104,berg mark stephen,124636011000119,EVP & General Counsel,male,116096190.0
-65714.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110104,mcmanus david,124636011000121,"EVP, International Operations",male,116096190.0
-660287.0,22096.0,1038357,pioneer natural resources co,true,true,false,false,20110104,sheffield scott d,124636011000124,Chairman & CEO,male,116096190.0
-143385.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20110104,dealy richard p,124636011000123,EVP & CFO,male,116096190.0
-262228.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20110104,dove timothy l,124636011000126,President & COO,male,116096190.0
-67164.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20110104,hannes william f,124636011000125,"EVP, S Texas Operations",male,116096190.0
-51815.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110104,gardner r hartwell,124636011000117,,male,116096190.0
+51815.0,,1038357,pioneer natural resources co,true,false,false,false,20110104,gardner r hartwell,124636011000117,,male,116096190.0
+65714.0,,1038357,pioneer natural resources co,false,true,false,false,20110104,mcmanus david,124636011000121,"EVP, International Operations",male,116096190.0
+103732.0,532.0,1038357,pioneer natural resources co,0.0,1.0,0.0,0.0,20110214,kellum danny l,112192211000001,"EVP, Permian Operations",male,116096190.0
 103732.0,532.0,1038357,pioneer natural resources co,false,true,false,false,20110214,kellum danny l,124636011001016,"EVP, Permian Operations",male,116096190.0
-103732.0,532.0,1038357,pioneer natural resources co,0,1,0.0,0.0,20110214,kellum danny l,112192211000001,"EVP, Permian Operations",male,116096190.0
-30578.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110215,hall frank w.,124636011001085,VP & CAO,male,116096190.0
-640804.0,22086.0,1038357,pioneer natural resources co,true,true,false,false,20110215,sheffield scott d,124636011001080,Chairman & CEO,male,116096190.0
-62069.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110215,mcmanus david,124636011001083,"EVP, International Operations",male,116096190.0
+661965.0,22086.0,1038357,pioneer natural resources co,true,true,false,false,20110215,sheffield scott d,124636011001086,Chairman & CEO,male,116096190.0
+30578.0,,1038357,pioneer natural resources co,false,true,false,false,20110215,hall frank w.,124636011001085,VP & CAO,male,116096190.0
+62069.0,,1038357,pioneer natural resources co,false,true,false,false,20110215,mcmanus david,124636011001083,"EVP, International Operations",male,116096190.0
 69610.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20110215,hannes william f,124636011001082,"EVP, S Texas Operations",male,116096190.0
 48437.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20110215,still jay p,124636011001081,"EVP, Domestic Operations",male,116096190.0
-105116.0,531.0,1038357,pioneer natural resources co,false,true,false,false,20110215,kellum danny l,124636011001079,"EVP, Permian Operations",male,116096190.0
+640804.0,22086.0,1038357,pioneer natural resources co,true,true,false,false,20110215,sheffield scott d,124636011001080,Chairman & CEO,male,116096190.0
+91891.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20110215,cheatwood chris j,124636011001078,"EVP, BD & Technology",male,116096190.0
 269987.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20110215,dove timothy l,124636011001077,President & COO,male,116096190.0
 147756.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20110215,dealy richard p,124636011001076,EVP & CFO,male,116096190.0
-82688.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110215,berg mark stephen,124636011001075,EVP & General Counsel,male,116096190.0
-91891.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20110215,cheatwood chris j,124636011001078,"EVP, BD & Technology",male,116096190.0
-661965.0,22086.0,1038357,pioneer natural resources co,true,true,false,false,20110215,sheffield scott d,124636011001086,Chairman & CEO,male,116096190.0
+82688.0,,1038357,pioneer natural resources co,false,true,false,false,20110215,berg mark stephen,124636011001075,EVP & General Counsel,male,116096190.0
+105116.0,531.0,1038357,pioneer natural resources co,false,true,false,false,20110215,kellum danny l,124636011001079,"EVP, Permian Operations",male,116096190.0
 12691.0,1500.0,1038357,pioneer natural resources co,true,false,false,false,20110218,lundquist andrew d,124636011001213,,male,116096190.0
-77274.0,9211.0,1038357,pioneer natural resources co,false,true,false,false,20110222,berg mark stephen,124636011001267,EVP & General Counsel,male,116096190.0
 11809.0,1500.0,1038357,pioneer natural resources co,true,false,false,false,20110222,lundquist andrew d,124636011001266,,male,116096190.0
-57610.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20110224,hannes william f,124636011001352,"EVP, S Texas Operations",male,116096190.0
-136843.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20110224,dealy richard p,124636011001351,EVP & CFO,male,116096190.0
+77274.0,9211.0,1038357,pioneer natural resources co,false,true,false,false,20110222,berg mark stephen,124636011001267,EVP & General Counsel,male,116096190.0
 256364.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20110224,dove timothy l,124636011001353,President & COO,male,116096190.0
+136843.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20110224,dealy richard p,124636011001351,EVP & CFO,male,116096190.0
+57610.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20110224,hannes william f,124636011001352,"EVP, S Texas Operations",male,116096190.0
+16834.0,,1038357,pioneer natural resources co,true,false,false,false,20110224,risch frank a,124636011001349,,male,116096190.0
 66627.0,130.0,1038357,pioneer natural resources co,false,true,false,false,20110224,cheatwood chris j,124636011001348,"EVP, BD & Technology",male,116096190.0
-16834.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110224,risch frank a,124636011001349,,male,116096190.0
 651965.0,22086.0,1038357,pioneer natural resources co,true,true,false,false,20110224,sheffield scott d,124636011001350,Chairman & CEO,male,116096190.0
-28899.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110301,hall frank w.,124636011001484,VP & CAO,male,116096190.0
+28899.0,,1038357,pioneer natural resources co,false,true,false,false,20110301,hall frank w.,124636011001484,VP & CAO,male,116096190.0
 649465.0,22087.0,1038357,pioneer natural resources co,true,true,false,false,20110302,sheffield scott d,124636011001575,Chairman & CEO,male,116096190.0
-16966.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110307,buchanan edison c,124636011001675,,male,116096190.0
-52629.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110331,mcmanus david,124636011001899,"EVP, International Operations",male,116096190.0
+16966.0,,1038357,pioneer natural resources co,true,false,false,false,20110307,buchanan edison c,124636011001675,,male,116096190.0
+52629.0,,1038357,pioneer natural resources co,false,true,false,false,20110331,mcmanus david,124636011001899,"EVP, International Operations",male,116096190.0
 648165.0,22100.0,1038357,pioneer natural resources co,true,true,false,false,20110331,sheffield scott d,124636011001900,Chairman & CEO,male,116096190.0
-19381.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,risch frank a,124636011002545,,male,116755591.0
+17576.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,reiman scott,124636011002547,,male,116755591.0
+15981.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,watson jim albert,124636011002546,,male,116755591.0
+18956.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,arthur thomas d,124636011002544,,male,116755591.0
+19381.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,risch frank a,124636011002545,,male,116755591.0
+8174.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,ramsey charles e jr,124636011002542,,male,116755591.0
 14356.0,1500.0,1038357,pioneer natural resources co,true,false,false,false,20110518,lundquist andrew d,124636011002541,,male,116755591.0
-15981.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,watson jim albert,124636011002546,,male,116755591.0
 22947.0,1336.0,1038357,pioneer natural resources co,true,false,false,false,20110518,cates andrew f.,124636011002540,,male,116755591.0
-17576.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,reiman scott,124636011002547,,male,116755591.0
-19666.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,buchanan edison c,124636011002543,,male,116755591.0
-54515.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,gardner r hartwell,124636011002539,,male,116755591.0
-8174.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,ramsey charles e jr,124636011002542,,male,116755591.0
-18956.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110518,arthur thomas d,124636011002544,,male,116755591.0
-55663.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110602,mcmanus david,124636011002708,"EVP, International Operations",male,116755591.0
+54515.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,gardner r hartwell,124636011002539,,male,116755591.0
+19666.0,,1038357,pioneer natural resources co,true,false,false,false,20110518,buchanan edison c,124636011002543,,male,116755591.0
+55663.0,,1038357,pioneer natural resources co,false,true,false,false,20110602,mcmanus david,124636011002708,"EVP, International Operations",male,116755591.0
 67993.0,531.0,1038357,pioneer natural resources co,false,true,false,false,20110809,kellum danny l,124636011003331,"EVP, Permian Operations",male,116782548.0
-252364.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20110815,dove timothy l,124636011003396,President & COO,male,116782548.0
 137557.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20110815,dealy richard p,124636011003395,EVP & CFO,male,116782548.0
-27933.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20110829,hall frank w.,124636011003452,VP & CAO,male,116782548.0
-3332.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110902,thompson j kenneth,124636011003483,,male,116782548.0
+252364.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20110815,dove timothy l,124636011003396,President & COO,male,116782548.0
+27933.0,,1038357,pioneer natural resources co,false,true,false,false,20110829,hall frank w.,124636011003452,VP & CAO,male,116782548.0
+3332.0,,1038357,pioneer natural resources co,true,false,false,false,20110902,thompson j kenneth,124636011003483,,male,116782548.0
 400.0,954.0,1038357,pioneer natural resources co,true,false,false,false,20110926,cates andrew f.,124636011003583,,male,116782548.0
-10315.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20110929,watson jim albert,124636011003609,,male,116782548.0
+10315.0,,1038357,pioneer natural resources co,true,false,false,false,20110929,watson jim albert,124636011003609,,male,116782548.0
 1442.0,18409.0,1038357,pioneer natural resources co,true,false,false,false,20111116,ramsey charles e jr,124636011004032,,male,116881280.0
-251964.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20111117,dove timothy l,124636011004042,President & COO,male,116881280.0
-9697.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20111117,berg mark stephen,124636011004041,EVP & General Counsel,male,116881280.0
 70993.0,531.0,1038357,pioneer natural resources co,false,true,false,false,20111117,kellum danny l,124636011004044,"EVP, Permian Operations",male,116881280.0
-19397.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20111117,buchanan edison c,124636011004043,,male,116881280.0
-12148.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20111121,lundquist andrew d,124636011004065,,male,116881280.0
+9697.0,,1038357,pioneer natural resources co,false,true,false,false,20111117,berg mark stephen,124636011004041,EVP & General Counsel,male,116881280.0
+251964.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20111117,dove timothy l,124636011004042,President & COO,male,116881280.0
+19397.0,,1038357,pioneer natural resources co,true,false,false,false,20111117,buchanan edison c,124636011004043,,male,116881280.0
 251564.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20111121,dove timothy l,124636011004063,President & COO,male,116881280.0
-39515.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20111121,gardner r hartwell,124636011004064,,male,116881280.0
+39515.0,,1038357,pioneer natural resources co,true,false,false,false,20111121,gardner r hartwell,124636011004064,,male,116881280.0
+12148.0,,1038357,pioneer natural resources co,true,false,false,false,20111121,lundquist andrew d,124636011004065,,male,116881280.0
 639165.0,22107.0,1038357,pioneer natural resources co,true,true,false,false,20111121,sheffield scott d,124636011004066,Chairman & CEO,male,116881280.0
-248664.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20111201,dove timothy l,124636011004108,President & COO,male,116881280.0
 130057.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20111201,dealy richard p,124636011004107,EVP & CFO,male,116881280.0
+248664.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20111201,dove timothy l,124636011004108,President & COO,male,116881280.0
 61009.0,130.0,1038357,pioneer natural resources co,false,true,false,false,20111206,cheatwood chris j,124636011004205,"EVP, BD & Technology",male,116881280.0
-32015.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20111206,gardner r hartwell,124636011004206,,male,116881280.0
-25249.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20111208,hall frank w.,124636011004236,VP & CAO,male,116881280.0
+32015.0,,1038357,pioneer natural resources co,true,false,false,false,20111206,gardner r hartwell,124636011004206,,male,116881280.0
+25249.0,,1038357,pioneer natural resources co,false,true,false,false,20111208,hall frank w.,124636011004236,VP & CAO,male,116881280.0
 48764.0,545.0,1038357,pioneer natural resources co,false,true,false,false,20111229,kellum danny l,124636011004396,"EVP, Permian Operations",male,116881280.0
-736248.0,22103.0,1038357,pioneer natural resources co,true,true,false,false,20120104,sheffield scott d,124636012000069,Chairman & CEO,male,116881280.0
-76048.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20120104,hannes william f,124636012000066,"EVP, S Texas Operations",male,116881280.0
-83160.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20120104,cheatwood chris j,124636012000062,"EVP, BD & Technology",male,116881280.0
-164706.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20120104,dealy richard p,124636012000063,EVP & CFO,male,116881280.0
-61562.0,531.0,1038357,pioneer natural resources co,false,true,false,false,20120104,kellum danny l,124636012000068,"EVP, Permian Operations",male,116881280.0
 68076.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120104,still jay p,124636012000070,"EVP, Domestic Operations",male,116881280.0
-91215.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120104,berg mark stephen,124636012000061,EVP & General Counsel,male,116881280.0
+736248.0,22103.0,1038357,pioneer natural resources co,true,true,false,false,20120104,sheffield scott d,124636012000069,Chairman & CEO,male,116881280.0
+61562.0,531.0,1038357,pioneer natural resources co,false,true,false,false,20120104,kellum danny l,124636012000068,"EVP, Permian Operations",male,116881280.0
+91215.0,,1038357,pioneer natural resources co,false,true,false,false,20120104,berg mark stephen,124636012000061,EVP & General Counsel,male,116881280.0
+76048.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20120104,hannes william f,124636012000066,"EVP, S Texas Operations",male,116881280.0
+164706.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20120104,dealy richard p,124636012000063,EVP & CFO,male,116881280.0
+83160.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20120104,cheatwood chris j,124636012000062,"EVP, BD & Technology",male,116881280.0
 305909.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20120104,dove timothy l,124636012000067,President & COO,male,116881280.0
-767.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120110,ramsey charles e jr,124636012000171,,male,116881280.0
-20594.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120222,hall frank w.,124636012001126,VP & CAO,male,116881280.0
-59536.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120222,still jay p,124636012001124,"EVP, Domestic Operations",male,116881280.0
+767.0,,1038357,pioneer natural resources co,true,false,false,false,20120110,ramsey charles e jr,124636012000171,,male,116881280.0
+20594.0,,1038357,pioneer natural resources co,false,true,false,false,20120222,hall frank w.,124636012001126,VP & CAO,male,116881280.0
 68059.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20120222,hannes william f,124636012001125,"EVP, S Texas Operations",male,116881280.0
-86345.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120222,berg mark stephen,124636012001118,EVP & General Counsel,male,116881280.0
 692173.0,22087.0,1038357,pioneer natural resources co,true,true,false,false,20120222,sheffield scott d,124636012001122,Chairman & CEO,male,116881280.0
-73467.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20120222,cheatwood chris j,124636012001116,"EVP, BD & Technology",male,116881280.0
-149279.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20120222,dealy richard p,124636012001119,EVP & CFO,male,116881280.0
-265.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120222,kellum danny l,124636012001121,"EVP, Permian Operations",male,116881280.0
+59536.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120222,still jay p,124636012001124,"EVP, Domestic Operations",male,116881280.0
 280114.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20120222,dove timothy l,124636012001120,President & COO,male,116881280.0
-30170.0,1981.0,1038357,pioneer natural resources co,false,true,false,false,20120224,hall frank w.,124636012001216,VP & CAO,male,116881280.0
-74778.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20120224,kellum danny l,124636012001215,"EVP, Permian Operations",male,116881280.0
-182045.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20120224,dealy richard p,124636012001214,EVP & CFO,male,116881280.0
-77090.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120224,still jay p,124636012001213,"EVP, Domestic Operations",male,116881280.0
+73467.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20120222,cheatwood chris j,124636012001116,"EVP, BD & Technology",male,116881280.0
+265.0,,1038357,pioneer natural resources co,false,true,false,false,20120222,kellum danny l,124636012001121,"EVP, Permian Operations",male,116881280.0
+149279.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20120222,dealy richard p,124636012001119,EVP & CFO,male,116881280.0
+86345.0,,1038357,pioneer natural resources co,false,true,false,false,20120222,berg mark stephen,124636012001118,EVP & General Counsel,male,116881280.0
+106292.0,9786.0,1038357,pioneer natural resources co,false,true,false,false,20120224,berg mark stephen,124636012001208,EVP & General Counsel,male,116881280.0
+97403.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20120224,cheatwood chris j,124636012001209,"EVP, BD & Technology",male,116881280.0
+85613.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20120224,hannes william f,124636012001210,"EVP, S Texas Operations",male,116881280.0
 720258.0,22087.0,1038357,pioneer natural resources co,true,true,false,false,20120224,sheffield scott d,124636012001211,Chairman & CEO,male,116881280.0
 327987.0,351.0,1038357,pioneer natural resources co,false,true,false,false,20120224,dove timothy l,124636012001212,President & COO,male,116881280.0
-97403.0,4630.0,1038357,pioneer natural resources co,false,true,false,false,20120224,cheatwood chris j,124636012001209,"EVP, BD & Technology",male,116881280.0
-106292.0,9786.0,1038357,pioneer natural resources co,false,true,false,false,20120224,berg mark stephen,124636012001208,EVP & General Counsel,male,116881280.0
-85613.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20120224,hannes william f,124636012001210,"EVP, S Texas Operations",male,116881280.0
-1000.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120308,arthur thomas d,124636012001672,,male,116881280.0
-14248.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120308,ramsey charles e jr,124636012001670,,male,116881280.0
-9850.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120308,berg mark stephen,124636012001671,EVP & General Counsel,male,116881280.0
+77090.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120224,still jay p,124636012001213,"EVP, Domestic Operations",male,116881280.0
+182045.0,311.0,1038357,pioneer natural resources co,false,true,false,false,20120224,dealy richard p,124636012001214,EVP & CFO,male,116881280.0
+74778.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20120224,kellum danny l,124636012001215,"EVP, Permian Operations",male,116881280.0
+30170.0,1981.0,1038357,pioneer natural resources co,false,true,false,false,20120224,hall frank w.,124636012001216,VP & CAO,male,116881280.0
+1000.0,,1038357,pioneer natural resources co,true,false,false,false,20120308,arthur thomas d,124636012001672,,male,116881280.0
+9850.0,,1038357,pioneer natural resources co,false,true,false,false,20120308,berg mark stephen,124636012001671,EVP & General Counsel,male,116881280.0
+14248.0,,1038357,pioneer natural resources co,true,false,false,false,20120308,ramsey charles e jr,124636012001670,,male,116881280.0
 720258.0,22054.0,1038357,pioneer natural resources co,true,true,false,false,20120312,sheffield scott d,124636012001727,Chairman & CEO,male,116881280.0
 66570.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120315,still jay p,124636012001795,"EVP, Domestic Operations",male,116881280.0
+172045.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20120320,dealy richard p,124636012001843,EVP & CFO,male,116881280.0
 73224.0,14.0,1038357,pioneer natural resources co,false,true,false,false,20120320,hannes william f,124636012001844,"EVP, S Texas Operations",male,116881280.0
 720258.0,22055.0,1038357,pioneer natural resources co,true,true,false,false,20120320,sheffield scott d,124636012001846,Chairman & CEO,male,116881280.0
-172045.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20120320,dealy richard p,124636012001843,EVP & CFO,male,116881280.0
-0.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120326,hall frank w.,124636012001865,VP & CAO,male,116881280.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20120326,hall frank w.,124636012001865,VP & CAO,male,116881280.0
 91439.0,4629.0,1038357,pioneer natural resources co,false,true,false,false,20120328,cheatwood chris j,124636012001888,"EVP, BD & Technology",male,116881280.0
 314987.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20120329,dove timothy l,124636012001898,President & COO,male,116881280.0
-2478.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120329,arthur thomas d,124636012001899,,male,116881280.0
-0.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120329,berg mark stephen,124636012001900,EVP & General Counsel,male,116881280.0
-113401.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120402,berg mark stephen,124636012001945,EVP & General Counsel,male,116881280.0
+2478.0,,1038357,pioneer natural resources co,true,false,false,false,20120329,arthur thomas d,124636012001899,,male,116881280.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20120329,berg mark stephen,124636012001900,EVP & General Counsel,male,116881280.0
 720258.0,22047.0,1038357,pioneer natural resources co,true,true,false,false,20120402,sheffield scott d,124636012001946,Chairman & CEO,male,116881280.0
-18478.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120509,arthur thomas d,124636012002338,,male,123024218.0
-21879.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120521,buchanan edison c,124636012002520,,male,123024218.0
-12651.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120521,watson jim albert,124636012002527,,male,123024218.0
-34491.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120521,gardner r hartwell,124636012002526,,male,123024218.0
-3151.0,14248.0,1038357,pioneer natural resources co,true,false,false,false,20120521,ramsey charles e jr,124636012002525,,male,123024218.0
-19912.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120521,reiman scott,124636012002524,,male,123024218.0
-20717.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120521,risch frank a,124636012002522,,male,123024218.0
+113401.0,,1038357,pioneer natural resources co,false,true,false,false,20120402,berg mark stephen,124636012001945,EVP & General Counsel,male,116881280.0
+18478.0,,1038357,pioneer natural resources co,true,false,false,false,20120509,arthur thomas d,124636012002338,,male,123024218.0
 16692.0,1500.0,1038357,pioneer natural resources co,true,false,false,false,20120521,lundquist andrew d,124636012002516,,male,123024218.0
 4814.0,18478.0,1038357,pioneer natural resources co,true,false,false,false,20120521,arthur thomas d,124636012002519,,male,123024218.0
-5668.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120521,thompson j kenneth,124636012002528,,male,123024218.0
+21879.0,,1038357,pioneer natural resources co,true,false,false,false,20120521,buchanan edison c,124636012002520,,male,123024218.0
 25283.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20120521,cates andrew f.,124636012002521,,male,123024218.0
-19717.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120522,risch frank a,124636012002556,,male,123024218.0
-2476.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120605,ramsey charles e jr,124636012002669,,male,123024218.0
+20717.0,,1038357,pioneer natural resources co,true,false,false,false,20120521,risch frank a,124636012002522,,male,123024218.0
+19912.0,,1038357,pioneer natural resources co,true,false,false,false,20120521,reiman scott,124636012002524,,male,123024218.0
+3151.0,14248.0,1038357,pioneer natural resources co,true,false,false,false,20120521,ramsey charles e jr,124636012002525,,male,123024218.0
+34491.0,,1038357,pioneer natural resources co,true,false,false,false,20120521,gardner r hartwell,124636012002526,,male,123024218.0
+12651.0,,1038357,pioneer natural resources co,true,false,false,false,20120521,watson jim albert,124636012002527,,male,123024218.0
+5668.0,,1038357,pioneer natural resources co,true,false,false,false,20120521,thompson j kenneth,124636012002528,,male,123024218.0
+19717.0,,1038357,pioneer natural resources co,true,false,false,false,20120522,risch frank a,124636012002556,,male,123024218.0
+2476.0,,1038357,pioneer natural resources co,true,false,false,false,20120605,ramsey charles e jr,124636012002669,,male,123024218.0
 710258.0,22048.0,1038357,pioneer natural resources co,true,true,false,false,20120611,sheffield scott d,124636012002760,Chairman & CEO,male,123024218.0
-4177.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120613,arthur thomas d,124636012002772,,male,123024218.0
+4177.0,,1038357,pioneer natural resources co,true,false,false,false,20120613,arthur thomas d,124636012002772,,male,123024218.0
 709258.0,22048.0,1038357,pioneer natural resources co,true,true,false,false,20120613,sheffield scott d,124636012002771,Chairman & CEO,male,123024218.0
-59778.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20120809,kellum danny l,124636012003399,"EVP, Permian Operations",male,123035765.0
-91439.0,129.0,1038357,pioneer natural resources co,false,true,false,false,20120809,cheatwood chris j,124636012003398,"EVP, BD & Technology",male,123035765.0
-307341.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20120809,dove timothy l,124636012003401,President & COO,male,123035765.0
-107401.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120809,berg mark stephen,124636012003400,EVP & General Counsel,male,123035765.0
 709258.0,22044.0,1038357,pioneer natural resources co,true,true,false,false,20120809,sheffield scott d,124636012003397,Chairman & CEO,male,123035765.0
+91439.0,129.0,1038357,pioneer natural resources co,false,true,false,false,20120809,cheatwood chris j,124636012003398,"EVP, BD & Technology",male,123035765.0
+59778.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20120809,kellum danny l,124636012003399,"EVP, Permian Operations",male,123035765.0
+107401.0,,1038357,pioneer natural resources co,false,true,false,false,20120809,berg mark stephen,124636012003400,EVP & General Counsel,male,123035765.0
+307341.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20120809,dove timothy l,124636012003401,President & COO,male,123035765.0
 172045.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20120820,dealy richard p,124636012003532,EVP & CFO,male,123035765.0
 24868.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20120828,cates andrew f.,124636012003641,,male,123035765.0
-1857.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120828,ramsey charles e jr,124636012003642,,male,123035765.0
+1857.0,,1038357,pioneer natural resources co,true,false,false,false,20120828,ramsey charles e jr,124636012003642,,male,123035765.0
 709258.0,22040.0,1038357,pioneer natural resources co,true,true,false,false,20120910,sheffield scott d,124636012003718,Chairman & CEO,male,123035765.0
-16108.0,1500.0,1038357,pioneer natural resources co,true,false,false,false,20120911,lundquist andrew d,124636012003728,,male,123035765.0
-95401.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120911,berg mark stephen,124636012003729,EVP & General Counsel,male,123035765.0
 66570.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20120911,still jay p,124636012003727,"EVP, Domestic Operations",male,123035765.0
+16108.0,1500.0,1038357,pioneer natural resources co,true,false,false,false,20120911,lundquist andrew d,124636012003728,,male,123035765.0
+95401.0,,1038357,pioneer natural resources co,false,true,false,false,20120911,berg mark stephen,124636012003729,EVP & General Counsel,male,123035765.0
 172045.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20120913,dealy richard p,124636012003775,EVP & CFO,male,123035765.0
-89401.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120913,berg mark stephen,124636012003776,EVP & General Counsel,male,123035765.0
+89401.0,,1038357,pioneer natural resources co,false,true,false,false,20120913,berg mark stephen,124636012003776,EVP & General Counsel,male,123035765.0
 709258.0,22037.0,1038357,pioneer natural resources co,true,true,false,false,20120913,sheffield scott d,124636012003777,Chairman & CEO,male,123035765.0
-18717.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120918,risch frank a,124636012003816,,male,123035765.0
-84401.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20120918,berg mark stephen,124636012003814,EVP & General Counsel,male,123035765.0
+21727.0,,1038357,pioneer natural resources co,true,false,false,false,20120918,buchanan edison c,124636012003813,,male,123035765.0
+18717.0,,1038357,pioneer natural resources co,true,false,false,false,20120918,risch frank a,124636012003816,,male,123035765.0
 307341.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20120918,dove timothy l,124636012003812,President & COO,male,123035765.0
-21727.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20120918,buchanan edison c,124636012003813,,male,123035765.0
+84401.0,,1038357,pioneer natural resources co,false,true,false,false,20120918,berg mark stephen,124636012003814,EVP & General Counsel,male,123035765.0
 694258.0,22043.0,1038357,pioneer natural resources co,1,1,0.0,0.0,20121001,sheffield scott d,103431612000002,Chairman & CEO,male,123035765.0
 24368.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20121107,cates andrew f.,124636012004343,,male,123232483.0
 91439.0,4629.0,1038357,pioneer natural resources co,false,true,false,false,20121107,cheatwood chris j,124636012004344,"EVP, BD & Technology",male,123232483.0
-14912.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20121115,reiman scott,124636012004443,,male,123232483.0
+14912.0,,1038357,pioneer natural resources co,true,false,false,false,20121115,reiman scott,124636012004443,,male,123232483.0
 162578.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20121119,dealy richard p,124636012004470,EVP & CFO,male,123232483.0
 298070.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20121119,dove timothy l,124636012004471,President & COO,male,123232483.0
-54401.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20121213,berg mark stephen,124636012004856,EVP & General Counsel,male,123232483.0
-1238.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20121213,ramsey charles e jr,124636012004858,,male,123232483.0
+54401.0,,1038357,pioneer natural resources co,false,true,false,false,20121213,berg mark stephen,124636012004856,EVP & General Counsel,male,123232483.0
+1168.0,,1038357,pioneer natural resources co,true,false,false,false,20121213,arthur thomas d,124636012004857,,male,123232483.0
+1238.0,,1038357,pioneer natural resources co,true,false,false,false,20121213,ramsey charles e jr,124636012004858,,male,123232483.0
 612258.0,22043.0,1038357,pioneer natural resources co,true,true,false,false,20121213,sheffield scott d,124636012004859,Chairman & CEO,male,123232483.0
-1168.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20121213,arthur thomas d,124636012004857,,male,123232483.0
+318124.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130103,dove timothy l,124636013000254,President & COO,male,123232483.0
 99184.0,4629.0,1038357,pioneer natural resources co,false,true,false,false,20130103,cheatwood chris j,124636013000252,"EVP, BD & Technology",male,123232483.0
-79542.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130103,hannes william f,124636013000251,"EVP, S Texas Operations",male,123232483.0
-65353.0,336.0,1038357,pioneer natural resources co,false,true,false,false,20130103,kellum danny l,124636013000250,"EVP, Permian Operations",male,123232483.0
-174806.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130103,dealy richard p,124636013000247,EVP & CFO,male,123232483.0
-73010.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20130103,still jay p,124636013000248,"EVP, Domestic Operations",male,123232483.0
 657095.0,102043.0,1038357,pioneer natural resources co,true,true,false,false,20130103,sheffield scott d,124636013000253,Chairman & CEO,male,123232483.0
 61656.0,30000.0,1038357,pioneer natural resources co,false,true,false,false,20130103,berg mark stephen,124636013000249,EVP & General Counsel,male,123232483.0
-318124.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130103,dove timothy l,124636013000254,President & COO,male,123232483.0
-665217.0,102022.0,1038357,pioneer natural resources co,true,true,false,false,20130221,sheffield scott d,124636013001505,Chairman & CEO,male,123360341.0
-322568.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130221,dove timothy l,124636013001503,President & COO,male,123360341.0
-76101.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20130221,still jay p,124636013001506,"EVP, Domestic Operations",male,123360341.0
-82698.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130221,hannes william f,124636013001502,"EVP, S Texas Operations",male,123360341.0
+73010.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20130103,still jay p,124636013000248,"EVP, Domestic Operations",male,123232483.0
+174806.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130103,dealy richard p,124636013000247,EVP & CFO,male,123232483.0
+65353.0,336.0,1038357,pioneer natural resources co,false,true,false,false,20130103,kellum danny l,124636013000250,"EVP, Permian Operations",male,123232483.0
+79542.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130103,hannes william f,124636013000251,"EVP, S Texas Operations",male,123232483.0
 68766.0,336.0,1038357,pioneer natural resources co,false,true,false,false,20130221,kellum danny l,124636013001498,"EVP, Permian Operations",male,123360341.0
-103382.0,4629.0,1038357,pioneer natural resources co,false,true,false,false,20130221,cheatwood chris j,124636013001500,"EVP, BD & Technology",male,123360341.0
 64763.0,30000.0,1038357,pioneer natural resources co,false,true,false,false,20130221,berg mark stephen,124636013001499,EVP & General Counsel,male,123360341.0
+103382.0,4629.0,1038357,pioneer natural resources co,false,true,false,false,20130221,cheatwood chris j,124636013001500,"EVP, BD & Technology",male,123360341.0
 179143.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130221,dealy richard p,124636013001501,EVP & CFO,male,123360341.0
-20838.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20130221,hall frank w.,124636013001504,VP & CAO,male,123360341.0
-17170.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130311,buchanan edison c,124636013002011,,male,123360341.0
-10651.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130311,watson jim albert,124636013002013,,male,123360341.0
+82698.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130221,hannes william f,124636013001502,"EVP, S Texas Operations",male,123360341.0
+322568.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130221,dove timothy l,124636013001503,President & COO,male,123360341.0
+20838.0,,1038357,pioneer natural resources co,false,true,false,false,20130221,hall frank w.,124636013001504,VP & CAO,male,123360341.0
+665217.0,102022.0,1038357,pioneer natural resources co,true,true,false,false,20130221,sheffield scott d,124636013001505,Chairman & CEO,male,123360341.0
+76101.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20130221,still jay p,124636013001506,"EVP, Domestic Operations",male,123360341.0
+10651.0,,1038357,pioneer natural resources co,true,false,false,false,20130311,watson jim albert,124636013002013,,male,123360341.0
 58427.0,30000.0,1038357,pioneer natural resources co,false,true,false,false,20130311,berg mark stephen,124636013002016,EVP & General Counsel,male,123360341.0
+17170.0,,1038357,pioneer natural resources co,true,false,false,false,20130311,buchanan edison c,124636013002011,,male,123360341.0
 76101.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20130313,still jay p,124636013002060,"EVP, Domestic Operations",male,123360341.0
 23618.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20130313,cates andrew f.,124636013002061,,male,123360341.0
-619.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130313,ramsey charles e jr,124636013002062,,male,123360341.0
-17717.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130313,risch frank a,124636013002064,,male,123360341.0
-18838.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20130314,hall frank w.,124636013002078,VP & CAO,male,123360341.0
+619.0,,1038357,pioneer natural resources co,true,false,false,false,20130313,ramsey charles e jr,124636013002062,,male,123360341.0
+17717.0,,1038357,pioneer natural resources co,true,false,false,false,20130313,risch frank a,124636013002064,,male,123360341.0
 68766.0,336.0,1038357,pioneer natural resources co,false,true,false,false,20130314,kellum danny l,124636013002077,"EVP, Permian Operations",male,123360341.0
+18838.0,,1038357,pioneer natural resources co,false,true,false,false,20130314,hall frank w.,124636013002078,VP & CAO,male,123360341.0
 30000.0,22025.0,1038357,pioneer natural resources co,true,true,false,false,20130318,sheffield scott d,124636013002119,Chairman & CEO,male,123360341.0
 0.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20130318,kellum danny l,124636013002121,"EVP, Permian Operations",male,123360341.0
 103382.0,4629.0,1038357,pioneer natural resources co,false,true,false,false,20130319,cheatwood chris j,124636013002151,"EVP, BD & Technology",male,123360341.0
 179170.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130319,dealy richard p,124636013002156,EVP & CFO,male,123360341.0
-16717.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130320,risch frank a,124636013002168,,male,123360341.0
+16717.0,,1038357,pioneer natural resources co,true,false,false,false,20130320,risch frank a,124636013002168,,male,123360341.0
 310595.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130326,dove timothy l,124636013002217,President & COO,male,123360341.0
 53427.0,30000.0,1038357,pioneer natural resources co,false,true,false,false,20130328,berg mark stephen,124636013002258,EVP & General Counsel,male,123360341.0
 82031.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130402,hannes william f,124636013002326,"EVP, S. Wolfcamp Operations",male,123360341.0
-68103.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130513,hannes william f,124636013002797,"EVP, S. Wolfcamp Operations",male,136578089.0
 19958.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20130513,cates andrew f.,124636013002796,,male,136578089.0
+68103.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130513,hannes william f,124636013002797,"EVP, S. Wolfcamp Operations",male,136578089.0
+8651.0,,1038357,pioneer natural resources co,true,false,false,false,20130516,watson jim albert,124636013002913,,male,136578089.0
 662217.0,82033.0,1038357,pioneer natural resources co,true,true,false,false,20130516,sheffield scott d,124636013002914,Chairman & CEO,male,136578089.0
-8651.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130516,watson jim albert,124636013002913,,male,136578089.0
-14442.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130521,ramsey charles e jr,124636013002982,,male,136578089.0
-24668.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20130523,berg mark stephen,124636013003032,EVP & General Counsel,male,136578089.0
-15717.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130523,risch frank a,124636013003030,,male,136578089.0
+14442.0,,1038357,pioneer natural resources co,true,false,false,false,20130521,ramsey charles e jr,124636013002982,,male,136578089.0
 179170.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130523,dealy richard p,124636013003029,EVP & CFO,male,136578089.0
-2592.0,14442.0,1038357,pioneer natural resources co,true,false,false,false,20130528,ramsey charles e jr,124636013003094,,male,136578089.0
-17493.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130528,risch frank a,124636013003095,,male,136578089.0
-19064.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130528,buchanan edison c,124636013003096,,male,136578089.0
-10427.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130528,watson jim albert,124636013003097,,male,136578089.0
-21734.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20130528,cates andrew f.,124636013003099,,male,136578089.0
+15717.0,,1038357,pioneer natural resources co,true,false,false,false,20130523,risch frank a,124636013003030,,male,136578089.0
+24668.0,,1038357,pioneer natural resources co,false,true,false,false,20130523,berg mark stephen,124636013003032,EVP & General Counsel,male,136578089.0
+36385.0,,1038357,pioneer natural resources co,true,false,false,false,20130528,gardner r hartwell,124636013003102,,male,136578089.0
+7444.0,,1038357,pioneer natural resources co,true,false,false,false,20130528,thompson j kenneth,124636013003103,,male,136578089.0
 2944.0,22124.0,1038357,pioneer natural resources co,true,false,false,false,20130528,arthur thomas d,124636013003101,,male,136578089.0
-36385.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130528,gardner r hartwell,124636013003102,,male,136578089.0
-7444.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130528,thompson j kenneth,124636013003103,,male,136578089.0
-1973.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130530,ramsey charles e jr,124636013003124,,male,136578089.0
-8427.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130530,watson jim albert,124636013003123,,male,136578089.0
-21527.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130530,gardner r hartwell,124636013003122,,male,136578089.0
+17493.0,,1038357,pioneer natural resources co,true,false,false,false,20130528,risch frank a,124636013003095,,male,136578089.0
+10427.0,,1038357,pioneer natural resources co,true,false,false,false,20130528,watson jim albert,124636013003097,,male,136578089.0
+21734.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20130528,cates andrew f.,124636013003099,,male,136578089.0
+2592.0,14442.0,1038357,pioneer natural resources co,true,false,false,false,20130528,ramsey charles e jr,124636013003094,,male,136578089.0
+19064.0,,1038357,pioneer natural resources co,true,false,false,false,20130528,buchanan edison c,124636013003096,,male,136578089.0
+8427.0,,1038357,pioneer natural resources co,true,false,false,false,20130530,watson jim albert,124636013003123,,male,136578089.0
+1973.0,,1038357,pioneer natural resources co,true,false,false,false,20130530,ramsey charles e jr,124636013003124,,male,136578089.0
+21527.0,,1038357,pioneer natural resources co,true,false,false,false,20130530,gardner r hartwell,124636013003122,,male,136578089.0
 277595.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130605,dove timothy l,124636013003235,President & COO,male,136578089.0
 3750.0,129.0,1038357,pioneer natural resources co,false,true,false,false,20130610,cheatwood chris j,124636013003300,"EVP, BD & Geoscience",male,136578089.0
 76101.0,165.0,1038357,pioneer natural resources co,false,true,false,false,20130617,still jay p,124636013003322,"EVP, Domestic Operations",male,136578089.0
 179170.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130617,dealy richard p,124636013003323,EVP & CFO,male,136578089.0
 48427.0,24668.0,1038357,pioneer natural resources co,false,true,false,false,20130618,berg mark stephen,124636013003347,EVP & General Counsel,male,136578089.0
-16493.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130618,risch frank a,124636013003348,,male,136578089.0
+16493.0,,1038357,pioneer natural resources co,true,false,false,false,20130618,risch frank a,124636013003348,,male,136578089.0
 642217.0,82023.0,1038357,pioneer natural resources co,true,true,false,false,20130619,sheffield scott d,124636013003349,Chairman & CEO,male,136578089.0
-2125.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130730,grillot larry r.,124636013003720,,male,138546648.0
-2125.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130730,wood phoebe a,124636013003721,,female,138546648.0
-2125.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130730,methvin stacy p.,124636013003724,,female,138546648.0
+2125.0,,1038357,pioneer natural resources co,true,false,false,false,20130730,grillot larry r.,124636013003720,,male,138546648.0
+2125.0,,1038357,pioneer natural resources co,true,false,false,false,20130730,wood phoebe a,124636013003721,,female,138546648.0
+2125.0,,1038357,pioneer natural resources co,true,false,false,false,20130730,methvin stacy p.,124636013003724,,female,138546648.0
 277595.0,350.0,1038357,pioneer natural resources co,false,true,false,false,20130906,dove timothy l,124636013004254,President & COO,male,138546648.0
-19668.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20130906,berg mark stephen,124636013004253,EVP & General Counsel,male,138546648.0
 68103.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20130906,hannes william f,124636013004251,"EVP, S. Wolfcamp Operations",male,138546648.0
 179170.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20130906,dealy richard p,124636013004252,EVP & CFO,male,138546648.0
+19668.0,,1038357,pioneer natural resources co,false,true,false,false,20130906,berg mark stephen,124636013004253,EVP & General Counsel,male,138546648.0
 52388.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20130909,kellum danny l,124636013004268,"EVP, Permian Operations",male,138546648.0
 627217.0,82009.0,1038357,pioneer natural resources co,true,true,false,false,20130909,sheffield scott d,124636013004269,Chairman & CEO,male,138546648.0
-16761.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20130916,hall frank w.,124636013004383,VP & CAO,male,138546648.0
-1480.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20130916,ramsey charles e jr,124636013004384,,male,138546648.0
-105707.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20131218,cheatwood chris j,124636013005403,"EVP, BD & Geoscience",male,138667689.0
+16761.0,,1038357,pioneer natural resources co,false,true,false,false,20130916,hall frank w.,124636013004383,VP & CAO,male,138546648.0
+1480.0,,1038357,pioneer natural resources co,true,false,false,false,20130916,ramsey charles e jr,124636013004384,,male,138546648.0
 70273.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20131218,hannes william f,124636013005410,"EVP, S. Wolfcamp Operations",male,138667689.0
-987.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20131218,ramsey charles e jr,124636013005400,,male,138667689.0
-18621.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20131218,hall frank w.,124636013005408,VP & CAO,male,138667689.0
+279471.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20131218,dove timothy l,124636013005409,President & COO,male,138667689.0
+18621.0,,1038357,pioneer natural resources co,false,true,false,false,20131218,hall frank w.,124636013005408,VP & CAO,male,138667689.0
 189771.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20131218,dealy richard p,124636013005404,EVP & CFO,male,138667689.0
 55728.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20131218,kellum danny l,124636013005406,"EVP, Permian Operations",male,138667689.0
 51084.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20131218,berg mark stephen,124636013005407,EVP & General Counsel,male,138667689.0
-279471.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20131218,dove timothy l,124636013005409,President & COO,male,138667689.0
+105707.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20131218,cheatwood chris j,124636013005403,"EVP, BD & Geoscience",male,138667689.0
+987.0,,1038357,pioneer natural resources co,true,false,false,false,20131218,ramsey charles e jr,124636013005400,,male,138667689.0
 638387.0,82010.0,1038357,pioneer natural resources co,true,true,false,false,20131218,sheffield scott d,124636013005405,Chairman & CEO,male,138667689.0
-198678.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140103,dealy richard p,124636014000030,EVP & CFO,male,138667689.0
+111356.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20140103,cheatwood chris j,124636014000026,"EVP, BD & Geoscience",male,138667689.0
+60261.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140103,kellum danny l,124636014000031,"EVP, Permian Operations",male,138667689.0
+662464.0,82009.0,1038357,pioneer natural resources co,true,true,false,false,20140103,sheffield scott d,124636014000032,Chairman & CEO,male,138667689.0
 74701.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20140103,hannes william f,124636014000029,"EVP, S. Wolfcamp Operations",male,138667689.0
 291534.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140103,dove timothy l,124636014000028,President & COO,male,138667689.0
-60261.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140103,kellum danny l,124636014000031,"EVP, Permian Operations",male,138667689.0
-111356.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20140103,cheatwood chris j,124636014000026,"EVP, BD & Geoscience",male,138667689.0
 55918.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20140103,berg mark stephen,124636014000027,EVP & General Counsel,male,138667689.0
-662464.0,82009.0,1038357,pioneer natural resources co,true,true,false,false,20140103,sheffield scott d,124636014000032,Chairman & CEO,male,138667689.0
-294577.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140220,dove timothy l,124636014001264,President & COO,male,138667689.0
-17377.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20140220,hall frank w.,124636014001265,VP & CAO,male,138667689.0
-76391.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20140220,hannes william f,124636014001267,"EVP, S. Wolfcamp Operations",male,138667689.0
-673109.0,82010.0,1038357,pioneer natural resources co,true,true,false,false,20140220,sheffield scott d,124636014001263,Chairman & CEO,male,138667689.0
-62069.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140220,kellum danny l,124636014001266,"EVP, Permian Operations",male,138667689.0
+198678.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140103,dealy richard p,124636014000030,EVP & CFO,male,138667689.0
 113425.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20140220,cheatwood chris j,124636014001260,"EVP, BD & Geoscience",male,138667689.0
 200775.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140220,dealy richard p,124636014001262,EVP & CFO,male,138667689.0
+673109.0,82010.0,1038357,pioneer natural resources co,true,true,false,false,20140220,sheffield scott d,124636014001263,Chairman & CEO,male,138667689.0
+294577.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140220,dove timothy l,124636014001264,President & COO,male,138667689.0
+17377.0,,1038357,pioneer natural resources co,false,true,false,false,20140220,hall frank w.,124636014001265,VP & CAO,male,138667689.0
+62069.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140220,kellum danny l,124636014001266,"EVP, Permian Operations",male,138667689.0
+76391.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20140220,hannes william f,124636014001267,"EVP, S. Wolfcamp Operations",male,138667689.0
 57654.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20140220,berg mark stephen,124636014001261,"EVP, Chief of Staff",male,138667689.0
+494.0,,1038357,pioneer natural resources co,true,false,false,false,20140320,ramsey charles e jr,124636014001878,,male,138667689.0
 20000.0,22012.0,1038357,pioneer natural resources co,true,true,false,false,20140320,sheffield scott d,124636014001877,Chairman & CEO,male,138667689.0
-494.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140320,ramsey charles e jr,124636014001878,,male,138667689.0
 103867.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20140327,cheatwood chris j,124636014001923,"EVP, BD & Geoscience",male,138667689.0
-200775.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140331,dealy richard p,124636014001947,EVP & CFO,male,138667689.0
-282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140331,dove timothy l,124636014001946,President & COO,male,138667689.0
-5107.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20140331,montemayor margaret,124636014001948,VP & CAO,female,138667689.0
+5107.0,,1038357,pioneer natural resources co,false,true,false,false,20140331,montemayor margaret,124636014001948,VP & CAO,female,138667689.0
 57654.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20140331,berg mark stephen,124636014001945,"EVP, Chief of Staff",male,138667689.0
-7427.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140401,watson jim albert,124636014001949,,male,138667689.0
-6427.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140513,watson jim albert,124636014002422,,male,143046951.0
+282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140331,dove timothy l,124636014001946,President & COO,male,138667689.0
+200775.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140331,dealy richard p,124636014001947,EVP & CFO,male,138667689.0
+7427.0,,1038357,pioneer natural resources co,true,false,false,false,20140401,watson jim albert,124636014001949,,male,138667689.0
+14683.0,,1038357,pioneer natural resources co,true,false,false,false,20140513,ramsey charles e jr,124636014002424,,male,143046951.0
+6427.0,,1038357,pioneer natural resources co,true,false,false,false,20140513,watson jim albert,124636014002422,,male,143046951.0
 54569.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140513,kellum danny l,124636014002423,"EVP, Permian Operations",male,143046951.0
-14683.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140513,ramsey charles e jr,124636014002424,,male,143046951.0
+14493.0,,1038357,pioneer natural resources co,true,false,false,false,20140513,risch frank a,124636014002428,,male,143046951.0
 18584.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20140513,cates andrew f.,124636014002427,,male,143046951.0
-14493.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140513,risch frank a,124636014002428,,male,143046951.0
 653109.0,62014.0,1038357,pioneer natural resources co,true,true,false,false,20140522,sheffield scott d,124636014002626,Chairman & CEO,male,143046951.0
-6444.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140528,thompson j kenneth,124636014002683,,male,143046951.0
-26572.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,buchanan edison c,124636014002716,,male,143046951.0
-3251.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,wood phoebe a,124636014002713,,female,143046951.0
-7570.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,thompson j kenneth,124636014002715,,male,143046951.0
-3751.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,grillot larry r.,124636014002708,,male,143046951.0
-1746.0,14683.0,1038357,pioneer natural resources co,true,false,false,false,20140529,ramsey charles e jr,124636014002712,,male,143046951.0
-14695.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,risch frank a,124636014002710,,male,143046951.0
-3251.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,methvin stacy p.,124636014002709,,female,143046951.0
+6444.0,,1038357,pioneer natural resources co,true,false,false,false,20140528,thompson j kenneth,124636014002683,,male,143046951.0
+26572.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,buchanan edison c,124636014002716,,male,143046951.0
+7570.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,thompson j kenneth,124636014002715,,male,143046951.0
+3251.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,wood phoebe a,124636014002713,,female,143046951.0
+7553.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,watson jim albert,124636014002714,,male,143046951.0
+14695.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,risch frank a,124636014002710,,male,143046951.0
+3251.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,methvin stacy p.,124636014002709,,female,143046951.0
+3751.0,,1038357,pioneer natural resources co,true,false,false,false,20140529,grillot larry r.,124636014002708,,male,143046951.0
 19710.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20140529,cates andrew f.,124636014002711,,male,143046951.0
-7553.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140529,watson jim albert,124636014002714,,male,143046951.0
+1746.0,14683.0,1038357,pioneer natural resources co,true,false,false,false,20140529,ramsey charles e jr,124636014002712,,male,143046951.0
 282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140602,dove timothy l,124636014002753,President & COO,male,143046951.0
-13695.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140602,risch frank a,124636014002754,,male,143046951.0
+13695.0,,1038357,pioneer natural resources co,true,false,false,false,20140602,risch frank a,124636014002754,,male,143046951.0
 196562.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140602,dealy richard p,124636014002755,EVP & CFO,male,143046951.0
-14064.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140604,ramsey charles e jr,124636014002810,,male,143046951.0
-282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140610,dove timothy l,124636014002889,President & COO,male,143046951.0
+14064.0,,1038357,pioneer natural resources co,true,false,false,false,20140604,ramsey charles e jr,124636014002810,,male,143046951.0
+1252.0,,1038357,pioneer natural resources co,true,false,false,false,20140610,ramsey charles e jr,124636014002892,,male,143046951.0
 47569.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140610,kellum danny l,124636014002890,"EVP, Permian Operations",male,143046951.0
 55154.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20140610,berg mark stephen,124636014002891,"EVP, Corporate",male,143046951.0
-1252.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140610,ramsey charles e jr,124636014002892,,male,143046951.0
-7070.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140611,thompson j kenneth,124636014002897,,male,143046951.0
+282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140610,dove timothy l,124636014002889,President & COO,male,143046951.0
+7070.0,,1038357,pioneer natural resources co,true,false,false,false,20140611,thompson j kenneth,124636014002897,,male,143046951.0
 628109.0,62005.0,1038357,pioneer natural resources co,true,true,false,false,20140611,sheffield scott d,124636014002898,Chairman & CEO,male,143046951.0
 76391.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20140612,hannes william f,124636014002910,"EVP, S. Wolfcamp Operations",male,143046951.0
 42569.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20140616,kellum danny l,124636014002937,"EVP, Permian Operations",male,143046951.0
-12695.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140616,risch frank a,124636014002938,,male,143046951.0
-25972.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140616,buchanan edison c,124636014002939,,male,143046951.0
-6553.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140619,watson jim albert,124636014003015,,male,143046951.0
+12695.0,,1038357,pioneer natural resources co,true,false,false,false,20140616,risch frank a,124636014002938,,male,143046951.0
+25972.0,,1038357,pioneer natural resources co,true,false,false,false,20140616,buchanan edison c,124636014002939,,male,143046951.0
+6553.0,,1038357,pioneer natural resources co,true,false,false,false,20140619,watson jim albert,124636014003015,,male,143046951.0
 282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140619,dove timothy l,124636014003016,President & COO,male,143046951.0
 188309.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20140619,dealy richard p,124636014003017,EVP & CFO,male,143046951.0
 53654.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20140624,berg mark stephen,124636014003042,"EVP, Corporate",male,143046951.0
 17710.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20140625,cates andrew f.,124636014003053,,male,143046951.0
 282514.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20140626,dove timothy l,124636014003065,President & COO,male,143046951.0
 17210.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20140630,cates andrew f.,124636014003088,,male,143046951.0
-11695.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140630,risch frank a,124636014003089,,male,143046951.0
-2445.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140714,gobe phillip a,124636014003253,,male,143046951.0
-4426.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140714,mitchell royce,124636014003254,,male,143046951.0
-41.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20140812,montemayor margaret,124636014003468,VP & CAO,female,143098392.0
-7121.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140822,thompson j kenneth,124636014003616,,male,143098392.0
+11695.0,,1038357,pioneer natural resources co,true,false,false,false,20140630,risch frank a,124636014003089,,male,143046951.0
+2445.0,,1038357,pioneer natural resources co,true,false,false,false,20140714,gobe phillip a,124636014003253,,male,143046951.0
+4426.0,,1038357,pioneer natural resources co,true,false,false,false,20140714,mitchell royce,124636014003254,,male,143046951.0
+41.0,,1038357,pioneer natural resources co,false,true,false,false,20140812,montemayor margaret,124636014003468,VP & CAO,female,143098392.0
+7121.0,,1038357,pioneer natural resources co,true,false,false,false,20140822,thompson j kenneth,124636014003616,,male,143098392.0
 97105.0,3879.0,1038357,pioneer natural resources co,false,true,false,false,20140918,cheatwood chris j,124636014003884,"EVP, BD & Geoscience",male,143098392.0
 0.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20140922,cheatwood chris j,124636014003909,"EVP, BD & Geoscience",male,143098392.0
-939.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20140922,ramsey charles e jr,124636014003910,,male,143098392.0
+939.0,,1038357,pioneer natural resources co,true,false,false,false,20140922,ramsey charles e jr,124636014003910,,male,143098392.0
+58447.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150105,berg mark stephen,124636015000106,"EVP, Corporate",male,143147890.0
 196045.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20150105,dealy richard p,124636015000108,EVP & CFO,male,143147890.0
-101080.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150105,cheatwood chris j,124636015000097,"EVP, BD & Geoscience",male,143147890.0
 292720.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20150105,dove timothy l,124636015000099,President & COO,male,143147890.0
 649431.0,62019.0,1038357,pioneer natural resources co,true,true,false,false,20150105,sheffield scott d,124636015000100,Chairman & CEO,male,143147890.0
 47362.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20150105,kellum danny l,124636015000102,"EVP, Permian Operations",male,143147890.0
-58447.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150105,berg mark stephen,124636015000106,"EVP, Corporate",male,143147890.0
-281562.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20150224,dove timothy l,124636015001116,President & COO,male,148963753.0
-15880.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20150224,kleinman mark h,124636015001123,"SVP, General Counsel",male,148963753.0
-635223.0,62016.0,1038357,pioneer natural resources co,true,true,false,false,20150224,sheffield scott d,124636015001122,Chairman & CEO,male,148963753.0
-19954.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20150224,hall jerome d jr,124636015001119,"EVP, S. Wolfcamp Operations",male,148963753.0
-53799.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150224,berg mark stephen,124636015001120,"EVP, Corporate",male,148963753.0
-5001.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150224,montemayor margaret,124636015001124,VP & CAO,female,148963753.0
+101080.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150105,cheatwood chris j,124636015000097,"EVP, BD & Geoscience",male,143147890.0
 42806.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20150224,kellum danny l,124636015001115,"EVP, Permian Operations",male,148963753.0
-188044.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20150224,dealy richard p,124636015001118,EVP & CFO,male,148963753.0
 24906.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20150224,sheffield kenneth h jr,124636015001126,"EVP, South Texas Operations",male,148963753.0
+5001.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150224,montemayor margaret,124636015001124,VP & CAO,female,148963753.0
+15880.0,,1038357,pioneer natural resources co,false,true,false,false,20150224,kleinman mark h,124636015001123,"SVP, General Counsel",male,148963753.0
+281562.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20150224,dove timothy l,124636015001116,President & COO,male,148963753.0
+53799.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150224,berg mark stephen,124636015001120,"EVP, Corporate",male,148963753.0
+19954.0,,1038357,pioneer natural resources co,false,true,false,false,20150224,hall jerome d jr,124636015001119,"EVP, S. Wolfcamp Operations",male,148963753.0
+188044.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20150224,dealy richard p,124636015001118,EVP & CFO,male,148963753.0
 95500.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150224,cheatwood chris j,124636015001117,"EVP, BD & Geoscience",male,148963753.0
-6291.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150304,montemayor margaret,124636015001334,VP & CAO,female,148963753.0
-663243.0,62009.0,1038357,pioneer natural resources co,true,true,false,false,20150304,sheffield scott d,124636015001331,Chairman & CEO,male,148963753.0
-47476.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20150304,kellum danny l,124636015001333,"EVP, Permian Operations",male,148963753.0
-17833.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20150304,kleinman mark h,124636015001336,"SVP, General Counsel",male,148963753.0
+635223.0,62016.0,1038357,pioneer natural resources co,true,true,false,false,20150224,sheffield scott d,124636015001122,Chairman & CEO,male,148963753.0
+17833.0,,1038357,pioneer natural resources co,false,true,false,false,20150304,kleinman mark h,124636015001336,"SVP, General Counsel",male,148963753.0
 293093.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20150304,dove timothy l,124636015001335,President & COO,male,148963753.0
-22889.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20150304,hall jerome d jr,124636015001332,"EVP, S. Wolfcamp Operations",male,148963753.0
-27841.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20150304,sheffield kenneth h jr,124636015001327,"EVP, South Texas Operations",male,148963753.0
+6291.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150304,montemayor margaret,124636015001334,VP & CAO,female,148963753.0
+47476.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20150304,kellum danny l,124636015001333,"EVP, Permian Operations",male,148963753.0
+22889.0,,1038357,pioneer natural resources co,false,true,false,false,20150304,hall jerome d jr,124636015001332,"EVP, S. Wolfcamp Operations",male,148963753.0
 195890.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20150304,dealy richard p,124636015001330,EVP & CFO,male,148963753.0
-101393.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150304,cheatwood chris j,124636015001329,"EVP, BD & Geoscience",male,148963753.0
+27841.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20150304,sheffield kenneth h jr,124636015001327,"EVP, South Texas Operations",male,148963753.0
 59234.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150304,berg mark stephen,124636015001325,"EVP, Corporate",male,148963753.0
-4593.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,wood phoebe a,124636015002304,,female,149298875.0
-8611.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,thompson j kenneth,124636015002305,,male,149298875.0
-5768.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,mitchell royce,124636015002302,,male,149298875.0
-13127.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,risch frank a,124636015002301,,male,149298875.0
+663243.0,62009.0,1038357,pioneer natural resources co,true,true,false,false,20150304,sheffield scott d,124636015001331,Chairman & CEO,male,148963753.0
+101393.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150304,cheatwood chris j,124636015001329,"EVP, BD & Geoscience",male,148963753.0
+5768.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,mitchell royce,124636015002302,,male,149298875.0
+8611.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,thompson j kenneth,124636015002305,,male,149298875.0
+4593.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,wood phoebe a,124636015002304,,female,149298875.0
 18552.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20150522,cates andrew f.,124636015002303,,male,149298875.0
-5093.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,grillot larry r.,124636015002299,,male,149298875.0
-27404.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,buchanan edison c,124636015002298,,male,149298875.0
-3787.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,gobe phillip a,124636015002297,,male,149298875.0
-4683.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150522,methvin stacy p.,124636015002300,,female,149298875.0
-4994.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150604,montemayor margaret,124636015002453,VP & CAO,female,149298875.0
-20369.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20150604,hall jerome d jr,124636015002456,"EVP, S. Wolfcamp Operations",male,149298875.0
+5093.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,grillot larry r.,124636015002299,,male,149298875.0
+4683.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,methvin stacy p.,124636015002300,,female,149298875.0
+13127.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,risch frank a,124636015002301,,male,149298875.0
+27404.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,buchanan edison c,124636015002298,,male,149298875.0
+3787.0,,1038357,pioneer natural resources co,true,false,false,false,20150522,gobe phillip a,124636015002297,,male,149298875.0
 88100.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150604,cheatwood chris j,124636015002452,"EVP, BD & Geoscience",male,149298875.0
+4994.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150604,montemayor margaret,124636015002453,VP & CAO,female,149298875.0
+20369.0,,1038357,pioneer natural resources co,false,true,false,false,20150604,hall jerome d jr,124636015002456,"EVP, S. Wolfcamp Operations",male,149298875.0
 55942.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150608,berg mark stephen,124636015002471,"EVP, Corporate",male,149298875.0
-643243.0,62031.0,1038357,pioneer natural resources co,true,true,false,false,20150611,sheffield scott d,124636015002487,Chairman & CEO,male,149298875.0
-15086.0,0.0,1038357,pioneer natural resources co,false,true,false,false,20150611,kleinman mark h,124636015002484,"SVP, General Counsel",male,149298875.0
+15086.0,,1038357,pioneer natural resources co,false,true,false,false,20150611,kleinman mark h,124636015002484,"SVP, General Counsel",male,149298875.0
 5698.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20150611,montemayor margaret,124636015002485,VP & CAO,female,149298875.0
 276712.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20150611,dove timothy l,124636015002486,President & COO,male,149298875.0
-2140.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150707,wortley michael d,124636015002658,,male,149298875.0
-2140.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150707,sutphen mona,124636015002657,,female,149298875.0
-53442.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150814,berg mark stephen,124636015002920,"EVP, Corporate",male,149307983.0
+643243.0,62031.0,1038357,pioneer natural resources co,true,true,false,false,20150611,sheffield scott d,124636015002487,Chairman & CEO,male,149298875.0
+2140.0,,1038357,pioneer natural resources co,true,false,false,false,20150707,sutphen mona,124636015002657,,female,149298875.0
+2140.0,,1038357,pioneer natural resources co,true,false,false,false,20150707,wortley michael d,124636015002658,,male,149298875.0
 58771.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20150814,dealy richard p,124636015002921,EVP & CFO,male,149307983.0
-12127.0,0.0,1038357,pioneer natural resources co,true,false,false,false,20150818,risch frank a,124636015002942,,male,149307983.0
+58771.0,310.0,1038357,pioneer natural resources co,false,true,false,false,20150814,dealy richard p,124636015002921,EVP & CFO,male,149307983.0
+53442.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150814,berg mark stephen,124636015002920,"EVP, Corporate",male,149307983.0
+53442.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150814,berg mark stephen,124636015002920,"EVP, Corporate",male,149307983.0
+12127.0,,1038357,pioneer natural resources co,true,false,false,false,20150818,risch frank a,124636015002942,,male,149307983.0
+12127.0,,1038357,pioneer natural resources co,true,false,false,false,20150818,risch frank a,124636015002942,,male,149307983.0
+27641.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20150916,sheffield kenneth h jr,124636015003111,"EVP, STAT, WAT, Corp. Eng.",male,149307983.0
+18188.0,,1038357,pioneer natural resources co,false,true,false,false,20150916,hall jerome d jr,124636015003110,"EVP, Permian Operations",male,149307983.0
 27641.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20150916,sheffield kenneth h jr,124636015003111,"EVP, STAT, WAT, Corp. Eng.",male,149307983.0
 613983.0,62057.0,1038357,pioneer natural resources co,true,true,false,false,20150917,sheffield scott d,124636015003132,Chairman & CEO,male,149307983.0
+613983.0,62057.0,1038357,pioneer natural resources co,true,true,false,false,20150917,sheffield scott d,124636015003132,Chairman & CEO,male,149307983.0
+71855.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150918,cheatwood chris j,124636015003155,"EVP, BD & Geoscience",male,149307983.0
 71855.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20150918,cheatwood chris j,124636015003155,"EVP, BD & Geoscience",male,149307983.0
 50942.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150921,berg mark stephen,124636015003163,"EVP, Corporate",male,149307983.0
-141332.0,310.0,1038357,pioneer natural resources co,0,1,0.0,0.0,20150929,dealy richard p,112191915000002,EVP & CFO,male,149307983.0
+50942.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20150921,berg mark stephen,124636015003163,"EVP, Corporate",male,149307983.0
+141332.0,310.0,1038357,pioneer natural resources co,0,1,0,0,20150929,dealy richard p,112191915000002,EVP & CFO,male,149307983.0
+141332.0,310.0,1038357,pioneer natural resources co,0.0,1.0,0.0,0.0,20150929,dealy richard p,112191915000002,EVP & CFO,male,149307983.0
+23222.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20151109,sheffield kenneth h jr,124636015003516,"EVP, STAT, WAT, Corp. Eng.",male,149377919.0
+267449.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20151109,dove timothy l,124636015003517,President & COO,male,149377919.0
+15052.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20151119,cates andrew f.,124636015003593,,male,149377919.0
+63458.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20151124,cheatwood chris j,124636015003634,"EVP, BD & Geoscience",male,149377919.0
+47942.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20151124,berg mark stephen,124636015003636,"EVP, Corporate",male,149377919.0
+11127.0,,1038357,pioneer natural resources co,true,false,false,false,20151203,risch frank a,124636015003679,,male,149377919.0
+603983.0,66311.0,1038357,pioneer natural resources co,true,true,false,false,20151203,sheffield scott d,124636015003678,Chairman & CEO,male,149377919.0
+68503.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20160105,dealy richard p,124636016004052,EVP & CFO,male,149377919.0
+53366.0,265.0,1038357,pioneer natural resources co,false,true,false,false,20160105,kellum danny l,124636016004049,"EVP, Permian Operations",male,149377919.0
+54153.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20160105,berg mark stephen,124636016004048,"EVP, Corporate",male,149377919.0
+24236.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20160105,sheffield kenneth h jr,124636016004065,"EVP, STAT, WAT, Corp. Eng.",male,149377919.0
+16087.0,,1038357,pioneer natural resources co,false,true,false,false,20160105,kleinman mark h,124636016004066,"SVP, General Counsel",male,149377919.0
+631713.0,66320.0,1038357,pioneer natural resources co,true,true,false,false,20160105,sheffield scott d,124636016004068,Chairman & CEO,male,149377919.0
+280703.0,350.0,1038357,pioneer natural resources co,true,true,false,false,20160105,dove timothy l,124636016004062,President & COO,male,149377919.0
+19154.0,,1038357,pioneer natural resources co,false,true,false,false,20160105,hall jerome d jr,124636016004053,"EVP, Permian Operations",male,149377919.0
+70843.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20160105,cheatwood chris j,124636016004059,"EVP, BD & Geoscience",male,149377919.0
+49843.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20160223,berg mark stephen,124636016004659,"EVP, Corporate/Operations",male,163266510.0
+61034.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20160223,dealy richard p,124636016004660,EVP & CFO,male,163266510.0
+22715.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20160223,sheffield kenneth h jr,124636016004662,"EVP, STAT, WAT, Corp. Eng.",male,163266510.0
+65596.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20160223,cheatwood chris j,124636016004663,"EVP, BD & Geoscience",male,163266510.0
+17670.0,,1038357,pioneer natural resources co,false,true,false,false,20160223,hall jerome d jr,124636016004664,"EVP, Permian Operations",male,163266510.0
+270399.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20160223,dove timothy l,124636016004665,President & COO,male,163266510.0
+14575.0,,1038357,pioneer natural resources co,false,true,false,false,20160223,kleinman mark h,124636016004666,"SVP, General Counsel",male,163266510.0
+617090.0,62090.0,1038357,pioneer natural resources co,true,true,false,false,20160223,sheffield scott d,124636016004668,Chairman & CEO,male,163266510.0
+5585.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20160223,montemayor margaret,124636016004661,VP & CAO,female,163266510.0
+17316.0,,1038357,pioneer natural resources co,false,true,false,false,20160303,kleinman mark h,124636016004880,"SVP, General Counsel",male,163266510.0
+285247.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20160303,dove timothy l,124636016004878,President & COO,male,163266510.0
+26931.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20160303,sheffield kenneth h jr,124636016004877,"EVP, STAT, WAT, Corp. Eng.",male,163266510.0
+71468.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20160303,dealy richard p,124636016004876,EVP & CFO,male,163266510.0
+74019.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20160303,cheatwood chris j,124636016004875,"EVP, BD & Geoscience",male,163266510.0
+651868.0,67845.0,1038357,pioneer natural resources co,true,true,false,false,20160303,sheffield scott d,124636016004874,Chairman & CEO,male,163266510.0
+7641.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20160303,montemayor margaret,124636016004873,VP & CAO,female,163266510.0
+58266.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20160303,berg mark stephen,124636016004871,"EVP, Corporate/Operations",male,163266510.0
+25028.0,,1038357,pioneer natural resources co,false,true,false,false,20160303,hall jerome d jr,124636016004879,"EVP, Permian Operations",male,163266510.0
+7409.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20160331,montemayor margaret,124636016005342,VP & CAO,female,163266510.0
+621868.0,67825.0,1038357,pioneer natural resources co,true,true,false,false,20160502,sheffield scott d,124636016005656,Chairman & CEO,male,163556616.0
+10127.0,,1038357,pioneer natural resources co,true,false,false,false,20160502,risch frank a,124636016005652,,male,163556616.0
+51266.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20160502,berg mark stephen,124636016005653,"EVP, Corporate/Operations",male,163556616.0
+24431.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20160502,sheffield kenneth h jr,124636016005654,"EVP, STAT, WAT, Corp. Eng.",male,163556616.0
+12002.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20160503,cates andrew f.,124636016005678,,male,163556616.0
+63378.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20160503,cheatwood chris j,124636016005677,"EVP, BD & Geoscience",male,163556616.0
+10203.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,thompson j kenneth,124636016005969,,male,163556616.0
+7201.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,mitchell royce,124636016005963,,male,163556616.0
+4019.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,wood phoebe a,124636016005964,,female,163556616.0
+11656.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,risch frank a,124636016005965,,male,163556616.0
+6212.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,methvin stacy p.,124636016005959,,female,163556616.0
+5220.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,gobe phillip a,124636016005958,,male,163556616.0
+6526.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,grillot larry r.,124636016005961,,male,163556616.0
+28933.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,buchanan edison c,124636016005962,,male,163556616.0
+13435.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20160523,cates andrew f.,124636016005960,,male,163556616.0
+3573.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,sutphen mona,124636016005966,,female,163556616.0
+3573.0,,1038357,pioneer natural resources co,true,false,false,false,20160523,wortley michael d,124636016005967,,male,163556616.0
+23428.0,,1038357,pioneer natural resources co,false,true,false,false,20160630,hall jerome d jr,124636016006211,"EVP, Permian Operations",male,163556616.0
+271993.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20160630,dove timothy l,124636016006212,President & COO,male,163556616.0
+16316.0,,1038357,pioneer natural resources co,false,true,false,false,20160705,kleinman mark h,124636016006231,"SVP, General Counsel",male,163556616.0
+6026.0,,1038357,pioneer natural resources co,true,false,false,false,20160808,grillot larry r.,124636016006441,,male,169607877.0
+49266.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20160810,berg mark stephen,124636016006462,"EVP, Corporate/Operations",male,169607877.0
+9453.0,,1038357,pioneer natural resources co,true,false,false,false,20160810,thompson j kenneth,124636016006466,,male,169607877.0
+51227.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20160810,cheatwood chris j,124636016006469,"EVP, BD & Geoscience",male,169607877.0
+269693.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20160816,dove timothy l,124636016006527,President & COO,male,169607877.0
+595868.0,67829.0,1038357,pioneer natural resources co,true,true,false,false,20160816,sheffield scott d,124636016006528,Chairman & CEO,male,169607877.0
+47266.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20160816,berg mark stephen,124636016006529,"EVP, Corporate/Operations",male,169607877.0
+22994.0,,1038357,pioneer natural resources co,false,true,false,false,20160816,hall jerome d jr,124636016006530,"EVP, Permian Operations",male,169607877.0
+23978.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20160816,sheffield kenneth h jr,124636016006531,"EVP, STAT, WAT, Corp. Eng.",male,169607877.0
+25933.0,,1038357,pioneer natural resources co,true,false,false,false,20160816,buchanan edison c,124636016006532,,male,169607877.0
+49727.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20160816,cheatwood chris j,124636016006533,"EVP, BD & Geoscience",male,169607877.0
+14544.0,,1038357,pioneer natural resources co,false,true,false,false,20160816,kleinman mark h,124636016006526,"SVP, General Counsel",male,169607877.0
+21994.0,,1038357,pioneer natural resources co,false,true,false,false,20160822,hall jerome d jr,124636016006574,"EVP, Permian Operations",male,169607877.0
+252010.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20160922,dove timothy l,124636016006834,President & COO,male,169607877.0
+12935.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20160922,cates andrew f.,124636016006832,,male,169607877.0
+10656.0,,1038357,pioneer natural resources co,true,false,false,false,20161003,risch frank a,124636016006869,,male,169607877.0
+585868.0,67844.0,1038357,pioneer natural resources co,true,true,false,false,20161128,sheffield scott d,124636016007238,Chairman & CEO,male,169720677.0
+249010.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20161208,dove timothy l,124636016007382,President & COO,male,169720677.0
+78865.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20170104,dealy richard p,124636017000093,EVP & CFO,male,169720677.0
+259515.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20170104,dove timothy l,124636017000092,President & CEO,male,169720677.0
+16304.0,,1038357,pioneer natural resources co,false,true,false,false,20170104,kleinman mark h,124636017000089,SVP & General Counsel,male,169720677.0
+39402.0,2673.0,1038357,pioneer natural resources co,false,true,false,false,20170104,hopkins frank e,124636017000087,"SVP, Investor Relations",male,169720677.0
+24382.0,,1038357,pioneer natural resources co,false,true,false,false,20170104,hall jerome d jr,124636017000086,"EVP, Permian Operations",male,169720677.0
+12356.0,56646.0,1038357,pioneer natural resources co,false,true,false,false,20170104,hannes william f,124636017000085,"SVP, Special Management Commit",male,169720677.0
+26455.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20170104,sheffield kenneth h jr,124636017000081,"EVP, STAT, WAT, Corp. Eng.",male,169720677.0
+52199.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20170104,berg mark stephen,124636017000079,"EVP, Corporate/Operations",male,169720677.0
+55476.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20170104,cheatwood chris j,124636017000078,"EVP, BD & Geoscience",male,169720677.0
+608291.0,67841.0,1038357,pioneer natural resources co,true,true,false,false,20170104,sheffield scott d,124636017000088,Executive Chairman of the Boar,male,169720677.0
+23955.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20170214,sheffield kenneth h jr,124636017000625,"EVP, STAT, WAT, Corp. Eng.",male,169796963.0
+22941.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20170215,sheffield kenneth h jr,124636017000762,"EVP, STAT, WAT, Corp. Eng.",male,169796963.0
+9656.0,,1038357,pioneer natural resources co,true,false,false,false,20170215,risch frank a,124636017000761,,male,169796963.0
+0.0,64841.0,1038357,pioneer natural resources co,true,true,false,false,20170215,sheffield scott d,124636017000760,Executive Chairman of the Boar,male,169796963.0
+12031.0,56646.0,1038357,pioneer natural resources co,false,true,false,false,20170215,hannes william f,124636017000758,"SVP, Special Management Commit",male,169796963.0
+50482.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20170222,berg mark stephen,124636017000905,"EVP, Corporate/Operations",male,169796963.0
+53422.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20170222,cheatwood chris j,124636017000906,"EVP, BD & Geoscience",male,169796963.0
+76131.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20170222,dealy richard p,124636017000907,EVP & CFO,male,169796963.0
+7367.0,319.0,1038357,pioneer natural resources co,false,true,false,false,20170222,fairbrook teresa a,124636017000908,VP & Chief Human Resources Off,female,169796963.0
+254298.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20170222,dove timothy l,124636017000915,President & CEO,male,169796963.0
+23294.0,,1038357,pioneer natural resources co,false,true,false,false,20170222,hall jerome d jr,124636017000909,"EVP, Permian Operations",male,169796963.0
+10433.0,56646.0,1038357,pioneer natural resources co,false,true,false,false,20170222,hannes william f,124636017000910,"SVP, Special Management Commit",male,169796963.0
+15918.0,,1038357,pioneer natural resources co,false,true,false,false,20170222,kleinman mark h,124636017000911,SVP & General Counsel,male,169796963.0
+21520.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20170222,sheffield kenneth h jr,124636017000912,"EVP, STAT, WAT, Corp. Eng.",male,169796963.0
+6274.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20170222,montemayor margaret,124636017000913,VP & CAO,female,169796963.0
+9636.0,73.0,1038357,pioneer natural resources co,false,true,false,false,20170222,stewart stephanie d,124636017000914,VP & Chief Information Officer,female,169796963.0
+38771.0,2673.0,1038357,pioneer natural resources co,false,true,false,false,20170222,hopkins frank e,124636017000916,"SVP, Investor Relations",male,169796963.0
+596966.0,64841.0,1038357,pioneer natural resources co,true,true,false,false,20170222,sheffield scott d,124636017000917,Executive Chairman of the Boar,male,169796963.0
+51190.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20170223,cheatwood chris j,124636017000939,"EVP, BD & Geoscience",male,169796963.0
+38189.0,2673.0,1038357,pioneer natural resources co,false,true,false,false,20170223,hopkins frank e,124636017000940,"SVP, Investor Relations",male,169796963.0
+48622.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20170223,berg mark stephen,124636017000941,"EVP, Corporate/Operations",male,169796963.0
+72858.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20170223,dealy richard p,124636017000942,EVP & CFO,male,169796963.0
+249837.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20170223,dove timothy l,124636017000944,President & CEO,male,169796963.0
+8796.0,56646.0,1038357,pioneer natural resources co,false,true,false,false,20170223,hannes william f,124636017000945,"SVP, Special Management Commit",male,169796963.0
+15016.0,,1038357,pioneer natural resources co,false,true,false,false,20170223,kleinman mark h,124636017000946,SVP & General Counsel,male,169796963.0
+20404.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20170223,sheffield kenneth h jr,124636017000947,"EVP, STAT, WAT, Corp. Eng.",male,169796963.0
+22178.0,,1038357,pioneer natural resources co,false,true,false,false,20170223,hall jerome d jr,124636017000943,"EVP, Permian Operations",male,169796963.0
+54219.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20170301,berg mark stephen,124636017001124,"EVP, Corporate/Operations",male,169796963.0
+56787.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20170301,cheatwood chris j,124636017001125,"EVP, BD & Geoscience",male,169796963.0
+8528.0,319.0,1038357,pioneer natural resources co,false,true,false,false,20170301,fairbrook teresa a,124636017001126,VP & Chief Human Resources Off,female,169796963.0
+79820.0,141642.0,1038357,pioneer natural resources co,false,true,false,false,20170301,dealy richard p,124636017001127,EVP & CFO,male,169796963.0
+268948.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20170301,dove timothy l,124636017001128,President & CEO,male,169796963.0
+15443.0,,1038357,pioneer natural resources co,false,true,false,false,20170301,kleinman mark h,124636017001130,SVP & General Counsel,male,169796963.0
+9684.0,56646.0,1038357,pioneer natural resources co,false,true,false,false,20170301,hannes william f,124636017001129,"SVP, Special Management Commit",male,169796963.0
+23271.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20170301,sheffield kenneth h jr,124636017001132,"EVP, STAT, WAT, Corp. Eng.",male,169796963.0
+40101.0,2673.0,1038357,pioneer natural resources co,false,true,false,false,20170301,hopkins frank e,124636017001134,"SVP, Investor Relations",male,169796963.0
+4985.0,41.0,1038357,pioneer natural resources co,false,true,false,false,20170301,montemayor margaret,124636017001135,VP & CAO,female,169796963.0
+10306.0,73.0,1038357,pioneer natural resources co,false,true,false,false,20170301,stewart stephanie d,124636017001131,VP & Chief Information Officer,female,169796963.0
+27964.0,,1038357,pioneer natural resources co,false,true,false,false,20170301,hall jerome d jr,124636017001133,"EVP, Permian Operations",male,169796963.0
+52719.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20170308,berg mark stephen,124636017001278,"EVP, Corporate/Operations",male,169796963.0
+50859.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20170308,cheatwood chris j,124636017001279,"EVP, BD & Geoscience",male,169796963.0
+26564.0,,1038357,pioneer natural resources co,false,true,false,false,20170308,hall jerome d jr,124636017001280,"EVP, Permian Operations",male,169796963.0
+595466.0,64857.0,1038357,pioneer natural resources co,true,true,false,false,20170403,sheffield scott d,124636017001522,Executive Chairman of the Boar,male,169796963.0
+45110.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20170516,cheatwood chris j,124636017001882,"EVP, BD & Geoscience",male,170094162.0
+265643.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20170516,dove timothy l,124636017001881,President & CEO,male,170094162.0
+7297.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,grillot larry r.,124636017001980,,male,170094162.0
+4844.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,wortley michael d,124636017001989,,male,170094162.0
+8472.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,mitchell royce,124636017001988,,male,170094162.0
+5290.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,wood phoebe a,124636017001986,,female,170094162.0
+10865.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,thompson j kenneth,124636017001985,,male,170094162.0
+7568.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,methvin stacy p.,124636017001979,,female,170094162.0
+11012.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,risch frank a,124636017001983,,male,170094162.0
+4844.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,sutphen mona,124636017001984,,female,170094162.0
+27289.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,buchanan edison c,124636017001978,,male,170094162.0
+14206.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20170522,cates andrew f.,124636017001981,,male,170094162.0
+6491.0,,1038357,pioneer natural resources co,true,false,false,false,20170522,gobe phillip a,124636017001982,,male,170094162.0
+100.0,,1038357,pioneer natural resources co,true,false,false,false,20170811,methvin stacy p.,124636017002561,,female,170097565.0
+14556.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20170815,cates andrew f.,124636017002577,,male,170097565.0
+750.0,,1038357,pioneer natural resources co,true,false,false,false,20170815,thompson j kenneth,124636017002579,,male,170097565.0
+327.0,,1038357,pioneer natural resources co,false,true,false,false,20170913,fairbrook teresa a,124636017002756,VP & Chief Human Resources Off,female,170097565.0
+18271.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20171108,sheffield kenneth h jr,124636017003055,"EVP, Operations/Engineering/Fa",male,170165265.0
+260083.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20171113,dove timothy l,124636017003076,President & CEO,male,170165265.0
+580466.0,64895.0,1038357,pioneer natural resources co,true,true,false,false,20171113,sheffield scott d,124636017003077,Executive Chairman of the Boar,male,170165265.0
+50719.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20171113,berg mark stephen,124636017003075,"EVP, Corporate/Vertically Inte",male,170165265.0
+24764.0,,1038357,pioneer natural resources co,false,true,false,false,20171116,hall jerome d jr,124636017003098,"EVP, Permian Operations",male,170165265.0
+12861.0,,1038357,pioneer natural resources co,false,true,false,false,20171204,kleinman mark h,124636017003176,SVP & General Counsel,male,170165265.0
+48719.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20171204,berg mark stephen,124636017003175,"EVP, Corporate/Vertically Inte",male,170165265.0
+259083.0,351.0,1038357,pioneer natural resources co,true,true,false,false,20171213,dove timothy l,124636017003320,President & CEO,male,170165265.0
+7097.0,,1038357,pioneer natural resources co,true,false,false,false,20171213,grillot larry r.,124636017003319,,male,170165265.0
+10512.0,,1038357,pioneer natural resources co,true,false,false,false,20171213,risch frank a,124636017003318,,male,170165265.0
+46719.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20171215,berg mark stephen,124636017003329,"EVP, Corporate/Vertically Inte",male,170165265.0
+38101.0,2800.0,1038357,pioneer natural resources co,false,true,false,false,20171220,hopkins frank e,124636017003338,"SVP, Investor Relations",male,170165265.0
+74297.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20171222,dealy richard p,124636017003348,EVP & CFO,male,170165265.0
+42909.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20171222,cheatwood chris j,124636017003347,EVP and Chief Technology Offic,male,170165265.0
+575466.0,64888.0,1038357,pioneer natural resources co,true,false,false,false,20171226,sheffield scott d,124636017003353,,male,170165265.0
+37101.0,2785.0,1038357,pioneer natural resources co,false,true,false,false,20171226,hopkins frank e,124636017003352,"SVP, Investor Relations",male,170165265.0
+22964.0,,1038357,pioneer natural resources co,false,true,false,false,20171228,hall jerome d jr,124636017003357,"EVP, Permian Operations",male,170165265.0
+618201.0,64883.0,1038357,pioneer natural resources co,true,false,false,false,20180103,sheffield scott d,124636018000013,,male,170165265.0
+22672.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20180103,sheffield kenneth h jr,124636018000015,"EVP, Operations/Engineering/Fa",male,170165265.0
+27365.0,,1038357,pioneer natural resources co,false,true,false,false,20180103,hall jerome d jr,124636018000016,"EVP, Permian Operations",male,170165265.0
+86065.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20180103,dealy richard p,124636018000023,EVP & CFO,male,170165265.0
+12853.0,101.0,1038357,pioneer natural resources co,false,true,false,false,20180103,stewart stephanie d,124636018000020,VP & Chief Information Officer,female,170165265.0
+276378.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20180103,dove timothy l,124636018000021,President & CEO,male,170165265.0
+54870.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20180103,berg mark stephen,124636018000012,"EVP, Corporate/Vertically Inte",male,170165265.0
+39852.0,2784.0,1038357,pioneer natural resources co,false,true,false,false,20180103,hopkins frank e,124636018000024,"SVP, Investor Relations",male,170165265.0
+15791.0,,1038357,pioneer natural resources co,false,true,false,false,20180103,kleinman mark h,124636018000019,SVP & General Counsel,male,170165265.0
+51749.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180103,cheatwood chris j,124636018000011,EVP and Chief Technology Offic,male,170165265.0
+5629.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20180103,montemayor margaret,124636018000014,VP & CAO,female,170165265.0
+599319.0,64885.0,1038357,pioneer natural resources co,true,false,false,false,20180104,sheffield scott d,124636018000062,,male,170165265.0
+5417.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20180104,montemayor margaret,124636018000065,VP & CAO,female,170165265.0
+39063.0,2784.0,1038357,pioneer natural resources co,false,true,false,false,20180104,hopkins frank e,124636018000061,"SVP, Investor Relations",male,170165265.0
+26124.0,,1038357,pioneer natural resources co,false,true,false,false,20180104,hall jerome d jr,124636018000060,"EVP, Permian Operations",male,170165265.0
+52259.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20180104,berg mark stephen,124636018000059,"EVP, Corporate/Vertically Inte",male,170165265.0
+14953.0,,1038357,pioneer natural resources co,false,true,false,false,20180104,kleinman mark h,124636018000066,SVP & General Counsel,male,170165265.0
+48848.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180104,cheatwood chris j,124636018000067,EVP and Chief Technology Offic,male,170165265.0
+269931.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20180104,dove timothy l,124636018000068,President & CEO,male,170165265.0
+12119.0,101.0,1038357,pioneer natural resources co,false,true,false,false,20180104,stewart stephanie d,124636018000069,VP & Chief Information Officer,female,170165265.0
+21431.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20180104,sheffield kenneth h jr,124636018000063,"EVP, Operations/Engineering/Fa",male,170165265.0
+81937.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20180104,dealy richard p,124636018000064,EVP & CFO,male,170165265.0
+595819.0,44907.0,1038357,pioneer natural resources co,true,false,false,false,20180214,sheffield scott d,124636018000641,,male,170300825.0
+11384.0,104.0,1038357,pioneer natural resources co,false,true,false,false,20180220,stewart stephanie d,124636018000758,VP & Chief Information Officer,female,170300825.0
+14477.0,,1038357,pioneer natural resources co,false,true,false,false,20180220,kleinman mark h,124636018000757,SVP & General Counsel,male,170300825.0
+24599.0,,1038357,pioneer natural resources co,false,true,false,false,20180220,hall jerome d jr,124636018000756,"EVP, Permian Operations",male,170300825.0
+50120.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20180220,berg mark stephen,124636018000751,"EVP, Corporate/Vertically Inte",male,170300825.0
+46529.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180220,cheatwood chris j,124636018000752,EVP and Chief Technology Offic,male,170300825.0
+6931.0,328.0,1038357,pioneer natural resources co,false,true,false,false,20180220,fairbrook teresa a,124636018000753,VP & Chief Human Resources Off,female,170300825.0
+265395.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20180220,dove timothy l,124636018000755,President & CEO,male,170300825.0
+5105.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20180220,montemayor margaret,124636018000759,VP & CAO,female,170300825.0
+19879.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20180220,sheffield kenneth h jr,124636018000754,"EVP, Operations/Engineering/Fa",male,170300825.0
+38616.0,2800.0,1038357,pioneer natural resources co,false,true,false,false,20180220,hopkins frank e,124636018000760,"SVP, Investor Relations",male,170300825.0
+582600.0,64904.0,1038357,pioneer natural resources co,true,false,false,false,20180220,sheffield scott d,124636018000761,,male,170300825.0
+78849.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20180220,dealy richard p,124636018000762,EVP & CFO,male,170300825.0
+10284.0,104.0,1038357,pioneer natural resources co,false,true,false,false,20180226,stewart stephanie d,124636018000819,VP & Chief Information Officer,female,170300825.0
+0.0,62903.0,1038357,pioneer natural resources co,true,false,false,false,20180226,sheffield scott d,124636018000820,,male,170300825.0
+4797.0,328.0,1038357,pioneer natural resources co,false,true,false,false,20180226,fairbrook teresa a,124636018000821,VP & Chief Human Resources Off,female,170300825.0
+9512.0,,1038357,pioneer natural resources co,true,false,false,false,20180226,risch frank a,124636018000822,,male,170300825.0
+52444.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180228,cheatwood chris j,124636018000899,EVP and Chief Technology Offic,male,170300825.0
+6479.0,328.0,1038357,pioneer natural resources co,false,true,false,false,20180228,fairbrook teresa a,124636018000895,VP & Chief Human Resources Off,female,170300825.0
+32168.0,,1038357,pioneer natural resources co,false,true,false,false,20180228,hall jerome d jr,124636018000896,"EVP, Permian Operations",male,170300825.0
+16131.0,,1038357,pioneer natural resources co,false,true,false,false,20180228,kleinman mark h,124636018000897,SVP & General Counsel,male,170300825.0
+6176.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20180228,montemayor margaret,124636018000898,VP & CAO,female,170300825.0
+12106.0,105.0,1038357,pioneer natural resources co,false,true,false,false,20180228,stewart stephanie d,124636018000906,VP & Chief Information Officer,female,170300825.0
+10595.0,56646.0,1038357,pioneer natural resources co,false,true,false,false,20180228,hannes william f,124636018000900,"SVP, Special Management Commit",male,170300825.0
+286079.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20180228,dove timothy l,124636018000904,President & CEO,male,170300825.0
+86212.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20180228,dealy richard p,124636018000903,EVP & CFO,male,170300825.0
+56035.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20180228,berg mark stephen,124636018000902,"EVP, Corporate/Vertically Inte",male,170300825.0
+22823.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20180228,sheffield kenneth h jr,124636018000901,"EVP, Operations/Engineering/Fa",male,170300825.0
+42931.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180322,cheatwood chris j,124636018001172,EVP and Chief Technology Offic,male,170300825.0
+24596.0,,1038357,pioneer natural resources co,true,false,false,false,20180509,buchanan edison c,124636018001499,,male,170427473.0
+14306.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20180509,cates andrew f.,124636018001498,,male,170427473.0
+8512.0,,1038357,pioneer natural resources co,true,false,false,false,20180509,risch frank a,124636018001501,,male,170427473.0
+11206.0,112.0,1038357,pioneer natural resources co,false,true,false,false,20180509,stewart stephanie d,124636018001497,VP & Chief Information Officer,female,170427473.0
+37424.0,2826.0,1038357,pioneer natural resources co,false,true,false,false,20180509,hopkins frank e,124636018001496,"SVP, Investor Relations",male,170427473.0
+37747.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180511,cheatwood chris j,124636018001522,EVP and Chief Technology Offic,male,170427473.0
+11806.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20180511,cates andrew f.,124636018001523,,male,170427473.0
+17823.0,200.0,1038357,pioneer natural resources co,false,true,false,false,20180514,sheffield kenneth h jr,124636018001543,"EVP, Operations/Engineering/Fa",male,170427473.0
+44841.0,1530.0,1038357,pioneer natural resources co,false,true,false,false,20180514,hannes william f,124636018001545,"SVP, Special Projects",male,170427473.0
+54035.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20180514,berg mark stephen,124636018001542,"EVP, Corporate/Vertically Inte",male,170427473.0
+31268.0,,1038357,pioneer natural resources co,false,true,false,false,20180514,hall jerome d jr,124636018001541,"EVP, Permian Operations",male,170427473.0
+564747.0,40760.0,1038357,pioneer natural resources co,true,false,false,false,20180514,sheffield scott d,124636018001540,,male,170427473.0
+281079.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20180517,dove timothy l,124636018001569,President & CEO,male,170427473.0
+29268.0,,1038357,pioneer natural resources co,false,true,false,false,20180517,hall jerome d jr,124636018001570,"EVP, Permian Operations",male,170427473.0
+36531.0,2825.0,1038357,pioneer natural resources co,false,true,false,false,20180518,hopkins frank e,124636018001574,"SVP, Investor Relations",male,170427473.0
+9753.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,risch frank a,124636018001624,,male,170427473.0
+9636.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,mitchell royce,124636018001620,,male,170427473.0
+15106.0,,1038357,pioneer natural resources co,false,true,false,false,20180521,kleinman mark h,124636018001626,SVP & General Counsel,male,170427473.0
+6008.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,wortley michael d,124636018001627,,male,170427473.0
+6454.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,wood phoebe a,124636018001628,,female,170427473.0
+8261.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,grillot larry r.,124636018001623,,male,170427473.0
+278901.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20180521,dove timothy l,124636018001629,President & CEO,male,170427473.0
+10736.0,750.0,1038357,pioneer natural resources co,true,false,false,false,20180521,thompson j kenneth,124636018001625,,male,170427473.0
+7732.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,gobe phillip a,124636018001622,,male,170427473.0
+25760.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,buchanan edison c,124636018001618,,male,170427473.0
+8809.0,100.0,1038357,pioneer natural resources co,true,false,false,false,20180521,methvin stacy p.,124636018001619,,female,170427473.0
+15000.0,2760.0,1038357,pioneer natural resources co,true,false,false,false,20180521,sheffield scott d,124636018001631,,male,170427473.0
+33576.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20180521,cheatwood chris j,124636018001617,EVP and Chief Technology Offic,male,170427473.0
+6008.0,,1038357,pioneer natural resources co,true,false,false,false,20180521,sutphen mona,124636018001616,,female,170427473.0
+51535.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20180521,berg mark stephen,124636018001615,"EVP, Corporate/Vertically Inte",male,170427473.0
+12970.0,2236.0,1038357,pioneer natural resources co,true,false,false,false,20180521,cates andrew f.,124636018001621,,male,170427473.0
+8061.0,,1038357,pioneer natural resources co,true,false,false,false,20180530,grillot larry r.,124636018001683,,male,170427473.0
+587394.0,30760.0,1038357,pioneer natural resources co,true,false,false,false,20180723,sheffield scott d,124636018001890,,male,170427473.0
+552394.0,30760.0,1038357,pioneer natural resources co,true,false,false,false,20181217,sheffield scott d,124636018002659,,male,170462089.0
+274101.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20181220,dove timothy l,124636018002677,President & CEO,male,170462089.0
+577.0,1472.0,1038357,pioneer natural resources co,true,false,false,false,20181228,cates andrew f.,124636018002691,,male,170462089.0
+590650.0,30760.0,1038357,pioneer natural resources co,true,false,false,false,20190103,sheffield scott d,124636019000022,,male,170462089.0
+22593.0,67.0,1038357,pioneer natural resources co,false,true,false,false,20190103,sheffield kenneth h jr,124636019000034,"EVP, Operations/Engineering/Fa",male,170462089.0
+13757.0,126.0,1038357,pioneer natural resources co,false,true,false,false,20190103,stewart stephanie d,124636019000033,VP & Chief Information Officer,female,170462089.0
+18120.0,,1038357,pioneer natural resources co,false,true,false,false,20190103,kleinman mark h,124636019000031,SVP & General Counsel,male,170462089.0
+37361.0,,1038357,pioneer natural resources co,false,true,false,false,20190103,hall jerome d jr,124636019000030,"EVP, Permian Operations",male,170462089.0
+42842.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20190103,cheatwood chris j,124636019000032,EVP and Chief Technology Offic,male,170462089.0
+290433.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20190103,dove timothy l,124636019000026,President & CEO,male,170462089.0
+60801.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20190103,berg mark stephen,124636019000025,"EVP, Corporate/Vertically Inte",male,170462089.0
+7986.0,332.0,1038357,pioneer natural resources co,false,true,false,false,20190103,fairbrook teresa a,124636019000024,VP & Chief Human Resources Off,female,170462089.0
+6930.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20190103,montemayor margaret,124636019000023,VP & CAO,female,170462089.0
+97689.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20190103,dealy richard p,124636019000029,EVP & CFO,male,170462089.0
+17336.0,,1038357,pioneer natural resources co,false,true,false,false,20190104,kleinman mark h,124636019000066,SVP & General Counsel,male,170462089.0
+285097.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20190104,dove timothy l,124636019000069,President & CEO,male,170462089.0
+13086.0,126.0,1038357,pioneer natural resources co,false,true,false,false,20190104,stewart stephanie d,124636019000068,VP & Chief Information Officer,female,170462089.0
+94264.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20190104,dealy richard p,124636019000067,EVP & CFO,male,170462089.0
+7569.0,332.0,1038357,pioneer natural resources co,false,true,false,false,20190104,fairbrook teresa a,124636019000065,VP & Chief Human Resources Off,female,170462089.0
+35267.0,,1038357,pioneer natural resources co,false,true,false,false,20190104,hall jerome d jr,124636019000060,"EVP, Permian Operations",male,170462089.0
+21414.0,67.0,1038357,pioneer natural resources co,false,true,false,false,20190104,sheffield kenneth h jr,124636019000063,"EVP, Operations/Engineering/Fa",male,170462089.0
+6705.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20190104,montemayor margaret,124636019000062,VP & CAO,female,170462089.0
+574812.0,30760.0,1038357,pioneer natural resources co,true,false,false,false,20190104,sheffield scott d,124636019000061,,male,170462089.0
+58246.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20190104,berg mark stephen,124636019000059,"EVP, Corporate/Vertically Inte",male,170462089.0
+40287.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20190104,cheatwood chris j,124636019000064,EVP and Chief Technology Offic,male,170462089.0
+559298.0,30760.0,1038357,pioneer natural resources co,true,false,false,false,20190220,sheffield scott d,124636019000707,,male,170462089.0
+31815.0,,1038357,pioneer natural resources co,false,true,false,false,20190220,hall jerome d jr,124636019000705,"EVP, Permian Operations",male,170462089.0
+19608.0,67.0,1038357,pioneer natural resources co,false,true,false,false,20190220,sheffield kenneth h jr,124636019000701,"EVP, Operations/Engineering/Fa",male,170462089.0
+16668.0,,1038357,pioneer natural resources co,false,true,false,false,20190220,kleinman mark h,124636019000700,SVP & General Counsel,male,170462089.0
+12200.0,131.0,1038357,pioneer natural resources co,false,true,false,false,20190220,stewart stephanie d,124636019000698,VP & Chief Information Officer,female,170462089.0
+6959.0,332.0,1038357,pioneer natural resources co,false,true,false,false,20190220,fairbrook teresa a,124636019000693,VP & Chief Human Resources Off,female,170462089.0
+276269.0,352.0,1038357,pioneer natural resources co,true,true,false,false,20190220,dove timothy l,124636019000688,President & CEO,male,170462089.0
+90158.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20190220,dealy richard p,124636019000685,EVP & CFO,male,170462089.0
+54925.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20190220,berg mark stephen,124636019000684,"EVP, Corporate/Vertically Inte",male,170462089.0
+36972.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20190220,cheatwood chris j,124636019000683,EVP and Chief Technology Offic,male,170462089.0
+6208.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20190220,montemayor margaret,124636019000697,VP & CAO,female,170462089.0
+7456.0,50692.0,1038357,pioneer natural resources co,false,true,false,false,20190225,hannes william f,124636019000753,"SVP, Special Projects",male,170462089.0
+14564.0,131.0,1038357,pioneer natural resources co,false,true,false,false,20190225,stewart stephanie d,124636019000757,VP & Chief Information Officer,female,170462089.0
+23427.0,67.0,1038357,pioneer natural resources co,false,true,false,false,20190225,sheffield kenneth h jr,124636019000756,"EVP, Operations/Engineering/Fa",male,170462089.0
+11255.0,,1038357,pioneer natural resources co,false,true,false,false,20190225,shah neal h,124636019000754,"VP, Investor Relations",male,170462089.0
+41635.0,,1038357,pioneer natural resources co,false,true,false,false,20190225,hall jerome d jr,124636019000752,"EVP, Permian Operations",male,170462089.0
+589743.0,30760.0,1038357,pioneer natural resources co,true,false,false,false,20190225,sheffield scott d,124636019000755,,male,170462089.0
+20305.0,,1038357,pioneer natural resources co,false,true,false,false,20190225,kleinman mark h,124636019000750,SVP & General Counsel,male,170462089.0
+99711.0,141643.0,1038357,pioneer natural resources co,false,true,false,false,20190225,dealy richard p,124636019000749,EVP & CFO,male,170462089.0
+9618.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20190225,montemayor margaret,124636019000748,VP & CAO,female,170462089.0
+9142.0,332.0,1038357,pioneer natural resources co,false,true,false,false,20190225,fairbrook teresa a,124636019000747,VP & Chief Human Resources Off,female,170462089.0
+62599.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20190225,berg mark stephen,124636019000745,"EVP, Corporate/Vertically Inte",male,170462089.0
+44646.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20190225,cheatwood chris j,124636019000751,EVP and Chief Technology Offic,male,170462089.0
+10981.0,750.0,1038357,pioneer natural resources co,true,false,false,false,20190228,thompson j kenneth,124636019000801,,male,170462089.0
+6481.0,,1038357,pioneer natural resources co,true,false,false,false,20190228,wood phoebe a,124636019000802,,female,170462089.0
+5059.0,280.0,1038357,pioneer natural resources co,false,true,false,false,20190403,taylor tyson l.,124636019001172,"VP, Human Resources",male,170462089.0
+9426.0,338.0,1038357,pioneer natural resources co,false,true,false,false,20190403,mcdonald elizabeth anne,124636019001173,"VP, Permian Strategic Developm",female,170462089.0
+16683.0,356.0,1038357,pioneer natural resources co,false,true,false,false,20190403,kuiper craig a.,124636019001174,"VP, Production Operations",male,170462089.0
+8730.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20190514,montemayor margaret,124636019001441,VP & CAO,female,168423736.0
+11471.0,93.0,1038357,pioneer natural resources co,false,true,false,false,20190517,paulsen christopher m.,124636019001456,"VP, Business Development",male,168423736.0
+593380.0,30760.0,1038357,pioneer natural resources co,true,true,false,false,20190517,sheffield scott d,124636019001455,President & CEO,male,168423736.0
+9363.0,,1038357,pioneer natural resources co,false,true,false,false,20190517,black bonnie s.,124636019001454,"VP, Drilling",female,168423736.0
+9094.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20190517,montemayor margaret,124636019001452,VP & CAO,female,168423736.0
+23033.0,,1038357,pioneer natural resources co,false,true,false,false,20190517,kleinman mark h,124636019001453,EVP & General Counsel,male,168423736.0
+27174.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,buchanan edison c,124636019001491,,male,168423736.0
+11145.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,mitchell royce,124636019001492,,male,168423736.0
+10318.0,100.0,1038357,pioneer natural resources co,true,false,false,false,20190520,methvin stacy p.,124636019001493,,female,168423736.0
+11167.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,risch frank a,124636019001494,,male,168423736.0
+13024.0,750.0,1038357,pioneer natural resources co,true,false,false,false,20190520,thompson j kenneth,124636019001501,,male,168423736.0
+9241.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,gobe phillip a,124636019001496,,male,168423736.0
+9475.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,grillot larry r.,124636019001497,,male,168423736.0
+7422.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,sutphen mona,124636019001498,,female,168423736.0
+7422.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,wortley michael d,124636019001499,,male,168423736.0
+7990.0,,1038357,pioneer natural resources co,true,false,false,false,20190520,wood phoebe a,124636019001502,,female,168423736.0
+14784.0,2626.0,1038357,pioneer natural resources co,true,false,false,false,20190520,cates andrew f.,124636019001495,,male,168423736.0
+1250.0,,1038357,pioneer natural resources co,true,false,false,false,20190828,thompson j kenneth,124636019002024,,male,167143628.0
+39027.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20190918,cheatwood chris j,124636019002110,EVP and Chief Technology Offic,male,167143628.0
+7392.0,50692.0,1038357,pioneer natural resources co,false,true,false,false,20191204,hannes william f,124636019002555,"SVP, Special Projects",male,165646527.0
+23067.0,67.0,1038357,pioneer natural resources co,false,true,false,false,20191204,sheffield kenneth h jr,124636019002556,"EVP, Operations/Engineering/Fa",male,165646527.0
+593035.0,30760.0,1038357,pioneer natural resources co,true,true,false,false,20191204,sheffield scott d,124636019002557,President & CEO,male,165646527.0
+62073.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20191204,berg mark stephen,124636019002558,"EVP, Corporate/Vertically Inte",male,165646527.0
+13964.0,160.0,1038357,pioneer natural resources co,false,true,false,false,20191206,stewart stephanie d,124636019002567,VP & Chief Information Officer,female,165646527.0
+7894.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20191206,montemayor margaret,124636019002566,VP & CAO,female,165646527.0
+586035.0,30760.0,1038357,pioneer natural resources co,true,true,false,false,20191206,sheffield scott d,124636019002565,President & CEO,male,165646527.0
+60073.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20191206,berg mark stephen,124636019002564,"EVP, Corporate/Vertically Inte",male,165646527.0
+14494.0,2626.0,1038357,pioneer natural resources co,true,false,false,false,20191218,cates andrew f.,124636019002694,,male,165646527.0
+7568.0,338.0,1038357,pioneer natural resources co,false,true,false,false,20191218,mcdonald elizabeth anne,124636019002695,"VP, Permian Strategic Developm",female,165646527.0
+9848.0,93.0,1038357,pioneer natural resources co,false,true,false,false,20191218,paulsen christopher m.,124636019002696,"VP, Business Development",male,165646527.0
+39520.0,,1038357,pioneer natural resources co,false,true,false,false,20191218,hall jerome d jr,124636019002697,"EVP, Permian Operations",male,165646527.0
+8863.0,,1038357,pioneer natural resources co,false,true,false,false,20191219,black bonnie s.,124636019002701,"VP, Drilling",female,165646527.0
+57073.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20191219,berg mark stephen,124636019002702,"EVP, Corporate/Vertically Inte",male,165646527.0
+21283.0,,1038357,pioneer natural resources co,false,true,false,false,20191223,kleinman mark h,124636019002713,EVP & General Counsel,male,165646527.0
+23467.0,,1038357,pioneer natural resources co,false,true,false,false,20200102,kleinman mark h,124636020000010,EVP & General Counsel,male,165646527.0
+106673.0,141645.0,1038357,pioneer natural resources co,false,true,false,false,20200102,dealy richard p,124636020000009,EVP & CFO,male,165646527.0
+62670.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20200102,berg mark stephen,124636020000008,"EVP, Corporate/Vertically Inte",male,165646527.0
+15534.0,160.0,1038357,pioneer natural resources co,false,true,false,false,20200102,stewart stephanie d,124636020000015,VP & Chief Information Officer,female,165646527.0
+8440.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20200102,montemayor margaret,124636020000014,VP & CAO,female,165646527.0
+8279.0,50692.0,1038357,pioneer natural resources co,false,true,false,false,20200102,hannes william f,124636020000013,"SVP, Special Projects",male,165646527.0
+46345.0,,1038357,pioneer natural resources co,false,true,false,false,20200102,hall jerome d jr,124636020000012,"EVP, Permian Operations",male,165646527.0
+44624.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20200102,cheatwood chris j,124636020000011,EVP and Chief Technology Offic,male,165646527.0
+22890.0,,1038357,pioneer natural resources co,false,true,false,false,20200106,kleinman mark h,124636020000062,EVP & General Counsel,male,165646527.0
+15107.0,160.0,1038357,pioneer natural resources co,false,true,false,false,20200106,stewart stephanie d,124636020000061,VP & Chief Information Officer,female,165646527.0
+104879.0,141645.0,1038357,pioneer natural resources co,false,true,false,false,20200106,dealy richard p,124636020000060,EVP & CFO,male,165646527.0
+61262.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20200106,berg mark stephen,124636020000059,"EVP, Corporate/Vertically Inte",male,165646527.0
+44605.0,,1038357,pioneer natural resources co,false,true,false,false,20200106,hall jerome d jr,124636020000058,"EVP, Permian Operations",male,165646527.0
+43216.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20200106,cheatwood chris j,124636020000057,EVP and Chief Technology Offic,male,165646527.0
+8016.0,50692.0,1038357,pioneer natural resources co,false,true,false,false,20200106,hannes william f,124636020000063,"SVP, Special Projects",male,165646527.0
+8278.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20200106,montemayor margaret,124636020000064,VP & CAO,female,165646527.0
+4971.0,281.0,1038357,pioneer natural resources co,false,true,false,false,20200210,taylor tyson l.,124636020000444,"VP, Human Resources",male,165646527.0
+7266.0,339.0,1038357,pioneer natural resources co,false,true,false,false,20200218,mcdonald elizabeth anne,124636020000572,"VP, Permian Strategic Developm",female,165646527.0
+16156.0,420.0,1038357,pioneer natural resources co,false,true,false,false,20200227,kuiper craig a.,124636020000676,"VP, Production Operations",male,165646527.0
+22357.0,,1038357,pioneer natural resources co,false,true,false,false,20200227,kleinman mark h,124636020000670,EVP & General Counsel,male,165646527.0
+7826.0,50692.0,1038357,pioneer natural resources co,false,true,false,false,20200227,hannes william f,124636020000675,"SVP, Special Projects",male,165646527.0
+59433.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20200227,berg mark stephen,124636020000672,"EVP, Corporate Operations",male,165646527.0
+6922.0,340.0,1038357,pioneer natural resources co,false,true,false,false,20200227,mcdonald elizabeth anne,124636020000671,"VP, Permian Strategic Developm",female,165646527.0
+9287.0,94.0,1038357,pioneer natural resources co,false,true,false,false,20200227,paulsen christopher m.,124636020000681,"VP, Business Development",male,165646527.0
+7883.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20200227,montemayor margaret,124636020000680,VP & CAO,female,165646527.0
+14724.0,168.0,1038357,pioneer natural resources co,false,true,false,false,20200227,stewart stephanie d,124636020000679,VP & Chief Information Officer,female,165646527.0
+41179.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20200227,cheatwood chris j,124636020000678,"EVP, Field Development & Emerg",male,165646527.0
+102139.0,141645.0,1038357,pioneer natural resources co,false,true,false,false,20200227,dealy richard p,124636020000674,EVP & CFO,male,165646527.0
+8433.0,,1038357,pioneer natural resources co,false,true,false,false,20200227,black bonnie s.,124636020000673,"VP, Drilling",female,165646527.0
+41918.0,,1038357,pioneer natural resources co,false,true,false,false,20200227,hall jerome d jr,124636020000677,"EVP, Operations",male,165646527.0
+9041.0,340.0,1038357,pioneer natural resources co,false,true,false,false,20200305,mcdonald elizabeth anne,124636020000808,"VP, Permian Strategic Planning",female,165646527.0
+9785.0,42.0,1038357,pioneer natural resources co,false,true,false,false,20200305,montemayor margaret,124636020000809,VP & CAO,female,165646527.0
+47650.0,,1038357,pioneer natural resources co,false,true,false,false,20200305,hall jerome d jr,124636020000810,"EVP, Operations",male,165646527.0
+17976.0,420.0,1038357,pioneer natural resources co,false,true,false,false,20200305,kuiper craig a.,124636020000811,"VP, Production Operations",male,165646527.0
+10999.0,94.0,1038357,pioneer natural resources co,false,true,false,false,20200305,paulsen christopher m.,124636020000803,"VP, Business Development",male,165646527.0
+65165.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20200305,berg mark stephen,124636020000800,"EVP, Corporate Operations",male,165646527.0
+16626.0,168.0,1038357,pioneer natural resources co,false,true,false,false,20200305,stewart stephanie d,124636020000807,VP & Chief Information Officer,female,165646527.0
+26975.0,,1038357,pioneer natural resources co,false,true,false,false,20200305,kleinman mark h,124636020000806,EVP & General Counsel,male,165646527.0
+13157.0,,1038357,pioneer natural resources co,false,true,false,false,20200305,shah neal h,124636020000805,"VP, Investor Relations",male,165646527.0
+6601.0,281.0,1038357,pioneer natural resources co,false,true,false,false,20200305,taylor tyson l.,124636020000804,"VP, Human Resources",male,165646527.0
+109273.0,141645.0,1038357,pioneer natural resources co,false,true,false,false,20200305,dealy richard p,124636020000802,EVP & CFO,male,165646527.0
+10253.0,,1038357,pioneer natural resources co,false,true,false,false,20200305,black bonnie s.,124636020000801,"VP, Drilling",female,165646527.0
+46911.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20200305,cheatwood chris j,124636020000799,"EVP, Field Development & Emerg",male,165646527.0
+27245.0,,1038357,pioneer natural resources co,true,false,false,false,20200305,buchanan edison c,124636020000798,,male,165646527.0
+2075.0,,1038357,pioneer natural resources co,true,false,false,false,20200310,thompson j kenneth,124636020000861,,male,165646527.0
+10170.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,wortley michael d,124636020001307,,male,164863215.0
+10353.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,sutphen mona,124636020001306,,female,164863215.0
+10921.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,wood phoebe a,124636020001305,,female,164863215.0
+11989.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,gobe phillip a,124636020001300,,male,164863215.0
+14076.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,mitchell royce,124636020001303,,male,164863215.0
+12223.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,grillot larry r.,124636020001302,,male,164863215.0
+17169.0,2075.0,1038357,pioneer natural resources co,true,false,false,false,20200526,thompson j kenneth,124636020001304,,male,164863215.0
+29993.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,buchanan edison c,124636020001299,,male,164863215.0
+13915.0,,1038357,pioneer natural resources co,true,false,false,false,20200526,risch frank a,124636020001301,,male,164863215.0
+17242.0,2626.0,1038357,pioneer natural resources co,true,false,false,false,20200526,cates andrew f.,124636020001297,,male,164863215.0
+13249.0,100.0,1038357,pioneer natural resources co,true,false,false,false,20200526,methvin stacy p.,124636020001298,,female,164863215.0
+16026.0,198.0,1038357,pioneer natural resources co,false,true,false,false,20200609,stewart stephanie d,124636020001398,VP & Chief Information Officer,female,164863215.0
+13614.0,485.0,1038357,pioneer natural resources co,false,true,false,false,20200609,kuiper craig a.,124636020001400,"VP, Production Operations",male,164863215.0
+45150.0,,1038357,pioneer natural resources co,false,true,false,false,20200609,hall jerome d jr,124636020001392,"EVP, Operations",male,164863215.0
+61465.0,19668.0,1038357,pioneer natural resources co,false,true,false,false,20200609,berg mark stephen,124636020001394,"EVP, Corporate Operations",male,164863215.0
+7853.0,,1038357,pioneer natural resources co,false,true,false,false,20200609,black bonnie s.,124636020001395,"VP, Drilling",female,164863215.0
+8157.0,44.0,1038357,pioneer natural resources co,false,true,false,false,20200609,montemayor margaret,124636020001396,VP & CAO,female,164863215.0
+10099.0,98.0,1038357,pioneer natural resources co,false,true,false,false,20200609,paulsen christopher m.,124636020001397,"VP, Business Development",male,164863215.0
+39911.0,3750.0,1038357,pioneer natural resources co,false,true,false,false,20200609,cheatwood chris j,124636020001399,"EVP, Field Development & Emerg",male,164863215.0
+12138.0,,1038357,pioneer natural resources co,0,1,0,0,20200825,shah neal h,176225620000001,"VP, Investor Relations",male,164276170.0
+21511.0,19668.0,1038357,pioneer natural resources co,0,1,0,0,20201130,berg mark stephen,123888120000002,"EVP, Corporate Operations",male,164406947.0
+574326.0,30760.0,1038357,pioneer natural resources co,1,1,0,0,20201204,sheffield scott d,103431620000002,President & CEO,male,164406947.0
+21202.0,59622.0,1038357,pioneer natural resources co,0,1,0,0,20201204,berg mark stephen,123888120000003,"EVP, Corporate Operations",male,164406947.0
+39298.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20201204,cheatwood chris j,120378420000001,"EVP, Field Development & Emerg",male,164406947.0
+44150.0,,1038357,pioneer natural resources co,0,1,0,0,20201209,hall jerome d jr,161766620000002,"EVP, Operations",male,164406947.0
+156739.0,30760.0,1038357,pioneer natural resources co,1,1,0,0,20201216,sheffield scott d,103431620000003,President & CEO,male,164406947.0
+39298.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20201216,cheatwood chris j,120378420000003,"EVP, Field Development & Emerg",male,164406947.0
+11723.0,,1038357,pioneer natural resources co,1,0,0,0,20201218,grillot larry r.,158261520000002,,male,164406947.0
+28554.0,59622.0,1038357,pioneer natural resources co,0,1,0,0,20210105,berg mark stephen,112191921000002,"EVP, Corporate Operations",male,164406947.0
+46650.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20210105,cheatwood chris j,112191921000003,"EVP, Advisor to the Management",male,164406947.0
+118119.0,141665.0,1038357,pioneer natural resources co,0,1,0,0,20210105,dealy richard p,112191921000004,President and COO,male,164406947.0
+53208.0,,1038357,pioneer natural resources co,0,1,0,0,20210105,hall jerome d jr,112191921000005,"EVP, Operations",male,164406947.0
+30518.0,,1038357,pioneer natural resources co,0,1,0,0,20210105,kleinman mark h,112191921000006,EVP & General Counsel,male,164406947.0
+9155.0,44.0,1038357,pioneer natural resources co,0,1,0,0,20210105,montemayor margaret,112191921000007,VP & CAO,female,164406947.0
+274329.0,,1038357,pioneer natural resources co,1,0,0,0,20210114,gallagher matthew,160691521000001,,male,164406947.0
+30804.0,398.0,1038357,pioneer natural resources co,1,0,0,0,20210114,alameddine a r,160691521000002,,male,164406947.0
+30044.0,,1038357,pioneer natural resources co,1,0,0,0,20210114,buchanan edison c,160691521000003,,male,164406947.0
+13219.0,,1038357,pioneer natural resources co,0,1,0,0,20210114,shah neal h,160691521000004,SVP and CFO,male,164406947.0
+420717.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20210114,sheffield scott d,160691521000005,Chief Executive Officer,male,164406947.0
+11449.0,44.0,1038357,pioneer natural resources co,0,1,0,0,20210205,montemayor margaret,123888121000008,VP & CAO,female,164406947.0
+11597.0,363.0,1038357,pioneer natural resources co,0,1,0,0,20210205,mcdonald elizabeth anne,123888121000007,"SVP, Strategic Planning, Field",female,164406947.0
+36418.0,,1038357,pioneer natural resources co,0,1,0,0,20210205,kleinman mark h,123888121000006,EVP & General Counsel,male,164406947.0
+129262.0,141667.0,1038357,pioneer natural resources co,0,1,0,0,20210205,dealy richard p,123888121000004,President and COO,male,164406947.0
+17772.0,,1038357,pioneer natural resources co,0,1,0,0,20210205,shah neal h,123888121000003,SVP and CFO,male,164406947.0
+53565.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20210205,cheatwood chris j,123888121000002,"EVP, Advisor to the Management",male,164406947.0
+36010.0,59622.0,1038357,pioneer natural resources co,0,1,0,0,20210205,berg mark stephen,123888121000001,"EVP, Corporate Operations",male,164406947.0
+60664.0,,1038357,pioneer natural resources co,0,1,0,0,20210205,hall jerome d jr,123888121000005,"EVP, Operations",male,164406947.0
+17594.0,,1038357,pioneer natural resources co,0,1,0,0,20210223,shah neal h,123888121000016,SVP and CFO,male,164406947.0
+11294.0,44.0,1038357,pioneer natural resources co,0,1,0,0,20210223,montemayor margaret,123888121000015,VP & CAO,female,164406947.0
+11396.0,363.0,1038357,pioneer natural resources co,0,1,0,0,20210223,mcdonald elizabeth anne,123888121000014,"SVP, Strategic Planning, Field",female,164406947.0
+35317.0,59622.0,1038357,pioneer natural resources co,0,1,0,0,20210223,berg mark stephen,123888121000009,"EVP, Corporate Operations",male,164406947.0
+59912.0,,1038357,pioneer natural resources co,0,1,0,0,20210223,hall jerome d jr,123888121000012,"EVP, Operations",male,164406947.0
+128326.0,141667.0,1038357,pioneer natural resources co,0,1,0,0,20210223,dealy richard p,123888121000011,President and COO,male,164406947.0
+52872.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20210223,cheatwood chris j,123888121000010,"EVP, Advisor to the Management",male,164406947.0
+36043.0,,1038357,pioneer natural resources co,0,1,0,0,20210223,kleinman mark h,123888121000013,EVP & General Counsel,male,164406947.0
+16913.0,,1038357,pioneer natural resources co,0,1,0,0,20210302,shah neal h,123888121000024,SVP and CFO,male,164406947.0
+10689.0,44.0,1038357,pioneer natural resources co,0,1,0,0,20210302,montemayor margaret,123888121000023,VP & CAO,female,164406947.0
+11015.0,363.0,1038357,pioneer natural resources co,0,1,0,0,20210302,mcdonald elizabeth anne,123888121000022,"SVP, Strategic Planning, Field",female,164406947.0
+35177.0,,1038357,pioneer natural resources co,0,1,0,0,20210302,kleinman mark h,123888121000021,EVP & General Counsel,male,164406947.0
+56933.0,,1038357,pioneer natural resources co,0,1,0,0,20210302,hall jerome d jr,123888121000020,"EVP, Operations",male,164406947.0
+125428.0,141667.0,1038357,pioneer natural resources co,0,1,0,0,20210302,dealy richard p,123888121000019,President and COO,male,164406947.0
+50765.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20210302,cheatwood chris j,123888121000018,"EVP, Advisor to the Management",male,164406947.0
+33213.0,59622.0,1038357,pioneer natural resources co,0,1,0,0,20210302,berg mark stephen,123888121000017,"EVP, Corporate Operations",male,164406947.0
+158829.0,,1038357,pioneer natural resources co,1,0,0,0,20210305,gallagher matthew,177210221000004,,male,164406947.0
+7425.0,363.0,1038357,pioneer natural resources co,0,1,0,0,20210305,mcdonald elizabeth anne,177210221000002,"SVP, Strategic Planning, Field",female,164406947.0
+7336.0,44.0,1038357,pioneer natural resources co,0,1,0,0,20210305,montemayor margaret,177210221000003,VP & CAO,female,164406947.0
+127616.0,141667.0,1038357,pioneer natural resources co,0,1,0,0,20210309,dealy richard p,120378321000006,President and COO,male,164406947.0
+53333.0,,1038357,pioneer natural resources co,0,1,0,0,20210309,hall jerome d jr,120378321000005,"EVP, Operations",male,164406947.0
+44565.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20210309,cheatwood chris j,120378321000004,"EVP, Advisor to the Management",male,164406947.0
+427067.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20210309,sheffield scott d,120378321000007,Chief Executive Officer,male,164406947.0
+33213.0,59622.0,1038357,pioneer natural resources co,0,1,0,0,20210309,berg mark stephen,120378321000003,"EVP, Corporate Operations",male,164406947.0
+27044.0,,1038357,pioneer natural resources co,1,0,0,0,20210309,buchanan edison c,120378321000002,,male,164406947.0
+15669.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20210315,thompson j kenneth,176225621000002,,male,164406947.0
+11223.0,,1038357,pioneer natural resources co,1,0,0,0,20210318,grillot larry r.,161766621000002,,male,164406947.0
+50333.0,,1038357,pioneer natural resources co,0,1,0,0,20210318,hall jerome d jr,161766621000001,"EVP, Operations",male,164406947.0
+11626.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,wortley michael d,120181221000013,,male,243952401.0
+15371.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,risch frank a,120181221000010,,male,243952401.0
+32260.0,398.0,1038357,pioneer natural resources co,1,0,0,0,20210527,alameddine a r,120181221000003,,male,243952401.0
+28500.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,buchanan edison c,120181221000004,,male,243952401.0
+160285.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,gallagher matthew,120181221000005,,male,243952401.0
+13542.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,gobe phillip a,120181221000006,,male,243952401.0
+12679.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,grillot larry r.,120181221000007,,male,243952401.0
+14802.0,100.0,1038357,pioneer natural resources co,1,0,0,0,20210527,methvin stacy p.,120181221000008,,female,243952401.0
+15629.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,mitchell royce,120181221000009,,male,243952401.0
+12474.0,,1038357,pioneer natural resources co,1,0,0,0,20210527,wood phoebe a,120181221000012,,female,243952401.0
+17772.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20210527,thompson j kenneth,120181221000011,,male,243952401.0
+2352.0,,1038357,pioneer natural resources co,1,0,0,0,20210630,billingsley lori george,186931321000002,,female,243959045.0
+16658.0,,1038357,pioneer natural resources co,0,1,0,0,20210823,shah neal h,176225621000003,SVP and CFO,male,243959045.0
+2129.0,,1038357,pioneer natural resources co,1,0,0,0,20210927,dreyfus maria s.,103835721000061,,female,243959045.0
+12761.0,,1038357,pioneer natural resources co,1,0,0,0,20211110,dreyfus maria s.,103835721000068,,female,244133701.0
+11779.0,,1038357,pioneer natural resources co,1,0,0,0,20211110,grillot larry r.,103835721000069,,male,244133701.0
+417067.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20211115,sheffield scott d,103835721000075,Chief Executive Officer,male,244133701.0
+44336.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20211115,cheatwood chris j,103835721000074,"EVP, Advisor to Management",male,244133701.0
+34711.0,,1038357,pioneer natural resources co,0,1,0,0,20211115,kleinman mark h,103835721000073,EVP & General Counsel,male,244133701.0
+20882.0,19668.0,1038357,pioneer natural resources co,0,1,0,0,20211115,berg mark stephen,103835721000072,"EVP, Corporate Operations",male,244133701.0
+44025.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20211207,cheatwood chris j,103835721000080,"EVP, Advisor to Management",male,244133701.0
+52023.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20220104,cheatwood chris j,103835722000009,"EVP, Advisor to Management",male,244133701.0
+438471.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20220104,sheffield scott d,103835722000008,Chief Executive Officer,male,244133701.0
+8629.0,46.0,1038357,pioneer natural resources co,0,1,0,0,20220104,montemayor margaret,103835722000007,VP & CAO,female,244133701.0
+137380.0,141678.0,1038357,pioneer natural resources co,0,1,0,0,20220104,dealy richard p,103835722000006,President and COO,male,244133701.0
+59849.0,,1038357,pioneer natural resources co,0,1,0,0,20220104,hall jerome d jr,103835722000005,"EVP, Operations",male,244133701.0
+38914.0,,1038357,pioneer natural resources co,0,1,0,0,20220104,kleinman mark h,103835722000003,EVP & General Counsel,male,244133701.0
+28880.0,71714.0,1038357,pioneer natural resources co,0,1,0,0,20220104,berg mark stephen,103835722000002,"EVP, Corporate Operations",male,244133701.0
+19177.0,,1038357,pioneer natural resources co,0,1,0,0,20220104,shah neal h,103835722000001,SVP and CFO,male,244133701.0
+9967.0,311.0,1038357,pioneer natural resources co,0,1,0,0,20220204,taylor tyson l.,103835722000022,"SVP, Human Resources",male,244133701.0
+24486.0,,1038357,pioneer natural resources co,0,1,0,0,20220204,shah neal h,103835722000021,SVP and CFO,male,244133701.0
+147998.0,141679.0,1038357,pioneer natural resources co,0,1,0,0,20220204,dealy richard p,103835722000020,President and COO,male,244133701.0
+10547.0,376.0,1038357,pioneer natural resources co,0,1,0,0,20220204,mcdonald elizabeth anne,103835722000015,"SVP, Strategic Planning, Field",female,244133701.0
+34632.0,71714.0,1038357,pioneer natural resources co,0,1,0,0,20220204,berg mark stephen,103835722000018,"EVP, Corporate Operations",male,244133701.0
+10930.0,46.0,1038357,pioneer natural resources co,0,1,0,0,20220204,montemayor margaret,103835722000017,VP & CAO,female,244133701.0
+65601.0,,1038357,pioneer natural resources co,0,1,0,0,20220204,hall jerome d jr,103835722000016,"EVP, Operations",male,244133701.0
+45159.0,,1038357,pioneer natural resources co,0,1,0,0,20220204,kleinman mark h,103835722000019,EVP & General Counsel,male,244133701.0
+426326.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20220222,sheffield scott d,103835722000036,Chief Executive Officer,male,244133701.0
+9320.0,46.0,1038357,pioneer natural resources co,0,1,0,0,20220222,montemayor margaret,103835722000038,VP & CAO,female,244133701.0
+8909.0,311.0,1038357,pioneer natural resources co,0,1,0,0,20220222,taylor tyson l.,103835722000037,"SVP, Human Resources",male,244133701.0
+22876.0,,1038357,pioneer natural resources co,0,1,0,0,20220222,shah neal h,103835722000035,SVP and CFO,male,244133701.0
+41630.0,,1038357,pioneer natural resources co,0,1,0,0,20220222,kleinman mark h,103835722000032,EVP & General Counsel,male,244133701.0
+60006.0,,1038357,pioneer natural resources co,0,1,0,0,20220222,hall jerome d jr,103835722000033,"EVP, Operations",male,244133701.0
+30317.0,71714.0,1038357,pioneer natural resources co,0,1,0,0,20220222,berg mark stephen,103835722000029,"EVP, Corporate Operations",male,244133701.0
+141840.0,141679.0,1038357,pioneer natural resources co,0,1,0,0,20220222,dealy richard p,103835722000031,President and COO,male,244133701.0
+9200.0,376.0,1038357,pioneer natural resources co,0,1,0,0,20220222,mcdonald elizabeth anne,103835722000034,"SVP, Strategic Planning, Field",female,244133701.0
+47774.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20220222,cheatwood chris j,103835722000030,"EVP, Advisor to Management",male,244133701.0
+16272.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20220225,thompson j kenneth,103835722000041,,male,244133701.0
+140285.0,,1038357,pioneer natural resources co,1,0,0,0,20220228,gallagher matthew,103835722000042,,male,244133701.0
+33885.0,,1038357,pioneer natural resources co,0,1,0,0,20220228,kleinman mark h,103835722000043,EVP & General Counsel,male,244133701.0
+10279.0,,1038357,pioneer natural resources co,1,0,0,0,20220228,grillot larry r.,103835722000044,,male,244133701.0
+55006.0,,1038357,pioneer natural resources co,0,1,0,0,20220303,hall jerome d jr,103835722000049,"EVP, Operations",male,244133701.0
+24100.0,,1038357,pioneer natural resources co,1,0,0,0,20220303,buchanan edison c,103835722000046,,male,244133701.0
+115285.0,,1038357,pioneer natural resources co,1,0,0,0,20220303,gallagher matthew,103835722000047,,male,244133701.0
+404079.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20220303,sheffield scott d,103835722000048,Chief Executive Officer,male,244133701.0
+5465.0,46.0,1038357,pioneer natural resources co,0,1,0,0,20220303,montemayor margaret,103835722000045,VP & CAO,female,244133701.0
+6711.0,316.0,1038357,pioneer natural resources co,0,1,0,0,20220316,taylor tyson l.,103835722000050,"SVP, Human Resources",male,244133701.0
+5533.0,382.0,1038357,pioneer natural resources co,0,1,0,0,20220317,mcdonald elizabeth anne,103835722000051,"SVP, Strategic Planning, Field",female,244133701.0
+14272.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20220323,thompson j kenneth,103835722000052,,male,244133701.0
+12042.0,,1038357,pioneer natural resources co,1,0,0,0,20220325,gobe phillip a,103835722000053,,male,244133701.0
+380932.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20220325,sheffield scott d,103835722000054,Chief Executive Officer,male,244133701.0
+14371.0,,1038357,pioneer natural resources co,1,0,0,0,20220331,risch frank a,103835722000060,,male,244133701.0
+43121.0,3750.0,1038357,pioneer natural resources co,0,1,0,0,20220331,cheatwood chris j,103835722000059,"EVP, Advisor to Management",male,244133701.0
+32885.0,,1038357,pioneer natural resources co,0,1,0,0,20220331,kleinman mark h,103835722000057,EVP & General Counsel,male,244133701.0
+19376.0,,1038357,pioneer natural resources co,0,1,0,0,20220331,shah neal h,103835722000056,SVP and CFO,male,244133701.0
+4965.0,47.0,1038357,pioneer natural resources co,0,1,0,0,20220331,montemayor margaret,103835722000055,VP & CAO,female,244133701.0
+17168.0,52046.0,1038357,pioneer natural resources co,0,1,0,0,20220331,berg mark stephen,103835722000058,"EVP, Corporate Operations",male,244133701.0
+49546.0,17168.0,1038357,pioneer natural resources co,0,1,0,0,20220517,berg mark stephen,103835722000077,"EVP, Corporate Operations",male,241958985.0
+52506.0,,1038357,pioneer natural resources co,0,1,0,0,20220517,hall jerome d jr,103835722000078,"EVP, Operations",male,241958985.0
+15753.0,100.0,1038357,pioneer natural resources co,1,0,0,0,20220527,methvin stacy p.,103835722000089,,female,241958985.0
+15559.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20220527,thompson j kenneth,103835722000088,,male,241958985.0
+15262.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,risch frank a,103835722000087,,male,241958985.0
+16580.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,mitchell royce,103835722000085,,male,241958985.0
+13425.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,wood phoebe a,103835722000086,,female,241958985.0
+116176.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,gallagher matthew,103835722000083,,male,241958985.0
+13652.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,dreyfus maria s.,103835722000082,,female,241958985.0
+24991.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,buchanan edison c,103835722000080,,male,241958985.0
+3243.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,billingsley lori george,103835722000079,,female,241958985.0
+12993.0,,1038357,pioneer natural resources co,1,0,0,0,20220527,gobe phillip a,103835722000084,,male,241958985.0
+24540.0,0.0,1038357,pioneer natural resources co,1,0,0,0,20220527,alameddine a r,103835722000081,,male,241958985.0
+370932.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20220607,sheffield scott d,103835722000092,Chief Executive Officer,male,241958985.0
+4876.0,316.0,1038357,pioneer natural resources co,0,1,0,0,20220607,taylor tyson l.,103835722000093,"SVP, Human Resources",male,241958985.0
+47046.0,17168.0,1038357,pioneer natural resources co,0,1,0,0,20220609,berg mark stephen,103835722000094,"EVP, Corporate Operations",male,241958985.0
+1570.0,,1038357,pioneer natural resources co,1,0,0,0,20220721,hernandez jacinto j,103835722000109,,male,241958985.0
+3252.0,,1038357,pioneer natural resources co,0,1,0,0,20220817,washburn christopher l,103835722000119,Interim CAO,male,238666954.0
+3081.0,7.0,1038357,pioneer natural resources co,0,1,0,0,20220823,washburn christopher l,103835722000121,Interim CAO,male,238666954.0
+18964.0,,1038357,pioneer natural resources co,0,1,0,0,20220823,shah neal h,103835722000120,SVP and CFO,male,238666954.0
+2158.0,,1038357,pioneer natural resources co,1,0,0,0,20221110,hernandez jacinto j,103835722000137,,male,237598733.0
+30085.0,64214.0,1038357,pioneer natural resources co,0,1,0,0,20221115,berg mark stephen,103835722000138,"EVP, Corporate Operations",male,237598733.0
+32670.0,,1038357,pioneer natural resources co,0,1,0,0,20221115,kleinman mark h,103835722000139,EVP & General Counsel,male,237598733.0
+7878.0,417.0,1038357,pioneer natural resources co,0,1,0,0,20230104,mcdonald elizabeth anne,103835723000006,"SVP, Strategic Planning, Field",female,237598733.0
+387723.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20230104,sheffield scott d,103835723000007,Chief Executive Officer,male,237598733.0
+21064.0,,1038357,pioneer natural resources co,0,1,0,0,20230104,shah neal h,103835723000008,SVP and CFO,male,237598733.0
+6671.0,345.0,1038357,pioneer natural resources co,0,1,0,0,20230104,taylor tyson l.,103835723000009,"SVP, HR & Communications",male,237598733.0
+148887.0,141717.0,1038357,pioneer natural resources co,0,1,0,0,20230104,dealy richard p,103835723000003,President and COO,male,237598733.0
+7196.0,,1038357,pioneer natural resources co,0,1,0,0,20230104,black bonnie s.,103835723000002,"SVP, Technology & Ops Support",female,237598733.0
+58289.0,,1038357,pioneer natural resources co,0,1,0,0,20230104,hall jerome d jr,103835723000005,"EVP, Operations",male,237598733.0
+37450.0,,1038357,pioneer natural resources co,0,1,0,0,20230104,kleinman mark h,103835723000004,EVP & General Counsel,male,237598733.0
+35868.0,64214.0,1038357,pioneer natural resources co,0,1,0,0,20230104,berg mark stephen,103835723000001,"EVP, Corporate Operations",male,237598733.0
+9700.0,417.0,1038357,pioneer natural resources co,0,1,0,0,20230209,mcdonald elizabeth anne,103835723000019,"SVP, Strategic Planning, Field",female,237598733.0
+41268.0,,1038357,pioneer natural resources co,0,1,0,0,20230209,kleinman mark h,103835723000018,EVP & General Counsel,male,237598733.0
+8585.0,,1038357,pioneer natural resources co,0,1,0,0,20230209,black bonnie s.,103835723000014,"SVP, Technology & Ops Support",female,237598733.0
+62541.0,,1038357,pioneer natural resources co,0,1,0,0,20230209,hall jerome d jr,103835723000015,"EVP, Operations",male,237598733.0
+25316.0,,1038357,pioneer natural resources co,0,1,0,0,20230209,shah neal h,103835723000020,SVP and CFO,male,237598733.0
+40120.0,64214.0,1038357,pioneer natural resources co,0,1,0,0,20230209,berg mark stephen,103835723000017,"EVP, Corporate Operations",male,237598733.0
+409418.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20230209,sheffield scott d,103835723000021,Chief Executive Officer,male,237598733.0
+8493.0,345.0,1038357,pioneer natural resources co,0,1,0,0,20230209,taylor tyson l.,103835723000022,"SVP, HR & Communications",male,237598733.0
+4465.0,7.0,1038357,pioneer natural resources co,0,1,0,0,20230209,washburn christopher l,103835723000023,VP & CAO,male,237598733.0
+156697.0,141717.0,1038357,pioneer natural resources co,0,1,0,0,20230209,dealy richard p,103835723000016,President and COO,male,237598733.0
+8801.0,417.0,1038357,pioneer natural resources co,0,1,0,0,20230223,mcdonald elizabeth anne,103835723000033,"SVP, Strategic Planning, Field",female,237598733.0
+7977.0,,1038357,pioneer natural resources co,0,1,0,0,20230223,black bonnie s.,103835723000028,"SVP, Technology & Ops Support",female,237598733.0
+37859.0,64214.0,1038357,pioneer natural resources co,0,1,0,0,20230223,berg mark stephen,103835723000029,"EVP, Corporate Operations",male,237598733.0
+60056.0,,1038357,pioneer natural resources co,0,1,0,0,20230223,hall jerome d jr,103835723000030,"EVP, Operations",male,237598733.0
+7886.0,345.0,1038357,pioneer natural resources co,0,1,0,0,20230223,taylor tyson l.,103835723000035,"SVP, HR & Communications",male,237598733.0
+152906.0,141717.0,1038357,pioneer natural resources co,0,1,0,0,20230223,dealy richard p,103835723000031,President and COO,male,237598733.0
+39265.0,,1038357,pioneer natural resources co,0,1,0,0,20230223,kleinman mark h,103835723000032,EVP & General Counsel,male,237598733.0
+23825.0,,1038357,pioneer natural resources co,0,1,0,0,20230223,shah neal h,103835723000034,SVP and CFO,male,237598733.0
+34419.0,47046.0,1038357,pioneer natural resources co,0,1,0,0,20230324,berg mark stephen,103835723000040,"EVP, Corporate Operations",male,237598733.0
+16892.0,100.0,1038357,pioneer natural resources co,1,0,0,0,20230525,methvin stacy p.,158257423000001,,female,233735537.0
+17070.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20230525,thompson j kenneth,118878723000006,,male,233735537.0
+14698.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,dreyfus maria s.,120181223000001,,female,233735537.0
+25586.0,8611.0,1038357,pioneer natural resources co,1,0,0,0,20230525,alameddine a r,120181223000003,,male,233735537.0
+26037.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,buchanan edison c,120378323000001,,male,233735537.0
+14132.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,gobe phillip a,121648323000001,,male,233735537.0
+17719.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,mitchell royce,122768223000001,,male,233735537.0
+117222.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,gallagher matthew,160691523000001,,male,233735537.0
+4289.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,billingsley lori george,186931323000001,,female,233735537.0
+155076.0,141729.0,1038357,pioneer natural resources co,0,1,0,0,20230525,dealy richard p,112191923000002,President and COO,male,233735537.0
+14564.0,,1038357,pioneer natural resources co,1,0,0,0,20230525,wood phoebe a,120181223000002,,female,233735537.0
+50886.0,34419.0,1038357,pioneer natural resources co,0,1,0,0,20230810,berg mark stephen,103835723000085,"EVP, Corporate Operations",male,233141153.0
+4301.0,8.0,1038357,pioneer natural resources co,0,1,0,0,20230822,washburn christopher l,103835723000086,VP & CAO,male,233141153.0
+12676.0,89144.0,1038357,pioneer natural resources co,0,1,0,0,20231115,berg mark stephen,103835723000101,"EVP, Corporate Operations",male,233308884.0
+408608.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20231115,sheffield scott d,103835723000096,Chief Executive Officer,male,233308884.0
+39020.0,,1038357,pioneer natural resources co,0,1,0,0,20231115,kleinman mark h,103835723000097,EVP & General Counsel,male,233308884.0
+59897.0,,1038357,pioneer natural resources co,0,1,0,0,20231115,hall jerome d jr,103835723000099,"EVP, Operations",male,233308884.0
+154703.0,141739.0,1038357,pioneer natural resources co,1,1,0,0,20231115,dealy richard p,103835723000100,President and COO,male,233308884.0
+34047.0,,1038357,pioneer natural resources co,0,1,0,0,20231208,kleinman mark h,103835723000103,EVP & General Counsel,male,233308884.0
+58197.0,,1038357,pioneer natural resources co,0,1,0,0,20231208,hall jerome d jr,103835723000102,"EVP, Operations",male,233308884.0
+363851.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20231213,sheffield scott d,103835723000105,Chief Executive Officer,male,233308884.0
+54725.0,34419.0,1038357,pioneer natural resources co,0,1,0,0,20231213,berg mark stephen,103835723000104,"EVP, Corporate Operations",male,233308884.0
+11772.0,365.0,1038357,pioneer natural resources co,0,1,0,0,20231219,taylor tyson l.,103835723000115,"EVP, HR & Communications",male,233308884.0
+11557.0,,1038357,pioneer natural resources co,0,1,0,0,20231219,black bonnie s.,103835723000107,"EVP, Technology & Ops Support",female,233308884.0
+29633.0,89144.0,1038357,pioneer natural resources co,0,1,0,0,20231219,berg mark stephen,103835723000106,"EVP, Corporate Operations",male,233308884.0
+3747.0,8.0,1038357,pioneer natural resources co,0,1,0,0,20231219,washburn christopher l,103835723000116,VP & CAO,male,233308884.0
+175799.0,141739.0,1038357,pioneer natural resources co,1,1,0,0,20231219,dealy richard p,103835723000108,President and COO,male,233308884.0
+4066.0,,1038357,pioneer natural resources co,1,0,0,0,20231219,dreyfus maria s.,103835723000109,,female,233308884.0
+12743.0,441.0,1038357,pioneer natural resources co,0,1,0,0,20231219,mcdonald elizabeth anne,103835723000112,"EVP, Strategic Planning, Field",female,233308884.0
+72665.0,,1038357,pioneer natural resources co,0,1,0,0,20231219,hall jerome d jr,103835723000110,"EVP, Operations",male,233308884.0
+47464.0,,1038357,pioneer natural resources co,0,1,0,0,20231219,kleinman mark h,103835723000111,EVP & General Counsel,male,233308884.0
+32697.0,,1038357,pioneer natural resources co,0,1,0,0,20231219,shah neal h,103835723000113,EVP and CFO,male,233308884.0
+474056.0,187499.0,1038357,pioneer natural resources co,1,1,0,0,20231219,sheffield scott d,103835723000114,Chief Executive Officer,male,233308884.0
+216775.0,141745.0,1038357,pioneer natural resources co,1,1,0,0,20240103,dealy richard p,103835724000001,President and CEO,male,233308884.0
+43964.0,,1038357,pioneer natural resources co,0,1,0,0,20240103,kleinman mark h,103835724000002,EVP & General Counsel,male,233308884.0
+18947.0,447.0,1038357,pioneer natural resources co,0,1,0,0,20240208,mcdonald elizabeth anne,103835724000009,"EVP, Strategic Planning, Field",female,233308884.0
+16432.0,,1038357,pioneer natural resources co,0,1,0,0,20240208,black bonnie s.,103835724000010,"EVP, Technology & Ops Support",female,233308884.0
+6406.0,8.0,1038357,pioneer natural resources co,0,1,0,0,20240208,washburn christopher l,103835724000011,VP & CAO,male,233308884.0
+54599.0,,1038357,pioneer natural resources co,0,1,0,0,20240208,kleinman mark h,103835724000012,EVP & General Counsel,male,233308884.0
+17976.0,370.0,1038357,pioneer natural resources co,0,1,0,0,20240208,taylor tyson l.,103835724000013,"EVP, HR & Communications",male,233308884.0
+41154.0,89144.0,1038357,pioneer natural resources co,0,1,0,0,20240208,berg mark stephen,103835724000007,"EVP, Corporate Operations",male,233308884.0
+47763.0,,1038357,pioneer natural resources co,0,1,0,0,20240208,shah neal h,103835724000008,EVP and CFO,male,233308884.0
+84186.0,,1038357,pioneer natural resources co,0,1,0,0,20240208,hall jerome d jr,103835724000006,"EVP, Operations",male,233308884.0
+53356.0,,1038357,pioneer natural resources co,0,1,0,0,20240222,kleinman mark h,103835724000024,EVP & General Counsel,male,233308884.0
+83885.0,,1038357,pioneer natural resources co,0,1,0,0,20240222,hall jerome d jr,103835724000023,"EVP, Operations",male,233308884.0
+216069.0,141745.0,1038357,pioneer natural resources co,1,1,0,0,20240222,dealy richard p,103835724000022,President and CEO,male,233308884.0
+39735.0,89144.0,1038357,pioneer natural resources co,0,1,0,0,20240222,berg mark stephen,103835724000021,"EVP, Corporate Operations",male,233308884.0
+462112.0,187499.0,1038357,pioneer natural resources co,1,0,0,0,20240306,sheffield scott d,103835724000025,,male,233308884.0
+49856.0,,1038357,pioneer natural resources co,0,1,0,0,20240306,kleinman mark h,103835724000026,EVP & General Counsel,male,233308884.0
+27096.0,54725.0,1038357,pioneer natural resources co,0,1,0,0,20240311,berg mark stephen,103835724000028,"EVP, Corporate Operations",male,233308884.0
+13132.0,,1038357,pioneer natural resources co,1,0,0,0,20240311,gobe phillip a,103835724000029,,male,233308884.0
+14420.0,370.0,1038357,pioneer natural resources co,0,1,0,0,20240313,taylor tyson l.,103835724000030,"EVP, HR & Communications",male,233308884.0
+15332.0,,1038357,pioneer natural resources co,0,1,0,0,20240313,black bonnie s.,103835724000031,"EVP, Technology & Ops Support",female,233308884.0
+76885.0,,1038357,pioneer natural resources co,0,1,0,0,20240319,hall jerome d jr,103835724000032,"EVP, Operations",male,233308884.0
+447112.0,187499.0,1038357,pioneer natural resources co,1,0,0,0,20240319,sheffield scott d,103835724000033,,male,233308884.0
+16070.0,2075.0,1038357,pioneer natural resources co,1,0,0,0,20240319,thompson j kenneth,103835724000034,,male,233308884.0
+45506.0,,1038357,pioneer natural resources co,0,1,0,0,20240326,kleinman mark h,103835724000035,EVP & General Counsel,male,233308884.0
+11132.0,,1038357,pioneer natural resources co,1,0,0,0,20240328,gobe phillip a,103835724000036,,male,233308884.0
+4990.0,8.0,1038357,pioneer natural resources co,0,1,0,0,20240328,washburn christopher l,103835724000037,VP & CAO,male,233308884.0
+4875.0,8.0,1038357,pioneer natural resources co,0,1,0,0,20240401,washburn christopher l,103835724000038,VP & CAO,male,233308884.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,alameddine a r,95017024052896,,male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,kleinman mark h,95017024052895,EVP & General Counsel,male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,black bonnie s.,95017024052894,"EVP, Technology & Ops Support",female,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,sheffield scott d,95017024052893,,male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,berg mark stephen,95017024052892,"EVP, Corporate Operations",male,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,dreyfus maria s.,95017024052891,,female,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,gobe phillip a,95017024052890,,male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,mcdonald elizabeth anne,95017024052889,"EVP, Strategic Planning, Field",female,233675158.0
+0.0,,1038357,pioneer natural resources co,true,true,false,false,20240503,dealy richard p,95017024052886,President and CEO,male,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,thompson j kenneth,95017024052887,,male,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,buchanan edison c,95017024052884,,male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,shah neal h,95017024052883,EVP and CFO,male,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,methvin stacy p.,95017024052882,,female,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,george lori a,95017024052881,,female,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,mitchell royce,95017024052880,,male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,hall jerome d jr,95017024052879,"EVP, Operations",male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,taylor tyson l.,95017024052878,"EVP, HR & Communication",male,233675158.0
+0.0,,1038357,pioneer natural resources co,false,true,false,false,20240503,washburn christopher l,95017024052888,VP & CAO,male,233675158.0
+0.0,,1038357,pioneer natural resources co,true,false,false,false,20240503,wood phoebe a,95017024052885,,female,233675158.0

@@ -1,139 +1,512 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
 300.0,6028430.599,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100112,rainbolt david e,104287310000001,President & CEO,male,
-592.0,60021.237,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100112,rainbolt h e,118885510000001,Chairman,male,
-6400.0,4639.763,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100201,shockley joe t jr,119271010000001,EVP & CFO,male,
-0.0,3488.182,760498,bancfirst corp /ok/,0,1,0.0,0.0,20100219,schmidt darryl,118460010000001,EVP,male,
-224.0,11114.56,760498,bancfirst corp /ok/,0,1,0.0,0.0,20100305,foraker randy,118906610000001,EVP,male,
-0.0,11075.881,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100309,brand dennis l,118777810000001,EVP,male,
-10000.0,69000.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100324,moran melvin,118884110000001,,male,
-8200.0,69000.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100423,moran melvin,118884110000002,,male,
-6400.0,4942.945,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100423,shockley joe t jr,119271010000002,EVP & CFO,male,
-87956.0,50284.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100618,mccasland thomas howard iii,131952010000001,,male,
-889.0,61228.586,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100714,rainbolt h e,118885510000002,Chairman,male,15346800.0
-12840.0,3125.762,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100721,greer k gordan,118906810000001,Vice Chairman,male,15346800.0
-886.0,61228.586,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100819,rainbolt h e,118885510000003,Chairman,male,15346800.0
-650.0,3027.12,760498,bancfirst corp /ok/,0,1,0.0,0.0,20100820,cardwell wayne e,118777910000001,Regional Exec,male,15346800.0
-97956.0,50284.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100824,mccasland thomas howard iii,131952010000002,,male,15346800.0
-19434.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100830,craig c l jr,106130010000001,,male,15346800.0
-3000.0,1000.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100830,norick ronald j,118885010000001,,male,15346800.0
-17840.0,3125.762,760498,bancfirst corp /ok/,1,1,0.0,0.0,20100913,greer k gordan,118906810000002,Vice Chairman and Director,male,15346800.0
-786.0,61228.586,760498,bancfirst corp /ok/,1,1,0.0,0.0,20101012,rainbolt h e,118885510000004,Chairman,male,15358672.0
-783.0,61228.586,760498,bancfirst corp /ok/,1,1,0.0,0.0,20101203,rainbolt h e,118885510000005,Chairman,male,15358672.0
-683.0,61228.586,760498,bancfirst corp /ok/,1,1,0.0,0.0,20101229,rainbolt h e,118885510000006,Chairman,male,15358672.0
+592.0,60021.237,760498,bancfirst corp /ok/,1,1,0,0.0,20100112,rainbolt h e,118885510000001,Chairman,male,
+6400.0,4639.763,760498,bancfirst corp /ok/,1,1,0,0.0,20100201,shockley joe t jr,119271010000001,EVP & CFO,male,
+0.0,3488.182,760498,bancfirst corp /ok/,0,1,0,0.0,20100219,schmidt darryl,118460010000001,EVP,male,
+224.0,11114.56,760498,bancfirst corp /ok/,0,1,0,0.0,20100305,foraker randy,118906610000001,EVP,male,
+0.0,11075.881,760498,bancfirst corp /ok/,1,1,0,0.0,20100309,brand dennis l,118777810000001,EVP,male,
+10000.0,69000.0,760498,bancfirst corp /ok/,1,0,0,0.0,20100324,moran melvin,118884110000001,,male,
+6400.0,4942.945,760498,bancfirst corp /ok/,1,1,0,0.0,20100423,shockley joe t jr,119271010000002,EVP & CFO,male,
+8200.0,69000.0,760498,bancfirst corp /ok/,1,0,0,0.0,20100423,moran melvin,118884110000002,,male,
+87956.0,50284.0,760498,bancfirst corp /ok/,1,0,0,0,20100618,mccasland thomas howard iii,131952010000001,,male,
+889.0,61228.586,760498,bancfirst corp /ok/,1,1,0,0.0,20100714,rainbolt h e,118885510000002,Chairman,male,15346800.0
+12840.0,3125.762,760498,bancfirst corp /ok/,1,1,0,0.0,20100721,greer k gordan,118906810000001,Vice Chairman,male,15346800.0
+886.0,61228.586,760498,bancfirst corp /ok/,1,1,0,0.0,20100819,rainbolt h e,118885510000003,Chairman,male,15346800.0
+650.0,3027.12,760498,bancfirst corp /ok/,0,1,0,0.0,20100820,cardwell wayne e,118777910000001,Regional Exec,male,15346800.0
+97956.0,50284.0,760498,bancfirst corp /ok/,1,0,0,0,20100824,mccasland thomas howard iii,131952010000002,,male,15346800.0
+19434.0,,760498,bancfirst corp /ok/,1,0,0.0,0.0,20100830,craig c l jr,106130010000001,,male,15346800.0
+3000.0,1000.0,760498,bancfirst corp /ok/,1,0,0,0.0,20100830,norick ronald j,118885010000001,,male,15346800.0
+17840.0,3125.762,760498,bancfirst corp /ok/,1,1,0,0.0,20100913,greer k gordan,118906810000002,Vice Chairman and Director,male,15346800.0
+786.0,61228.586,760498,bancfirst corp /ok/,1,1,0,0.0,20101012,rainbolt h e,118885510000004,Chairman,male,15358672.0
+783.0,61228.586,760498,bancfirst corp /ok/,1,1,0,0.0,20101203,rainbolt h e,118885510000005,Chairman,male,15358672.0
+683.0,61228.586,760498,bancfirst corp /ok/,1,1,0,0.0,20101229,rainbolt h e,118885510000006,Chairman,male,15358672.0
 500.0,6029265.893,760498,bancfirst corp /ok/,1,1,0.0,0.0,20101229,rainbolt david e,104287310000002,President & CEO,male,15358672.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110207,drummond f ford,151230111000002,,male,15368717.0
-4750.0,31934.593,760498,bancfirst corp /ok/,0,1,0.0,0.0,20110222,james karen,118907211000001,EVP & Regional Executive,female,15368717.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110225,drummond f ford,151230111000004,,male,15368717.0
-0.0,220.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110321,lopez dave r,131660111000001,,male,15368717.0
-0.0,220.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110323,lopez dave r,131660111000002,,male,15368717.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110404,ross cynthia s.,151494811000002,,female,15390357.0
-21434.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110420,craig c l jr,106130011000001,,male,15390357.0
-583.0,60291.805,760498,bancfirst corp /ok/,1,1,0.0,0.0,20110420,rainbolt h e,118885511000001,Chairman,male,15390357.0
-21934.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110517,craig c l jr,106130011000002,,male,15390357.0
-1000.0,3103.144,760498,bancfirst corp /ok/,0,1,0.0,0.0,20110601,cardwell wayne e,118777911000001,Regional Executive,male,15390357.0
-2500.0,1669.425,760498,bancfirst corp /ok/,0,1,0.0,0.0,20110610,schmidt darryl,118460011000001,EVP,male,15390357.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20110207,drummond f ford,151230111000002,,male,15368717.0
+4750.0,31934.593,760498,bancfirst corp /ok/,0,1,0,0.0,20110222,james karen,118907211000001,EVP & Regional Executive,female,15368717.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20110225,drummond f ford,151230111000004,,male,15368717.0
+0.0,220.0,760498,bancfirst corp /ok/,1,0,0,0,20110321,lopez dave r,131660111000001,,male,15368717.0
+0.0,220.0,760498,bancfirst corp /ok/,1,0,0,0,20110323,lopez dave r,131660111000002,,male,15368717.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20110404,ross cynthia s.,151494811000002,,female,15390357.0
+583.0,60291.805,760498,bancfirst corp /ok/,1,1,0,0.0,20110420,rainbolt h e,118885511000001,Chairman,male,15390357.0
+21434.0,,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110420,craig c l jr,106130011000001,,male,15390357.0
+21934.0,,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110517,craig c l jr,106130011000002,,male,15390357.0
+1000.0,3103.144,760498,bancfirst corp /ok/,0,1,0,0.0,20110601,cardwell wayne e,118777911000001,Regional Executive,male,15390357.0
+2500.0,1669.425,760498,bancfirst corp /ok/,0,1,0,0.0,20110610,schmidt darryl,118460011000001,EVP,male,15390357.0
+383.0,60291.805,760498,bancfirst corp /ok/,1,1,0,0.0,20110629,rainbolt h e,118885511000002,Chairman,male,15390357.0
 500.0,6029561.091,760498,bancfirst corp /ok/,1,1,0.0,0.0,20110629,rainbolt david e,104287311000001,President & CEO,male,15390357.0
-383.0,60291.805,760498,bancfirst corp /ok/,1,1,0.0,0.0,20110629,rainbolt h e,118885511000002,Chairman,male,15390357.0
-250.0,5105.505,760498,bancfirst corp /ok/,0,1,0.0,0.0,20110811,copeland scott,118906211000001,EVP,male,15256464.0
-80.0,60291.805,760498,bancfirst corp /ok/,1,1,0.0,0.0,20110815,rainbolt h e,118885511000003,Chairman,male,15256464.0
-22934.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110817,craig c l jr,106130011000003,,male,15256464.0
-1000.0,11372.841,760498,bancfirst corp /ok/,1,1,0.0,0.0,20110822,brand dennis l,118777811000001,EVP,male,15256464.0
-4500.0,1603.144,760498,bancfirst corp /ok/,0,1,0.0,0.0,20110822,cardwell wayne e,118777911000002,Regional Executive,male,15256464.0
-43500.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110826,odom paul b jr,118885111000001,,male,15256464.0
-45700.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110829,odom paul b jr,118885111000002,,male,15256464.0
-7000.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110829,norick ronald j,118885011000001,,male,15256464.0
-1100.0,5103.144,760498,bancfirst corp /ok/,0,1,0.0,0.0,20110906,cardwell wayne e,118777911000003,Regional Executive,male,15256464.0
-53700.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110906,odom paul b jr,118885111000003,,male,15256464.0
-59700.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110909,odom paul b jr,118885111000004,,male,15256464.0
-64700.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110915,odom paul b jr,118885111000005,,male,15256464.0
-3000.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110919,drummond f ford,151230111000005,,male,15256464.0
-0.0,11452.142,760498,bancfirst corp /ok/,0,1,0.0,0.0,20111031,foraker randy,118906611000001,EVP,male,15130708.0
-6400.0,5165.14,760498,bancfirst corp /ok/,0,1,0.0,0.0,20111104,shockley joe t jr,119271011000001,EVP & CFO,male,15130708.0
-77.0,60291.805,760498,bancfirst corp /ok/,1,1,0.0,0.0,20111221,rainbolt h e,118885511000004,Chairman,male,15130708.0
-977.0,60291.805,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120103,rainbolt h e,118885512000001,Chairman,male,15117430.0
-6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120106,shockley joe t jr,119271012000001,EVP & CFO,male,15117430.0
-6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120111,shockley joe t jr,119271012000002,EVP & CFO,male,15117430.0
-6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120119,shockley joe t jr,119271012000003,EVP & CFO,male,15117430.0
-6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120202,shockley joe t jr,119271012000004,EVP & CFO,male,15117430.0
-0.0,0.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120203,robinson harvey,152015012000002,President & Regional Executive,male,15117430.0
-6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120206,shockley joe t jr,119271012000005,EVP & CFO,male,15117430.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120227,mcmillan marion,136809412000001,Regional Executive,female,15117430.0
-6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120314,shockley joe t jr,119271012000006,EVP & CFO,male,15117430.0
-6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120321,shockley joe t jr,119271012000007,EVP & CFO,male,15117430.0
-0.0,14190.127,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120321,starks ken,136810512000001,Regional Executive,male,15117430.0
-877.0,58801.896,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120327,rainbolt h e,118885512000002,Chairman and Director,male,15117430.0
-1000.0,11683.964,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120418,brand dennis l,118777812000001,EVP,male,15145280.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120418,mcmillan marion,136809412000002,Regional Executive,female,15145280.0
-577.0,58801.896,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120516,rainbolt h e,118885512000003,Chairman,male,15159153.0
-6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120702,shockley joe t jr,119271012000009,EVP & CFO,male,15153991.0
-6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120705,shockley joe t jr,119271012000010,EVP & CFO,male,15153991.0
-0.0,17510.891,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120720,petersen dale e,118885312000001,EVP,male,15153991.0
-374.0,58801.896,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120801,rainbolt h e,118885512000004,Chairman,male,15161446.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120820,mcmillan marion,136809412000003,Regional Executive,female,15161446.0
-600.0,3662.571,760498,bancfirst corp /ok/,1,1,0.0,0.0,20120827,daniel jim,118906412000001,Vice Chairman,male,15161446.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120830,mcmillan marion,136809412000004,Regional Exec,female,15161446.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120906,mcmillan marion,136809412000005,Regional Executive,female,15161446.0
-0.0,14190.127,760498,bancfirst corp /ok/,0,1,0.0,0.0,20120927,starks ken,136810512000002,Regional Executive,male,15161446.0
-0.0,14190.127,760498,bancfirst corp /ok/,0,1,0.0,0.0,20121019,starks ken,136810512000003,Regional Executive,male,15200468.0
-11114.0,33527.885,760498,bancfirst corp /ok/,0,1,0.0,0.0,20121019,james karen,118907212000001,EVP & Regional Executive,female,15200468.0
-170059.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20121108,mccalmont j ralph,118883912000001,,male,15224808.0
-170059.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20121210,mccalmont j ralph,118883912000002,,male,15224808.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20121210,mcmillan marion,136809412000006,Regional Executive,female,15224808.0
-3000.0,11683.964,760498,bancfirst corp /ok/,1,1,0.0,0.0,20121227,brand dennis l,118777812000002,EVP,male,15224808.0
-0.0,2878.642,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130213,mcmillan marion,136809413000001,Regional Executive,female,15242308.0
-0.0,2878642.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130225,mcmillan marion,136809413000002,Regional Executive,female,15242308.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130312,mcmillan marion,136809413000003,Regional Executive,female,15242308.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130318,mcmillan marion,136809413000004,Regional Executive,female,15242308.0
-13000.0,12005.178,760498,bancfirst corp /ok/,1,1,0.0,0.0,20130415,brand dennis l,118777813000001,EVP,male,15228277.0
-0.0,0.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130423,foraker randy,118906613000001,EVP,male,15228277.0
-1171.0,57920.831,760498,bancfirst corp /ok/,1,1,0.0,0.0,20130510,rainbolt h e,118885513000001,Chairman,male,15230364.0
-6400.0,5280.28,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130510,cardwell wayne e,118777913000001,Regional Executive,male,15230364.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130517,mcmillan marion,136809413000005,Regional Executive,female,15230364.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130520,mcmillan marion,136809413000006,Regional Executive,female,15230364.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130522,mcmillan marion,136809413000007,Regional Executive,female,15230364.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130529,mcmillan marion,136809413000008,Regional Executive,female,15230364.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130531,mcmillan marion,136809413000009,Regional Executive,female,15230364.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130605,mcmillan marion,136809413000010,Regional Executive,female,15230364.0
-13000.0,12005.178,760498,bancfirst corp /ok/,1,1,0.0,0.0,20130620,brand dennis l,118777813000002,EVP,male,15230364.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20130627,ross cynthia s.,151494813000001,,female,15230364.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20130701,lopez dave r,131660113000003,,male,15255864.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20130701,samis michael s.,157845613000002,,male,15255864.0
-0.0,3047.657,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130705,mcmillan marion,136809413000011,Regional Executive,female,15255864.0
-0.0,2880.988,760498,bancfirst corp /ok/,0,1,0.0,0.0,20130821,harlow david r,132238513000001,Regional Executive,male,15286809.0
-668.0,57920.831,760498,bancfirst corp /ok/,1,1,0.0,0.0,20130830,rainbolt h e,118885513000002,Chairman,male,15286809.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20130830,shirley natalie,158356613000002,,female,15286809.0
-5736000.0,0.0,760498,bancfirst corp /ok/,0,0,1.0,0.0,20131202,rainbolt david e,104287313000001,,male,15303372.0
-565.0,57920.831,760498,bancfirst corp /ok/,1,1,0.0,0.0,20131216,rainbolt h e,118885513000003,Chairman,male,15303372.0
-2500.0,4569.304,760498,bancfirst corp /ok/,0,1,0.0,0.0,20131217,schmidt darryl,118460013000001,EVP,male,15303372.0
-0.0,0.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20140306,mcmillan marion,136809414000001,Regional Executive,female,15333622.0
-14500.0,2124.393,760498,bancfirst corp /ok/,1,1,0.0,0.0,20140326,brand dennis l,118777814000001,EVP,male,15333622.0
-0.0,3254.307,760498,bancfirst corp /ok/,0,1,0.0,0.0,20140327,mcmillan marion,136809414000002,Regional Executive,female,15333622.0
-0.0,3254.307,760498,bancfirst corp /ok/,0,1,0.0,0.0,20140424,mcmillan marion,136809414000003,Regional Executive,female,15363728.0
-1165.0,57174.789,760498,bancfirst corp /ok/,1,1,0.0,0.0,20140521,rainbolt h e,118885514000001,Chairman,male,15371478.0
-0.0,0.0,760498,bancfirst corp /ok/,1,1,0.0,0.0,20140523,johstone william o,118907314000001,Vice Chairman,male,15371478.0
-0.0,3254.307,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140722,mcmillan marion,136809414000004,,female,15398603.0
-2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140801,schmidt darryl,138449314000002,,male,15423103.0
-0.0,973.949,760498,bancfirst corp /ok/,0,1,0.0,0.0,20140801,westman david,138449314000001,EVP Chief Technology Officer,male,15423103.0
-2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140808,schmidt darryl,118460014000001,,male,15423103.0
-2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140820,schmidt darryl,118460014000003,,male,15423103.0
-0.0,3254.307,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140825,mcmillan marion,136809414000005,,female,15423103.0
-2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140829,schmidt darryl,118460014000004,,male,15423103.0
-6100.0,8400.0,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140903,cardwell wayne e,118777914000001,,male,15423103.0
-10650.0,6366.672,760498,bancfirst corp /ok/,0,0,0.0,1.0,20140904,seat david,126669314000001,,male,15423103.0
-0.0,973.949,760498,bancfirst corp /ok/,0,1,0.0,0.0,20141029,westman david,138449314000003,EVP Chief Technology Officer,male,15449546.0
-2000.0,2661.39,760498,bancfirst corp /ok/,1,1,0.0,0.0,20141114,johstone william o,118907314000003,Vice Chairman,male,15486546.0
-12743.0,35100.591,760498,bancfirst corp /ok/,0,0,0.0,1.0,20141118,james karen,118907214000001,,female,15486546.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20141231,wedel gregory,162393314000002,,male,15504513.0
-34800.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20150422,williams g rainey jr,127131215000006,,male,15512545.0
-31800.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20150427,williams g rainey jr,127131215000007,,male,15512545.0
-13250.0,0.0,760498,bancfirst corp /ok/,0,0,0.0,1.0,20150514,seat david,126669315000001,,male,15531748.0
-459.0,56002.238,760498,bancfirst corp /ok/,1,1,0.0,0.0,20150522,rainbolt h e,118885515000001,Chairman,male,15531748.0
-0.0,3405.879,760498,bancfirst corp /ok/,0,0,0.0,1.0,20150612,mcmillan marion,136809415000001,,female,15531748.0
-0.0,0.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20150612,halverstadt donald b,126310015000001,,male,15531748.0
-0.0,0.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20150622,lawrence kevin,163867315000005,Chief Financial Officer,male,15531748.0
-340000.0,12.713,760498,bancfirst corp /ok/,1,0,0.0,0.0,20150721,crawford william h,118906315000001,,male,15562298.0
-2500.0,0.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20150730,schmidt darryl,118460015000001,Executive Vice President,male,15562298.0
-2500.0,4926.853999999999,760498,bancfirst corp /ok/,0,0,0.0,1.0,20150804,schmidt darryl,118460015000002,,male,15580827.0
-2500.0,2500.0,760498,bancfirst corp /ok/,0,0,0.0,1.0,20150819,schmidt darryl,118460015000003,,male,15580827.0
-0.0,0.0,760498,bancfirst corp /ok/,0,1,0.0,0.0,20150819,westman david,138449315000001,EVP Chief Technology Officer,male,15580827.0
-100.0,1500.0,760498,bancfirst corp /ok/,1,0,0.0,0.0,20150908,wallace mike,141934815000001,,male,15580827.0
+250.0,5105.505,760498,bancfirst corp /ok/,0,1,0,0.0,20110811,copeland scott,118906211000001,EVP,male,15256464.0
+80.0,60291.805,760498,bancfirst corp /ok/,1,1,0,0.0,20110815,rainbolt h e,118885511000003,Chairman,male,15256464.0
+22934.0,,760498,bancfirst corp /ok/,1,0,0.0,0.0,20110817,craig c l jr,106130011000003,,male,15256464.0
+4500.0,1603.144,760498,bancfirst corp /ok/,0,1,0,0.0,20110822,cardwell wayne e,118777911000002,Regional Executive,male,15256464.0
+1000.0,11372.841,760498,bancfirst corp /ok/,1,1,0,0.0,20110822,brand dennis l,118777811000001,EVP,male,15256464.0
+43500.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20110826,odom paul b jr,118885111000001,,male,15256464.0
+45700.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20110829,odom paul b jr,118885111000002,,male,15256464.0
+7000.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20110829,norick ronald j,118885011000001,,male,15256464.0
+53700.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20110906,odom paul b jr,118885111000003,,male,15256464.0
+1100.0,5103.144,760498,bancfirst corp /ok/,0,1,0,0.0,20110906,cardwell wayne e,118777911000003,Regional Executive,male,15256464.0
+59700.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20110909,odom paul b jr,118885111000004,,male,15256464.0
+64700.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20110915,odom paul b jr,118885111000005,,male,15256464.0
+3000.0,,760498,bancfirst corp /ok/,1,0,0,0,20110919,drummond f ford,151230111000005,,male,15256464.0
+0.0,11452.142,760498,bancfirst corp /ok/,0,1,0,0.0,20111031,foraker randy,118906611000001,EVP,male,15130708.0
+6400.0,5165.14,760498,bancfirst corp /ok/,0,1,0,0.0,20111104,shockley joe t jr,119271011000001,EVP & CFO,male,15130708.0
+77.0,60291.805,760498,bancfirst corp /ok/,1,1,0,0.0,20111221,rainbolt h e,118885511000004,Chairman,male,15130708.0
+977.0,60291.805,760498,bancfirst corp /ok/,1,1,0,0.0,20120103,rainbolt h e,118885512000001,Chairman,male,15117430.0
+6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0,0.0,20120106,shockley joe t jr,119271012000001,EVP & CFO,male,15117430.0
+6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0,0.0,20120111,shockley joe t jr,119271012000002,EVP & CFO,male,15117430.0
+6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0,0.0,20120119,shockley joe t jr,119271012000003,EVP & CFO,male,15117430.0
+6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0,0.0,20120202,shockley joe t jr,119271012000004,EVP & CFO,male,15117430.0
+,,760498,bancfirst corp /ok/,0,1,0,0,20120203,robinson harvey,152015012000002,President & Regional Executive,male,15117430.0
+6400.0,5165.14,760498,bancfirst corp /ok/,1,1,0,0.0,20120206,shockley joe t jr,119271012000005,EVP & CFO,male,15117430.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20120227,mcmillan marion,136809412000001,Regional Executive,female,15117430.0
+6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0,0.0,20120314,shockley joe t jr,119271012000006,EVP & CFO,male,15117430.0
+6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0,0.0,20120321,shockley joe t jr,119271012000007,EVP & CFO,male,15117430.0
+0.0,14190.127,760498,bancfirst corp /ok/,0,1,0,0,20120321,starks ken,136810512000001,Regional Executive,male,15117430.0
+877.0,58801.896,760498,bancfirst corp /ok/,1,1,0,0.0,20120327,rainbolt h e,118885512000002,Chairman and Director,male,15117430.0
+1000.0,11683.964,760498,bancfirst corp /ok/,1,1,0,0.0,20120418,brand dennis l,118777812000001,EVP,male,15145280.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20120418,mcmillan marion,136809412000002,Regional Executive,female,15145280.0
+577.0,58801.896,760498,bancfirst corp /ok/,1,1,0,0.0,20120516,rainbolt h e,118885512000003,Chairman,male,15159153.0
+6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0,0.0,20120702,shockley joe t jr,119271012000009,EVP & CFO,male,15153991.0
+6400.0,5405.385,760498,bancfirst corp /ok/,1,1,0,0.0,20120705,shockley joe t jr,119271012000010,EVP & CFO,male,15153991.0
+0.0,17510.891,760498,bancfirst corp /ok/,0,1,0,0.0,20120720,petersen dale e,118885312000001,EVP,male,15153991.0
+374.0,58801.896,760498,bancfirst corp /ok/,1,1,0,0.0,20120801,rainbolt h e,118885512000004,Chairman,male,15161446.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20120820,mcmillan marion,136809412000003,Regional Executive,female,15161446.0
+600.0,3662.571,760498,bancfirst corp /ok/,1,1,0,0.0,20120827,daniel jim,118906412000001,Vice Chairman,male,15161446.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20120830,mcmillan marion,136809412000004,Regional Exec,female,15161446.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20120906,mcmillan marion,136809412000005,Regional Executive,female,15161446.0
+0.0,14190.127,760498,bancfirst corp /ok/,0,1,0,0,20120927,starks ken,136810512000002,Regional Executive,male,15161446.0
+0.0,14190.127,760498,bancfirst corp /ok/,0,1,0,0,20121019,starks ken,136810512000003,Regional Executive,male,15200468.0
+11114.0,33527.885,760498,bancfirst corp /ok/,0,1,0,0.0,20121019,james karen,118907212000001,EVP & Regional Executive,female,15200468.0
+170059.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20121108,mccalmont j ralph,118883912000001,,male,15224808.0
+170059.0,,760498,bancfirst corp /ok/,1,0,0,0.0,20121210,mccalmont j ralph,118883912000002,,male,15224808.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20121210,mcmillan marion,136809412000006,Regional Executive,female,15224808.0
+3000.0,11683.964,760498,bancfirst corp /ok/,1,1,0,0.0,20121227,brand dennis l,118777812000002,EVP,male,15224808.0
+0.0,2878.642,760498,bancfirst corp /ok/,0,1,0,0,20130213,mcmillan marion,136809413000001,Regional Executive,female,15242308.0
+0.0,2878642.0,760498,bancfirst corp /ok/,0,1,0,0,20130225,mcmillan marion,136809413000002,Regional Executive,female,15242308.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130312,mcmillan marion,136809413000003,Regional Executive,female,15242308.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130318,mcmillan marion,136809413000004,Regional Executive,female,15242308.0
+13000.0,12005.178,760498,bancfirst corp /ok/,1,1,0,0.0,20130415,brand dennis l,118777813000001,EVP,male,15228277.0
+,,760498,bancfirst corp /ok/,0,1,0,0.0,20130423,foraker randy,118906613000001,EVP,male,15228277.0
+6400.0,5280.28,760498,bancfirst corp /ok/,0,1,0,0.0,20130510,cardwell wayne e,118777913000001,Regional Executive,male,15230364.0
+1171.0,57920.831,760498,bancfirst corp /ok/,1,1,0,0.0,20130510,rainbolt h e,118885513000001,Chairman,male,15230364.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130517,mcmillan marion,136809413000005,Regional Executive,female,15230364.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130520,mcmillan marion,136809413000006,Regional Executive,female,15230364.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130522,mcmillan marion,136809413000007,Regional Executive,female,15230364.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130529,mcmillan marion,136809413000008,Regional Executive,female,15230364.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130531,mcmillan marion,136809413000009,Regional Executive,female,15230364.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130605,mcmillan marion,136809413000010,Regional Executive,female,15230364.0
+13000.0,12005.178,760498,bancfirst corp /ok/,1,1,0,0.0,20130620,brand dennis l,118777813000002,EVP,male,15230364.0
+0.0,,760498,bancfirst corp /ok/,1,0,0,0,20130627,ross cynthia s.,151494813000001,,female,15230364.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20130701,lopez dave r,131660113000003,,male,15255864.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20130701,samis michael s.,157845613000002,,male,15255864.0
+0.0,3047.657,760498,bancfirst corp /ok/,0,1,0,0,20130705,mcmillan marion,136809413000011,Regional Executive,female,15255864.0
+0.0,2880.988,760498,bancfirst corp /ok/,0,1,0,0,20130821,harlow david r,132238513000001,Regional Executive,male,15286809.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20130830,shirley natalie,158356613000002,,female,15286809.0
+668.0,57920.831,760498,bancfirst corp /ok/,1,1,0,0.0,20130830,rainbolt h e,118885513000002,Chairman,male,15286809.0
+5736000.0,,760498,bancfirst corp /ok/,0,0,1.0,0.0,20131202,rainbolt david e,104287313000001,,male,15303372.0
+565.0,57920.831,760498,bancfirst corp /ok/,1,1,0,0.0,20131216,rainbolt h e,118885513000003,Chairman,male,15303372.0
+2500.0,4569.304,760498,bancfirst corp /ok/,0,1,0,0.0,20131217,schmidt darryl,118460013000001,EVP,male,15303372.0
+0.0,,760498,bancfirst corp /ok/,0,1,0,0,20140306,mcmillan marion,136809414000001,Regional Executive,female,15333622.0
+14500.0,2124.393,760498,bancfirst corp /ok/,1,1,0,0.0,20140326,brand dennis l,118777814000001,EVP,male,15333622.0
+0.0,3254.307,760498,bancfirst corp /ok/,0,1,0,0,20140327,mcmillan marion,136809414000002,Regional Executive,female,15333622.0
+0.0,3254.307,760498,bancfirst corp /ok/,0,1,0,0,20140424,mcmillan marion,136809414000003,Regional Executive,female,15363728.0
+1165.0,57174.789,760498,bancfirst corp /ok/,1,1,0,0.0,20140521,rainbolt h e,118885514000001,Chairman,male,15371478.0
+0.0,,760498,bancfirst corp /ok/,1,1,0,0.0,20140523,johstone william o,118907314000001,Vice Chairman,male,15371478.0
+0.0,3254.307,760498,bancfirst corp /ok/,0,0,0,1,20140722,mcmillan marion,136809414000004,,female,15398603.0
+0.0,973.949,760498,bancfirst corp /ok/,0,1,0,0,20140801,westman david,138449314000001,EVP Chief Technology Officer,male,15423103.0
+2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0,1,20140801,schmidt darryl,138449314000002,,male,15423103.0
+2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0,1.0,20140808,schmidt darryl,118460014000001,,male,15423103.0
+2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0,1.0,20140820,schmidt darryl,118460014000003,,male,15423103.0
+0.0,3254.307,760498,bancfirst corp /ok/,0,0,0,1,20140825,mcmillan marion,136809414000005,,female,15423103.0
+2500.0,4762.99,760498,bancfirst corp /ok/,0,0,0,1.0,20140829,schmidt darryl,118460014000004,,male,15423103.0
+6100.0,8400.0,760498,bancfirst corp /ok/,0,0,0,1.0,20140903,cardwell wayne e,118777914000001,,male,15423103.0
+10650.0,6366.672,760498,bancfirst corp /ok/,0,0,0,1,20140904,seat david,126669314000001,,male,15423103.0
+0.0,973.949,760498,bancfirst corp /ok/,0,1,0,0,20141029,westman david,138449314000003,EVP Chief Technology Officer,male,15449546.0
+2000.0,2661.39,760498,bancfirst corp /ok/,1,1,0,0.0,20141114,johstone william o,118907314000003,Vice Chairman,male,15486546.0
+12743.0,35100.591,760498,bancfirst corp /ok/,0,0,0,1.0,20141118,james karen,118907214000001,,female,15486546.0
+,,760498,bancfirst corp /ok/,1,0,0,0,20141231,wedel gregory,162393314000002,,male,15504513.0
+34800.0,,760498,bancfirst corp /ok/,1,0,0,0,20150422,williams g rainey jr,127131215000006,,male,15512545.0
+31800.0,,760498,bancfirst corp /ok/,1,0,0,0,20150427,williams g rainey jr,127131215000007,,male,15512545.0
+13250.0,,760498,bancfirst corp /ok/,0,0,0,1,20150514,seat david,126669315000001,,male,15531748.0
+459.0,56002.238,760498,bancfirst corp /ok/,1,1,0,0.0,20150522,rainbolt h e,118885515000001,Chairman,male,15531748.0
+0.0,3405.879,760498,bancfirst corp /ok/,0,0,0,1,20150612,mcmillan marion,136809415000001,,female,15531748.0
+0.0,,760498,bancfirst corp /ok/,1,0,0,0,20150612,halverstadt donald b,126310015000001,,male,15531748.0
+,,760498,bancfirst corp /ok/,0,1,0,0,20150622,lawrence kevin,163867315000005,Chief Financial Officer,male,15531748.0
+340000.0,12.713,760498,bancfirst corp /ok/,1,0,0,0.0,20150721,crawford william h,118906315000001,,male,15562298.0
+2500.0,,760498,bancfirst corp /ok/,0,1,0,0.0,20150730,schmidt darryl,118460015000001,Executive Vice President,male,15562298.0
+2500.0,4926.853999999999,760498,bancfirst corp /ok/,0,0,0,1,20150804,schmidt darryl,118460015000002,,male,15580827.0
+2500.0,4926.853999999999,760498,bancfirst corp /ok/,0,0,0,1.0,20150804,schmidt darryl,118460015000002,,male,15580827.0
+2500.0,2500.0,760498,bancfirst corp /ok/,0,0,0,1.0,20150819,schmidt darryl,118460015000003,,male,15580827.0
+0.0,,760498,bancfirst corp /ok/,0,1,0,0,20150819,westman david,138449315000001,EVP Chief Technology Officer,male,15580827.0
+0.0,,760498,bancfirst corp /ok/,0,1,0,0,20150819,westman david,138449315000001,EVP Chief Technology Officer,male,15580827.0
+2500.0,2500.0,760498,bancfirst corp /ok/,0,0,0,1,20150819,schmidt darryl,118460015000003,,male,15580827.0
+100.0,1500.0,760498,bancfirst corp /ok/,1,0,0,0,20150908,wallace mike,141934815000001,,male,15580827.0
+100.0,1500.0,760498,bancfirst corp /ok/,1,0,0,0,20150908,wallace mike,141934815000001,,male,15580827.0
+600.0,1100.0,760498,bancfirst corp /ok/,1,0,0,0,20151026,wallace mike,141934815000002,,male,15591530.0
+0.0,15613.608,760498,bancfirst corp /ok/,0,0,0,1,20151106,starks ken,136810515000001,,male,15597280.0
+2865.817,,760498,bancfirst corp /ok/,0,1,0,1,20151109,weast jennifer c,164121415000003,Senior Vice President,female,15597280.0
+45991.0,92928.0,760498,bancfirst corp /ok/,1,0,0,0,20151119,mccasland thomas howard iii,131952015000001,,male,15597280.0
+11000.0,,760498,bancfirst corp /ok/,1,0,0,0,20160105,norick ronald j,118885016000001,,male,31194892.0
+2000.0,2325.545,760498,bancfirst corp /ok/,1,1,0,0,20160121,brand dennis l,118777816000001,EVP and CEO,male,31194892.0
+0.0,3498.774,760498,bancfirst corp /ok/,0,0,0,1,20160218,mcmillan marion,136809416000003,,female,15532079.0
+0.0,3498.774,760498,bancfirst corp /ok/,0,0,0,1,20160222,mcmillan marion,136809416000004,,female,15532079.0
+0.0,3498.774,760498,bancfirst corp /ok/,0,0,0,1,20160224,mcmillan marion,136809416000005,,female,15532079.0
+1053.0,56249.142,760498,bancfirst corp /ok/,1,1,0,0,20160405,rainbolt h e,118885516000002,Chairman,male,15527804.0
+0.0,1196.228,760498,bancfirst corp /ok/,0,1,0,0,20160406,westman david,138449316000002,EVP Chief Technology Officer,male,15527804.0
+160059.0,,760498,bancfirst corp /ok/,true,false,false,false,20160503,mccalmont j ralph,159396816000697,Director,male,15546253.0
+2500.0,5203.83,760498,bancfirst corp /ok/,false,true,false,false,20160602,schmidt darryl,159396816000830,Executive Vice President,male,15546253.0
+2500.0,5203.83,760498,bancfirst corp /ok/,false,true,false,false,20160726,schmidt darryl,159396816000947,Executive Vice President,male,15560271.0
+15118.0,36785.6,760498,bancfirst corp /ok/,false,true,false,false,20160726,james karen,159396816000949,Executive Vice President and,female,15560271.0
+0.0,15996.24,760498,bancfirst corp /ok/,false,true,false,false,20160726,starks ken,159396816000948,Regional Executive,male,15560271.0
+0.0,2972.41,760498,bancfirst corp /ok/,false,true,false,false,20160802,weast jennifer c,159396816000961,Controller,female,15583833.0
+250.0,6413.77,760498,bancfirst corp /ok/,false,true,false,false,20160805,copeland scott,159396816000970,Executive Vice President,male,15583833.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20160808,brand dennis l,159396816000972,Executive Vice President and,male,15583833.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20160810,brand dennis l,159396816000973,Executive Vice President and,male,15583833.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20160811,brand dennis l,159396816000975,Executive Vice President and,male,15583833.0
+18426.0,3821.14,760498,bancfirst corp /ok/,true,true,false,false,20160812,greer k gordan,159396816000976,BancFirst Corp. Director,male,15583833.0
+2500.0,5203.83,760498,bancfirst corp /ok/,false,true,false,false,20160815,schmidt darryl,159396816000978,Executive Vice President,male,15583833.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20160815,brand dennis l,159396816000977,Executive Vice President and,male,15583833.0
+0.0,3559.45,760498,bancfirst corp /ok/,false,true,false,false,20160822,harlow david r,159396816000983,Regional Executive,male,15583833.0
+0.0,3559.45,760498,bancfirst corp /ok/,false,true,false,false,20160823,harlow david r,159396816000986,Regional Executive,male,15583833.0
+0.0,3559.45,760498,bancfirst corp /ok/,false,true,false,false,20160824,harlow david r,159396816000987,Regional Executive,male,15583833.0
+0.0,3559.45,760498,bancfirst corp /ok/,false,true,false,false,20160825,harlow david r,159396816000994,Regional Executive,male,15583833.0
+12582.0,19885.02,760498,bancfirst corp /ok/,false,true,false,false,20160914,neville robert m,159396816001052,Executive Vice President,male,15583833.0
+17332.0,19885.02,760498,bancfirst corp /ok/,false,true,false,false,20160914,neville robert m,159396816001053,Executive Vice President,male,15583833.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20161025,brand dennis l,159396816001149,Executive Vice President and,male,15695083.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20161027,brand dennis l,159396816001155,Executive Vice President and,male,15695083.0
+0.0,1342.12,760498,bancfirst corp /ok/,false,true,false,false,20161101,westman david,159396816001156,"EVP, Chief Technology Officer",male,15708383.0
+13250.0,6898.03,760498,bancfirst corp /ok/,false,true,false,false,20161108,seat david,159396816001182,Regional Executive,male,15708383.0
+2500.0,5203.83,760498,bancfirst corp /ok/,false,true,false,false,20161108,schmidt darryl,159396816001183,Executive Vice President,male,15708383.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20161108,brand dennis l,159396816001184,Executive Vice President and,male,15708383.0
+14500.0,4452.32,760498,bancfirst corp /ok/,true,true,false,false,20161109,brand dennis l,159396816001186,Executive Vice President and,male,15708383.0
+13250.0,6898.03,760498,bancfirst corp /ok/,false,true,false,false,20161109,seat david,159396816001188,Regional Executive,male,15708383.0
+2500.0,5203.83,760498,bancfirst corp /ok/,false,true,false,false,20161110,schmidt darryl,159396816001189,Executive Vice President,male,15708383.0
+335000.0,,760498,bancfirst corp /ok/,true,false,false,false,20161110,crawford william h,159396816001191,Director,male,15708383.0
+0.0,481.33,760498,bancfirst corp /ok/,false,true,false,false,20161115,anderson john,159396816001207,Regional Executive,male,15708383.0
+0.0,1342.12,760498,bancfirst corp /ok/,false,true,false,false,20161115,westman david,159396816001199,"EVP, Chief Technology Officer",male,15708383.0
+250.0,6413.77,760498,bancfirst corp /ok/,false,true,false,false,20161117,copeland scott,159396816001213,Executive Vice President,male,15708383.0
+0.0,,760498,bancfirst corp /ok/,true,true,false,false,20161122,brand dennis l,159396816001239,Executive Vice President and,male,15708383.0
+7500.0,5203.83,760498,bancfirst corp /ok/,false,true,false,false,20161129,schmidt darryl,159396816001242,Executive Vice President,male,15708383.0
+10000.0,2452.32,760498,bancfirst corp /ok/,true,true,false,false,20161201,brand dennis l,159396816001245,Executive Vice President and,male,15708383.0
+0.0,,760498,bancfirst corp /ok/,false,true,false,false,20161206,copeland scott,159396816001279,Executive Vice President,male,15708383.0
+5000.0,2452.32,760498,bancfirst corp /ok/,true,true,false,false,20161206,brand dennis l,159396816001278,Executive Vice President and,male,15708383.0
+330000.0,980.0,760498,bancfirst corp /ok/,true,false,false,false,20161208,crawford william h,159396816001289,Director,male,15708383.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20161208,samis michael s.,159396816001288,Director,male,15708383.0
+782.0,18462.35,760498,bancfirst corp /ok/,false,true,false,false,20161209,hannah d jay,159396816001296,Executive Vice President,male,15708383.0
+0.0,3089.72,760498,bancfirst corp /ok/,false,true,false,false,20161213,robinson harvey,159396816001310,President,male,15708383.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20161215,samis michael s.,159396816001325,Director,male,15708383.0
+7618.0,37285.0,760498,bancfirst corp /ok/,false,true,false,false,20170120,james karen,159396817000106,Executive Vice President and,female,31621870.0
+0.0,841.0,760498,bancfirst corp /ok/,false,true,false,false,20170120,fleming paul d,159396817000107,Executive Vice President,male,31621870.0
+20000.0,,760498,bancfirst corp /ok/,true,true,false,false,20170123,rainbolt h e,159396817000141,Chairman and Director,male,31621870.0
+5000.0,2480.0,760498,bancfirst corp /ok/,true,true,false,false,20170123,brand dennis l,159396817000133,Executive Vice President and,male,31621870.0
+7500.0,5273.0,760498,bancfirst corp /ok/,false,true,false,false,20170124,schmidt darryl,159396817000142,Executive Vice President,male,31621870.0
+5000.0,2480.0,760498,bancfirst corp /ok/,true,true,false,false,20170124,brand dennis l,159396817000143,Executive Vice President and,male,31621870.0
+7500.0,5273.0,760498,bancfirst corp /ok/,false,true,false,false,20170125,schmidt darryl,159396817000145,Executive Vice President,male,31621870.0
+5000.0,2480.0,760498,bancfirst corp /ok/,true,true,false,false,20170126,brand dennis l,159396817000159,Executive Vice President and,male,31621870.0
+0.0,11000.0,760498,bancfirst corp /ok/,true,false,false,false,20170130,norick ronald j,159396817000165,Director,male,31621870.0
+2600.0,16892.0,760498,bancfirst corp /ok/,false,true,false,false,20170202,neville robert m,159396817000183,Executive Vice President,male,15862644.0
+0.0,16253.0,760498,bancfirst corp /ok/,false,true,false,false,20170213,starks ken,159396817000264,Regional Executive,male,15862644.0
+3870.0,5134.0,760498,bancfirst corp /ok/,true,true,false,false,20170215,johstone william o,159396817000297,Vice Chairman and Director,male,15862644.0
+0.0,2480.0,760498,bancfirst corp /ok/,true,true,false,false,20170223,brand dennis l,159396817000349,Executive Vice President and,male,15862644.0
+16332.0,19492.0,760498,bancfirst corp /ok/,false,true,false,false,20170425,neville robert m,159396817000625,Executive Vice President,male,15891276.0
+0.0,3152.0,760498,bancfirst corp /ok/,false,true,false,false,20170425,robinson harvey,159396817000622,President,male,15891276.0
+453.0,20000.0,760498,bancfirst corp /ok/,true,true,false,false,20170524,rainbolt h e,159396817000719,Chairman and Director,male,15906276.0
+0.0,10784.0,760498,bancfirst corp /ok/,false,true,false,false,20170801,schmidt darryl,159396817000946,Executive Vice President,male,15916719.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20170811,lopez dave r,159396817000981,Director,male,15916719.0
+0.0,660000.0,760498,bancfirst corp /ok/,true,false,false,false,20170815,crawford william h,159396817000987,Director,male,15916719.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20170815,lopez dave r,159396817000988,Director,male,15916719.0
+,,760498,bancfirst corp /ok/,true,false,false,false,20170825,smith robin noel,159396817001020,Director,male,15916719.0
+,,760498,bancfirst corp /ok/,true,false,false,false,20170825,ford joseph,159396817001021,Director,male,15916719.0
+0.0,10784.0,760498,bancfirst corp /ok/,false,true,false,false,20171023,schmidt darryl,159396817001148,Executive Vice President,male,31863063.0
+0.0,10784.0,760498,bancfirst corp /ok/,false,true,false,false,20171127,schmidt darryl,159396817001272,Executive Vice President,male,31870063.0
+0.0,10784.0,760498,bancfirst corp /ok/,false,true,false,false,20171127,schmidt darryl,159396817001273,Executive Vice President,male,31870063.0
+606.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20171211,rainbolt h e,159396817001339,Chairman Emeritus and Director,male,31870063.0
+162006.0,100568.0,760498,bancfirst corp /ok/,true,false,false,false,20180110,mccasland thomas howard iii,159396818000136,Director,male,31894563.0
+0.0,10784.0,760498,bancfirst corp /ok/,false,true,false,false,20180124,schmidt darryl,159396818000198,Executive Vice President,male,31894563.0
+0.0,3434.0,760498,bancfirst corp /ok/,false,true,false,false,20180131,foster kelly,159396818000247,Senior Vice President,female,32632716.0
+160986.0,100568.0,760498,bancfirst corp /ok/,true,false,false,false,20180223,mccasland thomas howard iii,159396818000384,Director,male,32632716.0
+,392904.0,760498,bancfirst corp /ok/,true,false,false,false,20180227,martin william scott,159396818000423,Director,male,32632716.0
+0.0,14355.0,760498,bancfirst corp /ok/,false,true,false,false,20180307,seat david,159396818000509,Regional Executive,male,32632716.0
+0.0,,760498,bancfirst corp /ok/,0,1,0,0,20180313,lawrence kevin,163867318000001,Executive Vice President,male,32632716.0
+40000.0,10805.0,760498,bancfirst corp /ok/,false,true,false,false,20180326,schmidt darryl,159396818000624,Executive Vice President,male,32632716.0
+,6203.0,760498,bancfirst corp /ok/,false,true,false,false,20180411,weast jennifer c,159396818000668,Controller,female,32707166.0
+0.0,640.0,760498,bancfirst corp /ok/,false,true,false,false,20180423,lawrence kevin,159396818000684,Executive Vice President,male,32707166.0
+0.0,1209.0,760498,bancfirst corp /ok/,false,true,false,false,20180515,anderson john,159396818000762,Regional Executive,male,32713215.0
+0.0,33170.0,760498,bancfirst corp /ok/,false,true,false,false,20180606,starks ken,159396818000858,Regional Executive,male,32713215.0
+7500.0,14384.0,760498,bancfirst corp /ok/,false,true,false,false,20180626,seat david,159396818000955,Regional Executive,male,32713215.0
+0.0,640.0,760498,bancfirst corp /ok/,false,true,false,false,20180723,lawrence kevin,159396818001062,Executive Vice President,male,32731215.0
+0.0,8495.0,760498,bancfirst corp /ok/,false,true,false,false,20180727,gish mark,159396818001065,Regional Executive,male,32731215.0
+1006.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20180727,rainbolt h e,159396818001066,Chairman Emeritus and Director,male,32731215.0
+,,760498,bancfirst corp /ok/,true,false,false,false,20180827,lance bill g jr,159396818001138,Director,male,32737715.0
+0.0,640.0,760498,bancfirst corp /ok/,false,true,false,false,20180905,lawrence kevin,159396818001146,Executive Vice President,male,32737715.0
+7500.0,14384.0,760498,bancfirst corp /ok/,false,true,false,false,20180905,seat david,159396818001148,Regional Executive,male,32737715.0
+7500.0,14384.0,760498,bancfirst corp /ok/,false,true,false,false,20180910,seat david,159396818001194,Regional Executive,male,32737715.0
+7500.0,14384.0,760498,bancfirst corp /ok/,false,true,false,false,20180914,seat david,159396818001207,Regional Executive,male,32737715.0
+24000.0,,760498,bancfirst corp /ok/,true,false,false,false,20190604,norick ronald j,159396819001269,Director,male,32626588.0
+26000.0,,760498,bancfirst corp /ok/,true,false,false,false,20190819,norick ronald j,159396819001747,Director,male,32642018.0
+11000.0,11154.0,760498,bancfirst corp /ok/,false,true,false,false,20190910,schmidt darryl,159396819001872,Executive Vice President,male,32642018.0
+7500.0,14777.0,760498,bancfirst corp /ok/,false,true,false,false,20191021,seat david,159396819002000,Regional Executive,male,32644018.0
+7500.0,14777.0,760498,bancfirst corp /ok/,false,true,false,false,20191022,seat david,159396819002008,Regional Executive,male,32644018.0
+35000.0,11154.0,760498,bancfirst corp /ok/,false,true,false,false,20191022,schmidt darryl,159396819002007,Executive Vice President,male,32644018.0
+0.0,1472.0,760498,bancfirst corp /ok/,false,true,false,false,20191029,anderson john,159396819002036,Regional Executive,male,32644018.0
+0.0,8824.0,760498,bancfirst corp /ok/,false,true,false,false,20191101,gish mark,159396819002051,Regional Executive,male,32666268.0
+0.0,3672.0,760498,bancfirst corp /ok/,false,true,false,false,20191107,foster kelly,159396819002080,Senior Vice President,female,32666268.0
+,,760498,bancfirst corp /ok/,false,true,false,false,20191205,smith harry maxson,159396819002286,President,male,32666268.0
+,,760498,bancfirst corp /ok/,true,true,false,false,20191205,goyne joe,159396819002285,Director,male,32666268.0
+0.0,7932.0,760498,bancfirst corp /ok/,false,true,false,false,20191209,harlow david r,159396819002301,Regional Executive,male,32666268.0
+74380.0,185574.0,760498,bancfirst corp /ok/,true,false,false,false,20191231,mccasland thomas howard iii,159396819002372,Director,male,32694268.0
+0.0,,760498,bancfirst corp /ok/,false,false,true,false,20200102,r banking ltd ptnrshp,159396820000013,,male,32694268.0
+5357500.0,76134.0,760498,bancfirst corp /ok/,true,true,true,false,20200103,rainbolt david e,159396820000053,President and CEO and Director,male,32694268.0
+1870.0,7113.0,760498,bancfirst corp /ok/,true,true,false,false,20200122,johnstone william o,159396820000168,Vice Chairman and Director,male,32694268.0
+7500.0,15085.0,760498,bancfirst corp /ok/,false,true,false,false,20200212,seat david,159396820000420,Regional Executive,male,32695575.0
+31164.0,40511.0,760498,bancfirst corp /ok/,false,true,false,false,20200224,neville robert m,159396820000488,Executive Vice President,male,32695575.0
+1500.0,,760498,bancfirst corp /ok/,true,true,false,false,20200227,goyne joe,159396820000525,Director,male,32695575.0
+14000.0,5523.0,760498,bancfirst corp /ok/,true,true,false,false,20200228,brand dennis l,159396820000528,Executive Vice President and,male,32695575.0
+,8178.0,760498,bancfirst corp /ok/,false,true,false,false,20200302,harlow david r,159396820000560,Regional Executive,male,32695575.0
+1106.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20200302,rainbolt h e,159396820000559,Chairman Emeritus and Director,male,32695575.0
+,11378.0,760498,bancfirst corp /ok/,true,true,false,false,20200302,schmidt darryl,159396820000561,Executive Vice President,male,32695575.0
+2100.0,,760498,bancfirst corp /ok/,true,true,false,false,20200306,goyne joe,159396820000674,Director,male,32695575.0
+2600.0,,760498,bancfirst corp /ok/,true,true,false,false,20200310,goyne joe,159396820000705,Director,male,32695575.0
+18000.0,5523.0,760498,bancfirst corp /ok/,true,true,false,false,20200310,brand dennis l,159396820000706,Executive Vice President and,male,32695575.0
+1000.0,34541.0,760498,bancfirst corp /ok/,false,true,false,false,20200311,starks ken,159396820000721,Regional Executive,male,32695575.0
+450.0,14136.0,760498,bancfirst corp /ok/,false,true,false,false,20200312,copeland scott,159396820000749,Executive Vice President,male,32695575.0
+25000.0,5523.0,760498,bancfirst corp /ok/,true,true,false,false,20200312,brand dennis l,159396820000750,Executive Vice President and,male,32695575.0
+5000.0,8983.0,760498,bancfirst corp /ok/,true,true,false,false,20200313,johnstone william o,159396820000755,Vice Chairman and Director,male,32695575.0
+64600.0,,760498,bancfirst corp /ok/,true,false,false,false,20200313,williams g rainey jr,159396820000758,Director,male,32695575.0
+36000.0,,760498,bancfirst corp /ok/,true,false,false,false,20200313,norick ronald j,159396820000759,Director,male,32695575.0
+7000.0,8178.0,760498,bancfirst corp /ok/,true,true,false,false,20200313,harlow david r,159396820000760,Cheif Executive Officer,male,32695575.0
+7000.0,8983.0,760498,bancfirst corp /ok/,true,true,false,false,20200316,johnstone william o,159396820000778,Vice Chairman and Director,male,32695575.0
+3000.0,,760498,bancfirst corp /ok/,true,false,false,false,20200316,samis michael s.,159396820000779,Director,male,32695575.0
+600.0,,760498,bancfirst corp /ok/,false,true,false,false,20200317,brace mark,159396820000806,Regional Executive,male,32695575.0
+2000.0,,760498,bancfirst corp /ok/,true,false,false,false,20200317,wedel gregory,159396820000808,BancFirst Corp. Director,male,32695575.0
+74380.0,185574.0,760498,bancfirst corp /ok/,true,false,false,false,20200317,mccasland thomas howard iii,159396820000810,Director,male,32695575.0
+240.0,15614.0,760498,bancfirst corp /ok/,false,true,false,false,20200317,foraker randy,159396820000817,Executive Vice President,male,32695575.0
+470.0,15614.0,760498,bancfirst corp /ok/,false,true,false,false,20200318,foraker randy,159396820000829,Executive Vice President,male,32695575.0
+3500.0,,760498,bancfirst corp /ok/,true,true,false,false,20200318,goyne joe,159396820000833,Director,male,32695575.0
+26000.0,5570.0,760498,bancfirst corp /ok/,true,true,false,false,20200514,brand dennis l,159396820001164,Executive Vice President and,male,32646691.0
+4000.0,,760498,bancfirst corp /ok/,true,true,false,false,20200914,goyne joe,159396820001864,Director,male,32662691.0
+13216.0,,760498,bancfirst corp /ok/,false,true,false,false,20201117,neville robert m,159396820002205,Executive Vice President,male,32682269.0
+0.0,,760498,bancfirst corp /ok/,false,true,false,false,20201204,lawrence kevin,159396820002320,Executive Vice President,male,32682269.0
+7000.0,8426.0,760498,bancfirst corp /ok/,true,true,false,false,20201218,harlow david r,159396820002383,Cheif Executive Officer,male,32682269.0
+775.0,446.0,760498,bancfirst corp /ok/,false,true,false,false,20201218,brace mark,159396820002384,Regional Executive,male,32682269.0
+0.0,3979.0,760498,bancfirst corp /ok/,false,true,false,false,20210127,foster kelly,159396821000205,Senior Vice President,female,32719852.0
+4600.0,,760498,bancfirst corp /ok/,true,true,false,false,20210129,goyne joe,159396821000253,Director,male,32719852.0
+2000.0,3400.0,760498,bancfirst corp /ok/,true,false,false,false,20210204,wallace mike,159396821000346,Director,male,32746513.0
+0.0,3979.0,760498,bancfirst corp /ok/,false,true,false,false,20210210,foster kelly,159396821000400,Senior Vice President,female,32746513.0
+5338796.0,,760498,bancfirst corp /ok/,false,false,true,false,20210223,main street banking partners lp,159396821000571,,male,32746513.0
+5338796.0,,760498,bancfirst corp /ok/,false,false,true,false,20210223,bf bank partners lp,159396821000570,,male,32746513.0
+5338796.0,79852.0,760498,bancfirst corp /ok/,true,true,true,false,20210223,rainbolt david e,159396821000572,President and CEO and Director,male,32746513.0
+5317035.0,,760498,bancfirst corp /ok/,false,false,true,false,20210224,bf bank partners lp,159396821000590,,male,32746513.0
+5317035.0,79852.0,760498,bancfirst corp /ok/,true,true,true,false,20210224,rainbolt david e,159396821000588,President and CEO and Director,male,32746513.0
+5317035.0,,760498,bancfirst corp /ok/,false,false,true,false,20210224,main street banking partners lp,159396821000589,,male,32746513.0
+5280989.0,,760498,bancfirst corp /ok/,false,false,true,false,20210225,bf bank partners lp,159396821000606,,male,32746513.0
+5280989.0,,760498,bancfirst corp /ok/,false,false,true,false,20210225,main street banking partners lp,159396821000608,,male,32746513.0
+5280989.0,79852.0,760498,bancfirst corp /ok/,true,true,true,false,20210225,rainbolt david e,159396821000607,President and CEO and Director,male,32746513.0
+5271709.0,,760498,bancfirst corp /ok/,false,false,true,false,20210226,bf bank partners lp,159396821000645,,male,32746513.0
+5271709.0,79852.0,760498,bancfirst corp /ok/,true,true,true,false,20210226,rainbolt david e,159396821000647,President and CEO and Director,male,32746513.0
+5271709.0,,760498,bancfirst corp /ok/,false,false,true,false,20210226,main street banking partners lp,159396821000646,,male,32746513.0
+5250000.0,,760498,bancfirst corp /ok/,false,false,true,false,20210301,bf bank partners lp,159396821000693,,male,32746513.0
+5250000.0,,760498,bancfirst corp /ok/,false,false,true,false,20210301,main street banking partners lp,159396821000692,,male,32746513.0
+0.0,1279.0,760498,bancfirst corp /ok/,false,true,false,false,20210301,lawrence kevin,159396821000688,Executive Vice President,male,32746513.0
+5250000.0,79852.0,760498,bancfirst corp /ok/,true,true,true,false,20210301,rainbolt david e,159396821000694,President and CEO and Director,male,32746513.0
+5266996.0,,760498,bancfirst corp /ok/,false,false,true,false,20210301,bf bank partners lp,159396821000686,,male,32746513.0
+5266996.0,,760498,bancfirst corp /ok/,false,false,true,false,20210301,main street banking partners lp,159396821000687,,male,32746513.0
+5266996.0,79852.0,760498,bancfirst corp /ok/,true,true,true,false,20210301,rainbolt david e,159396821000685,President and CEO and Director,male,32746513.0
+382904.0,,760498,bancfirst corp /ok/,true,false,false,false,20210303,martin william scott,159396821000755,Director,male,32746513.0
+372904.0,,760498,bancfirst corp /ok/,true,false,false,false,20210303,martin william scott,159396821000756,Director,male,32746513.0
+0.0,5452.0,760498,bancfirst corp /ok/,false,true,false,false,20210303,slay john k jr,159396821000766,Regional Executive,male,32746513.0
+0.0,1916.0,760498,bancfirst corp /ok/,false,true,false,false,20210305,anderson john,159396821000820,Regional Executive,male,32746513.0
+0.0,372904.0,760498,bancfirst corp /ok/,true,false,false,false,20210309,martin william scott,159396821000859,Director,male,32746513.0
+10236.0,77409.0,760498,bancfirst corp /ok/,false,true,false,false,20210309,james karen,159396821000860,Executive Vice President and,female,32746513.0
+1000.0,35540.0,760498,bancfirst corp /ok/,false,true,false,false,20210311,starks ken,159396821000887,Regional Executive,male,32746513.0
+0.0,5452.0,760498,bancfirst corp /ok/,false,true,false,false,20210312,slay john k jr,159396821000903,Regional Executive,male,32746513.0
+21000.0,5811.0,760498,bancfirst corp /ok/,true,true,false,false,20210322,brand dennis l,159396821000985,Executive Vice President and,male,32746513.0
+367904.0,,760498,bancfirst corp /ok/,true,false,false,false,20210421,martin william scott,159396821001143,Director,male,32771013.0
+362904.0,,760498,bancfirst corp /ok/,true,false,false,false,20210422,martin william scott,159396821001156,Director,male,32771013.0
+357904.0,,760498,bancfirst corp /ok/,true,false,false,false,20210423,martin william scott,159396821001159,Director,male,32771013.0
+355404.0,,760498,bancfirst corp /ok/,true,false,false,false,20210427,martin william scott,159396821001166,Director,male,32771013.0
+352904.0,,760498,bancfirst corp /ok/,true,false,false,false,20210429,martin william scott,159396821001184,Director,male,32771013.0
+5214527.0,,760498,bancfirst corp /ok/,false,false,true,false,20210513,main street banking partners lp,159396821001320,,male,32775013.0
+5214527.0,,760498,bancfirst corp /ok/,false,false,true,false,20210513,bf bank partners lp,159396821001318,,male,32775013.0
+5214527.0,80171.0,760498,bancfirst corp /ok/,true,true,true,false,20210513,rainbolt david e,159396821001319,President and CEO and Director,male,32775013.0
+5199527.0,,760498,bancfirst corp /ok/,false,false,true,false,20210517,main street banking partners lp,159396821001327,,male,32775013.0
+5199527.0,,760498,bancfirst corp /ok/,false,false,true,false,20210517,bf bank partners lp,159396821001328,,male,32775013.0
+5199527.0,80171.0,760498,bancfirst corp /ok/,true,true,true,false,20210517,rainbolt david e,159396821001329,President and CEO and Director,male,32775013.0
+5194427.0,,760498,bancfirst corp /ok/,false,false,true,false,20210517,main street banking partners lp,159396821001335,,male,32775013.0
+5194427.0,,760498,bancfirst corp /ok/,false,false,true,false,20210517,bf bank partners lp,159396821001336,,male,32775013.0
+5194427.0,80171.0,760498,bancfirst corp /ok/,true,true,true,false,20210517,rainbolt david e,159396821001337,President and CEO and Director,male,32775013.0
+334404.0,,760498,bancfirst corp /ok/,true,false,false,false,20210517,martin william scott,159396821001338,Director,male,32775013.0
+5189427.0,80171.0,760498,bancfirst corp /ok/,true,true,true,false,20210518,rainbolt david e,159396821001344,President and CEO and Director,male,32775013.0
+5189427.0,,760498,bancfirst corp /ok/,false,false,true,false,20210518,main street banking partners lp,159396821001345,,male,32775013.0
+5189427.0,,760498,bancfirst corp /ok/,false,false,true,false,20210518,bf bank partners lp,159396821001346,,male,32775013.0
+1206.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20210524,rainbolt h e,159396821001424,Chairman Emeritus and Director,male,32775013.0
+,,760498,bancfirst corp /ok/,true,false,false,false,20210712,jones mautra staley,159396821001829,Director,male,32784513.0
+,413.0,760498,bancfirst corp /ok/,false,true,false,false,20210719,zimmerman patrick e,159396821001849,Regional Executive,male,32784513.0
+,370.0,760498,bancfirst corp /ok/,false,true,false,false,20210719,wanzer dara,159396821001850,Executive Vice President,female,32784513.0
+,5771.0,760498,bancfirst corp /ok/,false,true,false,false,20210719,diehl greg,159396821001848,Senior Vice President,male,32784513.0
+,4189.0,760498,bancfirst corp /ok/,false,true,false,false,20210719,foster kelly,159396821001851,Senior Vice President,female,32784513.0
+1000.0,7887.0,760498,bancfirst corp /ok/,false,true,false,false,20210720,pierson brian wade,159396821001860,Senior Vice President,male,32784513.0
+50.0,7887.0,760498,bancfirst corp /ok/,false,true,false,false,20210723,pierson brian wade,159396821001870,Senior Vice President,male,32784513.0
+52072.0,,760498,bancfirst corp /ok/,true,false,false,false,20210823,craig c l jr,159396821002001,Director,male,32784513.0
+30000.0,5909.0,760498,bancfirst corp /ok/,true,true,false,false,20210914,brand dennis l,159396821002118,Executive Vice President and,male,32784513.0
+40700.0,11918.0,760498,bancfirst corp /ok/,true,true,false,false,20211222,schmidt darryl,159396821002568,Executive Vice President,male,32572217.0
+42414.0,11918.0,760498,bancfirst corp /ok/,true,true,false,false,20211223,schmidt darryl,159396821002570,Executive Vice President,male,32572217.0
+8000.0,3400.0,760498,bancfirst corp /ok/,true,false,false,false,20220124,wallace mike,159396822000275,Director,male,32603118.0
+0.0,334404.0,760498,bancfirst corp /ok/,true,false,false,false,20220222,martin william scott,159396822000518,Director,male,32630638.0
+12000.0,1445.0,760498,bancfirst corp /ok/,false,true,false,false,20220228,lawrence kevin,159396822000573,Executive Vice President,male,32630638.0
+5046489.0,,760498,bancfirst corp /ok/,false,false,true,false,20220512,bf bank partners lp,159396822000957,,male,32731685.0
+5046489.0,88516.0,760498,bancfirst corp /ok/,true,true,true,false,20220512,rainbolt david e,159396822000956,President and CEO and Director,male,32731685.0
+5136927.0,,760498,bancfirst corp /ok/,false,false,true,false,20220512,bf bank partners lp,159396822000954,,male,32731685.0
+5136927.0,,760498,bancfirst corp /ok/,false,false,true,false,20220512,main street banking partners lp,159396822000953,,male,32731685.0
+5046487.0,,760498,bancfirst corp /ok/,false,false,true,false,20220512,main street banking partners lp,159396822000955,,male,32731685.0
+70504.0,18012.0,760498,bancfirst corp /ok/,true,true,true,false,20220512,rainbolt david e,159396822000952,President and CEO and Director,male,32731685.0
+5000000.0,,760498,bancfirst corp /ok/,false,false,true,false,20220517,main street banking partners lp,159396822000962,,male,32731685.0
+5000000.0,,760498,bancfirst corp /ok/,false,false,true,false,20220517,bf bank partners lp,159396822000963,,male,32731685.0
+5000000.0,88516.0,760498,bancfirst corp /ok/,true,true,true,false,20220517,rainbolt david e,159396822000964,President and CEO and Director,male,32731685.0
+0.0,15081.0,760498,bancfirst corp /ok/,false,true,false,false,20220602,copeland scott,159396822001057,Executive Vice President,male,32731685.0
+10000.0,1445.0,760498,bancfirst corp /ok/,false,true,false,false,20220607,lawrence kevin,159396822001083,Executive Vice President,male,32731685.0
+7150.0,5000.0,760498,bancfirst corp /ok/,true,true,false,false,20220614,schmidt darryl,159396822001129,Executive Vice President,male,32731685.0
+15170.0,,760498,bancfirst corp /ok/,false,true,false,false,20220621,copeland scott,159396822001176,Executive Vice President,male,32731685.0
+606.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20220715,rainbolt h e,159396822001246,Chairman Emeritus and Director,male,32781198.0
+2700.0,85916.0,760498,bancfirst corp /ok/,true,true,true,false,20220715,rainbolt david e,159396822001247,President and CEO and Director,male,32781198.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20220729,roberson robin noel,159396822001270,Director,male,32781198.0
+34388.0,88616.0,760498,bancfirst corp /ok/,true,true,true,false,20220801,rainbolt david e,159396822001272,Executive &amp; Director,male,32787596.0
+25000.0,88616.0,760498,bancfirst corp /ok/,true,true,true,false,20220803,rainbolt david e,159396822001288,Executive &amp; Director,male,32787596.0
+50572.0,,760498,bancfirst corp /ok/,true,false,false,false,20220804,craig c l jr,159396822001301,Director,male,32787596.0
+506.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20220808,rainbolt h e,159396822001311,Chairman Emeritus and Director,male,32787596.0
+2700.0,86016.0,760498,bancfirst corp /ok/,true,true,true,false,20220808,rainbolt david e,159396822001312,Executive &amp; Director,male,32787596.0
+47872.0,,760498,bancfirst corp /ok/,true,false,false,false,20220808,craig c l jr,159396822001308,Director,male,32787596.0
+43072.0,,760498,bancfirst corp /ok/,true,false,false,false,20220808,craig c l jr,159396822001310,Director,male,32787596.0
+42072.0,,760498,bancfirst corp /ok/,true,false,false,false,20220809,craig c l jr,159396822001316,Director,male,32787596.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20220817,ford joseph,159396822001344,Director,male,32787596.0
+36940.0,185574.0,760498,bancfirst corp /ok/,true,false,false,false,20220901,mccasland thomas howard iii,159396822001396,Director,male,32787596.0
+106.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20220906,rainbolt h e,159396822001408,Chairman Emeritus and Director,male,32787596.0
+48194.081,12150.0,760498,bancfirst corp /ok/,true,true,false,false,20221018,schmidt darryl,159396822001526,Executive Vice President,male,32856387.0
+8027.0,8870.0,760498,bancfirst corp /ok/,true,true,false,false,20221128,johnstone william o,159396822001642,Vice Chairman and Director,male,32870566.0
+2912.0,85904.0,760498,bancfirst corp /ok/,true,true,true,false,20221212,rainbolt david e,159396822001712,Executive &amp; Director,male,32870566.0
+6.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20221212,rainbolt h e,159396822001711,Chairman Emeritus and Director,male,32870566.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20221212,lopez dave r,159396822001710,Director,male,32870566.0
+333404.0,,760498,bancfirst corp /ok/,true,false,false,false,20230111,martin william scott,159396823000110,Director,male,32875560.0
+48029.0,12315.0,760498,bancfirst corp /ok/,true,true,false,false,20230123,schmidt darryl,159396823000184,Executive Vice President,male,32875560.0
+32000.0,6129.0,760498,bancfirst corp /ok/,true,true,false,false,20230124,brand dennis l,159396823000194,Executive Vice President and,male,32875560.0
+51188.0,,760498,bancfirst corp /ok/,true,false,false,false,20230124,craig c l jr,159396823000195,Director,male,32875560.0
+10000.0,1590.0,760498,bancfirst corp /ok/,false,true,false,false,20230228,lawrence kevin,159396823000372,Executive Vice President,male,32891024.0
+308.0,,760498,bancfirst corp /ok/,true,true,false,false,20230410,goyne joe,159396823000598,Director,male,32899493.0
+71393.0,18312.0,760498,bancfirst corp /ok/,true,true,true,false,20230410,rainbolt david e,159396823000597,Executive &amp; Director,male,32899493.0
+7393.0,5000.0,760498,bancfirst corp /ok/,true,true,false,false,20230410,schmidt darryl,159396823000596,Executive Vice President,male,32899493.0
+6184.0,,760498,bancfirst corp /ok/,true,true,false,false,20230410,brand dennis l,159396823000594,Executive Vice President and,male,32899493.0
+15501.0,,760498,bancfirst corp /ok/,false,true,false,false,20230410,copeland scott,159396823000595,Executive Vice President,male,32899493.0
+25013.0,26498.0,760498,bancfirst corp /ok/,false,true,false,false,20230410,ferguson roy c,159396823000592,Executive,male,32899493.0
+1644.0,,760498,bancfirst corp /ok/,false,true,false,false,20230410,lawrence kevin,159396823000590,Executive Vice President,male,32899493.0
+9287.0,,760498,bancfirst corp /ok/,true,true,false,false,20230410,harlow david r,159396823000589,Cheif Executive Officer,male,32899493.0
+41971.0,,760498,bancfirst corp /ok/,false,true,false,false,20230410,hannah dennis jay,159396823000588,Executive Vice President,male,32899493.0
+530.0,,760498,bancfirst corp /ok/,false,true,false,false,20230410,wanzer dara,159396823000587,Executive Vice President,female,32899493.0
+17033.0,470.0,760498,bancfirst corp /ok/,false,true,false,false,20230410,foraker randy,159396823000593,Executive Vice President,male,32899493.0
+4509.0,,760498,bancfirst corp /ok/,false,true,false,false,20230410,foster kelly,159396823000591,Senior Vice President,female,32899493.0
+37000.0,6184.0,760498,bancfirst corp /ok/,true,true,false,false,20230426,brand dennis l,159396823000639,Executive Vice President and,male,32899493.0
+706.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20230426,rainbolt h e,159396823000640,Chairman Emeritus and Director,male,32899493.0
+5027.0,7393.0,760498,bancfirst corp /ok/,true,true,false,false,20230426,schmidt darryl,159396823000641,Executive Vice President,male,32899493.0
+20000.0,,760498,bancfirst corp /ok/,true,false,false,false,20230428,keating frank a,159396823000689,BancFirst Corp. Director,male,32899898.0
+4000.0,,760498,bancfirst corp /ok/,true,false,false,false,20230504,wedel gregory,159396823000743,BancFirst Corp. Director,male,32899898.0
+5600.0,308.0,760498,bancfirst corp /ok/,true,true,false,false,20230509,goyne joe,159396823000772,Director,male,32899898.0
+606.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20230510,rainbolt h e,159396823000777,Chairman Emeritus and Director,male,32899898.0
+506.0,40000.0,760498,bancfirst corp /ok/,true,false,false,false,20230522,rainbolt h e,159396823000857,Chairman Emeritus and Director,male,32899898.0
+,,760498,bancfirst corp /ok/,false,false,false,true,20230612,keating frank a,159396823000987,,male,32899898.0
+306.0,40000.0,760498,bancfirst corp /ok/,false,false,false,true,20230612,rainbolt h e,159396823000986,,male,32899898.0
+0.0,,760498,bancfirst corp /ok/,true,false,false,false,20230613,roberson robin noel,159396823000988,Director,male,32899898.0
+2800.0,87005.0,760498,bancfirst corp /ok/,true,true,true,false,20230710,rainbolt david e,159396823001116,Executive &amp; Director,male,32939256.0
+5047.0,7393.0,760498,bancfirst corp /ok/,true,true,false,false,20230724,schmidt darryl,159396823001134,Executive Vice President,male,32939256.0
+2800.0,87105.0,760498,bancfirst corp /ok/,true,true,true,false,20230810,rainbolt david e,159396823001154,Executive &amp; Director,male,32941756.0
+5074.0,7393.0,760498,bancfirst corp /ok/,true,true,,,20231023,schmidt darryl,159396823001372,Executive Vice President,male,32921393.0
+0.0,89905.0,760498,bancfirst corp /ok/,true,true,true,,20231102,rainbolt david e,159396823001392,Executive & Director,male,32921393.0
+285.0,,760498,bancfirst corp /ok/,true,,,,20231122,jones mautra staley,159396823001455,Director,male,32921393.0
+10000.0,1644.0,760498,bancfirst corp /ok/,,true,,,20231206,lawrence kevin,159396823001486,Executive Vice President,male,32921393.0
+48482.08,12467.0,760498,bancfirst corp /ok/,true,true,,,20231212,schmidt darryl,159396823001499,Executive Vice President,male,32921393.0
+331904.0,,760498,bancfirst corp /ok/,true,,,,20231218,martin william scott,159396823001512,Director,male,32921393.0
+5098.0,7590.0,760498,bancfirst corp /ok/,true,true,,,20240122,schmidt darryl,159396824000110,Executive Vice President,male,32933018.0
+19714.0,9787.0,760498,bancfirst corp /ok/,,true,,,20240220,hannah dennis jay,159396824000304,Executive Vice President,male,32936410.0
+10000.0,1761.0,760498,bancfirst corp /ok/,,true,,,20240223,lawrence kevin,159396824000356,Executive Vice President,male,32936410.0
+10000.0,1761.0,760498,bancfirst corp /ok/,,true,,,20240227,lawrence kevin,159396824000368,Executive Vice President,male,32936410.0
+10000.0,1761.0,760498,bancfirst corp /ok/,,true,,,20240229,lawrence kevin,159396824000371,Executive Vice President,male,32936410.0
+0.0,,760498,bancfirst corp /ok/,true,,,,20240304,lopez dave r,159396824000411,Director,male,32936410.0
+18714.0,9787.0,760498,bancfirst corp /ok/,,true,,,20240307,hannah dennis jay,159396824000451,Executive Vice President,male,32936410.0
+9547.0,,760498,bancfirst corp /ok/,true,true,,,20240329,harlow david r,159396824000515,Cheif Executive Officer,male,32936410.0
+9830.0,,760498,bancfirst corp /ok/,,true,,,20240329,hannah dennis jay,159396824000514,Executive Vice President,male,32936410.0
+435.0,,760498,bancfirst corp /ok/,true,true,,,20240329,goyne joe,159396824000513,Director,male,32936410.0
+4676.0,,760498,bancfirst corp /ok/,,true,,,20240329,foster kelly,159396824000512,Senior Vice President,female,32936410.0
+7632.0,5098.0,760498,bancfirst corp /ok/,true,true,,,20240329,schmidt darryl,159396824000518,Executive Vice President,male,32936410.0
+25432.0,26498.0,760498,bancfirst corp /ok/,,true,,,20240329,ferguson roy c,159396824000510,Executive,male,32936410.0
+15824.0,,760498,bancfirst corp /ok/,,true,,,20240329,copeland scott,159396824000509,Executive Vice President,male,32936410.0
+6333.0,,760498,bancfirst corp /ok/,,true,,,20240329,brand dennis l,159396824000508,Executive Vice President,male,32936410.0
+1792.0,,760498,bancfirst corp /ok/,,true,,,20240329,lawrence kevin,159396824000516,Executive Vice President,male,32936410.0
+17380.0,470.0,760498,bancfirst corp /ok/,,true,,,20240329,foraker randy,159396824000511,Executive Vice President,male,32936410.0
+623.0,,760498,bancfirst corp /ok/,,true,,,20240329,wanzer dara,159396824000519,Executive Vice President,female,32936410.0
+72264.0,10000.0,760498,bancfirst corp /ok/,true,true,true,,20240329,rainbolt david e,159396824000517,Executive & Director,male,32936410.0
+5122.0,7632.0,760498,bancfirst corp /ok/,true,true,,,20240422,schmidt darryl,159396824000593,Executive Vice President,male,32966678.0
+10000.0,1792.0,760498,bancfirst corp /ok/,,true,,,20240422,lawrence kevin,159396824000594,Executive Vice President,male,32966678.0
+18414.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240424,hannah dennis jay,159396824000615,Executive Vice President,male,32966678.0
+10000.0,1792.0,760498,bancfirst corp /ok/,,true,,,20240425,lawrence kevin,159396824000617,Executive Vice President,male,32966678.0
+13290.0,,760498,bancfirst corp /ok/,,true,,,20240425,copeland scott,159396824000616,Executive Vice President,male,32966678.0
+16414.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240501,hannah dennis jay,159396824000655,Executive Vice President,male,32991040.0
+10000.0,1792.0,760498,bancfirst corp /ok/,,true,,,20240501,lawrence kevin,159396824000654,Executive Vice President,male,32991040.0
+10000.0,1792.0,760498,bancfirst corp /ok/,,true,,,20240502,lawrence kevin,159396824000658,Executive Vice President,male,32991040.0
+16210.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240503,hannah dennis jay,159396824000682,Executive Vice President,male,32991040.0
+10714.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240507,hannah dennis jay,159396824000687,Executive Vice President,male,32991040.0
+,,760498,bancfirst corp /ok/,,true,,true,20240515,andrus hannah,159396824000704,Executive Vice President,female,32991040.0
+7714.0,,760498,bancfirst corp /ok/,,true,,,20240719,hannah dennis jay,159396824000998,Executive Vice President,male,33022124.0
+4714.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240722,hannah dennis jay,159396824001002,Executive Vice President,male,33022124.0
+6714.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240722,hannah dennis jay,159396824001001,Executive Vice President,male,33022124.0
+5143.0,7632.0,760498,bancfirst corp /ok/,true,true,,,20240723,schmidt darryl,159396824001003,Executive Vice President,male,33022124.0
+2214.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240723,hannah dennis jay,159396824001004,Executive Vice President,male,33022124.0
+1214.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240724,hannah dennis jay,159396824001005,Executive Vice President,male,33022124.0
+326904.0,,760498,bancfirst corp /ok/,true,,,,20240724,martin william scott,159396824001006,Director,male,33022124.0
+311904.0,,760498,bancfirst corp /ok/,true,,,,20240725,martin william scott,159396824001007,Director,male,33022124.0
+714.0,9830.0,760498,bancfirst corp /ok/,,true,,,20240725,hannah dennis jay,159396824001008,Executive Vice President,male,33022124.0
+230000.0,,760498,bancfirst corp /ok/,true,true,true,,20240815,rainbolt david e,159396824001060,Executive & Director,male,33022124.0
+4310000.0,,760498,bancfirst corp /ok/,,,true,,20240815,bf bank partners lp,159396824001059,,male,33022124.0
+0.0,,760498,bancfirst corp /ok/,true,,,,20240819,lopez dave r,159396824001072,Director,male,33022124.0
+0.0,17850.0,760498,bancfirst corp /ok/,,true,,,20240828,foraker randy,159396824001099,Executive Vice President,male,33022124.0
+0.0,17850.0,760498,bancfirst corp /ok/,,true,,,20240829,foraker randy,159396824001100,Executive Vice President,male,33022124.0
+,,760498,bancfirst corp /ok/,true,,,,20240830,ingram kimberly kay,159396824001103,,female,33022124.0
+4981623.5,,760498,bancfirst corp /ok/,,,true,,20240830,main street banking partners lp,159396824001104,,male,33022124.0
+4981623.5,,760498,bancfirst corp /ok/,true,,true,,20240830,rainbolt leslie jeannine,159396824001105,,female,33022124.0
+223874.5,82264.0,760498,bancfirst corp /ok/,true,true,true,,20240830,rainbolt david e,159396824001106,Executive & Director,male,33022124.0
+4980209.5,,760498,bancfirst corp /ok/,,,true,,20240903,main street banking partners lp,159396824001112,,male,33022124.0
+4980209.5,,760498,bancfirst corp /ok/,true,,true,,20240903,rainbolt leslie jeannine,159396824001113,,female,33022124.0
+223403.5,82264.0,760498,bancfirst corp /ok/,true,true,true,,20240903,rainbolt david e,159396824001114,Executive & Director,male,33022124.0
+4958095.0,,760498,bancfirst corp /ok/,,,true,,20240909,main street banking partners lp,159396824001165,,male,33022124.0
+4958095.0,,760498,bancfirst corp /ok/,true,,true,,20240909,rainbolt leslie jeannine,159396824001166,,female,33022124.0
+216032.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20240909,rainbolt david e,159396824001164,Executive & Director,male,33022124.0
+4956464.0,,760498,bancfirst corp /ok/,,,true,,20240910,main street banking partners lp,159396824001176,,male,33022124.0
+4956464.0,,760498,bancfirst corp /ok/,true,,true,,20240910,rainbolt leslie jeannine,159396824001177,,female,33022124.0
+215488.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20240910,rainbolt david e,159396824001178,Executive & Director,male,33022124.0
+4955073.0,,760498,bancfirst corp /ok/,,,true,,20240911,main street banking partners lp,159396824001181,,male,33022124.0
+215024.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20240911,rainbolt david e,159396824001183,Executive & Director,male,33022124.0
+4955073.0,,760498,bancfirst corp /ok/,true,,true,,20240911,rainbolt leslie jeannine,159396824001182,,female,33022124.0
+4944702.0,,760498,bancfirst corp /ok/,true,,true,,20240913,rainbolt leslie jeannine,159396824001201,,female,33022124.0
+211567.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20240913,rainbolt david e,159396824001199,Executive & Director,male,33022124.0
+4944702.0,,760498,bancfirst corp /ok/,,,true,,20240913,main street banking partners lp,159396824001200,,male,33022124.0
+210850.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20241021,rainbolt david e,159396824001273,Executive & Director,male,33122689.0
+4942550.0,,760498,bancfirst corp /ok/,,,true,,20241021,main street banking partners lp,159396824001274,,male,33122689.0
+4942550.0,,760498,bancfirst corp /ok/,true,,true,,20241021,rainbolt leslie jeannine,159396824001275,,female,33122689.0
+4941772.0,,760498,bancfirst corp /ok/,true,,true,,20241022,rainbolt leslie jeannine,159396824001278,,female,33122689.0
+4941772.0,,760498,bancfirst corp /ok/,,,true,,20241022,main street banking partners lp,159396824001279,,male,33122689.0
+210591.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20241022,rainbolt david e,159396824001280,Executive & Director,male,33122689.0
+208724.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20241023,rainbolt david e,159396824001282,Executive & Director,male,33122689.0
+4936171.0,,760498,bancfirst corp /ok/,true,,true,,20241023,rainbolt leslie jeannine,159396824001281,,female,33122689.0
+4936171.0,,760498,bancfirst corp /ok/,,,true,,20241023,main street banking partners lp,159396824001283,,male,33122689.0
+208140.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20241024,rainbolt david e,159396824001299,Executive & Director,male,33122689.0
+4934421.0,,760498,bancfirst corp /ok/,,,true,,20241024,main street banking partners lp,159396824001298,,male,33122689.0
+4934421.0,,760498,bancfirst corp /ok/,true,,true,,20241024,rainbolt leslie jeannine,159396824001297,,female,33122689.0
+4910000.0,,760498,bancfirst corp /ok/,true,,true,,20241029,rainbolt leslie jeannine,159396824001303,,female,33122689.0
+200000.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20241029,rainbolt david e,159396824001304,Executive & Director,male,33122689.0
+4910000.0,,760498,bancfirst corp /ok/,,,true,,20241029,main street banking partners lp,159396824001305,,male,33122689.0
+306904.0,,760498,bancfirst corp /ok/,true,,,,20241030,martin william scott,159396824001319,Director,male,33122689.0
+291904.0,,760498,bancfirst corp /ok/,true,,,,20241106,martin william scott,159396824001337,Director,male,33128923.0
+0.0,,760498,bancfirst corp /ok/,,true,,,20241108,hannah dennis jay,159396824001352,Executive Vice President,male,33128923.0
+281606.0,,760498,bancfirst corp /ok/,true,,,,20241113,martin william scott,159396824001369,Director,male,33128923.0
+274106.0,,760498,bancfirst corp /ok/,true,,,,20241114,martin william scott,159396824001380,Director,male,33128923.0
+249106.0,,760498,bancfirst corp /ok/,true,,,,20241115,martin william scott,159396824001386,Director,male,33128923.0
+4000.0,82264.0,760498,bancfirst corp /ok/,true,true,true,,20241119,rainbolt david e,159396824001397,Executive & Director,male,33128923.0
+224499.0,,760498,bancfirst corp /ok/,true,,,,20241121,martin william scott,159396824001431,Director,male,33128923.0
+33000.0,6333.0,760498,bancfirst corp /ok/,,true,,,20241212,brand dennis l,159396824001471,Executive Vice President,male,33128923.0
+287.0,12775.0,760498,bancfirst corp /ok/,true,true,,,20241218,schmidt darryl,159396824001478,Executive Vice President,male,33128923.0

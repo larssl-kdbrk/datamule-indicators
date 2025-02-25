@@ -1,22 +1,153 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-150112.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20141015,gibson linda t.,114036114038167,EVP/Head Global Distribution,female,
-96787234.0,0.0,1611702,om asset management plc,0,0,1.0,0.0,20141015,om group (uk) ltd,114036114038164,,male,
-3500.0,0.0,1611702,om asset management plc,1,0,0.0,0.0,20141015,ritchie james joseph,114036114038163,,male,
-673074.0,0.0,1611702,om asset management plc,1,1,0.0,0.0,20141015,bain peter l,114036114038159,Chief Executive Officer,male,
-145952.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20141015,belgrad stephen,114036114038146,EVP/CFO,male,
-86689.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20141015,riordan aidan j,114036114038139,EVP/Head of Affiliate Mngmt,male,
-19765.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20141015,hadley christopher,114036114038165,EVP/Chief Talent Officer,male,
-50.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20141021,mahoney daniel k.,110465914072723,CAO/Controller,male,
-94555859.0,0.0,1611702,om asset management plc,0,0,1.0,0.0,20141028,om group (uk) ltd,110465914074366,,male,
-3500.0,0.0,1611702,om asset management plc,1,0,0.0,0.0,20141112,schneider donald j,110465914079674,,male,
-5000.0,0.0,1611702,om asset management plc,1,0,0.0,0.0,20150306,rogers john,110465915017343,,male,120000000.0
-27320.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20150310,hadley christopher,110465915018433,EVP/Chief Talent Officer,male,120000000.0
-5322.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20150310,mahoney daniel k.,110465915018434,CAO/Controller,male,120000000.0
-194588.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20150310,gibson linda t.,110465915018431,EVP/Head of Global Distributn,female,120000000.0
-0.0,0.0,1611702,om asset management plc,1,0,0.0,0.0,20150310,rogers john,110465915018436,,male,120000000.0
-0.0,0.0,1611702,om asset management plc,1,0,0.0,0.0,20150310,ritchie james joseph,110465915018437,,male,120000000.0
-180513.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20150310,belgrad stephen,110465915018430,EVP/CFO,male,120000000.0
-831337.0,0.0,1611702,om asset management plc,1,1,0.0,0.0,20150310,bain peter l,110465915018429,Chief Executive Officer,male,120000000.0
-111808.0,0.0,1611702,om asset management plc,0,1,0.0,0.0,20150310,riordan aidan j,110465915018432,EVP/Head of Affiliate Mngmt,male,120000000.0
-0.0,0.0,1611702,om asset management plc,1,0,0.0,0.0,20150310,legg kyle p,110465915018435,,female,120000000.0
-79260859.0,0.0,1611702,om asset management plc,0,0,1.0,0.0,20150623,om group (uk) ltd,110465915047009,,male,120535695.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20141015,gibson linda t.,114036114038167,EVP/Head Global Distribution,female,
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20141015,riordan aidan j,114036114038139,EVP/Head of Affiliate Mngmt,male,
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20141015,belgrad stephen,114036114038146,EVP/CFO,male,
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20141015,hadley christopher,114036114038165,EVP/Chief Talent Officer,male,
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20141015,ritchie james joseph,114036114038163,,male,
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20141015,om group (uk) ltd,114036114038164,,male,
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20141015,bain peter l,114036114038159,Chief Executive Officer,male,
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20141021,mahoney daniel k.,110465914072723,CAO/Controller,male,
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20141028,om group (uk) ltd,110465914074366,,male,
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20141112,schneider donald j,110465914079674,,male,
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20150306,rogers john,110465915017343,,male,120000000.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20150310,bain peter l,110465915018429,Chief Executive Officer,male,120000000.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20150310,belgrad stephen,110465915018430,EVP/CFO,male,120000000.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20150310,riordan aidan j,110465915018432,EVP/Head of Affiliate Mngmt,male,120000000.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20150310,hadley christopher,110465915018433,EVP/Chief Talent Officer,male,120000000.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20150310,legg kyle p,110465915018435,,female,120000000.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20150310,rogers john,110465915018436,,male,120000000.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20150310,ritchie james joseph,110465915018437,,male,120000000.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20150310,gibson linda t.,110465915018431,EVP/Head of Global Distributn,female,120000000.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20150310,mahoney daniel k.,110465915018434,CAO/Controller,male,120000000.0
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20150623,om group (uk) ltd,110465915047009,,male,120535695.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20151113,legg kyle p,161170215000031,,female,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160212,riordan aidan j,161170216000062,EVP/Head of Affiliate Mngmt,male,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160212,ritchie james joseph,161170216000057,,male,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160212,legg kyle p,161170216000058,,female,120535398.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20160212,bain peter l,161170216000059,Chief Executive Officer,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160212,belgrad stephen,161170216000060,EVP/CFO,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160212,mahoney daniel k.,161170216000061,CAO/Controller,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160212,gibson linda t.,161170216000056,EVP/Head of Global Distributin,female,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160212,rogers john,161170216000063,,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160212,hadley christopher,161170216000055,EVP/ Chief Talent Officer,male,120535398.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20160308,bain peter l,161170216000085,Chief Executive Officer,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160308,mahoney daniel k.,161170216000086,CAO/Controller,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160308,belgrad stephen,161170216000087,EVP/CFO,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160308,riordan aidan j,161170216000088,EVP/Head of Affiliate Mngmt,male,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160308,ritchie james joseph,161170216000095,,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160308,gibson linda t.,161170216000089,EVP/Head of Global Distributin,female,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160308,rogers john,161170216000093,,male,120535398.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160308,hadley christopher,161170216000084,EVP/ Chief Talent Officer,male,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160308,legg kyle p,161170216000094,,female,120535398.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160311,ritchie james joseph,161170216000105,,male,121079505.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160311,rogers john,161170216000106,,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160311,hadley christopher,161170216000113,EVP/ Chief Talent Officer,male,121079505.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160311,legg kyle p,161170216000112,,female,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160311,riordan aidan j,161170216000111,EVP/Head of Affiliate Mngmt,male,121079505.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20160311,bain peter l,161170216000110,Chief Executive Officer,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160311,mahoney daniel k.,161170216000109,CAO/Controller,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160311,belgrad stephen,161170216000108,EVP/CFO,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160311,gibson linda t.,161170216000107,EVP/Head of Global Distributin,female,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160413,belgrad stephen,161170216000138,EVP/CFO,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160413,hadley christopher,161170216000137,EVP/ Chief Talent Officer,male,121079505.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20160413,bain peter l,161170216000136,Chief Executive Officer,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160413,gibson linda t.,161170216000135,EVP/Head of Global Distributin,female,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160413,riordan aidan j,161170216000134,EVP/Head of Affiliate Mngmt,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160418,belgrad stephen,161170216000147,EVP/CFO,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160418,hadley christopher,161170216000144,EVP/ Chief Talent Officer,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160418,riordan aidan j,161170216000146,EVP/Head of Affiliate Mngmt,male,121079505.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20160418,bain peter l,161170216000148,Chief Executive Officer,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160418,gibson linda t.,161170216000145,EVP/Head of Global Distributin,female,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160420,riordan aidan j,161170216000154,EVP/Head of Affiliate Mngmt,male,121079505.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20160420,bain peter l,161170216000155,Chief Executive Officer,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160420,gibson linda t.,161170216000158,EVP/Head of Global Distributin,female,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160420,hadley christopher,161170216000157,EVP/ Chief Talent Officer,male,121079505.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20160420,belgrad stephen,161170216000156,EVP/CFO,male,121079505.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20160621,chersi robert j,161170216000176,,male,121079505.0
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20161219,om group (uk) ltd,161170216000251,,male,120157765.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20161228,bain peter l,161170216000253,Chief Executive Officer,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170208,hadley christopher,161170217000005,EVP/ Chief Talent Officer,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170214,ritchie james joseph,161170217000009,,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170214,legg kyle p,161170217000008,,female,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170214,rogers john,161170217000007,,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170214,chersi robert j,161170217000006,,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170215,rogers john,161170217000011,,male,120157765.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20170215,bain peter l,161170217000018,Chief Executive Officer,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170215,legg kyle p,161170217000010,,female,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170215,ritchie james joseph,161170217000012,,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170215,chersi robert j,161170217000013,,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170215,gibson linda t.,161170217000014,EVP/Head of Global Distributin,female,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170215,riordan aidan j,161170217000015,EVP/Head of Affiliate Mngmt,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170215,mahoney daniel k.,161170217000016,CAO/Controller,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170215,hadley christopher,161170217000019,EVP/ Chief Talent Officer,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170215,belgrad stephen,161170217000017,EVP/CFO,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170308,belgrad stephen,161170217000032,EVP/CFO,male,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170308,legg kyle p,161170217000024,,female,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170308,ritchie james joseph,161170217000026,,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170308,mahoney daniel k.,161170217000027,CAO/Controller,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170308,riordan aidan j,161170217000028,EVP/Head of Affiliate Mngmt,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170308,hadley christopher,161170217000029,EVP/ Chief Talent Officer,male,120157765.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20170308,bain peter l,161170217000030,Chief Executive Officer,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170308,gibson linda t.,161170217000031,EVP/Head of Global Distributin,female,120157765.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170308,rogers john,161170217000025,,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170412,belgrad stephen,161170217000043,EVP/CFO,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170412,gibson linda t.,161170217000042,EVP/Head of Global Distributin,female,120157765.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20170412,bain peter l,161170217000044,Chief Executive Officer,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170412,riordan aidan j,161170217000045,EVP/Head of Affiliate Mngmt,male,120157765.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20170412,hadley christopher,161170217000046,EVP/ Chief Talent Officer,male,120157765.0
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20170516,om group (uk) ltd,161170217000068,,male,114720358.0
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20170523,om group (uk) ltd,161170217000074,,male,114720358.0
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20170621,om group (uk) ltd,161170217000077,,male,114720358.0
+,,1611702,om asset management plc,0.0,0.0,0.0,1.0,20170807,bain peter l,161170217000083,,male,109720358.0
+,,1611702,om asset management plc,0.0,0.0,0.0,1.0,20170809,bain peter l,161170217000085,,male,109720358.0
+,,1611702,om asset management plc,0.0,0.0,0.0,1.0,20170814,bain peter l,161170217000092,,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20170817,chersi robert j,161170217000093,,male,109720358.0
+,,1611702,om asset management plc,0.0,0.0,1.0,0.0,20171114,om group (uk) ltd,161170217000111,,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20171121,mahoney daniel k.,161170217000116,CAO/Controller,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20171204,gibson linda t.,161170217000120,EVP/Head of Global Distributin,female,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20171215,ritchie james joseph,161170217000121,,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180118,legg kyle p,161170218000002,,female,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180118,rogers john,161170218000001,,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180118,chersi robert j,161170218000003,,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180118,ritchie james joseph,161170218000004,,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180213,mahoney daniel k.,161170218000010,CAO/Controller,male,109720358.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20180213,belgrad stephen,161170218000011,EVP/CFO,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180213,riordan aidan j,161170218000012,EVP/Head of Affiliate Mngmt,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180213,hadley christopher,161170218000013,EVP/ Chief Talent Officer,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180216,legg kyle p,161170218000016,,female,109720358.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20180216,belgrad stephen,161170218000020,EVP/CFO,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180216,chersi robert j,161170218000019,,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180216,hadley christopher,161170218000014,EVP/ Chief Talent Officer,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180216,ritchie james joseph,161170218000015,,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180216,riordan aidan j,161170218000018,EVP/Head of Affiliate Mngmt,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180216,mahoney daniel k.,161170218000017,CAO/Controller,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180308,riordan aidan j,161170218000032,EVP/Head of Affiliate Mngmt,male,109720358.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20180308,belgrad stephen,161170218000033,EVP/CFO,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180308,hadley christopher,161170218000034,EVP/ Chief Talent Officer,male,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180308,gibson linda t.,161170218000035,EVP/Head of Global Distributin,female,109720358.0
+,,1611702,om asset management plc,0.0,1.0,0.0,0.0,20180308,mahoney daniel k.,161170218000029,CAO/Controller,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180308,legg kyle p,161170218000030,,female,109720358.0
+,,1611702,om asset management plc,1.0,1.0,0.0,0.0,20180308,ritchie james joseph,161170218000031,Interim CEO,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180316,ritchie james joseph,161170218000039,,male,109720358.0
+,,1611702,om asset management plc,1.0,0.0,0.0,0.0,20180320,ritchie james joseph,161170218000040,,male,109720358.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20180329,hadley christopher,161170218000045,EVP/ Chief Talent Officer,male,109720358.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180521,ritchie james joseph,161170218000059,,male,108863467.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180521,legg kyle p,161170218000058,,female,108863467.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180521,chersi robert j,161170218000057,,male,108863467.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180621,ritchie james joseph,161170218000062,,male,108863467.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180621,trebbi barbara,161170218000061,,female,108863467.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180621,chersi robert j,161170218000060,,male,108863467.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20180808,love reginald,161170218000070,,male,107274747.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20181127,beams maliz e,161170218000090,,male,106337038.0
+,,1611702,brightsphere investment group plc,1.0,1.0,0.0,0.0,20181231,yang guang,161170218000096,President and CEO,male,106337038.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20190123,rana suren,161170219000009,Chief Financial Officer,male,106337038.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20190213,riordan aidan j,161170219000018,EVP/Head of Affiliate Mngmt,male,106337038.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20190213,mahoney daniel k.,161170219000017,Head of Finance/PAO,male,106337038.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20190215,riordan aidan j,161170219000019,EVP/Head of Affiliate Mngmt,male,106337038.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20190220,mahoney daniel k.,161170219000021,Head of Finance/PAO,male,106337038.0
+,,1611702,brightsphere investment group plc,0.0,1.0,0.0,0.0,20190220,riordan aidan j,161170219000020,EVP/Head of Affiliate Mngmt,male,106337038.0
+,,1611702,brightsphere investment group plc,1.0,0.0,1.0,0.0,20190227,paulson john,156761919005499,,male,92023923.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20190624,trebbi barbara,161170219000056,,female,92023923.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20190624,beams maliz e,161170219000055,,male,92023923.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20190624,chersi robert j,161170219000054,,male,92023923.0
+,,1611702,brightsphere investment group plc,1.0,0.0,0.0,0.0,20190624,love reginald,161170219000057,,male,92023923.0

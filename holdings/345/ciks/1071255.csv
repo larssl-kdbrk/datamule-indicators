@@ -1,34 +1,178 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-4051666.0,0.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20100105,berman lyle,120919110000589,Chief Executive Officer,male,
-1667.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20100201,barenbaum larry c,120919110005726,,male,
-4061666.0,0.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20100201,berman lyle,120919110005728,Chief Executive Officer,male,
-107584.0,0.0,1071255,lakes entertainment inc,1,1.0,0.0,0.0,20100201,cope timothy j,120919110005732,President and CFO,male,
-276327.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20100201,goldfarb morris,120919110005734,,male,
-1667.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20100201,moberg ray m,120919110005736,,male,
-10065.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20100201,sell neil i,120919110005738,,male,
-1667.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20100201,white richard,120919110005741,,male,
-3961666.0,745806.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20100211,berman lyle,120919110008665,Chief Executive Officer,male,
-3641666.0,745806.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20100317,berman lyle,120919110017626,Chief Executive Officer,male,
-3091682.0,745806.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20100818,berman lyle,120919110043136,Chief Executive Officer,male,
-0.0,0.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20101018,berman lyle,120919110050634,Chief Executive Officer,male,
-0.0,0.0,1071255,lakes entertainment inc,1,1.0,0.0,0.0,20101018,cope timothy j,120919110050635,President and CFO,male,
-11731.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20110131,sell neil i,120919111005747,,male,26369000.0
-3333.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20110131,white richard,120919111005845,,male,26369000.0
-3333.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20110131,moberg ray m,120919111005750,,male,26369000.0
-3333.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20110131,barenbaum larry c,120919111005721,,male,26369000.0
-117584.0,0.0,1071255,lakes entertainment inc,1,1.0,0.0,0.0,20110131,cope timothy j,120919111005738,President and CFO,male,26369000.0
-3101682.0,745806.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20110131,berman lyle,120919111005733,Chief Executive Officer,male,26369000.0
-3651666.0,745806.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20111104,berman lyle,120919111054448,Chief Executive Officer,male,26369000.0
-5000.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20120131,white richard,120919112006267,,male,26406000.0
-13398.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20120131,sell neil i,120919112006270,,male,26406000.0
-5000.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20120131,moberg ray m,120919112006273,,male,26406000.0
-5000.0,0.0,1071255,lakes entertainment inc,1,0.0,0.0,0.0,20120131,barenbaum larry c,120919112006255,,male,26406000.0
-3661666.0,745806.0,1071255,lakes entertainment inc,1,1.0,1.0,0.0,20120131,berman lyle,120919112006262,Chief Executive Officer,male,26406000.0
-127642.0,0.0,1071255,lakes entertainment inc,1,1.0,0.0,0.0,20120131,cope timothy j,120919112006346,President and CFO,male,26406000.0
-0.0,0.0,1071255,lakes entertainment inc,1,1.0,1.0,,20130214,berman lyle,143774913001600,Chief Executive Officer,male,26441000.0
-0.0,0.0,1071255,lakes entertainment inc,1,,,,20130214,moberg ray m,143774913001598,,male,26441000.0
-0.0,0.0,1071255,lakes entertainment inc,1,1.0,,,20130214,cope timothy j,143774913001601,President and CFO,male,26441000.0
-0.0,0.0,1071255,lakes entertainment inc,1,,,,20130214,sell neil i,143774913001595,,male,26441000.0
-0.0,0.0,1071255,lakes entertainment inc,1,,,,20130214,white richard,143774913001593,,male,26441000.0
-0.0,0.0,1071255,lakes entertainment inc,1,,,,20130214,barenbaum larry c,143774913001597,,male,26441000.0
-7772736.0,0.0,1071255,"golden entertainment, inc.",1,1.0,1.0,,20150804,sartini blake l,143774915014769,"Chairman, President and CEO",male,13391578.0
+,,1071255,lakes entertainment inc,1,1,1,0.0,20100105,berman lyle,120919110000589,Chief Executive Officer,male,
+10065.0,,1071255,lakes entertainment inc,1,0,0,0.0,20100201,sell neil i,120919110005738,,male,
+1667.0,,1071255,lakes entertainment inc,1,0,0,0.0,20100201,barenbaum larry c,120919110005726,,male,
+,,1071255,lakes entertainment inc,1,1,1,0.0,20100201,berman lyle,120919110005728,Chief Executive Officer,male,
+107584.0,,1071255,lakes entertainment inc,1,1,0,0.0,20100201,cope timothy j,120919110005732,President and CFO,male,
+276327.0,,1071255,lakes entertainment inc,1,0,0,0.0,20100201,goldfarb morris,120919110005734,,male,
+1667.0,,1071255,lakes entertainment inc,1,0,0,0.0,20100201,moberg ray m,120919110005736,,male,
+1667.0,,1071255,lakes entertainment inc,1,0,0,0.0,20100201,white richard,120919110005741,,male,
+,,1071255,lakes entertainment inc,1,1,1,0.0,20100211,berman lyle,120919110008665,Chief Executive Officer,male,
+,,1071255,lakes entertainment inc,1,1,1,0.0,20100317,berman lyle,120919110017626,Chief Executive Officer,male,
+,,1071255,lakes entertainment inc,1,1,1,0.0,20100818,berman lyle,120919110043136,Chief Executive Officer,male,
+,,1071255,lakes entertainment inc,1,1,1,0.0,20101018,berman lyle,120919110050634,Chief Executive Officer,male,
+,,1071255,lakes entertainment inc,1,1,0,0.0,20101018,cope timothy j,120919110050635,President and CFO,male,
+3333.0,,1071255,lakes entertainment inc,1,0,0,0.0,20110131,barenbaum larry c,120919111005721,,male,26369000.0
+3101682.0,745806.0,1071255,lakes entertainment inc,1,1,1,0.0,20110131,berman lyle,120919111005733,Chief Executive Officer,male,26369000.0
+117584.0,,1071255,lakes entertainment inc,1,1,0,0.0,20110131,cope timothy j,120919111005738,President and CFO,male,26369000.0
+3333.0,,1071255,lakes entertainment inc,1,0,0,0.0,20110131,moberg ray m,120919111005750,,male,26369000.0
+3333.0,,1071255,lakes entertainment inc,1,0,0,0.0,20110131,white richard,120919111005845,,male,26369000.0
+11731.0,,1071255,lakes entertainment inc,1,0,0,0.0,20110131,sell neil i,120919111005747,,male,26369000.0
+,,1071255,lakes entertainment inc,1,1,1,0.0,20111104,berman lyle,120919111054448,Chief Executive Officer,male,26369000.0
+5000.0,,1071255,lakes entertainment inc,1,0,0,0.0,20120131,barenbaum larry c,120919112006255,,male,26406000.0
+3661666.0,745806.0,1071255,lakes entertainment inc,1,1,1,0.0,20120131,berman lyle,120919112006262,Chief Executive Officer,male,26406000.0
+5000.0,,1071255,lakes entertainment inc,1,0,0,0.0,20120131,white richard,120919112006267,,male,26406000.0
+13398.0,,1071255,lakes entertainment inc,1,0,0,0.0,20120131,sell neil i,120919112006270,,male,26406000.0
+5000.0,,1071255,lakes entertainment inc,1,0,0,0.0,20120131,moberg ray m,120919112006273,,male,26406000.0
+127642.0,,1071255,lakes entertainment inc,1,1,0,0.0,20120131,cope timothy j,120919112006346,President and CFO,male,26406000.0
+,,1071255,lakes entertainment inc,1,1,,,20130214,cope timothy j,143774913001601,President and CFO,male,26441000.0
+,,1071255,lakes entertainment inc,1,,,,20130214,sell neil i,143774913001595,,male,26441000.0
+,,1071255,lakes entertainment inc,1,,,,20130214,barenbaum larry c,143774913001597,,male,26441000.0
+,,1071255,lakes entertainment inc,1,,,,20130214,moberg ray m,143774913001598,,male,26441000.0
+,,1071255,lakes entertainment inc,1,1,1,,20130214,berman lyle,143774913001600,Chief Executive Officer,male,26441000.0
+,,1071255,lakes entertainment inc,1,,,,20130214,white richard,143774913001593,,male,26441000.0
+7772736.0,,1071255,"golden entertainment, inc.",1,1,1,,20150804,sartini blake l,143774915014769,"Chairman, President and CEO",male,13391578.0
+7772736.0,,1071255,"golden entertainment, inc.",1,1,1,,20150804,sartini blake l,143774915014769,"Chairman, President and CEO",male,13391578.0
+,,1071255,"golden entertainment, inc.",1,,,,20160615,sell neil i,143774916033873,,male,22071000.0
+,,1071255,"golden entertainment, inc.",,1,,,20160615,arcana stephen a,143774916033874,"Executive Vice President, COO",male,22071000.0
+,,1071255,"golden entertainment, inc.",1,1,1,,20160615,sartini blake l,143774916033875,"Chairman, President and CEO",male,22071000.0
+,,1071255,"golden entertainment, inc.",1,,,,20160615,wright terrance l,143774916033876,,male,22071000.0
+,,1071255,"golden entertainment, inc.",1,,,,20160615,miodunski robert l,143774916033877,,male,22071000.0
+,,1071255,"golden entertainment, inc.",1,,,,20160615,berman lyle,143774916033878,,male,22071000.0
+,,1071255,"golden entertainment, inc.",1,,,,20160615,cope timothy j,143774916033879,,male,22071000.0
+,,1071255,"golden entertainment, inc.",1,,,,20160615,lipparelli mark a,143774916033880,,male,22071000.0
+,,1071255,"golden entertainment, inc.",,1,,,20160615,flandermeyer matthew w,143774916033872,"Executive Vice President, CFO",male,22071000.0
+1657841.0,368283.0,1071255,"golden entertainment, inc.",1,,,,20160816,berman lyle,143774916037581,,male,22212939.0
+,,1071255,"golden entertainment, inc.",1,1,1,0,20160829,sartini blake l,120919116138948,"Chairman, President and CEO",male,22212939.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20160829,sartini blake l ii,120919116138943,SVP of Distributed Gaming,male,22212939.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20160829,arcana stephen a,120919116138937,EVP and COO,male,22212939.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20161129,protell charles,120919116152336,"Executive VP, CSO and CFO",male,22229646.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20170104,vecchiarelli gary anthony,120919117001001,SVP Finance and Accounting,male,22232000.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20170322,arcana stephen a,120919117022216,EVP and COO,male,22248972.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20170322,higgins sean t,120919117022219,Executive VP and CLO,male,22248972.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20170322,protell charles,120919117022221,"Executive VP, CSO and CFO",male,22248972.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20170322,sartini blake l ii,120919117022224,SVP of Distributed Gaming,male,22248972.0
+,,1071255,"golden entertainment, inc.",1,1,1,0,20170322,sartini blake l,120919117022226,"Chairman, President and CEO",male,22248972.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20170615,cope timothy j,120919117040148,,male,22251000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20170615,lipparelli mark a,120919117040150,,male,22251000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20170615,berman lyle,120919117040145,,male,22251000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20170615,sell neil i,120919117040153,,male,22251000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20170615,wright terrence,120919117040256,,male,22251000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20170615,miodunski robert l,120919117040151,,male,22251000.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20171030,martin edward w. iii,120919117058336,EVP & Chief Administrative Off,male,22325000.0
+111660.0,,1071255,"golden entertainment, inc.",0,1,0,0,20171130,protell charles,120919117063075,"Executive VP, CSO and CFO",male,26371614.0
+892841.0,368283.0,1071255,"golden entertainment, inc.",1,0,0,0,20180125,berman lyle,120919118005389,,male,26413000.0
+18434.0,,1071255,"golden entertainment, inc.",0,1,0,0,20180316,arcana stephen a,120919118020240,EVP and COO,male,27387626.0
+9875.0,,1071255,"golden entertainment, inc.",0,1,0,0,20180316,higgins sean t,120919118020243,Executive VP and CLO,male,27387626.0
+5925.0,,1071255,"golden entertainment, inc.",0,1,0,0,20180316,martin edward w. iii,120919118020247,EVP & Chief Administrative Off,male,27387626.0
+130094.0,,1071255,"golden entertainment, inc.",0,1,0,0,20180316,protell charles,120919118020253,"Executive VP, CSO and CFO",male,27387626.0
+9327.0,750000.0,1071255,"golden entertainment, inc.",0,1,0,0,20180316,sartini blake l ii,120919118020256,SVP of Distributed Gaming,male,27387626.0
+43890.0,6292887.0,1071255,"golden entertainment, inc.",1,1,1,0,20180316,sartini blake l,120919118020258,"Chairman, President and CEO",male,27387626.0
+1536.0,,1071255,"golden entertainment, inc.",0,1,0,0,20180316,vecchiarelli gary anthony,120919118020398,SVP Finance and Accounting,male,27387626.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180525,cope timothy j,120919118033567,,male,27388000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180606,berman lyle,120919118036008,,male,27388000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180606,wright terrence,120919118036013,,male,27388000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180606,miodunski robert l,120919118036015,,male,27388000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180606,cope timothy j,120919118036017,,male,27388000.0
+12151.0,,1071255,"golden entertainment, inc.",1,0,0,0,20180606,sell neil i,120919118036021,,male,27388000.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180606,lipparelli mark a,120919118036010,,male,27388000.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20180831,arcana stephen a,120919118049058,EVP and COO,male,27511996.0
+,,1071255,"golden entertainment, inc.",0,1,0,0,20180831,higgins sean t,120919118049130,Executive VP and CLO,male,27511996.0
+,,1071255,"golden entertainment, inc.",1,0,0,0,20180906,berman lyle,120919118049978,,male,27511996.0
+898293.0,368283.0,1071255,"golden entertainment, inc.",1,0,0,0,20180913,berman lyle,120919118050953,,male,27511996.0
+143434.0,,1071255,"golden entertainment, inc.",0,1,0,0,20181113,protell charles,120919118058382,"Executive VP, CSO and CFO",male,27991425.0
+21934.0,,1071255,"golden entertainment, inc.",0,1,0,0,20181114,arcana stephen a,120919118058565,EVP and COO,male,27991425.0
+12118.0,,1071255,"golden entertainment, inc.",1,0,0,0,20181115,lipparelli mark a,120919118058831,,male,27991425.0
+3736.0,,1071255,"golden entertainment, inc.",0,1,0,0,20181115,haas thomas edwin,120919118058832,SVP of Accounting,male,27991425.0
+4736.0,,1071255,"golden entertainment, inc.",false,true,false,false,20181119,haas thomas edwin,159396818001466,SVP of Accounting,male,27991425.0
+7682.0,,1071255,"golden entertainment, inc.",false,true,false,false,20190318,haas thomas edwin,159396819000793,SVP of Accounting,male,27697615.0
+179127.0,,1071255,"golden entertainment, inc.",false,true,false,false,20190318,protell charles,159396819000788,"Executive VP, CSO and CFO",male,27697615.0
+28901.0,,1071255,"golden entertainment, inc.",false,true,false,false,20190318,higgins sean t,159396819000789,Executive VP and CLO,male,27697615.0
+128793.0,6292887.0,1071255,"golden entertainment, inc.",true,true,true,false,20190318,sartini blake l,159396819000790,"Chairman, President and CEO",male,27697615.0
+54127.0,,1071255,"golden entertainment, inc.",false,true,false,false,20190318,arcana stephen a,159396819000791,EVP and COO,male,27697615.0
+27271.0,750000.0,1071255,"golden entertainment, inc.",false,true,false,false,20190318,sartini blake l ii,159396819000792,SVP of Distributed Gaming,male,27697615.0
+,,1071255,"golden entertainment, inc.",false,true,false,false,20190604,haas thomas edwin,159396819001281,SVP of Accounting,male,27743000.0
+17331.0,,1071255,"golden entertainment, inc.",true,false,false,false,20190607,wright terrence,159396819001352,,male,27743000.0
+,,1071255,"golden entertainment, inc.",true,false,false,false,20190607,lipparelli mark a,159396819001353,,male,27743000.0
+,368283.0,1071255,"golden entertainment, inc.",true,false,false,false,20190607,berman lyle,159396819001354,,male,27743000.0
+17331.0,,1071255,"golden entertainment, inc.",true,false,false,false,20190607,miodunski robert l,159396819001356,,male,27743000.0
+,,1071255,"golden entertainment, inc.",true,false,false,false,20190607,dozier ann d.,159396819001357,,female,27743000.0
+,,1071255,"golden entertainment, inc.",true,false,false,false,20190607,marnell anthony a. iii,159396819001355,,male,27743000.0
+,,1071255,"golden entertainment, inc.",true,false,false,false,20190610,marnell anthony a. iii,159396819001375,,male,27743000.0
+,,1071255,"golden entertainment, inc.",false,true,false,false,20190612,sartini blake l ii,159396819001419,SVP of Distributed Gaming,male,27743000.0
+,,1071255,"golden entertainment, inc.",true,false,false,false,20190613,marnell anthony a. iii,159396819001423,,male,27743000.0
+279127.0,,1071255,"golden entertainment, inc.",false,true,false,false,20190807,protell charles,159396819001707,"EVP, CSO and CFO",male,27802033.0
+38679.0,,1071255,"golden entertainment, inc.",true,false,false,false,20190820,marnell anthony a. iii,159396819001768,,male,27802033.0
+,,1071255,"golden entertainment, inc.",true,false,false,false,20191114,marnell anthony a. iii,159396819002131,,male,27813192.0
+127946.0,,1071255,"golden entertainment, inc.",true,false,false,false,20191115,marnell anthony a. iii,159396819002143,,male,27813192.0
+130369.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200317,arcana stephen a,159396820000809,EVP and COO,male,27914593.0
+304148.0,6172887.0,1071255,"golden entertainment, inc.",true,true,true,false,20200317,sartini blake l,159396820000811,Chairman and CEO,male,27914593.0
+372264.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200317,protell charles,159396820000812,President and CFO,male,27914593.0
+71384.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200317,higgins sean t,159396820000813,EVP of Government Affairs,male,27914593.0
+77381.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200317,sartini blake l ii,159396820000814,SVP of Distributed Gaming,male,27914593.0
+15407.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200317,haas thomas edwin,159396820000815,SVP of Accounting,male,27914593.0
+39831.0,,1071255,"golden entertainment, inc.",true,false,false,false,20200317,miodunski robert l,159396820000816,,male,27914593.0
+20407.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200319,haas thomas edwin,159396820000851,SVP of Accounting,male,27914593.0
+382264.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200319,protell charles,159396820000848,President and CFO,male,27914593.0
+33922.0,,1071255,"golden entertainment, inc.",true,false,false,false,20200605,wright terrence,159396820001404,,male,28051000.0
+40588.0,,1071255,"golden entertainment, inc.",true,false,false,false,20200605,lipparelli mark a,159396820001399,,male,28051000.0
+28470.0,,1071255,"golden entertainment, inc.",true,false,false,false,20200605,dozier ann d.,159396820001400,,female,28051000.0
+903763.0,368283.0,1071255,"golden entertainment, inc.",true,false,false,false,20200605,berman lyle,159396820001401,,male,28051000.0
+144537.0,,1071255,"golden entertainment, inc.",true,false,false,false,20200605,marnell anthony a. iii,159396820001402,,male,28051000.0
+56422.0,,1071255,"golden entertainment, inc.",true,false,false,false,20200605,miodunski robert l,159396820001403,,male,28051000.0
+62384.0,,1071255,"golden entertainment, inc.",false,true,false,false,20200619,higgins sean t,159396820001508,EVP of Government Affairs,male,28051000.0
+1010643.0,211403.0,1071255,"golden entertainment, inc.",1,0,0,0,20201223,berman lyle,107125520000026,,male,28180521.0
+451220.0,,1071255,"golden entertainment, inc.",0,1,0,0,20210312,protell charles,107125521000021,President and CFO,male,28159028.0
+26949.0,,1071255,"golden entertainment, inc.",0,1,0,0,20210312,haas thomas edwin,107125521000019,SVP of Accounting,male,28159028.0
+432770.0,6172887.0,1071255,"golden entertainment, inc.",1,1,1,0,20210312,sartini blake l,107125521000020,Chairman and CEO,male,28159028.0
+107490.0,750000.0,1071255,"golden entertainment, inc.",0,1,0,0,20210312,sartini blake l ii,107125521000022,SVP of Distributed Gaming,male,28159028.0
+190944.0,,1071255,"golden entertainment, inc.",0,1,0,0,20210312,arcana stephen a,107125521000023,EVP and COO,male,28159028.0
+53922.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210324,lipparelli mark a,107125521000026,,male,28159028.0
+810643.0,211403.0,1071255,"golden entertainment, inc.",1,0,0,0,20210326,berman lyle,107125521000028,,male,28159028.0
+68418.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210521,marnell anthony a. iii,107125521000044,,male,28462000.0
+78419.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210528,miodunski robert l,107125521000046,,male,28462000.0
+82893.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210603,miodunski robert l,107125521000064,,male,28462000.0
+148511.0,754024.0,1071255,"golden entertainment, inc.",1,0,0,0,20210603,marnell anthony a. iii,107125521000059,,male,28462000.0
+37896.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210603,wright terrence,107125521000060,,male,28462000.0
+814617.0,211403.0,1071255,"golden entertainment, inc.",1,0,0,0,20210603,berman lyle,107125521000061,,male,28462000.0
+32444.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210603,dozier ann d.,107125521000062,,female,28462000.0
+57896.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210603,lipparelli mark a,107125521000063,,male,28462000.0
+470622.0,,1071255,"golden entertainment, inc.",0,1,0,0,20210806,protell charles,107125521000080,President and CFO,male,28869689.0
+98296.0,250000.0,1071255,"golden entertainment, inc.",0,1,0,0,20210827,sartini blake l ii,107125521000087,SVP of Distributed Gaming,male,28869689.0
+188216.0,,1071255,"golden entertainment, inc.",0,1,0,0,20210827,arcana stephen,107125521000088,EVP and COO,male,28869689.0
+53418.0,,1071255,"golden entertainment, inc.",1,0,0,0,20210827,marnell anthony a. iii,107125521000089,,male,28869689.0
+154844.0,,1071255,"golden entertainment, inc.",0,1,0,0,20220302,arcana stephen,107125522000016,EVP and COO,male,28830000.0
+679981.0,,1071255,"golden entertainment, inc.",0,1,0,0,20220315,protell charles,107125522000025,President and CFO,male,28830000.0
+187690.0,250000.0,1071255,"golden entertainment, inc.",0,1,0,0,20220315,sartini blake l ii,107125522000023,EVP of Operations,male,28830000.0
+318691.0,,1071255,"golden entertainment, inc.",0,1,0,0,20220315,arcana stephen,107125522000026,EVP and COO,male,28830000.0
+802271.0,5000887.0,1071255,"golden entertainment, inc.",1,1,1,0,20220315,sartini blake l,107125522000022,Chairman and CEO,male,28830000.0
+42536.0,,1071255,"golden entertainment, inc.",0,1,0,0,20220315,haas thomas edwin,107125522000024,SVP of Accounting,male,28830000.0
+23995.0,53418.0,1071255,"golden entertainment, inc.",1,0,0,0,20220520,marnell anthony a. iii,107125522000048,,male,28980488.0
+36074.0,,1071255,"golden entertainment, inc.",1,0,0,0,20220527,dozier ann,107125522000057,,female,28980488.0
+3630.0,,1071255,"golden entertainment, inc.",1,0,0,0,20220527,chien andy h,107125522000058,,male,28980488.0
+41526.0,,1071255,"golden entertainment, inc.",1,0,0,0,20220527,wright terrence,107125522000059,,male,28980488.0
+152141.0,529024.0,1071255,"golden entertainment, inc.",1,0,0,0,20220527,marnell anthony a. iii,107125522000060,,male,28980488.0
+61526.0,,1071255,"golden entertainment, inc.",1,0,0,0,20220527,lipparelli mark a,107125522000061,,male,28980488.0
+677053.0,,1071255,"golden entertainment, inc.",0,1,0,0,20220715,protell charles,107125522000063,President and CFO,male,28501000.0
+293691.0,,1071255,"golden entertainment, inc.",0,1,0,0,20221007,arcana stephen,107125522000078,EVP and COO,male,28505000.0
+13995.0,,1071255,"golden entertainment, inc.",1,0,0,0,20221125,marnell anthony a. iii,107125522000091,,male,28505387.0
+61616.0,,1071255,"golden entertainment, inc.",1,0,0,0,20230127,wright terrence,107125523000002,,male,28179000.0
+43382.0,,1071255,"golden entertainment, inc.",0,1,0,0,20230316,haas thomas edwin,107125523000019,SVP of Accounting,male,28179000.0
+475251.0,,1071255,"golden entertainment, inc.",1,1,1,0,20230316,sartini blake l,107125523000020,Chairman and CEO,male,28179000.0
+260764.0,,1071255,"golden entertainment, inc.",0,1,0,0,20230316,arcana stephen,107125523000021,EVP and COO,male,28179000.0
+174092.0,,1071255,"golden entertainment, inc.",0,1,0,0,20230316,sartini blake l ii,107125523000023,EVP of Operations,male,28179000.0
+634937.0,,1071255,"golden entertainment, inc.",0,1,0,0,20230316,protell charles,107125523000022,President and CFO,male,28179000.0
+83513.0,,1071255,"golden entertainment, inc.",1,0,0,0,20230324,lipparelli mark a,107125523000025,,male,28179000.0
+235764.0,,1071255,"golden entertainment, inc.",0,1,0,0,20230406,arcana stephen,107125523000034,EVP and COO,male,28837000.0
+40156.0,,1071255,"golden entertainment, inc.",1,0,0,0,20230526,dozier ann,107125523000063,,female,28837173.0
+56223.0,365606.0,1071255,"golden entertainment, inc.",1,0,0,0,20230526,marnell anthony a. iii,107125523000065,,male,28837173.0
+65698.0,,1071255,"golden entertainment, inc.",1,0,0,0,20230526,wright terrence,107125523000067,,male,28837173.0
+87595.0,,1071255,"golden entertainment, inc.",1,0,0,0,20230526,lipparelli mark a,107125523000069,,male,28837173.0
+7712.0,,1071255,"golden entertainment, inc.",1,0,0,0,20230526,chien andy h,107125523000071,,male,28837173.0
+632007.0,,1071255,"golden entertainment, inc.",0,1,0,0,20230714,protell charles,107125523000073,President and CFO,male,28857000.0
+241052.0,,1071255,"golden entertainment, inc.",0,1,0,0,20231013,arcana stephen,107125523000092,EVP and COO,male,28616000.0
+643911.0,,1071255,"golden entertainment, inc.",0,1,0,0,20231220,protell charles,107125523000105,President and CFO,male,28616599.0
+643919.0,,1071255,"golden entertainment, inc.",0,1,0,0,20231222,protell charles,107125523000108,President and CFO,male,28616599.0
+523969.0,,1071255,"golden entertainment, inc.",0,1,0,0,20240816,protell charles,107125524000094,President and CFO,male,28314530.0
+72740.0,,1071255,"golden entertainment, inc.",1,0,0,0,20240920,lipparelli mark a,107125524000097,,male,28314530.0
+61616.0,,1071255,"golden entertainment, inc.",1,0,0,0,20241220,wright terrence,107125524000110,,male,27428951.0

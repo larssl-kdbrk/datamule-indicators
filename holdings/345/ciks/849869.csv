@@ -1,158 +1,413 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-13300.0,0.0,849869,silgan holdings inc,0,1,0,0,20100218,koblin alan h,114036110007381,President - Silgan Plastics,male,38283852.0
-13860.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,ulmer kimberly irene,114036110009682,Vice President and Controller,female,38283852.0
-6426.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,miller malcolm e,114036110009677,Vice President and Treasurer,male,38283852.0
-71420.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,lewis robert b,114036110009673,Executive VP and CFO,male,38283852.0
-16639.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,koblin alan h,114036110009671,President - Silgan Plastics,male,38283852.0
-17075.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,snyder thomas james,114036110009680,President - Silgan Containers,male,38283852.0
-22130.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,greenlee adam j,114036110009667,Executive VP and COO,male,38283852.0
-6467.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,andreacchi anthony p,114036110009665,"Vice President, Tax",male,38283852.0
-155710.0,0.0,849869,silgan holdings inc,1,1,0,0,20100303,allott anthony j,114036110009662,President and CEO,male,38283852.0
-22549.0,0.0,849869,silgan holdings inc,0,1,0,0,20100303,hogan frank w iii,114036110009670,"Sr. V.P., Gen. Counsel & Sec.",male,38283852.0
-36120.0,0.0,849869,silgan holdings inc,0,1,0,0,20100506,greenlee adam j,114036110019426,Executive VP and COO,male,38283852.0
-22011.0,0.0,849869,silgan holdings inc,1,0,0,0,20100610,lapekas edward a,114036110025108,,male,38283852.0
-5704233.0,6683686.0,849869,silgan holdings inc,1,0,1,0,20100610,silver r philip,114036110025102,,male,38283852.0
-5994249.0,3616792.0,849869,silgan holdings inc,1,0,1,0,20100610,horrigan d greg,114036110025104,,male,38283852.0
-28691.0,0.0,849869,silgan holdings inc,1,0,0,0,20100610,alden john w,114036110025105,,male,38283852.0
-24691.0,0.0,849869,silgan holdings inc,1,0,0,0,20100610,crowe jeffrey c,114036110025106,,male,38283852.0
-24691.0,0.0,849869,silgan holdings inc,1,0,0,0,20100610,jennings william c,114036110025107,,male,38283852.0
-16204.0,0.0,849869,silgan holdings inc,0,1,0,0,20100803,prinzen frederik b,114036110031292,Vice President - Corp. Dev.,male,76678386.0
-32682.0,0.0,849869,silgan holdings inc,0,1,0,0,20100803,snyder thomas james,114036110031297,President - Silgan Containers,male,76678386.0
-12155.0,0.0,849869,silgan holdings inc,0,1,0,0,20100803,andreacchi anthony p,114036110031289,"Vice President,Tax",male,76678386.0
-45098.0,0.0,849869,silgan holdings inc,0,1,0,0,20100820,hogan frank w iii,114036110034529,"Sr. V.P., Gen. Counsel & Sec.",male,76678386.0
-14204.0,0.0,849869,silgan holdings inc,0,1,0,0,20100824,prinzen frederik b,114036110034819,Vice President - Corp. Dev.,male,76678386.0
-9440.0,0.0,849869,silgan holdings inc,0,1,0,0,20100827,andreacchi anthony p,114036110035352,"Vice President,Tax",male,76678386.0
-311420.0,0.0,849869,silgan holdings inc,1,1,0,0,20101117,allott anthony j,114036110046255,President and CEO,male,76786941.0
-142840.0,0.0,849869,silgan holdings inc,0,1,0,0,20101117,lewis robert b,114036110046257,Executive VP and CFO,male,76786941.0
+13300.0,,849869,silgan holdings inc,0,1,0,0,20100218,koblin alan h,114036110007381,President - Silgan Plastics,male,
+71420.0,,849869,silgan holdings inc,0,1,0,0,20100303,lewis robert b,114036110009673,Executive VP and CFO,male,
+13860.0,,849869,silgan holdings inc,0,1,0,0,20100303,ulmer kimberly irene,114036110009682,Vice President and Controller,female,
+17075.0,,849869,silgan holdings inc,0,1,0,0,20100303,snyder thomas james,114036110009680,President - Silgan Containers,male,
+6426.0,,849869,silgan holdings inc,0,1,0,0,20100303,miller malcolm e,114036110009677,Vice President and Treasurer,male,
+16639.0,,849869,silgan holdings inc,0,1,0,0,20100303,koblin alan h,114036110009671,President - Silgan Plastics,male,
+22130.0,,849869,silgan holdings inc,0,1,0,0,20100303,greenlee adam j,114036110009667,Executive VP and COO,male,
+155710.0,,849869,silgan holdings inc,1,1,0,0,20100303,allott anthony j,114036110009662,President and CEO,male,
+22549.0,,849869,silgan holdings inc,0,1,0,0,20100303,hogan frank w iii,114036110009670,"Sr. V.P., Gen. Counsel & Sec.",male,
+6467.0,,849869,silgan holdings inc,0,1,0,0,20100303,andreacchi anthony p,114036110009665,"Vice President, Tax",male,
+36120.0,,849869,silgan holdings inc,0,1,0,0,20100506,greenlee adam j,114036110019426,Executive VP and COO,male,
+5704233.0,6683686.0,849869,silgan holdings inc,1,0,1,0,20100610,silver r philip,114036110025102,,male,
+5994249.0,3616792.0,849869,silgan holdings inc,1,0,1,0,20100610,horrigan d greg,114036110025104,,male,
+28691.0,,849869,silgan holdings inc,1,0,0,0,20100610,alden john w,114036110025105,,male,
+24691.0,,849869,silgan holdings inc,1,0,0,0,20100610,crowe jeffrey c,114036110025106,,male,
+24691.0,,849869,silgan holdings inc,1,0,0,0,20100610,jennings william c,114036110025107,,male,
+22011.0,,849869,silgan holdings inc,1,0,0,0,20100610,lapekas edward a,114036110025108,,male,
+12155.0,,849869,silgan holdings inc,0,1,0,0,20100803,andreacchi anthony p,114036110031289,"Vice President,Tax",male,76678386.0
+16204.0,,849869,silgan holdings inc,0,1,0,0,20100803,prinzen frederik b,114036110031292,Vice President - Corp. Dev.,male,76678386.0
+32682.0,,849869,silgan holdings inc,0,1,0,0,20100803,snyder thomas james,114036110031297,President - Silgan Containers,male,76678386.0
+45098.0,,849869,silgan holdings inc,0,1,0,0,20100820,hogan frank w iii,114036110034529,"Sr. V.P., Gen. Counsel & Sec.",male,76678386.0
+14204.0,,849869,silgan holdings inc,0,1,0,0,20100824,prinzen frederik b,114036110034819,Vice President - Corp. Dev.,male,76678386.0
+9440.0,,849869,silgan holdings inc,0,1,0,0,20100827,andreacchi anthony p,114036110035352,"Vice President,Tax",male,76678386.0
+142840.0,,849869,silgan holdings inc,0,1,0,0,20101117,lewis robert b,114036110046257,Executive VP and CFO,male,76786941.0
+311420.0,,849869,silgan holdings inc,1,1,0,0,20101117,allott anthony j,114036110046255,President and CEO,male,76786941.0
 5270927.0,3541028.0,849869,silgan holdings inc,1,0,1,0,20101124,horrigan d greg,114036110047171,,male,76786941.0
 4635773.0,6922573.0,849869,silgan holdings inc,1,0,1,0,20101124,silver r philip,114036110047172,,male,76786941.0
-132823.0,0.0,849869,silgan holdings inc,0,1,0,0,20110302,greenlee adam j,114036111013482,Executive VP and COO,male,69875873.0
-239783.0,0.0,849869,silgan holdings inc,0,1,0,0,20110302,lewis robert b,114036111013509,Executive VP and CFO,male,69875873.0
-92977.0,0.0,849869,silgan holdings inc,0,1,0,0,20110302,hogan frank w iii,114036111013481,"Sr. V.P., Gen. Counsel & Sec.",male,69875873.0
-219363.0,0.0,849869,silgan holdings inc,1,1,0,0,20110303,allott anthony j,114036111013859,President and CEO,male,69875873.0
-31017.0,0.0,849869,silgan holdings inc,0,1,0,0,20110303,koblin alan h,114036111013862,President - Silgan Plastics,male,69875873.0
-33133.0,0.0,849869,silgan holdings inc,0,1,0,0,20110303,snyder thomas james,114036111013865,President - Silgan Containers,male,69875873.0
-27160.0,0.0,849869,silgan holdings inc,0,1,0,0,20110303,ulmer kimberly irene,114036111013868,Vice President and Controller,female,69875873.0
-13064.0,0.0,849869,silgan holdings inc,0,1,0,0,20110303,miller malcolm e,114036111013871,Vice President and Treasurer,male,69875873.0
-9746.0,0.0,849869,silgan holdings inc,0,1,0,0,20110303,andreacchi anthony p,114036111013874,"Vice President,Tax",male,69875873.0
-128323.0,0.0,849869,silgan holdings inc,0,1,0,0,20110511,greenlee adam j,114036111026685,Executive VP and COO,male,70085523.0
-12656.0,0.0,849869,silgan holdings inc,0,1,0,0,20110519,miller malcolm e,114036111028781,Vice President and Treasurer,male,70085523.0
-23360.0,0.0,849869,silgan holdings inc,0,1,0,0,20110520,snyder thomas james,114036111029083,President - Silgan Containers,male,70085523.0
-12000.0,0.0,849869,silgan holdings inc,0,1,0,0,20110520,prinzen frederik b,114036111029081,Vice President - Corp. Dev.,male,70085523.0
-239925.0,0.0,849869,silgan holdings inc,0,1,0,0,20110524,lewis robert b,114036111029556,Executive VP and CFO,male,70085523.0
-29814.0,0.0,849869,silgan holdings inc,1,0,0,0,20110609,alden john w,114036111032186,,male,70085523.0
-25814.0,0.0,849869,silgan holdings inc,1,0,0,0,20110609,crowe jeffrey c,114036111032187,,male,70085523.0
-4986336.0,3541028.0,849869,silgan holdings inc,1,0,1,0,20110609,horrigan d greg,114036111032190,,male,70085523.0
-25814.0,0.0,849869,silgan holdings inc,1,0,0,0,20110609,jennings william c,114036111032192,,male,70085523.0
-23134.0,0.0,849869,silgan holdings inc,1,0,0,0,20110609,lapekas edward a,114036111032195,,male,70085523.0
+92977.0,,849869,silgan holdings inc,0,1,0,0,20110302,hogan frank w iii,114036111013481,"Sr. V.P., Gen. Counsel & Sec.",male,69875873.0
+132823.0,,849869,silgan holdings inc,0,1,0,0,20110302,greenlee adam j,114036111013482,Executive VP and COO,male,69875873.0
+239783.0,,849869,silgan holdings inc,0,1,0,0,20110302,lewis robert b,114036111013509,Executive VP and CFO,male,69875873.0
+219363.0,,849869,silgan holdings inc,1,1,0,0,20110303,allott anthony j,114036111013859,President and CEO,male,69875873.0
+31017.0,,849869,silgan holdings inc,0,1,0,0,20110303,koblin alan h,114036111013862,President - Silgan Plastics,male,69875873.0
+33133.0,,849869,silgan holdings inc,0,1,0,0,20110303,snyder thomas james,114036111013865,President - Silgan Containers,male,69875873.0
+27160.0,,849869,silgan holdings inc,0,1,0,0,20110303,ulmer kimberly irene,114036111013868,Vice President and Controller,female,69875873.0
+13064.0,,849869,silgan holdings inc,0,1,0,0,20110303,miller malcolm e,114036111013871,Vice President and Treasurer,male,69875873.0
+9746.0,,849869,silgan holdings inc,0,1,0,0,20110303,andreacchi anthony p,114036111013874,"Vice President,Tax",male,69875873.0
+128323.0,,849869,silgan holdings inc,0,1,0,0,20110511,greenlee adam j,114036111026685,Executive VP and COO,male,70085523.0
+12656.0,,849869,silgan holdings inc,0,1,0,0,20110519,miller malcolm e,114036111028781,Vice President and Treasurer,male,70085523.0
+12000.0,,849869,silgan holdings inc,0,1,0,0,20110520,prinzen frederik b,114036111029081,Vice President - Corp. Dev.,male,70085523.0
+23360.0,,849869,silgan holdings inc,0,1,0,0,20110520,snyder thomas james,114036111029083,President - Silgan Containers,male,70085523.0
+239925.0,,849869,silgan holdings inc,0,1,0,0,20110524,lewis robert b,114036111029556,Executive VP and CFO,male,70085523.0
+29814.0,,849869,silgan holdings inc,1,0,0,0,20110609,alden john w,114036111032186,,male,70085523.0
+25814.0,,849869,silgan holdings inc,1,0,0,0,20110609,crowe jeffrey c,114036111032187,,male,70085523.0
 2602625.0,2790058.0,849869,silgan holdings inc,1,0,1,0,20110609,silver r philip,114036111032200,,male,70085523.0
-21892.0,0.0,849869,silgan holdings inc,0,1,0,0,20110803,snyder thomas james,114036111039422,President - Silgan Containers,male,70138336.0
-10682.0,0.0,849869,silgan holdings inc,0,1,0,0,20110803,prinzen frederik b,114036111039421,Vice President - Corp. Dev.,male,70138336.0
-8967.0,0.0,849869,silgan holdings inc,0,1,0,0,20110803,andreacchi anthony p,114036111039419,"Vice President,Tax",male,70138336.0
-126323.0,0.0,849869,silgan holdings inc,0,1,0,0,20110811,greenlee adam j,114036111041224,Executive VP and COO,male,70138336.0
-8000.0,0.0,849869,silgan holdings inc,0,1,0,0,20110812,prinzen frederik b,114036111041483,Vice President - Corp. Dev.,male,70138336.0
-25017.0,0.0,849869,silgan holdings inc,0,1,0,0,20110825,koblin alan h,114036111043659,President - Silgan Plastics,male,70138336.0
-219363.0,0.0,849869,silgan holdings inc,1,1,0,0,20110830,allott anthony j,114036111044073,President and CEO,male,70138336.0
-92977.0,0.0,849869,silgan holdings inc,0,1,0,0,20111101,hogan frank w iii,114036111051176,"Sr. V.P., Gen. Counsel & Sec.",male,69802589.0
-35084.0,0.0,849869,silgan holdings inc,1,0,0,0,20111110,crowe jeffrey c,114036111052928,,male,69802589.0
-244654.0,0.0,849869,silgan holdings inc,1,1,0,0,20111110,allott anthony j,114036111052929,President and CEO,male,69802589.0
-27534.0,0.0,849869,silgan holdings inc,1,0,0,0,20111114,lapekas edward a,114036111053339,,male,69802589.0
-6060.0,0.0,849869,silgan holdings inc,0,1,0,0,20120207,andreacchi anthony p,114036112005889,"Vice President,Tax",male,69883808.0
-125823.0,0.0,849869,silgan holdings inc,0,1,0,0,20120209,greenlee adam j,114036112006578,Executive VP and COO,male,69883808.0
-364654.0,0.0,849869,silgan holdings inc,1,1,0,0,20120229,allott anthony j,114036112011834,President and CEO,male,69883808.0
-27237.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,snyder thomas james,114036112012828,President - Silgan Containers,male,69883808.0
-14100.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,prinzen frederik b,114036112012827,Vice President - Corp. Dev.,male,69883808.0
-10967.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,andreacchi anthony p,114036112012826,"Vice President,Tax",male,69883808.0
-28511.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,ulmer kimberly irene,114036112012829,Vice President and Controller,female,69883808.0
-131559.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,greenlee adam j,114036112012824,Executive VP and COO,male,69883808.0
-239122.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,lewis robert b,114036112012822,Executive VP and CFO,male,69883808.0
-372444.0,0.0,849869,silgan holdings inc,1,1,0,0,20120302,allott anthony j,114036112012818,President and CEO,male,69883808.0
-98193.0,0.0,849869,silgan holdings inc,0,1,0,0,20120302,hogan frank w iii,114036112012825,"Sr. V.P., Gen. Counsel & Sec.",male,69883808.0
-124940.0,0.0,849869,silgan holdings inc,0,1,0,0,20120503,greenlee adam j,114036112022725,Executive VP and COO,male,69717061.0
-32584.0,0.0,849869,silgan holdings inc,1,0,0,0,20120504,lapekas edward a,114036112023069,,male,69717061.0
-6504097.0,4877281.0,849869,silgan holdings inc,1,0,1,0,20120601,silver r philip,114036112028305,,male,69717061.0
-31003.0,0.0,849869,silgan holdings inc,1,0,0,0,20120601,alden john w,114036112028291,,male,69717061.0
-36273.0,0.0,849869,silgan holdings inc,1,0,0,0,20120601,crowe jeffrey c,114036112028292,,male,69717061.0
-27003.0,0.0,849869,silgan holdings inc,1,0,0,0,20120601,jennings william c,114036112028294,,male,69717061.0
-33773.0,0.0,849869,silgan holdings inc,1,0,0,0,20120601,lapekas edward a,114036112028295,,male,69717061.0
+4986336.0,3541028.0,849869,silgan holdings inc,1,0,1,0,20110609,horrigan d greg,114036111032190,,male,70085523.0
+25814.0,,849869,silgan holdings inc,1,0,0,0,20110609,jennings william c,114036111032192,,male,70085523.0
+23134.0,,849869,silgan holdings inc,1,0,0,0,20110609,lapekas edward a,114036111032195,,male,70085523.0
+8967.0,,849869,silgan holdings inc,0,1,0,0,20110803,andreacchi anthony p,114036111039419,"Vice President,Tax",male,70138336.0
+10682.0,,849869,silgan holdings inc,0,1,0,0,20110803,prinzen frederik b,114036111039421,Vice President - Corp. Dev.,male,70138336.0
+21892.0,,849869,silgan holdings inc,0,1,0,0,20110803,snyder thomas james,114036111039422,President - Silgan Containers,male,70138336.0
+126323.0,,849869,silgan holdings inc,0,1,0,0,20110811,greenlee adam j,114036111041224,Executive VP and COO,male,70138336.0
+8000.0,,849869,silgan holdings inc,0,1,0,0,20110812,prinzen frederik b,114036111041483,Vice President - Corp. Dev.,male,70138336.0
+25017.0,,849869,silgan holdings inc,0,1,0,0,20110825,koblin alan h,114036111043659,President - Silgan Plastics,male,70138336.0
+219363.0,,849869,silgan holdings inc,1,1,0,0,20110830,allott anthony j,114036111044073,President and CEO,male,70138336.0
+92977.0,,849869,silgan holdings inc,0,1,0,0,20111101,hogan frank w iii,114036111051176,"Sr. V.P., Gen. Counsel & Sec.",male,69802589.0
+35084.0,,849869,silgan holdings inc,1,0,0,0,20111110,crowe jeffrey c,114036111052928,,male,69802589.0
+244654.0,,849869,silgan holdings inc,1,1,0,0,20111110,allott anthony j,114036111052929,President and CEO,male,69802589.0
+27534.0,,849869,silgan holdings inc,1,0,0,0,20111114,lapekas edward a,114036111053339,,male,69802589.0
+6060.0,,849869,silgan holdings inc,0,1,0,0,20120207,andreacchi anthony p,114036112005889,"Vice President,Tax",male,69883808.0
+125823.0,,849869,silgan holdings inc,0,1,0,0,20120209,greenlee adam j,114036112006578,Executive VP and COO,male,69883808.0
+364654.0,,849869,silgan holdings inc,1,1,0,0,20120229,allott anthony j,114036112011834,President and CEO,male,69883808.0
+131559.0,,849869,silgan holdings inc,0,1,0,0,20120302,greenlee adam j,114036112012824,Executive VP and COO,male,69883808.0
+98193.0,,849869,silgan holdings inc,0,1,0,0,20120302,hogan frank w iii,114036112012825,"Sr. V.P., Gen. Counsel & Sec.",male,69883808.0
+10967.0,,849869,silgan holdings inc,0,1,0,0,20120302,andreacchi anthony p,114036112012826,"Vice President,Tax",male,69883808.0
+14100.0,,849869,silgan holdings inc,0,1,0,0,20120302,prinzen frederik b,114036112012827,Vice President - Corp. Dev.,male,69883808.0
+27237.0,,849869,silgan holdings inc,0,1,0,0,20120302,snyder thomas james,114036112012828,President - Silgan Containers,male,69883808.0
+28511.0,,849869,silgan holdings inc,0,1,0,0,20120302,ulmer kimberly irene,114036112012829,Vice President and Controller,female,69883808.0
+372444.0,,849869,silgan holdings inc,1,1,0,0,20120302,allott anthony j,114036112012818,President and CEO,male,69883808.0
+239122.0,,849869,silgan holdings inc,0,1,0,0,20120302,lewis robert b,114036112012822,Executive VP and CFO,male,69883808.0
+124940.0,,849869,silgan holdings inc,0,1,0,0,20120503,greenlee adam j,114036112022725,Executive VP and COO,male,69717061.0
+32584.0,,849869,silgan holdings inc,1,0,0,0,20120504,lapekas edward a,114036112023069,,male,69717061.0
+31003.0,,849869,silgan holdings inc,1,0,0,0,20120601,alden john w,114036112028291,,male,69717061.0
+36273.0,,849869,silgan holdings inc,1,0,0,0,20120601,crowe jeffrey c,114036112028292,,male,69717061.0
+27003.0,,849869,silgan holdings inc,1,0,0,0,20120601,jennings william c,114036112028294,,male,69717061.0
+33773.0,,849869,silgan holdings inc,1,0,0,0,20120601,lapekas edward a,114036112028295,,male,69717061.0
 5058017.0,3470536.0,849869,silgan holdings inc,1,0,1,0,20120601,horrigan d greg,114036112028302,,male,69717061.0
-12782.0,0.0,849869,silgan holdings inc,0,1,0,0,20120803,prinzen frederik b,114036112035057,Vice President - Corp. Dev.,male,69437022.0
-10100.0,0.0,849869,silgan holdings inc,0,1,0,0,20120810,prinzen frederik b,114036112036321,Vice President - Corp. Dev.,male,69437022.0
-20300.0,0.0,849869,silgan holdings inc,0,1,0,0,20121102,snyder thomas james,114036112045455,President - Silgan Containers,male,69203967.0
-349877.0,0.0,849869,silgan holdings inc,1,1,0,0,20130212,allott anthony j,114036113006050,President and CEO,male,63679106.0
-10086.0,0.0,849869,silgan holdings inc,0,1,0,0,20130212,andreacchi anthony p,114036113006051,"Vice President,Tax",male,63679106.0
+6504097.0,4877281.0,849869,silgan holdings inc,1,0,1,0,20120601,silver r philip,114036112028305,,male,69717061.0
+12782.0,,849869,silgan holdings inc,0,1,0,0,20120803,prinzen frederik b,114036112035057,Vice President - Corp. Dev.,male,69437022.0
+10100.0,,849869,silgan holdings inc,0,1,0,0,20120810,prinzen frederik b,114036112036321,Vice President - Corp. Dev.,male,69437022.0
+20300.0,,849869,silgan holdings inc,0,1,0,0,20121102,snyder thomas james,114036112045455,President - Silgan Containers,male,69203967.0
+18840.0,,849869,silgan holdings inc,0,1,0,0,20130212,ulmer kimberly irene,114036113006056,Vice President and Controller,female,63679106.0
+349877.0,,849869,silgan holdings inc,1,1,0,0,20130212,allott anthony j,114036113006050,President and CEO,male,63679106.0
 953.0,4604322.0,849869,silgan holdings inc,1,0,1,0,20130212,horrigan d greg,114036113006054,,male,63679106.0
-219779.0,0.0,849869,silgan holdings inc,0,1,0,0,20130212,lewis robert b,114036113006055,Executive VP and CFO,male,63679106.0
-18840.0,0.0,849869,silgan holdings inc,0,1,0,0,20130212,ulmer kimberly irene,114036113006056,Vice President and Controller,female,63679106.0
-63879.0,0.0,849869,silgan holdings inc,0,1,0,0,20130304,snyder thomas james,114036113010320,President - Silgan Containers,male,63679106.0
-13636.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,prinzen frederik b,114036113010684,Vice President - Corp. Dev.,male,63679106.0
-25498.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,macdonald sarah t.,114036113010682,President - Silgan Plastics,female,63679106.0
-224005.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,lewis robert b,114036113010677,Executive VP and CFO,male,63679106.0
-102181.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,hogan frank w iii,114036113010673,"Sr. V.P., Gen. Counsel & Sec.",male,63679106.0
-360655.0,0.0,849869,silgan holdings inc,1,1,0,0,20130305,allott anthony j,114036113010668,President and CEO,male,63679106.0
-11057.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,andreacchi anthony p,114036113010670,"Vice President,Tax",male,63679106.0
-20836.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,ulmer kimberly irene,114036113010665,Vice President and Controller,female,63679106.0
-129834.0,0.0,849869,silgan holdings inc,0,1,0,0,20130305,greenlee adam j,114036113010671,Executive VP and COO,male,63679106.0
-123940.0,0.0,849869,silgan holdings inc,0,1,0,0,20130426,greenlee adam j,114036113017589,Executive VP and COO,male,63679106.0
-12880.0,0.0,849869,silgan holdings inc,0,1,0,0,20130503,prinzen frederik b,114036113018707,Vice President - Corp. Dev.,male,63748427.0
-59460.0,0.0,849869,silgan holdings inc,0,1,0,0,20130503,snyder thomas james,114036113018711,President - Silgan Containers,male,63748427.0
-9807.0,0.0,849869,silgan holdings inc,0,1,0,0,20130520,andreacchi anthony p,114036113021834,"Vice President,Tax",male,63748427.0
-32065.0,0.0,849869,silgan holdings inc,1,0,0,0,20130605,alden john w,114036113024226,,male,63748427.0
-37335.0,0.0,849869,silgan holdings inc,1,0,0,0,20130605,crowe jeffrey c,114036113024227,,male,63748427.0
-3443622.0,4605275.0,849869,silgan holdings inc,1,0,1,0,20130605,horrigan d greg,114036113024228,,male,63748427.0
-28065.0,0.0,849869,silgan holdings inc,1,0,0,0,20130605,jennings william c,114036113024229,,male,63748427.0
-34835.0,0.0,849869,silgan holdings inc,1,0,0,0,20130605,lapekas edward a,114036113024230,,male,63748427.0
+219779.0,,849869,silgan holdings inc,0,1,0,0,20130212,lewis robert b,114036113006055,Executive VP and CFO,male,63679106.0
+10086.0,,849869,silgan holdings inc,0,1,0,0,20130212,andreacchi anthony p,114036113006051,"Vice President,Tax",male,63679106.0
+63879.0,,849869,silgan holdings inc,0,1,0,0,20130304,snyder thomas james,114036113010320,President - Silgan Containers,male,63679106.0
+13636.0,,849869,silgan holdings inc,0,1,0,0,20130305,prinzen frederik b,114036113010684,Vice President - Corp. Dev.,male,63679106.0
+224005.0,,849869,silgan holdings inc,0,1,0,0,20130305,lewis robert b,114036113010677,Executive VP and CFO,male,63679106.0
+25498.0,,849869,silgan holdings inc,0,1,0,0,20130305,macdonald sarah t.,114036113010682,President - Silgan Plastics,female,63679106.0
+129834.0,,849869,silgan holdings inc,0,1,0,0,20130305,greenlee adam j,114036113010671,Executive VP and COO,male,63679106.0
+11057.0,,849869,silgan holdings inc,0,1,0,0,20130305,andreacchi anthony p,114036113010670,"Vice President,Tax",male,63679106.0
+360655.0,,849869,silgan holdings inc,1,1,0,0,20130305,allott anthony j,114036113010668,President and CEO,male,63679106.0
+20836.0,,849869,silgan holdings inc,0,1,0,0,20130305,ulmer kimberly irene,114036113010665,Vice President and Controller,female,63679106.0
+102181.0,,849869,silgan holdings inc,0,1,0,0,20130305,hogan frank w iii,114036113010673,"Sr. V.P., Gen. Counsel & Sec.",male,63679106.0
+123940.0,,849869,silgan holdings inc,0,1,0,0,20130426,greenlee adam j,114036113017589,Executive VP and COO,male,63679106.0
+12880.0,,849869,silgan holdings inc,0,1,0,0,20130503,prinzen frederik b,114036113018707,Vice President - Corp. Dev.,male,63748427.0
+59460.0,,849869,silgan holdings inc,0,1,0,0,20130503,snyder thomas james,114036113018711,President - Silgan Containers,male,63748427.0
+9807.0,,849869,silgan holdings inc,0,1,0,0,20130520,andreacchi anthony p,114036113021834,"Vice President,Tax",male,63748427.0
 7572621.0,3185975.0,849869,silgan holdings inc,1,0,1,0,20130605,silver r philip,114036113024232,,male,63748427.0
-11518.0,0.0,849869,silgan holdings inc,0,1,0,0,20130805,prinzen b frederik,114036113030364,Vice President - Corp. Dev.,male,63400783.0
-8880.0,0.0,849869,silgan holdings inc,0,1,0,0,20130823,prinzen b frederik,114036113034052,Vice President - Corp. Dev.,male,63400783.0
-8520.0,0.0,849869,silgan holdings inc,0,1,0,0,20131202,andreacchi anthony p,114036113044593,"Vice President,Tax",male,63415444.0
-36273.0,0.0,849869,silgan holdings inc,1,0,0,0,20140207,crowe jeffrey c,114036114005388,,male,63415444.0
-307212.0,0.0,849869,silgan holdings inc,1,1,0,0,20140304,allott anthony j,114036114010851,President and CEO,male,63415444.0
-241949.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,lewis robert b,114036114010856,Executive VP and CFO,male,63415444.0
-179578.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,greenlee adam j,114036114010858,Executive VP and COO,male,63415444.0
-130584.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,hogan frank w iii,114036114010861,"Sr. V.P., Gen. Counsel & Sec.",male,63415444.0
-15099.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,prinzen b frederik,114036114010863,Senior VP - Corp. Dev.,male,63415444.0
-23034.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,ulmer kimberly irene,114036114010866,Vice President and Controller,female,63415444.0
-10142.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,andreacchi anthony p,114036114010871,"Vice President,Tax",male,63415444.0
-64073.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,snyder thomas james,114036114010875,President - Silgan Containers,male,63415444.0
-23666.0,0.0,849869,silgan holdings inc,0,1,0,0,20140304,macdonald sarah t.,114036114010880,President - Silgan Plastics,female,63415444.0
-174040.0,0.0,849869,silgan holdings inc,0,1,0,0,20140505,greenlee adam j,114036114018781,Executive VP and COO,male,63554045.0
-13760.0,0.0,849869,silgan holdings inc,0,1,0,0,20140515,prinzen b frederik,114036114021636,Vice President - Corp. Dev.,male,63554045.0
-60280.0,0.0,849869,silgan holdings inc,0,1,0,0,20140520,snyder thomas james,114036114022353,President - Silgan Containers,male,63554045.0
-1000.0,0.0,849869,silgan holdings inc,1,0,0,0,20140522,jordan joseph m,114036114022639,,male,63554045.0
-8280.0,0.0,849869,silgan holdings inc,0,1,0,0,20140529,andreacchi anthony p,114036114023518,"Vice President,Tax",male,63554045.0
-2247078.0,0.0,849869,silgan holdings inc,1,0,1,0,20140529,silver r philip,114036114023521,,male,63554045.0
+34835.0,,849869,silgan holdings inc,1,0,0,0,20130605,lapekas edward a,114036113024230,,male,63748427.0
+32065.0,,849869,silgan holdings inc,1,0,0,0,20130605,alden john w,114036113024226,,male,63748427.0
+3443622.0,4605275.0,849869,silgan holdings inc,1,0,1,0,20130605,horrigan d greg,114036113024228,,male,63748427.0
+37335.0,,849869,silgan holdings inc,1,0,0,0,20130605,crowe jeffrey c,114036113024227,,male,63748427.0
+28065.0,,849869,silgan holdings inc,1,0,0,0,20130605,jennings william c,114036113024229,,male,63748427.0
+11518.0,,849869,silgan holdings inc,0,1,0,0,20130805,prinzen b frederik,114036113030364,Vice President - Corp. Dev.,male,63400783.0
+8880.0,,849869,silgan holdings inc,0,1,0,0,20130823,prinzen b frederik,114036113034052,Vice President - Corp. Dev.,male,63400783.0
+8520.0,,849869,silgan holdings inc,0,1,0,0,20131202,andreacchi anthony p,114036113044593,"Vice President,Tax",male,63415444.0
+36273.0,,849869,silgan holdings inc,1,0,0,0,20140207,crowe jeffrey c,114036114005388,,male,63415444.0
+10142.0,,849869,silgan holdings inc,0,1,0,0,20140304,andreacchi anthony p,114036114010871,"Vice President,Tax",male,63415444.0
+64073.0,,849869,silgan holdings inc,0,1,0,0,20140304,snyder thomas james,114036114010875,President - Silgan Containers,male,63415444.0
+23034.0,,849869,silgan holdings inc,0,1,0,0,20140304,ulmer kimberly irene,114036114010866,Vice President and Controller,female,63415444.0
+23666.0,,849869,silgan holdings inc,0,1,0,0,20140304,macdonald sarah t.,114036114010880,President - Silgan Plastics,female,63415444.0
+130584.0,,849869,silgan holdings inc,0,1,0,0,20140304,hogan frank w iii,114036114010861,"Sr. V.P., Gen. Counsel & Sec.",male,63415444.0
+179578.0,,849869,silgan holdings inc,0,1,0,0,20140304,greenlee adam j,114036114010858,Executive VP and COO,male,63415444.0
+241949.0,,849869,silgan holdings inc,0,1,0,0,20140304,lewis robert b,114036114010856,Executive VP and CFO,male,63415444.0
+307212.0,,849869,silgan holdings inc,1,1,0,0,20140304,allott anthony j,114036114010851,President and CEO,male,63415444.0
+15099.0,,849869,silgan holdings inc,0,1,0,0,20140304,prinzen b frederik,114036114010863,Senior VP - Corp. Dev.,male,63415444.0
+174040.0,,849869,silgan holdings inc,0,1,0,0,20140505,greenlee adam j,114036114018781,Executive VP and COO,male,63554045.0
+13760.0,,849869,silgan holdings inc,0,1,0,0,20140515,prinzen b frederik,114036114021636,Vice President - Corp. Dev.,male,63554045.0
+60280.0,,849869,silgan holdings inc,0,1,0,0,20140520,snyder thomas james,114036114022353,President - Silgan Containers,male,63554045.0
+1000.0,,849869,silgan holdings inc,1,0,0,0,20140522,jordan joseph m,114036114022639,,male,63554045.0
+8280.0,,849869,silgan holdings inc,0,1,0,0,20140529,andreacchi anthony p,114036114023518,"Vice President,Tax",male,63554045.0
+2247078.0,,849869,silgan holdings inc,1,0,1,0,20140529,silver r philip,114036114023521,,male,63554045.0
 3566988.0,4482929.0,849869,silgan holdings inc,1,0,1,0,20140529,horrigan d greg,114036114023525,,male,63554045.0
-33085.0,0.0,849869,silgan holdings inc,1,0,0,0,20140529,alden john w,114036114023526,,male,63554045.0
-29085.0,0.0,849869,silgan holdings inc,1,0,0,0,20140529,jennings william c,114036114023527,,male,63554045.0
-2020.0,0.0,849869,silgan holdings inc,1,0,0,0,20140529,jordan joseph m,114036114023529,,male,63554045.0
-35855.0,0.0,849869,silgan holdings inc,1,0,0,0,20140529,lapekas edward a,114036114023530,,male,63554045.0
-193884.0,0.0,849869,silgan holdings inc,0,1,0,0,20140808,lewis robert b,114036114031523,Executive VP and CFO,male,63410057.0
-126479.0,0.0,849869,silgan holdings inc,0,1,0,0,20140808,greenlee adam j,114036114031518,Executive VP and COO,male,63410057.0
-107948.0,0.0,849869,silgan holdings inc,0,1,0,0,20140808,hogan frank w iii,114036114031521,"Sr. V.P., Gen. Counsel & Sec.",male,63410057.0
-80584.0,0.0,849869,silgan holdings inc,0,1,0,0,20140821,hogan frank w iii,114036114033799,"Sr. V.P., Gen. Counsel & Sec.",male,63410057.0
-87151.0,0.0,849869,silgan holdings inc,0,1,0,0,20140828,greenlee adam j,114036114034402,Executive VP and COO,male,63410057.0
-19898.0,0.0,849869,silgan holdings inc,0,1,0,0,20150213,macdonald sarah t.,114036115006589,President - Silgan Plastics,female,63205987.0
-525592.0,0.0,849869,silgan holdings inc,1,1,0,0,20150302,allott anthony j,114036115009658,President and CEO,male,63205987.0
-16431.0,0.0,849869,silgan holdings inc,0,1,0,0,20150302,prinzen b frederik,114036115009661,Sr. V.P. - Corp. Dev.,male,63205987.0
-67623.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,snyder thomas james,114036115009964,President - Silgan Containers,male,63205987.0
-25526.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,ulmer kimberly irene,114036115009965,Vice President and Controller,female,63205987.0
-22380.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,macdonald sarah t.,114036115009963,President - Silgan Plastics,female,63205987.0
-91032.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,greenlee adam j,114036115009957,Executive VP and COO,male,63205987.0
-82742.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,hogan frank w iii,114036115009959,"Sr. V.P., Gen. Counsel & Sec.",male,63205987.0
-200206.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,lewis robert b,114036115009960,Executive VP and CFO,male,63205987.0
-9897.0,0.0,849869,silgan holdings inc,0,1,0,0,20150303,andreacchi anthony p,114036115009955,"Vice President,Tax",male,63205987.0
-170357.0,0.0,849869,silgan holdings inc,0,1,0,0,20150319,lewis robert b,114036115012664,Executive VP and CFO,male,63205987.0
-79804.0,0.0,849869,silgan holdings inc,0,1,0,0,20150319,hogan frank w iii,114036115012662,"Sr. V.P., Gen. Counsel & Sec.",male,63205987.0
-15526.0,0.0,849869,silgan holdings inc,0,1,0,0,20150319,ulmer kimberly irene,114036115012666,Vice President and Controller,female,63205987.0
-9097.0,0.0,849869,silgan holdings inc,0,1,0,0,20150319,andreacchi anthony p,114036115012660,"Vice President,Tax",male,63205987.0
-475592.0,0.0,849869,silgan holdings inc,1,1,0,0,20150319,allott anthony j,114036115012659,President and CEO,male,63205987.0
-72660.0,0.0,849869,silgan holdings inc,0,1,0,0,20150319,greenlee adam j,114036115012661,Executive VP and COO,male,63205987.0
-14160.0,0.0,849869,silgan holdings inc,0,1,0,0,20150508,prinzen b frederik,114036115018510,Sr. V.P. - Corp. Dev.,male,60514651.0
-63560.0,0.0,849869,silgan holdings inc,0,1,0,0,20150515,snyder thomas james,114036115020270,President - Silgan Containers,male,60514651.0
-37496.0,0.0,849869,silgan holdings inc,1,0,0,0,20150529,lapekas edward a,114036115022398,,male,60514651.0
-32475.0,0.0,849869,silgan holdings inc,1,0,0,0,20150529,alden john w,114036115022384,,male,60514651.0
-3712877.0,4338681.0,849869,silgan holdings inc,1,0,1,0,20150529,horrigan d greg,114036115022387,,male,60514651.0
-30726.0,0.0,849869,silgan holdings inc,1,0,0,0,20150529,jennings william c,114036115022388,,male,60514651.0
-3661.0,0.0,849869,silgan holdings inc,1,0,0,0,20150529,jordan joseph m,114036115022394,,male,60514651.0
+33085.0,,849869,silgan holdings inc,1,0,0,0,20140529,alden john w,114036114023526,,male,63554045.0
+29085.0,,849869,silgan holdings inc,1,0,0,0,20140529,jennings william c,114036114023527,,male,63554045.0
+2020.0,,849869,silgan holdings inc,1,0,0,0,20140529,jordan joseph m,114036114023529,,male,63554045.0
+35855.0,,849869,silgan holdings inc,1,0,0,0,20140529,lapekas edward a,114036114023530,,male,63554045.0
+126479.0,,849869,silgan holdings inc,0,1,0,0,20140808,greenlee adam j,114036114031518,Executive VP and COO,male,63410057.0
+107948.0,,849869,silgan holdings inc,0,1,0,0,20140808,hogan frank w iii,114036114031521,"Sr. V.P., Gen. Counsel & Sec.",male,63410057.0
+193884.0,,849869,silgan holdings inc,0,1,0,0,20140808,lewis robert b,114036114031523,Executive VP and CFO,male,63410057.0
+80584.0,,849869,silgan holdings inc,0,1,0,0,20140821,hogan frank w iii,114036114033799,"Sr. V.P., Gen. Counsel & Sec.",male,63410057.0
+87151.0,,849869,silgan holdings inc,0,1,0,0,20140828,greenlee adam j,114036114034402,Executive VP and COO,male,63410057.0
+19898.0,,849869,silgan holdings inc,0,1,0,0,20150213,macdonald sarah t.,114036115006589,President - Silgan Plastics,female,63205987.0
+525592.0,,849869,silgan holdings inc,1,1,0,0,20150302,allott anthony j,114036115009658,President and CEO,male,63205987.0
+16431.0,,849869,silgan holdings inc,0,1,0,0,20150302,prinzen b frederik,114036115009661,Sr. V.P. - Corp. Dev.,male,63205987.0
+25526.0,,849869,silgan holdings inc,0,1,0,0,20150303,ulmer kimberly irene,114036115009965,Vice President and Controller,female,63205987.0
+67623.0,,849869,silgan holdings inc,0,1,0,0,20150303,snyder thomas james,114036115009964,President - Silgan Containers,male,63205987.0
+9897.0,,849869,silgan holdings inc,0,1,0,0,20150303,andreacchi anthony p,114036115009955,"Vice President,Tax",male,63205987.0
+200206.0,,849869,silgan holdings inc,0,1,0,0,20150303,lewis robert b,114036115009960,Executive VP and CFO,male,63205987.0
+82742.0,,849869,silgan holdings inc,0,1,0,0,20150303,hogan frank w iii,114036115009959,"Sr. V.P., Gen. Counsel & Sec.",male,63205987.0
+91032.0,,849869,silgan holdings inc,0,1,0,0,20150303,greenlee adam j,114036115009957,Executive VP and COO,male,63205987.0
+22380.0,,849869,silgan holdings inc,0,1,0,0,20150303,macdonald sarah t.,114036115009963,President - Silgan Plastics,female,63205987.0
+475592.0,,849869,silgan holdings inc,1,1,0,0,20150319,allott anthony j,114036115012659,President and CEO,male,63205987.0
+72660.0,,849869,silgan holdings inc,0,1,0,0,20150319,greenlee adam j,114036115012661,Executive VP and COO,male,63205987.0
+79804.0,,849869,silgan holdings inc,0,1,0,0,20150319,hogan frank w iii,114036115012662,"Sr. V.P., Gen. Counsel & Sec.",male,63205987.0
+170357.0,,849869,silgan holdings inc,0,1,0,0,20150319,lewis robert b,114036115012664,Executive VP and CFO,male,63205987.0
+15526.0,,849869,silgan holdings inc,0,1,0,0,20150319,ulmer kimberly irene,114036115012666,Vice President and Controller,female,63205987.0
+9097.0,,849869,silgan holdings inc,0,1,0,0,20150319,andreacchi anthony p,114036115012660,"Vice President,Tax",male,63205987.0
+14160.0,,849869,silgan holdings inc,0,1,0,0,20150508,prinzen b frederik,114036115018510,Sr. V.P. - Corp. Dev.,male,60514651.0
+63560.0,,849869,silgan holdings inc,0,1,0,0,20150515,snyder thomas james,114036115020270,President - Silgan Containers,male,60514651.0
 7561866.0,2247078.0,849869,silgan holdings inc,1,0,1,0,20150529,silver r philip,114036115022399,,male,60514651.0
+3712877.0,4338681.0,849869,silgan holdings inc,1,0,1,0,20150529,horrigan d greg,114036115022387,,male,60514651.0
+30726.0,,849869,silgan holdings inc,1,0,0,0,20150529,jennings william c,114036115022388,,male,60514651.0
+3661.0,,849869,silgan holdings inc,1,0,0,0,20150529,jordan joseph m,114036115022394,,male,60514651.0
+32475.0,,849869,silgan holdings inc,1,0,0,0,20150529,alden john w,114036115022384,,male,60514651.0
+37496.0,,849869,silgan holdings inc,1,0,0,0,20150529,lapekas edward a,114036115022398,,male,60514651.0
+8260.0,,849869,silgan holdings inc,0,1,0,0,20151120,andreacchi anthony p,114036115042486,"Vice President,Tax",male,60392905.0
+122660.0,,849869,silgan holdings inc,0,1,0,0,20160226,greenlee adam j,114036116055167,Executive VP and COO,male,60392905.0
+104804.0,,849869,silgan holdings inc,0,1,0,0,20160226,hogan frank w iii,114036116055168,"Sr. V.P., Gen. Counsel & Sec.",male,60392905.0
+220357.0,,849869,silgan holdings inc,0,1,0,0,20160226,lewis robert b,114036116055170,Executive VP and CFO,male,60392905.0
+16660.0,,849869,silgan holdings inc,0,1,0,0,20160226,prinzen b frederik,114036116055171,Sr. V.P. - Corp. Dev.,male,60392905.0
+73560.0,,849869,silgan holdings inc,0,1,0,0,20160226,snyder thomas james,114036116055178,President - Silgan Containers,male,60392905.0
+227490.0,,849869,silgan holdings inc,0,1,0,0,20160303,lewis robert b,114036116056309,Executive VP and CFO,male,60392905.0
+17742.0,,849869,silgan holdings inc,0,1,0,0,20160303,ulmer kimberly irene,114036116056312,Vice President and Controller,female,60392905.0
+80827.0,,849869,silgan holdings inc,0,1,0,0,20160303,snyder thomas james,114036116056311,President - Silgan Containers,male,60392905.0
+19512.0,,849869,silgan holdings inc,0,1,0,0,20160303,prinzen b frederik,114036116056310,Sr. V.P. - Corp. Dev.,male,60392905.0
+108867.0,,849869,silgan holdings inc,0,1,0,0,20160303,hogan frank w iii,114036116056308,"Sr. V.P., Gen. Counsel & Sec.",male,60392905.0
+129677.0,,849869,silgan holdings inc,0,1,0,0,20160303,greenlee adam j,114036116056306,Executive VP and COO,male,60392905.0
+522727.0,,849869,silgan holdings inc,1,1,0,0,20160303,allott anthony j,114036116056304,President and CEO,male,60392905.0
+10341.0,,849869,silgan holdings inc,0,1,0,0,20160303,andreacchi anthony p,114036116056305,"Vice President,Tax",male,60392905.0
+76460.0,,849869,silgan holdings inc,0,1,0,0,20160506,snyder thomas james,114036116063856,President - Silgan Containers,male,60468347.0
+18312.0,,849869,silgan holdings inc,0,1,0,0,20160513,prinzen b frederik,114036116065193,Sr. V.P. - Corp. Dev.,male,60468347.0
+,,849869,silgan holdings inc,0,1,0,0,20160527,andreacchi anthony p,114036116067505,"Vice President,Tax",male,60468347.0
+3886457.0,4166859.0,849869,silgan holdings inc,1,0,1,0,20160602,horrigan d greg,114036116068265,,male,60468347.0
+7557300.0,2247078.0,849869,silgan holdings inc,1,0,1,0,20160602,silver r philip,114036116068276,,male,60468347.0
+39254.0,,849869,silgan holdings inc,1,0,0,0,20160602,lapekas edward a,114036116068273,,male,60468347.0
+5419.0,,849869,silgan holdings inc,1,0,0,0,20160602,jordan joseph m,114036116068270,,male,60468347.0
+32484.0,,849869,silgan holdings inc,1,0,0,0,20160602,jennings william c,114036116068267,,male,60468347.0
+34233.0,,849869,silgan holdings inc,1,0,0,0,20160602,alden john w,114036116068263,,male,60468347.0
+17312.0,,849869,silgan holdings inc,0,1,0,0,20160819,prinzen b frederik,114036116077286,Sr. V.P. - Corp. Dev.,male,60477337.0
+8520.0,,849869,silgan holdings inc,0,1,0,0,20160901,andreacchi anthony p,114036116078525,"Vice President,Tax",male,60477337.0
+217490.0,,849869,silgan holdings inc,0,1,0,0,20161123,lewis robert b,114036116087732,Executive VP and CFO,male,60339652.0
+6587300.0,2247078.0,849869,silgan holdings inc,1,0,1,0,20161123,silver r philip,114036116087728,,male,60339652.0
+0.0,3939830.0,849869,silgan holdings inc,1,0,1,0,20161123,horrigan d greg,114036116087729,,male,60339652.0
+488852.0,,849869,silgan holdings inc,1,1,0,0,20161123,allott anthony j,114036116087730,President and CEO,male,60339652.0
+36460.0,,849869,silgan holdings inc,0,1,0,0,20161123,snyder thomas james,114036116087731,President - Silgan Containers,male,60339652.0
+125260.0,,849869,silgan holdings inc,0,1,0,0,20161123,greenlee adam j,114036116087738,Executive VP and COO,male,60339652.0
+18891.0,,849869,silgan holdings inc,0,1,0,0,20170303,ulmer kimberly irene,114036117010543,Vice President and Controller,female,55051158.0
+18924.0,,849869,silgan holdings inc,0,1,0,0,20170303,prinzen b frederik,114036117010540,Sr. V.P. - Corp. Dev.,male,55051158.0
+39093.0,,849869,silgan holdings inc,0,1,0,0,20170303,snyder thomas james,114036117010541,President - Silgan Containers,male,55051158.0
+219566.0,,849869,silgan holdings inc,0,1,0,0,20170303,lewis robert b,114036117010537,Executive VP and CFO,male,55051158.0
+110802.0,,849869,silgan holdings inc,0,1,0,0,20170303,hogan frank w iii,114036117010535,"Sr. V.P., Gen. Counsel & Sec.",male,55051158.0
+9756.0,,849869,silgan holdings inc,0,1,0,0,20170303,andreacchi anthony p,114036117010532,"Vice President,Tax",male,55051158.0
+487352.0,,849869,silgan holdings inc,1,1,0,0,20170303,allott anthony j,114036117010531,President and CEO,male,55051158.0
+127843.0,,849869,silgan holdings inc,0,1,0,0,20170303,greenlee adam j,114036117010533,Executive VP and COO,male,55051158.0
+15720.0,,849869,silgan holdings inc,0,1,0,0,20170512,prinzen b frederik,114036117020101,Sr. V.P. - Corp. Dev.,male,55142166.0
+122200.0,,849869,silgan holdings inc,0,1,0,0,20170523,greenlee adam j,114036117021926,Executive VP and COO,male,55142166.0
+17512.0,,849869,silgan holdings inc,0,1,0,0,20170602,andreacchi anthony p,114036117023538,"Vice President,Tax",male,55142166.0
+67822.0,,849869,silgan holdings inc,1,0,0,0,20170608,jennings william c,114036117024467,,male,55142166.0
+13692.0,,849869,silgan holdings inc,1,0,0,0,20170608,jordan joseph m,114036117024468,,male,55142166.0
+71320.0,,849869,silgan holdings inc,1,0,0,0,20170608,alden john w,114036117024466,,male,55142166.0
+81362.0,,849869,silgan holdings inc,1,0,0,0,20170608,lapekas edward a,114036117024469,,male,55142166.0
+13164554.0,4494156.0,849869,silgan holdings inc,1,0,1,0,20170608,silver r philip,114036117024462,,male,55142166.0
+7361078.0,7879660.0,849869,silgan holdings inc,1,0,1,0,20170608,horrigan d greg,114036117024464,,male,55142166.0
+67680.0,,849869,silgan holdings inc,0,1,0,0,20170816,snyder thomas james,114036117032423,President - Silgan Containers,male,110315624.0
+432132.0,,849869,silgan holdings inc,0,1,0,0,20170823,lewis robert b,114036117033097,Executive VP and CFO,male,110315624.0
+15320.0,,849869,silgan holdings inc,0,1,0,0,20170901,andreacchi anthony p,114036117034110,"Vice President,Tax",male,110315624.0
+42180.0,,849869,silgan holdings inc,1,0,0,0,20171130,jennings william c,114036117044466,,male,110372916.0
+5789796.0,1268218.0,849869,silgan holdings inc,1,0,1,0,20180214,horrigan d greg,114036118008321,,male,110385344.0
+5720675.0,1268218.0,849869,silgan holdings inc,1,0,1,0,20180216,horrigan d greg,114036118008837,,male,110385344.0
+5645730.0,1268218.0,849869,silgan holdings inc,1,0,1,0,20180223,horrigan d greg,114036118009899,,male,110385344.0
+417132.0,,849869,silgan holdings inc,0,1,0,0,20180228,lewis robert b,114036118010841,Executive VP and CFO,male,110385344.0
+147344.0,,849869,silgan holdings inc,0,1,0,0,20180302,snyder thomas james,114036118011662,President - Silgan Containers,male,110385344.0
+42187.0,,849869,silgan holdings inc,0,1,0,0,20180302,ulmer kimberly irene,114036118011657,"VP, Finance & Treasurer",female,110385344.0
+20063.0,,849869,silgan holdings inc,0,1,0,0,20180302,andreacchi anthony p,114036118011654,"Vice President,Tax",male,110385344.0
+37147.0,,849869,silgan holdings inc,0,1,0,0,20180302,prinzen b frederik,114036118011651,Sr. V.P. - Corp. Dev.,male,110385344.0
+229561.0,,849869,silgan holdings inc,0,1,0,0,20180302,hogan frank w iii,114036118011647,"Senior VP, Gen. Counsel & Sec.",male,110385344.0
+255004.0,,849869,silgan holdings inc,0,1,0,0,20180302,greenlee adam j,114036118011643,Executive VP and COO,male,110385344.0
+997395.0,,849869,silgan holdings inc,1,1,0,0,20180302,allott anthony j,114036118011637,President and CEO,male,110385344.0
+426063.0,,849869,silgan holdings inc,0,1,0,0,20180302,lewis robert b,114036118011640,Executive VP and CFO,male,110385344.0
+31780.0,,849869,silgan holdings inc,0,1,0,0,20180518,prinzen b frederik,114036118024687,Sr. V.P. - Corp. Dev.,male,110599464.0
+136880.0,,849869,silgan holdings inc,0,1,0,0,20180524,snyder thomas james,114036118025503,President - Silgan Containers,male,110599464.0
+18463.0,,849869,silgan holdings inc,0,1,0,0,20180530,andreacchi anthony p,114036118026263,"Vice President,Tax",male,110599464.0
+244140.0,,849869,silgan holdings inc,0,1,0,0,20180601,greenlee adam j,114036118026823,Executive VP and COO,male,110599464.0
+13035789.0,4494156.0,849869,silgan holdings inc,1,0,1,0,20180614,silver r philip,114036118028615,,male,110599464.0
+7830025.0,6913948.0,849869,silgan holdings inc,1,0,1,0,20180614,horrigan d greg,114036118028616,,male,110599464.0
+71655.0,,849869,silgan holdings inc,1,0,0,0,20180614,alden john w,114036118028619,,male,110599464.0
+45415.0,,849869,silgan holdings inc,1,0,0,0,20180614,jennings william c,114036118028625,,male,110599464.0
+16927.0,,849869,silgan holdings inc,1,0,0,0,20180614,jordan joseph m,114036118028626,,male,110599464.0
+3235.0,,849869,silgan holdings inc,1,0,0,0,20180614,donovan william t,114036118028622,,male,110599464.0
+408063.0,,849869,silgan holdings inc,0,1,0,0,20180803,lewis robert b,114036118035389,Executive VP and CFO,male,110617896.0
+16620.0,,849869,silgan holdings inc,0,1,0,0,20180817,andreacchi anthony p,156761918001380,"Vice President,Tax",male,110617896.0
+7500.0,,849869,silgan holdings inc,1,0,0,0,20180820,abramson leigh j,156761918001484,,female,110617896.0
+65655.0,,849869,silgan holdings inc,1,0,0,0,20180831,alden john w,156761918001989,,male,110617896.0
+8235.0,,849869,silgan holdings inc,1,0,0,0,20181030,donovan william t,156761918004777,,male,110617896.0
+393063.0,,849869,silgan holdings inc,0,1,0,0,20181101,lewis robert b,156761918004935,Executive VP and CFO,male,110617896.0
+368063.0,,849869,silgan holdings inc,0,1,0,0,20181109,lewis robert b,156761918005559,Executive VP and CFO,male,110617896.0
+361763.0,,849869,silgan holdings inc,0,1,0,0,20181116,lewis robert b,156761918006545,Executive VP and CFO,male,110617896.0
+343063.0,,849869,silgan holdings inc,0,1,0,0,20181128,lewis robert b,156761918007035,Executive VP and CFO,male,110617896.0
+933905.0,,849869,silgan holdings inc,1,1,0,0,20190219,allott anthony j,156761919004847,President and CEO,male,110429596.0
+39053.0,,849869,silgan holdings inc,1,0,0,0,20190222,jennings william c,156761919005275,,male,110429596.0
+802457.0,,849869,silgan holdings inc,1,1,0,0,20190305,allott anthony j,156761919006161,President and CEO,male,110429596.0
+270517.0,,849869,silgan holdings inc,0,1,0,0,20190305,lewis robert b,156761919006164,Executive VP and CFO,male,110429596.0
+171367.0,,849869,silgan holdings inc,0,1,0,0,20190305,greenlee adam j,156761919006165,Executive VP and COO,male,110429596.0
+197355.0,,849869,silgan holdings inc,0,1,0,0,20190305,hogan frank w iii,156761919006166,"Sr. V.P., Gen. Counsel & Sec.",male,110429596.0
+38242.0,,849869,silgan holdings inc,0,1,0,0,20190305,prinzen b frederik,156761919006168,Sr. V.P. - Corp. Dev.,male,110429596.0
+22992.0,,849869,silgan holdings inc,0,1,0,0,20190305,andreacchi anthony p,156761919006169,"Vice President,Tax",male,110429596.0
+49881.0,,849869,silgan holdings inc,0,1,0,0,20190305,ulmer kimberly irene,156761919006170,"VP, Finance & Treasurer",female,110429596.0
+156364.0,,849869,silgan holdings inc,0,1,0,0,20190305,snyder thomas james,156761919006171,President - Silgan Containers,male,110429596.0
+61367.0,,849869,silgan holdings inc,0,1,0,0,20190503,greenlee adam j,156761919009761,President and COO,male,111142513.0
+195517.0,,849869,silgan holdings inc,0,1,0,0,20190503,lewis robert b,156761919009763,Executive VP and CFO,male,111142513.0
+26000.0,,849869,silgan holdings inc,0,1,0,0,20190503,prinzen b frederik,156761919009764,Sr. V.P. - Corp. Dev.,male,111142513.0
+19300.0,,849869,silgan holdings inc,0,1,0,0,20190517,andreacchi anthony p,156761919011529,"Vice President,Tax",male,111142513.0
+11911.0,,849869,silgan holdings inc,1,0,0,0,20190617,donovan william t,156761919013467,,male,111142513.0
+69331.0,,849869,silgan holdings inc,1,0,0,0,20190617,alden john w,156761919013465,,male,111142513.0
+13924.0,,849869,silgan holdings inc,1,0,0,0,20190617,abramson leigh j,156761919013464,,female,111142513.0
+20603.0,,849869,silgan holdings inc,1,0,0,0,20190617,jordan joseph m,156761919013469,,male,111142513.0
+55191.0,17238430.0,849869,silgan holdings inc,1,0,1,0,20190617,silver r philip,156761919013462,,male,111142513.0
+8490489.0,6257160.0,849869,silgan holdings inc,1,0,1,0,20190617,horrigan d greg,156761919013463,,male,111142513.0
+145920.0,,849869,silgan holdings inc,0,1,0,0,20190809,snyder thomas james,156761919016158,President - Silgan Containers,male,111175846.0
+67331.0,,849869,silgan holdings inc,1,0,0,0,20190830,alden john w,156761919017721,,male,111175846.0
+138078.0,,849869,silgan holdings inc,0,1,0,0,20191108,snyder thomas james,84986919000054,President - Silgan Containers,male,110768306.0
+55413.0,,849869,silgan holdings inc,0,1,0,0,20200303,ulmer kimberly irene,162828020002789,"VP, Finance & Treasurer",female,110780464.0
+138881.0,,849869,silgan holdings inc,0,1,0,0,20200303,snyder thomas james,162828020002791,President - Silgan Containers,male,110780464.0
+19942.0,,849869,silgan holdings inc,0,1,0,0,20200303,andreacchi anthony p,162828020002788,"Vice President, Tax",male,110780464.0
+244237.0,,849869,silgan holdings inc,0,1,0,0,20200303,hogan frank w iii,162828020002782,"Sr. V.P., Gen. Counsel & Sec.",male,110780464.0
+23692.0,,849869,silgan holdings inc,0,1,0,0,20200303,prinzen b frederik,162828020002784,Sr. V.P. - Corp. Dev.,male,110780464.0
+167668.0,,849869,silgan holdings inc,0,1,0,0,20200303,greenlee adam j,162828020002780,President and COO,male,110780464.0
+1057131.0,,849869,silgan holdings inc,1,1,0,0,20200303,allott anthony j,162828020002778,Chairman of the Board and CEO,male,110780464.0
+294775.0,,849869,silgan holdings inc,0,1,0,0,20200303,lewis robert b,162828020002781,Executive VP and CFO,male,110780464.0
+15800.0,,849869,silgan holdings inc,0,1,0,0,20200501,andreacchi anthony p,84986920000023,"Vice President, Tax",male,110871203.0
+18580.0,,849869,silgan holdings inc,0,1,0,0,20200501,prinzen b frederik,84986920000025,Sr. V.P. - Corp. Dev.,male,110871203.0
+292243.0,,849869,silgan holdings inc,0,1,0,0,20200521,lewis robert b,84986920000035,Executive VP and CFO,male,110871203.0
+282243.0,,849869,silgan holdings inc,0,1,0,0,20200528,lewis robert b,84986920000037,Executive VP and CFO,male,110871203.0
+9067623.0,5156098.0,849869,silgan holdings inc,1,0,1,0,20200611,horrigan d greg,84986920000055,,male,110871203.0
+9677.0,7500.0,849869,silgan holdings inc,1,0,0,0,20200611,abramson leigh j,84986920000056,,female,110871203.0
+5811.0,,849869,silgan holdings inc,1,0,0,0,20200611,lich brad a,84986920000054,,male,110871203.0
+58444.0,16638430.0,849869,silgan holdings inc,1,0,1,0,20200611,silver r philip,84986920000058,,male,110871203.0
+6746.0,,849869,silgan holdings inc,1,0,0,0,20200611,fields kimberly a,84986920000052,,female,110871203.0
+23856.0,,849869,silgan holdings inc,1,0,0,0,20200611,jordan joseph m,84986920000057,,male,110871203.0
+15164.0,,849869,silgan holdings inc,1,0,0,0,20200611,donovan william t,84986920000053,,male,110871203.0
+262243.0,,849869,silgan holdings inc,0,1,0,0,20200731,lewis robert b,84986920000068,Executive VP and CFO,male,110885829.0
+8701403.0,4722318.0,849869,silgan holdings inc,1,0,1,0,20200828,horrigan d greg,84986920000079,,male,110885829.0
+114820.0,,849869,silgan holdings inc,0,1,0,0,20200828,snyder thomas james,84986920000080,President - Silgan Containers,male,110885829.0
+989728.0,,849869,silgan holdings inc,1,1,0,0,20210219,allott anthony j,84986921000024,Chairman of the Board and CEO,male,110057027.0
+242300.0,,849869,silgan holdings inc,0,1,0,0,20210219,lewis robert b,84986921000025,Executive VP and CFO,male,110057027.0
+1068728.0,,849869,silgan holdings inc,1,1,0,0,20210226,allott anthony j,84986921000038,Chairman of the Board and CEO,male,110057027.0
+199668.0,,849869,silgan holdings inc,0,1,0,0,20210226,greenlee adam j,84986921000039,President and COO,male,110057027.0
+274300.0,,849869,silgan holdings inc,0,1,0,0,20210226,lewis robert b,84986921000040,Executive VP and CFO,male,110057027.0
+258237.0,,849869,silgan holdings inc,0,1,0,0,20210226,hogan frank w iii,84986921000041,"Sr. V.P., Gen. Counsel & Sec.",male,110057027.0
+23332.0,,849869,silgan holdings inc,0,1,0,0,20210303,prinzen b frederik,84986921000051,Sr. V.P. - Corp. Dev.,male,110057027.0
+118496.0,,849869,silgan holdings inc,0,1,0,0,20210303,snyder thomas james,84986921000059,President - Silgan Containers,male,110057027.0
+142095.0,,849869,silgan holdings inc,0,1,0,0,20210303,martin jay a,84986921000057,Vice President,male,110057027.0
+55791.0,,849869,silgan holdings inc,0,1,0,0,20210303,ulmer kimberly irene,84986921000055,"VP, Finance & Treasurer",female,110057027.0
+16993.0,,849869,silgan holdings inc,0,1,0,0,20210303,andreacchi anthony p,84986921000053,"Vice President, Tax",male,110057027.0
+255388.0,,849869,silgan holdings inc,0,1,0,0,20210303,lewis robert b,84986921000049,Executive VP and CFO,male,110057027.0
+1013904.0,,849869,silgan holdings inc,1,1,0,0,20210303,allott anthony j,84986921000043,Chairman of the Board and CEO,male,110057027.0
+177958.0,,849869,silgan holdings inc,0,1,0,0,20210303,greenlee adam j,84986921000045,President and COO,male,110057027.0
+249773.0,,849869,silgan holdings inc,0,1,0,0,20210303,hogan frank w iii,84986921000048,"Sr. V.P., Gen. Counsel & Sec.",male,110057027.0
+18580.0,,849869,silgan holdings inc,0,1,0,0,20210507,prinzen b frederik,84986921000067,Sr. V.P. - Corp. Dev.,male,110399361.0
+108280.0,,849869,silgan holdings inc,0,1,0,0,20210528,snyder thomas james,84986921000069,President - Silgan Containers,male,110399361.0
+61411.0,12144274.0,849869,silgan holdings inc,1,0,1,0,20210604,silver r philip,84986921000085,,male,110399361.0
+9713.0,,849869,silgan holdings inc,1,0,0,0,20210604,fields kimberly a,84986921000081,,female,110399361.0
+8504370.0,4286704.0,849869,silgan holdings inc,1,0,1,0,20210604,horrigan d greg,84986921000082,,male,110399361.0
+18131.0,,849869,silgan holdings inc,1,0,0,0,20210604,donovan william t,84986921000080,,male,110399361.0
+26823.0,,849869,silgan holdings inc,1,0,0,0,20210604,jordan joseph m,84986921000083,,male,110399361.0
+8778.0,,849869,silgan holdings inc,1,0,0,0,20210604,lich brad a,84986921000084,,male,110399361.0
+12644.0,7500.0,849869,silgan holdings inc,1,0,0,0,20210604,abramson leigh j,84986921000079,,female,110399361.0
+893904.0,,849869,silgan holdings inc,1,1,0,0,20211117,allott anthony j,84986921000109,Chairman of the Board,male,110410229.0
+235388.0,,849869,silgan holdings inc,0,1,0,0,20211124,lewis robert b,84986921000111,Executive VP and CFO,male,110410229.0
+818460.0,,849869,silgan holdings inc,1,1,0,0,20220210,allott anthony j,84986922000008,Chairman of the Board,male,110410229.0
+793904.0,,849869,silgan holdings inc,1,1,0,0,20220218,allott anthony j,84986922000012,Chairman of the Board,male,110410229.0
+859904.0,,849869,silgan holdings inc,1,1,0,0,20220225,allott anthony j,84986922000031,Chairman of the Board,male,110410229.0
+204458.0,,849869,silgan holdings inc,0,1,0,0,20220225,greenlee adam j,84986922000032,President and CEO,male,110410229.0
+261888.0,,849869,silgan holdings inc,0,1,0,0,20220225,lewis robert b,84986922000033,Executive VP and CFO,male,110410229.0
+261273.0,,849869,silgan holdings inc,0,1,0,0,20220225,hogan frank w iii,84986922000034,"Sr. V.P., Gen. Counsel & Sec.",male,110410229.0
+194095.0,,849869,silgan holdings inc,0,1,0,0,20220225,martin jay a,84986922000035,Vice President,male,110410229.0
+78683.0,,849869,silgan holdings inc,0,1,0,0,20220303,snyder thomas james,84986922000051,President - Silgan Containers,male,110410229.0
+10000.0,,849869,silgan holdings inc,0,1,0,0,20220303,mcgrath stacey j.,84986922000055,"Vice President, Tax",female,110410229.0
+17868.0,,849869,silgan holdings inc,0,1,0,0,20220303,murphy daniel patrick,84986922000054,Vice President & Controller,male,110410229.0
+180180.0,,849869,silgan holdings inc,0,1,0,0,20220303,martin jay a,84986922000053,Vice President,male,110410229.0
+59400.0,,849869,silgan holdings inc,0,1,0,0,20220303,ulmer kimberly irene,84986922000049,"Sr. VP, Finance & Treasurer",female,110410229.0
+253586.0,,849869,silgan holdings inc,0,1,0,0,20220303,hogan frank w iii,84986922000045,"Sr. V.P., Gen. Counsel & Sec.",male,110410229.0
+240095.0,,849869,silgan holdings inc,0,1,0,0,20220303,lewis robert b,84986922000043,Executive VP and CFO,male,110410229.0
+196730.0,,849869,silgan holdings inc,0,1,0,0,20220303,greenlee adam j,84986922000042,President and CEO,male,110410229.0
+774250.0,,849869,silgan holdings inc,1,1,0,0,20220303,allott anthony j,84986922000041,Chairman of the Board,male,110410229.0
+16514.0,,849869,silgan holdings inc,0,1,0,0,20220303,prinzen b frederik,84986922000047,Sr. V.P. - Corp. Dev.,male,110410229.0
+11940.0,,849869,silgan holdings inc,0,1,0,0,20220505,prinzen b frederik,84986922000068,Sr. V.P. - Corp. Dev.,male,110800407.0
+20964.0,,849869,silgan holdings inc,1,0,0,0,20220603,donovan william t,84986922000088,,male,110800407.0
+12546.0,,849869,silgan holdings inc,1,0,0,0,20220603,fields kimberly a,84986922000089,,female,110800407.0
+15477.0,7500.0,849869,silgan holdings inc,1,0,0,0,20220603,abramson leigh j,84986922000087,,female,110800407.0
+29656.0,,849869,silgan holdings inc,1,0,0,0,20220603,jordan joseph m,84986922000090,,male,110800407.0
+8736484.0,4057423.0,849869,silgan holdings inc,1,0,1,0,20220603,horrigan d greg,84986922000085,,male,110800407.0
+64244.0,12144274.0,849869,silgan holdings inc,1,0,1,0,20220603,silver r philip,84986922000086,,male,110800407.0
+11611.0,,849869,silgan holdings inc,1,0,0,0,20220603,lich brad a,84986922000091,,male,110800407.0
+225095.0,,849869,silgan holdings inc,0,1,0,0,20220830,lewis robert b,84986922000114,Executive VP and CFO,male,110215515.0
+777083.0,,849869,silgan holdings inc,1,0,0,0,20221104,allott anthony j,84986922000127,,male,110079007.0
+217595.0,,849869,silgan holdings inc,0,1,0,0,20221123,lewis robert b,84986922000131,Executive VP and CFO,male,110079007.0
+58683.0,,849869,silgan holdings inc,0,1,0,0,20230202,snyder thomas james,84986923000005,President - Silgan Containers,male,110079007.0
+50484.0,,849869,silgan holdings inc,0,1,0,0,20230203,ulmer kimberly irene,84986923000006,"Sr. VP, Finance & Treasurer",female,110079007.0
+709501.0,,849869,silgan holdings inc,1,0,0,0,20230210,allott anthony j,84986923000011,,male,110079007.0
+694429.0,,849869,silgan holdings inc,1,0,0,0,20230214,allott anthony j,84986923000014,,male,110079007.0
+301630.0,,849869,silgan holdings inc,1,1,0,0,20230224,greenlee adam j,84986923000025,President and CEO,male,110079007.0
+240595.0,,849869,silgan holdings inc,0,1,0,0,20230224,lewis robert b,84986923000026,Executive VP and CFO,male,110079007.0
+263586.0,,849869,silgan holdings inc,0,1,0,0,20230224,hogan frank w iii,84986923000027,"EVP, Gen. Counsel & Sec.",male,110079007.0
+14340.0,,849869,silgan holdings inc,0,1,0,0,20230224,prinzen b frederik,84986923000028,Sr. V.P. - Corp. Dev.,male,110079007.0
+108683.0,,849869,silgan holdings inc,0,1,0,0,20230224,snyder thomas james,84986923000029,President - Silgan Containers,male,110079007.0
+110302.0,,849869,silgan holdings inc,0,1,0,0,20230303,snyder thomas james,84986923000047,President - Silgan Containers,male,110079007.0
+182222.0,,849869,silgan holdings inc,0,1,0,0,20230303,martin jay a,84986923000046,Vice President,male,110079007.0
+14744.0,,849869,silgan holdings inc,0,1,0,0,20230303,prinzen b frederik,84986923000045,Sr. V.P. - Corp. Dev.,male,110079007.0
+271198.0,,849869,silgan holdings inc,1,1,0,0,20230303,greenlee adam j,84986923000041,President and CEO,male,110079007.0
+261536.0,,849869,silgan holdings inc,0,1,0,0,20230303,hogan frank w iii,84986923000043,"EVP, Gen. Counsel & Sec.",male,110079007.0
+229229.0,,849869,silgan holdings inc,0,1,0,0,20230303,lewis robert b,84986923000042,Executive VP and CFO,male,110079007.0
+10152.0,,849869,silgan holdings inc,0,1,0,0,20230303,mcgrath stacey j.,84986923000048,"Vice President, Tax",female,110079007.0
+51014.0,,849869,silgan holdings inc,0,1,0,0,20230303,ulmer kimberly irene,84986923000044,"Sr. VP, Finance & Treasurer",female,110079007.0
+656830.0,,849869,silgan holdings inc,1,0,0,0,20230303,allott anthony j,84986923000040,,male,110079007.0
+20521.0,,849869,silgan holdings inc,0,1,0,0,20230303,murphy daniel patrick,84986923000049,Vice President & Controller,male,110079007.0
+1742456.0,1268218.0,849869,silgan holdings inc,1,0,1,0,20230517,horrigan d greg,84986923000083,,male,110252446.0
+182222.0,,849869,silgan holdings inc,0,1,0,0,20230601,martin jay a,84986923000106,Senior Vice President,male,110252446.0
+20521.0,,849869,silgan holdings inc,0,1,0,0,20230601,murphy daniel patrick,84986923000107,Vice President & Controller,male,110252446.0
+110302.0,,849869,silgan holdings inc,0,1,0,0,20230601,snyder thomas james,84986923000109,President - Silgan Containers,male,110252446.0
+261536.0,,849869,silgan holdings inc,0,1,0,0,20230601,hogan frank w iii,84986923000102,"EVP, Gen. Counsel & Sec.",male,110252446.0
+229229.0,,849869,silgan holdings inc,0,1,0,0,20230601,lewis robert b,84986923000103,"EVP, Corp. Dev. & Admin.",male,110252446.0
+51014.0,,849869,silgan holdings inc,0,1,0,0,20230601,ulmer kimberly irene,84986923000104,"SVP, CFO & Treasurer",female,110252446.0
+10152.0,,849869,silgan holdings inc,0,1,0,0,20230601,mcgrath stacey j.,84986923000108,"Vice President, Tax",female,110252446.0
+14744.0,,849869,silgan holdings inc,0,1,0,0,20230601,prinzen b frederik,84986923000105,Sr. V.P. - Corp. Dev.,male,110252446.0
+18225.0,7500.0,849869,silgan holdings inc,1,0,0,0,20230602,abramson leigh j,84986923000116,,female,110252446.0
+23712.0,,849869,silgan holdings inc,1,0,0,0,20230602,donovan william t,84986923000117,,male,110252446.0
+15294.0,,849869,silgan holdings inc,1,0,0,0,20230602,fields kimberly a,84986923000118,,female,110252446.0
+32404.0,,849869,silgan holdings inc,1,0,0,0,20230602,jordan joseph m,84986923000119,,male,110252446.0
+14359.0,,849869,silgan holdings inc,1,0,0,0,20230602,lich brad a,84986923000120,,male,110252446.0
+4382.0,,849869,silgan holdings inc,1,0,0,0,20230602,ramdev niharika,84986923000121,,male,110252446.0
+204229.0,,849869,silgan holdings inc,1,1,0,0,20230809,lewis robert b,84986923000137,"EVP, Corp. Dev. & Admin.",male,109946430.0
+29437.0,,849869,silgan holdings inc,1,0,0,0,20230818,jordan joseph m,84986923000144,,male,109946430.0
+9077.7181,,849869,silgan holdings inc,0,1,0,0,20231103,mcgrath stacey j.,84986923000156,"Vice President, Tax",female,106498436.0
+655516.0,,849869,silgan holdings inc,1,0,0,0,20231106,allott anthony j,84986923000160,,male,106498436.0
+85979.0,,849869,silgan holdings inc,0,1,0,0,20231109,snyder thomas james,84986923000162,President - Silgan Containers,male,106498436.0
+179229.0,,849869,silgan holdings inc,1,1,0,0,20231115,lewis robert b,84986923000168,"EVP, Corp. Dev. & Admin.",male,106498436.0
+574439.0,,849869,silgan holdings inc,1,0,0,0,20231116,allott anthony j,84986923000170,,male,106498436.0
+,10051967.0,849869,silgan holdings inc,0,0,0,1,20240216,horrigan d greg,84986924000009,,male,106499955.0
+272036.0,,849869,silgan holdings inc,0,1,0,0,20240301,hogan frank w iii,84986924000027,"EVP, Gen. Counsel & Sec.",male,106499955.0
+76014.0,,849869,silgan holdings inc,0,1,0,0,20240301,ulmer kimberly irene,84986924000028,SVP & CFO,female,106499955.0
+198222.0,,849869,silgan holdings inc,0,1,0,0,20240301,martin jay a,84986924000029,Senior Vice President,male,106499955.0
+93979.0,,849869,silgan holdings inc,0,1,0,0,20240301,snyder thomas james,84986924000030,President - Silgan Containers,male,106499955.0
+341198.0,,849869,silgan holdings inc,1,1,0,0,20240301,greenlee adam j,84986924000025,President and CEO,male,106499955.0
+577187.0,,849869,silgan holdings inc,1,0,0,0,20240301,allott anthony j,84986924000024,,male,106499955.0
+197729.0,,849869,silgan holdings inc,1,1,0,0,20240301,lewis robert b,84986924000026,"EVP, Corp. Dev. & Admin.",male,106499955.0
+109120.0,,849869,silgan holdings inc,0,1,0,0,20240304,snyder thomas james,84986924000059,President - Silgan Containers,male,106499955.0
+13094.7181,,849869,silgan holdings inc,0,1,0,0,20240304,mcgrath stacey j.,84986924000057,"Vice President, Tax",female,106499955.0
+24021.0,,849869,silgan holdings inc,0,1,0,0,20240304,murphy daniel patrick,84986924000055,"VP, Controller & Treasurer",male,106499955.0
+42641.0,,849869,silgan holdings inc,0,1,0,0,20240304,fabry shawn c,84986924000052,"SVP, Corporate Development",male,106499955.0
+187319.0,,849869,silgan holdings inc,0,1,0,0,20240304,martin jay a,84986924000053,Senior Vice President,male,106499955.0
+86923.0,,849869,silgan holdings inc,0,1,0,0,20240304,ulmer kimberly irene,84986924000050,SVP & CFO,female,106499955.0
+8613.0,,849869,silgan holdings inc,0,1,0,0,20240304,prinzen b frederik,84986924000051,Sr. V.P. - Corp. Dev.,male,106499955.0
+352332.0,,849869,silgan holdings inc,1,1,0,0,20240304,greenlee adam j,84986924000047,President and CEO,male,106499955.0
+556480.0,,849869,silgan holdings inc,1,0,0,0,20240304,allott anthony j,84986924000046,,male,106499955.0
+202133.0,,849869,silgan holdings inc,1,1,0,0,20240304,lewis robert b,84986924000049,"EVP, Corp. Dev. & Admin.",male,106499955.0
+278734.0,,849869,silgan holdings inc,0,1,0,0,20240304,hogan frank w iii,84986924000048,"EVP, Gen. Counsel & Sec.",male,106499955.0
+144161.0,,849869,silgan holdings inc,0,1,0,0,20240510,martin jay a,84986924000075,Senior Vice President,male,106775134.0
+172133.0,,849869,silgan holdings inc,1,1,0,0,20240510,lewis robert b,84986924000077,"EVP, Corp. Dev. & Admin.",male,106775134.0
+4520.0,,849869,silgan holdings inc,0,1,0,0,20240515,prinzen b frederik,84986924000083,Sr. V.P. - Corp. Dev.,male,106775134.0
+107984.0,,849869,silgan holdings inc,0,1,0,0,20240517,martin jay a,84986924000088,Senior Vice President,male,106775134.0
+555206.0,,849869,silgan holdings inc,1,0,0,0,20240530,allott anthony j,84986924000094,,male,106775134.0
+20937.0,7500.0,849869,silgan holdings inc,1,0,0,0,20240531,abramson leigh j,84986924000106,,female,106775134.0
+26424.0,,849869,silgan holdings inc,1,0,0,0,20240531,donovan william t,84986924000107,,male,106775134.0
+18006.0,,849869,silgan holdings inc,1,0,0,0,20240531,fields kimberly a,84986924000108,,female,106775134.0
+17071.0,,849869,silgan holdings inc,1,0,0,0,20240531,lich brad a,84986924000109,,male,106775134.0
+7094.0,,849869,silgan holdings inc,1,0,0,0,20240531,ramdev niharika,84986924000110,,male,106775134.0
+2712.0,,849869,silgan holdings inc,1,0,0,0,20240531,cleland nielsen fiona,84986924000112,,male,106775134.0
+11494.7181,,849869,silgan holdings inc,0,1,0,0,20240805,mcgrath stacey j.,84986924000124,"Vice President, Tax",female,106779356.0
+456812.0,,849869,silgan holdings inc,1,0,0,0,20241119,allott anthony j,84986924000145,,male,106794650.0

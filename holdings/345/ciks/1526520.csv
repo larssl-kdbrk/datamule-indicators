@@ -1,84 +1,430 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20111222,khosrowshahi dara,122520811026881,,female,1000.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20111222,kaufman victor,122520811026880,,male,1000.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20111222,wiesenthal robert s,122520811026879,,male,1000.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20111222,philips jeremy,122520811026878,,male,1000.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20111222,miller jon,122520811026877,,male,1000.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20111222,singh cassidy sukhinder,122520811026876,,female,1000.0
-0.0,0.0,1526520,"tripadvisor, inc.",,,1.0,,20111222,"expedia, inc.",122520811026830,,male,1000.0
-125921.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20120223,khosrowshahi dara,122520812005275,,female,120661808.0
-4627567.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20120229,diller barry,118143112013140,Sr Executive; Chairman,male,120661808.0
-3037.0,0.0,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20120229,kalvert seth j,118143112013138,"SVP, GC, Secretary",male,120661808.0
-230932.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20120229,kaufer stephen,118143112013137,Chief Executive Officer,male,120661808.0
-267287.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,,,20120306,kaufer stephen,122520812006852,CEO and Pres.,male,120661808.0
-13359904.0,0.0,1526520,"tripadvisor, inc.",0.0,0.0,1.0,0.0,20120504,liberty interactive corp,110465912033081,,male,121395744.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20120508,kalvert seth j,122520812011523,"SVP, GC, Sec.",male,121395744.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20120508,bradley julie mb,122520812011522,"SVP, CFO, Treas.",female,121395744.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,,,20120508,kaufer stephen,122520812011524,CEO and Pres.,male,121395744.0
-8051.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20121004,bradley julie mb,122520812021011,"SVP, CFO, Treas.",female,121395744.0
-18159752.0,0.0,1526520,"tripadvisor, inc.",0.0,0.0,1.0,0.0,20121212,liberty interactive corp,110465912083650,,male,121395744.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121213,diller barry,118143112064498,,male,121395744.0
-3599.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,miller jon,118143112065700,,male,121395744.0
-3599.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,wiesenthal robert s,118143112065688,,male,121395744.0
-3599.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,singh cassidy sukhinder,118143112065706,,female,121395744.0
-45609.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,diller barry,118143112065711,,male,121395744.0
-129520.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,khosrowshahi dara,118143112065713,,female,121395744.0
-3599.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,kaufman victor,118143112065717,,male,121395744.0
-3599.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,philips jeremy,118143112065692,,male,121395744.0
-5406.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,philips jeremy,118143112066878,,male,121395744.0
-5406.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,wiesenthal robert s,118143112066877,,male,121395744.0
-5406.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,kaufman victor,118143112066881,,male,121395744.0
-5406.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,singh cassidy sukhinder,118143112066882,,female,121395744.0
-5406.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,miller jon,118143112066879,,male,121395744.0
-233007.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,khosrowshahi dara,118143112066880,,female,121395744.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20111222,khosrowshahi dara,122520811026881,,female,1000.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20111222,kaufman victor,122520811026880,,male,1000.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20111222,wiesenthal robert s,122520811026879,,male,1000.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20111222,philips jeremy,122520811026878,,male,1000.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20111222,miller jon,122520811026877,,male,1000.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20111222,singh cassidy sukhinder,122520811026876,,female,1000.0
+0.0,,1526520,"tripadvisor, inc.",,,1.0,,20111222,"expedia, inc.",122520811026830,,male,1000.0
+125921.0,,1526520,"tripadvisor, inc.",1.0,,,,20120223,khosrowshahi dara,122520812005275,,female,120661808.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20120229,kaufer stephen,118143112013137,Chief Executive Officer,male,120661808.0
+,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20120229,kalvert seth j,118143112013138,"SVP, GC, Secretary",male,120661808.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20120229,diller barry,118143112013140,Sr Executive; Chairman,male,120661808.0
+267287.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20120306,kaufer stephen,122520812006852,CEO and Pres.,male,120661808.0
+13359904.0,,1526520,"tripadvisor, inc.",0.0,0.0,1.0,0.0,20120504,liberty interactive corp,110465912033081,,male,121395744.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20120508,kaufer stephen,122520812011524,CEO and Pres.,male,121395744.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20120508,kalvert seth j,122520812011523,"SVP, GC, Sec.",male,121395744.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20120508,bradley julie mb,122520812011522,"SVP, CFO, Treas.",female,121395744.0
+8051.0,,1526520,"tripadvisor, inc.",,1.0,,,20121004,bradley julie mb,122520812021011,"SVP, CFO, Treas.",female,121395744.0
+18159752.0,,1526520,"tripadvisor, inc.",0.0,0.0,1.0,0.0,20121212,liberty interactive corp,110465912083650,,male,121395744.0
+0.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121213,diller barry,118143112064498,,male,121395744.0
+3599.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,kaufman victor,118143112065717,,male,121395744.0
+3599.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,wiesenthal robert s,118143112065688,,male,121395744.0
+3599.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,philips jeremy,118143112065692,,male,121395744.0
+3599.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,miller jon,118143112065700,,male,121395744.0
+3599.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,singh cassidy sukhinder,118143112065706,,female,121395744.0
+45609.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,diller barry,118143112065711,,male,121395744.0
+129520.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121218,khosrowshahi dara,118143112065713,,female,121395744.0
+5406.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,philips jeremy,118143112066878,,male,121395744.0
+5406.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,miller jon,118143112066879,,male,121395744.0
+233007.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,khosrowshahi dara,118143112066880,,female,121395744.0
+5406.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,kaufman victor,118143112066881,,male,121395744.0
+5406.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,singh cassidy sukhinder,118143112066882,,female,121395744.0
+5406.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20121221,wiesenthal robert s,118143112066877,,male,121395744.0
+3377.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130220,shean christopher w,118143113011109,,male,130060138.0
 3377.0,1938.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130220,maffei gregory b,118143113011104,,male,130060138.0
-3377.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130220,shean christopher w,118143113011109,,male,130060138.0
-269884.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20130304,kaufer stephen,118143113014146,President and CEO,male,130060138.0
-0.0,0.0,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20130304,bradley julie mb,118143113014147,"SVP, CFO, Treas.",female,130060138.0
-3786.0,0.0,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20130304,kalvert seth j,118143113014149,"SVP, GC, Sec.",male,130060138.0
-55928.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130304,diller barry,118143113014143,,male,130060138.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20130830,kaufer stephen,118143113047119,President and CEO,male,130060138.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130906,nishar dipchand,118143113048136,,male,130060138.0
-0.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130906,rascoff spencer m,118143113048135,,male,130060138.0
-3786.0,0.0,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20130911,kalvert seth j,118143113048695,"SVP, GC, Sec.",male,130060138.0
-15654.0,0.0,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20131007,bradley julie mb,118143113052880,"SVP, CFO, Treasurer",female,130060138.0
+269884.0,,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20130304,kaufer stephen,118143113014146,President and CEO,male,130060138.0
+55928.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130304,diller barry,118143113014143,,male,130060138.0
+3786.0,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20130304,kalvert seth j,118143113014149,"SVP, GC, Sec.",male,130060138.0
+,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20130304,bradley julie mb,118143113014147,"SVP, CFO, Treas.",female,130060138.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,0.0,0.0,20130830,kaufer stephen,118143113047119,President and CEO,male,130060138.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130906,rascoff spencer m,118143113048135,,male,130060138.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20130906,nishar dipchand,118143113048136,,male,130060138.0
+,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20130911,kalvert seth j,118143113048695,"SVP, GC, Sec.",male,130060138.0
+15654.0,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20131007,bradley julie mb,118143113052880,"SVP, CFO, Treasurer",female,130060138.0
+7249.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,miller jon,118143113063107,,male,130060138.0
+1843.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,nishar dipchand,118143113063084,,male,130060138.0
+7249.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,philips jeremy,118143113063092,,male,130060138.0
 5220.0,1938.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,maffei gregory b,118143113063095,,male,130060138.0
-7249.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,singh cassidy sukhinder,118143113063098,,female,130060138.0
-5220.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,shean christopher w,118143113063097,,male,130060138.0
-7249.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,miller jon,118143113063107,,male,130060138.0
-7249.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,philips jeremy,118143113063092,,male,130060138.0
-1843.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,nishar dipchand,118143113063084,,male,130060138.0
-7249.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,wiesenthal robert s,118143113063099,,male,130060138.0
-1843.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,rascoff spencer m,118143113063105,,male,130060138.0
-9056.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,miller jon,118143113064497,,male,130060138.0
-9056.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,singh cassidy sukhinder,118143113064489,,female,130060138.0
-9056.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,philips jeremy,118143113064496,,male,130060138.0
-9056.0,0.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,wiesenthal robert s,118143113064494,,male,130060138.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20140225,kalvert seth j,112760214008333,"SVP, GC, Sec.",male,129417089.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20140225,bradley julie mb,112760214008326,"SVP, CFO, Treasurer",female,129417089.0
-0.0,0.0,1526520,"tripadvisor, inc.",0.0,0.0,1.0,0.0,20140829,liberty interactive corp,110465914063993,,male,129970644.0
-3851.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20140909,rascoff spencer m,112760214027449,,male,129970644.0
-3851.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20140909,nishar dipchand,112760214027447,,male,129970644.0
-23180.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20141007,bradley julie mb,112760214029630,"SVP, CFO, Treasurer",female,130112967.0
-283669.0,0.0,1526520,"tripadvisor, inc.",1.0,1.0,,,20141201,kaufer stephen,112760214033766,President and CEO,male,130112967.0
-6318.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,nishar dipchand,112760214035531,,male,130112967.0
-4241.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,nishar dipchand,112760214035527,,male,130112967.0
-11133.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,philips jeremy,112760214035556,,male,130112967.0
+5220.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,shean christopher w,118143113063097,,male,130060138.0
+7249.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,singh cassidy sukhinder,118143113063098,,female,130060138.0
+7249.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,wiesenthal robert s,118143113063099,,male,130060138.0
+1843.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131217,rascoff spencer m,118143113063105,,male,130060138.0
+9056.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,wiesenthal robert s,118143113064494,,male,130060138.0
+9056.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,philips jeremy,118143113064496,,male,130060138.0
+9056.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,singh cassidy sukhinder,118143113064489,,female,130060138.0
+9056.0,,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20131224,miller jon,118143113064497,,male,130060138.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20140225,bradley julie mb,112760214008326,"SVP, CFO, Treasurer",female,129417089.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20140225,kalvert seth j,112760214008333,"SVP, GC, Sec.",male,129417089.0
+,,1526520,"tripadvisor, inc.",0.0,0.0,1.0,0.0,20140829,liberty interactive corp,110465914063993,,male,129970644.0
+3851.0,,1526520,"tripadvisor, inc.",1.0,,,,20140909,nishar dipchand,112760214027447,,male,129970644.0
+3851.0,,1526520,"tripadvisor, inc.",1.0,,,,20140909,rascoff spencer m,112760214027449,,male,129970644.0
+23180.0,,1526520,"tripadvisor, inc.",,1.0,,,20141007,bradley julie mb,112760214029630,"SVP, CFO, Treasurer",female,130112967.0
+283669.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20141201,kaufer stephen,112760214033766,President and CEO,male,130112967.0
+6318.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,nishar dipchand,112760214035531,,male,130112967.0
+5928.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,rascoff spencer m,112760214035544,,male,130112967.0
+11133.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,wiesenthal robert s,112760214035548,,male,130112967.0
 7297.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,maffei gregory b,112760214035542,,male,130112967.0
-11133.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,miller jon,112760214035553,,male,130112967.0
-5928.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,rascoff spencer m,112760214035544,,male,130112967.0
-11133.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,singh cassidy sukhinder,112760214035534,,female,130112967.0
-11133.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,wiesenthal robert s,112760214035548,,male,130112967.0
-7297.0,0.0,1526520,"tripadvisor, inc.",1.0,,,,20141217,shean christopher w,112760214035537,,male,130112967.0
-4400.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150218,halpin dermot,112760215006818,"President, Vacation Rentals",male,130121292.0
-4403.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150218,kalvert seth j,112760215006822,"SVP, GC, Sec.",male,130121292.0
-24042.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150218,bradley julie mb,112760215006820,"SVP, CFO, Treasurer",female,130121292.0
-2940.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150219,halpin dermot,112760215007179,"President, Vacation Rentals",male,130121292.0
-2290.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150224,halpin dermot,112760215008059,"President, Vacation Rentals",male,130121292.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150303,bradley julie mb,112760215009607,"SVP, CFO, Treasurer",female,130121292.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150303,seidenberg barrie,112760215009618,"CEO, Viator, Inc.",male,130121292.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150303,halpin dermot,112760215009630,"President, Vacation Rentals",male,130121292.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150303,kalvert seth j,112760215009624,"SVP, GC, Sec.",male,130121292.0
-900.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150514,halpin dermot,112760215017391,"President, Vacation Rentals",male,130704192.0
-1.0,18159752.0,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20150626,"liberty tripadvisor holdings, inc.",110465915048129,,male,130704192.0
-0.0,0.0,1526520,"tripadvisor, inc.",,1.0,,,20150811,seidenberg barrie,112760215024676,"CEO, Viator, Inc.",male,131278178.0
+11133.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,philips jeremy,112760214035556,,male,130112967.0
+4241.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,nishar dipchand,112760214035527,,male,130112967.0
+7297.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,shean christopher w,112760214035537,,male,130112967.0
+11133.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,miller jon,112760214035553,,male,130112967.0
+11133.0,,1526520,"tripadvisor, inc.",1.0,,,,20141217,singh cassidy sukhinder,112760214035534,,female,130112967.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150218,halpin dermot,112760215006818,"President, Vacation Rentals",male,130121292.0
+24042.0,,1526520,"tripadvisor, inc.",,1.0,,,20150218,bradley julie mb,112760215006820,"SVP, CFO, Treasurer",female,130121292.0
+4403.0,,1526520,"tripadvisor, inc.",,1.0,,,20150218,kalvert seth j,112760215006822,"SVP, GC, Sec.",male,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150219,halpin dermot,112760215007179,"President, Vacation Rentals",male,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150224,halpin dermot,112760215008059,"President, Vacation Rentals",male,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150303,bradley julie mb,112760215009607,"SVP, CFO, Treasurer",female,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150303,seidenberg barrie,112760215009618,"CEO, Viator, Inc.",male,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150303,kalvert seth j,112760215009624,"SVP, GC, Sec.",male,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150303,halpin dermot,112760215009630,"President, Vacation Rentals",male,130121292.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150514,halpin dermot,112760215017391,"President, Vacation Rentals",male,130704192.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20150626,"liberty tripadvisor holdings, inc.",110465915048129,,male,130704192.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150811,seidenberg barrie,112760215024676,"CEO, Viator, Inc.",male,131278178.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20150811,seidenberg barrie,112760215024676,"CEO, Viator, Inc.",male,131278178.0
+31768.0,,1526520,"tripadvisor, inc.",,1.0,,,20151007,bradley julie mb,112760215028809,"SVP, CFO, Treasurer",female,131368128.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20151112,halpin dermot,112760215031155,"President, Vacation Rentals",male,131368128.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20151124,bradley julie mb,112760215032525,"SVP, CFO, Treasurer",female,131368128.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20151124,halpin dermot,112760215032491,"President, Vacation Rentals",male,131368128.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20151208,teunissen ernst,112760215033492,Chief Financial Officer,male,131368128.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20151214,seidenberg barrie,112760215033969,"CEO, Viator, Inc.",male,131368128.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20160205,rosenthaler albert e,112760216039801,,male,132443111.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20160205,rosenthaler albert e,112760216039822,,male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160217,seidenberg barrie,112760216041878,"CEO, Viator, Inc.",male,132443111.0
+6524.0,,1526520,"tripadvisor, inc.",,1.0,,,20160217,kalvert seth j,112760216041887,"SVP, GC, Sec.",male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160217,halpin dermot,112760216041902,"President, Vacation Rentals",male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160224,kalvert seth j,112760216043256,"SVP, GC, Sec.",male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160224,teunissen ernst 02494,112760216043246,Chief Financial Officer,male,132443111.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20160224,kaufer stephen,112760216043254,President and CEO,male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160224,seidenberg barrie,112760216043252,"CEO, Viator, Inc.",male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160224,halpin dermot,112760216043240,"President, Vacation Rentals",male,132443111.0
+384107.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20160226,kaufer stephen,112760216043594,President and CEO,male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160307,halpin dermot,112760216045243,"President, Vacation Rentals",male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160309,halpin dermot,112760216045706,"President, Vacation Rentals",male,132443111.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160513,halpin dermot,112760216052181,"President, Vacation Rentals",male,132878188.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20160607,"liberty tripadvisor holdings, inc.",110465916125985,,male,132878188.0
+6178.0,,1526520,"tripadvisor, inc.",1.0,,,,20160627,rosenthaler albert e,112760216056395,,male,132878188.0
+9717.0,,1526520,"tripadvisor, inc.",1.0,,,,20160627,rascoff spencer m,112760216056392,,male,132878188.0
+16729.0,,1526520,"tripadvisor, inc.",1.0,,,,20160627,wiesenthal robert s,112760216056390,,male,132878188.0
+16729.0,,1526520,"tripadvisor, inc.",1.0,,,,20160627,singh cassidy sukhinder,112760216056388,,female,132878188.0
+9717.0,,1526520,"tripadvisor, inc.",1.0,,,,20160627,nishar dipchand,112760216056393,,male,132878188.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20160627,miller jon,112760216056380,,male,132878188.0
+3789.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20160627,maffei gregory b,112760216056378,,male,132878188.0
+16729.0,,1526520,"tripadvisor, inc.",1.0,,,,20160627,philips jeremy,112760216056386,,male,132878188.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160810,seidenberg barrie,112760216060036,"CEO, Viator, Inc.",male,132829000.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160812,halpin dermot,112760216060133,"President, Vacation Rentals",male,132829000.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160829,halpin dermot,112760216061292,"President, Vacation Rentals",male,132829000.0
+6524.0,,1526520,"tripadvisor, inc.",,1.0,,,20160922,kalvert seth j,112760216063077,"SVP, GC, Sec.",male,132829000.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20160926,seidenberg barrie,112760216063196,"CEO, Viator, Inc.",male,132829000.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20161027,seidenberg barrie,112760216065441,"CEO, Viator, Inc.",male,132822184.0
+1384.0,,1526520,"tripadvisor, inc.",,1.0,,,20161102,watson noel bertram,112760216065910,Chief Accounting Officer,male,132822184.0
+12729.0,,1526520,"tripadvisor, inc.",1.0,,,,20170210,singh cassidy sukhinder,112760217005058,,female,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170217,teunissen ernst 02494,112760217007034,Chief Financial Officer,male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170217,halpin dermot,112760217007030,"President, Vacation Rentals",male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170217,seidenberg barrie,112760217007024,"CEO, Viator, Inc.",male,131310980.0
+10920.0,,1526520,"tripadvisor, inc.",,1.0,,,20170217,kalvert seth j,112760217007020,"SVP, GC, Sec.",male,131310980.0
+3314.0,,1526520,"tripadvisor, inc.",,1.0,,,20170217,watson noel bertram,112760217007008,Chief Accounting Officer,male,131310980.0
+438220.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20170221,kaufer stephen,112760217007510,President and CEO,male,131310980.0
+440384.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20170301,kaufer stephen,112760217009405,President and CEO,male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170301,kalvert seth j,112760217009425,"SVP, GC, Sec.",male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170301,watson noel bertram,112760217009431,Chief Accounting Officer,male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170301,teunissen ernst 02494,112760217009433,Chief Financial Officer,male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170301,halpin dermot,112760217009435,"President, Vacation Rentals",male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170306,seidenberg barrie,112760217010459,"CEO, Viator, Inc.",male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170313,seidenberg barrie,112760217011455,"CEO, Viator, Inc.",male,131310980.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170511,halpin dermot,112760217017615,"President, Vacation Rentals",male,128393005.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170519,seidenberg barrie,112760217018878,"CEO, Viator, Inc.",male,128393005.0
+6994.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20170628,maffei gregory b,112760217022317,,male,128393005.0
+6994.0,,1526520,"tripadvisor, inc.",1.0,,,,20170628,philips jeremy,112760217022315,,male,128393005.0
+6994.0,,1526520,"tripadvisor, inc.",1.0,,,,20170628,nishar dipchand,112760217022313,,male,128393005.0
+6994.0,,1526520,"tripadvisor, inc.",1.0,,,,20170628,rascoff spencer m,112760217022312,,male,128393005.0
+6994.0,,1526520,"tripadvisor, inc.",1.0,,,,20170628,rosenthaler albert e,112760217022322,,male,128393005.0
+6994.0,,1526520,"tripadvisor, inc.",1.0,,,,20170628,singh cassidy sukhinder,112760217022307,,female,128393005.0
+6994.0,,1526520,"tripadvisor, inc.",1.0,,,,20170628,wiesenthal robert s,112760217022310,,male,128393005.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20170821,halpin dermot,112760217026094,"President, Vacation Rentals",male,125935508.0
+675.0,,1526520,"tripadvisor, inc.",,1.0,,,20170914,kalvert seth j,112760217027451,"SVP, GC, Sec.",male,125935508.0
+2002.0,,1526520,"tripadvisor, inc.",,1.0,,,20171102,watson noel bertram,112760217030983,Chief Accounting Officer,male,126036505.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20171113,teunissen ernst 02494,112760217031914,Chief Financial Officer,male,126036505.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20171130,kaufer stephen,112760217033566,President and CEO,male,126036505.0
+9371.0,,1526520,"tripadvisor, inc.",1.0,,,,20171218,nishar dipchand,112760217034953,,male,126036505.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180102,halpin dermot,112760218000122,"President, VR and Attractions",male,126142773.0
+2785.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20180202,hoag jay c,108290618000014,,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180208,teunissen ernst 02494,112760218004602,Chief Financial Officer,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180220,halpin dermot,112760218007243,"President, VR and Attractions",male,126142773.0
+1454.0,,1526520,"tripadvisor, inc.",,1.0,,,20180220,watson noel bertram,112760218007308,Chief Accounting Officer,male,126142773.0
+675.0,,1526520,"tripadvisor, inc.",,1.0,,,20180220,kalvert seth j,112760218007341,"SVP, GC, Sec.",male,126142773.0
+2203.0,,1526520,"tripadvisor, inc.",,1.0,,,20180220,watson noel bertram,112760218007343,Chief Accounting Officer,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180220,teunissen ernst 02494,112760218007347,Chief Financial Officer,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180222,halpin dermot,112760218007745,"President, VR and Attractions",male,126142773.0
+464014.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20180222,kaufer stephen,112760218007746,President and CEO,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180226,kalvert seth j,112760218008514,"SVP, GC, Sec.",male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180226,halpin dermot,112760218008509,"President, VR and Attractions",male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180226,teunissen ernst 02494,112760218008511,Chief Financial Officer,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180226,watson noel bertram,112760218008513,Chief Accounting Officer,male,126142773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180515,halpin dermot,112760218017556,"President, Rentals and Experie",male,126669732.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180516,teunissen ernst 02494,112760218017746,Chief Financial Officer,male,126669732.0
+726.0,,1526520,"tripadvisor, inc.",,1.0,,,20180522,watson noel bertram,112760218018460,Chief Accounting Officer,male,126669732.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180619,halpin dermot,112760218021519,"President, Rentals and Experie",male,126669732.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20180619,kalvert seth j,112760218021520,"SVP, GC, Sec.",male,126669732.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180619,teunissen ernst 02494,112760218021523,Chief Financial Officer,male,126669732.0
+726.0,,1526520,"tripadvisor, inc.",,1.0,,,20180619,watson noel bertram,112760218021528,Chief Accounting Officer,male,126669732.0
+7168.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20180625,hoag jay c,108290618000025,,male,126669732.0
+28106.0,,1526520,"tripadvisor, inc.",1.0,,,,20180625,wiesenthal robert s,112760218021878,,male,126669732.0
+28106.0,,1526520,"tripadvisor, inc.",1.0,,,,20180625,philips jeremy,112760218021880,,male,126669732.0
+22463.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20180625,maffei gregory b,112760218021873,,male,126669732.0
+17555.0,,1526520,"tripadvisor, inc.",1.0,,,,20180625,rosenthaler albert e,112760218021876,,male,126669732.0
+17251.0,,1526520,"tripadvisor, inc.",1.0,,,,20180626,nishar dipchand,112760218021883,,male,126669732.0
+21094.0,,1526520,"tripadvisor, inc.",1.0,,,,20180626,rascoff spencer m,112760218021931,,male,126669732.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20180809,halpin dermot,112760218025086,"President, Rentals and Experie",male,124721344.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20180817,watson noel bertram,112760218025720,Chief Accounting Officer,male,124721344.0
+723.0,,1526520,"tripadvisor, inc.",,1.0,,,20181102,watson noel bertram,112760218031902,Chief Accounting Officer,male,124813195.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20181113,watson noel bertram,112760218032872,Chief Accounting Officer,male,124813195.0
+531100.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20181128,kaufer stephen,112760218034617,President and CEO,male,124813195.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20181206,kalvert seth j,112760218035280,"SVP, GC, Sec.",male,124813195.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190102,halpin dermot,112760219000327,"President, Rentals&Experiences",male,125101322.0
+567259.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20190207,kaufer stephen,112760219004573,President and CEO,male,125101322.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190219,teunissen ernst 02494,112760219006829,Chief Financial Officer,male,125101322.0
+11016.0,,1526520,"tripadvisor, inc.",,1.0,,,20190219,kalvert seth j,112760219006834,"SVP, GC, Sec.",male,125101322.0
+3369.0,,1526520,"tripadvisor, inc.",,1.0,,,20190219,watson noel bertram,112760219006839,Chief Accounting Officer,male,125101322.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190219,halpin dermot,112760219006847,"President, Rentals&Experiences",male,125101322.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190225,halpin dermot,112760219008074,"President, Rentals&Experiences",male,125101322.0
+,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20190301,kalvert seth j,89924319005605,"SVP, GC, Sec.",male,125101322.0
+,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20190301,watson noel bertram,89924319005606,Chief Accounting Officer,male,125101322.0
+,,1526520,"tripadvisor, inc.",0.0,1.0,0.0,0.0,20190301,teunissen ernst 02494,89924319005608,Chief Financial Officer,male,125101322.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190301,halpin dermot,112760219009288,"President, Rentals&Experiences",male,125101322.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190304,teunissen ernst 02494,112760219009669,Chief Financial Officer,male,125101322.0
+1216.0,,1526520,"tripadvisor, inc.",1.0,,,,20190313,blake katryn,112760219011276,,male,125101322.0
+1216.0,,1526520,"tripadvisor, inc.",1.0,,,,20190313,morgan betsy l.,112760219011272,,female,125101322.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20190403,kalvert seth j,112760219014659,"SVP, GC, Sec.",male,126199942.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20190415,watson noel bertram,112760219015468,Chief Accounting Officer,male,126199942.0
+12625.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20190613,hoag jay c,108290619000013,,male,126199942.0
+30006.0,,1526520,"tripadvisor, inc.",1.0,,,,20190613,rosenthaler albert e,112760219021565,,male,126199942.0
+33563.0,,1526520,"tripadvisor, inc.",1.0,,,,20190613,philips jeremy,112760219021566,,male,126199942.0
+6673.0,,1526520,"tripadvisor, inc.",1.0,,,,20190613,morgan betsy l.,112760219021567,,female,126199942.0
+33563.0,,1526520,"tripadvisor, inc.",1.0,,,,20190613,wiesenthal robert s,112760219021568,,male,126199942.0
+27920.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20190613,maffei gregory b,112760219021569,,male,126199942.0
+26551.0,,1526520,"tripadvisor, inc.",1.0,,,,20190613,rascoff spencer m,112760219021573,,male,126199942.0
+6673.0,,1526520,"tripadvisor, inc.",1.0,,,,20190613,blake katryn,112760219021575,,male,126199942.0
+4464.0,,1526520,"tripadvisor, inc.",,1.0,,,20190618,kalvert seth j,112760219022067,"SVP, GC, Sec.",male,126199942.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190618,halpin dermot,112760219022071,"President, Rentals&Experiences",male,126199942.0
+1649.0,,1526520,"tripadvisor, inc.",,1.0,,,20190618,watson noel bertram,112760219022073,Chief Accounting Officer,male,126199942.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190618,teunissen ernst 02494,112760219022076,Chief Financial Officer,male,126199942.0
+15059.0,,1526520,"tripadvisor, inc.",1.0,,,,20190625,nishar dipchand,112760219022808,,male,126199942.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20190815,halpin dermot,112760219026675,"President, Rentals&Experiences",male,126468470.0
+7490.0,,1526520,"tripadvisor, inc.",1.0,,,,20191206,morgan betsy l.,112760219034419,,female,126559160.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20191206,teunissen ernst 02494,112760219034490,Chief Financial Officer,male,126559160.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20191206,kaufer stephen,112760219034486,President and CEO,male,126559160.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20191206,halpin dermot,112760219034484,"President, Rentals&Experiences",male,126559160.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20191206,kalvert seth j,112760219034479,"SVP, GC, Sec.",male,126559160.0
+28588.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20191206,maffei gregory b,112760219034434,,male,126559160.0
+34231.0,,1526520,"tripadvisor, inc.",1.0,,,,20191206,philips jeremy,112760219034430,,male,126559160.0
+30674.0,,1526520,"tripadvisor, inc.",1.0,,,,20191206,rosenthaler albert e,112760219034417,,male,126559160.0
+13293.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20191206,hoag jay c,108290619000023,,male,126559160.0
+27219.0,,1526520,"tripadvisor, inc.",1.0,,,,20191206,rascoff spencer m,112760219034425,,male,126559160.0
+34231.0,,1526520,"tripadvisor, inc.",1.0,,,,20191206,wiesenthal robert s,112760219034423,,male,126559160.0
+7490.0,,1526520,"tripadvisor, inc.",1.0,,,,20191206,blake katryn,112760219034421,,male,126559160.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20191217,gouvalaris geoffrey,112760219035264,,male,126559160.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20191219,"liberty tripadvisor holdings, inc.",110465919074370,,male,126559160.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20191226,kalvert seth j,112760219035814,"SVP, GC, Sec.",male,126559160.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20191226,teunissen ernst 02494,112760219035810,Chief Financial Officer,male,126559160.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20191226,gouvalaris geoffrey,112760219035812,,male,126559160.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200103,halpin dermot,112760220000298,"President, Rentals&Experiences",male,124581773.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20200106,gouvalaris geoffrey,112760220001160,,male,124581773.0
+597821.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20200212,kaufer stephen,112760220005128,President and CEO,male,124581773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200219,halpin dermot,112760220006419,"President, Rentals&Experiences",male,124581773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200219,teunissen ernst 02494,112760220006407,Chief Financial Officer,male,124581773.0
+2860.0,,1526520,"tripadvisor, inc.",,,,1.0,20200219,gouvalaris geoffrey,112760220006396,,male,124581773.0
+18505.0,,1526520,"tripadvisor, inc.",,1.0,,,20200219,kalvert seth j,112760220006390,"SVP, GC, Sec.",male,124581773.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20200227,gouvalaris geoffrey,112760220008196,,male,124581773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200227,teunissen ernst 02494,112760220008200,Chief Financial Officer,male,124581773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200227,kalvert seth j,112760220008198,"SVP, GC, Sec.",male,124581773.0
+645435.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20200306,kaufer stephen,112760220009718,President and CEO,male,124581773.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20200317,"liberty tripadvisor holdings, inc.",110465920034752,,male,124581773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200528,teunissen ernst 02494,112760220018094,Chief Financial Officer,male,121285697.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20200611,rosenthaler albert e,112760220019456,,male,121285697.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20200611,wiesenthal robert s,112760220019446,,male,121285697.0
+21151.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20200611,hoag jay c,108290620000020,,male,121285697.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20200611,morgan betsy l.,112760220019452,,female,121285697.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20200611,philips jeremy,112760220019448,,male,121285697.0
+,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20200611,maffei gregory b,112760220019454,,male,121285697.0
+,,1526520,"tripadvisor, inc.",1.0,,,,20200611,blake katryn,112760220019450,,male,121285697.0
+24172.0,,1526520,"tripadvisor, inc.",,1.0,,,20200617,kalvert seth j,112760220019937,"SVP, GC, Sec.",male,121285697.0
+3489.0,,1526520,"tripadvisor, inc.",,,,1.0,20200617,gouvalaris geoffrey,112760220019933,,male,121285697.0
+9119.0,,1526520,"tripadvisor, inc.",,1.0,,,20200617,teunissen ernst 02494,112760220019935,Chief Financial Officer,male,121285697.0
+8241.0,,1526520,"tripadvisor, inc.",1.0,,,,20200717,sun jie,112760220021772,,male,121567637.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20200812,gouvalaris geoffrey,112760220023477,,male,121567637.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200812,nelson lindsay,112760220023475,Chief Experience&Brand Officer,female,121567637.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20200812,soni kanika,112760220023473,Chief Commercial Officer,female,121567637.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20200812,kalvert seth j,112760220023496,"SVP, GC, Sec.",male,121567637.0
+11392.0,,1526520,"tripadvisor, inc.",,1.0,,,20201103,nelson lindsay,112760220027997,Chief Experience&Brand Officer,female,121671205.0
+10997.0,,1526520,"tripadvisor, inc.",,1.0,,,20201208,soni kanika,112760220030796,Chief Commercial Officer,female,121671205.0
+20643.0,,1526520,"tripadvisor, inc.",,1.0,,,20201222,nelson lindsay,112760220032233,Chief Experience&Brand Officer,female,121671205.0
+5251.0,,1526520,"tripadvisor, inc.",,,,1.0,20201222,gouvalaris geoffrey,112760220032234,,male,121671205.0
+21804.0,,1526520,"tripadvisor, inc.",,1.0,,,20201222,soni kanika,112760220032225,Chief Commercial Officer,female,121671205.0
+32722.0,,1526520,"tripadvisor, inc.",,1.0,,,20201222,teunissen ernst 02494,112760220032228,Chief Financial Officer,male,121671205.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20201222,kalvert seth j,112760220032230,"SVP, GC, Sec.",male,121671205.0
+5437.0,,1526520,"tripadvisor, inc.",,,,1.0,20210105,gouvalaris geoffrey,112760221000826,,male,121930607.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210111,teunissen ernst 02494,112760221001433,Chief Financial Officer,male,121930607.0
+34588.0,,1526520,"tripadvisor, inc.",,1.0,,,20210216,nelson lindsay,112760221006043,Chief Experience&Brand Officer,female,121930607.0
+12150.0,,1526520,"tripadvisor, inc.",,,,1.0,20210216,gouvalaris geoffrey,112760221006005,,male,121930607.0
+25646.0,,1526520,"tripadvisor, inc.",,1.0,,,20210216,teunissen ernst 02494,112760221006003,Chief Financial Officer,male,121930607.0
+34105.0,,1526520,"tripadvisor, inc.",,1.0,,,20210216,soni kanika,112760221006001,Chief Commercial Officer,female,121930607.0
+22756.0,,1526520,"tripadvisor, inc.",,1.0,,,20210216,kalvert seth j,112760221005994,"SVP, GC, Sec.",male,121930607.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210218,teunissen ernst 02494,112760221006538,Chief Financial Officer,male,121930607.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210218,kalvert seth j,112760221006540,"SVP, GC, Sec.",male,121930607.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20210225,soni kanika,112760221007979,Chief Commercial Officer,female,121930607.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20210225,kaufer stephen,112760221007970,President and CEO,male,121930607.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20210225,kalvert seth j,112760221007966,"SVP, GC, Sec.",male,121930607.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20210225,gouvalaris geoffrey,112760221007963,,male,121930607.0
+22588.0,,1526520,"tripadvisor, inc.",,1.0,,,20210225,nelson lindsay,112760221007976,Chief Experience&Brand Officer,female,121930607.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20210225,teunissen ernst 02494,112760221007982,Chief Financial Officer,male,121930607.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20210226,kaufer stephen,112760221008004,President and CEO,male,121930607.0
+18102.0,,1526520,"tripadvisor, inc.",1.0,,,,20210302,wiesenthal robert s,112760221008855,,male,121930607.0
+18102.0,,1526520,"tripadvisor, inc.",1.0,,,,20210303,philips jeremy,112760221008959,,male,121930607.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20210325,"liberty tripadvisor holdings, inc.",110465921041629,,male,121930607.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20210331,"liberty tripadvisor holdings, inc.",110465921044761,,male,124070237.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20210406,"liberty tripadvisor holdings, inc.",110465921047159,,male,124070237.0
+43108.0,,1526520,"tripadvisor, inc.",,1.0,,,20210419,soni kanika,112760221014059,Chief Commercial Officer,female,124070237.0
+24642.0,,1526520,"tripadvisor, inc.",,1.0,,,20210518,nelson lindsay,112760221017291,Chief Experience&Brand Officer,female,124070237.0
+45551.0,,1526520,"tripadvisor, inc.",,1.0,,,20210518,soni kanika,112760221017275,Chief Commercial Officer,female,124070237.0
+2443.0,,1526520,"tripadvisor, inc.",,1.0,,,20210518,kalvert seth j,112760221017266,"SVP, GC, Sec.",male,124070237.0
+13355.0,,1526520,"tripadvisor, inc.",,,,1.0,20210518,gouvalaris geoffrey,112760221017262,,male,124070237.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210518,teunissen ernst 02494,112760221017283,Chief Financial Officer,male,124070237.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210603,kalvert seth j,112760221019055,"SVP, GC, Sec.",male,124070237.0
+27153.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20210610,hoag jay c,108290621000019,,male,124070237.0
+13860.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,blake katryn,112760221019657,,male,124070237.0
+13860.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,morgan betsy l.,112760221019663,,female,124070237.0
+24104.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,philips jeremy,112760221019665,,male,124070237.0
+13860.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,rosenthaler albert e,112760221019667,,male,124070237.0
+14243.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,sun jie,112760221019669,,male,124070237.0
+24104.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,wiesenthal robert s,112760221019672,,male,124070237.0
+34590.0,,1526520,"tripadvisor, inc.",1.0,,,,20210610,maffei gregory b,112760221019661,,male,124070237.0
+651437.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20210610,kaufer stephen,112760221019659,President and CEO,male,124070237.0
+15642.0,,1526520,"tripadvisor, inc.",,1.0,,,20210614,nelson lindsay,112760221019752,Chief Experience&Brand Officer,female,124070237.0
+13984.0,,1526520,"tripadvisor, inc.",,,,1.0,20210617,gouvalaris geoffrey,112760221020187,,male,124070237.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210617,kalvert seth j,112760221020190,Chief Legal Officer & Sec.,male,124070237.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210617,teunissen ernst 02494,112760221020192,Chief Financial Officer,male,124070237.0
+779590.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20210803,kaufer stephen,112760221022960,President and CEO,male,124573393.0
+17974.0,,1526520,"tripadvisor, inc.",,,,1.0,20210813,gouvalaris geoffrey,112760221023672,,male,124573393.0
+0.0,,1526520,"tripadvisor, inc.",,1.0,,,20210817,teunissen ernst 02494,112760221023891,Chief Financial Officer,male,124573393.0
+47994.0,,1526520,"tripadvisor, inc.",,1.0,,,20210817,soni kanika,112760221023888,Chief Commercial Officer,female,124573393.0
+17696.0,,1526520,"tripadvisor, inc.",,1.0,,,20210817,nelson lindsay,112760221023886,Chief Experience&Brand Officer,female,124573393.0
+2443.0,,1526520,"tripadvisor, inc.",,1.0,,,20210817,kalvert seth j,112760221023883,Chief Legal Officer & Sec.,male,124573393.0
+19180.0,,1526520,"tripadvisor, inc.",,,,1.0,20210817,gouvalaris geoffrey,112760221023881,,male,124573393.0
+37994.0,,1526520,"tripadvisor, inc.",,1.0,,,20210927,soni kanika,112760221025896,Chief Commercial Officer,female,124573393.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20211022,gouvalaris geoffrey,112760221027488,,male,125333035.0
+22878.0,,1526520,"tripadvisor, inc.",,1.0,,,20211102,nelson lindsay,112760221028121,Chief Experience&Brand Officer,female,125333035.0
+1527.0,,1526520,"tripadvisor, inc.",,1.0,,,20211116,teunissen ernst 02494,112760221029368,Chief Financial Officer,male,125333035.0
+40437.0,,1526520,"tripadvisor, inc.",,1.0,,,20211116,soni kanika,112760221029365,Chief Commercial Officer,female,125333035.0
+4886.0,,1526520,"tripadvisor, inc.",,1.0,,,20211116,kalvert seth j,112760221029362,Chief Legal Officer & Sec.,male,125333035.0
+20385.0,,1526520,"tripadvisor, inc.",,,,1.0,20211116,gouvalaris geoffrey,112760221029359,,male,125333035.0
+27077.0,,1526520,"tripadvisor, inc.",,1.0,,,20211116,nelson lindsay,112760221029357,Chief Experience&Brand Officer,female,125333035.0
+37164.0,,1526520,"tripadvisor, inc.",,1.0,,,20211222,nelson lindsay,112760221031798,Chief Experience&Brand Officer,female,125333035.0
+22147.0,,1526520,"tripadvisor, inc.",,,,1.0,20211222,gouvalaris geoffrey,112760221031792,,male,125333035.0
+23861.0,,1526520,"tripadvisor, inc.",,1.0,,,20211222,kalvert seth j,112760221031794,Chief Legal Officer & Sec.,male,125333035.0
+25130.0,,1526520,"tripadvisor, inc.",,1.0,,,20211222,teunissen ernst 02494,112760221031796,Chief Financial Officer,male,125333035.0
+49693.0,,1526520,"tripadvisor, inc.",,1.0,,,20211222,soni kanika,112760221031800,Chief Commercial Officer,female,125333035.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20220104,kaufer stephen,112760222000680,President and CEO,male,125812035.0
+22351.0,,1526520,"tripadvisor, inc.",,,,1.0,20220105,gouvalaris geoffrey,112760222000982,,male,125812035.0
+49120.0,,1526520,"tripadvisor, inc.",,1.0,,,20220217,nelson lindsay,112760222005508,Chief Experience&Brand Officer,female,125812035.0
+26098.0,,1526520,"tripadvisor, inc.",,,,1.0,20220217,gouvalaris geoffrey,112760222005491,,male,125812035.0
+38646.0,,1526520,"tripadvisor, inc.",,1.0,,,20220217,kalvert seth j,112760222005497,Chief Legal Officer & Sec.,male,125812035.0
+56122.0,,1526520,"tripadvisor, inc.",,1.0,,,20220217,soni kanika,112760222005501,Chief Commercial Officer,female,125812035.0
+43204.0,,1526520,"tripadvisor, inc.",,1.0,,,20220217,teunissen ernst 02494,112760222005506,Chief Financial Officer,male,125812035.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20220224,teunissen ernst 02494,112760222006642,Chief Financial Officer,male,125812035.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20220224,gouvalaris geoffrey,112760222006638,,male,125812035.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20220224,soni kanika,112760222006604,Chief Commercial Officer,female,125812035.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20220224,kalvert seth j,112760222006606,Chief Legal Officer & Sec.,male,125812035.0
+799215.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20220304,kaufer stephen,112760222008318,President and CEO,male,125812035.0
+92448.0,,1526520,"tripadvisor, inc.",1.0,,,,20220307,maffei gregory b,112760222008417,,male,125812035.0
+67123.0,,1526520,"tripadvisor, inc.",,1.0,,,20220418,soni kanika,112760222012090,Chief Commercial Officer,female,126792086.0
+45863.0,,1526520,"tripadvisor, inc.",,1.0,,,20220518,teunissen ernst 02494,112760222014841,Chief Financial Officer,male,126792086.0
+67802.0,,1526520,"tripadvisor, inc.",,1.0,,,20220518,soni kanika,112760222014843,Chief Commercial Officer,female,126792086.0
+39604.0,,1526520,"tripadvisor, inc.",,1.0,,,20220518,kalvert seth j,112760222014845,Chief Legal Officer & Sec.,male,126792086.0
+26466.0,,1526520,"tripadvisor, inc.",,,,1.0,20220518,gouvalaris geoffrey,112760222014847,,male,126792086.0
+50340.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,rosenthaler albert e,112760222017650,,male,126792086.0
+39953.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20220616,hoag jay c,106299322015032,,male,126792086.0
+34150.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,blake katryn,112760222017646,,male,126792086.0
+105248.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,maffei gregory b,112760222017647,,male,126792086.0
+34150.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,morgan betsy l.,112760222017648,,female,126792086.0
+44762.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,philips jeremy,112760222017649,,male,126792086.0
+44762.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,wiesenthal robert s,112760222017652,,male,126792086.0
+27043.0,,1526520,"tripadvisor, inc.",1.0,,,,20220616,sun jie,112760222017651,,male,126792086.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20220706,goldberg matt,112760222018989,CEO and President,male,127003107.0
+,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20220811,"liberty tripadvisor holdings, inc.",110465922089503,,male,127003107.0
+64750.0,,1526520,"tripadvisor, inc.",,1.0,,,20220815,kalvert seth j,112760222020960,Chief Legal Officer & Sec.,male,127003107.0
+99235.0,,1526520,"tripadvisor, inc.",,1.0,,,20220815,soni kanika,112760222020963,Chief Commercial Officer,female,127003107.0
+30456.0,,1526520,"tripadvisor, inc.",,,,1.0,20220815,gouvalaris geoffrey,112760222020956,,male,127003107.0
+30825.0,,1526520,"tripadvisor, inc.",,,,1.0,20220817,gouvalaris geoffrey,112760222021213,,male,127003107.0
+65505.0,,1526520,"tripadvisor, inc.",,1.0,,,20220817,kalvert seth j,112760222021214,Chief Legal Officer & Sec.,male,127003107.0
+99914.0,,1526520,"tripadvisor, inc.",,1.0,,,20220817,soni kanika,112760222021217,Chief Commercial Officer,female,127003107.0
+33523.0,,1526520,"tripadvisor, inc.",,1.0,,,20220817,teunissen ernst 02494,112760222021221,Chief Financial Officer,male,127003107.0
+26551.0,,1526520,"tripadvisor, inc.",,,,1.0,20220908,gouvalaris geoffrey,112760222022207,,male,127003107.0
+33281.0,,1526520,"tripadvisor, inc.",,,,1.0,20221025,gouvalaris geoffrey,112760222024314,,male,127746773.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20221102,noonan michael,112760222024788,CFO & SVP,male,127746773.0
+66260.0,,1526520,"tripadvisor, inc.",,1.0,,,20221116,kalvert seth j,112760222025848,Chief Legal Officer & Sec.,male,127746773.0
+33649.0,,1526520,"tripadvisor, inc.",,,,1.0,20221116,gouvalaris geoffrey,112760222025846,,male,127746773.0
+100594.0,,1526520,"tripadvisor, inc.",,1.0,,,20221117,soni kanika,112760222025992,Chief Commercial Officer,female,127746773.0
+36183.0,,1526520,"tripadvisor, inc.",,1.0,,,20221121,teunissen ernst 02494,112760222026151,Chief Financial Officer,male,127746773.0
+33837.0,,1526520,"tripadvisor, inc.",,,,1.0,20230105,gouvalaris geoffrey,112760223000923,,male,128046924.0
+117263.0,,1526520,"tripadvisor, inc.",,1.0,,,20230216,soni kanika,112760223005604,Chief Commercial Officer,female,128046924.0
+43295.0,,1526520,"tripadvisor, inc.",,,,1.0,20230216,gouvalaris geoffrey,112760223005602,,male,128046924.0
+66260.0,,1526520,"tripadvisor, inc.",,1.0,,,20230216,kalvert seth j,112760223005600,Chief Legal Officer & Sec.,male,128046924.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20230224,kalvert seth j,112760223007108,Chief Legal Officer & Sec.,male,128046924.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20230224,noonan michael,112760223007110,CFO & SVP,male,128046924.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20230224,gouvalaris geoffrey,112760223007104,,male,128046924.0
+70925.0,,1526520,"tripadvisor, inc.",,1.0,,,20230517,kalvert seth j,112760223016005,Chief Legal Officer & Sec.,male,129246219.0
+45832.0,,1526520,"tripadvisor, inc.",,,,1.0,20230517,gouvalaris geoffrey,112760223016004,,male,129246219.0
+42148.0,,1526520,"tripadvisor, inc.",1.0,,,,20230608,sun jie,112760223018339,,male,129246219.0
+59867.0,,1526520,"tripadvisor, inc.",1.0,,,,20230608,wiesenthal robert s,112760223018342,,male,129246219.0
+59867.0,,1526520,"tripadvisor, inc.",1.0,,,,20230608,philips jeremy,112760223018329,,male,129246219.0
+49255.0,,1526520,"tripadvisor, inc.",1.0,,,,20230608,morgan betsy l.,112760223018323,,female,129246219.0
+120353.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20230608,maffei gregory b,112760223018318,,male,129246219.0
+55058.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20230608,hoag jay c,106299323013160,,male,129246219.0
+65445.0,,1526520,"tripadvisor, inc.",1.0,,,,20230608,rosenthaler albert e,112760223018335,,male,129246219.0
+49255.0,,1526520,"tripadvisor, inc.",1.0,,,,20230608,blake katryn,112760223018309,,male,129246219.0
+37603.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20230705,goldberg matt,112760223020272,CEO and President,male,125073302.0
+75592.0,,1526520,"tripadvisor, inc.",,1.0,,,20230817,kalvert seth j,112760223022824,Chief Legal Officer & Sec.,male,125073302.0
+48370.0,,1526520,"tripadvisor, inc.",,,,1.0,20230817,gouvalaris geoffrey,112760223022820,,male,125073302.0
+45926.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20231003,goldberg matt,112760223025281,CEO and President,male,125611858.0
+55015.0,,1526520,"tripadvisor, inc.",,,,1.0,20231024,gouvalaris geoffrey,112760223026196,,male,125611858.0
+6657.0,,1526520,"tripadvisor, inc.",,1.0,,,20231102,noonan michael,112760223026622,CFO & SVP,male,125611858.0
+57408.0,,1526520,"tripadvisor, inc.",,,,1.0,20231117,gouvalaris geoffrey,112760223027784,,male,125611858.0
+80258.0,,1526520,"tripadvisor, inc.",,1.0,,,20231117,kalvert seth j,112760223027788,Chief Legal Officer & Sec.,male,125611858.0
+57596.0,,1526520,"tripadvisor, inc.",,,,1.0,20240108,gouvalaris geoffrey,112760224001004,,male,124881494.0
+56910.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20240108,goldberg matt,112760224001005,CEO and President,male,124881494.0
+8241.0,,1526520,"tripadvisor, inc.",,1.0,,,20240202,noonan michael,112760224002993,CFO & SVP,male,124881494.0
+95359.0,,1526520,"tripadvisor, inc.",,1.0,,,20240220,kalvert seth j,112760224005766,Chief Legal Officer & Sec.,male,124881494.0
+63760.0,,1526520,"tripadvisor, inc.",,,,1.0,20240220,gouvalaris geoffrey,112760224005759,,male,124881494.0
+20051.0,,1526520,"tripadvisor, inc.",,1.0,,,20240220,noonan michael,112760224005747,CFO & SVP,male,124881494.0
+,,1526520,"tripadvisor, inc.",,,,1.0,20240306,gouvalaris geoffrey,112760224008862,,male,124881494.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20240306,kalvert seth j,112760224008863,Chief Legal Officer & Sec.,male,124881494.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20240306,goldberg matt,112760224008861,CEO and President,male,124881494.0
+,,1526520,"tripadvisor, inc.",,1.0,,,20240306,noonan michael,112760224008864,CFO & SVP,male,124881494.0
+65233.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20240403,goldberg matt,112760224012388,CEO and President,male,126343634.0
+21667.0,,1526520,"tripadvisor, inc.",,1.0,,,20240501,noonan michael,112760224013806,CFO & SVP,male,126343634.0
+24148.0,,1526520,"tripadvisor, inc.",,1.0,,,20240517,noonan michael,112760224015916,CFO & SVP,male,126343634.0
+67265.0,,1526520,"tripadvisor, inc.",,,,1.0,20240517,gouvalaris geoffrey,112760224015909,,male,126343634.0
+102055.0,,1526520,"tripadvisor, inc.",,1.0,,,20240517,kalvert seth j,112760224015914,Chief Legal Officer & Sec.,male,126343634.0
+55764.0,,1526520,"tripadvisor, inc.",1.0,,,,20240613,sun jie,112760224018634,,male,126343634.0
+79061.0,,1526520,"tripadvisor, inc.",1.0,,,,20240613,rosenthaler albert e,112760224018629,,male,126343634.0
+73483.0,,1526520,"tripadvisor, inc.",1.0,,,,20240613,philips jeremy,112760224018623,,male,126343634.0
+133969.0,1938.0,1526520,"tripadvisor, inc.",1.0,,,,20240613,maffei gregory b,112760224018617,,male,126343634.0
+73483.0,,1526520,"tripadvisor, inc.",1.0,,,,20240613,wiesenthal robert s,112760224018631,,male,126343634.0
+62871.0,,1526520,"tripadvisor, inc.",1.0,,,,20240613,blake katryn,112760224018597,,male,126343634.0
+68674.0,2281000.0,1526520,"tripadvisor, inc.",1.0,0.0,0.0,0.0,20240613,hoag jay c,106299324012607,,male,126343634.0
+62871.0,,1526520,"tripadvisor, inc.",1.0,,,,20240613,morgan betsy l.,112760224018606,,female,126343634.0
+73556.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20240703,goldberg matt,112760224020058,CEO and President,male,125767176.0
+25400.0,,1526520,"tripadvisor, inc.",,1.0,,,20240801,noonan michael,112760224021377,CFO & SVP,male,125767176.0
+70576.0,,1526520,"tripadvisor, inc.",,,,1.0,20240819,gouvalaris geoffrey,112760224022532,,male,125767176.0
+108358.0,,1526520,"tripadvisor, inc.",,1.0,,,20240819,kalvert seth j,112760224022533,Chief Legal Officer & Sec.,male,125767176.0
+27577.0,,1526520,"tripadvisor, inc.",,1.0,,,20240819,noonan michael,112760224022534,CFO & SVP,male,125767176.0
+,,1526520,"tripadvisor, inc.",1.0,1.0,,,20240820,goldberg matt,112760224022674,CEO and President,male,125767176.0
+81879.0,,1526520,"tripadvisor, inc.",1.0,1.0,,,20241003,goldberg matt,112760224025204,CEO and President,male,126415455.0
+76925.0,,1526520,"tripadvisor, inc.",,,,1.0,20241022,gouvalaris geoffrey,112760224025828,,male,126415455.0
+28830.0,,1526520,"tripadvisor, inc.",,1.0,,,20241104,noonan michael,112760224026342,CFO & SVP,male,126415455.0
+80235.0,,1526520,"tripadvisor, inc.",,,,1.0,20241119,gouvalaris geoffrey,112760224027685,,male,126415455.0
+114661.0,,1526520,"tripadvisor, inc.",,1.0,,,20241119,kalvert seth j,112760224027686,Chief Legal Officer & Sec.,male,126415455.0
+31007.0,,1526520,"tripadvisor, inc.",,1.0,,,20241119,noonan michael,112760224027687,CFO & SVP,male,126415455.0
+14023684.0,,1526520,"tripadvisor, inc.",1.0,0.0,1.0,0.0,20241223,"liberty tripadvisor holdings, inc.",110465924131290,,male,126415455.0

@@ -1,108 +1,218 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,2231719.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20100209,hsiao jane ph d,118143110007742,,female,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20100209,vincent richard g,118143110007861,Chief Financial Officer,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20100209,rodi charles p,118143110007746,"VP, Research & Development",male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20100209,molsbergen martina,118143110007744,"VP, Business Development",female,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,1,0,20100209,zaniboni steve,118143110007740,,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20100218,schuh antonius,118143110010338,Chairman and CEO,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20100218,ji henry,118143110010337,Chief Scientific Officer & Sec,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20100225,afting ernst-guenter,118143110011819,,male,44634374.0
-0.0,17965330.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20100226,halpryn glenn l,118143110012355,,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20100226,lockshin curtis,118143110012354,,male,44634374.0
-43754032.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20100413,ji henry,118143110021472,Chief Scientific Officer & Sec,male,44634374.0
-38657167.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20100610,ji henry,118143110032453,Chief Scientific Officer & Sec,male,44634374.0
-43754032.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20101129,ji henry,118143110057975,Chief Scientific Officer & Sec,male,44634374.0
-0.0,17965330.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,halpryn glenn l,118143110058083,,male,44634374.0
-0.0,2231719.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,hsiao jane ph d,118143110058085,,female,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,1,0,20101130,zaniboni steve,118143110058087,,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,lockshin curtis,118143110058089,,male,44634374.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,afting ernst-guenter,118143110058091,,male,44634374.0
-917930.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110218,afting ernst-guenter,118143111011587,,male,250801270.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20110309,vincent richard g,118143111016873,Chief Financial Officer,male,250801270.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,lockshin curtis,118143111024533,,male,250801270.0
-0.0,2231719.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,hsiao jane ph d,118143111024529,,female,250801270.0
-0.0,17965330.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,halpryn glenn l,118143111024547,,male,250801270.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,janda kim,118143111024591,,female,250801270.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110930,janda kim,118143111050832,,female,249809635.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,janda kim,118143112006575,,female,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,hsiao jane ph d,118143112006574,,female,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,halpryn glenn l,118143112006573,,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,lockshin curtis,118143112006572,,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20120207,vincent richard g,118143112006571,Chief Financial Officer,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20120207,ji henry,118143112006570,Interim CEO and Director,male,262347135.0
-43304032.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20120227,ji henry,118143112012283,Interim CEO and CSO,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120227,salka michael scott,118143112012270,,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120228,tang-liu diane d s,118143112012671,,female,262347135.0
-43154032.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20120403,ji henry,118143112021998,Interim CEO and CSO,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20100209,vincent richard g,118143110007861,Chief Financial Officer,male,
+,,850261,"sorrento therapeutics, inc.",1,0,1,0,20100209,zaniboni steve,118143110007740,,male,
+,2231719.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20100209,hsiao jane ph d,118143110007742,,female,
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20100209,molsbergen martina,118143110007744,"VP, Business Development",female,
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20100209,rodi charles p,118143110007746,"VP, Research & Development",male,
+,,850261,"sorrento therapeutics, inc.",1,1,1,0,20100218,schuh antonius,118143110010338,Chairman and CEO,male,
+,,850261,"sorrento therapeutics, inc.",1,1,1,0,20100218,ji henry,118143110010337,Chief Scientific Officer & Sec,male,
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20100225,afting ernst-guenter,118143110011819,,male,
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20100226,lockshin curtis,118143110012354,,male,
+,17965330.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20100226,halpryn glenn l,118143110012355,,male,
+43754032.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20100413,ji henry,118143110021472,Chief Scientific Officer & Sec,male,
+38657167.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20100610,ji henry,118143110032453,Chief Scientific Officer & Sec,male,
+43754032.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20101129,ji henry,118143110057975,Chief Scientific Officer & Sec,male,
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,afting ernst-guenter,118143110058091,,male,
+,,850261,"sorrento therapeutics, inc.",1,0,1,0,20101130,zaniboni steve,118143110058087,,male,
+,2231719.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,hsiao jane ph d,118143110058085,,female,
+,17965330.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,halpryn glenn l,118143110058083,,male,
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20101130,lockshin curtis,118143110058089,,male,
+917930.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20110218,afting ernst-guenter,118143111011587,,male,250801270.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20110309,vincent richard g,118143111016873,Chief Financial Officer,male,250801270.0
+,2231719.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,hsiao jane ph d,118143111024529,,female,250801270.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,lockshin curtis,118143111024533,,male,250801270.0
+,17965330.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,halpryn glenn l,118143111024547,,male,250801270.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20110419,janda kim,118143111024591,,female,250801270.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20110930,janda kim,118143111050832,,female,249809635.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,janda kim,118143112006575,,female,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,hsiao jane ph d,118143112006574,,female,262347135.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20120207,vincent richard g,118143112006571,Chief Financial Officer,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,lockshin curtis,118143112006572,,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,1,1,0,20120207,ji henry,118143112006570,Interim CEO and Director,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120207,halpryn glenn l,118143112006573,,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120227,salka michael scott,118143112012270,,male,262347135.0
+43304032.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20120227,ji henry,118143112012283,Interim CEO and CSO,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120228,tang-liu diane d s,118143112012671,,female,262347135.0
+43154032.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20120403,ji henry,118143112021998,Interim CEO and CSO,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",0,0,1,0,20120516,scifres donald r,118143112030291,,male,262347135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120516,salka michael scott,118143112030300,,male,262347135.0
 6250000.0,43154032.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20120516,ji henry,118143112030393,Interim CEO and CSO,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120516,salka michael scott,118143112030300,,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20120516,scifres donald r,118143112030291,,male,262347135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,salka michael scott,118143112041591,,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,lockshin curtis,118143112041590,,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,tang-liu diane d s,118143112041596,,female,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,janda kim,118143112041592,,female,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20120925,vincent richard g,118143112052064,Chief Financial Officer,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20121019,vincent richard g,118143112055213,Chief Financial Officer,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,webb david ritchie,118143112055214,,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20121019,vincent richard g,118143112055215,Chief Financial Officer,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,afting ernst-guenter,118143112055217,,male,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,gallagher cam,118143112055218,,female,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,janda kim,118143112055219,,female,299877135.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,salka michael scott,118143112055216,,male,299877135.0
-43129032.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20130705,ji henry,118143113039046,President and CEO,male,13443020.0
-2360279.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20130815,"opko health, inc.",120919113040912,,male,16502186.0
-2357379.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20130816,"opko health, inc.",120919113041085,,male,16502186.0
-2355819.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20130821,"opko health, inc.",120919113041640,,male,16502186.0
-2353563.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20130828,"opko health, inc.",120919113042227,,male,16502186.0
-2353463.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20130830,"opko health, inc.",120919113042433,,male,16502186.0
-2344108.0,0.0,850261,"sorrento therapeutics, inc.",0,0,1,0,20130904,"opko health, inc.",120919113042918,,male,16502186.0
-1723162.0,0.0,850261,"sorrento therapeutics, inc.",1,1,1,0,20130927,ji henry,118143113050820,President and CEO,male,16502186.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20131023,uy george,118143113054871,Chief Commercial Officer,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20131031,trieu vuong,118143113055942,CSO,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,janda kim,118143113055940,,female,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,webb david ritchie,118143113055939,,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20131031,ji henry,118143113055937,President and CEO,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,gallagher cam,118143113055936,,female,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,afting ernst-guenter,118143113055943,,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,salka michael scott,118143113055934,,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,shah jaisim,118143113055932,,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20131031,uy george,118143113055931,Chief Commercial Officer,male,16479734.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20131031,vincent richard g,118143113055935,Executive Vice President & CFO,male,16479734.0
-1727162.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20131205,ji henry,120919113055398,President and CEO,male,21678353.0
-1728162.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20131205,ji henry,120919113055480,President and CEO,male,21678353.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,marth william s,120919114004853,,male,23028100.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,gallagher cam,120919114004851,,female,23028100.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,salka michael scott,120919114004852,,male,23028100.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,janda kim,120919114004854,,female,23028100.0
-2088162.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20140609,ji henry,120919114039737,President and CEO,male,23053100.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20140922,uy george,120919114058996,EVP & Chief Commercial Officer,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,ebersole douglas o,120919114058995,,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,durand mark,120919114058994,,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,marth william s,120919114058993,,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,janda kim,120919114058997,,female,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,shah jaisim,120919114058992,,male,28532850.0
-2068162.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20140929,ji henry,120919114060058,President and CEO,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20141009,vincent richard g,120919114062633,See Remarks,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20141009,ji henry,120919114062634,President and CEO,male,28532850.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20141009,miao zhenwei,120919114062635,Chief Technology Officer,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,tang-liu diane d s,118143112041596,,female,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,janda kim,118143112041592,,female,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,lockshin curtis,118143112041590,,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20120720,salka michael scott,118143112041591,,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20120925,vincent richard g,118143112052064,Chief Financial Officer,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20121019,vincent richard g,118143112055213,Chief Financial Officer,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,webb david ritchie,118143112055214,,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20121019,vincent richard g,118143112055215,Chief Financial Officer,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,salka michael scott,118143112055216,,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,afting ernst-guenter,118143112055217,,male,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,janda kim,118143112055219,,female,299877135.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20121019,gallagher cam,118143112055218,,female,299877135.0
+43129032.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20130705,ji henry,118143113039046,President and CEO,male,13443020.0
+2360279.0,,850261,"sorrento therapeutics, inc.",0,0,1,0,20130815,"opko health, inc.",120919113040912,,male,16502186.0
+2357379.0,,850261,"sorrento therapeutics, inc.",0,0,1,0,20130816,"opko health, inc.",120919113041085,,male,16502186.0
+2355819.0,,850261,"sorrento therapeutics, inc.",0,0,1,0,20130821,"opko health, inc.",120919113041640,,male,16502186.0
+2353563.0,,850261,"sorrento therapeutics, inc.",0,0,1,0,20130828,"opko health, inc.",120919113042227,,male,16502186.0
+2353463.0,,850261,"sorrento therapeutics, inc.",0,0,1,0,20130830,"opko health, inc.",120919113042433,,male,16502186.0
+2344108.0,,850261,"sorrento therapeutics, inc.",0,0,1,0,20130904,"opko health, inc.",120919113042918,,male,16502186.0
+1723162.0,,850261,"sorrento therapeutics, inc.",1,1,1,0,20130927,ji henry,118143113050820,President and CEO,male,16502186.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20131023,uy george,118143113054871,Chief Commercial Officer,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20131031,trieu vuong,118143113055942,CSO,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,afting ernst-guenter,118143113055943,,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,webb david ritchie,118143113055939,,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20131031,ji henry,118143113055937,President and CEO,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,gallagher cam,118143113055936,,female,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20131031,vincent richard g,118143113055935,Executive Vice President & CFO,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,salka michael scott,118143113055934,,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,shah jaisim,118143113055932,,male,16479734.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20131031,janda kim,118143113055940,,female,16479734.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20131031,uy george,118143113055931,Chief Commercial Officer,male,16479734.0
+1727162.0,,850261,"sorrento therapeutics, inc.",1,1,0,0,20131205,ji henry,120919113055398,President and CEO,male,21678353.0
+1728162.0,,850261,"sorrento therapeutics, inc.",1,1,0,0,20131205,ji henry,120919113055480,President and CEO,male,21678353.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,janda kim,120919114004854,,female,23028100.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,salka michael scott,120919114004852,,male,23028100.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,marth william s,120919114004853,,male,23028100.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140124,gallagher cam,120919114004851,,female,23028100.0
+2088162.0,,850261,"sorrento therapeutics, inc.",1,1,0,0,20140609,ji henry,120919114039737,President and CEO,male,23053100.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,janda kim,120919114058997,,female,28532850.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20140922,uy george,120919114058996,EVP & Chief Commercial Officer,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,durand mark,120919114058994,,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,marth william s,120919114058993,,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,shah jaisim,120919114058992,,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20140922,ebersole douglas o,120919114058995,,male,28532850.0
+2068162.0,,850261,"sorrento therapeutics, inc.",1,1,0,0,20140929,ji henry,120919114060058,President and CEO,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20141009,vincent richard g,120919114062633,See Remarks,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20141009,ji henry,120919114062634,President and CEO,male,28532850.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20141009,miao zhenwei,120919114062635,Chief Technology Officer,male,28532850.0
 7000.0,2084162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20141106,ji henry,120919114066980,President and CEO,male,28932850.0
 11000.0,2068162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20141107,ji henry,120919114067218,President and CEO,male,28932850.0
 16999.0,2068162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20141110,ji henry,120919114067509,President and CEO,male,28932850.0
-2043162.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150105,ji henry,120919115000407,President and CEO,male,36184912.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150226,ji henry,120919115019113,President and CEO,male,36184912.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150226,uy george,120919115019110,EVP & Chief Commercial Officer,male,36184912.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150226,shah jaisim,120919115019106,,male,36184912.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150501,durand mark,120919115037682,EVP & CFO,male,36264517.0
-559390.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150522,miao zhenwei,120919115046170,"SVP, Head of ADC Development",male,36264517.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,janda kim,120919115050859,,female,36264517.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,marth william s,120919115050858,,male,36264517.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,ebersole douglas o,120919115050860,,male,36264517.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,deming david h,120919115050863,,male,36264517.0
-0.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,shah jaisim,120919115050861,,male,36264517.0
-92631.0,0.0,850261,"sorrento therapeutics, inc.",1,0,0,0,20150805,shah jaisim,89924315002429,,male,37761585.0
-14901.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150805,ng george k,89924315002428,See Remarks,male,37761585.0
-888.0,14901.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150821,ng george k,89924315003751,See Remarks,male,37761585.0
+2043162.0,,850261,"sorrento therapeutics, inc.",1,1,0,0,20150105,ji henry,120919115000407,President and CEO,male,36184912.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150226,shah jaisim,120919115019106,,male,36184912.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150226,uy george,120919115019110,EVP & Chief Commercial Officer,male,36184912.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20150226,ji henry,120919115019113,President and CEO,male,36184912.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150501,durand mark,120919115037682,EVP & CFO,male,36264517.0
+559390.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150522,miao zhenwei,120919115046170,"SVP, Head of ADC Development",male,36264517.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,deming david h,120919115050863,,male,36264517.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,marth william s,120919115050858,,male,36264517.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,janda kim,120919115050859,,female,36264517.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,ebersole douglas o,120919115050860,,male,36264517.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150608,shah jaisim,120919115050861,,male,36264517.0
+92631.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150805,shah jaisim,89924315002429,,male,37761585.0
+14901.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150805,ng george k,89924315002428,See Remarks,male,37761585.0
+14901.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150805,ng george k,89924315002428,See Remarks,male,37761585.0
+92631.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20150805,shah jaisim,89924315002429,,male,37761585.0
 14888.0,2053162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150821,ji henry,89924315003740,President and CEO,male,37761585.0
+14888.0,2053162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150821,ji henry,89924315003740,President and CEO,male,37761585.0
+888.0,14901.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150821,ng george k,89924315003751,See Remarks,male,37761585.0
+888.0,14901.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150821,ng george k,89924315003751,See Remarks,male,37761585.0
 17776.0,2053162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150824,ji henry,89924315003863,President and CEO,male,37761585.0
-500.0,0.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150826,ji henry,89924315004075,President and CEO,male,37761585.0
-201735.0,0.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20150921,uy george,89924315005117,See Remarks,male,37761585.0
+17776.0,2053162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20150824,ji henry,89924315003863,President and CEO,male,37761585.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20150826,ji henry,89924315004075,President and CEO,male,37761585.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20150826,ji henry,89924315004075,President and CEO,male,37761585.0
+201735.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150921,uy george,89924315005117,See Remarks,male,37761585.0
+201735.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20150921,uy george,89924315005117,See Remarks,male,37761585.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20160315,ji henry,89924316015981,President and CEO,male,38365767.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20160315,su jeffrey,89924316015983,Executive VP and COO,male,38365767.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20160315,ng george k,89924316015984,See Remarks,male,38365767.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20160712,shah jaisim,89924316024986,,male,65448566.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20160712,deming david h,89924316024984,,male,65448566.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20160712,marth william s,89924316024988,,male,65448566.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20160712,ebersole douglas o,89924316024987,,male,65448566.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20160712,janda kim,89924316024985,,female,65448566.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20160816,ng george k,89924316027294,See Remarks,male,57570468.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20160816,ji henry,89924316027295,President and CEO,male,57570468.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20160816,herde kevin,89924316027292,Executive VP and CFO,male,57570468.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20160816,su jeffrey,89924316027291,Executive VP and COO,male,57570468.0
+67931.0,2053162.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20161109,ji henry,89924316033101,President and CEO,male,57939967.0
+90226.0,14901.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20161109,ng george k,89924316033098,See Remarks,male,57939967.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20161114,ji henry,89924316033416,President and CEO,male,57939967.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20161115,zeldis jerome b,89924316033607,See Remarks,male,57939967.0
+13000.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170203,su jeffrey,89924317002788,Executive VP and COO,male,50882856.0
+10000.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170203,zeldis jerome b,89924317002778,See Remarks,male,50882856.0
+102631.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170203,shah jaisim,89924317002779,,male,50882856.0
+49338.0,14901.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20170203,ng george k,89924317002781,See Remarks,male,50882856.0
+37776.0,2121093.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20170203,ji henry,89924317002783,President and CEO,male,50882856.0
+7000.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170203,herde kevin,89924317002785,Executive VP and CFO,male,50882856.0
+5000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170203,wu yue alexander,89924317002791,,male,50882856.0
+3000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170203,janda kim,89924317002790,,female,50882856.0
+39776.0,2121093.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20170222,ji henry,89924317004969,President and CEO,male,50882856.0
+139776.0,2121093.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20170419,ji henry,114420417021046,President and CEO,male,50887102.0
+112633.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170615,shah jaisim,114420417032723,,male,50887102.0
+29001.0,2121093.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20170615,ji henry,114420417032732,President and CEO,male,50887102.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170915,zeldis jerome b,114420417048361,See Remarks,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170915,deming david h,114420417048360,,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170915,janda kim,114420417048359,,female,76540055.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170915,shah jaisim,114420417048358,,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170915,ng george k,114420417048362,See Remarks,male,76540055.0
+135863.0,2182163.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20170915,ji henry,114420417048349,See Remarks,male,76540055.0
+127.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170915,ferrigno dean,114420417048348,Chief Accounting Officer,male,76540055.0
+138677.0,15789.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20170915,ng george k,114420417048347,See Remarks,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20170915,wu yue alexander,114420417048357,,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170915,ji henry,114420417048363,See Remarks,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20170918,ferrigno dean,114420417048370,Chief Accounting Officer,male,76540055.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20171116,lemus david,114420417059793,,male,79321842.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20171116,followwill dorman,114420417059794,,male,79321842.0
+1841577.0,2318026.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20180122,ji henry,114420418002932,See Remarks,male,82903567.0
+101453.0,4336.0,850261,"sorrento therapeutics, inc.",0,1,0,0,20180228,ng george k,85026118000010,See Remarks,male,82903567.0
+1906177.0,2182163.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20180228,ji henry,85026118000009,See Remarks,male,82903567.0
+245.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20180228,ferrigno dean,85026118000011,Chief Accounting Officer,male,82903567.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20180517,ji henry,85026118000021,See Remarks,male,91028089.0
+2045807.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20180723,ji henry,85026118000029,See Remarks,male,116240963.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20181127,shao jiong,85026118000046,Chief Financial Officer,male,122273467.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20181127,wu yue alexander,85026118000045,,male,122273467.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20181127,shah jaisim,85026118000044,,male,122273467.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20181127,lemus david,85026118000043,,male,122273467.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20181127,janda kim,85026118000042,,female,122273467.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20181127,followwill dorman,85026118000041,,male,122273467.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20181127,zeldis jerome b,85026118000047,See Remarks,male,122273467.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20190423,shah jaisim,85026119000016,,male,122311917.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20190423,lemus david,85026119000015,,male,122311917.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20190423,janda kim,85026119000014,,female,122311917.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20190423,ji henry,85026119000013,See Remarks,male,122311917.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20190423,followwill dorman,85026119000012,,male,122311917.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20190423,shao jiong,85026119000010,Chief Financial Officer,male,122311917.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20190423,wu yue alexander,85026119000011,,male,122311917.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20191211,lee edgar,85026119000045,,male,141871384.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20191218,smith robin l,85026119000058,,male,141871384.0
+60000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200305,smith robin l,85026120000029,,male,181340344.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20200615,shao jiong,85026120000047,Chief Financial Officer,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,shah jaisim,85026120000046,,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,lemus david,85026120000045,,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,followwill dorman,85026120000043,,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,lee edgar,85026120000044,,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,janda kim,85026120000041,,female,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,smith robin l,85026120000039,,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200615,wu yue alexander,85026120000042,,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20200615,ji henry,85026120000040,See Remarks,male,209690497.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20200814,janda kim,85026120000049,,female,242026582.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20201020,ji henry,110465920116285,See Remarks,male,261737622.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20201113,asghar najjam,120919120058333,Chief Financial Officer,male,262938148.0
+2130.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210126,followwill dorman,120919121005470,,male,275285582.0
+56974.0,,850261,"sorrento therapeutics, inc.",0,1,0,0,20210317,asghar najjam,120919121021394,Chief Financial Officer,male,280322985.0
+3000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210415,janda kim,120919121026867,,female,285655428.0
+,,850261,"sorrento therapeutics, inc.",1,1,0,0,20210830,ji henry,120919121053987,See Remarks,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210830,wu yue alexander,120919121053986,,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210830,smith robin l,120919121053985,,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210830,shah jaisim,120919121053984,,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210830,lemus david,120919121053983,,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210830,followwill dorman,120919121053981,,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210830,janda kim,120919121053982,,female,298099574.0
+235000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210903,smith robin l,120919121054841,,male,298099574.0
+3000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210914,janda kim,120919121055954,,female,298099574.0
+3000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20210928,janda kim,120919121057957,,female,298099574.0
+2055807.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20210929,ji henry,120919121058036,See Remarks,male,298099574.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20211118,czerepak elizabeth,120919121065539,,female,306335789.0
+3000.0,,850261,"sorrento therapeutics, inc.",1,0,0,0,20211227,janda kim,120919121071311,,female,306335789.0
+,,850261,"sorrento therapeutics, inc.",1,0,0,0,20220520,reilly tammy,120919122031077,,female,388946453.0
+,,850261,"sorrento therapeutics, inc.",0,1,0,0,20220520,czerepak elizabeth,120919122031081,EVP & Chief Financial Officer,female,388946453.0
+2065807.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20220614,ji henry,120919122036760,See Remarks,male,388946453.0
+2088029.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20220825,ji henry,120919122047558,See Remarks,male,449952163.0
+2121362.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20220826,ji henry,120919122047741,See Remarks,male,449952163.0
+4621362.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20220902,ji henry,120919122048514,See Remarks,male,449952163.0
+4676917.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20220906,ji henry,120919122048811,See Remarks,male,449952163.0
+4765805.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20220907,ji henry,120919122049065,See Remarks,male,449952163.0
+6265805.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20221216,ji henry,120919122061746,See Remarks,male,471880267.0
+500.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20221223,ji henry,120919122062586,See Remarks,male,471880267.0
+20000.0,2311693.0,850261,"sorrento therapeutics, inc.",1,1,0,0,20230320,ji henry,89924323009159,See Remarks,male,551281154.0

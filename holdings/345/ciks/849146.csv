@@ -1,104 +1,438 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100127,lu c. mike,120919110005161,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100127,manovich kay stout,120919110005162,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100127,robinson douglas c.,120919110005163,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100203,jones richard doutre,120919110006724,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100203,mccord joe m,120919110006719,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100203,mauro garry paul,120919110006712,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100203,crapo james d,120919110006716,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100203,thompson jack r.,120919110006713,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20100208,lu c. mike,120919110007642,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,lu c. mike,120919111004621,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,manovich kay stout,120919111004619,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,mccord joe m,120919111004617,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,crapo james d,120919111004614,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,mauro garry paul,120919111004610,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,robinson douglas c.,120919111004608,,male,
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110124,jones richard doutre,120919111004624,,male,
-0.0,0.0,849146,lifevantage corp,1,1,0,0.0,20110317,robinson douglas c.,120919111018701,President & CEO,male,
-3047500.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110620,lu c. mike,120919111035556,,male,
-749875.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110620,crapo james d,120919111035555,,male,
-1981425.0,0.0,849146,lifevantage corp,1,0,0,0.0,20110620,mccord joe m,120919111035560,,male,
-676441.0,0.0,849146,lifevantage corp,1,0,0,0.0,20111206,crapo james d,120919111059778,,male,99296293.0
-655185.0,0.0,849146,lifevantage corp,1,0,0,0.0,20111208,crapo james d,120919111060276,,male,99296293.0
-0.0,0.0,849146,lifevantage corp,1,1,0,0.0,20111214,brown david whitney,118143111060476,"President, LifeVantage Network",male,99296293.0
-575000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20111214,crapo james d,118143111060368,,male,99296293.0
-0.0,0.0,849146,lifevantage corp,1,1,0,0.0,20111214,robinson douglas c.,118143111060471,President & CEO,male,99296293.0
-170.0,0.0,849146,lifevantage corp,1,0,0,0.0,20111216,mauro garry paul,118143111060816,,male,99296293.0
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120112,lu c. mike,118143112002363,,male,99838650.0
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120112,mauro garry paul,118143112002362,,male,99838650.0
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120112,spedden elwood,118143112002361,,male,99838650.0
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120117,beindorff michael a,118143112002778,,male,99838650.0
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120117,manovich dave,118143112002767,,male,99838650.0
-0.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120117,metzger george,118143112002763,,male,99838650.0
-0.0,0.0,849146,lifevantage corp,1,1,0,0.0,20120207,brown david whitney,118143112006600,"President, LifeVantage Network",male,99838650.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20120207,mcqueen carrie e,118143112006599,Chief Financial Officer,female,99838650.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20120207,zenger kirby l,118143112006598,Chief Operating Officer,male,99838650.0
+,,849146,lifevantage corp,1,0,0,0.0,20100127,robinson douglas c.,120919110005163,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100127,manovich kay stout,120919110005162,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100127,lu c. mike,120919110005161,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100203,mauro garry paul,120919110006712,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100203,thompson jack r.,120919110006713,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100203,crapo james d,120919110006716,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100203,mccord joe m,120919110006719,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100203,jones richard doutre,120919110006724,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20100208,lu c. mike,120919110007642,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,manovich kay stout,120919111004619,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,robinson douglas c.,120919111004608,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,mauro garry paul,120919111004610,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,crapo james d,120919111004614,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,mccord joe m,120919111004617,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,lu c. mike,120919111004621,,male,
+,,849146,lifevantage corp,1,0,0,0.0,20110124,jones richard doutre,120919111004624,,male,
+,,849146,lifevantage corp,1,1,0,0.0,20110317,robinson douglas c.,120919111018701,President & CEO,male,
+749875.0,,849146,lifevantage corp,1,0,0,0.0,20110620,crapo james d,120919111035555,,male,
+3047500.0,,849146,lifevantage corp,1,0,0,0.0,20110620,lu c. mike,120919111035556,,male,
+1981425.0,,849146,lifevantage corp,1,0,0,0.0,20110620,mccord joe m,120919111035560,,male,
+676441.0,,849146,lifevantage corp,1,0,0,0.0,20111206,crapo james d,120919111059778,,male,99296293.0
+655185.0,,849146,lifevantage corp,1,0,0,0.0,20111208,crapo james d,120919111060276,,male,99296293.0
+0.0,,849146,lifevantage corp,1,1,0,0.0,20111214,robinson douglas c.,118143111060471,President & CEO,male,99296293.0
+575000.0,,849146,lifevantage corp,1,0,0,0.0,20111214,crapo james d,118143111060368,,male,99296293.0
+0.0,,849146,lifevantage corp,1,1,0,0.0,20111214,brown david whitney,118143111060476,"President, LifeVantage Network",male,99296293.0
+170.0,,849146,lifevantage corp,1,0,0,0.0,20111216,mauro garry paul,118143111060816,,male,99296293.0
+,,849146,lifevantage corp,1,0,0,0.0,20120112,lu c. mike,118143112002363,,male,99838650.0
+,,849146,lifevantage corp,1,0,0,0.0,20120112,mauro garry paul,118143112002362,,male,99838650.0
+,,849146,lifevantage corp,1,0,0,0.0,20120112,spedden elwood,118143112002361,,male,99838650.0
+,,849146,lifevantage corp,1,0,0,0.0,20120117,metzger george,118143112002763,,male,99838650.0
+,,849146,lifevantage corp,1,0,0,0.0,20120117,manovich dave,118143112002767,,male,99838650.0
+,,849146,lifevantage corp,1,0,0,0.0,20120117,beindorff michael a,118143112002778,,male,99838650.0
+,,849146,lifevantage corp,0,1,0,0.0,20120207,zenger kirby l,118143112006598,Chief Operating Officer,male,99838650.0
+,,849146,lifevantage corp,0,1,0,0.0,20120207,mcqueen carrie e,118143112006599,Chief Financial Officer,female,99838650.0
+,,849146,lifevantage corp,1,1,0,0.0,20120207,brown david whitney,118143112006600,"President, LifeVantage Network",male,99838650.0
 240000.0,40000.0,849146,lifevantage corp,1,0,0,0.0,20120216,manovich dave,118143112009612,,male,100471188.0
 263689.0,1265.0,849146,lifevantage corp,1,0,0,0.0,20120216,mauro garry paul,118143112009614,,male,100471188.0
-86631.0,0.0,849146,lifevantage corp,1,1,0,0.0,20120216,brown david whitney,118143112009615,"President, LifeVantage Network",male,100471188.0
-92000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120316,beindorff michael a,118143112017986,,male,100471188.0
-16100.0,0.0,849146,lifevantage corp,0,1,0,0.0,20120531,urban robert m.,118143112033650,Chief Operating Officer,male,110067349.0
-3104500.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120626,lu c. mike,118143112037999,,male,110067349.0
-82000.0,0.0,849146,lifevantage corp,0,1,0,0.0,20120803,colbert david,118143112043410,Chief Financial Officer,male,110174000.0
-700.0,0.0,849146,lifevantage corp,1,0,0,0.0,20120918,beindorff michael a,118143112050965,,male,111156201.0
-6343.0,0.0,849146,lifevantage corp,0,1,0,0.0,20120918,thompson ryan,118143112050966,Senior VP of Sales,male,111156201.0
-50000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20121116,okumoto richard y,118143112059103,,male,112848000.0
-25000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20121116,spedden elwood,118143112059104,,male,112848000.0
-25000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20121116,metzger george,118143112059105,,male,112848000.0
+86631.0,,849146,lifevantage corp,1,1,0,0.0,20120216,brown david whitney,118143112009615,"President, LifeVantage Network",male,100471188.0
+92000.0,,849146,lifevantage corp,1,0,0,0.0,20120316,beindorff michael a,118143112017986,,male,100471188.0
+16100.0,,849146,lifevantage corp,0,1,0,0.0,20120531,urban robert m.,118143112033650,Chief Operating Officer,male,110067349.0
+3104500.0,,849146,lifevantage corp,1,0,0,0.0,20120626,lu c. mike,118143112037999,,male,110067349.0
+82000.0,,849146,lifevantage corp,0,1,0,0.0,20120803,colbert david,118143112043410,Chief Financial Officer,male,110174000.0
+700.0,,849146,lifevantage corp,1,0,0,0.0,20120918,beindorff michael a,118143112050965,,male,111156201.0
+6343.0,,849146,lifevantage corp,0,1,0,0.0,20120918,thompson ryan,118143112050966,Senior VP of Sales,male,111156201.0
+50000.0,,849146,lifevantage corp,1,0,0,0.0,20121116,okumoto richard y,118143112059103,,male,112848000.0
+25000.0,,849146,lifevantage corp,1,0,0,0.0,20121116,spedden elwood,118143112059104,,male,112848000.0
+25000.0,,849146,lifevantage corp,1,0,0,0.0,20121116,metzger george,118143112059105,,male,112848000.0
 288689.0,1265.0,849146,lifevantage corp,1,0,0,0.0,20121116,mauro garry paul,118143112059107,,male,112848000.0
 35000.0,280000.0,849146,lifevantage corp,1,0,0,0.0,20121116,manovich dave,118143112059109,,male,112848000.0
 162000.0,8700.0,849146,lifevantage corp,1,0,0,0.0,20121116,beindorff michael a,118143112059111,,male,112848000.0
-33333.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130129,oborn michelle,118143113005365,VP Human Resources,female,113740000.0
-236829.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130129,cutler rob,118143113005362,General Counsel,male,113740000.0
-231153.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130311,cutler rob,118143113015981,General Counsel,male,113669504.0
-224153.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130403,cutler rob,118143113020503,General Counsel,male,113464000.0
-100000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20130516,okumoto richard y,118143113028163,,male,113524045.0
-222000.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130625,colbert david,144530513001542,Chief Financial Officer,male,113524045.0
-320000.0,0.0,849146,lifevantage corp,1,1,0,0.0,20130625,robinson douglas c.,144530513001538,President & CEO,male,113524045.0
-95333.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130625,oborn michelle,144530513001539,VP Human Resources,female,113524045.0
-374153.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130625,cutler rob,144530513001540,General Counsel,male,113524045.0
-272100.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130625,urban robert m.,144530513001541,Chief Operating Officer,male,113524045.0
-270735.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130730,urban robert m.,144530513001737,Chief Operating Officer,male,117008000.0
-216227.0,0.0,849146,lifevantage corp,0,1,0,0.0,20130814,colbert david,84914613000004,Chief Financial Officer,male,117008000.0
+236829.0,,849146,lifevantage corp,0,1,0,0.0,20130129,cutler rob,118143113005362,General Counsel,male,113740000.0
+33333.0,,849146,lifevantage corp,0,1,0,0.0,20130129,oborn michelle,118143113005365,VP Human Resources,female,113740000.0
+231153.0,,849146,lifevantage corp,0,1,0,0.0,20130311,cutler rob,118143113015981,General Counsel,male,113669504.0
+224153.0,,849146,lifevantage corp,0,1,0,0.0,20130403,cutler rob,118143113020503,General Counsel,male,113464000.0
+100000.0,,849146,lifevantage corp,1,0,0,0.0,20130516,okumoto richard y,118143113028163,,male,113524045.0
+222000.0,,849146,lifevantage corp,0,1,0,0.0,20130625,colbert david,144530513001542,Chief Financial Officer,male,113524045.0
+320000.0,,849146,lifevantage corp,1,1,0,0.0,20130625,robinson douglas c.,144530513001538,President & CEO,male,113524045.0
+95333.0,,849146,lifevantage corp,0,1,0,0.0,20130625,oborn michelle,144530513001539,VP Human Resources,female,113524045.0
+374153.0,,849146,lifevantage corp,0,1,0,0.0,20130625,cutler rob,144530513001540,General Counsel,male,113524045.0
+272100.0,,849146,lifevantage corp,0,1,0,0.0,20130625,urban robert m.,144530513001541,Chief Operating Officer,male,113524045.0
+270735.0,,849146,lifevantage corp,0,1,0,0.0,20130730,urban robert m.,144530513001737,Chief Operating Officer,male,117008000.0
+216227.0,,849146,lifevantage corp,0,1,0,0.0,20130814,colbert david,84914613000004,Chief Financial Officer,male,117008000.0
 1100.0,8000.0,849146,lifevantage corp,1,0,0,0.0,20131203,beindorff michael a,84914613000067,,male,117713000.0
-354614.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140127,cutler rob,84914614000002,General Counsel,male,103898000.0
-150000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20140529,metzger george,84914614000032,,male,103701792.0
-211921.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140625,colbert david,84914614000045,Chief Financial Officer,male,103701792.0
-89993.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140625,oborn michelle,84914614000046,VP Human Resources,female,103701792.0
-341357.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140625,cutler rob,84914614000047,General Counsel,male,103701792.0
-291720.0,0.0,849146,lifevantage corp,1,1,0,0.0,20140625,robinson douglas c.,84914614000048,President & CEO,male,103701792.0
-248111.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140625,urban robert m.,84914614000049,Chief Operating Officer,male,103701792.0
-204858.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140804,colbert david,84914614000051,Chief Financial Officer,male,102173000.0
-58000.0,0.0,849146,lifevantage corp,0,1,0,0.0,20140917,talbott shawn m.,84914614000065,Chief Science Officer,male,100717598.0
-200000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20141119,okumoto richard y,84914614000090,,male,100812000.0
+354614.0,,849146,lifevantage corp,0,1,0,0.0,20140127,cutler rob,84914614000002,General Counsel,male,103898000.0
+150000.0,,849146,lifevantage corp,1,0,0,0.0,20140529,metzger george,84914614000032,,male,103701792.0
+291720.0,,849146,lifevantage corp,1,1,0,0.0,20140625,robinson douglas c.,84914614000048,President & CEO,male,103701792.0
+248111.0,,849146,lifevantage corp,0,1,0,0.0,20140625,urban robert m.,84914614000049,Chief Operating Officer,male,103701792.0
+89993.0,,849146,lifevantage corp,0,1,0,0.0,20140625,oborn michelle,84914614000046,VP Human Resources,female,103701792.0
+211921.0,,849146,lifevantage corp,0,1,0,0.0,20140625,colbert david,84914614000045,Chief Financial Officer,male,103701792.0
+341357.0,,849146,lifevantage corp,0,1,0,0.0,20140625,cutler rob,84914614000047,General Counsel,male,103701792.0
+204858.0,,849146,lifevantage corp,0,1,0,0.0,20140804,colbert david,84914614000051,Chief Financial Officer,male,102173000.0
+58000.0,,849146,lifevantage corp,0,1,0,0.0,20140917,talbott shawn m.,84914614000065,Chief Science Officer,male,100717598.0
+200000.0,,849146,lifevantage corp,1,0,0,0.0,20141119,okumoto richard y,84914614000090,,male,100812000.0
 222000.0,9100.0,849146,lifevantage corp,1,0,0,0.0,20141119,beindorff michael a,84914614000091,,male,100812000.0
 338689.0,1265.0,849146,lifevantage corp,1,0,0,0.0,20141119,mauro garry paul,84914614000092,,male,100812000.0
-175000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20141119,metzger george,84914614000093,,male,100812000.0
+175000.0,,849146,lifevantage corp,1,0,0,0.0,20141119,metzger george,84914614000093,,male,100812000.0
 85000.0,280000.0,849146,lifevantage corp,1,0,0,0.0,20141119,manovich dave,84914614000094,,male,100812000.0
-45956.0,0.0,849146,lifevantage corp,0,1,0,0.0,20141119,phelps david n.,84914614000095,Chief Sales Officer,male,100812000.0
-54068.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150105,talbott shawn m.,84914615000002,Chief Science Officer,male,98836000.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150106,oborn michelle,84914615000010,VP Human Resources,female,98836000.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150106,urban robert m.,84914615000011,Chief Operating Officer,male,98836000.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150106,cutler rob,84914615000013,General Counsel,male,98836000.0
-0.0,0.0,849146,lifevantage corp,1,1,0,0.0,20150106,robinson douglas c.,84914615000014,President & CEO,male,98836000.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150106,colbert david,84914615000015,Chief Financial Officer,male,98836000.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150106,phelps david n.,84914615000016,Chief Sales Officer,male,98836000.0
-0.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150106,talbott shawn m.,84914615000012,Chief Science Officer,male,98836000.0
-86855.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150127,oborn michelle,84914615000019,VP Human Resources,female,98836000.0
-322736.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150127,cutler rob,84914615000020,General Counsel,male,98836000.0
+45956.0,,849146,lifevantage corp,0,1,0,0.0,20141119,phelps david n.,84914614000095,Chief Sales Officer,male,100812000.0
+54068.0,,849146,lifevantage corp,0,1,0,0.0,20150105,talbott shawn m.,84914615000002,Chief Science Officer,male,98836000.0
+,,849146,lifevantage corp,0,1,0,0.0,20150106,oborn michelle,84914615000010,VP Human Resources,female,98836000.0
+,,849146,lifevantage corp,0,1,0,0.0,20150106,urban robert m.,84914615000011,Chief Operating Officer,male,98836000.0
+,,849146,lifevantage corp,0,1,0,0.0,20150106,talbott shawn m.,84914615000012,Chief Science Officer,male,98836000.0
+,,849146,lifevantage corp,0,1,0,0.0,20150106,colbert david,84914615000015,Chief Financial Officer,male,98836000.0
+,,849146,lifevantage corp,1,1,0,0.0,20150106,robinson douglas c.,84914615000014,President & CEO,male,98836000.0
+,,849146,lifevantage corp,0,1,0,0.0,20150106,phelps david n.,84914615000016,Chief Sales Officer,male,98836000.0
+,,849146,lifevantage corp,0,1,0,0.0,20150106,cutler rob,84914615000013,General Counsel,male,98836000.0
+86855.0,,849146,lifevantage corp,0,1,0,0.0,20150127,oborn michelle,84914615000019,VP Human Resources,female,98836000.0
+322736.0,,849146,lifevantage corp,0,1,0,0.0,20150127,cutler rob,84914615000020,General Counsel,male,98836000.0
 135000.0,280000.0,849146,lifevantage corp,1,1,0,0.0,20150204,manovich dave,84914615000031,Executive Vice Chairman,male,98222449.0
-56668.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150220,talbott shawn m.,84914615000033,Chief Science Officer,male,98222449.0
-313689.0,1265.0,849146,lifevantage corp,1,0,0,0.0,20150305,mauro garry paul,84914615000042,,male,98222449.0
+56668.0,,849146,lifevantage corp,0,1,0,0.0,20150220,talbott shawn m.,84914615000033,Chief Science Officer,male,98222449.0
+175000.0,,849146,lifevantage corp,1,0,0,0.0,20150305,okumoto richard y,84914615000044,,male,98222449.0
 110000.0,280000.0,849146,lifevantage corp,1,1,0,0.0,20150305,manovich dave,84914615000045,Executive Vice Chairman,male,98222449.0
-175000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20150305,okumoto richard y,84914615000044,,male,98222449.0
+313689.0,1265.0,849146,lifevantage corp,1,0,0,0.0,20150305,mauro garry paul,84914615000042,,male,98222449.0
 197000.0,9100.0,849146,lifevantage corp,1,0,0,0.0,20150305,beindorff michael a,84914615000041,,male,98222449.0
-150000.0,0.0,849146,lifevantage corp,1,0,0,0.0,20150305,metzger george,84914615000043,,male,98222449.0
+150000.0,,849146,lifevantage corp,1,0,0,0.0,20150305,metzger george,84914615000043,,male,98222449.0
 202000.0,9100.0,849146,lifevantage corp,1,0,0,0.0,20150312,beindorff michael a,84914615000047,,male,98222449.0
-302484.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150408,cutler rob,84914615000051,General Counsel,male,96985000.0
-1000000.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150520,jensen darren jay,120919115044911,Chief Executive Officer,male,97021189.0
-193850.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150624,colbert david,84914615000069,Chief Financial Officer,male,97021189.0
-227983.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150624,urban robert m.,84914615000068,Chief Operating Officer,male,97021189.0
-120000.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150729,rose justin,84914615000078,Chief Sales Officer,male,13958000.0
-120000.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150825,jaggi mark r.,84914615000090,Chief Financial Officer,male,13958000.0
-232983.0,0.0,849146,lifevantage corp,0,1,0,0.0,20150915,urban robert m.,84914615000112,Chief Operating Officer,male,13958000.0
+302484.0,,849146,lifevantage corp,0,1,0,0.0,20150408,cutler rob,84914615000051,General Counsel,male,96985000.0
+1000000.0,,849146,lifevantage corp,0,1,0,0.0,20150520,jensen darren jay,120919115044911,Chief Executive Officer,male,97021189.0
+227983.0,,849146,lifevantage corp,0,1,0,0.0,20150624,urban robert m.,84914615000068,Chief Operating Officer,male,97021189.0
+193850.0,,849146,lifevantage corp,0,1,0,0.0,20150624,colbert david,84914615000069,Chief Financial Officer,male,97021189.0
+120000.0,,849146,lifevantage corp,0,1,0,0.0,20150729,rose justin,84914615000078,Chief Sales Officer,male,13958000.0
+120000.0,,849146,lifevantage corp,0,1,0,0.0,20150825,jaggi mark r.,84914615000090,Chief Financial Officer,male,13958000.0
+120000.0,,849146,lifevantage corp,0,1,0,0.0,20150825,jaggi mark r.,84914615000090,Chief Financial Officer,male,13958000.0
+232983.0,,849146,lifevantage corp,0,1,0,0.0,20150915,urban robert m.,84914615000112,Chief Operating Officer,male,13958000.0
+232983.0,,849146,lifevantage corp,0,1,0,0.0,20150915,urban robert m.,84914615000112,Chief Operating Officer,male,13958000.0
+1189.0,8000.0,849146,lifevantage corp,1,0,0,0.0,20151112,beindorff michael a,84914615000123,,male,13996906.0
+143458.0,,849146,lifevantage corp,0,1,0,0.0,20151201,jensen darren jay,84914615000127,Chief Executive Officer,male,13996906.0
+23929.0,,849146,lifevantage corp,1,0,0,0.0,20151211,metzger george,84914615000129,,male,13996906.0
+18143.0,,849146,lifevantage corp,0,1,0,0.0,20151214,jaggi mark r.,84914615000131,Chief Financial Officer,male,13996906.0
+,,849146,lifevantage corp,0,1,0,0.0,20160104,jaggi mark r.,84914616000138,Chief Financial Officer,male,13992000.0
+,,849146,lifevantage corp,0,1,0,0.0,20160104,jensen darren jay,84914616000139,Chief Executive Officer,male,13992000.0
+,,849146,lifevantage corp,0,1,0,0.0,20160104,rose justin,84914616000140,Chief Sales Officer,male,13992000.0
+17143.0,,849146,lifevantage corp,0,1,0,0.0,20160104,goodwin ryan,84914616000141,Chief Marketing Officer,male,13992000.0
+37554.0,,849146,lifevantage corp,0,1,0,0.0,20160104,urban robert m.,84914616000143,Chief Operating Officer,male,13992000.0
+,,849146,lifevantage corp,1,1,0,0.0,20160330,jensen darren jay,84914616000159,Chief Executive Officer,male,14008737.0
+,,849146,lifevantage corp,0,1,0,0.0,20160330,jaggi mark r.,84914616000160,Chief Financial Officer,male,14008737.0
+,,849146,lifevantage corp,0,1,0,0.0,20160330,goodwin ryan,84914616000161,Chief Marketing Officer,male,14008737.0
+,,849146,lifevantage corp,0,1,0,0.0,20160330,rose justin,84914616000162,Chief Sales Officer,male,14008737.0
+,,849146,lifevantage corp,0,1,0,0.0,20160330,urban robert m.,84914616000163,Chief Operating Officer,male,14008737.0
+33881.0,,849146,lifevantage corp,0,1,0,0.0,20160627,urban robert m.,84914616000176,Chief Operating Officer,male,14008252.0
+15294.0,,849146,lifevantage corp,0,1,0,0.0,20160728,rose justin,84914616000182,Chief Sales Officer,male,14028370.0
+15665.0,,849146,lifevantage corp,0,1,0,0.0,20160825,jaggi mark r.,84914616000184,Chief Financial Officer,male,14028370.0
+14662.0,,849146,lifevantage corp,1,0,0,0.0,20170113,toole david j,84914617000004,,male,14054000.0
+144958.0,,849146,lifevantage corp,1,1,0,0.0,20170214,jensen darren jay,84914617000017,Chief Executive Officer,male,14054000.0
+31157.0,1389.0,849146,lifevantage corp,1,0,0,0.0,20170214,beindorff michael a,84914617000020,,male,14054000.0
+16794.0,,849146,lifevantage corp,0,1,0,0.0,20170214,rose justin,84914617000024,Chief Sales Officer,male,14054000.0
+24929.0,,849146,lifevantage corp,1,0,0,0.0,20170214,metzger george,84914617000025,,male,14054000.0
+16662.0,,849146,lifevantage corp,1,0,0,0.0,20170214,toole david j,84914617000027,,male,14054000.0
+195.0,108.0,849146,lifevantage corp,1,0,0,0.0,20170214,mauro garry paul,84914617000029,,male,14054000.0
+326.0,,849146,lifevantage corp,1,0,0,0.0,20170215,beindorff michael a,84914617000031,,male,14054000.0
+32708.0,,849146,lifevantage corp,1,0,0,0.0,20170221,okumoto richard y,84914617000040,,male,14054000.0
+54221.0,919.0,849146,lifevantage corp,1,0,0,0.0,20170221,mauro garry paul,84914617000037,,male,14054000.0
+38865.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20170221,beindorff michael a,84914617000038,,male,14054000.0
+32637.0,,849146,lifevantage corp,1,0,0,0.0,20170221,metzger george,84914617000039,,male,14054000.0
+23423.0,40001.0,849146,lifevantage corp,0,0,0,1.0,20170221,manovich dave,84914617000041,,male,14054000.0
+90000.0,,849146,lifevantage corp,0,1,0,0.0,20170329,fife steven r,84914617000071,Chief Financial Officer,male,14054000.0
+,,849146,lifevantage corp,0,1,0,0.0,20170329,rose justin,84914617000074,Chief Sales Officer,male,14054000.0
+,,849146,lifevantage corp,0,1,0,0.0,20170329,washington beatryx,84914617000076,Senior VP and General Counsel,male,14054000.0
+,,849146,lifevantage corp,1,1,0,0.0,20170329,jensen darren jay,84914617000073,Chief Executive Officer,male,14054000.0
+,,849146,lifevantage corp,0,1,0,0.0,20170329,goodwin ryan,84914617000075,Chief Marketing Officer,male,14054000.0
+4000.0,,849146,lifevantage corp,0,1,0,0.0,20170329,wach charles j.,84914617000072,Chief Operating Officer,male,14054000.0
+146958.0,,849146,lifevantage corp,1,1,0,0.0,20170519,jensen darren jay,84914617000084,Chief Executive Officer,male,14232609.0
+14316.0,,849146,lifevantage corp,0,1,0,0.0,20170728,rose justin,84914617000086,Chief Sales Officer,male,14232000.0
+149358.0,,849146,lifevantage corp,1,1,0,0.0,20170912,jensen darren jay,84914617000097,Chief Executive Officer,male,14228144.0
+57721.0,919.0,849146,lifevantage corp,1,0,0,0.0,20170918,mauro garry paul,84914617000099,,male,14228144.0
+3500.0,,849146,lifevantage corp,1,0,0,0.0,20170918,lewis darwin,84914617000101,,male,14228144.0
+14779.0,,849146,lifevantage corp,0,1,0,0.0,20171020,goodwin ryan,84914617000107,Chief Marketing Officer,male,14228000.0
+151358.0,,849146,lifevantage corp,1,1,0,0.0,20171114,jensen darren jay,84914617000120,Chief Executive Officer,male,14228000.0
+30000.0,,849146,lifevantage corp,0,1,0,0.0,20171116,mcmurray kevin,84914617000122,General Counsel,male,14228000.0
+31914.0,,849146,lifevantage corp,1,0,0,0.0,20180206,greer raymond b,84914618000024,,male,14209628.0
+54822.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20180206,beindorff michael a,84914618000025,,male,14209628.0
+73678.0,919.0,849146,lifevantage corp,1,0,0,0.0,20180206,mauro garry paul,84914618000026,,male,14209628.0
+,,849146,lifevantage corp,0,1,0,0.0,20180206,wach charles j.,84914618000036,Chief Operating Officer,male,14209628.0
+35414.0,,849146,lifevantage corp,1,0,0,0.0,20180206,lewis darwin,84914618000028,,male,14209628.0
+32619.0,,849146,lifevantage corp,1,0,0,0.0,20180206,toole david j,84914618000029,,male,14209628.0
+48594.0,,849146,lifevantage corp,1,0,0,0.0,20180206,metzger george,84914618000030,,male,14209628.0
+,,849146,lifevantage corp,1,1,0,0.0,20180206,jensen darren jay,84914618000035,Chief Executive Officer,male,14209628.0
+,,849146,lifevantage corp,0,1,0,0.0,20180206,rose justin,84914618000031,Chief Sales Officer,male,14209628.0
+,,849146,lifevantage corp,0,1,0,0.0,20180206,mcmurray kevin,84914618000032,General Counsel,male,14209628.0
+,,849146,lifevantage corp,0,1,0,0.0,20180206,goodwin ryan,84914618000034,Chief Marketing Officer,male,14209628.0
+31914.0,,849146,lifevantage corp,1,0,0,0.0,20180206,hegde vinayak,84914618000027,,male,14209628.0
+,,849146,lifevantage corp,0,1,0,0.0,20180206,fife steven r,84914618000033,Chief Financial Officer,male,14209628.0
+76773.0,,849146,lifevantage corp,0,1,0,0.0,20180315,fife steven r,84914618000051,Chief Financial Officer,male,14209628.0
+14286.0,919.0,849146,lifevantage corp,1,0,0,0.0,20180316,mauro garry paul,84914618000053,,male,14209628.0
+109500.0,,849146,lifevantage corp,1,1,0,0.0,20180521,jensen darren jay,84914618000060,Chief Executive Officer,male,14306851.0
+12065.0,,849146,lifevantage corp,0,1,0,0.0,20180730,rose justin,84914618000065,Chief Sales Officer,male,14073000.0
+27070.0,,849146,lifevantage corp,0,1,0,0.0,20180927,mcmurray kevin,84914618000077,General Counsel,male,14088430.0
+13104.0,,849146,lifevantage corp,0,1,0,0.0,20181022,goodwin ryan,84914618000086,Chief Marketing Officer,male,14103000.0
+38528.0,,849146,lifevantage corp,1,0,0,0.0,20181116,greer raymond b,84914618000097,,male,14102178.0
+61436.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20181116,beindorff michael a,84914618000095,,male,14102178.0
+42028.0,,849146,lifevantage corp,1,0,0,0.0,20181116,lewis darwin,84914618000101,,male,14102178.0
+38528.0,,849146,lifevantage corp,1,0,0,0.0,20181116,hegde vinayak,84914618000099,,male,14102178.0
+94578.0,919.0,849146,lifevantage corp,1,0,0,0.0,20181116,mauro garry paul,84914618000103,,male,14102178.0
+95728.0,919.0,849146,lifevantage corp,1,0,0,0.0,20181127,mauro garry paul,84914618000109,,male,14102178.0
+34345.0,,849146,lifevantage corp,0,1,0,0.0,20181130,mcmurray kevin,84914618000116,General Counsel,male,14102178.0
+91324.0,,849146,lifevantage corp,0,1,0,0.0,20181130,fife steven r,84914618000111,Chief Financial Officer,male,14102178.0
+20864.0,,849146,lifevantage corp,0,1,0,0.0,20181130,goodwin ryan,84914618000114,Chief Marketing Officer,male,14102178.0
+20795.0,,849146,lifevantage corp,0,1,0,0.0,20181130,rose justin,84914618000118,Chief Sales Officer,male,14102178.0
+11275.0,,849146,lifevantage corp,0,1,0,0.0,20181130,wach charles j.,84914618000120,Chief Operating Officer,male,14102178.0
+40028.0,,849146,lifevantage corp,1,0,0,0.0,20181130,greer raymond b,84914618000122,,male,14102178.0
+73001.0,,849146,lifevantage corp,0,1,0,0.0,20190103,goodwin ryan,84914619000002,Chief Marketing Officer,male,14267000.0
+200035.0,,849146,lifevantage corp,1,1,0,0.0,20190103,jensen darren jay,84914619000004,Chief Executive Officer,male,14267000.0
+72039.0,,849146,lifevantage corp,0,1,0,0.0,20190103,rose justin,84914619000006,Chief Sales Officer,male,14267000.0
+112871.0,919.0,849146,lifevantage corp,1,0,0,0.0,20190107,mauro garry paul,84914619000008,,male,14267000.0
+26775.0,,849146,lifevantage corp,0,1,0,0.0,20190110,wach charles j.,84914619000022,Chief Operating Officer,male,14267000.0
+87539.0,,849146,lifevantage corp,0,1,0,0.0,20190110,rose justin,84914619000020,Chief Sales Officer,male,14267000.0
+49845.0,,849146,lifevantage corp,0,1,0,0.0,20190110,mcmurray kevin,84914619000018,General Counsel,male,14267000.0
+88501.0,,849146,lifevantage corp,0,1,0,0.0,20190110,goodwin ryan,84914619000015,Chief Marketing Officer,male,14267000.0
+377214.0,,849146,lifevantage corp,1,1,0,0.0,20190110,jensen darren jay,84914619000012,Chief Executive Officer,male,14267000.0
+106824.0,,849146,lifevantage corp,0,1,0,0.0,20190110,fife steven r,84914619000016,Chief Financial Officer,male,14267000.0
+112824.0,,849146,lifevantage corp,0,1,0,0.0,20190205,fife steven r,84914619000031,Chief Financial Officer,male,14283765.0
+99991.0,,849146,lifevantage corp,0,1,0,0.0,20190314,fife steven r,84914619000033,Chief Financial Officer,male,14283765.0
+25986.0,,849146,lifevantage corp,0,1,0,0.0,20190314,wach charles j.,84914619000035,Chief Operating Officer,male,14283765.0
+3502.0,,849146,lifevantage corp,1,0,0,0.0,20190507,brockovich erin,84914619000049,,female,14340159.0
+415970.0,,849146,lifevantage corp,1,1,0,0.0,20190812,jensen darren jay,84914619000055,Chief Executive Officer,male,14116377.0
+47283.0,,849146,lifevantage corp,0,1,0,0.0,20190930,mcmurray kevin,84914619000068,General Counsel,male,14034000.0
+411470.0,,849146,lifevantage corp,1,1,0,0.0,20191121,jensen darren jay,84914619000084,Chief Executive Officer,male,13979254.0
+90143.0,,849146,lifevantage corp,0,1,0,0.0,20191122,rose justin,84914619000092,Chief Sales Officer,male,13979254.0
+28829.0,,849146,lifevantage corp,0,1,0,0.0,20191122,wach charles j.,84914619000094,Chief Operating Officer,male,13979254.0
+48823.0,,849146,lifevantage corp,0,1,0,0.0,20191122,mcmurray kevin,84914619000090,General Counsel,male,13979254.0
+91100.0,,849146,lifevantage corp,0,1,0,0.0,20191122,goodwin ryan,84914619000088,Chief Marketing Officer,male,13979254.0
+104779.0,,849146,lifevantage corp,0,1,0,0.0,20191122,fife steven r,84914619000086,Chief Financial Officer,male,13979254.0
+130014.0,865.0,849146,lifevantage corp,1,0,0,0.0,20191127,mauro garry paul,84914619000098,,male,13979254.0
+8553.0,,849146,lifevantage corp,1,0,0,0.0,20191209,brockovich erin,84914619000103,,female,13979254.0
+45079.0,,849146,lifevantage corp,1,0,0,0.0,20191209,greer raymond b,84914619000105,,male,13979254.0
+43579.0,,849146,lifevantage corp,1,0,0,0.0,20191209,hegde vinayak,84914619000106,,male,13979254.0
+47079.0,,849146,lifevantage corp,1,0,0,0.0,20191209,lewis darwin,84914619000107,,male,13979254.0
+135065.0,919.0,849146,lifevantage corp,1,0,0,0.0,20191209,mauro garry paul,84914619000108,,male,13979254.0
+120268.0,,849146,lifevantage corp,0,1,0,0.0,20191209,fife steven r,84914619000109,Chief Financial Officer,male,13979254.0
+95194.0,,849146,lifevantage corp,0,1,0,0.0,20191209,rose justin,84914619000111,Chief Sales Officer,male,13979254.0
+33038.0,,849146,lifevantage corp,0,1,0,0.0,20191209,wach charles j.,84914619000115,Chief Operating Officer,male,13979254.0
+438407.0,,849146,lifevantage corp,1,1,0,0.0,20191209,jensen darren jay,84914619000112,Chief Executive Officer,male,13979254.0
+66487.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20191209,beindorff michael a,84914619000101,,male,13979254.0
+53369.0,,849146,lifevantage corp,0,1,0,0.0,20191209,mcmurray kevin,84914619000114,General Counsel,male,13979254.0
+95478.0,,849146,lifevantage corp,0,1,0,0.0,20191209,goodwin ryan,84914619000113,Chief Marketing Officer,male,13979254.0
+433907.0,,849146,lifevantage corp,1,1,0,0.0,20191218,jensen darren jay,84914619000119,Chief Executive Officer,male,13979254.0
+150303.0,,849146,lifevantage corp,0,1,0,0.0,20200103,goodwin ryan,84914620000002,Chief Marketing Officer,male,14293000.0
+532151.0,,849146,lifevantage corp,1,1,0,0.0,20200103,jensen darren jay,84914620000004,Chief Executive Officer,male,14293000.0
+146283.0,,849146,lifevantage corp,0,1,0,0.0,20200103,rose justin,84914620000006,Chief Sales Officer,male,14293000.0
+120718.0,,849146,lifevantage corp,0,1,0,0.0,20200103,fife steven r,84914620000008,Chief Financial Officer,male,14293000.0
+150560.0,,849146,lifevantage corp,0,1,0,0.0,20200103,goodwin ryan,84914620000010,Chief Marketing Officer,male,14293000.0
+53595.0,,849146,lifevantage corp,0,1,0,0.0,20200103,mcmurray kevin,84914620000011,General Counsel,male,14293000.0
+146496.0,,849146,lifevantage corp,0,1,0,0.0,20200103,rose justin,84914620000012,Chief Sales Officer,male,14293000.0
+33183.0,,849146,lifevantage corp,0,1,0,0.0,20200103,wach charles j.,84914620000013,Chief Operating Officer,male,14293000.0
+511532.0,,849146,lifevantage corp,1,1,0,0.0,20200110,jensen darren jay,84914620000025,Chief Executive Officer,male,14293000.0
+25547.0,,849146,lifevantage corp,0,1,0,0.0,20200110,wach charles j.,84914620000023,Chief Operating Officer,male,14293000.0
+139192.0,,849146,lifevantage corp,0,1,0,0.0,20200110,rose justin,84914620000021,Chief Sales Officer,male,14293000.0
+46736.0,,849146,lifevantage corp,0,1,0,0.0,20200110,mcmurray kevin,84914620000019,General Counsel,male,14293000.0
+143865.0,,849146,lifevantage corp,0,1,0,0.0,20200110,goodwin ryan,84914620000017,Chief Marketing Officer,male,14293000.0
+113950.0,,849146,lifevantage corp,0,1,0,0.0,20200110,fife steven r,84914620000015,Chief Financial Officer,male,14293000.0
+507032.0,,849146,lifevantage corp,1,1,0,0.0,20200115,jensen darren jay,84914620000029,Chief Executive Officer,male,14293000.0
+115481.0,,849146,lifevantage corp,0,1,0,0.0,20200203,fife steven r,84914620000043,Chief Financial Officer,male,14359064.0
+502532.0,,849146,lifevantage corp,1,1,0,0.0,20200219,jensen darren jay,84914620000045,Chief Executive Officer,male,14359064.0
+137942.0,,849146,lifevantage corp,0,1,0,0.0,20200219,rose justin,84914620000047,Chief Sales Officer,male,14359064.0
+104291.0,,849146,lifevantage corp,0,1,0,0.0,20200316,fife steven r,84914620000049,Chief Financial Officer,male,14359064.0
+498032.0,,849146,lifevantage corp,1,1,0,0.0,20200319,jensen darren jay,84914620000051,Chief Executive Officer,male,14359064.0
+27831.0,,849146,lifevantage corp,0,1,0,0.0,20200403,wach charles j.,84914620000070,Chief Operating Officer,male,14295000.0
+139309.0,,849146,lifevantage corp,0,1,0,0.0,20200403,rose justin,84914620000068,Chief Sales Officer,male,14295000.0
+49116.0,,849146,lifevantage corp,0,1,0,0.0,20200403,mcmurray kevin,84914620000066,General Counsel,male,14295000.0
+105387.0,,849146,lifevantage corp,0,1,0,0.0,20200403,fife steven r,84914620000060,Chief Financial Officer,male,14295000.0
+145264.0,,849146,lifevantage corp,0,1,0,0.0,20200403,goodwin ryan,84914620000062,Chief Marketing Officer,male,14295000.0
+494085.0,,849146,lifevantage corp,1,1,0,0.0,20200403,jensen darren jay,84914620000064,Chief Executive Officer,male,14295000.0
+489585.0,,849146,lifevantage corp,1,1,0,0.0,20200415,jensen darren jay,84914620000073,Chief Executive Officer,male,14295000.0
+136809.0,,849146,lifevantage corp,0,1,0,0.0,20200416,rose justin,84914620000075,Chief Sales Officer,male,14295000.0
+485085.0,,849146,lifevantage corp,1,1,0,0.0,20200520,jensen darren jay,84914620000085,Chief Executive Officer,male,14313179.0
+135559.0,,849146,lifevantage corp,0,1,0,0.0,20200520,rose justin,84914620000087,Chief Sales Officer,male,14313179.0
+134309.0,,849146,lifevantage corp,0,1,0,0.0,20200617,rose justin,84914620000089,Chief Sales Officer,male,14313179.0
+480585.0,,849146,lifevantage corp,1,1,0,0.0,20200617,jensen darren jay,84914620000091,Chief Executive Officer,male,14313179.0
+28060.0,,849146,lifevantage corp,0,1,0,0.0,20200706,wach charles j.,84914620000103,Chief Operating Officer,male,14313000.0
+134622.0,,849146,lifevantage corp,0,1,0,0.0,20200706,rose justin,84914620000101,Chief Sales Officer,male,14313000.0
+49425.0,,849146,lifevantage corp,0,1,0,0.0,20200706,mcmurray kevin,84914620000099,General Counsel,male,14313000.0
+106484.0,,849146,lifevantage corp,0,1,0,0.0,20200706,fife steven r,84914620000093,Chief Financial Officer,male,14313000.0
+145611.0,,849146,lifevantage corp,0,1,0,0.0,20200706,goodwin ryan,84914620000095,Chief Marketing Officer,male,14313000.0
+476638.0,,849146,lifevantage corp,1,1,0,0.0,20200706,jensen darren jay,84914620000097,Chief Executive Officer,male,14313000.0
+472138.0,,849146,lifevantage corp,1,1,0,0.0,20200716,jensen darren jay,84914620000105,Chief Executive Officer,male,14313000.0
+133372.0,,849146,lifevantage corp,0,1,0,0.0,20200716,rose justin,84914620000107,Chief Sales Officer,male,14313000.0
+453787.0,,849146,lifevantage corp,1,1,0,0.0,20200810,jensen darren jay,84914620000109,Chief Executive Officer,male,14313000.0
+132122.0,,849146,lifevantage corp,0,1,0,0.0,20200819,rose justin,84914620000120,Chief Sales Officer,male,14354085.0
+449287.0,,849146,lifevantage corp,1,1,0,0.0,20200819,jensen darren jay,84914620000118,Chief Executive Officer,male,14354085.0
+122121.0,,849146,lifevantage corp,0,1,0,0.0,20200828,fife steven r,84914620000122,Chief Financial Officer,male,14354085.0
+149343.0,,849146,lifevantage corp,0,1,0,0.0,20200828,goodwin ryan,84914620000124,Chief Marketing Officer,male,14354085.0
+53745.0,,849146,lifevantage corp,0,1,0,0.0,20200828,mcmurray kevin,84914620000126,General Counsel,male,14354085.0
+32380.0,,849146,lifevantage corp,0,1,0,0.0,20200828,wach charles j.,84914620000130,Chief Operating Officer,male,14354085.0
+459590.0,,849146,lifevantage corp,1,1,0,0.0,20200828,jensen darren jay,84914620000132,Chief Executive Officer,male,14354085.0
+136795.0,,849146,lifevantage corp,0,1,0,0.0,20200828,rose justin,84914620000128,Chief Sales Officer,male,14354085.0
+152121.0,,849146,lifevantage corp,0,1,0,0.0,20200908,fife steven r,84914620000137,CFO and Interim CEO,male,14354085.0
+35756.0,,849146,lifevantage corp,0,1,0,0.0,20200908,wach charles j.,84914620000141,Chief Operating Officer,male,14354085.0
+153675.0,,849146,lifevantage corp,0,1,0,0.0,20200908,rose justin,84914620000139,Chief Sales Officer,male,14354085.0
+152425.0,,849146,lifevantage corp,0,1,0,0.0,20200916,rose justin,84914620000143,Chief Sales &Marketing Officer,male,14354085.0
+49515.0,,849146,lifevantage corp,0,1,0,0.0,20200929,mcmurray kevin,84914620000145,General Counsel,male,14354085.0
+153217.0,,849146,lifevantage corp,0,1,0,0.0,20201005,fife steven r,84914620000151,CFO and Interim CEO,male,14238000.0
+49824.0,,849146,lifevantage corp,0,1,0,0.0,20201005,mcmurray kevin,84914620000153,General Counsel,male,14238000.0
+153709.0,,849146,lifevantage corp,0,1,0,0.0,20201005,rose justin,84914620000155,Chief Sales &Marketing Officer,male,14238000.0
+36000.0,,849146,lifevantage corp,0,1,0,0.0,20201005,wach charles j.,84914620000157,Chief Operating Officer,male,14238000.0
+50373.0,,849146,lifevantage corp,1,0,0,0.0,20201113,hegde vinayak,84914620000175,,male,14263844.0
+142084.0,694.0,849146,lifevantage corp,1,0,0,0.0,20201113,mauro garry paul,84914620000177,,male,14263844.0
+53873.0,,849146,lifevantage corp,1,0,0,0.0,20201113,lewis darwin,84914620000176,,male,14263844.0
+51873.0,,849146,lifevantage corp,1,0,0,0.0,20201113,greer raymond b,84914620000174,,male,14263844.0
+73281.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20201113,beindorff michael a,84914620000172,,male,14263844.0
+15347.0,,849146,lifevantage corp,1,0,0,0.0,20201113,brockovich erin,84914620000173,,female,14263844.0
+173513.0,694.0,849146,lifevantage corp,1,0,0,0.0,20201202,mauro garry paul,84914620000181,,male,14263844.0
+49579.0,,849146,lifevantage corp,0,1,0,0.0,20201207,mcmurray kevin,84914620000189,General Counsel,male,14263844.0
+152872.0,,849146,lifevantage corp,0,1,0,0.0,20201207,fife steven r,84914620000186,CFO and Interim CEO,male,14263844.0
+35641.0,,849146,lifevantage corp,0,1,0,0.0,20201207,wach charles j.,84914620000188,Chief Operating Officer,male,14263844.0
+153342.0,,849146,lifevantage corp,0,1,0,0.0,20201207,rose justin,84914620000187,Chief Sales &Marketing Officer,male,14263844.0
+35685.0,,849146,lifevantage corp,0,1,0,0.0,20210105,wach charles j.,84914621000006,Chief Operating Officer,male,14151000.0
+153560.0,,849146,lifevantage corp,0,1,0,0.0,20210105,fife steven r,84914621000005,CFO and Interim CEO,male,14151000.0
+153447.0,,849146,lifevantage corp,0,1,0,0.0,20210105,rose justin,84914621000007,Chief Sales &Marketing Officer,male,14151000.0
+35729.0,,849146,lifevantage corp,0,1,0,0.0,20210405,wach charles j.,84914621000039,Chief Operating Officer,male,13989000.0
+153552.0,,849146,lifevantage corp,0,1,0,0.0,20210405,rose justin,84914621000038,Chief Sales &Marketing Officer,male,13989000.0
+49870.0,,849146,lifevantage corp,0,1,0,0.0,20210405,mcmurray kevin,84914621000037,General Counsel,male,13989000.0
+154586.0,,849146,lifevantage corp,0,1,0,0.0,20210405,fife steven r,84914621000040,President CEO and CFO,male,13989000.0
+155614.0,,849146,lifevantage corp,0,1,0,0.0,20210706,fife steven r,84914621000059,President CEO and CFO,male,13609000.0
+153657.0,,849146,lifevantage corp,0,1,0,0.0,20210706,rose justin,84914621000060,Chief Sales &Marketing Officer,male,13609000.0
+177590.0,,849146,lifevantage corp,0,1,0,0.0,20210816,rose justin,84914621000071,Chief Sales &Marketing Officer,male,13647499.0
+220297.0,,849146,lifevantage corp,0,1,0,0.0,20210816,fife steven r,84914621000072,President CEO and CFO,male,13647499.0
+49405.0,,849146,lifevantage corp,0,1,0,0.0,20210816,cooley matthew,84914621000070,Chief Operating Officer,male,13647499.0
+40996.0,,849146,lifevantage corp,0,1,0,0.0,20210816,neufeld alissa,84914621000069,General Counsel,female,13647499.0
+176884.0,,849146,lifevantage corp,0,1,0,0.0,20210831,rose justin,84914621000083,Chief Sales &Marketing Officer,male,13647499.0
+218352.0,,849146,lifevantage corp,1,1,0,0.0,20210831,fife steven r,84914621000082,President CEO and CFO,male,13647499.0
+176050.0,,849146,lifevantage corp,0,1,0,0.0,20210908,rose justin,84914621000087,Chief Sales &Marketing Officer,male,13647499.0
+214622.0,,849146,lifevantage corp,1,1,0,0.0,20210908,fife steven r,84914621000086,President CEO and CFO,male,13647499.0
+175162.0,,849146,lifevantage corp,0,1,0,0.0,20211005,rose justin,84914621000095,Chief Sales &Marketing Officer,male,13236000.0
+213133.0,,849146,lifevantage corp,1,1,0,0.0,20211005,fife steven r,84914621000096,President CEO and CFO,male,13236000.0
+26328.0,,849146,lifevantage corp,1,0,0,0.0,20211116,brockovich erin,84914621000117,,female,13243338.0
+62854.0,,849146,lifevantage corp,1,0,0,0.0,20211116,greer raymond b,84914621000118,,male,13243338.0
+64854.0,,849146,lifevantage corp,1,0,0,0.0,20211116,lewis darwin,84914621000119,,male,13243338.0
+184494.0,694.0,849146,lifevantage corp,1,0,0,0.0,20211116,mauro garry paul,84914621000120,,male,13243338.0
+57500.0,,849146,lifevantage corp,0,1,0,0.0,20211116,aure carl,84914621000123,Chief Financial Officer,male,13243338.0
+84262.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20211116,beindorff michael a,84914621000121,,male,13243338.0
+77119.0,,849146,lifevantage corp,1,0,0,0.0,20211210,beindorff michael a,84914621000125,,male,13243338.0
+174145.0,,849146,lifevantage corp,0,1,0,0.0,20220104,rose justin,84914622000003,Chief Sales Officer,male,12844000.0
+211340.0,,849146,lifevantage corp,1,1,0,0.0,20220104,fife steven r,84914622000004,President and CEO,male,12844000.0
+84312.0,,849146,lifevantage corp,1,0,0,0.0,20220209,beindorff michael a,84914622000012,,male,12850749.0
+11364.0,,849146,lifevantage corp,1,0,0,0.0,20220217,latham cynthia,84914622000018,,female,12850749.0
+209903.0,,849146,lifevantage corp,1,1,0,0.0,20220405,fife steven r,84914622000022,President and CEO,male,12577000.0
+37536.0,,849146,lifevantage corp,0,1,0,0.0,20220428,neufeld alissa,84914622000024,General Counsel,female,12577000.0
+45955.0,,849146,lifevantage corp,0,1,0,0.0,20220526,cooley matthew,84914622000030,Chief Operating Officer,male,12590098.0
+208420.0,,849146,lifevantage corp,1,1,0,0.0,20220706,fife steven r,84914622000032,President and CEO,male,12493000.0
+200399.0,,849146,lifevantage corp,1,1,0,0.0,20220816,fife steven r,84914622000042,President and CEO,male,12493000.0
+25744.0,,849146,lifevantage corp,0,1,0,0.0,20220816,cunningham kristen,84914622000041,Chief Sales Officer,female,12493000.0
+44066.0,,849146,lifevantage corp,0,1,0,0.0,20220816,cooley matthew,84914622000040,Chief Operating Officer,male,12493000.0
+36465.0,,849146,lifevantage corp,0,1,0,0.0,20220816,neufeld alissa,84914622000039,General Counsel,female,12493000.0
+65701.0,,849146,lifevantage corp,0,1,0,0.0,20220822,cooley matthew,84914622000051,Chief Operating Officer,male,12493000.0
+79135.0,,849146,lifevantage corp,0,1,0,0.0,20220822,aure carl,84914622000049,Chief Financial Officer,male,12493000.0
+60504.0,,849146,lifevantage corp,0,1,0,0.0,20220822,neufeld alissa,84914622000050,General Counsel,female,12493000.0
+52787.0,,849146,lifevantage corp,0,1,0,0.0,20220822,cunningham kristen,84914622000052,Chief Sales Officer,female,12493000.0
+353644.0,,849146,lifevantage corp,1,1,0,0.0,20220822,fife steven r,84914622000048,President and CEO,male,12493000.0
+52767.0,,849146,lifevantage corp,0,1,0,0.0,20221004,cunningham kristen,84914622000071,Chief Sales Officer,female,12560000.0
+65228.0,,849146,lifevantage corp,0,1,0,0.0,20221004,cooley matthew,84914622000068,Chief Operating Officer,male,12560000.0
+60236.0,,849146,lifevantage corp,0,1,0,0.0,20221004,neufeld alissa,84914622000069,General Counsel,female,12560000.0
+350223.0,,849146,lifevantage corp,1,1,0,0.0,20221004,fife steven r,84914622000070,President and CEO,male,12560000.0
+84284.0,,849146,lifevantage corp,1,0,0,0.0,20221115,lewis darwin,84914622000091,,male,12569302.0
+184769.0,,849146,lifevantage corp,1,0,0,0.0,20221115,mauro garry paul,84914622000087,,male,12569302.0
+45758.0,,849146,lifevantage corp,1,0,0,0.0,20221115,brockovich erin,84914622000088,,female,12569302.0
+82284.0,,849146,lifevantage corp,1,0,0,0.0,20221115,greer raymond b,84914622000089,,male,12569302.0
+204981.0,195.0,849146,lifevantage corp,1,0,0,0.0,20221115,mauro garry paul,84914622000090,,male,12569302.0
+379368.0,,849146,lifevantage corp,1,1,0,0.0,20221115,fife steven r,84914622000092,President and CEO,male,12569302.0
+103742.0,1827.0,849146,lifevantage corp,1,0,0,0.0,20221115,beindorff michael a,84914622000093,,male,12569302.0
+30794.0,,849146,lifevantage corp,1,0,0,0.0,20221115,latham cynthia,84914622000094,,female,12569302.0
+25000.0,,849146,lifevantage corp,1,0,0,0.0,20230103,mauro garry paul,84914623000002,,male,12707000.0
+59919.0,,849146,lifevantage corp,0,1,0,0.0,20230104,neufeld alissa,84914623000009,General Counsel,female,12707000.0
+64670.0,,849146,lifevantage corp,0,1,0,0.0,20230104,cooley matthew,84914623000007,Chief Operating Officer,male,12707000.0
+375460.0,,849146,lifevantage corp,1,1,0,0.0,20230104,fife steven r,84914623000008,President and CEO,male,12707000.0
+52742.0,,849146,lifevantage corp,0,1,0,0.0,20230104,cunningham kristen,84914623000010,Chief Sales Officer,female,12707000.0
+59603.0,,849146,lifevantage corp,0,1,0,0.0,20230221,boyster julie,84914623000022,Chief Marketing Officer,female,12717325.0
+59964.0,125000.0,849146,lifevantage corp,1,0,0,0.0,20230314,mauro garry paul,84914623000024,,male,12717325.0
+52717.0,,849146,lifevantage corp,0,1,0,0.0,20230404,cunningham kristen,84914623000040,Chief Sales Officer,female,12771000.0
+59602.0,,849146,lifevantage corp,0,1,0,0.0,20230404,neufeld alissa,84914623000038,General Counsel,female,12771000.0
+64111.0,,849146,lifevantage corp,0,1,0,0.0,20230404,cooley matthew,84914623000039,Chief Operating Officer,male,12771000.0
+372039.0,,849146,lifevantage corp,1,1,0,0.0,20230404,fife steven r,84914623000037,President and CEO,male,12771000.0
+56152.0,,849146,lifevantage corp,0,1,0,0.0,20230428,neufeld alissa,84914623000045,General Counsel,female,12771000.0
+49842.0,,849146,lifevantage corp,0,1,0,0.0,20230502,cunningham kristen,84914623000047,Chief Sales Officer,female,12771000.0
+85284.0,,849146,lifevantage corp,1,0,0,0.0,20230511,lewis darwin,84914623000054,,male,12794719.0
+25170.0,,849146,lifevantage corp,1,0,0,0.0,20230512,mauro garry paul,84914623000056,,male,12794719.0
+4501.0,326.0,849146,lifevantage corp,1,0,0,0.0,20230526,beindorff michael a,84914623000058,,male,12794719.0
+49822.0,,849146,lifevantage corp,0,1,0,0.0,20230705,cunningham kristen,84914623000065,Chief Sales Officer,female,12622000.0
+368636.0,,849146,lifevantage corp,1,1,0,0.0,20230705,fife steven r,84914623000066,President and CEO,male,12622000.0
+55886.0,,849146,lifevantage corp,0,1,0,0.0,20230705,neufeld alissa,84914623000064,General Counsel,female,12622000.0
+94736.0,,849146,lifevantage corp,0,1,0,0.0,20230822,aure carl,84914623000083,Chief Financial Officer,male,12622000.0
+392576.0,,849146,lifevantage corp,1,1,0,0.0,20230822,fife steven r,84914623000084,President and CEO,male,12622000.0
+55727.0,,849146,lifevantage corp,0,1,0,0.0,20230822,cunningham kristen,84914623000085,Chief Sales Officer,female,12622000.0
+66821.0,,849146,lifevantage corp,0,1,0,0.0,20230822,boyster julie,84914623000086,Chief Marketing Officer,female,12622000.0
+61136.0,,849146,lifevantage corp,0,1,0,0.0,20230822,neufeld alissa,84914623000087,General Counsel,female,12622000.0
+98379.0,,849146,lifevantage corp,0,1,0,0.0,20230828,boyster julie,84914623000107,Chief Marketing Officer,female,12701736.0
+85298.0,,849146,lifevantage corp,0,1,0,0.0,20230828,neufeld alissa,84914623000104,General Counsel,female,12701736.0
+85313.0,,849146,lifevantage corp,0,1,0,0.0,20230828,cunningham kristen,84914623000106,Chief Sales Officer,female,12701736.0
+119391.0,,849146,lifevantage corp,0,1,0,0.0,20230828,aure carl,84914623000108,Chief Financial Officer,male,12701736.0
+543772.0,,849146,lifevantage corp,1,1,0,0.0,20230828,fife steven r,84914623000109,President and CEO,male,12701736.0
+25.0,,849146,lifevantage corp,1,0,0,0.0,20230907,mauro garry paul,84914623000117,,male,12701736.0
+89408.0,,849146,lifevantage corp,1,0,0,0.0,20230926,lewis darwin,84914623000153,,male,12701736.0
+547762.0,,849146,lifevantage corp,1,1,0,0.0,20231003,fife steven r,84914623000164,President and CEO,male,12707000.0
+124792.0,,849146,lifevantage corp,0,1,0,0.0,20231003,aure carl,84914623000162,Chief Financial Officer,male,12707000.0
+86344.0,,849146,lifevantage corp,0,1,0,0.0,20231003,neufeld alissa,84914623000163,General Counsel,female,12707000.0
+89768.0,,849146,lifevantage corp,0,1,0,0.0,20231003,cunningham kristen,84914623000165,Chief Sales Officer,female,12707000.0
+100183.0,,849146,lifevantage corp,0,1,0,0.0,20231003,boyster julie,84914623000166,Chief Marketing Officer,female,12707000.0
+625468.0,,849146,lifevantage corp,1,1,0,0.0,20231108,fife steven r,84914623000200,President and CEO,male,12707000.0
+545.0,,849146,lifevantage corp,1,0,0,0.0,20231117,mauro garry paul,84914623000210,,male,12707000.0
+631159.0,,849146,lifevantage corp,1,1,0,0.0,20231120,fife steven r,84914623000220,President and CEO,male,12707000.0
+88368.0,138255.0,849146,lifevantage corp,1,0,0,0.0,20231120,mauro garry paul,84914623000224,,male,12707000.0
+106593.0,,849146,lifevantage corp,1,0,0,0.0,20231120,lewis darwin,84914623000223,,male,12707000.0
+62943.0,,849146,lifevantage corp,1,0,0,0.0,20231120,brockovich erin,84914623000219,,female,12707000.0
+47979.0,,849146,lifevantage corp,1,0,0,0.0,20231120,latham cynthia,84914623000222,,female,12707000.0
+99469.0,,849146,lifevantage corp,1,0,0,0.0,20231120,greer raymond b,84914623000221,,male,12707000.0
+122927.0,4827.0,849146,lifevantage corp,1,0,0,0.0,20231120,beindorff michael a,84914623000218,,male,12707000.0
+54798.0,5826.0,849146,lifevantage corp,1,0,0,0.0,20231122,beindorff michael a,84914623000226,,male,12707000.0
+107053.0,,849146,lifevantage corp,1,0,0,0.0,20231219,lewis darwin,84914623000228,,male,12707000.0
+90941.0,,849146,lifevantage corp,0,1,0,0.0,20240103,cunningham kristen,84914624000007,Chief Sales Officer,female,12880000.0
+101647.0,,849146,lifevantage corp,0,1,0,0.0,20240103,boyster julie,84914624000008,Chief Marketing Officer,female,12880000.0
+125203.0,,849146,lifevantage corp,0,1,0,0.0,20240103,aure carl,84914624000009,Chief Financial Officer,male,12880000.0
+634843.0,,849146,lifevantage corp,1,1,0,0.0,20240103,fife steven r,84914624000010,President and CEO,male,12880000.0
+87093.0,,849146,lifevantage corp,0,1,0,0.0,20240103,neufeld alissa,84914624000006,General Counsel,female,12880000.0
+32542.0,,849146,lifevantage corp,1,0,0,0.0,20240206,mauro garry paul,84914624000019,,male,12868462.0
+98217.0,,849146,lifevantage corp,0,1,0,0.0,20240221,boyster julie,84914624000023,Chief Marketing Officer,female,12868462.0
+25812.0,749325.0,849146,lifevantage corp,1,0,0,0.0,20240228,dayton judd,84914624000025,,male,12868462.0
+107502.0,,849146,lifevantage corp,1,0,0,0.0,20240318,lewis darwin,84914624000027,,male,12868462.0
+99681.0,,849146,lifevantage corp,0,1,0,0.0,20240403,boyster julie,84914624000034,Chief Marketing Officer,female,12688000.0
+92651.0,,849146,lifevantage corp,0,1,0,0.0,20240403,cunningham kristen,84914624000035,Chief Sales Officer,female,12688000.0
+87117.0,,849146,lifevantage corp,0,1,0,0.0,20240403,neufeld alissa,84914624000036,General Counsel,female,12688000.0
+639970.0,,849146,lifevantage corp,1,1,0,0.0,20240403,fife steven r,84914624000037,President and CEO,male,12688000.0
+127420.0,,849146,lifevantage corp,0,1,0,0.0,20240403,aure carl,84914624000033,Chief Financial Officer,male,12688000.0
+82916.0,,849146,lifevantage corp,0,1,0,0.0,20240430,neufeld alissa,84914624000042,General Counsel,female,12688000.0
+90234.0,,849146,lifevantage corp,0,1,0,0.0,20240430,cunningham kristen,84914624000043,Chief Sales Officer,female,12688000.0
+107991.0,,849146,lifevantage corp,1,0,0,0.0,20240618,lewis darwin,84914624000050,,male,12700556.0
+128058.0,,849146,lifevantage corp,0,1,0,0.0,20240703,aure carl,84914624000057,Chief Financial Officer,male,12510000.0
+101492.0,,849146,lifevantage corp,0,1,0,0.0,20240703,boyster julie,84914624000058,Chief Marketing Officer,female,12510000.0
+83241.0,,849146,lifevantage corp,0,1,0,0.0,20240703,neufeld alissa,84914624000059,General Counsel,female,12510000.0
+91694.0,,849146,lifevantage corp,0,1,0,0.0,20240703,cunningham kristen,84914624000060,Chief Sales Officer,female,12510000.0
+645138.0,,849146,lifevantage corp,1,1,0,0.0,20240703,fife steven r,84914624000056,President and CEO,male,12510000.0
+74228.0,5826.0,849146,lifevantage corp,1,0,0,0.0,20240729,beindorff michael a,84914624000062,,male,12510000.0
+2649.0,,849146,lifevantage corp,1,0,0,0.0,20240827,anbalagan rajendran,84914624000068,,male,12510000.0
+120136.0,,849146,lifevantage corp,0,1,0,0.0,20240828,boyster julie,84914624000082,Chief Marketing Officer,female,12510000.0
+109127.0,,849146,lifevantage corp,0,1,0,0.0,20240828,cunningham kristen,84914624000085,Chief Sales Officer,female,12510000.0
+140649.0,,849146,lifevantage corp,0,1,0,0.0,20240828,aure carl,84914624000086,Chief Financial Officer,male,12510000.0
+717777.0,,849146,lifevantage corp,1,1,0,0.0,20240828,fife steven r,84914624000083,President and CEO,male,12510000.0
+95832.0,,849146,lifevantage corp,0,1,0,0.0,20240828,neufeld alissa,84914624000084,General Counsel,female,12510000.0
+6539.0,65084.0,849146,lifevantage corp,1,0,0,0.0,20240905,mauro garry paul,84914624000096,,male,12510000.0
+106814.0,,849146,lifevantage corp,0,1,0,0.0,20240905,cunningham kristen,84914624000092,Chief Sales Officer,female,12510000.0
+138970.0,,849146,lifevantage corp,0,1,0,0.0,20240905,aure carl,84914624000093,Chief Financial Officer,male,12510000.0
+117096.0,,849146,lifevantage corp,0,1,0,0.0,20240905,boyster julie,84914624000094,Chief Marketing Officer,female,12510000.0
+92457.0,,849146,lifevantage corp,0,1,0,0.0,20240905,neufeld alissa,84914624000095,General Counsel,female,12510000.0
+108342.0,,849146,lifevantage corp,1,0,0,0.0,20240917,lewis darwin,84914624000102,,male,12510000.0
+138746.0,,849146,lifevantage corp,0,1,0,0.0,20241003,aure carl,84914624000114,Chief Financial Officer,male,12484000.0
+715103.0,,849146,lifevantage corp,1,1,0,0.0,20241003,fife steven r,84914624000115,President and CEO,male,12484000.0
+107581.0,,849146,lifevantage corp,0,1,0,0.0,20241003,cunningham kristen,84914624000116,Chief Sales Officer,female,12484000.0
+118145.0,,849146,lifevantage corp,0,1,0,0.0,20241003,boyster julie,84914624000117,Chief Marketing Officer,female,12484000.0
+92322.0,,849146,lifevantage corp,0,1,0,0.0,20241003,neufeld alissa,84914624000118,General Counsel,female,12484000.0
+676442.0,,849146,lifevantage corp,1,1,0,0.0,20241108,fife steven r,84914624000124,President and CEO,male,12525229.0
+55798.0,,849146,lifevantage corp,1,0,0,0.0,20241112,latham cynthia,84914624000138,,female,12525229.0
+107288.0,,849146,lifevantage corp,1,0,0,0.0,20241112,greer raymond b,84914624000137,,male,12525229.0
+33631.0,749325.0,849146,lifevantage corp,1,0,0,0.0,20241112,dayton judd,84914624000136,,male,12525229.0
+50018.0,80054.0,849146,lifevantage corp,1,0,0,0.0,20241112,beindorff michael a,84914624000135,,male,12525229.0
+116161.0,,849146,lifevantage corp,1,0,0,0.0,20241112,lewis darwin,84914624000132,,male,12525229.0
+10468.0,,849146,lifevantage corp,1,0,0,0.0,20241112,anbalagan rajendran,84914624000134,,male,12525229.0
+85486.0,170185.0,849146,lifevantage corp,1,0,0,0.0,20241112,mauro garry paul,84914624000133,,male,12525229.0
+133274.0,,849146,lifevantage corp,0,1,0,0.0,20241113,aure carl,84914624000140,Chief Financial Officer,male,12525229.0
+116388.0,,849146,lifevantage corp,1,0,0,0.0,20241217,lewis darwin,84914624000151,,male,12525229.0

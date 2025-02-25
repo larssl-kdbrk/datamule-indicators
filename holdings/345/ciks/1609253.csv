@@ -1,77 +1,463 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-3000.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141114,weiss charles f.,110465914081045,Exec. VP - Public Affairs,male,1000.0
-15000.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141114,smith marshall d,110465914081046,Senior Exec. VP and CFO,male,1000.0
-12400.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20141114,stevens todd a.,110465914081047,President and CEO,male,1000.0
-7059.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141114,kerns shawn m.,110465914081048,Exec. VP - Corp. Development,male,1000.0
-2750.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141125,komin frank e.,110465914083385,Exec. VP - S. Operations,male,1000.0
-10000.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141125,pineci roy,110465914083386,Exec. VP - Finance,male,1000.0
-7996.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,preston michael l.,110465914084514,"Exec. VP, GC and Secretary",male,1000.0
-71500000.0,0.0,1609253,california resources corp,0,0,1.0,0.0,20141202,occidental petroleum corp /de/,110465914084512,,male,1000.0
-8387.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,kerns shawn m.,110465914084511,Exec. VP - Corp. Development,male,1000.0
-31988.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20141202,albrecht william e,110465914084510,Executive Chairman,male,1000.0
-7155.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,weiss charles f.,110465914084507,Exec. VP - Public Affairs,male,1000.0
-3700.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,komin frank e.,110465914084508,Exec. VP - S. Operations,male,1000.0
-3851.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,helm michael s.,110465914084502,Vice President and Controller,male,1000.0
-14796.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141202,poladian avedick baruyr,110465914084501,,male,1000.0
-33582.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,pineci roy,110465914084499,Exec. VP - Finance,male,1000.0
-529.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141202,barnes robert a.,110465914084498,Exec. VP - N. Operations,male,1000.0
-16790.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20141202,stevens todd a.,110465914084505,President and CEO,male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,weiss charles f.,160925314000012,EVP - Public Affairs,male,1000.0
-73275.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,helm michael s.,160925314000019,Vice President and Controller,male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,barnes robert a.,160925314000018,EVP - N. Operations,male,1000.0
-19996.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,preston michael l.,160925314000017,"EVP, GC and Corp. Secretary",male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,pineci roy,160925314000016,EVP - Finance,male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,williams darren,160925314000015,EVP - Exploration,male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,kerns shawn m.,160925314000014,EVP - Corporate,male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,komin frank e.,160925314000013,EVP - S. Operations,male,1000.0
-0.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141208,smith marshall d,160925314000011,Senior EVP & CFO,male,1000.0
-10654.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,havner ronald l jr,160925314000003,,male,1000.0
-0.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20141208,albrecht william e,160925314000009,Exec. Chairman of the Board,male,1000.0
-11454.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,moncrief richard w.,160925314000008,,male,1000.0
-25450.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,poladian avedick baruyr,160925314000007,,male,1000.0
-110654.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,korell harold m,160925314000006,,male,1000.0
-10654.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,sloan timothy j,160925314000005,,male,1000.0
-10654.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,sinnott robert v,160925314000004,,male,1000.0
-10654.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20141208,gannon justin a.,160925314000002,,male,1000.0
-0.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20141208,stevens todd a.,160925314000010,President and CEO,male,1000.0
-51988.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20141210,albrecht william e,160925314000031,Exec. Chairman of the Board,male,1000.0
-50503.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20141212,pineci roy,160925314000032,EVP - Finance,male,1000.0
-9877.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150129,weiss charles f.,160925315000006,EVP - Public Affairs,male,38564000.0
-6397.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150302,komin frank e.,160925315000017,EVP - S. Operations,male,385639582.0
-23595.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150302,preston michael l.,160925315000018,EVP. GC and Corp. Secretary,male,385639582.0
-12890.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150302,kerns shawn m.,160925315000019,EVP - Corporate Development,male,385639582.0
-19293.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150303,barnes robert a.,160925315000023,EVP - N. Operations,male,385639582.0
-30290.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20150306,stevens todd a.,160925315000025,President and CEO,male,385639582.0
-5598.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150317,kehr catherine a,160925315000033,,female,385639582.0
-20654.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150505,gannon justin a.,160925315000059,,male,386004534.0
-29173.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,sloan timothy j,160925315000075,,male,386004534.0
-29173.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,sinnott robert v,160925315000073,,male,386004534.0
-43969.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,poladian avedick baruyr,160925315000071,,male,386004534.0
-24117.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,kehr catherine a,160925315000069,,female,386004534.0
-29173.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,havner ronald l jr,160925315000063,,male,386004534.0
-29973.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,moncrief richard w.,160925315000065,,male,386004534.0
-39173.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,gannon justin a.,160925315000061,,male,386004534.0
-129173.0,0.0,1609253,california resources corp,1,0,0.0,0.0,20150511,korell harold m,160925315000067,,male,386004534.0
-28013.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150714,preston michael l.,160925315000091,EVP. GC and Corp. Secretary,male,386380829.0
-17278.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150714,kerns shawn m.,160925315000087,EVP - Corporate Development,male,386380829.0
-10455.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150714,komin frank e.,160925315000089,EVP - S. Operations,male,386380829.0
-24700.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150714,barnes robert a.,160925315000083,EVP - N. Operations,male,386380829.0
-72792.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150714,helm michael s.,160925315000085,Vice President and Controller,male,386380829.0
-70729.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150722,helm michael s.,160925315000093,Vice President and Controller,male,386380829.0
-92299.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,preston michael l.,160925315000112,EVP. GC and Corp. Secretary,male,386380829.0
-143722.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,pineci roy,160925315000120,EVP - Finance,male,386380829.0
-157858.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,smith marshall d,160925315000118,Senior EVP & CFO,male,386380829.0
-110516.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,weiss charles f.,160925315000116,EVP - Public Affairs,male,386380829.0
-95729.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,helm michael s.,160925315000114,Vice President and Controller,male,386380829.0
-113986.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,barnes robert a.,160925315000110,EVP - N. Operations,male,386380829.0
-99741.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,komin frank e.,160925315000108,EVP - S. Operations,male,386380829.0
-99495.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,williams darren,160925315000106,EVP - Exploration,male,386380829.0
-389780.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20150807,stevens todd a.,160925315000104,President and CEO,male,386380829.0
-194846.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20150807,albrecht william e,160925315000102,Exec. Chairman of the Board,male,386380829.0
-81564.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150807,kerns shawn m.,160925315000100,EVP - Corporate Development,male,386380829.0
-399780.0,0.0,1609253,california resources corp,1,1,0.0,0.0,20150811,stevens todd a.,160925315000122,President and CEO,male,386380829.0
-11877.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150812,weiss charles f.,160925315000124,EVP - Public Affairs,male,386380829.0
-116436.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150812,barnes robert a.,160925315000126,EVP - N. Operations,male,386380829.0
-93564.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150813,kerns shawn m.,160925315000128,EVP - Corporate Development,male,386380829.0
-144722.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150814,pineci roy,160925315000130,EVP - Finance,male,386380829.0
-93319.0,0.0,1609253,california resources corp,0,1,0.0,0.0,20150814,preston michael l.,160925315000132,EVP. GC and Corp. Secretary,male,386380829.0
+7059.0,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141114,kerns shawn m.,110465914081048,Exec. VP - Corp. Development,male,1000.0
+12400.0,,1609253,california resources corp,1.0,1.0,0.0,0.0,20141114,stevens todd a.,110465914081047,President and CEO,male,1000.0
+15000.0,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141114,smith marshall d,110465914081046,Senior Exec. VP and CFO,male,1000.0
+3000.0,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141114,weiss charles f.,110465914081045,Exec. VP - Public Affairs,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141125,komin frank e.,110465914083385,Exec. VP - S. Operations,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141125,pineci roy,110465914083386,Exec. VP - Finance,male,1000.0
+,,1609253,california resources corp,1.0,0.0,0.0,0.0,20141202,poladian avedick baruyr,110465914084501,,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,barnes robert a.,110465914084498,Exec. VP - N. Operations,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,pineci roy,110465914084499,Exec. VP - Finance,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,preston michael l.,110465914084514,"Exec. VP, GC and Secretary",male,1000.0
+,,1609253,california resources corp,0.0,0.0,1.0,0.0,20141202,occidental petroleum corp /de/,110465914084512,,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,helm michael s.,110465914084502,Vice President and Controller,male,1000.0
+,,1609253,california resources corp,1.0,1.0,0.0,0.0,20141202,albrecht william e,110465914084510,Executive Chairman,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,kerns shawn m.,110465914084511,Exec. VP - Corp. Development,male,1000.0
+,,1609253,california resources corp,1.0,1.0,0.0,0.0,20141202,stevens todd a.,110465914084505,President and CEO,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,komin frank e.,110465914084508,Exec. VP - S. Operations,male,1000.0
+,,1609253,california resources corp,0.0,1.0,0.0,0.0,20141202,weiss charles f.,110465914084507,Exec. VP - Public Affairs,male,1000.0
+73275.0,,1609253,california resources corp,0,1,0,0,20141208,helm michael s.,160925314000019,Vice President and Controller,male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,barnes robert a.,160925314000018,EVP - N. Operations,male,1000.0
+19996.0,,1609253,california resources corp,0,1,0,0,20141208,preston michael l.,160925314000017,"EVP, GC and Corp. Secretary",male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,pineci roy,160925314000016,EVP - Finance,male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,kerns shawn m.,160925314000014,EVP - Corporate,male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,komin frank e.,160925314000013,EVP - S. Operations,male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,weiss charles f.,160925314000012,EVP - Public Affairs,male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,williams darren,160925314000015,EVP - Exploration,male,1000.0
+,,1609253,california resources corp,1,1,0,0,20141208,albrecht william e,160925314000009,Exec. Chairman of the Board,male,1000.0
+,,1609253,california resources corp,1,1,0,0,20141208,stevens todd a.,160925314000010,President and CEO,male,1000.0
+10654.0,,1609253,california resources corp,1,0,0,0,20141208,gannon justin a.,160925314000002,,male,1000.0
+10654.0,,1609253,california resources corp,1,0,0,0,20141208,havner ronald l jr,160925314000003,,male,1000.0
+10654.0,,1609253,california resources corp,1,0,0,0,20141208,sinnott robert v,160925314000004,,male,1000.0
+,,1609253,california resources corp,0,1,0,0,20141208,smith marshall d,160925314000011,Senior EVP & CFO,male,1000.0
+110654.0,,1609253,california resources corp,1,0,0,0,20141208,korell harold m,160925314000006,,male,1000.0
+25450.0,,1609253,california resources corp,1,0,0,0,20141208,poladian avedick baruyr,160925314000007,,male,1000.0
+11454.0,,1609253,california resources corp,1,0,0,0,20141208,moncrief richard w.,160925314000008,,male,1000.0
+10654.0,,1609253,california resources corp,1,0,0,0,20141208,sloan timothy j,160925314000005,,male,1000.0
+51988.0,,1609253,california resources corp,1,1,0,0,20141210,albrecht william e,160925314000031,Exec. Chairman of the Board,male,1000.0
+50503.0,,1609253,california resources corp,0,1,0,0,20141212,pineci roy,160925314000032,EVP - Finance,male,1000.0
+9877.0,,1609253,california resources corp,0,1,0,0,20150129,weiss charles f.,160925315000006,EVP - Public Affairs,male,38564000.0
+6397.0,,1609253,california resources corp,0,1,0,0,20150302,komin frank e.,160925315000017,EVP - S. Operations,male,385639582.0
+23595.0,,1609253,california resources corp,0,1,0,0,20150302,preston michael l.,160925315000018,EVP. GC and Corp. Secretary,male,385639582.0
+12890.0,,1609253,california resources corp,0,1,0,0,20150302,kerns shawn m.,160925315000019,EVP - Corporate Development,male,385639582.0
+,,1609253,california resources corp,0,1,0,0,20150303,barnes robert a.,160925315000023,EVP - N. Operations,male,385639582.0
+30290.0,,1609253,california resources corp,1,1,0,0,20150306,stevens todd a.,160925315000025,President and CEO,male,385639582.0
+5598.0,,1609253,california resources corp,1,0,0,0,20150317,kehr catherine a,160925315000033,,female,385639582.0
+20654.0,,1609253,california resources corp,1,0,0,0,20150505,gannon justin a.,160925315000059,,male,386004534.0
+39173.0,,1609253,california resources corp,1,0,0,0,20150511,gannon justin a.,160925315000061,,male,386004534.0
+129173.0,,1609253,california resources corp,1,0,0,0,20150511,korell harold m,160925315000067,,male,386004534.0
+29173.0,,1609253,california resources corp,1,0,0,0,20150511,havner ronald l jr,160925315000063,,male,386004534.0
+29173.0,,1609253,california resources corp,1,0,0,0,20150511,sloan timothy j,160925315000075,,male,386004534.0
+29973.0,,1609253,california resources corp,1,0,0,0,20150511,moncrief richard w.,160925315000065,,male,386004534.0
+43969.0,,1609253,california resources corp,1,0,0,0,20150511,poladian avedick baruyr,160925315000071,,male,386004534.0
+24117.0,,1609253,california resources corp,1,0,0,0,20150511,kehr catherine a,160925315000069,,female,386004534.0
+29173.0,,1609253,california resources corp,1,0,0,0,20150511,sinnott robert v,160925315000073,,male,386004534.0
+24700.0,,1609253,california resources corp,0,1,0,0,20150714,barnes robert a.,160925315000083,EVP - N. Operations,male,386380829.0
+72792.0,,1609253,california resources corp,0,1,0,0,20150714,helm michael s.,160925315000085,Vice President and Controller,male,386380829.0
+17278.0,,1609253,california resources corp,0,1,0,0,20150714,kerns shawn m.,160925315000087,EVP - Corporate Development,male,386380829.0
+10455.0,,1609253,california resources corp,0,1,0,0,20150714,komin frank e.,160925315000089,EVP - S. Operations,male,386380829.0
+28013.0,,1609253,california resources corp,0,1,0,0,20150714,preston michael l.,160925315000091,EVP. GC and Corp. Secretary,male,386380829.0
+70729.0,,1609253,california resources corp,0,1,0,0,20150722,helm michael s.,160925315000093,Vice President and Controller,male,386380829.0
+95729.0,,1609253,california resources corp,0,1,0,0,20150807,helm michael s.,160925315000114,Vice President and Controller,male,386380829.0
+92299.0,,1609253,california resources corp,0,1,0,0,20150807,preston michael l.,160925315000112,EVP. GC and Corp. Secretary,male,386380829.0
+113986.0,,1609253,california resources corp,0,1,0,0,20150807,barnes robert a.,160925315000110,EVP - N. Operations,male,386380829.0
+99741.0,,1609253,california resources corp,0,1,0,0,20150807,komin frank e.,160925315000108,EVP - S. Operations,male,386380829.0
+81564.0,,1609253,california resources corp,0,1,0,0,20150807,kerns shawn m.,160925315000100,EVP - Corporate Development,male,386380829.0
+389780.0,,1609253,california resources corp,1,1,0,0,20150807,stevens todd a.,160925315000104,President and CEO,male,386380829.0
+194846.0,,1609253,california resources corp,1,1,0,0,20150807,albrecht william e,160925315000102,Exec. Chairman of the Board,male,386380829.0
+110516.0,,1609253,california resources corp,0,1,0,0,20150807,weiss charles f.,160925315000116,EVP - Public Affairs,male,386380829.0
+157858.0,,1609253,california resources corp,0,1,0,0,20150807,smith marshall d,160925315000118,Senior EVP & CFO,male,386380829.0
+143722.0,,1609253,california resources corp,0,1,0,0,20150807,pineci roy,160925315000120,EVP - Finance,male,386380829.0
+99495.0,,1609253,california resources corp,0,1,0,0,20150807,williams darren,160925315000106,EVP - Exploration,male,386380829.0
+110516.0,,1609253,california resources corp,0,1,0,0,20150807,weiss charles f.,160925315000116,EVP - Public Affairs,male,386380829.0
+143722.0,,1609253,california resources corp,0,1,0,0,20150807,pineci roy,160925315000120,EVP - Finance,male,386380829.0
+389780.0,,1609253,california resources corp,1,1,0,0,20150807,stevens todd a.,160925315000104,President and CEO,male,386380829.0
+81564.0,,1609253,california resources corp,0,1,0,0,20150807,kerns shawn m.,160925315000100,EVP - Corporate Development,male,386380829.0
+95729.0,,1609253,california resources corp,0,1,0,0,20150807,helm michael s.,160925315000114,Vice President and Controller,male,386380829.0
+92299.0,,1609253,california resources corp,0,1,0,0,20150807,preston michael l.,160925315000112,EVP. GC and Corp. Secretary,male,386380829.0
+113986.0,,1609253,california resources corp,0,1,0,0,20150807,barnes robert a.,160925315000110,EVP - N. Operations,male,386380829.0
+99741.0,,1609253,california resources corp,0,1,0,0,20150807,komin frank e.,160925315000108,EVP - S. Operations,male,386380829.0
+99495.0,,1609253,california resources corp,0,1,0,0,20150807,williams darren,160925315000106,EVP - Exploration,male,386380829.0
+157858.0,,1609253,california resources corp,0,1,0,0,20150807,smith marshall d,160925315000118,Senior EVP & CFO,male,386380829.0
+194846.0,,1609253,california resources corp,1,1,0,0,20150807,albrecht william e,160925315000102,Exec. Chairman of the Board,male,386380829.0
+399780.0,,1609253,california resources corp,1,1,0,0,20150811,stevens todd a.,160925315000122,President and CEO,male,386380829.0
+399780.0,,1609253,california resources corp,1,1,0,0,20150811,stevens todd a.,160925315000122,President and CEO,male,386380829.0
+116436.0,,1609253,california resources corp,0,1,0,0,20150812,barnes robert a.,160925315000126,EVP - N. Operations,male,386380829.0
+11877.0,,1609253,california resources corp,0,1,0,0,20150812,weiss charles f.,160925315000124,EVP - Public Affairs,male,386380829.0
+116436.0,,1609253,california resources corp,0,1,0,0,20150812,barnes robert a.,160925315000126,EVP - N. Operations,male,386380829.0
+11877.0,,1609253,california resources corp,0,1,0,0,20150812,weiss charles f.,160925315000124,EVP - Public Affairs,male,386380829.0
+93564.0,,1609253,california resources corp,0,1,0,0,20150813,kerns shawn m.,160925315000128,EVP - Corporate Development,male,386380829.0
+93564.0,,1609253,california resources corp,0,1,0,0,20150813,kerns shawn m.,160925315000128,EVP - Corporate Development,male,386380829.0
+93319.0,,1609253,california resources corp,0,1,0,0,20150814,preston michael l.,160925315000132,EVP. GC and Corp. Secretary,male,386380829.0
+144722.0,,1609253,california resources corp,0,1,0,0,20150814,pineci roy,160925315000130,EVP - Finance,male,386380829.0
+93319.0,,1609253,california resources corp,0,1,0,0,20150814,preston michael l.,160925315000132,EVP. GC and Corp. Secretary,male,386380829.0
+144722.0,,1609253,california resources corp,0,1,0,0,20150814,pineci roy,160925315000130,EVP - Finance,male,386380829.0
+139136.0,,1609253,california resources corp,0,1,0,0,20151105,weiss charles f.,160925315000149,EVP - Public Affairs,male,387837645.0
+511582.0,,1609253,california resources corp,1,1,0,0,20151105,stevens todd a.,160925315000157,President and CEO,male,387837645.0
+98802.0,,1609253,california resources corp,0,1,0,0,20151105,preston michael l.,160925315000159,"EVP, GC and Corp. Secretary",male,387837645.0
+123288.0,,1609253,california resources corp,0,1,0,0,20151105,barnes robert a.,160925315000161,EVP - N. Operations,male,387837645.0
+327926.0,,1609253,california resources corp,1,1,0,0,20151105,albrecht william e,160925315000163,Exec. Chairman of the Board,male,387837645.0
+98703.0,,1609253,california resources corp,0,1,0,0,20151105,kerns shawn m.,160925315000153,EVP - Corporate Development,male,387837645.0
+212694.0,,1609253,california resources corp,0,1,0,0,20151105,pineci roy,160925315000155,EVP - Finance,male,387837645.0
+105909.0,,1609253,california resources corp,0,1,0,0,20151105,komin frank e.,160925315000151,EVP - S. Operations,male,387837645.0
+527097.0,,1609253,california resources corp,1,1,0,0,20160303,stevens todd a.,162828016012255,President and CEO,male,388181900.0
+19877.0,,1609253,california resources corp,0,1,0,0,20160304,weiss charles f.,162828016012291,EVP - Public Affairs,male,388181900.0
+132114.0,,1609253,california resources corp,0,1,0,0,20160307,barnes robert a.,162828016012325,EVP - N. Operations,male,388181900.0
+0.0,,1609253,california resources corp,0,0,1,0,20160328,occidental petroleum corp /de/,89924316016718,,male,388181900.0
+36635.0,,1609253,california resources corp,0,1,0,0,20160506,komin frank e.,160925316000215,EVP - S. Operations,male,389166706.0
+487965.0,,1609253,california resources corp,0,1,0,0,20160601,pineci roy,160925316000247,EVP - Finance,male,389166706.0
+471547.0,,1609253,california resources corp,0,1,0,0,20160601,weiss charles f.,160925316000253,EVP - Public Affairs,male,389166706.0
+1621000.0,,1609253,california resources corp,1,1,0,0,20160601,stevens todd a.,160925316000243,President and CEO,male,389166706.0
+80552.72,,1609253,california resources corp,1,0,0,0,20160601,poladian avedick baruyr,160925316000246,,male,389166706.0
+161428.461,,1609253,california resources corp,0,1,0,0,20160601,helm michael s.,160925316000249,Vice President and Controller,male,389166706.0
+300575.831,,1609253,california resources corp,0,1,0,0,20160601,preston michael l.,160925316000241,"EVP, GC and Corp. Secretary",male,389166706.0
+62973.0,,1609253,california resources corp,1,0,0,0,20160601,moncrief richard w.,160925316000231,,male,389166706.0
+409166.972,,1609253,california resources corp,0,1,0,0,20160601,barnes robert a.,160925316000237,EVP - Operations,male,389166706.0
+61986.0,,1609253,california resources corp,1,0,0,0,20160601,sloan timothy j,160925316000235,,male,389166706.0
+61986.0,,1609253,california resources corp,1,0,0,0,20160601,sinnott robert v,160925316000233,,male,389166706.0
+161986.0,,1609253,california resources corp,1,0,0,0,20160601,korell harold m,160925316000229,,male,389166706.0
+56930.0,,1609253,california resources corp,1,0,0,0,20160601,kehr catherine a,160925316000227,,female,389166706.0
+61986.0,,1609253,california resources corp,1,0,0,0,20160601,havner ronald l jr,160925316000225,,male,389166706.0
+363401.199,,1609253,california resources corp,1,0,0,0,20160601,albrecht william e,160925316000219,,male,389166706.0
+299166.0,,1609253,california resources corp,0,1,0,0,20160601,kerns shawn m.,160925316000239,EVP - Corporate Development,male,389166706.0
+71986.0,,1609253,california resources corp,1,0,0,0,20160601,gannon justin a.,160925316000269,,male,389166706.0
+595358.0,,1609253,california resources corp,0,1,0,0,20160601,smith marshall d,160925316000251,Senior EVP & CFO,male,389166706.0
+406257.0,,1609253,california resources corp,0,1,0,0,20160601,williams darren,160925316000255,EVP - Exploration,male,389166706.0
+,,1609253,california resources corp,0,1,0,0,20160712,barnes robert a.,160925316000275,EVP - Operations,male,41100276.0
+15937.348,,1609253,california resources corp,0,1,0,0,20160725,helm michael s.,160925316000277,Vice President and Controller,male,41100276.0
+10943.7,,1609253,california resources corp,1,0,0,0,20160804,kehr catherine a,160925316000298,,female,41100276.0
+41591.024,,1609253,california resources corp,1,0,0,0,20160804,albrecht william e,160925316000304,,male,41100276.0
+13305.97,,1609253,california resources corp,1,0,0,0,20160804,poladian avedick baruyr,160925316000303,,male,41100276.0
+11448.0,,1609253,california resources corp,1,0,0,0,20160804,sinnott robert v,160925316000302,,male,41100276.0
+11548.0,,1609253,california resources corp,1,0,0,0,20160804,moncrief richard w.,160925316000297,,male,41100276.0
+11449.3,,1609253,california resources corp,1,0,0,0,20160804,sloan timothy j,160925316000300,,male,41100276.0
+12449.3,,1609253,california resources corp,1,0,0,0,20160804,gannon justin a.,160925316000299,,male,41100276.0
+21449.3,,1609253,california resources corp,1,0,0,0,20160804,korell harold m,160925316000301,,male,41100276.0
+11449.3,,1609253,california resources corp,1,0,0,0,20160804,havner ronald l jr,160925316000296,,male,41100276.0
+156138.2,,1609253,california resources corp,1,1,0,0,20160808,stevens todd a.,160925316000324,President and CEO,male,41100276.0
+29287.12,,1609253,california resources corp,0,1,0,0,20160808,kerns shawn m.,160925316000323,EVP - Corporate Development,male,41100276.0
+39647.0,,1609253,california resources corp,0,1,0,0,20160808,williams darren,160925316000322,EVP - Exploration,male,41100276.0
+40288.024,,1609253,california resources corp,1,0,0,0,20160808,albrecht william e,160925316000325,,male,41100276.0
+45541.0,,1609253,california resources corp,0,1,0,0,20160808,weiss charles f.,160925316000320,EVP - Public Affairs,male,41100276.0
+29553.564,,1609253,california resources corp,0,1,0,0,20160808,preston michael l.,160925316000319,"EVP, GC and Corp. Secretary",male,41100276.0
+15622.948,,1609253,california resources corp,0,1,0,0,20160808,helm michael s.,160925316000318,Vice President and Controller,male,41100276.0
+57746.0,,1609253,california resources corp,0,1,0,0,20160808,smith marshall d,160925316000317,Senior EVP & CFO,male,41100276.0
+40047.697,,1609253,california resources corp,0,1,0,0,20160808,barnes robert a.,160925316000316,EVP - Operations,male,41100276.0
+47243.2,,1609253,california resources corp,0,1,0,0,20160808,pineci roy,160925316000321,EVP - Finance,male,41100276.0
+166344.2,,1609253,california resources corp,1,1,0,0,20161103,stevens todd a.,160925316000348,President and CEO,male,41217175.0
+64193.024,,1609253,california resources corp,1,0,0,0,20161103,albrecht william e,160925316000336,,male,41217175.0
+40982.697,,1609253,california resources corp,0,1,0,0,20161103,barnes robert a.,160925316000338,EVP - Operations,male,41217175.0
+32019.12,,1609253,california resources corp,0,1,0,0,20161103,kerns shawn m.,160925316000340,EVP - Corporate Development,male,41217175.0
+53669.2,,1609253,california resources corp,0,1,0,0,20161103,pineci roy,160925316000342,EVP - Finance,male,41217175.0
+31875.564,,1609253,california resources corp,0,1,0,0,20161103,preston michael l.,160925316000344,"EVP, GC and Corp. Secretary",male,41217175.0
+48059.0,,1609253,california resources corp,0,1,0,0,20161103,weiss charles f.,160925316000350,EVP - Public Affairs,male,41217175.0
+76385.0,,1609253,california resources corp,0,1,0,0,20161103,smith marshall d,160925316000346,Senior EVP & CFO,male,41217175.0
+166240.0,,1609253,california resources corp,1,1,0,0,20161122,stevens todd a.,160925316000358,President and CEO,male,41217175.0
+14953.25,,1609253,california resources corp,0,1,0,0,20170103,helm michael s.,160925317000002,Vice President and Controller,male,42542637.0
+294082.0,,1609253,california resources corp,1,1,0,0,20170215,stevens todd a.,160925317000038,President and CEO,male,42542637.0
+1675.424,,1609253,california resources corp,0,1,0,0,20170215,barnes robert a.,160925317000036,EVP - Operations,male,42542637.0
+50802.12,,1609253,california resources corp,0,1,0,0,20170215,kerns shawn m.,160925317000035,EVP - Corporate Development,male,42542637.0
+126891.0,,1609253,california resources corp,0,1,0,0,20170215,smith marshall d,160925317000034,Senior EVP & CFO,male,42542637.0
+66729.0,,1609253,california resources corp,0,1,0,0,20170215,williams darren,160925317000040,EVP - Exploration,male,42542637.0
+80251.2,,1609253,california resources corp,0,1,0,0,20170215,pineci roy,160925317000041,EVP - Finance,male,42542637.0
+77549.0,,1609253,california resources corp,0,1,0,0,20170215,weiss charles f.,160925317000042,EVP - Public Affairs,male,42542637.0
+53338.0,,1609253,california resources corp,0,1,0,0,20170215,preston michael l.,160925317000039,"EVP, GC and Corp. Secretary",male,42542637.0
+22263.25,,1609253,california resources corp,0,1,0,0,20170215,helm michael s.,160925317000037,Vice President and Controller,male,42542637.0
+2115.0,,1609253,california resources corp,1,0,0,0,20170302,mcmahon harry t.,160925317000051,,male,42542637.0
+54810.12,,1609253,california resources corp,0,1,0,0,20170511,kerns shawn m.,160925317000075,EVP - Corporate Development,male,42592983.0
+77767.024,,1609253,california resources corp,1,0,0,0,20170511,albrecht william e,160925317000074,,male,42592983.0
+56886.0,,1609253,california resources corp,0,1,0,0,20170511,preston michael l.,160925317000076,"EVP, GC and Corp. Secretary",male,42592983.0
+301136.0,,1609253,california resources corp,1,1,0,0,20170511,stevens todd a.,160925317000073,President and CEO,male,42592983.0
+76255.0,,1609253,california resources corp,0,1,0,0,20170511,barnes robert a.,160925317000077,EVP - Operations,male,42592983.0
+84873.2,,1609253,california resources corp,0,1,0,0,20170511,pineci roy,160925317000078,EVP - Finance,male,42592983.0
+79430.0,,1609253,california resources corp,0,1,0,0,20170511,weiss charles f.,160925317000079,EVP - Public Affairs,male,42592983.0
+25577.0,,1609253,california resources corp,1,0,0,0,20170515,gannon justin a.,160925317000098,,male,42592983.0
+22577.3,,1609253,california resources corp,1,0,0,0,20170515,havner ronald l jr,160925317000090,,male,42592983.0
+32577.3,,1609253,california resources corp,1,0,0,0,20170515,korell harold m,160925317000091,,male,42592983.0
+22676.0,,1609253,california resources corp,1,0,0,0,20170515,moncrief richard w.,160925317000092,,male,42592983.0
+88895.024,,1609253,california resources corp,1,0,0,0,20170515,albrecht william e,160925317000093,,male,42592983.0
+22576.0,,1609253,california resources corp,1,0,0,0,20170515,sinnott robert v,160925317000094,,male,42592983.0
+24433.97,,1609253,california resources corp,1,0,0,0,20170515,poladian avedick baruyr,160925317000095,,male,42592983.0
+13243.0,,1609253,california resources corp,1,0,0,0,20170515,mcmahon harry t.,160925317000096,,male,42592983.0
+62960.0,,1609253,california resources corp,0,1,0,0,20170531,williams darren,160925317000117,EVP - Exploration,male,42592983.0
+80116.2,,1609253,california resources corp,0,1,0,0,20170531,pineci roy,160925317000112,EVP - Finance,male,42592983.0
+52343.12,,1609253,california resources corp,0,1,0,0,20170531,kerns shawn m.,160925317000111,EVP - Corporate Development,male,42592983.0
+282111.0,,1609253,california resources corp,1,1,0,0,20170531,stevens todd a.,160925317000110,President and CEO,male,42592983.0
+1675.424,,1609253,california resources corp,0,1,0,0,20170531,barnes robert a.,160925317000109,EVP - Operations,male,42592983.0
+21440.25,,1609253,california resources corp,0,1,0,0,20170531,helm michael s.,160925317000119,Vice President and Controller,male,42592983.0
+73722.0,,1609253,california resources corp,0,1,0,0,20170531,weiss charles f.,160925317000107,EVP - Public Affairs,male,42592983.0
+119289.0,,1609253,california resources corp,0,1,0,0,20170531,smith marshall d,160925317000118,Senior EVP & CFO,male,42592983.0
+54419.0,,1609253,california resources corp,0,1,0,0,20170531,preston michael l.,160925317000108,"EVP, GC and Corp. Secretary",male,42592983.0
+1975.424,,1609253,california resources corp,0,1,0,0,20170711,barnes robert a.,160925317000122,EVP - Operations,male,42772851.0
+20322.25,,1609253,california resources corp,0,1,0,0,20170711,helm michael s.,160925317000123,Vice President and Controller,male,42772851.0
+86879.024,,1609253,california resources corp,1,0,0,0,20170808,albrecht william e,160925317000148,,male,42772851.0
+276148.0,,1609253,california resources corp,1,1,0,0,20170808,stevens todd a.,160925317000150,President and CEO,male,42772851.0
+116804.0,,1609253,california resources corp,0,1,0,0,20170808,smith marshall d,160925317000149,Senior EVP & CFO,male,42772851.0
+51537.12,,1609253,california resources corp,0,1,0,0,20170808,kerns shawn m.,160925317000151,EVP - Corporate Development,male,42772851.0
+1975.424,,1609253,california resources corp,0,1,0,0,20170808,barnes robert a.,160925317000147,EVP - Operations,male,42772851.0
+53613.0,,1609253,california resources corp,0,1,0,0,20170808,preston michael l.,160925317000146,"EVP, GC and Corp. Secretary",male,42772851.0
+78997.2,,1609253,california resources corp,0,1,0,0,20170808,pineci roy,160925317000144,EVP - Finance,male,42772851.0
+20008.25,,1609253,california resources corp,0,1,0,0,20170808,helm michael s.,160925317000143,Vice President and Controller,male,42772851.0
+72108.0,,1609253,california resources corp,0,1,0,0,20170808,weiss charles f.,160925317000142,EVP - Public Affairs,male,42772851.0
+61979.0,,1609253,california resources corp,0,1,0,0,20170808,williams darren,160925317000145,EVP - Exploration,male,42772851.0
+8276.0,,1609253,california resources corp,1,0,0,0,20171103,powers anita m.,160925317000156,,female,42868072.0
+25125.0,,1609253,california resources corp,0,1,0,0,20171207,repetti noelle m.,160925317000164,Vice President and Controller,female,42868072.0
+255484.0,,1609253,california resources corp,1,1,0,0,20180214,stevens todd a.,160925318000019,President and CEO,male,42901946.0
+58948.0,,1609253,california resources corp,0,1,0,0,20180214,williams darren,160925318000020,EVP - Exploration,male,42901946.0
+67548.0,2076.0,1609253,california resources corp,0,1,0,0,20180214,weiss charles f.,160925318000018,EVP - Public Affairs,male,42901946.0
+50919.0,,1609253,california resources corp,0,1,0,0,20180214,preston michael l.,160925318000016,"EVP, GC and Corp. Secretary",male,42901946.0
+110825.0,,1609253,california resources corp,0,1,0,0,20180214,smith marshall d,160925318000017,Senior EVP & CFO,male,42901946.0
+49545.12,,1609253,california resources corp,0,1,0,0,20180214,kerns shawn m.,160925318000014,EVP - Corporate Development,male,42901946.0
+23639.0,,1609253,california resources corp,0,1,0,0,20180214,repetti noelle m.,160925318000013,Vice President and Controller,female,42901946.0
+74612.2,,1609253,california resources corp,0,1,0,0,20180214,pineci roy,160925318000015,EVP - Finance,male,42901946.0
+,,1609253,california resources corp,0,1,0,0,20180223,preston michael l.,160925318000036,"EVP, GC and Corp. Secretary",male,42901946.0
+,2076.0,1609253,california resources corp,0,1,0,0,20180223,weiss charles f.,160925318000030,EVP - Public Affairs,male,42901946.0
+,,1609253,california resources corp,0,1,0,0,20180223,kerns shawn m.,160925318000031,EVP - Operations & Engineering,male,42901946.0
+,,1609253,california resources corp,0,1,0,0,20180223,repetti noelle m.,160925318000032,Vice President and Controller,female,42901946.0
+,,1609253,california resources corp,1,1,0,0,20180223,stevens todd a.,160925318000033,President and CEO,male,42901946.0
+,,1609253,california resources corp,0,1,0,0,20180223,williams darren,160925318000034,EVP-Operations & Geoscience,male,42901946.0
+,,1609253,california resources corp,0,1,0,0,20180223,smith marshall d,160925318000035,Senior EVP & CFO,male,42901946.0
+,,1609253,california resources corp,0,1,0,0,20180223,pineci roy,160925318000037,EVP - Finance,male,42901946.0
+256484.0,,1609253,california resources corp,1,1,0,0,20180301,stevens todd a.,160925318000045,President and CEO,male,42901946.0
+27577.0,,1609253,california resources corp,1,0,0,0,20180301,gannon justin a.,160925318000047,,male,42901946.0
+48773.0,,1609253,california resources corp,1,0,0,0,20180301,mcmahon harry t.,160925318000043,,male,42901946.0
+78895.2,,1609253,california resources corp,0,1,0,0,20180510,pineci roy,160925318000069,EVP - Finance,male,45337486.0
+54029.0,,1609253,california resources corp,0,1,0,0,20180510,preston michael l.,160925318000068,"EVP, GC and Corp. Secretary",male,45337486.0
+100880.024,,1609253,california resources corp,1,0,0,0,20180510,albrecht william e,160925318000072,,male,45337486.0
+71394.0,2076.0,1609253,california resources corp,0,1,0,0,20180510,weiss charles f.,160925318000066,EVP - Public Affairs,male,45337486.0
+62829.0,,1609253,california resources corp,0,1,0,0,20180510,williams darren,160925318000070,EVP-Operations & Geoscience,male,45337486.0
+268719.0,,1609253,california resources corp,1,1,0,0,20180510,stevens todd a.,160925318000067,President and CEO,male,45337486.0
+51847.12,,1609253,california resources corp,0,1,0,0,20180510,kerns shawn m.,160925318000071,EVP - Operations & Engineering,male,45337486.0
+27970.0,,1609253,california resources corp,1,0,0,0,20180514,moncrief richard w.,160925318000090,,male,45337486.0
+37871.3,,1609253,california resources corp,1,0,0,0,20180514,korell harold m,160925318000089,,male,45337486.0
+29727.97,,1609253,california resources corp,1,0,0,0,20180514,poladian avedick baruyr,160925318000088,,male,45337486.0
+32871.0,,1609253,california resources corp,1,0,0,0,20180514,gannon justin a.,160925318000087,,male,45337486.0
+27870.0,,1609253,california resources corp,1,0,0,0,20180514,sinnott robert v,160925318000086,,male,45337486.0
+106174.024,,1609253,california resources corp,1,0,0,0,20180514,albrecht william e,160925318000085,,male,45337486.0
+13570.0,,1609253,california resources corp,1,0,0,0,20180514,powers anita m.,160925318000084,,female,45337486.0
+54067.0,,1609253,california resources corp,1,0,0,0,20180514,mcmahon harry t.,160925318000083,,male,45337486.0
+49577.12,,1609253,california resources corp,0,1,0,0,20180530,kerns shawn m.,160925318000103,EVP - Operations & Engineering,male,45337486.0
+51759.0,,1609253,california resources corp,0,1,0,0,20180530,preston michael l.,160925318000100,"EVP, GC and Corp. Secretary",male,45337486.0
+23772.0,,1609253,california resources corp,0,1,0,0,20180530,leon francisco,160925318000102,EVP Corp Dev & Strategic Plng,male,45337486.0
+22554.0,,1609253,california resources corp,0,1,0,0,20180530,repetti noelle m.,160925318000108,Vice President and Controller,female,45337486.0
+57858.0,,1609253,california resources corp,0,1,0,0,20180530,williams darren,160925318000107,EVP-Operations & Geoscience,male,45337486.0
+250643.0,,1609253,california resources corp,1,1,0,0,20180530,stevens todd a.,160925318000101,President and CEO,male,45337486.0
+103594.0,,1609253,california resources corp,0,1,0,0,20180530,smith marshall d,160925318000105,Senior EVP & CFO,male,45337486.0
+65970.0,2076.0,1609253,california resources corp,0,1,0,0,20180530,weiss charles f.,160925318000104,EVP - Public Affairs,male,45337486.0
+74095.2,,1609253,california resources corp,0,1,0,0,20180530,pineci roy,160925318000106,EVP - Finance,male,45337486.0
+66793.0,2076.0,1609253,california resources corp,0,1,0,0,20180802,weiss charles f.,160925318000116,EVP - Public Affairs,male,48352957.0
+112188.0,,1609253,california resources corp,0,1,0,0,20180802,smith marshall d,160925318000117,Senior EVP & CFO,male,48352957.0
+63416.0,,1609253,california resources corp,0,1,0,0,20180802,williams darren,160925318000118,EVP-Operations & Geoscience,male,48352957.0
+51671.12,,1609253,california resources corp,0,1,0,0,20180802,kerns shawn m.,160925318000119,EVP - Operations & Engineering,male,48352957.0
+120788.024,,1609253,california resources corp,1,0,0,0,20180807,albrecht william e,160925318000150,,male,48352957.0
+279969.0,,1609253,california resources corp,1,1,0,0,20180807,stevens todd a.,160925318000148,President and CEO,male,48352957.0
+24152.0,,1609253,california resources corp,0,1,0,0,20180807,repetti noelle m.,160925318000147,Vice President and Controller,female,48352957.0
+75515.0,2076.0,1609253,california resources corp,0,1,0,0,20180807,weiss charles f.,160925318000151,EVP - Public Affairs,male,48352957.0
+56992.0,,1609253,california resources corp,0,1,0,0,20180807,preston michael l.,160925318000145,"EVP, GC and Corp. Secretary",male,48352957.0
+56904.12,,1609253,california resources corp,0,1,0,0,20180807,kerns shawn m.,160925318000142,EVP - Operations & Engineering,male,48352957.0
+80739.2,,1609253,california resources corp,0,1,0,0,20180807,pineci roy,160925318000146,EVP - Finance,male,48352957.0
+123818.0,,1609253,california resources corp,0,1,0,0,20180807,smith marshall d,160925318000149,Senior EVP & CFO,male,48352957.0
+70725.0,,1609253,california resources corp,0,1,0,0,20180807,williams darren,160925318000144,EVP-Operations & Geoscience,male,48352957.0
+26705.0,,1609253,california resources corp,0,1,0,0,20180807,leon francisco,160925318000143,EVP Corp Dev & Strategic Plng,male,48352957.0
+3485.0,,1609253,california resources corp,1,0,0,0,20181101,siegel laurie,160925318000164,,female,48565905.0
+11136.0,,1609253,california resources corp,1,0,0,0,20181105,powers anita m.,160925318000167,,female,48565905.0
+39719.3,,1609253,california resources corp,1,0,0,0,20181106,korell harold m,160925318000169,,male,48565905.0
+44455.3,,1609253,california resources corp,1,0,0,0,20181120,korell harold m,160925318000173,,male,48565905.0
+33871.0,,1609253,california resources corp,1,0,0,0,20181126,gannon justin a.,160925318000176,,male,48565905.0
+258993.0,,1609253,california resources corp,1,1,0,0,20190214,stevens todd a.,160925319000010,President and CEO,male,48650420.0
+54700.12,,1609253,california resources corp,0,1,0,0,20190214,kerns shawn m.,160925319000011,EVP - Operations & Engineering,male,48650420.0
+27361.648,,1609253,california resources corp,0,1,0,0,20190214,leon francisco,160925319000012,EVP Corp Dev & Strategic Plng,male,48650420.0
+75821.2,,1609253,california resources corp,0,1,0,0,20190214,pineci roy,160925319000013,EVP - Finance,male,48650420.0
+54282.0,,1609253,california resources corp,0,1,0,0,20190214,preston michael l.,160925319000014,"EVP, GC and Corp. Secretary",male,48650420.0
+22666.0,,1609253,california resources corp,0,1,0,0,20190214,repetti noelle m.,160925319000015,Vice President and Controller,female,48650420.0
+70618.0,2076.0,1609253,california resources corp,0,1,0,0,20190214,weiss charles f.,160925319000017,EVP - Public Affairs,male,48650420.0
+117819.0,,1609253,california resources corp,0,1,0,0,20190214,smith marshall d,160925319000016,Senior EVP & CFO,male,48650420.0
+66092.0,,1609253,california resources corp,0,1,0,0,20190214,williams darren,160925319000018,EVP-Operations & Geoscience,male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,kerns shawn m.,160925319000029,EVP - Operations & Engineering,male,48650420.0
+,,1609253,california resources corp,1,1,0,0,20190221,stevens todd a.,160925319000028,President and CEO,male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,williams darren,160925319000036,EVP-Operations & Geoscience,male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,weiss charles f.,160925319000035,EVP - Public Affairs,male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,leon francisco,160925319000030,EVP Corp Dev & Strategic Plng,male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,repetti noelle m.,160925319000033,Vice President and Controller,female,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,preston michael l.,160925319000032,"EVP, GC and Corp. Secretary",male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,smith marshall d,160925319000034,Senior EVP & CFO,male,48650420.0
+,,1609253,california resources corp,0,1,0,0,20190221,pineci roy,160925319000031,EVP - Finance,male,48650420.0
+69941.0,,1609253,california resources corp,0,1,0,0,20190222,williams darren,160925319000054,EVP-Operations & Geoscience,male,48650420.0
+74650.0,2076.0,1609253,california resources corp,0,1,0,0,20190222,weiss charles f.,160925319000053,EVP - Public Affairs,male,48650420.0
+23949.0,,1609253,california resources corp,0,1,0,0,20190222,repetti noelle m.,160925319000051,Vice President and Controller,female,48650420.0
+124784.0,,1609253,california resources corp,0,1,0,0,20190222,smith marshall d,160925319000052,Senior EVP & CFO,male,48650420.0
+79263.2,,1609253,california resources corp,0,1,0,0,20190222,pineci roy,160925319000049,EVP - Finance,male,48650420.0
+30633.648,,1609253,california resources corp,0,1,0,0,20190222,leon francisco,160925319000048,EVP Corp Dev & Strategic Plng,male,48650420.0
+59717.12,,1609253,california resources corp,0,1,0,0,20190222,kerns shawn m.,160925319000047,EVP - Operations & Engineering,male,48650420.0
+278054.0,,1609253,california resources corp,1,1,0,0,20190222,stevens todd a.,160925319000046,President and CEO,male,48650420.0
+58131.0,,1609253,california resources corp,0,1,0,0,20190222,preston michael l.,160925319000050,"EVP, GC and Corp. Secretary",male,48650420.0
+37400.0,,1609253,california resources corp,1,0,0,0,20190513,gannon justin a.,160925319000081,,male,48800217.0
+53166.3,,1609253,california resources corp,1,0,0,0,20190513,korell harold m,160925319000082,,male,48800217.0
+62778.0,,1609253,california resources corp,1,0,0,0,20190513,mcmahon harry t.,160925319000083,,male,48800217.0
+36681.0,,1609253,california resources corp,1,0,0,0,20190513,moncrief richard w.,160925319000084,,male,48800217.0
+38438.97,,1609253,california resources corp,1,0,0,0,20190513,poladian avedick baruyr,160925319000085,,male,48800217.0
+13231.0,,1609253,california resources corp,1,0,0,0,20190513,powers anita m.,160925319000086,,female,48800217.0
+12196.0,,1609253,california resources corp,1,0,0,0,20190513,siegel laurie,160925319000087,,female,48800217.0
+29965.0,,1609253,california resources corp,1,0,0,0,20190513,sinnott robert v,160925319000088,,male,48800217.0
+112883.024,,1609253,california resources corp,1,0,0,0,20190513,albrecht william e,160925319000080,,male,48800217.0
+15196.0,,1609253,california resources corp,1,0,0,0,20190528,siegel laurie,160925319000092,,female,48800217.0
+54877.0,,1609253,california resources corp,0,1,0,0,20190529,preston michael l.,160925319000108,"EVP, GC and Corp. Secretary",male,48800217.0
+78008.0,,1609253,california resources corp,1,0,0,0,20190529,mcmahon harry t.,160925319000104,,male,48800217.0
+63166.3,,1609253,california resources corp,1,0,0,0,20190529,korell harold m,160925319000105,,male,48800217.0
+117106.0,,1609253,california resources corp,0,1,0,0,20190529,smith marshall d,160925319000106,Senior EVP & CFO,male,48800217.0
+259858.0,,1609253,california resources corp,1,1,0,0,20190529,stevens todd a.,160925319000107,President and CEO,male,48800217.0
+69227.0,2076.0,1609253,california resources corp,0,1,0,0,20190529,weiss charles f.,160925319000109,EVP - Public Affairs,male,48800217.0
+22864.0,,1609253,california resources corp,0,1,0,0,20190529,repetti noelle m.,160925319000110,Vice President and Controller,female,48800217.0
+37090.2,,1609253,california resources corp,0,1,0,0,20190529,pineci roy,160925319000111,EVP - Finance,male,48800217.0
+56463.12,,1609253,california resources corp,0,1,0,0,20190529,kerns shawn m.,160925319000112,EVP - Operations & Engineering,male,48800217.0
+29187.648,,1609253,california resources corp,0,1,0,0,20190529,leon francisco,160925319000113,EVP Corp Dev & Strategic Plng,male,48800217.0
+64662.0,,1609253,california resources corp,0,1,0,0,20190529,williams darren,160925319000114,EVP-Operations & Geoscience,male,48800217.0
+92883.024,,1609253,california resources corp,1,0,0,0,20190711,albrecht william e,160925319000116,,male,49004413.0
+66662.0,,1609253,california resources corp,0,1,0,0,20190808,williams darren,160925319000136,EVP-Operations & Geoscience,male,49004413.0
+2376.0,,1609253,california resources corp,0,1,0,0,20190808,weiss charles f.,160925319000135,EVP - Public Affairs,male,49004413.0
+265269.0,,1609253,california resources corp,1,1,0,0,20190808,stevens todd a.,160925319000134,President and CEO,male,49004413.0
+118086.0,,1609253,california resources corp,0,1,0,0,20190808,smith marshall d,160925319000133,Senior EVP & CFO,male,49004413.0
+58463.12,,1609253,california resources corp,0,1,0,0,20190808,kerns shawn m.,160925319000130,EVP - Operations & Engineering,male,49004413.0
+38090.2,,1609253,california resources corp,0,1,0,0,20190808,pineci roy,160925319000131,EVP - Finance,male,49004413.0
+57320.0,,1609253,california resources corp,0,1,0,0,20190808,preston michael l.,160925319000132,"Sr EVP, Chief Admin Ofcr & GC",male,49004413.0
+30872.648,,1609253,california resources corp,0,1,0,0,20190809,leon francisco,160925319000138,EVP Corp Dev & Strategic Plng,male,49004413.0
+48438.97,,1609253,california resources corp,1,0,0,0,20190815,poladian avedick baruyr,160925319000141,,male,49004413.0
+64280.0,2376.0,1609253,california resources corp,0,1,0,0,20200213,weiss charles f.,160925320000017,EVP - Public Affairs,male,49175843.0
+53359.0,,1609253,california resources corp,0,1,0,0,20200213,preston michael l.,160925320000013,"Sr EVP, Chief Admin Ofcr & GC",male,49175843.0
+21378.0,,1609253,california resources corp,0,1,0,0,20200213,repetti noelle m.,160925320000014,Vice President and Controller,female,49175843.0
+111704.0,,1609253,california resources corp,0,1,0,0,20200213,smith marshall d,160925320000015,Senior EVP & CFO,male,49175843.0
+243133.0,,1609253,california resources corp,1,1,0,0,20200213,stevens todd a.,160925320000016,President and CEO,male,49175843.0
+61439.0,,1609253,california resources corp,0,1,0,0,20200213,williams darren,160925320000018,EVP-Operations & Geoscience,male,49175843.0
+29227.648,,1609253,california resources corp,0,1,0,0,20200213,leon francisco,160925320000011,EVP Corp Dev & Strategic Plng,male,49175843.0
+35139.2,,1609253,california resources corp,0,1,0,0,20200213,pineci roy,160925320000012,EVP - Finance,male,49175843.0
+54997.12,,1609253,california resources corp,0,1,0,0,20200213,kerns shawn m.,160925320000010,EVP - Operations & Engineering,male,49175843.0
+67812.0,2376.0,1609253,california resources corp,0,1,0,0,20200220,weiss charles f.,160925320000029,EVP - Public Affairs,male,49175843.0
+32298.648,,1609253,california resources corp,0,1,0,0,20200220,leon francisco,160925320000028,EVP Corp Dev & Strategic Plng,male,49175843.0
+36590.2,,1609253,california resources corp,0,1,0,0,20200220,pineci roy,160925320000031,EVP - Finance,male,49175843.0
+258836.0,,1609253,california resources corp,1,1,0,0,20200220,stevens todd a.,160925320000032,President and CEO,male,49175843.0
+58606.12,,1609253,california resources corp,0,1,0,0,20200220,kerns shawn m.,160925320000033,EVP - Operations & Engineering,male,49175843.0
+22453.0,,1609253,california resources corp,0,1,0,0,20200220,repetti noelle m.,160925320000035,Vice President and Controller,female,49175843.0
+117846.0,,1609253,california resources corp,0,1,0,0,20200220,smith marshall d,160925320000036,Senior EVP & CFO,male,49175843.0
+56661.0,,1609253,california resources corp,0,1,0,0,20200220,preston michael l.,160925320000030,"Sr EVP, Chief Admin Ofcr & GC",male,49175843.0
+64637.0,,1609253,california resources corp,0,1,0,0,20200220,williams darren,160925320000034,EVP-Operations & Geoscience,male,49175843.0
+60509.0,,1609253,california resources corp,0,1,0,0,20200224,preston michael l.,160925320000051,"Sr EVP, Chief Admin Ofcr & GC",male,49175843.0
+68251.0,,1609253,california resources corp,0,1,0,0,20200224,williams darren,160925320000056,EVP-Operations & Geoscience,male,49175843.0
+71844.0,2376.0,1609253,california resources corp,0,1,0,0,20200224,weiss charles f.,160925320000055,EVP - Public Affairs,male,49175843.0
+276736.0,,1609253,california resources corp,1,1,0,0,20200224,stevens todd a.,160925320000054,President and CEO,male,49175843.0
+126134.0,,1609253,california resources corp,0,1,0,0,20200224,smith marshall d,160925320000053,Senior EVP & CFO,male,49175843.0
+23736.0,,1609253,california resources corp,0,1,0,0,20200224,repetti noelle m.,160925320000052,Vice President and Controller,female,49175843.0
+38225.2,,1609253,california resources corp,0,1,0,0,20200224,pineci roy,160925320000050,EVP - Finance,male,49175843.0
+35047.648,,1609253,california resources corp,0,1,0,0,20200224,leon francisco,160925320000049,EVP Corp Dev & Strategic Plng,male,49175843.0
+62821.12,,1609253,california resources corp,0,1,0,0,20200224,kerns shawn m.,160925320000048,EVP - Operations & Engineering,male,49175843.0
+4062.024,,1609253,california resources corp,1,0,0,0,20200812,albrecht william e,160925320000123,,male,49453297.0
+0.0,,1609253,california resources corp,1,1,0,0,20200819,stevens todd a.,160925320000127,President and CEO,male,49453297.0
+0.0,,1609253,california resources corp,0,1,0,0,20200824,pineci roy,160925320000129,SVP - Finance,male,49453297.0
+355.12,,1609253,california resources corp,0,1,0,0,20200827,kerns shawn m.,160925320000131,EVP - Operations & Engineering,male,49453297.0
+0.0,,1609253,california resources corp,0,1,0,0,20201027,weiss charles f.,160925320000178,EVP - Public Affairs,male,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,powers anita m.,160925320000180,,female,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,sinnott robert v,160925320000176,,male,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,poladian avedick baruyr,160925320000181,,male,83319721.0
+0.0,,1609253,california resources corp,0,1,0,0,20201027,leon francisco,160925320000182,EVP and CFO,male,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,mcmahon harry t.,160925320000183,,male,83319721.0
+0.0,,1609253,california resources corp,0,1,0,0,20201027,repetti noelle m.,160925320000184,Vice President and Controller,female,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,siegel laurie,160925320000185,,female,83319721.0
+0.0,,1609253,california resources corp,0,1,0,0,20201027,kerns shawn m.,160925320000186,EVP - Operations & Engineering,male,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,albrecht william e,160925320000187,,male,83319721.0
+0.0,,1609253,california resources corp,0,1,0,0,20201027,preston michael l.,160925320000188,"Sr EVP, Chief Admin Ofcr & GC",male,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201027,moncrief richard w.,160925320000179,,male,83319721.0
+0.0,,1609253,california resources corp,0,1,0,0,20201027,williams darren,160925320000177,EVP-Exploration & Development,male,83319721.0
+0.0,,1609253,california resources corp,1,0,0,0,20201028,gannon justin a.,160925320000190,,male,83319721.0
+2500.0,,1609253,california resources corp,1,1,0,0,20201110,stevens todd a.,160925320000214,President and CEO,male,83319721.0
+61333.0,,1609253,california resources corp,1,1,0,0,20210127,mcfarland mark allen,160925321000027,Interim Chief Exec Officer,male,83319660.0
+32711.0,,1609253,california resources corp,1,0,0,0,20210127,chapman james n,160925321000028,,male,83319660.0
+32711.0,,1609253,california resources corp,1,0,0,0,20210127,brooks douglas e,160925321000029,,male,83319660.0
+32711.0,,1609253,california resources corp,1,0,0,0,20210127,cepak tiffany thom,160925321000030,,female,83319660.0
+32711.0,,1609253,california resources corp,1,0,0,0,20210127,quintana julio m,160925321000031,,male,83319660.0
+32711.0,,1609253,california resources corp,1,0,0,0,20210127,roby william b,160925321000032,,male,83319660.0
+32711.0,,1609253,california resources corp,1,0,0,0,20210127,steck brian,160925321000033,,male,83319660.0
+83123.0,,1609253,california resources corp,0,1,0,0,20210127,leon francisco,160925321000034,EVP and CFO,male,83319660.0
+83123.0,,1609253,california resources corp,0,1,0,0,20210127,kerns shawn m.,160925321000035,EVP - Operations & Engineering,male,83319660.0
+83123.0,,1609253,california resources corp,0,1,0,0,20210127,preston michael l.,160925321000036,"Sr EVP, Chief Admin Ofcr & GC",male,83319660.0
+17947.0,,1609253,california resources corp,0,1,0,0,20210127,repetti noelle m.,160925321000037,Vice President and Controller,female,83319660.0
+317093.0,,1609253,california resources corp,1,1,0,0,20210324,mcfarland mark allen,160925321000057,"Chairman, President and CEO",male,83319660.0
+47850.0,,1609253,california resources corp,1,0,0,0,20210419,cepak tiffany thom,160925321000061,,female,83300000.0
+8872.0,,1609253,california resources corp,1,0,0,0,20210514,bremner andrew b.,160925321000080,,male,83319660.0
+61309.0,,1609253,california resources corp,0,1,0,0,20210514,bys jay a.,160925321000081,EVP & Chief Commercial Officer,male,83319660.0
+35711.0,,1609253,california resources corp,1,0,0,0,20210517,brooks douglas e,160925321000084,,male,83319660.0
+57850.0,,1609253,california resources corp,1,0,0,0,20210517,cepak tiffany thom,160925321000085,,female,83319660.0
+41789.0,,1609253,california resources corp,1,0,0,0,20210615,roby william b,160925321000091,,male,83319660.0
+38580.0,,1609253,california resources corp,0,1,0,0,20210616,gould christopher d.,160925321000095,EVP & Chief Sustainability Off,male,83319660.0
+4956.0,,1609253,california resources corp,1,0,0,0,20210809,neeman brady nicole elana,160925321000105,,male,81879457.0
+19416.0,,1609253,california resources corp,0,1,0,0,20211118,repetti noelle m.,160925321000119,Senior VP and Controller,female,80392897.0
+1912.0,,1609253,california resources corp,1,0,0,0,20211217,veltmann alejandra,160925321000128,,female,80392897.0
+60693.0,,1609253,california resources corp,0,1,0,0,20220324,bys jay a.,160925322000019,EVP & Chief Commercial Officer,male,78744340.0
+81985.0,,1609253,california resources corp,0,1,0,0,20220324,kerns shawn m.,160925322000020,EVP & Chief Operating Officer,male,78744340.0
+81985.0,,1609253,california resources corp,0,1,0,0,20220324,leon francisco,160925322000021,EVP and CFO,male,78744340.0
+19150.0,,1609253,california resources corp,0,1,0,0,20220324,repetti noelle m.,160925322000023,Senior VP and Controller,female,78744340.0
+313296.0,,1609253,california resources corp,1,1,0,0,20220324,mcfarland mark allen,160925322000018,President and CEO,male,78744340.0
+81985.0,,1609253,california resources corp,0,1,0,0,20220324,preston michael l.,160925322000022,"EVP, Chief Admin Officer & GC",male,78744340.0
+13459.0,,1609253,california resources corp,1,0,0,0,20220505,bremner andrew b.,160925322000032,,male,77630810.0
+9543.0,,1609253,california resources corp,1,0,0,0,20220505,neeman brady nicole elana,160925322000033,,male,77630810.0
+6499.0,,1609253,california resources corp,1,0,0,0,20220505,veltmann alejandra,160925322000034,,female,77630810.0
+37784.0,,1609253,california resources corp,0,1,0,0,20220616,gould christopher d.,160925322000040,EVP & Chief Sustainability Off,male,77630810.0
+41892.0,,1609253,california resources corp,1,0,0,0,20220907,roby william b,160925322000049,,male,75375633.0
+80579.0,,1609253,california resources corp,0,1,0,0,20230127,leon francisco,160925323000010,EVP and CFO,male,71949742.0
+18584.0,,1609253,california resources corp,0,1,0,0,20230127,repetti noelle m.,160925323000012,Senior VP and Controller,female,71949742.0
+80728.0,,1609253,california resources corp,0,1,0,0,20230127,preston michael l.,160925323000011,"EVP, Chief Admin Officer & GC",male,71949742.0
+80545.0,,1609253,california resources corp,0,1,0,0,20230127,kerns shawn m.,160925323000009,EVP & Chief Operating Officer,male,71949742.0
+59584.0,,1609253,california resources corp,0,1,0,0,20230127,bys jay a.,160925323000008,EVP & Chief Commercial Officer,male,71949742.0
+73519.0,,1609253,california resources corp,0,1,0,0,20230227,gould christopher d.,160925323000025,EVP & Chief Sustainability Off,male,71491602.0
+116083.0,,1609253,california resources corp,0,1,0,0,20230227,kerns shawn m.,160925323000026,EVP & Chief Operating Officer,male,71491602.0
+154616.0,,1609253,california resources corp,0,1,0,0,20230227,leon francisco,160925323000027,EVP and CFO,male,71491602.0
+117582.0,,1609253,california resources corp,0,1,0,0,20230227,preston michael l.,160925323000028,"EVP, Chf Strategy Officer & GC",male,71491602.0
+26481.0,,1609253,california resources corp,0,1,0,0,20230227,repetti noelle m.,160925323000029,Senior VP and Controller,female,71491602.0
+95122.0,,1609253,california resources corp,0,1,0,0,20230227,bys jay a.,160925323000024,EVP & Chief Commercial Officer,male,71491602.0
+309749.0,,1609253,california resources corp,1,1,0,0,20230324,mcfarland mark allen,160925323000031,President and CEO,male,71491602.0
+540258.0,,1609253,california resources corp,1,0,0,0,20230502,mcfarland mark allen,160925323000052,,male,70549158.0
+66022.0,,1609253,california resources corp,1,0,0,0,20230502,cepak tiffany thom,160925323000049,,female,70549158.0
+18488.0,,1609253,california resources corp,1,0,0,0,20230502,bremner andrew b.,160925323000050,,male,70549158.0
+37740.0,,1609253,california resources corp,1,0,0,0,20230502,chapman james n,160925323000051,,male,70549158.0
+14572.0,,1609253,california resources corp,1,0,0,0,20230502,neeman brady nicole elana,160925323000053,,male,70549158.0
+37740.0,,1609253,california resources corp,1,0,0,0,20230502,quintana julio m,160925323000054,,male,70549158.0
+11528.0,,1609253,california resources corp,1,0,0,0,20230502,veltmann alejandra,160925323000056,,female,70549158.0
+46921.0,,1609253,california resources corp,1,0,0,0,20230502,roby william b,160925323000055,,male,70549158.0
+22206.0,,1609253,california resources corp,0,1,0,0,20230508,molina peralta manuela,160925323000060,EVP and CFO,male,70549158.0
+56465.0,,1609253,california resources corp,0,1,0,0,20230616,gould christopher d.,160925323000064,EVP & Chief Sustainability Off,male,70549158.0
+36993.0,,1609253,california resources corp,0,1,0,0,20230621,hayat omar,160925323000068,EVP - Operations,male,70549158.0
+72567.0,,1609253,california resources corp,0,1,0,0,20230710,gould christopher d.,160925323000070,EVP & Chief Sustainability Off,male,68962220.0
+151075.0,,1609253,california resources corp,0,1,0,0,20240129,leon francisco,160925324000011,President and CEO,male,68693885.0
+103179.0,,1609253,california resources corp,0,1,0,0,20240129,bys jay a.,160925324000012,EVP & Chief Commercial Officer,male,68693885.0
+113890.0,,1609253,california resources corp,0,1,0,0,20240129,preston michael l.,160925324000013,"EVP, Chf Strategy Officer & GC",male,68693885.0
+36402.0,,1609253,california resources corp,0,1,0,0,20240129,hayat omar,160925324000014,EVP - Operations,male,68693885.0
+25207.0,,1609253,california resources corp,0,1,0,0,20240129,repetti noelle m.,160925324000016,Senior VP and Controller,female,68693885.0
+27301.0,,1609253,california resources corp,0,1,0,0,20240226,repetti noelle m.,160925324000036,Senior VP and Controller,female,69274418.0
+113886.0,,1609253,california resources corp,0,1,0,0,20240226,bys jay a.,160925324000034,EVP & Chief Commercial Officer,male,69274418.0
+51322.0,,1609253,california resources corp,0,1,0,0,20240226,hayat omar,160925324000035,EVP - Operations,male,69274418.0
+39569.0,,1609253,california resources corp,0,1,0,0,20240226,molina peralta manuela,160925324000032,EVP and CFO,male,69274418.0
+124938.0,,1609253,california resources corp,0,1,0,0,20240226,preston michael l.,160925324000031,"EVP, Chf Strategy Officer & GC",male,69274418.0
+173857.0,,1609253,california resources corp,0,1,0,0,20240226,leon francisco,160925324000030,President and CEO,male,69274418.0
+84656.0,,1609253,california resources corp,0,1,0,0,20240226,gould christopher d.,160925324000033,EVP & Chief Sustainability Off,male,69274418.0
+318234.0,,1609253,california resources corp,1,0,0,0,20240326,mcfarland mark allen,160925324000055,,male,69274418.0
+15233.0,,1609253,california resources corp,1,0,0,0,20240507,veltmann alejandra,160925324000077,,female,68530744.0
+50626.0,,1609253,california resources corp,1,0,0,0,20240507,roby william b,160925324000076,,male,68530744.0
+18277.0,,1609253,california resources corp,1,0,0,0,20240507,neeman brady nicole elana,160925324000075,,male,68530744.0
+321939.0,,1609253,california resources corp,1,0,0,0,20240507,mcfarland mark allen,160925324000074,,male,68530744.0
+41445.0,,1609253,california resources corp,1,0,0,0,20240507,chapman james n,160925324000072,,male,68530744.0
+72043.0,,1609253,california resources corp,1,0,0,0,20240507,cepak tiffany thom,160925324000071,,female,68530744.0
+22193.0,,1609253,california resources corp,1,0,0,0,20240507,bremner andrew b.,160925324000070,,male,68530744.0
+3705.0,,1609253,california resources corp,1,0,0,0,20240507,kendall christian s,160925324000073,,male,68530744.0
+35589.0,,1609253,california resources corp,0,1,0,0,20240510,molina peralta manuela,160925324000086,EVP and CFO,male,68530744.0
+51218.0,,1609253,california resources corp,0,1,0,0,20240510,hayat omar,160925324000087,EVP - Operations,male,68530744.0
+51014.5,,1609253,california resources corp,true,false,false,false,20240524,roby william b,95017024064777,,male,68530744.0
+141939.0,,1609253,california resources corp,true,false,false,false,20240524,mcfarland mark allen,95017024064761,,male,68530744.0
+86939.0,,1609253,california resources corp,1,0,0,0,20240530,mcfarland mark allen,160925324000093,,male,68530744.0
+46956.0,,1609253,california resources corp,0,1,0,0,20240621,hayat omar,160925324000095,EVP - Operations,male,68530744.0
+3365.0,,1609253,california resources corp,1,0,0,0,20240703,jackson james ross,110465924077861,,male,67876933.0
+3365.0,,1609253,california resources corp,1,0,0,0,20240703,saadati bobby,110465924077863,,male,67876933.0
+24600.0,,1609253,california resources corp,1,0,0,0,20240813,kendall christian s,160925324000104,,male,67876933.0
+166357.0,,1609253,california resources corp,0,1,0,0,20240906,leon francisco,160925324000106,President and CEO,male,67876933.0
+17301.0,,1609253,california resources corp,0,1,0,0,20240918,repetti noelle m.,160925324000109,Senior VP and Controller,female,67876933.0
+8531.0,,1609253,california resources corp,0,1,0,0,20241107,repetti noelle m.,160925324000123,Senior VP and Controller,female,91705360.0
+153857.0,,1609253,california resources corp,0,1,0,0,20241107,leon francisco,160925324000122,President and CEO,male,91705360.0
+41938.0,,1609253,california resources corp,0,1,0,0,20241213,preston michael l.,160925324000128,"EVP, Chf Strategy Officer & GC",male,91705360.0
+30940.0,,1609253,california resources corp,0,1,0,0,20241213,hayat omar,160925324000129,EVP - Operations,male,91705360.0

@@ -1,35 +1,157 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-915773.0,20000.0,15847,butler national corp,1,1,0,0,20100726,stewart clark d,1584710000013,CEO,male,
-432982.0,5000.0,15847,butler national corp,0,1,0,0,20100726,reedy christopher j,1584710000014,Vice President,male,
-183830.0,0.0,15847,butler national corp,0,1,0,0,20100726,seba-shinabargar angela d,1584710000015,CFO,female,
-889462.0,0.0,15847,butler national corp,0,1,0,0,20100726,franke larry w,1584710000016,Vice President Aircraft Modifi,male,
-227655.0,70000.0,15847,butler national corp,1,0,0,1,20100726,wagoner r warren,1584710000017,,male,
-252747.0,437982.0,15847,butler national corp,0,1,0,0,20101022,reedy christopher j,1584710000025,Vice President,male,
-252547.0,437982.0,15847,butler national corp,0,1,0,0,20101025,reedy christopher j,1584710000026,Vice President,male,
-248462.0,437982.0,15847,butler national corp,0,1,0,0,20101026,reedy christopher j,1584710000027,Vice President,male,
-247462.0,437982.0,15847,butler national corp,0,1,0,0,20101027,reedy christopher j,1584710000028,Vice President,male,
-244462.0,437982.0,15847,butler national corp,0,1,0,0,20101028,reedy christopher j,1584710000029,Vice President,male,
-239462.0,437982.0,15847,butler national corp,0,1,0,0,20101028,reedy christopher j,1584710000031,Vice President,male,
-238962.0,437982.0,15847,butler national corp,0,1,0,0,20101028,reedy christopher j,1584710000032,Vice President,male,
-231962.0,437982.0,15847,butler national corp,0,1,0,0,20101029,reedy christopher j,1584710000033,Vice President,male,
-2070390.0,935773.0,15847,butler national corp,1,1,0,0,20101223,stewart clark d,1584710000039,President & CEO,male,
-0.0,0.0,15847,butler national corp,0,1,0,0,20110104,seba-shinabargar angela d,1584711000007,CFO,female,
-0.0,0.0,15847,butler national corp,0,1,0,0,20110104,reedy christopher j,1584711000006,Vice President,male,
-0.0,0.0,15847,butler national corp,1,0,0,0,20110104,tamburelli michael joseph,1584711000005,,male,
-0.0,0.0,15847,butler national corp,1,0,0,0,20110104,hayden david b,1584711000003,,male,
-0.0,0.0,15847,butler national corp,1,0,0,1,20110104,wagoner r warren,1584711000002,,male,
-0.0,0.0,15847,butler national corp,1,1,0,0,20110104,stewart clark d,1584711000001,President & CEO,male,
-0.0,0.0,15847,butler national corp,1,0,0,0,20110104,hoffman bradley kyle,1584711000004,,male,
-170830.0,0.0,15847,butler national corp,0,1,0,0,20110120,seba-shinabargar angela d,1584711000011,CFO,female,
-163830.0,0.0,15847,butler national corp,0,1,0,0,20110121,seba-shinabargar angela d,1584711000012,CFO,female,
-374294.0,70000.0,15847,butler national corp,1,1,0,0,20130621,wagoner r warren,1584713000011,Chairman of the Board,male,59619173.0
-573202.0,5000.0,15847,butler national corp,0,1,0,0,20130621,reedy christopher j,1584713000012,Secretary & Vice President,male,59619173.0
-272769.0,0.0,15847,butler national corp,0,1,0,0,20130621,seba-shinabargar angela d,1584713000013,CFO,female,59619173.0
-1062412.0,20000.0,15847,butler national corp,1,1,0,0,20130621,stewart clark d,1584713000014,President & CEO,male,59619173.0
-1180104.0,20000.0,15847,butler national corp,1,1,0,0,20140728,stewart clark d,1584714000013,President & CEO,male,61493092.0
-677010.0,5000.0,15847,butler national corp,0,1,0,0,20140728,reedy christopher j,1584714000014,Secretary & Vice President,male,61493092.0
-450063.0,70000.0,15847,butler national corp,1,0,0,0,20140728,wagoner r warren,1584714000015,,male,61493092.0
-373781.0,0.0,15847,butler national corp,0,1,0,0,20140728,stewart craig d,1584714000016,Vice President and CFO,male,61493092.0
-770195.0,5000.0,15847,butler national corp,0,1,0,0,20150501,reedy christopher j,1584715000018,Secretary & Vice President,male,62860098.0
-1277604.0,20000.0,15847,butler national corp,1,1,0,0,20150501,stewart clark d,1584715000017,President & CEO,male,62860098.0
-460299.0,0.0,15847,butler national corp,0,1,0,0,20150501,stewart craig d,1584715000019,Vice President & CFO,male,62860098.0
+183830.0,,15847,butler national corp,0.0,1.0,0.0,0.0,20100726,seba-shinabargar angela d,1584710000015,CFO,female,
+432982.0,5000.0,15847,butler national corp,0.0,1.0,0.0,0.0,20100726,reedy christopher j,1584710000014,Vice President,male,
+227655.0,70000.0,15847,butler national corp,1.0,0.0,0.0,1.0,20100726,wagoner r warren,1584710000017,,male,
+915773.0,20000.0,15847,butler national corp,1.0,1.0,0.0,0.0,20100726,stewart clark d,1584710000013,CEO,male,
+889462.0,,15847,butler national corp,0.0,1.0,0.0,0.0,20100726,franke larry w,1584710000016,Vice President Aircraft Modifi,male,
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20101022,reedy christopher j,1584710000025,Vice President,male,
+252547.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101025,reedy christopher j,1584710000026,Vice President,male,
+248462.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101026,reedy christopher j,1584710000027,Vice President,male,
+247462.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101027,reedy christopher j,1584710000028,Vice President,male,
+244462.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101028,reedy christopher j,1584710000029,Vice President,male,
+239462.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101028,reedy christopher j,1584710000031,Vice President,male,
+238962.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101028,reedy christopher j,1584710000032,Vice President,male,
+231962.0,437982.0,15847,butler national corp,0.0,1.0,0.0,0.0,20101029,reedy christopher j,1584710000033,Vice President,male,
+2070390.0,935773.0,15847,butler national corp,1.0,1.0,0.0,0.0,20101223,stewart clark d,1584710000039,President & CEO,male,
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20110104,stewart clark d,1584711000001,President & CEO,male,
+,,15847,butler national corp,1.0,0.0,0.0,1.0,20110104,wagoner r warren,1584711000002,,male,
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20110104,hayden david b,1584711000003,,male,
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20110104,reedy christopher j,1584711000006,Vice President,male,
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20110104,seba-shinabargar angela d,1584711000007,CFO,female,
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20110104,tamburelli michael joseph,1584711000005,,male,
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20110104,hoffman bradley kyle,1584711000004,,male,
+170830.0,,15847,butler national corp,0.0,1.0,0.0,0.0,20110120,seba-shinabargar angela d,1584711000011,CFO,female,
+163830.0,,15847,butler national corp,0.0,1.0,0.0,0.0,20110121,seba-shinabargar angela d,1584711000012,CFO,female,
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20130621,wagoner r warren,1584713000011,Chairman of the Board,male,59619173.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20130621,reedy christopher j,1584713000012,Secretary & Vice President,male,59619173.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20130621,seba-shinabargar angela d,1584713000013,CFO,female,59619173.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20130621,stewart clark d,1584713000014,President & CEO,male,59619173.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20140728,stewart clark d,1584714000013,President & CEO,male,61493092.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20140728,reedy christopher j,1584714000014,Secretary & Vice President,male,61493092.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20140728,wagoner r warren,1584714000015,,male,61493092.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20140728,stewart craig d,1584714000016,Vice President and CFO,male,61493092.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20150501,stewart craig d,1584715000019,Vice President & CFO,male,62860098.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20150501,stewart clark d,1584715000017,President & CEO,male,62860098.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20150501,reedy christopher j,1584715000018,Secretary & Vice President,male,62860098.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20160624,stewart craig d,1584716000064,Vice President & CFO,male,63466873.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20160624,reedy christopher j,1584716000066,Secretary & Vice President,male,63466873.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20160624,stewart clark d,1584716000065,President & CEO,male,63466873.0
+2252500.0,500000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20170103,daly joseph patrick,133259617000001,,male,0.0
+2300000.0,500000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20170410,daly joseph patrick,133259617000003,,male,64066873.0
+2322000.0,500000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20170411,daly joseph patrick,133259617000004,,male,64066873.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20170502,reedy christopher j,1584717000010,Secretary & Vice President,male,64543550.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20170502,hayden david b,1584717000013,,male,64543550.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20170502,hoffman bradley kyle,1584717000012,,male,64543550.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20170502,mcmahon tad mitchell,1584717000011,Chief Financial Officer,male,64543550.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20170502,stewart clark d,1584717000009,President & CEO,male,64543550.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20170502,stewart craig d,1584717000008,President - Aerospace,male,64543550.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20170502,tamburelli michael joseph,1584717000014,,male,64543550.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20170502,wagoner r warren,1584717000015,,male,64543550.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20180502,stewart clark d,1584718000005,President & CEO,male,64743317.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20180502,reedy christopher j,1584718000004,Secretary & Vice President,male,64743317.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20180502,stewart craig d,1584718000003,President - Aerospace,male,64743317.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20180502,mcmahon tad mitchell,1584718000002,Chief Financial Officer,male,64743317.0
+3766166.0,2322000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20180629,daly joseph patrick,133259618000001,,male,64743317.0
+3774816.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20180705,daly joseph patrick,133259618000002,,male,64743317.0
+3779816.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20180709,daly joseph patrick,133259618000003,,male,64743317.0
+3802316.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20180713,daly joseph patrick,133259618000004,,male,64743317.0
+3807316.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20180720,daly joseph patrick,133259618000005,,male,64743317.0
+3809316.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20180725,daly joseph patrick,133259618000006,,male,64743317.0
+3819816.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20181012,daly joseph patrick,133259618000008,,male,64718040.0
+3893116.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20181026,daly joseph patrick,133259618000009,,male,64718040.0
+3897116.0,2847000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20190108,daly joseph patrick,133259619000001,,male,64237185.0
+535000.0,2322000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20190110,daly joseph patrick,133259619000002,,male,64237185.0
+3899616.0,2857000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20190315,daly joseph patrick,133259619000003,,male,64050508.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20190416,stewart craig d,1584719000001,President - Aerospace,male,64050508.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20190416,mcmahon tad mitchell,1584719000002,Chief Financial Officer,male,64050508.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20190416,reedy christopher j,1584719000003,Secretary & Vice President,male,64050508.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20190416,stewart clark d,1584719000004,President & CEO,male,64050508.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20190501,mcmahon tad mitchell,1584719000006,Chief Financial Officer,male,68281071.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20190501,stewart craig d,1584719000005,President - Aerospace,male,68281071.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20190501,reedy christopher j,1584719000007,Secretary & Vice President,male,68281071.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20190501,stewart clark d,1584719000008,President & CEO,male,68281071.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20200319,stewart craig d,1584720000001,President - Aerospace,male,67686732.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20200319,reedy christopher j,1584720000003,Secretary & Vice President,male,67686732.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20200319,stewart clark d,1584720000004,President & CEO,male,67686732.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20200319,mcmahon tad mitchell,1584720000002,Chief Financial Officer,male,67686732.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20200504,stewart craig d,1584720000006,President - Aerospace,male,74398262.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20200504,mcmahon tad mitchell,1584720000007,Chief Financial Officer,male,74398262.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20200504,reedy christopher j,1584720000008,Secretary & Vice President,male,74398262.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20200504,stewart clark d,1584720000009,President & CEO,male,74398262.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20210506,stewart clark d,1584721000004,President & CEO,male,75366749.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20210506,stewart craig d,1584721000001,President - Aerospace,male,75366749.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20210506,reedy christopher j,1584721000003,Secretary & Vice President,male,75366749.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20210506,mcmahon tad mitchell,1584721000002,Chief Financial Officer,male,75366749.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20220328,edgar john m.,1584722000001,,male,75310459.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20220328,hayden david b,1584722000002,,male,75310459.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20220502,stewart craig d,1584722000003,President - Aerospace,male,76458146.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20220502,reedy christopher j,1584722000004,Secretary & Vice President,male,76458146.0
+,,15847,butler national corp,0.0,1.0,0.0,0.0,20220502,mcmahon tad mitchell,1584722000005,Chief Financial Officer,male,76458146.0
+,,15847,butler national corp,1.0,1.0,0.0,0.0,20220502,stewart clark d,1584722000006,President & CEO,male,76458146.0
+,,15847,butler national corp,1.0,0.0,0.0,0.0,20220721,edgar john m.,1584722000008,,male,76458146.0
+,,15847,butler national corp,1.0,,,,20230502,peters joe aric,143774923012149,,male,76891689.0
+,,15847,butler national corp,,1.0,,,20230502,mcmahon tad mitchell,143774923012152,Chief Financial Officer,male,76891689.0
+,,15847,butler national corp,1.0,1.0,,,20230502,stewart clark d,143774923012148,President & CEO,male,76891689.0
+,,15847,butler national corp,,1.0,,,20230502,reedy christopher j,143774923012151,Secretary & Vice President,male,76891689.0
+,,15847,butler national corp,1.0,,,,20230502,stewart craig d,143774923012146,,male,76891689.0
+,,15847,butler national corp,1.0,,,,20231010,edgar john m.,143774923027952,,male,68727900.0
+3590000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231017,daly joseph patrick,133259623000006,,male,68727900.0
+3620000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231019,daly joseph patrick,133259623000007,,male,68727900.0
+,,15847,butler national corp,,1.0,,,20231019,reedy christopher j,143774923028553,President & CEO,male,68727900.0
+3640000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231020,daly joseph patrick,133259623000008,,male,68727900.0
+3520000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231023,daly joseph patrick,133259623000009,,male,68727900.0
+,,15847,butler national corp,1.0,1.0,,,20231023,peters joe aric,143774923028733,Vice President,male,68727900.0
+3530000.0,3650000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231024,daly joseph patrick,133259623000010,,male,68727900.0
+3560000.0,3650000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231025,daly joseph patrick,133259623000011,,male,68727900.0
+3600000.0,3650000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231026,daly joseph patrick,133259623000012,,male,68727900.0
+3605000.0,3650000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231030,daly joseph patrick,133259623000013,,male,68727900.0
+3620000.0,3650000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231101,daly joseph patrick,133259623000014,,male,69025600.0
+3650000.0,3650000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231102,daly joseph patrick,133259623000015,,male,69025600.0
+3675000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231106,daly joseph patrick,133259623000016,,male,69025600.0
+3682199.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231109,daly joseph patrick,133259623000017,,male,69025600.0
+3681000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231113,daly joseph patrick,133259623000018,,male,69025600.0
+3750000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231114,daly joseph patrick,133259623000019,,male,69025600.0
+3730000.0,3750000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231115,daly joseph patrick,133259623000020,,male,69025600.0
+3775000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231116,daly joseph patrick,133259623000021,,male,69025600.0
+3785000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231117,daly joseph patrick,133259623000022,,male,69025600.0
+3800000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231120,daly joseph patrick,133259623000023,,male,69025600.0
+3850000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231121,daly joseph patrick,133259623000024,,male,69025600.0
+3880000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231122,daly joseph patrick,133259623000025,,male,69025600.0
+3887000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231124,daly joseph patrick,133259623000026,,male,69025600.0
+3920000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231127,daly joseph patrick,133259623000027,,male,69025600.0
+3979728.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231129,daly joseph patrick,133259623000028,,male,69025600.0
+4000000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231130,daly joseph patrick,133259623000029,,male,69025600.0
+3740000.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231201,daly joseph patrick,133259623000031,,male,69025600.0
+3747400.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231204,daly joseph patrick,133259623000032,,male,69025600.0
+3760000.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231205,daly joseph patrick,133259623000033,,male,69025600.0
+3775000.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231206,daly joseph patrick,133259623000034,,male,69025600.0
+3800000.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231207,daly joseph patrick,133259623000035,,male,69025600.0
+3825000.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231208,daly joseph patrick,133259623000036,,male,69025600.0
+3839800.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231211,daly joseph patrick,133259623000037,,male,69025600.0
+3845000.0,4000000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20231218,daly joseph patrick,133259623000038,,male,69025600.0
+4025000.0,,15847,butler national corp,0.0,0.0,1.0,0.0,20231222,daly joseph patrick,133259623000039,,male,69025600.0
+3880200.0,4025000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20240124,daly joseph patrick,133259624000001,,male,69025600.0
+3881100.0,4025000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20240129,daly joseph patrick,133259624000002,,male,69025600.0
+3885800.0,4025000.0,15847,butler national corp,0.0,0.0,1.0,0.0,20240206,daly joseph patrick,133259624000003,,male,68850856.0
+,,15847,butler national corp,1.0,1.0,,,20240405,reedy christopher j,143774924011211,President & CEO,male,68850856.0
+3975000.0,4025000.0,15847,butler national corp,1.0,0.0,1.0,0.0,20240405,daly joseph patrick,133259624000004,,male,68850856.0
+,,15847,butler national corp,1.0,,,,20240812,hayden david b,143774924026022,,male,68270856.0
+4025000.0,4025000.0,15847,butler national corp,1.0,0.0,1.0,0.0,20240919,daly joseph patrick,133259624000005,,male,68270856.0
+84850.0,,15847,butler national corp,1.0,,,,20240927,loh michael anthony,143774924030170,,male,68270856.0
+82850.0,,15847,butler national corp,1.0,,,,20240927,loh michael anthony,143774924030169,,male,68270856.0
+60000.0,,15847,butler national corp,1.0,,,,20240927,loh michael anthony,143774924030168,,male,68270856.0
+4101000.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20240930,daly joseph patrick,133259624000006,,male,68270856.0
+89850.0,,15847,butler national corp,1.0,,,,20240930,loh michael anthony,143774924030229,,male,68270856.0
+4116384.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241002,daly joseph patrick,133259624000007,,male,68270856.0
+91850.0,,15847,butler national corp,1.0,,,,20241002,loh michael anthony,143774924030408,,male,68270856.0
+94850.0,,15847,butler national corp,1.0,,,,20241003,loh michael anthony,143774924030583,,male,68270856.0
+4125250.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241004,daly joseph patrick,133259624000008,,male,68270856.0
+4130000.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241011,daly joseph patrick,133259624000009,,male,68270856.0
+4030000.0,4130000.0,15847,butler national corp,1.0,0.0,1.0,0.0,20241015,daly joseph patrick,133259624000010,,male,68270856.0
+4035000.0,4130000.0,15847,butler national corp,1.0,0.0,1.0,0.0,20241016,daly joseph patrick,133259624000011,,male,68270856.0
+4136916.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241213,daly joseph patrick,133259624000012,,male,67587096.0
+4146916.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241216,daly joseph patrick,133259624000013,,male,67587096.0
+4149349.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241217,daly joseph patrick,133259624000014,,male,67587096.0
+4150000.0,,15847,butler national corp,1.0,0.0,1.0,0.0,20241220,daly joseph patrick,133259624000015,,male,67587096.0
+4050000.0,4150000.0,15847,butler national corp,1.0,0.0,1.0,0.0,20241227,daly joseph patrick,133259624000016,,male,67587096.0
+4050200.0,4150000.0,15847,butler national corp,1.0,0.0,1.0,0.0,20241230,daly joseph patrick,133259624000017,,male,67587096.0

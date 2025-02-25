@@ -1,301 +1,655 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-10600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100202,huebner kyle,120919110006279,Chief Financial Officer,female,
-52616.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20100202,mcbride kenneth thomas,120919110006281,Chief Executive Officer,male,
-16000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100202,biswas michael john,120919110006282,Vice President of Development,male,
-28456.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100202,bortnak james,120919110006283,Chief Marketing Officer,male,
-5341.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100202,clem john roland,120919110006284,VP Product & Operation Svcs.,male,
-7141.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100202,leon jp,120919110006286,VP - Advanced Technology,male,
-54880.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20100202,weisberg seth,120919110006287,Chief Legal Officer,male,
-27616.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20100309,mcbride kenneth thomas,120919110015779,Chief Executive Officer,male,
-7616.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20100519,mcbride kenneth thomas,120919110029097,Chief Executive Officer,male,
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20100617,jones g bradford,120919110034834,,male,
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20100617,ananda mohan p,120919110034835,,male,
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20100617,miller lloyd i iii,120919110034836,,male,
-9975.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100625,huebner kyle,120919110035729,Chief Financial Officer,female,
-16600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100803,biswas michael john,120919110040873,Vice President of Development,male,
-5941.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100803,clem john roland,120919110040870,VP Product & Operation Svcs.,male,
-55480.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20100803,weisberg seth,120919110040865,Chief Legal Officer,male,
-7741.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100803,leon jp,120919110040867,VP - Advanced Technology,male,
-8216.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20100803,mcbride kenneth thomas,120919110040861,Chief Executive Officer,male,
-29056.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100803,bortnak james,120919110040871,"Vice President, Corp & BusDev",male,
-10575.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100803,huebner kyle,120919110040859,Chief Financial Officer,female,
-4800.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20100809,mcbride kenneth thomas,120919110041822,Chief Executive Officer,male,
-6600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100813,biswas michael john,120919110042613,Vice President of Development,male,
+10600.0,,1082923,stamps.com inc,0,1,0,0.0,20100202,huebner kyle,120919110006279,Chief Financial Officer,female,
+52616.0,,1082923,stamps.com inc,1,1,0,0.0,20100202,mcbride kenneth thomas,120919110006281,Chief Executive Officer,male,
+16000.0,,1082923,stamps.com inc,0,1,0,0.0,20100202,biswas michael john,120919110006282,Vice President of Development,male,
+54880.0,,1082923,stamps.com inc,0,1,0,1.0,20100202,weisberg seth,120919110006287,Chief Legal Officer,male,
+7141.0,,1082923,stamps.com inc,0,1,0,0.0,20100202,leon jp,120919110006286,VP - Advanced Technology,male,
+5341.0,,1082923,stamps.com inc,0,1,0,0.0,20100202,clem john roland,120919110006284,VP Product & Operation Svcs.,male,
+28456.0,,1082923,stamps.com inc,0,1,0,0.0,20100202,bortnak james,120919110006283,Chief Marketing Officer,male,
+27616.0,,1082923,stamps.com inc,1,1,0,0.0,20100309,mcbride kenneth thomas,120919110015779,Chief Executive Officer,male,
+7616.0,,1082923,stamps.com inc,1,1,0,0.0,20100519,mcbride kenneth thomas,120919110029097,Chief Executive Officer,male,
+,,1082923,stamps.com inc,1,0,0,0.0,20100617,jones g bradford,120919110034834,,male,
+,,1082923,stamps.com inc,1,0,0,0.0,20100617,ananda mohan p,120919110034835,,male,
+,,1082923,stamps.com inc,1,0,0,0.0,20100617,miller lloyd i iii,120919110034836,,male,
+9975.0,,1082923,stamps.com inc,0,1,0,0.0,20100625,huebner kyle,120919110035729,Chief Financial Officer,female,
+8216.0,,1082923,stamps.com inc,1,1,0,0.0,20100803,mcbride kenneth thomas,120919110040861,Chief Executive Officer,male,
+10575.0,,1082923,stamps.com inc,0,1,0,0.0,20100803,huebner kyle,120919110040859,Chief Financial Officer,female,
+29056.0,,1082923,stamps.com inc,0,1,0,0.0,20100803,bortnak james,120919110040871,"Vice President, Corp & BusDev",male,
+5941.0,,1082923,stamps.com inc,0,1,0,0.0,20100803,clem john roland,120919110040870,VP Product & Operation Svcs.,male,
+7741.0,,1082923,stamps.com inc,0,1,0,0.0,20100803,leon jp,120919110040867,VP - Advanced Technology,male,
+55480.0,,1082923,stamps.com inc,0,1,0,1.0,20100803,weisberg seth,120919110040865,Chief Legal Officer,male,
+16600.0,,1082923,stamps.com inc,0,1,0,0.0,20100803,biswas michael john,120919110040873,Vice President of Development,male,
+4800.0,,1082923,stamps.com inc,1,1,0,0.0,20100809,mcbride kenneth thomas,120919110041822,Chief Executive Officer,male,
+6600.0,,1082923,stamps.com inc,0,1,0,0.0,20100813,biswas michael john,120919110042613,Vice President of Development,male,
 483447.0,654243.0,1082923,stamps.com inc,1,0,0,0.0,20100816,miller lloyd i iii,120919110042760,,male,
 492666.0,654243.0,1082923,stamps.com inc,1,0,1,0.0,20100818,miller lloyd i iii,120919110043126,,male,
-10575.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100818,huebner kyle,120919110043248,Chief Financial Officer,female,
-3800.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20100823,mcbride kenneth thomas,120919110043655,Chief Executive Officer,male,
-2600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20100823,biswas michael john,120919110043653,Vice President of Development,male,
-3800.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20101102,mcbride kenneth thomas,120919110052705,Chief Executive Officer,male,
-1800.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20101103,clem john roland,120919110053040,VP Product & Operation Svcs.,male,
-57147.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20101103,weisberg seth,120919110053041,Chief Legal Officer,male,
-10575.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20101103,huebner kyle,120919110053042,Chief Financial Officer,female,
-1800.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20101105,bortnak james,120919110053494,"Vice President, Corp & BusDev",male,
-57147.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110106,weisberg seth,120919111002347,Chief Legal Officer,male,14490000.0
-10060.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110127,huebner kyle,120919111005309,Chief Financial Officer,female,14490000.0
-57747.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110202,weisberg seth,120919111006559,Chief Legal Officer,male,14490000.0
-8341.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110202,leon jp,120919111006558,"VP, Postal Affairs &",male,14490000.0
-3200.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110202,biswas michael john,120919111006557,Vice President of Development,male,14490000.0
-2400.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110202,clem john roland,120919111006556,VP Product & Operation Svcs.,male,14490000.0
-2400.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110202,bortnak james,120919111006555,"Vice President, Corp & BusDev",male,14490000.0
-4400.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20110202,mcbride kenneth thomas,120919111006553,Chief Executive Officer,male,14490000.0
-10660.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110202,huebner kyle,120919111006554,Chief Financial Officer,female,14490000.0
-4400.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20110216,mcbride kenneth thomas,120919111010330,Chief Executive Officer,male,14490000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110524,bortnak james,120919111030808,"Vice President, Corp & BusDev",male,14490000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110524,leon jp,120919111030812,"VP, Postal Affairs &",male,14490000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110524,huebner kyle,120919111030804,Chief Financial Officer,female,14490000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110524,clem john roland,120919111030810,VP Product & Operation Svcs.,male,14490000.0
-0.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20110524,mcbride kenneth thomas,120919111030802,Chief Executive Officer,male,14490000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110524,biswas michael john,120919111030805,Vice President of Development,male,14490000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110524,weisberg seth,120919111030809,Chief Legal Officer,male,14490000.0
+10575.0,,1082923,stamps.com inc,0,1,0,0.0,20100818,huebner kyle,120919110043248,Chief Financial Officer,female,
+2600.0,,1082923,stamps.com inc,0,1,0,0.0,20100823,biswas michael john,120919110043653,Vice President of Development,male,
+3800.0,,1082923,stamps.com inc,1,1,0,0.0,20100823,mcbride kenneth thomas,120919110043655,Chief Executive Officer,male,
+3800.0,,1082923,stamps.com inc,1,1,0,0.0,20101102,mcbride kenneth thomas,120919110052705,Chief Executive Officer,male,
+1800.0,,1082923,stamps.com inc,0,1,0,0.0,20101103,clem john roland,120919110053040,VP Product & Operation Svcs.,male,
+57147.0,,1082923,stamps.com inc,0,1,0,1.0,20101103,weisberg seth,120919110053041,Chief Legal Officer,male,
+10575.0,,1082923,stamps.com inc,0,1,0,0.0,20101103,huebner kyle,120919110053042,Chief Financial Officer,female,
+1800.0,,1082923,stamps.com inc,0,1,0,0.0,20101105,bortnak james,120919110053494,"Vice President, Corp & BusDev",male,
+57147.0,,1082923,stamps.com inc,0,1,0,1.0,20110106,weisberg seth,120919111002347,Chief Legal Officer,male,14490000.0
+10060.0,,1082923,stamps.com inc,0,1,0,0.0,20110127,huebner kyle,120919111005309,Chief Financial Officer,female,14490000.0
+4400.0,,1082923,stamps.com inc,1,1,0,0.0,20110202,mcbride kenneth thomas,120919111006553,Chief Executive Officer,male,14490000.0
+10660.0,,1082923,stamps.com inc,0,1,0,0.0,20110202,huebner kyle,120919111006554,Chief Financial Officer,female,14490000.0
+2400.0,,1082923,stamps.com inc,0,1,0,0.0,20110202,bortnak james,120919111006555,"Vice President, Corp & BusDev",male,14490000.0
+2400.0,,1082923,stamps.com inc,0,1,0,0.0,20110202,clem john roland,120919111006556,VP Product & Operation Svcs.,male,14490000.0
+3200.0,,1082923,stamps.com inc,0,1,0,0.0,20110202,biswas michael john,120919111006557,Vice President of Development,male,14490000.0
+8341.0,,1082923,stamps.com inc,0,1,0,1.0,20110202,leon jp,120919111006558,"VP, Postal Affairs &",male,14490000.0
+57747.0,,1082923,stamps.com inc,0,1,0,1.0,20110202,weisberg seth,120919111006559,Chief Legal Officer,male,14490000.0
+4400.0,,1082923,stamps.com inc,1,1,0,0.0,20110216,mcbride kenneth thomas,120919111010330,Chief Executive Officer,male,14490000.0
+,,1082923,stamps.com inc,0,1,0,1.0,20110524,leon jp,120919111030812,"VP, Postal Affairs &",male,14490000.0
+,,1082923,stamps.com inc,0,1,0,1.0,20110524,weisberg seth,120919111030809,Chief Legal Officer,male,14490000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20110524,clem john roland,120919111030810,VP Product & Operation Svcs.,male,14490000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20110524,huebner kyle,120919111030804,Chief Financial Officer,female,14490000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20110524,bortnak james,120919111030808,"Vice President, Corp & BusDev",male,14490000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20110524,biswas michael john,120919111030805,Vice President of Development,male,14490000.0
+,,1082923,stamps.com inc,1,1,0,0.0,20110524,mcbride kenneth thomas,120919111030802,Chief Executive Officer,male,14490000.0
 9456.0,1146909.0,1082923,stamps.com inc,1,0,1,0.0,20110525,miller lloyd i iii,120919111030907,,male,14490000.0
 13068.0,1146909.0,1082923,stamps.com inc,1,0,1,0.0,20110526,miller lloyd i iii,120919111031196,,male,14490000.0
 17489.0,1146909.0,1082923,stamps.com inc,1,0,1,0.0,20110531,miller lloyd i iii,120919111031795,,male,14490000.0
 29489.0,1146909.0,1082923,stamps.com inc,1,0,1,0.0,20110601,miller lloyd i iii,120919111032171,,male,14490000.0
-0.0,1176398.0,1082923,stamps.com inc,1,0,1,0.0,20110617,miller lloyd i iii,120919111035168,,male,14490000.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20110617,ananda mohan p,120919111035163,,male,14490000.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20110617,jones g bradford,120919111035191,,male,14490000.0
-10300.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110629,huebner kyle,120919111036812,Chief Financial Officer,female,14490000.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110802,bortnak james,120919111042146,"Vice President, Corp & BusDev",male,14288876.0
-4200.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20110802,mcbride kenneth thomas,120919111042147,Chief Executive Officer,male,14288876.0
-10900.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110802,huebner kyle,120919111042148,Chief Financial Officer,female,14288876.0
-3800.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110802,biswas michael john,120919111042149,Vice President of Development,male,14288876.0
-58347.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110802,weisberg seth,120919111042151,Chief Legal Officer,male,14288876.0
-2929.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110802,clem john roland,120919111042153,VP Product & Operation Svcs.,male,14288876.0
-8863.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110802,leon jp,120919111042155,"VP, Postal Affairs &",male,14288876.0
-3566.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110802,patchen michael robert,120919111042157,"VP, Information Technology",male,14288876.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110804,bortnak james,120919111042536,"Vice President, Corp & BusDev",male,14288876.0
-3566.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110808,patchen michael robert,120919111042924,"VP, Information Technology",male,14288876.0
-2329.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110808,clem john roland,120919111042925,VP Product & Operation Svcs.,male,14288876.0
-8863.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110831,leon jp,120919111046183,"VP, Postal Affairs &",male,14288876.0
-1129.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20110831,clem john roland,120919111046184,VP Product & Operation Svcs.,male,14288876.0
-48347.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110913,weisberg seth,120919111047730,Chief Legal Officer,male,14288876.0
-48347.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110916,weisberg seth,120919111048200,Chief Legal Officer,male,14288876.0
-48347.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110922,weisberg seth,120919111048760,Chief Legal Officer,male,14288876.0
-8863.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20110928,leon jp,120919111049318,"VP, Postal Affairs &",male,14288876.0
-1129.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111004,clem john roland,120919111050272,VP Product & Operation Svcs.,male,14889.0
-1129.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111007,clem john roland,120919111051256,VP Product & Operation Svcs.,male,14889.0
-44050.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20111011,weisberg seth,120919111051439,Chief Legal Officer,male,14889.0
-1129.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111018,clem john roland,120919111052104,VP Product & Operation Svcs.,male,14889.0
-38347.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20111018,weisberg seth,120919111052105,Chief Legal Officer,male,14889.0
-1129.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111101,clem john roland,120919111053707,VP Product & Operation Svcs.,male,15008152.0
-28347.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20111101,weisberg seth,120919111053708,Chief Legal Officer,male,15008152.0
-66.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111103,patchen michael robert,120919111054332,"VP, Information Technology",male,15008152.0
-1800.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111103,biswas michael john,120919111054334,Vice President of Development,male,15008152.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111103,bortnak james,120919111054333,"Vice President, Corp & BusDev",male,15008152.0
-4200.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20111103,mcbride kenneth thomas,120919111054329,Chief Executive Officer,male,15008152.0
-8863.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20111103,leon jp,120919111054331,"VP, Postal Affairs &",male,15008152.0
-960.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111103,huebner kyle,120919111054330,Chief Financial Officer,female,15008152.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111108,bortnak james,120919111055066,"Vice President, Corp & BusDev",male,15008152.0
-4200.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20111109,mcbride kenneth thomas,120919111055302,Chief Executive Officer,male,15008152.0
-66.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111201,patchen michael robert,120919111058842,"VP, Information Technology",male,15008152.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20111201,bortnak james,120919111058843,"Vice President, Corp & BusDev",male,15008152.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120105,bortnak james,120919112002298,"Vice President, Corp & BusDev",male,16163000.0
+,,1082923,stamps.com inc,1,0,0,0.0,20110617,ananda mohan p,120919111035163,,male,14490000.0
+,1176398.0,1082923,stamps.com inc,1,0,1,0.0,20110617,miller lloyd i iii,120919111035168,,male,14490000.0
+,,1082923,stamps.com inc,1,0,0,0.0,20110617,jones g bradford,120919111035191,,male,14490000.0
+10300.0,,1082923,stamps.com inc,0,1,0,0.0,20110629,huebner kyle,120919111036812,Chief Financial Officer,female,14490000.0
+8863.0,,1082923,stamps.com inc,0,1,0,1.0,20110802,leon jp,120919111042155,"VP, Postal Affairs &",male,14288876.0
+58347.0,,1082923,stamps.com inc,0,1,0,1.0,20110802,weisberg seth,120919111042151,Chief Legal Officer,male,14288876.0
+3566.0,,1082923,stamps.com inc,0,1,0,0.0,20110802,patchen michael robert,120919111042157,"VP, Information Technology",male,14288876.0
+10900.0,,1082923,stamps.com inc,0,1,0,0.0,20110802,huebner kyle,120919111042148,Chief Financial Officer,female,14288876.0
+3800.0,,1082923,stamps.com inc,0,1,0,0.0,20110802,biswas michael john,120919111042149,Vice President of Development,male,14288876.0
+2929.0,,1082923,stamps.com inc,0,1,0,0.0,20110802,clem john roland,120919111042153,VP Product & Operation Svcs.,male,14288876.0
+4200.0,,1082923,stamps.com inc,1,1,0,0.0,20110802,mcbride kenneth thomas,120919111042147,Chief Executive Officer,male,14288876.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20110802,bortnak james,120919111042146,"Vice President, Corp & BusDev",male,14288876.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20110804,bortnak james,120919111042536,"Vice President, Corp & BusDev",male,14288876.0
+3566.0,,1082923,stamps.com inc,0,1,0,0.0,20110808,patchen michael robert,120919111042924,"VP, Information Technology",male,14288876.0
+2329.0,,1082923,stamps.com inc,0,1,0,0.0,20110808,clem john roland,120919111042925,VP Product & Operation Svcs.,male,14288876.0
+8863.0,,1082923,stamps.com inc,0,1,0,1.0,20110831,leon jp,120919111046183,"VP, Postal Affairs &",male,14288876.0
+1129.0,,1082923,stamps.com inc,0,1,0,0.0,20110831,clem john roland,120919111046184,VP Product & Operation Svcs.,male,14288876.0
+48347.0,,1082923,stamps.com inc,0,1,0,1.0,20110913,weisberg seth,120919111047730,Chief Legal Officer,male,14288876.0
+48347.0,,1082923,stamps.com inc,0,1,0,1.0,20110916,weisberg seth,120919111048200,Chief Legal Officer,male,14288876.0
+48347.0,,1082923,stamps.com inc,0,1,0,1.0,20110922,weisberg seth,120919111048760,Chief Legal Officer,male,14288876.0
+8863.0,,1082923,stamps.com inc,0,1,0,1.0,20110928,leon jp,120919111049318,"VP, Postal Affairs &",male,14288876.0
+1129.0,,1082923,stamps.com inc,0,1,0,0.0,20111004,clem john roland,120919111050272,VP Product & Operation Svcs.,male,14889.0
+1129.0,,1082923,stamps.com inc,0,1,0,0.0,20111007,clem john roland,120919111051256,VP Product & Operation Svcs.,male,14889.0
+44050.0,,1082923,stamps.com inc,0,1,0,1.0,20111011,weisberg seth,120919111051439,Chief Legal Officer,male,14889.0
+38347.0,,1082923,stamps.com inc,0,1,0,1.0,20111018,weisberg seth,120919111052105,Chief Legal Officer,male,14889.0
+1129.0,,1082923,stamps.com inc,0,1,0,0.0,20111018,clem john roland,120919111052104,VP Product & Operation Svcs.,male,14889.0
+28347.0,,1082923,stamps.com inc,0,1,0,1.0,20111101,weisberg seth,120919111053708,Chief Legal Officer,male,15008152.0
+1129.0,,1082923,stamps.com inc,0,1,0,0.0,20111101,clem john roland,120919111053707,VP Product & Operation Svcs.,male,15008152.0
+1800.0,,1082923,stamps.com inc,0,1,0,0.0,20111103,biswas michael john,120919111054334,Vice President of Development,male,15008152.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20111103,bortnak james,120919111054333,"Vice President, Corp & BusDev",male,15008152.0
+960.0,,1082923,stamps.com inc,0,1,0,0.0,20111103,huebner kyle,120919111054330,Chief Financial Officer,female,15008152.0
+8863.0,,1082923,stamps.com inc,0,1,0,1.0,20111103,leon jp,120919111054331,"VP, Postal Affairs &",male,15008152.0
+4200.0,,1082923,stamps.com inc,1,1,0,0.0,20111103,mcbride kenneth thomas,120919111054329,Chief Executive Officer,male,15008152.0
+66.0,,1082923,stamps.com inc,0,1,0,0.0,20111103,patchen michael robert,120919111054332,"VP, Information Technology",male,15008152.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20111108,bortnak james,120919111055066,"Vice President, Corp & BusDev",male,15008152.0
+4200.0,,1082923,stamps.com inc,1,1,0,0.0,20111109,mcbride kenneth thomas,120919111055302,Chief Executive Officer,male,15008152.0
+66.0,,1082923,stamps.com inc,0,1,0,0.0,20111201,patchen michael robert,120919111058842,"VP, Information Technology",male,15008152.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20111201,bortnak james,120919111058843,"Vice President, Corp & BusDev",male,15008152.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20120105,bortnak james,120919112002298,"Vice President, Corp & BusDev",male,16163000.0
 126061.0,144994.0,1082923,stamps.com inc,1,0,1,0.0,20120117,miller lloyd i iii,120919112003809,,male,16163000.0
 102040.0,144994.0,1082923,stamps.com inc,1,0,0,0.0,20120120,miller lloyd i iii,120919112004605,,male,16163000.0
 94352.0,144994.0,1082923,stamps.com inc,1,0,0,0.0,20120124,miller lloyd i iii,120919112005087,,male,16163000.0
-3000.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120125,bortnak james,120919112005322,"Vice President, Corp & BusDev",male,16163000.0
+3000.0,,1082923,stamps.com inc,0,1,0,0.0,20120125,bortnak james,120919112005322,"Vice President, Corp & BusDev",male,16163000.0
 86252.0,144994.0,1082923,stamps.com inc,1,0,0,0.0,20120130,miller lloyd i iii,120919112006052,,male,16163000.0
-28947.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120202,weisberg seth,120919112007210,Chief Legal Officer,male,16163000.0
-9339.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120202,leon jp,120919112007209,"VP, Postal Affairs &",male,16163000.0
-666.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120202,patchen michael robert,120919112007208,"VP, Information Technology",male,16163000.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120202,bortnak james,120919112007211,Co-President and Corp & BusDev,male,16163000.0
-2290.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120202,biswas michael john,120919112007206,Chief Technology Officer,male,16163000.0
-4800.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20120202,mcbride kenneth thomas,120919112007205,Chairman & CEO,male,16163000.0
-1560.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120202,huebner kyle,120919112007204,CFO & Co-President,female,16163000.0
-1729.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120202,clem john roland,120919112007207,Chief Product & Strategy Offic,male,16163000.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120202,bortnak james,120919112007211,Co-President and Corp & BusDev,male,16163000.0
+666.0,,1082923,stamps.com inc,0,1,0,0.0,20120202,patchen michael robert,120919112007208,"VP, Information Technology",male,16163000.0
+28947.0,,1082923,stamps.com inc,0,1,0,1.0,20120202,weisberg seth,120919112007210,Chief Legal Officer,male,16163000.0
+2290.0,,1082923,stamps.com inc,0,1,0,0.0,20120202,biswas michael john,120919112007206,Chief Technology Officer,male,16163000.0
+1729.0,,1082923,stamps.com inc,0,1,0,0.0,20120202,clem john roland,120919112007207,Chief Product & Strategy Offic,male,16163000.0
+9339.0,,1082923,stamps.com inc,0,1,0,1.0,20120202,leon jp,120919112007209,"VP, Postal Affairs &",male,16163000.0
+4800.0,,1082923,stamps.com inc,1,1,0,0.0,20120202,mcbride kenneth thomas,120919112007205,Chairman & CEO,male,16163000.0
+1560.0,,1082923,stamps.com inc,0,1,0,0.0,20120202,huebner kyle,120919112007204,CFO & Co-President,female,16163000.0
 81752.0,144994.0,1082923,stamps.com inc,1,0,0,0.0,20120208,miller lloyd i iii,120919112008407,,male,16163000.0
-1475.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120215,huebner kyle,120919112010510,CFO & Co-President,female,16163000.0
-5339.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120215,leon jp,120919112010511,"VP, Postal Affairs &",male,16163000.0
-66.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120215,patchen michael robert,120919112010514,"VP, Information Technology",male,16163000.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120223,bortnak james,120919112012386,Co-President and Corp & BusDev,male,16163000.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120322,bortnak james,120919112019656,Co-President and Corp & BusDev,male,16163000.0
-28947.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120328,weisberg seth,120919112020317,Chief Legal Officer,male,16163000.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120424,bortnak james,120919112024018,Co-President and Corp & BusDev,male,16331.0
-1729.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120426,clem john roland,120919112024491,Chief Product & Strategy Offic,male,16331.0
+1475.0,,1082923,stamps.com inc,0,1,0,0.0,20120215,huebner kyle,120919112010510,CFO & Co-President,female,16163000.0
+5339.0,,1082923,stamps.com inc,0,1,0,1.0,20120215,leon jp,120919112010511,"VP, Postal Affairs &",male,16163000.0
+66.0,,1082923,stamps.com inc,0,1,0,0.0,20120215,patchen michael robert,120919112010514,"VP, Information Technology",male,16163000.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120223,bortnak james,120919112012386,Co-President and Corp & BusDev,male,16163000.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120322,bortnak james,120919112019656,Co-President and Corp & BusDev,male,16163000.0
+28947.0,,1082923,stamps.com inc,0,1,0,1.0,20120328,weisberg seth,120919112020317,Chief Legal Officer,male,16163000.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120424,bortnak james,120919112024018,Co-President and Corp & BusDev,male,16331.0
 80340.0,701601.0,1082923,stamps.com inc,1,0,0,0.0,20120426,miller lloyd i iii,120919112024321,,male,16331.0
+1729.0,,1082923,stamps.com inc,0,1,0,0.0,20120426,clem john roland,120919112024491,Chief Product & Strategy Offic,male,16331.0
 41040.0,701601.0,1082923,stamps.com inc,1,0,0,0.0,20120427,miller lloyd i iii,120919112024575,,male,16331.0
 20040.0,701601.0,1082923,stamps.com inc,1,0,0,0.0,20120430,miller lloyd i iii,120919112024772,,male,16463131.0
-5339.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120502,leon jp,120919112025600,"VP, Postal Affairs &",male,16463131.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120502,biswas michael john,120919112025601,Chief Technology Officer,male,16463131.0
-66.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120502,patchen michael robert,120919112025602,"VP, Information Technology",male,16463131.0
-1129.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120502,clem john roland,120919112025603,Chief Product & Strategy Offic,male,16463131.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120523,bortnak james,120919112030080,Co-President and Corp & BusDev,male,16463131.0
-960.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120525,huebner kyle,120919112030836,CFO & Co-President,female,16463131.0
-0.0,721641.0,1082923,stamps.com inc,1,0,0,0.0,20120614,miller lloyd i iii,120919112033825,,male,16463131.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20120614,ananda mohan p,120919112033937,,male,16463131.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20120614,jones g bradford,120919112033938,,male,16463131.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120703,bortnak james,120919112036539,Co-President and Corp & BusDev,male,16544000.0
-4155.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20120709,mcbride kenneth thomas,120919112037659,Chairman & CEO,male,16544000.0
-3522.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120723,bortnak james,120919112038844,Co-President and Corp & BusDev,male,16544000.0
-5872.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120802,leon jp,120919112040119,"VP, Postal Affairs &",male,16415741.0
-526.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120802,biswas michael john,120919112040118,Chief Technology Officer,male,16415741.0
-1593.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120802,clem john roland,120919112040120,Chief Product & Strategy Offic,male,16415741.0
-4030.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120802,bortnak james,120919112040117,Co-President and Corp & BusDev,male,16415741.0
-29411.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20120802,weisberg seth,120919112040116,Chief Legal Officer,male,16415741.0
-1424.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120802,huebner kyle,120919112040114,CFO & Co-President,female,16415741.0
-4619.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20120802,mcbride kenneth thomas,120919112040113,Chairman & CEO,male,16415741.0
-530.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120802,patchen michael robert,120919112040115,"VP, Information Technology",male,16415741.0
-4030.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20120924,bortnak james,120919112046463,Co-President and Corp & BusDev,male,16415741.0
-4030.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20121029,bortnak james,120919112050889,Co-President and Corp & BusDev,male,15648000.0
-530.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20121101,patchen michael robert,120919112051156,"VP, Information Technology",male,15648000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20121105,biswas michael john,120919112051809,Chief Technology Officer,male,15648000.0
-5872.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20121108,leon jp,120919112052398,"VP, Postal Affairs &",male,15648000.0
-4030.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20121126,bortnak james,120919112054548,Co-President and Corp & BusDev,male,15648000.0
-4030.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20121221,bortnak james,120919112059170,Co-President and Corp & BusDev,male,15648000.0
-1424.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20121221,huebner kyle,120919112059172,CFO & Co-President,female,15648000.0
-4619.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20121226,mcbride kenneth thomas,120919112059251,Chairman & CEO,male,15648000.0
-4030.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130124,bortnak james,120919113004304,Co-President and Corp & BusDev,male,15319000.0
-30011.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130204,weisberg seth,120919113006260,Chief Legal Officer,male,15319000.0
-1130.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130204,patchen michael robert,120919113006259,"VP, Information Technology",male,15319000.0
-2193.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130204,clem john roland,120919113006256,Chief Product & Strategy Offic,male,15319000.0
-6472.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130204,leon jp,120919113006257,"VP, Postal Affairs &",male,15319000.0
-456.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130204,biswas michael john,120919113006254,Chief Technology Officer,male,15319000.0
-2024.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130204,huebner kyle,120919113006253,CFO & Co-President,female,15319000.0
-5219.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130204,mcbride kenneth thomas,120919113006252,Chairman & CEO,male,15319000.0
-4630.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130204,bortnak james,120919113006249,Co-President and Corp & BusDev,male,15319000.0
-2024.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130215,huebner kyle,120919113009441,CFO & Co-President,female,15319000.0
-4630.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130221,bortnak james,120919113010656,Co-President and Corp & BusDev,male,15319000.0
-4630.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130426,bortnak james,120919113022811,Co-President and Corp & BusDev,male,15324000.0
-2024.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130429,huebner kyle,120919113022964,CFO & Co-President,female,15324000.0
-5219.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130429,mcbride kenneth thomas,120919113022966,Chairman & CEO,male,15324000.0
-20011.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130510,weisberg seth,120919113025626,Chief Legal Officer,male,15448518.0
-5219.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130510,mcbride kenneth thomas,120919113025623,Chairman & CEO,male,15448518.0
-5219.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130515,mcbride kenneth thomas,120919113026464,Chairman & CEO,male,15448518.0
-1654.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130520,huebner kyle,120919113027657,CFO & Co-President,female,15448518.0
-4630.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130522,bortnak james,120919113028236,Co-President and Corp & BusDev,male,15448518.0
-5219.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130611,mcbride kenneth thomas,120919113031648,Chairman & CEO,male,15448518.0
-0.0,689584.0,1082923,stamps.com inc,1,0,0,0.0,20130613,miller lloyd i iii,120919113032033,,male,15448518.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20130613,jones g bradford,120919113032043,,male,15448518.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20130613,ananda mohan p,120919113032044,,male,15448518.0
-4630.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130624,bortnak james,120919113033386,Co-President and Corp & BusDev,male,15448518.0
-4969.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130628,mcbride kenneth thomas,120919113034063,Chairman & CEO,male,15448518.0
-10011.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130709,weisberg seth,120919113036006,Chief Legal Officer,male,15610000.0
-4630.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130723,bortnak james,120919113037648,Co-President and Corp & BusDev,male,15610000.0
-5448.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130802,mcbride kenneth thomas,120919113039074,Chairman & CEO,male,0.0
-2133.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130802,huebner kyle,120919113039079,CFO & Co-President,female,0.0
-10490.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130802,weisberg seth,120919113039075,Chief Legal Officer,male,0.0
-2672.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130802,clem john roland,120919113039071,Chief Product & Strategy Offic,male,0.0
-1042.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130802,biswas michael john,120919113039077,Chief Technology Officer,male,0.0
-1609.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130802,patchen michael robert,120919113039072,"VP, Information Technology",male,0.0
-6951.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130802,leon jp,120919113039070,"VP, Postal Affairs &",male,0.0
-5109.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130802,bortnak james,120919113039073,Co-President and Corp & BusDev,male,0.0
-10490.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130802,weisberg seth,120919113039076,Chief Legal Officer,male,0.0
-6951.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130807,leon jp,120919113039793,"VP, Postal Affairs &",male,0.0
-1609.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130807,patchen michael robert,120919113039794,"VP, Information Technology",male,0.0
-1042.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130807,biswas michael john,120919113039795,Chief Technology Officer,male,0.0
-1543.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130807,clem john roland,120919113039796,Chief Product & Strategy Offic,male,0.0
-2133.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130808,huebner kyle,120919113040016,CFO & Co-President,female,0.0
-109572.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20130808,jones g bradford,120919113039940,,male,0.0
-42.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130812,biswas michael john,120919113040324,Chief Technology Officer,male,0.0
-6951.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130812,leon jp,120919113040323,"VP, Postal Affairs &",male,0.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130821,bortnak james,120919113041682,Co-President and Corp & BusDev,male,0.0
-1543.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130827,clem john roland,120919113042106,Chief Product & Strategy Offic,male,0.0
-5951.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130830,leon jp,120919113042582,"VP, Postal Affairs &",male,0.0
-5448.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130911,mcbride kenneth thomas,120919113043891,Chairman & CEO,male,0.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20130924,bortnak james,120919113045498,Co-President and Corp & BusDev,male,0.0
-5448.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20130924,mcbride kenneth thomas,120919113045500,Chairman & CEO,male,0.0
+1129.0,,1082923,stamps.com inc,0,1,0,0.0,20120502,clem john roland,120919112025603,Chief Product & Strategy Offic,male,16463131.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20120502,biswas michael john,120919112025601,Chief Technology Officer,male,16463131.0
+66.0,,1082923,stamps.com inc,0,1,0,0.0,20120502,patchen michael robert,120919112025602,"VP, Information Technology",male,16463131.0
+5339.0,,1082923,stamps.com inc,0,1,0,1.0,20120502,leon jp,120919112025600,"VP, Postal Affairs &",male,16463131.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120523,bortnak james,120919112030080,Co-President and Corp & BusDev,male,16463131.0
+960.0,,1082923,stamps.com inc,0,1,0,0.0,20120525,huebner kyle,120919112030836,CFO & Co-President,female,16463131.0
+,721641.0,1082923,stamps.com inc,1,0,0,0.0,20120614,miller lloyd i iii,120919112033825,,male,16463131.0
+,,1082923,stamps.com inc,1,0,0,0.0,20120614,ananda mohan p,120919112033937,,male,16463131.0
+,,1082923,stamps.com inc,1,0,0,0.0,20120614,jones g bradford,120919112033938,,male,16463131.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120703,bortnak james,120919112036539,Co-President and Corp & BusDev,male,16544000.0
+4155.0,,1082923,stamps.com inc,1,1,0,0.0,20120709,mcbride kenneth thomas,120919112037659,Chairman & CEO,male,16544000.0
+3522.0,,1082923,stamps.com inc,0,1,0,0.0,20120723,bortnak james,120919112038844,Co-President and Corp & BusDev,male,16544000.0
+4619.0,,1082923,stamps.com inc,1,1,0,0.0,20120802,mcbride kenneth thomas,120919112040113,Chairman & CEO,male,16415741.0
+1424.0,,1082923,stamps.com inc,0,1,0,0.0,20120802,huebner kyle,120919112040114,CFO & Co-President,female,16415741.0
+530.0,,1082923,stamps.com inc,0,1,0,0.0,20120802,patchen michael robert,120919112040115,"VP, Information Technology",male,16415741.0
+29411.0,,1082923,stamps.com inc,0,1,0,1.0,20120802,weisberg seth,120919112040116,Chief Legal Officer,male,16415741.0
+4030.0,,1082923,stamps.com inc,0,1,0,0.0,20120802,bortnak james,120919112040117,Co-President and Corp & BusDev,male,16415741.0
+526.0,,1082923,stamps.com inc,0,1,0,0.0,20120802,biswas michael john,120919112040118,Chief Technology Officer,male,16415741.0
+5872.0,,1082923,stamps.com inc,0,1,0,1.0,20120802,leon jp,120919112040119,"VP, Postal Affairs &",male,16415741.0
+1593.0,,1082923,stamps.com inc,0,1,0,0.0,20120802,clem john roland,120919112040120,Chief Product & Strategy Offic,male,16415741.0
+4030.0,,1082923,stamps.com inc,0,1,0,0.0,20120924,bortnak james,120919112046463,Co-President and Corp & BusDev,male,16415741.0
+4030.0,,1082923,stamps.com inc,0,1,0,0.0,20121029,bortnak james,120919112050889,Co-President and Corp & BusDev,male,15648000.0
+530.0,,1082923,stamps.com inc,0,1,0,0.0,20121101,patchen michael robert,120919112051156,"VP, Information Technology",male,15648000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20121105,biswas michael john,120919112051809,Chief Technology Officer,male,15648000.0
+5872.0,,1082923,stamps.com inc,0,1,0,1.0,20121108,leon jp,120919112052398,"VP, Postal Affairs &",male,15648000.0
+4030.0,,1082923,stamps.com inc,0,1,0,0.0,20121126,bortnak james,120919112054548,Co-President and Corp & BusDev,male,15648000.0
+4030.0,,1082923,stamps.com inc,0,1,0,0.0,20121221,bortnak james,120919112059170,Co-President and Corp & BusDev,male,15648000.0
+1424.0,,1082923,stamps.com inc,0,1,0,0.0,20121221,huebner kyle,120919112059172,CFO & Co-President,female,15648000.0
+4619.0,,1082923,stamps.com inc,1,1,0,0.0,20121226,mcbride kenneth thomas,120919112059251,Chairman & CEO,male,15648000.0
+4030.0,,1082923,stamps.com inc,0,1,0,0.0,20130124,bortnak james,120919113004304,Co-President and Corp & BusDev,male,15319000.0
+4630.0,,1082923,stamps.com inc,0,1,0,0.0,20130204,bortnak james,120919113006249,Co-President and Corp & BusDev,male,15319000.0
+5219.0,,1082923,stamps.com inc,1,1,0,0.0,20130204,mcbride kenneth thomas,120919113006252,Chairman & CEO,male,15319000.0
+2024.0,,1082923,stamps.com inc,0,1,0,0.0,20130204,huebner kyle,120919113006253,CFO & Co-President,female,15319000.0
+456.0,,1082923,stamps.com inc,0,1,0,0.0,20130204,biswas michael john,120919113006254,Chief Technology Officer,male,15319000.0
+2193.0,,1082923,stamps.com inc,0,1,0,0.0,20130204,clem john roland,120919113006256,Chief Product & Strategy Offic,male,15319000.0
+6472.0,,1082923,stamps.com inc,0,1,0,1.0,20130204,leon jp,120919113006257,"VP, Postal Affairs &",male,15319000.0
+1130.0,,1082923,stamps.com inc,0,1,0,0.0,20130204,patchen michael robert,120919113006259,"VP, Information Technology",male,15319000.0
+30011.0,,1082923,stamps.com inc,0,1,0,1.0,20130204,weisberg seth,120919113006260,Chief Legal Officer,male,15319000.0
+2024.0,,1082923,stamps.com inc,0,1,0,0.0,20130215,huebner kyle,120919113009441,CFO & Co-President,female,15319000.0
+4630.0,,1082923,stamps.com inc,0,1,0,0.0,20130221,bortnak james,120919113010656,Co-President and Corp & BusDev,male,15319000.0
+4630.0,,1082923,stamps.com inc,0,1,0,0.0,20130426,bortnak james,120919113022811,Co-President and Corp & BusDev,male,15324000.0
+2024.0,,1082923,stamps.com inc,0,1,0,0.0,20130429,huebner kyle,120919113022964,CFO & Co-President,female,15324000.0
+5219.0,,1082923,stamps.com inc,1,1,0,0.0,20130429,mcbride kenneth thomas,120919113022966,Chairman & CEO,male,15324000.0
+20011.0,,1082923,stamps.com inc,0,1,0,1.0,20130510,weisberg seth,120919113025626,Chief Legal Officer,male,15448518.0
+5219.0,,1082923,stamps.com inc,1,1,0,0.0,20130510,mcbride kenneth thomas,120919113025623,Chairman & CEO,male,15448518.0
+5219.0,,1082923,stamps.com inc,1,1,0,0.0,20130515,mcbride kenneth thomas,120919113026464,Chairman & CEO,male,15448518.0
+1654.0,,1082923,stamps.com inc,0,1,0,0.0,20130520,huebner kyle,120919113027657,CFO & Co-President,female,15448518.0
+4630.0,,1082923,stamps.com inc,0,1,0,0.0,20130522,bortnak james,120919113028236,Co-President and Corp & BusDev,male,15448518.0
+5219.0,,1082923,stamps.com inc,1,1,0,0.0,20130611,mcbride kenneth thomas,120919113031648,Chairman & CEO,male,15448518.0
+,,1082923,stamps.com inc,1,0,0,0.0,20130613,jones g bradford,120919113032043,,male,15448518.0
+,,1082923,stamps.com inc,1,0,0,0.0,20130613,ananda mohan p,120919113032044,,male,15448518.0
+,689584.0,1082923,stamps.com inc,1,0,0,0.0,20130613,miller lloyd i iii,120919113032033,,male,15448518.0
+4630.0,,1082923,stamps.com inc,0,1,0,0.0,20130624,bortnak james,120919113033386,Co-President and Corp & BusDev,male,15448518.0
+4969.0,,1082923,stamps.com inc,1,1,0,0.0,20130628,mcbride kenneth thomas,120919113034063,Chairman & CEO,male,15448518.0
+10011.0,,1082923,stamps.com inc,0,1,0,1.0,20130709,weisberg seth,120919113036006,Chief Legal Officer,male,15610000.0
+4630.0,,1082923,stamps.com inc,0,1,0,0.0,20130723,bortnak james,120919113037648,Co-President and Corp & BusDev,male,15610000.0
+2133.0,,1082923,stamps.com inc,0,1,0,0.0,20130802,huebner kyle,120919113039079,CFO & Co-President,female,0.0
+10490.0,,1082923,stamps.com inc,0,1,0,1.0,20130802,weisberg seth,120919113039076,Chief Legal Officer,male,0.0
+10490.0,,1082923,stamps.com inc,0,1,0,1.0,20130802,weisberg seth,120919113039075,Chief Legal Officer,male,0.0
+1042.0,,1082923,stamps.com inc,0,1,0,0.0,20130802,biswas michael john,120919113039077,Chief Technology Officer,male,0.0
+5109.0,,1082923,stamps.com inc,0,1,0,0.0,20130802,bortnak james,120919113039073,Co-President and Corp & BusDev,male,0.0
+1609.0,,1082923,stamps.com inc,0,1,0,0.0,20130802,patchen michael robert,120919113039072,"VP, Information Technology",male,0.0
+2672.0,,1082923,stamps.com inc,0,1,0,0.0,20130802,clem john roland,120919113039071,Chief Product & Strategy Offic,male,0.0
+6951.0,,1082923,stamps.com inc,0,1,0,1.0,20130802,leon jp,120919113039070,"VP, Postal Affairs &",male,0.0
+5448.0,,1082923,stamps.com inc,1,1,0,0.0,20130802,mcbride kenneth thomas,120919113039074,Chairman & CEO,male,0.0
+1543.0,,1082923,stamps.com inc,0,1,0,0.0,20130807,clem john roland,120919113039796,Chief Product & Strategy Offic,male,0.0
+6951.0,,1082923,stamps.com inc,0,1,0,1.0,20130807,leon jp,120919113039793,"VP, Postal Affairs &",male,0.0
+1609.0,,1082923,stamps.com inc,0,1,0,0.0,20130807,patchen michael robert,120919113039794,"VP, Information Technology",male,0.0
+1042.0,,1082923,stamps.com inc,0,1,0,0.0,20130807,biswas michael john,120919113039795,Chief Technology Officer,male,0.0
+109572.0,,1082923,stamps.com inc,1,0,0,0.0,20130808,jones g bradford,120919113039940,,male,0.0
+2133.0,,1082923,stamps.com inc,0,1,0,0.0,20130808,huebner kyle,120919113040016,CFO & Co-President,female,0.0
+42.0,,1082923,stamps.com inc,0,1,0,0.0,20130812,biswas michael john,120919113040324,Chief Technology Officer,male,0.0
+6951.0,,1082923,stamps.com inc,0,1,0,1.0,20130812,leon jp,120919113040323,"VP, Postal Affairs &",male,0.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20130821,bortnak james,120919113041682,Co-President and Corp & BusDev,male,0.0
+1543.0,,1082923,stamps.com inc,0,1,0,0.0,20130827,clem john roland,120919113042106,Chief Product & Strategy Offic,male,0.0
+5951.0,,1082923,stamps.com inc,0,1,0,1.0,20130830,leon jp,120919113042582,"VP, Postal Affairs &",male,0.0
+5448.0,,1082923,stamps.com inc,1,1,0,0.0,20130911,mcbride kenneth thomas,120919113043891,Chairman & CEO,male,0.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20130924,bortnak james,120919113045498,Co-President and Corp & BusDev,male,0.0
+5448.0,,1082923,stamps.com inc,1,1,0,0.0,20130924,mcbride kenneth thomas,120919113045500,Chairman & CEO,male,0.0
 5497.0,674840.0,1082923,stamps.com inc,1,0,0,0.0,20130925,miller lloyd i iii,120919113045601,,male,0.0
-10490.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20130926,weisberg seth,120919113045806,Chief Legal Officer,male,0.0
 294023.0,370591.0,1082923,stamps.com inc,1,0,0,0.0,20130926,miller lloyd i iii,120919113045749,,male,0.0
+10490.0,,1082923,stamps.com inc,0,1,0,1.0,20130926,weisberg seth,120919113045806,Chief Legal Officer,male,0.0
 231991.0,100920.0,1082923,stamps.com inc,1,0,0,0.0,20131002,miller lloyd i iii,120919113046599,,male,16043000.0
-10490.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20131002,weisberg seth,120919113046826,Chief Legal Officer,male,16043000.0
+10490.0,,1082923,stamps.com inc,0,1,0,1.0,20131002,weisberg seth,120919113046826,Chief Legal Officer,male,16043000.0
 224862.0,596935.0,1082923,stamps.com inc,1,0,0,0.0,20131003,miller lloyd i iii,120919113047079,,male,16043000.0
 234862.0,650482.0,1082923,stamps.com inc,1,0,0,0.0,20131007,miller lloyd i iii,120919113047605,,male,16043000.0
-1770.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20131018,huebner kyle,120919113048771,CFO & Co-President,female,16043000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20131023,bortnak james,120919113049099,Co-President and Corp & BusDev,male,16043000.0
-5448.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20131023,mcbride kenneth thomas,120919113049101,Chairman & CEO,male,16043000.0
+1770.0,,1082923,stamps.com inc,0,1,0,0.0,20131018,huebner kyle,120919113048771,CFO & Co-President,female,16043000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20131023,bortnak james,120919113049099,Co-President and Corp & BusDev,male,16043000.0
+5448.0,,1082923,stamps.com inc,1,1,0,0.0,20131023,mcbride kenneth thomas,120919113049101,Chairman & CEO,male,16043000.0
 99732.0,99467.0,1082923,stamps.com inc,1,0,0,0.0,20131025,miller lloyd i iii,120919113049379,,male,16043000.0
-10490.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20131028,weisberg seth,120919113049560,Chief Legal Officer,male,16043000.0
 219406.0,421790.0,1082923,stamps.com inc,1,0,0,0.0,20131028,miller lloyd i iii,120919113049496,,male,16043000.0
-24786.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20131030,jones g bradford,120919113049873,,male,16043000.0
-1543.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20131202,clem john roland,120919113054781,Chief Product & Strategy Offic,male,16043000.0
-5448.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20131224,mcbride kenneth thomas,120919113058596,Chairman & CEO,male,16043000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20131224,bortnak james,120919113058597,Co-President and Corp & BusDev,male,16043000.0
-570.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20131231,huebner kyle,120919113058966,CFO & Co-President,female,16187000.0
-686524.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20140117,ananda mohan p,120919114003810,,male,16187000.0
-5448.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20140123,mcbride kenneth thomas,120919114004689,Chairman & CEO,male,16187000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140123,bortnak james,120919114004690,Co-President and Corp & BusDev,male,16187000.0
-5780.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20140204,mcbride kenneth thomas,120919114007262,Chairman & CEO,male,16187000.0
-6329.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20140204,leon jp,120919114007263,"VP, Postal Affairs &",male,16187000.0
-934.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140204,huebner kyle,120919114007264,CFO & Co-President,female,16187000.0
-295.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140204,biswas michael john,120919114007265,Chief Technology Officer,male,16187000.0
-10875.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20140204,weisberg seth,120919114007266,Chief Legal Officer,male,16187000.0
-573.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140204,bortnak james,120919114007267,Co-President and Corp & BusDev,male,16187000.0
-1463.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140204,patchen michael robert,120919114007268,"VP, Information Technology",male,16187000.0
-1999.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140204,clem john roland,120919114007269,Chief Product & Strategy Offic,male,16187000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140224,bortnak james,120919114013626,Co-President and Corp & BusDev,male,16187000.0
-1463.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140303,patchen michael robert,120919114016012,"VP, Information Technology",male,16187000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140324,bortnak james,120919114022768,Co-President and Corp & BusDev,male,16187000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140423,bortnak james,120919114028915,Co-President and Corp & BusDev,male,0.0
-5330.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20140430,mcbride kenneth thomas,120919114029993,Chairman & CEO,male,0.0
-696524.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20140519,ananda mohan p,120919114035285,,male,0.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140522,bortnak james,120919114036295,Co-President and Corp & BusDev,male,0.0
-0.0,615938.0,1082923,stamps.com inc,1,0,0,0.0,20140613,miller lloyd i iii,120919114041260,,male,0.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20140613,ananda mohan p,120919114041403,,male,0.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20140613,jones g bradford,120919114041421,,male,0.0
-622.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140804,biswas michael john,120919114050357,Chief Technology Officer,male,15875163.0
-2130.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140804,clem john roland,120919114050360,Chief Product & Strategy Offic,male,15875163.0
-1169.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140804,huebner kyle,120919114050363,CFO & Co-President,female,15875163.0
-6548.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20140804,leon jp,120919114050365,"VP, Postal Affairs &",male,15875163.0
-5601.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20140804,mcbride kenneth thomas,120919114050367,Chairman & CEO,male,15875163.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20140804,weisberg seth,120919114050368,Chief Legal Officer,male,15875163.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140923,clem john roland,120919114059480,Chief Product & Strategy Offic,male,15875163.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140923,huebner kyle,120919114059476,CFO & Co-President,female,15875163.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20140923,weisberg seth,120919114059479,Chief Legal Officer,male,15875163.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140923,biswas michael john,120919114059478,Chief Technology Officer,male,15875163.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20140923,bortnak james,120919114059477,Co-President and Corp & BusDev,male,15875163.0
-0.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20140923,mcbride kenneth thomas,120919114059475,Chairman & CEO,male,15875163.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20140923,leon jp,120919114059481,"VP, Postal Affairs &",male,15875163.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141103,weisberg seth,120919114065752,Chief Legal Officer,male,0.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141110,weisberg seth,120919114067647,Chief Legal Officer,male,0.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141113,weisberg seth,120919114068501,Chief Legal Officer,male,0.0
-44786.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20141114,jones g bradford,120919114068857,,male,0.0
+10490.0,,1082923,stamps.com inc,0,1,0,1.0,20131028,weisberg seth,120919113049560,Chief Legal Officer,male,16043000.0
+24786.0,,1082923,stamps.com inc,1,0,0,0.0,20131030,jones g bradford,120919113049873,,male,16043000.0
+1543.0,,1082923,stamps.com inc,0,1,0,0.0,20131202,clem john roland,120919113054781,Chief Product & Strategy Offic,male,16043000.0
+5448.0,,1082923,stamps.com inc,1,1,0,0.0,20131224,mcbride kenneth thomas,120919113058596,Chairman & CEO,male,16043000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20131224,bortnak james,120919113058597,Co-President and Corp & BusDev,male,16043000.0
+570.0,,1082923,stamps.com inc,0,1,0,0.0,20131231,huebner kyle,120919113058966,CFO & Co-President,female,16187000.0
+686524.0,,1082923,stamps.com inc,1,0,0,0.0,20140117,ananda mohan p,120919114003810,,male,16187000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20140123,bortnak james,120919114004690,Co-President and Corp & BusDev,male,16187000.0
+5448.0,,1082923,stamps.com inc,1,1,0,0.0,20140123,mcbride kenneth thomas,120919114004689,Chairman & CEO,male,16187000.0
+6329.0,,1082923,stamps.com inc,0,1,0,1.0,20140204,leon jp,120919114007263,"VP, Postal Affairs &",male,16187000.0
+934.0,,1082923,stamps.com inc,0,1,0,0.0,20140204,huebner kyle,120919114007264,CFO & Co-President,female,16187000.0
+295.0,,1082923,stamps.com inc,0,1,0,0.0,20140204,biswas michael john,120919114007265,Chief Technology Officer,male,16187000.0
+10875.0,,1082923,stamps.com inc,0,1,0,1.0,20140204,weisberg seth,120919114007266,Chief Legal Officer,male,16187000.0
+573.0,,1082923,stamps.com inc,0,1,0,0.0,20140204,bortnak james,120919114007267,Co-President and Corp & BusDev,male,16187000.0
+1463.0,,1082923,stamps.com inc,0,1,0,0.0,20140204,patchen michael robert,120919114007268,"VP, Information Technology",male,16187000.0
+1999.0,,1082923,stamps.com inc,0,1,0,0.0,20140204,clem john roland,120919114007269,Chief Product & Strategy Offic,male,16187000.0
+5780.0,,1082923,stamps.com inc,1,1,0,0.0,20140204,mcbride kenneth thomas,120919114007262,Chairman & CEO,male,16187000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20140224,bortnak james,120919114013626,Co-President and Corp & BusDev,male,16187000.0
+1463.0,,1082923,stamps.com inc,0,1,0,0.0,20140303,patchen michael robert,120919114016012,"VP, Information Technology",male,16187000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20140324,bortnak james,120919114022768,Co-President and Corp & BusDev,male,16187000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20140423,bortnak james,120919114028915,Co-President and Corp & BusDev,male,0.0
+5330.0,,1082923,stamps.com inc,1,1,0,0.0,20140430,mcbride kenneth thomas,120919114029993,Chairman & CEO,male,0.0
+696524.0,,1082923,stamps.com inc,1,0,0,0.0,20140519,ananda mohan p,120919114035285,,male,0.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20140522,bortnak james,120919114036295,Co-President and Corp & BusDev,male,0.0
+,,1082923,stamps.com inc,1,0,0,0.0,20140613,ananda mohan p,120919114041403,,male,0.0
+,615938.0,1082923,stamps.com inc,1,0,0,0.0,20140613,miller lloyd i iii,120919114041260,,male,0.0
+,,1082923,stamps.com inc,1,0,0,0.0,20140613,jones g bradford,120919114041421,,male,0.0
+2130.0,,1082923,stamps.com inc,0,1,0,0.0,20140804,clem john roland,120919114050360,Chief Product & Strategy Offic,male,15875163.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20140804,weisberg seth,120919114050368,Chief Legal Officer,male,15875163.0
+622.0,,1082923,stamps.com inc,0,1,0,0.0,20140804,biswas michael john,120919114050357,Chief Technology Officer,male,15875163.0
+6548.0,,1082923,stamps.com inc,0,1,0,1.0,20140804,leon jp,120919114050365,"VP, Postal Affairs &",male,15875163.0
+1169.0,,1082923,stamps.com inc,0,1,0,0.0,20140804,huebner kyle,120919114050363,CFO & Co-President,female,15875163.0
+5601.0,,1082923,stamps.com inc,1,1,0,0.0,20140804,mcbride kenneth thomas,120919114050367,Chairman & CEO,male,15875163.0
+,,1082923,stamps.com inc,1,1,0,0.0,20140923,mcbride kenneth thomas,120919114059475,Chairman & CEO,male,15875163.0
+,,1082923,stamps.com inc,0,1,0,0.0,20140923,huebner kyle,120919114059476,CFO & Co-President,female,15875163.0
+,,1082923,stamps.com inc,0,1,0,0.0,20140923,bortnak james,120919114059477,Co-President and Corp & BusDev,male,15875163.0
+,,1082923,stamps.com inc,0,1,0,0.0,20140923,biswas michael john,120919114059478,Chief Technology Officer,male,15875163.0
+,,1082923,stamps.com inc,0,1,0,1.0,20140923,weisberg seth,120919114059479,Chief Legal Officer,male,15875163.0
+,,1082923,stamps.com inc,0,1,0,0.0,20140923,clem john roland,120919114059480,Chief Product & Strategy Offic,male,15875163.0
+,,1082923,stamps.com inc,0,1,0,1.0,20140923,leon jp,120919114059481,"VP, Postal Affairs &",male,15875163.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141103,weisberg seth,120919114065752,Chief Legal Officer,male,0.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141110,weisberg seth,120919114067647,Chief Legal Officer,male,0.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141113,weisberg seth,120919114068501,Chief Legal Officer,male,0.0
+44786.0,,1082923,stamps.com inc,1,0,0,0.0,20141114,jones g bradford,120919114068857,,male,0.0
 224406.0,615938.0,1082923,stamps.com inc,1,0,0,0.0,20141119,miller lloyd i iii,120919114069946,,male,0.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141209,weisberg seth,120919114073984,Chief Legal Officer,male,0.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141209,weisberg seth,120919114073985,Chief Legal Officer,male,0.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141212,weisberg seth,120919114075041,Chief Legal Officer,male,0.0
-11086.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20141217,weisberg seth,120919114076409,Chief Legal Officer,male,0.0
-600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150203,bortnak james,120919115009135,Co-President and Corp & BusDev,male,15997000.0
-1746.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150203,huebner kyle,120919115009131,CFO & Co-President,female,15997000.0
-6201.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20150203,mcbride kenneth thomas,120919115009127,Chairman & CEO,male,15997000.0
-946.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150203,biswas michael john,120919115009136,Chief Technology Officer,male,15997000.0
-7016.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150203,leon jp,120919115009129,"VP, Postal Affairs &",male,15997000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150203,weisberg seth,120919115009125,Chief Legal Officer,male,15997000.0
-2712.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150203,clem john roland,120919115009133,Chief Product & Strategy Offic,male,15997000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150217,weisberg seth,120919115014805,Chief Legal Officer,male,15997000.0
-600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150226,bortnak james,120919115019069,Co-President and Corp & BusDev,male,15997000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150304,weisberg seth,120919115022593,Chief Legal Officer,male,15997000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150306,weisberg seth,120919115023689,Chief Legal Officer,male,15997000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150320,weisberg seth,120919115028294,Chief Legal Officer,male,15997000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150327,weisberg seth,120919115029996,Chief Legal Officer,male,15997000.0
-701524.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20150409,ananda mohan p,120919115033450,,male,16358000.0
-0.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20150413,mcbride kenneth thomas,120919115033861,Chairman & CEO,male,16358000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150413,huebner kyle,120919115033860,CFO & Co-President,female,16358000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150413,weisberg seth,120919115033862,Chief Legal Officer,male,16358000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150413,bortnak james,120919115033858,Co-President and Corp & BusDev,male,16358000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150413,biswas michael john,120919115033857,Chief Technology Officer,male,16358000.0
-0.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150413,clem john roland,120919115033859,Chief Product & Strategy Offic,male,16358000.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150512,weisberg seth,120919115041950,Chief Legal Officer,male,16363292.0
-5926.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20150514,mcbride kenneth thomas,120919115042977,Chairman & CEO,male,16363292.0
-44786.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20150515,jones g bradford,120919115043488,,male,16363292.0
-2712.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150515,clem john roland,120919115043491,Chief Product & Strategy Offic,male,16363292.0
-2712.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150518,clem john roland,120919115043969,Chief Product & Strategy Offic,male,16363292.0
-713.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150519,clem john roland,120919115044634,Chief Product & Strategy Offic,male,16363292.0
-600.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150528,bortnak james,120919115047708,Co-President and Corp & BusDev,male,16363292.0
-1484.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150603,huebner kyle,120919115049863,CFO & Co-President,female,16363292.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141209,weisberg seth,120919114073984,Chief Legal Officer,male,0.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141209,weisberg seth,120919114073985,Chief Legal Officer,male,0.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141212,weisberg seth,120919114075041,Chief Legal Officer,male,0.0
+11086.0,,1082923,stamps.com inc,0,1,0,1.0,20141217,weisberg seth,120919114076409,Chief Legal Officer,male,0.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150203,weisberg seth,120919115009125,Chief Legal Officer,male,15997000.0
+6201.0,,1082923,stamps.com inc,1,1,0,0.0,20150203,mcbride kenneth thomas,120919115009127,Chairman & CEO,male,15997000.0
+7016.0,,1082923,stamps.com inc,0,1,0,1.0,20150203,leon jp,120919115009129,"VP, Postal Affairs &",male,15997000.0
+1746.0,,1082923,stamps.com inc,0,1,0,0.0,20150203,huebner kyle,120919115009131,CFO & Co-President,female,15997000.0
+2712.0,,1082923,stamps.com inc,0,1,0,0.0,20150203,clem john roland,120919115009133,Chief Product & Strategy Offic,male,15997000.0
+600.0,,1082923,stamps.com inc,0,1,0,0.0,20150203,bortnak james,120919115009135,Co-President and Corp & BusDev,male,15997000.0
+946.0,,1082923,stamps.com inc,0,1,0,0.0,20150203,biswas michael john,120919115009136,Chief Technology Officer,male,15997000.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150217,weisberg seth,120919115014805,Chief Legal Officer,male,15997000.0
+600.0,,1082923,stamps.com inc,0,1,0,0.0,20150226,bortnak james,120919115019069,Co-President and Corp & BusDev,male,15997000.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150304,weisberg seth,120919115022593,Chief Legal Officer,male,15997000.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150306,weisberg seth,120919115023689,Chief Legal Officer,male,15997000.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150320,weisberg seth,120919115028294,Chief Legal Officer,male,15997000.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150327,weisberg seth,120919115029996,Chief Legal Officer,male,15997000.0
+701524.0,,1082923,stamps.com inc,1,0,0,0.0,20150409,ananda mohan p,120919115033450,,male,16358000.0
+,,1082923,stamps.com inc,0,1,0,1.0,20150413,weisberg seth,120919115033862,Chief Legal Officer,male,16358000.0
+,,1082923,stamps.com inc,1,1,0,0.0,20150413,mcbride kenneth thomas,120919115033861,Chairman & CEO,male,16358000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20150413,biswas michael john,120919115033857,Chief Technology Officer,male,16358000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20150413,clem john roland,120919115033859,Chief Product & Strategy Offic,male,16358000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20150413,huebner kyle,120919115033860,CFO & Co-President,female,16358000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20150413,bortnak james,120919115033858,Co-President and Corp & BusDev,male,16358000.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150512,weisberg seth,120919115041950,Chief Legal Officer,male,16363292.0
+5926.0,,1082923,stamps.com inc,1,1,0,0.0,20150514,mcbride kenneth thomas,120919115042977,Chairman & CEO,male,16363292.0
+44786.0,,1082923,stamps.com inc,1,0,0,0.0,20150515,jones g bradford,120919115043488,,male,16363292.0
+2712.0,,1082923,stamps.com inc,0,1,0,0.0,20150515,clem john roland,120919115043491,Chief Product & Strategy Offic,male,16363292.0
+2712.0,,1082923,stamps.com inc,0,1,0,0.0,20150518,clem john roland,120919115043969,Chief Product & Strategy Offic,male,16363292.0
+713.0,,1082923,stamps.com inc,0,1,0,0.0,20150519,clem john roland,120919115044634,Chief Product & Strategy Offic,male,16363292.0
+600.0,,1082923,stamps.com inc,0,1,0,0.0,20150528,bortnak james,120919115047708,Co-President and Corp & BusDev,male,16363292.0
+1484.0,,1082923,stamps.com inc,0,1,0,0.0,20150603,huebner kyle,120919115049863,CFO & Co-President,female,16363292.0
 223706.0,615938.0,1082923,stamps.com inc,1,0,0,0.0,20150618,miller lloyd i iii,120919115054633,,male,16363292.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20150619,ananda mohan p,120919115055195,,male,16363292.0
-0.0,0.0,1082923,stamps.com inc,1,0,0,0.0,20150619,jones g bradford,120919115055196,,male,16363292.0
-11686.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150625,weisberg seth,120919115056527,Chief Legal Officer,male,16363292.0
-6065.0,0.0,1082923,stamps.com inc,1,1,0,0.0,20150804,mcbride kenneth thomas,120919115063802,Chairman & CEO,male,16489489.0
-7246.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150804,leon jp,120919115063800,"VP, Postal Affairs &",male,16489489.0
-865.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150804,clem john roland,120919115063797,Chief Product & Strategy Offic,male,16489489.0
-1639.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150804,huebner kyle,120919115063799,CFO & Co-President,female,16489489.0
-739.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150804,bortnak james,120919115063796,Co-President and Corp & BusDev,male,16489489.0
-1275.0,0.0,1082923,stamps.com inc,0,1,0,0.0,20150804,biswas michael john,120919115063794,Chief Technology Officer,male,16489489.0
-18814.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150804,weisberg seth,120919115063803,Chief Legal Officer,male,16489489.0
+,,1082923,stamps.com inc,1,0,0,0.0,20150619,jones g bradford,120919115055196,,male,16363292.0
+,,1082923,stamps.com inc,1,0,0,0.0,20150619,ananda mohan p,120919115055195,,male,16363292.0
+11686.0,,1082923,stamps.com inc,0,1,0,1.0,20150625,weisberg seth,120919115056527,Chief Legal Officer,male,16363292.0
+1275.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,biswas michael john,120919115063794,Chief Technology Officer,male,16489489.0
+865.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,clem john roland,120919115063797,Chief Product & Strategy Offic,male,16489489.0
+18814.0,,1082923,stamps.com inc,0,1,0,1.0,20150804,weisberg seth,120919115063803,Chief Legal Officer,male,16489489.0
+6065.0,,1082923,stamps.com inc,1,1,0,0.0,20150804,mcbride kenneth thomas,120919115063802,Chairman & CEO,male,16489489.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20150804,leon jp,120919115063800,"VP, Postal Affairs &",male,16489489.0
+1639.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,huebner kyle,120919115063799,CFO & Co-President,female,16489489.0
+865.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,clem john roland,120919115063797,Chief Product & Strategy Offic,male,16489489.0
+739.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,bortnak james,120919115063796,Co-President and Corp & BusDev,male,16489489.0
+1275.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,biswas michael john,120919115063794,Chief Technology Officer,male,16489489.0
+1639.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,huebner kyle,120919115063799,CFO & Co-President,female,16489489.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20150804,leon jp,120919115063800,"VP, Postal Affairs &",male,16489489.0
+6065.0,,1082923,stamps.com inc,1,1,0,0.0,20150804,mcbride kenneth thomas,120919115063802,Chairman & CEO,male,16489489.0
+18814.0,,1082923,stamps.com inc,0,1,0,1.0,20150804,weisberg seth,120919115063803,Chief Legal Officer,male,16489489.0
+739.0,,1082923,stamps.com inc,0,1,0,0.0,20150804,bortnak james,120919115063796,Co-President and Corp & BusDev,male,16489489.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20150811,leon jp,120919115065387,"VP, Postal Affairs &",male,16489489.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20150811,leon jp,120919115065387,"VP, Postal Affairs &",male,16489489.0
+18814.0,,1082923,stamps.com inc,0,1,0,1.0,20150811,weisberg seth,120919115065385,Chief Legal Officer,male,16489489.0
 208658.0,45920.0,1082923,stamps.com inc,1,0,0,0.0,20150811,miller lloyd i iii,120919115065247,,male,16489489.0
-18814.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150811,weisberg seth,120919115065385,Chief Legal Officer,male,16489489.0
-7246.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150811,leon jp,120919115065387,"VP, Postal Affairs &",male,16489489.0
-7246.0,0.0,1082923,stamps.com inc,0,1,0,1.0,20150819,leon jp,120919115067008,"VP, Postal Affairs &",male,16489489.0
+208658.0,45920.0,1082923,stamps.com inc,1,0,0,0.0,20150811,miller lloyd i iii,120919115065247,,male,16489489.0
+18814.0,,1082923,stamps.com inc,0,1,0,1.0,20150811,weisberg seth,120919115065385,Chief Legal Officer,male,16489489.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20150819,leon jp,120919115067008,"VP, Postal Affairs &",male,16489489.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20150819,leon jp,120919115067008,"VP, Postal Affairs &",male,16489489.0
+739.0,,1082923,stamps.com inc,0,1,0,0.0,20151110,bortnak james,120919115079426,Co-President and Corp & BusDev,male,16600610.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20151110,leon jp,120919115079427,"VP, Postal Affairs &",male,16600610.0
+26539.0,439217.0,1082923,stamps.com inc,1,0,0,0.0,20151112,miller lloyd i iii,120919115079606,,male,16600610.0
+10539.0,439217.0,1082923,stamps.com inc,1,0,0,0.0,20151124,miller lloyd i iii,120919115081913,,male,16600610.0
+739.0,,1082923,stamps.com inc,0,1,0,0.0,20151125,bortnak james,120919115082317,Co-President and Corp & BusDev,male,16600610.0
+7246.0,,1082923,stamps.com inc,0,1,0,1.0,20151224,leon jp,120919115086987,"VP, Postal Affairs &",male,16600610.0
+739.0,,1082923,stamps.com inc,0,1,0,0.0,20151224,bortnak james,120919115086988,Co-President and Corp & BusDev,male,16600610.0
+711524.0,,1082923,stamps.com inc,1,0,0,0.0,20160107,ananda mohan p,120919116090413,,male,16697000.0
+739.0,,1082923,stamps.com inc,0,1,0,0.0,20160127,bortnak james,120919116093860,Co-President and Corp & BusDev,male,16697000.0
+19168.0,,1082923,stamps.com inc,0,1,0,1.0,20160202,weisberg seth,120919116095062,Chief Legal Officer,male,16712407.0
+7467.0,,1082923,stamps.com inc,0,1,0,1.0,20160202,leon jp,120919116094930,"VP, Postal Affairs &",male,16712407.0
+1433.0,,1082923,stamps.com inc,0,1,0,0.0,20160202,biswas michael john,120919116094935,Chief Technology Officer,male,16712407.0
+6367.0,,1082923,stamps.com inc,1,1,0,0.0,20160202,mcbride kenneth thomas,120919116095061,Chairman & CEO,male,16712407.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160202,bortnak james,120919116095056,Co-President and Corp & BusDev,male,16712407.0
+1219.0,,1082923,stamps.com inc,0,1,0,0.0,20160202,clem john roland,120919116095058,Chief Product & Strategy Offic,male,16712407.0
+1914.0,,1082923,stamps.com inc,0,1,0,0.0,20160202,huebner kyle,120919116095060,CFO & Co-President,female,16712407.0
+721524.0,,1082923,stamps.com inc,1,0,0,0.0,20160218,ananda mohan p,120919116100075,,male,16712407.0
+215542.0,522486.0,1082923,stamps.com inc,1,0,0,0.0,20160225,miller lloyd i iii,120919116102198,,male,16712407.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160226,bortnak james,120919116103093,Co-President and Corp & BusDev,male,16712407.0
+16052.0,,1082923,stamps.com inc,0,1,0,0.0,20160229,huebner kyle,120919116103546,CFO & Co-President,female,16712407.0
+49786.0,,1082923,stamps.com inc,1,0,0,0.0,20160229,jones g bradford,120919116103547,,male,16712407.0
+115458.0,21920.0,1082923,stamps.com inc,1,0,0,0.0,20160229,miller lloyd i iii,120919116103308,,male,16712407.0
+13561.0,,1082923,stamps.com inc,1,1,0,0.0,20160229,mcbride kenneth thomas,120919116103548,Chairman & CEO,male,16712407.0
+107271.0,21920.0,1082923,stamps.com inc,1,0,0,0.0,20160303,miller lloyd i iii,120919116105087,,male,16712407.0
+7467.0,,1082923,stamps.com inc,0,1,0,1.0,20160303,leon jp,120919116105649,"VP, Postal Affairs &",male,16712407.0
+19168.0,,1082923,stamps.com inc,0,1,0,1.0,20160303,weisberg seth,120919116105654,Chief Legal Officer,male,16712407.0
+105874.0,21920.0,1082923,stamps.com inc,1,0,0,0.0,20160307,miller lloyd i iii,120919116106467,,male,16712407.0
+105350.0,21920.0,1082923,stamps.com inc,1,0,0,0.0,20160308,miller lloyd i iii,120919116106895,,male,16712407.0
+57286.0,,1082923,stamps.com inc,1,0,0,0.0,20160317,jones g bradford,120919116109223,,male,16712407.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160328,bortnak james,120919116110809,Co-President and Corp & BusDev,male,16712407.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160427,bortnak james,120919116115988,Co-President and Corp & BusDev,male,17476000.0
+7389.0,,1082923,stamps.com inc,0,1,0,0.0,20160518,clem john roland,120919116121241,Chief Product & Strategy Offic,male,17446820.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160526,bortnak james,120919116123765,Co-President and Corp & BusDev,male,17446820.0
+,,1082923,stamps.com inc,1,0,0,0.0,20160614,ananda mohan p,120919116127760,,male,17446820.0
+,,1082923,stamps.com inc,1,0,0,0.0,20160615,jones g bradford,120919116128058,,male,17446820.0
+,422971.0,1082923,stamps.com inc,1,0,0,0.0,20160615,miller lloyd i iii,120919116127921,,male,17446820.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160627,bortnak james,120919116129673,Co-President and Corp & BusDev,male,17446820.0
+15887.0,,1082923,stamps.com inc,0,1,0,0.0,20160630,huebner kyle,120919116130299,CFO & Co-President,female,17229000.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160728,bortnak james,120919116134229,Co-President and Corp & BusDev,male,17229000.0
+1578.0,,1082923,stamps.com inc,0,1,0,0.0,20160802,biswas michael john,120919116135009,Chief Technology Officer,male,17268281.0
+15945.0,,1082923,stamps.com inc,0,1,0,0.0,20160802,huebner kyle,120919116135011,CFO & Co-President,female,17268281.0
+7565.0,,1082923,stamps.com inc,0,1,0,1.0,20160802,leon jp,120919116135013,"VP, Postal Affairs &",male,17268281.0
+13599.0,,1082923,stamps.com inc,1,1,0,0.0,20160802,mcbride kenneth thomas,120919116135015,Chairman & CEO,male,17268281.0
+22253.0,,1082923,stamps.com inc,0,1,0,1.0,20160810,weisberg seth,120919116136417,Chief Legal Officer,male,17268281.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160825,bortnak james,120919116138599,Co-President and Corp & BusDev,male,17268281.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20160927,bortnak james,120919116142901,Co-President and Corp & BusDev,male,17268281.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20161024,bortnak james,120919116146794,Co-President and Corp & BusDev,male,17131000.0
+,,1082923,stamps.com inc,1,0,0,0.0,20161027,habiger david c,120919116147129,,male,17131000.0
+13374.0,,1082923,stamps.com inc,1,1,0,0.0,20161031,mcbride kenneth thomas,120919116147401,Chairman & CEO,male,17052401.0
+29306.0,358665.0,1082923,stamps.com inc,1,0,0,0.0,20161116,miller lloyd i iii,120919116150473,,male,17052401.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20161128,bortnak james,120919116152144,Co-President and Corp & BusDev,male,17052401.0
+153915.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20161206,miller lloyd i iii,120919116153566,,male,17052401.0
+195269.0,337971.0,1082923,stamps.com inc,1,0,0,0.0,20161208,miller lloyd i iii,120919116154070,,male,17052401.0
+138915.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20161214,miller lloyd i iii,120919116155105,,male,17052401.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20161227,bortnak james,120919116156740,Co-President and Corp & BusDev,male,17052401.0
+,,1082923,stamps.com inc,1,0,0,0.0,20170104,samuels theodore r. ii,120919117001306,,male,16897000.0
+1093.0,,1082923,stamps.com inc,0,1,0,0.0,20170125,bortnak james,120919117005474,Co-President and Corp & BusDev,male,16897000.0
+132165.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170126,miller lloyd i iii,120919117005688,,male,16897000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20170203,rifai steve,120919117007951,Sr. VP-Sales & Customer Dev.,male,16847816.0
+125415.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170208,miller lloyd i iii,120919117008578,,male,16847816.0
+22572.0,,1082923,stamps.com inc,0,1,0,1.0,20170209,weisberg seth,120919117009254,Chief Legal Officer,male,16847816.0
+13693.0,,1082923,stamps.com inc,1,1,0,0.0,20170209,mcbride kenneth thomas,120919117009252,Chairman & CEO,male,16847816.0
+172.0,,1082923,stamps.com inc,0,1,0,0.0,20170209,khechfe amine,120919117009251,Chief Strategy Officer,male,16847816.0
+16218.0,,1082923,stamps.com inc,0,1,0,0.0,20170209,huebner kyle,120919117009250,CFO & Co-President,female,16847816.0
+7708.0,,1082923,stamps.com inc,0,1,0,0.0,20170209,clem john roland,120919117009249,Chief Product & Strategy Offic,male,16847816.0
+1412.0,,1082923,stamps.com inc,0,1,0,0.0,20170209,bortnak james,120919117009246,Co-President and Corp & BusDev,male,16847816.0
+1897.0,,1082923,stamps.com inc,0,1,0,0.0,20170209,biswas michael john,120919117009245,Chief Technology Officer,male,16847816.0
+111915.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170210,miller lloyd i iii,120919117009492,,male,16847816.0
+111909.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170213,miller lloyd i iii,120919117009950,,male,16847816.0
+105165.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170216,miller lloyd i iii,120919117011351,,male,16847816.0
+84915.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170217,miller lloyd i iii,120919117011921,,male,16847816.0
+16218.0,,1082923,stamps.com inc,0,1,0,0.0,20170217,huebner kyle,120919117012410,CFO & Co-President,female,16847816.0
+105165.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170222,miller lloyd i iii,120919117013063,,male,16847816.0
+111265.0,184056.0,1082923,stamps.com inc,1,0,0,0.0,20170224,miller lloyd i iii,120919117014169,,male,16847816.0
+1412.0,,1082923,stamps.com inc,0,1,0,0.0,20170227,bortnak james,120919117014633,Co-President and Corp & BusDev,male,16847816.0
+22572.0,,1082923,stamps.com inc,0,1,0,1.0,20170303,weisberg seth,120919117017161,Chief Legal Officer,male,16847816.0
+7006.0,,1082923,stamps.com inc,1,1,0,0.0,20170310,mcbride kenneth thomas,120919117020006,Chairman & CEO,male,16847816.0
+2080.0,,1082923,stamps.com inc,0,1,0,0.0,20170316,huebner kyle,120919117021215,CFO & Co-President,female,16847816.0
+2006.0,,1082923,stamps.com inc,1,1,0,0.0,20170320,mcbride kenneth thomas,120919117021636,Chairman & CEO,male,16847816.0
+6995.0,,1082923,stamps.com inc,0,1,0,0.0,20170320,clem john roland,120919117021635,Chief Product & Strategy Offic,male,16847816.0
+1985.0,,1082923,stamps.com inc,0,1,0,0.0,20170328,bortnak james,120919117023183,Co-President and Corp & BusDev,male,16847816.0
+67286.0,,1082923,stamps.com inc,1,0,0,0.0,20170403,jones g bradford,120919117024329,,male,17076000.0
+2006.0,,1082923,stamps.com inc,1,1,0,0.0,20170419,mcbride kenneth thomas,120919117027479,Chairman & CEO,male,17076000.0
+1985.0,,1082923,stamps.com inc,0,1,0,0.0,20170426,bortnak james,120919117028270,Co-President and Corp & BusDev,male,17076000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20170427,clem john roland,120919117028515,Chief Product & Strategy Offic,male,17076000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20170427,biswas michael john,120919117028514,Chief Technology Officer,male,17076000.0
+,,1082923,stamps.com inc,1,1,0,0.0,20170427,mcbride kenneth thomas,120919117028518,Chairman & CEO,male,17076000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20170427,huebner kyle,120919117028517,CFO & Co-President,female,17076000.0
+172.0,,1082923,stamps.com inc,0,1,0,0.0,20170505,khechfe amine,120919117030388,Chief Strategy Officer,male,16938004.0
+10080.0,,1082923,stamps.com inc,0,1,0,0.0,20170518,clem john roland,120919117033507,Chief Product & Strategy Offic,male,16938004.0
+1985.0,,1082923,stamps.com inc,0,1,0,0.0,20170526,bortnak james,120919117035831,Co-President and Corp & BusDev,male,16938004.0
+22572.0,,1082923,stamps.com inc,0,1,0,1.0,20170526,weisberg seth,120919117036003,Chief Legal Officer,male,16938004.0
+172.0,,1082923,stamps.com inc,0,1,0,0.0,20170602,khechfe amine,120919117037392,Chief Strategy Officer,male,16938004.0
+3910.0,,1082923,stamps.com inc,0,1,0,0.0,20170609,clem john roland,120919117039020,Chief Product & Strategy Offic,male,16938004.0
+1360.0,,1082923,stamps.com inc,0,1,0,0.0,20170614,huebner kyle,120919117039867,CFO & Co-President,female,16938004.0
+,242621.0,1082923,stamps.com inc,1,0,0,0.0,20170615,miller lloyd i iii,120919117040062,,male,16938004.0
+,,1082923,stamps.com inc,1,0,0,0.0,20170616,habiger david c,120919117040611,,male,16938004.0
+,,1082923,stamps.com inc,1,0,0,0.0,20170616,jones g bradford,120919117040614,,male,16938004.0
+,,1082923,stamps.com inc,1,0,0,0.0,20170616,samuels theodore r. ii,120919117040617,,male,16938004.0
+701524.0,,1082923,stamps.com inc,1,0,0,0.0,20170616,ananda mohan p,120919117040620,,male,16938004.0
+22572.0,,1082923,stamps.com inc,0,1,0,1.0,20170620,weisberg seth,120919117041152,Chief Legal Officer,male,16938004.0
+1985.0,,1082923,stamps.com inc,0,1,0,0.0,20170628,bortnak james,120919117042120,Co-President and Corp & BusDev,male,16938004.0
+172.0,,1082923,stamps.com inc,0,1,0,0.0,20170705,khechfe amine,120919117043750,Chief Strategy Officer,male,16932000.0
+1985.0,,1082923,stamps.com inc,0,1,0,0.0,20170726,bortnak james,120919117046345,Co-President and Corp & BusDev,male,16932000.0
+242.0,,1082923,stamps.com inc,0,1,0,0.0,20170802,khechfe amine,120919117047184,Chief Strategy Officer,male,16908987.0
+1389.0,,1082923,stamps.com inc,0,1,0,0.0,20170802,huebner kyle,120919117047185,President,female,16908987.0
+,,1082923,stamps.com inc,0,1,0,0.0,20170802,carberry jeffrey,120919117047190,Chief Financial Officer,male,16908987.0
+22572.0,,1082923,stamps.com inc,0,1,0,1.0,20170804,weisberg seth,120919117047794,Chief Legal Officer,male,16908987.0
+40286.0,,1082923,stamps.com inc,1,0,0,0.0,20170809,jones g bradford,120919117048244,,male,16908987.0
+661524.0,,1082923,stamps.com inc,1,0,0,0.0,20170815,ananda mohan p,120919117049063,,male,16908987.0
+0.0,241621.0,1082923,stamps.com inc,1,0,0,0.0,20170825,miller lloyd i iii,120919117050258,,male,16908987.0
+2989.0,212315.0,1082923,stamps.com inc,1,0,0,0.0,20170829,miller lloyd i iii,120919117050502,,male,16908987.0
+0.0,212315.0,1082923,stamps.com inc,1,0,0,0.0,20170830,miller lloyd i iii,120919117050684,,male,16908987.0
+0.0,201934.0,1082923,stamps.com inc,1,0,0,0.0,20170831,miller lloyd i iii,120919117050856,,male,16908987.0
+47565.0,150750.0,1082923,stamps.com inc,1,0,0,0.0,20170901,miller lloyd i iii,120919117051029,,male,16908987.0
+242.0,,1082923,stamps.com inc,0,1,0,0.0,20170905,khechfe amine,120919117051450,Chief Strategy Officer,male,16908987.0
+38565.0,150750.0,1082923,stamps.com inc,1,0,0,0.0,20170905,miller lloyd i iii,120919117051166,,male,16908987.0
+13019.0,151296.0,1082923,stamps.com inc,1,0,0,0.0,20170908,miller lloyd i iii,120919117052004,,male,16908987.0
+295.0,,1082923,stamps.com inc,0,1,0,0.0,20170913,biswas michael john,120919117052732,Chief Technology Officer,male,16908987.0
+319.0,,1082923,stamps.com inc,0,1,0,0.0,20170913,buerba sebastian,120919117052731,Chief Marketing Officer,male,16908987.0
+295.0,,1082923,stamps.com inc,0,1,0,0.0,20170922,biswas michael john,120919117053790,Chief Technology Officer,male,16908987.0
+3910.0,,1082923,stamps.com inc,0,1,0,0.0,20170922,clem john roland,120919117053789,Chief Product & Strategy Offic,male,16908987.0
+242.0,,1082923,stamps.com inc,0,1,0,0.0,20171004,khechfe amine,120919117056041,Chief Strategy Officer,male,17337000.0
+3910.0,,1082923,stamps.com inc,0,1,0,0.0,20171005,clem john roland,120919117056245,Chief Product & Strategy Offic,male,17337000.0
+3910.0,,1082923,stamps.com inc,0,1,0,0.0,20171013,clem john roland,120919117056935,Chief Product & Strategy Offic,male,17337000.0
+1866.0,,1082923,stamps.com inc,1,1,0,0.0,20171018,mcbride kenneth thomas,120919117057304,Chairman & CEO,male,17337000.0
+295.0,,1082923,stamps.com inc,0,1,0,0.0,20171025,biswas michael john,120919117057976,Chief Technology Officer,male,17337000.0
+9433.0,,1082923,stamps.com inc,0,1,0,0.0,20171025,carberry jeffrey,120919117057975,Chief Financial Officer,male,17337000.0
+319.0,,1082923,stamps.com inc,0,1,0,0.0,20171026,buerba sebastian,120919117058080,Chief Marketing Officer,male,17337000.0
+5500.0,,1082923,stamps.com inc,0,1,0,0.0,20171026,clem john roland,120919117058079,Chief Product & Strategy Offic,male,17337000.0
+242.0,,1082923,stamps.com inc,0,1,0,0.0,20171103,khechfe amine,120919117059172,Chief Strategy Officer,male,17478768.0
+25657.0,,1082923,stamps.com inc,0,1,0,1.0,20171109,weisberg seth,120919117060027,Chief Legal Officer,male,17478768.0
+1866.0,,1082923,stamps.com inc,1,1,0,0.0,20171129,mcbride kenneth thomas,120919117062869,Chairman & CEO,male,17478768.0
+661524.0,,1082923,stamps.com inc,1,0,0,0.0,20171201,ananda mohan p,120919117063191,,male,17478768.0
+242.0,,1082923,stamps.com inc,0,1,0,0.0,20171205,khechfe amine,120919117063983,Chief Strategy Officer,male,17478768.0
+1866.0,,1082923,stamps.com inc,1,1,0,0.0,20171220,mcbride kenneth thomas,120919117066676,Chairman & CEO,male,17478768.0
+939.0,,1082923,stamps.com inc,0,1,0,0.0,20171227,huebner kyle,120919117067428,President,female,17478768.0
+242.0,,1082923,stamps.com inc,0,1,0,0.0,20180104,khechfe amine,120919118001995,Chief Strategy Officer,male,17573000.0
+1931.0,,1082923,stamps.com inc,0,1,0,0.0,20180118,lipson matthew a.,120919118004313,Chief Legal Officer/ Secretary,male,17573000.0
+4029.0,,1082923,stamps.com inc,0,1,0,0.0,20180202,clem john roland,120919118006832,Chief Product & Strategy Offic,male,17562527.0
+483.0,,1082923,stamps.com inc,0,1,0,0.0,20180202,buerba sebastian,120919118006836,Chief Marketing Officer,male,17562527.0
+1042.0,,1082923,stamps.com inc,0,1,0,0.0,20180202,huebner kyle,120919118006838,President,female,17562527.0
+2030.0,,1082923,stamps.com inc,1,1,0,0.0,20180202,mcbride kenneth thomas,120919118006842,Chairman & CEO,male,17562527.0
+297.0,,1082923,stamps.com inc,0,1,0,0.0,20180202,khechfe amine,120919118006845,Chief Strategy Officer,male,17562527.0
+9576.0,,1082923,stamps.com inc,0,1,0,0.0,20180202,carberry jeffrey,120919118006847,Chief Financial Officer,male,17562527.0
+1931.0,,1082923,stamps.com inc,0,1,0,0.0,20180220,lipson matthew a.,120919118011469,Chief Legal Officer/ Secretary,male,17562527.0
+659524.0,,1082923,stamps.com inc,1,0,0,0.0,20180228,ananda mohan p,120919118014669,,male,17562527.0
+,,1082923,stamps.com inc,0,1,0,0.0,20180228,bourgoine jonathan,173277018000004,Chief Technology Officer,male,17562527.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180301,buerba sebastian,108292318000003,Chief Marketing Officer,male,17562527.0
+297.0,,1082923,stamps.com inc,0,1,0,0.0,20180305,khechfe amine,108292318000006,Chief Strategy Officer,male,17562527.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180306,buerba sebastian,108292318000008,Chief Marketing Officer,male,17562527.0
+2030.0,,1082923,stamps.com inc,1,1,0,0.0,20180306,mcbride kenneth thomas,108292318000009,Chairman & CEO,male,17562527.0
+1042.0,,1082923,stamps.com inc,0,1,0,0.0,20180307,huebner kyle,108292318000011,President,female,17562527.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180309,buerba sebastian,108292318000016,Chief Marketing Officer,male,17562527.0
+1042.0,,1082923,stamps.com inc,0,1,0,0.0,20180309,huebner kyle,108292318000017,President,female,17562527.0
+2030.0,,1082923,stamps.com inc,1,1,0,0.0,20180309,mcbride kenneth thomas,108292318000015,Chairman & CEO,male,17562527.0
+1931.0,,1082923,stamps.com inc,0,1,0,0.0,20180319,lipson matthew a.,108292318000019,Chief Legal Officer/ Secretary,male,17562527.0
+297.0,,1082923,stamps.com inc,0,1,0,0.0,20180404,khechfe amine,108292318000021,Chief Strategy Officer,male,17883000.0
+1931.0,,1082923,stamps.com inc,0,1,0,0.0,20180418,lipson matthew a.,108292318000029,Chief Legal Officer/ Secretary,male,17883000.0
+297.0,,1082923,stamps.com inc,0,1,0,0.0,20180503,khechfe amine,108292318000035,Chief Strategy Officer,male,17923853.0
+1985.0,,1082923,stamps.com inc,1,1,0,0.0,20180504,mcbride kenneth thomas,108292318000038,Chairman & CEO,male,17923853.0
+4029.0,,1082923,stamps.com inc,0,1,0,0.0,20180508,clem john roland,108292318000040,Chief Product & Strategy Offic,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180516,clem john roland,108292318000045,Chief Product & Strategy Offic,male,17923853.0
+650.0,,1082923,stamps.com inc,0,1,0,0.0,20180517,lipson matthew a.,108292318000047,Chief Legal Officer/ Secretary,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180523,clem john roland,108292318000049,Chief Product & Strategy Offic,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180531,clem john roland,108292318000053,Chief Product & Strategy Offic,male,17923853.0
+297.0,,1082923,stamps.com inc,0,1,0,0.0,20180605,khechfe amine,108292318000058,Chief Strategy Officer,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180605,clem john roland,108292318000060,Chief Product & Strategy Offic,male,17923853.0
+40286.0,,1082923,stamps.com inc,1,0,0,0.0,20180605,jones g bradford,108292318000057,,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180608,clem john roland,108292318000062,Chief Product & Strategy Offic,male,17923853.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180613,buerba sebastian,108292318000066,Chief Marketing Officer,male,17923853.0
+,,1082923,stamps.com inc,1,0,0,0.0,20180613,samuels theodore r. ii,108292318000071,,male,17923853.0
+,,1082923,stamps.com inc,1,0,0,0.0,20180613,jones g bradford,108292318000072,,male,17923853.0
+,,1082923,stamps.com inc,1,0,0,0.0,20180613,habiger david c,108292318000073,,male,17923853.0
+640524.0,,1082923,stamps.com inc,1,0,0,0.0,20180613,ananda mohan p,108292318000074,,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180613,clem john roland,108292318000076,Chief Product & Strategy Offic,male,17923853.0
+5537.0,,1082923,stamps.com inc,0,1,0,0.0,20180618,clem john roland,108292318000078,Chief Product & Strategy Offic,male,17923853.0
+297.0,,1082923,stamps.com inc,0,1,0,0.0,20180702,khechfe amine,108292318000079,Chief Strategy Officer,male,18151000.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180702,buerba sebastian,108292318000080,Chief Marketing Officer,male,18151000.0
+341.0,,1082923,stamps.com inc,0,1,0,0.0,20180802,khechfe amine,108292318000102,Chief Strategy Officer,male,18154722.0
+5570.0,,1082923,stamps.com inc,0,1,0,0.0,20180802,clem john roland,108292318000101,Chief Product & Strategy Offic,male,18154722.0
+9591.0,,1082923,stamps.com inc,0,1,0,0.0,20180802,carberry jeffrey,108292318000100,Chief Financial Officer,male,18154722.0
+,,1082923,stamps.com inc,0,1,0,0.0,20180802,jones james nathan,108292318000099,CEO of subsidiary ShipStation,male,18154722.0
+708.0,,1082923,stamps.com inc,0,1,0,0.0,20180802,lipson matthew a.,108292318000098,Chief Legal Officer/ Secretary,male,18154722.0
+1087.0,,1082923,stamps.com inc,0,1,0,0.0,20180802,huebner kyle,108292318000097,President,female,18154722.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180802,buerba sebastian,108292318000096,Chief Marketing Officer,male,18154722.0
+341.0,,1082923,stamps.com inc,0,1,0,0.0,20180906,khechfe amine,108292318000110,Chief Strategy Officer,male,18154722.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20180906,buerba sebastian,108292318000111,Chief Marketing Officer,male,18154722.0
+341.0,,1082923,stamps.com inc,0,1,0,0.0,20181003,khechfe amine,108292318000114,Chief Strategy Officer,male,18168000.0
+164.0,,1082923,stamps.com inc,0,1,0,0.0,20181003,buerba sebastian,108292318000115,Chief Marketing Officer,male,18168000.0
+827.0,,1082923,stamps.com inc,0,1,0,0.0,20181017,huebner kyle,108292318000117,President,female,18168000.0
+341.0,,1082923,stamps.com inc,0,1,0,0.0,20181105,khechfe amine,108292318000121,Chief Strategy Officer,male,18102028.0
+341.0,,1082923,stamps.com inc,0,1,0,0.0,20190103,khechfe amine,108292319000002,Chief Strategy Officer,male,17662000.0
+919.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,huebner kyle,108292319000018,President,female,17527387.0
+9687.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,carberry jeffrey,108292319000015,Chief Financial Officer,male,17527387.0
+2081.0,,1082923,stamps.com inc,1,1,0,0.0,20190204,mcbride kenneth thomas,108292319000016,Chairman & CEO,male,17527387.0
+536.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,jones james nathan,108292319000014,CEO of subsidiary ShipStation,male,17527387.0
+5666.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,clem john roland,108292319000013,Chief Product & Strategy Offic,male,17527387.0
+391.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,khechfe amine,108292319000012,Chief Strategy Officer,male,17527387.0
+260.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,buerba sebastian,108292319000011,Chief Marketing Officer,male,17527387.0
+774.0,,1082923,stamps.com inc,0,1,0,0.0,20190204,lipson matthew a.,108292319000017,Chief Legal Officer/ Secretary,male,17527387.0
+391.0,,1082923,stamps.com inc,0,1,0,0.0,20190220,khechfe amine,108292319000020,Chief Strategy Officer,male,17527387.0
+639524.0,,1082923,stamps.com inc,1,0,0,0.0,20190311,ananda mohan p,108292319000028,,male,17527387.0
+572.0,,1082923,stamps.com inc,1,0,0,0.0,20190315,habiger david c,108292319000030,,male,17527387.0
+,,1082923,stamps.com inc,1,1,0,0.0,20190412,may katie,108292319000037,GM of subsidiary ShippingEasy,female,17472000.0
+,,1082923,stamps.com inc,1,1,0,0.0,20190605,may katie,108292319000071,GM of subsidiary ShippingEasy,female,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,rifai steve,108292319000070,Chief Sales Officer,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,lipson matthew a.,108292319000068,Chief Legal Officer/ Secretary,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,khechfe amine,108292319000067,Chief Strategy Officer,male,17316796.0
+,,1082923,stamps.com inc,1,1,0,0.0,20190605,mcbride kenneth thomas,108292319000069,Chairman & CEO,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,clem john roland,108292319000065,Chief Product & Strategy Offic,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,bourgoine jonathan,108292319000062,Chief Technology Officer,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,carberry jeffrey,108292319000064,Chief Financial Officer,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,buerba sebastian,108292319000063,Chief Marketing Officer,male,17316796.0
+,,1082923,stamps.com inc,0,1,0,0.0,20190605,jones james nathan,108292319000066,CEO of subsidiary ShipStation,male,17316796.0
+,,1082923,stamps.com inc,1,0,0,0.0,20190614,jones g bradford,108292319000078,,male,17316796.0
+,,1082923,stamps.com inc,1,0,0,0.0,20190614,ananda mohan p,108292319000079,,male,17316796.0
+,,1082923,stamps.com inc,1,0,0,0.0,20190614,samuels theodore r. ii,108292319000080,,male,17316796.0
+,,1082923,stamps.com inc,1,0,0,0.0,20190614,habiger david c,108292319000081,,male,17316796.0
+816.0,,1082923,stamps.com inc,0,1,0,0.0,20190802,lipson matthew a.,108292319000086,Chief Legal Officer/ Secretary,male,17164478.0
+455.0,,1082923,stamps.com inc,0,1,0,0.0,20190802,khechfe amine,108292319000085,Chief Strategy Officer,male,17164478.0
+638524.0,,1082923,stamps.com inc,1,0,0,0.0,20191122,ananda mohan p,108292319000104,,male,17073665.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200122,may katie,108292320000002,,female,17029000.0
+666.0,,1082923,stamps.com inc,0,1,0,0.0,20200204,khechfe amine,108292320000018,Chief Strategy Officer,male,17056278.0
+6210.0,,1082923,stamps.com inc,0,1,0,0.0,20200204,clem john roland,108292320000017,Chief Product & Strategy Offic,male,17056278.0
+2626.0,,1082923,stamps.com inc,1,1,0,0.0,20200204,mcbride kenneth thomas,108292320000016,Chairman & CEO,male,17056278.0
+1081.0,,1082923,stamps.com inc,0,1,0,0.0,20200204,jones james nathan,108292320000015,CEO of subsidiary ShipStation,male,17056278.0
+804.0,,1082923,stamps.com inc,0,1,0,0.0,20200204,buerba sebastian,108292320000013,Chief Marketing Officer,male,17056278.0
+1096.0,,1082923,stamps.com inc,0,1,0,0.0,20200204,lipson matthew a.,108292320000012,Chief Legal Officer/ Secretary,male,17056278.0
+10232.0,,1082923,stamps.com inc,0,1,0,0.0,20200204,carberry jeffrey,108292320000014,Chief Financial Officer,male,17056278.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200225,rifai steve,108292320000024,Chief Sales Officer,male,17056278.0
+2276.0,,1082923,stamps.com inc,1,1,0,0.0,20200302,mcbride kenneth thomas,108292320000031,Chairman & CEO,male,17056278.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200430,rifai steve,108292320000037,Chief Sales Officer,male,17085036.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200511,rifai steve,108292320000045,Chief Sales Officer,male,17085036.0
+637524.0,,1082923,stamps.com inc,1,0,0,0.0,20200520,ananda mohan p,108292320000047,,male,17085036.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200603,rifai steve,108292320000052,Chief Sales Officer,male,17085036.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200605,bourgoine jonathan,108292320000054,Chief Technology Officer,male,17085036.0
+666.0,,1082923,stamps.com inc,0,1,0,0.0,20200610,khechfe amine,108292320000056,Chief Strategy Officer,male,17085036.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200612,may katie,108292320000066,,female,17085036.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200612,jones g bradford,108292320000065,,male,17085036.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200612,habiger david c,108292320000064,,male,17085036.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200612,ananda mohan p,108292320000063,,male,17085036.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200612,samuels theodore r. ii,108292320000067,,male,17085036.0
+804.0,,1082923,stamps.com inc,0,1,0,0.0,20200706,buerba sebastian,108292320000071,Chief Marketing Officer,male,17414000.0
+666.0,,1082923,stamps.com inc,0,1,0,0.0,20200707,khechfe amine,108292320000073,Chief Strategy Officer,male,17414000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200708,bourgoine jonathan,108292320000075,Chief Technology Officer,male,17414000.0
+666.0,,1082923,stamps.com inc,0,1,0,0.0,20200721,khechfe amine,108292320000079,Chief Strategy Officer,male,17414000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200721,rifai steve,108292320000078,Chief Sales Officer,male,17414000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200722,buerba sebastian,108292320000083,Chief Marketing Officer,male,17414000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200731,bourgoine jonathan,108292320000087,Chief Technology Officer,male,17575686.0
+666.0,,1082923,stamps.com inc,0,1,0,0.0,20200731,khechfe amine,108292320000086,Chief Strategy Officer,male,17575686.0
+1261.0,,1082923,stamps.com inc,0,1,0,0.0,20200804,lipson matthew a.,108292320000092,Chief Legal Officer/ Secretary,male,17575686.0
+875.0,,1082923,stamps.com inc,0,1,0,0.0,20200804,khechfe amine,108292320000091,Chief Strategy Officer,male,17575686.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200805,rifai steve,108292320000098,Chief Sales Officer,male,17575686.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200805,bourgoine jonathan,108292320000097,Chief Technology Officer,male,17575686.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200805,buerba sebastian,108292320000099,Chief Marketing Officer,male,17575686.0
+875.0,,1082923,stamps.com inc,0,1,0,0.0,20200810,khechfe amine,108292320000109,Chief Strategy Officer,male,17575686.0
+792.0,,1082923,stamps.com inc,0,1,0,0.0,20200819,clem john roland,108292320000111,Chief Product & Strategy Offic,male,17575686.0
+,,1082923,stamps.com inc,1,0,0,0.0,20200820,may katie,108292320000113,,female,17575686.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200828,bourgoine jonathan,108292320000116,Chief Technology Officer,male,17575686.0
+,,1082923,stamps.com inc,0,1,0,0.0,20200903,rifai steve,108292320000122,Chief Sales Officer,male,17575686.0
+2019.0,,1082923,stamps.com inc,0,1,0,0.0,20200903,carberry jeffrey,108292320000121,Chief Financial Officer,male,17575686.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200903,buerba sebastian,108292320000120,Chief Marketing Officer,male,17575686.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20200908,bourgoine jonathan,108292320000124,Chief Technology Officer,male,17575686.0
+1261.0,,1082923,stamps.com inc,0,1,0,0.0,20200917,lipson matthew a.,108292320000127,Chief Legal Officer/ Secretary,male,17575686.0
+957.0,,1082923,stamps.com inc,1,1,0,0.0,20200918,mcbride kenneth thomas,108292320000128,Chairman & CEO,male,17575686.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201005,bourgoine jonathan,108292320000133,Chief Technology Officer,male,18203000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20201005,rifai steve,108292320000135,Chief Sales Officer,male,18203000.0
+1261.0,,1082923,stamps.com inc,0,1,0,0.0,20201005,lipson matthew a.,108292320000134,Chief Legal Officer/ Secretary,male,18203000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201007,buerba sebastian,108292320000137,Chief Marketing Officer,male,18203000.0
+,,1082923,stamps.com inc,1,0,0,0.0,20201021,may katie,108292320000140,,female,18203000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201028,bourgoine jonathan,108292320000142,Chief Technology Officer,male,18203000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20201104,rifai steve,108292320000147,Chief Sales Officer,male,18235902.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201105,bourgoine jonathan,108292320000151,Chief Technology Officer,male,18235902.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201105,buerba sebastian,108292320000152,Chief Marketing Officer,male,18235902.0
+957.0,,1082923,stamps.com inc,1,1,0,0.0,20201112,mcbride kenneth thomas,108292320000161,Chairman & CEO,male,18235902.0
+762.0,,1082923,stamps.com inc,0,1,0,0.0,20201118,jones james nathan,108292320000164,CEO of subsidiary ShipStation,male,18235902.0
+,,1082923,stamps.com inc,0,1,0,0.0,20201203,rifai steve,108292320000166,Chief Sales Officer,male,18235902.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201207,buerba sebastian,108292320000169,Chief Marketing Officer,male,18235902.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20201210,buerba sebastian,108292320000171,Chief Marketing Officer,male,18235902.0
+957.0,,1082923,stamps.com inc,1,1,0,0.0,20201211,mcbride kenneth thomas,108292320000173,Chairman & CEO,male,18235902.0
+957.0,,1082923,stamps.com inc,1,1,0,0.0,20201218,mcbride kenneth thomas,108292320000175,Chairman & CEO,male,18235902.0
+,,1082923,stamps.com inc,1,0,0,0.0,20201222,may katie,108292320000177,,female,18235902.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210106,buerba sebastian,108292321000002,Chief Marketing Officer,male,18306000.0
+,,1082923,stamps.com inc,0,1,0,0.0,20210115,rifai steve,108292321000004,Chief Sales Officer,male,18306000.0
+544.0,,1082923,stamps.com inc,0,1,0,0.0,20210127,jones james nathan,108292321000007,CEO of subsidiary ShipStation,male,18306000.0
+2111.0,,1082923,stamps.com inc,0,1,0,0.0,20210202,carberry jeffrey,108292321000015,Chief Financial Officer,male,18370567.0
+884.0,,1082923,stamps.com inc,0,1,0,0.0,20210202,clem john roland,108292321000016,Chief Product & Strategy Offic,male,18370567.0
+919.0,,1082923,stamps.com inc,0,1,0,0.0,20210202,khechfe amine,108292321000017,Chief Strategy Officer,male,18370567.0
+1320.0,,1082923,stamps.com inc,0,1,0,0.0,20210202,lipson matthew a.,108292321000018,Chief Legal Officer/ Secretary,male,18370567.0
+1049.0,,1082923,stamps.com inc,1,1,0,0.0,20210202,mcbride kenneth thomas,108292321000019,Chairman & CEO,male,18370567.0
+636.0,,1082923,stamps.com inc,0,1,0,0.0,20210202,jones james nathan,108292321000020,CEO of subsidiary ShipStation,male,18370567.0
+,,1082923,stamps.com inc,0,1,0,0.0,20210203,rifai steve,108292321000021,Chief Sales Officer,male,18370567.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210205,buerba sebastian,108292321000024,Chief Marketing Officer,male,18370567.0
+636.0,,1082923,stamps.com inc,0,1,0,0.0,20210205,jones james nathan,108292321000025,CEO of subsidiary ShipStation,male,18370567.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210305,buerba sebastian,108292321000037,Chief Marketing Officer,male,18370567.0
+347.0,,1082923,stamps.com inc,0,1,0,0.0,20210331,khechfe amine,108292321000041,Chief Strategy Officer,male,18369000.0
+1049.0,,1082923,stamps.com inc,1,1,0,0.0,20210429,mcbride kenneth thomas,108292321000043,Chairman & CEO,male,18369000.0
+,,1082923,stamps.com inc,1,0,0,0.0,20210611,jones g bradford,108292321000071,,male,18319142.0
+,,1082923,stamps.com inc,1,0,0,0.0,20210611,ananda mohan p,108292321000073,,male,18319142.0
+,,1082923,stamps.com inc,1,0,0,0.0,20210611,samuels theodore r. ii,108292321000072,,male,18319142.0
+,,1082923,stamps.com inc,1,0,0,0.0,20210611,may katie,108292321000069,,female,18319142.0
+,,1082923,stamps.com inc,1,0,0,0.0,20210611,habiger david c,108292321000070,,male,18319142.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210615,buerba sebastian,108292321000075,Chief Marketing Officer,male,18319142.0
+347.0,,1082923,stamps.com inc,0,1,0,0.0,20210708,khechfe amine,108292321000078,Chief Strategy Officer,male,18246000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210708,buerba sebastian,108292321000079,Chief Marketing Officer,male,18246000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210713,bourgoine jonathan,108292321000085,Chief Technology Officer,male,18246000.0
+40286.0,,1082923,stamps.com inc,1,0,0,0.0,20210713,jones g bradford,108292321000086,,male,18246000.0
+636.0,,1082923,stamps.com inc,0,1,0,0.0,20210713,jones james nathan,108292321000087,CEO of subsidiary ShipStation,male,18246000.0
+253.0,,1082923,stamps.com inc,0,1,0,0.0,20210713,khechfe amine,108292321000088,Chief Strategy Officer,male,18246000.0
+,,1082923,stamps.com inc,1,1,0,0.0,20210713,mcbride kenneth thomas,108292321000089,Chairman & CEO,male,18246000.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210728,bourgoine jonathan,108292321000093,Chief Technology Officer,male,18246000.0
+,,1082923,stamps.com inc,1,0,0,0.0,20210728,may katie,108292321000094,,female,18246000.0
+2112.0,,1082923,stamps.com inc,0,1,0,0.0,20210803,carberry jeffrey,108292321000106,Chief Financial Officer,male,18426475.0
+99.0,,1082923,stamps.com inc,0,1,0,0.0,20210803,khechfe amine,108292321000108,Chief Strategy Officer,male,18426475.0
+1358.0,,1082923,stamps.com inc,0,1,0,0.0,20210803,lipson matthew a.,108292321000109,Chief Legal Officer/ Secretary,male,18426475.0
+1050.0,,1082923,stamps.com inc,1,1,0,0.0,20210803,mcbride kenneth thomas,108292321000110,Chairman & CEO,male,18426475.0
+637.0,,1082923,stamps.com inc,0,1,0,0.0,20210803,jones james nathan,108292321000107,CEO of subsidiary ShipStation,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210805,bourgoine jonathan,108292321000118,Chief Technology Officer,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210805,buerba sebastian,108292321000119,Chief Marketing Officer,male,18426475.0
+884.0,,1082923,stamps.com inc,0,1,0,0.0,20210806,clem john roland,108292321000125,Chief Product & Strategy Offic,male,18426475.0
+898.0,,1082923,stamps.com inc,1,1,0,0.0,20210817,mcbride kenneth thomas,108292321000127,Chairman & CEO,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210830,bourgoine jonathan,108292321000129,Chief Technology Officer,male,18426475.0
+637.0,,1082923,stamps.com inc,0,1,0,0.0,20210903,jones james nathan,108292321000131,CEO of subsidiary ShipStation,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20210908,buerba sebastian,108292321000133,Chief Marketing Officer,male,18426475.0
+4965.0,,1082923,stamps.com inc,0,1,0,0.0,20210915,carberry jeffrey,108292321000136,Chief Financial Officer,male,18426475.0
+4213.0,,1082923,stamps.com inc,0,1,0,0.0,20210920,lipson matthew a.,108292321000138,Chief Legal Officer/ Secretary,male,18426475.0
+884.0,,1082923,stamps.com inc,0,1,0,0.0,20210928,clem john roland,108292321000140,Chief Product & Strategy Offic,male,18426475.0
+637524.0,,1082923,stamps.com inc,1,0,0,0.0,20211004,ananda mohan p,108292321000144,,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20211007,khechfe amine,108292321000170,Chief Strategy Officer,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20211007,jones james nathan,108292321000169,CEO of subsidiary ShipStation,male,18426475.0
+0.0,,1082923,stamps.com inc,0,1,0,0.0,20211007,clem john roland,108292321000168,Chief Product & Strategy Offic,male,18426475.0
+0.0,,1082923,stamps.com inc,1,1,0,0.0,20211007,carberry jeffrey,108292321000167,Chief Financial Officer,male,18426475.0
+,,1082923,stamps.com inc,0,1,0,0.0,20211007,buerba sebastian,108292321000166,Chief Marketing Officer,male,18426475.0
+,,1082923,stamps.com inc,0,1,0,0.0,20211007,bourgoine jonathan,108292321000165,Chief Technology Officer,male,18426475.0
+0.0,,1082923,stamps.com inc,1,1,0,0.0,20211007,mcbride kenneth thomas,108292321000164,Chairman & CEO,male,18426475.0
+0.0,,1082923,stamps.com inc,1,0,0,0.0,20211007,samuels theodore r. ii,108292321000163,,male,18426475.0
+,,1082923,stamps.com inc,1,0,0,0.0,20211007,may katie,108292321000162,,female,18426475.0
+0.0,,1082923,stamps.com inc,1,0,0,0.0,20211007,jones g bradford,108292321000161,,male,18426475.0
+0.0,,1082923,stamps.com inc,1,0,0,0.0,20211007,habiger david c,108292321000160,,male,18426475.0
+0.0,,1082923,stamps.com inc,1,0,0,0.0,20211007,ananda mohan p,108292321000159,,male,18426475.0
+0.0,,1082923,stamps.com inc,1,1,0,0.0,20211007,lipson matthew a.,108292321000171,Chief Legal Officer/ Secretary,male,18426475.0
+,,1082923,stamps.com inc,0,1,0,0.0,20211007,rifai steve,108292321000172,Chief Sales Officer,male,18426475.0

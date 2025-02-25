@@ -1,17 +1,381 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-100000.0,0.0,1192448,glaukos corp,1,1,0.0,0.0,20150630,burns thomas william,110465915048961,Chief Executive Officer,male,31948000.0
-246536.0,0.0,1192448,glaukos corp,0,1,0.0,0.0,20150630,calcaterra chris m.,110465915048962,Chief Commercial Officer,male,31948000.0
-3268.0,0.0,1192448,glaukos corp,0,1,0.0,0.0,20150630,harrison richard l,110465915048963,"Treasurer, CFO & Secretary",male,31948000.0
-56696.0,0.0,1192448,glaukos corp,1,0,1.0,0.0,20150630,link william j phd,110465915048966,,male,31948000.0
-2603362.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150630,kliman gilbert h,110465915048973,,male,31948000.0
-54177.0,0.0,1192448,glaukos corp,1,0,1.0,0.0,20150630,madera paul s,110465915048974,,male,31948000.0
-5000.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150630,more robert j,110465915048976,,male,31948000.0
-27344.0,0.0,1192448,glaukos corp,1,0,1.0,0.0,20150630,silverstein jonathan,110465915048977,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,bergheim olav,110465915053123,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,1.0,0.0,20150724,link william j phd,110465915053124,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,foley mark j,110465915053125,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,hoffmeister david f,110465915053126,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,kliman gilbert h,110465915053127,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,weisner aimee s,110465915053128,,female,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,stapley marc,110465915053130,,male,31948000.0
-0.0,0.0,1192448,glaukos corp,1,0,0.0,0.0,20150724,silverstein jonathan,110465915053131,,male,31948000.0
+27344.0,,1192448,glaukos corp,1.0,0.0,1.0,0.0,20150630,silverstein jonathan,110465915048977,,male,31948000.0
+5000.0,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150630,more robert j,110465915048976,,male,31948000.0
+54177.0,,1192448,glaukos corp,1.0,0.0,1.0,0.0,20150630,madera paul s,110465915048974,,male,31948000.0
+2603362.0,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150630,kliman gilbert h,110465915048973,,male,31948000.0
+56696.0,,1192448,glaukos corp,1.0,0.0,1.0,0.0,20150630,link william j phd,110465915048966,,male,31948000.0
+3268.0,,1192448,glaukos corp,0.0,1.0,0.0,0.0,20150630,harrison richard l,110465915048963,"Treasurer, CFO & Secretary",male,31948000.0
+246536.0,,1192448,glaukos corp,0.0,1.0,0.0,0.0,20150630,calcaterra chris m.,110465915048962,Chief Commercial Officer,male,31948000.0
+100000.0,,1192448,glaukos corp,1.0,1.0,0.0,0.0,20150630,burns thomas william,110465915048961,Chief Executive Officer,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,silverstein jonathan,110465915053131,,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,weisner aimee s,110465915053128,,female,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,kliman gilbert h,110465915053127,,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,hoffmeister david f,110465915053126,,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,foley mark j,110465915053125,,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,1.0,0.0,20150724,link william j phd,110465915053124,,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,bergheim olav,110465915053123,,male,31948000.0
+,,1192448,glaukos corp,1.0,0.0,0.0,0.0,20150724,stapley marc,110465915053130,,male,31948000.0
+2500.0,,1192448,glaukos corp,true,false,false,false,20151112,weisner aimee s,156218015000973,,female,32101270.0
+1388.0,1165358.0,1192448,glaukos corp,true,true,false,false,20160104,burns thomas william,156218016001156,Chief Executive Officer,male,32181000.0
+4656.0,206000.0,1192448,glaukos corp,false,true,false,false,20160104,harrison richard l,156218016001155,"Treasurer, CFO & Secretary",male,32181000.0
+5000.0,,1192448,glaukos corp,true,false,false,false,20160304,weisner aimee s,156218016001916,,female,32181000.0
+,,1192448,glaukos corp,false,true,false,false,20160311,calcaterra chris m.,156218016001967,Chief Commercial Officer,male,32340033.0
+,,1192448,glaukos corp,false,true,false,false,20160311,harrison richard l,156218016001966,"Treasurer, CFO & Secretary",male,32340033.0
+,,1192448,glaukos corp,true,true,false,false,20160311,burns thomas william,156218016001965,Chief Executive Officer,male,32340033.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20160505,calcaterra chris m.,156218016002207,Chief Commercial Officer,male,32369000.0
+570551.0,558107.0,1192448,glaukos corp,true,true,false,false,20160505,burns thomas william,156218016002209,Chief Executive Officer,male,32369000.0
+1388.0,206000.0,1192448,glaukos corp,false,true,false,false,20160505,harrison richard l,156218016002208,"Treasurer, CFO & Secretary",male,32369000.0
+570251.0,558107.0,1192448,glaukos corp,true,true,false,false,20160526,burns thomas william,156218016002431,Chief Executive Officer,male,32369000.0
+989.0,,1192448,glaukos corp,1,0,0,0,20160602,link william j phd,120919116125340,,male,32369000.0
+545251.0,558107.0,1192448,glaukos corp,true,true,false,false,20160602,burns thomas william,156218016002456,Chief Executive Officer,male,32369000.0
+,,1192448,glaukos corp,true,false,false,false,20160603,hoffmeister david f,156218016002531,,male,32369000.0
+,,1192448,glaukos corp,true,false,false,false,20160603,weisner aimee s,156218016002532,,female,32369000.0
+,,1192448,glaukos corp,true,false,false,false,20160603,silverstein jonathan,156218016002529,,male,32369000.0
+,,1192448,glaukos corp,true,false,false,false,20160603,stapley marc,156218016002528,,male,32369000.0
+,,1192448,glaukos corp,true,false,false,false,20160603,foley mark j,156218016002527,,male,32369000.0
+544829.0,558107.0,1192448,glaukos corp,true,true,false,false,20160603,burns thomas william,156218016002526,Chief Executive Officer,male,32369000.0
+,,1192448,glaukos corp,true,false,false,false,20160603,kliman gilbert h,156218016002530,,male,32369000.0
+520251.0,558107.0,1192448,glaukos corp,true,true,false,false,20160606,burns thomas william,156218016002535,Chief Executive Officer,male,32369000.0
+19898.0,,1192448,glaukos corp,1,0,0,0,20160606,link william j phd,120919116126094,,male,32369000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20160616,calcaterra chris m.,156218016002653,Chief Commercial Officer,male,32369000.0
+512254.0,558107.0,1192448,glaukos corp,true,true,false,false,20160621,burns thomas william,156218016002674,Chief Executive Officer,male,32369000.0
+1388.0,206000.0,1192448,glaukos corp,false,true,false,false,20160621,harrison richard l,156218016002673,"Treasurer, CFO & Secretary",male,32369000.0
+462254.0,558107.0,1192448,glaukos corp,true,true,false,false,20160705,burns thomas william,156218016002763,Chief Executive Officer,male,32919000.0
+300000.0,558107.0,1192448,glaukos corp,true,true,false,false,20160713,burns thomas william,156218016002789,Chief Executive Officer,male,32919000.0
+1388.0,206000.0,1192448,glaukos corp,false,true,false,false,20160713,harrison richard l,156218016002787,"Treasurer, CFO & Secretary",male,32919000.0
+1388.0,206000.0,1192448,glaukos corp,false,true,false,false,20160727,harrison richard l,156218016002847,"Treasurer, CFO & Secretary",male,32919000.0
+70496.0,,1192448,glaukos corp,1,0,0,0,20160803,link william j phd,120919116135328,,male,33024340.0
+769.0,,1192448,glaukos corp,1,0,0,0,20160803,kliman gilbert h,89924316026222,,male,33024340.0
+,,1192448,glaukos corp,1,0,0,0,20160805,silverstein jonathan,94787116001397,,male,33024340.0
+,,1192448,glaukos corp,1,0,0,0,20160812,silverstein jonathan,94787116001419,,male,33024340.0
+117695.0,,1192448,glaukos corp,1,0,0,0,20160816,link william j phd,120919116137379,,male,33024340.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20161020,calcaterra chris m.,156218016003252,Chief Commercial Officer,male,33309000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20161025,calcaterra chris m.,156218016003274,Chief Commercial Officer,male,33309000.0
+290000.0,558107.0,1192448,glaukos corp,true,true,false,false,20161115,burns thomas william,156218016003509,Chief Executive Officer,male,33549174.0
+87695.0,,1192448,glaukos corp,true,false,false,false,20161118,link william j phd,156218016003585,,male,33549174.0
+2083.0,,1192448,glaukos corp,1,0,0,0,20161208,kliman gilbert h,89924316035167,,male,33549174.0
+299388.0,558107.0,1192448,glaukos corp,true,true,false,false,20161216,burns thomas william,156218016003824,Chief Executive Officer,male,33549174.0
+1388.0,206000.0,1192448,glaukos corp,false,true,false,false,20170109,harrison richard l,156218017000206,CFO & Treasurer,male,33943000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20170111,calcaterra chris m.,156218017000222,Chief Commercial Officer,male,33943000.0
+260240.0,558107.0,1192448,glaukos corp,true,true,false,false,20170111,burns thomas william,156218017000223,Chief Executive Officer,male,33943000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20170113,calcaterra chris m.,156218017000237,Chief Commercial Officer,male,33943000.0
+1388.0,206000.0,1192448,glaukos corp,false,true,false,false,20170113,harrison richard l,156218017000238,CFO & Treasurer,male,33943000.0
+210240.0,558107.0,1192448,glaukos corp,true,true,false,false,20170203,burns thomas william,156218017000485,Chief Executive Officer,male,33943000.0
+,,1192448,glaukos corp,1,0,0,0,20170307,silverstein jonathan,94787117000199,,male,33943000.0
+90479.0,,1192448,glaukos corp,1,0,0,0,20170308,link william j phd,120919117019379,,male,33943000.0
+,,1192448,glaukos corp,1,0,0,0,20170314,silverstein jonathan,94787117000211,,male,34232881.0
+100000.0,,1192448,glaukos corp,0,1,0,0,20170509,gilliam joseph e,151019217000040,"CFO, SVP Corporate Development",male,34280000.0
+,,1192448,glaukos corp,1,0,0,0,20170817,silverstein jonathan,94787117000654,,male,34434009.0
+,,1192448,glaukos corp,1,0,0,0,20170905,silverstein jonathan,94787117000697,,male,34434009.0
+210240.0,558107.0,1192448,glaukos corp,true,true,false,false,20170906,burns thomas william,156218017002857,Chief Executive Officer,male,34434009.0
+210240.0,558107.0,1192448,glaukos corp,true,true,false,false,20170908,burns thomas william,156218017002920,Chief Executive Officer,male,34434009.0
+102100.0,,1192448,glaukos corp,false,true,false,false,20171127,gilliam joseph e,156218017003676,"CFO, SVP Corporate Development",male,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,kliman gilbert h,156218017003883,,male,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,foley mark j,156218017003880,,male,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,hoffmeister david f,156218017003882,,male,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,weisner aimee s,156218017003886,,female,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,stapley marc,156218017003885,,male,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,link william j phd,156218017003881,,male,34565353.0
+,,1192448,glaukos corp,true,false,false,false,20171214,silverstein jonathan,156218017003884,,male,34565353.0
+230240.0,558107.0,1192448,glaukos corp,true,true,false,false,20171227,burns thomas william,156218017004038,Chief Executive Officer,male,34565353.0
+2548.0,,1192448,glaukos corp,true,false,false,false,20180104,stapley marc,156218018000212,,male,34619000.0
+2123.0,,1192448,glaukos corp,true,false,false,false,20180104,hoffmeister david f,156218018000210,,male,34619000.0
+277240.0,558107.0,1192448,glaukos corp,true,true,false,false,20180129,burns thomas william,156218018000491,Chief Executive Officer,male,34619000.0
+,,1192448,glaukos corp,1,0,0,0,20180306,silverstein jonathan,94787118000221,,male,34740886.0
+,,1192448,glaukos corp,false,true,false,false,20180316,calcaterra chris m.,156218018001647,Chief Operating Officer,male,34740886.0
+,,1192448,glaukos corp,false,true,false,false,20180316,gilliam joseph e,156218018001646,"CFO, SVP Corporate Development",male,34740886.0
+,,1192448,glaukos corp,true,true,false,false,20180316,burns thomas william,156218018001648,Chief Executive Officer,male,34740886.0
+93217.0,,1192448,glaukos corp,false,true,false,false,20180514,gilliam joseph e,156218018002465,"CFO, SVP Corporate Development",male,34827000.0
+6716.0,1018362.0,1192448,glaukos corp,true,false,false,false,20180601,kliman gilbert h,156218018002761,,male,34827000.0
+7181.0,,1192448,glaukos corp,true,false,false,false,20180601,stapley marc,156218018002758,,male,34827000.0
+4633.0,90479.0,1192448,glaukos corp,true,false,false,false,20180601,link william j phd,156218018002759,,male,34827000.0
+4633.0,5000.0,1192448,glaukos corp,true,false,false,false,20180601,weisner aimee s,156218018002760,,female,34827000.0
+6756.0,,1192448,glaukos corp,true,false,false,false,20180601,hoffmeister david f,156218018002762,,male,34827000.0
+4633.0,,1192448,glaukos corp,true,false,false,false,20180601,foley mark j,156218018002763,,male,34827000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20180615,calcaterra chris m.,156218018003026,Chief Operating Officer,male,34827000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20180621,calcaterra chris m.,156218018003073,Chief Operating Officer,male,34827000.0
+240000.0,,1192448,glaukos corp,false,true,false,false,20180803,calcaterra chris m.,156218018003488,Chief Operating Officer,male,35255010.0
+277240.0,558107.0,1192448,glaukos corp,true,true,false,false,20180808,burns thomas william,156218018003535,Chief Executive Officer,male,35255010.0
+4633.0,,1192448,glaukos corp,1,0,0,0,20180831,kliman gilbert h,89924318023626,,male,35255010.0
+40479.0,,1192448,glaukos corp,true,false,false,false,20181115,link william j phd,156218018004576,,male,36028216.0
+91117.0,,1192448,glaukos corp,false,true,false,false,20181127,gilliam joseph e,156218018004714,"CFO, SVP Corporate Development",male,36028216.0
+86117.0,,1192448,glaukos corp,false,true,false,false,20181129,gilliam joseph e,156218018004746,"CFO, SVP Corporate Development",male,36028216.0
+5810.0,,1192448,glaukos corp,true,false,false,false,20190116,kliman gilbert h,156218019000319,,male,36107000.0
+6773.0,40479.0,1192448,glaukos corp,true,false,false,false,20190116,link william j phd,156218019000314,,male,36107000.0
+8572.0,,1192448,glaukos corp,true,false,false,false,20190116,stapley marc,156218019000315,,male,36107000.0
+5810.0,5000.0,1192448,glaukos corp,true,false,false,false,20190116,weisner aimee s,156218019000316,,female,36107000.0
+7933.0,,1192448,glaukos corp,true,false,false,false,20190116,hoffmeister david f,156218019000318,,male,36107000.0
+75694.0,,1192448,glaukos corp,0,1,0,0,20190221,gilliam joseph e,110465919009831,"CFO, SVP Corporate Development",male,36107000.0
+150000.0,,1192448,glaukos corp,0,1,0,0,20190307,calcaterra chris m.,110465919013430,Chief Operating Officer,male,36157731.0
+82005.0,,1192448,glaukos corp,0,1,0,0,20190318,gilliam joseph e,110465919015710,"CFO, SVP Corporate Development",male,36157731.0
+156311.0,,1192448,glaukos corp,0,1,0,0,20190318,calcaterra chris m.,110465919015708,Chief Operating Officer,male,36157731.0
+19416.0,835954.0,1192448,glaukos corp,1,1,0,0,20190318,burns thomas william,110465919015709,Chief Executive Officer,male,36157731.0
+158662.0,,1192448,glaukos corp,0,1,0,0,20190403,calcaterra chris m.,110465919019728,Chief Operating Officer,male,36333000.0
+42524.0,835954.0,1192448,glaukos corp,1,1,0,0,20190403,burns thomas william,110465919019729,Chief Executive Officer,male,36333000.0
+47063.0,,1192448,glaukos corp,0,1,0,0,20190508,gilliam joseph e,110465919027860,"CFO, SVP Corporate Development",male,36333000.0
+47063.0,,1192448,glaukos corp,0,1,0,0,20190515,gilliam joseph e,110465919029779,"CFO, SVP Corporate Development",male,36333000.0
+47063.0,,1192448,glaukos corp,0,1,0,0,20190517,gilliam joseph e,110465919030313,"CFO, SVP Corporate Development",male,36333000.0
+10586.0,,1192448,glaukos corp,1,0,0,0,20190531,hoffmeister david f,110465919033245,,male,36333000.0
+8463.0,5000.0,1192448,glaukos corp,1,0,0,0,20190531,weisner aimee s,110465919033241,,female,36333000.0
+11225.0,,1192448,glaukos corp,1,0,0,0,20190531,stapley marc,110465919033242,,male,36333000.0
+7286.0,,1192448,glaukos corp,1,0,0,0,20190531,foley mark j,110465919033243,,male,36333000.0
+8463.0,3362.0,1192448,glaukos corp,1,0,0,0,20190531,kliman gilbert h,110465919033244,,male,36333000.0
+9426.0,40479.0,1192448,glaukos corp,1,0,0,0,20190531,link william j phd,110465919033246,,male,36333000.0
+7995.0,,1192448,glaukos corp,1,0,0,0,20190610,kliman gilbert h,110465919034655,,male,36333000.0
+47063.0,,1192448,glaukos corp,0,1,0,0,20190614,gilliam joseph e,110465919035744,"CFO, SVP Corporate Development",male,36333000.0
+47063.0,,1192448,glaukos corp,0,1,0,0,20190619,gilliam joseph e,110465919036445,"CFO, SVP Corporate Development",male,36333000.0
+47528.0,,1192448,glaukos corp,0,1,0,0,20190724,gilliam joseph e,110465919041623,"CFO, SVP Corporate Development",male,36638000.0
+45224.0,835954.0,1192448,glaukos corp,1,1,0,0,20190802,burns thomas william,110465919043796,Chief Executive Officer,male,36638000.0
+47528.0,,1192448,glaukos corp,0,1,0,0,20190828,gilliam joseph e,110465919047767,"CFO, SVP Corporate Development",male,36834375.0
+47528.0,,1192448,glaukos corp,0,1,0,0,20190912,gilliam joseph e,110465919050002,"CFO, SVP Corporate Development",male,36834375.0
+47528.0,,1192448,glaukos corp,0,1,0,0,20191002,gilliam joseph e,110465919052553,"CFO, SVP Corporate Development",male,36917000.0
+48807.0,835954.0,1192448,glaukos corp,1,1,0,0,20191211,burns thomas william,110465919071944,Chief Executive Officer,male,36927816.0
+58807.0,835954.0,1192448,glaukos corp,1,1,0,0,20191223,burns thomas william,110465919075731,Chief Executive Officer,male,36927816.0
+11748.0,,1192448,glaukos corp,1,0,0,0,20200103,hoffmeister david f,110465920000900,,male,43502000.0
+12598.0,,1192448,glaukos corp,1,0,0,0,20200103,stapley marc,110465920000903,,male,43502000.0
+9625.0,5000.0,1192448,glaukos corp,1,0,0,0,20200103,weisner aimee s,110465920000906,,female,43502000.0
+11539.0,40479.0,1192448,glaukos corp,1,0,0,0,20200103,link william j phd,110465920000905,,male,43502000.0
+47528.0,,1192448,glaukos corp,,1,,,20200214,gilliam joseph e,112760220005659,"CFO, SVP Corporate Development",male,43502000.0
+272499.0,835954.0,1192448,glaukos corp,1,1,,,20200302,burns thomas william,112760220008714,Chief Executive Officer,male,43744455.0
+313886.0,835954.0,1192448,glaukos corp,1,1,,,20200316,burns thomas william,112760220010932,Chief Executive Officer,male,43744455.0
+159309.0,,1192448,glaukos corp,,1,,,20200316,calcaterra chris m.,112760220010908,Chief Operating Officer,male,43744455.0
+,,1192448,glaukos corp,,1,,,20200316,gilliam joseph e,112760220010841,"CFO, SVP Corporate Development",male,43744455.0
+311509.0,835954.0,1192448,glaukos corp,1,1,,,20200318,burns thomas william,112760220011344,Chief Executive Officer,male,43744455.0
+46966.0,,1192448,glaukos corp,,1,,,20200318,gilliam joseph e,112760220011350,"CFO, SVP Corporate Development",male,43744455.0
+158669.0,,1192448,glaukos corp,,1,,,20200318,calcaterra chris m.,112760220011343,Chief Operating Officer,male,43744455.0
+158445.0,,1192448,glaukos corp,,1,,,20200403,calcaterra chris m.,112760220013279,Chief Operating Officer,male,44091000.0
+305889.0,835954.0,1192448,glaukos corp,1,1,,,20200403,burns thomas william,112760220013280,Chief Executive Officer,male,44091000.0
+40066.0,,1192448,glaukos corp,,1,,,20200507,gilliam joseph e,112760220015838,"CFO, SVP Corporate Development",male,44091000.0
+834.0,12447.0,1192448,glaukos corp,1,,,,20200512,kliman gilbert h,112760220016311,,male,44091000.0
+305889.0,835954.0,1192448,glaukos corp,1,1,,,20200522,burns thomas william,112760220017842,Chief Executive Officer,male,44091000.0
+305889.0,835954.0,1192448,glaukos corp,1,1,,,20200527,burns thomas william,112760220018017,Chief Executive Officer,male,44091000.0
+16498.0,,1192448,glaukos corp,1,,,,20200605,stapley marc,112760220019053,,male,44091000.0
+13525.0,5000.0,1192448,glaukos corp,1,,,,20200605,weisner aimee s,112760220019055,,female,44091000.0
+15648.0,,1192448,glaukos corp,1,,,,20200605,hoffmeister david f,112760220019059,,male,44091000.0
+11186.0,,1192448,glaukos corp,1,,,,20200605,foley mark j,112760220019061,,male,44091000.0
+15439.0,40479.0,1192448,glaukos corp,1,,,,20200605,link william j phd,112760220019057,,male,44091000.0
+4734.0,,1192448,glaukos corp,1,,,,20200605,kliman gilbert h,112760220019063,,male,44091000.0
+15439.0,40479.0,1192448,glaukos corp,1,0,0,0,20201203,link william j phd,110465920132117,,male,44961417.0
+163806.0,,1192448,glaukos corp,0,1,0,0,20201218,calcaterra chris m.,110465920137560,Chief Operating Officer,male,44961417.0
+318067.0,835954.0,1192448,glaukos corp,1,1,0,0,20201218,burns thomas william,110465920137561,Chief Executive Officer,male,44961417.0
+43707.0,,1192448,glaukos corp,0,1,0,0,20201218,gilliam joseph e,110465920137580,"CFO, SVP Corporate Development",male,44961417.0
+42802.0,,1192448,glaukos corp,0,1,0,0,20201221,gilliam joseph e,110465920138176,"CFO, SVP Corporate Development",male,44961417.0
+16628.0,,1192448,glaukos corp,1,0,0,0,20210106,hoffmeister david f,110465921001752,,male,45247000.0
+14505.0,5000.0,1192448,glaukos corp,1,0,0,0,20210106,weisner aimee s,110465921001756,,female,45247000.0
+17682.0,,1192448,glaukos corp,1,0,0,0,20210106,stapley marc,110465921001755,,male,45247000.0
+5714.0,,1192448,glaukos corp,1,0,0,0,20210106,kliman gilbert h,110465921001754,,male,45247000.0
+12370.0,,1192448,glaukos corp,1,0,0,0,20210106,foley mark j,110465921001753,,male,45247000.0
+163806.0,,1192448,glaukos corp,,1,,,20210203,calcaterra chris m.,112760221003721,Chief Operating Officer,male,45247000.0
+42802.0,,1192448,glaukos corp,0,1,0,0,20210211,gilliam joseph e,110465921020731,"CFO, SVP Corporate Development",male,45247000.0
+3528.0,,1192448,glaukos corp,1,0,0,0,20210303,torres denice,110465921031657,,female,45247000.0
+3528.0,,1192448,glaukos corp,1,0,0,0,20210303,wen leana,110465921031667,,female,45247000.0
+6394.0,12447.0,1192448,glaukos corp,1,0,0,0,20210305,kliman gilbert h,89924321010131,,male,45247000.0
+42802.0,,1192448,glaukos corp,,1,,,20210317,gilliam joseph e,112760221011174,"CFO, SVP Corporate Development",male,45247000.0
+353705.0,835954.0,1192448,glaukos corp,1,1,0,0,20210322,burns thomas william,110465921039874,Chief Executive Officer,male,45247000.0
+178522.0,,1192448,glaukos corp,0,1,0,0,20210322,calcaterra chris m.,110465921039872,Chief Operating Officer,male,45247000.0
+57739.0,,1192448,glaukos corp,0,1,0,0,20210322,gilliam joseph e,110465921039873,"CFO, SVP Corporate Development",male,45247000.0
+348182.0,835954.0,1192448,glaukos corp,1,1,0,0,20210406,burns thomas william,110465921047246,Chief Executive Officer,male,45988000.0
+52739.0,,1192448,glaukos corp,0,1,0,0,20210505,gilliam joseph e,110465921061899,"CFO, SVP Corporate Development",male,46281586.0
+37190.0,,1192448,glaukos corp,0,1,0,0,20210507,gilliam joseph e,110465921063275,"CFO, SVP Corporate Development",male,46281586.0
+14752.0,,1192448,glaukos corp,1,0,0,0,20210607,foley mark j,110465921077837,,male,46281586.0
+5910.0,,1192448,glaukos corp,1,0,0,0,20210607,wen leana,110465921077830,,female,46281586.0
+5910.0,,1192448,glaukos corp,1,0,0,0,20210607,torres denice,110465921077831,,female,46281586.0
+19010.0,,1192448,glaukos corp,1,0,0,0,20210607,hoffmeister david f,110465921077832,,male,46281586.0
+8776.0,,1192448,glaukos corp,1,0,0,0,20210607,kliman gilbert h,110465921077835,,male,46281586.0
+16887.0,5000.0,1192448,glaukos corp,1,0,0,0,20210607,weisner aimee s,110465921077836,,female,46281586.0
+20064.0,,1192448,glaukos corp,1,0,0,0,20210607,stapley marc,110465921077833,,male,46281586.0
+17821.0,40479.0,1192448,glaukos corp,1,0,0,0,20210607,link william j phd,110465921077839,,male,46281586.0
+635062.0,835954.0,1192448,glaukos corp,1,1,0,0,20210809,burns thomas william,110465921102396,Chief Executive Officer,male,46561062.0
+7000.0,,1192448,glaukos corp,1,0,0,0,20210809,weisner aimee s,110465921102397,,female,46561062.0
+12985.0,337279.0,1192448,glaukos corp,1,0,0,0,20210910,kliman gilbert h,110465921114673,,male,46561062.0
+7365.0,,1192448,glaukos corp,1,0,0,0,20220105,wen leana,110465922001666,,female,46965000.0
+18342.0,7000.0,1192448,glaukos corp,1,0,0,0,20220105,weisner aimee s,110465922001665,,female,46965000.0
+7365.0,,1192448,glaukos corp,1,0,0,0,20220105,torres denice,110465922001664,,female,46965000.0
+21822.0,,1192448,glaukos corp,1,0,0,0,20220105,stapley marc,110465922001663,,male,46965000.0
+20465.0,,1192448,glaukos corp,1,0,0,0,20220105,hoffmeister david f,110465922001662,,male,46965000.0
+17238.0,,1192448,glaukos corp,1,0,0,0,20220105,foley mark j,110465922001661,,male,46965000.0
+37417.0,,1192448,glaukos corp,0,1,0,0,20220107,gilliam joseph e,110465922002372,"CFO, SVP Corporate Development",male,46965000.0
+178354.0,,1192448,glaukos corp,0,1,0,0,20220107,calcaterra chris m.,110465922002371,Chief Operating Officer,male,46965000.0
+634736.0,835954.0,1192448,glaukos corp,1,1,0,0,20220107,burns thomas william,110465922002370,Chief Executive Officer,male,46965000.0
+177708.0,,1192448,glaukos corp,0,1,0,0,20220318,calcaterra chris m.,110465922035761,Chief Operating Officer,male,46965000.0
+36771.0,,1192448,glaukos corp,0,1,0,0,20220318,gilliam joseph e,110465922035770,"CFO, SVP Corporate Development",male,46965000.0
+630343.0,835954.0,1192448,glaukos corp,1,1,0,0,20220318,burns thomas william,110465922035771,Chief Executive Officer,male,46965000.0
+181594.0,,1192448,glaukos corp,0,1,0,0,20220328,calcaterra chris m.,110465922038980,Chief Operating Officer,male,46965000.0
+76902.0,,1192448,glaukos corp,0,1,0,0,20220328,gilliam joseph e,110465922038982,"CFO, SVP Corporate Development",male,46965000.0
+670789.0,835954.0,1192448,glaukos corp,1,1,0,0,20220328,burns thomas william,110465922038987,Chief Executive Officer,male,46965000.0
+100286.0,,1192448,glaukos corp,0,1,0,0,20220405,gilliam joseph e,110465922042965,President & COO,male,47089000.0
+666967.0,835954.0,1192448,glaukos corp,1,1,0,0,20220405,burns thomas william,110465922042939,Chief Executive Officer,male,47089000.0
+44217.0,,1192448,glaukos corp,0,1,0,0,20220405,thurman alex r.,110465922042940,SVP & Chief Financial Officer,male,47089000.0
+37529.0,,1192448,glaukos corp,0,1,0,0,20220405,navratil tomas,110465922042941,Chief Development Officer,male,47089000.0
+662691.0,835954.0,1192448,glaukos corp,1,1,0,0,20220421,burns thomas william,110465922048494,Chief Executive Officer,male,47089000.0
+99614.0,,1192448,glaukos corp,0,1,0,0,20220421,gilliam joseph e,110465922048497,President & COO,male,47089000.0
+37191.0,,1192448,glaukos corp,0,1,0,0,20220421,navratil tomas,110465922048495,Chief Development Officer,male,47089000.0
+13965.0,337279.0,1192448,glaukos corp,1,0,0,0,20220518,kliman gilbert h,89924322018663,,male,47333554.0
+11729.0,,1192448,glaukos corp,1,0,0,0,20220606,wen leana,110465922068670,,female,47333554.0
+26186.0,,1192448,glaukos corp,1,0,0,0,20220606,stapley marc,110465922068664,,male,47333554.0
+8260.0,351244.0,1192448,glaukos corp,1,0,0,0,20220606,kliman gilbert h,110465922068662,,male,47333554.0
+22706.0,7000.0,1192448,glaukos corp,1,0,0,0,20220606,weisner aimee s,110465922068669,,female,47333554.0
+21602.0,,1192448,glaukos corp,1,0,0,0,20220606,foley mark j,110465922068667,,male,47333554.0
+24829.0,,1192448,glaukos corp,1,0,0,0,20220606,hoffmeister david f,110465922068665,,male,47333554.0
+11729.0,,1192448,glaukos corp,1,0,0,0,20220606,torres denice,110465922068666,,female,47333554.0
+0.0,13965.0,1192448,glaukos corp,1,0,0,0,20220808,kliman gilbert h,89924322028000,,male,47596861.0
+16347.0,,1192448,glaukos corp,1,0,0,0,20220819,kliman gilbert h,89924322029268,,male,47596861.0
+105328.0,,1192448,glaukos corp,false,true,false,false,20221205,gilliam joseph e,141588922012083,PRESIDENT & COO,male,47703276.0
+674285.0,835954.0,1192448,glaukos corp,true,true,false,false,20221205,burns thomas william,141588922012081,CHAIRMAN & CEO,male,47703276.0
+38802.0,,1192448,glaukos corp,false,true,false,false,20221205,navratil tomas,141588922012085,CHIEF DEVELOPMENT OFFICER,male,47703276.0
+684705.0,,1192448,glaukos corp,true,true,false,false,20221219,burns thomas william,141588922012786,CHAIRMAN & CEO,male,47703276.0
+,,1192448,glaukos corp,false,true,false,false,20221219,thurman alex r.,141588922012788,SVP & CHIEF FINANCIAL OFFICER,male,47703276.0
+43937.0,,1192448,glaukos corp,false,true,false,false,20221219,navratil tomas,141588922012792,CHIEF DEVELOPMENT OFFICER,male,47703276.0
+,,1192448,glaukos corp,false,true,false,false,20221219,gilliam joseph e,141588922012790,PRESIDENT & COO,male,47703276.0
+13301.0,,1192448,glaukos corp,true,false,false,false,20230104,torres denice,141588923000469,,female,47754000.0
+13301.0,,1192448,glaukos corp,true,false,false,false,20230104,wen leana,141588923000440,,female,47754000.0
+13301.0,,1192448,glaukos corp,true,false,false,false,20230104,wen leana,141588923000444,,female,47754000.0
+26401.0,,1192448,glaukos corp,true,false,false,false,20230104,hoffmeister david f,141588923000434,,male,47754000.0
+26495.0,,1192448,glaukos corp,true,false,false,false,20230104,kliman gilbert h,141588923000450,,male,47754000.0
+28086.0,,1192448,glaukos corp,true,false,false,false,20230104,stapley marc,141588923000400,,male,47754000.0
+24550.0,,1192448,glaukos corp,true,false,false,false,20230104,foley mark j,141588923000386,,male,47754000.0
+24278.0,,1192448,glaukos corp,true,false,false,false,20230104,weisner aimee s,141588923000420,,female,47754000.0
+44176.0,,1192448,glaukos corp,false,true,false,false,20230113,thurman alex r.,141588923000993,SVP & CHIEF FINANCIAL OFFICER,male,47754000.0
+681585.0,835954.0,1192448,glaukos corp,true,true,false,false,20230113,burns thomas william,141588923000995,CHAIRMAN & CEO,male,47754000.0
+104374.0,,1192448,glaukos corp,false,true,false,false,20230113,gilliam joseph e,141588923000997,PRESIDENT & COO,male,47754000.0
+41008.0,,1192448,glaukos corp,false,true,false,false,20230130,navratil tomas,141588923001601,CHIEF DEVELOPMENT OFFICER,male,47754000.0
+679062.0,,1192448,glaukos corp,true,true,false,false,20230130,burns thomas william,141588923001599,CHAIRMAN & CEO,male,47754000.0
+678341.0,,1192448,glaukos corp,true,true,false,false,20230215,burns thomas william,141588923002644,CHAIRMAN & CEO,male,47754000.0
+40652.0,,1192448,glaukos corp,false,true,false,false,20230215,navratil tomas,141588923002646,CHIEF DEVELOPMENT OFFICER,male,47754000.0
+40474.0,,1192448,glaukos corp,false,true,false,false,20230302,navratil tomas,141588923003906,CHIEF DEVELOPMENT OFFICER,male,47754000.0
+677980.0,,1192448,glaukos corp,true,true,false,false,20230302,burns thomas william,141588923003905,CHAIRMAN & CEO,male,47754000.0
+34278.0,7000.0,1192448,glaukos corp,true,false,false,false,20230310,weisner aimee s,141588923004666,,female,47754000.0
+104322.0,,1192448,glaukos corp,false,true,false,false,20230316,gilliam joseph e,141588923005035,PRESIDENT & COO,male,47754000.0
+672301.0,,1192448,glaukos corp,true,true,false,false,20230316,burns thomas william,141588923005033,CHAIRMAN & CEO,male,47754000.0
+61115.0,,1192448,glaukos corp,false,true,false,false,20230324,thurman alex r.,141588923005408,SVP & CHIEF FINANCIAL OFFICER,male,47754000.0
+67455.0,,1192448,glaukos corp,false,true,false,false,20230324,navratil tomas,141588923005406,CHIEF DEVELOPMENT OFFICER,male,47754000.0
+679595.0,,1192448,glaukos corp,true,true,false,false,20230324,burns thomas william,141588923005412,CHAIRMAN & CEO,male,47754000.0
+124958.0,,1192448,glaukos corp,false,true,false,false,20230324,gilliam joseph e,141588923005410,PRESIDENT & COO,male,47754000.0
+65679.0,,1192448,glaukos corp,false,true,false,false,20230328,navratil tomas,141588923005534,CHIEF DEVELOPMENT OFFICER,male,47754000.0
+121824.0,,1192448,glaukos corp,false,true,false,false,20230328,gilliam joseph e,141588923005533,PRESIDENT & COO,male,47754000.0
+59487.0,,1192448,glaukos corp,false,true,false,false,20230328,thurman alex r.,141588923005532,SVP & CHIEF FINANCIAL OFFICER,male,47754000.0
+120484.0,,1192448,glaukos corp,false,true,false,false,20230410,gilliam joseph e,141588923006420,PRESIDENT & COO,male,47941000.0
+675772.0,,1192448,glaukos corp,true,true,false,false,20230410,burns thomas william,141588923006424,CHAIRMAN & CEO,male,47941000.0
+65341.0,,1192448,glaukos corp,false,true,false,false,20230410,navratil tomas,141588923006418,CHIEF DEVELOPMENT OFFICER,male,47941000.0
+56526.0,,1192448,glaukos corp,false,true,false,false,20230410,thurman alex r.,141588923006422,SVP & CHIEF FINANCIAL OFFICER,male,47941000.0
+64896.0,,1192448,glaukos corp,false,true,false,false,20230419,navratil tomas,141588923006743,CHIEF DEVELOPMENT OFFICER,male,47941000.0
+674480.0,,1192448,glaukos corp,true,true,false,false,20230419,burns thomas william,141588923006744,CHAIRMAN & CEO,male,47941000.0
+64718.0,,1192448,glaukos corp,false,true,false,false,20230505,navratil tomas,141588923007513,CHIEF DEVELOPMENT OFFICER,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230505,burns thomas william,141588923007515,CHAIRMAN & CEO,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230517,burns thomas william,141588923008235,CHAIRMAN & CEO,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230519,burns thomas william,141588923008440,CHAIRMAN & CEO,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230523,burns thomas william,141588923008680,CHAIRMAN & CEO,male,48208692.0
+27508.0,17000.0,1192448,glaukos corp,true,false,false,false,20230605,weisner aimee s,141588923009285,,female,48208692.0
+16531.0,,1192448,glaukos corp,true,false,false,false,20230605,wen leana,141588923009297,,female,48208692.0
+31316.0,,1192448,glaukos corp,true,false,false,false,20230605,stapley marc,141588923009283,,male,48208692.0
+29725.0,,1192448,glaukos corp,true,false,false,false,20230605,kliman gilbert h,141588923009287,,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230605,burns thomas william,141588923009289,CHAIRMAN & CEO,male,48208692.0
+27780.0,,1192448,glaukos corp,true,false,false,false,20230605,foley mark j,141588923009293,,male,48208692.0
+29631.0,,1192448,glaukos corp,true,false,false,false,20230605,hoffmeister david f,141588923009291,,male,48208692.0
+16531.0,,1192448,glaukos corp,true,false,false,false,20230605,torres denice,141588923009295,,female,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230608,burns thomas william,141588923009452,CHAIRMAN & CEO,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230612,burns thomas william,141588923009632,CHAIRMAN & CEO,male,48208692.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230630,burns thomas william,141588923010494,CHAIRMAN & CEO,male,48385000.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230706,burns thomas william,141588923010895,CHAIRMAN & CEO,male,48385000.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230711,burns thomas william,141588923011036,CHAIRMAN & CEO,male,48385000.0
+120484.0,,1192448,glaukos corp,false,true,false,false,20230714,gilliam joseph e,141588923011120,PRESIDENT & COO,male,48385000.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230718,burns thomas william,141588923011249,CHAIRMAN & CEO,male,48385000.0
+120484.0,,1192448,glaukos corp,false,true,false,false,20230718,gilliam joseph e,141588923011251,PRESIDENT & COO,male,48385000.0
+673963.0,,1192448,glaukos corp,true,true,false,false,20230721,burns thomas william,141588923011381,CHAIRMAN & CEO,male,48385000.0
+671379.0,,1192448,glaukos corp,true,true,false,false,20230803,burns thomas william,141588923011819,CHAIRMAN & CEO,male,48649562.0
+29725.0,,1192448,glaukos corp,true,false,false,false,20230808,kliman gilbert h,141588923011933,,male,48649562.0
+50616.0,558107.0,1192448,glaukos corp,true,true,false,false,20230912,burns thomas william,141588923013191,CHAIRMAN & CEO,male,48649562.0
+64235.0,,1192448,glaukos corp,false,true,false,false,20230912,navratil tomas,141588923013180,CHIEF DEVELOPMENT OFFICER,male,48649562.0
+120089.0,,1192448,glaukos corp,false,true,false,false,20230912,gilliam joseph e,141588923013182,PRESIDENT & COO,male,48649562.0
+66287.0,,1192448,glaukos corp,false,true,false,false,20230918,navratil tomas,141588923013346,CHIEF DEVELOPMENT OFFICER,male,48649562.0
+,,1192448,glaukos corp,false,true,false,false,20230918,thurman alex r.,141588923013348,SVP & CHIEF FINANCIAL OFFICER,male,48649562.0
+54785.0,1452039.0,1192448,glaukos corp,true,true,false,false,20230918,burns thomas william,141588923013350,CHAIRMAN & CEO,male,48649562.0
+,,1192448,glaukos corp,false,true,false,false,20230918,gilliam joseph e,141588923013344,PRESIDENT & COO,male,48649562.0
+54785.0,1452039.0,1192448,glaukos corp,true,true,false,false,20231004,burns thomas william,141588923014008,CHAIRMAN & CEO,male,48720000.0
+55835.0,1452039.0,1192448,glaukos corp,true,true,false,false,20231212,burns thomas william,141588923016333,CHAIRMAN & CEO,male,48799581.0
+,,1192448,glaukos corp,false,true,false,false,20231212,gilliam joseph e,141588923016331,PRESIDENT & COO,male,48799581.0
+,,1192448,glaukos corp,false,true,false,false,20231212,thurman alex r.,141588923016329,SVP & CHIEF FINANCIAL OFFICER,male,48799581.0
+66805.0,,1192448,glaukos corp,false,true,false,false,20231212,navratil tomas,141588923016327,CHIEF DEVELOPMENT OFFICER,male,48799581.0
+31316.0,,1192448,glaukos corp,true,false,false,false,20231218,stapley marc,141588923016668,,male,48799581.0
+55835.0,1452039.0,1192448,glaukos corp,true,true,false,false,20231218,burns thomas william,141588923016664,CHAIRMAN & CEO,male,48799581.0
+55825.0,,1192448,glaukos corp,false,true,false,false,20231218,thurman alex r.,141588923016672,SVP & CHIEF FINANCIAL OFFICER,male,48799581.0
+120001.0,,1192448,glaukos corp,false,true,false,false,20231222,gilliam joseph e,141588923016914,PRESIDENT & COO,male,48799581.0
+55242.0,,1192448,glaukos corp,false,true,false,false,20231222,thurman alex r.,141588923016912,SVP & CHIEF FINANCIAL OFFICER,male,48799581.0
+55835.0,1452039.0,1192448,glaukos corp,true,true,false,false,20231222,burns thomas william,141588923016910,CHAIRMAN & CEO,male,48799581.0
+55835.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240103,burns thomas william,141588924000389,CHAIRMAN & CEO,male,49120000.0
+30620.0,16347.0,1192448,glaukos corp,true,false,false,false,20240104,kliman gilbert h,141588924000625,,male,49120000.0
+7399.0,23374.0,1192448,glaukos corp,true,false,false,false,20240104,hoffmeister david f,141588924000620,,male,49120000.0
+28403.0,17000.0,1192448,glaukos corp,true,false,false,false,20240104,weisner aimee s,141588924000627,,female,49120000.0
+17426.0,,1192448,glaukos corp,true,false,false,false,20240104,torres denice,141588924000632,,female,49120000.0
+32398.0,,1192448,glaukos corp,true,false,false,false,20240104,stapley marc,141588924000629,,male,49120000.0
+55835.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240110,burns thomas william,141588924000952,CHAIRMAN & CEO,male,49120000.0
+55438.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240116,burns thomas william,141588924001105,CHAIRMAN & CEO,male,49120000.0
+119802.0,,1192448,glaukos corp,false,true,false,false,20240116,gilliam joseph e,141588924001111,PRESIDENT & COO,male,49120000.0
+65596.0,,1192448,glaukos corp,false,true,false,false,20240116,navratil tomas,141588924001109,CHIEF DEVELOPMENT OFFICER,male,49120000.0
+55201.0,,1192448,glaukos corp,false,true,false,false,20240116,thurman alex r.,141588924001107,SVP & CHIEF FINANCIAL OFFICER,male,49120000.0
+119802.0,,1192448,glaukos corp,false,true,false,false,20240118,gilliam joseph e,141588924001532,PRESIDENT & COO,male,49120000.0
+54618.0,,1192448,glaukos corp,false,true,false,false,20240122,thurman alex r.,141588924001640,SVP & CHIEF FINANCIAL OFFICER,male,49120000.0
+119802.0,,1192448,glaukos corp,false,true,false,false,20240124,gilliam joseph e,141588924001779,PRESIDENT & COO,male,49120000.0
+119802.0,,1192448,glaukos corp,false,true,false,false,20240131,gilliam joseph e,141588924002083,PRESIDENT & COO,male,49120000.0
+54035.0,,1192448,glaukos corp,false,true,false,false,20240209,thurman alex r.,141588924003218,SVP & CHIEF FINANCIAL OFFICER,male,49120000.0
+119802.0,,1192448,glaukos corp,false,true,false,false,20240212,gilliam joseph e,141588924003420,PRESIDENT & COO,male,49120000.0
+119802.0,,1192448,glaukos corp,false,true,false,false,20240214,gilliam joseph e,141588924003767,PRESIDENT & COO,male,49120000.0
+33220.0,,1192448,glaukos corp,true,false,false,false,20240226,foley mark j,141588924005327,,male,49120000.0
+98388.0,,1192448,glaukos corp,false,true,false,false,20240227,gilliam joseph e,141588924005638,PRESIDENT & COO,male,49120000.0
+8347.0,,1192448,glaukos corp,true,false,false,false,20240229,kliman gilbert h,141588924005947,,male,49120000.0
+32360.0,,1192448,glaukos corp,true,false,false,false,20240304,stapley marc,141588924006435,,male,49120000.0
+30620.0,,1192448,glaukos corp,true,false,false,false,20240308,kliman gilbert h,141588924007388,,male,49120000.0
+94215.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240318,burns thomas william,141588924008354,CHAIRMAN & CEO,male,49120000.0
+79648.0,,1192448,glaukos corp,false,true,false,false,20240318,navratil tomas,141588924008352,CHIEF DEVELOPMENT OFFICER,male,49120000.0
+111017.0,,1192448,glaukos corp,false,true,false,false,20240318,gilliam joseph e,141588924008358,PRESIDENT & COO,male,49120000.0
+58990.0,,1192448,glaukos corp,false,true,false,false,20240318,thurman alex r.,141588924008356,SVP & CHIEF FINANCIAL OFFICER,male,49120000.0
+79189.0,,1192448,glaukos corp,false,true,false,false,20240327,navratil tomas,141588924009226,CHIEF DEVELOPMENT OFFICER,male,49120000.0
+92629.0,,1192448,glaukos corp,true,true,false,false,20240327,burns thomas william,141588924009218,CHAIRMAN & CEO,male,49120000.0
+103809.0,,1192448,glaukos corp,false,true,false,false,20240401,gilliam joseph e,141588924009549,PRESIDENT & COO,male,49847000.0
+56391.0,,1192448,glaukos corp,false,true,false,false,20240401,thurman alex r.,141588924009543,SVP & CHIEF FINANCIAL OFFICER,male,49847000.0
+74168.0,,1192448,glaukos corp,false,true,false,false,20240401,navratil tomas,141588924009541,CHIEF DEVELOPMENT OFFICER,male,49847000.0
+86180.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240401,burns thomas william,141588924009553,CHAIRMAN & CEO,male,49847000.0
+73674.0,,1192448,glaukos corp,false,true,false,false,20240403,navratil tomas,141588924010200,CHIEF DEVELOPMENT OFFICER,male,49847000.0
+54916.0,,1192448,glaukos corp,false,true,false,false,20240403,thurman alex r.,141588924010205,SVP & CHIEF FINANCIAL OFFICER,male,49847000.0
+82273.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240403,burns thomas william,141588924010198,CHAIRMAN & CEO,male,49847000.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240403,gilliam joseph e,141588924010196,PRESIDENT & COO,male,49847000.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240405,gilliam joseph e,141588924010452,PRESIDENT & COO,male,49847000.0
+54166.0,,1192448,glaukos corp,false,true,false,false,20240405,thurman alex r.,141588924010450,SVP & CHIEF FINANCIAL OFFICER,male,49847000.0
+52532.0,,1192448,glaukos corp,false,true,false,false,20240409,thurman alex r.,141588924010614,SVP & CHIEF FINANCIAL OFFICER,male,49847000.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240409,gilliam joseph e,141588924010612,PRESIDENT & COO,male,49847000.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240410,gilliam joseph e,141588924010674,PRESIDENT & COO,male,49847000.0
+15767.0,24946.0,1192448,glaukos corp,true,false,false,false,20240412,hoffmeister david f,141588924010785,,male,49847000.0
+52090.0,,1192448,glaukos corp,false,true,false,false,20240506,thurman alex r.,141588924012361,SVP & CHIEF FINANCIAL OFFICER,male,50367507.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240506,gilliam joseph e,141588924012358,PRESIDENT & COO,male,50367507.0
+52000.0,,1192448,glaukos corp,false,true,false,false,20240508,thurman alex r.,141588924012631,SVP & CHIEF FINANCIAL OFFICER,male,50367507.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240508,gilliam joseph e,141588924012635,PRESIDENT & COO,male,50367507.0
+51647.0,,1192448,glaukos corp,false,true,false,false,20240514,thurman alex r.,141588924013132,SVP & CHIEF FINANCIAL OFFICER,male,50367507.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240514,gilliam joseph e,141588924013136,PRESIDENT & COO,male,50367507.0
+32360.0,,1192448,glaukos corp,true,false,false,false,20240516,stapley marc,141588924013385,,male,50367507.0
+7483.0,34946.0,1192448,glaukos corp,true,false,false,false,20240603,hoffmeister david f,141588924015232,,male,50367507.0
+34076.0,,1192448,glaukos corp,true,false,false,false,20240603,stapley marc,141588924015234,,male,50367507.0
+34936.0,,1192448,glaukos corp,true,false,false,false,20240603,foley mark j,141588924015236,,male,50367507.0
+18247.0,,1192448,glaukos corp,true,false,false,false,20240603,wen leana,141588924015238,,female,50367507.0
+19142.0,,1192448,glaukos corp,true,false,false,false,20240603,torres denice,141588924015240,,female,50367507.0
+30119.0,17000.0,1192448,glaukos corp,true,false,false,false,20240603,weisner aimee s,141588924015242,,female,50367507.0
+32336.0,,1192448,glaukos corp,true,false,false,false,20240603,kliman gilbert h,141588924015246,,male,50367507.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240605,gilliam joseph e,141588924015681,PRESIDENT & COO,male,50367507.0
+73154.0,,1192448,glaukos corp,false,true,false,false,20240626,navratil tomas,141588924018269,CHIEF DEVELOPMENT OFFICER,male,50367507.0
+81215.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240626,burns thomas william,141588924018270,CHAIRMAN & CEO,male,50367507.0
+101845.0,,1192448,glaukos corp,false,true,false,false,20240709,gilliam joseph e,141588924019438,PRESIDENT & COO,male,54824000.0
+80158.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240808,burns thomas william,141588924021015,CHAIRMAN & CEO,male,54950459.0
+72634.0,,1192448,glaukos corp,false,true,false,false,20240808,navratil tomas,141588924021013,CHIEF DEVELOPMENT OFFICER,male,54950459.0
+30119.0,17000.0,1192448,glaukos corp,true,false,false,false,20240812,weisner aimee s,141588924021096,,female,54950459.0
+34076.0,,1192448,glaukos corp,true,false,false,false,20240819,stapley marc,141588924021611,,male,54950459.0
+102169.0,,1192448,glaukos corp,false,true,false,false,20240823,gilliam joseph e,141588924022146,PRESIDENT & COO,male,54950459.0
+32336.0,,1192448,glaukos corp,true,false,false,false,20240911,kliman gilbert h,141588924023258,,male,54950459.0
+,,1192448,glaukos corp,false,true,false,false,20240923,thurman alex r.,141588924023868,SVP & CHIEF FINANCIAL OFFICER,male,54950459.0
+76742.0,,1192448,glaukos corp,false,true,false,false,20240923,navratil tomas,141588924023866,CHIEF DEVELOPMENT OFFICER,male,54950459.0
+88494.0,1452039.0,1192448,glaukos corp,true,true,false,false,20240923,burns thomas william,141588924023864,CHAIRMAN & CEO,male,54950459.0
+,,1192448,glaukos corp,false,true,false,false,20240923,gilliam joseph e,141588924023870,PRESIDENT & COO,male,54950459.0
+76232.0,,1192448,glaukos corp,false,true,false,false,20241016,navratil tomas,141588924025228,CHIEF DEVELOPMENT OFFICER,male,55094000.0
+87396.0,1452039.0,1192448,glaukos corp,true,true,false,false,20241016,burns thomas william,141588924025227,CHAIRMAN & CEO,male,55094000.0
+102169.0,,1192448,glaukos corp,false,true,false,false,20241101,gilliam joseph e,141588924025918,PRESIDENT & COO,male,55137429.0
+32336.0,,1192448,glaukos corp,true,false,false,false,20241213,kliman gilbert h,141588924029374,,male,55137429.0
+102169.0,,1192448,glaukos corp,false,true,false,false,20241223,gilliam joseph e,141588924030120,PRESIDENT & COO,male,55137429.0
+32336.0,,1192448,glaukos corp,true,false,false,false,20241223,kliman gilbert h,141588924030109,,male,55137429.0

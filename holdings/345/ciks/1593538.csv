@@ -1,72 +1,366 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1593538,navient corp,,,1.0,,20140502,slm corp,112760214016205,,male,422739239.0
-12611.0,0.0,1593538,navient corp,1.0,,,,20140502,torre bates ann,112760214016207,,male,422739239.0
-94286.0,0.0,1593538,navient corp,1.0,,,,20140502,diefenderfer william m iii,112760214016210,,male,422739239.0
-98495.0,0.0,1593538,navient corp,1.0,,,,20140502,suitt gilleland diane,112760214016212,,male,422739239.0
-108000.0,0.0,1593538,navient corp,1.0,,,,20140502,shapiro steven l,112760214016213,,male,422739239.0
-34345.0,0.0,1593538,navient corp,1.0,,,,20140502,munitz barry a,112760214016215,,male,422739239.0
-41005.0,0.0,1593538,navient corp,1.0,,,,20140505,williams barry lawson,112760214016361,,male,422739239.0
-125230.0156,0.0,1593538,navient corp,,1.0,,,20140505,chivavibul somsak,112760214016363,Chief Financial Officer,male,422739239.0
-927350.9696,0.0,1593538,navient corp,1.0,1.0,,,20140505,remondi john f,112760214016366,Chief Executive Officer,male,422739239.0
-73461.7882,0.0,1593538,navient corp,,1.0,,,20140505,hynes timothy j iv,112760214016368,Chief Risk Officer,male,422739239.0
-121179.982,0.0,1593538,navient corp,,1.0,,,20140505,kane john m,112760214016375,Chief Operating Officer,male,422739239.0
-47266.0,0.0,1593538,navient corp,1.0,,,,20140527,williams barry lawson,112760214018934,,male,422739239.0
-6261.0,0.0,1593538,navient corp,1.0,,,,20140527,thompson jane j.,112760214018929,,female,422739239.0
-40606.0,0.0,1593538,navient corp,1.0,,,,20140527,munitz barry a,112760214018923,,male,422739239.0
+98495.0,,1593538,navient corp,1.0,,,,20140502,suitt gilleland diane,112760214016212,,male,422739239.0
+0.0,,1593538,navient corp,,,1.0,,20140502,slm corp,112760214016205,,male,422739239.0
+94286.0,,1593538,navient corp,1.0,,,,20140502,diefenderfer william m iii,112760214016210,,male,422739239.0
+12611.0,,1593538,navient corp,1.0,,,,20140502,torre bates ann,112760214016207,,male,422739239.0
+108000.0,,1593538,navient corp,1.0,,,,20140502,shapiro steven l,112760214016213,,male,422739239.0
+34345.0,,1593538,navient corp,1.0,,,,20140502,munitz barry a,112760214016215,,male,422739239.0
+125230.0156,,1593538,navient corp,,1.0,,,20140505,chivavibul somsak,112760214016363,Chief Financial Officer,male,422739239.0
+41005.0,,1593538,navient corp,1.0,,,,20140505,williams barry lawson,112760214016361,,male,422739239.0
+73461.7882,,1593538,navient corp,,1.0,,,20140505,hynes timothy j iv,112760214016368,Chief Risk Officer,male,422739239.0
+121179.982,,1593538,navient corp,,1.0,,,20140505,kane john m,112760214016375,Chief Operating Officer,male,422739239.0
+927350.9696,,1593538,navient corp,1.0,1.0,,,20140505,remondi john f,112760214016366,Chief Executive Officer,male,422739239.0
+18872.0,,1593538,navient corp,1.0,,,,20140527,torre bates ann,112760214018898,,male,422739239.0
+103678.0,,1593538,navient corp,1.0,,,,20140527,diefenderfer william m iii,112760214018900,,male,422739239.0
+104756.0,,1593538,navient corp,1.0,,,,20140527,suitt gilleland diane,112760214018902,,male,422739239.0
+6261.0,,1593538,navient corp,1.0,,,,20140527,mills linda a,112760214018914,,female,422739239.0
+40606.0,,1593538,navient corp,1.0,,,,20140527,munitz barry a,112760214018923,,male,422739239.0
 46436.0,111000.0,1593538,navient corp,1.0,,,,20140527,shapiro steven l,112760214018926,,male,422739239.0
-104756.0,0.0,1593538,navient corp,1.0,,,,20140527,suitt gilleland diane,112760214018902,,male,422739239.0
-103678.0,0.0,1593538,navient corp,1.0,,,,20140527,diefenderfer william m iii,112760214018900,,male,422739239.0
-18872.0,0.0,1593538,navient corp,1.0,,,,20140527,torre bates ann,112760214018898,,male,422739239.0
-6261.0,0.0,1593538,navient corp,1.0,,,,20140527,mills linda a,112760214018914,,female,422739239.0
-0.0,0.0,1593538,navient corp,1.0,,,,20140728,torre bates ann,112760214023985,,male,419438459.0
-32816.0,0.0,1593538,navient corp,1.0,,,,20140804,williams barry lawson,112760214024691,,male,419438459.0
-927925.9865,0.0,1593538,navient corp,1.0,1.0,,,20140812,remondi john f,112760214025341,Chief Executive Officer,male,419438459.0
+6261.0,,1593538,navient corp,1.0,,,,20140527,thompson jane j.,112760214018929,,female,422739239.0
+47266.0,,1593538,navient corp,1.0,,,,20140527,williams barry lawson,112760214018934,,male,422739239.0
+,,1593538,navient corp,1.0,,,,20140728,torre bates ann,112760214023985,,male,419438459.0
+32816.0,,1593538,navient corp,1.0,,,,20140804,williams barry lawson,112760214024691,,male,419438459.0
+927925.9865,,1593538,navient corp,1.0,1.0,,,20140812,remondi john f,112760214025341,Chief Executive Officer,male,419438459.0
 76425.0,3000.0,1593538,navient corp,1.0,,,,20141112,shapiro steven l,112760214032015,,male,410219225.0
-2511.0,0.0,1593538,navient corp,1.0,,,,20141118,unger laura s,112760214032731,,female,410219225.0
-2511.0,0.0,1593538,navient corp,1.0,,,,20141118,lehman katherine a,112760214032729,,female,410219225.0
-2511.0,0.0,1593538,navient corp,1.0,,,,20141118,adams john k jr,112760214032727,,male,410219225.0
+2511.0,,1593538,navient corp,1.0,,,,20141118,adams john k jr,112760214032727,,male,410219225.0
+2511.0,,1593538,navient corp,1.0,,,,20141118,lehman katherine a,112760214032729,,female,410219225.0
+2511.0,,1593538,navient corp,1.0,,,,20141118,unger laura s,112760214032731,,female,410219225.0
 122574.6177,6548.5582,1593538,navient corp,,1.0,,,20141120,kane john m,112760214033027,Chief Operating Officer,male,410219225.0
-2059.0,0.0,1593538,navient corp,1.0,,,,20141211,cabral anna escobedo,112760214034909,,female,410219225.0
-72958.4914,0.0,1593538,navient corp,,1.0,,,20150205,hynes timothy j iv,112760215004609,Chief Risk Officer,male,401460484.0
-0.0,0.0,1593538,navient corp,1.0,,,,20150205,diefenderfer william m iii,112760215004604,,male,401460484.0
-928750.7021,0.0,1593538,navient corp,1.0,1.0,,,20150205,remondi john f,112760215004605,Chief Executive Officer,male,401460484.0
+2059.0,,1593538,navient corp,1.0,,,,20141211,cabral anna escobedo,112760214034909,,female,410219225.0
+,,1593538,navient corp,1.0,,,,20150205,diefenderfer william m iii,112760215004604,,male,401460484.0
+928750.7021,,1593538,navient corp,1.0,1.0,,,20150205,remondi john f,112760215004605,Chief Executive Officer,male,401460484.0
 2098.0,18165.6314,1593538,navient corp,,1.0,,,20150205,chivavibul somsak,112760215004606,Chief Financial Officer,male,401460484.0
 117299.7829,6640.9971000000005,1593538,navient corp,,1.0,,,20150205,kane john m,112760215004607,Chief Operating Officer,male,401460484.0
-111803.7829,6641.398499999999,1593538,navient corp,,1.0,,,20150206,kane john m,112760215004875,Chief Operating Officer,male,401460484.0
+72958.4914,,1593538,navient corp,,1.0,,,20150205,hynes timothy j iv,112760215004609,Chief Risk Officer,male,401460484.0
+899745.7021,,1593538,navient corp,1.0,1.0,,,20150206,remondi john f,112760215004871,Chief Executive Officer,male,401460484.0
+68133.4914,,1593538,navient corp,,1.0,,,20150206,hynes timothy j iv,112760215004873,Chief Risk Officer,male,401460484.0
 118459.7825,20264.92,1593538,navient corp,,1.0,,,20150206,chivavibul somsak,112760215004874,Chief Financial Officer,male,401460484.0
-899745.7021,0.0,1593538,navient corp,1.0,1.0,,,20150206,remondi john f,112760215004871,Chief Executive Officer,male,401460484.0
-68133.4914,0.0,1593538,navient corp,,1.0,,,20150206,hynes timothy j iv,112760215004873,Chief Risk Officer,male,401460484.0
-894865.7021,0.0,1593538,navient corp,1.0,1.0,,,20150210,remondi john f,112760215005344,Chief Executive Officer,male,401460484.0
+111803.7829,6641.398499999999,1593538,navient corp,,1.0,,,20150206,kane john m,112760215004875,Chief Operating Officer,male,401460484.0
+894865.7021,,1593538,navient corp,1.0,1.0,,,20150210,remondi john f,112760215005344,Chief Executive Officer,male,401460484.0
+64455.4914,,1593538,navient corp,,1.0,,,20150210,hynes timothy j iv,112760215005353,Chief Risk Officer,male,401460484.0
 114614.3202,20256.57,1593538,navient corp,,1.0,,,20150210,chivavibul somsak,112760215005345,Chief Financial Officer,male,401460484.0
 107212.7829,6663.5941,1593538,navient corp,,1.0,,,20150210,kane john m,112760215005347,Chief Operating Officer,male,401460484.0
-64455.4914,0.0,1593538,navient corp,,1.0,,,20150210,hynes timothy j iv,112760215005353,Chief Risk Officer,male,401460484.0
-0.0,0.0,1593538,navient corp,1.0,,,,20150220,williams barry lawson,112760215007459,,male,401460484.0
-97643.4914,0.0,1593538,navient corp,,1.0,,,20150220,hynes timothy j iv,112760215007473,"EVP, Chief Risk&Compliance Off",male,401460484.0
-1043677.7021,0.0,1593538,navient corp,1.0,1.0,,,20150220,remondi john f,112760215007470,Chief Executive Officer,male,401460484.0
+6677.0,,1593538,navient corp,1.0,,,,20150220,cabral anna escobedo,112760215007434,,female,401460484.0
+23490.0,,1593538,navient corp,1.0,,,,20150220,torre bates ann,112760215007433,,male,401460484.0
+7129.0,,1593538,navient corp,1.0,,,,20150220,adams john k jr,112760215007432,,male,401460484.0
+1043677.7021,,1593538,navient corp,1.0,1.0,,,20150220,remondi john f,112760215007470,Chief Executive Officer,male,401460484.0
 159457.7829,7023.549499999999,1593538,navient corp,,1.0,,,20150220,kane john m,112760215007469,EVP & Chief Operating Officer,male,401460484.0
 34383.305,1908.6647,1593538,navient corp,,1.0,,,20150220,heleen mark l,112760215007464,EVP & Chief Legal Officer,male,401460484.0
 156316.3202,20257.4702,1593538,navient corp,,1.0,,,20150220,chivavibul somsak,112760215007462,EVP & Chief Financial Officer,male,401460484.0
-0.0,0.0,1593538,navient corp,1.0,,,,20150220,thompson jane j.,112760215007454,,female,401460484.0
+,,1593538,navient corp,1.0,,,,20150220,williams barry lawson,112760215007459,,male,401460484.0
+97643.4914,,1593538,navient corp,,1.0,,,20150220,hynes timothy j iv,112760215007473,"EVP, Chief Risk&Compliance Off",male,401460484.0
+,,1593538,navient corp,1.0,,,,20150220,thompson jane j.,112760215007454,,female,401460484.0
 51077.0,79425.0,1593538,navient corp,1.0,,,,20150220,shapiro steven l,112760215007450,,male,401460484.0
-0.0,0.0,1593538,navient corp,1.0,,,,20150220,unger laura s,112760215007457,,female,401460484.0
-0.0,0.0,1593538,navient corp,1.0,,,,20150220,mills linda a,112760215007440,,female,401460484.0
-7129.0,0.0,1593538,navient corp,1.0,,,,20150220,lehman katherine a,112760215007439,,female,401460484.0
-109397.0,0.0,1593538,navient corp,1.0,,,,20150220,suitt gilleland diane,112760215007437,,male,401460484.0
-0.0,0.0,1593538,navient corp,1.0,,,,20150220,diefenderfer william m iii,112760215007435,,male,401460484.0
-6677.0,0.0,1593538,navient corp,1.0,,,,20150220,cabral anna escobedo,112760215007434,,female,401460484.0
-23490.0,0.0,1593538,navient corp,1.0,,,,20150220,torre bates ann,112760215007433,,male,401460484.0
-7129.0,0.0,1593538,navient corp,1.0,,,,20150220,adams john k jr,112760215007432,,male,401460484.0
-45224.0,0.0,1593538,navient corp,1.0,,,,20150220,munitz barry a,112760215007444,,male,401460484.0
-994444.7021,0.0,1593538,navient corp,1.0,1.0,,,20150306,remondi john f,112760215010440,Chief Executive Officer,male,401460484.0
+45224.0,,1593538,navient corp,1.0,,,,20150220,munitz barry a,112760215007444,,male,401460484.0
+,,1593538,navient corp,1.0,,,,20150220,mills linda a,112760215007440,,female,401460484.0
+7129.0,,1593538,navient corp,1.0,,,,20150220,lehman katherine a,112760215007439,,female,401460484.0
+109397.0,,1593538,navient corp,1.0,,,,20150220,suitt gilleland diane,112760215007437,,male,401460484.0
+,,1593538,navient corp,1.0,,,,20150220,diefenderfer william m iii,112760215007435,,male,401460484.0
+,,1593538,navient corp,1.0,,,,20150220,unger laura s,112760215007457,,female,401460484.0
+994444.7021,,1593538,navient corp,1.0,1.0,,,20150306,remondi john f,112760215010440,Chief Executive Officer,male,401460484.0
 154951.4841,20423.522,1593538,navient corp,,1.0,,,20150505,chivavibul somsak,112760215016340,EVP & Chief Financial Officer,male,389021445.0
 157305.2702,7086.3751,1593538,navient corp,,1.0,,,20150505,kane john m,112760215016333,EVP & Chief Operating Officer,male,389021445.0
-97164.3745,0.0,1593538,navient corp,,1.0,,,20150505,hynes timothy j iv,112760215016337,"EVP, Chief Risk&Compliance Off",male,389021445.0
-15511.0,0.0,1593538,navient corp,,1.0,,,20150604,whorley john f jr,112760215019873,"EVP, Servicing Operations",male,389021445.0
+97164.3745,,1593538,navient corp,,1.0,,,20150505,hynes timothy j iv,112760215016337,"EVP, Chief Risk&Compliance Off",male,389021445.0
+15511.0,,1593538,navient corp,,1.0,,,20150604,whorley john f jr,112760215019873,"EVP, Servicing Operations",male,389021445.0
 33490.2774,1925.7433,1593538,navient corp,,1.0,,,20150611,heleen mark l,112760215020525,EVP & Chief Legal Officer,male,389021445.0
-250.0,0.0,1593538,navient corp,1.0,1.0,,,20150730,remondi john f,112760215023770,Chief Executive Officer,male,374032762.0
-34240.2259,1946.749,1593538,navient corp,,1.0,,,20150804,heleen mark l,112760215024192,EVP & Chief Legal Officer,male,374032762.0
+250.0,,1593538,navient corp,1.0,1.0,,,20150730,remondi john f,112760215023770,Chief Executive Officer,male,374032762.0
 158622.4626,7160.0301,1593538,navient corp,,1.0,,,20150804,kane john m,112760215024190,EVP & Group President,male,374032762.0
 156057.3144,20619.8115,1593538,navient corp,,1.0,,,20150804,chivavibul somsak,112760215024191,EVP & Chief Financial Officer,male,374032762.0
+34240.2259,1946.749,1593538,navient corp,,1.0,,,20150804,heleen mark l,112760215024192,EVP & Chief Legal Officer,male,374032762.0
+34240.2259,1946.749,1593538,navient corp,,1.0,,,20150804,heleen mark l,112760215024192,EVP & Chief Legal Officer,male,374032762.0
+156057.3144,20619.8115,1593538,navient corp,,1.0,,,20150804,chivavibul somsak,112760215024191,EVP & Chief Financial Officer,male,374032762.0
+158622.4626,7160.0301,1593538,navient corp,,1.0,,,20150804,kane john m,112760215024190,EVP & Group President,male,374032762.0
 1017499.3834,250.0,1593538,navient corp,1.0,1.0,,,20150811,remondi john f,112760215024734,Chief Executive Officer,male,374032762.0
+1017499.3834,250.0,1593538,navient corp,1.0,1.0,,,20150811,remondi john f,112760215024734,Chief Executive Officer,male,374032762.0
+5336.1524,,1593538,navient corp,,1.0,,,20150819,heleen mark l,112760215025422,EVP & Chief Legal Officer,male,374032762.0
 28702.1938,2098.0,1593538,navient corp,,1.0,,,20150819,chivavibul somsak,112760215025419,EVP & Chief Financial Officer,male,374032762.0
-5336.1524,0.0,1593538,navient corp,,1.0,,,20150819,heleen mark l,112760215025422,EVP & Chief Legal Officer,male,374032762.0
+5336.1524,,1593538,navient corp,,1.0,,,20150819,heleen mark l,112760215025422,EVP & Chief Legal Officer,male,374032762.0
+28702.1938,2098.0,1593538,navient corp,,1.0,,,20150819,chivavibul somsak,112760215025419,EVP & Chief Financial Officer,male,374032762.0
+9629.0,,1593538,navient corp,1.0,,,,20151103,lehman katherine a,112760215030177,,female,362308654.0
+244248.2584,31735.1635,1593538,navient corp,,1.0,,,20160205,chivavibul somsak,112760216039929,EVP & Chief Financial Officer,male,342817020.0
+276233.8958,7347.0136,1593538,navient corp,,1.0,,,20160205,kane john m,112760216039937,EVP & Group President,male,342817020.0
+87719.3577,5901.1289,1593538,navient corp,,1.0,,,20160205,heleen mark l,112760216039935,EVP & Chief Legal Officer,male,342817020.0
+131084.4051,,1593538,navient corp,,1.0,,,20160205,whorley john f jr,112760216039933,EVP & Group President,male,342817020.0
+176106.6655,,1593538,navient corp,,1.0,,,20160205,hynes timothy j iv,112760216039931,"EVP, Chief Risk&Compliance Off",male,342817020.0
+,,1593538,navient corp,1.0,,,,20160205,williams barry lawson,112760216039926,,male,342817020.0
+,,1593538,navient corp,1.0,,,,20160205,thompson jane j.,112760216039924,,female,342817020.0
+,,1593538,navient corp,1.0,,,,20160205,diefenderfer william m iii,112760216039923,,male,342817020.0
+,,1593538,navient corp,1.0,,,,20160205,cabral anna escobedo,112760216039922,,female,342817020.0
+1363465.0252,250.0,1593538,navient corp,1.0,1.0,,,20160205,remondi john f,112760216039928,Chief Executive Officer,male,342817020.0
+62005.0,79425.0,1593538,navient corp,1.0,,,,20160205,shapiro steven l,112760216039920,,male,342817020.0
+13404.0,,1593538,navient corp,1.0,,,,20160205,unger laura s,112760216039921,,female,342817020.0
+34418.0,,1593538,navient corp,1.0,,,,20160205,torre bates ann,112760216039915,,male,342817020.0
+120325.0,,1593538,navient corp,1.0,,,,20160205,suitt gilleland diane,112760216039916,,male,342817020.0
+20557.0,,1593538,navient corp,1.0,,,,20160205,lehman katherine a,112760216039917,,female,342817020.0
+18057.0,,1593538,navient corp,1.0,,,,20160205,adams john k jr,112760216039914,,male,342817020.0
+17154.0,,1593538,navient corp,1.0,,,,20160205,mills linda a,112760216039918,,female,342817020.0
+56152.0,,1593538,navient corp,1.0,,,,20160205,munitz barry a,112760216039919,,male,342817020.0
+239082.5375,47520.8465,1593538,navient corp,,1.0,,,20160208,chivavibul somsak,112760216040107,EVP & Chief Financial Officer,male,342817020.0
+1329232.0652,250.0,1593538,navient corp,1.0,1.0,,,20160208,remondi john f,112760216040101,Chief Executive Officer,male,342817020.0
+268915.8776,7350.1893,1593538,navient corp,,1.0,,,20160208,kane john m,112760216040102,EVP & Group President,male,342817020.0
+170047.9701,,1593538,navient corp,,1.0,,,20160208,hynes timothy j iv,112760216040103,"EVP, Chief Risk&Compliance Off",male,342817020.0
+91519.3577,5903.6803,1593538,navient corp,,1.0,,,20160208,heleen mark l,112760216040104,EVP & Chief Legal Officer,male,342817020.0
+240922.6797,31747.9758,1593538,navient corp,,1.0,,,20160208,chivavibul somsak,112760216040105,EVP & Chief Financial Officer,male,342817020.0
+45422.8465,2098.0,1593538,navient corp,,1.0,,,20160208,chivavibul somsak,112760216040106,EVP & Chief Financial Officer,male,342817020.0
+1409232.0652,250.0,1593538,navient corp,1.0,1.0,,,20160210,remondi john f,112760216040478,Chief Executive Officer,male,342817020.0
+1397829.0652,250.0,1593538,navient corp,1.0,1.0,,,20160222,remondi john f,112760216042794,Chief Executive Officer,male,342817020.0
+265958.8776,7350.9595,1593538,navient corp,,1.0,,,20160222,kane john m,112760216042796,EVP & Group President,male,342817020.0
+236648.5375,47525.6051,1593538,navient corp,,1.0,,,20160222,chivavibul somsak,112760216042795,EVP & Chief Financial Officer,male,342817020.0
+168095.9701,,1593538,navient corp,,1.0,,,20160222,hynes timothy j iv,112760216042797,"EVP, Chief Risk&Compliance Off",male,342817020.0
+89598.6068,5904.2981,1593538,navient corp,,1.0,,,20160222,heleen mark l,112760216042798,EVP & Chief Legal Officer,male,342817020.0
+1351445.8978,250.0,1593538,navient corp,1.0,1.0,,,20160302,remondi john f,112760216044641,Chief Executive Officer,male,342817020.0
+168912.3257,,1593538,navient corp,,1.0,,,20160504,hynes timothy j iv,112760216051113,"EVP, Chief Risk&Compliance Off",male,330513819.0
+237005.9438,47990.4579,1593538,navient corp,,1.0,,,20160504,chivavibul somsak,112760216051114,EVP & Chief Financial Officer,male,330513819.0
+266183.813,7426.18,1593538,navient corp,,1.0,,,20160504,kane john m,112760216051115,EVP & Group President,male,330513819.0
+131015.093,,1593538,navient corp,,1.0,,,20160602,whorley john f jr,112760216054553,EVP & Group President,male,330513819.0
+89386.5728,5973.7622,1593538,navient corp,,1.0,,,20160613,heleen mark l,112760216055471,EVP & Chief Legal Officer,male,330513819.0
+25558.0,,1593538,navient corp,1.0,,,,20160727,torre bates ann,112760216058780,,male,317033006.0
+1362118.3457,250.0,1593538,navient corp,1.0,1.0,,,20160810,remondi john f,112760216060028,Chief Executive Officer,male,317033006.0
+88736.794,,1593538,navient corp,1.0,,,,20160823,diefenderfer william m iii,112760216061006,,male,317033006.0
+124513.0,,1593538,navient corp,1.0,,,,20160906,suitt gilleland diane,112760216061956,,male,317033006.0
+240426.2643,49118.1419,1593538,navient corp,,1.0,,,20161114,chivavibul somsak,112760216067056,EVP & Chief Financial Officer,male,303098470.0
+107273.0,,1593538,navient corp,1.0,,,,20161114,suitt gilleland diane,112760216067054,,male,303098470.0
+270741.7406,7608.6586,1593538,navient corp,,1.0,,,20161114,kane john m,112760216067055,EVP & Group President,male,303098470.0
+97273.0,,1593538,navient corp,1.0,,,,20161117,suitt gilleland diane,112760216067672,,male,303098470.0
+100727.794,,1593538,navient corp,1.0,,,,20161121,diefenderfer william m iii,112760216067925,,male,303098470.0
+38169.0,,1593538,navient corp,1.0,,,,20170109,williams barry lawson,112760217001406,,male,303098470.0
+61823.0,,1593538,navient corp,1.0,,,,20170118,munitz barry a,112760217001909,,male,303098470.0
+1324815.4384,250.0,1593538,navient corp,1.0,1.0,,,20170131,remondi john f,112760217003181,Chief Executive Officer,male,291008528.0
+200162.6813,,1593538,navient corp,,1.0,,,20170207,whorley john f jr,112760217004445,EVP & Group President,male,291008528.0
+128102.9499,6209.363,1593538,navient corp,,1.0,,,20170207,heleen mark l,112760217004444,EVP & Chief Legal Officer,male,291008528.0
+217412.5369,,1593538,navient corp,,1.0,,,20170207,hynes timothy j iv,112760217004442,"EVP, Chief Risk&Compliance Off",male,291008528.0
+337779.0365,7791.022,1593538,navient corp,,1.0,,,20170207,kane john m,112760217004441,EVP & Group President,male,291008528.0
+281414.0625,49566.1189,1593538,navient corp,,1.0,,,20170207,chivavibul somsak,112760217004440,EVP & Chief Financial Officer,male,291008528.0
+1476367.9496,250.0,1593538,navient corp,1.0,1.0,,,20170207,remondi john f,112760217004438,Chief Executive Officer,male,291008528.0
+,,1593538,navient corp,1.0,,,,20170207,diefenderfer william m iii,112760217004435,,male,291008528.0
+,,1593538,navient corp,1.0,,,,20170207,thompson jane j.,112760217004436,,female,291008528.0
+,,1593538,navient corp,1.0,,,,20170207,cabral anna escobedo,112760217004434,,female,291008528.0
+21941.0,,1593538,navient corp,1.0,,,,20170207,unger laura s,112760217004433,,female,291008528.0
+70220.0,,1593538,navient corp,1.0,,,,20170207,munitz barry a,112760217004432,,male,291008528.0
+25691.0,,1593538,navient corp,1.0,,,,20170207,mills linda a,112760217004430,,female,291008528.0
+105670.0,,1593538,navient corp,1.0,,,,20170207,suitt gilleland diane,112760217004428,,male,291008528.0
+26594.0,,1593538,navient corp,1.0,,,,20170207,adams john k jr,112760217004427,,male,291008528.0
+,,1593538,navient corp,1.0,,,,20170207,williams barry lawson,112760217004437,,male,291008528.0
+29094.0,,1593538,navient corp,1.0,,,,20170207,lehman katherine a,112760217004429,,female,291008528.0
+138677.9499,6209.0279,1593538,navient corp,,1.0,,,20170213,heleen mark l,112760217005606,EVP & Chief Legal Officer,male,291008528.0
+138030.9499,6405.2013,1593538,navient corp,,1.0,,,20170221,heleen mark l,112760217007535,EVP & Chief Legal Officer,male,291008528.0
+214990.5369,,1593538,navient corp,,1.0,,,20170221,hynes timothy j iv,112760217007530,"EVP, Chief Risk&Compliance Off",male,291008528.0
+333342.0365,8279.3508,1593538,navient corp,,1.0,,,20170221,kane john m,112760217007529,EVP & Group President,male,291008528.0
+1464405.9496,250.0,1593538,navient corp,1.0,1.0,,,20170221,remondi john f,112760217007527,Chief Executive Officer,male,291008528.0
+278536.0625,49538.6919,1593538,navient corp,,1.0,,,20170221,chivavibul somsak,112760217007528,EVP & Chief Financial Officer,male,291008528.0
+71428.0,,1593538,navient corp,,1.0,,,20170328,lown christian m.,112760217013072,EVP & Chief Financial Officer,male,291008528.0
+8742.0,,1593538,navient corp,1.0,,,,20170404,yowan david l.,112760217014157,,male,284941056.0
+105759.6278,,1593538,navient corp,1.0,,,,20170426,suitt gilleland diane,112760217015544,,male,284941056.0
+333070.6333,8373.9968,1593538,navient corp,,1.0,,,20170502,kane john m,112760217016431,EVP & Group President,male,284941056.0
+215489.114,,1593538,navient corp,,1.0,,,20170502,hynes timothy j iv,112760217016432,"EVP, Chief Risk&Compliance Off",male,284941056.0
+199755.5731,,1593538,navient corp,,1.0,,,20170605,whorley john f jr,112760217020575,EVP & Group President,male,284941056.0
+138055.4035,6478.345,1593538,navient corp,,1.0,,,20170613,heleen mark l,112760217021364,EVP & Chief Legal Officer,male,284941056.0
+138074.4035,6537.4394,1593538,navient corp,,1.0,,,20170620,heleen mark l,112760217021903,EVP & Chief Legal Officer,male,284941056.0
+316024.899,8548.4908,1593538,navient corp,,1.0,,,20170927,kane john m,112760217028271,EVP & Group President,male,274104268.0
+78992.4167,,1593538,navient corp,,1.0,,,20171024,lown christian m.,112760217030248,EVP & Chief Financial Officer,male,263012203.0
+31059.0,,1593538,navient corp,1.0,,,,20180103,mills linda a,112760218000864,,female,263012203.0
+1690404.3124,250.0,1593538,navient corp,1.0,1.0,,,20180104,remondi john f,112760218001219,Chief Executive Officer,male,263012203.0
+63403.6241,,1593538,navient corp,,1.0,,,20180131,hauber stephen m,112760218003218,"SVP, Chief Risk&Compliance Off",male,263388482.0
+1714584.3124,250.0,1593538,navient corp,1.0,1.0,,,20180131,remondi john f,112760218003219,Chief Executive Officer,male,263388482.0
+41985.0,,1593538,navient corp,1.0,,,,20180131,williams barry lawson,112760218003220,,male,263388482.0
+,,1593538,navient corp,1.0,,,,20180206,williams barry lawson,112760218004378,,male,263388482.0
+,,1593538,navient corp,1.0,,,,20180206,yowan david l.,112760218004379,,male,263388482.0
+,,1593538,navient corp,1.0,,,,20180206,thompson jane j.,112760218004377,,female,263388482.0
+88093.6241,,1593538,navient corp,,1.0,,,20180206,hauber stephen m,112760218004384,"SVP, Chief Risk&Compliance Off",male,263388482.0
+141505.1733,,1593538,navient corp,,1.0,,,20180206,lown christian m.,112760218004387,EVP & Chief Financial Officer,male,263388482.0
+1898661.3124,250.0,1593538,navient corp,1.0,1.0,,,20180206,remondi john f,112760218004383,Chief Executive Officer,male,263388482.0
+,,1593538,navient corp,1.0,,,,20180206,diefenderfer william m iii,112760218004376,,male,263388482.0
+36220.0,,1593538,navient corp,1.0,,,,20180206,adams john k jr,112760218004316,,male,263388482.0
+38720.0,,1593538,navient corp,1.0,,,,20180206,lehman katherine a,112760218004369,,female,263388482.0
+42289.2383,,1593538,navient corp,1.0,,,,20180206,mills linda a,112760218004362,,female,263388482.0
+31567.0,,1593538,navient corp,1.0,,,,20180206,unger laura s,112760218004360,,female,263388482.0
+115296.0,,1593538,navient corp,1.0,,,,20180206,suitt gilleland diane,112760218004322,,male,263388482.0
+267819.9731,,1593538,navient corp,,1.0,,,20180206,whorley john f jr,112760218004390,EVP & Group President,male,263388482.0
+178055.345,6727.3228,1593538,navient corp,,1.0,,,20180206,heleen mark l,112760218004385,EVP & Chief Legal Officer,male,263388482.0
+,,1593538,navient corp,1.0,,,,20180206,cabral anna escobedo,112760218004374,,female,263388482.0
+380154.231,8741.4211,1593538,navient corp,,1.0,,,20180206,kane john m,112760218004386,EVP & Group President,male,263388482.0
+1887249.3124,250.0,1593538,navient corp,1.0,1.0,,,20180207,remondi john f,112760218004472,Chief Executive Officer,male,263388482.0
+87534.6241,,1593538,navient corp,,1.0,,,20180207,hauber stephen m,112760218004473,"SVP, Chief Risk&Compliance Off",male,263388482.0
+377001.231,8785.0719,1593538,navient corp,,1.0,,,20180207,kane john m,112760218004475,EVP & Group President,male,263388482.0
+176486.345,6742.2972,1593538,navient corp,,1.0,,,20180207,heleen mark l,112760218004474,EVP & Chief Legal Officer,male,263388482.0
+265120.9731,,1593538,navient corp,,1.0,,,20180207,whorley john f jr,112760218004476,EVP & Group President,male,263388482.0
+303838.9731,,1593538,navient corp,,1.0,,,20180214,whorley john f jr,112760218006225,EVP & Group President,male,263388482.0
+1875533.2888,250.0,1593538,navient corp,1.0,1.0,,,20180220,remondi john f,112760218007371,Chief Executive Officer,male,263388482.0
+87162.3904,,1593538,navient corp,,1.0,,,20180220,hauber stephen m,112760218007378,"SVP, Chief Risk&Compliance Off",male,263388482.0
+175868.1056,6970.6891,1593538,navient corp,,1.0,,,20180220,heleen mark l,112760218007380,EVP & Chief Legal Officer,male,263388482.0
+374043.3551,9365.3252,1593538,navient corp,,1.0,,,20180220,kane john m,112760218007382,EVP & Group President,male,263388482.0
+134246.9717,,1593538,navient corp,,1.0,,,20180329,lown christian m.,112760218013040,EVP & Chief Financial Officer,male,263388482.0
+303926.7504,,1593538,navient corp,,1.0,,,20180605,whorley john f jr,112760218019996,EVP & Group President,male,264606504.0
+306745.9396,,1593538,navient corp,,1.0,,,20180619,whorley john f jr,112760218021480,EVP & Group President,male,264606504.0
+7818.0,,1593538,navient corp,1.0,,,,20180815,arnold frederick,112760218025488,,male,264627306.0
+1988702.5862,250.0,1593538,navient corp,1.0,1.0,,,20190103,remondi john f,112760219000792,Chief Executive Officer,male,257966088.0
+80991.7133,,1593538,navient corp,,1.0,,,20190205,hauber stephen m,112760219004168,"SVP, Chief Risk&Compliance Off",male,244507321.0
+1966175.3473,250.0,1593538,navient corp,1.0,1.0,,,20190205,remondi john f,112760219004161,Chief Executive Officer,male,244507321.0
+350566.9536,3286.9371,1593538,navient corp,,1.0,,,20190205,kane john m,112760219004174,EVP & Group President,male,244507321.0
+165566.2486,7395.2902,1593538,navient corp,,1.0,,,20190205,heleen mark l,112760219004173,EVP & Chief Legal Officer,male,244507321.0
+20105.0,,1593538,navient corp,1.0,,,,20190207,yowan david l.,112760219004581,,male,244507321.0
+228228.2486,7418.0368,1593538,navient corp,,1.0,,,20190207,heleen mark l,112760219004610,EVP & Chief Legal Officer,male,244507321.0
+123194.7133,,1593538,navient corp,,1.0,,,20190207,hauber stephen m,112760219004609,"EVP, Chief Risk&Compliance Off",male,244507321.0
+50195.0,,1593538,navient corp,1.0,,,,20190207,lehman katherine a,112760219004606,,female,244507321.0
+2382476.3473,250.0,1593538,navient corp,1.0,1.0,,,20190207,remondi john f,112760219004604,Chief Executive Officer,male,244507321.0
+432489.9536,3340.3888,1593538,navient corp,,1.0,,,20190207,kane john m,112760219004579,EVP & Group President,male,244507321.0
+241993.8751,,1593538,navient corp,,1.0,,,20190207,lown christian m.,112760219004595,EVP & Chief Financial Officer,male,244507321.0
+18075.0,,1593538,navient corp,1.0,,,,20190207,cabral anna escobedo,112760219004597,,female,244507321.0
+,,1593538,navient corp,1.0,,,,20190207,diefenderfer william m iii,112760219004591,,male,244507321.0
+,,1593538,navient corp,1.0,,,,20190207,thompson jane j.,112760219004588,,female,244507321.0
+19181.0,,1593538,navient corp,1.0,,,,20190207,arnold frederick,112760219004587,,male,244507321.0
+,,1593538,navient corp,1.0,,,,20190207,unger laura s,112760219004584,,female,244507321.0
+53348.0,,1593538,navient corp,1.0,,,,20190207,williams barry lawson,112760219004583,,male,244507321.0
+55964.2163,,1593538,navient corp,1.0,,,,20190207,mills linda a,112760219004594,,female,244507321.0
+404223.1644,4129.7471,1593538,navient corp,,1.0,,,20190304,kane john m,112760219009455,EVP & Group President,male,244507321.0
+216624.5756,7672.8633,1593538,navient corp,,1.0,,,20190304,heleen mark l,112760219009467,EVP & Chief Legal Officer,male,244507321.0
+2302308.4227,250.0,1593538,navient corp,1.0,1.0,,,20190304,remondi john f,112760219009474,Chief Executive Officer,male,244507321.0
+120411.0072,,1593538,navient corp,,1.0,,,20190304,hauber stephen m,112760219009461,"EVP, Chief Risk&Compliance Off",male,244507321.0
+233954.462,,1593538,navient corp,,1.0,,,20190328,lown christian m.,112760219013537,EVP & Chief Financial Officer,male,244507321.0
+,,1593538,navient corp,1.0,,,,20190510,bowen marjorie l.,112760219018161,,female,239307852.0
+7342.0,,1593538,navient corp,1.0,,,,20190510,klane larry a,112760219018162,,male,239307852.0
+112506.2026,,1593538,navient corp,,1.0,,,20190517,hauber stephen m,112760219019070,"EVP, Chief Risk&Compliance Off",male,239307852.0
+60031.6981,,1593538,navient corp,1.0,,,,20190610,mills linda a,112760219021238,,female,239307852.0
+2325001.5305,250.0,1593538,navient corp,1.0,1.0,,,20191211,remondi john f,112760219034769,Chief Executive Officer,male,221036735.0
+220922.4739,7946.1755,1593538,navient corp,,1.0,,,20191211,heleen mark l,112760219034766,EVP & Chief Legal Officer,male,221036735.0
+28551.0,,1593538,navient corp,1.0,,,,20200207,arnold frederick,112760220004333,,male,193333131.0
+475340.5255,4465.1638,1593538,navient corp,,1.0,,,20200207,kane john m,112760220004334,EVP & Group President,male,193333131.0
+,,1593538,navient corp,1.0,,,,20200207,bowen marjorie l.,112760220004336,,female,193333131.0
+269075.3351,8083.5447,1593538,navient corp,,1.0,,,20200207,heleen mark l,112760220004337,EVP & Chief Legal Officer,male,193333131.0
+147628.2577,,1593538,navient corp,,1.0,,,20200207,hauber stephen m,112760220004338,"EVP, Chief Risk&Compliance Off",male,193333131.0
+,,1593538,navient corp,1.0,,,,20200207,cabral anna escobedo,112760220004339,,female,193333131.0
+2652321.5419,250.0,1593538,navient corp,1.0,1.0,,,20200207,remondi john f,112760220004340,Chief Executive Officer,male,193333131.0
+,,1593538,navient corp,1.0,,,,20200207,klane larry a,112760220004341,,male,193333131.0
+316849.5319,,1593538,navient corp,,1.0,,,20200207,lown christian m.,112760220004342,EVP & Chief Financial Officer,male,193333131.0
+29475.0,,1593538,navient corp,1.0,,,,20200207,yowan david l.,112760220004346,,male,193333131.0
+59565.0,,1593538,navient corp,1.0,,,,20200207,lehman katherine a,112760220004345,,female,193333131.0
+40898.0,,1593538,navient corp,1.0,,,,20200207,unger laura s,112760220004349,,female,193333131.0
+76002.4894,,1593538,navient corp,1.0,,,,20200207,mills linda a,112760220004348,,female,193333131.0
+,,1593538,navient corp,1.0,,,,20200207,thompson jane j.,112760220004343,,female,193333131.0
+289533.3351,8082.3425,1593538,navient corp,,1.0,,,20200218,heleen mark l,112760220006160,EVP & Chief Legal Officer,male,193333131.0
+277730.2162,8348.2176,1593538,navient corp,,1.0,,,20200304,heleen mark l,112760220009463,EVP & Chief Legal Officer,male,193333131.0
+458083.0818,5189.3117,1593538,navient corp,,1.0,,,20200304,kane john m,112760220009464,EVP & Group President,male,193333131.0
+2590125.7152,250.0,1593538,navient corp,1.0,1.0,,,20200304,remondi john f,112760220009465,Chief Executive Officer,male,193333131.0
+144510.7531,,1593538,navient corp,,1.0,,,20200304,hauber stephen m,112760220009460,"EVP, Chief Risk&Compliance Off",male,193333131.0
+313804.9009,,1593538,navient corp,,1.0,,,20200331,lown christian m.,112760220012294,EVP & Chief Financial Officer,male,193832080.0
+288823.5554,8757.4848,1593538,navient corp,,1.0,,,20200505,heleen mark l,112760220015434,"EVP, CLO & Secretary",male,193832080.0
+44082.4,,1593538,navient corp,1.0,,,,20200507,unger laura s,112760220015675,,female,193832080.0
+35235.4,,1593538,navient corp,1.0,,,,20200515,arnold frederick,112760220016670,,male,193832080.0
+2684585.7729,250.0,1593538,navient corp,1.0,1.0,,,20200803,remondi john f,112760220022442,Chief Executive Officer,male,193927074.0
+24226.0,,1593538,navient corp,1.0,,,,20200817,cabral anna escobedo,112760220023627,,female,193927074.0
+45389.4948,,1593538,navient corp,,1.0,,,20201015,fisher joe,112760220026982,"EVP, CFO & PAO",male,186280079.0
+293587.7749,9085.5005,1593538,navient corp,,1.0,,,20201207,heleen mark l,112760220030689,"EVP, CLO & Secretary",male,186280079.0
+2697107.2697,250.0,1593538,navient corp,1.0,1.0,,,20201207,remondi john f,112760220030687,Chief Executive Officer,male,186280079.0
+153224.2029,,1593538,navient corp,,1.0,,,20210106,hauber stephen m,112760221000983,"EVP, Chief Risk&Compliance Off",male,186280079.0
+38592.0,,1593538,navient corp,1.0,,,,20210108,cabral anna escobedo,112760221001332,,female,186280079.0
+493000.2806,5731.8621,1593538,navient corp,,1.0,,,20210115,kane john m,112760221001767,EVP & Group President,male,186280079.0
+2726277.5056,250.0,1593538,navient corp,1.0,1.0,,,20210115,remondi john f,112760221001768,Chief Executive Officer,male,186280079.0
+171935.2029,,1593538,navient corp,,1.0,,,20210201,hauber stephen m,112760221003223,"EVP, Chief Risk&Compliance Off",male,183771633.0
+516676.2806,5851.2498,1593538,navient corp,,1.0,,,20210203,kane john m,112760221003699,EVP & Group President,male,183771633.0
+2817460.5056,250.0,1593538,navient corp,1.0,1.0,,,20210203,remondi john f,112760221003705,Chief Executive Officer,male,183771633.0
+3173763.4694,250.0,1593538,navient corp,1.0,1.0,,,20210208,remondi john f,112760221004436,Chief Executive Officer,male,183771633.0
+585278.0478,5845.7144,1593538,navient corp,,1.0,,,20210208,kane john m,112760221004435,EVP & Group President,male,183771633.0
+350472.5125,9258.2277,1593538,navient corp,,1.0,,,20210208,heleen mark l,112760221004434,"EVP, CLO & Secretary",male,183771633.0
+207593.1495,,1593538,navient corp,,1.0,,,20210208,hauber stephen m,112760221004433,"EVP, Chief Risk&Compliance Off",male,183771633.0
+84374.5182,,1593538,navient corp,,1.0,,,20210208,fisher joe,112760221004432,"EVP, CFO & PAO",male,183771633.0
+40372.0,,1593538,navient corp,1.0,,,,20210208,yowan david l.,112760221004431,,male,183771633.0
+,,1593538,navient corp,1.0,,,,20210208,unger laura s,112760221004430,,female,183771633.0
+,,1593538,navient corp,1.0,,,,20210208,thompson jane j.,112760221004428,,female,183771633.0
+98568.3948,,1593538,navient corp,1.0,,,,20210208,mills linda a,112760221004426,,female,183771633.0
+70462.0,,1593538,navient corp,1.0,,,,20210208,lehman katherine a,112760221004425,,female,183771633.0
+,,1593538,navient corp,1.0,,,,20210208,klane larry a,112760221004423,,male,183771633.0
+49161.0,,1593538,navient corp,1.0,,,,20210208,cabral anna escobedo,112760221004420,,female,183771633.0
+45948.0,,1593538,navient corp,1.0,,,,20210208,arnold frederick,112760221004416,,male,183771633.0
+3075745.0459,250.0,1593538,navient corp,1.0,1.0,,,20210304,remondi john f,112760221009407,Chief Executive Officer,male,183771633.0
+195578.8996,,1593538,navient corp,,1.0,,,20210304,hauber stephen m,112760221009412,"EVP, Chief Risk&Compliance Off",male,183771633.0
+331966.5359,9557.0225,1593538,navient corp,,1.0,,,20210304,heleen mark l,112760221009416,"EVP, CLO & Secretary",male,183771633.0
+552891.7131,6741.398,1593538,navient corp,,1.0,,,20210304,kane john m,112760221009418,EVP & Group President,male,183771633.0
+183535.4798,,1593538,navient corp,,1.0,,,20210507,hauber stephen m,112760221015918,"EVP, Chief Risk&Compliance Off",male,179513282.0
+338185.3213,9637.479,1593538,navient corp,,1.0,,,20210602,heleen mark l,112760221018609,"EVP, CLO & Secretary",male,179513282.0
+3138.0,,1593538,navient corp,1.0,,,,20210804,lawson michael a,112760221023073,,male,167840188.0
+85312.3052,,1593538,navient corp,,1.0,,,20211012,fisher joe,112760221026946,"EVP, CFO & PAO",male,161172372.0
+561156.0616,6945.6807,1593538,navient corp,,1.0,,,20220105,kane john m,112760222000858,EVP & Group President,male,161172372.0
+339362.9641,9774.0524,1593538,navient corp,,1.0,,,20220107,heleen mark l,112760222001154,"EVP, CLO & Secretary",male,161172372.0
+3099100.3564,250.0,1593538,navient corp,1.0,1.0,,,20220107,remondi john f,112760222001156,Chief Executive Officer,male,161172372.0
+186806.0577,,1593538,navient corp,,1.0,,,20220204,hauber stephen m,112760222003407,"EVP, Chief Risk&Compliance Off",male,152132902.0
+3133940.1169,250.0,1593538,navient corp,1.0,1.0,,,20220204,remondi john f,112760222003410,Chief Executive Officer,male,152132902.0
+3388558.0227,250.0,1593538,navient corp,1.0,1.0,,,20220208,remondi john f,112760222003753,Chief Executive Officer,male,152132902.0
+140833.3835,,1593538,navient corp,,1.0,,,20220208,fisher joe,112760222003751,"EVP, CFO & PAO",male,152132902.0
+615866.9118,7000.6914,1593538,navient corp,,1.0,,,20220208,kane john m,112760222003749,EVP & Group President,male,152132902.0
+388301.7432,9873.5909,1593538,navient corp,,1.0,,,20220208,heleen mark l,112760222003747,"EVP, CLO & Secretary",male,152132902.0
+221566.4381,,1593538,navient corp,,1.0,,,20220208,hauber stephen m,112760222003745,"EVP, Chief Risk&Compliance Off",male,152132902.0
+48385.0,,1593538,navient corp,1.0,,,,20220208,yowan david l.,112760222003742,,male,152132902.0
+52082.0,,1593538,navient corp,1.0,,,,20220208,unger laura s,112760222003741,,female,152132902.0
+,,1593538,navient corp,1.0,,,,20220208,thompson jane j.,112760222003740,,female,152132902.0
+78475.0,,1593538,navient corp,1.0,,,,20220208,lehman katherine a,112760222003736,,female,152132902.0
+11004.0,,1593538,navient corp,1.0,,,,20220208,lawson michael a,112760222003735,,male,152132902.0
+,,1593538,navient corp,1.0,,,,20220208,klane larry a,112760222003734,,male,152132902.0
+,,1593538,navient corp,1.0,,,,20220208,cabral anna escobedo,112760222003730,,female,152132902.0
+53961.0,,1593538,navient corp,1.0,,,,20220208,arnold frederick,112760222003725,,male,152132902.0
+115461.6927,,1593538,navient corp,1.0,,,,20220208,mills linda a,112760222003738,,female,152132902.0
+212620.7201,,1593538,navient corp,,1.0,,,20220303,hauber stephen m,112760222007978,"EVP, Chief Risk&Compliance Off",male,152132902.0
+374073.2564,10090.5352,1593538,navient corp,,1.0,,,20220303,heleen mark l,112760222007985,"EVP, CLO & Secretary",male,152132902.0
+598817.4756,7641.068,1593538,navient corp,,1.0,,,20220303,kane john m,112760222007989,EVP & Group President,male,152132902.0
+3276428.225,250.0,1593538,navient corp,1.0,1.0,,,20220303,remondi john f,112760222007994,Chief Executive Officer,male,152132902.0
+142609.4901,,1593538,navient corp,,1.0,,,20221011,fisher joe,112760222023861,"EVP, CFO & PAO",male,135614173.0
+3303643.4916,250.0,1593538,navient corp,1.0,1.0,,,20221207,remondi john f,112760222027053,Chief Executive Officer,male,135614173.0
+377821.2689,10417.7304,1593538,navient corp,,1.0,,,20221207,heleen mark l,112760222027040,"EVP, CLO & Secretary",male,135614173.0
+607302.8489,7961.507,1593538,navient corp,,1.0,,,20230104,kane john m,112760223000606,EVP & Group President,male,135614173.0
+217080.7093,,1593538,navient corp,,1.0,,,20230130,hauber stephen m,112760223002697,"EVP, Chief Risk&Compliance Off",male,135614173.0
+395682.0171,10531.0095,1593538,navient corp,,1.0,,,20230201,heleen mark l,112760223002908,"EVP, CLO & Secretary",male,128941323.0
+3328277.459,250.0,1593538,navient corp,1.0,1.0,,,20230201,remondi john f,112760223002907,Chief Executive Officer,male,128941323.0
+432851.377,10530.3996,1593538,navient corp,,1.0,,,20230207,heleen mark l,112760223003894,"EVP, CLO & Secretary",male,128941323.0
+,,1593538,navient corp,1.0,,,,20230207,thompson jane j.,112760223003877,,female,128941323.0
+204571.6753,,1593538,navient corp,,1.0,,,20230207,fisher joe,112760223003892,"EVP, CFO & PAO",male,128941323.0
+55908.0,,1593538,navient corp,1.0,,,,20230207,yowan david l.,112760223003879,,male,128941323.0
+,,1593538,navient corp,1.0,,,,20230207,unger laura s,112760223003878,,female,128941323.0
+133176.3024,,1593538,navient corp,1.0,,,,20230207,mills linda a,112760223003876,,female,128941323.0
+18527.0,,1593538,navient corp,1.0,,,,20230207,lawson michael a,112760223003875,,male,128941323.0
+242969.2857,,1593538,navient corp,,1.0,,,20230207,hauber stephen m,112760223003893,"EVP, Chief Risk&Compliance Off",male,128941323.0
+,,1593538,navient corp,1.0,,,,20230207,cabral anna escobedo,112760223003861,,female,128941323.0
+61484.0,,1593538,navient corp,1.0,,,,20230207,arnold frederick,112760223003860,,male,128941323.0
+3532909.2989,250.0,1593538,navient corp,1.0,1.0,,,20230207,remondi john f,112760223003896,Chief Executive Officer,male,128941323.0
+651555.0017,8006.4281,1593538,navient corp,,1.0,,,20230207,kane john m,112760223003895,EVP & Group President,male,128941323.0
+,,1593538,navient corp,1.0,,,,20230207,klane larry a,112760223003862,,male,128941323.0
+635219.2671,8496.9928,1593538,navient corp,,1.0,,,20230302,kane john m,112760223008457,EVP & Group President,male,128941323.0
+235302.4186,,1593538,navient corp,,1.0,,,20230302,hauber stephen m,112760223008460,"EVP, Chief Risk&Compliance Off",male,128941323.0
+421352.0762,10764.6427,1593538,navient corp,,1.0,,,20230302,heleen mark l,112760223008463,"EVP, CLO & Secretary",male,128941323.0
+3439488.0284,250.0,1593538,navient corp,1.0,1.0,,,20230302,remondi john f,112760223008464,Chief Executive Officer,male,128941323.0
+320691.6139,,1593538,navient corp,1.0,1.0,,,20230517,yowan david l.,112760223015993,President & CEO,male,126464845.0
+404055.6303,10966.833,1593538,navient corp,,1.0,,,20230802,heleen mark l,112760223021850,"EVP, CLO & Secretary",male,121601864.0
+322517.0888,,1593538,navient corp,1.0,1.0,,,20230802,yowan david l.,112760223021848,President & CEO,male,121601864.0
+206635.4755,,1593538,navient corp,,1.0,,,20231010,fisher joe,112760223025706,"EVP, CFO & PAO",male,117571091.0
+324409.4595,,1593538,navient corp,1.0,1.0,,,20231103,yowan david l.,112760223026753,President & CEO,male,117571091.0
+395330.1953,11078.127,1593538,navient corp,,1.0,,,20231108,heleen mark l,112760223027018,"EVP, CLO & Secretary",male,117571091.0
+490777.9215,8973.1165,1593538,navient corp,,1.0,,,20231218,kane john m,112760223029867,EVP & Group President,male,117571091.0
+395577.1318,11161.9448,1593538,navient corp,,1.0,,,20231218,heleen mark l,112760223029870,"EVP, CLO & Secretary",male,117571091.0
+385577.1318,11205.0052,1593538,navient corp,,1.0,,,20240202,heleen mark l,112760224003120,"EVP, CLO & Secretary",male,112749884.0
+377101.9317,11210.2435,1593538,navient corp,,1.0,,,20240205,heleen mark l,112760224003406,"EVP, CLO & Secretary",male,112749884.0
+199673.6963,,1593538,navient corp,,1.0,,,20240205,fisher joe,112760224003399,"EVP, CFO & PAO",male,112749884.0
+232507.46,,1593538,navient corp,,1.0,,,20240205,hauber stephen m,112760224003402,"EVP, Chief Risk&Compliance Off",male,112749884.0
+480137.9711,9085.1224,1593538,navient corp,,1.0,,,20240205,kane john m,112760224003411,EVP & Group President,male,112749884.0
+194637.6963,,1593538,navient corp,,1.0,,,20240208,fisher joe,112760224004032,"EVP, CFO & PAO",male,112749884.0
+230090.4577,,1593538,navient corp,,1.0,,,20240208,hauber stephen m,112760224004035,"EVP, Chief Risk&Compliance Off",male,112749884.0
+373991.9317,11203.6949,1593538,navient corp,,1.0,,,20240208,heleen mark l,112760224004036,"EVP, CLO & Secretary",male,112749884.0
+475855.9711,9079.8152,1593538,navient corp,,1.0,,,20240208,kane john m,112760224004038,EVP & Group President,male,112749884.0
+430044.9317,11218.9951,1593538,navient corp,,1.0,,,20240213,heleen mark l,112760224004783,"EVP, CLO & Secretary",male,112749884.0
+,,1593538,navient corp,1.0,,,,20240213,cabral anna escobedo,112760224004685,,female,112749884.0
+548395.9711,9090.9895,1593538,navient corp,,1.0,,,20240213,kane john m,112760224004777,EVP & Group President,male,112749884.0
+269656.4577,,1593538,navient corp,,1.0,,,20240213,hauber stephen m,112760224004775,"EVP, Chief Risk&Compliance Off",male,112749884.0
+277069.6963,,1593538,navient corp,,1.0,,,20240213,fisher joe,112760224004773,"EVP, CFO & PAO",male,112749884.0
+70239.0,,1593538,navient corp,1.0,,,,20240213,arnold frederick,112760224004681,,male,112749884.0
+60853.0,,1593538,navient corp,1.0,,,,20240213,unger laura s,112760224004698,,female,112749884.0
+,,1593538,navient corp,1.0,,,,20240213,thompson jane j.,112760224004697,,female,112749884.0
+152915.8725,,1593538,navient corp,1.0,,,,20240213,mills linda a,112760224004695,,female,112749884.0
+27282.0,,1593538,navient corp,1.0,,,,20240213,lawson michael a,112760224004692,,male,112749884.0
+,,1593538,navient corp,1.0,,,,20240213,klane larry a,112760224004688,,male,112749884.0
+513557.9987,9873.2203,1593538,navient corp,,1.0,,,20240301,kane john m,112760224007879,EVP & Group President,male,112749884.0
+259447.77,,1593538,navient corp,,1.0,,,20240301,fisher joe,112760224007863,"EVP, CFO & PAO",male,112749884.0
+252041.5314,,1593538,navient corp,,1.0,,,20240301,hauber stephen m,112760224007869,"EVP, Chief Risk&Compliance Off",male,112749884.0
+403611.4226,11469.1746,1593538,navient corp,,1.0,,,20240301,heleen mark l,112760224007874,"EVP, CLO & Secretary",male,112749884.0
+393611.4226,11578.3254,1593538,navient corp,,1.0,,,20240506,heleen mark l,112760224014305,"EVP, CLO & Secretary",male,111824749.0
+306453.0003,,1593538,navient corp,1.0,1.0,,,20240517,yowan david l.,112760224015853,President & CEO,male,111824749.0
+264536.1264,,1593538,navient corp,,1.0,,,20240528,hauber stephen m,112760224016704,EVP & Chief Admin Officer,male,111824749.0
+586216.2543,,1593538,navient corp,1.0,1.0,,,20240708,yowan david l.,112760224020195,President & CEO,male,109410094.0
+256883.251,,1593538,navient corp,,1.0,,,20241107,hauber stephen m,112760224026762,EVP & Chief Admin Officer,male,107363480.0
+173249.812,13590.6992,1593538,navient corp,,1.0,,,20241218,standish troy,112760224029754,EVP & Chief Operating Officer,male,107363480.0

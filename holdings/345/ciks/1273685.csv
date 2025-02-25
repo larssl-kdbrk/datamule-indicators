@@ -1,9 +1,9 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-4000.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20100317,osborne daniel k,143774910000712,,male,
-9000.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20100715,osborne daniel k,143774910002248,,male,
-9344.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20100715,hainey alan l,143774910002249,,male,
-9383.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20100715,norcutt steven g,143774910002247,,male,
-10000.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20100810,osborne daniel k,143774910002540,,male,
+,,1273685,new york mortgage trust inc,1.0,,,,20100317,osborne daniel k,143774910000712,,male,
+,,1273685,new york mortgage trust inc,1.0,,,,20100715,hainey alan l,143774910002249,,male,
+,,1273685,new york mortgage trust inc,1.0,,,,20100715,osborne daniel k,143774910002248,,male,
+,,1273685,new york mortgage trust inc,1.0,,,,20100715,norcutt steven g,143774910002247,,male,
+,,1273685,new york mortgage trust inc,1.0,,,,20100810,osborne daniel k,143774910002540,,male,
 18596.0,10952.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20100819,harvest capital strategies llc,118143110042684,,male,
 54284.0,10952.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20100824,harvest capital strategies llc,118143110043818,,male,
 65536.0,10952.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20100826,harvest capital strategies llc,118143110044479,,male,
@@ -15,71 +15,223 @@ direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,is
 201819.0,10952.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101020,harvest capital strategies llc,118143110051528,,male,
 254948.0,10952.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101026,harvest capital strategies llc,118143110052053,,male,
 255448.0,10952.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101102,harvest capital strategies llc,118143110052933,,male,
-263648.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101108,harvest capital strategies llc,118143110054032,,male,
-305086.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101110,harvest capital strategies llc,118143110054836,,male,
-331299.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101115,harvest capital strategies llc,118143110055717,,male,
-360598.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101118,harvest capital strategies llc,118143110056565,,male,
-369406.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101123,harvest capital strategies llc,118143110057409,,male,
-370319.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101129,harvest capital strategies llc,118143110057877,,male,
-377061.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101203,harvest capital strategies llc,118143110059246,,male,
-448061.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101208,harvest capital strategies llc,118143110060243,,male,
-478861.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101213,harvest capital strategies llc,118143110061164,,male,
-561657.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101216,harvest capital strategies llc,118143110062243,,male,
-637137.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101221,harvest capital strategies llc,118143110063083,,male,
-813437.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101227,harvest capital strategies llc,118143110063624,,male,
-828737.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101230,harvest capital strategies llc,118143110064243,,male,
-0.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20110104,jmp group inc.,118143111001164,,male,9425442000.0
-0.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20110104,harvest capital strategies llc,118143111001161,,male,9425442000.0
-844994.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20110104,harvest capital strategies llc,118143111000906,,male,9425442000.0
-10833.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110104,norcutt steven g,143774911000051,,male,9425442000.0
-10855.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110105,hainey alan l,143774911000083,,male,9425442000.0
-79426.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20110304,mumma steven r,143774911001294,CEO and President,male,9425442000.0
-12833.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110513,norcutt steven g,143774911003190,,male,9425442000.0
-12855.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110513,hainey alan l,143774911003188,,male,9425442000.0
-11000.0,10000.0,1273685,new york mortgage trust inc,1.0,,,,20110513,osborne daniel k,143774911003189,,male,9425442000.0
-13864.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110523,norcutt steven g,143774911003516,,male,9425442000.0
-13886.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110523,hainey alan l,143774911003523,,male,9425442000.0
-14336.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110617,hainey alan l,143774911004125,,male,9425442000.0
-15201.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110714,norcutt steven g,143774911004835,,male,9450599.0
-15673.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20110714,hainey alan l,143774911004836,,male,9450599.0
-16723.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120109,hainey alan l,143774912000330,,male,13938273.0
-0.0,0.0,1273685,new york mortgage trust inc,0.0,0.0,0.0,1.0,20120110,jmp group inc.,118143112002097,,male,13938273.0
-0.0,844994.0,1273685,new york mortgage trust inc,0.0,0.0,0.0,1.0,20120110,harvest capital strategies llc,118143112002098,,male,13938273.0
-13387.0,0.0,1273685,new york mortgage trust inc,,1.0,,,20120314,reese nathan r,143774912002314,Vice President and Secretary,male,13938273.0
-100230.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20120314,mumma steven r,143774912002315,CEO and President,male,13938273.0
-18201.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120316,norcutt steven g,143774912002460,,male,13938273.0
-19040.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120406,hainey alan l,143774912003505,,male,14175494.0
-26040.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120607,hainey alan l,143774912005968,,male,14175494.0
-12750.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120607,bock david r,143774912005967,,male,14175494.0
-24201.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120607,norcutt steven g,143774912005970,,male,14175494.0
-8380.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20120607,neal douglas e,143774912005969,,male,14175494.0
-24818.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130102,norcutt steven g,143774913000046,,male,49575331.0
-27820.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130102,hainey alan l,143774913000047,,male,49575331.0
-11940.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130102,neal douglas e,143774913000048,,male,49575331.0
-170356.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20130308,mumma steven r,143774913002558,CEO and President,male,49575331.0
-18646.0,0.0,1273685,new york mortgage trust inc,,1.0,,,20130308,reese nathan r,143774913002557,Vice President and Secretary,male,49575331.0
-33820.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130524,hainey alan l,143774913006682,,male,49966230.0
-18750.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130524,bock david r,143774913006680,,male,49966230.0
-17940.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130524,neal douglas e,143774913006683,,male,49966230.0
-30818.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130524,norcutt steven g,143774913006681,,male,49966230.0
-26640.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20130819,neal douglas e,143774913011085,,male,63754730.0
-195356.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20130820,mumma steven r,143774913011127,CEO and President,male,63754730.0
-23984.0,0.0,1273685,new york mortgage trust inc,,1.0,,,20140218,reese nathan r,143774914002315,Vice President and Secretary,male,64102029.0
-286932.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20140218,mumma steven r,143774914002316,CEO and President,male,64102029.0
-43219.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20140326,hainey alan l,143774914005144,,male,75706546.0
-50219.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20140516,hainey alan l,143774914009403,,male,75706546.0
-33640.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20140516,neal douglas e,143774914009404,,male,75706546.0
-37818.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20140516,norcutt steven g,143774914009405,,male,75706546.0
-25750.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20140516,bock david r,143774914009406,,male,75706546.0
-271449.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20150218,mumma steven r,143774915002977,CEO and President,male,105094565.0
-36530.0,0.0,1273685,new york mortgage trust inc,,1.0,,,20150220,reese nathan r,143774915003129,Vice President and Secretary,male,105094565.0
-11825.0,0.0,1273685,new york mortgage trust inc,,1.0,,,20150220,nario kristine rimando,143774915003130,Chief Financial Officer,female,105094565.0
-427406.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20150220,mumma steven r,143774915003128,CEO and President,male,105094565.0
-415726.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20150310,mumma steven r,143774915004666,CEO and President,male,105094565.0
-412656.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20150312,mumma steven r,143774915004959,CEO and President,male,105094565.0
-46724.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20150602,norcutt steven g,143774915011656,,male,109366097.0
-42546.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20150602,neal douglas e,143774915011657,,male,109366097.0
-34656.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20150602,bock david r,143774915011658,,male,109366097.0
-70174.0,0.0,1273685,new york mortgage trust inc,1.0,,,,20150602,hainey alan l,143774915011659,,male,109366097.0
-14025.0,0.0,1273685,new york mortgage trust inc,,1.0,,,20150810,nario kristine rimando,143774915015435,Chief Financial Officer,female,109401721.0
-427656.0,0.0,1273685,new york mortgage trust inc,1.0,1.0,,,20150810,mumma steven r,143774915015437,CEO and President,male,109401721.0
+263648.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101108,harvest capital strategies llc,118143110054032,,male,
+305086.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101110,harvest capital strategies llc,118143110054836,,male,
+331299.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101115,harvest capital strategies llc,118143110055717,,male,
+360598.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101118,harvest capital strategies llc,118143110056565,,male,
+369406.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101123,harvest capital strategies llc,118143110057409,,male,
+370319.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101129,harvest capital strategies llc,118143110057877,,male,
+377061.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101203,harvest capital strategies llc,118143110059246,,male,
+448061.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101208,harvest capital strategies llc,118143110060243,,male,
+478861.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101213,harvest capital strategies llc,118143110061164,,male,
+561657.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101216,harvest capital strategies llc,118143110062243,,male,
+637137.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101221,harvest capital strategies llc,118143110063083,,male,
+813437.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101227,harvest capital strategies llc,118143110063624,,male,
+828737.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20101230,harvest capital strategies llc,118143110064243,,male,
+844994.0,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20110104,harvest capital strategies llc,118143111000906,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110104,norcutt steven g,143774911000051,,male,9425442000.0
+,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20110104,jmp group inc.,118143111001164,,male,9425442000.0
+,,1273685,new york mortgage trust inc,0.0,0.0,1.0,0.0,20110104,harvest capital strategies llc,118143111001161,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110105,hainey alan l,143774911000083,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20110304,mumma steven r,143774911001294,CEO and President,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110513,hainey alan l,143774911003188,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110513,osborne daniel k,143774911003189,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110513,norcutt steven g,143774911003190,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110523,norcutt steven g,143774911003516,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110523,hainey alan l,143774911003523,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110617,hainey alan l,143774911004125,,male,9425442000.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110714,norcutt steven g,143774911004835,,male,9450599.0
+,,1273685,new york mortgage trust inc,1.0,,,,20110714,hainey alan l,143774911004836,,male,9450599.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120109,hainey alan l,143774912000330,,male,13938273.0
+,844994.0,1273685,new york mortgage trust inc,0.0,0.0,0.0,1.0,20120110,harvest capital strategies llc,118143112002098,,male,13938273.0
+,,1273685,new york mortgage trust inc,0.0,0.0,0.0,1.0,20120110,jmp group inc.,118143112002097,,male,13938273.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20120314,mumma steven r,143774912002315,CEO and President,male,13938273.0
+,,1273685,new york mortgage trust inc,,1.0,,,20120314,reese nathan r,143774912002314,Vice President and Secretary,male,13938273.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120316,norcutt steven g,143774912002460,,male,13938273.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120406,hainey alan l,143774912003505,,male,14175494.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120607,bock david r,143774912005967,,male,14175494.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120607,hainey alan l,143774912005968,,male,14175494.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120607,neal douglas e,143774912005969,,male,14175494.0
+,,1273685,new york mortgage trust inc,1.0,,,,20120607,norcutt steven g,143774912005970,,male,14175494.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130102,norcutt steven g,143774913000046,,male,49575331.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130102,hainey alan l,143774913000047,,male,49575331.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130102,neal douglas e,143774913000048,,male,49575331.0
+,,1273685,new york mortgage trust inc,,1.0,,,20130308,reese nathan r,143774913002557,Vice President and Secretary,male,49575331.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20130308,mumma steven r,143774913002558,CEO and President,male,49575331.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130524,neal douglas e,143774913006683,,male,49966230.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130524,norcutt steven g,143774913006681,,male,49966230.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130524,bock david r,143774913006680,,male,49966230.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130524,hainey alan l,143774913006682,,male,49966230.0
+,,1273685,new york mortgage trust inc,1.0,,,,20130819,neal douglas e,143774913011085,,male,63754730.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20130820,mumma steven r,143774913011127,CEO and President,male,63754730.0
+,,1273685,new york mortgage trust inc,,1.0,,,20140218,reese nathan r,143774914002315,Vice President and Secretary,male,64102029.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20140218,mumma steven r,143774914002316,CEO and President,male,64102029.0
+,,1273685,new york mortgage trust inc,1.0,,,,20140326,hainey alan l,143774914005144,,male,75706546.0
+,,1273685,new york mortgage trust inc,1.0,,,,20140516,hainey alan l,143774914009403,,male,75706546.0
+,,1273685,new york mortgage trust inc,1.0,,,,20140516,neal douglas e,143774914009404,,male,75706546.0
+,,1273685,new york mortgage trust inc,1.0,,,,20140516,norcutt steven g,143774914009405,,male,75706546.0
+,,1273685,new york mortgage trust inc,1.0,,,,20140516,bock david r,143774914009406,,male,75706546.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20150218,mumma steven r,143774915002977,CEO and President,male,105094565.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20150220,mumma steven r,143774915003128,CEO and President,male,105094565.0
+,,1273685,new york mortgage trust inc,,1.0,,,20150220,reese nathan r,143774915003129,Vice President and Secretary,male,105094565.0
+,,1273685,new york mortgage trust inc,,1.0,,,20150220,nario kristine rimando,143774915003130,Chief Financial Officer,female,105094565.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20150310,mumma steven r,143774915004666,CEO and President,male,105094565.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20150312,mumma steven r,143774915004959,CEO and President,male,105094565.0
+,,1273685,new york mortgage trust inc,1.0,,,,20150602,norcutt steven g,143774915011656,,male,109366097.0
+,,1273685,new york mortgage trust inc,1.0,,,,20150602,neal douglas e,143774915011657,,male,109366097.0
+,,1273685,new york mortgage trust inc,1.0,,,,20150602,bock david r,143774915011658,,male,109366097.0
+,,1273685,new york mortgage trust inc,1.0,,,,20150602,hainey alan l,143774915011659,,male,109366097.0
+,,1273685,new york mortgage trust inc,,1.0,,,20150810,nario kristine rimando,143774915015435,Chief Financial Officer,female,109401721.0
+,,1273685,new york mortgage trust inc,,1.0,,,20150810,nario kristine rimando,143774915015435,Chief Financial Officer,female,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20150810,mumma steven r,143774915015437,CEO and President,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,,,20150810,mumma steven r,143774915015437,CEO and President,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20160216,mumma steven r,127368516000013,CEO and President,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20160219,mumma steven r,127368516000015,CEO and President,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20160226,mumma steven r,127368516000023,CEO and President,male,109401721.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160226,reese nathan r,127368516000025,Vice President and Secretary,male,109401721.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160226,nario kristine rimando,127368516000027,Chief Financial Officer,female,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20160308,mumma steven r,127368516000029,CEO and President,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20160513,neal douglas e,127368516000045,,male,109409236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20160513,norcutt steven g,127368516000047,,male,109409236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20160513,bock david r,127368516000049,,male,109409236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20160513,hainey alan l,127368516000051,,male,109409236.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20160516,mumma steven r,127368516000057,CEO,male,109409236.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160518,donlon kevin m.,127368516000060,President,male,109409236.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160523,donlon kevin m.,127368516000062,President,male,109409236.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160524,donlon kevin m.,127368516000064,President,male,109409236.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160601,donlon kevin m.,127368516000066,President,male,109409236.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20160610,donlon kevin m.,127368516000068,President,male,109409236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20160620,clement michael b.,127368516000076,,male,109409236.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20170210,reese nathan r,127368517000006,Managing Director / Secretary,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20170210,mumma steven r,127368517000008,CEO,male,109401721.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20170210,nario kristine rimando,127368517000009,Chief Financial Officer,female,109401721.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20170210,donlon kevin m.,127368517000012,President,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20170224,mumma steven r,127368517000016,CEO,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20170227,mumma steven r,127368517000017,CEO,male,109401721.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20170517,mumma steven r,127368517000034,CEO,male,111843236.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20170523,mumma steven r,127368517000046,CEO,male,111843236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20170523,clement michael b.,127368517000042,,male,111843236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20170523,hainey alan l,127368517000040,,male,111843236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20170523,bock david r,127368517000044,,male,111843236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20170523,norcutt steven g,127368517000038,,male,111843236.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20171213,hainey alan l,127368517000080,,male,111854023.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20180216,nario kristine rimando,127368518000007,Chief Financial Officer,female,111909909.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20180216,mumma steven r,127368518000008,CEO,male,111909909.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20180216,reese nathan r,127368518000009,Managing Director / Secretary,male,111909909.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20180518,mumma steven r,127368518000040,CEO,male,112116506.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20180606,bock david r,127368518000049,,male,112116506.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20180606,norcutt steven g,127368518000048,,male,112116506.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20180606,clement michael b.,127368518000047,,male,112116506.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20180606,hainey alan l,127368518000050,,male,112116506.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20180606,pendergast lisa a,127368518000046,,female,112116506.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20190108,serrano jason t,127368519000005,President,male,155589528.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20190207,nario-eng kristine rimando,127368519000009,Chief Financial Officer,female,170241340.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20190207,mumma steven r,127368519000010,CEO,male,170241340.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20190207,reese nathan r,127368519000011,Chief Operating Officer,male,170241340.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20190212,mumma steven r,127368519000013,CEO,male,170241340.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20190520,mumma steven r,127368519000045,CEO,male,190091655.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20190617,hainey alan l,127368519000051,,male,190091655.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20190702,hainey alan l,127368519000067,,male,210872614.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20190702,clement michael b.,127368519000065,,male,210872614.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20190702,norcutt steven g,127368519000064,,male,210872614.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20190702,bock david r,127368519000062,,male,210872614.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20190702,pendergast lisa a,127368519000063,,female,210872614.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200103,reese nathan r,127368520000004,Chief Operating Officer,male,291371039.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200103,serrano jason t,127368520000008,President,male,291371039.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200103,mumma steven r,127368520000002,CEO,male,291371039.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200103,nario-eng kristine rimando,127368520000006,Chief Financial Officer,female,291371039.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200206,serrano jason t,127368520000013,President,male,291371039.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200206,nario-eng kristine rimando,127368520000015,Chief Financial Officer,female,291371039.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200206,reese nathan r,127368520000014,Chief Operating Officer,male,291371039.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200206,mumma steven r,127368520000016,CEO,male,291371039.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200218,mumma steven r,127368520000020,CEO,male,291371039.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200311,nario-eng kristine rimando,127368520000026,Chief Financial Officer,female,377468145.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200311,mumma steven r,127368520000025,CEO,male,377468145.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200313,nario-eng kristine rimando,127368520000031,Chief Financial Officer,female,377468145.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20200313,reese nathan r,127368520000036,Chief Operating Officer,male,377468145.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20200313,norcutt steven g,127368520000032,,male,377468145.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200313,serrano jason t,127368520000034,President,male,377468145.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20200313,mumma steven r,127368520000030,CEO,male,377468145.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20200706,bock david r,127368520000072,,male,377465405.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20200706,pendergast lisa a,127368520000073,,female,377465405.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20200706,clement michael b.,127368520000074,,male,377465405.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20200706,hainey alan l,127368520000075,,male,377465405.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20200706,norcutt steven g,127368520000076,,male,377465405.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20210105,reese nathan r,127368521000006,Chief Operating Officer,male,377744476.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210105,serrano jason t,127368521000008,President,male,377744476.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20210105,nario-eng kristine rimando,127368521000007,Chief Financial Officer,female,377744476.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210105,mumma steven r,127368521000005,CEO,male,377744476.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210129,serrano jason t,127368521000013,President,male,377744476.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20210129,reese nathan r,127368521000014,Chief Operating Officer,male,377744476.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20210129,nario-eng kristine rimando,127368521000015,Chief Financial Officer,female,377744476.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210129,mumma steven r,127368521000016,CEO,male,377744476.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210208,serrano jason t,127368521000022,President,male,379460638.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210208,mumma steven r,127368521000020,CEO,male,379460638.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20210208,reese nathan r,127368521000021,Chief Operating Officer,male,379460638.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20210216,mumma steven r,127368521000027,CEO,male,379460638.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20210616,bock david r,127368521000061,,male,379272504.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20210616,norcutt steven g,127368521000062,,male,379272504.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20210616,pendergast lisa a,127368521000063,,female,379272504.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20210616,hainey alan l,127368521000064,,male,379272504.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20210616,clement michael b.,127368521000065,,male,379272504.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20210712,greenberg audrey,127368521000074,,female,379371987.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20220104,mumma steven r,127368522000001,Executive Chairman,male,379405240.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20220104,reese nathan r,127368522000002,Chief Operating Officer,male,379405240.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20220104,nario-eng kristine rimando,127368522000003,Chief Financial Officer,female,379405240.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20220104,serrano jason t,127368522000004,Chief Executive Officer,male,379405240.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20220110,serrano jason t,127368522000006,Chief Executive Officer,male,379405240.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20220131,reese nathan r,127368522000015,Chief Operating Officer,male,379405240.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20220131,serrano jason t,127368522000014,Chief Executive Officer,male,379405240.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20220131,nario-eng kristine rimando,127368522000013,Chief Financial Officer,female,379405240.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20220131,mumma steven r,127368522000012,Executive Chairman,male,379405240.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20220208,serrano jason t,127368522000021,Chief Executive Officer,male,379405240.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20220608,pendergast lisa a,127368522000056,,female,381249031.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20220608,norcutt steven g,127368522000057,,male,381249031.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20220608,greenberg audrey,127368522000058,,female,381249031.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20220608,cheng gena,127368522000059,,female,381249031.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20220608,clement michael b.,127368522000060,,male,381249031.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20220610,clement michael b.,127368522000063,,male,381249031.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230104,nario-eng kristine rimando,127368523000012,Chief Financial Officer,female,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230104,reese nathan r,127368523000013,Chief Operating Officer,male,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230104,mah nicholas,127368523000014,President,male,91193688.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20230104,serrano jason t,127368523000015,Chief Executive Officer,male,91193688.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230104,mumma steven r,127368523000017,,male,91193688.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20230131,serrano jason t,127368523000026,Chief Executive Officer,male,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230131,mah nicholas,127368523000029,President,male,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230131,reese nathan r,127368523000027,Chief Operating Officer,male,91193688.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230131,mumma steven r,127368523000025,,male,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230131,nario-eng kristine rimando,127368523000028,Chief Financial Officer,female,91193688.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20230207,serrano jason t,127368523000035,Chief Executive Officer,male,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230207,mah nicholas,127368523000036,President,male,91193688.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230207,mumma steven r,127368523000037,,male,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230207,nario-eng kristine rimando,127368523000038,Chief Financial Officer,female,91193688.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230207,reese nathan r,127368523000039,Chief Operating Officer,male,91193688.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20230427,serrano jason t,127368523000062,Chief Executive Officer,male,91180096.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230427,mah nicholas,127368523000063,President,male,91180096.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20230427,nario-eng kristine rimando,127368523000064,Chief Financial Officer,female,91180096.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230614,pendergast lisa a,127368523000090,,female,91180096.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230614,clement michael b.,127368523000088,,male,91180096.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230614,cheng gena,127368523000087,,female,91180096.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230614,norcutt steven g,127368523000085,,male,91180096.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230614,mumma steven r,127368523000084,,male,91180096.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20230614,greenberg audrey,127368523000086,,female,91180096.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240103,nario-eng kristine rimando,127368524000007,Chief Financial Officer,female,90675403.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240103,mah nicholas,127368524000008,President,male,90675403.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20240103,serrano jason t,127368524000009,Chief Executive Officer,male,90675403.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240125,nario-eng kristine rimando,127368524000017,Chief Financial Officer,female,90675403.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240125,mumma steven r,127368524000016,,male,90675403.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20240125,serrano jason t,127368524000014,Chief Executive Officer,male,90675403.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240125,mah nicholas,127368524000015,President,male,90675403.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240129,mah nicholas,127368524000022,President,male,90675403.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240129,mumma steven r,127368524000023,,male,90675403.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240129,nario-eng kristine rimando,127368524000024,Chief Financial Officer,female,90675403.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20240129,serrano jason t,127368524000025,Chief Executive Officer,male,90675403.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240411,nario-eng kristine rimando,127368524000040,Chief Financial Officer,female,91231039.0
+,,1273685,new york mortgage trust inc,0.0,1.0,0.0,0.0,20240411,mah nicholas,127368524000041,President,male,91231039.0
+,,1273685,new york mortgage trust inc,1.0,1.0,0.0,0.0,20240411,serrano jason t,127368524000042,Chief Executive Officer,male,91231039.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240826,cheng gena,127368524000075,,female,90579449.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240826,mumma steven r,127368524000070,,male,90579449.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240826,clement michael b.,127368524000071,,male,90579449.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240826,norcutt steven g,127368524000072,,male,90579449.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240826,pendergast lisa a,127368524000073,,female,90579449.0
+,,1273685,new york mortgage trust inc,1.0,0.0,0.0,0.0,20240826,greenberg audrey,127368524000074,,female,90579449.0

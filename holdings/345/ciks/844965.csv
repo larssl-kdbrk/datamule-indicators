@@ -1,192 +1,607 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-89901.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20100106,chambers ben c,118228310000001,Vice President - Accounting,male,75542282.0
-16410.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20100219,goldman edwin h,144384710000001,Senior Vice President,male,75542282.0
-49493.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100310,mitchell kenneth p,118228010000001,,male,75542282.0
-12319.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100318,delimitros tom h,118227710000001,,male,75542282.0
-27123.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100524,cunningham ralph s,84496510000035,,male,75542282.0
-26440.0,62.0,844965,tetra technologies inc,0,1,0,0.0,20100524,goldman edwin h,144384710000002,Senior Vice President,male,75542282.0
-42290.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20100524,longorio philip n,142784910000001,Senior Vice President,male,75542282.0
-191769.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20100524,brightman stuart m,132547610000001,President & CEO,male,75542282.0
-35674.0,30194.0,844965,tetra technologies inc,0,1,0,0.0,20100524,wallace bass c jr,118228810000001,General Counsel & Secretary,male,75542282.0
-36529.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20100524,price linden h,118228610000001,Vice President - Administratio,male,75542282.0
-96981.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20100524,chambers ben c,118228310000002,Vice President - Accounting,male,75542282.0
-9587.0,668.0,844965,tetra technologies inc,0,1,0,0.0,20100524,foster ronald j.,145306010000003,President - Compressco,male,75542282.0
-135078.0,14547.0,844965,tetra technologies inc,0,1,0,0.0,20100524,abell joseph m,118228210000001,Senior Vice President & CFO,male,75542282.0
-42123.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100524,white kenneth e jr,118228110000001,,male,75542282.0
-59297.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100524,mitchell kenneth p,118228010000002,,male,75542282.0
-446668.0,40851.0,844965,tetra technologies inc,1,0,0,0.0,20100524,hertel geoffrey m,118227810000001,,male,75542282.0
-22123.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100524,delimitros tom h,118227710000002,,male,75542282.0
-17051.0,9734.0,844965,tetra technologies inc,0,1,0,0.0,20100524,cobb bruce a,118228410000001,Vice President - Finance,male,75542282.0
-20716.0,6253.0,844965,tetra technologies inc,0,1,0,0.0,20100524,anderson edgar a.,148670010000003,President - Maritech Resources,male,75542282.0
-549675.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100524,coombs paul d,118227510000001,,male,75542282.0
-77189.0,15679.0,844965,tetra technologies inc,1,0,0,0.0,20100524,mcinnes allen t,84496510000036,,male,75542282.0
-46123.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20100524,sullivan william d,84496510000037,,male,75542282.0
-25969.0,96.0,844965,tetra technologies inc,0,1,0,0.0,20100819,goldman edwin h,144384710000003,Senior Vice President,male,76120893.0
+89901.0,,844965,tetra technologies inc,0,1,0,0.0,20100106,chambers ben c,118228310000001,Vice President - Accounting,male,
+16410.0,,844965,tetra technologies inc,0,1,0,0,20100219,goldman edwin h,144384710000001,Senior Vice President,male,
+49493.0,,844965,tetra technologies inc,1,0,0,0.0,20100310,mitchell kenneth p,118228010000001,,male,
+12319.0,,844965,tetra technologies inc,1,0,0,0.0,20100318,delimitros tom h,118227710000001,,male,
+17051.0,9734.0,844965,tetra technologies inc,0,1,0,0.0,20100524,cobb bruce a,118228410000001,Vice President - Finance,male,
+191769.0,,844965,tetra technologies inc,1,1,0,0,20100524,brightman stuart m,132547610000001,President & CEO,male,
+96981.0,,844965,tetra technologies inc,0,1,0,0.0,20100524,chambers ben c,118228310000002,Vice President - Accounting,male,
+135078.0,14547.0,844965,tetra technologies inc,0,1,0,0.0,20100524,abell joseph m,118228210000001,Senior Vice President & CFO,male,
+42123.0,,844965,tetra technologies inc,1,0,0,0.0,20100524,white kenneth e jr,118228110000001,,male,
+59297.0,,844965,tetra technologies inc,1,0,0,0.0,20100524,mitchell kenneth p,118228010000002,,male,
+42290.0,,844965,tetra technologies inc,0,1,0,0,20100524,longorio philip n,142784910000001,Senior Vice President,male,
+35674.0,30194.0,844965,tetra technologies inc,0,1,0,0.0,20100524,wallace bass c jr,118228810000001,General Counsel & Secretary,male,
+36529.0,,844965,tetra technologies inc,0,1,0,0.0,20100524,price linden h,118228610000001,Vice President - Administratio,male,
+26440.0,62.0,844965,tetra technologies inc,0,1,0,0,20100524,goldman edwin h,144384710000002,Senior Vice President,male,
+22123.0,,844965,tetra technologies inc,1,0,0,0.0,20100524,delimitros tom h,118227710000002,,male,
+549675.0,,844965,tetra technologies inc,1,0,0,0.0,20100524,coombs paul d,118227510000001,,male,
+46123.0,,844965,tetra technologies inc,1,0,0,0,20100524,sullivan william d,84496510000037,,male,
+77189.0,15679.0,844965,tetra technologies inc,1,0,0,0,20100524,mcinnes allen t,84496510000036,,male,
+9587.0,668.0,844965,tetra technologies inc,0,1,0,0,20100524,foster ronald j.,145306010000003,President - Compressco,male,
+446668.0,40851.0,844965,tetra technologies inc,1,0,0,0.0,20100524,hertel geoffrey m,118227810000001,,male,
+20716.0,6253.0,844965,tetra technologies inc,0,1,0,0,20100524,anderson edgar a.,148670010000003,President - Maritech Resources,male,
+27123.0,,844965,tetra technologies inc,1,0,0,0,20100524,cunningham ralph s,84496510000035,,male,
+25969.0,96.0,844965,tetra technologies inc,0,1,0,0,20100819,goldman edwin h,144384710000003,Senior Vice President,male,76120893.0
 35463.0,30251.0,844965,tetra technologies inc,0,1,0,0.0,20101109,wallace bass c jr,118228810000002,General Counsel & Secretary,male,76180764.0
 17051.0,9885.0,844965,tetra technologies inc,0,1,0,0.0,20101112,cobb bruce a,118228410000002,Vice President - Finance,male,76180764.0
 52189.0,15507.0,844965,tetra technologies inc,1,0,0,0.0,20101116,mcinnes allen t,118227910000001,,male,76180764.0
-92479.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20101116,chambers ben c,118228310000003,Vice President - Accounting,male,76180764.0
-35860.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20101122,price linden h,84496510000083,Vice President - Administratio,male,76180764.0
-9524.0,735.0,844965,tetra technologies inc,0,1,0,0.0,20101122,foster ronald j.,145306010000004,President - Compressco,male,76180764.0
-35278.0,30251.0,844965,tetra technologies inc,0,1,0,0.0,20101122,wallace bass c jr,84496510000084,General Counsel & Secretary,male,76180764.0
-647522.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110105,coombs paul d,118227511000001,,male,76291745.0
+92479.0,,844965,tetra technologies inc,0,1,0,0.0,20101116,chambers ben c,118228310000003,Vice President - Accounting,male,76180764.0
+9524.0,735.0,844965,tetra technologies inc,0,1,0,0,20101122,foster ronald j.,145306010000004,President - Compressco,male,76180764.0
+35860.0,,844965,tetra technologies inc,0,1,0,0,20101122,price linden h,84496510000083,Vice President - Administratio,male,76180764.0
+35278.0,30251.0,844965,tetra technologies inc,0,1,0,0,20101122,wallace bass c jr,84496510000084,General Counsel & Secretary,male,76180764.0
+647522.0,,844965,tetra technologies inc,1,0,0,0.0,20110105,coombs paul d,118227511000001,,male,76291745.0
 136744.0,11931.0,844965,tetra technologies inc,0,1,0,0.0,20110121,mathews dennis,118228511000001,Senior Vice President,male,76291745.0
-25423.0,139.0,844965,tetra technologies inc,0,1,0,0.0,20110222,goldman edwin h,144384711000001,Senior Vice President,male,76291745.0
-35860.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20110307,price linden h,118228611000001,Vice President -Administration,male,76598911.0
+25423.0,139.0,844965,tetra technologies inc,0,1,0,0,20110222,goldman edwin h,144384711000001,Senior Vice President,male,76291745.0
+35860.0,,844965,tetra technologies inc,0,1,0,0.0,20110307,price linden h,118228611000001,Vice President -Administration,male,76598911.0
 162203.0,14247.0,844965,tetra technologies inc,0,1,0,0.0,20110418,abell joseph m,118228211000001,Senior Vice President & CFO,male,76598911.0
-21092.0,7204.0,844965,tetra technologies inc,0,1,0,0.0,20110502,anderson edgar a.,148670011000001,President - Maritech Resources,male,76598911.0
+21092.0,7204.0,844965,tetra technologies inc,0,1,0,0,20110502,anderson edgar a.,148670011000001,President - Maritech Resources,male,76598911.0
 35067.0,30260.0,844965,tetra technologies inc,0,1,0,0.0,20110510,wallace bass c jr,118228811000001,General Counsel & Secretary,male,76598911.0
-224692.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20110523,brightman stuart m,132547611000001,President & CEO,male,76598911.0
+66990.0,,844965,tetra technologies inc,1,0,0,0.0,20110523,mitchell kenneth p,118228011000001,,male,76598911.0
+53816.0,,844965,tetra technologies inc,1,0,0,0,20110523,sullivan william d,84496511000051,,male,76598911.0
 60472.0,14769.0,844965,tetra technologies inc,1,0,0,0.0,20110523,mcinnes allen t,118227911000001,,male,76598911.0
-53816.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110523,sullivan william d,84496511000051,,male,76598911.0
-66990.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110523,mitchell kenneth p,118228011000001,,male,76598911.0
-49816.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110523,white kenneth e jr,118228111000001,,male,76598911.0
-655215.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110523,coombs paul d,118227511000002,,male,76598911.0
-34816.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110523,cunningham ralph s,118227611000001,,male,76598911.0
-29816.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20110523,delimitros tom h,118227711000001,,male,76598911.0
 454361.0,42441.0,844965,tetra technologies inc,1,0,0,0.0,20110523,hertel geoffrey m,118227811000001,,male,76598911.0
+655215.0,,844965,tetra technologies inc,1,0,0,0.0,20110523,coombs paul d,118227511000002,,male,76598911.0
+34816.0,,844965,tetra technologies inc,1,0,0,0.0,20110523,cunningham ralph s,118227611000001,,male,76598911.0
+29816.0,,844965,tetra technologies inc,1,0,0,0.0,20110523,delimitros tom h,118227711000001,,male,76598911.0
+49816.0,,844965,tetra technologies inc,1,0,0,0.0,20110523,white kenneth e jr,118228111000001,,male,76598911.0
+224692.0,,844965,tetra technologies inc,1,1,0,0,20110523,brightman stuart m,132547611000001,President & CEO,male,76598911.0
+52752.0,,844965,tetra technologies inc,0,1,0,0,20110524,longorio philip n,142784911000001,Senior Vice President,male,76598911.0
 170490.0,14247.0,844965,tetra technologies inc,0,1,0,0.0,20110524,abell joseph m,118228211000002,Senior Vice President & CFO,male,76598911.0
-98185.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20110524,chambers ben c,118228311000001,Vice President - Accounting,male,76598911.0
+34078.0,161.0,844965,tetra technologies inc,0,1,0,0,20110524,goldman edwin h,144384711000002,Senior Vice President,male,76598911.0
+40107.0,,844965,tetra technologies inc,0,1,0,0.0,20110524,price linden h,118228611000002,Vice President -Administration,male,76598911.0
+8550.0,769.0,844965,tetra technologies inc,0,1,0,0,20110524,foster ronald j.,145306011000001,President - Compressco,male,76598911.0
 22590.0,9848.0,844965,tetra technologies inc,0,1,0,0.0,20110524,cobb bruce a,118228411000001,Vice President - Finance,male,76598911.0
-40107.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20110524,price linden h,118228611000002,Vice President -Administration,male,76598911.0
 42921.0,30260.0,844965,tetra technologies inc,0,1,0,0.0,20110524,wallace bass c jr,118228811000002,"Sr VP, General Counsel & Sec.",male,76598911.0
-34078.0,161.0,844965,tetra technologies inc,0,1,0,0.0,20110524,goldman edwin h,144384711000002,Senior Vice President,male,76598911.0
-8550.0,769.0,844965,tetra technologies inc,0,1,0,0.0,20110524,foster ronald j.,145306011000001,President - Compressco,male,76598911.0
-52752.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20110524,longorio philip n,142784911000001,Senior Vice President,male,76598911.0
-33607.0,161.0,844965,tetra technologies inc,0,1,0,0.0,20110819,goldman edwin h,144384711000003,Senior Vice President,male,77179949.0
-55482.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20110908,price linden h,118228611000003,Vice President -Administration,male,77179949.0
-5759.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20111114,bates thomas r jr,84496511000136,,male,77273650.0
-40585.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20111116,pintar peter j,133797811000003,Sr. Vice President,male,77273650.0
-33165.0,184.0,844965,tetra technologies inc,0,1,0,0.0,20111121,goldman edwin h,144384711000004,Senior Vice President,male,77273650.0
-169732.0,14299.0,844965,tetra technologies inc,0,1,0,0.0,20111121,abell joseph m,118228211000003,Senior Vice President & CFO,male,77273650.0
-97741.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20111121,chambers ben c,118228311000002,Vice President - Accounting,male,77273650.0
+98185.0,,844965,tetra technologies inc,0,1,0,0.0,20110524,chambers ben c,118228311000001,Vice President - Accounting,male,76598911.0
+33607.0,161.0,844965,tetra technologies inc,0,1,0,0,20110819,goldman edwin h,144384711000003,Senior Vice President,male,77179949.0
+55482.0,,844965,tetra technologies inc,0,1,0,0.0,20110908,price linden h,118228611000003,Vice President -Administration,male,77179949.0
+,,844965,tetra technologies inc,1,0,0,0,20111114,bates thomas r jr,84496511000136,,male,77273650.0
+40585.0,,844965,tetra technologies inc,0,1,0,0,20111116,pintar peter j,133797811000003,Sr. Vice President,male,77273650.0
+8031.0,807.0,844965,tetra technologies inc,0,1,0,0,20111121,foster ronald j.,145306011000006,President - Compressco,male,77273650.0
+33165.0,184.0,844965,tetra technologies inc,0,1,0,0,20111121,goldman edwin h,144384711000004,Senior Vice President,male,77273650.0
 42294.0,30523.0,844965,tetra technologies inc,0,1,0,0.0,20111121,wallace bass c jr,118228811000005,"Sr VP, General Counsel & Sec.",male,77273650.0
-8031.0,807.0,844965,tetra technologies inc,0,1,0,0.0,20111121,foster ronald j.,145306011000006,President - Compressco,male,77273650.0
-55090.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20111121,price linden h,118228611000004,Vice President -Administration,male,77273650.0
-25759.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20111128,bates thomas r jr,84496511000143,,male,77273650.0
-86990.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20111128,mitchell kenneth p,118228011000002,,male,77273650.0
+169732.0,14299.0,844965,tetra technologies inc,0,1,0,0.0,20111121,abell joseph m,118228211000003,Senior Vice President & CFO,male,77273650.0
+55090.0,,844965,tetra technologies inc,0,1,0,0.0,20111121,price linden h,118228611000004,Vice President -Administration,male,77273650.0
+97741.0,,844965,tetra technologies inc,0,1,0,0.0,20111121,chambers ben c,118228311000002,Vice President - Accounting,male,77273650.0
+86990.0,,844965,tetra technologies inc,1,0,0,0.0,20111128,mitchell kenneth p,118228011000002,,male,77273650.0
+25759.0,,844965,tetra technologies inc,1,0,0,0,20111128,bates thomas r jr,84496511000143,,male,77273650.0
 169732.0,14533.0,844965,tetra technologies inc,0,1,0,0.0,20111207,abell joseph m,118228211000004,Senior Vice President & CFO,male,77273650.0
-97741.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20111208,chambers ben c,118228311000003,Vice President - Accounting,male,77273650.0
+97741.0,,844965,tetra technologies inc,0,1,0,0.0,20111208,chambers ben c,118228311000003,Vice President - Accounting,male,77273650.0
 42633.0,31248.0,844965,tetra technologies inc,0,1,0,0.0,20111227,wallace bass c jr,118228811000006,"Sr VP, General Counsel & Sec.",male,77273650.0
-457067.0,44695.0,844965,tetra technologies inc,1,0,0,0.0,20111228,hertel geoffrey m,118227811000005,,male,77273650.0
+657744.0,,844965,tetra technologies inc,1,0,0,0.0,20111228,coombs paul d,118227511000003,,male,77273650.0
 170354.0,14533.0,844965,tetra technologies inc,0,1,0,0.0,20111228,abell joseph m,118228211000005,Senior Vice President & CFO,male,77273650.0
-657744.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20111228,coombs paul d,118227511000003,,male,77273650.0
-32619.0,216.0,844965,tetra technologies inc,0,1,0,0.0,20120221,goldman edwin h,144384712000001,Senior Vice President,male,77423415.0
-89990.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120517,mitchell kenneth p,118228012000001,,male,77516344.0
-40759.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120517,bates thomas r jr,84496512000062,,male,77516344.0
-63816.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120517,sullivan william d,84496512000063,,male,77516344.0
-672429.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,coombs paul d,84496512000067,,male,77516344.0
-49501.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,cunningham ralph s,84496512000073,,male,77516344.0
-64501.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,white kenneth e jr,84496512000064,,male,77516344.0
-104675.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,mitchell kenneth p,84496512000069,,male,77516344.0
-44501.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,delimitros tom h,84496512000071,,male,77516344.0
-471752.0,44321.0,844965,tetra technologies inc,1,0,0,0.0,20120521,hertel geoffrey m,84496512000072,,male,77516344.0
-78501.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,sullivan william d,84496512000066,,male,77516344.0
-55444.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120521,bates thomas r jr,84496512000065,,male,77516344.0
-55132.0,31293.0,844965,tetra technologies inc,0,1,0,0.0,20120521,wallace bass c jr,84496512000068,"Sr VP, General Counsel & Sec.",male,77516344.0
-270603.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20120521,brightman stuart m,84496512000070,President & CEO,male,77516344.0
-7516.0,899.0,844965,tetra technologies inc,0,1,0,0.0,20120522,foster ronald j.,84496512000074,President - Compressco,male,77516344.0
-61722.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20120522,price linden h,84496512000075,Vice President -Administration,male,77516344.0
-44669.0,254.0,844965,tetra technologies inc,0,1,0,0.0,20120522,goldman edwin h,84496512000076,Senior Vice President,male,77516344.0
-67334.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20120522,longorio philip n,84496512000077,Senior Vice President,male,77516344.0
-55167.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20120522,pintar peter j,84496512000078,Sr. Vice President,male,77516344.0
-106907.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20120522,chambers ben c,84496512000079,Vice President - Accounting,male,77516344.0
-30298.0,9945.0,844965,tetra technologies inc,0,1,0,0.0,20120522,cobb bruce a,84496512000080,Vice President - Finance,male,77516344.0
-118175.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120523,mitchell kenneth p,118228012000002,,male,77516344.0
-295603.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20120531,brightman stuart m,132547612000001,President & CEO,male,77516344.0
-69501.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20120613,cunningham ralph s,84496512000083,,male,77516344.0
-46898.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20120816,serrano elijio v,115905112000006,Sr. Vice President & CFO,male,78035270.0
+457067.0,44695.0,844965,tetra technologies inc,1,0,0,0.0,20111228,hertel geoffrey m,118227811000005,,male,77273650.0
+32619.0,216.0,844965,tetra technologies inc,0,1,0,0,20120221,goldman edwin h,144384712000001,Senior Vice President,male,77423415.0
+40759.0,,844965,tetra technologies inc,1,0,0,0,20120517,bates thomas r jr,84496512000062,,male,77516344.0
+63816.0,,844965,tetra technologies inc,1,0,0,0,20120517,sullivan william d,84496512000063,,male,77516344.0
+89990.0,,844965,tetra technologies inc,1,0,0,0.0,20120517,mitchell kenneth p,118228012000001,,male,77516344.0
+78501.0,,844965,tetra technologies inc,1,0,0,0,20120521,sullivan william d,84496512000066,,male,77516344.0
+672429.0,,844965,tetra technologies inc,1,0,0,0,20120521,coombs paul d,84496512000067,,male,77516344.0
+55132.0,31293.0,844965,tetra technologies inc,0,1,0,0,20120521,wallace bass c jr,84496512000068,"Sr VP, General Counsel & Sec.",male,77516344.0
+104675.0,,844965,tetra technologies inc,1,0,0,0,20120521,mitchell kenneth p,84496512000069,,male,77516344.0
+270603.0,,844965,tetra technologies inc,1,1,0,0,20120521,brightman stuart m,84496512000070,President & CEO,male,77516344.0
+55444.0,,844965,tetra technologies inc,1,0,0,0,20120521,bates thomas r jr,84496512000065,,male,77516344.0
+471752.0,44321.0,844965,tetra technologies inc,1,0,0,0,20120521,hertel geoffrey m,84496512000072,,male,77516344.0
+49501.0,,844965,tetra technologies inc,1,0,0,0,20120521,cunningham ralph s,84496512000073,,male,77516344.0
+64501.0,,844965,tetra technologies inc,1,0,0,0,20120521,white kenneth e jr,84496512000064,,male,77516344.0
+44501.0,,844965,tetra technologies inc,1,0,0,0,20120521,delimitros tom h,84496512000071,,male,77516344.0
+61722.0,,844965,tetra technologies inc,0,1,0,0,20120522,price linden h,84496512000075,Vice President -Administration,male,77516344.0
+44669.0,254.0,844965,tetra technologies inc,0,1,0,0,20120522,goldman edwin h,84496512000076,Senior Vice President,male,77516344.0
+67334.0,,844965,tetra technologies inc,0,1,0,0,20120522,longorio philip n,84496512000077,Senior Vice President,male,77516344.0
+55167.0,,844965,tetra technologies inc,0,1,0,0,20120522,pintar peter j,84496512000078,Sr. Vice President,male,77516344.0
+106907.0,,844965,tetra technologies inc,0,1,0,0,20120522,chambers ben c,84496512000079,Vice President - Accounting,male,77516344.0
+30298.0,9945.0,844965,tetra technologies inc,0,1,0,0,20120522,cobb bruce a,84496512000080,Vice President - Finance,male,77516344.0
+7516.0,899.0,844965,tetra technologies inc,0,1,0,0,20120522,foster ronald j.,84496512000074,President - Compressco,male,77516344.0
+118175.0,,844965,tetra technologies inc,1,0,0,0.0,20120523,mitchell kenneth p,118228012000002,,male,77516344.0
+295603.0,,844965,tetra technologies inc,1,1,0,0,20120531,brightman stuart m,132547612000001,President & CEO,male,77516344.0
+69501.0,,844965,tetra technologies inc,1,0,0,0,20120613,cunningham ralph s,84496512000083,,male,77516344.0
+46898.0,,844965,tetra technologies inc,0,1,0,0,20120816,serrano elijio v,115905112000006,Sr. Vice President & CFO,male,78035270.0
 65132.0,32201.0,844965,tetra technologies inc,0,1,0,0.0,20120821,wallace bass c jr,118228812000001,"Sr VP, General Counsel & Sec.",male,78035270.0
-69398.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20120822,serrano elijio v,115905112000007,Sr. Vice President & CFO,male,78035270.0
-52169.0,319.0,844965,tetra technologies inc,0,1,0,0.0,20120822,goldman edwin h,144384712000002,Senior Vice President,male,78035270.0
-143175.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20121114,mitchell kenneth p,118228012000003,,male,78076537.0
-75444.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20121114,bates thomas r jr,84496512000133,,male,78076537.0
-85167.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20121115,pintar peter j,133797812000001,Sr. Vice President,male,78076537.0
-88501.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20121116,sullivan william d,84496512000134,,male,78076537.0
-255167.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20121116,pintar peter j,133797812000002,Sr. Vice President,male,78076537.0
+69398.0,,844965,tetra technologies inc,0,1,0,0,20120822,serrano elijio v,115905112000007,Sr. Vice President & CFO,male,78035270.0
+52169.0,319.0,844965,tetra technologies inc,0,1,0,0,20120822,goldman edwin h,144384712000002,Senior Vice President,male,78035270.0
+143175.0,,844965,tetra technologies inc,1,0,0,0.0,20121114,mitchell kenneth p,118228012000003,,male,78076537.0
+75444.0,,844965,tetra technologies inc,1,0,0,0,20121114,bates thomas r jr,84496512000133,,male,78076537.0
+85167.0,,844965,tetra technologies inc,0,1,0,0,20121115,pintar peter j,133797812000001,Sr. Vice President,male,78076537.0
+88501.0,,844965,tetra technologies inc,1,0,0,0,20121116,sullivan william d,84496512000134,,male,78076537.0
 47298.0,10206.0,844965,tetra technologies inc,0,1,0,0.0,20121116,cobb bruce a,118228412000001,Vice President - Finance,male,78076537.0
-101198.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20121120,serrano elijio v,115905112000008,Sr. Vice President & CFO,male,78076537.0
-7065.0,1034.0,844965,tetra technologies inc,0,1,0,0.0,20121121,foster ronald j.,145306012000004,President - Compressco,male,78076537.0
-133907.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130213,chambers ben c,118228313000001,Vice President - Accounting,male,78112032.0
-123434.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130308,longorio philip n,142784913000001,Senior Vice President,male,78200008.0
-112198.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130308,serrano elijio v,115905113000001,Sr. Vice President & CFO,male,78200008.0
-62144.0,372.0,844965,tetra technologies inc,0,1,0,0.0,20130312,goldman edwin h,144384713000001,Senior Vice President,male,78200008.0
-12377.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130315,evans elisabeth k,156705413000003,VP - Human Resources,female,78200008.0
-85153.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,bates thomas r jr,84496513000055,,male,78200008.0
-349783.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20130521,brightman stuart m,84496513000056,President & CEO,male,78200008.0
-682138.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,coombs paul d,84496513000057,,male,78200008.0
-79210.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,cunningham ralph s,84496513000058,,male,78200008.0
-54210.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,delimitros tom h,84496513000059,,male,78200008.0
-481461.0,44389.0,844965,tetra technologies inc,1,0,0,0.0,20130521,hertel geoffrey m,84496513000060,,male,78200008.0
-152884.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,mitchell kenneth p,84496513000061,,male,78200008.0
-98210.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,sullivan william d,84496513000062,,male,78200008.0
-74210.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20130521,white kenneth e jr,84496513000063,,male,78200008.0
-129838.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130522,serrano elijio v,84496513000071,Sr. Vice President & CFO,male,78200008.0
-268517.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130522,pintar peter j,84496513000070,Sr. Vice President,male,78200008.0
-141074.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130522,longorio philip n,84496513000069,Senior Vice President,male,78200008.0
-73912.0,413.0,844965,tetra technologies inc,0,1,0,0.0,20130522,goldman edwin h,84496513000068,Senior Vice President,male,78200008.0
-6601.0,1073.0,844965,tetra technologies inc,0,1,0,0.0,20130522,foster ronald j.,84496513000067,President - Compressco,male,78200008.0
-74829.0,32310.0,844965,tetra technologies inc,0,1,0,0.0,20130522,wallace bass c jr,84496513000072,Sr VP & General Counsel,male,78200008.0
-138502.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130522,chambers ben c,84496513000065,Vice President - Accounting,male,78200008.0
-51753.0,9957.0,844965,tetra technologies inc,0,1,0,0.0,20130522,cobb bruce a,84496513000064,Vice President - Finance,male,78200008.0
-18002.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130522,evans elisabeth k,84496513000066,VP - Human Resources,female,78200008.0
-111502.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20130531,chambers ben c,84496513000073,Vice President - Accounting,male,78200008.0
-73425.0,413.0,844965,tetra technologies inc,0,1,0,0.0,20130819,goldman edwin h,144384713000002,Senior Vice President,male,78724179.0
-102035.0,462.0,844965,tetra technologies inc,0,1,0,0.0,20131220,goldman edwin h,84496513000100,Senior Vice President,male,78844626.0
-3108.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140116,baldwin mark e,84496514000008,,male,78855547.0
-4108.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140116,glick john f,84496514000009,,male,78855547.0
-16761.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140317,evans elisabeth k,84496514000023,VP - Human Resources,female,78898214.0
-154032.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140522,serrano elijio v,84496514000050,Sr. Vice President & CFO,male,78898214.0
-283447.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140522,pintar peter j,84496514000049,Sr. Vice President,male,78898214.0
-161845.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,mitchell kenneth p,84496514000048,,male,78898214.0
-99728.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140522,goldman edwin h,84496514000047,Senior Vice President,male,78898214.0
-13069.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,glick john f,84496514000046,,male,78898214.0
-88171.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,cunningham ralph s,84496514000044,,male,78898214.0
-107171.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,sullivan william d,84496514000051,,male,78898214.0
-691099.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,coombs paul d,84496514000043,,male,78898214.0
-400186.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20140522,brightman stuart m,84496514000041,President & CEO,male,78898214.0
-94114.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,bates thomas r jr,84496514000040,,male,78898214.0
-12069.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,baldwin mark e,84496514000039,,male,78898214.0
-21502.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140522,evans elisabeth k,84496514000045,VP - Human Resources,female,78898214.0
-115487.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140522,chambers ben c,84496514000042,Vice President - Accounting,male,78898214.0
-82734.0,32295.0,844965,tetra technologies inc,0,1,0,0.0,20140522,wallace bass c jr,84496514000052,Sr VP & General Counsel,male,78898214.0
-83171.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20140522,white kenneth e jr,84496514000053,,male,78898214.0
-232302.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140616,elkhoury joseph,84496514000066,Sr. Vice President & COO,male,78898214.0
-71336.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140915,goldman edwin h,84496514000084,Senior Vice President,male,79550793.0
-20937.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20140916,evans elisabeth k,84496514000085,VP - Human Resources,female,79550793.0
-6601.0,1237.0,844965,tetra technologies inc,0,1,0,0.0,20140916,foster ronald j.,84496514000086,Compressco SVP and CMO,male,79550793.0
-81630.0,32517.0,844965,tetra technologies inc,0,1,0,0.0,20141125,wallace bass c jr,84496514000104,Sr VP & General Counsel,male,79599779.0
-70095.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20141125,goldman edwin h,84496514000102,Senior Vice President,male,79599779.0
-280322.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20141125,pintar peter j,84496514000103,Sr. Vice President,male,79599779.0
-51198.0,8993.0,844965,tetra technologies inc,0,1,0,0.0,20141125,cobb bruce a,84496514000100,Vice President - Finance,male,79599779.0
-114795.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20141125,chambers ben c,84496514000099,Vice President - Accounting,male,79599779.0
-20680.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20141125,evans elisabeth k,84496514000101,VP - Human Resources,female,79599779.0
-200396.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20141208,serrano elijio v,84496514000106,Sr. Vice President & CFO,male,79599779.0
-171845.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20141208,mitchell kenneth p,84496514000105,,male,79599779.0
-173845.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20141209,mitchell kenneth p,84496514000107,,male,79599779.0
-176845.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20141215,mitchell kenneth p,84496514000108,,male,79599779.0
-91630.0,32517.0,844965,tetra technologies inc,0,1,0,0.0,20141215,wallace bass c jr,84496514000109,Sr VP & General Counsel,male,79599779.0
-692099.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20141216,coombs paul d,84496514000110,,male,79599779.0
-49801.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20141218,schilling keith l,84496514000113,Senior Vice President,male,79599779.0
-31169.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150309,glick john f,84496515000017,,male,79649946.0
-303624.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150506,pintar peter j,84496515000036,Sr. Vice President,male,79649946.0
-26056.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,baldwin mark e,84496515000027,,male,79649946.0
-97158.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,white kenneth e jr,84496515000041,,male,79649946.0
-107836.0,33237.0,844965,tetra technologies inc,0,1,0,0.0,20150506,wallace bass c jr,84496515000040,Sr VP & General Counsel,male,79649946.0
-121158.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,sullivan william d,84496515000039,,male,79649946.0
-231865.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150506,serrano elijio v,84496515000038,Sr. Vice President & CFO,male,79649946.0
-2797.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150506,meyer joseph j,84496515000035,"VP - Finance, Treasurer",male,79649946.0
-45156.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,glick john f,84496515000034,,male,79649946.0
-78647.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150506,schilling keith l,84496515000037,Senior Vice President,male,79649946.0
-102158.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,cunningham ralph s,84496515000032,,male,79649946.0
-705086.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,coombs paul d,84496515000031,,male,79649946.0
-122065.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150506,chambers ben c,84496515000030,Vice President - Accounting,male,79649946.0
-481868.0,0.0,844965,tetra technologies inc,1,1,0,0.0,20150506,brightman stuart m,84496515000029,President & CEO,male,79649946.0
-108101.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150506,bates thomas r jr,84496515000028,,male,79649946.0
-27732.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150506,evans elisabeth k,84496515000033,VP - Human Resources,female,79649946.0
-120873.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150522,chambers ben c,84496515000052,Vice President - Accounting,male,79649946.0
-287386.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150522,elkhoury joseph,84496515000053,Sr. Vice President & COO,male,79649946.0
-27020.0,0.0,844965,tetra technologies inc,0,1,0,0.0,20150522,evans elisabeth k,84496515000054,VP - Human Resources,female,79649946.0
-105744.0,33237.0,844965,tetra technologies inc,0,1,0,0.0,20150522,wallace bass c jr,84496515000055,Sr VP & General Counsel,male,79649946.0
-10407.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150817,snider stephen a,84496515000077,,male,80192311.0
-9539.0,0.0,844965,tetra technologies inc,1,0,0,0.0,20150901,winkler joseph c,84496515000082,,male,80192311.0
+255167.0,,844965,tetra technologies inc,0,1,0,0,20121116,pintar peter j,133797812000002,Sr. Vice President,male,78076537.0
+101198.0,,844965,tetra technologies inc,0,1,0,0,20121120,serrano elijio v,115905112000008,Sr. Vice President & CFO,male,78076537.0
+7065.0,1034.0,844965,tetra technologies inc,0,1,0,0,20121121,foster ronald j.,145306012000004,President - Compressco,male,78076537.0
+133907.0,,844965,tetra technologies inc,0,1,0,0.0,20130213,chambers ben c,118228313000001,Vice President - Accounting,male,78112032.0
+112198.0,,844965,tetra technologies inc,0,1,0,0,20130308,serrano elijio v,115905113000001,Sr. Vice President & CFO,male,78200008.0
+123434.0,,844965,tetra technologies inc,0,1,0,0,20130308,longorio philip n,142784913000001,Senior Vice President,male,78200008.0
+62144.0,372.0,844965,tetra technologies inc,0,1,0,0,20130312,goldman edwin h,144384713000001,Senior Vice President,male,78200008.0
+12377.0,,844965,tetra technologies inc,0,1,0,0,20130315,evans elisabeth k,156705413000003,VP - Human Resources,female,78200008.0
+98210.0,,844965,tetra technologies inc,1,0,0,0,20130521,sullivan william d,84496513000062,,male,78200008.0
+54210.0,,844965,tetra technologies inc,1,0,0,0,20130521,delimitros tom h,84496513000059,,male,78200008.0
+481461.0,44389.0,844965,tetra technologies inc,1,0,0,0,20130521,hertel geoffrey m,84496513000060,,male,78200008.0
+152884.0,,844965,tetra technologies inc,1,0,0,0,20130521,mitchell kenneth p,84496513000061,,male,78200008.0
+349783.0,,844965,tetra technologies inc,1,1,0,0,20130521,brightman stuart m,84496513000056,President & CEO,male,78200008.0
+74210.0,,844965,tetra technologies inc,1,0,0,0,20130521,white kenneth e jr,84496513000063,,male,78200008.0
+79210.0,,844965,tetra technologies inc,1,0,0,0,20130521,cunningham ralph s,84496513000058,,male,78200008.0
+682138.0,,844965,tetra technologies inc,1,0,0,0,20130521,coombs paul d,84496513000057,,male,78200008.0
+85153.0,,844965,tetra technologies inc,1,0,0,0,20130521,bates thomas r jr,84496513000055,,male,78200008.0
+51753.0,9957.0,844965,tetra technologies inc,0,1,0,0,20130522,cobb bruce a,84496513000064,Vice President - Finance,male,78200008.0
+138502.0,,844965,tetra technologies inc,0,1,0,0,20130522,chambers ben c,84496513000065,Vice President - Accounting,male,78200008.0
+18002.0,,844965,tetra technologies inc,0,1,0,0,20130522,evans elisabeth k,84496513000066,VP - Human Resources,female,78200008.0
+6601.0,1073.0,844965,tetra technologies inc,0,1,0,0,20130522,foster ronald j.,84496513000067,President - Compressco,male,78200008.0
+73912.0,413.0,844965,tetra technologies inc,0,1,0,0,20130522,goldman edwin h,84496513000068,Senior Vice President,male,78200008.0
+141074.0,,844965,tetra technologies inc,0,1,0,0,20130522,longorio philip n,84496513000069,Senior Vice President,male,78200008.0
+268517.0,,844965,tetra technologies inc,0,1,0,0,20130522,pintar peter j,84496513000070,Sr. Vice President,male,78200008.0
+129838.0,,844965,tetra technologies inc,0,1,0,0,20130522,serrano elijio v,84496513000071,Sr. Vice President & CFO,male,78200008.0
+74829.0,32310.0,844965,tetra technologies inc,0,1,0,0,20130522,wallace bass c jr,84496513000072,Sr VP & General Counsel,male,78200008.0
+111502.0,,844965,tetra technologies inc,0,1,0,0,20130531,chambers ben c,84496513000073,Vice President - Accounting,male,78200008.0
+73425.0,413.0,844965,tetra technologies inc,0,1,0,0,20130819,goldman edwin h,144384713000002,Senior Vice President,male,78724179.0
+102035.0,462.0,844965,tetra technologies inc,0,1,0,0,20131220,goldman edwin h,84496513000100,Senior Vice President,male,78844626.0
+3108.0,,844965,tetra technologies inc,1,0,0,0,20140116,baldwin mark e,84496514000008,,male,78855547.0
+4108.0,,844965,tetra technologies inc,1,0,0,0,20140116,glick john f,84496514000009,,male,78855547.0
+16761.0,,844965,tetra technologies inc,0,1,0,0,20140317,evans elisabeth k,84496514000023,VP - Human Resources,female,78898214.0
+83171.0,,844965,tetra technologies inc,1,0,0,0,20140522,white kenneth e jr,84496514000053,,male,78898214.0
+161845.0,,844965,tetra technologies inc,1,0,0,0,20140522,mitchell kenneth p,84496514000048,,male,78898214.0
+82734.0,32295.0,844965,tetra technologies inc,0,1,0,0,20140522,wallace bass c jr,84496514000052,Sr VP & General Counsel,male,78898214.0
+107171.0,,844965,tetra technologies inc,1,0,0,0,20140522,sullivan william d,84496514000051,,male,78898214.0
+154032.0,,844965,tetra technologies inc,0,1,0,0,20140522,serrano elijio v,84496514000050,Sr. Vice President & CFO,male,78898214.0
+283447.0,,844965,tetra technologies inc,0,1,0,0,20140522,pintar peter j,84496514000049,Sr. Vice President,male,78898214.0
+12069.0,,844965,tetra technologies inc,1,0,0,0,20140522,baldwin mark e,84496514000039,,male,78898214.0
+99728.0,,844965,tetra technologies inc,0,1,0,0,20140522,goldman edwin h,84496514000047,Senior Vice President,male,78898214.0
+94114.0,,844965,tetra technologies inc,1,0,0,0,20140522,bates thomas r jr,84496514000040,,male,78898214.0
+21502.0,,844965,tetra technologies inc,0,1,0,0,20140522,evans elisabeth k,84496514000045,VP - Human Resources,female,78898214.0
+88171.0,,844965,tetra technologies inc,1,0,0,0,20140522,cunningham ralph s,84496514000044,,male,78898214.0
+691099.0,,844965,tetra technologies inc,1,0,0,0,20140522,coombs paul d,84496514000043,,male,78898214.0
+115487.0,,844965,tetra technologies inc,0,1,0,0,20140522,chambers ben c,84496514000042,Vice President - Accounting,male,78898214.0
+400186.0,,844965,tetra technologies inc,1,1,0,0,20140522,brightman stuart m,84496514000041,President & CEO,male,78898214.0
+13069.0,,844965,tetra technologies inc,1,0,0,0,20140522,glick john f,84496514000046,,male,78898214.0
+232302.0,,844965,tetra technologies inc,0,1,0,0,20140616,elkhoury joseph,84496514000066,Sr. Vice President & COO,male,78898214.0
+71336.0,,844965,tetra technologies inc,0,1,0,0,20140915,goldman edwin h,84496514000084,Senior Vice President,male,79550793.0
+20937.0,,844965,tetra technologies inc,0,1,0,0,20140916,evans elisabeth k,84496514000085,VP - Human Resources,female,79550793.0
+6601.0,1237.0,844965,tetra technologies inc,0,1,0,0,20140916,foster ronald j.,84496514000086,Compressco SVP and CMO,male,79550793.0
+81630.0,32517.0,844965,tetra technologies inc,0,1,0,0,20141125,wallace bass c jr,84496514000104,Sr VP & General Counsel,male,79599779.0
+70095.0,,844965,tetra technologies inc,0,1,0,0,20141125,goldman edwin h,84496514000102,Senior Vice President,male,79599779.0
+114795.0,,844965,tetra technologies inc,0,1,0,0,20141125,chambers ben c,84496514000099,Vice President - Accounting,male,79599779.0
+51198.0,8993.0,844965,tetra technologies inc,0,1,0,0,20141125,cobb bruce a,84496514000100,Vice President - Finance,male,79599779.0
+280322.0,,844965,tetra technologies inc,0,1,0,0,20141125,pintar peter j,84496514000103,Sr. Vice President,male,79599779.0
+20680.0,,844965,tetra technologies inc,0,1,0,0,20141125,evans elisabeth k,84496514000101,VP - Human Resources,female,79599779.0
+171845.0,,844965,tetra technologies inc,1,0,0,0,20141208,mitchell kenneth p,84496514000105,,male,79599779.0
+200396.0,,844965,tetra technologies inc,0,1,0,0,20141208,serrano elijio v,84496514000106,Sr. Vice President & CFO,male,79599779.0
+173845.0,,844965,tetra technologies inc,1,0,0,0,20141209,mitchell kenneth p,84496514000107,,male,79599779.0
+176845.0,,844965,tetra technologies inc,1,0,0,0,20141215,mitchell kenneth p,84496514000108,,male,79599779.0
+91630.0,32517.0,844965,tetra technologies inc,0,1,0,0,20141215,wallace bass c jr,84496514000109,Sr VP & General Counsel,male,79599779.0
+692099.0,,844965,tetra technologies inc,1,0,0,0,20141216,coombs paul d,84496514000110,,male,79599779.0
+49801.0,,844965,tetra technologies inc,0,1,0,0,20141218,schilling keith l,84496514000113,Senior Vice President,male,79599779.0
+31169.0,,844965,tetra technologies inc,1,0,0,0,20150309,glick john f,84496515000017,,male,79649946.0
+97158.0,,844965,tetra technologies inc,1,0,0,0,20150506,white kenneth e jr,84496515000041,,male,79649946.0
+107836.0,33237.0,844965,tetra technologies inc,0,1,0,0,20150506,wallace bass c jr,84496515000040,Sr VP & General Counsel,male,79649946.0
+121158.0,,844965,tetra technologies inc,1,0,0,0,20150506,sullivan william d,84496515000039,,male,79649946.0
+231865.0,,844965,tetra technologies inc,0,1,0,0,20150506,serrano elijio v,84496515000038,Sr. Vice President & CFO,male,79649946.0
+78647.0,,844965,tetra technologies inc,0,1,0,0,20150506,schilling keith l,84496515000037,Senior Vice President,male,79649946.0
+303624.0,,844965,tetra technologies inc,0,1,0,0,20150506,pintar peter j,84496515000036,Sr. Vice President,male,79649946.0
+102158.0,,844965,tetra technologies inc,1,0,0,0,20150506,cunningham ralph s,84496515000032,,male,79649946.0
+27732.0,,844965,tetra technologies inc,0,1,0,0,20150506,evans elisabeth k,84496515000033,VP - Human Resources,female,79649946.0
+705086.0,,844965,tetra technologies inc,1,0,0,0,20150506,coombs paul d,84496515000031,,male,79649946.0
+122065.0,,844965,tetra technologies inc,0,1,0,0,20150506,chambers ben c,84496515000030,Vice President - Accounting,male,79649946.0
+481868.0,,844965,tetra technologies inc,1,1,0,0,20150506,brightman stuart m,84496515000029,President & CEO,male,79649946.0
+108101.0,,844965,tetra technologies inc,1,0,0,0,20150506,bates thomas r jr,84496515000028,,male,79649946.0
+26056.0,,844965,tetra technologies inc,1,0,0,0,20150506,baldwin mark e,84496515000027,,male,79649946.0
+45156.0,,844965,tetra technologies inc,1,0,0,0,20150506,glick john f,84496515000034,,male,79649946.0
+2797.0,,844965,tetra technologies inc,0,1,0,0,20150506,meyer joseph j,84496515000035,"VP - Finance, Treasurer",male,79649946.0
+120873.0,,844965,tetra technologies inc,0,1,0,0,20150522,chambers ben c,84496515000052,Vice President - Accounting,male,79649946.0
+287386.0,,844965,tetra technologies inc,0,1,0,0,20150522,elkhoury joseph,84496515000053,Sr. Vice President & COO,male,79649946.0
+27020.0,,844965,tetra technologies inc,0,1,0,0,20150522,evans elisabeth k,84496515000054,VP - Human Resources,female,79649946.0
+105744.0,33237.0,844965,tetra technologies inc,0,1,0,0,20150522,wallace bass c jr,84496515000055,Sr VP & General Counsel,male,79649946.0
+10407.0,,844965,tetra technologies inc,1,0,0,0,20150817,snider stephen a,84496515000077,,male,80192311.0
+10407.0,,844965,tetra technologies inc,1,0,0,0,20150817,snider stephen a,84496515000077,,male,80192311.0
+9539.0,,844965,tetra technologies inc,1,0,0,0,20150901,winkler joseph c,84496515000082,,male,80192311.0
+9539.0,,844965,tetra technologies inc,1,0,0,0,20150901,winkler joseph c,84496515000082,,male,80192311.0
+261982.0,,844965,tetra technologies inc,0,1,0,0,20160512,serrano elijio v,84496516000153,SR VP & CFO,male,80256544.0
+23428.0,,844965,tetra technologies inc,1,0,0,0,20160512,winkler joseph c,84496516000152,,male,80256544.0
+111047.0,,844965,tetra technologies inc,1,0,0,0,20160512,white kenneth e jr,84496516000151,,male,80256544.0
+119329.0,,844965,tetra technologies inc,0,1,0,0,20160512,wallace bass c jr,84496516000150,SR VP & General Counsel,male,80256544.0
+135047.0,,844965,tetra technologies inc,1,0,0,0,20160512,sullivan william d,84496516000149,,male,80256544.0
+24296.0,,844965,tetra technologies inc,1,0,0,0,20160512,snider stephen a,84496516000148,,male,80256544.0
+89160.0,,844965,tetra technologies inc,0,1,0,0,20160512,schilling keith l,84496516000146,Senior VP,male,80256544.0
+315296.0,,844965,tetra technologies inc,0,1,0,0,20160512,pintar peter j,84496516000145,SR VP,male,80256544.0
+59045.0,,844965,tetra technologies inc,1,0,0,0,20160512,glick john f,84496516000143,,male,80256544.0
+32404.0,,844965,tetra technologies inc,0,1,0,0,20160512,evans elisabeth k,84496516000142,VP of Human Resources,female,80256544.0
+323845.0,,844965,tetra technologies inc,0,1,0,0,20160512,elkhoury joseph,84496516000141,SR VP & COO,male,80256544.0
+718975.0,,844965,tetra technologies inc,1,0,0,0,20160512,coombs paul d,84496516000140,,male,80256544.0
+126911.0,,844965,tetra technologies inc,0,1,0,0,20160512,chambers ben c,84496516000139,VP Accounting Controller,male,80256544.0
+569404.0,,844965,tetra technologies inc,0,1,0,0,20160512,brightman stuart m,84496516000138,President & CEO,male,80256544.0
+121990.0,,844965,tetra technologies inc,1,0,0,0,20160512,bates thomas r jr,84496516000137,,male,80256544.0
+39945.0,,844965,tetra technologies inc,1,0,0,0,20160512,baldwin mark e,84496516000136,,male,80256544.0
+5965.0,,844965,tetra technologies inc,0,1,0,0,20160512,meyer joseph j,84496516000144,VP Treasury,male,80256544.0
+142122.0,,844965,tetra technologies inc,0,1,0,0,20160518,chambers ben c,84496516000154,VP Accounting Controller,male,80256544.0
+48609.0,,844965,tetra technologies inc,0,1,0,0,20160518,evans elisabeth k,84496516000155,VP of Human Resources,female,80256544.0
+17211.0,,844965,tetra technologies inc,0,1,0,0,20160518,meyer joseph j,84496516000156,VP Treasury,male,80256544.0
+260079.0,,844965,tetra technologies inc,0,1,0,0,20160524,serrano elijio v,84496516000162,SR VP & CFO,male,80256544.0
+118298.0,,844965,tetra technologies inc,0,1,0,0,20160524,wallace bass c jr,84496516000161,SR VP & General Counsel,male,80256544.0
+314006.0,,844965,tetra technologies inc,0,1,0,0,20160524,pintar peter j,84496516000159,SR VP,male,80256544.0
+48113.0,,844965,tetra technologies inc,0,1,0,0,20160524,evans elisabeth k,84496516000158,VP of Human Resources,female,80256544.0
+141578.0,,844965,tetra technologies inc,0,1,0,0,20160524,chambers ben c,84496516000157,VP Accounting Controller,male,80256544.0
+5965.0,,844965,tetra technologies inc,0,1,0,0,20160601,meyer joseph j,84496516000170,VP Treasury,male,80256544.0
+31908.0,,844965,tetra technologies inc,0,1,0,0,20160623,evans elisabeth k,84496516000174,VP Human Resources,female,80256544.0
+299613.0,,844965,tetra technologies inc,0,1,0,0,20160624,serrano elijio v,84496516000179,Sr VP &Chief Financial Officer,male,80256544.0
+115861.0,,844965,tetra technologies inc,0,1,0,0,20160624,schilling keith l,84496516000178,Sr. VP,male,80256544.0
+334551.0,,844965,tetra technologies inc,0,1,0,0,20160624,pintar peter j,84496516000177,Sr. VP,male,80256544.0
+367068.0,,844965,tetra technologies inc,0,1,0,0,20160624,elkhoury joseph,84496516000176,Sr VP &Chief Operating Officer,male,80256544.0
+676403.0,,844965,tetra technologies inc,1,1,0,0,20160624,brightman stuart m,84496516000175,President & CEO,male,80256544.0
+141673.0,,844965,tetra technologies inc,0,1,0,0,20160624,wallace bass c jr,84496516000180,Sr. VP & General Counsel,male,80256544.0
+118298.0,,844965,tetra technologies inc,0,1,0,0,20160629,wallace bass c jr,84496516000185,Sr. VP & General Counsel,male,80256544.0
+314006.0,,844965,tetra technologies inc,0,1,0,0,20160629,pintar peter j,84496516000184,Sr. VP,male,80256544.0
+91520.0,,844965,tetra technologies inc,0,1,0,0,20160830,schilling keith l,84496516000195,Sr. VP,male,92705714.0
+117559.0,,844965,tetra technologies inc,0,1,0,0,20161107,wallace bass c jr,84496516000203,SR VP & General Counsel,male,92705714.0
+312943.0,,844965,tetra technologies inc,0,1,0,0,20161107,pintar peter j,84496516000204,SR VP,male,92705714.0
+5837.0,,844965,tetra technologies inc,0,1,0,0,20161107,meyer joseph j,84496516000205,VP Treasury,male,92705714.0
+31555.0,,844965,tetra technologies inc,0,1,0,0,20161107,evans elisabeth k,84496516000206,VP of Human Resources,female,92705714.0
+141246.0,,844965,tetra technologies inc,0,1,0,0,20161107,chambers ben c,84496516000207,VP Accounting Controller,male,92705714.0
+298173.0,,844965,tetra technologies inc,0,1,0,0,20161107,serrano elijio v,84496516000202,SR VP & CFO,male,92705714.0
+140976.0,,844965,tetra technologies inc,0,1,0,0,20161121,chambers ben c,84496516000212,VP Accounting Controller,male,92685274.0
+31315.0,,844965,tetra technologies inc,0,1,0,0,20161121,evans elisabeth k,84496516000213,VP of Human Resources,female,92685274.0
+312262.0,,844965,tetra technologies inc,0,1,0,0,20161121,pintar peter j,84496516000214,SR VP,male,92685274.0
+297070.0,,844965,tetra technologies inc,0,1,0,0,20161121,serrano elijio v,84496516000215,SR VP & CFO,male,92685274.0
+117062.0,,844965,tetra technologies inc,0,1,0,0,20161121,wallace bass c jr,84496516000216,SR VP & General Counsel,male,92685274.0
+17303.0,,844965,tetra technologies inc,0,1,0,0,20161122,evans elisabeth k,84496516000217,VP of Human Resources,female,92685274.0
+67179.0,,844965,tetra technologies inc,0,1,0,0,20161201,sanderson matthew,84496516000219,Sr. Vice President,male,92685274.0
+262262.0,,844965,tetra technologies inc,0,1,0,0,20161206,pintar peter j,84496516000220,SR VP,male,92685274.0
+212262.0,,844965,tetra technologies inc,false,true,false,false,20170202,pintar peter j,156218017000465,Sr. Vice President,male,114985072.0
+237207.0,,844965,tetra technologies inc,false,true,false,false,20170224,pintar peter j,156218017000915,Sr. Vice President,male,114985072.0
+39945.0,,844965,tetra technologies inc,true,false,false,false,20170224,baldwin mark e,156218017000909,,male,114985072.0
+835294.0,,844965,tetra technologies inc,true,true,false,false,20170224,brightman stuart m,156218017000910,President & CEO,male,114985072.0
+152285.0,,844965,tetra technologies inc,false,true,false,false,20170224,chambers ben c,156218017000911,Vice President - Accounting,male,114985072.0
+23428.0,,844965,tetra technologies inc,true,false,false,false,20170224,winkler joseph c,156218017000925,,male,114985072.0
+111047.0,,844965,tetra technologies inc,true,false,false,false,20170224,white kenneth e jr,156218017000924,,male,114985072.0
+320263.0,,844965,tetra technologies inc,false,true,false,false,20170224,serrano elijio v,156218017000916,Sr. Vice President & CFO,male,114985072.0
+135047.0,,844965,tetra technologies inc,true,false,false,false,20170224,sullivan william d,156218017000923,,male,114985072.0
+718975.0,,844965,tetra technologies inc,true,false,false,false,20170224,coombs paul d,156218017000920,,male,114985072.0
+64467.0,,844965,tetra technologies inc,true,false,false,false,20170224,bates thomas r jr,156218017000919,,male,114985072.0
+147894.0,,844965,tetra technologies inc,false,true,false,false,20170224,wallace bass c jr,156218017000918,"Sr VP, General Counsel & Sec.",male,114985072.0
+97113.0,,844965,tetra technologies inc,false,true,false,false,20170224,sanderson matthew,156218017000917,Senior Vice President,male,114985072.0
+32004.0,,844965,tetra technologies inc,false,true,false,false,20170224,evans elisabeth k,156218017000913,VP - Human Resources,female,114985072.0
+13820.0,,844965,tetra technologies inc,false,true,false,false,20170224,meyer joseph j,156218017000914,"VP - Finance, Treasurer",male,114985072.0
+59045.0,,844965,tetra technologies inc,true,false,false,false,20170224,glick john f,156218017000921,,male,114985072.0
+24296.0,,844965,tetra technologies inc,true,false,false,false,20170224,snider stephen a,156218017000922,,male,114985072.0
+443565.0,,844965,tetra technologies inc,false,true,false,false,20170224,elkhoury joseph,156218017000912,Sr. Vice President & COO,male,114985072.0
+375263.0,,844965,tetra technologies inc,false,true,false,false,20170315,serrano elijio v,156218017001264,Sr. Vice President & CFO,male,115632617.0
+875294.0,,844965,tetra technologies inc,true,true,false,false,20170320,brightman stuart m,156218017001295,President & CEO,male,115632617.0
+76467.0,,844965,tetra technologies inc,true,false,false,false,20170330,bates thomas r jr,156218017001358,,male,115632617.0
+146426.0,,844965,tetra technologies inc,false,true,false,false,20170504,wallace bass c jr,156218017001758,"Sr VP, General Counsel & Sec.",male,115632617.0
+13441.0,,844965,tetra technologies inc,false,true,false,false,20170504,meyer joseph j,156218017001755,"VP - Finance, Treasurer",male,115632617.0
+440350.0,,844965,tetra technologies inc,false,true,false,false,20170504,elkhoury joseph,156218017001754,Sr. Vice President & COO,male,115632617.0
+151648.0,,844965,tetra technologies inc,false,true,false,false,20170504,chambers ben c,156218017001753,Vice President - Accounting,male,115632617.0
+372255.0,,844965,tetra technologies inc,false,true,false,false,20170504,serrano elijio v,156218017001757,Sr. Vice President & CFO,male,115632617.0
+235592.0,,844965,tetra technologies inc,false,true,false,false,20170504,pintar peter j,156218017001756,Sr. Vice President,male,115632617.0
+370820.0,,844965,tetra technologies inc,false,true,false,false,20170508,serrano elijio v,156218017001843,Sr. Vice President & CFO,male,115632617.0
+72308.0,,844965,tetra technologies inc,true,false,false,false,20170508,baldwin mark e,156218017001845,,male,115632617.0
+13288.0,,844965,tetra technologies inc,false,true,false,false,20170508,meyer joseph j,156218017001841,"VP - Finance, Treasurer",male,115632617.0
+234529.0,,844965,tetra technologies inc,false,true,false,false,20170508,pintar peter j,156218017001840,Sr. Vice President,male,115632617.0
+56659.0,,844965,tetra technologies inc,true,false,false,false,20170508,snider stephen a,156218017001846,,male,115632617.0
+167410.0,,844965,tetra technologies inc,true,false,false,false,20170508,sullivan william d,156218017001847,,male,115632617.0
+143410.0,,844965,tetra technologies inc,true,false,false,false,20170508,white kenneth e jr,156218017001849,,male,115632617.0
+108830.0,,844965,tetra technologies inc,true,false,false,false,20170508,bates thomas r jr,156218017001850,,male,115632617.0
+91408.0,,844965,tetra technologies inc,true,false,false,false,20170508,glick john f,156218017001851,,male,115632617.0
+55791.0,,844965,tetra technologies inc,true,false,false,false,20170508,winkler joseph c,156218017001852,,male,115632617.0
+145687.0,,844965,tetra technologies inc,false,true,false,false,20170508,wallace bass c jr,156218017001844,"Sr VP, General Counsel & Sec.",male,115632617.0
+151327.0,,844965,tetra technologies inc,false,true,false,false,20170508,chambers ben c,156218017001842,Vice President - Accounting,male,115632617.0
+751338.0,,844965,tetra technologies inc,true,false,false,false,20170508,coombs paul d,156218017001848,,male,115632617.0
+4127.0,,844965,tetra technologies inc,false,true,false,false,20170523,funke james h,156218017002063,VP,male,115632617.0
+145189.0,,844965,tetra technologies inc,false,true,false,false,20170523,wallace bass c jr,156218017002062,Sr VP & General Counsel,male,115632617.0
+369716.0,,844965,tetra technologies inc,false,true,false,false,20170523,serrano elijio v,156218017002061,Sr. Vice President & CFO,male,115632617.0
+151066.0,,844965,tetra technologies inc,false,true,false,false,20170523,chambers ben c,156218017002060,Vice President - Accounting,male,115632617.0
+437041.0,,844965,tetra technologies inc,false,true,false,false,20170523,elkhoury joseph,156218017002059,Sr. Vice President & COO,male,115632617.0
+233848.0,,844965,tetra technologies inc,false,true,false,false,20170523,pintar peter j,156218017002058,Sr. Vice President,male,115632617.0
+31772.0,,844965,tetra technologies inc,false,true,false,false,20170523,evans elisabeth k,156218017002057,VP - Human Resources,female,115632617.0
+,,844965,tetra technologies inc,true,true,false,false,20170811,brightman stuart m,156218017002660,President & CEO,male,115897838.0
+366777.0,,844965,tetra technologies inc,false,true,false,false,20171106,serrano elijio v,156218017003484,Sr. Vice President & CFO,male,115897838.0
+231978.0,,844965,tetra technologies inc,false,true,false,false,20171106,pintar peter j,156218017003485,Sr. Vice President,male,115897838.0
+31070.0,,844965,tetra technologies inc,false,true,false,false,20171106,evans elisabeth k,156218017003486,VP - Human Resources,female,115897838.0
+13010.0,,844965,tetra technologies inc,false,true,false,false,20171106,meyer joseph j,156218017003488,"VP - Finance, Treasurer",male,115897838.0
+144455.0,,844965,tetra technologies inc,false,true,false,false,20171106,wallace bass c jr,156218017003489,Sr VP & General Counsel,male,115897838.0
+150404.0,,844965,tetra technologies inc,false,true,false,false,20171106,chambers ben c,156218017003487,Vice President - Accounting,male,115897838.0
+143716.0,34662.0,844965,tetra technologies inc,false,true,false,false,20171107,wallace bass c jr,156218017003503,Sr VP & General Counsel,male,115897838.0
+502513.0,,844965,tetra technologies inc,false,true,false,false,20180213,murphy brady m,156218018000771,President & COO,male,115877704.0
+55742.0,,844965,tetra technologies inc,false,true,false,false,20180226,evans elisabeth k,156218018001234,VP - Human Resources,female,115877704.0
+167134.0,,844965,tetra technologies inc,false,true,false,false,20180226,chambers ben c,156218018001233,Vice President - Accounting,male,115877704.0
+193162.0,35698.0,844965,tetra technologies inc,false,true,false,false,20180226,wallace bass c jr,156218018001239,Sr VP & General Counsel,male,115877704.0
+146648.0,,844965,tetra technologies inc,false,true,false,false,20180226,sanderson matthew,156218018001238,Senior Vice President,male,115877704.0
+229512.0,,844965,tetra technologies inc,false,true,false,false,20180226,pintar peter j,156218018001237,Sr. Vice President,male,115877704.0
+591776.0,,844965,tetra technologies inc,false,true,false,false,20180226,serrano elijio v,156218018001232,Sr. Vice President & CFO,male,115877704.0
+24820.0,,844965,tetra technologies inc,false,true,false,false,20180226,meyer joseph j,156218018001236,"VP - Finance, Treasurer",male,115877704.0
+61801.0,53722.0,844965,tetra technologies inc,false,true,false,false,20180226,funke james h,156218018001235,VP,male,115877704.0
+1169258.0,,844965,tetra technologies inc,true,true,false,false,20180226,brightman stuart m,156218018001240,President & CEO,male,115877704.0
+63342.0,,844965,tetra technologies inc,false,true,false,false,20180322,evans elisabeth k,156218018001703,VP - Human Resources,female,125528953.0
+590437.0,,844965,tetra technologies inc,false,true,false,false,20180504,serrano elijio v,156218018002303,Sr. Vice President & CFO,male,125528953.0
+192508.0,37264.0,844965,tetra technologies inc,false,true,false,false,20180504,wallace bass c jr,156218018002302,Sr VP & General Counsel,male,125528953.0
+56691.0,59539.0,844965,tetra technologies inc,false,true,false,false,20180504,funke james h,156218018002300,VP,male,125528953.0
+166841.0,,844965,tetra technologies inc,false,true,false,false,20180504,chambers ben c,156218018002299,Vice President - Accounting,male,125528953.0
+24684.0,,844965,tetra technologies inc,false,true,false,false,20180504,meyer joseph j,156218018002298,"VP - Finance, Treasurer",male,125528953.0
+589159.0,,844965,tetra technologies inc,false,true,false,false,20180508,serrano elijio v,156218018002371,Sr. Vice President & CFO,male,125528953.0
+166545.0,,844965,tetra technologies inc,false,true,false,false,20180508,chambers ben c,156218018002374,Vice President - Accounting,male,125528953.0
+24574.0,,844965,tetra technologies inc,false,true,false,false,20180508,meyer joseph j,156218018002375,"VP - Finance, Treasurer",male,125528953.0
+115622.0,,844965,tetra technologies inc,true,false,false,false,20180508,glick john f,156218018002401,,male,125528953.0
+191624.0,,844965,tetra technologies inc,true,false,false,false,20180508,sullivan william d,156218018002402,,male,125528953.0
+80005.0,,844965,tetra technologies inc,true,false,false,false,20180508,winkler joseph c,156218018002403,,male,125528953.0
+96522.0,,844965,tetra technologies inc,true,false,false,false,20180508,baldwin mark e,156218018002404,,male,125528953.0
+133044.0,,844965,tetra technologies inc,true,false,false,false,20180508,bates thomas r jr,156218018002405,,male,125528953.0
+775552.0,,844965,tetra technologies inc,true,false,false,false,20180508,coombs paul d,156218018002406,,male,125528953.0
+191850.0,37264.0,844965,tetra technologies inc,false,true,false,false,20180508,wallace bass c jr,156218018002372,Sr VP & General Counsel,male,125528953.0
+56262.0,59539.0,844965,tetra technologies inc,false,true,false,false,20180508,funke james h,156218018002373,VP,male,125528953.0
+17818.0,,844965,tetra technologies inc,true,false,false,false,20180723,luna gina,156218018003391,,female,125528953.0
+53592.0,61197.0,844965,tetra technologies inc,false,true,false,false,20180823,funke james h,156218018003760,VP,male,125679432.0
+24250.0,,844965,tetra technologies inc,false,true,false,false,20180905,meyer joseph j,156218018003832,"VP - Finance, Treasurer",male,125679432.0
+50266.0,63713.0,844965,tetra technologies inc,false,true,false,false,20180905,funke james h,156218018003830,VP,male,125679432.0
+145433.0,,844965,tetra technologies inc,false,true,false,false,20180905,sanderson matthew,156218018003829,Senior Vice President,male,125679432.0
+190598.0,34758.0,844965,tetra technologies inc,false,true,false,false,20180905,wallace bass c jr,156218018003828,Sr VP & General Counsel,male,125679432.0
+586594.0,,844965,tetra technologies inc,false,true,false,false,20180905,serrano elijio v,156218018003827,Sr. Vice President & CFO,male,125679432.0
+166086.0,,844965,tetra technologies inc,false,true,false,false,20180905,chambers ben c,156218018003831,Vice President - Accounting,male,125679432.0
+143044.0,,844965,tetra technologies inc,true,false,false,false,20180921,bates thomas r jr,156218018004004,,male,125679432.0
+24109.0,,844965,tetra technologies inc,false,true,false,false,20181106,meyer joseph j,156218018004436,"VP - Finance, Treasurer",male,125679432.0
+189944.0,,844965,tetra technologies inc,false,true,false,false,20181106,wallace bass c jr,156218018004435,Sr VP & General Counsel,male,125679432.0
+585255.0,,844965,tetra technologies inc,false,true,false,false,20181106,serrano elijio v,156218018004434,Sr. Vice President & CFO,male,125679432.0
+243044.0,,844965,tetra technologies inc,true,false,false,false,20181227,bates thomas r jr,156218018005111,,male,125710418.0
+1269258.0,,844965,tetra technologies inc,true,true,false,false,20181228,brightman stuart m,156218018005119,CEO,male,125710418.0
+925552.0,,844965,tetra technologies inc,true,false,false,false,20181228,coombs paul d,156218018005118,,male,125710418.0
+,,844965,tetra technologies inc,false,true,false,false,20190225,evans elisabeth k,156218019001369,VP - Human Resources,female,125737565.0
+,,844965,tetra technologies inc,false,true,false,false,20190225,meyer joseph j,156218019001371,"VP - Finance, Treasurer",male,125737565.0
+,,844965,tetra technologies inc,false,true,false,false,20190225,murphy brady m,156218019001372,President & COO,male,125737565.0
+575774.0,,844965,tetra technologies inc,false,true,false,false,20190225,serrano elijio v,156218019001374,Sr. Vice President & CFO,male,125737565.0
+,39497.0,844965,tetra technologies inc,false,true,false,false,20190225,wallace bass c jr,156218019001375,Sr VP & General Counsel,male,125737565.0
+,,844965,tetra technologies inc,true,true,false,false,20190225,brightman stuart m,156218019001368,CEO,male,125737565.0
+,67397.0,844965,tetra technologies inc,false,true,false,false,20190225,funke james h,156218019001370,VP,male,125737565.0
+140244.0,,844965,tetra technologies inc,false,true,false,false,20190225,sanderson matthew,156218019001373,Senior Vice President,male,125737565.0
+184755.0,,844965,tetra technologies inc,false,true,false,false,20190226,wallace bass c jr,156218019001418,Sr VP & General Counsel,male,125737565.0
+183231.0,,844965,tetra technologies inc,false,true,false,false,20190301,wallace bass c jr,156218019001527,Sr VP & General Counsel,male,125629069.0
+138764.0,,844965,tetra technologies inc,false,true,false,false,20190301,sanderson matthew,156218019001526,Senior Vice President,male,125629069.0
+573304.0,,844965,tetra technologies inc,false,true,false,false,20190301,serrano elijio v,156218019001525,Sr. Vice President & CFO,male,125629069.0
+,,844965,tetra technologies inc,false,true,false,false,20190327,o'brien richard d,156218019002038,VP-Finance & Global Controller,male,125629069.0
+182577.0,35848.0,844965,tetra technologies inc,false,true,false,false,20190506,wallace bass c jr,156218019002632,Sr VP & General Counsel,male,125629069.0
+,,844965,tetra technologies inc,false,true,false,false,20190506,murphy brady m,156218019002631,President & CEO,male,125629069.0
+,,844965,tetra technologies inc,false,true,false,false,20190506,sanderson matthew,156218019002630,Senior Vice President,male,125629069.0
+571965.0,,844965,tetra technologies inc,false,true,false,false,20190506,serrano elijio v,156218019002633,Sr. Vice President & CFO,male,125629069.0
+565269.0,,844965,tetra technologies inc,false,true,false,false,20190904,serrano elijio v,156218019004619,Sr. Vice President & CFO,male,125583460.0
+135418.0,,844965,tetra technologies inc,false,true,false,false,20190904,sanderson matthew,156218019004620,Senior Vice President,male,125583460.0
+179194.0,,844965,tetra technologies inc,false,true,false,false,20190904,wallace bass c jr,156218019004621,Sr VP & General Counsel,male,125583460.0
+471254.0,,844965,tetra technologies inc,false,true,false,false,20200213,murphy brady m,156218020001169,President & CEO,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,sanderson matthew,156218020001608,Senior Vice President,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,serrano elijio v,156218020001609,Sr. Vice President & CFO,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,moeller timothy c,156218020001604,VP & Chief Procurement Officer,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,wallace bass c jr,156218020001610,Sr VP & General Counsel,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,murphy brady m,156218020001606,President & CEO,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,evans elisabeth k,156218020001603,VP - Human Resources,female,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,o'brien richard d,156218020001607,VP-Finance & Global Controller,male,125481163.0
+,,844965,tetra technologies inc,false,true,false,false,20200224,mucha jacek m,156218020001605,"VP Finance, Treasurer",male,125481163.0
+21140.0,,844965,tetra technologies inc,false,true,false,false,20200225,moeller timothy c,156218020001724,VP & Chief Procurement Officer,male,125481163.0
+73583.0,92830.0,844965,tetra technologies inc,false,true,false,false,20200225,funke james h,156218020001725,VP,male,125481163.0
+16338.0,,844965,tetra technologies inc,false,true,false,false,20200225,mucha jacek m,156218020001726,"VP Finance, Treasurer",male,125481163.0
+611993.0,,844965,tetra technologies inc,false,true,false,false,20200225,serrano elijio v,156218020001728,Sr. Vice President & CFO,male,125481163.0
+202906.0,36124.0,844965,tetra technologies inc,false,true,false,false,20200225,wallace bass c jr,156218020001727,Sr VP & General Counsel,male,125481163.0
+159174.0,,844965,tetra technologies inc,false,true,false,false,20200225,sanderson matthew,156218020001729,Senior Vice President,male,125481163.0
+74296.0,,844965,tetra technologies inc,false,true,false,false,20200225,evans elisabeth k,156218020001730,VP - Human Resources,female,125481163.0
+552667.0,,844965,tetra technologies inc,false,true,false,false,20200225,murphy brady m,156218020001731,President & CEO,male,125481163.0
+73076.0,,844965,tetra technologies inc,false,true,false,false,20200302,evans elisabeth k,156218020001884,VP - Human Resources,female,125729106.0
+74283.0,,844965,tetra technologies inc,false,true,false,false,20200302,funke james h,156218020001883,VP,male,125729106.0
+607874.0,,844965,tetra technologies inc,false,true,false,false,20200302,serrano elijio v,156218020001880,Sr. Vice President & CFO,male,125729106.0
+200545.0,,844965,tetra technologies inc,false,true,false,false,20200302,wallace bass c jr,156218020001882,Sr VP & General Counsel,male,125729106.0
+157086.0,,844965,tetra technologies inc,false,true,false,false,20200302,sanderson matthew,156218020001881,Senior Vice President,male,125729106.0
+1291608.0,,844965,tetra technologies inc,true,false,false,false,20200304,brightman stuart m,156218020002169,,male,125729106.0
+64359.0,,844965,tetra technologies inc,false,true,false,false,20200327,o'brien richard d,156218020002731,VP-Finance & Global Controller,male,125729106.0
+365622.0,,844965,tetra technologies inc,true,false,false,false,20200623,glick john f,156218020004644,,male,125729106.0
+213590.0,,844965,tetra technologies inc,true,false,false,false,20200623,baldwin mark e,156218020004645,,male,125729106.0
+300545.0,,844965,tetra technologies inc,false,true,false,false,20200625,wallace bass c jr,156218020004690,Sr VP & General Counsel,male,125729106.0
+393044.0,,844965,tetra technologies inc,true,false,false,false,20200625,bates thomas r jr,156218020004694,,male,125729106.0
+402624.0,,844965,tetra technologies inc,true,false,false,false,20200626,sullivan william d,156218020004703,,male,125729106.0
+143859.0,,844965,tetra technologies inc,false,true,false,false,20200701,o'brien richard d,156218020004732,VP-Finance & Global Controller,male,125729106.0
+192818.0,,844965,tetra technologies inc,true,false,false,false,20200701,luna gina,156218020004733,,female,125729106.0
+25624.0,,844965,tetra technologies inc,false,true,false,false,20200826,moeller timothy c,156218020005666,VP & Chief Procurement Officer,male,125838030.0
+593374.0,,844965,tetra technologies inc,false,true,false,false,20200826,murphy brady m,156218020005663,President & CEO,male,125838030.0
+17965.0,,844965,tetra technologies inc,false,true,false,false,20200826,mucha jacek m,156218020005664,"VP Finance, Treasurer",male,125838030.0
+633654.0,,844965,tetra technologies inc,false,true,false,false,20200826,serrano elijio v,156218020005665,Sr. Vice President & CFO,male,125838030.0
+170581.0,,844965,tetra technologies inc,false,true,false,false,20200826,sanderson matthew,156218020005667,Senior Vice President,male,125838030.0
+168450.0,,844965,tetra technologies inc,false,true,false,false,20200901,sanderson matthew,156218020005724,Senior Vice President,male,125838030.0
+629523.0,,844965,tetra technologies inc,false,true,false,false,20200901,serrano elijio v,156218020005723,Sr. Vice President & CFO,male,125838030.0
+152421.0,,844965,tetra technologies inc,false,true,false,false,20200928,o'brien richard d,156218020006108,VP-Finance & Global Controller,male,125838030.0
+562783.0,,844965,tetra technologies inc,false,true,false,false,20210216,murphy brady m,156218021001165,President & CEO,male,125976071.0
+,,844965,tetra technologies inc,false,true,false,false,20210219,murphy brady m,156218021001320,President & CEO,male,125976071.0
+,,844965,tetra technologies inc,false,true,false,false,20210219,moeller timothy c,156218021001321,SVP - Supply Chain & Chemicals,male,125976071.0
+,,844965,tetra technologies inc,false,true,false,false,20210219,mucha jacek m,156218021001322,"VP Finance, Treasurer",male,125976071.0
+,,844965,tetra technologies inc,false,true,false,false,20210219,o'brien richard d,156218021001323,VP-Finance & Global Controller,male,125976071.0
+,,844965,tetra technologies inc,false,true,false,false,20210219,sanderson matthew,156218021001324,Senior Vice President,male,125976071.0
+,,844965,tetra technologies inc,false,true,false,false,20210219,serrano elijio v,156218021001325,Sr. Vice President & CFO,male,125976071.0
+217198.0,,844965,tetra technologies inc,false,true,false,false,20210223,sanderson matthew,156218021001491,Senior Vice President,male,125976071.0
+647814.0,,844965,tetra technologies inc,false,true,false,false,20210223,serrano elijio v,156218021001490,Sr. Vice President & CFO,male,125976071.0
+698237.0,,844965,tetra technologies inc,false,true,false,false,20210223,murphy brady m,156218021001489,President & CEO,male,125976071.0
+37507.0,,844965,tetra technologies inc,false,true,false,false,20210223,moeller timothy c,156218021001487,SVP - Supply Chain & Chemicals,male,125976071.0
+166680.0,,844965,tetra technologies inc,false,true,false,false,20210223,o'brien richard d,156218021001484,VP-Finance & Global Controller,male,125976071.0
+29135.0,,844965,tetra technologies inc,false,true,false,false,20210223,mucha jacek m,156218021001482,"VP Finance, Treasurer",male,125976071.0
+40661.0,,844965,tetra technologies inc,false,true,false,false,20210226,moeller timothy c,156218021001643,SVP - Supply Chain & Chemicals,male,125976071.0
+30648.0,,844965,tetra technologies inc,false,true,false,false,20210226,mucha jacek m,156218021001644,"VP Finance, Treasurer",male,125976071.0
+724616.0,,844965,tetra technologies inc,false,true,false,false,20210226,murphy brady m,156218021001645,President & CEO,male,125976071.0
+231231.0,,844965,tetra technologies inc,false,true,false,false,20210226,sanderson matthew,156218021001646,Senior Vice President,male,125976071.0
+673487.0,,844965,tetra technologies inc,false,true,false,false,20210226,serrano elijio v,156218021001647,Sr. Vice President & CFO,male,125976071.0
+206447.0,,844965,tetra technologies inc,false,true,false,false,20210329,o'brien richard d,156218021002462,VP-Finance & Global Controller,male,126635900.0
+5115.0,,844965,tetra technologies inc,true,false,false,false,20210402,williams shawn d.,156218021002577,,male,126635900.0
+253114.0,,844965,tetra technologies inc,false,true,false,false,20210406,sanderson matthew,156218021002703,Senior Vice President,male,126635900.0
+711534.0,,844965,tetra technologies inc,false,true,false,false,20210406,serrano elijio v,156218021002704,Sr. Vice President & CFO,male,126635900.0
+44358.0,,844965,tetra technologies inc,false,true,false,false,20210406,mucha jacek m,156218021002701,"VP Finance, Treasurer",male,126635900.0
+783800.0,,844965,tetra technologies inc,false,true,false,false,20210406,murphy brady m,156218021002702,President & CEO,male,126635900.0
+58062.0,,844965,tetra technologies inc,false,true,false,false,20210406,moeller timothy c,156218021002700,SVP - Supply Chain & Chemicals,male,126635900.0
+57074.0,,844965,tetra technologies inc,false,true,false,false,20210506,moeller timothy c,156218021003300,SVP - Supply Chain & Chemicals,male,126635900.0
+408044.0,,844965,tetra technologies inc,true,false,false,false,20210511,bates thomas r jr,156218021003396,,male,126635900.0
+726534.0,,844965,tetra technologies inc,false,true,false,false,20210511,serrano elijio v,156218021003397,Sr. Vice President & CFO,male,126635900.0
+64574.0,,844965,tetra technologies inc,false,true,false,false,20210512,moeller timothy c,156218021003428,SVP - Supply Chain & Chemicals,male,126635900.0
+260614.0,,844965,tetra technologies inc,false,true,false,false,20210512,sanderson matthew,156218021003429,Senior Vice President,male,126635900.0
+,,844965,tetra technologies inc,true,false,false,false,20210527,luna gina,156218021003780,,female,126635900.0
+,,844965,tetra technologies inc,true,false,false,false,20210527,williams shawn d.,156218021003784,,male,126635900.0
+,,844965,tetra technologies inc,true,false,false,false,20210527,sullivan william d,156218021003783,,male,126635900.0
+,,844965,tetra technologies inc,true,false,false,false,20210527,glick john f,156218021003779,,male,126635900.0
+,,844965,tetra technologies inc,true,false,false,false,20210527,bates thomas r jr,156218021003778,,male,126635900.0
+,,844965,tetra technologies inc,true,false,false,false,20210527,baldwin mark e,156218021003777,,male,126635900.0
+870733.0,,844965,tetra technologies inc,false,true,false,false,20210827,murphy brady m,156218021005614,President & CEO,male,126604901.0
+44792.0,2441.0,844965,tetra technologies inc,false,true,false,false,20210827,boston shoemake alicia r,156218021005619,General Counsel,male,126604901.0
+768717.0,,844965,tetra technologies inc,false,true,false,false,20210827,serrano elijio v,156218021005609,Sr. Vice President & CFO,male,126604901.0
+300804.0,,844965,tetra technologies inc,false,true,false,false,20210827,sanderson matthew,156218021005610,Senior Vice President,male,126604901.0
+74355.0,,844965,tetra technologies inc,false,true,false,false,20210827,moeller timothy c,156218021005611,SVP - Supply Chain & Chemicals,male,126604901.0
+51991.0,,844965,tetra technologies inc,false,true,false,false,20210827,mucha jacek m,156218021005612,"VP Finance, Treasurer",male,126604901.0
+214114.0,,844965,tetra technologies inc,false,true,false,false,20210827,o'brien richard d,156218021005613,VP-Finance & Global Controller,male,126604901.0
+222677.0,,844965,tetra technologies inc,false,true,false,false,20210927,o'brien richard d,156218021006118,VP-Finance & Global Controller,male,126604901.0
+48750.0,,844965,tetra technologies inc,false,true,false,false,20211108,mucha jacek m,156218021006885,"VP Finance, Treasurer",male,126940404.0
+197677.0,,844965,tetra technologies inc,false,true,false,false,20211108,o'brien richard d,156218021006886,VP-Finance & Global Controller,male,126940404.0
+,,844965,tetra technologies inc,true,false,false,false,20220208,mcgee sharon d. booth,156218022001231,,female,126937163.0
+1001609.0,,844965,tetra technologies inc,false,true,false,false,20220218,murphy brady m,156218022001648,President & CEO,male,126937163.0
+54506.0,,844965,tetra technologies inc,false,true,false,false,20220218,boston shoemake alicia r,156218022001647,General Counsel,male,126937163.0
+338333.0,,844965,tetra technologies inc,false,true,false,false,20220218,sanderson matthew,156218022001646,Senior Vice President,male,126937163.0
+63441.0,,844965,tetra technologies inc,false,true,false,false,20220218,mucha jacek m,156218022001649,"VP Finance, Treasurer",male,126937163.0
+98333.0,,844965,tetra technologies inc,false,true,false,false,20220218,moeller timothy c,156218022001644,SVP - Supply Chain & Chemicals,male,126937163.0
+819425.0,,844965,tetra technologies inc,false,true,false,false,20220218,serrano elijio v,156218022001643,Sr. Vice President & CFO,male,126937163.0
+212663.0,,844965,tetra technologies inc,false,true,false,false,20220218,o'brien richard d,156218022001645,VP-Finance & Global Controller,male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,moeller timothy c,156218022001795,SVP - Supply Chain & Chemicals,male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,boston shoemake alicia r,156218022001793,General Counsel,male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,serrano elijio v,156218022001801,Sr. Vice President & CFO,male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,sanderson matthew,156218022001794,Senior Vice President,male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,o'brien richard d,156218022001798,VP-Finance & Global Controller,male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,mucha jacek m,156218022001796,"VP Finance, Treasurer",male,126937163.0
+,,844965,tetra technologies inc,false,true,false,false,20220223,murphy brady m,156218022001799,President & CEO,male,126937163.0
+53228.0,2441.0,844965,tetra technologies inc,false,true,false,false,20220301,boston shoemake alicia r,156218022002071,General Counsel,male,126937163.0
+378523.0,,844965,tetra technologies inc,false,true,false,false,20220301,sanderson matthew,156218022002068,Senior Vice President,male,126937163.0
+872041.0,,844965,tetra technologies inc,false,true,false,false,20220301,serrano elijio v,156218022002069,Sr. Vice President & CFO,male,126937163.0
+1107525.0,,844965,tetra technologies inc,false,true,false,false,20220301,murphy brady m,156218022002066,President & CEO,male,126937163.0
+70540.0,,844965,tetra technologies inc,false,true,false,false,20220301,mucha jacek m,156218022002065,"VP Finance, Treasurer",male,126937163.0
+108231.0,,844965,tetra technologies inc,false,true,false,false,20220301,moeller timothy c,156218022002064,SVP - Supply Chain & Chemicals,male,126937163.0
+219792.0,,844965,tetra technologies inc,false,true,false,false,20220301,o'brien richard d,156218022002067,VP-Finance & Global Controller,male,126937163.0
+233369.0,,844965,tetra technologies inc,true,false,false,false,20220322,sullivan william d,156218022002862,,male,126937163.0
+228355.0,,844965,tetra technologies inc,false,true,false,false,20220328,o'brien richard d,156218022002953,VP-Finance & Global Controller,male,126937163.0
+1365433.0,,844965,tetra technologies inc,false,true,false,false,20220503,murphy brady m,156218022003669,President & CEO,male,127703037.0
+131648.0,,844965,tetra technologies inc,false,true,false,false,20220503,moeller timothy c,156218022003670,SVP - Supply Chain & Chemicals,male,127703037.0
+403233.0,,844965,tetra technologies inc,false,true,false,false,20220503,sanderson matthew,156218022003671,Senior Vice President,male,127703037.0
+,,844965,tetra technologies inc,true,false,false,false,20220525,mcgee sharon d. booth,156218022004403,,female,127703037.0
+,,844965,tetra technologies inc,true,false,false,false,20220525,williams shawn d.,156218022004404,,male,127703037.0
+,,844965,tetra technologies inc,true,false,false,false,20220525,luna gina,156218022004402,,female,127703037.0
+,,844965,tetra technologies inc,true,false,false,false,20220525,bates thomas r jr,156218022004400,,male,127703037.0
+,,844965,tetra technologies inc,true,false,false,false,20220525,baldwin mark e,156218022004399,,male,127703037.0
+,,844965,tetra technologies inc,true,false,false,false,20220525,glick john f,156218022004401,,male,127703037.0
+244806.0,,844965,tetra technologies inc,true,false,false,false,20220527,baldwin mark e,156218022004548,,male,127703037.0
+36331.0,,844965,tetra technologies inc,true,false,false,false,20220527,williams shawn d.,156218022004549,,male,127703037.0
+439260.0,,844965,tetra technologies inc,true,false,false,false,20220527,bates thomas r jr,156218022004550,,male,127703037.0
+9946.0,,844965,tetra technologies inc,true,false,false,false,20220527,mcgee sharon d. booth,156218022004551,,female,127703037.0
+224034.0,,844965,tetra technologies inc,true,false,false,false,20220527,luna gina,156218022004552,,female,127703037.0
+396838.0,,844965,tetra technologies inc,true,false,false,false,20220527,glick john f,156218022004553,,male,127703037.0
+89978.0,,844965,tetra technologies inc,false,true,false,false,20220808,mucha jacek m,156218022005944,"VP Finance, Treasurer",male,128255427.0
+932677.0,,844965,tetra technologies inc,false,true,false,false,20220829,serrano elijio v,156218022006350,Sr. Vice President & CFO,male,128255427.0
+432339.0,,844965,tetra technologies inc,false,true,false,false,20220829,sanderson matthew,156218022006349,Senior Vice President,male,128255427.0
+244183.0,,844965,tetra technologies inc,false,true,false,false,20220829,o'brien richard d,156218022006348,VP-Finance & Global Controller,male,128255427.0
+149039.0,,844965,tetra technologies inc,false,true,false,false,20220829,moeller timothy c,156218022006345,SVP - Supply Chain & Chemicals,male,128255427.0
+101035.0,,844965,tetra technologies inc,false,true,false,false,20220829,mucha jacek m,156218022006346,"VP Finance, Treasurer",male,128255427.0
+57883.0,2441.0,844965,tetra technologies inc,false,true,false,false,20220829,boston shoemake alicia r,156218022006344,General Counsel,male,128255427.0
+1469374.0,,844965,tetra technologies inc,false,true,false,false,20220829,murphy brady m,156218022006347,President & CEO,male,128255427.0
+10000.0,,844965,tetra technologies inc,false,true,false,false,20220928,mcniven roy,156218022006856,Sr. Vice President,male,128255427.0
+67513.0,2962.0,844965,tetra technologies inc,false,true,false,false,20230223,boston shoemake alicia r,156218023001803,General Counsel,male,128662300.0
+173689.0,,844965,tetra technologies inc,false,true,false,false,20230223,moeller timothy c,156218023001804,SVP - Supply Chain & Chemicals,male,128662300.0
+108395.0,,844965,tetra technologies inc,false,true,false,false,20230223,mucha jacek m,156218023001805,"VP Finance, Treasurer",male,128662300.0
+1572849.0,,844965,tetra technologies inc,false,true,false,false,20230223,murphy brady m,156218023001807,President & CEO,male,128662300.0
+448149.0,,844965,tetra technologies inc,false,true,false,false,20230223,sanderson matthew,156218023001808,Executive Vice President,male,128662300.0
+974630.0,,844965,tetra technologies inc,false,true,false,false,20230223,serrano elijio v,156218023001809,Sr. Vice President & CFO,male,128662300.0
+251876.0,,844965,tetra technologies inc,false,true,false,false,20230223,o'brien richard d,156218023001806,VP-Finance & Global Controller,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,serrano elijio v,156218023001843,Sr. Vice President & CFO,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,sanderson matthew,156218023001842,Executive Vice President,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,o'brien richard d,156218023001841,VP-Finance & Global Controller,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,mcniven roy,156218023001844,Sr. Vice President,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,mucha jacek m,156218023001839,"VP Finance, Treasurer",male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,moeller timothy c,156218023001838,SVP - Supply Chain & Chemicals,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,boston shoemake alicia r,156218023001837,General Counsel,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230224,murphy brady m,156218023001840,President & CEO,male,128662300.0
+71843.0,2962.0,844965,tetra technologies inc,false,true,false,false,20230228,boston shoemake alicia r,156218023001960,General Counsel,male,128662300.0
+193146.0,,844965,tetra technologies inc,false,true,false,false,20230228,moeller timothy c,156218023001961,SVP - Supply Chain & Chemicals,male,128662300.0
+118516.0,,844965,tetra technologies inc,false,true,false,false,20230228,mucha jacek m,156218023001962,"VP Finance, Treasurer",male,128662300.0
+1692450.0,,844965,tetra technologies inc,false,true,false,false,20230228,murphy brady m,156218023001963,President & CEO,male,128662300.0
+266752.0,,844965,tetra technologies inc,false,true,false,false,20230228,o'brien richard d,156218023001964,VP-Finance & Global Controller,male,128662300.0
+477255.0,,844965,tetra technologies inc,false,true,false,false,20230228,sanderson matthew,156218023001965,Executive Vice President,male,128662300.0
+1034114.0,,844965,tetra technologies inc,false,true,false,false,20230228,serrano elijio v,156218023001966,Sr. Vice President & CFO,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,murphy brady m,156218023002596,President & CEO,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,o'brien richard d,156218023002595,VP-Finance & Global Controller,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,sanderson matthew,156218023002597,Executive Vice President,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,moeller timothy c,156218023002593,SVP - Supply Chain & Chemicals,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,mucha jacek m,156218023002594,"VP Finance, Treasurer",male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,serrano elijio v,156218023002598,Sr. Vice President & CFO,male,128662300.0
+,,844965,tetra technologies inc,false,true,false,false,20230307,boston shoemake alicia r,156218023002592,General Counsel,male,128662300.0
+200396.0,,844965,tetra technologies inc,false,true,false,false,20230308,moeller timothy c,156218023002615,SVP - Supply Chain & Chemicals,male,128662300.0
+484755.0,,844965,tetra technologies inc,false,true,false,false,20230308,sanderson matthew,156218023002616,Executive Vice President,male,128662300.0
+1722450.0,,844965,tetra technologies inc,false,true,false,false,20230308,murphy brady m,156218023002617,President & CEO,male,128662300.0
+1064114.0,,844965,tetra technologies inc,false,true,false,false,20230308,serrano elijio v,156218023002614,Sr. Vice President & CFO,male,128662300.0
+454260.0,,844965,tetra technologies inc,true,false,false,false,20230309,bates thomas r jr,156218023002669,,male,128662300.0
+17500.0,,844965,tetra technologies inc,false,true,false,false,20230309,mcniven roy,156218023002671,Sr. Vice President,male,128662300.0
+420860.0,,844965,tetra technologies inc,true,false,false,false,20230526,glick john f,156218023004516,,male,129399384.0
+33968.0,,844965,tetra technologies inc,true,false,false,false,20230526,mcgee sharon d. booth,156218023004514,,female,129399384.0
+248056.0,,844965,tetra technologies inc,true,false,false,false,20230526,luna gina,156218023004515,,female,129399384.0
+268828.0,,844965,tetra technologies inc,true,false,false,false,20230526,baldwin mark e,156218023004511,,male,129399384.0
+,,844965,tetra technologies inc,true,false,false,false,20230526,garcia christian a,156218023004510,,male,129399384.0
+60353.0,,844965,tetra technologies inc,true,false,false,false,20230526,williams shawn d.,156218023004512,,male,129399384.0
+478282.0,,844965,tetra technologies inc,true,false,false,false,20230526,bates thomas r jr,156218023004513,,male,129399384.0
+79632.0,3222.0,844965,tetra technologies inc,false,true,false,false,20230829,boston shoemake alicia r,156218023006604,General Counsel,male,129556619.0
+279050.0,,844965,tetra technologies inc,false,true,false,false,20230829,o'brien richard d,156218023006605,VP-Finance & Global Controller,male,129556619.0
+1107585.0,,844965,tetra technologies inc,false,true,false,false,20230829,serrano elijio v,156218023006606,Sr. Vice President & CFO,male,129556619.0
+226399.0,,844965,tetra technologies inc,false,true,false,false,20230829,moeller timothy c,156218023006607,SVP - Supply Chain & Chemicals,male,129556619.0
+1819797.0,,844965,tetra technologies inc,false,true,false,false,20230829,murphy brady m,156218023006608,President & CEO,male,129556619.0
+505586.0,,844965,tetra technologies inc,false,true,false,false,20230829,sanderson matthew,156218023006609,Executive Vice President,male,129556619.0
+128619.0,,844965,tetra technologies inc,false,true,false,false,20230829,mucha jacek m,156218023006610,"VP Finance, Treasurer",male,129556619.0
+,,844965,tetra technologies inc,false,true,false,false,20231005,moeller timothy c,156218023007218,SVP - Supply Chain & Chemicals,male,129556619.0
+505373.0,,844965,tetra technologies inc,true,false,false,false,20240111,bates thomas r jr,156218024000441,,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,sanderson matthew,156218024001548,Executive Vice President,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,boston shoemake alicia r,156218024001542,General Counsel,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,moeller timothy c,156218024001543,SVP - Supply Chain & Chemicals,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,mucha jacek m,156218024001544,"VP Finance, Treasurer",male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,murphy brady m,156218024001545,President & CEO,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,o'brien richard d,156218024001546,VP-Finance & Global Controller,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,serrano elijio v,156218024001547,Sr. Vice President & CFO,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240221,mcniven roy,156218024001549,Sr. Vice President,male,130079173.0
+1886357.0,,844965,tetra technologies inc,false,true,false,false,20240226,murphy brady m,156218024001738,President & CEO,male,130079173.0
+35444.0,,844965,tetra technologies inc,false,true,false,false,20240226,mcniven roy,156218024001737,Sr. Vice President,male,130079173.0
+1133756.0,,844965,tetra technologies inc,false,true,false,false,20240226,serrano elijio v,156218024001736,Sr. Vice President & CFO,male,130079173.0
+88603.0,3999.0,844965,tetra technologies inc,false,true,false,false,20240226,boston shoemake alicia r,156218024001733,General Counsel,male,130079173.0
+524237.0,,844965,tetra technologies inc,false,true,false,false,20240226,sanderson matthew,156218024001734,Executive Vice President,male,130079173.0
+244343.0,,844965,tetra technologies inc,false,true,false,false,20240226,moeller timothy c,156218024001739,SVP - Supply Chain & Chemicals,male,130079173.0
+285031.0,,844965,tetra technologies inc,false,true,false,false,20240226,o'brien richard d,156218024001735,VP-Finance & Global Controller,male,130079173.0
+134104.0,,844965,tetra technologies inc,false,true,false,false,20240226,mucha jacek m,156218024001740,"VP Finance, Treasurer",male,130079173.0
+270352.0,,844965,tetra technologies inc,false,true,false,false,20240227,moeller timothy c,156218024001784,SVP - Supply Chain & Chemicals,male,130079173.0
+143353.0,,844965,tetra technologies inc,false,true,false,false,20240227,mucha jacek m,156218024001780,"VP Finance, Treasurer",male,130079173.0
+296467.0,,844965,tetra technologies inc,false,true,false,false,20240227,o'brien richard d,156218024001785,VP-Finance & Global Controller,male,130079173.0
+551647.0,,844965,tetra technologies inc,false,true,false,false,20240227,sanderson matthew,156218024001781,Executive Vice President,male,130079173.0
+1989242.0,,844965,tetra technologies inc,false,true,false,false,20240227,murphy brady m,156218024001782,President & CEO,male,130079173.0
+95847.0,4259.0,844965,tetra technologies inc,false,true,false,false,20240227,boston shoemake alicia r,156218024001779,General Counsel,male,130079173.0
+1180094.0,,844965,tetra technologies inc,false,true,false,false,20240227,serrano elijio v,156218024001783,Sr. Vice President & CFO,male,130079173.0
+152412.0,,844965,tetra technologies inc,false,true,false,false,20240308,mucha jacek m,156218024002491,"VP Finance, Treasurer",male,130079173.0
+590593.0,,844965,tetra technologies inc,false,true,false,false,20240308,sanderson matthew,156218024002486,Executive Vice President,male,130079173.0
+1282657.0,,844965,tetra technologies inc,false,true,false,false,20240308,serrano elijio v,156218024002487,Sr. Vice President & CFO,male,130079173.0
+2186043.0,,844965,tetra technologies inc,false,true,false,false,20240308,murphy brady m,156218024002488,President & CEO,male,130079173.0
+291474.0,,844965,tetra technologies inc,false,true,false,false,20240308,moeller timothy c,156218024002489,SVP - Supply Chain & Chemicals,male,130079173.0
+310630.0,,844965,tetra technologies inc,false,true,false,false,20240308,o'brien richard d,156218024002490,VP-Finance & Global Controller,male,130079173.0
+109554.0,4259.0,844965,tetra technologies inc,false,true,false,false,20240308,boston shoemake alicia r,156218024002492,General Counsel,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240312,serrano elijio v,156218024002599,Sr. Vice President & CFO,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240312,murphy brady m,156218024002600,President & CEO,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240319,serrano elijio v,156218024002811,Sr. Vice President & CFO,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240319,moeller timothy c,156218024002806,SVP - Supply Chain & Chemicals,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240319,mucha jacek m,156218024002807,"VP Finance, Treasurer",male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240319,murphy brady m,156218024002808,President & CEO,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240319,sanderson matthew,156218024002809,Executive Vice President,male,130079173.0
+,,844965,tetra technologies inc,false,true,false,false,20240319,o'brien richard d,156218024002810,VP-Finance & Global Controller,male,130079173.0
+,,844965,tetra technologies inc,true,false,false,false,20240321,john angela d,156218024002901,,female,130079173.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,mcgee sharon d. booth,156218024004316,,female,131138795.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,baldwin mark e,156218024004311,,male,131138795.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,bates thomas r jr,156218024004312,,male,131138795.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,john angela d,156218024004313,,female,131138795.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,garcia christian a,156218024004314,,male,131138795.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,glick john f,156218024004315,,male,131138795.0
+,,844965,tetra technologies inc,true,false,false,false,20240522,williams shawn d.,156218024004317,,male,131138795.0
+99444.0,,844965,tetra technologies inc,true,false,false,false,20240529,williams shawn d.,156218024004503,,male,131138795.0
+474165.0,,844965,tetra technologies inc,true,false,false,false,20240529,glick john f,156218024004502,,male,131138795.0
+39091.0,,844965,tetra technologies inc,true,false,false,false,20240529,garcia christian a,156218024004500,,male,131138795.0
+73059.0,,844965,tetra technologies inc,true,false,false,false,20240529,mcgee sharon d. booth,156218024004501,,female,131138795.0
+307919.0,,844965,tetra technologies inc,true,false,false,false,20240529,baldwin mark e,156218024004498,,male,131138795.0
+5160.0,,844965,tetra technologies inc,true,false,false,false,20240529,john angela d,156218024004496,,female,131138795.0
+505373.0,,844965,tetra technologies inc,true,false,false,false,20240529,bates thomas r jr,156218024004499,,male,131138795.0
+109639.0,4889.0,844965,tetra technologies inc,false,true,false,false,20240827,boston shoemake alicia r,156218024006531,General Counsel,male,131448790.0
+159427.0,,844965,tetra technologies inc,false,true,false,false,20240827,mucha jacek m,156218024006522,"VP Finance, Treasurer",male,131448790.0
+314066.0,,844965,tetra technologies inc,false,true,false,false,20240827,moeller timothy c,156218024006523,SVP - Supply Chain & Chemicals,male,131448790.0
+2263519.0,,844965,tetra technologies inc,false,true,false,false,20240827,murphy brady m,156218024006525,President & CEO,male,131448790.0
+317981.0,,844965,tetra technologies inc,false,true,false,false,20240827,o'brien richard d,156218024006527,VP-Finance & Global Controller,male,131448790.0
+43433.0,,844965,tetra technologies inc,false,true,false,false,20240827,mcniven roy,156218024006528,Sr. Vice President,male,131448790.0
+610396.0,,844965,tetra technologies inc,false,true,false,false,20240827,sanderson matthew,156218024006529,Executive Vice President,male,131448790.0
+1312845.0,,844965,tetra technologies inc,false,true,false,false,20240827,serrano elijio v,156218024006530,Sr. Vice President & CFO,male,131448790.0
+331928.0,,844965,tetra technologies inc,false,true,false,false,20241007,moeller timothy c,156218024007257,SVP - Supply Chain & Chemicals,male,131448790.0

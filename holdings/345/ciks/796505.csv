@@ -1,178 +1,451 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-788990.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20100204,roth ronald g,79650510000001,,male,
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20100301,reddan john g jr,79650510000002,,male,
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20100301,hayward donald r.,79650510000003,,male,
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20100301,hayssen charles n,79650510000004,,male,
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20100301,zuckerman stephen l,79650510000005,,male,
-0.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20100302,roth ronald g,79650510000006,,male,
-4000.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20100505,blackey bruce g.,141128410000001,Chief Financial Officer,male,
-823190.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20100506,roth ronald g,79650510000007,,male,
-833990.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20100507,roth ronald g,79650510000008,,male,
-7000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20100806,zuckerman stephen l,79650510000009,,male,
-14000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20100806,reddan john g jr,79650510000010,,male,
-843990.0,156760.0,796505,"clearfield, inc.",1,0,0,0.0,20100806,roth ronald g,79650510000011,,male,
-849945.0,156760.0,796505,"clearfield, inc.",1,0,0,0.0,20100813,roth ronald g,79650510000014,,male,
-0.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20100820,blackey bruce g.,79650510000016,Chief Financial Officer,male,
-0.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20100823,hill john p,79650510000017,Chief Operating Officer,male,
-0.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20100825,blackey bruce g.,79650510000018,Chief Financial Officer,male,
-0.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20100825,hill john p,79650510000019,Chief Operating Officer,male,
-856045.0,156760.0,796505,"clearfield, inc.",1,0,0,0.0,20100830,roth ronald g,79650510000020,,male,
-7000.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20100831,blackey bruce g.,79650510000021,Chief Financial Officer,male,
-860405.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20100831,roth ronald g,79650510000022,,male,
-890405.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20101118,roth ronald g,79650510000023,,male,12015331.0
-7610.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110103,blackey bruce g.,79650511000001,Chief Financial Officer,male,12015331.0
-67441.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20110103,beranek cheri podzimek,79650511000002,CEO & President,female,12015331.0
-11220.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110103,hill john p,79650511000003,Chief Operating Officer,male,12015331.0
-5610.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110215,blackey bruce g.,79650511000004,Chief Financial Officer,male,12015331.0
-910405.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20110224,roth ronald g,148432111000011,,male,12015331.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110301,hayssen charles n,136211811000010,,male,12015331.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110301,hayward donald r.,136211811000009,,male,12015331.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110301,reddan john g jr,136211811000008,,male,12015331.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20110301,roth ronald g,136211811000007,,male,12015331.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110301,zuckerman stephen l,136211811000006,,male,12015331.0
-18991.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110510,hill john p,144938611000001,Chief Operating Officer,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,1.0,20100204,roth ronald g,79650510000001,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100301,reddan john g jr,79650510000002,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100301,hayward donald r.,79650510000003,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100301,hayssen charles n,79650510000004,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100301,zuckerman stephen l,79650510000005,,male,
+,,796505,"clearfield, inc.",1,0,0,1.0,20100302,roth ronald g,79650510000006,,male,
+,,796505,"clearfield, inc.",0,1,0,0.0,20100505,blackey bruce g.,141128410000001,Chief Financial Officer,male,
+,,796505,"clearfield, inc.",1,0,0,1.0,20100506,roth ronald g,79650510000007,,male,
+,,796505,"clearfield, inc.",1,0,0,1.0,20100507,roth ronald g,79650510000008,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100806,zuckerman stephen l,79650510000009,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100806,reddan john g jr,79650510000010,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100806,roth ronald g,79650510000011,,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100813,roth ronald g,79650510000014,,male,
+,,796505,"clearfield, inc.",0,1,0,0.0,20100820,blackey bruce g.,79650510000016,Chief Financial Officer,male,
+,,796505,"clearfield, inc.",0,1,0,0.0,20100823,hill john p,79650510000017,Chief Operating Officer,male,
+,,796505,"clearfield, inc.",0,1,0,0.0,20100825,hill john p,79650510000019,Chief Operating Officer,male,
+,,796505,"clearfield, inc.",0,1,0,0.0,20100825,blackey bruce g.,79650510000018,Chief Financial Officer,male,
+,,796505,"clearfield, inc.",1,0,0,0.0,20100830,roth ronald g,79650510000020,,male,
+,,796505,"clearfield, inc.",1,0,0,1.0,20100831,roth ronald g,79650510000022,,male,
+,,796505,"clearfield, inc.",0,1,0,0.0,20100831,blackey bruce g.,79650510000021,Chief Financial Officer,male,
+,,796505,"clearfield, inc.",1,0,0,1.0,20101118,roth ronald g,79650510000023,,male,12015331.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110103,hill john p,79650511000003,Chief Operating Officer,male,12015331.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20110103,beranek cheri podzimek,79650511000002,CEO & President,female,12015331.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110103,blackey bruce g.,79650511000001,Chief Financial Officer,male,12015331.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110215,blackey bruce g.,79650511000004,Chief Financial Officer,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,1.0,20110224,roth ronald g,148432111000011,,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,1.0,20110301,roth ronald g,136211811000007,,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20110301,hayssen charles n,136211811000010,,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20110301,hayward donald r.,136211811000009,,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20110301,reddan john g jr,136211811000008,,male,12015331.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20110301,zuckerman stephen l,136211811000006,,male,12015331.0
+18991.0,,796505,"clearfield, inc.",0,1,0,0.0,20110510,hill john p,144938611000001,Chief Operating Officer,male,12015331.0
 925405.0,156760.0,796505,"clearfield, inc.",1,0,0,1.0,20110602,roth ronald g,79650511000006,,male,12015331.0
-19747.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110701,hill john p,126228611000005,Chief Operating Officer,male,12136482.0
-68952.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20110701,beranek cheri podzimek,126228611000004,President and CEO,female,12136482.0
-395.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110701,herzog daniel r,126228611000003,Vice President,male,12136482.0
-12000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110801,zuckerman stephen l,118296811000001,,male,12136482.0
-78952.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20110805,beranek cheryl p,126440611000002,President and CEO,female,12136482.0
-935405.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20110810,roth ronald g,125795611000001,,male,12136482.0
-19000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110811,reddan john g jr,126227111000001,,male,12136482.0
-20500.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20110829,zuckerman stephen l,118296811000002,,male,12136482.0
-0.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20110829,beranek cheryl p,126440611000003,Pres and CEO,female,12136482.0
-0.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110829,hill john p,126440611000004,Chief Operating Officer,male,12136482.0
-0.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20110829,herzog daniel r,126440611000005,Chief Financial Officer,male,12136482.0
-118952.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20110927,beranek cheryl p,126440611000006,President and CEO,female,12136482.0
-951405.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20110930,roth ronald g,125795611000002,,male,12270691.0
-28000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20111017,zuckerman stephen l,118296811000004,,male,12270691.0
-966405.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20111130,roth ronald g,125795611000003,,male,12313497.0
-2398.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20111130,herzog daniel r,125795611000004,Chief Financial Officer,male,12313497.0
-20580.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120104,hill john p,126440612000003,Chief Operating Officer,male,12326233.0
-119785.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20120104,beranek cheryl p,126440612000001,President and CEO,female,12326233.0
-2564.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120104,herzog daniel r,126440612000002,Chief Financial Officer,male,12326233.0
-986405.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20120201,roth ronald g,125795612000001,,male,12326233.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20120227,zuckerman stephen l,126227112000004,,male,12326233.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20120227,reddan john g jr,126227112000001,,male,12326233.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20120227,roth ronald g,126227112000002,,male,12326233.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20120227,hayssen charles n,126227112000003,,male,12326233.0
-0.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20120227,hayward donald r.,126227112000005,,male,12326233.0
-13700.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20120314,hayward donald r.,79650512000001,,male,12326233.0
-21500.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20120426,reddan john g jr,79650512000002,,male,12339275.0
-166760.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20120502,roth ronald g,79650512000003,,male,12339275.0
-199785.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20120524,beranek cheryl p,79650512000004,President and CEO,female,12339275.0
-176760.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20120524,roth ronald g,79650512000005,,male,12339275.0
-4564.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120531,herzog daniel r,79650512000006,Chief Financial Officer,male,12339275.0
-5482.0,0.0,796505,"clearfield, inc.",0,0,0,1.0,20120703,herzog daniel r,79650512000007,,male,12460845.0
-201057.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120703,beranek cheryl p,79650512000008,President and CEO,female,12460845.0
-21852.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120703,hill john p,79650512000009,Chief Operating Officer,male,12460845.0
-85000.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20120827,beranek cheryl p,79650512000010,President and CEO,female,12460845.0
-85000.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120827,hill john p,79650512000011,Chief Operating Officer,male,12460845.0
-30000.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20120827,herzog daniel r,79650512000012,Chief Financial Officer,male,12460845.0
-1036705.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20120831,roth ronald g,79650512000013,,male,12460845.0
-42000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20121114,hayssen charles n,79650512000014,,male,12830100.0
-36000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20121114,hayssen charles n,128573412000001,,male,12830100.0
-1056705.0,0.0,796505,"clearfield, inc.",1,0,0,1.0,20121115,roth ronald g,79650512000015,,male,12830100.0
-53000.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20121116,hayssen charles n,79650512000016,,male,12830100.0
-56288.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20121120,hayssen charles n,79650512000017,,male,12830100.0
-6463.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130103,herzog daniel r,144938613000002,Chief Financial Officer,male,12854920.0
-202418.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130103,beranek cheryl p,144938613000003,CEO & President,female,12854920.0
-23503.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130103,hill john p,144938613000001,Chief Operating Officer,male,12854920.0
-66288.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130131,hayssen charles n,79650513000001,,male,12854920.0
-76288.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130214,hayssen charles n,79650513000002,,male,12854920.0
-9200.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130221,hayward donald r.,79650513000003,,male,12854920.0
-23318.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130226,reddan john g jr,79650513000004,,male,12854920.0
-11018.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130226,hayward donald r.,79650513000005,,male,12854920.0
-78106.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130226,hayssen charles n,79650513000006,,male,12854920.0
-29818.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130226,zuckerman stephen l,79650513000007,,male,12854920.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110701,hill john p,126228611000005,Chief Operating Officer,male,12136482.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20110701,beranek cheri podzimek,126228611000004,President and CEO,female,12136482.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110701,herzog daniel r,126228611000003,Vice President,male,12136482.0
+12000.0,,796505,"clearfield, inc.",1,0,0,0.0,20110801,zuckerman stephen l,118296811000001,,male,12136482.0
+78952.0,,796505,"clearfield, inc.",1,1,0,0.0,20110805,beranek cheryl p,126440611000002,President and CEO,female,12136482.0
+935405.0,,796505,"clearfield, inc.",1,0,0,1.0,20110810,roth ronald g,125795611000001,,male,12136482.0
+19000.0,,796505,"clearfield, inc.",1,0,0,0.0,20110811,reddan john g jr,126227111000001,,male,12136482.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20110829,beranek cheryl p,126440611000003,Pres and CEO,female,12136482.0
+20500.0,,796505,"clearfield, inc.",1,0,0,0.0,20110829,zuckerman stephen l,118296811000002,,male,12136482.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110829,hill john p,126440611000004,Chief Operating Officer,male,12136482.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20110829,herzog daniel r,126440611000005,Chief Financial Officer,male,12136482.0
+118952.0,,796505,"clearfield, inc.",1,1,0,0.0,20110927,beranek cheryl p,126440611000006,President and CEO,female,12136482.0
+951405.0,,796505,"clearfield, inc.",1,0,0,1.0,20110930,roth ronald g,125795611000002,,male,12270691.0
+28000.0,,796505,"clearfield, inc.",1,0,0,0.0,20111017,zuckerman stephen l,118296811000004,,male,12270691.0
+2398.0,,796505,"clearfield, inc.",0,1,0,0.0,20111130,herzog daniel r,125795611000004,Chief Financial Officer,male,12313497.0
+966405.0,,796505,"clearfield, inc.",1,0,0,1.0,20111130,roth ronald g,125795611000003,,male,12313497.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20120104,herzog daniel r,126440612000002,Chief Financial Officer,male,12326233.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20120104,hill john p,126440612000003,Chief Operating Officer,male,12326233.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20120104,beranek cheryl p,126440612000001,President and CEO,female,12326233.0
+986405.0,,796505,"clearfield, inc.",1,0,0,1.0,20120201,roth ronald g,125795612000001,,male,12326233.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20120227,reddan john g jr,126227112000001,,male,12326233.0
+,,796505,"clearfield, inc.",1,0,0,1.0,20120227,roth ronald g,126227112000002,,male,12326233.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20120227,hayssen charles n,126227112000003,,male,12326233.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20120227,zuckerman stephen l,126227112000004,,male,12326233.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20120227,hayward donald r.,126227112000005,,male,12326233.0
+13700.0,,796505,"clearfield, inc.",1,0,0,0.0,20120314,hayward donald r.,79650512000001,,male,12326233.0
+21500.0,,796505,"clearfield, inc.",1,0,0,0.0,20120426,reddan john g jr,79650512000002,,male,12339275.0
+166760.0,,796505,"clearfield, inc.",1,0,0,1.0,20120502,roth ronald g,79650512000003,,male,12339275.0
+176760.0,,796505,"clearfield, inc.",1,0,0,1.0,20120524,roth ronald g,79650512000005,,male,12339275.0
+199785.0,,796505,"clearfield, inc.",1,1,0,0.0,20120524,beranek cheryl p,79650512000004,President and CEO,female,12339275.0
+4564.0,,796505,"clearfield, inc.",0,1,0,0.0,20120531,herzog daniel r,79650512000006,Chief Financial Officer,male,12339275.0
+,,796505,"clearfield, inc.",0,0,0,1.0,20120703,herzog daniel r,79650512000007,,male,12460845.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20120703,beranek cheryl p,79650512000008,President and CEO,female,12460845.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20120703,hill john p,79650512000009,Chief Operating Officer,male,12460845.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20120827,beranek cheryl p,79650512000010,President and CEO,female,12460845.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20120827,hill john p,79650512000011,Chief Operating Officer,male,12460845.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20120827,herzog daniel r,79650512000012,Chief Financial Officer,male,12460845.0
+1036705.0,,796505,"clearfield, inc.",1,0,0,1.0,20120831,roth ronald g,79650512000013,,male,12460845.0
+42000.0,,796505,"clearfield, inc.",1,0,0,0.0,20121114,hayssen charles n,79650512000014,,male,12830100.0
+36000.0,,796505,"clearfield, inc.",1,0,0,0.0,20121114,hayssen charles n,128573412000001,,male,12830100.0
+1056705.0,,796505,"clearfield, inc.",1,0,0,1.0,20121115,roth ronald g,79650512000015,,male,12830100.0
+53000.0,,796505,"clearfield, inc.",1,0,0,0.0,20121116,hayssen charles n,79650512000016,,male,12830100.0
+56288.0,,796505,"clearfield, inc.",1,0,0,0.0,20121120,hayssen charles n,79650512000017,,male,12830100.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20130103,beranek cheryl p,144938613000003,CEO & President,female,12854920.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20130103,herzog daniel r,144938613000002,Chief Financial Officer,male,12854920.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20130103,hill john p,144938613000001,Chief Operating Officer,male,12854920.0
+66288.0,,796505,"clearfield, inc.",1,0,0,0.0,20130131,hayssen charles n,79650513000001,,male,12854920.0
+76288.0,,796505,"clearfield, inc.",1,0,0,0.0,20130214,hayssen charles n,79650513000002,,male,12854920.0
+9200.0,,796505,"clearfield, inc.",1,0,0,0.0,20130221,hayward donald r.,79650513000003,,male,12854920.0
+23318.0,,796505,"clearfield, inc.",1,0,0,0.0,20130226,reddan john g jr,79650513000004,,male,12854920.0
+11018.0,,796505,"clearfield, inc.",1,0,0,0.0,20130226,hayward donald r.,79650513000005,,male,12854920.0
+78106.0,,796505,"clearfield, inc.",1,0,0,0.0,20130226,hayssen charles n,79650513000006,,male,12854920.0
+29818.0,,796505,"clearfield, inc.",1,0,0,0.0,20130226,zuckerman stephen l,79650513000007,,male,12854920.0
 1058523.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20130226,roth ronald g,79650513000008,,male,12854920.0
-88848.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130227,hayssen charles n,79650513000009,,male,12854920.0
-18318.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130501,reddan john g jr,79650513000010,,male,12872391.0
+88848.0,,796505,"clearfield, inc.",1,0,0,0.0,20130227,hayssen charles n,79650513000009,,male,12854920.0
+18318.0,,796505,"clearfield, inc.",1,0,0,0.0,20130501,reddan john g jr,79650513000010,,male,12872391.0
 1068523.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20130501,roth ronald g,79650513000011,,male,12872391.0
-92132.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130503,hayssen charles n,79650513000012,,male,12872391.0
-97818.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130524,hayssen charles n,79650513000013,,male,12872391.0
-203780.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20130703,beranek cheryl p,79650513000015,CEO and President,female,12898027.0
-25140.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130703,hill john p,79650513000016,Chief Operating Officer,male,12898027.0
-7445.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130703,herzog daniel r,79650513000014,Chief Financial Officer,male,12898027.0
-233780.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20130731,beranek cheryl p,79650513000019,President and CEO,female,12898027.0
-62944.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130731,hill john p,79650513000020,Chief Operating Officer,male,12898027.0
+92132.0,,796505,"clearfield, inc.",1,0,0,0.0,20130503,hayssen charles n,79650513000012,,male,12872391.0
+97818.0,,796505,"clearfield, inc.",1,0,0,0.0,20130524,hayssen charles n,79650513000013,,male,12872391.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20130703,hill john p,79650513000016,Chief Operating Officer,male,12898027.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20130703,beranek cheryl p,79650513000015,CEO and President,female,12898027.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20130703,herzog daniel r,79650513000014,Chief Financial Officer,male,12898027.0
 1078523.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20130731,roth ronald g,79650513000017,,male,12898027.0
-107818.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130731,hayssen charles n,79650513000018,,male,12898027.0
+107818.0,,796505,"clearfield, inc.",1,0,0,0.0,20130731,hayssen charles n,79650513000018,,male,12898027.0
+233780.0,,796505,"clearfield, inc.",1,1,0,0.0,20130731,beranek cheryl p,79650513000019,President and CEO,female,12898027.0
+62944.0,,796505,"clearfield, inc.",0,1,0,0.0,20130731,hill john p,79650513000020,Chief Operating Officer,male,12898027.0
 1088523.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20130822,roth ronald g,79650513000021,,male,12898027.0
-11483.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130827,herzog daniel r,79650513000022,Chief Financial Officer,male,12898027.0
-74385.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20130827,hill john p,79650513000023,Chief Operating Officer,male,12898027.0
-112808.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20130829,hayssen charles n,79650513000024,,male,12898027.0
-65189.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20131202,hill john p,79650513000027,Chief Operating Officer,male,12974263.0
+11483.0,,796505,"clearfield, inc.",0,1,0,0.0,20130827,herzog daniel r,79650513000022,Chief Financial Officer,male,12898027.0
+74385.0,,796505,"clearfield, inc.",0,1,0,0.0,20130827,hill john p,79650513000023,Chief Operating Officer,male,12898027.0
+112808.0,,796505,"clearfield, inc.",1,0,0,0.0,20130829,hayssen charles n,79650513000024,,male,12898027.0
+65189.0,,796505,"clearfield, inc.",0,1,0,0.0,20131202,hill john p,79650513000027,Chief Operating Officer,male,12974263.0
 1098523.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20131202,roth ronald g,79650513000028,,male,12974263.0
-35948.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140103,herzog daniel r,79650514000001,Chief Financial Officer,male,12999084.0
-134000.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140103,hill john p,79650514000002,Chief Operating Officer,male,12999084.0
-319408.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20140103,beranek cheryl p,79650514000003,President and CEO,female,12999084.0
-31318.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140123,zuckerman stephen l,79650514000005,,male,12999084.0
-23318.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140123,reddan john g jr,79650514000004,,male,12999084.0
-19518.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140129,hayward donald r.,79650514000006,,male,12999084.0
-130808.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140210,hayssen charles n,79650514000007,,male,12999084.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20140103,hill john p,79650514000002,Chief Operating Officer,male,12999084.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20140103,beranek cheryl p,79650514000003,President and CEO,female,12999084.0
+35948.0,,796505,"clearfield, inc.",0,1,0,0.0,20140103,herzog daniel r,79650514000001,Chief Financial Officer,male,12999084.0
+23318.0,,796505,"clearfield, inc.",1,0,0,0.0,20140123,reddan john g jr,79650514000004,,male,12999084.0
+31318.0,,796505,"clearfield, inc.",1,0,0,0.0,20140123,zuckerman stephen l,79650514000005,,male,12999084.0
+19518.0,,796505,"clearfield, inc.",1,0,0,0.0,20140129,hayward donald r.,79650514000006,,male,12999084.0
+130808.0,,796505,"clearfield, inc.",1,0,0,0.0,20140210,hayssen charles n,79650514000007,,male,12999084.0
 1103523.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140211,roth ronald g,79650514000008,,male,12999084.0
-17518.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140214,hayward donald r.,79650514000009,,male,12999084.0
-139308.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140224,hayssen charles n,79650514000010,,male,12999084.0
+17518.0,,796505,"clearfield, inc.",1,0,0,0.0,20140214,hayward donald r.,79650514000009,,male,12999084.0
+23701.0,,796505,"clearfield, inc.",1,0,0,0.0,20140224,reddan john g jr,79650514000014,,male,12999084.0
+139308.0,,796505,"clearfield, inc.",1,0,0,0.0,20140224,hayssen charles n,79650514000010,,male,12999084.0
 1103906.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140224,roth ronald g,79650514000011,,male,12999084.0
-17901.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140224,hayward donald r.,79650514000012,,male,12999084.0
-31701.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140224,zuckerman stephen l,79650514000013,,male,12999084.0
-23701.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140224,reddan john g jr,79650514000014,,male,12999084.0
-139691.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140224,hayssen charles n,79650514000015,,male,12999084.0
-23501.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140227,reddan john g jr,79650514000016,,male,12999084.0
+17901.0,,796505,"clearfield, inc.",1,0,0,0.0,20140224,hayward donald r.,79650514000012,,male,12999084.0
+31701.0,,796505,"clearfield, inc.",1,0,0,0.0,20140224,zuckerman stephen l,79650514000013,,male,12999084.0
+139691.0,,796505,"clearfield, inc.",1,0,0,0.0,20140224,hayssen charles n,79650514000015,,male,12999084.0
+23501.0,,796505,"clearfield, inc.",1,0,0,0.0,20140227,reddan john g jr,79650514000016,,male,12999084.0
 1108906.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140227,roth ronald g,79650514000017,,male,12999084.0
-34101.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140423,zuckerman stephen l,79650514000018,,male,13062858.0
+34101.0,,796505,"clearfield, inc.",1,0,0,0.0,20140423,zuckerman stephen l,79650514000018,,male,13062858.0
+544408.0,,796505,"clearfield, inc.",1,1,0,0.0,20140425,beranek cheryl p,79650514000019,President and CEO,female,13062858.0
+261000.0,,796505,"clearfield, inc.",0,1,0,0.0,20140425,hill john p,79650514000020,Chief Operating Officer,male,13062858.0
 1113806.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140425,roth ronald g,79650514000021,,male,13062858.0
-544408.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20140425,beranek cheryl p,79650514000019,President and CEO,female,13062858.0
-261000.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140425,hill john p,79650514000020,Chief Operating Officer,male,13062858.0
-149691.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140429,hayssen charles n,79650514000023,,male,13422158.0
 1128806.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140429,roth ronald g,79650514000024,,male,13422158.0
+149691.0,,796505,"clearfield, inc.",1,0,0,0.0,20140429,hayssen charles n,79650514000023,,male,13422158.0
 1133806.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140508,roth ronald g,79650514000025,,male,13422158.0
-22301.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140530,reddan john g jr,79650514000026,,male,13422158.0
-33101.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140530,zuckerman stephen l,79650514000027,,male,13422158.0
-36060.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140702,herzog daniel r,79650514000028,Chief Financial Officer,male,13443184.0
-261468.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140702,hill john p,79650514000029,Chief Operating Officer,male,13443184.0
-544772.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20140702,beranek cheryl p,79650514000030,President and CEO,female,13443184.0
+22301.0,,796505,"clearfield, inc.",1,0,0,0.0,20140530,reddan john g jr,79650514000026,,male,13422158.0
+33101.0,,796505,"clearfield, inc.",1,0,0,0.0,20140530,zuckerman stephen l,79650514000027,,male,13422158.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20140702,herzog daniel r,79650514000028,Chief Financial Officer,male,13443184.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20140702,hill john p,79650514000029,Chief Operating Officer,male,13443184.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20140702,beranek cheryl p,79650514000030,President and CEO,female,13443184.0
+159691.0,,796505,"clearfield, inc.",1,0,0,0.0,20140731,hayssen charles n,79650514000031,,male,13443184.0
 1143806.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20140731,roth ronald g,79650514000032,,male,13443184.0
-159691.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140731,hayssen charles n,79650514000031,,male,13443184.0
-303968.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140825,hill john p,79650514000034,Chief Operating Officer,male,13443184.0
-51060.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140825,herzog daniel r,79650514000035,Chief Financial Officer,male,13443184.0
-587272.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20140825,beranek cheryl p,79650514000033,President and CEO,female,13443184.0
-298409.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140826,hill john p,79650514000036,Chief Operating Officer,male,13443184.0
-49074.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20140826,herzog daniel r,79650514000037,Chief Financial Officer,male,13443184.0
-8401.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140828,hayward donald r.,79650514000038,,male,13443184.0
-13301.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20140911,hayward donald r.,79650514000039,,male,13443184.0
-283158.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20141120,hill john p,79650514000040,Chief Operating Officer,male,13742964.0
-263409.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20141126,hill john p,79650514000041,Chief Operating Officer,male,13742964.0
-164691.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20141126,hayssen charles n,79650514000042,,male,13742964.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20140825,beranek cheryl p,79650514000033,President and CEO,female,13443184.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20140825,hill john p,79650514000034,Chief Operating Officer,male,13443184.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20140825,herzog daniel r,79650514000035,Chief Financial Officer,male,13443184.0
+298409.0,,796505,"clearfield, inc.",0,1,0,0.0,20140826,hill john p,79650514000036,Chief Operating Officer,male,13443184.0
+49074.0,,796505,"clearfield, inc.",0,1,0,0.0,20140826,herzog daniel r,79650514000037,Chief Financial Officer,male,13443184.0
+8401.0,,796505,"clearfield, inc.",1,0,0,0.0,20140828,hayward donald r.,79650514000038,,male,13443184.0
+13301.0,,796505,"clearfield, inc.",1,0,0,0.0,20140911,hayward donald r.,79650514000039,,male,13443184.0
+283158.0,,796505,"clearfield, inc.",0,1,0,0.0,20141120,hill john p,79650514000040,Chief Operating Officer,male,13742964.0
+263409.0,,796505,"clearfield, inc.",0,1,0,0.0,20141126,hill john p,79650514000041,Chief Operating Officer,male,13742964.0
+164691.0,,796505,"clearfield, inc.",1,0,0,0.0,20141126,hayssen charles n,79650514000042,,male,13742964.0
 1148806.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20141201,roth ronald g,79650514000043,,male,13742964.0
-248409.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20141218,hill john p,79650514000044,Chief Operating Officer,male,13742964.0
-49233.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150105,herzog daniel r,79650515000001,Chief Financial Officer,male,13742873.0
-249069.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150105,hill john p,79650515000002,Chief Operating Officer,male,13742873.0
-587769.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20150105,beranek cheryl p,79650515000003,Chief Executive Officer,female,13742873.0
-239069.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150126,hill john p,79650515000004,Chief Operating Officer,male,13742873.0
-30801.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20150204,reddan john g jr,79650515000006,,male,13687691.0
-229069.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150218,hill john p,79650515000007,Chief Operating Officer,male,13687691.0
-65520.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150218,herzog daniel r,79650515000008,Chief Financial Officer,male,13687691.0
+248409.0,,796505,"clearfield, inc.",0,1,0,0.0,20141218,hill john p,79650514000044,Chief Operating Officer,male,13742964.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20150105,herzog daniel r,79650515000001,Chief Financial Officer,male,13742873.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20150105,hill john p,79650515000002,Chief Operating Officer,male,13742873.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20150105,beranek cheryl p,79650515000003,Chief Executive Officer,female,13742873.0
+239069.0,,796505,"clearfield, inc.",0,1,0,0.0,20150126,hill john p,79650515000004,Chief Operating Officer,male,13742873.0
+30801.0,,796505,"clearfield, inc.",1,0,0,0.0,20150204,reddan john g jr,79650515000006,,male,13687691.0
+229069.0,,796505,"clearfield, inc.",0,1,0,0.0,20150218,hill john p,79650515000007,Chief Operating Officer,male,13687691.0
+65520.0,,796505,"clearfield, inc.",0,1,0,0.0,20150218,herzog daniel r,79650515000008,Chief Financial Officer,male,13687691.0
 1152306.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150218,roth ronald g,79650515000009,,male,13687691.0
-31542.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20150223,reddan john g jr,79650515000014,,male,13687691.0
+31542.0,,796505,"clearfield, inc.",1,0,0,0.0,20150223,reddan john g jr,79650515000014,,male,13687691.0
 1153047.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150223,roth ronald g,79650515000010,,male,13687691.0
-165432.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20150223,hayssen charles n,79650515000011,,male,13687691.0
-32842.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20150223,zuckerman stephen l,79650515000012,,male,13687691.0
-14042.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20150223,hayward donald r.,79650515000013,,male,13687691.0
-219069.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150317,hill john p,79650515000015,Chief Operating Officer,male,13687691.0
-209069.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150415,hill john p,79650515000016,Chief Operating Officer,male,13715833.0
-10042.0,0.0,796505,"clearfield, inc.",1,0,0,0.0,20150428,hayward donald r.,79650515000017,,male,13715833.0
+165432.0,,796505,"clearfield, inc.",1,0,0,0.0,20150223,hayssen charles n,79650515000011,,male,13687691.0
+32842.0,,796505,"clearfield, inc.",1,0,0,0.0,20150223,zuckerman stephen l,79650515000012,,male,13687691.0
+14042.0,,796505,"clearfield, inc.",1,0,0,0.0,20150223,hayward donald r.,79650515000013,,male,13687691.0
+219069.0,,796505,"clearfield, inc.",0,1,0,0.0,20150317,hill john p,79650515000015,Chief Operating Officer,male,13687691.0
+209069.0,,796505,"clearfield, inc.",0,1,0,0.0,20150415,hill john p,79650515000016,Chief Operating Officer,male,13715833.0
+10042.0,,796505,"clearfield, inc.",1,0,0,0.0,20150428,hayward donald r.,79650515000017,,male,13715833.0
 1173047.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150501,roth ronald g,79650515000018,,male,13715833.0
-199069.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150518,hill john p,79650515000019,Chief Operating Officer,male,13715833.0
-588266.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20150702,beranek cheryl p,79650515000022,Chief Executive Officer,female,13720377.0
-199743.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150702,hill john p,79650515000021,Chief Operating Officer,male,13720377.0
-65688.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150702,herzog daniel r,79650515000020,Chief Financial Officer,male,13720377.0
+199069.0,,796505,"clearfield, inc.",0,1,0,0.0,20150518,hill john p,79650515000019,Chief Operating Officer,male,13715833.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20150702,beranek cheryl p,79650515000022,Chief Executive Officer,female,13720377.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20150702,herzog daniel r,79650515000020,Chief Financial Officer,male,13720377.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20150702,hill john p,79650515000021,Chief Operating Officer,male,13720377.0
 1178047.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150804,roth ronald g,79650515000023,,male,13720377.0
-548466.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20150805,beranek cheryl p,79650515000024,Chief Executive Officer,female,13720377.0
-546112.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20150807,beranek cheryl p,79650515000025,Chief Executive Officer,female,13720377.0
+1178047.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150804,roth ronald g,79650515000023,,male,13720377.0
+548466.0,,796505,"clearfield, inc.",1,1,0,0.0,20150805,beranek cheryl p,79650515000024,Chief Executive Officer,female,13720377.0
+548466.0,,796505,"clearfield, inc.",1,1,0,0.0,20150805,beranek cheryl p,79650515000024,Chief Executive Officer,female,13720377.0
+546112.0,,796505,"clearfield, inc.",1,1,0,0.0,20150807,beranek cheryl p,79650515000025,Chief Executive Officer,female,13720377.0
+546112.0,,796505,"clearfield, inc.",1,1,0,0.0,20150807,beranek cheryl p,79650515000025,Chief Executive Officer,female,13720377.0
 1183047.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150821,roth ronald g,79650515000026,,male,13720377.0
-192603.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150824,hill john p,79650515000028,Chief Operating Officer,male,13720377.0
-538972.0,0.0,796505,"clearfield, inc.",1,1,0,0.0,20150824,beranek cheryl p,79650515000029,Chief Executive Officer,female,13720377.0
-63210.0,0.0,796505,"clearfield, inc.",0,1,0,0.0,20150824,herzog daniel r,79650515000027,Chief Financial Officer,male,13720377.0
+1183047.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20150821,roth ronald g,79650515000026,,male,13720377.0
+192603.0,,796505,"clearfield, inc.",0,1,0,0.0,20150824,hill john p,79650515000028,Chief Operating Officer,male,13720377.0
+538972.0,,796505,"clearfield, inc.",1,1,0,0.0,20150824,beranek cheryl p,79650515000029,Chief Executive Officer,female,13720377.0
+538972.0,,796505,"clearfield, inc.",1,1,0,0.0,20150824,beranek cheryl p,79650515000029,Chief Executive Officer,female,13720377.0
+63210.0,,796505,"clearfield, inc.",0,1,0,0.0,20150824,herzog daniel r,79650515000027,Chief Financial Officer,male,13720377.0
+63210.0,,796505,"clearfield, inc.",0,1,0,0.0,20150824,herzog daniel r,79650515000027,Chief Financial Officer,male,13720377.0
+192603.0,,796505,"clearfield, inc.",0,1,0,0.0,20150824,hill john p,79650515000028,Chief Operating Officer,male,13720377.0
 83845.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20150902,goepel patrick,79650515000031,,male,13720377.0
+83845.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20150902,goepel patrick,79650515000031,,male,13720377.0
+168432.0,,796505,"clearfield, inc.",1,0,0,0.0,20151118,hayssen charles n,79650515000032,,male,13705658.0
+91845.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20151118,goepel patrick,79650515000033,,male,13705658.0
+30042.0,,796505,"clearfield, inc.",1,0,0,0.0,20151124,reddan john g jr,79650515000034,,male,13705658.0
+1193047.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20151130,roth ronald g,79650515000035,,male,13705658.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20160105,hill john p,79650516000037,Chief Operating Officer,male,13706205.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20160105,beranek cheryl,79650516000038,Chief Executive Officer,female,13706205.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20160105,herzog daniel r,79650516000036,Chief Financial Officer,male,13706205.0
+92845.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20160205,goepel patrick,79650516000039,,male,13704995.0
+1198047.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20160205,roth ronald g,79650516000040,,male,13704995.0
+30842.0,,796505,"clearfield, inc.",1,0,0,0.0,20160209,zuckerman stephen l,79650516000041,,male,13704995.0
+1198725.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20160229,roth ronald g,79650516000046,,male,13704995.0
+93523.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20160229,goepel patrick,79650516000045,,male,13704995.0
+59382.0,,796505,"clearfield, inc.",0,1,0,0.0,20160229,herzog daniel r,79650516000042,Chief Financial Officer,male,13704995.0
+169110.0,,796505,"clearfield, inc.",1,0,0,0.0,20160229,hayssen charles n,79650516000043,,male,13704995.0
+10720.0,,796505,"clearfield, inc.",1,0,0,0.0,20160229,hayward donald r.,79650516000044,,male,13704995.0
+223300.0,,796505,"clearfield, inc.",0,1,0,0.0,20160408,hill john p,79650516000047,Chief Operating Officer,male,13730571.0
+569464.0,,796505,"clearfield, inc.",1,1,0,0.0,20160420,beranek cheryl,79650516000048,Chief Executive Officer,female,13730571.0
+94773.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20160504,goepel patrick,79650516000049,,male,13790571.0
+1203725.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20160516,roth ronald g,79650516000050,,male,13790571.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20160531,hill john p,79650516000052,Chief Operating Officer,male,13790571.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20160531,beranek cheryl,79650516000053,Chief Executive Officer,female,13790571.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20160531,herzog daniel r,79650516000051,Chief Financial Officer,male,13790571.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20160701,herzog daniel r,79650516000054,Chief Financial Officer,male,14089769.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20160701,hill john p,79650516000055,Chief Operating Officer,male,14089769.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20160701,beranek cheryl,79650516000056,Chief Executive Officer,female,14089769.0
+13050.0,,796505,"clearfield, inc.",1,0,0,0.0,20160721,harding roger g,79650516000058,,male,14089769.0
+585526.0,,796505,"clearfield, inc.",1,1,0,0.0,20160804,beranek cheryl,79650516000059,Chief Executive Officer,female,14094219.0
+244593.0,,796505,"clearfield, inc.",0,1,0,0.0,20160817,hill john p,79650516000060,Chief Operating Officer,male,14094219.0
+1208725.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20160817,roth ronald g,79650516000061,,male,14094219.0
+239563.0,,796505,"clearfield, inc.",0,1,0,0.0,20160819,hill john p,79650516000062,Chief Operating Officer,male,14094219.0
+74152.0,,796505,"clearfield, inc.",0,1,0,0.0,20160823,herzog daniel r,79650516000063,Chief Financial Officer,male,14094219.0
+87010.0,,796505,"clearfield, inc.",0,1,0,0.0,20160826,herzog daniel r,79650516000064,Chief Financial Officer,male,14094219.0
+70293.0,,796505,"clearfield, inc.",0,1,0,0.0,20161122,herzog daniel r,79650516000065,Chief Financial Officer,male,14126279.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20170104,hill john p,79650517000002,Chief Operating Officer,male,14145164.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20170104,herzog daniel r,79650517000001,Chief Financial Officer,male,14145164.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20170104,beranek cheryl,79650517000003,Chief Executive Officer,female,14145164.0
+1213725.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20170201,roth ronald g,79650517000004,,male,14142890.0
+171610.0,,796505,"clearfield, inc.",1,0,0,0.0,20170201,hayssen charles n,79650517000005,,male,14142890.0
+14050.0,,796505,"clearfield, inc.",1,0,0,0.0,20170208,harding roger g,79650517000006,,male,14142890.0
+15050.0,,796505,"clearfield, inc.",1,0,0,0.0,20170213,harding roger g,79650517000007,,male,14142890.0
+95532.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20170227,goepel patrick,79650517000008,,male,14142890.0
+11479.0,,796505,"clearfield, inc.",1,0,0,0.0,20170227,hayward donald r.,79650517000009,,male,14142890.0
+15809.0,,796505,"clearfield, inc.",1,0,0,0.0,20170227,harding roger g,79650517000010,,male,14142890.0
+172369.0,,796505,"clearfield, inc.",1,0,0,0.0,20170227,hayssen charles n,79650517000011,,male,14142890.0
+1214484.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20170227,roth ronald g,79650517000012,,male,14142890.0
+17009.0,,796505,"clearfield, inc.",1,0,0,0.0,20170511,harding roger g,79650517000013,,male,14094112.0
+1219484.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20170515,roth ronald g,79650517000014,,male,14094112.0
+235732.0,,796505,"clearfield, inc.",0,1,0,0.0,20170531,hill john p,79650517000016,Chief Operating Officer,male,14094112.0
+50778.0,,796505,"clearfield, inc.",0,1,0,0.0,20170531,herzog daniel r,79650517000015,Chief Financial Officer,male,14094112.0
+581501.0,,796505,"clearfield, inc.",1,1,0,0.0,20170531,beranek cheryl,79650517000017,Chief Executive Officer,female,14094112.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20170705,hill john p,79650517000019,Chief Operating Officer,male,13961112.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20170705,beranek cheryl,79650517000020,Chief Executive Officer,female,13961112.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20170705,herzog daniel r,79650517000018,Chief Financial Officer,male,13961112.0
+1224484.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20170802,roth ronald g,79650517000021,,male,13934910.0
+18009.0,,796505,"clearfield, inc.",1,0,0,0.0,20170811,harding roger g,79650517000022,,male,13934910.0
+50356.0,,796505,"clearfield, inc.",0,1,0,0.0,20170823,herzog daniel r,79650517000023,Chief Financial Officer,male,13934910.0
+234249.0,,796505,"clearfield, inc.",0,1,0,0.0,20170823,hill john p,79650517000024,Chief Operating Officer,male,13934910.0
+579763.0,,796505,"clearfield, inc.",1,1,0,0.0,20170823,beranek cheryl,79650517000025,Chief Executive Officer,female,13934910.0
+46181.0,,796505,"clearfield, inc.",0,1,0,0.0,20170824,herzog daniel r,79650517000026,Chief Financial Officer,male,13934910.0
+225443.0,,796505,"clearfield, inc.",0,1,0,0.0,20170824,hill john p,79650517000027,Chief Operating Officer,male,13934910.0
+570957.0,,796505,"clearfield, inc.",1,1,0,0.0,20170824,beranek cheryl,79650517000028,Chief Executive Officer,female,13934910.0
+570257.0,,796505,"clearfield, inc.",1,1,0,0.0,20171004,beranek cheryl,79650517000029,Chief Executive Officer,female,13812821.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20180103,herzog daniel r,79650518000001,Chief Financial Officer,male,13824191.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20180103,hill john p,79650518000002,Chief Operating Officer,male,13824191.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20180103,beranek cheryl,79650518000003,Chief Executive Officer,female,13824191.0
+19009.0,,796505,"clearfield, inc.",1,0,0,0.0,20180206,harding roger g,79650518000004,,male,13817859.0
+174769.0,,796505,"clearfield, inc.",1,0,0,0.0,20180221,hayssen charles n,79650518000005,,male,13817859.0
+96379.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20180227,goepel patrick,79650518000006,,male,13817859.0
+12326.0,,796505,"clearfield, inc.",1,0,0,0.0,20180227,hayward donald r.,79650518000007,,male,13817859.0
+1225331.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20180227,roth ronald g,79650518000010,,male,13817859.0
+175616.0,,796505,"clearfield, inc.",1,0,0,0.0,20180227,hayssen charles n,79650518000009,,male,13817859.0
+19856.0,,796505,"clearfield, inc.",1,0,0,0.0,20180227,harding roger g,79650518000008,,male,13817859.0
+1330331.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20180504,roth ronald g,79650518000011,,male,13809998.0
+20856.0,,796505,"clearfield, inc.",1,0,0,0.0,20180515,harding roger g,79650518000012,,male,13809998.0
+566602.0,,796505,"clearfield, inc.",1,1,0,0.0,20180530,beranek cheryl,79650518000015,Chief Executive Officer,female,13809998.0
+222067.0,,796505,"clearfield, inc.",0,1,0,0.0,20180530,hill john p,79650518000014,Chief Operating Officer,male,13809998.0
+44103.0,,796505,"clearfield, inc.",0,1,0,0.0,20180530,herzog daniel r,79650518000013,Chief Financial Officer,male,13809998.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20180702,beranek cheryl,79650518000018,Chief Executive Officer,female,13693943.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20180702,hill john p,79650518000017,Chief Operating Officer,male,13693943.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20180702,herzog daniel r,79650518000016,Chief Financial Officer,male,13693943.0
+220834.0,,796505,"clearfield, inc.",0,1,0,0.0,20180823,hill john p,79650518000020,Chief Operating Officer,male,13660147.0
+43317.0,,796505,"clearfield, inc.",0,1,0,0.0,20180823,herzog daniel r,79650518000019,Chief Financial Officer,male,13660147.0
+565065.0,,796505,"clearfield, inc.",1,1,0,0.0,20180823,beranek cheryl,79650518000021,Chief Executive Officer,female,13660147.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20181116,herzog daniel r,79650518000022,Chief Financial Officer,male,13646062.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20181116,hill john p,79650518000023,Chief Operating Officer,male,13646062.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20181116,beranek cheryl,79650518000024,Chief Executive Officer,female,13646062.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20190103,herzog daniel r,79650519000001,Chief Financial Officer,male,13662456.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20190103,beranek cheryl,79650519000003,Chief Executive Officer,female,13662456.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20190103,hill john p,79650519000002,Chief Operating Officer,male,13662456.0
+1231199.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20190226,roth ronald g,79650519000008,,male,13662456.0
+21724.0,,796505,"clearfield, inc.",1,0,0,0.0,20190226,harding roger g,79650519000006,,male,13662456.0
+13194.0,,796505,"clearfield, inc.",1,0,0,0.0,20190226,hayward donald r.,79650519000005,,male,13662456.0
+176484.0,,796505,"clearfield, inc.",1,0,0,0.0,20190226,hayssen charles n,79650519000007,,male,13662456.0
+97247.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20190226,goepel patrick,79650519000004,,male,13662456.0
+41208.0,,796505,"clearfield, inc.",0,1,0,0.0,20190529,herzog daniel r,79650519000009,Chief Financial Officer,male,13663981.0
+217615.0,,796505,"clearfield, inc.",0,1,0,0.0,20190529,hill john p,79650519000010,Chief Operating Officer,male,13663981.0
+561500.0,,796505,"clearfield, inc.",1,1,0,0.0,20190529,beranek cheryl,79650519000011,Chief Executive Officer,female,13663981.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20190702,herzog daniel r,79650519000012,Chief Financial Officer,male,13651869.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20190702,hill john p,79650519000013,Chief Operating Officer,male,13651869.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20190702,beranek cheryl,79650519000014,Chief Executive Officer,female,13651869.0
+98461.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20190805,goepel patrick,79650519000015,,male,13651869.0
+23024.0,,796505,"clearfield, inc.",1,0,0,0.0,20190821,harding roger g,79650519000016,,male,13651869.0
+41002.0,,796505,"clearfield, inc.",0,1,0,0.0,20190823,herzog daniel r,79650519000017,Chief Financial Officer,male,13651869.0
+216583.0,,796505,"clearfield, inc.",0,1,0,0.0,20190823,hill john p,79650519000018,Chief Operating Officer,male,13651869.0
+560026.0,,796505,"clearfield, inc.",1,1,0,0.0,20190823,"clearfield, inc.",79650519000019,Chief Executive Officer,male,13651869.0
+1241199.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20191115,roth ronald g,79650519000020,,male,13641805.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20191115,beranek cheryl,79650519000021,Chief Executive Officer,female,13641805.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20191115,herzog daniel r,79650519000023,Chief Financial Officer,male,13641805.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20191115,hill john p,79650519000022,Chief Operating Officer,male,13641805.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20200103,beranek cheryl,79650520000001,Chief Executive Officer,female,13657459.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20200103,hill john p,79650520000002,Chief Operating Officer,male,13657459.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20200103,herzog daniel r,79650520000003,Chief Financial Officer,male,13657459.0
+1246199.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20200211,roth ronald g,79650520000004,,male,13657459.0
+25024.0,,796505,"clearfield, inc.",1,0,0,0.0,20200225,harding roger g,79650520000005,,male,13657459.0
+27690.0,,796505,"clearfield, inc.",1,0,0,0.0,20200303,harding roger g,79650520000010,,male,13657459.0
+1247365.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20200303,roth ronald g,79650520000006,,male,13657459.0
+177650.0,,796505,"clearfield, inc.",1,0,0,0.0,20200303,hayssen charles n,79650520000007,,male,13657459.0
+99627.0,16750.0,796505,"clearfield, inc.",1,0,0,0.0,20200303,goepel patrick,79650520000008,,male,13657459.0
+14360.0,,796505,"clearfield, inc.",1,0,0,0.0,20200303,hayward donald r.,79650520000009,,male,13657459.0
+30690.0,,796505,"clearfield, inc.",1,0,0,0.0,20200515,harding roger g,79650520000011,,male,13627639.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20200702,herzog daniel r,79650520000014,Chief Financial Officer,male,13647005.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20200702,beranek cheryl,79650520000013,Chief Executive Officer,female,13647005.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20200702,hill john p,79650520000012,Chief Operating Officer,male,13647005.0
+14659.0,,796505,"clearfield, inc.",1,0,0,0.0,20200804,goepel patrick,79650520000015,,male,13647005.0
+12112.0,,796505,"clearfield, inc.",1,0,0,0.0,20200811,goepel patrick,79650520000017,,male,13647005.0
+7017.0,,796505,"clearfield, inc.",1,0,0,0.0,20200819,goepel patrick,79650520000018,,male,13647005.0
+216065.0,,796505,"clearfield, inc.",0,1,0,0.0,20200825,hill john p,79650520000021,Chief Operating Officer,male,13647005.0
+558837.0,,796505,"clearfield, inc.",1,1,0,0.0,20200825,beranek cheryl,79650520000020,Chief Executive Officer,female,13647005.0
+40519.0,,796505,"clearfield, inc.",0,1,0,0.0,20200825,herzog daniel r,79650520000019,Chief Financial Officer,male,13647005.0
+4084.0,,796505,"clearfield, inc.",1,0,0,0.0,20201112,goepel patrick,79650520000023,,male,13649962.0
+545152.0,,796505,"clearfield, inc.",1,1,0,0.0,20201112,beranek cheryl,79650520000022,Chief Executive Officer,female,13649962.0
+0.0,,796505,"clearfield, inc.",1,0,0,0.0,20201117,goepel patrick,79650520000024,,male,13649962.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20201118,hill john p,79650520000028,Chief Operating Officer,male,13649962.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20201118,beranek cheryl,79650520000027,Chief Executive Officer,female,13649962.0
+206065.0,,796505,"clearfield, inc.",0,1,0,0.0,20201118,hill john p,79650520000026,Chief Operating Officer,male,13649962.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20201118,herzog daniel r,79650520000029,Chief Financial Officer,male,13649962.0
+535152.0,,796505,"clearfield, inc.",1,1,0,0.0,20201118,beranek cheryl,79650520000025,Chief Executive Officer,female,13649962.0
+204112.0,,796505,"clearfield, inc.",0,1,0,0.0,20201125,hill john p,79650520000030,Chief Operating Officer,male,13649962.0
+528199.0,,796505,"clearfield, inc.",1,1,0,0.0,20201130,beranek cheryl,79650520000033,Chief Executive Officer,female,13649962.0
+192892.0,,796505,"clearfield, inc.",0,1,0,0.0,20201130,hill john p,79650520000032,Chief Operating Officer,male,13649962.0
+39546.0,,796505,"clearfield, inc.",0,1,0,0.0,20201130,herzog daniel r,79650520000031,Chief Financial Officer,male,13649962.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20210104,herzog daniel r,79650521000001,Chief Financial Officer,male,13727906.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20210104,hill john p,79650521000002,Chief Operating Officer,male,13727906.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20210104,beranek cheryl,79650521000003,Chief Executive Officer,female,13727906.0
+10467.0,,796505,"clearfield, inc.",1,0,0,0.0,20210205,hayward donald r.,79650521000004,,male,13727906.0
+73296.0,,796505,"clearfield, inc.",1,0,0,0.0,20210208,goepel patrick,79650521000005,,male,13727906.0
+493635.0,,796505,"clearfield, inc.",1,1,0,0.0,20210211,beranek cheryl,79650521000007,Chief Executive Officer,female,13727906.0
+1248865.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20210211,roth ronald g,79650521000006,,male,13727906.0
+31114.0,,796505,"clearfield, inc.",1,0,0,0.0,20210301,harding roger g,79650521000009,,male,13727906.0
+10891.0,,796505,"clearfield, inc.",1,0,0,0.0,20210301,hayward donald r.,79650521000010,,male,13727906.0
+178074.0,,796505,"clearfield, inc.",1,0,0,0.0,20210301,hayssen charles n,79650521000011,,male,13727906.0
+72554.0,,796505,"clearfield, inc.",1,0,0,0.0,20210301,goepel patrick,79650521000012,,male,13727906.0
+1249289.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20210301,roth ronald g,79650521000008,,male,13727906.0
+168642.0,,796505,"clearfield, inc.",0,1,0,0.0,20210510,hill john p,79650521000013,Chief Operating Officer,male,13732806.0
+158074.0,,796505,"clearfield, inc.",1,0,0,0.0,20210510,hayssen charles n,79650521000014,,male,13732806.0
+463635.0,,796505,"clearfield, inc.",1,1,0,0.0,20210526,beranek cheryl,79650521000015,Chief Executive Officer,female,13732806.0
+433635.0,,796505,"clearfield, inc.",1,1,0,0.0,20210607,beranek cheryl,79650521000016,Chief Executive Officer,female,13732806.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20210701,beranek cheryl,79650521000017,Chief Executive Officer,female,13742545.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20210701,hill john p,79650521000018,Chief Operating Officer,male,13742545.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20210701,herzog daniel r,79650521000019,Chief Financial Officer,male,13742545.0
+66447.0,,796505,"clearfield, inc.",1,0,0,0.0,20210802,goepel patrick,79650521000020,,male,13742545.0
+39029.0,,796505,"clearfield, inc.",0,1,0,0.0,20210823,herzog daniel r,79650521000023,Chief Financial Officer,male,13742545.0
+166981.0,,796505,"clearfield, inc.",0,1,0,0.0,20210823,hill john p,79650521000021,Chief Operating Officer,male,13742545.0
+431791.0,,796505,"clearfield, inc.",1,1,0,0.0,20210823,beranek cheryl,79650521000022,Chief Executive Officer,female,13742545.0
+60424.0,,796505,"clearfield, inc.",1,0,0,0.0,20210825,goepel patrick,79650521000024,,male,13742545.0
+50000.0,,796505,"clearfield, inc.",1,0,0,0.0,20211112,goepel patrick,79650521000025,,male,13732188.0
+20614.0,,796505,"clearfield, inc.",1,0,0,0.0,20211115,harding roger g,79650521000026,,male,13732188.0
+166482.0,,796505,"clearfield, inc.",0,1,0,0.0,20211118,hill john p,79650521000028,Chief Operating Officer,male,13732188.0
+431292.0,,796505,"clearfield, inc.",1,1,0,0.0,20211118,beranek cheryl,79650521000027,Chief Executive Officer,female,13732188.0
+38823.0,,796505,"clearfield, inc.",0,1,0,0.0,20211118,herzog daniel r,79650521000029,Chief Financial Officer,male,13732188.0
+153453.0,,796505,"clearfield, inc.",1,0,0,0.0,20211124,hayssen charles n,79650521000030,,male,13732188.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20211209,wirsbinski carol ann,161559421000104,,female,13732188.0
+,,796505,"clearfield, inc.",1,0,0,0.0,20211220,jones walter louis jr,161559421000106,,male,13732188.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20220103,hill john p,79650522000002,Chief Operating Officer,male,13762463.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20220103,herzog daniel r,79650522000003,Chief Financial Officer,male,13762463.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20220103,beranek cheryl,79650522000001,Chief Executive Officer,female,13762463.0
+1251289.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20220210,roth ronald g,79650522000007,,male,13762463.0
+553.0,,796505,"clearfield, inc.",1,0,0,0.0,20220228,jones walter louis jr,79650522000014,,male,13762463.0
+553.0,,796505,"clearfield, inc.",1,0,0,0.0,20220228,wirsbinski carol ann,79650522000013,,female,13762463.0
+21008.0,,796505,"clearfield, inc.",1,0,0,0.0,20220228,harding roger g,79650522000012,,male,13762463.0
+153847.0,,796505,"clearfield, inc.",1,0,0,0.0,20220228,hayssen charles n,79650522000010,,male,13762463.0
+11285.0,,796505,"clearfield, inc.",1,0,0,0.0,20220228,hayward donald r.,79650522000009,,male,13762463.0
+1251683.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20220228,roth ronald g,79650522000008,,male,13762463.0
+50394.0,,796505,"clearfield, inc.",1,0,0,0.0,20220228,goepel patrick,79650522000011,,male,13762463.0
+820.0,,796505,"clearfield, inc.",1,0,0,0.0,20220531,jones walter louis jr,79650522000016,,male,13771632.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20220705,herzog daniel r,79650522000017,Chief Financial Officer,male,13777682.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20220705,hill john p,79650522000018,Chief Operating Officer,male,13777682.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20220705,beranek cheryl,79650522000019,Chief Executive Officer,female,13777682.0
+40394.0,,796505,"clearfield, inc.",1,0,0,0.0,20220804,goepel patrick,79650522000020,,male,13777682.0
+133847.0,,796505,"clearfield, inc.",1,0,0,0.0,20220808,hayssen charles n,79650522000021,,male,13777682.0
+10184.0,,796505,"clearfield, inc.",1,0,0,0.0,20220808,hayward donald r.,79650522000023,,male,13777682.0
+18508.0,,796505,"clearfield, inc.",1,0,0,0.0,20220808,harding roger g,79650522000022,,male,13777682.0
+433240.0,,796505,"clearfield, inc.",1,1,0,0.0,20220810,beranek cheryl,79650522000024,Chief Executive Officer,female,13777682.0
+168691.0,,796505,"clearfield, inc.",0,1,0,0.0,20220810,hill john p,79650522000025,Chief Operating Officer,male,13777682.0
+40072.0,,796505,"clearfield, inc.",0,1,0,0.0,20220810,herzog daniel r,79650522000026,Chief Financial Officer,male,13777682.0
+17008.0,,796505,"clearfield, inc.",1,0,0,0.0,20220816,harding roger g,79650522000027,,male,13777682.0
+8984.0,,796505,"clearfield, inc.",1,0,0,0.0,20220822,hayward donald r.,79650522000028,,male,13777682.0
+39253.0,,796505,"clearfield, inc.",0,1,0,0.0,20220824,herzog daniel r,79650522000029,Chief Financial Officer,male,13777682.0
+166160.0,,796505,"clearfield, inc.",0,1,0,0.0,20220824,hill john p,79650522000031,Chief Operating Officer,male,13777682.0
+431150.0,,796505,"clearfield, inc.",1,1,0,0.0,20220824,beranek cheryl,79650522000030,Chief Executive Officer,female,13777682.0
+15508.0,,796505,"clearfield, inc.",1,0,0,0.0,20220829,harding roger g,79650522000032,,male,13777682.0
+906.0,,796505,"clearfield, inc.",1,0,0,0.0,20220831,jones walter louis jr,79650522000033,,male,13777682.0
+38738.0,,796505,"clearfield, inc.",0,1,0,0.0,20221118,herzog daniel r,79650522000036,Chief Financial Officer,male,13818452.0
+165825.0,,796505,"clearfield, inc.",0,1,0,0.0,20221118,hill john p,79650522000035,Chief Operating Officer,male,13818452.0
+430374.0,,796505,"clearfield, inc.",1,1,0,0.0,20221118,beranek cheryl,79650522000034,Chief Executive Officer,female,13818452.0
+431768.0,,796505,"clearfield, inc.",1,1,0,0.0,20221215,beranek cheryl,79650522000037,Chief Executive Officer,female,13818452.0
+39700.0,,796505,"clearfield, inc.",0,1,0,0.0,20221215,herzog daniel r,79650522000038,Chief Financial Officer,male,13818452.0
+167219.0,,796505,"clearfield, inc.",0,1,0,0.0,20221215,hill john p,79650522000039,Chief Operating Officer,male,13818452.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20230104,beranek cheryl,79650523000001,Chief Executive Officer,female,15218428.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20230104,herzog daniel r,79650523000002,Chief Financial Officer,male,15218428.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20230104,hill john p,79650523000003,Chief Operating Officer,male,15218428.0
+1254783.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20230207,roth ronald g,79650523000004,,male,15219636.0
+136847.0,,796505,"clearfield, inc.",1,0,0,0.0,20230214,hayssen charles n,79650523000005,,male,15219636.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20230227,beranek cheryl,79650523000007,Chief Executive Officer,female,15219636.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20230227,herzog daniel r,79650523000006,Chief Financial Officer,male,15219636.0
+1880.0,,796505,"clearfield, inc.",1,0,0,0.0,20230227,jones walter louis jr,79650523000014,,male,15219636.0
+1255757.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20230227,roth ronald g,79650523000013,,male,15219636.0
+137821.0,,796505,"clearfield, inc.",1,0,0,0.0,20230227,hayssen charles n,79650523000012,,male,15219636.0
+1527.0,,796505,"clearfield, inc.",1,0,0,0.0,20230227,wirsbinski carol ann,79650523000015,,female,15219636.0
+16482.0,,796505,"clearfield, inc.",1,0,0,0.0,20230227,harding roger g,79650523000009,,male,15219636.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20230227,hill john p,79650523000008,Chief Operating Officer,male,15219636.0
+41368.0,,796505,"clearfield, inc.",1,0,0,0.0,20230227,goepel patrick,79650523000011,,male,15219636.0
+9958.0,,796505,"clearfield, inc.",1,0,0,0.0,20230227,hayward donald r.,79650523000010,,male,15219636.0
+21482.0,,796505,"clearfield, inc.",1,0,0,0.0,20230602,harding roger g,79650523000016,,male,15253755.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20230707,herzog daniel r,79650523000017,Chief Financial Officer,male,15262409.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20230707,beranek cheryl,79650523000018,Chief Executive Officer,female,15262409.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20230707,hill john p,79650523000019,Chief Operating Officer,male,15262409.0
+2039.0,,796505,"clearfield, inc.",1,0,0,0.0,20230809,wirsbinski carol ann,79650523000020,,female,15261809.0
+440694.0,,796505,"clearfield, inc.",1,1,0,0.0,20230823,beranek cheryl,79650523000022,Chief Executive Officer,female,15261809.0
+44515.0,,796505,"clearfield, inc.",0,1,0,0.0,20230823,herzog daniel r,79650523000021,Chief Financial Officer,male,15261809.0
+176295.0,,796505,"clearfield, inc.",0,1,0,0.0,20230823,hill john p,79650523000023,Chief Operating Officer,male,15261809.0
+439193.0,,796505,"clearfield, inc.",1,1,0,0.0,20231120,beranek cheryl,79650523000024,Chief Executive Officer,female,15254525.0
+43686.0,,796505,"clearfield, inc.",0,1,0,0.0,20231120,herzog daniel r,79650523000025,Chief Financial Officer,male,15254525.0
+174794.0,,796505,"clearfield, inc.",0,1,0,0.0,20231120,hill john p,79650523000026,Chief Operating Officer,male,15254525.0
+455691.0,,796505,"clearfield, inc.",1,1,0,0.0,20231213,beranek cheryl,79650523000027,Chief Executive Officer,female,15254525.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20240103,herzog daniel r,79650524000002,Chief Financial Officer,male,14939671.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20240103,beranek cheryl,79650524000001,Chief Executive Officer,female,14939671.0
+1259796.0,176760.0,796505,"clearfield, inc.",1,0,0,1.0,20240227,roth ronald g,79650524000009,,male,14706671.0
+23521.0,,796505,"clearfield, inc.",1,0,0,0.0,20240227,harding roger g,79650524000007,,male,14706671.0
+139860.0,,796505,"clearfield, inc.",1,0,0,0.0,20240227,hayssen charles n,79650524000006,,male,14706671.0
+11997.0,,796505,"clearfield, inc.",1,0,0,0.0,20240227,hayward donald r.,79650524000005,,male,14706671.0
+3919.0,,796505,"clearfield, inc.",1,0,0,0.0,20240227,jones walter louis jr,79650524000004,,male,14706671.0
+43407.0,,796505,"clearfield, inc.",1,0,0,0.0,20240227,goepel patrick,79650524000008,,male,14706671.0
+4078.0,,796505,"clearfield, inc.",1,0,0,0.0,20240227,wirsbinski carol ann,79650524000003,,female,14706671.0
+4737.0,,796505,"clearfield, inc.",1,0,0,0.0,20240305,jones walter louis jr,79650524000010,,male,14706671.0
+30021.0,,796505,"clearfield, inc.",1,0,0,0.0,20240306,harding roger g,79650524000011,,male,14706671.0
+4619.0,,796505,"clearfield, inc.",1,0,0,0.0,20240510,wirsbinski carol ann,79650524000012,,female,14233283.0
+1261796.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20240528,roth ronald g,79650524000013,,male,14233283.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20240702,beranek cheryl,79650524000016,Chief Executive Officer,female,14238693.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20240702,hill john p,79650524000015,Chief Operating Officer,male,14238693.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20240702,herzog daniel r,79650524000014,Chief Financial Officer,male,14238693.0
+6061.0,,796505,"clearfield, inc.",1,0,0,0.0,20240808,jones walter louis jr,79650524000017,,male,14237943.0
+53671.0,,796505,"clearfield, inc.",0,1,0,0.0,20240823,herzog daniel r,79650524000020,Chief Financial Officer,male,14237943.0
+193107.0,,796505,"clearfield, inc.",0,1,0,0.0,20240823,hill john p,79650524000019,Chief Operating Officer,male,14237943.0
+454812.0,,796505,"clearfield, inc.",1,1,0,0.0,20240823,beranek cheryl,79650524000018,Chief Executive Officer,female,14237943.0
+451673.0,,796505,"clearfield, inc.",1,1,0,0.0,20241119,beranek cheryl,79650524000021,Chief Executive Officer,female,14288607.0
+189968.0,,796505,"clearfield, inc.",0,1,0,0.0,20241119,hill john p,79650524000023,Chief Operating Officer,male,14288607.0
+52074.0,,796505,"clearfield, inc.",0,1,0,0.0,20241119,herzog daniel r,79650524000022,Chief Financial Officer,male,14288607.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20241126,herzog daniel r,79650524000025,Chief Financial Officer,male,14288607.0
+,,796505,"clearfield, inc.",0,1,0,0.0,20241126,hill john p,79650524000026,Chief Operating Officer,male,14288607.0
+,,796505,"clearfield, inc.",1,1,0,0.0,20241126,beranek cheryl,79650524000024,Chief Executive Officer,female,14288607.0
+1266796.0,176760.0,796505,"clearfield, inc.",1,0,1,1.0,20241206,roth ronald g,79650524000027,,male,14288607.0
+465954.0,,796505,"clearfield, inc.",1,1,0,0.0,20241210,beranek cheryl,79650524000028,Chief Executive Officer,female,14288607.0
+305.0,,796505,"clearfield, inc.",1,0,0,0.0,20241213,kelly catherine t.,79650524000031,,female,14288607.0
+305.0,,796505,"clearfield, inc.",1,0,0,0.0,20241213,sarcevic ademir,79650524000032,,male,14288607.0

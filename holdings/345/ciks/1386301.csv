@@ -1,84 +1,502 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20100812,ahlberg scott,114420410043224,,male,
-0.0,0.0,1386301,derycz scientific inc,0,1,0.0,0.0,20100812,mckilligan richard,114420410043233,Chief Financial Officer,male,
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20100812,peterson janice m,114420410043235,,female,
-1760910.0,0.0,1386301,derycz scientific inc,0,0,1.0,1.0,20101103,bristol capital llc,101968710003881,,male,
-1760910.0,0.0,1386301,derycz scientific inc,0,0,1.0,0.0,20101103,kessler paul,101968710003906,,male,
-1760910.0,0.0,1386301,derycz scientific inc,0,0,1.0,0.0,20101103,kessler diana derycz,101968710003907,,female,
-0.0,0.0,1386301,derycz scientific inc,0,1,0.0,0.0,20120308,urban alan louis,114420412013813,Chief Financial Officer,male,17069437.0
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20120425,mcpeak merrill a/,114420412023732,,male,17069437.0
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20120425,suess gregory,114420412023735,,male,17069437.0
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20120503,ogilvie scott varde,114420412025999,,male,17069437.0
-0.0,0.0,1386301,derycz scientific inc,0,1,0.0,0.0,20130222,ahlberg scott,114420413010792,SEE REMARKS,male,17269525.0
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20130222,mcpeak merrill a/,114420413010757,,male,17269525.0
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20130222,suess gregory,114420413010759,,male,17269525.0
-0.0,0.0,1386301,derycz scientific inc,0,1,0.0,0.0,20130222,urban alan louis,114420413010796,Chief Financial Officer,male,17269525.0
-0.0,0.0,1386301,derycz scientific inc,1,1,0.0,0.0,20130222,peterson janice m,114420413010798,SEE REMARKS,female,17269525.0
-0.0,0.0,1386301,derycz scientific inc,1,0,0.0,0.0,20130222,ogilvie scott varde,114420413010794,,male,17269525.0
-0.0,0.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20130312,derycz peter,114420413014417,"CEO, President & Chairman",male,17269525.0
-55445.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20130522,urban alan louis,114420413031057,Chief Financial Officer,male,16932604.0
-5333.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20130522,peterson janice m,114420413031114,See Remarks,female,16932604.0
-0.0,0.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20130522,derycz peter,114420413031149,"CEO, President & Chairman",male,16932604.0
-19568.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20130522,ahlberg scott,114420413031152,See Remarks,male,16932604.0
-23666.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20130910,peterson janice m,114420413050020,See Remarks,female,16970465.0
-81278.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20130910,urban alan louis,114420413050016,Chief Financial Officer,male,16970465.0
-46235.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20130910,ahlberg scott,114420413050026,See Remarks,male,16970465.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20100812,ahlberg scott,114420410043224,,male,
+,,1386301,derycz scientific inc,0,1,0.0,0.0,20100812,mckilligan richard,114420410043233,Chief Financial Officer,male,
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20100812,peterson janice m,114420410043235,,female,
+1760910.0,,1386301,derycz scientific inc,0,0,1.0,1.0,20101103,bristol capital llc,101968710003881,,male,
+1760910.0,,1386301,derycz scientific inc,0,0,1.0,0.0,20101103,kessler diana derycz,101968710003907,,female,
+1760910.0,,1386301,derycz scientific inc,0,0,1.0,0.0,20101103,kessler paul,101968710003906,,male,
+,,1386301,derycz scientific inc,0,1,0.0,0.0,20120308,urban alan louis,114420412013813,Chief Financial Officer,male,17069437.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20120425,suess gregory,114420412023735,,male,17069437.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20120425,mcpeak merrill a/,114420412023732,,male,17069437.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20120503,ogilvie scott varde,114420412025999,,male,17069437.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20130222,suess gregory,114420413010759,,male,17269525.0
+,,1386301,derycz scientific inc,0,1,0.0,0.0,20130222,ahlberg scott,114420413010792,SEE REMARKS,male,17269525.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20130222,ogilvie scott varde,114420413010794,,male,17269525.0
+,,1386301,derycz scientific inc,0,1,0.0,0.0,20130222,urban alan louis,114420413010796,Chief Financial Officer,male,17269525.0
+,,1386301,derycz scientific inc,1,0,0.0,0.0,20130222,mcpeak merrill a/,114420413010757,,male,17269525.0
+,,1386301,derycz scientific inc,1,1,0.0,0.0,20130222,peterson janice m,114420413010798,SEE REMARKS,female,17269525.0
+,,1386301,"research solutions, inc.",1,1,1.0,0.0,20130312,derycz peter,114420413014417,"CEO, President & Chairman",male,17269525.0
+55445.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20130522,urban alan louis,114420413031057,Chief Financial Officer,male,16932604.0
+5333.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20130522,peterson janice m,114420413031114,See Remarks,female,16932604.0
+,,1386301,"research solutions, inc.",1,1,1.0,0.0,20130522,derycz peter,114420413031149,"CEO, President & Chairman",male,16932604.0
+19568.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20130522,ahlberg scott,114420413031152,See Remarks,male,16932604.0
+46235.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20130910,ahlberg scott,114420413050026,See Remarks,male,16970465.0
+81278.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20130910,urban alan louis,114420413050016,Chief Financial Officer,male,16970465.0
+23666.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20130910,peterson janice m,114420413050020,See Remarks,female,16970465.0
 3613713.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20130910,derycz peter,114420413050022,"CEO, President & Chairman",male,16970465.0
-84721.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20140128,urban alan louis,114420414004547,Chief Financial Officer,male,17554729.0
-26535.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20140128,peterson janice m,114420414004548,See Remarks,female,17554729.0
 3618304.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20140128,derycz peter,114420414004549,"CEO, President & Chairman",male,17554729.0
-49678.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20140128,ahlberg scott,114420414004550,See Remarks,male,17554729.0
-55560.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20140520,ahlberg scott,114420414032653,See Remarks,male,17564164.0
-90603.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20140520,urban alan louis,114420414032655,See Remarks,male,17564164.0
+49678.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20140128,ahlberg scott,114420414004550,See Remarks,male,17554729.0
+26535.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20140128,peterson janice m,114420414004548,See Remarks,female,17554729.0
+84721.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20140128,urban alan louis,114420414004547,Chief Financial Officer,male,17554729.0
 3626147.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20140520,derycz peter,114420414032597,"CEO, President & Chairman",male,17564164.0
-31437.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20140520,peterson janice m,114420414032599,See remarks,female,17564164.0
-133353.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20140820,urban alan louis,114420414051574,See Remarks,male,17600242.0
+31437.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20140520,peterson janice m,114420414032599,See remarks,female,17564164.0
+55560.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20140520,ahlberg scott,114420414032653,See Remarks,male,17564164.0
+90603.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20140520,urban alan louis,114420414032655,See Remarks,male,17564164.0
+67187.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20140820,peterson janice m,114420414051739,See Remarks,female,17600242.0
 3683147.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20140820,derycz peter,114420414051572,"CEO, President & Chairman",male,17600242.0
-67187.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20140820,peterson janice m,114420414051739,See Remarks,female,17600242.0
-98310.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20140820,ahlberg scott,114420414051579,See Remarks,male,17600242.0
+98310.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20140820,ahlberg scott,114420414051579,See Remarks,male,17600242.0
+133353.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20140820,urban alan louis,114420414051574,See Remarks,male,17600242.0
 3000.0,15000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20141006,urban alan louis,114420414059784,See Remarks,male,17862742.0
 3688147.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20141007,derycz peter,114420414059970,"CEO, President & Chairman",male,17862742.0
 3695147.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20141010,derycz peter,114420414060560,"CEO, President & Chairman",male,17862742.0
 3699147.0,419620.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20141014,derycz peter,114420414060908,"CEO, President & Chairman",male,17862742.0
-84327.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20141112,peterson janice m,114420414067271,See Remarks,female,17862742.0
 135493.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20141112,urban alan louis,114420414067268,See Remarks,male,17862742.0
-115450.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20141112,ahlberg scott,114420414067282,See Remarks,male,17862742.0
+84327.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20141112,peterson janice m,114420414067271,See Remarks,female,17862742.0
 3622007.0,400000.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20141112,derycz peter,114420414067278,"CEO, President & Chairman",male,17862742.0
-700.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141128,mcpeak merrill a,114420414071387,,male,17862742.0
-5300.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141203,mcpeak merrill a,114420414072189,,male,17862742.0
-3624007.0,0.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20141204,derycz peter,114420414072437,"CEO, President & Chairman",male,17862742.0
-13900.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141205,mcpeak merrill a,114420414072652,,male,17862742.0
-16400.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141215,mcpeak merrill a,114420414073988,,male,17862742.0
-26400.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141217,mcpeak merrill a,114420414074582,,male,17862742.0
-28648.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141219,mcpeak merrill a,114420414075144,,male,17862742.0
-30028.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20141224,mcpeak merrill a,114420414075835,,male,17862742.0
-34628.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150224,mcpeak merrill a,114420415011760,,male,17971302.0
-44228.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150224,mcpeak merrill a,114420415011761,,male,17971302.0
-57108.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150225,mcpeak merrill a,114420415012045,,male,17971302.0
-77108.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150304,mcpeak merrill a,114420415014037,,male,17971302.0
+115450.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20141112,ahlberg scott,114420414067282,See Remarks,male,17862742.0
+700.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141128,mcpeak merrill a,114420414071387,,male,17862742.0
+5300.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141203,mcpeak merrill a,114420414072189,,male,17862742.0
+3624007.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20141204,derycz peter,114420414072437,"CEO, President & Chairman",male,17862742.0
+13900.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141205,mcpeak merrill a,114420414072652,,male,17862742.0
+16400.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141215,mcpeak merrill a,114420414073988,,male,17862742.0
+26400.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141217,mcpeak merrill a,114420414074582,,male,17862742.0
+28648.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141219,mcpeak merrill a,114420414075144,,male,17862742.0
+30028.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20141224,mcpeak merrill a,114420414075835,,male,17862742.0
+34628.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150224,mcpeak merrill a,114420415011760,,male,17971302.0
+44228.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150224,mcpeak merrill a,114420415011761,,male,17971302.0
+57108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150225,mcpeak merrill a,114420415012045,,male,17971302.0
+77108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150304,mcpeak merrill a,114420415014037,,male,17971302.0
 160493.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150312,urban alan louis,114420415015749,See Remarks,male,17971302.0
-3657340.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20150312,derycz peter,114420415015750,"CEO, President & Chairman",male,17971302.0
-109327.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20150312,peterson janice m,114420415015751,See Remarks,female,17971302.0
-140450.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150312,ahlberg scott,114420415015752,See Remarks,male,17971302.0
-3682175.0,0.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20150527,derycz peter,114420415033854,"CEO, President & Chairman",male,18075265.0
+3657340.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20150312,derycz peter,114420415015750,"CEO, President & Chairman",male,17971302.0
+140450.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20150312,ahlberg scott,114420415015752,See Remarks,male,17971302.0
+109327.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20150312,peterson janice m,114420415015751,See Remarks,female,17971302.0
 179118.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150527,urban alan louis,114420415033851,See Remarks,male,18075265.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150527,mcpeak merrill a,114420415033853,,male,18075265.0
-159075.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150527,ahlberg scott,114420415033855,See Remarks,male,18075265.0
-25000.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150527,ogilvie scott varde,114420415033856,,male,18075265.0
-127952.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20150527,peterson janice m,114420415033852,See Remarks,female,18075265.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150601,suess gregory,114420415034713,,male,18075265.0
-87108.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150618,mcpeak merrill a,114420415037877,,male,18075265.0
-6125.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150619,suess gregory,114420415038186,,male,18075265.0
-92108.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150622,mcpeak merrill a,114420415038395,,male,18075265.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,suess gregory,114420415040943,,male,18242125.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,regazzi john j,114420415040944,,male,18242125.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,mcpeak merrill a,114420415040945,,male,18242125.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,ogilvie scott varde,114420415040947,,male,18242125.0
+127952.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20150527,peterson janice m,114420415033852,See Remarks,female,18075265.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150527,mcpeak merrill a,114420415033853,,male,18075265.0
+3682175.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20150527,derycz peter,114420415033854,"CEO, President & Chairman",male,18075265.0
+159075.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20150527,ahlberg scott,114420415033855,See Remarks,male,18075265.0
+25000.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150527,ogilvie scott varde,114420415033856,,male,18075265.0
+0.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150601,suess gregory,114420415034713,,male,18075265.0
+87108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150618,mcpeak merrill a,114420415037877,,male,18075265.0
+6125.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150619,suess gregory,114420415038186,,male,18075265.0
+92108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150622,mcpeak merrill a,114420415038395,,male,18075265.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,mcpeak merrill a,114420415040945,,male,18242125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,ogilvie scott varde,114420415040947,,male,18242125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,suess gregory,114420415040943,,male,18242125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150702,regazzi john j,114420415040944,,male,18242125.0
 203118.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150806,urban alan louis,114420415046955,See Remarks,male,18242125.0
-151952.0,0.0,1386301,"research solutions, inc.",1,1,0.0,0.0,20150806,peterson janice m,114420415046959,See Remarks,female,18242125.0
-183075.0,0.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150806,ahlberg scott,114420415046965,See Remarks,male,18242125.0
-3636175.0,0.0,1386301,"research solutions, inc.",1,1,1.0,0.0,20150806,derycz peter,114420415047050,"CEO, President & Chairman",male,18242125.0
-102108.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150807,mcpeak merrill a,114420415047461,,male,18242125.0
-0.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150824,regazzi john j,114420415051517,,male,18242125.0
-50000.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150914,regazzi john j,114420415054884,,male,18394125.0
-92102.0,0.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20150917,mcpeak merrill a,114420415055538,,male,18394125.0
+3636175.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20150806,derycz peter,114420415047050,"CEO, President & Chairman",male,18242125.0
+151952.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20150806,peterson janice m,114420415046959,See Remarks,female,18242125.0
+203118.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20150806,urban alan louis,114420415046955,See Remarks,male,18242125.0
+151952.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20150806,peterson janice m,114420415046959,See Remarks,female,18242125.0
+183075.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20150806,ahlberg scott,114420415046965,See Remarks,male,18242125.0
+3636175.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20150806,derycz peter,114420415047050,"CEO, President & Chairman",male,18242125.0
+183075.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20150806,ahlberg scott,114420415046965,See Remarks,male,18242125.0
+102108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150807,mcpeak merrill a,114420415047461,,male,18242125.0
+102108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150807,mcpeak merrill a,114420415047461,,male,18242125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150824,regazzi john j,114420415051517,,male,18242125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150824,regazzi john j,114420415051517,,male,18242125.0
+50000.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150914,regazzi john j,114420415054884,,male,18394125.0
+50000.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150914,regazzi john j,114420415054884,,male,18394125.0
+92102.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150917,mcpeak merrill a,114420415055538,,male,18394125.0
+92102.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20150917,mcpeak merrill a,114420415055538,,male,18394125.0
+146852.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20151222,peterson janice m,114420415072403,See Remarks,female,18394125.0
+177475.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20151222,ahlberg scott,114420415072404,Chief Operating Officer,male,18394125.0
+194118.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20151222,urban alan louis,114420415072405,See Remarks,male,18394125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20151223,mcpeak merrill a,114420415072644,,male,18394125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20151223,ogilvie scott varde,114420415072646,,male,18394125.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20151223,regazzi john j,114420415072649,,male,18394125.0
+206975.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160208,urban alan louis,114420416079663,CFO & Secretary,male,18364827.0
+159709.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160208,peterson janice m,114420416079665,See Remarks,female,18364827.0
+190332.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20160208,ahlberg scott,114420416079669,Chief Operating Officer,male,18364827.0
+3653318.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20160208,derycz peter,114420416079667,CEO & President,male,18364827.0
+228545.0,18000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160226,urban alan louis,114420416084746,CFO & Secretary,male,18446255.0
+181279.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160226,peterson janice m,114420416084747,See Remarks,female,18446255.0
+3682073.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20160226,derycz peter,114420416084748,CEO & President,male,18446255.0
+211902.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20160226,ahlberg scott,114420416084749,Chief Operating Officer,male,18446255.0
+4785910.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20160303,bristol investment fund ltd,101968716005329,,male,18446255.0
+5000.0,15000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160303,urban alan louis,114420416085903,See Remarks,male,18446255.0
+102108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20160321,mcpeak merrill a,114420416089264,,male,18446255.0
+3602073.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20160321,derycz peter,114420416089266,CEO & President,male,18446255.0
+4822772.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20160322,bristol investment fund ltd,101968716005541,,male,18446255.0
+218902.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20160525,ahlberg scott,114420416104863,Chief Operating Officer,male,18582860.0
+3611406.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20160525,derycz peter,114420416104865,CEO & President,male,18582860.0
+235545.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160525,urban alan louis,114420416104868,See Remarks,male,18582860.0
+188279.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160525,peterson janice m,114420416104870,See Remarks,female,18582860.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20160525,cooper chad j.,114420416104861,,male,18582860.0
+229045.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160622,urban alan louis,114420416109333,See Remarks,male,18582860.0
+183179.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160622,peterson janice m,114420416109332,See Remarks,female,18582860.0
+3631406.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20160627,derycz peter,114420416110095,CEO & President,male,18582860.0
+75000.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20160627,regazzi john j,114420416110094,,male,18582860.0
+50000.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20160627,cooper chad j.,114420416110093,,male,18582860.0
+235045.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160627,urban alan louis,114420416110097,CFO & Secretary,male,18582860.0
+127108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20160627,mcpeak merrill a,114420416110098,,male,18582860.0
+187179.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160627,peterson janice m,114420416110099,See Remarks,female,18582860.0
+223902.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20160627,ahlberg scott,114420416110096,Chief Operating Officer,male,18582860.0
+203543.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160825,peterson janice m,114420416121222,See Remarks,female,23809593.0
+240266.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20160825,ahlberg scott,114420416121226,Chief Operating Officer,male,23809593.0
+3653224.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20160825,derycz peter,114420416121227,CEO & President,male,23809593.0
+251409.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160825,urban alan louis,114420416121228,CFO & Secretary,male,23809593.0
+199543.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20160922,peterson janice m,114420416124943,See Remarks,female,23913231.0
+239901.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20160922,urban alan louis,114420416124944,CFO & Secretary,male,23913231.0
+11500.0,315500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20161121,cooper chad j.,114420416135708,,male,23887723.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20161123,mcpeak merrill a,114420416136343,,male,23887723.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20161123,cooper chad j.,114420416136344,,male,23887723.0
+264901.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20161123,urban alan louis,114420416136342,See Remarks,male,23887723.0
+248599.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20161123,ahlberg scott,114420416136335,Chief Operating Officer,male,23887723.0
+193157.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20161123,palmer ian r,114420416136339,See Remarks,male,23887723.0
+204543.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20161123,peterson janice m,114420416136337,See Remarks,female,23887723.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20161123,regazzi john j,114420416136336,,male,23887723.0
+3659890.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20161123,derycz peter,114420416136341,CEO & President,male,23887723.0
+252201.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20161222,urban alan louis,114420416140957,See Remarks,male,23887723.0
+186657.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20161222,palmer ian r,114420416140960,See Remarks,male,23887723.0
+238499.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20161222,ahlberg scott,114420416140959,Chief Operating Officer,male,23887723.0
+3645190.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20161222,derycz peter,114420416140958,CEO & President,male,23887723.0
+194343.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20161222,peterson janice m,114420416140956,See Remarks,female,23887723.0
+196560.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170217,palmer ian r,114420417009781,See Remarks,male,23875188.0
+248402.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170217,ahlberg scott,114420417009772,Chief Operating Officer,male,23875188.0
+3656495.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20170217,derycz peter,114420417009770,CEO & President,male,23875188.0
+240680.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20170217,urban alan louis,114420417009807,See Remarks,male,23875188.0
+202822.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20170217,peterson janice m,114420417009908,See Remarks,female,23875188.0
+189310.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170322,palmer ian r,114420417016103,See Remarks,male,23875188.0
+251140.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20170515,urban alan louis,114420417027699,See Remarks,male,23925910.0
+213282.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20170515,peterson janice m,114420417027701,See Remarks,female,23925910.0
+3670442.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20170515,derycz peter,114420417027702,CEO & President,male,23925910.0
+258858.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170515,ahlberg scott,114420417027703,Chief Operating Officer,male,23925910.0
+199766.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170515,palmer ian r,114420417027700,See Remarks,male,23925910.0
+240358.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170622,ahlberg scott,114420417033699,Chief Operating Officer,male,23925910.0
+232640.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20170622,urban alan louis,114420417033700,See Remarks,male,23925910.0
+3645942.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20170622,derycz peter,114420417033697,CEO & President,male,23925910.0
+189266.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170622,palmer ian r,114420417033701,See Remarks,male,23925910.0
+195282.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20170622,peterson janice m,114420417033698,See Remarks,female,23925910.0
+232100.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170823,palmer ian r,114420417044801,See Remarks,male,23883145.0
+280469.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20170823,urban alan louis,114420417044803,See Remarks,male,23883145.0
+243111.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20170823,peterson janice m,114420417044806,See Remarks,female,23883145.0
+283192.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170823,ahlberg scott,114420417044811,Chief Operating Officer,male,23883145.0
+3708429.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20170823,derycz peter,114420417044813,CEO & President,male,23883145.0
+276592.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170921,ahlberg scott,114420417049120,Chief Operating Officer,male,24169792.0
+236711.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20170921,peterson janice m,114420417049118,See Remarks,female,24169792.0
+3699629.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20170921,derycz peter,114420417049119,CEO & President,male,24169792.0
+273869.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20170921,urban alan louis,114420417049116,CFO & Secretary,male,24169792.0
+225700.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20170921,palmer ian r,114420417049117,See Remarks,male,24169792.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20171003,ahlberg scott,114420417051276,Chief Operating Officer,male,24134992.0
+,,1386301,"research solutions, inc.",1,1,0.0,0.0,20171003,peterson janice m,114420417051277,See Remarks,female,24134992.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20171129,12 west capital management lp,90571817001006,,male,24134992.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20171201,mcpeak merrill a,114420417061835,,male,24134992.0
+284728.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20171201,ahlberg scott,114420417061826,Chief Operating Officer,male,24134992.0
+282005.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20171201,urban alan louis,114420417061828,CFO & Secretary,male,24134992.0
+244847.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20171201,peterson janice m,114420417061832,See Remarks,female,24134992.0
+3710604.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20171201,derycz peter,114420417061837,CEO & President,male,24134992.0
+233836.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20171201,palmer ian r,114420417061830,See Remarks,male,24134992.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20171201,regazzi john j,114420417061842,,male,24134992.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20171201,cooper chad j.,114420417061839,,male,24134992.0
+276705.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20171222,urban alan louis,114420417065140,CFO & Secretary,male,24134992.0
+3703604.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20171222,derycz peter,114420417065142,CEO & President,male,24134992.0
+214847.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20171222,peterson janice m,114420417065150,See Remarks,female,24134992.0
+229586.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20171222,palmer ian r,114420417065144,See Remarks,male,24134992.0
+278978.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20171222,ahlberg scott,114420417065147,Chief Operating Officer,male,24134992.0
+3657604.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180102,derycz peter,114420418000279,CEO & President,male,24147582.0
+3669789.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180212,derycz peter,114420418007430,CEO & President,male,24147582.0
+285735.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20180212,urban alan louis,114420418007429,CFO & Secretary,male,24147582.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20180212,olivier roy w,114420418007433,,male,24147582.0
+288008.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180212,ahlberg scott,114420418007432,Chief Operating Officer,male,24147582.0
+323000.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20180222,cooper chad j.,114420418010305,,male,24147582.0
+17783.0,323000.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20180226,cooper chad j.,114420418011012,,male,24147582.0
+26500.0,323000.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20180227,cooper chad j.,114420418011418,,male,24147582.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20180227,regazzi john j,114420418011423,,male,24147582.0
+3662039.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180322,derycz peter,114420418016510,CEO & President,male,24147582.0
+279885.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20180322,urban alan louis,114420418016512,CFO & Secretary,male,24147582.0
+281858.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180322,ahlberg scott,114420418016511,Chief Operating Officer,male,24147582.0
+288280.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20180511,urban alan louis,114420418027727,CFO & Secretary,male,23980383.0
+3673354.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180511,derycz peter,114420418027725,CEO & President,male,23980383.0
+290253.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180511,ahlberg scott,114420418027723,Chief Operating Officer,male,23980383.0
+3667804.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180622,derycz peter,114420418035386,CEO & President,male,23980383.0
+284080.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20180622,urban alan louis,114420418035408,CFO & Secretary,male,23980383.0
+285953.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180622,ahlberg scott,114420418035405,Chief Operating Officer,male,23980383.0
+3708144.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180813,derycz peter,114420418043879,CEO & President,male,24016999.0
+407969.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180813,nissan marc,174923318000002,Chief Technology Officer,male,24016999.0
+315882.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180813,ahlberg scott,114420418043881,Chief Operating Officer,male,24016999.0
+314009.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20180813,urban alan louis,114420418043880,CFO & Secretary,male,24016999.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180814,georgel yohann,174923918000002,Chief Marketing Officer,male,24016999.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180821,van erkel rogier,174924318000002,Chief Sales Officer,male,24016999.0
+400269.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180925,nissan marc,114420418050793,Chief Technology Officer,male,24186126.0
+305909.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20180925,urban alan louis,114420418050796,CFO & Secretary,male,24186126.0
+308182.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20180925,ahlberg scott,114420418050798,Chief Operating Officer,male,24186126.0
+3697444.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20180925,derycz peter,114420418050797,CEO & President,male,24186126.0
+3702121.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20181115,derycz peter,114420418060354,CEO & President,male,24155676.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20181115,mcpeak merrill a,114420418060358,,male,24155676.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20181115,regazzi john j,114420418060357,,male,24155676.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20181115,cooper chad j.,114420418060356,,male,24155676.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20181115,olivier roy w,114420418060355,,male,24155676.0
+309379.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20181115,urban alan louis,114420418060352,CFO & Secretary,male,24155676.0
+408739.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20181115,nissan marc,114420418060347,Chief Technology Officer,male,24155676.0
+311652.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20181115,ahlberg scott,114420418060345,Chief Operating Officer,male,24155676.0
+307552.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20181221,ahlberg scott,114420418066109,Chief Operating Officer,male,24155676.0
+406639.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20181221,nissan marc,114420418066106,Chief Technology Officer,male,24155676.0
+305279.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20181221,urban alan louis,114420418066104,CFO & Secretary,male,24155676.0
+3696621.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20181221,derycz peter,114420418066111,CEO & President,male,24155676.0
+308073.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20190208,urban alan louis,114420419005750,CFO & Secretary,male,24239013.0
+3700387.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20190208,derycz peter,114420419005751,CEO & President,male,24239013.0
+409433.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190208,nissan marc,114420419005752,Chief Technology Officer,male,24239013.0
+310346.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190208,ahlberg scott,114420419005753,Chief Operations Officer,male,24239013.0
+3692887.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20190322,derycz peter,114420419015583,CEO & President,male,24239013.0
+302473.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20190322,urban alan louis,114420419015584,CFO & Secretary,male,24239013.0
+304746.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190322,ahlberg scott,114420419015585,Chief Operating Officer,male,24239013.0
+407633.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190322,nissan marc,114420419015586,Chief Technology Officer,male,24239013.0
+509446.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190520,nissan marc,114420419027318,Chief Technology Officer,male,24334102.0
+3695331.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20190520,derycz peter,114420419027320,CEO & President,male,24334102.0
+304286.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20190520,urban alan louis,114420419027323,CFO & Secretary,male,24334102.0
+306559.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190520,ahlberg scott,114420419027324,Chief Operations Officer,male,24334102.0
+351559.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190529,ahlberg scott,114420419028709,Chief Operations Officer,male,24334102.0
+505346.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190624,nissan marc,114420419032114,Chief Technology Officer,male,24334102.0
+347459.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190624,ahlberg scott,114420419032112,Chief Operating Officer,male,24334102.0
+300186.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20190624,urban alan louis,114420419032113,CFO & Secretary,male,24334102.0
+3689881.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20190624,derycz peter,114420419032115,CEO & President,male,24334102.0
+3711581.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20190805,derycz peter,114420419037535,CEO & President,male,24375948.0
+521446.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190805,nissan marc,114420419037533,Chief Technology Officer,male,24375948.0
+316286.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20190805,urban alan louis,114420419037531,CFO & Secretary,male,24375948.0
+363559.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190805,ahlberg scott,114420419037529,Chief Operations Officer,male,24375948.0
+3701181.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20190924,derycz peter,114420419045796,CEO & President,male,24470255.0
+518596.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190924,nissan marc,114420419045794,Chief Technology Officer,male,24470255.0
+355809.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20190924,ahlberg scott,114420419045797,Chief Operating Officer,male,24470255.0
+308536.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20190924,urban alan louis,114420419045795,CFO & Secretary,male,24470255.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20191114,regazzi john j,110465919064454,,male,24441505.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20191114,cooper chad j.,110465919064453,,male,24441505.0
+521811.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20191114,nissan marc,110465919064455,Chief Technology Officer,male,24441505.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20191114,mcpeak merrill a,110465919064456,,male,24441505.0
+311751.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20191114,urban alan louis,110465919064452,CFO & Secretary,male,24441505.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20191114,olivier roy w,110465919064458,,male,24441505.0
+359024.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20191114,ahlberg scott,110465919064459,Chief Operations Officer,male,24441505.0
+3705514.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20191114,derycz peter,110465919064457,CEO & President,male,24441505.0
+3695514.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20191226,derycz peter,110465919076084,CEO & President,male,24441505.0
+341524.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20191226,ahlberg scott,110465919076083,Chief Operating Officer,male,24441505.0
+296751.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20191226,urban alan louis,110465919076082,CFO & Secretary,male,24441505.0
+368417.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200103,urban alan louis,110465920000725,CFO & Secretary,male,24475556.0
+3699389.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20200214,derycz peter,110465920021601,CEO & President,male,24547223.0
+344399.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200214,ahlberg scott,110465920021602,Chief Operations Officer,male,24547223.0
+371292.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200214,urban alan louis,110465920021603,CFO & Secretary,male,24547223.0
+524686.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200214,nissan marc,110465920021604,Chief Technology Officer,male,24547223.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200221,12 west capital management lp,90571820000273,,male,24547223.0
+307274.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200313,cooper chad j.,110465920033443,,male,24547223.0
+361292.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200324,urban alan louis,110465920037926,CFO  & Secretary,male,24547223.0
+337999.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200324,ahlberg scott,110465920037924,Chief Operating Officer,male,24547223.0
+3690639.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20200324,derycz peter,110465920037927,CEO & President,male,24547223.0
+304574.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200327,cooper chad j.,110465920039732,,male,24547223.0
+304342.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200401,cooper chad j.,110465920042009,,male,26034572.0
+304089.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200415,cooper chad j.,110465920047080,,male,26034572.0
+301789.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200421,cooper chad j.,110465920049309,,male,26034572.0
+280365.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200427,cooper chad j.,110465920051803,,male,26034572.0
+253178.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200429,cooper chad j.,110465920053556,,male,26034572.0
+251580.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200501,cooper chad j.,110465920055684,,male,26034572.0
+229372.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200505,cooper chad j.,110465920056755,,male,26034572.0
+223000.0,26500.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20200506,cooper chad j.,110465920057587,,male,26034572.0
+3695084.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20200513,derycz peter,110465920060996,CEO & President,male,26034572.0
+364590.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200513,urban alan louis,110465920060997,CFO & Secretary,male,26034572.0
+527984.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200513,nissan marc,110465920060998,Chief Technology Officer,male,26034572.0
+341297.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200513,ahlberg scott,110465920060995,Chief Operations Officer,male,26034572.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200529,12 west capital management lp,90571820000521,,male,26034572.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200602,12 west capital management lp,90571820000537,,male,26034572.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20200608,cooper chad j.,110465920070952,,male,26034572.0
+354190.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200609,urban alan louis,110465920071529,CFO & Secretary,male,26034572.0
+349590.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200612,urban alan louis,110465920072976,CFO & Secretary,male,26034572.0
+339590.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200623,urban alan louis,110465920076148,CFO & Secretary,male,26034572.0
+337197.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200623,ahlberg scott,110465920076149,Chief Operating Officer,male,26034572.0
+3689384.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20200623,derycz peter,110465920076147,CEO & President,male,26034572.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200626,12 west capital management lp,90571820000636,,male,26034572.0
+4699808.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200626,bristol investment fund ltd,168316820002093,,male,26034572.0
+4670337.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200630,bristol investment fund ltd,168316820002141,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200630,12 west capital management lp,90571820000674,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200702,12 west capital management lp,90571820000700,,male,26032263.0
+4622675.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200707,bristol investment fund ltd,168316820002213,,male,26032263.0
+4548930.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200720,bristol investment fund ltd,168316820002319,,male,26032263.0
+4348930.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200803,bristol investment fund ltd,168316820002476,,male,26032263.0
+3726584.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20200803,derycz peter,110465920089776,CEO & President,male,26032263.0
+367190.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200803,urban alan louis,110465920089771,CFO & Secretary,male,26032263.0
+590584.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200804,nissan marc,110465920090146,Chief Technology Officer,male,26032263.0
+376152.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200804,ahlberg scott,110465920090145,Chief Operating Officer,male,26032263.0
+4222375.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200806,bristol investment fund ltd,168316820002565,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200806,12 west capital management lp,90571820000831,,male,26032263.0
+4051734.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200811,bristol investment fund ltd,168316820002626,,male,26032263.0
+100.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200811,van erkel rogier,110465920093218,Chief Sales Officer,male,26032263.0
+3932681.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200820,bristol investment fund ltd,168316820002832,,male,26032263.0
+3806581.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200827,bristol investment fund ltd,168316820002884,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200903,12 west capital management lp,90571820000923,,male,26032263.0
+3734402.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200904,bristol investment fund ltd,168316820003054,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200908,12 west capital management lp,90571820000931,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200910,12 west capital management lp,90571820000939,,male,26032263.0
+3592966.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200911,bristol investment fund ltd,168316820003112,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200914,12 west capital management lp,90571820000949,,male,26032263.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200916,12 west capital management lp,90571820000957,,male,26032263.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200921,van erkel rogier,110465920107103,Chief Sales Officer,male,26207040.0
+3492966.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20200921,bristol investment fund ltd,168316820003213,,male,26207040.0
+3719084.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20200922,derycz peter,110465920107467,CEO & President,male,26207040.0
+370652.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20200922,ahlberg scott,110465920107468,Chief Operating Officer,male,26207040.0
+354690.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20200922,urban alan louis,110465920107465,CFO & Secretary,male,26207040.0
+3430861.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201008,bristol investment fund ltd,168316820003401,,male,26190713.0
+177108.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20201013,mcpeak merrill a,110465920114501,,male,26190713.0
+3359487.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201022,bristol investment fund ltd,168316820003518,,male,26190713.0
+3306678.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201102,bristol investment fund ltd,168316820003641,,male,26190713.0
+3726361.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20201118,derycz peter,110465920127007,CEO & President,male,26190713.0
+360089.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20201118,urban alan louis,110465920127006,CFO & Secretary,male,26190713.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20201118,cooper chad j.,110465920127003,,male,26190713.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20201118,mcpeak merrill a,110465920127002,,male,26190713.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20201118,van der heijden michiel,110465920127010,Chief Product Officer,male,26190713.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20201118,regazzi john j,110465920127005,,male,26190713.0
+595983.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20201118,nissan marc,110465920127008,Chief Technology Officer,male,26190713.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20201118,olivier roy w,110465920127004,,male,26190713.0
+376051.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20201118,ahlberg scott,110465920127009,Chief Operating Officer,male,26190713.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201125,12 west capital management lp,90571820001139,,male,26190713.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201130,12 west capital management lp,90571820001143,,male,26190713.0
+3273931.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201204,bristol investment fund ltd,168316820004181,,male,26190713.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201207,12 west capital management lp,90571820001151,,male,26190713.0
+3722361.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20201222,derycz peter,110465920138576,CEO & President,male,26190713.0
+373051.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20201222,ahlberg scott,110465920138577,Chief Operating Officer,male,26190713.0
+335922.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20201222,urban alan louis,110465920138575,CFO & Secretary,male,26190713.0
+2883931.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201223,bristol investment fund ltd,168316820004445,,male,26190713.0
+2582108.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20201231,bristol investment fund ltd,168316820004506,,male,26266008.0
+,,1386301,"research solutions, inc.",0,0,1.0,0.0,20210203,12 west capital management lp,90571821000128,,male,26266008.0
+,,1386301,"research solutions, inc.",0,0,0.0,1.0,20210208,12 west capital management lp,90571821000136,,male,26277679.0
+340540.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210212,urban alan louis,110465921021864,CFO & Secretary,male,26277679.0
+600601.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210212,nissan marc,110465921021875,Chief Technology Officer,male,26277679.0
+3728586.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210212,derycz peter,110465921021860,CEO & President,male,26277679.0
+377669.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210212,ahlberg scott,110465921021854,Chief Operating Officer,male,26277679.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210212,van der heijden michiel,110465921021857,Chief Product Officer,male,26277679.0
+374419.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210322,ahlberg scott,110465921039755,Chief Operating Officer,male,26277679.0
+337290.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210322,urban alan louis,110465921039757,CFO & Secretary,male,26277679.0
+3724336.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210322,derycz peter,110465921039758,CEO & President,male,26277679.0
+65000.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20210330,olivier roy w,110465921044056,Interim CEO & President,male,26277679.0
+,,1386301,"research solutions, inc.",0,0,0.0,1.0,20210405,cooper chad j.,110465921046561,,male,26352008.0
+344709.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210512,urban alan louis,110465921065371,CFO & Secretary,male,26352008.0
+381838.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210512,ahlberg scott,110465921065372,Chief Operating Officer,male,26352008.0
+608020.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210512,nissan marc,110465921065370,Chief Technology Officer,male,26352008.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210512,van der heijden michiel,110465921065369,Chief Product Officer,male,26352008.0
+3716336.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210513,derycz peter,110465921065436,Executive Chairman,male,26352008.0
+122500.0,75000.0,1386301,"research solutions, inc.",1,0,0.0,0.0,20210520,regazzi john j,110465921070048,,male,26352008.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20210608,robin eugene vlad,110465921078334,,male,26352008.0
+588020.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210608,nissan marc,110465921078432,Chief Technology Officer,male,26352008.0
+184608.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20210610,mcpeak merrill a,110465921079631,,male,26352008.0
+336509.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210610,urban alan louis,110465921079629,CFO & Secretary,male,26352008.0
+551020.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210610,nissan marc,110465921079630,Chief Technology Officer,male,26352008.0
+544520.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210614,nissan marc,110465921080861,Chief Technology Officer,male,26352008.0
+510992.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210616,nissan marc,110465921082160,Chief Technology Officer,male,26352008.0
+331509.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210616,urban alan louis,110465921082158,CFO & Secretary,male,26352008.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210621,nissan marc,110465921083688,Chief Technology Officer,male,26352008.0
+324009.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210621,urban alan louis,110465921083690,CFO & Secretary,male,26352008.0
+378538.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210621,ahlberg scott,110465921083691,Chief Operating Officer,male,26352008.0
+3718936.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210621,derycz peter,110465921083696,Executive Chairman,male,26352008.0
+3492647.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210708,derycz peter,110465921090369,Executive Chairman,male,26498215.0
+3452799.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210713,derycz peter,110465921091803,Executive Chairman,male,26498215.0
+3385734.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210716,derycz peter,110465921093181,Executive Chairman,male,26498215.0
+3343936.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210721,derycz peter,110465921094513,Executive Chairman,male,26498215.0
+3373997.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210811,derycz peter,110465921103594,Executive Chairman,male,26498215.0
+346312.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210811,urban alan louis,110465921103595,See Remarks,male,26498215.0
+83939.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20210811,olivier roy w,110465921103597,See Remarks,male,26498215.0
+531445.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210811,nissan marc,110465921103599,Chief Technology Officer,male,26498215.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210811,van der heijden michiel,110465921103600,Chief Product Officer,male,26498215.0
+402341.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210811,ahlberg scott,110465921103609,Chief Operating Officer,male,26498215.0
+340602.0,20000.0,1386301,"research solutions, inc.",0,1,0.0,0.0,20210921,urban alan louis,110465921117985,CFO & Secretary,male,26615484.0
+3368362.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20210921,derycz peter,110465921117986,Executive Chairman,male,26615484.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210921,nissan marc,110465921117987,Chief Technology Officer,male,26615484.0
+396631.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20210921,ahlberg scott,110465921117988,Chief Operating Officer,male,26615484.0
+100000.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20211006,nurthen william,110465921123552,CFO & Secretary,male,26594119.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20211025,hunt shane alan,110465921129501,Chief Customer Success Officer,male,26594119.0
+401846.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20211206,ahlberg scott,110465921146821,Chief Operating Officer,male,26594119.0
+98094.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20211206,olivier roy w,110465921146820,CEO & President,male,26594119.0
+532350.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20211206,nissan marc,110465921146819,Chief Technology Officer,male,26594119.0
+3375440.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20211206,derycz peter,110465921146818,Executive Chairman,male,26594119.0
+,,1386301,"research solutions, inc.",0,1,0.0,0.0,20211206,van der heijden michiel,110465921146817,Chief Product Officer,male,26594119.0
+2673.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20211210,robin eugene vlad,110465921148758,,male,26594119.0
+3372484.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20211222,derycz peter,110465921152740,Executive Chairman,male,26594119.0
+398851.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20211222,ahlberg scott,110465921152741,Chief Operating Officer,male,26594119.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20220210,mcpeak merrill a,110465922019586,,male,27103037.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20220210,regazzi john j,110465922019587,,male,27103037.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20220210,robin eugene vlad,110465922019588,,male,27103037.0
+6996.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220210,van der heijden michiel,110465922019589,Chief Product Officer,male,27103037.0
+112856.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20220210,olivier roy w,110465922019591,CEO & President,male,27103037.0
+3379865.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20220210,derycz peter,110465922019595,Executive Chairman,male,27103037.0
+537862.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220210,nissan marc,110465922019592,Chief Technology Officer,male,27103037.0
+105476.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220210,nurthen william,110465922019593,CFO & Secretary,male,27103037.0
+404363.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220210,ahlberg scott,110465922019594,Chief Operating Officer,male,27103037.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20220222,cooperman barbara j.,110465922025509,,female,27103037.0
+3376821.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20220321,derycz peter,110465922036222,Executive Chairman,male,27103037.0
+401321.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220321,ahlberg scott,110465922036223,Chief Operating Officer,male,27103037.0
+11007.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220511,van der heijden michiel,110465922058987,Chief Product Officer,male,27064215.0
+129434.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20220511,olivier roy w,110465922058986,CEO & President,male,27064215.0
+3340110.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20220511,derycz peter,110465922058980,Executive Chairman,male,27064215.0
+111626.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220511,nurthen william,110465922058982,CFO & Secretary,male,27064215.0
+107165.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220511,hunt shane alan,110465922058983,Chief Customer Success Officer,male,27064215.0
+544012.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220511,nissan marc,110465922058984,Chief Technology Officer,male,27064215.0
+407471.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220511,ahlberg scott,110465922058985,Chief Operating Officer,male,27064215.0
+3336710.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20220622,derycz peter,110465922073581,Executive Chairman,male,27064215.0
+404052.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220622,ahlberg scott,110465922073580,Chief Operating Officer,male,27064215.0
+131736.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20220623,olivier roy w,110465922073964,CEO & President,male,27064215.0
+234608.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20220810,mcpeak merrill a,110465922088882,,male,29487508.0
+112320.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220822,hunt shane alan,110465922093480,Chief Revenue Officer,male,29487508.0
+135337.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220822,nurthen william,110465922093481,CFO & Secretary,male,29487508.0
+3371349.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20220822,derycz peter,110465922093482,Executive Chairman,male,29487508.0
+433691.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220822,ahlberg scott,110465922093483,Chief Operating Officer,male,29487508.0
+211631.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20220822,olivier roy w,110465922093484,CEO & President,male,29487508.0
+3366619.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20220922,derycz peter,110465922102383,Chief Operating Officer,male,27334491.0
+427577.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20220922,ahlberg scott,110465922102378,Chief Operating Officer,male,27334491.0
+436227.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20221102,nurthen william,110465922114080,CFO & Secretary,male,27330878.0
+413351.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20221102,hunt shane alan,110465922114079,Chief Revenue Officer,male,27330878.0
+577577.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20221102,ahlberg scott,110465922114078,Chief Operating Officer,male,27330878.0
+711633.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20221102,olivier roy w,110465922114077,CEO & President,male,27330878.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20221209,mcpeak merrill a,110465922125783,,male,27330878.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20221209,regazzi john j,110465922125782,,male,27330878.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20221209,robin eugene vlad,110465922125781,,male,27330878.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20221209,cooperman barbara j.,110465922125779,,female,27330878.0
+3363358.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20221222,derycz peter,110465922129534,Executive Chairman,male,27330878.0
+574230.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20221222,ahlberg scott,110465922129535,Chief Operating Officer,male,27330878.0
+426694.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20221222,nurthen william,110465922129536,CFO & Secretary,male,27330878.0
+590939.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230103,ahlberg scott,110465923000331,Chief Operating Officer,male,29154737.0
+3355858.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20230105,derycz peter,110465923001367,Executive Chairman,male,29154737.0
+3321858.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20230111,derycz peter,110465923003097,Executive Chairman,male,29154737.0
+284608.0,,1386301,"research solutions, inc.",1,0,0.0,0.0,20230117,mcpeak merrill a,110465923004393,,male,29154737.0
+603454.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230207,ahlberg scott,110465923011683,Chief Operating Officer,male,29164809.0
+3336390.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20230213,derycz peter,110465923019584,Executive Chairman,male,29164809.0
+3332781.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20230321,derycz peter,110465923035206,Executive Chairman,male,29164809.0
+709051.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20230321,olivier roy w,110465923035207,CEO & President,male,29164809.0
+599859.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230321,ahlberg scott,110465923035208,Chief Operating Officer,male,29164809.0
+423695.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230321,nurthen william,110465923035209,CFO & Secretary,male,29164809.0
+706641.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20230622,olivier roy w,110465923073903,CEO & President,male,29500764.0
+3329822.0,,1386301,"research solutions, inc.",1,1,1.0,0.0,20230622,derycz peter,110465923073906,Executive Chairman,male,29500764.0
+421068.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230622,nurthen william,110465923073908,CFO & Secretary,male,29500764.0
+596516.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230622,ahlberg scott,110465923073910,Chief Operating Officer,male,29500764.0
+411434.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230622,hunt shane alan,110465923073904,Chief Revenue Officer,male,29500764.0
+591376.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230922,ahlberg scott,110465923103215,Chief Operating Officer,male,29596086.0
+699118.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20230922,olivier roy w,110465923103214,CEO & President,male,29596086.0
+416059.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230922,nurthen william,110465923103218,CFO & Secretary,male,29596086.0
+410503.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20230922,hunt shane alan,110465923103216,Chief Revenue Officer,male,29596086.0
+3303322.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20231114,derycz peter,93979823000002,,male,29624085.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20231208,murphy jeremy,110465923124807,,male,29624085.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20231208,cooperman barbara j.,110465923124794,,female,29624085.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20231208,regazzi john j,110465923124796,,male,29624085.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20231208,mcpeak merrill a,110465923124795,,male,29624085.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20231208,gayron kenneth l,110465923124808,,male,29624085.0
+466059.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20231212,nurthen william,110465923125360,CFO & Secretary,male,29624085.0
+589010.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20231222,ahlberg scott,110465923128913,Chief Operating Officer,male,29624085.0
+409950.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20231222,hunt shane alan,110465923128915,Chief Revenue Officer,male,29624085.0
+463569.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20231222,nurthen william,110465923128918,CFO & Secretary,male,29624085.0
+696026.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20231222,olivier roy w,110465923128912,CEO & President,male,29624085.0
+3233962.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20231222,derycz peter,168316823009074,,male,29624085.0
+3206757.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20231228,derycz peter,168316823009133,,male,29624085.0
+3195408.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20240104,derycz peter,168316824000089,,male,32619598.0
+3101208.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20240109,derycz peter,168316824000164,,male,32619598.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20240112,cooperman barbara j.,110465924003718,,female,32619598.0
+3088297.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20240116,derycz peter,168316824000318,,male,32619598.0
+3066908.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20240122,derycz peter,168316824000359,,male,32619598.0
+3025082.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20240124,derycz peter,168316824000416,,male,32619598.0
+386995.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240321,hunt shane alan,110465924037470,Chief Revenue Officer,male,32620507.0
+434097.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240321,nurthen william,110465924037473,CFO & Secretary,male,32620507.0
+571981.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240321,ahlberg scott,110465924037471,Chief Operating Officer,male,32620507.0
+663761.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20240321,olivier roy w,110465924037472,CEO & President,male,32620507.0
+2955587.0,,1386301,"research solutions, inc.",0,0,1.0,0.0,20240325,derycz peter,168316824001659,,male,32620507.0
+386282.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240624,hunt shane alan,110465924074313,Chief Revenue Officer,male,32282039.0
+659808.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20240624,olivier roy w,110465924074322,CEO & President,male,32282039.0
+430273.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240624,nurthen william,110465924074318,CFO & Secretary,male,32282039.0
+569218.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240624,ahlberg scott,110465924074316,Chief Operating Officer,male,32282039.0
+427408.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240924,nurthen william,110465924102371,CFO & Secretary,male,32554568.0
+567381.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240924,ahlberg scott,110465924102370,Chief Operating Officer,male,32554568.0
+385752.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20240924,hunt shane alan,110465924102369,Chief Revenue Officer,male,32554568.0
+656833.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20240924,olivier roy w,110465924102366,CEO & President,male,32554568.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20241113,murphy jeremy,110465924117864,,male,32513172.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20241113,regazzi john j,110465924117865,,male,32513172.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20241113,gayron kenneth l,110465924117868,,male,32513172.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20241113,mcpeak merrill a,110465924117869,,male,32513172.0
+,,1386301,"research solutions, inc.",1,0,0.0,0.0,20241113,cooperman barbara j.,110465924117870,,female,32513172.0
+340000.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20241114,cohen sefton,204478724000002,Chief Revenue Officer,male,32513172.0
+654847.0,,1386301,"research solutions, inc.",1,1,0.0,0.0,20241223,olivier roy w,110465924131431,CEO & President,male,32513172.0
+566462.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20241223,ahlberg scott,110465924131427,Chief Operating Officer,male,32513172.0
+425204.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20241223,nurthen william,110465924131429,CFO & Secretary,male,32513172.0
+315019.0,,1386301,"research solutions, inc.",0,1,0.0,0.0,20241223,cohen sefton,110465924131428,Chief Revenue Officer,male,32513172.0

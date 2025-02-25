@@ -1,26 +1,492 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-4736.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20140613,de leener pierre-marie,120919114041310,,male,37270000.0
-4736.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20140613,cote jeffrey j,120919114041342,,male,37270000.0
-9736.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20140818,cote jeffrey j,138296314000046,,male,48769567.0
-10000.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20140819,stasse david phillip,138296314000050,"VP, Treasury & Inv. Relations",male,48769567.0
-10000.0,0.0,1519061,trinseo s.a.,1,1,0.0,0.0,20140819,pappas christopher d,138296314000048,President and CEO,male,48769567.0
-10000.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20141125,de leener pierre-marie,120919114071184,,male,48769567.0
-9785.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,denton e. jeffery,120919115021938,See Remarks,male,48770000.0
-20673.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,feenan john a,120919115021918,See Remarks,male,48770000.0
-24626.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,pugh martin,120919115021919,See Remarks,male,48770000.0
-18934.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,stasse david phillip,120919115021920,See Remarks,male,48770000.0
-125776.0,0.0,1519061,trinseo s.a.,1,1,0.0,0.0,20150303,pappas christopher d,120919115021925,President and CEO,male,48770000.0
-15050.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,horner marilyn n,120919115021929,See Remarks,female,48770000.0
-10061.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,chaclas angelo n.,120919115021930,See Remarks,male,48770000.0
-4847.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150303,maxey catherine c.,120919115021933,See Remarks,female,48770000.0
-30626.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150317,pugh martin,120919115027137,See Remarks,male,48769567.0
-3789.0,10000.0,1519061,trinseo s.a.,1,0,0.0,0.0,20150615,de leener pierre-marie,110465915045424,,male,48770000.0
-9578.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20150615,cote jeffrey j,110465915045427,,male,48770000.0
-3236.0,37269567.0,1519061,trinseo s.a.,1,0,1.0,0.0,20150629,zide stephen m,120919115057214,,male,48770000.0
-3236.0,37269567.0,1519061,trinseo s.a.,1,0,1.0,0.0,20150629,plantevin michel,120919115057227,,male,48770000.0
-3236.0,37269567.0,1519061,trinseo s.a.,1,0,1.0,0.0,20150629,chu brian,120919115057181,,male,48770000.0
-12814.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20150629,cote jeffrey j,162982115000001,,male,48770000.0
-7025.0,10000.0,1519061,trinseo s.a.,1,0,0.0,0.0,20150629,de leener pierre-marie,142313715000001,,male,48770000.0
-0.0,0.0,1519061,trinseo s.a.,0,1,0.0,0.0,20150629,stasse david phillip,144165715000001,VP -Treasury/IR,male,48770000.0
-3236.0,37269567.0,1519061,trinseo s.a.,1,0,1.0,0.0,20150629,meisel seth,120919115057207,,male,48770000.0
-3236.0,0.0,1519061,trinseo s.a.,1,0,0.0,0.0,20150629,misheff donald t,162982115000002,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,0,0,20140613,de leener pierre-marie,120919114041310,,male,37270000.0
+,,1519061,trinseo s.a.,1,0,0,0,20140613,cote jeffrey j,120919114041342,,male,37270000.0
+,,1519061,trinseo s.a.,1,0,0,0,20140818,cote jeffrey j,138296314000046,,male,48769567.0
+,,1519061,trinseo s.a.,0,1,0,0,20140819,stasse david phillip,138296314000050,"VP, Treasury & Inv. Relations",male,48769567.0
+,,1519061,trinseo s.a.,1,1,0,0,20140819,pappas christopher d,138296314000048,President and CEO,male,48769567.0
+,,1519061,trinseo s.a.,1,0,0,0,20141125,de leener pierre-marie,120919114071184,,male,48769567.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,maxey catherine c.,120919115021933,See Remarks,female,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,horner marilyn n,120919115021929,See Remarks,female,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,chaclas angelo n.,120919115021930,See Remarks,male,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,denton e. jeffery,120919115021938,See Remarks,male,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,feenan john a,120919115021918,See Remarks,male,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,pugh martin,120919115021919,See Remarks,male,48770000.0
+,,1519061,trinseo s.a.,1,1,0,0,20150303,pappas christopher d,120919115021925,President and CEO,male,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150303,stasse david phillip,120919115021920,See Remarks,male,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150317,pugh martin,120919115027137,See Remarks,male,48769567.0
+,,1519061,trinseo s.a.,1.0,0.0,0.0,0.0,20150615,de leener pierre-marie,110465915045424,,male,48770000.0
+,,1519061,trinseo s.a.,1.0,0.0,0.0,0.0,20150615,cote jeffrey j,110465915045427,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,0,0,20150629,misheff donald t,162982115000002,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,1,0,20150629,meisel seth,120919115057207,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,1,0,20150629,zide stephen m,120919115057214,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,1,0,20150629,plantevin michel,120919115057227,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,0,0,20150629,de leener pierre-marie,142313715000001,,male,48770000.0
+,,1519061,trinseo s.a.,0,1,0,0,20150629,stasse david phillip,144165715000001,VP -Treasury/IR,male,48770000.0
+,,1519061,trinseo s.a.,1,0,1,0,20150629,chu brian,120919115057181,,male,48770000.0
+,,1519061,trinseo s.a.,1,0,0,0,20150629,cote jeffrey j,162982115000001,,male,48770000.0
+,,1519061,trinseo s.a.,1,1,0,0,20160224,pappas christopher d,117911016020053,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,pugh martin,117911016020055,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,leib ryan j,117911016020065,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,stasse david phillip,117911016020064,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,maxey catherine c.,117911016020063,See Remarks,female,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,horner marilyn n,117911016020062,SVP - Human Resources,female,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,denton e. jeffery,117911016020061,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,yarkadas hayati,117911016020060,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,chaclas angelo n.,117911016020056,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160224,stedman timothy m,117911016020058,See Remarks,male,48778000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160328,zide stephen m,89924316016677,,male,48777934.0
+,,1519061,trinseo s.a.,1,0,1,0,20160328,hauser felix,89924316016676,,male,48777934.0
+,,1519061,trinseo s.a.,1,0,1,0,20160328,vasseur aurelien,89924316016678,,male,48777934.0
+,,1519061,trinseo s.a.,1,0,1,0,20160328,thomas stephen f.,89924316016679,,male,48777934.0
+,,1519061,trinseo s.a.,1,0,1,0,20160328,plantevin michel,89924316016681,,male,48777934.0
+,,1519061,trinseo s.a.,0,1,0,0,20160516,denton e. jeffery,117911016024744,See Remarks,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160516,vasseur aurelien,89924316020089,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160516,hauser felix,89924316020084,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160516,plantevin michel,89924316020081,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160516,zide stephen m,89924316020076,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160516,thomas stephen f.,89924316020071,,male,47178000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160613,yarkadas hayati,117911016026369,See Remarks,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160624,plantevin michel,89924316023558,,male,47178000.0
+,,1519061,trinseo s.a.,0,1,0,0,20160624,niziolek barry j,117911016026881,EVP & Chief Financial Officer,male,47178000.0
+,,1519061,trinseo s.a.,1,0,0,0,20160624,misheff donald t,117911016026882,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,0,0,20160624,de leener pierre-marie,117911016026883,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160624,hauser felix,89924316023555,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160624,thomas stephen f.,89924316023556,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160624,zide stephen m,89924316023557,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,0,0,20160624,cote jeffrey j,117911016026884,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160628,zide stephen m,89924316023756,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160628,plantevin michel,89924316023757,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,0,0,20160628,misheff donald t,117911016027002,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,0,0,20160628,de leener pierre-marie,117911016027003,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,0,0,20160628,cote jeffrey j,117911016027001,,male,47178000.0
+,,1519061,trinseo s.a.,1,0,1,0,20160816,hauser felix,89924316027277,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160816,vasseur aurelien,89924316027281,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160816,plantevin michel,89924316027284,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160816,zide stephen m,89924316027283,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160816,thomas stephen f.,89924316027282,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160927,thomas stephen f.,89924316030138,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160927,plantevin michel,89924316030140,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160927,zide stephen m,89924316030139,,male,46406333.0
+,,1519061,trinseo s.a.,1,0,1,0,20160927,springham ruth,89924316030135,,female,46406333.0
+,,1519061,trinseo s.a.,1,0,0,0,20160929,martens philip r,117911016030086,,male,46406333.0
+,,1519061,trinseo s.a.,1,1,0,0,20170117,pappas christopher d,117911017000971,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170214,pappas christopher d,117911017002383,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,denton e. jeffery,117911017002809,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,leib ryan j,117911017002817,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,maxey catherine c.,117911017002812,See Remarks,female,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,niziolek barry j,117911017002796,EVP & Chief Financial Officer,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,stedman timothy m,117911017002798,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,yarkadas hayati,117911017002800,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170221,pappas christopher d,117911017002794,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,horner marilyn n,117911017002803,SVP - Human Resources,female,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,chaclas angelo n.,117911017002806,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170221,stasse david phillip,117911017002821,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170303,pugh martin,117911017003811,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170306,chaclas angelo n.,117911017004028,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170306,stasse david phillip,117911017004025,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170306,leib ryan j,117911017004026,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170306,horner marilyn n,117911017004027,SVP - Human Resources,female,44300000.0
+,,1519061,trinseo s.a.,0,1,0,0,20170307,denton e. jeffery,117911017004099,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,1,0,0,0,20170308,de leener pierre-marie,117911017004267,,male,44300000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170314,pappas christopher d,117911017004555,See Remarks,male,44300000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170418,pappas christopher d,117911017006035,See Remarks,male,44068000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170425,pappas christopher d,117911017006190,See Remarks,male,44068000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170503,pappas christopher d,117911017006500,See Remarks,male,43992047.0
+,,1519061,trinseo s.a.,1,1,0,0,20170516,pappas christopher d,117911017007296,See Remarks,male,43992047.0
+,,1519061,trinseo s.a.,1,1,0,0,20170605,pappas christopher d,117911017008597,See Remarks,male,43992047.0
+,,1519061,trinseo s.a.,1,1,0,0,20170614,pappas christopher d,117911017009081,See Remarks,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170623,de leener pierre-marie,117911017009532,,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170623,misheff donald t,117911017009533,,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170623,alvarado joseph,117911017009534,,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170623,johnson klynne,117911017009535,,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170623,cote jeffrey j,117911017009536,,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170623,martens philip r,117911017009531,,male,43992047.0
+,,1519061,trinseo s.a.,1,0,0,0,20170626,zide stephen m,89924317017240,,male,43992047.0
+,,1519061,trinseo s.a.,1,1,0,0,20170706,pappas christopher d,117911017010172,See Remarks,male,43733000.0
+,,1519061,trinseo s.a.,1,1,0,0,20170804,pappas christopher d,117911017011132,See Remarks,male,43772953.0
+,,1519061,trinseo s.a.,1,0,0,0,20170901,cote jeffrey j,117911017011963,,male,43772953.0
+,,1519061,trinseo s.a.,0,1,0,0,20170906,stedman timothy m,117911017012099,See Remarks,male,43772953.0
+,,1519061,trinseo s.a.,1,1,0,0,20170906,pappas christopher d,117911017012100,See Remarks,male,43772953.0
+,,1519061,trinseo s.a.,1,0,0,0,20170928,martens philip r,117911017012754,,male,43772953.0
+,,1519061,trinseo s.a.,1,1,0,0,20171113,pappas christopher d,117911017014022,See Remarks,male,43704689.0
+,,1519061,trinseo s.a.,0,1,0,0,20171113,stasse david phillip,117911017014023,See Remarks,male,43704689.0
+,,1519061,trinseo s.a.,0,1,0,0,20180201,niziolek barry j,117911018001405,EVP & Chief Financial Officer,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,chaclas angelo n.,117911018002903,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,maxey catherine c.,117911018002918,See Remarks,female,43400000.0
+,,1519061,trinseo s.a.,1,1,0,0,20180226,pappas christopher d,117911018002902,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,horner marilyn n,117911018002905,SVP - Human Resources,female,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,niziolek barry j,117911018002907,EVP & Chief Financial Officer,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,stedman timothy m,117911018002908,SVP & Business President,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,yarkadas hayati,117911018002909,SVP & Business President,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,stasse david phillip,117911018002910,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,leib ryan j,117911018002911,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180226,denton e. jeffery,117911018002916,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180301,leib ryan j,117911018003157,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,1,1,0,0,20180301,pappas christopher d,117911018003148,President and CEO,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180301,chaclas angelo n.,117911018003151,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180301,horner marilyn n,117911018003153,SVP - Human Resources,female,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180301,denton e. jeffery,117911018003154,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180301,maxey catherine c.,117911018003155,See Remarks,female,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180301,stasse david phillip,117911018003156,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180308,leib ryan j,117911018003891,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180308,horner marilyn n,117911018003892,SVP - Human Resources,female,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180314,chaclas angelo n.,117911018004313,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180314,denton e. jeffery,117911018004312,See Remarks,male,43400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20180518,stasse david phillip,117911018007118,See Remarks,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,de leener pierre-marie,117911018009010,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,cote jeffrey j,117911018009009,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,johnson klynne,117911018009011,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,martens philip r,117911018009012,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,misheff donald t,117911018009013,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,steinmetz henri,117911018009014,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,zide stephen m,117911018009015,,male,43177966.0
+,,1519061,trinseo s.a.,1,0,0,0,20180625,alvarado joseph,117911018009008,,male,43177966.0
+,,1519061,trinseo s.a.,0,1,0,0,20180810,keenan catherine c.,117911018010492,See Remarks,female,42599676.0
+,,1519061,trinseo s.a.,0,1,0,0,20180918,stedman timothy m,117911018011521,SVP & Business President,male,42599676.0
+,,1519061,trinseo s.a.,0,1,0,0,20180918,yarkadas hayati,117911018011522,SVP & Business President,male,42599676.0
+,,1519061,trinseo s.a.,0,1,0,0,20180918,stasse david phillip,117911018011523,See Remarks,male,42599676.0
+,,1519061,trinseo s.a.,1,0,0,0,20181204,zide stephen m,117911018013431,,male,42320717.0
+,,1519061,trinseo s.a.,0,1,0,0,20181210,niziolek barry j,117911018013649,EVP & Chief Financial Officer,male,42320717.0
+,,1519061,trinseo s.a.,1,1,0,0,20190226,pappas christopher d,117911019002669,President and CEO,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,chaclas angelo n.,117911019002670,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,stedman timothy m,117911019002672,SVP & Business President,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,yarkadas hayati,117911019002673,SVP & Business President,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,denton e. jeffery,117911019002674,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,stasse david phillip,117911019002675,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,leib ryan j,117911019002677,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190226,keenan catherine c.,117911019002676,See Remarks,female,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,stasse david phillip,117911019002842,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,keenan catherine c.,117911019002841,See Remarks,female,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,leib ryan j,117911019002843,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,denton e. jeffery,117911019002840,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,heezen alice,117911019002839,SVP - Human Resources,female,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,chaclas angelo n.,117911019002838,See Remarks,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,yarkadas hayati,117911019002837,SVP & Business President,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,stedman timothy m,117911019002836,SVP & Business President,male,41600000.0
+,,1519061,trinseo s.a.,1,1,0,0,20190228,pappas christopher d,117911019002834,President and CEO,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190228,niziolek barry j,117911019002835,EVP & Chief Financial Officer,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190306,bozich frank a,117911019003463,President and CEO,male,41600000.0
+,,1519061,trinseo s.a.,0,1,0,0,20190510,keenan catherine c.,117911019005900,See Remarks,female,40831125.0
+,,1519061,trinseo s.a.,0,1,0,0,20190603,keenan catherine c.,117911019007052,See Remarks,female,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,martens philip r,117911019007811,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,johnson klynne,117911019007810,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,zide stephen m,117911019007815,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,de leener pierre-marie,117911019007809,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,cote jeffrey j,117911019007808,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,alvarado joseph,117911019007807,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,misheff donald t,117911019007812,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,pappas christopher d,117911019007813,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190618,steinmetz henri,117911019007814,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,cote jeffrey j,117911019008113,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,alvarado joseph,117911019008112,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,de leener pierre-marie,117911019008114,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,johnson klynne,117911019008115,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,martens philip r,117911019008116,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,misheff donald t,117911019008117,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,steinmetz henri,117911019008118,,male,40831125.0
+,,1519061,trinseo s.a.,1,0,0,0,20190625,zide stephen m,117911019008119,,male,40831125.0
+,,1519061,trinseo s.a.,1,1,0,0,20190816,bozich frank a,117911019009574,President and CEO,male,40200697.0
+,,1519061,trinseo s.a.,0,1,0,0,20191216,chaclas angelo n.,117911019012758,See Remarks,male,39179801.0
+,,1519061,trinseo s.a.,1,0,0,0,20191216,pappas christopher d,117911019012761,,male,39179801.0
+,,1519061,trinseo s.a.,1,0,0,0,20200123,pappas christopher d,117911020000727,,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,stedman timothy m,117911020001759,SVP & Business President,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,chaclas angelo n.,117911020001752,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,denton e. jeffery,117911020001753,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,heezen alice,117911020001754,SVP - Human Resources,female,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,leib ryan j,117911020001756,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,skeete bernard m,117911020001757,"VP, CAO and Global Controller",male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,thomas timothy j,117911020001760,Vice President,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,stasse david phillip,117911020001758,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200218,keenan catherine c.,117911020001755,See Remarks,female,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,skeete bernard m,117911020002462,"VP, CAO and Global Controller",male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,denton e. jeffery,117911020002469,VP - Supply Chain Services,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,keenan catherine c.,117911020002467,See Remarks,female,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,heezen alice,117911020002466,SVP - Human Resources,female,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,chaclas angelo n.,117911020002465,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,leib ryan j,117911020002464,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,stasse david phillip,117911020002463,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,stedman timothy m,117911020002461,See remarks,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200227,thomas timothy j,117911020002459,Vice President,male,39000000.0
+,,1519061,trinseo s.a.,1,1,0,0,20200227,bozich frank a,117911020002458,President and CEO,male,39000000.0
+,,1519061,trinseo s.a.,1,1,0,0,20200310,bozich frank a,117911020003394,President and CEO,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200310,stasse david phillip,117911020003393,See Remarks,male,39000000.0
+,,1519061,trinseo s.a.,1,0,0,0,20200311,steinmetz henri,117911020003480,,male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200311,skeete bernard m,117911020003462,"VP, CAO and Global Controller",male,39000000.0
+,,1519061,trinseo s.a.,0,1,0,0,20200423,schewe rainer,117911020005056,VP - Supply Chain Services,male,38200000.0
+7814044.0,,1519061,trinseo s.a.,0,0,1,0,20200605,m&g investment management ltd,156761920011784,,male,38238977.0
+7804044.0,,1519061,trinseo s.a.,0,0,1,0,20200608,m&g investment management ltd,156761920011836,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,steinmetz henri,117911020007236,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,lin sandra beach,117911020007233,,female,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,zide stephen m,117911020007227,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,tomkins mark e,117911020007228,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,pappas christopher d,117911020007229,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,misheff donald t,117911020007230,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,martens philip r,117911020007231,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,johnson klynne,117911020007232,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,de leener pierre-marie,117911020007234,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,cote jeffrey j,117911020007235,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200611,alvarado joseph,117911020007237,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,zide stephen m,117911020007632,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,alvarado joseph,117911020007625,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,cote jeffrey j,117911020007626,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,de leener pierre-marie,117911020007627,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,pappas christopher d,117911020007633,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,martens philip r,117911020007629,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,johnson klynne,117911020007628,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,misheff donald t,117911020007630,,male,38238977.0
+,,1519061,trinseo s.a.,1,0,0,0,20200619,steinmetz henri,117911020007631,,male,38238977.0
+7804044.0,,1519061,trinseo s.a.,0,0,1,0,20200715,m&g investment management ltd,156761920013310,,male,38300000.0
+7799044.0,,1519061,trinseo s.a.,0,0,1,0,20200812,m&g investment management ltd,156761920014926,,male,38268724.0
+7789044.0,,1519061,trinseo s.a.,0,0,1,0,20201119,m&g investment management ltd,156761920020084,,male,38310303.0
+7787044.0,,1519061,trinseo s.a.,0,0,1,0,20201125,m&g investment management ltd,156761920020351,,male,38310303.0
+7785044.0,,1519061,trinseo s.a.,0,0,1,0,20201125,m&g investment management ltd,156761920020352,,male,38310303.0
+7782044.0,,1519061,trinseo s.a.,0,0,1,0,20201203,m&g investment management ltd,156761920020601,,male,38310303.0
+7780044.0,,1519061,trinseo s.a.,0,0,1,0,20201204,m&g investment management ltd,156761920020641,,male,38310303.0
+7774044.0,,1519061,trinseo s.a.,0,0,1,0,20201207,m&g investment management ltd,156761920020676,,male,38310303.0
+7771044.0,,1519061,trinseo s.a.,0,0,1,0,20201214,m&g investment management ltd,156761920021027,,male,38310303.0
+7768044.0,,1519061,trinseo s.a.,0,0,1,0,20201218,m&g investment management ltd,156761920021325,,male,38310303.0
+7765044.0,,1519061,trinseo s.a.,0,0,1,0,20201228,m&g investment management ltd,156761920021577,,male,38310303.0
+7757044.0,,1519061,trinseo s.a.,0,0,1,0,20210106,m&g investment management ltd,156761921000465,,male,38400000.0
+7747044.0,,1519061,trinseo s.a.,0,0,1,0,20210107,m&g investment management ltd,156761921000698,,male,38400000.0
+7745044.0,,1519061,trinseo s.a.,0,0,1,0,20210112,m&g investment management ltd,156761921000899,,male,38400000.0
+7739044.0,,1519061,trinseo s.a.,0,0,1,0,20210113,m&g investment management ltd,156761921000957,,male,38400000.0
+7736044.0,,1519061,trinseo s.a.,0,0,1,0,20210115,m&g investment management ltd,156761921001052,,male,38400000.0
+7733044.0,,1519061,trinseo s.a.,0,0,1,0,20210122,m&g investment management ltd,156761921001358,,male,38400000.0
+7731044.0,,1519061,trinseo s.a.,0,0,1,0,20210129,m&g investment management ltd,156761921001695,,male,38400000.0
+7728044.0,,1519061,trinseo s.a.,0,0,1,0,20210202,m&g investment management ltd,156761921001933,,male,38400000.0
+7725044.0,,1519061,trinseo s.a.,0,0,1,0,20210208,m&g investment management ltd,156761921002380,,male,38400000.0
+7722044.0,,1519061,trinseo s.a.,0,0,1,0,20210209,m&g investment management ltd,156761921002539,,male,38400000.0
+7720044.0,,1519061,trinseo s.a.,0,0,1,0,20210212,m&g investment management ltd,156761921003357,,male,38400000.0
+7714044.0,,1519061,trinseo s.a.,0,0,1,0,20210217,m&g investment management ltd,156761921004184,,male,38400000.0
+,,1519061,trinseo s.a.,1,1,0,0,20210219,bozich frank a,117911021001983,CEO and President,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,chaclas angelo n.,117911021001987,"SVP, CLO, CCO & Corp. Sec.",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,schewe rainer,117911021001975,"VP, Supply Chain Services",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,lanning andre,117911021001976,"VP, Strategy, Corp Dev & Mktg",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,joly nicolas,117911021001977,"VP, Plastics & Feedstocks",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,reverberi francesca,117911021001978,"VP, Eng Mtrls & Synth Rubber",female,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,ni james mingyu,117911021001979,"VP, Latex Binders",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,skeete bernard m,117911021001980,"VP, CAO and Global Controller",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,stasse david phillip,117911021001981,EVP and CFO,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,leib ryan j,117911021001982,Vice President and Treasurer,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,thomas timothy j,117911021001985,See remarks,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210219,heezen alice,117911021001984,SVP - Human Resources,female,38400000.0
+7707044.0,,1519061,trinseo s.a.,0,0,1,0,20210222,m&g investment management ltd,156761921004543,,male,38400000.0
+7700044.0,,1519061,trinseo s.a.,0,0,1,0,20210223,m&g investment management ltd,156761921004642,,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,thomas timothy j,117911021002200,Vice President,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,skeete bernard m,117911021002202,"VP, CAO and Global Controller",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,leib ryan j,117911021002203,Vice President and Treasurer,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,stasse david phillip,117911021002204,EVP and CFO,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,chaclas angelo n.,117911021002205,"SVP, CLO, CCO & Corp. Sec.",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,reverberi francesca,117911021002206,"VP, Eng Mtrls & Synth Rubber",female,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,joly nicolas,117911021002207,"VP, Plastics & Feedstocks",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210224,heezen alice,117911021002201,SVP - Human Resources,female,38400000.0
+7695044.0,,1519061,trinseo s.a.,0,0,1,0,20210225,m&g investment management ltd,156761921004870,,male,38400000.0
+,,1519061,trinseo s.a.,1,0,0,0,20210226,cote jeffrey j,117911021002328,,male,38400000.0
+,,1519061,trinseo s.a.,1,0,0,0,20210226,farrell matthew,117911021002329,,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210301,chaclas angelo n.,117911021002423,"SVP, CLO, CCO & Corp. Sec.",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210301,skeete bernard m,117911021002424,"VP, CAO and Global Controller",male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210301,stasse david phillip,117911021002428,EVP and CFO,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210301,leib ryan j,117911021002429,Vice President and Treasurer,male,38400000.0
+7690044.0,,1519061,trinseo s.a.,0,0,1,0,20210302,m&g investment management ltd,156761921005242,,male,38400000.0
+7685044.0,,1519061,trinseo s.a.,0,0,1,0,20210304,m&g investment management ltd,156761921005621,,male,38400000.0
+7682044.0,,1519061,trinseo s.a.,0,0,1,0,20210309,m&g investment management ltd,156761921005891,,male,38400000.0
+7674044.0,,1519061,trinseo s.a.,0,0,1,0,20210311,m&g investment management ltd,156761921006076,,male,38400000.0
+7671044.0,,1519061,trinseo s.a.,0,0,1,0,20210312,m&g investment management ltd,156761921006159,,male,38400000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210315,thomas timothy j,117911021003401,Vice President,male,38400000.0
+7669044.0,,1519061,trinseo s.a.,0,0,1,0,20210318,m&g investment management ltd,156761921006568,,male,38400000.0
+7666044.0,,1519061,trinseo s.a.,0,0,1,0,20210319,m&g investment management ltd,156761921006668,,male,38400000.0
+7664044.0,,1519061,trinseo s.a.,0,0,1,0,20210329,m&g investment management ltd,156761921007123,,male,38400000.0
+7661044.0,,1519061,trinseo s.a.,0,0,1,0,20210415,m&g investment management ltd,156761921008096,,male,38700000.0
+7658044.0,,1519061,trinseo s.a.,0,0,1,0,20210422,m&g investment management ltd,156761921008441,,male,38700000.0
+7655044.0,,1519061,trinseo s.a.,0,0,1,0,20210426,m&g investment management ltd,156761921008562,,male,38700000.0
+7652044.0,,1519061,trinseo s.a.,0,0,1,0,20210427,m&g investment management ltd,156761921008617,,male,38700000.0
+7650044.0,,1519061,trinseo s.a.,0,0,1,0,20210429,m&g investment management ltd,156761921008710,,male,38700000.0
+,,1519061,trinseo s.a.,0,1,0,0,20210505,beal jean-luc,117911021004884,"SVP, Engineered Materials",male,38739042.0
+7647044.0,,1519061,trinseo s.a.,0,0,1,0,20210505,m&g investment management ltd,156761921009057,,male,38739042.0
+7637044.0,,1519061,trinseo s.a.,0,0,1,0,20210506,m&g investment management ltd,156761921009185,,male,38739042.0
+7634044.0,,1519061,trinseo s.a.,0,0,1,0,20210602,m&g investment management ltd,156761921011486,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210604,johnson klynne,117911021006430,,male,38739042.0
+,,1519061,trinseo s.a.,0,1,0,0,20210610,schewe rainer,117911021006526,"SVP, Supply Chain Services",male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210611,de leener pierre-marie,117911021006577,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210611,steinmetz henri,117911021006578,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210614,de leener pierre-marie,117911021006645,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,tomkins mark e,117911021006913,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,steinmetz henri,117911021006916,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,alvarado joseph,117911021006919,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,lin sandra beach,117911021006920,,female,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,brifo victoria,117911021006922,,female,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,de leener pierre-marie,117911021006923,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,misheff donald t,117911021006925,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,martens philip r,117911021006926,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,johnson klynne,117911021006927,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,farrell matthew,117911021006928,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,cote jeffrey j,117911021006931,,male,38739042.0
+,,1519061,trinseo s.a.,1,0,0,0,20210621,desmond jeanmarie f.,117911021006924,,male,38739042.0
+7634044.0,,1519061,trinseo s.a.,0,0,1,0,20210809,m&g investment management ltd,156761921014715,,male,38827828.0
+7634044.0,,1519061,trinseo s.a.,0,0,1,0,20210830,m&g investment management ltd,156761921016454,,male,38827828.0
+,,1519061,trinseo s.a.,0,1,0,0,20210916,stasse david phillip,117911021008806,EVP and CFO,male,38827828.0
+,,1519061,trinseo s.a.,1,0,0,0,20210917,farrell matthew,117911021008815,,male,38827828.0
+,,1519061,trinseo plc,0,1,0,0,20211116,heezen alice,117911021010166,SVP - Human Resources,female,38837083.0
+7634044.0,,1519061,trinseo plc,0,0,1,0,20211117,m&g investment management ltd,156761921020642,,male,38837083.0
+,,1519061,trinseo plc,0,1,0,0,20211201,cooney paula m.,117911021010485,SVP & CHRO,female,38837083.0
+,,1519061,trinseo plc,1,1,0,0,20220107,bozich frank a,117911022000329,CEO and President,male,37900000.0
+,,1519061,trinseo plc,1,1,0,0,20220204,bozich frank a,117911022000856,CEO and President,male,37900000.0
+7631044.0,,1519061,trinseo plc,0,0,1,0,20220214,m&g investment management ltd,156761922003942,,male,37900000.0
+7628044.0,,1519061,trinseo plc,0,0,1,0,20220216,m&g investment management ltd,156761922004669,,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,reverberi francesca,117911022001452,"SVP, Eng Mtrls & Synth Rubber",female,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,schewe rainer,117911022001453,"SVP, Supply Chain Services",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,lanning andre,117911022001447,"SVP, Stratgy, Corp Dev & Mktg",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,stasse david phillip,117911022001455,EVP and CFO,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,thomas timothy j,117911022001456,Senior Vice President,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,skeete bernard m,117911022001454,"VP, CAO and Global Controller",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,ni james mingyu,117911022001451,"SVP, Latex Binders",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,frisch johanna,117911022001444,Treasurer,female,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,cooney paula m.,117911022001443,SVP & CHRO,female,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,chaclas angelo n.,117911022001442,"SVP, CLO, CCO & Corp. Sec.",male,37900000.0
+,,1519061,trinseo plc,1,1,0,0,20220218,bozich frank a,117911022001441,CEO and President,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,joly nicolas,117911022001457,"SVP, Plastics & Feedstocks",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220218,beal jean-luc,117911022001448,"SVP, Engineered Materials",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,skeete bernard m,117911022001792,"VP, CAO and Global Controller",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,chaclas angelo n.,117911022001788,"SVP, CLO, CCO & Corp. Sec.",male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,thomas timothy j,117911022001790,Senior Vice President,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,frisch johanna,117911022001798,VP and Treasurer,female,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,reverberi francesca,117911022001794,"SVP, Chief Sustainability Ofc",female,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,stasse david phillip,117911022001791,EVP and CFO,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220301,joly nicolas,117911022001795,"SVP, Plastics & Feedstocks",male,37900000.0
+,,1519061,trinseo plc,1,1,0,0,20220308,bozich frank a,117911022002056,CEO and President,male,37900000.0
+,,1519061,trinseo plc,1,1,0,0,20220309,bozich frank a,117911022002097,CEO and President,male,37900000.0
+,,1519061,trinseo plc,0,1,0,0,20220309,chaclas angelo n.,117911022002095,"SVP, CLO, CCO & Corp. Sec.",male,37900000.0
+7628044.0,,1519061,trinseo plc,0,0,1,0,20220314,m&g investment management ltd,156761922006877,,male,37900000.0
+,,1519061,trinseo plc,1,0,0,0,20220316,alvarado joseph,117911022002252,,male,37900000.0
+7628044.0,,1519061,trinseo plc,0,0,1,0,20220405,m&g investment management ltd,156761922008055,,male,37200000.0
+,,1519061,trinseo plc,1,1,0,0,20220408,bozich frank a,117911022002637,CEO and President,male,37200000.0
+,,1519061,trinseo plc,1,1,0,0,20220526,bozich frank a,117911022003165,CEO and President,male,36151314.0
+,,1519061,trinseo plc,0,1,0,0,20220531,skeete bernard m,117911022003186,"VP, CAO and Global Controller",male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,martens philip r,117911022003339,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,alvarado joseph,117911022003331,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,lin sandra beach,117911022003332,,female,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,brifo victoria,117911022003333,,female,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,cote jeffrey j,117911022003334,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,de leener pierre-marie,117911022003335,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,desmond jeanmarie f.,117911022003336,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,farrell matthew,117911022003337,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,misheff donald t,117911022003340,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,steinmetz henri,117911022003341,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,johnson klynne,117911022003338,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220616,tomkins mark e,117911022003342,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,alvarado joseph,117911022003379,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,farrell matthew,117911022003392,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,johnson klynne,117911022003393,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,martens philip r,117911022003394,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,misheff donald t,117911022003395,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,tomkins mark e,117911022003397,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,steinmetz henri,117911022003396,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,cote jeffrey j,117911022003384,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,brifo victoria,117911022003382,,female,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,lin sandra beach,117911022003381,,female,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,de leener pierre-marie,117911022003389,,male,36151314.0
+,,1519061,trinseo plc,1,0,0,0,20220622,desmond jeanmarie f.,117911022003391,,male,36151314.0
+7625044.0,,1519061,trinseo plc,0,0,1,0,20220720,m&g investment management ltd,156761922014235,,male,36300000.0
+,,1519061,trinseo plc,1,0,0,0,20220816,cote jeffrey j,156761922016359,,male,34972646.0
+,,1519061,trinseo plc,1,0,0,0,20220909,desmond jeanmarie f.,156761922017216,,male,34972646.0
+,,1519061,trinseo plc,0,1,0,0,20221005,hendriks han,156761922018259,Chief Technology Officer,male,35100000.0
+,,1519061,trinseo plc,1,0,0,0,20221118,martens philip r,156761922020625,,male,34973747.0
+,,1519061,trinseo plc,0,1,0,0,20221212,cooney paula m.,156761922021513,SVP & CHRO,female,34973747.0
+,,1519061,trinseo plc,0,1,0,0,20230224,hendriks han,156761923003783,Chief Technology Officer,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,skeete bernard m,156761923003789,"VP, CAO & Global Controller",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,chaclas angelo n.,156761923003793,"SVP, CLO, CCO & Corp. Sec",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,van kessel bregje,156761923003792,"SVP, Plastic Solutions",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,thomas timothy j,156761923003791,"SVP, Mfctg & Oper Excellence",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,stasse david phillip,156761923003790,EVP and CFO,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,schewe rainer,156761923003788,"SVP, Supply Chain Services",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,reverberi francesca,156761923003787,SVP & CSO,female,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,ni james mingyu,156761923003786,"SVP, Latex Binders",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,joly nicolas,156761923003784,"SVP, Plastics & Feedstocks",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,frisch johanna,156761923003781,VP and Treasurer,female,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,cooney paula m.,156761923003778,SVP & CHRO,female,35100000.0
+,,1519061,trinseo plc,1,1,0,0,20230224,bozich frank a,156761923003777,CEO and President,male,35100000.0
+,,1519061,trinseo plc,1,1,0,0,20230224,bozich frank a,156761923003776,CEO and President,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,beal jean-luc,156761923003766,"SVP, Engineered Materials",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230224,lanning andre,156761923003785,SVP & CCO,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,frisch johanna,156761923003963,VP and Treasurer,female,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,reverberi francesca,156761923003964,SVP & CSO,female,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,thomas timothy j,156761923003962,"SVP, Mfctg & Oper Excellence",male,35100000.0
+,,1519061,trinseo plc,1,1,0,0,20230228,bozich frank a,156761923003967,CEO and President,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,chaclas angelo n.,156761923003960,"SVP, CLO, CCO & Corp. Sec",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,stasse david phillip,156761923003959,EVP and CFO,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,van kessel bregje,156761923003965,"SVP, Plastic Solutions",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,lanning andre,156761923003961,SVP & CCO,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,skeete bernard m,156761923003966,"VP, CAO & Global Controller",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230228,joly nicolas,156761923003943,"SVP, Styrenics",male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230313,thomas timothy j,156761923004961,SVP,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230313,stasse david phillip,156761923004960,EVP and CFO,male,35100000.0
+,,1519061,trinseo plc,0,1,0,0,20230313,chaclas angelo n.,156761923004959,"SVP, CLO, CCO & Corp. Sec",male,35100000.0
+,,1519061,trinseo plc,1,1,0,0,20230313,bozich frank a,156761923004957,CEO and President,male,35100000.0
+,,1519061,trinseo plc,false,true,false,false,20230425,schewe rainer,141588923006829,"SVP, SUPPLY CHAIN SERVICES",male,35200000.0
+,,1519061,trinseo plc,true,false,false,false,20230616,tomkins mark e,141588923009912,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,de leener pierre-marie,141588923009894,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,cote jeffrey j,141588923009892,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,brifo victoria,141588923009890,,female,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,alvarado joseph,141588923009888,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,misheff donald t,141588923009886,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,johnson klynne,141588923009906,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,lin sandra beach,141588923009908,,female,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,steinmetz henri,141588923009910,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,martens philip r,141588923009914,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,desmond jeanmarie f.,141588923009899,,male,35146342.0
+,,1519061,trinseo plc,true,false,false,false,20230616,farrell matthew,141588923009904,,male,35146342.0
+,,1519061,trinseo plc,true,true,false,false,20230913,bozich frank a,141588923013207,CEO AND PRESIDENT,male,35189133.0
+,,1519061,trinseo plc,false,true,false,false,20230913,thomas timothy j,141588923013209,"SVP, MFCTG & OPER EXCELLENCE",male,35189133.0
+,,1519061,trinseo plc,false,true,false,false,20230913,chaclas angelo n.,141588923013211,"SVP, CLO, CCO & CORP. SEC.",male,35189133.0
+,,1519061,trinseo plc,true,false,false,false,20230913,desmond jeanmarie f.,141588923013213,,male,35189133.0
+,,1519061,trinseo plc,false,true,false,false,20230918,stasse david phillip,141588923013324,EVP AND CFO,male,35189133.0
+,,1519061,trinseo plc,false,true,false,false,20230926,greene roger,141588923013576,"VP, GLOBAL CONTROLLER & PAO",male,35189133.0
+,,1519061,trinseo plc,true,false,false,false,20231218,farrell matthew,141588923016573,,male,35195245.0
+,,1519061,trinseo plc,false,true,false,false,20240221,schewe rainer,141588924004693,"SVP, SUPPLY CHAIN SERVICES",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240221,chaclas angelo n.,141588924004694,"SVP, CLO, CCO & CORP. SEC.",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240221,thomas timothy j,141588924004696,"SVP, MFCTG & OPER EXCELLENCE",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240221,reverberi francesca,141588924004697,"SVP, CSO",female,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240221,ni james mingyu,141588924004698,"SVP, LATEX BINDERS",male,35200000.0
+,,1519061,trinseo plc,true,true,false,false,20240221,bozich frank a,141588924004699,CEO AND PRESIDENT,male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240221,van kessel bregje,141588924004700,"SVP, PLASTICS SOLUTIONS",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240221,stasse david phillip,141588924004708,EVP AND CFO,male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,frisch johanna,141588924005015,VP AND TREASURER,female,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,stasse david phillip,141588924005034,EVP AND CFO,male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,chaclas angelo n.,141588924005030,"SVP, CLO, CCO & CORP. SEC.",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,hendriks han,141588924005021,"SVP, CHIEF TECHNOLOGY OFFICER",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,van kessel bregje,141588924005023,"SVP, PLASTICS SOLUTIONS",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,reverberi francesca,141588924005024,"SVP, CSO",female,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,cooney paula m.,141588924005026,"SVP, CHRO",female,35200000.0
+,,1519061,trinseo plc,true,true,false,false,20240223,bozich frank a,141588924005037,CEO AND PRESIDENT,male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,greene roger,141588924005016,"VP, GLOBAL CONTROLLER & PAO",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240223,schewe rainer,141588924005019,"SVP, SUPPLY CHAIN SERVICES",male,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240227,cooney paula m.,141588924005450,"SVP, CHRO",female,35200000.0
+,,1519061,trinseo plc,false,true,false,false,20240227,hendriks han,141588924005449,"SVP, CHIEF TECHNOLOGY OFFICER",male,35200000.0
+,,1519061,trinseo plc,true,false,false,false,20240618,cote jeffrey j,141588924017423,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,steinmetz henri,141588924017429,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,lin sandra beach,141588924017428,,female,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,johnson klynne,141588924017427,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,desmond jeanmarie f.,141588924017425,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,de leener pierre-marie,141588924017424,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,brifo victoria,141588924017421,,female,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,alvarado joseph,141588924017420,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,tomkins mark e,141588924017430,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240618,farrell matthew,141588924017426,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,farrell matthew,141588924018148,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,steinmetz henri,141588924018152,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,johnson klynne,141588924018155,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,brifo victoria,141588924018154,,female,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,tomkins mark e,141588924018153,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,alvarado joseph,141588924018142,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,lin sandra beach,141588924018150,,female,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,cote jeffrey j,141588924018143,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,desmond jeanmarie f.,141588924018147,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240625,de leener pierre-marie,141588924018146,,male,35294231.0
+,,1519061,trinseo plc,true,false,false,false,20240814,tomkins mark e,141588924021280,,male,35356020.0
+,,1519061,trinseo plc,true,true,false,false,20240814,bozich frank a,141588924021259,CEO AND PRESIDENT,male,35356020.0
+,,1519061,trinseo plc,false,true,false,false,20240814,chaclas angelo n.,141588924021257,"SVP, CLO, CCO & CORP. SEC.",male,35356020.0
+,,1519061,trinseo plc,true,false,false,false,20240820,cote jeffrey j,141588924021666,,male,35356020.0
+,,1519061,trinseo plc,false,true,false,false,20240924,frisch johanna,141588924023889,VP AND TREASURER,female,35356020.0
+,,1519061,trinseo plc,false,true,false,false,20240927,greene roger,141588924024017,"VP, GLOBAL CONTROLLER & PAO",male,35356020.0
+,,1519061,trinseo plc,false,true,false,false,20241007,hendriks han,141588924024809,"SVP, CHIEF TECHNOLOGY OFFICER",male,35400000.0
+,,1519061,trinseo plc,false,true,false,false,20241203,cooney paula m.,141588924028168,"SVP, CHRO",female,35401678.0

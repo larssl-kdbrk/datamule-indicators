@@ -1,54 +1,315 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20100726,freedman lori,118143110038502,"VP Corp Affairs,Gen Coun & Sec",female,
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20100726,ross leonard s,118143110038501,"Vice President, Finance",male,
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20101210,savas peter g,118143110060719,,male,
-0.0,0.0,1314102,psivida corp.,1,1,0,0,20101210,ashton paul,118143110060717,President and CEO,male,
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20101210,rogers michael w,118143110060716,,male,
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20101210,hopper paul,118143110060718,,male,
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20101210,mazzo david j,118143110060715,,male,
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20110725,freedman lori,120919111040736,"VP Corp Affairs,Gen Coun & Sec",female,20748642.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20110725,ross leonard s,120919111040735,"Vice President, Finance",male,20748642.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20111201,rogers michael w,120919111058652,,male,20802592.0
-0.0,0.0,1314102,psivida corp.,1,1,0,0,20111201,ashton paul,120919111058657,President and CEO,male,20802592.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20111201,mazzo david j,120919111058648,,male,20802592.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20111201,savas peter g,120919111058669,,male,20802592.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20111201,hopper paul,120919111058663,,male,20802592.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20120720,freedman lori,118143112041447,See Remarks,female,20802592.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20120720,ross leonard s,118143112041446,"Vice President, Finance",male,20802592.0
-10000.0,0.0,1314102,psivida corp.,1,0,0,0,20121003,hopper paul,90445412000536,,male,23297011.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20121214,mazzo david j,118143112064864,,male,23297011.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20121214,savas peter g,118143112064869,,male,23297011.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20121214,godshall douglas evan,118143112064880,,male,23297011.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20121214,rogers michael w,118143112064891,,male,23297011.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20121214,hopper paul,118143112064889,,male,23297011.0
-0.0,0.0,1314102,psivida corp.,1,1,0,0,20121214,ashton paul,118143112064874,President and CEO,male,23297011.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20130725,ross leonard s,118143113041345,"Vice President, Finance",male,23297011.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20130725,freedman lori,118143113041346,See Remarks,female,23297011.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20131220,godshall douglas evan,118143113064037,,male,26791561.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20131220,mazzo david j,118143113064038,,male,26791561.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20131220,rogers michael w,118143113064036,,male,26791561.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20131220,hopper paul,118143113064031,,male,26791561.0
-0.0,0.0,1314102,psivida corp.,1,1,0,0,20131220,ashton paul,118143113064033,President and CEO,male,26791561.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20131220,savas peter g,118143113064032,,male,26791561.0
+,,1314102,psivida corp.,0,1,0,0,20100726,ross leonard s,118143110038501,"Vice President, Finance",male,
+,,1314102,psivida corp.,0,1,0,0,20100726,freedman lori,118143110038502,"VP Corp Affairs,Gen Coun & Sec",female,
+,,1314102,psivida corp.,1,0,0,0,20101210,savas peter g,118143110060719,,male,
+,,1314102,psivida corp.,1,0,0,0,20101210,mazzo david j,118143110060715,,male,
+,,1314102,psivida corp.,1,0,0,0,20101210,rogers michael w,118143110060716,,male,
+,,1314102,psivida corp.,1,1,0,0,20101210,ashton paul,118143110060717,President and CEO,male,
+,,1314102,psivida corp.,1,0,0,0,20101210,hopper paul,118143110060718,,male,
+,,1314102,psivida corp.,0,1,0,0.0,20110725,ross leonard s,120919111040735,"Vice President, Finance",male,20748642.0
+,,1314102,psivida corp.,0,1,0,0.0,20110725,freedman lori,120919111040736,"VP Corp Affairs,Gen Coun & Sec",female,20748642.0
+,,1314102,psivida corp.,1,0,0,0.0,20111201,mazzo david j,120919111058648,,male,20802592.0
+,,1314102,psivida corp.,1,1,0,0.0,20111201,ashton paul,120919111058657,President and CEO,male,20802592.0
+,,1314102,psivida corp.,1,0,0,0.0,20111201,rogers michael w,120919111058652,,male,20802592.0
+,,1314102,psivida corp.,1,0,0,0.0,20111201,savas peter g,120919111058669,,male,20802592.0
+,,1314102,psivida corp.,1,0,0,0.0,20111201,hopper paul,120919111058663,,male,20802592.0
+,,1314102,psivida corp.,0,1,0,0,20120720,freedman lori,118143112041447,See Remarks,female,20802592.0
+,,1314102,psivida corp.,0,1,0,0,20120720,ross leonard s,118143112041446,"Vice President, Finance",male,20802592.0
+10000.0,,1314102,psivida corp.,1,0,0,0,20121003,hopper paul,90445412000536,,male,23297011.0
+,,1314102,psivida corp.,1,0,0,0,20121214,hopper paul,118143112064889,,male,23297011.0
+,,1314102,psivida corp.,1,0,0,0,20121214,godshall douglas evan,118143112064880,,male,23297011.0
+,,1314102,psivida corp.,1,1,0,0,20121214,ashton paul,118143112064874,President and CEO,male,23297011.0
+,,1314102,psivida corp.,1,0,0,0,20121214,mazzo david j,118143112064864,,male,23297011.0
+,,1314102,psivida corp.,1,0,0,0,20121214,savas peter g,118143112064869,,male,23297011.0
+,,1314102,psivida corp.,1,0,0,0,20121214,rogers michael w,118143112064891,,male,23297011.0
+,,1314102,psivida corp.,0,1,0,0,20130725,ross leonard s,118143113041345,"Vice President, Finance",male,23297011.0
+,,1314102,psivida corp.,0,1,0,0,20130725,freedman lori,118143113041346,See Remarks,female,23297011.0
+,,1314102,psivida corp.,1,0,0,0,20131220,hopper paul,118143113064031,,male,26791561.0
+,,1314102,psivida corp.,1,0,0,0,20131220,savas peter g,118143113064032,,male,26791561.0
+,,1314102,psivida corp.,1,1,0,0,20131220,ashton paul,118143113064033,President and CEO,male,26791561.0
+,,1314102,psivida corp.,1,0,0,0,20131220,rogers michael w,118143113064036,,male,26791561.0
+,,1314102,psivida corp.,1,0,0,0,20131220,godshall douglas evan,118143113064037,,male,26791561.0
+,,1314102,psivida corp.,1,0,0,0,20131220,mazzo david j,118143113064038,,male,26791561.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140507,ashton paul,90445414000420,President & CEO,male,29244608.0
-96423.0,0.0,1314102,psivida corp.,0,1,0,0,20140507,freedman lori,90445414000423,"VP Corp. Affairs, GC and Sec",female,29244608.0
-96423.0,0.0,1314102,psivida corp.,0,1,0,0,20140616,freedman lori,90445414000518,"VP Corp. Affairs, GC and Sec",female,29252458.0
+96423.0,,1314102,psivida corp.,0,1,0,0,20140507,freedman lori,90445414000423,"VP Corp. Affairs, GC and Sec",female,29244608.0
+96423.0,,1314102,psivida corp.,0,1,0,0,20140616,freedman lori,90445414000518,"VP Corp. Affairs, GC and Sec",female,29252458.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140616,ashton paul,90445414000520,President & CEO,male,29252458.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140618,ashton paul,90445414000526,President & CEO,male,29252458.0
-96423.0,0.0,1314102,psivida corp.,0,1,0,0,20140618,freedman lori,90445414000528,"VP Corp. Affairs, GC and Sec",female,29252458.0
+96423.0,,1314102,psivida corp.,0,1,0,0,20140618,freedman lori,90445414000528,"VP Corp. Affairs, GC and Sec",female,29252458.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140620,ashton paul,90445414000532,President & CEO,male,29252458.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140702,ashton paul,90445414000540,President & CEO,male,29298558.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20140716,ross leonard s,120919114047352,"Vice President, Finance",male,29298558.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20140716,freedman lori,120919114047351,See Remarks,female,29298558.0
+,,1314102,psivida corp.,0,1,0,0,20140716,ross leonard s,120919114047352,"Vice President, Finance",male,29298558.0
+,,1314102,psivida corp.,0,1,0,0,20140716,freedman lori,120919114047351,See Remarks,female,29298558.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140804,ashton paul,90445414000565,President & CEO,male,29298558.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20140903,ashton paul,90445414000617,President & CEO,male,29298558.0
 440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20141003,ashton paul,90445414000687,President & CEO,male,29337595.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20141215,savas peter g,120919114075206,,male,29337595.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20141215,rogers michael w,120919114075209,,male,29337595.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20141215,mazzo david j,120919114075208,,male,29337595.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20141215,barry james j,120919114075211,,male,29337595.0
-0.0,0.0,1314102,psivida corp.,1,1,0,0,20141215,ashton paul,120919114075210,President and CEO,male,29337595.0
-0.0,0.0,1314102,psivida corp.,1,0,0,0,20141215,godshall douglas evan,120919114075205,,male,29337595.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20150727,freedman lori,89924315001713,See Remarks,female,29412365.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20150727,ross leonard s,89924315001714,"Vice President, Finance",male,29412365.0
-0.0,0.0,1314102,psivida corp.,0,1,0,0,20150804,ross leonard s,90445415000502,"Vice President, Finance",male,29412365.0
+,,1314102,psivida corp.,1,0,0,0,20141215,barry james j,120919114075211,,male,29337595.0
+,,1314102,psivida corp.,1,0,0,0,20141215,godshall douglas evan,120919114075205,,male,29337595.0
+,,1314102,psivida corp.,1,0,0,0,20141215,savas peter g,120919114075206,,male,29337595.0
+,,1314102,psivida corp.,1,0,0,0,20141215,mazzo david j,120919114075208,,male,29337595.0
+,,1314102,psivida corp.,1,0,0,0,20141215,rogers michael w,120919114075209,,male,29337595.0
+,,1314102,psivida corp.,1,1,0,0,20141215,ashton paul,120919114075210,President and CEO,male,29337595.0
+,,1314102,psivida corp.,0,1,0,0,20150727,freedman lori,89924315001713,See Remarks,female,29412365.0
+,,1314102,psivida corp.,0,1,0,0,20150727,ross leonard s,89924315001714,"Vice President, Finance",male,29412365.0
+0.0,,1314102,psivida corp.,0,1,0,0,20150804,ross leonard s,90445415000502,"Vice President, Finance",male,29412365.0
+0.0,,1314102,psivida corp.,0,1,0,0,20150804,ross leonard s,90445415000502,"Vice President, Finance",male,29412365.0
+0.0,,1314102,psivida corp.,0,1,0,0,20151203,ross leonard s,90445415000766,"Vice President, Finance",male,29417365.0
+,,1314102,psivida corp.,1,0,0,0,20151204,rogers michael w,89924315009308,,male,29417365.0
+,,1314102,psivida corp.,1,0,0,0,20151204,barry james j,89924315009312,,male,29417365.0
+,,1314102,psivida corp.,1,1,0,0,20151204,ashton paul,89924315009310,President and CEO,male,29417365.0
+,,1314102,psivida corp.,1,0,0,0,20151204,godshall douglas evan,89924315009313,,male,29417365.0
+,,1314102,psivida corp.,1,0,0,0,20151204,savas peter g,89924315009309,,male,29417365.0
+,,1314102,psivida corp.,1,0,0,0,20151204,mazzo david j,89924315009311,,male,29417365.0
+440741.0,16781.0,1314102,psivida corp.,1,1,0,0,20151223,ashton paul,90445415000807,President & CEO,male,29417365.0
+0.0,,1314102,psivida corp.,0,1,0,0,20151223,ross leonard s,90445415000809,"Vice President, Finance",male,29417365.0
+0.0,,1314102,psivida corp.,0,1,0,0,20160105,ross leonard s,90445416000823,"Vice President, Finance",male,29627919.0
+450741.0,16781.0,1314102,psivida corp.,1,1,0,0,20160322,ashton paul,90445416001141,President & CEO,male,34072919.0
+,,1314102,psivida corp.,0,1,0,0,20160725,ross leonard s,89924316025628,"Vice President, Finance",male,34172919.0
+,,1314102,psivida corp.,0,1,0,0,20160725,freedman lori,89924316025626,See Remarks,female,34172919.0
+,,1314102,psivida corp.,0,1,0,0,20160803,paggiarino dario a.,90445416001343,Chief Medical Officer,male,34172919.0
+,,1314102,psivida corp.,0,1,0,0,20161104,jorn debora,90445416001542,"EVP, Corp. & Comm'l Dev.",female,34176999.0
+,,1314102,psivida corp.,1,0,0,0,20161214,barry james j,89924316035519,,male,34176999.0
+,,1314102,psivida corp.,1,0,0,0,20161214,rogers michael w,89924316035517,,male,34176999.0
+,,1314102,psivida corp.,1,1,0,0,20161214,lurker nancy,89924316035515,President and CEO,female,34176999.0
+,,1314102,psivida corp.,1,0,0,0,20161214,godshall douglas evan,89924316035514,,male,34176999.0
+,,1314102,psivida corp.,1,0,0,0,20161214,duker jay s.,89924316035512,,male,34176999.0
+,,1314102,psivida corp.,1,0,0,0,20161214,mazzo david j,89924316035511,,male,34176999.0
+56700.0,,1314102,psivida corp.,1,1,0,0,20170614,lurker nancy,89924317016365,President and CEO,female,39268692.0
+,,1314102,psivida corp.,0,1,0,0,20170629,jorn debora,89924317017517,"EVP, Corp. & Comm'l Dev.",female,39268692.0
+,,1314102,psivida corp.,0,1,0,0,20170629,ross leonard s,89924317017515,See Remarks,male,39268692.0
+,,1314102,psivida corp.,0,1,0,0,20170629,paggiarino dario a.,89924317017520,Chief Medical Officer,male,39268692.0
+,,1314102,psivida corp.,1,0,0,0,20171219,duker jay s.,89924317029147,,male,40200783.0
+,,1314102,psivida corp.,1,0,0,0,20171219,peterson kristine,89924317029156,,female,40200783.0
+,,1314102,psivida corp.,1,0,0,0,20171219,mazzo david j,89924317029159,,male,40200783.0
+,,1314102,psivida corp.,1,0,0,0,20171219,godshall douglas evan,89924317029161,,male,40200783.0
+,,1314102,psivida corp.,1,1,0,0,20171219,lurker nancy,89924317029169,President and CEO,female,40200783.0
+,,1314102,psivida corp.,1,0,0,0,20171219,barry james j,89924317029153,,male,40200783.0
+,,1314102,psivida corp.,1,0,0,0,20171219,rogers michael w,89924317029160,,male,40200783.0
+,,1314102,psivida corp.,0,1,0,0,20171227,ross leonard s,89924317029611,See Remarks,male,40200783.0
+,,1314102,psivida corp.,0,1,0,0,20180321,ross leonard s,89924318008243,See Remarks,male,45256999.0
+,,1314102,psivida corp.,1,1,0,0,20180321,lurker nancy,89924318008244,President & CEO,female,45256999.0
+,,1314102,psivida corp.,0,1,0,0,20180321,paggiarino dario a.,89924318008245,Chief Medical Officer,male,45256999.0
+,,1314102,psivida corp.,1,0,0,0,20180330,eastman ronald w,89924318008981,,male,45256999.0
+120500.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180424,mazzo david j,89924318010649,,male,53909917.0
+12500.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180514,barry james j,89924318012670,,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20180516,blum leonard m,89924318013140,See Remarks,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20180618,ross leonard s,89924318016975,See Remarks,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,1,0,0,20180618,lurker nancy,89924318016980,President and CEO,female,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20180618,paggiarino dario a.,89924318016986,Chief Medical Officer,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180626,rogers michael w,89924318018096,,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180626,peterson kristine,89924318018100,,female,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180626,mazzo david j,89924318018093,,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180626,duker jay s.,89924318018098,,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180626,godshall douglas evan,89924318018095,,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180627,ando goran,89924318018295,,male,54029917.0
+135033.0,,1314102,"eyepoint pharmaceuticals, inc.",1,1,0,0,20180629,lurker nancy,89924318018707,President & CEO,female,54029917.0
+12500.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180629,godshall douglas evan,89924318018708,,male,54029917.0
+12500.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180629,rogers michael w,89924318018709,,male,54029917.0
+15388.0,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20180629,paggiarino dario a.,89924318018710,Chief Medical Officer,male,54029917.0
+14762.0,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20180629,ross leonard s,89924318018711,See Remarks,male,54029917.0
+138000.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180629,mazzo david j,89924318018712,,male,54029917.0
+12500.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180629,duker jay s.,89924318018714,,male,54029917.0
+,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20180803,price david,89924318021374,Chief Financial Officer,male,74512048.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20180910,mazzo david j,89924318024157,,male,74512048.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20181015,ando goran,89924318026697,,male,94696272.0
+29600.0,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20181016,paggiarino dario a.,89924318026781,Chief Medical Officer,male,94696272.0
+31817.0,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20181016,ross leonard s,89924318026782,See Remarks,male,94696272.0
+211700.0,,1314102,"eyepoint pharmaceuticals, inc.",1,1,0,0,20181016,lurker nancy,89924318026783,President & CEO,female,94696272.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20181029,landis john b.,89924318027573,,male,94696272.0
+112500.0,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20181116,rogers michael w,89924318029124,,male,94696272.0
+76187.0,,1314102,"eyepoint pharmaceuticals, inc.",0,1,0,0,20181226,ross leonard s,89924318031698,See Remarks,male,94696272.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190129,guyer david r,156218019000563,,male,95372236.0
+74452.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190321,ross leonard s,156218019002006,See Remarks,male,95374236.0
+28412.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190321,paggiarino dario a.,156218019002007,Chief Medical Officer,male,95374236.0
+29500.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190401,godshall douglas evan,156218019002053,,male,95554228.0
+240200.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20190401,lurker nancy,156218019002055,President & CEO,female,95554228.0
+158000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190401,mazzo david j,156218019002054,,male,95554228.0
+79452.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190402,ross leonard s,156218019002080,See Remarks,male,95554228.0
+17500.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190403,duker jay s.,156218019002168,,male,95554228.0
+37500.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190416,duker jay s.,156218019002284,,male,95554228.0
+40000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190515,landis john b.,156218019002822,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190612,jones david scott,156218019003509,SVP & Chief Commercial Officer,male,95554228.0
+38437.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190617,paggiarino dario a.,156218019003560,Chief Medical Officer,male,95554228.0
+85338.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190617,ross leonard s,156218019003561,See Remarks,male,95554228.0
+285200.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20190617,lurker nancy,156218019003562,President & CEO,female,95554228.0
+6667.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190624,peterson kristine,156218019003628,,female,95554228.0
+44167.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190624,duker jay s.,156218019003626,,male,95554228.0
+36167.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190624,godshall douglas evan,156218019003627,,male,95554228.0
+166333.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190624,mazzo david j,156218019003629,,male,95554228.0
+119167.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190624,rogers michael w,156218019003630,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,godshall douglas evan,156218019003665,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,peterson kristine,156218019003664,,female,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,ando goran,156218019003663,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20190627,lurker nancy,156218019003662,President & CEO,female,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,rogers michael w,156218019003669,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190627,paggiarino dario a.,156218019003660,Chief Medical Officer,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,landis john b.,156218019003666,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,mazzo david j,156218019003668,,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190627,price david,156218019003661,CFO,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190627,duker jay s.,156218019003667,,male,95554228.0
+325200.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20190628,lurker nancy,156218019003675,President & CEO,female,95554228.0
+90044.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190628,ross leonard s,156218019003677,See Remarks,male,95554228.0
+45497.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20190628,paggiarino dario a.,156218019003676,Chief Medical Officer,male,95554228.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190716,dicicco wendy f,156218019003959,,female,106297792.0
+166750.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20190910,mazzo david j,156218019004701,,male,106297792.0
+200083.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20191011,mazzo david j,156218019005150,,male,108029244.0
+314455.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20191015,lurker nancy,156218019005160,President & CEO,female,108029244.0
+43047.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20191015,paggiarino dario a.,156218019005159,Chief Medical Officer,male,108029244.0
+10000.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20191118,elston george,156218019005548,Chief Financial Officer,male,108117440.0
+476800.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20200225,lurker nancy,156218020001682,President & CEO,female,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,godshall douglas evan,156218020002049,,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200303,elston george,156218020002048,Chief Financial Officer,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,guyer david r,156218020002051,,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,mazzo david j,156218020002054,,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,peterson kristine,156218020002050,,female,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,dicicco wendy f,156218020002046,,female,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,landis john b.,156218020002045,,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,ando goran,156218020002044,,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200303,jones david scott,156218020002043,SVP & Chief Commercial Officer,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200303,paggiarino dario a.,156218020002042,Chief Medical Officer,male,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20200303,lurker nancy,156218020002036,President & CEO,female,10941659.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20200303,duker jay s.,156218020002047,,male,10941659.0
+574800.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20200311,lurker nancy,156218020002379,President & CEO,female,124741832.0
+20000.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200313,elston george,156218020002451,Chief Financial Officer,male,124741832.0
+53079.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200616,paggiarino dario a.,156218020004516,Chief Medical Officer,male,124741832.0
+619800.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20200616,lurker nancy,156218020004517,President & CEO,female,124741832.0
+659800.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20200630,lurker nancy,156218020004716,President & CEO,female,125197899.0
+60143.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200630,paggiarino dario a.,156218020004723,Chief Medical Officer,male,125197899.0
+784467.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20200702,lurker nancy,156218020004867,President & CEO,female,125197899.0
+89144.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200702,paggiarino dario a.,156218020004869,Chief Medical Officer,male,125197899.0
+26990.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200702,jones david scott,156218020004870,SVP & Chief Commercial Officer,male,125197899.0
+30000.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200826,elston george,156218020005659,Chief Financial Officer,male,125217066.0
+40000.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20200909,elston george,156218020005930,Chief Financial Officer,male,125217066.0
+96579.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20210223,lurker nancy,156218021001521,President & CEO,female,18139981.0
+109046.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20210302,lurker nancy,156218021001813,President & CEO,female,18139981.0
+5900.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210302,landis john b.,156218021001814,,male,18139981.0
+1900.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210302,guyer david r,156218021001815,,male,18139981.0
+5516.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210302,godshall douglas evan,156218021001816,,male,18139981.0
+1900.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210302,dicicco wendy f,156218021001817,,female,18139981.0
+2150.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210302,ando goran,156218021001818,,male,18139981.0
+7380.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20210302,jones david scott,156218021001819,SVP & Chief Commercial Officer,male,18139981.0
+11592.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20210302,paggiarino dario a.,156218021001820,Chief Medical Officer,male,18139981.0
+12595.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20210615,paggiarino dario a.,156218021004274,Chief Medical Officer,male,28741475.0
+113546.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20210615,lurker nancy,156218021004275,President & CEO,female,28741475.0
+8016.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210623,godshall douglas evan,156218021004459,,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20210623,lurker nancy,156218021004451,President & CEO,female,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20210623,elston george,156218021004452,Chief Financial Officer,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20210623,jones david scott,156218021004453,SVP & Chief Commercial Officer,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20210623,paggiarino dario a.,156218021004454,Chief Medical Officer,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210623,ando goran,156218021004455,,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210623,dicicco wendy f,156218021004456,,female,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210623,landis john b.,156218021004457,,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20210623,guyer david r,156218021004458,,male,28741475.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20211103,duker jay s.,156218021006808,Chief Operating Officer,male,28771264.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20211103,jones david scott,156218021006809,SVP & Chief Commercial Officer,male,28771264.0
+103546.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20211117,lurker nancy,156218021007116,President & CEO,female,28771264.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220114,pine michael craig,156218022000469,Chief Corp Dev.&Strat. Officer,male,33905826.0
+10623.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220211,duker jay s.,156218022001414,Chief Operating Officer,male,33905826.0
+8400.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20220211,landis john b.,156218022001420,,male,33905826.0
+124098.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20220211,lurker nancy,156218022001410,President & CEO,female,33905826.0
+12624.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220211,jones david scott,156218022001412,SVP & Chief Commercial Officer,male,33905826.0
+15840.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220211,paggiarino dario a.,156218022001413,Chief Medical Officer,male,33905826.0
+9602.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220211,elston george,156218022001416,Chief Financial Officer,male,33905826.0
+4900.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20220211,ando goran,156218022001417,,male,33905826.0
+4400.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20220211,dicicco wendy f,156218022001418,,female,33905826.0
+4400.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20220211,guyer david r,156218022001419,,male,33905826.0
+137815.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20220223,lurker nancy,156218022001757,President & CEO,female,33905826.0
+18651.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220302,paggiarino dario a.,156218022002136,Chief Medical Officer,male,33905826.0
+150281.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20220302,lurker nancy,156218022002135,President & CEO,female,33905826.0
+15599.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220302,jones david scott,156218022002137,SVP & Chief Commercial Officer,male,33905826.0
+1000.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220315,pine michael craig,156218022002643,Chief Corp Dev.&Strat. Officer,male,34044255.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20220627,adamis anthony p,156218022005368,,male,34047128.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20220713,zaderej karen l.,156218022005662,,female,34052616.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20220909,duker jay s.,156218022006581,Chief Operating Officer,male,34071899.0
+21402.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20221103,duker jay s.,156218022007459,Chief Operating Officer,male,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20230110,lurker nancy,156218023000347,CEO,female,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230110,elston george,156218023000345,Chief Financial Officer,male,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230110,jones david scott,156218023000344,SVP & Chief Commercial Officer,male,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230110,duker jay s.,156218023000346,President and COO,male,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230110,paggiarino dario a.,156218023000342,Chief Medical Officer,male,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230110,pine michael craig,156218023000343,Chief Corp Dev.&Strat. Officer,male,34082934.0
+7400.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230213,guyer david r,156218023001338,,male,34082934.0
+7400.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230213,dicicco wendy f,156218023001336,,female,34082934.0
+25707.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230213,paggiarino dario a.,156218023001337,Chief Medical Officer,male,34082934.0
+11400.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230213,landis john b.,156218023001335,,male,34082934.0
+190559.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20230213,lurker nancy,156218023001330,CEO,female,34082934.0
+29221.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230213,duker jay s.,156218023001333,President and COO,male,34082934.0
+25133.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230213,jones david scott,156218023001332,SVP & Chief Commercial Officer,male,34082934.0
+23116.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230213,elston george,156218023001331,Chief Financial Officer,male,34082934.0
+8150.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230213,ando goran,156218023001334,,male,34082934.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20230515,lurker nancy,156218023004132,CEO,female,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230530,elston george,156218023004579,Chief Financial Officer,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230530,pine michael craig,156218023004580,Chief Corp Dev.&Strat. Officer,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230531,liu ye,156218023004632,,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230622,zaderej karen l.,156218023005446,,female,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230622,pine michael craig,156218023005445,Chief Corp Dev.&Strat. Officer,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230622,jones david scott,156218023005444,SVP & Chief Commercial Officer,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230622,duker jay s.,156218023005440,President and COO,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230622,elston george,156218023005442,Chief Financial Officer,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20230622,lurker nancy,156218023005441,CEO,female,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230622,adamis anthony p,156218023005447,,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20230622,paggiarino dario a.,156218023005443,Chief Medical Officer,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230622,ando goran,156218023005448,,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230622,dicicco wendy f,156218023005449,,female,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230622,landis john b.,156218023005450,,male,34301926.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230622,guyer david r,156218023005451,,male,34301926.0
+2000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230626,adamis anthony p,156218023005502,,male,34301926.0
+2000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20230712,zaderej karen l.,156218023005879,,female,34306118.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20230712,lurker nancy,156218023005880,Executive Vice Chair,female,34306118.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20230712,duker jay s.,156218023005881,President and CEO,male,34306118.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20231017,duty stuart,156218023007327,,male,35309432.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20231017,elston george,156218023007325,Chief Financial Officer,male,35309432.0
+5343.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20231206,pine michael craig,156218023008172,Chief Corp Dev.&Strat. Officer,male,35309432.0
+25707.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20231206,paggiarino dario a.,156218023008171,Chief Medical Officer,male,35309432.0
+170559.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20231206,lurker nancy,156218023008170,Executive Vice Chair,female,35309432.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20231207,ocumension therapeutics,184031523000007,,male,35309432.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20231207,liu ye,156218023008222,,male,35309432.0
+25707.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20231215,paggiarino dario a.,156218023008415,Chief Medical Officer,male,35309432.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240102,lurker nancy,156218024000035,Executive Vice Chair,female,49043074.0
+13662.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240109,pine michael craig,156218024000400,Chief Corp Dev.&Strat. Officer,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,zaderej karen l.,156218024000401,,female,49043074.0
+170441.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240109,lurker nancy,156218024000402,Executive Vice Chair,female,49043074.0
+36505.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240109,paggiarino dario a.,156218024000403,Chief Medical Officer,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,adamis anthony p,156218024000391,,male,49043074.0
+35308.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240109,elston george,156218024000397,Chief Financial Officer,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,guyer david r,156218024000396,,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,landis john b.,156218024000395,,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,duty stuart,156218024000394,,male,49043074.0
+37962.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240109,jones david scott,156218024000399,SVP & Chief Commercial Officer,male,49043074.0
+43486.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240109,duker jay s.,156218024000398,President and CEO,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,ando goran,156218024000392,,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240109,dicicco wendy f,156218024000393,,female,49043074.0
+36505.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240110,paggiarino dario a.,156218024000414,Chief Medical Officer,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240116,liu ye,156218024000466,,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",1,0,0,0,20240116,ocumension therapeutics,184031524000002,,male,49043074.0
+37962.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240124,jones david scott,156218024000581,SVP & Chief Commercial Officer,male,49043074.0
+36505.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240125,paggiarino dario a.,156218024000637,Chief Medical Officer,male,49043074.0
+135441.0,52208.0,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240125,lurker nancy,156218024000636,Executive Vice Chair,female,49043074.0
+37962.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240126,jones david scott,156218024000673,SVP & Chief Commercial Officer,male,49043074.0
+36505.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240129,paggiarino dario a.,156218024000784,Chief Medical Officer,male,49043074.0
+37962.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240129,jones david scott,156218024000785,SVP & Chief Commercial Officer,male,49043074.0
+36505.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240130,paggiarino dario a.,156218024000808,Chief Medical Officer,male,49043074.0
+37962.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240205,jones david scott,156218024001050,SVP & Chief Commercial Officer,male,49043074.0
+43607.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240213,elston george,156218024001291,Chief Financial Officer,male,49043074.0
+42222.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240213,paggiarino dario a.,156218024001293,Chief Medical Officer,male,49043074.0
+126889.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240213,lurker nancy,156218024001294,Executive Vice Chair,female,49043074.0
+51920.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240213,duker jay s.,156218024001290,President and CEO,male,49043074.0
+44916.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240213,jones david scott,156218024001292,SVP & Chief Commercial Officer,male,49043074.0
+20000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240222,duker jay s.,156218024001624,President and CEO,male,49043074.0
+22500.0,,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240228,duker jay s.,156218024001895,President and CEO,male,49043074.0
+,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240304,ribeiro ramiro,156218024002119,Chief Medical Officer,male,49830792.0
+67080.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240402,paggiarino dario a.,156218024003193,Chief Medical Officer,male,49885701.0
+5550.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240516,guyer david r,156218024004106,,male,49885701.0
+47480.0,,1314102,"eyepoint pharmaceuticals, inc.",false,true,false,false,20240528,elston george,156218024004462,Chief Financial Officer,male,49885701.0
+3700.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240604,guyer david r,156218024004638,,male,49885701.0
+4000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240625,adamis anthony p,156218024005299,,male,49885701.0
+94462.0,126889.0,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240712,lurker nancy,156218024005700,Executive Vice Chair,female,52160305.0
+38027.0,22500.0,1314102,"eyepoint pharmaceuticals, inc.",true,true,false,false,20240712,duker jay s.,156218024005701,President and CEO,male,52160305.0
+4000.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240712,zaderej karen l.,156218024005698,,female,52160305.0
+1850.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240716,guyer david r,156218024005752,,male,52160305.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240726,lurker nancy,156218024005854,,female,52160305.0
+97635.0,126889.0,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240820,lurker nancy,156218024006378,,female,53518210.0
+13150.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240821,ando goran,156218024006432,,male,53518210.0
+16500.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240821,zaderej karen l.,156218024006431,,female,53518210.0
+9967.0,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240821,dicicco wendy f,156218024006440,,female,53518210.0
+,,1314102,"eyepoint pharmaceuticals, inc.",true,false,false,false,20240905,hassan fred,156218024006671,,male,53518210.0

@@ -1,38 +1,194 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-0.0,0.0,1360214,transdel pharmaceuticals inc,0,1,0.0,0.0,20100302,nida terry,120919110013350,Chief Business Officer,male,
-50000.0,0.0,1360214,transdel pharmaceuticals inc,1,1,0.0,0.0,20101022,bonfiglio john n,138902510000012,President and CEO,male,
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20120427,abrams jeffrey j,142116812000003,,male,11174025.0
-4634254.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,1,1.0,0.0,20120720,kammer robert j,107878212001835,Chairman of the Board,male,29696213.0
-1646927.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,1,1.0,0.0,20120720,baum mark l,107878212001836,Chief Executive Officer,male,29696213.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20120720,"dermastar international, llc",107878212001837,,male,29696213.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20120815,austin stephen g,107878212002083,,male,29696213.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20121218,bassani august shelby,107878212003243,,male,33859627.0
-1419835.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20130506,baum mark l,107878213000874,Chief Executive Officer,male,8888250.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20130508,boll andrew,107878213000906,VP ACCOUNTING AND REPORTING,male,8888250.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20130508,schupp joachim ph,107878213000907,CHIEF MEDICAL OFFICER,male,8888250.0
-6865.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,finnegan paul,107878213001288,,male,8961583.0
-45927.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,abrams jeffrey j,107878213001289,,male,8961583.0
-6865.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,austin stephen g,107878213001290,,male,8961583.0
-6865.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,bassani august shelby,107878213001291,,male,8961583.0
-931689.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20130701,kammer robert j,107878213001292,,male,8961583.0
-8947.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20131004,kenny peter c,107878213001971,,male,8970364.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20140211,boll andrew,107878214000178,"VP, Accounting and Reporting",male,8970364.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20140211,baum mark l,107878214000177,Chief Executive Officer,male,8970364.0
-13488.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20140908,bassani august shelby,149315214002903,,male,9130376.0
-944979.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20140908,kammer robert j,149315214002905,,male,9130376.0
-13488.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20140908,austin stephen g,149315214002901,,male,9130376.0
-6623.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20140908,nelson william h.,149315214002899,,male,9130376.0
-973264.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20141002,kammer robert j,149315214003218,,male,9246551.0
-187500.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20150202,boll andrew r.,149315215000351,Chief Financial Officer,male,9258231.0
-30000.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20150202,saharek john p.,149315215000353,Chief Commercial Officer,male,9258231.0
-988546.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20150427,kammer robert j,149315215001607,,male,9353704.0
-12904.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150515,nelson william h.,149315215002058,,male,9353704.0
-6281.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150515,lindstrom richard l md,149315215002056,,male,9353704.0
-19769.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150515,austin stephen g,149315215002051,,male,9353704.0
-994827.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20150515,kammer robert j,149315215002053,,male,9353704.0
-1170000.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20150520,opaleye management inc.,154692715000162,,male,9353704.0
+,,1360214,transdel pharmaceuticals inc,0,1,0.0,0.0,20100302,nida terry,120919110013350,Chief Business Officer,male,
+,,1360214,transdel pharmaceuticals inc,1,1,0.0,0.0,20101022,bonfiglio john n,138902510000012,President and CEO,male,
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20120427,abrams jeffrey j,142116812000003,,male,11174025.0
+1646927.0,,1360214,"imprimis pharmaceuticals, inc.",1,1,1.0,0.0,20120720,baum mark l,107878212001836,Chief Executive Officer,male,29696213.0
+4634254.0,,1360214,"imprimis pharmaceuticals, inc.",1,1,1.0,0.0,20120720,kammer robert j,107878212001835,Chairman of the Board,male,29696213.0
+0.0,,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20120720,"dermastar international, llc",107878212001837,,male,29696213.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20120815,austin stephen g,107878212002083,,male,29696213.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20121218,bassani august shelby,107878212003243,,male,33859627.0
+1419835.0,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20130506,baum mark l,107878213000874,Chief Executive Officer,male,8888250.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20130508,schupp joachim ph,107878213000907,CHIEF MEDICAL OFFICER,male,8888250.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20130508,boll andrew,107878213000906,VP ACCOUNTING AND REPORTING,male,8888250.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,austin stephen g,107878213001290,,male,8961583.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,bassani august shelby,107878213001291,,male,8961583.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20130701,kammer robert j,107878213001292,,male,8961583.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,abrams jeffrey j,107878213001289,,male,8961583.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20130701,finnegan paul,107878213001288,,male,8961583.0
+8947.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20131004,kenny peter c,107878213001971,,male,8970364.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20140211,baum mark l,107878214000177,Chief Executive Officer,male,8970364.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20140211,boll andrew,107878214000178,"VP, Accounting and Reporting",male,8970364.0
+13488.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20140908,austin stephen g,149315214002901,,male,9130376.0
+13488.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20140908,bassani august shelby,149315214002903,,male,9130376.0
+944979.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20140908,kammer robert j,149315214002905,,male,9130376.0
+6623.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20140908,nelson william h.,149315214002899,,male,9130376.0
+973264.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20141002,kammer robert j,149315214003218,,male,9246551.0
+187500.0,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20150202,boll andrew r.,149315215000351,Chief Financial Officer,male,9258231.0
+30000.0,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20150202,saharek john p.,149315215000353,Chief Commercial Officer,male,9258231.0
+988546.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20150427,kammer robert j,149315215001607,,male,9353704.0
+6281.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150515,lindstrom richard l md,149315215002056,,male,9353704.0
+994827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,1.0,0.0,20150515,kammer robert j,149315215002053,,male,9353704.0
+19769.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150515,austin stephen g,149315215002051,,male,9353704.0
+12904.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150515,nelson william h.,149315215002058,,male,9353704.0
+1170000.0,,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20150520,opaleye management inc.,154692715000162,,male,9353704.0
 468576.0,278479.0,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20150520,miloni donald paul,149315215002168,,male,9353704.0
-1205000.0,0.0,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20150630,opaleye management inc.,154692715000183,,male,9551189.0
-0.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20150805,baum mark l,149315215003376,Chief Executive Officer,male,9551189.0
-10750.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150812,lindstrom richard l md,149315215003579,,male,9594507.0
-4573.0,0.0,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150903,principi anthony,149315215004184,,male,9594507.0
+1205000.0,,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20150630,opaleye management inc.,154692715000183,,male,9551189.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20150805,baum mark l,149315215003376,Chief Executive Officer,male,9551189.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20150805,baum mark l,149315215003376,Chief Executive Officer,male,9551189.0
+10750.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150812,lindstrom richard l md,149315215003579,,male,9594507.0
+10750.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150812,lindstrom richard l md,149315215003579,,male,9594507.0
+4573.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150903,principi anthony,149315215004184,,male,9594507.0
+4573.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20150903,principi anthony,149315215004184,,male,9594507.0
+202500.0,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20160203,boll andrew r.,149315216007108,Chief Financial Officer,male,9755678.0
+1250000.0,,1360214,"imprimis pharmaceuticals, inc.",0,0,1.0,0.0,20160314,opaleye management inc.,154692716000454,,male,9755678.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20160405,saharek john p.,149315216008665,Chief Commercial Officer,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20160405,boll andrew r.,149315216008664,Chief Financial Officer,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20160405,baum mark l,149315216008663,Chief Executive Officer,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20160426,baum mark l,149315216009192,Chief Executive Officer,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20160426,boll andrew r.,149315216009193,Chief Financial Officer,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20160614,principi anthony,149315216010823,,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20160614,austin stephen g,149315216010818,,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20160614,kammer robert j,149315216010819,,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20160614,lindstrom richard l md,149315216010821,,male,13105678.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20160614,nelson william h.,149315216010822,,male,13105678.0
+1089827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20161103,kammer robert j,149315216014460,,male,13229320.0
+54000.0,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20161221,boll andrew r.,149315216016103,Chief Financial Officer,male,13253763.0
+100000.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20161221,lindstrom richard l md,149315216016104,,male,13253763.0
+442126.0,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20161221,baum mark l,149315216016102,Chief Executive Officer,male,13253763.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20170203,baum mark l,149315217001107,Chief Executive Officer,male,18627915.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20170203,saharek john p.,149315217001109,Chief Commercial Officer,male,18627915.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20170203,boll andrew r.,149315217001108,Chief Financial Officer,male,18627915.0
+1069827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170314,kammer robert j,149315217002420,,male,18627915.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20170417,edwards clayton d,149315217004057,Chief Operating Officer,male,19965415.0
+100000.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170501,lindstrom richard l md,149315217004611,,male,19965415.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170615,austin stephen g,149315217006713,,male,19965415.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170615,kammer robert j,149315217006714,,male,19965415.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170615,lindstrom richard l md,149315217006715,,male,19965415.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170615,principi anthony,149315217006716,,male,19965415.0
+1059827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20170719,kammer robert j,149315217007989,,male,20065415.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20180104,saharek john p.,149315218000186,Chief Commercial Officer,male,20623129.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,1,0.0,0.0,20180104,baum mark l,149315218000185,Chief Executive Officer,male,20623129.0
+,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20180104,boll andrew r.,149315218000184,Chief Financial Officer,male,20623129.0
+30000.0,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20180202,saharek john p.,149315218001437,Chief Commercial Officer,male,20623129.0
+84000.0,,1360214,"imprimis pharmaceuticals, inc.",0,1,0.0,0.0,20180202,boll andrew r.,149315218001435,Chief Financial Officer,male,20623129.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20180702,lindstrom richard l md,149315218009612,,male,21049448.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20180702,kammer robert j,149315218009610,,male,21049448.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20180702,principi anthony,149315218009609,,male,21049448.0
+,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20180702,austin stephen g,149315218009606,,male,21049448.0
+929827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20180815,kammer robert j,149315218011956,,male,21049448.0
+919827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20180905,kammer robert j,149315218012921,,male,21049448.0
+909827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20181018,kammer robert j,149315218014616,,male,22656183.0
+899827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20181102,kammer robert j,149315218015161,,male,22656183.0
+889827.0,,1360214,"imprimis pharmaceuticals, inc.",1,0,0.0,0.0,20181206,kammer robert j,149315218017070,,male,23277975.0
+879827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190103,kammer robert j,149315219000138,,male,24339610.0
+869827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190201,kammer robert j,149315219001267,,male,24339610.0
+,,1360214,"harrow health, inc.",1,1,0.0,0.0,20190221,baum mark l,149315219002375,Chief Executive Officer,male,24339610.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20190221,boll andrew r.,149315219002376,Chief Financial Officer,male,24339610.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20190221,saharek john p.,149315219002377,Chief Commercial Officer,male,24339610.0
+859827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190304,kammer robert j,149315219002846,,male,24339610.0
+849827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190402,kammer robert j,149315219004741,,male,24718649.0
+839827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190503,kammer robert j,149315219006390,,male,24718649.0
+829827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190605,kammer robert j,149315219008761,,male,24718649.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190628,principi anthony,149315219009928,,male,24718649.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190628,lindstrom richard l md,149315219009925,,male,24718649.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190628,austin stephen g,149315219009923,,male,24718649.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190628,kammer robert j,149315219009927,,male,24718649.0
+823327.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190716,kammer robert j,149315219010706,,male,25138958.0
+816827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190814,kammer robert j,149315219012666,,male,25165965.0
+810327.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20190911,kammer robert j,149315219014000,,male,25165965.0
+803827.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20191008,kammer robert j,149315219015262,,male,25168841.0
+797327.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20191113,kammer robert j,149315219017079,,male,25172931.0
+598126.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20191125,baum mark l,149315219018350,Chief Executive Officer,male,25172931.0
+123000.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20191125,boll andrew r.,149315219018352,Chief Financial Officer,male,25172931.0
+,,1360214,"harrow health, inc.",1,1,0.0,0.0,20200106,baum mark l,149315220000270,Chief Executive Officer,male,25526931.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20200106,boll andrew r.,149315220000271,Chief Financial Officer,male,25526931.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200318,sparks teresa,149315220004289,,female,25526931.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200318,austin stephen g,149315220004287,,male,25526931.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20200522,opaleye management inc.,149315220009778,,male,25618918.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20200604,opaleye management inc.,149315220010599,,male,25618918.0
+,,1360214,"harrow health, inc.",1,1,0.0,0.0,20200608,baum mark l,149315220010785,Chief Executive Officer,male,25618918.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200608,principi anthony,149315220010786,,male,25618918.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200608,sparks teresa,149315220010787,,female,25618918.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200608,lindstrom richard l md,149315220010788,,male,25618918.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200608,kammer robert j,149315220010793,,male,25618918.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20200623,opaleye management inc.,149315220011671,,male,25618918.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20200709,opaleye management inc.,149315220013031,,male,25649171.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20200714,opaleye management inc.,149315220013301,,male,25649171.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200930,van horn r. lawrence,149315220018649,,male,25652169.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20200930,principi anthony,149315220018653,,male,25652169.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20201222,opaleye management inc.,149315220024154,,male,25745967.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20210223,boll andrew r.,149315221004655,Chief Financial Officer,male,25749875.0
+,,1360214,"harrow health, inc.",1,1,0.0,0.0,20210223,baum mark l,149315221004654,Chief Executive Officer,male,25749875.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20210223,saharek john p.,149315221004656,"President, ImprimisRx",male,25749875.0
+837676.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20210226,baum mark l,149315221005005,Chief Executive Officer,male,25749875.0
+145500.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20210226,boll andrew r.,149315221005004,Chief Financial Officer,male,25749875.0
+223168.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20210427,boll andrew r.,149315221009874,Chief Financial Officer,male,25983676.0
+1353547.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20210427,baum mark l,149315221009872,Chief Executive Officer,male,25983676.0
+90000.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210521,lindstrom richard l md,149315221012566,,male,25983676.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20210622,opaleye management inc.,149315221014965,,male,25983676.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210628,lindstrom richard l md,149315221015459,,male,25983676.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210628,kammer robert j,149315221015458,,male,25983676.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210628,van horn r. lawrence,149315221015457,,male,25983676.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210628,sparks teresa,149315221015456,,female,25983676.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20210722,opaleye management inc.,149315221017502,,male,26893896.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20210723,boll andrew r.,149315221017685,Chief Financial Officer,male,26893896.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20210723,saharek john p.,149315221017682,"President, ImprimisRx",male,26893896.0
+,,1360214,"harrow health, inc.",1,1,0.0,0.0,20210723,baum mark l,149315221017686,Chief Executive Officer,male,26893896.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20210819,opaleye management inc.,149315221020734,,male,26893896.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20210823,opaleye management inc.,149315221021045,,male,26893896.0
+70000.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210917,lindstrom richard l md,149315221023036,,male,26893896.0
+66100.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20210927,lindstrom richard l md,149315221023910,,male,26893896.0
+1407141.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20220121,baum mark l,149315222002006,Chief Executive Officer,male,26902763.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20220131,opaleye management inc.,149315222002706,,male,26902763.0
+252563.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20220223,boll andrew r.,149315222005271,Chief Financial Officer,male,26902763.0
+54077.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20220223,saharek john p.,149315222005270,"President, ImprimisRx",male,26902763.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20220413,opaleye management inc.,149315222009857,,male,27031127.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20220610,sparks teresa,149315222016473,,female,27031127.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20220610,sternberg perry j.,149315222016475,,male,27031127.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20220610,makary martin a.,149315222016471,,male,27031127.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20220610,lindstrom richard l md,149315222016479,,male,27031127.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20220610,van horn r. lawrence,149315222016477,,male,27031127.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20220930,opaleye management inc.,149315222027192,,male,27074307.0
+26100.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20221003,lindstrom richard l md,149315222027463,,male,27074307.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20221214,opaleye management inc.,149315222035435,,male,27413654.0
+255063.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20221223,boll andrew r.,149315222036395,Chief Financial Officer,male,27413654.0
+25000.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20221223,makary martin a.,149315222036394,,male,27413654.0
+1860.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20221223,van horn r. lawrence,149315222036393,,male,27413654.0
+1432141.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20221223,baum mark l,149315222036396,Chief Executive Officer,male,27413654.0
+1484962.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20230103,baum mark l,149315223000190,Chief Executive Officer,male,29901530.0
+268461.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20230103,boll andrew r.,149315223000191,Chief Financial Officer,male,29901530.0
+324019.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20230404,boll andrew r.,149315223010882,Chief Financial Officer,male,30056370.0
+1547329.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20230404,baum mark l,149315223010886,Chief Executive Officer,male,30056370.0
+,,1360214,"harrow health, inc.",0,1,0.0,0.0,20230404,saharek john p.,149315223010884,Chief Commercial Officer,male,30056370.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20230623,sparks teresa,149315223022259,,female,30056370.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20230623,makary martin a.,149315223022258,,male,30056370.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20230623,sternberg perry j.,149315223022260,,male,30056370.0
+,,1360214,"harrow health, inc.",1,0,0.0,0.0,20230623,van horn r. lawrence,149315223022261,,male,30056370.0
+534169.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20230720,boll andrew r.,149315223025146,Chief Financial Officer,male,30276938.0
+2009661.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20230720,baum mark l,149315223025150,Chief Executive Officer,male,30276938.0
+222197.0,,1360214,"harrow health, inc.",0,1,0.0,0.0,20230720,saharek john p.,149315223025148,Chief Commercial Officer,male,30276938.0
+45000.0,,1360214,"harrow health, inc.",1,0,0.0,0.0,20230815,makary martin a.,149315223028830,,male,35115254.0
+2015461.0,,1360214,"harrow health, inc.",1,1,0.0,0.0,20230815,baum mark l,149315223028832,Chief Executive Officer,male,35115254.0
+,,1360214,"harrow health, inc.",0,0,1.0,0.0,20230920,opaleye management inc.,149315223033247,,male,35115254.0
+232419.0,,1360214,"harrow, inc.",0,1,0.0,0.0,20231114,saharek john p.,149315223041355,Chief Commercial Officer,male,35117746.0
+,,1360214,"harrow, inc.",0,0,1.0,0.0,20231116,opaleye management inc.,149315223041661,,male,35117746.0
+2022961.0,,1360214,"harrow, inc.",1,1,0.0,0.0,20231116,baum mark l,149315223041691,Chief Executive Officer,male,35117746.0
+,,1360214,"harrow, inc.",1,0,0.0,0.0,20240130,silvernail lauren p,149315224004312,,female,35168260.0
+,,1360214,"harrow, inc.",1,0,0.0,0.0,20240130,graves adrienne l,149315224004313,,female,35168260.0
+,,1360214,"harrow, inc.",0,1,0.0,0.0,20240208,boll andrew r.,149315224005370,CHIEF FINANCIAL OFFICER,male,35168260.0
+,,1360214,"harrow, inc.",1,1,0.0,0.0,20240208,baum mark l,149315224005371,CHIEF EXECUTIVE OFFICER,male,35168260.0
+,,1360214,"harrow, inc.",1,1,0.0,0.0,20240221,baum mark l,149315224007453,CHIEF EXECUTIVE OFFICER,male,35168260.0
+,,1360214,"harrow, inc.",0,1,0.0,0.0,20240221,boll andrew r.,149315224007454,CHIEF FINANCIAL OFFICER,male,35168260.0
+,,1360214,"harrow, inc.",0,1,0.0,0.0,20240221,saharek john p.,149315224007456,CEO of ImprimisRx,male,35168260.0
+,,1360214,"harrow, inc.",0,1,0.0,0.0,20240306,saharek john p.,149315224008930,CEO of ImprimisRx,male,35168260.0
+,,1360214,"harrow, inc.",0,0,1.0,0.0,20240322,opaleye management inc.,149315224010936,,male,35362642.0
+,,1360214,"harrow, inc.",1,1,0.0,0.0,20240325,baum mark l,149315224011071,CHIEF EXECUTIVE OFFICER,male,35362642.0
+,,1360214,"harrow, inc.",0,0,1.0,0.0,20240328,opaleye management inc.,149315224011815,,male,35362642.0
+,,1360214,"harrow, inc.",0,0,1.0,0.0,20240419,opaleye management inc.,149315224015410,,male,35380955.0
+,,1360214,"harrow, inc.",0,0,1.0,0.0,20240424,opaleye management inc.,149315224015806,,male,35380955.0
+,,1360214,"harrow, inc.",0,0,1.0,0.0,20240425,opaleye management inc.,149315224015983,,male,35380955.0
+,,1360214,"harrow, inc.",1,0,0.0,0.0,20240617,silvernail lauren p,149315224024192,,female,35380955.0
+,,1360214,"harrow, inc.",1,0,0.0,0.0,20240617,graves adrienne l,149315224024193,,female,35380955.0
+,,1360214,"harrow, inc.",1,0,0.0,0.0,20240617,makary martin a.,149315224024194,,male,35380955.0
+,,1360214,"harrow, inc.",1,0,0.0,0.0,20240617,sternberg perry j.,149315224024195,,male,35380955.0
+,,1360214,"harrow, inc.",0,1,0.0,0.0,20240913,saharek john p.,149315224036244,CEO of ImprimisRx,male,35482944.0

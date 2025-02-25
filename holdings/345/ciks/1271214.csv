@@ -1,61 +1,300 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-1124492.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140729,de clercq casper l.,118143114027632,,male,1872000.0
-3548589.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140729,mead dana g jr.,120919114049384,,female,1872000.0
-224189.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20140729,kaufman richard e,120919114049385,See Remarks,male,1872000.0
-2576966.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140729,anderson rick d,120919114049388,,male,1872000.0
-2901.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20140729,wolbeck amy,120919114049389,See Remarks,female,1872000.0
-4352.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20140729,binney robert h jr,120919114049391,"Vice President, Sales",male,1872000.0
-276178.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20140729,moll frederic h,120919114049394,,male,1872000.0
-1198296.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20140729,fletcher mark j,120919114049402,,male,1872000.0
-3975433.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140730,tansey casey m,154853814000018,,male,1872000.0
-292428.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20140807,moll frederic h,120919114051278,,male,1872000.0
-5000.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20140912,lucchese cynthia l,127121414000001,,female,23365756.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20140926,moll frederic h,127121414000003,,male,23365756.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140926,tansey casey m,154853814000025,,male,23365756.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140926,anderson rick d,127121414000004,,male,23365756.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140926,de clercq casper l.,118143114032663,,male,23365756.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20140926,mead dana g jr.,127121414000002,,female,23365756.0
-1932724.0,0.0,1271214,"intersect ent, inc.",0,0,1,0,20150120,anderson rick d,120919115005239,,male,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150123,wolbeck amy,127121415000007,"VP, Reg. Affairs and Quality",female,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150123,stimson susan p,127121415000006,"Vice President, Marketing",female,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150123,binney robert h jr,127121415000004,"Vice President, Sales",male,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",1,1,0,0,20150123,earnhardt lisa d,127121415000001,President and CEO,female,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150123,hilleman jeryl l,127121415000002,Chief Financial Officer,male,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150123,kaufman richard e,127121415000003,SVP & Chief Operating Officer,male,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150123,stambaugh james,127121415000005,"VP, Clinical and Reimbursement",male,23379000.0
-4352.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150128,binney robert h jr,161447615000001,"Vice President, Sales",male,23379000.0
-19471.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150203,stambaugh james,156218015000061,VP Clinical Affairs & Reimb.,male,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",0,1,0,0,20150203,mckhann chas,163174615000004,Chief Commercial Officer,male,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150213,wolbeck amy,156218015000077,V.P. Regulatory Affairs & Qlty,female,23379000.0
+1124492.0,,1271214,"intersect ent, inc.",1,0,1,0.0,20140729,de clercq casper l.,118143114027632,,male,1872000.0
+3548589.0,,1271214,"intersect ent, inc.",1,0,1,0,20140729,mead dana g jr.,120919114049384,,female,1872000.0
+224189.0,,1271214,"intersect ent, inc.",0,1,0,0,20140729,kaufman richard e,120919114049385,See Remarks,male,1872000.0
+2576966.0,,1271214,"intersect ent, inc.",1,0,1,0,20140729,anderson rick d,120919114049388,,male,1872000.0
+2901.0,,1271214,"intersect ent, inc.",0,1,0,0,20140729,wolbeck amy,120919114049389,See Remarks,female,1872000.0
+4352.0,,1271214,"intersect ent, inc.",0,1,0,0,20140729,binney robert h jr,120919114049391,"Vice President, Sales",male,1872000.0
+276178.0,,1271214,"intersect ent, inc.",1,0,0,0,20140729,moll frederic h,120919114049394,,male,1872000.0
+1198296.0,,1271214,"intersect ent, inc.",1,0,0,0,20140729,fletcher mark j,120919114049402,,male,1872000.0
+3975433.0,,1271214,"intersect ent, inc.",1,0,1,0,20140730,tansey casey m,154853814000018,,male,1872000.0
+292428.0,,1271214,"intersect ent, inc.",1,0,0,0,20140807,moll frederic h,120919114051278,,male,1872000.0
+5000.0,,1271214,"intersect ent, inc.",1,0,0,0,20140912,lucchese cynthia l,127121414000001,,female,23365756.0
+,,1271214,"intersect ent, inc.",1,0,1,0.0,20140926,de clercq casper l.,118143114032663,,male,23365756.0
+,,1271214,"intersect ent, inc.",1,0,1,0,20140926,mead dana g jr.,127121414000002,,female,23365756.0
+,,1271214,"intersect ent, inc.",1,0,0,0,20140926,moll frederic h,127121414000003,,male,23365756.0
+,,1271214,"intersect ent, inc.",1,0,1,0,20140926,anderson rick d,127121414000004,,male,23365756.0
+,,1271214,"intersect ent, inc.",1,0,1,0,20140926,tansey casey m,154853814000025,,male,23365756.0
+1932724.0,,1271214,"intersect ent, inc.",0,0,1,0,20150120,anderson rick d,120919115005239,,male,23379000.0
+,,1271214,"intersect ent, inc.",1,1,0,0,20150123,earnhardt lisa d,127121415000001,President and CEO,female,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150123,hilleman jeryl l,127121415000002,Chief Financial Officer,male,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150123,kaufman richard e,127121415000003,SVP & Chief Operating Officer,male,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150123,binney robert h jr,127121415000004,"Vice President, Sales",male,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150123,stambaugh james,127121415000005,"VP, Clinical and Reimbursement",male,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150123,stimson susan p,127121415000006,"Vice President, Marketing",female,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150123,wolbeck amy,127121415000007,"VP, Reg. Affairs and Quality",female,23379000.0
+4352.0,,1271214,"intersect ent, inc.",0,1,0,0,20150128,binney robert h jr,161447615000001,"Vice President, Sales",male,23379000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20150203,mckhann chas,163174615000004,Chief Commercial Officer,male,23379000.0
+19471.0,,1271214,"intersect ent, inc.",false,true,false,false,20150203,stambaugh james,156218015000061,VP Clinical Affairs & Reimb.,male,23379000.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20150213,wolbeck amy,156218015000077,V.P. Regulatory Affairs & Qlty,female,23379000.0
 705550.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150219,earnhardt lisa d,156218015000081,See Remarks,female,23379000.0
-2985433.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20150306,tansey casey m,154853815000013,,male,23379000.0
-824556.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20150306,de clercq casper l.,120919115023350,,male,23379000.0
-11128.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150311,stambaugh james,156218015000187,VP Clinical Affairs & Reimb.,male,23379000.0
-803.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20150312,mead dana g jr.,120919115025800,,female,23379000.0
-0.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150313,wolbeck amy,156218015000192,V.P. Regulatory Affairs & Qlty,female,23379000.0
-1606.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20150317,mead dana g jr.,120919115027174,,female,23379000.0
+824556.0,,1271214,"intersect ent, inc.",1,0,0,0,20150306,de clercq casper l.,120919115023350,,male,23379000.0
+2985433.0,,1271214,"intersect ent, inc.",1,0,1,0,20150306,tansey casey m,154853815000013,,male,23379000.0
+11128.0,,1271214,"intersect ent, inc.",false,true,false,false,20150311,stambaugh james,156218015000187,VP Clinical Affairs & Reimb.,male,23379000.0
+803.0,,1271214,"intersect ent, inc.",1,0,1,0,20150312,mead dana g jr.,120919115025800,,female,23379000.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20150313,wolbeck amy,156218015000192,V.P. Regulatory Affairs & Qlty,female,23379000.0
+1606.0,,1271214,"intersect ent, inc.",1,0,1,0,20150317,mead dana g jr.,120919115027174,,female,23379000.0
 686232.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150318,earnhardt lisa d,156218015000217,See Remarks,female,23379000.0
-2785.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150402,stambaugh james,156218015000255,VP Clinical Affairs,male,23633000.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20150410,vernon w anthony,127121415000012,,male,23633000.0
-0.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20150410,gallahue kieran,127121415000011,,male,23633000.0
-0.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150415,wolbeck amy,156218015000273,V.P. Regulatory Affairs & Qlty,female,23633000.0
+2785.0,,1271214,"intersect ent, inc.",false,true,false,false,20150402,stambaugh james,156218015000255,VP Clinical Affairs,male,23633000.0
+,,1271214,"intersect ent, inc.",1,0,0,0,20150410,vernon w anthony,127121415000012,,male,23633000.0
+,,1271214,"intersect ent, inc.",1,0,0,0,20150410,gallahue kieran,127121415000011,,male,23633000.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20150415,wolbeck amy,156218015000273,V.P. Regulatory Affairs & Qlty,female,23633000.0
 666914.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150417,earnhardt lisa d,156218015000275,See Remarks,female,23633000.0
-0.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150511,wolbeck amy,156218015000337,V.P. Regulatory Affairs & Qlty,female,23663022.0
-0.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150511,stambaugh james,156218015000336,VP Clinical Affairs,male,23663022.0
-1995433.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20150511,tansey casey m,154853815000015,,male,23663022.0
-2891.0,0.0,1271214,"intersect ent, inc.",1,0,1,0,20150512,mead dana g jr.,120919115041968,,female,23663022.0
-600120.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20150514,de clercq casper l.,120919115042715,,male,23663022.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20150511,stambaugh james,156218015000336,VP Clinical Affairs,male,23663022.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20150511,wolbeck amy,156218015000337,V.P. Regulatory Affairs & Qlty,female,23663022.0
+1995433.0,,1271214,"intersect ent, inc.",1,0,1,0,20150511,tansey casey m,154853815000015,,male,23663022.0
+2891.0,,1271214,"intersect ent, inc.",1,0,1,0,20150512,mead dana g jr.,120919115041968,,female,23663022.0
+600120.0,,1271214,"intersect ent, inc.",1,0,0,0,20150514,de clercq casper l.,120919115042715,,male,23663022.0
 647596.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150519,earnhardt lisa d,156218015000380,President and CEO,female,23663022.0
-216189.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150519,kaufman richard e,156218015000382,See Remarks,male,23663022.0
-0.0,0.0,1271214,"intersect ent, inc.",true,false,false,false,20150605,lucchese cynthia l,156218015000453,,female,23663022.0
-0.0,0.0,1271214,"intersect ent, inc.",true,false,true,false,20150605,mead dana g jr.,156218015000454,,female,23663022.0
-0.0,0.0,1271214,"intersect ent, inc.",true,false,false,false,20150605,moll frederic h,156218015000455,,male,23663022.0
-0.0,0.0,1271214,"intersect ent, inc.",true,false,true,false,20150605,tansey casey m,156218015000456,,male,23663022.0
+216189.0,,1271214,"intersect ent, inc.",false,true,false,false,20150519,kaufman richard e,156218015000382,See Remarks,male,23663022.0
+,,1271214,"intersect ent, inc.",true,false,true,false,20150605,tansey casey m,156218015000456,,male,23663022.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20150605,moll frederic h,156218015000455,,male,23663022.0
+,,1271214,"intersect ent, inc.",true,false,true,false,20150605,mead dana g jr.,156218015000454,,female,23663022.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20150605,lucchese cynthia l,156218015000453,,female,23663022.0
 628278.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150616,earnhardt lisa d,156218015000487,President and CEO,female,23663022.0
 608960.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150716,earnhardt lisa d,156218015000575,President and CEO,female,27896000.0
-0.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150721,stambaugh james,156218015000578,VP Clinical Affairs,male,27896000.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20150721,stambaugh james,156218015000578,VP Clinical Affairs,male,27896000.0
 602142.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150819,earnhardt lisa d,156218015000684,President and CEO,female,27990043.0
-4000.0,0.0,1271214,"intersect ent, inc.",false,true,false,false,20150904,stambaugh james,156218015000726,VP Clinical Affairs,male,27990043.0
-282428.0,0.0,1271214,"intersect ent, inc.",true,false,false,false,20150915,moll frederic h,156218015000762,,male,27990043.0
+602142.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150819,earnhardt lisa d,156218015000684,President and CEO,female,27990043.0
+4000.0,,1271214,"intersect ent, inc.",false,true,false,false,20150904,stambaugh james,156218015000726,VP Clinical Affairs,male,27990043.0
+4000.0,,1271214,"intersect ent, inc.",false,true,false,false,20150904,stambaugh james,156218015000726,VP Clinical Affairs,male,27990043.0
+282428.0,,1271214,"intersect ent, inc.",true,false,false,false,20150915,moll frederic h,156218015000762,,male,27990043.0
+282428.0,,1271214,"intersect ent, inc.",true,false,false,false,20150915,moll frederic h,156218015000762,,male,27990043.0
 595324.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150916,earnhardt lisa d,156218015000766,President and CEO,female,27990043.0
-278613.0,0.0,1271214,"intersect ent, inc.",1,0,0,0,20150917,moll frederic h,126015715000001,,male,27990043.0
+595324.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20150916,earnhardt lisa d,156218015000766,President and CEO,female,27990043.0
+,,1271214,"intersect ent, inc.",1,0,0,0,20150917,moll frederic h,126015715000001,,male,27990043.0
+,,1271214,"intersect ent, inc.",1,0,0,0,20150917,moll frederic h,126015715000001,,male,27990043.0
+588506.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20151016,earnhardt lisa d,156218015000856,President and CEO,female,28010000.0
+24000.0,,1271214,"intersect ent, inc.",false,true,false,false,20151110,stambaugh james,156218015000967,VP Clinical Affairs,male,28012859.0
+581688.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20151117,earnhardt lisa d,156218015000980,President and CEO,female,28012859.0
+274378.0,,1271214,"intersect ent, inc.",true,false,false,false,20151215,moll frederic h,156218015001074,,male,28012859.0
+574868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20151216,earnhardt lisa d,156218015001097,President and CEO,female,28012859.0
+5700.0,,1271214,"intersect ent, inc.",false,true,false,false,20151230,wolbeck amy,156218015001138,V.P. Regulatory Affairs & Qlty,female,28012859.0
+570368.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20160120,earnhardt lisa d,156218016001352,President and CEO,female,28159000.0
+,,1271214,"intersect ent, inc.",false,true,false,false,20160120,hilleman jeryl l,156218016001353,Chief Financial Officer,male,28159000.0
+,,1271214,"intersect ent, inc.",false,true,false,false,20160120,kaufman richard e,156218016001354,See Remarks,male,28159000.0
+,,1271214,"intersect ent, inc.",false,true,false,false,20160120,stambaugh james,156218016001355,VP Clinical Affairs,male,28159000.0
+,,1271214,"intersect ent, inc.",false,true,false,false,20160120,wolbeck amy,156218016001356,V.P. Regulatory Affairs & Qlty,female,28159000.0
+,,1271214,"intersect ent, inc.",false,true,false,false,20160120,mckhann chas,156218016001357,Chief Commercial Officer,male,28159000.0
+208983.0,,1271214,"intersect ent, inc.",false,true,false,false,20160122,kaufman richard e,156218016001386,Sr VP& Chief Operating Officer,male,28159000.0
+205380.0,,1271214,"intersect ent, inc.",false,true,false,false,20160223,kaufman richard e,156218016001781,Sr VP& Chief Operating Officer,male,28176941.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20160223,lehman david aaron,127121416000015,General Counsel,male,28176941.0
+253978.0,,1271214,"intersect ent, inc.",true,false,false,false,20160302,moll frederic h,156218016001878,,male,28176941.0
+253978.0,,1271214,"intersect ent, inc.",true,false,false,false,20160307,moll frederic h,156218016001930,,male,28176941.0
+253377.0,,1271214,"intersect ent, inc.",true,false,false,false,20160309,moll frederic h,156218016001945,,male,28176941.0
+561368.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20160316,earnhardt lisa d,156218016001989,President and CEO,female,28176941.0
+252078.0,,1271214,"intersect ent, inc.",true,false,false,false,20160316,moll frederic h,156218016001990,,male,28176941.0
+201777.0,,1271214,"intersect ent, inc.",false,true,false,false,20160322,kaufman richard e,156218016002016,Sr VP& Chief Operating Officer,male,28176941.0
+556868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20160419,earnhardt lisa d,156218016002128,President and CEO,female,28283000.0
+198174.0,,1271214,"intersect ent, inc.",false,true,false,false,20160422,kaufman richard e,156218016002166,Sr VP& Chief Operating Officer,male,28283000.0
+5700.0,,1271214,"intersect ent, inc.",false,true,false,false,20160428,wolbeck amy,156218016002188,V.P. Regulatory Affairs & Qlty,female,28283000.0
+8000.0,,1271214,"intersect ent, inc.",true,false,false,false,20160517,gallahue kieran,156218016002368,,male,28326471.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20160606,moll frederic h,156218016002536,,male,28326471.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20160606,gallahue kieran,156218016002538,,male,28326471.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20160606,vernon w anthony,156218016002539,,male,28326471.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20160606,mead dana g jr.,156218016002540,,female,28326471.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20160606,tansey casey m,156218016002541,,male,28326471.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20160606,lucchese cynthia l,156218016002537,,female,28326471.0
+24000.0,,1271214,"intersect ent, inc.",false,true,false,false,20160614,stambaugh james,156218016002626,VP Clinical Affairs,male,28326471.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20160629,carscadden gwen r.,159094816000003,Chief People Officer,female,28326471.0
+24000.0,,1271214,"intersect ent, inc.",false,true,false,false,20160719,stambaugh james,156218016002821,VP Clinical Affairs,male,28443000.0
+24000.0,,1271214,"intersect ent, inc.",false,true,false,false,20160805,stambaugh james,156218016002910,VP Clinical Affairs,male,28454322.0
+20000.0,,1271214,"intersect ent, inc.",false,true,false,false,20160907,stambaugh james,156218016003114,VP Clinical Affairs,male,28454322.0
+5700.0,,1271214,"intersect ent, inc.",false,true,false,false,20160908,wolbeck amy,156218016003135,V.P. Regulatory Affairs & Qlty,female,28454322.0
+556868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20161019,earnhardt lisa d,156218016003251,President and CEO,female,28562000.0
+194571.0,,1271214,"intersect ent, inc.",false,true,false,false,20161024,kaufman richard e,156218016003272,Sr VP& Chief Operating Officer,male,28562000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20170120,lucchese cynthia l,156218017000294,,female,28673000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20170120,moll frederic h,156218017000295,,male,28673000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20170120,tansey casey m,156218017000296,,male,28673000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20170120,vernon w anthony,156218017000297,,male,28673000.0
+610868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170120,earnhardt lisa d,156218017000298,President and CEO,female,28673000.0
+203571.0,,1271214,"intersect ent, inc.",false,true,false,false,20170120,kaufman richard e,156218017000299,Sr VP& Chief Operating Officer,male,28673000.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20170120,hilleman jeryl l,156218017000300,Chief Financial Officer,male,28673000.0
+4500.0,,1271214,"intersect ent, inc.",false,true,false,false,20170120,carscadden gwen r.,156218017000301,Chief People Officer,female,28673000.0
+9000.0,,1271214,"intersect ent, inc.",false,true,false,false,20170120,lehman david aaron,156218017000302,General Counsel,male,28673000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20170120,gallahue kieran,156218017000293,,male,28673000.0
+610868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170217,earnhardt lisa d,156218017000808,President and CEO,female,28677943.0
+600868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170316,earnhardt lisa d,156218017001284,President and CEO,female,28677943.0
+590868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170418,earnhardt lisa d,156218017001520,President and CEO,female,28758000.0
+202321.0,,1271214,"intersect ent, inc.",false,true,false,false,20170421,kaufman richard e,156218017001534,Sr VP& Chief Operating Officer,male,28758000.0
+0.0,,1271214,"intersect ent, inc.",1,0,0,0,20170510,tansey casey m,154853817000003,,male,28772570.0
+580868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170516,earnhardt lisa d,156218017001967,President and CEO,female,28772570.0
+182321.0,,1271214,"intersect ent, inc.",false,true,false,false,20170523,kaufman richard e,156218017002065,Sr VP& Chief Operating Officer,male,28772570.0
+2546.0,,1271214,"intersect ent, inc.",true,false,false,false,20170605,vernon w anthony,156218017002201,,male,28772570.0
+254624.0,,1271214,"intersect ent, inc.",true,false,false,false,20170605,moll frederic h,156218017002199,,male,28772570.0
+8242.0,,1271214,"intersect ent, inc.",true,false,false,false,20170605,mead dana g jr.,156218017002202,,female,28772570.0
+7546.0,,1271214,"intersect ent, inc.",true,false,false,false,20170605,lucchese cynthia l,156218017002198,,female,28772570.0
+10546.0,,1271214,"intersect ent, inc.",true,false,false,false,20170605,gallahue kieran,156218017002197,,male,28772570.0
+2546.0,,1271214,"intersect ent, inc.",true,false,false,false,20170605,tansey casey m,156218017002200,,male,28772570.0
+570868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170619,earnhardt lisa d,156218017002298,President and CEO,female,28772570.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20170712,hilleman jeryl l,156218017002468,Chief Financial Officer,male,29153000.0
+560868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170718,earnhardt lisa d,156218017002491,President and CEO,female,29153000.0
+169821.0,,1271214,"intersect ent, inc.",false,true,false,false,20170726,kaufman richard e,156218017002521,Sr VP& Chief Operating Officer,male,29153000.0
+,,1271214,"intersect ent, inc.",0,1,0,0,20170731,parker drake r.,120919117046837,Chief Business Officer,male,29189423.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20170803,kline teresa l.,156218017002595,,female,29189423.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20170807,hilleman jeryl l,156218017002607,Chief Financial Officer,male,29189423.0
+515868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170817,earnhardt lisa d,156218017002732,President and CEO,female,29189423.0
+147396.0,,1271214,"intersect ent, inc.",false,true,false,false,20170829,kaufman richard e,156218017002800,Sr VP& Chief Operating Officer,male,29189423.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20170906,hilleman jeryl l,156218017002847,Chief Financial Officer,male,29189423.0
+505868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20170919,earnhardt lisa d,156218017002986,President and CEO,female,29189423.0
+133757.0,,1271214,"intersect ent, inc.",false,true,false,false,20170927,kaufman richard e,156218017003031,Sr VP& Chief Operating Officer,male,29189423.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20171005,hilleman jeryl l,156218017003210,Chief Financial Officer,male,29385000.0
+495868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20171017,earnhardt lisa d,156218017003271,President and CEO,female,29385000.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20171106,hilleman jeryl l,156218017003492,Chief Financial Officer,male,29455904.0
+253824.0,,1271214,"intersect ent, inc.",true,false,false,false,20171114,moll frederic h,156218017003559,,male,29455904.0
+485868.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20171117,earnhardt lisa d,156218017003629,President and CEO,female,29455904.0
+239624.0,,1271214,"intersect ent, inc.",true,false,false,false,20171120,moll frederic h,156218017003642,,male,29455904.0
+15000.0,,1271214,"intersect ent, inc.",false,true,false,false,20171205,hilleman jeryl l,156218017003742,Chief Financial Officer,male,29455904.0
+9000.0,,1271214,"intersect ent, inc.",false,true,false,false,20171213,lehman david aaron,156218017003867,General Counsel,male,29455904.0
+477183.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20171218,earnhardt lisa d,156218017003924,President and CEO,female,29455904.0
+12932.0,,1271214,"intersect ent, inc.",false,true,false,false,20180103,hilleman jeryl l,156218018000162,Chief Financial Officer,male,29678000.0
+3856.0,,1271214,"intersect ent, inc.",false,true,false,false,20180103,carscadden gwen r.,156218018000160,Chief People Officer,female,29678000.0
+132470.0,,1271214,"intersect ent, inc.",false,true,false,false,20180103,kaufman richard e,156218018000163,Sr VP& Chief Operating Officer,male,29678000.0
+7713.0,,1271214,"intersect ent, inc.",false,true,false,false,20180103,lehman david aaron,156218018000164,General Counsel,male,29678000.0
+470349.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180103,earnhardt lisa d,156218018000161,President and CEO,female,29678000.0
+12932.0,,1271214,"intersect ent, inc.",false,true,false,false,20180112,hilleman jeryl l,156218018000304,Chief Financial Officer,male,29678000.0
+3856.0,,1271214,"intersect ent, inc.",false,true,false,false,20180116,carscadden gwen r.,156218018000321,Chief People Officer,female,29678000.0
+82470.0,,1271214,"intersect ent, inc.",false,true,false,false,20180118,kaufman richard e,156218018000357,Sr VP& Chief Operating Officer,male,29678000.0
+3000.0,,1271214,"intersect ent, inc.",false,true,false,false,20180119,parker drake r.,156218018000363,Chief Business Officer,male,29678000.0
+9156.0,,1271214,"intersect ent, inc.",false,true,false,false,20180119,carscadden gwen r.,156218018000364,Chief People Officer,female,29678000.0
+88470.0,,1271214,"intersect ent, inc.",false,true,false,false,20180119,kaufman richard e,156218018000365,Sr VP& Chief Operating Officer,male,29678000.0
+15213.0,,1271214,"intersect ent, inc.",false,true,false,false,20180119,lehman david aaron,156218018000366,General Counsel,male,29678000.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20180119,hilleman jeryl l,156218018000367,Chief Financial Officer,male,29678000.0
+484683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180119,earnhardt lisa d,156218018000368,President and CEO,female,29678000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20180119,moll frederic h,156218018000369,,male,29678000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20180119,kline teresa l.,156218018000370,,female,29678000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20180119,lucchese cynthia l,156218018000371,,female,29678000.0
+87512.0,,1271214,"intersect ent, inc.",false,true,false,false,20180205,kaufman richard e,156218018000620,Sr VP& Chief Operating Officer,male,29804937.0
+12932.0,,1271214,"intersect ent, inc.",false,true,false,false,20180207,hilleman jeryl l,156218018000657,Chief Financial Officer,male,29804937.0
+484683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180216,earnhardt lisa d,156218018001054,President and CEO,female,29804937.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20180307,hilleman jeryl l,156218018001544,Chief Financial Officer,male,29804937.0
+484683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180316,earnhardt lisa d,156218018001657,President and CEO,female,29804937.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20180404,hilleman jeryl l,156218018001862,Chief Financial Officer,male,30099000.0
+484683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180417,earnhardt lisa d,156218018001903,President and CEO,female,30099000.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20180507,hilleman jeryl l,156218018002341,Chief Financial Officer,male,30135746.0
+484683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180517,earnhardt lisa d,156218018002535,President and CEO,female,30135746.0
+9756.0,,1271214,"intersect ent, inc.",true,false,false,false,20180607,mead dana g jr.,156218018002915,,female,30135746.0
+4060.0,,1271214,"intersect ent, inc.",true,false,false,false,20180607,vernon w anthony,156218018002916,,male,30135746.0
+1514.0,,1271214,"intersect ent, inc.",true,false,false,false,20180607,kline teresa l.,156218018002917,,female,30135746.0
+241138.0,,1271214,"intersect ent, inc.",true,false,false,false,20180607,moll frederic h,156218018002918,,male,30135746.0
+9060.0,,1271214,"intersect ent, inc.",true,false,false,false,20180607,lucchese cynthia l,156218018002919,,female,30135746.0
+12060.0,,1271214,"intersect ent, inc.",true,false,false,false,20180607,gallahue kieran,156218018002920,,male,30135746.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20180607,hilleman jeryl l,156218018002921,Chief Financial Officer,male,30135746.0
+469683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180619,earnhardt lisa d,156218018003060,President and CEO,female,30135746.0
+87512.0,,1271214,"intersect ent, inc.",false,true,false,false,20180712,kaufman richard e,156218018003282,Sr VP& Chief Operating Officer,male,30435000.0
+454683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180718,earnhardt lisa d,156218018003331,President and CEO,female,30435000.0
+13567.0,,1271214,"intersect ent, inc.",true,false,false,false,20180817,mead dana g jr.,156218018003703,,female,30454533.0
+439683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180817,earnhardt lisa d,156218018003704,President and CEO,female,30454533.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20180918,hilleman jeryl l,156218018003975,Chief Financial Officer,male,30454533.0
+424683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20180919,earnhardt lisa d,156218018003986,President and CEO,female,30454533.0
+23432.0,,1271214,"intersect ent, inc.",false,true,false,false,20181010,hilleman jeryl l,156218018004209,Chief Financial Officer,male,30529000.0
+409683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20181017,earnhardt lisa d,156218018004243,President and CEO,female,30529000.0
+,,1271214,"intersect ent, inc.",false,true,false,false,20181102,kowalski christine r,156218018004388,Chief Operations Officer,female,30555262.0
+394683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20181119,earnhardt lisa d,156218018004613,President and CEO,female,30555262.0
+379683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20181219,earnhardt lisa d,156218018005054,President and CEO,female,30555262.0
+414683.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20181226,earnhardt lisa d,156218018005094,President and CEO,female,30555262.0
+85280.0,,1271214,"intersect ent, inc.",false,true,false,false,20190103,kaufman richard e,156218019000161,Technical Advisor,male,30745000.0
+12795.0,,1271214,"intersect ent, inc.",false,true,false,false,20190103,lehman david aaron,156218019000162,General Counsel,male,30745000.0
+7679.0,,1271214,"intersect ent, inc.",false,true,false,false,20190103,carscadden gwen r.,156218019000163,Chief People Officer,female,30745000.0
+19884.0,,1271214,"intersect ent, inc.",false,true,false,false,20190103,hilleman jeryl l,156218019000164,Chief Financial Officer,male,30745000.0
+404255.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20190103,earnhardt lisa d,156218019000165,President and CEO,female,30745000.0
+41703.0,,1271214,"intersect ent, inc.",false,true,false,false,20190103,stimson susan p,156218019000166,Chief Strategy Officer,female,30745000.0
+46953.0,,1271214,"intersect ent, inc.",false,true,false,false,20190118,stimson susan p,156218019000376,Chief Strategy Officer,female,30745000.0
+438055.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20190118,earnhardt lisa d,156218019000374,President and CEO,female,30745000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20190118,kline teresa l.,156218019000367,,female,30745000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20190118,lucchese cynthia l,156218019000368,,female,30745000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20190118,moll frederic h,156218019000369,,male,30745000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20190118,vernon w anthony,156218019000370,,male,30745000.0
+12179.0,,1271214,"intersect ent, inc.",false,true,false,false,20190118,carscadden gwen r.,156218019000371,Chief People Officer,female,30745000.0
+31884.0,,1271214,"intersect ent, inc.",false,true,false,false,20190118,hilleman jeryl l,156218019000372,Chief Financial Officer,male,30745000.0
+16196.0,,1271214,"intersect ent, inc.",false,true,false,false,20190118,binney robert h jr,156218019000373,Chief Commercial Officer,male,30745000.0
+21795.0,,1271214,"intersect ent, inc.",false,true,false,false,20190118,lehman david aaron,156218019000375,General Counsel,male,30745000.0
+45778.0,,1271214,"intersect ent, inc.",false,true,false,false,20190305,stimson susan p,156218019001725,Chief Strategy Officer,female,30802638.0
+15392.0,,1271214,"intersect ent, inc.",false,true,false,false,20190305,binney robert h jr,156218019001724,Chief Commercial Officer,male,30802638.0
+31884.0,,1271214,"intersect ent, inc.",false,true,false,false,20190403,hilleman jeryl l,156218019002192,Chief Financial Officer,male,31162000.0
+11897.0,,1271214,"intersect ent, inc.",false,true,false,false,20190403,binney robert h jr,156218019002191,Chief Commercial Officer,male,31162000.0
+45778.0,,1271214,"intersect ent, inc.",false,true,false,false,20190412,stimson susan p,156218019002266,Chief Strategy Officer,female,31162000.0
+421983.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20190417,earnhardt lisa d,156218019002289,President and CEO,female,31162000.0
+43115.0,,1271214,"intersect ent, inc.",false,true,false,false,20190424,stimson susan p,156218019002332,Chief Strategy Officer,female,31162000.0
+24030.0,,1271214,"intersect ent, inc.",false,true,false,false,20190501,stimson susan p,156218019002466,Chief Strategy Officer,female,31246267.0
+21795.0,,1271214,"intersect ent, inc.",false,true,false,false,20190501,lehman david aaron,156218019002467,General Counsel,male,31246267.0
+,,1271214,"intersect ent, inc.",true,true,false,false,20190508,gallahue kieran,156218019002724,Executive Chairman,male,31246267.0
+33747.0,,1271214,"intersect ent, inc.",false,true,false,false,20190508,lehman david aaron,156218019002723,General Counsel,male,31246267.0
+23849.0,,1271214,"intersect ent, inc.",false,true,false,false,20190508,binney robert h jr,156218019002721,Chief Commercial Officer,male,31246267.0
+24131.0,,1271214,"intersect ent, inc.",false,true,false,false,20190508,carscadden gwen r.,156218019002720,Chief People Officer,female,31246267.0
+11952.0,,1271214,"intersect ent, inc.",false,true,false,false,20190508,kowalski christine r,156218019002719,Chief Operations Officer,female,31246267.0
+43836.0,,1271214,"intersect ent, inc.",false,true,false,false,20190508,hilleman jeryl l,156218019002722,Chief Financial Officer,male,31246267.0
+35982.0,,1271214,"intersect ent, inc.",false,true,false,false,20190508,stimson susan p,156218019002718,Chief Strategy Officer,female,31246267.0
+35982.0,,1271214,"intersect ent, inc.",false,true,false,false,20190514,stimson susan p,156218019002812,Chief Strategy Officer,female,31246267.0
+421983.0,26182.0,1271214,"intersect ent, inc.",true,true,false,false,20190517,earnhardt lisa d,156218019002944,President and CEO,female,31246267.0
+6372.0,,1271214,"intersect ent, inc.",true,false,false,false,20190606,vernon w anthony,156218019003400,,male,31246267.0
+3826.0,,1271214,"intersect ent, inc.",true,false,false,false,20190606,kline teresa l.,156218019003397,,female,31246267.0
+11372.0,,1271214,"intersect ent, inc.",true,false,false,false,20190606,lucchese cynthia l,156218019003398,,female,31246267.0
+243450.0,,1271214,"intersect ent, inc.",true,false,false,false,20190606,moll frederic h,156218019003399,,male,31246267.0
+15879.0,,1271214,"intersect ent, inc.",true,false,false,false,20190606,mead dana g jr.,156218019003401,,female,31246267.0
+35982.0,,1271214,"intersect ent, inc.",false,true,false,false,20190617,stimson susan p,156218019003555,Chief Strategy Officer,female,31246267.0
+138455.0,,1271214,"intersect ent, inc.",true,true,false,false,20190724,west thomas a.,156218019004053,President and CEO,male,31469000.0
+,26182.0,1271214,"intersect ent, inc.",true,false,false,false,20190726,earnhardt lisa d,156218019004078,,female,31469000.0
+29262.0,,1271214,"intersect ent, inc.",true,true,false,false,20191002,gallahue kieran,156218019005068,Executive Chairman,male,31510000.0
+20702.0,,1271214,"intersect ent, inc.",false,true,false,false,20191107,binney robert h jr,156218019005398,Chief Commercial Officer,male,31514901.0
+109471.0,,1271214,"intersect ent, inc.",false,true,false,false,20191129,meier richard a,156218019005773,EVP & Chief Financial Officer,male,31514901.0
+65541.0,,1271214,"intersect ent, inc.",false,true,false,false,20191129,lehman david aaron,156218019005774,EVP & General Counsel,male,31514901.0
+17706.0,,1271214,"intersect ent, inc.",false,true,false,false,20200106,carscadden gwen r.,156218020000243,Chief People Officer,female,32235000.0
+16252.0,,1271214,"intersect ent, inc.",false,true,false,false,20200106,binney robert h jr,156218020000241,Chief Commercial Officer,male,32235000.0
+7595.0,,1271214,"intersect ent, inc.",false,true,false,false,20200106,kowalski christine r,156218020000242,Chief Operations Officer,female,32235000.0
+57725.0,,1271214,"intersect ent, inc.",false,true,false,false,20200106,lehman david aaron,156218020000240,EVP & General Counsel,male,32235000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20200122,kline teresa l.,156218020000478,,female,32235000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20200122,moll frederic h,156218020000477,,male,32235000.0
+79205.0,,1271214,"intersect ent, inc.",false,true,false,false,20200205,lehman david aaron,156218020000897,EVP & General Counsel,male,32235000.0
+217855.0,,1271214,"intersect ent, inc.",true,true,false,false,20200205,west thomas a.,156218020000896,President and CEO,male,32235000.0
+27035.0,,1271214,"intersect ent, inc.",false,true,false,false,20200205,kowalski christine r,156218020000899,Chief Operating Officer,female,32235000.0
+38332.0,,1271214,"intersect ent, inc.",false,true,false,false,20200205,binney robert h jr,156218020000898,Chief Commercial Officer,male,32235000.0
+31086.0,,1271214,"intersect ent, inc.",false,true,false,false,20200205,carscadden gwen r.,156218020000900,Chief People Officer,female,32235000.0
+37555.0,,1271214,"intersect ent, inc.",false,true,false,false,20200304,binney robert h jr,156218020002157,Chief Commercial Officer,male,32235000.0
+119471.0,,1271214,"intersect ent, inc.",false,true,false,false,20200317,meier richard a,156218020002562,EVP & Chief Financial Officer,male,32235000.0
+124471.0,,1271214,"intersect ent, inc.",false,true,false,false,20200317,meier richard a,156218020002595,EVP & Chief Financial Officer,male,32235000.0
+236890.0,,1271214,"intersect ent, inc.",true,true,false,false,20200318,west thomas a.,156218020002619,President and CEO,male,32235000.0
+248461.0,,1271214,"intersect ent, inc.",true,false,false,false,20200608,moll frederic h,156218020004319,,male,32559239.0
+20890.0,,1271214,"intersect ent, inc.",true,false,false,false,20200608,mead dana g jr.,156218020004320,,female,32559239.0
+16383.0,,1271214,"intersect ent, inc.",true,false,false,false,20200608,lucchese cynthia l,156218020004316,,female,32559239.0
+8837.0,,1271214,"intersect ent, inc.",true,false,false,false,20200608,kline teresa l.,156218020004318,,female,32559239.0
+34273.0,,1271214,"intersect ent, inc.",true,false,false,false,20200608,gallahue kieran,156218020004315,,male,32559239.0
+11383.0,,1271214,"intersect ent, inc.",true,false,false,false,20200608,vernon w anthony,156218020004317,,male,32559239.0
+220060.0,,1271214,"intersect ent, inc.",true,true,false,false,20200727,west thomas a.,156218020005216,President and CEO,male,32645.0
+118122.0,,1271214,"intersect ent, inc.",false,true,false,false,20201201,meier richard a,156218020006990,EVP & Chief Financial Officer,male,32719014.0
+16104.0,,1271214,"intersect ent, inc.",false,true,false,false,20201204,fernandez reyna m,156218020007086,Chief Human Resource Officer,female,32719014.0
+24156.0,,1271214,"intersect ent, inc.",false,true,false,false,20201204,broderick patrick a,156218020007087,"EVP, GC & Corporate Secretary",male,32719014.0
+14790.0,,1271214,"intersect ent, inc.",false,true,false,false,20210106,carscadden gwen r.,156218021000219,Chief People Officer,female,32936000.0
+283060.0,,1271214,"intersect ent, inc.",true,true,false,false,20210203,west thomas a.,156218021000883,President and CEO,male,32936000.0
+135533.0,,1271214,"intersect ent, inc.",false,true,false,false,20210203,meier richard a,156218021000884,EVP & Chief Financial Officer,male,32936000.0
+42269.0,,1271214,"intersect ent, inc.",false,true,false,false,20210203,kowalski christine r,156218021000885,EVP & Chief Operating Officer,female,32936000.0
+260961.0,,1271214,"intersect ent, inc.",true,false,false,false,20210205,moll frederic h,156218021000955,,male,32936000.0
+278047.0,,1271214,"intersect ent, inc.",true,true,false,false,20210208,west thomas a.,156218021000980,President and CEO,male,32936000.0
+41042.0,,1271214,"intersect ent, inc.",false,true,false,false,20210208,kowalski christine r,156218021000981,EVP & Chief Operating Officer,female,32936000.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20210318,lucchese cynthia l,156218021002359,,female,33015883.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20210318,gallahue kieran,156218021002360,,male,33015883.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20210318,kline teresa l.,156218021002361,,female,33015883.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20210329,hattangadi neil a,156218021002464,,male,33015883.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20210407,sandoval elisabeth,156218021002746,,female,33136000.0
+8250.0,29262.0,1271214,"intersect ent, inc.",true,false,false,false,20210607,gallahue kieran,156218021004111,,male,33136000.0
+19622.0,,1271214,"intersect ent, inc.",true,false,false,false,20210607,lucchese cynthia l,156218021004113,,female,33136000.0
+24129.0,,1271214,"intersect ent, inc.",true,false,false,false,20210607,mead dana g jr.,156218021004116,,female,33136000.0
+12076.0,,1271214,"intersect ent, inc.",true,false,false,false,20210607,kline teresa l.,156218021004112,,female,33136000.0
+257294.0,,1271214,"intersect ent, inc.",true,true,false,false,20210727,west thomas a.,156218021005070,President and CEO,male,33261000.0
+129187.0,,1271214,"intersect ent, inc.",false,true,false,false,20211201,meier richard a,156218021007368,EVP & Chief Financial Officer,male,33461658.0
+21221.0,,1271214,"intersect ent, inc.",false,true,false,false,20211203,broderick patrick a,156218021007463,"EVP, GC & Corporate Secretary",male,33461658.0
+14147.0,,1271214,"intersect ent, inc.",false,true,false,false,20211203,fernandez reyna m,156218021007464,Chief Human Resource Officer,female,33461658.0
+47116.0,,1271214,"intersect ent, inc.",false,true,false,false,20220203,broderick patrick a,156218022001098,"EVP, GC & Corporate Secretary",male,33641000.0
+31576.0,,1271214,"intersect ent, inc.",false,true,false,false,20220203,fernandez reyna m,156218022001103,Chief Human Resource Officer,female,33641000.0
+163596.0,,1271214,"intersect ent, inc.",false,true,false,false,20220204,meier richard a,156218022001159,EVP & Chief Financial Officer,male,33641000.0
+351748.0,,1271214,"intersect ent, inc.",true,true,false,false,20220204,west thomas a.,156218022001158,President and CEO,male,33641000.0
+0.0,,1271214,"intersect ent, inc.",true,false,false,false,20220516,kline teresa l.,156218022004070,,female,33813722.0
+0.0,,1271214,"intersect ent, inc.",true,true,false,false,20220516,west thomas a.,156218022004071,President and CEO,male,33813722.0
+0.0,,1271214,"intersect ent, inc.",true,false,false,false,20220516,mead dana g jr.,156218022004067,,female,33813722.0
+0.0,,1271214,"intersect ent, inc.",true,false,false,false,20220516,gallahue kieran,156218022004073,,male,33813722.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20220516,broderick patrick a,156218022004074,"EVP, GC & Corporate Secretary",male,33813722.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20220516,fernandez reyna m,156218022004075,Chief Human Resource Officer,female,33813722.0
+0.0,,1271214,"intersect ent, inc.",false,true,false,false,20220516,meier richard a,156218022004076,EVP & Chief Financial Officer,male,33813722.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20220516,hattangadi neil a,156218022004078,,male,33813722.0
+0.0,,1271214,"intersect ent, inc.",true,false,false,false,20220516,lucchese cynthia l,156218022004069,,female,33813722.0
+,,1271214,"intersect ent, inc.",true,false,false,false,20220516,sandoval elisabeth,156218022004072,,female,33813722.0

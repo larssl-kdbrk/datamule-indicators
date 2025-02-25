@@ -1,251 +1,766 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-21500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100219,gryska david w,120331110000002,,male,
-105220.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100312,berger franklin m,120331110000004,,male,
-116720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100331,berger franklin m,120331110000006,,male,
+21500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100219,gryska david w,120331110000002,,male,
+105220.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100312,berger franklin m,120331110000004,,male,
+116720.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100331,berger franklin m,120331110000006,,male,
 903168.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20100421,siegall clay b,120331110000008,President and CEO,male,
-4508.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100505,reynolds thomas c,120331110000010,Chief Medical Officer,male,
-83575.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100512,lippman marc e,120331110000012,,male,
-138720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100517,berger franklin m,120331110000014,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,hoth daniel floyd jr,120331110000022,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,gryska david w,120331110000020,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,berger franklin m,120331110000018,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,akkaraju srinivas,120331110000016,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,lippman marc e,120331110000024,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,1,0.0,20100525,baker felix,114420410030267,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,welch daniel g,120331110000028,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,mclaughlin john peter,120331110000026,,male,
-103575.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100608,lippman marc e,120331110000030,,male,
-10405.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100623,akkaraju srinivas,118143110034531,,male,
-151720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20100825,berger franklin m,118143110044247,,male,
-951500.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20100902,siegall clay b,118143110045411,President & CEO,male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,seeley bruce j.,120331110000042,"EVP, Commerical",male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,dobmeier eric,120331110000034,Chief Business Officer,male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,rosenberg morris,120331110000040,"EVP, Process Sciences",male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,simpson todd e,120331110000046,Chief Financial Officer,male,
-0.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20100907,siegall clay b,120331110000044,President and CEO,male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,himes vaughn b,120331110000036,"EVP, Technical Operations",male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,reynolds thomas c,120331110000038,Chief Medical Officer,male,
-5719.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20100929,reynolds thomas c,120331110000048,Chief Medical Officer,male,
-156720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20101001,berger franklin m,120331110000050,,male,
-5719.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20101012,reynolds thomas c,120331110000052,Chief Medical Officer,male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20101105,rosenberg morris,120331110000054,"EVP, Process Sciences",male,
-25500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20101116,gryska david w,120331110000056,,male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20101203,rosenberg morris,120331110000058,"EVP, Process Sciences",male,
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20101217,rosenberg morris,120331110000060,"EVP, Process Sciences",male,
-24242.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20101223,dobmeier eric,120331110000062,Chief Business Officer,male,
+4508.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100505,reynolds thomas c,120331110000010,Chief Medical Officer,male,
+83575.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100512,lippman marc e,120331110000012,,male,
+138720.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100517,berger franklin m,120331110000014,,male,
+,,1060736,seattle genetics inc /wa,1,0,1,0,20100525,baker felix,114420410030267,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,akkaraju srinivas,120331110000016,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,welch daniel g,120331110000028,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,mclaughlin john peter,120331110000026,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,lippman marc e,120331110000024,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,hoth daniel floyd jr,120331110000022,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,gryska david w,120331110000020,,male,
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100525,berger franklin m,120331110000018,,male,
+103575.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20100608,lippman marc e,120331110000030,,male,
+10405.0,,1060736,seattle genetics inc /wa,1,0,0,0,20100623,akkaraju srinivas,118143110034531,,male,
+151720.0,,1060736,seattle genetics inc /wa,1,0,0,0,20100825,berger franklin m,118143110044247,,male,
+951500.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0,20100902,siegall clay b,118143110045411,President & CEO,male,
+,,1060736,seattle genetics inc /wa,1,1,0,0.0,20100907,siegall clay b,120331110000044,President and CEO,male,
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,seeley bruce j.,120331110000042,"EVP, Commerical",male,
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,simpson todd e,120331110000046,Chief Financial Officer,male,
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,reynolds thomas c,120331110000038,Chief Medical Officer,male,
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,rosenberg morris,120331110000040,"EVP, Process Sciences",male,
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,himes vaughn b,120331110000036,"EVP, Technical Operations",male,
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100907,dobmeier eric,120331110000034,Chief Business Officer,male,
+5719.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20100929,reynolds thomas c,120331110000048,Chief Medical Officer,male,
+156720.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20101001,berger franklin m,120331110000050,,male,
+5719.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20101012,reynolds thomas c,120331110000052,Chief Medical Officer,male,
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20101105,rosenberg morris,120331110000054,"EVP, Process Sciences",male,
+25500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20101116,gryska david w,120331110000056,,male,
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20101203,rosenberg morris,120331110000058,"EVP, Process Sciences",male,
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20101217,rosenberg morris,120331110000060,"EVP, Process Sciences",male,
+24242.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20101223,dobmeier eric,120331110000062,Chief Business Officer,male,
 945667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110318,siegall clay b,120331111000004,President and CEO,male,101607000.0
-25802.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110407,dobmeier eric,120331111000006,Chief Business Officer,male,113511000.0
+25802.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110407,dobmeier eric,120331111000006,Chief Business Officer,male,113511000.0
 945667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110408,siegall clay b,120331111000008,President and CEO,male,113511000.0
 945667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110415,siegall clay b,120331111000011,President and CEO,male,113511000.0
-9359.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110503,simpson todd e,120331111000021,Chief Financial Officer,male,113776331.0
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110503,rosenberg morris,120331111000015,"EVP, Process Sciences",male,113776331.0
 945667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110503,siegall clay b,120331111000017,President and CEO,male,113776331.0
-3027.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110503,reynolds thomas c,120331111000019,Chief Medical Officer,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110503,rosenberg morris,120331111000015,"EVP, Process Sciences",male,113776331.0
+3027.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110503,reynolds thomas c,120331111000019,Chief Medical Officer,male,113776331.0
+9359.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110503,simpson todd e,120331111000021,Chief Financial Officer,male,113776331.0
 945667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110511,siegall clay b,120331111000023,President and CEO,male,113776331.0
-9359.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110511,simpson todd e,120331111000025,Chief Financial Officer,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110513,rosenberg morris,120331111000031,"EVP, Process Sciences",male,113776331.0
-25802.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110513,dobmeier eric,120331111000027,Chief Business Officer,male,113776331.0
-3027.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110513,reynolds thomas c,120331111000029,Chief Medical Officer,male,113776331.0
-3027.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110520,reynolds thomas c,120331111000039,Chief Medical Officer,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,1,0.0,20110520,baker felix,114420411031475,,male,113776331.0
-9359.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110520,simpson todd e,120331111000033,Chief Financial Officer,male,113776331.0
+9359.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110511,simpson todd e,120331111000025,Chief Financial Officer,male,113776331.0
+25802.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110513,dobmeier eric,120331111000027,Chief Business Officer,male,113776331.0
+3027.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110513,reynolds thomas c,120331111000029,Chief Medical Officer,male,113776331.0
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110513,rosenberg morris,120331111000031,"EVP, Process Sciences",male,113776331.0
+3027.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110520,reynolds thomas c,120331111000039,Chief Medical Officer,male,113776331.0
 950667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110520,siegall clay b,120331111000037,President and CEO,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110520,rosenberg morris,120331111000035,"EVP, Process Sciences",male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,welch daniel g,120331111000051,,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,mclaughlin john peter,120331111000049,,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,lippman marc e,120331111000047,,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,gryska david w,120331111000045,,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,berger franklin m,120331111000043,,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,akkaraju srinivas,120331111000041,,male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110601,rosenberg morris,120331111000053,"EVP, Process Sciences",male,113776331.0
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110609,rosenberg morris,120331111000055,"EVP, Process Sciences",male,113776331.0
-9359.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110609,simpson todd e,120331111000057,Chief Financial Officer,male,113776331.0
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110520,rosenberg morris,120331111000035,"EVP, Process Sciences",male,113776331.0
+9359.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110520,simpson todd e,120331111000033,Chief Financial Officer,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,1,0,20110520,baker felix,114420411031475,,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,welch daniel g,120331111000051,,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,akkaraju srinivas,120331111000041,,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,berger franklin m,120331111000043,,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,gryska david w,120331111000045,,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,lippman marc e,120331111000047,,male,113776331.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110524,mclaughlin john peter,120331111000049,,male,113776331.0
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110601,rosenberg morris,120331111000053,"EVP, Process Sciences",male,113776331.0
+0.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110609,rosenberg morris,120331111000055,"EVP, Process Sciences",male,113776331.0
+9359.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110609,simpson todd e,120331111000057,Chief Financial Officer,male,113776331.0
+22202.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110613,dobmeier eric,120331111000059,Chief Business Officer,male,113776331.0
 950667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110613,siegall clay b,120331111000061,President and CEO,male,113776331.0
-22202.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110613,dobmeier eric,120331111000059,Chief Business Officer,male,113776331.0
-8817.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110621,dobmeier eric,120331111000064,Chief Operating Officer,male,113776331.0
+8817.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110621,dobmeier eric,120331111000064,Chief Operating Officer,male,113776331.0
 950667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110621,siegall clay b,120331111000066,President and CEO,male,113776331.0
-163720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110623,berger franklin m,120331111000068,,male,113776331.0
+163720.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110623,berger franklin m,120331111000068,,male,113776331.0
+,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110701,dobmeier eric,120331111000070,Chief Operating Officer,male,114419000.0
 950667.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110701,siegall clay b,120331111000072,President and CEO,male,114419000.0
-0.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110701,dobmeier eric,120331111000070,Chief Operating Officer,male,114419000.0
-28022.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110720,simpson todd e,120331111000074,Chief Financial Officer,male,114419000.0
-1488.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110803,reynolds thomas c,120331111000078,Chief Medical Officer,male,114730639.0
-33817.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110803,dobmeier eric,120331111000076,Chief Operating Officer,male,114730639.0
-59327.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,dobmeier eric,120331111000081,Chief Operating Officer,male,114730639.0
-49242.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,simpson todd e,120331111000093,Chief Financial Officer,male,114730639.0
-30169.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,reynolds thomas c,120331111000085,Chief Medical Officer,male,114730639.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,rosenberg morris,120331111000087,"EVP, Process Sciences",male,114730639.0
+28022.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110720,simpson todd e,120331111000074,Chief Financial Officer,male,114419000.0
+1488.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110803,reynolds thomas c,120331111000078,Chief Medical Officer,male,114730639.0
+33817.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110803,dobmeier eric,120331111000076,Chief Operating Officer,male,114730639.0
+49242.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,simpson todd e,120331111000093,Chief Financial Officer,male,114730639.0
 1028804.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110824,siegall clay b,120331111000091,President and CEO,male,114730639.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,himes vaughn b,120331111000083,"EVP, Technical Operations",male,114730639.0
-18861.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,seeley bruce j.,120331111000089,"EVP, Commerical",male,114730639.0
+18861.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,seeley bruce j.,120331111000089,"EVP, Commerical",male,114730639.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,rosenberg morris,120331111000087,"EVP, Process Sciences",male,114730639.0
+30169.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,reynolds thomas c,120331111000085,Chief Medical Officer,male,114730639.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,himes vaughn b,120331111000083,"EVP, Technical Operations",male,114730639.0
+59327.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20110824,dobmeier eric,120331111000081,Chief Operating Officer,male,114730639.0
 1045055.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110906,siegall clay b,120331111000095,President and CEO,male,114730639.0
-25000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20110913,mclaughlin john peter,120331111000097,,male,114730639.0
+25000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20110913,mclaughlin john peter,120331111000097,,male,114730639.0
 1045055.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20110921,siegall clay b,120331111000099,President and CEO,male,114730639.0
 1045055.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20111006,siegall clay b,120331111000101,President and CEO,male,114909000.0
-49242.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20111007,simpson todd e,120331111000103,Chief Financial Officer,male,114909000.0
-59327.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20111021,dobmeier eric,120331111000105,Chief Operating Officer,male,114909000.0
-59327.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20111027,dobmeier eric,120331111000107,Chief Operating Officer,male,114909000.0
+49242.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20111007,simpson todd e,120331111000103,Chief Financial Officer,male,114909000.0
+59327.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20111021,dobmeier eric,120331111000105,Chief Operating Officer,male,114909000.0
+59327.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20111027,dobmeier eric,120331111000107,Chief Operating Officer,male,114909000.0
 1045055.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20111103,siegall clay b,120331111000109,President and CEO,male,115011284.0
-61843.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20111110,dobmeier eric,120331111000111,Chief Operating Officer,male,115011284.0
+61843.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20111110,dobmeier eric,120331111000111,Chief Operating Officer,male,115011284.0
 1045055.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20111202,siegall clay b,120331111000113,President and CEO,male,115011284.0
-15000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20111213,gryska david w,120331111000114,,male,115011284.0
-110450.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20111216,lippman marc e,120331111000118,,male,115011284.0
-19500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20111216,gryska david w,120331111000116,,male,115011284.0
-71843.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20111222,dobmeier eric,120331111000120,Chief Operating Officer,male,115011284.0
+15000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20111213,gryska david w,120331111000114,,male,115011284.0
+110450.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20111216,lippman marc e,120331111000118,,male,115011284.0
+19500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20111216,gryska david w,120331111000116,,male,115011284.0
+71843.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20111222,dobmeier eric,120331111000120,Chief Operating Officer,male,115011284.0
 1045055.0,85000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20120105,siegall clay b,120331112000002,President and CEO,male,116023000.0
-30169.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120130,reynolds thomas c,120331112000004,Chief Medical Officer,male,116023000.0
-72073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120229,dobmeier eric,120331112000006,Chief Operating Officer,male,116023000.0
-21348.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120305,boerner christopher s.,120331112000012,"SVP, Commercial",male,116023000.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120315,rosenberg morris,120331112000014,"EVP, Process Sciences",male,116023000.0
-31073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120320,reynolds thomas c,120331112000016,Chief Medical Officer,male,116023000.0
-117950.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120320,lippman marc e,120331112000018,,male,116023000.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120321,simonian nancy a,120331112000022,,female,116023000.0
-31073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120323,reynolds thomas c,120331112000024,Chief Medical Officer,male,116023000.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120419,rosenberg morris,118143112024825,"EVP, Process Sciences",male,116793000.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120424,rosenberg morris,120331112000026,"EVP, Process Sciences",male,116793000.0
-31073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120426,reynolds thomas c,120331112000030,Chief Medical Officer,male,116793000.0
-68073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120426,dobmeier eric,120331112000028,Chief Operating Officer,male,116793000.0
-31073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120517,reynolds thomas c,120331112000032,Chief Medical Officer,male,117051559.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120518,rosenberg morris,120331112000034,"EVP, Process Sciences",male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,lippman marc e,120331112000042,,male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,welch daniel g,120331112000046,,male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,gryska david w,120331112000040,,male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,berger franklin m,120331112000037,,male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,mclaughlin john peter,120331112000044,,male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120523,akkaraju srinivas,120331112000048,,male,117051559.0
-0.0,0.0,1060736,seattle genetics inc /wa,1,0,1,0.0,20120523,baker felix,114420412031512,,male,117051559.0
-11500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120606,gryska david w,120331112000050,,male,117051559.0
-50762.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120608,simpson todd e,120331112000054,Chief Financial Officer,male,117051559.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120608,rosenberg morris,120331112000052,"EVP, Process Sciences",male,117051559.0
-17643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120614,rosenberg morris,120331112000058,"EVP, Process Sciences",male,117051559.0
-50762.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120614,simpson todd e,120331112000056,Chief Financial Officer,male,117051559.0
-68073.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120620,dobmeier eric,120331112000060,Chief Operating Officer,male,117051559.0
-1096711.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20120705,siegall clay b,118143112039801,President & CEO,male,117961000.0
-3000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120731,welch daniel g,120331112000062,,male,117961000.0
-1096711.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20120803,siegall clay b,120331112000064,President and CEO,male,118207214.0
-19000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120814,gryska david w,118143112045449,,male,118207214.0
-43352.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120815,dobmeier eric,118143112045770,Chief Operating Officer,male,118207214.0
-50762.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120820,simpson todd e,120331112000066,Chief Financial Officer,male,118207214.0
-70762.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,simpson todd e,120331112000078,Chief Financial Officer,male,118207214.0
-33753.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,boerner christopher s.,120331112000068,"SVP, Commercial",male,118207214.0
-69352.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,dobmeier eric,120331112000070,Chief Operating Officer,male,118207214.0
-33643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,himes vaughn b,120331112000072,"EVP, Technical Operations",male,118207214.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,reynolds thomas c,120331112000074,Chief Medical Officer,male,118207214.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20120822,siegall clay b,120331112000076,President and CEO,male,118207214.0
-70762.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120827,simpson todd e,120331112000082,Chief Financial Officer,male,118207214.0
-183720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20120827,berger franklin m,120331112000080,,male,118207214.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20120906,siegall clay b,120331112000084,President and CEO,male,118207214.0
-70762.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120907,simpson todd e,120331112000086,Chief Financial Officer,male,118207214.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120910,reynolds thomas c,120331112000088,Chief Medical Officer,male,118207214.0
-33643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20120912,himes vaughn b,120331112000090,"EVP, Tech. Ops. & Proc. Sci.",male,118207214.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20121002,siegall clay b,120331112000092,President and CEO,male,119014000.0
-69352.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121016,dobmeier eric,120331112000094,Chief Operating Officer,male,119014000.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20121102,siegall clay b,120331112000096,President and CEO,male,119093407.0
-103927.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121109,dobmeier eric,120331112000098,Chief Operating Officer,male,119093407.0
-143499.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121109,simpson todd e,120331112000100,Chief Financial Officer,male,119093407.0
-101411.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121115,dobmeier eric,120331112000102,Chief Operating Officer,male,119093407.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121120,reynolds thomas c,120331112000104,Chief Medical Officer,male,119093407.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121126,reynolds thomas c,120331112000106,Chief Medical Officer,male,119093407.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121203,reynolds thomas c,120331112000108,Chief Medical Officer,male,119093407.0
-6119.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20121204,welch daniel g,120331112000112,,male,119093407.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20121204,siegall clay b,120331112000110,President and CEO,male,119093407.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121206,reynolds thomas c,120331112000114,Chief Medical Officer,male,119093407.0
-117950.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20121207,lippman marc e,120331112000116,,male,119093407.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121210,reynolds thomas c,120331112000118,Chief Medical Officer,male,119093407.0
-113829.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20121219,dobmeier eric,120331112000120,Chief Operating Officer,male,119093407.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130104,siegall clay b,120331113000002,President and CEO,male,119710000.0
-122846.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130104,dobmeier eric,120331113000004,Chief Operating Officer,male,119710000.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130117,reynolds thomas c,120331113000006,Chief Medical Officer,male,119710000.0
-57601.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130129,reynolds thomas c,120331113000008,Chief Medical Officer,male,119710000.0
-1170961.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130205,siegall clay b,120331113000012,President and CEO,male,119710000.0
-18500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130227,gryska david w,120331113000014,,male,119710000.0
-1077211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130305,siegall clay b,120331113000016,President and CEO,male,119710000.0
-122948.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130306,dobmeier eric,120331113000018,Chief Operating Officer,male,119710000.0
-113957.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130308,simpson todd e,120331113000020,Chief Financial Officer,male,119710000.0
-112948.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130312,dobmeier eric,120331113000022,Chief Operating Officer,male,119710000.0
-33753.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130319,boerner christopher s.,120331113000024,"SVP, Commercial",male,119710000.0
-1077211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130403,siegall clay b,120331113000026,President and CEO,male,121112000.0
-1077211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130503,siegall clay b,120331113000028,President and CEO,male,121265608.0
-10405.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130514,akkaraju srinivas,120331113000030,,male,121265608.0
-13905.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,akkaraju srinivas,120331113000032,,male,121265608.0
-187220.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,berger franklin m,120331113000034,,male,121265608.0
-3500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,simonian nancy a,120331113000042,,female,121265608.0
-22000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,gryska david w,120331113000036,,male,121265608.0
-28500.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,mclaughlin john peter,120331113000040,,male,121265608.0
-121450.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,lippman marc e,120331113000038,,male,121265608.0
-9619.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,welch daniel g,120331113000044,,male,121265608.0
-1077211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130605,siegall clay b,120331113000046,President and CEO,male,121265608.0
-13905.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130617,akkaraju srinivas,120331113000050,,male,121265608.0
-33643.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130617,himes vaughn b,120331113000048,"EVP, Tech. Ops. & Proc. Sci.",male,121265608.0
-1077211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130702,siegall clay b,120331113000052,President and CEO,male,121478000.0
-113957.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130715,simpson todd e,120331113000054,Chief Financial Officer,male,121478000.0
-1077211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130802,siegall clay b,120331113000056,President and CEO,male,121843582.0
-47527.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,boerner christopher s.,120331113000068,"SVP, Commercial",male,121843582.0
-127620.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,dobmeier eric,120331113000072,Chief Operating Officer,male,121843582.0
-1124558.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130821,siegall clay b,120331113000076,President and CEO,male,121843582.0
-46307.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,himes vaughn b,120331113000070,"EVP, Tech. Ops. & Proc. Sci.",male,121843582.0
-125029.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,simpson todd e,120331113000074,Chief Financial Officer,male,121843582.0
-197220.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130830,berger franklin m,118143113047081,,male,121843582.0
-155395.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130830,simpson todd e,118143113047082,Chief Financial Officer,male,121843582.0
-977211.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20130905,siegall clay b,120331113000080,President and CEO,male,121843582.0
-135843.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130905,dobmeier eric,120331113000082,Chief Operating Officer,male,121843582.0
-22000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20130905,gryska david w,120331113000078,,male,121843582.0
-133843.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20130911,dobmeier eric,120331113000084,Chief Operating Officer,male,121843582.0
-1024558.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20131003,siegall clay b,120331113000086,President and CEO,male,122469000.0
-1024558.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20131204,siegall clay b,120331113000094,President and CEO,male,122481320.0
-1043554.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20131209,siegall clay b,120331113000096,President and CEO,male,122481320.0
-1043554.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140106,siegall clay b,120331114000002,President and CEO,male,122615000.0
-5000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140114,orwin john a,120331114000009,,male,122615000.0
-49911.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140121,drachman jonathan g,120331114000011,"CMO & EVP, R & D",male,122615000.0
-77833.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140123,dobmeier eric,120331114000013,Chief Operating Officer,male,122615000.0
-955696.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140218,siegall clay b,120331114000018,President and CEO,male,122615000.0
-44219.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140221,himes vaughn b,120919114013256,"EVP, Tech, Ops. & Proc. Sci.",male,122615000.0
-48670.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140224,drachman jonathan g,120331114000020,"CMO & EVP, R & D",male,122615000.0
-46075.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140225,boerner christopher s.,120331114000022,"SVP, Commercial",male,122615000.0
-204720.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140225,berger franklin m,120331114000024,,male,122615000.0
-55519.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140304,himes vaughn b,120331114000026,"EVP, Tech. Ops. & Proc. Sci.",male,122615000.0
-955696.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140307,siegall clay b,120331114000028,President and CEO,male,122615000.0
-57514.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140307,boerner christopher s.,120331114000030,"EVP, Commercial",male,122615000.0
-955696.0,0.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140407,siegall clay b,120331114000032,President and CEO,male,123117000.0
-55519.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140513,himes vaughn b,120331114000034,"EVP, Tech. Ops. & Proc. Sci.",male,123146418.0
-124950.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,lippman marc e,120331114000045,,male,123146418.0
-17405.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,akkaraju srinivas,120331114000043,,male,123146418.0
-13119.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,welch daniel g,120331114000047,,male,123146418.0
-32000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,mclaughlin john peter,120331114000039,,male,123146418.0
-25250.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,gryska david w,120331114000037,,male,123146418.0
-7000.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,simonian nancy a,120331114000041,,female,123146418.0
+30169.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120130,reynolds thomas c,120331112000004,Chief Medical Officer,male,116023000.0
+72073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120229,dobmeier eric,120331112000006,Chief Operating Officer,male,116023000.0
+21348.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120305,boerner christopher s.,120331112000012,"SVP, Commercial",male,116023000.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120315,rosenberg morris,120331112000014,"EVP, Process Sciences",male,116023000.0
+31073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120320,reynolds thomas c,120331112000016,Chief Medical Officer,male,116023000.0
+117950.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120320,lippman marc e,120331112000018,,male,116023000.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120321,simonian nancy a,120331112000022,,female,116023000.0
+31073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120323,reynolds thomas c,120331112000024,Chief Medical Officer,male,116023000.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0,20120419,rosenberg morris,118143112024825,"EVP, Process Sciences",male,116793000.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120424,rosenberg morris,120331112000026,"EVP, Process Sciences",male,116793000.0
+31073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120426,reynolds thomas c,120331112000030,Chief Medical Officer,male,116793000.0
+68073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120426,dobmeier eric,120331112000028,Chief Operating Officer,male,116793000.0
+31073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120517,reynolds thomas c,120331112000032,Chief Medical Officer,male,117051559.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120518,rosenberg morris,120331112000034,"EVP, Process Sciences",male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,berger franklin m,120331112000037,,male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,gryska david w,120331112000040,,male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,lippman marc e,120331112000042,,male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,mclaughlin john peter,120331112000044,,male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120522,welch daniel g,120331112000046,,male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120523,akkaraju srinivas,120331112000048,,male,117051559.0
+,,1060736,seattle genetics inc /wa,1,0,1,0,20120523,baker felix,114420412031512,,male,117051559.0
+11500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120606,gryska david w,120331112000050,,male,117051559.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120608,rosenberg morris,120331112000052,"EVP, Process Sciences",male,117051559.0
+50762.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120608,simpson todd e,120331112000054,Chief Financial Officer,male,117051559.0
+17643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120614,rosenberg morris,120331112000058,"EVP, Process Sciences",male,117051559.0
+50762.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120614,simpson todd e,120331112000056,Chief Financial Officer,male,117051559.0
+68073.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120620,dobmeier eric,120331112000060,Chief Operating Officer,male,117051559.0
+1096711.0,,1060736,seattle genetics inc /wa,1,1,0,0,20120705,siegall clay b,118143112039801,President & CEO,male,117961000.0
+3000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120731,welch daniel g,120331112000062,,male,117961000.0
+1096711.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20120803,siegall clay b,120331112000064,President and CEO,male,118207214.0
+19000.0,,1060736,seattle genetics inc /wa,1,0,0,0,20120814,gryska david w,118143112045449,,male,118207214.0
+43352.0,,1060736,seattle genetics inc /wa,0,1,0,0,20120815,dobmeier eric,118143112045770,Chief Operating Officer,male,118207214.0
+50762.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120820,simpson todd e,120331112000066,Chief Financial Officer,male,118207214.0
+33753.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,boerner christopher s.,120331112000068,"SVP, Commercial",male,118207214.0
+33643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,himes vaughn b,120331112000072,"EVP, Technical Operations",male,118207214.0
+69352.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,dobmeier eric,120331112000070,Chief Operating Officer,male,118207214.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20120822,siegall clay b,120331112000076,President and CEO,male,118207214.0
+70762.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,simpson todd e,120331112000078,Chief Financial Officer,male,118207214.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120822,reynolds thomas c,120331112000074,Chief Medical Officer,male,118207214.0
+183720.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20120827,berger franklin m,120331112000080,,male,118207214.0
+70762.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120827,simpson todd e,120331112000082,Chief Financial Officer,male,118207214.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20120906,siegall clay b,120331112000084,President and CEO,male,118207214.0
+70762.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120907,simpson todd e,120331112000086,Chief Financial Officer,male,118207214.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120910,reynolds thomas c,120331112000088,Chief Medical Officer,male,118207214.0
+33643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20120912,himes vaughn b,120331112000090,"EVP, Tech. Ops. & Proc. Sci.",male,118207214.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20121002,siegall clay b,120331112000092,President and CEO,male,119014000.0
+69352.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121016,dobmeier eric,120331112000094,Chief Operating Officer,male,119014000.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20121102,siegall clay b,120331112000096,President and CEO,male,119093407.0
+143499.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121109,simpson todd e,120331112000100,Chief Financial Officer,male,119093407.0
+103927.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121109,dobmeier eric,120331112000098,Chief Operating Officer,male,119093407.0
+101411.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121115,dobmeier eric,120331112000102,Chief Operating Officer,male,119093407.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121120,reynolds thomas c,120331112000104,Chief Medical Officer,male,119093407.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121126,reynolds thomas c,120331112000106,Chief Medical Officer,male,119093407.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121203,reynolds thomas c,120331112000108,Chief Medical Officer,male,119093407.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20121204,siegall clay b,120331112000110,President and CEO,male,119093407.0
+6119.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20121204,welch daniel g,120331112000112,,male,119093407.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121206,reynolds thomas c,120331112000114,Chief Medical Officer,male,119093407.0
+117950.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20121207,lippman marc e,120331112000116,,male,119093407.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121210,reynolds thomas c,120331112000118,Chief Medical Officer,male,119093407.0
+113829.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20121219,dobmeier eric,120331112000120,Chief Operating Officer,male,119093407.0
+122846.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130104,dobmeier eric,120331113000004,Chief Operating Officer,male,119710000.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130104,siegall clay b,120331113000002,President and CEO,male,119710000.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130117,reynolds thomas c,120331113000006,Chief Medical Officer,male,119710000.0
+57601.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130129,reynolds thomas c,120331113000008,Chief Medical Officer,male,119710000.0
+1170961.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130205,siegall clay b,120331113000012,President and CEO,male,119710000.0
+18500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130227,gryska david w,120331113000014,,male,119710000.0
+1077211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130305,siegall clay b,120331113000016,President and CEO,male,119710000.0
+122948.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130306,dobmeier eric,120331113000018,Chief Operating Officer,male,119710000.0
+113957.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130308,simpson todd e,120331113000020,Chief Financial Officer,male,119710000.0
+112948.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130312,dobmeier eric,120331113000022,Chief Operating Officer,male,119710000.0
+33753.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130319,boerner christopher s.,120331113000024,"SVP, Commercial",male,119710000.0
+1077211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130403,siegall clay b,120331113000026,President and CEO,male,121112000.0
+1077211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130503,siegall clay b,120331113000028,President and CEO,male,121265608.0
+10405.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130514,akkaraju srinivas,120331113000030,,male,121265608.0
+9619.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,welch daniel g,120331113000044,,male,121265608.0
+3500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,simonian nancy a,120331113000042,,female,121265608.0
+13905.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,akkaraju srinivas,120331113000032,,male,121265608.0
+121450.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,lippman marc e,120331113000038,,male,121265608.0
+22000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,gryska david w,120331113000036,,male,121265608.0
+187220.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,berger franklin m,120331113000034,,male,121265608.0
+28500.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130521,mclaughlin john peter,120331113000040,,male,121265608.0
+1077211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130605,siegall clay b,120331113000046,President and CEO,male,121265608.0
+33643.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130617,himes vaughn b,120331113000048,"EVP, Tech. Ops. & Proc. Sci.",male,121265608.0
+13905.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130617,akkaraju srinivas,120331113000050,,male,121265608.0
+1077211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130702,siegall clay b,120331113000052,President and CEO,male,121478000.0
+113957.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130715,simpson todd e,120331113000054,Chief Financial Officer,male,121478000.0
+1077211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130802,siegall clay b,120331113000056,President and CEO,male,121843582.0
+46307.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,himes vaughn b,120331113000070,"EVP, Tech. Ops. & Proc. Sci.",male,121843582.0
+127620.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,dobmeier eric,120331113000072,Chief Operating Officer,male,121843582.0
+125029.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,simpson todd e,120331113000074,Chief Financial Officer,male,121843582.0
+1124558.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130821,siegall clay b,120331113000076,President and CEO,male,121843582.0
+47527.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130821,boerner christopher s.,120331113000068,"SVP, Commercial",male,121843582.0
+197220.0,,1060736,seattle genetics inc /wa,1,0,0,0,20130830,berger franklin m,118143113047081,,male,121843582.0
+155395.0,,1060736,seattle genetics inc /wa,0,1,0,0,20130830,simpson todd e,118143113047082,Chief Financial Officer,male,121843582.0
+977211.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20130905,siegall clay b,120331113000080,President and CEO,male,121843582.0
+22000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20130905,gryska david w,120331113000078,,male,121843582.0
+135843.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130905,dobmeier eric,120331113000082,Chief Operating Officer,male,121843582.0
+133843.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20130911,dobmeier eric,120331113000084,Chief Operating Officer,male,121843582.0
+1024558.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20131003,siegall clay b,120331113000086,President and CEO,male,122469000.0
+1024558.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20131204,siegall clay b,120331113000094,President and CEO,male,122481320.0
+1043554.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20131209,siegall clay b,120331113000096,President and CEO,male,122481320.0
+1043554.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20140106,siegall clay b,120331114000002,President and CEO,male,122615000.0
+5000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140114,orwin john a,120331114000009,,male,122615000.0
+49911.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140121,drachman jonathan g,120331114000011,"CMO & EVP, R & D",male,122615000.0
+77833.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140123,dobmeier eric,120331114000013,Chief Operating Officer,male,122615000.0
+955696.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20140218,siegall clay b,120331114000018,President and CEO,male,122615000.0
+44219.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140221,himes vaughn b,120919114013256,"EVP, Tech, Ops. & Proc. Sci.",male,122615000.0
+48670.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140224,drachman jonathan g,120331114000020,"CMO & EVP, R & D",male,122615000.0
+204720.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140225,berger franklin m,120331114000024,,male,122615000.0
+46075.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140225,boerner christopher s.,120331114000022,"SVP, Commercial",male,122615000.0
+55519.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140304,himes vaughn b,120331114000026,"EVP, Tech. Ops. & Proc. Sci.",male,122615000.0
+955696.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20140307,siegall clay b,120331114000028,President and CEO,male,122615000.0
+57514.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140307,boerner christopher s.,120331114000030,"EVP, Commercial",male,122615000.0
+955696.0,,1060736,seattle genetics inc /wa,1,1,0,0.0,20140407,siegall clay b,120331114000032,President and CEO,male,123117000.0
+55519.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20140513,himes vaughn b,120331114000034,"EVP, Tech. Ops. & Proc. Sci.",male,123146418.0
+13119.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,welch daniel g,120331114000047,,male,123146418.0
+17405.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,akkaraju srinivas,120331114000043,,male,123146418.0
+7000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,simonian nancy a,120331114000041,,female,123146418.0
+32000.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,mclaughlin john peter,120331114000039,,male,123146418.0
+25250.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,gryska david w,120331114000037,,male,123146418.0
+124950.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20140520,lippman marc e,120331114000045,,male,123146418.0
 525217.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140612,siegall clay b,120331114000049,President and CEO,male,123146418.0
 525217.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140813,siegall clay b,120331114000051,President and CEO,male,123447871.0
-66481.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140827,drachman jonathan g,132776314000009,"CMO & EVP, R & D",male,123447871.0
-91432.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140827,dobmeier eric,132776314000008,Chief Operating Officer,male,123447871.0
-72358.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140827,boerner christopher s.,132776314000007,"Executive Vice President, Comm",male,123447871.0
-168699.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140827,simpson todd e,132776314000012,Chief Financial Officer,male,123447871.0
-559710.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140827,siegall clay b,132776314000011,President and CEO,male,123447871.0
-67209.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140827,himes vaughn b,132776314000010,"EVP, Tech. Ops. & Proc. Sci.",male,123447871.0
-99765.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20140828,dobmeier eric,132776314000014,Chief Operating Officer,male,123447871.0
+168699.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140827,simpson todd e,132776314000012,Chief Financial Officer,male,123447871.0
+559710.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0,20140827,siegall clay b,132776314000011,President and CEO,male,123447871.0
+67209.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140827,himes vaughn b,132776314000010,"EVP, Tech. Ops. & Proc. Sci.",male,123447871.0
+66481.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140827,drachman jonathan g,132776314000009,"CMO & EVP, R & D",male,123447871.0
+91432.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140827,dobmeier eric,132776314000008,Chief Operating Officer,male,123447871.0
+72358.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140827,boerner christopher s.,132776314000007,"Executive Vice President, Comm",male,123447871.0
+99765.0,,1060736,seattle genetics inc /wa,0,1,0,0,20140828,dobmeier eric,132776314000014,Chief Operating Officer,male,123447871.0
 559710.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20140905,siegall clay b,120331114000053,President and CEO,male,123447871.0
-67209.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20141114,himes vaughn b,120331114000055,"EVP, Tech. Ops. & Proc. Sci.",male,123891580.0
-22400.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20141203,liu jean i,120331114000059,"EVP, Legal Affairs & GC",male,123891580.0
+67209.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20141114,himes vaughn b,120331114000055,"EVP, Tech. Ops. & Proc. Sci.",male,123891580.0
+22400.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20141203,liu jean i,120331114000059,"EVP, Legal Affairs & GC",male,123891580.0
 559710.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150108,siegall clay b,120331115000002,President and CEO,male,123973000.0
-67209.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150316,himes vaughn b,120331115000009,"EVP, Proc Svcs & Tech Ops",male,123973000.0
-33135.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150317,cline darren s,120331115000011,"SVP, Commercial",male,123973000.0
-30250.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150410,gryska david w,120331115000013,,male,124796000.0
-82777.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150508,dobmeier eric,120331115000015,Chief Operating Officer,male,124886861.0
+67209.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150316,himes vaughn b,120331115000009,"EVP, Proc Svcs & Tech Ops",male,123973000.0
+33135.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150317,cline darren s,120331115000011,"SVP, Commercial",male,123973000.0
+30250.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150410,gryska david w,120331115000013,,male,124796000.0
+82777.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150508,dobmeier eric,120331115000015,Chief Operating Officer,male,124886861.0
 557022.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150512,siegall clay b,120331115000017,President and CEO,male,124886861.0
-33950.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,gryska david w,120331115000030,,male,124886861.0
-35700.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,mclaughlin john peter,120331115000026,,male,124886861.0
-128650.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,lippman marc e,120331115000028,,male,124886861.0
-10700.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,simonian nancy a,120331115000022,,female,124886861.0
-21105.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,akkaraju srinivas,120331115000032,,male,124886861.0
-16819.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,welch daniel g,120331115000020,,male,124886861.0
-8700.0,0.0,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,orwin john a,120331115000024,,male,124886861.0
+21105.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,akkaraju srinivas,120331115000032,,male,124886861.0
+128650.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,lippman marc e,120331115000028,,male,124886861.0
+35700.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,mclaughlin john peter,120331115000026,,male,124886861.0
+8700.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,orwin john a,120331115000024,,male,124886861.0
+10700.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,simonian nancy a,120331115000022,,female,124886861.0
+16819.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,welch daniel g,120331115000020,,male,124886861.0
+33950.0,,1060736,seattle genetics inc /wa,1,0,0,0.0,20150519,gryska david w,120331115000030,,male,124886861.0
 557022.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150604,siegall clay b,120331115000034,President and CEO,male,124886861.0
-557022.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150708,siegall clay b,164425015000002,President and CEO,male,125302000.0
+557022.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0,20150708,siegall clay b,164425015000002,President and CEO,male,125302000.0
+557022.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0,20150807,siegall clay b,120331115000038,President and CEO,male,125340038.0
 557022.0,100000.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150807,siegall clay b,120331115000038,President and CEO,male,125340038.0
-82724.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,drachman jonathan g,120331115000048,"CMO & EVP, R & D",male,125340038.0
-98340.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,dobmeier eric,120331115000050,Chief Operating Officer,male,125340038.0
+76212.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,himes vaughn b,120331115000042,"EVP, Proc Svcs & Tech Ops",male,125340038.0
 611323.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150825,siegall clay b,120331115000052,President and CEO,male,125340038.0
-43482.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,cline darren s,120331115000047,"SVP, Commercial",male,125340038.0
-76212.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,himes vaughn b,120331115000042,"EVP, Proc Svcs & Tech Ops",male,125340038.0
-36400.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,liu jean i,120331115000043,"GC/EVP, Leg Affairs",male,125340038.0
-179874.0,0.0,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,simpson todd e,120331115000044,Chief Financial Officer,male,125340038.0
-611323.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0.0,20150904,siegall clay b,164425015000004,President and CEO,male,125340038.0
+76212.0,,1060736,seattle genetics inc /wa,0,1,0,0,20150825,himes vaughn b,120331115000042,"EVP, Proc Svcs & Tech Ops",male,125340038.0
+36400.0,,1060736,seattle genetics inc /wa,0,1,0,0,20150825,liu jean i,120331115000043,"GC/EVP, Leg Affairs",male,125340038.0
+179874.0,,1060736,seattle genetics inc /wa,0,1,0,0,20150825,simpson todd e,120331115000044,Chief Financial Officer,male,125340038.0
+43482.0,,1060736,seattle genetics inc /wa,0,1,0,0,20150825,cline darren s,120331115000047,"SVP, Commercial",male,125340038.0
+82724.0,,1060736,seattle genetics inc /wa,0,1,0,0,20150825,drachman jonathan g,120331115000048,"CMO & EVP, R & D",male,125340038.0
+611323.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20150825,siegall clay b,120331115000052,President and CEO,male,125340038.0
+98340.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,dobmeier eric,120331115000050,Chief Operating Officer,male,125340038.0
+82724.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,drachman jonathan g,120331115000048,"CMO & EVP, R & D",male,125340038.0
+43482.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,cline darren s,120331115000047,"SVP, Commercial",male,125340038.0
+179874.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,simpson todd e,120331115000044,Chief Financial Officer,male,125340038.0
+36400.0,,1060736,seattle genetics inc /wa,0,1,0,0.0,20150825,liu jean i,120331115000043,"GC/EVP, Leg Affairs",male,125340038.0
+98340.0,,1060736,seattle genetics inc /wa,0,1,0,0,20150825,dobmeier eric,120331115000050,Chief Operating Officer,male,125340038.0
+611323.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20150904,siegall clay b,164425015000004,President and CEO,male,125340038.0
+611323.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20150904,siegall clay b,164425015000004,President and CEO,male,125340038.0
+194675.0,,1060736,seattle genetics inc /wa,0,1,0,0,20151001,simpson todd e,164425015000006,Chief Financial Officer,male,139462000.0
+611323.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20151007,siegall clay b,120331115000054,President and CEO,male,139462000.0
+643588.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20151029,siegall clay b,120331115000056,President and CEO,male,139480932.0
+643588.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20151105,siegall clay b,164425015000008,President and CEO,male,139480932.0
+23950.0,,1060736,seattle genetics inc /wa,1,0,0,0,20151105,gryska david w,120331115000058,,male,139480932.0
+80888.0,,1060736,seattle genetics inc /wa,0,1,0,0,20151106,dobmeier eric,120331115000060,Chief Operating Officer,male,139480932.0
+37713.0,,1060736,seattle genetics inc /wa,0,1,0,0,20151113,cline darren s,120331115000062,"SVP, Commercial",male,139480932.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20151119,siegall clay b,120331115000064,President and CEO,male,139480932.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20151204,siegall clay b,164425015000010,President and CEO,male,139480932.0
+76212.0,,1060736,seattle genetics inc /wa,0,1,0,0,20151216,himes vaughn b,120331115000066,"EVP, Proc Svcs & Tech Ops",male,139480932.0
+111248.0,,1060736,seattle genetics inc /wa,0,1,0,0,20151221,himes vaughn b,120331115000068,"EVP, Proc Svcs & Tech Ops",male,139480932.0
+10700.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160217,orwin john a,120331116000072,,male,139674000.0
+46113.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160303,cline darren s,120331116000074,Executive Vice President,male,139674000.0
+41819.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160310,welch daniel g,120331116000076,,male,139674000.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160323,siegall clay b,120331116000078,President and CEO,male,139674000.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160407,siegall clay b,120331116000080,President and CEO,male,140087000.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160426,siegall clay b,120331116000084,President and CEO,male,140167032.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160519,siegall clay b,120331116000086,President and CEO,male,140167032.0
+24805.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,akkaraju srinivas,120331116000088,,male,140167032.0
+27650.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,gryska david w,120331116000090,,male,140167032.0
+132350.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,lippman marc e,120331116000092,,male,140167032.0
+39400.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,mclaughlin john peter,120331116000094,,male,140167032.0
+14400.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,orwin john a,120331116000096,,male,140167032.0
+14400.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,simonian nancy a,120331116000098,,female,140167032.0
+45519.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160524,welch daniel g,120331116000100,,male,140167032.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160525,siegall clay b,120331116000102,President and CEO,male,140167032.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160527,siegall clay b,120331116000104,President and CEO,male,140167032.0
+42747.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160606,cline darren s,120331116000106,"EVP, Commercial",male,140167032.0
+88246.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160606,drachman jonathan g,120331116000108,"CMO & EVP, R & D",male,140167032.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160608,siegall clay b,120331116000110,President and CEO,male,140167032.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160707,siegall clay b,120331116000112,President and CEO,male,140476000.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160729,siegall clay b,120331116000114,President and CEO,male,140516451.0
+556115.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160810,siegall clay b,120331116000116,President and CEO,male,140516451.0
+40973.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,cline darren s,120331116000133,"EVP, Commercial",male,140516451.0
+67525.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,dobmeier eric,120331116000131,Chief Operating Officer,male,140516451.0
+108779.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,himes vaughn b,120331116000127,"EVP, Proc Svcs & Tech Ops",male,140516451.0
+532734.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160822,siegall clay b,120331116000125,President and CEO,male,140516451.0
+84255.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,drachman jonathan g,120331116000129,"CMO & EVP, R & D",male,140516451.0
+98340.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,dobmeier eric,120331116000120,Chief Operating Officer,male,140516451.0
+43482.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,cline darren s,120331116000118,"SVP, Commercial",male,140516451.0
+191445.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160822,simpson todd e,120331116000123,Chief Financial Officer,male,140516451.0
+58767.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160824,dobmeier eric,168280616000003,Chief Operating Officer,male,140516451.0
+209445.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160830,simpson todd e,120331116000147,Chief Financial Officer,male,140516451.0
+56973.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160830,cline darren s,120331116000135,"EVP, Commercial",male,140516451.0
+87767.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160830,dobmeier eric,120331116000137,Chief Operating Officer,male,140516451.0
+113255.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160830,drachman jonathan g,120331116000139,"CMO & EVP, R & D",male,140516451.0
+125779.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160830,himes vaughn b,120331116000141,"EVP, Proc Svcs & Tech Ops",male,140516451.0
+51400.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160830,liu jean i,120331116000143,"GC/EVP, Leg Affairs",male,140516451.0
+604734.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160830,siegall clay b,120331116000145,President and CEO,male,140516451.0
+135379.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160901,himes vaughn b,120331116000149,"EVP, Proc Svcs & Tech Ops",male,140516451.0
+617038.0,27945.0,1060736,seattle genetics inc /wa,1,1,0,0,20160908,siegall clay b,120331116000155,President and CEO,male,140516451.0
+51576.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160908,cline darren s,120331116000151,"EVP, Commercial",male,140516451.0
+37650.0,,1060736,seattle genetics inc /wa,1,0,0,0,20160908,gryska david w,120331116000153,,male,140516451.0
+0.0,,1060736,seattle genetics inc /wa,1,1,0,0,20160912,siegall clay b,89924316028840,President and CEO,male,140516451.0
+55743.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160913,cline darren s,120331116000157,"EVP, Commercial",male,140516451.0
+87767.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160915,dobmeier eric,120331116000159,Chief Operating Officer,male,140516451.0
+113255.0,,1060736,seattle genetics inc /wa,0,1,0,0,20160923,drachman jonathan g,120331116000161,"CMO & EVP, R & D",male,140516451.0
+638835.0,,1060736,seattle genetics inc /wa,1,1,0,0,20161011,siegall clay b,120331116000163,President and CEO,male,141505000.0
+109837.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161103,drachman jonathan g,120331116000165,"CMO & EVP, R & D",male,141552646.0
+131350.0,,1060736,seattle genetics inc /wa,1,0,0,0,20161109,lippman marc e,120331116000167,,male,141552646.0
+638835.0,,1060736,seattle genetics inc /wa,1,1,0,0,20161109,siegall clay b,120331116000169,President and CEO,male,141552646.0
+109837.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161114,drachman jonathan g,120331116000173,"CMO & EVP, R & D",male,141552646.0
+638835.0,,1060736,seattle genetics inc /wa,1,1,0,0,20161208,siegall clay b,120331116000175,President and CEO,male,141552646.0
+135379.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161208,himes vaughn b,120331116000177,Chief Technical Officer,male,141552646.0
+87767.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161212,dobmeier eric,120331116000179,Chief Operating Officer,male,141552646.0
+151011.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161214,himes vaughn b,120331116000181,Chief Technical Officer,male,141552646.0
+58504.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161215,cline darren s,120331116000183,"EVP, Commercial",male,141552646.0
+61604.0,,1060736,seattle genetics inc /wa,0,1,0,0,20161220,cline darren s,120331116000185,"EVP, Commercial",male,141552646.0
+638835.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170110,siegall clay b,120331117000002,President and CEO,male,142193000.0
+114837.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170126,drachman jonathan g,120331117000004,"CMO & EVP, R & D",male,142193000.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170208,siegall clay b,120331117000006,President and CEO,male,142193000.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170308,siegall clay b,120331117000010,President and CEO,male,142193000.0
+151283.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170404,himes vaughn b,168280617000002,Chief Technical Officer,male,142643000.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170406,siegall clay b,120331117000012,President and CEO,male,142643000.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170509,siegall clay b,120331117000014,President and CEO,male,142716597.0
+49219.0,,1060736,seattle genetics inc /wa,1,0,0,0,20170523,welch daniel g,120331117000026,,male,142716597.0
+18100.0,,1060736,seattle genetics inc /wa,1,0,0,0,20170523,simonian nancy a,120331117000024,,female,142716597.0
+18100.0,,1060736,seattle genetics inc /wa,1,0,0,0,20170523,orwin john a,120331117000022,,male,142716597.0
+41350.0,,1060736,seattle genetics inc /wa,1,0,0,0,20170523,gryska david w,120331117000018,,male,142716597.0
+28505.0,,1060736,seattle genetics inc /wa,1,0,0,0,20170523,akkaraju srinivas,120331117000016,,male,142716597.0
+135050.0,,1060736,seattle genetics inc /wa,1,0,0,0,20170523,lippman marc e,120331117000020,,male,142716597.0
+151283.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170602,himes vaughn b,120331117000028,Chief Technical Officer,male,142716597.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170607,siegall clay b,120331117000030,President and CEO,male,142716597.0
+115204.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170626,drachman jonathan g,120331117000032,"CMO & EVP, R & D",male,142716597.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170707,siegall clay b,120331117000034,President and CEO,male,142981000.0
+115204.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170731,drachman jonathan g,120331117000036,"CMO & EVP, R & D",male,143027210.0
+61656.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170809,cline darren s,120331117000038,"EVP, Commercial",male,143027210.0
+636435.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170809,siegall clay b,120331117000040,President and CEO,male,143027210.0
+703635.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170818,siegall clay b,120331117000052,President and CEO,male,143027210.0
+68400.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170818,liu jean i,120331117000050,"GC/EVP, Leg Affairs",male,143027210.0
+171283.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170818,himes vaughn b,120331117000048,Chief Technical Officer,male,143027210.0
+78656.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170818,cline darren s,120331117000042,"EVP, Commercial",male,143027210.0
+122767.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170818,dobmeier eric,120331117000044,Chief Operating Officer,male,143027210.0
+232952.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170818,simpson todd e,120331117000054,Chief Financial Officer,male,143027210.0
+142204.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170818,drachman jonathan g,120331117000046,"CMO & EVP, R & D",male,143027210.0
+142204.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170825,drachman jonathan g,120331117000056,"CMO & EVP, R & D",male,143027210.0
+678129.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170830,siegall clay b,120331117000066,President and CEO,male,143027210.0
+228015.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170830,simpson todd e,120331117000068,Chief Financial Officer,male,143027210.0
+164906.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170830,himes vaughn b,120331117000064,Chief Technical Officer,male,143027210.0
+76868.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170830,cline darren s,120331117000058,"EVP, Commercial",male,143027210.0
+117424.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170830,dobmeier eric,120331117000060,Chief Operating Officer,male,143027210.0
+133702.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170830,drachman jonathan g,120331117000062,"CMO & EVP, R & D",male,143027210.0
+72206.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170905,cline darren s,120331117000070,"EVP, Commercial",male,143027210.0
+117424.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170905,dobmeier eric,120331117000072,Chief Operating Officer,male,143027210.0
+77230.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170908,cline darren s,120331117000074,"EVP, Commercial",male,143027210.0
+218377.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170908,simpson todd e,120331117000076,Chief Financial Officer,male,143027210.0
+164906.0,,1060736,seattle genetics inc /wa,0,1,0,0,20170912,himes vaughn b,120331117000078,Chief Technical Officer,male,143027210.0
+678129.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170912,siegall clay b,120331117000080,President and CEO,male,143027210.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20170928,siegall clay b,120331117000082,President and CEO,male,143027210.0
+151518.0,,1060736,seattle genetics inc /wa,0,1,0,0,20171010,drachman jonathan g,120331117000084,"CMO & EVP, R & D",male,143803000.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20171013,siegall clay b,89924317024180,President and CEO,male,143803000.0
+178992.0,,1060736,seattle genetics inc /wa,0,1,0,0,20171103,simpson todd e,120331117000086,Chief Financial Officer,male,143928341.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20171114,siegall clay b,120331117000088,President and CEO,male,143928341.0
+132050.0,,1060736,seattle genetics inc /wa,1,0,0,0,20171117,lippman marc e,120331117000092,,male,143928341.0
+117424.0,,1060736,seattle genetics inc /wa,0,1,0,0,20171117,dobmeier eric,120331117000090,Chief Operating Officer,male,143928341.0
+164906.0,,1060736,seattle genetics inc /wa,0,1,0,0,20171204,himes vaughn b,120331117000094,Chief Technical Officer,male,143928341.0
+60864.0,,1060736,seattle genetics inc /wa,0,1,0,0,20171206,liu jean i,120331117000098,"GC/EVP, Leg Affairs",male,143928341.0
+119860.0,,1060736,seattle genetics inc /wa,0,1,0,0,20171206,dobmeier eric,120331117000096,Chief Operating Officer,male,143928341.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20171213,siegall clay b,120331117000100,President and CEO,male,143928341.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180116,siegall clay b,120331118000004,President and CEO,male,144395000.0
+170934.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180116,drachman jonathan g,120331118000002,"CMO & EVP, R & D",male,144395000.0
+75831.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180207,cline darren s,120331118000006,"EVP, Commercial",male,144395000.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180213,siegall clay b,120331118000008,President and CEO,male,157951354.0
+66100.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180215,welch daniel g,120331118000010,,male,157951354.0
+170934.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180307,drachman jonathan g,120331118000012,"CMO & EVP, R & D",male,157951354.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180313,siegall clay b,120331118000014,President and CEO,male,157951354.0
+5750.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180315,seth alpna,120331118000018,,male,157951354.0
+164906.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180319,himes vaughn b,89924318008058,See Remarks,male,157951354.0
+,,1060736,seattle genetics inc /wa,0,1,0,0,20180322,cline darren s,89924318008416,See Remarks,male,157951354.0
+,,1060736,seattle genetics inc /wa,0,1,0,0,20180322,drachman jonathan g,89924318008417,See Remarks,male,157951354.0
+,,1060736,seattle genetics inc /wa,0,1,0,0,20180322,liu jean i,89924318008414,"GC & EVP, Legal Affairs",male,157951354.0
+,,1060736,seattle genetics inc /wa,1,1,0,0,20180322,siegall clay b,89924318008412,President & CEO,male,157951354.0
+201973.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180322,drachman jonathan g,120331118000020,"CMO & EVP, R & D",male,157951354.0
+,,1060736,seattle genetics inc /wa,0,1,0,0,20180322,himes vaughn b,89924318008408,Chief Technical Officer,male,157951354.0
+,,1060736,seattle genetics inc /wa,0,1,0,0,20180322,simpson todd e,89924318008413,Chief Financial Officer,male,157951354.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180411,siegall clay b,120331118000022,President and CEO,male,158169000.0
+71831.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180507,cline darren s,120331118000024,"EVP, Commercial",male,158224428.0
+71831.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180511,cline darren s,120331118000026,"EVP, Commercial",male,158224428.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180511,siegall clay b,120331118000028,President and CEO,male,158224428.0
+45050.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180522,gryska david w,120331118000031,,male,158224428.0
+135750.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180522,lippman marc e,120331118000033,,male,158224428.0
+21800.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180522,orwin john a,120331118000035,,male,158224428.0
+21800.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180522,simonian nancy a,120331118000037,,female,158224428.0
+69800.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180522,welch daniel g,120331118000039,,male,158224428.0
+32205.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180522,akkaraju srinivas,120331118000041,,male,158224428.0
+164906.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180604,himes vaughn b,120331118000047,Chief Technical Officer,male,158224428.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180612,siegall clay b,120331118000049,President and CEO,male,158224428.0
+69863.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180614,cline darren s,120331118000051,"EVP, Commercial",male,158224428.0
+70000.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180619,dansey roger d,120331118000053,Chief Medical Officer,male,158224428.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180711,siegall clay b,120331118000055,President and CEO,male,158646000.0
+128350.0,,1060736,seattle genetics inc /wa,1,0,0,0,20180802,lippman marc e,120331118000057,,male,158791482.0
+687146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180813,siegall clay b,89924318022139,See Remarks,male,158791482.0
+662146.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180823,siegall clay b,120331118000059,President and CEO,male,158791482.0
+65079.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180829,cline darren s,120331118000061,"EVP, Commercial",male,158791482.0
+159376.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180829,himes vaughn b,120331118000063,Chief Technical Officer,male,158791482.0
+56741.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180829,liu jean i,120331118000065,"GC/EVP, Leg Affairs",male,158791482.0
+636632.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180829,siegall clay b,120331118000067,President and CEO,male,158791482.0
+173565.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180829,simpson todd e,120331118000069,Chief Financial Officer,male,158791482.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180904,siegall clay b,120331118000071,President and CEO,male,158791482.0
+83723.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180904,cline darren s,120331118000073,"EVP, Commercial",male,158791482.0
+71343.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180904,dansey roger d,120331118000075,Chief Medical Officer,male,158791482.0
+177329.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180904,himes vaughn b,120331118000077,Chief Technical Officer,male,158791482.0
+74349.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180904,liu jean i,120331118000079,"GC/EVP, Leg Affairs",male,158791482.0
+194280.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180904,simpson todd e,120331118000081,Chief Financial Officer,male,158791482.0
+177329.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180911,himes vaughn b,120331118000083,Chief Technical Officer,male,158791482.0
+77241.0,,1060736,seattle genetics inc /wa,0,1,0,0,20180911,dansey roger d,120331118000085,Chief Medical Officer,male,158791482.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20180919,siegall clay b,120331118000087,President and CEO,male,158791482.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20181009,siegall clay b,120331118000089,President and CEO,male,160053000.0
+37205.0,,1060736,seattle genetics inc /wa,1,0,0,0,20181101,akkaraju srinivas,120331118000091,,male,160145888.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20181109,siegall clay b,120331118000093,President and CEO,male,160145888.0
+79556.0,,1060736,seattle genetics inc /wa,0,1,0,0,20181121,cline darren s,120331118000095,"EVP, Commercial",male,160145888.0
+72556.0,,1060736,seattle genetics inc /wa,0,1,0,0,20181130,cline darren s,120331118000097,"EVP, Commercial",male,160145888.0
+177329.0,,1060736,seattle genetics inc /wa,0,1,0,0,20181204,himes vaughn b,120331118000099,Chief Technical Officer,male,160145888.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20181212,siegall clay b,120331118000101,President and CEO,male,160145888.0
+45050.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190110,gryska david w,120331119000004,,male,160262000.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190110,siegall clay b,120331119000003,President and CEO,male,160262000.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190212,siegall clay b,89924319003337,See Remarks,male,160561234.0
+83009.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190220,dansey roger d,89924319004265,See Remarks,male,160561234.0
+184280.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190306,simpson todd e,120331119000006,Chief Financial Officer,male,160561234.0
+732613.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190312,siegall clay b,120331119000010,President and CEO,male,160561234.0
+177329.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190312,himes vaughn b,120331119000008,Chief Technical Officer,male,160561234.0
+749169.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190320,siegall clay b,120331119000012,President and CEO,male,160561234.0
+45050.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190403,gryska david w,120331119000015,,male,161141000.0
+171780.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190409,simpson todd e,89924319010414,Chief Financial Officer,male,161141000.0
+749169.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190410,siegall clay b,89924319010479,President and CEO,male,161141000.0
+749169.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190510,siegall clay b,89924319013056,President and CEO,male,161314623.0
+72763.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,welch daniel g,89924319014427,,male,161314623.0
+24763.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,simonian nancy a,89924319014440,,female,161314623.0
+8713.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,seth alpna,89924319014438,,male,161314623.0
+131313.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,lippman marc e,89924319014437,,male,161314623.0
+48013.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,gryska david w,89924319014434,,male,161314623.0
+28298.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190522,taylor robin g,89924319014433,Chief Commercial Officer,male,161314623.0
+40168.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,akkaraju srinivas,89924319014429,,male,161314623.0
+24763.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190522,orwin john a,89924319014428,,male,161314623.0
+177329.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190604,himes vaughn b,120331119000018,Chief Technical Officer,male,161314623.0
+746294.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190612,siegall clay b,120331119000020,President and CEO,male,161314623.0
+77593.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190619,dansey roger d,120331119000022,Chief Medical Officer,male,161314623.0
+182033.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190626,himes vaughn b,120331119000024,Chief Technical Officer,male,161314623.0
+746294.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190710,siegall clay b,120331119000026,President and CEO,male,161638000.0
+48013.0,,1060736,seattle genetics inc /wa,1,0,0,0,20190719,gryska david w,120331119000028,,male,161720181.0
+70633.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190808,liu jean i,120331119000030,"GC/EVP, Leg Affairs",male,161720181.0
+746294.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190809,siegall clay b,89924319021463,President and CEO,male,161720181.0
+159280.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190822,simpson todd e,120331119000034,Chief Financial Officer,male,161720181.0
+66917.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190822,liu jean i,120331119000032,"GC/EVP, Leg Affairs",male,161720181.0
+153371.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190830,simpson todd e,120331119000042,Chief Financial Officer,male,161720181.0
+717343.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190830,siegall clay b,120331119000041,President and CEO,male,161720181.0
+60904.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190830,liu jean i,120331119000040,"GC/EVP, Leg Affairs",male,161720181.0
+175197.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190830,himes vaughn b,120331119000039,Chief Technical Officer,male,161720181.0
+106146.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190904,dansey roger d,89924319022787,See Remarks,male,161720181.0
+78120.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190904,liu jean i,89924319022786,See Remarks,male,161720181.0
+172567.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190904,simpson todd e,89924319022785,See Remarks,male,161720181.0
+32964.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190904,taylor robin g,89924319022792,Chief Commercial Officer,male,161720181.0
+187518.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190904,himes vaughn b,89924319022791,See Remarks,male,161720181.0
+755684.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190904,siegall clay b,89924319022793,See Remarks,male,161720181.0
+755684.0,,1060736,seattle genetics inc /wa,1,1,0,0,20190910,siegall clay b,120331119000044,President and CEO,male,161720181.0
+103146.0,,1060736,seattle genetics inc /wa,0,1,0,0,20190927,dansey roger d,120331119000047,Chief Medical Officer,male,161720181.0
+157567.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191002,simpson todd e,120331119000051,Chief Financial Officer,male,171108000.0
+70688.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191002,liu jean i,120331119000049,"GC/EVP, Leg Affairs",male,171108000.0
+48013.0,,1060736,seattle genetics inc /wa,1,0,0,0,20191003,gryska david w,120331119000053,,male,171108000.0
+755684.0,,1060736,seattle genetics inc /wa,1,1,0,0,20191010,siegall clay b,120331119000055,President and CEO,male,171108000.0
+755684.0,,1060736,seattle genetics inc /wa,1,1,0,0,20191112,siegall clay b,120331119000057,President and CEO,male,171385656.0
+103146.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191120,dansey roger d,120331119000061,Chief Medical Officer,male,171385656.0
+131313.0,,1060736,seattle genetics inc /wa,1,0,0,0,20191120,lippman marc e,120331119000059,,male,171385656.0
+40168.0,,1060736,seattle genetics inc /wa,1,0,0,0,20191122,akkaraju srinivas,120331119000063,,male,171385656.0
+103146.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191127,dansey roger d,89924319028262,Chief Medical Officer,male,171385656.0
+187518.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191210,himes vaughn b,120331119000065,Chief Technical Officer,male,171385656.0
+755684.0,,1060736,seattle genetics inc /wa,1,1,0,0,20191210,siegall clay b,120331119000067,President and CEO,male,171385656.0
+101146.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191217,dansey roger d,120331119000069,Chief Medical Officer,male,171385656.0
+158438.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191223,simpson todd e,89924319029973,Chief Financial Officer,male,171385656.0
+188389.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191223,himes vaughn b,89924319029971,Chief Technical Officer,male,171385656.0
+108611.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191223,dansey roger d,89924319029970,Chief Medical Officer,male,171385656.0
+758784.0,,1060736,seattle genetics inc /wa,1,1,0,0,20191223,siegall clay b,89924319029967,President and CEO,male,171385656.0
+71385.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191223,liu jean i,89924319029966,"GC/EVP, Leg Afairs",male,171385656.0
+33025.0,,1060736,seattle genetics inc /wa,0,1,0,0,20191223,taylor robin g,89924319029963,Chief Commercial Officer,male,171385656.0
+90263.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200109,welch daniel g,120331120000002,,male,171994000.0
+758784.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200110,siegall clay b,120331120000004,President and CEO,male,171994000.0
+108009.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200205,dansey roger d,120331120000006,Chief Medical Officer,male,172259645.0
+758784.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200212,siegall clay b,120331120000008,President and CEO,male,172259645.0
+107659.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200220,dansey roger d,89924320005326,Chief Medical Officer,male,172259645.0
+188674.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200310,himes vaughn b,120331120000010,Chief Technical Officer,male,172259645.0
+758784.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200311,siegall clay b,120331120000012,President and CEO,male,172259645.0
+758784.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200410,siegall clay b,89924320010653,President and CEO,male,172636000.0
+117233.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200421,dansey roger d,89924320011117,Chief Medical Officer,male,172636000.0
+768339.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200421,siegall clay b,89924320011115,President and CEO,male,172636000.0
+161696.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200421,simpson todd e,89924320011114,Chief Financial Officer,male,172636000.0
+191582.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200421,himes vaughn b,89924320011119,Chief Technical Officer,male,172636000.0
+57631.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200422,romp charles r,89924320011133,"EVP, Commercial",male,172636000.0
+73474.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200422,liu jean i,89924320011132,"GC/EVP, Leg Afairs",male,172636000.0
+173888.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200506,simpson todd e,120331120000020,Chief Financial Officer,male,173101783.0
+130313.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200506,lippman marc e,120331120000018,,male,173101783.0
+718339.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200507,siegall clay b,120331120000027,President and CEO,male,173101783.0
+55263.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200507,welch daniel g,120331120000028,,male,173101783.0
+40168.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200507,akkaraju srinivas,120331120000025,,male,173101783.0
+52575.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200507,romp charles r,120331120000026,"EVP, Commercial",male,173101783.0
+52575.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200508,romp charles r,120331120000032,"EVP, Commercial",male,173101783.0
+117233.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200508,dansey roger d,120331120000030,Chief Medical Officer,male,173101783.0
+718339.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200512,siegall clay b,120331120000034,President and CEO,male,173101783.0
+52575.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200514,romp charles r,120331120000036,"EVP, Commercial",male,173101783.0
+131648.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,lippman marc e,120331120000048,,male,173101783.0
+49348.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,gryska david w,120331120000047,,male,173101783.0
+41503.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,akkaraju srinivas,120331120000046,,male,173101783.0
+56019.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200519,romp charles r,120331120000038,"EVP, Commercial",male,173101783.0
+56598.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,welch daniel g,120331120000052,,male,173101783.0
+26098.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,simonian nancy a,120331120000051,,female,173101783.0
+26098.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,orwin john a,120331120000049,,male,173101783.0
+10048.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200519,seth alpna,120331120000050,,male,173101783.0
+718339.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200610,siegall clay b,120331120000054,President and CEO,male,173101783.0
+111770.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200617,dansey roger d,120331120000056,Chief Medical Officer,male,173101783.0
+109608.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200619,dansey roger d,120331120000058,Chief Medical Officer,male,173101783.0
+63597.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200622,liu jean i,120331120000060,"GC/EVP, Leg Affairs",male,173101783.0
+163181.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200702,simpson todd e,89924320018358,Chief Financial Officer,male,173865000.0
+55307.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200707,romp charles r,120331120000062,"EVP, Commercial",male,173865000.0
+718339.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200710,siegall clay b,120331120000065,President and CEO,male,173865000.0
+191840.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200721,himes vaughn b,120331120000067,Chief Technical Officer,male,173865000.0
+143181.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200805,simpson todd e,120331120000069,Chief Financial Officer,male,173996620.0
+718339.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200813,siegall clay b,120331120000071,President and CEO,male,173996620.0
+70792.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200817,liu jean i,89924320022632,"GC/EVP, Legal Affairs",male,173996620.0
+198468.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200817,himes vaughn b,89924320022635,Chief Technical Officer,male,173996620.0
+151816.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200817,simpson todd e,89924320022638,Chief Financial Officer,male,173996620.0
+63102.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200817,romp charles r,89924320022639,"EVP, Commercial",male,173996620.0
+746321.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200817,siegall clay b,89924320022640,President and CEO,male,173996620.0
+122493.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200817,dansey roger d,89924320022644,Chief Medical Officer,male,173996620.0
+1799.0,,1060736,seattle genetics inc /wa,1,0,0,0,20200818,love ted w,120331120000079,,male,173996620.0
+190414.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200820,himes vaughn b,120331120000085,Chief Technical Officer,male,173996620.0
+59075.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200820,romp charles r,120331120000086,"EVP, Commercial",male,173996620.0
+719261.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200820,siegall clay b,120331120000087,President and CEO,male,173996620.0
+142554.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200820,simpson todd e,120331120000088,Chief Financial Officer,male,173996620.0
+63946.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200820,liu jean i,120331120000090,"GC/EVP, Leg Affairs",male,173996620.0
+729560.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200825,siegall clay b,120331120000092,President and CEO,male,173996620.0
+60298.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200902,liu jean i,120331120000102,"GC/EVP, Leg Affairs",male,173996620.0
+57942.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200902,romp charles r,120331120000101,"EVP, Commercial",male,173996620.0
+186829.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200902,himes vaughn b,120331120000103,Chief Technical Officer,male,173996620.0
+117882.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200902,dansey roger d,120331120000104,Chief Medical Officer,male,173996620.0
+126276.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200902,simpson todd e,120331120000100,Chief Financial Officer,male,173996620.0
+715209.0,,1060736,seattle genetics inc /wa,1,1,0,0,20200902,siegall clay b,120331120000099,President and CEO,male,173996620.0
+186829.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200911,himes vaughn b,120331120000106,Chief Technical Officer,male,173996620.0
+48688.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200916,liu jean i,120331120000113,"GC/EVP, Leg Affairs",male,173996620.0
+58642.0,,1060736,seattle genetics inc /wa,0,1,0,0,20200923,liu jean i,120331120000115,"GC/EVP, Leg Affairs",male,173996620.0
+47348.0,,1060736,seagen inc.,1,0,0,0,20201104,welch daniel g,120331120000120,,male,180306390.0
+44077.0,,1060736,seagen inc.,0,1,0,0,20201104,romp charles r,120331120000118,"EVP, Commercial",male,180306390.0
+52338.0,,1060736,seagen inc.,1,0,0,0,20201105,lippman marc e,120331120000122,,male,180306390.0
+110221.0,,1060736,seagen inc.,0,1,0,0,20201105,dansey roger d,120331120000124,Chief Medical Officer,male,180306390.0
+44077.0,,1060736,seagen inc.,0,1,0,0,20201106,romp charles r,120331120000126,"EVP, Commercial",male,180306390.0
+44848.0,,1060736,seagen inc.,1,0,0,0,20201106,gryska david w,120331120000128,,male,180306390.0
+118767.0,,1060736,seagen inc.,0,1,0,0,20201109,simpson todd e,120331120000130,Chief Financial Officer,male,180306390.0
+44848.0,,1060736,seagen inc.,1,0,0,0,20201123,gryska david w,120331120000132,,male,180306390.0
+44077.0,,1060736,seagen inc.,0,1,0,0,20201203,romp charles r,120331120000134,"EVP, Commercial",male,180306390.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20201204,siegall clay b,120331120000136,President and CEO,male,180306390.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20201208,siegall clay b,120331120000138,President and CEO,male,180306390.0
+53669.0,,1060736,seagen inc.,0,1,0,0,20201209,himes vaughn b,120331120000140,Chief Technical Officer,male,180306390.0
+60266.0,,1060736,seagen inc.,0,1,0,0,20201216,liu jean i,120331120000142,"GC/EVP, Leg Affairs",male,180306390.0
+119871.0,,1060736,seagen inc.,0,1,0,0,20201218,simpson todd e,120331120000144,Chief Financial Officer,male,180306390.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210108,siegall clay b,120331121000002,President and CEO,male,180902000.0
+60266.0,,1060736,seagen inc.,0,1,0,0,20210115,liu jean i,120331121000004,"GC/EVP, Leg Affairs",male,180902000.0
+109544.0,,1060736,seagen inc.,0,1,0,0,20210204,dansey roger d,120331121000006,Chief Medical Officer,male,180902000.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210205,siegall clay b,120331121000010,President and CEO,male,180902000.0
+65112.0,,1060736,seagen inc.,0,1,0,0,20210218,liu jean i,120331121000012,"GC/EVP, Leg Affairs",male,181164446.0
+129889.0,53669.0,1060736,seagen inc.,0,1,0,0,20210304,himes vaughn b,120331121000014,Chief Technical Officer,male,181164446.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210305,siegall clay b,120331121000016,President and CEO,male,181164446.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210409,siegall clay b,120331121000018,President and CEO,male,181323000.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210507,siegall clay b,120331121000020,President and CEO,male,181477076.0
+64051.0,,1060736,seagen inc.,0,1,0,0,20210513,liu jean i,120331121000022,"GC/EVP, Leg Affairs",male,181477076.0
+11450.0,,1060736,seagen inc.,1,0,0,0,20210518,seth alpna,120331121000031,,male,181477076.0
+3201.0,,1060736,seagen inc.,1,0,0,0,20210518,love ted w,120331121000033,,male,181477076.0
+53740.0,,1060736,seagen inc.,1,0,0,0,20210518,lippman marc e,120331121000034,,male,181477076.0
+46250.0,,1060736,seagen inc.,1,0,0,0,20210518,gryska david w,120331121000035,,male,181477076.0
+41931.0,,1060736,seagen inc.,1,0,0,0,20210518,welch daniel g,120331121000030,,male,181477076.0
+27500.0,,1060736,seagen inc.,1,0,0,0,20210518,orwin john a,120331121000032,,male,181477076.0
+27500.0,,1060736,seagen inc.,1,0,0,0,20210518,simonian nancy a,120331121000036,,female,181477076.0
+43890.0,,1060736,seagen inc.,0,1,0,0,20210519,romp charles r,120331121000038,"EVP, Commercial",male,181477076.0
+120605.0,,1060736,seagen inc.,0,1,0,0,20210604,himes vaughn b,120331121000043,Chief Technical Officer,male,181477076.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210604,siegall clay b,120331121000044,President and CEO,male,181477076.0
+53012.0,120605.0,1060736,seagen inc.,0,1,0,0,20210608,himes vaughn b,120331121000047,Chief Technical Officer,male,181477076.0
+84435.0,,1060736,seagen inc.,0,1,0,0,20210621,dansey roger d,120331121000049,Chief Medical Officer,male,181477076.0
+43187.0,,1060736,seagen inc.,0,1,0,0,20210706,romp charles r,89924321027689,"EVP, Commercial",male,181866000.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210706,siegall clay b,89924321027729,President and CEO,male,181866000.0
+715209.0,,1060736,seagen inc.,1,1,0,0,20210806,siegall clay b,120331121000051,President & CEO,male,181934500.0
+74435.0,,1060736,seagen inc.,0,1,0,0,20210813,dansey roger d,120331121000053,Chief Medical Officer,male,181934500.0
+52317.0,,1060736,seagen inc.,0,1,0,0,20210818,romp charles r,120331121000065,"EVP, Commercial",male,181934500.0
+743241.0,,1060736,seagen inc.,1,1,0,0,20210818,siegall clay b,120331121000064,President & CEO,male,181934500.0
+61072.0,120605.0,1060736,seagen inc.,0,1,0,0,20210818,himes vaughn b,120331121000063,Chief Technical Officer,male,181934500.0
+89950.0,,1060736,seagen inc.,0,1,0,0,20210818,dansey roger d,120331121000062,Chief Medical Officer,male,181934500.0
+130433.0,,1060736,seagen inc.,0,1,0,0,20210818,simpson todd e,120331121000060,Chief Financial Officer,male,181934500.0
+72579.0,,1060736,seagen inc.,0,1,0,0,20210818,liu jean i,120331121000061,"GC/EVP, Leg Affairs",male,181934500.0
+682809.0,,1060736,seagen inc.,1,1,0,0,20210831,siegall clay b,89924321034676,President and CEO,male,181934500.0
+68931.0,,1060736,seagen inc.,0,1,0,0,20210902,liu jean i,89924321034983,"GC/EVP, Legal Affairs",male,181934500.0
+85339.0,,1060736,seagen inc.,0,1,0,0,20210902,dansey roger d,89924321034988,Chief Medical Officer,male,181934500.0
+668458.0,,1060736,seagen inc.,1,1,0,0,20210902,siegall clay b,89924321034984,President & CEO,male,181934500.0
+57488.0,120605.0,1060736,seagen inc.,0,1,0,0,20210902,himes vaughn b,89924321034977,Chief Technical Officer,male,181934500.0
+51184.0,,1060736,seagen inc.,0,1,0,0,20210902,romp charles r,89924321034974,"EVP, Commercial",male,181934500.0
+126446.0,,1060736,seagen inc.,0,1,0,0,20210902,simpson todd e,89924321034980,Chief Financial Officer,male,181934500.0
+57488.0,120605.0,1060736,seagen inc.,0,1,0,0,20210910,himes vaughn b,120331121000067,Chief Technical Officer,male,181934500.0
+51296.0,,1060736,seagen inc.,0,1,0,0,20210927,romp charles r,120331121000077,"EVP, Commercial",male,181934500.0
+126647.0,,1060736,seagen inc.,0,1,0,0,20210927,simpson todd e,120331121000079,Chief Financial Officer,male,181934500.0
+88921.0,,1060736,seagen inc.,0,1,0,0,20210927,dansey roger d,120331121000074,Chief Medical Officer,male,181934500.0
+69091.0,,1060736,seagen inc.,0,1,0,0,20210927,liu jean i,120331121000075,"GC/EVP, Legal Affairs",male,181934500.0
+57689.0,120605.0,1060736,seagen inc.,0,1,0,0,20210927,himes vaughn b,120331121000076,Chief Technical Officer,male,181934500.0
+669172.0,,1060736,seagen inc.,1,1,0,0,20210927,siegall clay b,120331121000078,President & CEO,male,181934500.0
+126647.0,,1060736,seagen inc.,0,1,0,0,20211102,simpson todd e,120331121000081,Chief Financial Officer,male,182855795.0
+69091.0,,1060736,seagen inc.,0,1,0,0,20211103,liu jean i,89924321042938,"GC/EVP, Leg Afairs",male,182855795.0
+59845.0,120605.0,1060736,seagen inc.,0,1,0,0,20211103,himes vaughn b,120331121000084,Chief Technical Officer,male,182855795.0
+128803.0,,1060736,seagen inc.,0,1,0,0,20211105,simpson todd e,89924321043353,Chief Financial Officer,male,182855795.0
+70708.0,,1060736,seagen inc.,0,1,0,0,20211105,liu jean i,89924321043354,"GC/EVP, Leg Affairs",male,182855795.0
+59845.0,120605.0,1060736,seagen inc.,0,1,0,0,20211112,himes vaughn b,120331121000088,Chief Technical Officer,male,182855795.0
+669172.0,,1060736,seagen inc.,1,1,0,0,20211209,siegall clay b,120331121000090,President & CEO,male,182855795.0
+59500.0,120605.0,1060736,seagen inc.,0,1,0,0,20211222,himes vaughn b,120331121000101,Chief Technical Officer,male,182855795.0
+70432.0,,1060736,seagen inc.,0,1,0,0,20211222,liu jean i,120331121000097,Chief Legal Officer,male,182855795.0
+128458.0,,1060736,seagen inc.,0,1,0,0,20211222,simpson todd e,120331121000098,Chief Financial Officer,male,182855795.0
+667945.0,,1060736,seagen inc.,1,1,0,0,20211222,siegall clay b,120331121000099,President & CEO,male,182855795.0
+88361.0,,1060736,seagen inc.,0,1,0,0,20211222,dansey roger d,120331121000100,Chief Medical Officer,male,182855795.0
+49973.0,,1060736,seagen inc.,0,1,0,0,20211222,romp charles r,120331121000102,"EVP, Commercial",male,182855795.0
+79686.0,,1060736,seagen inc.,0,1,0,0,20220105,dansey roger d,120331122000002,Chief Medical Officer,male,183381000.0
+667945.0,,1060736,seagen inc.,1,1,0,0,20220111,siegall clay b,120331122000004,President & CEO,male,183381000.0
+46250.0,,1060736,seagen inc.,1,0,0,0,20220119,gryska david w,89924322002477,,male,183381000.0
+76347.0,,1060736,seagen inc.,0,1,0,0,20220120,liu jean i,120331122000006,Chief Legal Officer,male,183381000.0
+46250.0,,1060736,seagen inc.,1,0,0,0,20220201,gryska david w,120331122000008,,male,183381000.0
+78244.0,,1060736,seagen inc.,0,1,0,0,20220204,dansey roger d,120331122000010,Chief Medical Officer,male,183626064.0
+46250.0,,1060736,seagen inc.,1,0,0,0,20220209,gryska david w,120331122000013,,male,183626064.0
+667945.0,,1060736,seagen inc.,1,1,0,0,20220209,siegall clay b,120331122000014,President & CEO,male,183626064.0
+52500.0,,1060736,seagen inc.,1,0,0,0,20220304,simonian nancy a,89924322009424,,female,183626064.0
+59500.0,120605.0,1060736,seagen inc.,0,1,0,0,20220304,himes vaughn b,120331122000016,Chief Technical Officer,male,183626064.0
+667945.0,,1060736,seagen inc.,1,1,0,0,20220309,siegall clay b,120331122000018,President & CEO,male,183626064.0
+667945.0,,1060736,seagen inc.,1,1,0,0,20220408,siegall clay b,89924322014397,President and CEO,male,183892000.0
+46250.0,,1060736,seagen inc.,1,0,0,0,20220421,gryska david w,120331122000021,,male,183892000.0
+666060.0,,1060736,seagen inc.,1,1,0,0,20220422,siegall clay b,120331122000033,President & CEO,male,183892000.0
+75946.0,,1060736,seagen inc.,0,1,0,0,20220422,liu jean i,120331122000031,Chief Legal Officer,male,183892000.0
+49816.0,,1060736,seagen inc.,0,1,0,0,20220422,romp charles r,120331122000030,"EVP, Commercial",male,183892000.0
+59064.0,120605.0,1060736,seagen inc.,0,1,0,0,20220422,himes vaughn b,120331122000029,Chief Technical Officer,male,183892000.0
+76975.0,,1060736,seagen inc.,0,1,0,0,20220422,dansey roger d,120331122000028,Chief Medical Officer,male,183892000.0
+127891.0,,1060736,seagen inc.,0,1,0,0,20220422,simpson todd e,120331122000032,Chief Financial Officer,male,183892000.0
+666060.0,,1060736,seagen inc.,1,1,0,0,20220513,siegall clay b,120331122000035,President & CEO,male,184075643.0
+54003.0,,1060736,seagen inc.,1,0,0,0,20220517,simonian nancy a,89924322018458,,female,184075643.0
+12953.0,,1060736,seagen inc.,1,0,0,0,20220517,seth alpna,89924322018467,,male,184075643.0
+47753.0,,1060736,seagen inc.,1,0,0,0,20220517,gryska david w,89924322018466,,male,184075643.0
+29003.0,,1060736,seagen inc.,1,0,0,0,20220517,orwin john a,89924322018465,,male,184075643.0
+4704.0,,1060736,seagen inc.,1,0,0,0,20220517,love ted w,89924322018464,,male,184075643.0
+9649.0,33785.0,1060736,seagen inc.,1,0,0,0,20220517,welch daniel g,89924322018459,,male,184075643.0
+49483.0,,1060736,seagen inc.,0,1,0,0,20220518,romp charles r,120331122000037,"EVP, Commercial",male,184075643.0
+59064.0,120605.0,1060736,seagen inc.,0,1,0,0,20220526,himes vaughn b,120331122000039,Chief Technical Officer,male,184075643.0
+119471.0,,1060736,seagen inc.,0,1,0,0,20220622,himes vaughn b,120331122000041,Chief Technical Officer,male,184075643.0
+62084.0,,1060736,seagen inc.,0,1,0,0,20220630,dansey roger d,120331122000043,Chief Medical Officer,male,184369000.0
+48771.0,,1060736,seagen inc.,0,1,0,0,20220707,romp charles r,120331122000045,"EVP, Commercial",male,184369000.0
+102558.0,,1060736,seagen inc.,0,1,0,0,20220817,dansey roger d,120331122000051,Interim CEO & CMO,male,184435456.0
+70767.0,119471.0,1060736,seagen inc.,0,1,0,0,20220817,himes vaughn b,120331122000052,Chief Technical Officer,male,184435456.0
+88038.0,,1060736,seagen inc.,0,1,0,0,20220817,liu jean i,120331122000053,Chief Legal Officer,male,184435456.0
+60737.0,,1060736,seagen inc.,0,1,0,0,20220817,romp charles r,120331122000054,"EVP, Commercial",male,184435456.0
+141371.0,,1060736,seagen inc.,0,1,0,0,20220817,simpson todd e,120331122000055,Chief Financial Officer,male,184435456.0
+97539.0,,1060736,seagen inc.,0,1,0,0,20220901,dansey roger d,89924322030206,Interim CEO & CMO,male,184435456.0
+137185.0,,1060736,seagen inc.,0,1,0,0,20220901,simpson todd e,89924322030212,Chief Financial Officer,male,184435456.0
+67183.0,119471.0,1060736,seagen inc.,0,1,0,0,20220901,himes vaughn b,89924322030210,Chief Technical Officer,male,184435456.0
+59604.0,,1060736,seagen inc.,0,1,0,0,20220901,romp charles r,89924322030209,"EVP, Commercial",male,184435456.0
+84390.0,,1060736,seagen inc.,0,1,0,0,20220901,liu jean i,89924322030205,Chief Legal Officer,male,184435456.0
+97539.0,,1060736,seagen inc.,0,1,0,0,20221019,dansey roger d,120331122000057,Interim CEO & CMO,male,185234000.0
+107389.0,,1060736,seagen inc.,1,1,0,0,20221114,epstein david r,89924322035727,Chief Executive Officer,male,185664901.0
+,,1060736,seagen inc.,0,1,0,0,20221114,dansey roger d,89924322035735,See Remarks,male,185664901.0
+778.0,,1060736,seagen inc.,1,0,0,0,20221114,swain sandra m,89924322035741,,female,185664901.0
+40253.0,,1060736,seagen inc.,1,0,0,0,20221115,gryska david w,120331122000059,,male,185664901.0
+85691.0,,1060736,seagen inc.,0,1,0,0,20221116,liu jean i,120331122000061,Chief Legal Officer,male,185664901.0
+85691.0,,1060736,seagen inc.,0,1,0,0,20221118,liu jean i,120331122000063,Chief Legal Officer,male,185664901.0
+62753.0,,1060736,seagen inc.,1,0,0,0,20221214,simonian nancy a,120331122000065,,female,185664901.0
+97539.0,,1060736,seagen inc.,0,1,0,0,20221216,dansey roger d,120331122000067,"President, Research and Develo",male,185664901.0
+58475.0,,1060736,seagen inc.,0,1,0,0,20221221,romp charles r,120331122000070,"EVP, Commercial U.S.",male,185664901.0
+97539.0,,1060736,seagen inc.,0,1,0,0,20230106,dansey roger d,120331123000004,President R&D & CMO,male,186559000.0
+85691.0,,1060736,seagen inc.,0,1,0,0,20230106,liu jean i,120331123000002,Chief Legal Officer,male,186559000.0
+85113.0,,1060736,seagen inc.,0,1,0,0,20230119,liu jean i,120331123000006,Chief Legal Officer,male,186559000.0
+97539.0,,1060736,seagen inc.,0,1,0,0,20230126,dansey roger d,120331123000010,"President, R&D & CMO",male,186559000.0
+85113.0,,1060736,seagen inc.,0,1,0,0,20230126,liu jean i,120331123000008,Chief Legal Officer,male,186559000.0
+96853.0,,1060736,seagen inc.,0,1,0,0,20230203,dansey roger d,120331123000012,"President, R&D & CMO",male,186559000.0
+49003.0,,1060736,seagen inc.,1,0,0,0,20230215,gryska david w,120331123000014,,male,186789367.0
+96853.0,,1060736,seagen inc.,0,1,0,0,20230217,dansey roger d,89924323005471,"President, R&D & CMO",male,186789367.0
+137185.0,,1060736,seagen inc.,0,1,0,0,20230221,simpson todd e,120331123000018,Chief Financial Officer,male,186789367.0
+85113.0,,1060736,seagen inc.,0,1,0,0,20230221,liu jean i,120331123000016,Chief Legal Officer,male,186789367.0
+117185.0,,1060736,seagen inc.,0,1,0,0,20230228,simpson todd e,120331123000020,Chief Financial Officer,male,186789367.0
+67257.0,119471.0,1060736,seagen inc.,0,1,0,0,20230303,himes vaughn b,120331123000022,Chief Technical Officer,male,186789367.0
+117185.0,,1060736,seagen inc.,0,1,0,0,20230310,simpson todd e,89924323008013,Chief Financial Officer,male,186789367.0
+24306.0,,1060736,seagen inc.,1,0,0,0,20230316,welch daniel g,89924323008695,,male,186789367.0
+96853.0,,1060736,seagen inc.,0,1,0,0,20230317,dansey roger d,89924323008871,"President, R&D & CMO",male,186789367.0
+23060.0,,1060736,seagen inc.,1,0,0,0,20230317,welch daniel g,89924323008886,,male,186789367.0
+85113.0,,1060736,seagen inc.,0,1,0,0,20230317,liu jean i,89924323008893,Chief Legal Officer,male,186789367.0
+118580.0,,1060736,seagen inc.,0,1,0,0,20230404,simpson todd e,89924323010582,Chief Financial Officer,male,187289000.0
+59769.0,,1060736,seagen inc.,0,1,0,0,20230404,romp charles r,89924323010593,"EVP, Commercial U.S.",male,187289000.0
+99113.0,,1060736,seagen inc.,0,1,0,0,20230404,dansey roger d,89924323010594,"President, R&D & CMO",male,187289000.0
+68471.0,119471.0,1060736,seagen inc.,0,1,0,0,20230404,himes vaughn b,89924323010595,Chief Technical Officer,male,187289000.0
+86502.0,,1060736,seagen inc.,0,1,0,0,20230404,liu jean i,89924323010596,Chief Legal Officer,male,187289000.0
+12335.0,,1060736,seagen inc.,1,0,0,0,20230405,welch daniel g,89924323010823,,male,187289000.0
+118946.0,,1060736,seagen inc.,0,1,0,0,20230407,simpson todd e,120331123000038,Chief Financial Officer,male,187289000.0
+60126.0,,1060736,seagen inc.,0,1,0,0,20230407,romp charles r,120331123000037,"EVP, Commercial U.S.",male,187289000.0
+99389.0,,1060736,seagen inc.,0,1,0,0,20230407,dansey roger d,120331123000034,"President, R&D & CMO",male,187289000.0
+68837.0,119471.0,1060736,seagen inc.,0,1,0,0,20230407,himes vaughn b,120331123000035,Chief Technical Officer,male,187289000.0
+86763.0,,1060736,seagen inc.,0,1,0,0,20230407,liu jean i,120331123000036,Chief Legal Officer,male,187289000.0
+118946.0,,1060736,seagen inc.,0,1,0,0,20230412,simpson todd e,89924323011217,Chief Financial Officer,male,187289000.0
+99389.0,,1060736,seagen inc.,0,1,0,0,20230419,dansey roger d,120331123000041,"President, R&D & CMO",male,187289000.0
+86763.0,,1060736,seagen inc.,0,1,0,0,20230419,liu jean i,120331123000042,Chief Legal Officer,male,187289000.0
+12335.0,,1060736,seagen inc.,1,0,0,0,20230503,welch daniel g,89924323012178,,male,187503979.0
+43837.0,119471.0,1060736,seagen inc.,0,1,0,0,20230503,himes vaughn b,120331123000044,Chief Technical Officer,male,187503979.0
+6253.0,12335.0,1060736,seagen inc.,1,0,0,0,20230516,welch daniel g,120331123000046,,male,187503979.0
+59777.0,,1060736,seagen inc.,0,1,0,0,20230518,romp charles r,120331123000049,"EVP, Commercial U.S.",male,187503979.0
+51047.0,,1060736,seagen inc.,1,0,0,0,20230602,gryska david w,120331123000063,,male,187503979.0
+6748.0,,1060736,seagen inc.,1,0,0,0,20230602,love ted w,120331123000062,,male,187503979.0
+31047.0,,1060736,seagen inc.,1,0,0,0,20230602,orwin john a,120331123000061,,male,187503979.0
+64797.0,,1060736,seagen inc.,1,0,0,0,20230602,simonian nancy a,120331123000059,,female,187503979.0
+2822.0,,1060736,seagen inc.,1,0,0,0,20230602,swain sandra m,120331123000058,,female,187503979.0
+8297.0,12335.0,1060736,seagen inc.,1,0,0,0,20230602,welch daniel g,120331123000057,,male,187503979.0
+14997.0,,1060736,seagen inc.,1,0,0,0,20230602,seth alpna,120331123000060,,male,187503979.0
+43837.0,119471.0,1060736,seagen inc.,0,1,0,0,20230609,himes vaughn b,120331123000065,Chief Technical Officer,male,187503979.0
+59069.0,,1060736,seagen inc.,false,true,false,false,20230705,romp charles r,95017023031834,"EVP, Commercial U.S.",male,187672000.0
+75639.0,,1060736,seagen inc.,0,1,0,0,20230809,liu jean i,120331123000067,Chief Legal Officer,male,187697935.0
+130185.0,,1060736,seagen inc.,0,1,0,0,20230817,simpson todd e,120331123000075,Chief Financial Officer,male,187697935.0
+114941.0,,1060736,seagen inc.,0,1,0,0,20230817,dansey roger d,120331123000078,"President, R&D & CMO",male,187697935.0
+69042.0,,1060736,seagen inc.,0,1,0,0,20230817,romp charles r,120331123000079,"EVP, Commercial",male,187697935.0
+85738.0,,1060736,seagen inc.,0,1,0,0,20230817,liu jean i,120331123000083,Chief Legal Officer,male,187697935.0
+52668.0,119471.0,1060736,seagen inc.,0,1,0,0,20230817,himes vaughn b,120331123000084,Chief Technical Officer,male,187697935.0
+147218.0,,1060736,seagen inc.,1,1,0,0,20230817,epstein david r,120331123000085,Chief Executive Officer,male,187697935.0
+10725.0,,1060736,seagen inc.,1,0,0,0,20230829,welch daniel g,120331123000087,,male,187697935.0
+115797.0,,1060736,seagen inc.,0,1,0,0,20230830,dansey roger d,120331123000097,"President, R&D & CMO",male,187697935.0
+53234.0,119471.0,1060736,seagen inc.,0,1,0,0,20230830,himes vaughn b,120331123000096,Chief Technical Officer,male,187697935.0
+86355.0,,1060736,seagen inc.,0,1,0,0,20230830,liu jean i,120331123000093,Chief Legal Officer,male,187697935.0
+130925.0,,1060736,seagen inc.,0,1,0,0,20230830,simpson todd e,120331123000094,Chief Financial Officer,male,187697935.0
+69711.0,,1060736,seagen inc.,0,1,0,0,20230830,romp charles r,120331123000095,"EVP, Commercial U.S.",male,187697935.0
+128803.0,,1060736,seagen inc.,0,1,0,0,20230901,simpson todd e,120331123000103,Chief Financial Officer,male,187697935.0
+69156.0,,1060736,seagen inc.,0,1,0,0,20230901,romp charles r,120331123000104,"EVP, Commercial U.S.",male,187697935.0
+84462.0,,1060736,seagen inc.,0,1,0,0,20230901,liu jean i,120331123000105,Chief Legal Officer,male,187697935.0
+51439.0,119471.0,1060736,seagen inc.,0,1,0,0,20230901,himes vaughn b,120331123000106,Chief Technical Officer,male,187697935.0
+111768.0,,1060736,seagen inc.,0,1,0,0,20230901,dansey roger d,120331123000107,"President, R&D & CMO",male,187697935.0
+51439.0,119471.0,1060736,seagen inc.,0,1,0,0,20230908,himes vaughn b,120331123000109,Chief Technical Officer,male,187697935.0
+51359.0,119471.0,1060736,seagen inc.,0,1,0,0,20230922,himes vaughn b,120331123000118,Chief Technical Officer,male,187697935.0
+84398.0,,1060736,seagen inc.,0,1,0,0,20230922,liu jean i,120331123000117,Chief Legal Officer,male,187697935.0
+116677.0,,1060736,seagen inc.,0,1,0,0,20230922,dansey roger d,120331123000119,"President, R&D & CMO",male,187697935.0
+69111.0,,1060736,seagen inc.,0,1,0,0,20230922,romp charles r,120331123000116,"EVP, Commercial U.S.",male,187697935.0
+128723.0,,1060736,seagen inc.,0,1,0,0,20230922,simpson todd e,120331123000115,Chief Financial Officer,male,187697935.0
+42574.0,119471.0,1060736,seagen inc.,0,1,0,0,20231113,himes vaughn b,120331123000121,Chief Technical Officer,male,188662672.0
+136598.0,,1060736,seagen inc.,1,1,0,0,20231113,epstein david r,120331123000123,CEO,male,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,gryska david w,95017023070865,,male,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,seth alpna,95017023070868,,male,188662672.0
+0.0,,1060736,seagen inc.,true,true,false,false,20231215,epstein david r,95017023070873,CEO,male,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,welch daniel g,95017023070874,,male,188662672.0
+0.0,,1060736,seagen inc.,false,true,false,false,20231215,dansey roger d,95017023070861,"President, R&D & CMO",male,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,swain sandra m,95017023070879,,female,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,love ted w,95017023070880,,male,188662672.0
+0.0,,1060736,seagen inc.,false,true,false,false,20231215,simpson todd e,95017023070882,Chief Financial Officer,male,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,simonian nancy a,95017023070884,,female,188662672.0
+0.0,,1060736,seagen inc.,false,true,false,false,20231215,himes vaughn b,95017023070886,Chief Technical Officer,male,188662672.0
+0.0,,1060736,seagen inc.,false,true,false,false,20231215,romp charles r,95017023070857,"EVP, Commercial U.S.",male,188662672.0
+,,1060736,seagen inc.,0,1,0,0,20231215,romp charles r,89924323020646,"EVP, Commercial U.S.",male,188662672.0
+0.0,,1060736,seagen inc.,true,false,false,false,20231215,orwin john a,95017023070863,,male,188662672.0
+0.0,,1060736,seagen inc.,false,true,false,false,20231215,liu jean i,95017023070875,Chief Legal Officer,male,188662672.0

@@ -1,36 +1,368 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-45626.0,0.0,1302350,jmp group llc,True,False,False,False,20150105,dipietro david m,124636015000092,,male,21216258.0
-121717.0,0.0,1302350,jmp group llc,True,False,False,False,20150105,lunenburg harry mark,124636015000093,,male,21216258.0
-20179.0,0.0,1302350,jmp group llc,True,False,False,False,20150105,orszag jonathan m,124636015000094,,male,21216258.0
-102328.0,0.0,1302350,jmp group llc,True,False,False,False,20150105,tongue glenn h,124636015000095,,male,21216258.0
-68853.0,0.0,1302350,jmp group llc,False,True,False,False,20150105,jackson raymond,124636015000144,CFO,male,21216258.0
-67500.0,0.0,1302350,jmp group llc,False,False,False,True,20150105,ledbetter kent,124636015000145,,male,21216258.0
-283919.0,1024710.0,1302350,jmp group llc,True,True,False,False,20150105,mack carter d,124636015000146,President,male,21216258.0
-275525.0,445301.0,1302350,jmp group llc,True,True,False,False,20150105,lehmann mark l,124636015000147,"President, JMP Securities",male,21216258.0
-176502.0,3824190.0,1302350,jmp group llc,True,True,True,False,20150105,jolson joseph a,124636015000148,CEO,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,True,True,False,20150206,jolson joseph a,124636015000682,CEO,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,True,False,False,20150206,mack carter d,124636015000683,President,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,True,False,False,20150206,lehmann mark l,124636015000684,"President, JMP Securities",male,21216258.0
-0.0,0.0,1302350,jmp group llc,False,True,False,False,20150206,jackson raymond,124636015000685,CFO,male,21216258.0
-0.0,0.0,1302350,jmp group llc,False,False,False,True,20150206,ledbetter kent,124636015000686,,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,False,False,False,20150213,lunenburg harry mark,124636015000839,,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,False,False,False,20150213,karmin kenneth m,124636015000841,,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,False,False,False,20150213,tongue glenn h,124636015000837,,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,False,False,False,20150213,dipietro david m,124636015000842,,male,21216258.0
-0.0,0.0,1302350,jmp group llc,True,False,False,False,20150213,orszag jonathan m,124636015000840,,male,21216258.0
-2658503.0,1355687.0,1302350,jmp group llc,True,True,True,False,20150316,jolson joseph a,124636015001510,CEO,male,21216258.0
-946782.0,0.0,1302350,jmp group llc,True,False,False,False,20150317,johnson craig r,124636015001541,,male,21216258.0
-124105.0,0.0,1302350,jmp group llc,True,False,False,False,20150402,lunenburg harry mark,124636015001683,,male,21228539.0
-105057.0,0.0,1302350,jmp group llc,True,False,False,False,20150402,tongue glenn h,124636015001685,,male,21228539.0
-47673.0,0.0,1302350,jmp group llc,True,False,False,False,20150402,dipietro david m,124636015001679,,male,21228539.0
-123155.0,0.0,1302350,jmp group llc,True,False,False,False,20150402,karmin kenneth m,124636015001680,,male,21228539.0
-22226.0,58812.0,1302350,jmp group llc,True,False,False,False,20150402,orszag jonathan m,124636015001681,,male,21228539.0
-126493.0,0.0,1302350,jmp group llc,True,False,False,False,20150701,lunenburg harry mark,124636015002559,,male,21240820.0
-107786.0,0.0,1302350,jmp group llc,True,False,False,False,20150701,tongue glenn h,124636015002560,,male,21240820.0
-24273.0,58812.0,1302350,jmp group llc,True,False,False,False,20150701,orszag jonathan m,124636015002561,,male,21240820.0
-126225.0,0.0,1302350,jmp group llc,True,False,False,False,20150701,karmin kenneth m,124636015002562,,male,21240820.0
-49720.0,0.0,1302350,jmp group llc,True,False,False,False,20150701,dipietro david m,124636015002563,,male,21240820.0
-78812.0,0.0,1302350,jmp group llc,True,False,False,False,20150728,orszag jonathan m,124636015002725,,male,21240820.0
-108186.0,0.0,1302350,jmp group llc,True,False,False,False,20150729,tongue glenn h,124636015002748,,male,21240820.0
-133879.0,0.0,1302350,jmp group llc,True,False,False,False,20150916,karmin kenneth m,124636015003107,,male,21240820.0
-2738505.0,1467487.0,1302350,jmp group llc,True,True,True,False,20150929,jolson joseph a,124636015003186,CEO,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150105,tongue glenn h,124636015000095,,male,21216258.0
+,,1302350,jmp group llc,false,false,false,true,20150105,ledbetter kent,124636015000145,,male,21216258.0
+,,1302350,jmp group llc,true,true,false,false,20150105,mack carter d,124636015000146,President,male,21216258.0
+,,1302350,jmp group llc,true,true,false,false,20150105,lehmann mark l,124636015000147,"President, JMP Securities",male,21216258.0
+,,1302350,jmp group llc,true,true,true,false,20150105,jolson joseph a,124636015000148,CEO,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150105,orszag jonathan m,124636015000094,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150105,lunenburg harry mark,124636015000093,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150105,dipietro david m,124636015000092,,male,21216258.0
+,,1302350,jmp group llc,false,true,false,false,20150105,jackson raymond,124636015000144,CFO,male,21216258.0
+,,1302350,jmp group llc,true,true,true,false,20150206,jolson joseph a,124636015000682,CEO,male,21216258.0
+,,1302350,jmp group llc,true,true,false,false,20150206,mack carter d,124636015000683,President,male,21216258.0
+,,1302350,jmp group llc,true,true,false,false,20150206,lehmann mark l,124636015000684,"President, JMP Securities",male,21216258.0
+,,1302350,jmp group llc,false,true,false,false,20150206,jackson raymond,124636015000685,CFO,male,21216258.0
+,,1302350,jmp group llc,false,false,false,true,20150206,ledbetter kent,124636015000686,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150213,tongue glenn h,124636015000837,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150213,orszag jonathan m,124636015000840,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150213,lunenburg harry mark,124636015000839,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150213,dipietro david m,124636015000842,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150213,karmin kenneth m,124636015000841,,male,21216258.0
+,,1302350,jmp group llc,true,true,true,false,20150316,jolson joseph a,124636015001510,CEO,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150317,johnson craig r,124636015001541,,male,21216258.0
+,,1302350,jmp group llc,true,false,false,false,20150402,dipietro david m,124636015001679,,male,21228539.0
+,,1302350,jmp group llc,true,false,false,false,20150402,karmin kenneth m,124636015001680,,male,21228539.0
+,,1302350,jmp group llc,true,false,false,false,20150402,orszag jonathan m,124636015001681,,male,21228539.0
+,,1302350,jmp group llc,true,false,false,false,20150402,lunenburg harry mark,124636015001683,,male,21228539.0
+,,1302350,jmp group llc,true,false,false,false,20150402,tongue glenn h,124636015001685,,male,21228539.0
+,,1302350,jmp group llc,true,false,false,false,20150701,lunenburg harry mark,124636015002559,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150701,tongue glenn h,124636015002560,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150701,orszag jonathan m,124636015002561,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150701,karmin kenneth m,124636015002562,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150701,dipietro david m,124636015002563,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150728,orszag jonathan m,124636015002725,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150729,tongue glenn h,124636015002748,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150916,karmin kenneth m,124636015003107,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20150916,karmin kenneth m,124636015003107,,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20150929,jolson joseph a,124636015003186,CEO,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20150929,jolson joseph a,124636015003186,CEO,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20151002,lunenburg harry mark,124636015003218,,male,21211421.0
+,,1302350,jmp group llc,true,false,false,false,20151002,karmin kenneth m,124636015003220,,male,21211421.0
+,,1302350,jmp group llc,true,false,false,false,20151002,orszag jonathan m,124636015003222,,male,21211421.0
+,,1302350,jmp group llc,true,false,false,false,20151002,tongue glenn h,124636015003219,,male,21211421.0
+,,1302350,jmp group llc,true,false,false,false,20151002,dipietro david m,124636015003221,,male,21211421.0
+,,1302350,jmp group llc,true,true,true,false,20151028,jolson joseph a,124636015003403,CEO,male,21211421.0
+,,1302350,jmp group llc,true,false,false,false,20151028,tongue glenn h,124636015003405,,male,21211421.0
+,,1302350,jmp group llc,true,true,true,false,20151102,jolson joseph a,124636015003442,CEO,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20151102,dipietro david m,124636015003443,,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20151109,tongue glenn h,124636015003509,,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20151203,jolson joseph a,124636015003671,CEO,male,21240820.0
+,,1302350,jmp group llc,true,true,false,false,20151203,lehmann mark l,124636015003672,"President, JMP Securities",male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20151203,johnson craig r,124636015003673,,male,21240820.0
+,,1302350,jmp group llc,true,true,false,false,20151203,mack carter d,124636015003674,President,male,21240820.0
+,,1302350,jmp group llc,false,true,false,false,20151203,jackson raymond,124636015003675,CFO,male,21240820.0
+,,1302350,jmp group llc,false,false,false,true,20151203,ledbetter kent,124636015003682,,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20151204,jolson joseph a,124636015003685,CEO,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20151209,tongue glenn h,124636015003790,,male,21240820.0
+,,1302350,jmp group llc,false,true,false,false,20151214,jackson raymond,124636015003846,CFO,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20151217,jolson joseph a,124636015003906,CEO,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20151228,jolson joseph a,124636015003924,CEO,male,21240820.0
+,,1302350,jmp group llc,true,true,true,false,20151230,jolson joseph a,124636015003927,CEO,male,21240820.0
+,,1302350,jmp group llc,true,false,false,false,20160105,dipietro david m,124636016004004,,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160105,karmin kenneth m,124636016004005,,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160105,orszag jonathan m,124636016004006,,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160105,lunenburg harry mark,124636016004007,,male,21282977.0
+,,1302350,jmp group llc,false,true,false,false,20160105,jackson raymond,124636016004009,CFO,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160105,johnson craig r,124636016004011,,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160105,jolson joseph a,124636016004063,CEO,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160105,tongue glenn h,124636016004071,,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160108,jolson joseph a,124636016004082,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160113,jolson joseph a,124636016004136,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160119,jolson joseph a,124636016004146,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160205,jolson joseph a,124636016004372,CEO,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160205,johnson craig r,124636016004373,,male,21282977.0
+,,1302350,jmp group llc,false,true,false,false,20160205,jackson raymond,124636016004374,CFO,male,21282977.0
+,,1302350,jmp group llc,false,false,false,true,20160205,ledbetter kent,124636016004375,,male,21282977.0
+,,1302350,jmp group llc,true,true,false,false,20160217,mack carter d,124636016004574,President,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160218,jolson joseph a,124636016004604,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160226,jolson joseph a,124636016004745,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160302,jolson joseph a,124636016004820,CEO,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160310,tongue glenn h,124636016005036,,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160311,jolson joseph a,124636016005052,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160316,jolson joseph a,124636016005150,CEO,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160318,orszag jonathan m,124636016005191,,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160318,jolson joseph a,124636016005220,CEO,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160318,lunenburg harry mark,124636016005189,,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160318,karmin kenneth m,124636016005190,,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160318,tongue glenn h,124636016005187,,male,21282977.0
+,,1302350,jmp group llc,true,false,false,false,20160318,dipietro david m,124636016005188,,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160323,jolson joseph a,124636016005254,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160328,jolson joseph a,124636016005255,CEO,male,21282977.0
+,,1302350,jmp group llc,true,true,true,false,20160331,jolson joseph a,124636016005346,CEO,male,21201025.0
+,,1302350,jmp group llc,true,false,false,false,20160404,orszag jonathan m,124636016005396,,male,21201025.0
+,,1302350,jmp group llc,true,false,false,false,20160404,dipietro david m,124636016005395,,male,21201025.0
+,,1302350,jmp group llc,true,false,false,false,20160404,tongue glenn h,124636016005394,,male,21201025.0
+,,1302350,jmp group llc,true,false,false,false,20160404,karmin kenneth m,124636016005393,,male,21201025.0
+,,1302350,jmp group llc,true,false,false,false,20160404,lunenburg harry mark,124636016005392,,male,21201025.0
+,,1302350,jmp group llc,true,true,true,false,20160406,jolson joseph a,124636016005455,CEO,male,21201025.0
+,,1302350,jmp group llc,true,true,true,false,20160411,jolson joseph a,124636016005471,CEO,male,21201025.0
+,,1302350,jmp group llc,true,true,true,false,20160505,jolson joseph a,124636016005713,CEO,male,21132686.0
+,,1302350,jmp group llc,true,true,true,false,20160510,jolson joseph a,124636016005775,CEO,male,21132686.0
+,,1302350,jmp group llc,true,true,true,false,20160517,jolson joseph a,124636016005903,CEO,male,21132686.0
+,,1302350,jmp group llc,true,true,true,false,20160527,jolson joseph a,124636016006028,CEO,male,21132686.0
+,,1302350,jmp group llc,true,true,true,false,20160602,jolson joseph a,124636016006049,CEO,male,21132686.0
+,,1302350,jmp group llc,true,true,true,false,20160607,jolson joseph a,124636016006099,CEO,male,21132686.0
+,,1302350,jmp group llc,true,true,true,false,20160613,jolson joseph a,124636016006132,CEO,male,21132686.0
+,,1302350,jmp group llc,true,false,false,false,20160705,lunenburg harry mark,124636016006225,,male,20944771.0
+,,1302350,jmp group llc,true,false,false,false,20160705,tongue glenn h,124636016006229,,male,20944771.0
+,,1302350,jmp group llc,true,false,false,false,20160705,dipietro david m,124636016006228,,male,20944771.0
+,,1302350,jmp group llc,true,false,false,false,20160705,karmin kenneth m,124636016006227,,male,20944771.0
+,,1302350,jmp group llc,true,false,false,false,20160705,orszag jonathan m,124636016006226,,male,20944771.0
+,,1302350,jmp group llc,true,true,true,false,20160804,jolson joseph a,124636016006422,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160809,jolson joseph a,124636016006453,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160812,jolson joseph a,124636016006519,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160901,jolson joseph a,124636016006671,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160907,jolson joseph a,124636016006714,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160914,jolson joseph a,124636016006741,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160920,jolson joseph a,124636016006831,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160927,jolson joseph a,124636016006843,CEO,male,20954323.0
+,,1302350,jmp group llc,true,true,true,false,20160930,jolson joseph a,124636016006850,CEO,male,20939141.0
+,,1302350,jmp group llc,true,false,false,false,20161004,dipietro david m,124636016006905,,male,20939141.0
+,,1302350,jmp group llc,true,false,false,false,20161004,karmin kenneth m,124636016006907,,male,20939141.0
+,,1302350,jmp group llc,true,false,false,false,20161004,tongue glenn h,124636016006909,,male,20939141.0
+,,1302350,jmp group llc,true,false,false,false,20161004,lunenburg harry mark,124636016006901,,male,20939141.0
+,,1302350,jmp group llc,true,false,false,false,20161004,orszag jonathan m,124636016006910,,male,20939141.0
+,,1302350,jmp group llc,true,true,true,false,20161005,jolson joseph a,124636016006948,CEO,male,20939141.0
+,,1302350,jmp group llc,true,true,true,false,20161011,jolson joseph a,124636016006954,CEO,male,20939141.0
+,,1302350,jmp group llc,true,true,true,false,20161013,jolson joseph a,124636016006956,CEO,male,20939141.0
+,,1302350,jmp group llc,true,true,true,false,20161019,jolson joseph a,124636016006985,CEO,male,20939141.0
+,,1302350,jmp group llc,false,true,false,false,20161031,wright thomas rowe,124636016007022,Director of Equities,male,20952222.0
+,,1302350,jmp group llc,true,true,true,false,20161108,jolson joseph a,124636016007097,CEO,male,20952222.0
+,,1302350,jmp group llc,true,false,false,false,20161109,karmin kenneth m,124636016007104,,male,20952222.0
+,,1302350,jmp group llc,true,true,true,false,20161114,jolson joseph a,124636016007130,CEO,male,20952222.0
+,,1302350,jmp group llc,true,true,true,false,20161205,jolson joseph a,124636016007290,CEO,male,20952222.0
+,,1302350,jmp group llc,false,true,false,false,20161205,jackson raymond,124636016007289,CFO,male,20952222.0
+,,1302350,jmp group llc,false,true,false,false,20161205,wright thomas rowe,124636016007288,Director of Equities,male,20952222.0
+,,1302350,jmp group llc,true,true,false,false,20161205,lehmann mark l,124636016007287,"President, JMP Securities",male,20952222.0
+,,1302350,jmp group llc,true,true,false,false,20161205,mack carter d,124636016007286,President,male,20952222.0
+,,1302350,jmp group llc,true,false,false,false,20161205,johnson craig r,124636016007285,,male,20952222.0
+,,1302350,jmp group llc,true,false,false,false,20170104,lunenburg harry mark,124636017000056,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170104,dipietro david m,124636017000054,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170104,karmin kenneth m,124636017000055,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170104,orszag jonathan m,124636017000058,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170104,tongue glenn h,124636017000057,,male,21282977000.0
+,,1302350,jmp group llc,false,true,false,false,20170214,wright thomas rowe,124636017000598,Director of Equities,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170214,johnson craig r,124636017000599,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170320,tongue glenn h,124636017001419,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170320,dipietro david m,124636017001417,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170320,karmin kenneth m,124636017001420,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170320,lunenburg harry mark,124636017001416,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170320,orszag jonathan m,124636017001418,,male,21282977000.0
+,,1302350,jmp group llc,true,false,false,false,20170405,karmin kenneth m,124636017001566,,male,21659239.0
+,,1302350,jmp group llc,true,false,false,false,20170405,orszag jonathan m,124636017001563,,male,21659239.0
+,,1302350,jmp group llc,true,false,false,false,20170405,lunenburg harry mark,124636017001564,,male,21659239.0
+,,1302350,jmp group llc,true,false,false,false,20170405,dipietro david m,124636017001565,,male,21659239.0
+,,1302350,jmp group llc,true,false,false,false,20170405,tongue glenn h,124636017001567,,male,21659239.0
+,,1302350,jmp group llc,true,false,false,false,20170502,tongue glenn h,124636017001698,,male,21673824.0
+,,1302350,jmp group llc,true,false,false,false,20170705,lunenburg harry mark,124636017002310,,male,21599292.0
+,,1302350,jmp group llc,true,false,false,false,20170705,dipietro david m,124636017002306,,male,21599292.0
+,,1302350,jmp group llc,true,false,false,false,20170705,orszag jonathan m,124636017002308,,male,21599292.0
+,,1302350,jmp group llc,true,false,false,false,20170705,karmin kenneth m,124636017002309,,male,21599292.0
+,,1302350,jmp group llc,true,false,false,false,20170705,tongue glenn h,124636017002311,,male,21599292.0
+,,1302350,jmp group llc,false,true,false,false,20170710,jackson raymond,124636017002334,CFO,male,21599292.0
+,,1302350,jmp group llc,true,false,false,false,20170803,tongue glenn h,124636017002501,,male,21537131.0
+,,1302350,jmp group llc,true,false,false,false,20171010,lunenburg harry mark,124636017002915,,male,21460785.0
+,,1302350,jmp group llc,true,false,false,false,20171010,tongue glenn h,124636017002911,,male,21460785.0
+,,1302350,jmp group llc,true,false,false,false,20171010,orszag jonathan m,124636017002912,,male,21460785.0
+,,1302350,jmp group llc,true,false,false,false,20171010,karmin kenneth m,124636017002913,,male,21460785.0
+,,1302350,jmp group llc,true,false,false,false,20171010,dipietro david m,124636017002914,,male,21460785.0
+,,1302350,jmp group llc,false,true,false,false,20171129,wright thomas rowe,124636017003159,Director of Equities,male,24485861.0
+,,1302350,jmp group llc,true,true,true,false,20171205,jolson joseph a,124636017003208,CEO,male,24485861.0
+,,1302350,jmp group llc,true,false,false,false,20171205,johnson craig r,124636017003207,,male,24485861.0
+,,1302350,jmp group llc,false,true,false,false,20171205,wright thomas rowe,124636017003210,Director of Equities,male,24485861.0
+,,1302350,jmp group llc,false,true,false,false,20171205,jackson raymond,124636017003206,CFO,male,24485861.0
+,,1302350,jmp group llc,true,false,false,false,20180104,orszag jonathan m,124636018000054,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180104,lunenburg harry mark,124636018000053,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180104,dipietro david m,124636018000050,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180104,karmin kenneth m,124636018000051,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180104,tongue glenn h,124636018000052,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180207,johnson craig r,124636018000493,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180319,orszag jonathan m,124636018001167,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180319,karmin kenneth m,124636018001163,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180319,lunenburg harry mark,124636018001164,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180319,tongue glenn h,124636018001165,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180319,dipietro david m,124636018001166,,male,21729079.0
+,,1302350,jmp group llc,true,false,false,false,20180402,dipietro david m,124636018001214,,male,21547792.0
+,,1302350,jmp group llc,true,false,false,false,20180402,lunenburg harry mark,124636018001212,,male,21547792.0
+,,1302350,jmp group llc,true,false,false,false,20180402,karmin kenneth m,124636018001213,,male,21547792.0
+,,1302350,jmp group llc,true,false,false,false,20180402,tongue glenn h,124636018001215,,male,21547792.0
+,,1302350,jmp group llc,true,false,false,false,20180402,orszag jonathan m,124636018001216,,male,21547792.0
+,,1302350,jmp group llc,true,true,true,false,20180516,jolson joseph a,124636018001562,CEO,male,21547792.0
+,,1302350,jmp group llc,true,true,true,false,20180608,jolson joseph a,124636018001743,CEO,male,21547792.0
+,,1302350,jmp group llc,true,true,true,false,20180615,jolson joseph a,124636018001760,CEO,male,21547792.0
+,,1302350,jmp group llc,true,false,false,false,20180702,dipietro david m,124636018001791,,male,21486361.0
+,,1302350,jmp group llc,true,false,false,false,20180702,orszag jonathan m,124636018001795,,male,21486361.0
+,,1302350,jmp group llc,true,false,false,false,20180702,tongue glenn h,124636018001794,,male,21486361.0
+,,1302350,jmp group llc,true,false,false,false,20180702,lunenburg harry mark,124636018001793,,male,21486361.0
+,,1302350,jmp group llc,true,false,false,false,20180702,karmin kenneth m,124636018001792,,male,21486361.0
+,,1302350,jmp group llc,true,false,false,false,20181009,karmin kenneth m,124636018002343,,male,21357212.0
+,,1302350,jmp group llc,true,false,false,false,20181009,dipietro david m,124636018002344,,male,21357212.0
+,,1302350,jmp group llc,true,false,false,false,20181009,lunenburg harry mark,124636018002342,,male,21357212.0
+,,1302350,jmp group llc,true,false,false,false,20181009,tongue glenn h,124636018002341,,male,21357212.0
+,,1302350,jmp group llc,true,false,false,false,20181009,orszag jonathan m,124636018002340,,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181010,jolson joseph a,124636018002353,CEO,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181015,jolson joseph a,124636018002354,CEO,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181018,jolson joseph a,124636018002365,CEO,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181023,jolson joseph a,124636018002369,CEO,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181025,jolson joseph a,124636018002391,CEO,male,21357212.0
+,,1302350,jmp group llc,false,true,false,false,20181029,wright thomas rowe,124636018002441,Director of Equities,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181030,jolson joseph a,124636018002443,CEO,male,21357212.0
+,,1302350,jmp group llc,true,true,false,false,20181030,mack carter d,124636018002442,President,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181102,jolson joseph a,124636018002464,CEO,male,21357212.0
+,,1302350,jmp group llc,true,true,true,false,20181107,jolson joseph a,124636018002482,CEO,male,21296633.0
+,,1302350,jmp group llc,true,true,true,false,20181114,jolson joseph a,124636018002513,CEO,male,21296633.0
+,,1302350,jmp group llc,true,true,true,false,20181120,jolson joseph a,124636018002536,CEO,male,21296633.0
+,,1302350,jmp group llc,true,true,true,false,20181126,jolson joseph a,124636018002549,CEO,male,21296633.0
+,,1302350,jmp group llc,false,true,false,false,20181204,wright thomas rowe,124636018002576,Director of Equities,male,21296633.0
+,,1302350,jmp group llc,true,false,false,false,20181204,johnson craig r,124636018002575,,male,21296633.0
+,,1302350,jmp group llc,true,true,true,false,20181214,jolson joseph a,124636018002650,CEO,male,21296633.0
+,,1302350,jmp group llc,true,true,true,false,20181226,jolson joseph a,124636018002680,CEO,male,21296633.0
+,,1302350,jmp group llc,true,false,false,false,20190102,dipietro david m,124636019000001,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190102,karmin kenneth m,124636019000002,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190102,lunenburg harry mark,124636019000003,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190102,tongue glenn h,124636019000004,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190102,orszag jonathan m,124636019000005,,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190103,jolson joseph a,124636019000013,CEO,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190207,johnson craig r,124636019000462,,male,21319720.0
+,,1302350,jmp group llc,false,true,false,false,20190207,wright thomas rowe,124636019000463,Director of Equities,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190214,jolson joseph a,124636019000609,CEO,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190306,jolson joseph a,124636019000964,CEO,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190307,jolson joseph a,124636019000972,CEO,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190312,jolson joseph a,124636019001024,CEO,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190318,dipietro david m,124636019001050,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190318,tongue glenn h,124636019001054,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190318,karmin kenneth m,124636019001053,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190318,orszag jonathan m,124636019001052,,male,21319720.0
+,,1302350,jmp group llc,true,false,false,false,20190318,lunenburg harry mark,124636019001051,,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190319,jolson joseph a,124636019001080,CEO,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190322,jolson joseph a,124636019001102,CEO,male,21319720.0
+,,1302350,jmp group llc,true,true,true,false,20190327,jolson joseph a,124636019001131,CEO,male,21258983.0
+,,1302350,jmp group llc,true,true,true,false,20190401,jolson joseph a,124636019001143,CEO,male,21210107.0
+,,1302350,jmp group llc,true,false,false,false,20190402,karmin kenneth m,124636019001151,,male,21210107.0
+,,1302350,jmp group llc,true,false,false,false,20190402,tongue glenn h,124636019001153,,male,21210107.0
+,,1302350,jmp group llc,true,false,false,false,20190402,dipietro david m,124636019001154,,male,21210107.0
+,,1302350,jmp group llc,true,false,false,false,20190402,orszag jonathan m,124636019001156,,male,21210107.0
+,,1302350,jmp group llc,true,false,false,false,20190402,lunenburg harry mark,124636019001157,,male,21210107.0
+,,1302350,jmp group llc,true,true,true,false,20190410,jolson joseph a,124636019001216,CEO,male,21210107.0
+,,1302350,jmp group llc,true,true,true,false,20190418,jolson joseph a,124636019001240,CEO,male,21210107.0
+,,1302350,jmp group llc,true,true,true,false,20190424,jolson joseph a,124636019001259,CEO,male,21210107.0
+,,1302350,jmp group llc,true,false,false,false,20190701,dipietro david m,124636019001641,,male,19302478.0
+,,1302350,jmp group llc,true,false,false,false,20190701,karmin kenneth m,124636019001643,,male,19302478.0
+,,1302350,jmp group llc,true,false,false,false,20190701,tongue glenn h,124636019001645,,male,19302478.0
+,,1302350,jmp group llc,true,false,false,false,20190701,lunenburg harry mark,124636019001644,,male,19302478.0
+,,1302350,jmp group llc,true,false,false,false,20190701,orszag jonathan m,124636019001642,,male,19302478.0
+,,1302350,jmp group llc,true,false,false,false,20191002,orszag jonathan m,124636019002156,,male,19324427.0
+,,1302350,jmp group llc,true,false,false,false,20191002,lunenburg harry mark,124636019002155,,male,19324427.0
+,,1302350,jmp group llc,true,false,false,false,20191002,dipietro david m,124636019002154,,male,19324427.0
+,,1302350,jmp group llc,true,false,false,false,20191002,karmin kenneth m,124636019002157,,male,19324427.0
+,,1302350,jmp group llc,true,false,false,false,20191002,tongue glenn h,124636019002158,,male,19324427.0
+,,1302350,jmp group llc,false,true,false,false,20191203,wright thomas rowe,124636019002545,Director of Equities,male,19346376.0
+,,1302350,jmp group llc,true,false,false,false,20191203,johnson craig r,124636019002546,,male,19346376.0
+,,1302350,jmp group llc,true,false,false,false,20200106,orszag jonathan m,124636020000122,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200106,tongue glenn h,124636020000121,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200106,lunenburg harry mark,124636020000120,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200106,dipietro david m,124636020000118,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200106,karmin kenneth m,124636020000119,,male,19509349.0
+,,1302350,jmp group llc,false,true,false,false,20200206,wright thomas rowe,124636020000415,Director of Equities,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200313,dipietro david m,124636020000917,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200313,lunenburg harry mark,124636020000918,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200313,tongue glenn h,124636020000919,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200313,karmin kenneth m,124636020000920,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200313,orszag jonathan m,124636020000916,,male,19509349.0
+,,1302350,jmp group llc,true,false,false,false,20200401,karmin kenneth m,124636020000997,,male,19547006.0
+,,1302350,jmp group llc,true,false,false,false,20200401,orszag jonathan m,124636020001000,,male,19547006.0
+,,1302350,jmp group llc,true,false,false,false,20200401,dipietro david m,124636020000999,,male,19547006.0
+,,1302350,jmp group llc,true,false,false,false,20200401,tongue glenn h,124636020000998,,male,19547006.0
+,,1302350,jmp group llc,true,false,false,false,20200401,lunenburg harry mark,124636020000996,,male,19547006.0
+,,1302350,jmp group llc,true,true,true,false,20200505,jolson joseph a,124636020001141,CEO,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200505,wright thomas rowe,124636020001139,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200506,wright thomas rowe,124636020001145,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200508,wright thomas rowe,124636020001161,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,true,true,true,false,20200508,jolson joseph a,124636020001159,CEO,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200512,wright thomas rowe,124636020001179,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,true,true,true,false,20200514,jolson joseph a,124636020001204,CEO,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200514,wright thomas rowe,124636020001203,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200515,wright thomas rowe,124636020001207,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200518,wright thomas rowe,124636020001235,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200521,wright thomas rowe,124636020001289,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,false,true,false,false,20200527,wright thomas rowe,124636020001312,Director of Equities,male,19547006.0
+,,1302350,jmp group llc,true,true,true,false,20200616,jolson joseph a,124636020001423,CEO,male,19547006.0
+,,1302350,jmp group llc,1,1,1,0,20200701,jolson joseph a,130235020000002,CEO,male,19594451.0
+,,1302350,jmp group llc,1,0,0,0,20200702,tongue glenn h,130235020000008,,male,19594451.0
+,,1302350,jmp group llc,1,0,0,0,20200702,lunenburg harry mark,130235020000007,,male,19594451.0
+,,1302350,jmp group llc,1,0,0,0,20200702,karmin kenneth m,130235020000006,,male,19594451.0
+,,1302350,jmp group llc,1,0,0,0,20200702,orszag jonathan m,130235020000004,,male,19594451.0
+,,1302350,jmp group llc,1,0,0,0,20200702,dipietro david m,130235020000003,,male,19594451.0
+,,1302350,jmp group llc,1,1,1,0,20200804,jolson joseph a,130235020000009,CEO,male,19594451.0
+,,1302350,jmp group llc,true,true,true,false,20200914,jolson joseph a,124636020001523,CEO,male,19624854.0
+,,1302350,jmp group llc,true,false,false,false,20201005,orszag jonathan m,124636020001584,,male,19635544.0
+,,1302350,jmp group llc,true,false,false,false,20201005,karmin kenneth m,124636020001583,,male,19635544.0
+,,1302350,jmp group llc,true,false,false,false,20201005,tongue glenn h,124636020001582,,male,19635544.0
+,,1302350,jmp group llc,true,false,false,false,20201005,lunenburg harry mark,124636020001581,,male,19635544.0
+,,1302350,jmp group llc,true,false,false,false,20201005,dipietro david m,124636020001580,,male,19635544.0
+,,1302350,jmp group llc,0,0,1,0,20201110,wedbush securities inc,114249520000017,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201112,wedbush securities inc,114249520000018,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201116,wedbush securities inc,114249520000019,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201118,wedbush securities inc,114249520000021,,male,19665947.0
+,,1302350,jmp group llc,1,0,0,0,20201118,slaughter staci,183282620000002,,female,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201120,wedbush securities inc,114249520000022,,male,19665947.0
+,,1302350,jmp group llc,true,false,false,false,20201123,johnson craig r,124636020001845,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201124,wedbush securities inc,114249520000023,,male,19665947.0
+,,1302350,jmp group llc,true,false,false,false,20201125,johnson craig r,124636020001847,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201127,wedbush securities inc,114249520000024,,male,19665947.0
+,,1302350,jmp group llc,true,false,false,false,20201130,johnson craig r,124636020001859,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201202,wedbush securities inc,114249520000026,,male,19665947.0
+,,1302350,jmp group llc,true,false,false,false,20201203,johnson craig r,124636020001870,,male,19665947.0
+,,1302350,jmp group llc,false,true,false,false,20201203,wright thomas rowe,124636020001869,Director of Equities,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201207,wedbush securities inc,114249520000027,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201209,wedbush securities inc,114249520000028,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201215,wedbush securities inc,114249520000029,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201217,wedbush securities inc,114249520000030,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201223,wedbush securities inc,114249520000031,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201228,wedbush securities inc,114249520000032,,male,19665947.0
+,,1302350,jmp group llc,0,0,1,0,20201231,wedbush securities inc,114249520000033,,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210104,tongue glenn h,124636021000008,,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210104,slaughter staci,124636021000009,,female,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210104,orszag jonathan m,124636021000007,,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210104,lunenburg harry mark,124636021000006,,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210104,karmin kenneth m,124636021000005,,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210104,dipietro david m,124636021000004,,male,19789821.0
+,,1302350,jmp group llc,0,0,1,0,20210106,wedbush securities inc,114249521000001,,male,19789821.0
+,,1302350,jmp group llc,0,0,1,0,20210202,wedbush securities inc,114249521000004,,male,19789821.0
+,,1302350,jmp group llc,0,0,1,0,20210205,wedbush securities inc,114249521000005,,male,19789821.0
+,,1302350,jmp group llc,true,true,true,false,20210211,jolson joseph a,124636021000420,CEO,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210211,johnson craig r,124636021000419,,male,19789821.0
+,,1302350,jmp group llc,true,false,false,false,20210329,orszag jonathan m,124636021000625,,male,19823354.0
+,,1302350,jmp group llc,true,false,false,false,20210329,slaughter staci,124636021000626,,female,19823354.0
+,,1302350,jmp group llc,true,false,false,false,20210329,lunenburg harry mark,124636021000624,,male,19823354.0
+,,1302350,jmp group llc,true,false,false,false,20210329,tongue glenn h,124636021000628,,male,19823354.0
+,,1302350,jmp group llc,true,false,false,false,20210329,dipietro david m,124636021000627,,male,19823354.0
+,,1302350,jmp group llc,true,false,false,false,20210329,karmin kenneth m,124636021000623,,male,19823354.0
+,,1302350,jmp group llc,true,false,false,false,20210405,karmin kenneth m,124636021000645,,male,19835721.0
+,,1302350,jmp group llc,true,false,false,false,20210405,orszag jonathan m,124636021000646,,male,19835721.0
+,,1302350,jmp group llc,true,false,false,false,20210405,dipietro david m,124636021000643,,male,19835721.0
+,,1302350,jmp group llc,true,false,false,false,20210405,slaughter staci,124636021000644,,female,19835721.0
+,,1302350,jmp group llc,true,false,false,false,20210405,lunenburg harry mark,124636021000648,,male,19835721.0
+,,1302350,jmp group llc,true,false,false,false,20210405,tongue glenn h,124636021000647,,male,19835721.0
+,,1302350,jmp group llc,true,false,false,false,20210706,orszag jonathan m,124636021000829,,male,19877113.0
+,,1302350,jmp group llc,true,false,false,false,20210706,slaughter staci,124636021000828,,female,19877113.0
+,,1302350,jmp group llc,true,false,false,false,20210706,tongue glenn h,124636021000827,,male,19877113.0
+,,1302350,jmp group llc,true,false,false,false,20210706,lunenburg harry mark,124636021000826,,male,19877113.0
+,,1302350,jmp group llc,true,false,false,false,20210706,karmin kenneth m,124636021000825,,male,19877113.0
+,,1302350,jmp group llc,true,false,false,false,20210910,tongue glenn h,124636021000926,,male,19891431.0
+,,1302350,jmp group llc,true,false,false,false,20211001,karmin kenneth m,124636021000931,,male,19944177.0
+,,1302350,jmp group llc,true,false,false,false,20211001,orszag jonathan m,124636021000932,,male,19944177.0
+,,1302350,jmp group llc,true,false,false,false,20211001,lunenburg harry mark,124636021000933,,male,19944177.0
+,,1302350,jmp group llc,true,false,false,false,20211001,slaughter staci,124636021000934,,female,19944177.0
+,,1302350,jmp group llc,false,true,false,false,20211117,jackson raymond,124636021001017,CFO,male,20159895.0
+,,1302350,jmp group llc,true,true,true,false,20211117,jolson joseph a,124636021001007,CEO,male,20159895.0
+,,1302350,jmp group llc,true,true,false,false,20211117,mack carter d,124636021001008,President,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,johnson craig r,124636021001009,,male,20159895.0
+,,1302350,jmp group llc,true,true,false,false,20211117,lehmann mark l,124636021001010,"President, JMP Securities",male,20159895.0
+,,1302350,jmp group llc,false,true,false,false,20211117,wright thomas rowe,124636021001011,Director of Equities,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,karmin kenneth m,124636021001012,,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,lunenburg harry mark,124636021001013,,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,tongue glenn h,124636021001014,,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,orszag jonathan m,124636021001016,,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,tongue glenn h,124636021001006,,male,20159895.0
+,,1302350,jmp group llc,true,false,false,false,20211117,slaughter staci,124636021001015,,female,20159895.0

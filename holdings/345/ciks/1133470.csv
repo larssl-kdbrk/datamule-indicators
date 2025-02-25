@@ -1,156 +1,437 @@
 direct,indirect,issuer_cik,issuer_name,isDirector,isOfficer,isTenPercentOwner,isOther,date,name,accession,officerTitle,predicted_gender,total_stock
-129255.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20100204,mcfarlane dorcas h,125085310000011,,female,
-6300.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20100303,carbone egidio,125085310000014,,male,
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20100305,hause michael d,125085310000015,,male,
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20100305,sanders donald m,125085310000016,,male,
-1665306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100317,cole lecil e,125085310000017,"Chairman, CEO & President",male,
-1665306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100319,cole lecil e,125085310000019,"Chairman, CEO & President",male,
-1665306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100326,cole lecil e,125085310000020,"Chrmn of Board, CEO, President",male,
-1540306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100614,cole lecil e,125085310000036,"Chairmn of Bd, CEO, President",male,
-1459306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100629,cole lecil e,125085310000039,"Chrmn of Board,President,CEO",male,
-1412306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100701,cole lecil e,125085310000044,"Chairman of Board, Pres & CE0",male,
-1467306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100804,cole lecil e,125085310000048,"Chairman of Board, Pres & CEO",male,
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20100830,brown marc laurence,125085310000052,,male,
-126255.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20100916,mcfarlane dorcas h,125085310000056,,female,
-1367306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20100929,cole lecil e,120919110047863,"Chairman of Board, CEO & Pres",male,
-44248.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20101005,hunt john m,125085310000062,,male,
-95000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20101007,snider alva v,125085310000063,,male,
-1332306.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20101008,cole lecil e,125085310000064,"Chairman, CEO, President",male,
-1320406.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20101012,cole lecil e,125085310000065,"Chairman, CEO & President",male,
-40000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20101013,hunt john m,125085310000066,,male,
-10133.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20101104,sanders donald m,125085310000067,,male,14712000.0
-33000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20101110,hunt john m,125085310000069,,male,14712000.0
-45000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20101110,hunt john m,125085310000074,,male,14712000.0
+129255.0,,1133470,calavo growers inc,1,0,0,0.0,20100204,mcfarlane dorcas h,125085310000011,,female,
+6300.0,,1133470,calavo growers inc,1,0,0,0.0,20100303,carbone egidio,125085310000014,,male,
+,,1133470,calavo growers inc,1,0,0,0.0,20100305,sanders donald m,125085310000016,,male,
+,,1133470,calavo growers inc,1,0,0,0.0,20100305,hause michael d,125085310000015,,male,
+1665306.0,,1133470,calavo growers inc,1,1,1,0.0,20100317,cole lecil e,125085310000017,"Chairman, CEO & President",male,
+1665306.0,,1133470,calavo growers inc,1,1,1,0.0,20100319,cole lecil e,125085310000019,"Chairman, CEO & President",male,
+1665306.0,,1133470,calavo growers inc,1,1,1,0.0,20100326,cole lecil e,125085310000020,"Chrmn of Board, CEO, President",male,
+1540306.0,,1133470,calavo growers inc,1,1,1,0.0,20100614,cole lecil e,125085310000036,"Chairmn of Bd, CEO, President",male,
+1459306.0,,1133470,calavo growers inc,1,1,1,0.0,20100629,cole lecil e,125085310000039,"Chrmn of Board,President,CEO",male,
+1412306.0,,1133470,calavo growers inc,1,1,1,0.0,20100701,cole lecil e,125085310000044,"Chairman of Board, Pres & CE0",male,
+1467306.0,,1133470,calavo growers inc,1,1,1,0.0,20100804,cole lecil e,125085310000048,"Chairman of Board, Pres & CEO",male,
+,,1133470,calavo growers inc,1,0,0,0.0,20100830,brown marc laurence,125085310000052,,male,
+126255.0,,1133470,calavo growers inc,1,0,0,0.0,20100916,mcfarlane dorcas h,125085310000056,,female,
+1367306.0,,1133470,calavo growers inc,1,1,1,0.0,20100929,cole lecil e,120919110047863,"Chairman of Board, CEO & Pres",male,
+44248.0,,1133470,calavo growers inc,1,0,0,0.0,20101005,hunt john m,125085310000062,,male,
+95000.0,,1133470,calavo growers inc,1,0,0,0.0,20101007,snider alva v,125085310000063,,male,
+1332306.0,,1133470,calavo growers inc,1,1,1,0.0,20101008,cole lecil e,125085310000064,"Chairman, CEO, President",male,
+1320406.0,,1133470,calavo growers inc,1,1,1,0.0,20101012,cole lecil e,125085310000065,"Chairman, CEO & President",male,
+40000.0,,1133470,calavo growers inc,1,0,0,0.0,20101013,hunt john m,125085310000066,,male,
+10133.0,,1133470,calavo growers inc,1,0,0,0.0,20101104,sanders donald m,125085310000067,,male,14712000.0
+45000.0,,1133470,calavo growers inc,1,0,0,0.0,20101110,hunt john m,125085310000074,,male,14712000.0
+33000.0,,1133470,calavo growers inc,1,0,0,0.0,20101110,hunt john m,125085310000069,,male,14712000.0
 134278.0,302574.0,1133470,calavo growers inc,1,0,0,0.0,20101119,leavens j link,125085310000077,,male,14712000.0
-124535.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110128,mcfarlane dorcas h,125085311000003,,female,14712000.0
-282574.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110128,leavens j link,125085311000004,,male,14712000.0
-1000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110318,brown marc laurence,125085311000013,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,leavens j link,125085311000023,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,van der kar scott,125085311000026,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,hunt john m,125085311000024,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,hollister steve,125085311000025,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,sanders donald m,125085311000021,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,mcfarlane dorcas h,125085311000022,,female,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,snider alva v,125085311000019,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,carbone egidio,125085311000028,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,edwards harold s,125085311000027,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,barnes george h,125085311000020,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,hause michael d,125085311000018,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110328,brown marc laurence,125085311000017,,male,14712000.0
-7300.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20110415,carbone egidio,125085311000031,,male,14712000.0
+124535.0,,1133470,calavo growers inc,1,0,0,0.0,20110128,mcfarlane dorcas h,125085311000003,,female,14712000.0
+282574.0,,1133470,calavo growers inc,1,0,0,0.0,20110128,leavens j link,125085311000004,,male,14712000.0
+1000.0,,1133470,calavo growers inc,1,0,0,0.0,20110318,brown marc laurence,125085311000013,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,edwards harold s,125085311000027,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,van der kar scott,125085311000026,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,hollister steve,125085311000025,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,hunt john m,125085311000024,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,leavens j link,125085311000023,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,sanders donald m,125085311000021,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,carbone egidio,125085311000028,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,barnes george h,125085311000020,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,snider alva v,125085311000019,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,hause michael d,125085311000018,,male,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,mcfarlane dorcas h,125085311000022,,female,14712000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20110328,brown marc laurence,125085311000017,,male,14712000.0
+7300.0,,1133470,calavo growers inc,1,0,0,0.0,20110415,carbone egidio,125085311000031,,male,14712000.0
 94278.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20110505,leavens j link,125085311000035,,male,14712000.0
-0.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20111027,helin james d,125085311000077,,male,14770000.0
-8300.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20111123,carbone egidio,125085311000083,,male,14770.0
-90000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20111220,snider alva v,125085311000091,,male,14770.0
-2000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120125,brown marc laurence,125085312000001,,male,14770.0
-9300.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120127,carbone egidio,125085312000003,,male,14770.0
-123035.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120127,mcfarlane dorcas h,125085312000004,,female,14770.0
-124035.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120127,mcfarlane dorcas h,125085312000005,,female,14770.0
-3000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120127,hollister steve,125085312000006,,male,14770.0
-1000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,helin james d,125085312000010,,male,14770.0
-152216.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,van der kar scott,125085312000014,,male,14770.0
-2400.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,barnes george h,125085312000015,,male,14770.0
-24733.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,sanders donald m,125085312000012,,male,14770.0
-91000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,snider alva v,125085312000009,,male,14770.0
-41000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,hunt john m,125085312000008,,male,14770.0
+,,1133470,calavo growers inc,1,0,0,0.0,20111027,helin james d,125085311000077,,male,14770000.0
+8300.0,,1133470,calavo growers inc,1,0,0,0.0,20111123,carbone egidio,125085311000083,,male,14770.0
+90000.0,,1133470,calavo growers inc,1,0,0,0.0,20111220,snider alva v,125085311000091,,male,14770.0
+2000.0,,1133470,calavo growers inc,1,0,0,0.0,20120125,brown marc laurence,125085312000001,,male,14770.0
+9300.0,,1133470,calavo growers inc,1,0,0,0.0,20120127,carbone egidio,125085312000003,,male,14770.0
+123035.0,,1133470,calavo growers inc,1,0,0,0.0,20120127,mcfarlane dorcas h,125085312000004,,female,14770.0
+124035.0,,1133470,calavo growers inc,1,0,0,0.0,20120127,mcfarlane dorcas h,125085312000005,,female,14770.0
+3000.0,,1133470,calavo growers inc,1,0,0,0.0,20120127,hollister steve,125085312000006,,male,14770.0
+2400.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,barnes george h,125085312000015,,male,14770.0
+152216.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,van der kar scott,125085312000014,,male,14770.0
+1900.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,edwards harold s,125085312000013,,male,14770.0
+91000.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,snider alva v,125085312000009,,male,14770.0
+1000.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,helin james d,125085312000010,,male,14770.0
 95278.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20120130,leavens j link,125085312000007,,male,14770.0
-1900.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120130,edwards harold s,125085312000013,,male,14770.0
-1283406.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20120313,cole lecil e,125085312000029,"Chairman, CEO & President",male,14787000.0
-1241241.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20120321,cole lecil e,125085312000031,"Chairman, CEO & President",male,14787000.0
-1200574.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20120326,cole lecil e,125085312000033,"Chairman, CEO & President",male,14787000.0
-1165406.0,0.0,1133470,calavo growers inc,1,1,1,0.0,20120328,cole lecil e,125085312000034,"Chairman, CEO & President",male,14787000.0
-6000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20120928,hollister steve,125085312000074,,male,14787433.0
+24733.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,sanders donald m,125085312000012,,male,14770.0
+41000.0,,1133470,calavo growers inc,1,0,0,0.0,20120130,hunt john m,125085312000008,,male,14770.0
+1283406.0,,1133470,calavo growers inc,1,1,1,0.0,20120313,cole lecil e,125085312000029,"Chairman, CEO & President",male,14787000.0
+1241241.0,,1133470,calavo growers inc,1,1,1,0.0,20120321,cole lecil e,125085312000031,"Chairman, CEO & President",male,14787000.0
+1200574.0,,1133470,calavo growers inc,1,1,1,0.0,20120326,cole lecil e,125085312000033,"Chairman, CEO & President",male,14787000.0
+1165406.0,,1133470,calavo growers inc,1,1,1,0.0,20120328,cole lecil e,125085312000034,"Chairman, CEO & President",male,14787000.0
+6000.0,,1133470,calavo growers inc,1,0,0,0.0,20120928,hollister steve,125085312000074,,male,14787433.0
 11313.0,7668.0,1133470,calavo growers inc,1,0,0,0.0,20121024,van der kar scott,125085312000080,,male,14787433.0
-10300.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20121126,carbone egidio,125085312000084,,male,14824000.0
-46000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20121206,hunt john m,125085312000092,,male,14824000.0
-129035.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20121207,mcfarlane dorcas h,125085312000093,,female,14824000.0
-30422.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20121210,sanders donald m,125085312000094,,male,14824000.0
-126840.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20121219,mcfarlane dorcas h,125085312000108,,female,14824000.0
-8000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20121221,hollister steve,125085312000109,,male,14824000.0
-1000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130128,digregorio michael anthony,125085313000009,,male,14824000.0
-12313.0,114391.0,1133470,calavo growers inc,1,0,0,0.0,20130129,van der kar scott,125085313000017,,male,14824000.0
-2000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,helin james d,125085313000019,,male,14824000.0
-31422.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,sanders donald m,125085313000015,,male,14824000.0
+10300.0,,1133470,calavo growers inc,1,0,0,0.0,20121126,carbone egidio,125085312000084,,male,14824000.0
+46000.0,,1133470,calavo growers inc,1,0,0,0.0,20121206,hunt john m,125085312000092,,male,14824000.0
+129035.0,,1133470,calavo growers inc,1,0,0,0.0,20121207,mcfarlane dorcas h,125085312000093,,female,14824000.0
+30422.0,,1133470,calavo growers inc,1,0,0,0.0,20121210,sanders donald m,125085312000094,,male,14824000.0
+126840.0,,1133470,calavo growers inc,1,0,0,0.0,20121219,mcfarlane dorcas h,125085312000108,,female,14824000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20121221,hollister steve,125085312000109,,male,14824000.0
+1000.0,,1133470,calavo growers inc,1,0,0,0.0,20130128,digregorio michael anthony,125085313000009,,male,14824000.0
+2900.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,edwards harold s,125085313000011,,male,14824000.0
+47000.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,hunt john m,125085313000012,,male,14824000.0
 96278.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20130129,leavens j link,125085313000013,,male,14824000.0
-3000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,brown marc laurence,125085313000014,,male,14824000.0
-47000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,hunt john m,125085313000012,,male,14824000.0
-2900.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,edwards harold s,125085313000011,,male,14824000.0
-11300.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,carbone egidio,125085313000010,,male,14824000.0
-9000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130129,hollister steve,125085313000018,,male,14824000.0
-3400.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130130,barnes george h,125085313000021,,male,14824000.0
-125957.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130130,mcfarlane dorcas h,125085313000020,,female,14824000.0
-13054.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130207,carbone egidio,125085313000032,,male,14847033.0
-4136.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130312,brown marc laurence,125085313000036,,male,14847033.0
-2900.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130315,edwards harold s,118143113017305,,male,14847033.0
+3000.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,brown marc laurence,125085313000014,,male,14824000.0
+31422.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,sanders donald m,125085313000015,,male,14824000.0
+11300.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,carbone egidio,125085313000010,,male,14824000.0
+12313.0,114391.0,1133470,calavo growers inc,1,0,0,0.0,20130129,van der kar scott,125085313000017,,male,14824000.0
+9000.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,hollister steve,125085313000018,,male,14824000.0
+2000.0,,1133470,calavo growers inc,1,0,0,0.0,20130129,helin james d,125085313000019,,male,14824000.0
+125957.0,,1133470,calavo growers inc,1,0,0,0.0,20130130,mcfarlane dorcas h,125085313000020,,female,14824000.0
+3400.0,,1133470,calavo growers inc,1,0,0,0.0,20130130,barnes george h,125085313000021,,male,14824000.0
+13054.0,,1133470,calavo growers inc,1,0,0,0.0,20130207,carbone egidio,125085313000032,,male,14847033.0
+4136.0,,1133470,calavo growers inc,1,0,0,0.0,20130312,brown marc laurence,125085313000036,,male,14847033.0
+2900.0,,1133470,calavo growers inc,1,0,0,0.0,20130315,edwards harold s,118143113017305,,male,14847033.0
 101278.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20130318,leavens j link,125085313000040,,male,14847033.0
-8400.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130319,barnes george h,125085313000043,,male,14847033.0
-17000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20130320,hollister steve,125085313000047,,male,14847033.0
-1081114.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20130404,cole lecil e,125085313000062,"Chairman, President & CEO",male,14847033.0
-1047321.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20130408,cole lecil e,125085313000064,"Chairman, President & CEO",male,14847033.0
-986602.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20130410,cole lecil e,125085313000066,"Chairman, President & CEO",male,14847033.0
-965406.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20130412,cole lecil e,125085313000068,"Chairman, President & CEO",male,14847033.0
-14054.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20131203,carbone egidio,125085313000125,,male,15720000.0
-2750.0,126704.0,1133470,calavo growers inc,1,0,0,0.0,20140109,van der kar scott,125085314000008,,male,15720000.0
-48750.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140109,hunt john m,125085314000007,,male,15720000.0
-5886.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140109,brown marc laurence,125085314000004,,male,15720000.0
-15804.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140109,carbone egidio,125085314000005,,male,15720000.0
+8400.0,,1133470,calavo growers inc,1,0,0,0.0,20130319,barnes george h,125085313000043,,male,14847033.0
+17000.0,,1133470,calavo growers inc,1,0,0,0.0,20130320,hollister steve,125085313000047,,male,14847033.0
+1081114.0,,1133470,calavo growers inc,1,1,0,0.0,20130404,cole lecil e,125085313000062,"Chairman, President & CEO",male,14847033.0
+1047321.0,,1133470,calavo growers inc,1,1,0,0.0,20130408,cole lecil e,125085313000064,"Chairman, President & CEO",male,14847033.0
+986602.0,,1133470,calavo growers inc,1,1,0,0.0,20130410,cole lecil e,125085313000066,"Chairman, President & CEO",male,14847033.0
+965406.0,,1133470,calavo growers inc,1,1,0,0.0,20130412,cole lecil e,125085313000068,"Chairman, President & CEO",male,14847033.0
+14054.0,,1133470,calavo growers inc,1,0,0,0.0,20131203,carbone egidio,125085313000125,,male,15720000.0
+5886.0,,1133470,calavo growers inc,1,0,0,0.0,20140109,brown marc laurence,125085314000004,,male,15720000.0
+15804.0,,1133470,calavo growers inc,1,0,0,0.0,20140109,carbone egidio,125085314000005,,male,15720000.0
 103028.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20140109,leavens j link,125085314000006,,male,15720000.0
-23172.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140110,sanders donald m,125085314000013,,male,15720000.0
-4650.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140110,edwards harold s,125085314000009,,male,15720000.0
-18750.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140110,hollister steve,125085314000010,,male,15720000.0
-2750.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140110,digregorio michael anthony,125085314000011,,male,15720000.0
-3750.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140113,helin james d,125085314000018,,male,15720000.0
-123306.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140113,mcfarlane dorcas h,125085314000016,,female,15720000.0
-5150.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140113,barnes george h,125085314000017,,male,15720000.0
-1454.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20140129,browne michael a,125085314000032,VP- Fresh Operations,male,15720000.0
-12537.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20140129,bruno arthur j,125085314000031,Chief Financial Officer,male,15720000.0
-969223.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20140129,cole lecil e,125085314000036,"Chairman, CEO & President",male,15720000.0
-2454.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20140129,wedin robert j,125085314000033,VP - Sales & Fresh Marketing,male,15720000.0
-6876.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20140130,ahmer alan c,125085314000037,VP - Proc. Prod. Sales & Prod.,male,15720000.0
-7537.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20140325,bruno arthur j,125085314000063,Chief Financial Officer,male,15752314.0
-27137.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140401,sanders donald m,125085314000064,,male,15752314.0
-122521.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140418,mcfarlane dorcas h,125085314000072,,female,15752314.0
-883404.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20140606,cole lecil e,125085314000079,"Chairman, CEO & President",male,15760405.0
-818344.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20140610,cole lecil e,125085314000082,"Chairman, CEO & President",male,15760405.0
-812095.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20140612,cole lecil e,125085314000087,"Chairman, CEO & President",male,15760405.0
-762254.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20140616,cole lecil e,125085314000088,"Chairman, CEO & President",male,15760405.0
-120951.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140619,mcfarlane dorcas h,125085314000090,,female,15760405.0
-120511.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140806,mcfarlane dorcas h,125085314000099,,female,15762405.0
+48750.0,,1133470,calavo growers inc,1,0,0,0.0,20140109,hunt john m,125085314000007,,male,15720000.0
+2750.0,126704.0,1133470,calavo growers inc,1,0,0,0.0,20140109,van der kar scott,125085314000008,,male,15720000.0
+4650.0,,1133470,calavo growers inc,1,0,0,0.0,20140110,edwards harold s,125085314000009,,male,15720000.0
+18750.0,,1133470,calavo growers inc,1,0,0,0.0,20140110,hollister steve,125085314000010,,male,15720000.0
+2750.0,,1133470,calavo growers inc,1,0,0,0.0,20140110,digregorio michael anthony,125085314000011,,male,15720000.0
+23172.0,,1133470,calavo growers inc,1,0,0,0.0,20140110,sanders donald m,125085314000013,,male,15720000.0
+3750.0,,1133470,calavo growers inc,1,0,0,0.0,20140113,helin james d,125085314000018,,male,15720000.0
+123306.0,,1133470,calavo growers inc,1,0,0,0.0,20140113,mcfarlane dorcas h,125085314000016,,female,15720000.0
+5150.0,,1133470,calavo growers inc,1,0,0,0.0,20140113,barnes george h,125085314000017,,male,15720000.0
+12537.0,,1133470,calavo growers inc,0,1,0,0.0,20140129,bruno arthur j,125085314000031,Chief Financial Officer,male,15720000.0
+1454.0,,1133470,calavo growers inc,0,1,0,0.0,20140129,browne michael a,125085314000032,VP- Fresh Operations,male,15720000.0
+2454.0,,1133470,calavo growers inc,0,1,0,0.0,20140129,wedin robert j,125085314000033,VP - Sales & Fresh Marketing,male,15720000.0
+969223.0,,1133470,calavo growers inc,1,1,0,0.0,20140129,cole lecil e,125085314000036,"Chairman, CEO & President",male,15720000.0
+6876.0,,1133470,calavo growers inc,0,1,0,0.0,20140130,ahmer alan c,125085314000037,VP - Proc. Prod. Sales & Prod.,male,15720000.0
+7537.0,,1133470,calavo growers inc,0,1,0,0.0,20140325,bruno arthur j,125085314000063,Chief Financial Officer,male,15752314.0
+27137.0,,1133470,calavo growers inc,1,0,0,0.0,20140401,sanders donald m,125085314000064,,male,15752314.0
+122521.0,,1133470,calavo growers inc,1,0,0,0.0,20140418,mcfarlane dorcas h,125085314000072,,female,15752314.0
+883404.0,,1133470,calavo growers inc,1,1,0,0.0,20140606,cole lecil e,125085314000079,"Chairman, CEO & President",male,15760405.0
+818344.0,,1133470,calavo growers inc,1,1,0,0.0,20140610,cole lecil e,125085314000082,"Chairman, CEO & President",male,15760405.0
+812095.0,,1133470,calavo growers inc,1,1,0,0.0,20140612,cole lecil e,125085314000087,"Chairman, CEO & President",male,15760405.0
+762254.0,,1133470,calavo growers inc,1,1,0,0.0,20140616,cole lecil e,125085314000088,"Chairman, CEO & President",male,15760405.0
+120951.0,,1133470,calavo growers inc,1,0,0,0.0,20140619,mcfarlane dorcas h,125085314000090,,female,15760405.0
+120511.0,,1133470,calavo growers inc,1,0,0,0.0,20140806,mcfarlane dorcas h,125085314000099,,female,15762405.0
 12636.0,114391.0,1133470,calavo growers inc,1,0,0,0.0,20140917,van der kar scott,125085314000118,,male,15762405.0
-118011.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20140923,mcfarlane dorcas h,125085314000120,,female,15762405.0
-16804.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20141117,carbone egidio,125085314000133,,male,17295000.0
-5500.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,helin james d,125085315000007,,male,17295000.0
-6900.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,barnes george h,125085315000002,,male,17295000.0
-18554.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,carbone egidio,125085315000003,,male,17295000.0
-6400.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,edwards harold s,125085315000004,,male,17295000.0
-4500.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,digregorio michael anthony,125085315000005,,male,17295000.0
-7636.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,brown marc laurence,125085315000006,,male,17295000.0
-50500.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,hunt john m,125085315000009,,male,17295000.0
-28887.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,sanders donald m,125085315000010,,male,17295000.0
-111242.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,thille dorcas h,125085315000011,,female,17295000.0
+118011.0,,1133470,calavo growers inc,1,0,0,0.0,20140923,mcfarlane dorcas h,125085314000120,,female,15762405.0
+16804.0,,1133470,calavo growers inc,1,0,0,0.0,20141117,carbone egidio,125085314000133,,male,17295000.0
+6400.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,edwards harold s,125085315000004,,male,17295000.0
+4500.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,digregorio michael anthony,125085315000005,,male,17295000.0
+7636.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,brown marc laurence,125085315000006,,male,17295000.0
+5500.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,helin james d,125085315000007,,male,17295000.0
+20500.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,hollister steve,125085315000008,,male,17295000.0
+50500.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,hunt john m,125085315000009,,male,17295000.0
+28887.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,sanders donald m,125085315000010,,male,17295000.0
+111242.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,thille dorcas h,125085315000011,,female,17295000.0
 4500.0,127027.0,1133470,calavo growers inc,1,0,0,0.0,20150121,van der kar scott,125085315000012,,male,17295000.0
 104778.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20150121,leavens j link,125085315000013,,male,17295000.0
-20500.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150121,hollister steve,125085315000008,,male,17295000.0
-13317.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20150210,ahmer alan c,125085315000027,"VP,Processed Prod Sales & Prod",male,17316401.0
-8895.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20150210,wedin robert j,125085315000026,"VP, Sales & Fresh Marketing",male,17316401.0
-7895.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20150210,browne michael a,125085315000028,"VP, Fresh Operations",male,17316401.0
-782294.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150210,cole lecil e,125085315000024,"Chairman, CEO & President",male,17316401.0
-18129.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20150210,bruno arthur j,125085315000025,Chief Financial Officer,male,17316401.0
-11500.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150227,helin james d,125085315000032,,male,17316401.0
-8882.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150319,brown marc laurence,125085315000033,,male,17316401.0
-30451.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20150603,bruno arthur j,125085315000042,Chief Financial Officer,male,17383000.0
-753052.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150612,cole lecil e,125085315000046,"Chairman, CEO & President",male,17383000.0
-752652.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150615,cole lecil e,125085315000047,"Chairman, CEO & President",male,17383000.0
-733090.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150618,cole lecil e,125085315000052,"Chairman, CEO & President",male,17383000.0
-688563.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150619,cole lecil e,125085315000054,"Chairman, CEO & President",male,17383000.0
-668124.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150624,cole lecil e,125085315000063,"Chairman, CEO & President",male,17383000.0
-656934.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150626,cole lecil e,125085315000064,"Chairman, CEO &  President",male,17383000.0
-591278.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150706,cole lecil e,125085315000066,Chairman and CEO,male,17383000.0
-556870.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150706,cole lecil e,125085315000067,Chairman and CEO,male,17383000.0
-522856.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150709,cole lecil e,125085315000068,Chairman and CEO,male,17383000.0
-7882.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150710,brown marc laurence,125085315000069,,male,17383000.0
+18554.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,carbone egidio,125085315000003,,male,17295000.0
+6900.0,,1133470,calavo growers inc,1,0,0,0.0,20150121,barnes george h,125085315000002,,male,17295000.0
+13317.0,,1133470,calavo growers inc,0,1,0,0.0,20150210,ahmer alan c,125085315000027,"VP,Processed Prod Sales & Prod",male,17316401.0
+7895.0,,1133470,calavo growers inc,0,1,0,0.0,20150210,browne michael a,125085315000028,"VP, Fresh Operations",male,17316401.0
+18129.0,,1133470,calavo growers inc,0,1,0,0.0,20150210,bruno arthur j,125085315000025,Chief Financial Officer,male,17316401.0
+782294.0,,1133470,calavo growers inc,1,1,0,0.0,20150210,cole lecil e,125085315000024,"Chairman, CEO & President",male,17316401.0
+8895.0,,1133470,calavo growers inc,0,1,0,0.0,20150210,wedin robert j,125085315000026,"VP, Sales & Fresh Marketing",male,17316401.0
+11500.0,,1133470,calavo growers inc,1,0,0,0.0,20150227,helin james d,125085315000032,,male,17316401.0
+8882.0,,1133470,calavo growers inc,1,0,0,0.0,20150319,brown marc laurence,125085315000033,,male,17316401.0
+30451.0,,1133470,calavo growers inc,0,1,0,0.0,20150603,bruno arthur j,125085315000042,Chief Financial Officer,male,17383000.0
+753052.0,,1133470,calavo growers inc,1,1,0,0.0,20150612,cole lecil e,125085315000046,"Chairman, CEO & President",male,17383000.0
+752652.0,,1133470,calavo growers inc,1,1,0,0.0,20150615,cole lecil e,125085315000047,"Chairman, CEO & President",male,17383000.0
+733090.0,,1133470,calavo growers inc,1,1,0,0.0,20150618,cole lecil e,125085315000052,"Chairman, CEO & President",male,17383000.0
+688563.0,,1133470,calavo growers inc,1,1,0,0.0,20150619,cole lecil e,125085315000054,"Chairman, CEO & President",male,17383000.0
+668124.0,,1133470,calavo growers inc,1,1,0,0.0,20150624,cole lecil e,125085315000063,"Chairman, CEO & President",male,17383000.0
+656934.0,,1133470,calavo growers inc,1,1,0,0.0,20150626,cole lecil e,125085315000064,"Chairman, CEO &  President",male,17383000.0
+591278.0,,1133470,calavo growers inc,1,1,0,0.0,20150706,cole lecil e,125085315000066,Chairman and CEO,male,17383000.0
+556870.0,,1133470,calavo growers inc,1,1,0,0.0,20150706,cole lecil e,125085315000067,Chairman and CEO,male,17383000.0
+522856.0,,1133470,calavo growers inc,1,1,0,0.0,20150709,cole lecil e,125085315000068,Chairman and CEO,male,17383000.0
+7882.0,,1133470,calavo growers inc,1,0,0,0.0,20150710,brown marc laurence,125085315000069,,male,17383000.0
 94778.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20150713,leavens j link,125085315000070,,male,17383000.0
-482331.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150713,cole lecil e,125085315000072,CEO,male,17383000.0
-7000.0,0.0,1133470,calavo growers inc,1,0,0,0.0,20150715,brown marc laurence,125085315000074,,male,17383000.0
-437195.0,0.0,1133470,calavo growers inc,1,1,0,0.0,20150715,cole lecil e,125085315000075,Chairman of the Board and CEO,male,17383000.0
-5531.0,0.0,1133470,calavo growers inc,0,1,0,0.0,20150804,lindeman bruce john,125085315000083,Chief Financial Officer,male,17383000.0
+482331.0,,1133470,calavo growers inc,1,1,0,0.0,20150713,cole lecil e,125085315000072,CEO,male,17383000.0
+437195.0,,1133470,calavo growers inc,1,1,0,0.0,20150715,cole lecil e,125085315000075,Chairman of the Board and CEO,male,17383000.0
+7000.0,,1133470,calavo growers inc,1,0,0,0.0,20150715,brown marc laurence,125085315000074,,male,17383000.0
+5531.0,,1133470,calavo growers inc,0,1,0,0.0,20150804,lindeman bruce john,125085315000083,Chief Financial Officer,male,17383000.0
+5531.0,,1133470,calavo growers inc,0,1,0,0.0,20150804,lindeman bruce john,125085315000083,Chief Financial Officer,male,17383000.0
+4900.0,,1133470,calavo growers inc,1,0,0,0.0,20151013,edwards harold s,125085315000093,,male,17383000.0
+17804.0,,1133470,calavo growers inc,1,0,0,0.0,20151103,carbone egidio,125085315000094,,male,17384000.0
+6250.0,127027.0,1133470,calavo growers inc,1,0,0,0.0,20160106,van der kar scott,125085316000122,,male,17384000.0
+86603.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,thille dorcas h,125085316000121,,female,17384000.0
+96528.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20160106,leavens j link,125085316000120,,male,17384000.0
+15137.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,sanders donald m,125085316000119,,male,17384000.0
+21650.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,hollister steve,125085316000117,,male,17384000.0
+13250.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,helin james d,125085316000116,,male,17384000.0
+52250.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,hunt john m,125085316000118,,male,17384000.0
+6250.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,digregorio michael anthony,125085316000114,,male,17384000.0
+19554.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,carbone egidio,125085316000113,,male,17384000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20160106,brown marc laurence,125085316000112,,male,17384000.0
+8650.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,barnes george h,125085316000111,,male,17384000.0
+6400.0,,1133470,calavo growers inc,1,0,0,0.0,20160106,edwards harold s,125085316000115,,male,17384000.0
+11409.0,,1133470,calavo growers inc,0,1,0,0.0,20160112,wedin robert j,125085316000126,"VP, Fresh Sales & Marketing",male,17384000.0
+516472.0,,1133470,calavo growers inc,0,1,0,0.0,20160112,catchot kenneth j,125085316000128,President & COO,male,17384000.0
+442782.0,,1133470,calavo growers inc,1,1,0,0.0,20160112,cole lecil e,125085316000123,Chairman of the Board & CEO,male,17384000.0
+8925.0,,1133470,calavo growers inc,0,1,0,0.0,20160112,snyder james e,125085316000124,Controller,male,17384000.0
+10409.0,,1133470,calavo growers inc,0,1,0,0.0,20160112,browne michael a,125085316000125,VP - Fresh Operations,male,17384000.0
+15831.0,,1133470,calavo growers inc,0,1,0,0.0,20160112,ahmer alan c,125085316000127,"VP, Proc Product Sales & Oper.",male,17384000.0
+84853.0,,1133470,calavo growers inc,1,0,0,0.0,20160401,thille dorcas h,125085316000139,,female,17435408.0
+471472.0,,1133470,calavo growers inc,0,1,0,0.0,20160418,catchot kenneth j,125085316000146,President and COO,male,17435408.0
+9750.0,,1133470,calavo growers inc,1,0,0,0.0,20160609,brown marc laurence,125085316000154,,male,17435408.0
+20650.0,,1133470,calavo growers inc,1,0,0,0.0,20160609,hollister steve,125085316000153,,male,17435408.0
+14250.0,,1133470,calavo growers inc,1,0,0,0.0,20160615,helin james d,125085316000158,,male,17435408.0
+38000.0,,1133470,calavo growers inc,1,0,0,0.0,20160915,hunt john m,125085316000173,,male,17438408.0
+8750.0,,1133470,calavo growers inc,1,0,0,0.0,20160920,brown marc laurence,125085316000174,,male,17438408.0
+435825.0,,1133470,calavo growers inc,0,1,0,0.0,20160920,catchot kenneth j,125085316000175,President and COO,male,17438408.0
+12101.0,,1133470,calavo growers inc,0,1,0,0.0,20161221,snyder james e,125085316000192,Controller,male,17440000.0
+21578.0,,1133470,calavo growers inc,0,1,0,0.0,20161221,ahmer alan c,125085316000191,VP-Proc Product Sales & Oper,male,17440000.0
+11278.0,,1133470,calavo growers inc,0,1,0,0.0,20161221,lindeman bruce john,125085316000190,Chief Financial Officer,male,17440000.0
+17156.0,,1133470,calavo growers inc,0,1,0,0.0,20161221,wedin robert j,125085316000189,VP - Fresh Sales & Marketing,male,17440000.0
+16156.0,,1133470,calavo growers inc,0,1,0,0.0,20161221,browne michael a,125085316000188,VP - Fresh Operations,male,17440000.0
+466981.0,,1133470,calavo growers inc,1,1,0,0.0,20161221,cole lecil e,125085316000187,Chairman of the Board and CEO,male,17440000.0
+444295.0,,1133470,calavo growers inc,0,1,0,0.0,20161221,catchot kenneth j,125085316000193,President and COO,male,17440000.0
+82025.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,thille dorcas h,125085317000005,,female,17440000.0
+18000.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,helin james d,125085317000007,,male,17440000.0
+39750.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,hunt john m,125085317000006,,male,17440000.0
+8000.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,digregorio michael anthony,125085317000004,,male,17440000.0
+15387.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,sanders donald m,125085317000003,,male,17440000.0
+10500.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,brown marc laurence,125085317000002,,male,17440000.0
+21304.0,,1133470,calavo growers inc,1,0,0,0.0,20170104,carbone egidio,125085317000001,,male,17440000.0
+22650.0,,1133470,calavo growers inc,1,0,0,0.0,20170105,hollister steve,125085317000009,,male,17440000.0
+3500.0,24804.0,1133470,calavo growers inc,1,0,0,0.0,20170105,van der kar scott,125085317000010,,male,17440000.0
+98278.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20170105,leavens j link,125085317000011,,male,17440000.0
+3500.0,,1133470,calavo growers inc,1,0,0,0.0,20170105,edwards harold s,125085317000013,,male,17440000.0
+21278.0,,1133470,calavo growers inc,0,1,0,0.0,20170124,ahmer alan c,125085317000014,VP-Proc Product Sales & Oper,male,17440000.0
+11845.0,,1133470,calavo growers inc,0,1,0,0.0,20170125,snyder james e,125085317000015,Controller,male,17440000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20170126,holmgren kathleen m,125085317000023,,female,17440000.0
+22304.0,,1133470,calavo growers inc,1,0,0,0.0,20170213,carbone egidio,125085317000024,,male,17522709.0
+,,1133470,calavo growers inc,1,0,0,0.0,20170223,holmgren kathleen m,125085317000034,,female,17522709.0
+18156.0,,1133470,calavo growers inc,0,1,0,0.0,20170309,browne michael a,125085317000035,VP - Fresh Operations,male,17522709.0
+561981.0,,1133470,calavo growers inc,1,1,0,0.0,20170313,cole lecil e,125085317000036,Chairman of the Board and CEO,male,17522709.0
+19000.0,,1133470,calavo growers inc,1,0,0,0.0,20170330,helin james d,125085317000037,,male,17522709.0
+604923.0,,1133470,calavo growers inc,1,1,0,0.0,20170413,cole lecil e,125085317000039,Chairman of the Board and CEO,male,17522709.0
+102437.0,,1133470,calavo growers inc,1,0,0,0.0,20170613,van der kar scott,125085317000056,,male,17532179.0
+9750.0,,1133470,calavo growers inc,1,0,0,0.0,20170614,brown marc laurence,125085317000057,,male,17532179.0
+2750.0,,1133470,calavo growers inc,1,0,0,0.0,20170710,holmgren kathleen m,125085317000061,,female,17532179.0
+11095.0,,1133470,calavo growers inc,0,1,0,0.0,20171031,snyder james e,125085317000094,Controller,male,17533000.0
+12788.0,,1133470,calavo growers inc,0,1,0,0.0,20171220,snyder james e,125085317000105,Controller,male,17533000.0
+7701.0,,1133470,calavo growers inc,0,1,0,0.0,20171220,araiza ronald anthony,125085317000106,"VP Oper & Sales, Foods Div.",male,17533000.0
+71991.0,838.0,1133470,calavo growers inc,0,1,0,0.0,20171220,gibson james e,125085317000107,President of Subsidiary Corp,male,17533000.0
+607444.0,,1133470,calavo growers inc,1,1,0,0.0,20171220,cole lecil e,125085317000108,Chairman of the Board and CEO,male,17533000.0
+14181.0,,1133470,calavo growers inc,0,1,0,0.0,20171220,lindeman bruce john,125085317000103,Chief Financial Officer,male,17533000.0
+19800.0,,1133470,calavo growers inc,0,1,0,0.0,20171220,wedin robert j,125085317000102,VP- Sales and Fresh Marketing,male,17533000.0
+20800.0,,1133470,calavo growers inc,0,1,0,0.0,20171220,browne michael a,125085317000104,VP - Fresh Operations,male,17533000.0
+20750.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,helin james d,125085318000006,,male,17533000.0
+4988.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,edwards harold s,125085318000009,,male,17533000.0
+4500.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,holmgren kathleen m,125085318000008,,female,17533000.0
+17137.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,sanders donald m,125085318000005,,male,17533000.0
+24400.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,hollister steve,125085318000007,,male,17533000.0
+100028.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20180103,leavens j link,125085318000003,,male,17533000.0
+9750.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,digregorio michael anthony,125085318000002,,male,17533000.0
+24054.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,carbone egidio,125085318000004,,male,17533000.0
+41500.0,,1133470,calavo growers inc,1,0,0,0.0,20180103,hunt john m,125085318000001,,male,17533000.0
+1750.0,124824.0,1133470,calavo growers inc,1,0,0,0.0,20180104,van der kar scott,125085318000010,,male,17533000.0
+73877.0,,1133470,calavo growers inc,1,0,0,0.0,20180104,thille dorcas h,125085318000011,,female,17533000.0
+12350.0,,1133470,calavo growers inc,1,0,0,0.0,20180104,brown marc laurence,125085318000012,,male,17533000.0
+61991.0,838.0,1133470,calavo growers inc,0,1,0,0.0,20180109,gibson james e,125085318000015,President of Subsidiary Corp,male,17533000.0
+11778.0,,1133470,calavo growers inc,0,1,0,0.0,20180110,snyder james e,125085318000016,Controller,male,17533000.0
+19617.0,,1133470,calavo growers inc,0,1,0,0.0,20180110,browne michael a,125085318000017,VP - Fresh Operations,male,17533000.0
+61624.0,838.0,1133470,calavo growers inc,0,1,0,0.0,20180110,gibson james e,125085318000018,President of Subsidiary Corp,male,17533000.0
+18617.0,,1133470,calavo growers inc,0,1,0,0.0,20180110,wedin robert j,125085318000019,VP - Sales and Fresh Marketing,male,17533000.0
+604208.0,,1133470,calavo growers inc,1,1,0,0.0,20180110,cole lecil e,125085318000020,"Chairman of the Board, and CEO",male,17533000.0
+25054.0,,1133470,calavo growers inc,1,0,0,0.0,20180201,carbone egidio,125085318000037,,male,17543428.0
+13117.0,,1133470,calavo growers inc,0,1,0,0.0,20180329,browne michael a,125085318000053,VP - Fresh Operations,male,17543428.0
+92528.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20180402,leavens j link,125085318000054,,male,17543428.0
+12601.0,,1133470,calavo growers inc,0,1,0,0.0,20180608,wedin robert j,125085318000081,VP - Sales and Fresh Marketing,male,17568000.0
+29000.0,,1133470,calavo growers inc,1,0,0,0.0,20180615,hunt john m,125085318000083,,male,17568000.0
+9001.0,,1133470,calavo growers inc,0,1,0,0.0,20180618,snyder james e,125085318000084,Controller,male,17568000.0
+11500.0,,1133470,calavo growers inc,1,0,0,0.0,20180622,brown marc laurence,125085318000091,,male,17568000.0
+650.0,124824.0,1133470,calavo growers inc,1,0,0,0.0,20180622,van der kar scott,125085318000090,,male,17568000.0
+10000.0,,1133470,calavo growers inc,0,1,0,0.0,20180709,wedin robert j,125085318000097,VP - Sales and Fresh Marketing,male,17568000.0
+13549.0,,1133470,calavo growers inc,0,1,0,0.0,20180815,lindeman bruce john,125085318000116,Chief Financial Officer,male,17567616.0
+20287.0,,1133470,calavo growers inc,1,0,0,0.0,20180816,van der kar scott,125085318000118,,male,17567616.0
+503912.0,,1133470,calavo growers inc,1,1,0,0.0,20180924,cole lecil e,125085318000123,Chairman of the Board and CEO,male,17567616.0
+19400.0,,1133470,calavo growers inc,1,0,0,0.0,20181011,hollister steve,125085318000128,,male,17567616.0
+11000.0,,1133470,calavo growers inc,1,0,0,0.0,20181016,brown marc laurence,125085318000131,,male,17567616.0
+14449.0,,1133470,calavo growers inc,0,1,0,0.0,20181221,lindeman bruce john,125085318000157,CFO and Secretary,male,17567000.0
+13094.0,,1133470,calavo growers inc,0,1,0,0.0,20181221,browne michael a,125085318000158,VP - Fresh Operations,male,17567000.0
+62411.0,838.0,1133470,calavo growers inc,0,1,0,0.0,20181221,gibson james e,125085318000165,President of Subsidiary Corp.,male,17567000.0
+502836.0,,1133470,calavo growers inc,1,1,0,0.0,20181221,cole lecil e,125085318000163,"Chairman, President and CEO",male,17567000.0
+9544.0,,1133470,calavo growers inc,0,1,0,0.0,20181221,snyder james e,125085318000161,Controller,male,17567000.0
+9227.0,,1133470,calavo growers inc,0,1,0,0.0,20181221,araiza ronald anthony,125085318000160,VP Food Division Sales and Ops,male,17567000.0
+10787.0,,1133470,calavo growers inc,0,1,0,0.0,20181221,wedin robert j,125085318000159,VP - Sales and Fresh Marketing,male,17567000.0
+3500.0,124474.0,1133470,calavo growers inc,1,0,0,0.0,20190104,van der kar scott,125085319000019,,male,17567000.0
+75627.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,thille dorcas h,125085319000021,,female,17567000.0
+26804.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,carbone egidio,125085319000018,,male,17567000.0
+21150.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,hollister steve,125085319000017,,male,17567000.0
+13500.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,digregorio michael anthony,125085319000016,,male,17567000.0
+12750.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,brown marc laurence,125085319000015,,male,17567000.0
+18887.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,sanders donald m,125085319000008,,male,17567000.0
+30750.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,hunt john m,125085319000012,,male,17567000.0
+22500.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,helin james d,125085319000011,,male,17567000.0
+94278.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20190104,leavens j link,125085319000010,,male,17567000.0
+6738.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,edwards harold s,125085319000009,,male,17567000.0
+6250.0,,1133470,calavo growers inc,1,0,0,0.0,20190104,holmgren kathleen m,125085319000014,,female,17567000.0
+62068.0,838.0,1133470,calavo growers inc,0,1,0,0.0,20190110,gibson james e,125085319000025,President of Subsidiary Corp.,male,17567000.0
+10444.0,,1133470,calavo growers inc,0,1,0,0.0,20190110,wedin robert j,125085319000026,VP - Sales and Fresh Marketing,male,17567000.0
+502116.0,,1133470,calavo growers inc,1,1,0,0.0,20190110,cole lecil e,125085319000027,"Chairman, President and CEO",male,17567000.0
+9259.0,,1133470,calavo growers inc,0,1,0,0.0,20190110,snyder james e,125085319000028,Controller,male,17567000.0
+13561.0,,1133470,calavo growers inc,0,1,0,0.0,20190110,browne michael a,125085319000029,VP - Fresh Operations,male,17567000.0
+11750.0,,1133470,calavo growers inc,1,0,0,0.0,20190315,digregorio michael anthony,125085319000049,,male,17597734.0
+13750.0,,1133470,calavo growers inc,1,0,0,0.0,20190318,brown marc laurence,125085319000050,,male,17597734.0
+16920.0,4986.0,1133470,calavo growers inc,0,1,0,0.0,20190326,gibson james e,125085319000052,President of Subsidiary Corp.,male,17597734.0
+9884.0,,1133470,calavo growers inc,0,1,0,0.0,20190402,browne michael a,125085319000060,VP - Fresh Operations,male,17597734.0
+8019.0,,1133470,calavo growers inc,0,1,0,0.0,20190402,snyder james e,125085319000061,Controller,male,17597734.0
+16887.0,,1133470,calavo growers inc,1,0,0,0.0,20190517,sanders donald m,125085319000068,,male,17600000.0
+13375.0,,1133470,calavo growers inc,1,0,0,0.0,20190618,brown marc laurence,125085319000075,,male,17600000.0
+8478.0,,1133470,calavo growers inc,0,1,0,0.0,20190618,wedin robert j,125085319000076,VP - Sales and Fresh Marketing,male,17600000.0
+492891.0,,1133470,calavo growers inc,1,1,0,0.0,20190620,cole lecil e,125085319000077,"Chairman, President and CEO",male,17600000.0
+11449.0,,1133470,calavo growers inc,0,1,0,0.0,20190621,lindeman bruce john,125085319000078,CFO and Corporate Secretary,male,17600000.0
+5996.0,,1133470,calavo growers inc,0,1,0,0.0,20190624,browne michael a,125085319000079,VP - Fresh Operations,male,17600000.0
+402116.0,,1133470,calavo growers inc,1,1,0,0.0,20190624,cole lecil e,125085319000080,"Chairman, President and CEO",male,17600000.0
+13000.0,,1133470,calavo growers inc,1,0,0,0.0,20190624,brown marc laurence,125085319000081,,male,17600000.0
+368025.0,,1133470,calavo growers inc,1,1,0,0.0,20190716,cole lecil e,125085319000084,"Chairman, President and CEO",male,17600000.0
+5996.0,4986.0,1133470,calavo growers inc,0,1,0,0.0,20190716,gibson james e,125085319000085,President of Subsidiary Corp.,male,17600000.0
+352116.0,,1133470,calavo growers inc,1,1,0,0.0,20190718,cole lecil e,125085319000087,"Chairman, President and CEO",male,17600000.0
+23262.0,102437.0,1133470,calavo growers inc,1,0,0,0.0,20190726,van der kar scott,125085319000094,,male,17600000.0
+12000.0,,1133470,calavo growers inc,1,0,0,0.0,20190910,brown marc laurence,125085319000098,,male,17594621.0
+11000.0,,1133470,calavo growers inc,1,0,0,0.0,20191015,brown marc laurence,125085319000100,,male,17594621.0
+16300.0,,1133470,calavo growers inc,0,1,0,0.0,20191220,lindeman bruce john,125085319000112,CFO & Corporate Secretary,male,17594621.0
+10872.0,,1133470,calavo growers inc,0,1,0,0.0,20191220,snyder james e,125085319000111,Controller,male,17594621.0
+10847.0,4986.0,1133470,calavo growers inc,0,1,0,0.0,20191220,gibson james e,125085319000116,President of Subsidiary Corp.,male,17594621.0
+13507.0,,1133470,calavo growers inc,0,1,0,0.0,20191220,araiza ronald anthony,125085319000115,VP Food Division Sales & Ops,male,17594621.0
+12758.0,,1133470,calavo growers inc,0,1,0,0.0,20191220,wedin robert j,125085319000114,VP - Sales & Fresh Marketing,male,17594621.0
+362159.0,,1133470,calavo growers inc,1,1,0,0.0,20191220,cole lecil e,125085319000113,"Chairman, President & CEO",male,17594621.0
+3250.0,125699.0,1133470,calavo growers inc,1,0,0,0.0,20200106,van der kar scott,125085320000010,,male,17594621.0
+18387.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,sanders donald m,125085320000001,,male,17594621.0
+21850.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,hollister steve,125085320000009,,male,17594621.0
+30054.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,carbone egidio,125085320000012,,male,17594621.0
+73607.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,thille dorcas h,125085320000011,,female,17594621.0
+12500.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,brown marc laurence,125085320000007,,male,17594621.0
+15250.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,digregorio michael anthony,125085320000008,,male,17594621.0
+32250.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,hunt john m,125085320000005,,male,17594621.0
+24000.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,helin james d,125085320000004,,male,17594621.0
+91178.0,282574.0,1133470,calavo growers inc,1,0,0,0.0,20200106,leavens j link,125085320000003,,male,17594621.0
+8238.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,edwards harold s,125085320000002,,male,17594621.0
+7750.0,,1133470,calavo growers inc,1,0,0,0.0,20200106,holmgren kathleen m,125085320000006,,female,17594621.0
+344978.0,,1133470,calavo growers inc,1,1,0,0.0,20200108,cole lecil e,125085320000013,"Chairman, President and CEO",male,17594621.0
+303226.0,,1133470,calavo growers inc,1,1,0,0.0,20200110,cole lecil e,125085320000014,"Chairman, President & CEO",male,17594621.0
+13800.0,,1133470,calavo growers inc,0,1,0,0.0,20200110,lindeman bruce john,125085320000015,CFO & Corporate Secretary,male,17594621.0
+301126.0,,1133470,calavo growers inc,1,1,0,0.0,20200114,cole lecil e,125085320000018,"Chairman, President and CEO",male,17594621.0
+294892.0,,1133470,calavo growers inc,1,1,0,0.0,20200114,cole lecil e,125085320000019,"Chairman, President and CEO",male,17594621.0
+12391.0,,1133470,calavo growers inc,0,1,0,0.0,20200117,lindeman bruce john,125085320000021,CFO and Secretary,male,17594621.0
+9941.0,,1133470,calavo growers inc,0,1,0,0.0,20200117,araiza ronald anthony,125085320000022,VP Food Division Sales and Ops,male,17594621.0
+11370.0,,1133470,calavo growers inc,0,1,0,0.0,20200117,wedin robert j,125085320000023,VP - Sales and Fresh Marketing,male,17594621.0
+10071.0,,1133470,calavo growers inc,0,1,0,0.0,20200117,snyder james e,125085320000024,Controller,male,17594621.0
+5776.0,,1133470,calavo growers inc,0,1,0,0.0,20200117,browne michael a,125085320000025,VP - Fresh Operations,male,17594621.0
+9482.0,4986.0,1133470,calavo growers inc,0,1,0,0.0,20200214,gibson james e,125085320000042,President of Subsidiary Corp,male,17614000.0
+13500.0,,1133470,calavo growers inc,1,0,0,0.0,20200415,brown marc laurence,125085320000047,,male,17614000.0
+5418.0,,1133470,calavo growers inc,0,1,0,0.0,20200520,manion kevin,125085320000050,Chief Financial Officer,male,17638513.0
+22367.0,4986.0,1133470,calavo growers inc,0,1,0,0.0,20200619,gibson james e,125085320000055,Chief Executive Officer,male,17638513.0
+6638.0,,1133470,calavo growers inc,1,0,0,0.0,20200625,edwards harold s,125085320000057,,male,17638513.0
+4578.0,,1133470,calavo growers inc,0,1,0,0.0,20200819,lodge mark,125085320000065,Chief Operations Officer,male,17657000.0
+15000.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,brown marc laurence,125085320000087,,male,17661000.0
+9250.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,holmgren kathleen m,125085320000089,,female,17661000.0
+19887.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,sanders donald m,125085320000088,,male,17661000.0
+92678.0,282572.0,1133470,calavo growers inc,1,0,0,0.0,20201102,leavens j link,125085320000090,,male,17661000.0
+33750.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,hunt john m,125085320000091,,male,17661000.0
+3000.0,127449.0,1133470,calavo growers inc,1,0,0,0.0,20201102,van der kar scott,125085320000096,,male,17661000.0
+16750.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,digregorio michael anthony,125085320000095,,male,17661000.0
+7438.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,edwards harold s,125085320000094,,male,17661000.0
+302626.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,cole lecil e,125085320000093,,male,17661000.0
+23350.0,,1133470,calavo growers inc,1,0,0,0.0,20201102,hollister steve,125085320000092,,male,17661000.0
+25500.0,,1133470,calavo growers inc,1,0,0,0.0,20201103,helin james d,125085320000097,,male,17661000.0
+350.0,,1133470,calavo growers inc,0,1,0,0.0,20201124,silva joel,125085320000107,Chief Accounting Officer,male,17661000.0
+7404.0,,1133470,calavo growers inc,0,1,0,0.0,20201125,manion kevin,125085320000108,Chief Financial Officer,male,17661000.0
+5968.0,,1133470,calavo growers inc,0,1,0,0.0,20201130,lodge mark,125085320000109,Chief Operations Officer,male,17661000.0
+18750.0,,1133470,calavo growers inc,1,0,0,0.0,20210119,digregorio michael anthony,125085321000011,,male,17661000.0
+19446.0,4968.0,1133470,calavo growers inc,0,1,0,0.0,20210209,gibson james e,125085321000030,President and CEO,male,17686249.0
+9035.0,,1133470,calavo growers inc,0,1,0,0.0,20210318,wedin robert j,125085321000040,Exec. VP of Fresh Sales,male,17686249.0
+17750.0,,1133470,calavo growers inc,1,0,0,0.0,20210409,digregorio michael anthony,125085321000049,,male,17686249.0
+17887.0,,1133470,calavo growers inc,1,0,0,0.0,20210419,sanders donald m,125085321000055,,male,17686249.0
+6783.0,,1133470,calavo growers inc,0,1,0,0.0,20210513,manion kevin,125085321000060,Chief Financial Officer,male,17683930.0
+,,1133470,calavo growers inc,1,1,0,0.0,20210909,hollister steve,125085321000093,Interim CEO & Interim CFO,male,17683309.0
+28350.0,,1133470,calavo growers inc,1,1,0,0.0,20210916,hollister steve,125085321000094,Interim CEO & Interim CFO,male,17683309.0
+8199.0,,1133470,calavo growers inc,0,1,0,0.0,20211012,matute mariela irene,125085321000096,Chief Financial Officer,female,17683309.0
+8691.0,,1133470,calavo growers inc,0,1,0,0.0,20211118,wedin robert j,125085321000098,Exec. VP of Fresh Sales,male,17686000.0
+5721.0,,1133470,calavo growers inc,0,1,0,0.0,20211119,lodge mark,125085321000099,Chief Operations Officer,male,17686000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20211203,aslam farha,125085321000103,,male,17686000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20211203,mendizabal adriana,125085321000105,,female,17686000.0
+6881.0,,1133470,calavo growers inc,0,1,0,0.0,20211214,lodge mark,125085321000109,Chief Operations Officer,male,17686000.0
+1337.0,,1133470,calavo growers inc,0,1,0,0.0,20211214,silva joel,125085321000108,Chief Accounting Officer,male,17686000.0
+7948.0,,1133470,calavo growers inc,0,1,0,0.0,20211221,wedin robert j,125085321000111,Exec. VP of Fresh Sales,male,17686000.0
+100105.0,26512.0,1133470,calavo growers inc,1,0,0,0.0,20211221,van der kar scott,125085321000112,,male,17686000.0
+2814.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,aslam farha,125085322000003,,male,17686000.0
+2814.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,mendizabal adriana,125085322000004,,female,17686000.0
+95492.0,282572.0,1133470,calavo growers inc,1,0,0,0.0,20220105,leavens j link,125085322000005,,male,17686000.0
+20701.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,sanders donald m,125085322000006,,male,17686000.0
+31164.0,,1133470,calavo growers inc,1,1,0,0.0,20220105,hollister steve,125085322000007,Interim CEO,male,17686000.0
+28314.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,helin james d,125085322000008,,male,17686000.0
+22564.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,digregorio michael anthony,125085322000009,,male,17686000.0
+17814.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,brown marc laurence,125085322000010,,male,17686000.0
+12064.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,holmgren kathleen m,125085322000011,,female,17686000.0
+36564.0,,1133470,calavo growers inc,1,0,0,0.0,20220105,hunt john m,125085322000012,,male,17686000.0
+4314.0,,1133470,calavo growers inc,1,0,0,0.0,20220120,aslam farha,125085322000023,,male,17686000.0
+28993.0,,1133470,calavo growers inc,0,1,0,0.0,20220201,kocher brian w,125085322000036,Chief Executive Officer,male,17716000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220404,araiza ronald anthony,125085322000051,"EVP, Foods and RFG Sales",male,17716000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220404,silva joel,125085322000050,Chief Accounting Officer,male,17716000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220404,matute mariela irene,125085322000049,Chief Financial Officer,female,17716000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220404,kocher brian w,125085322000048,Chief Executive Officer,male,17716000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220621,munsell shawn,125085322000066,Chief Financial Officer,male,17742140.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220711,dumas danny,125085322000071,SVP & GM Grown,male,17742140.0
+,,1133470,calavo growers inc,0,1,0,0.0,20220816,kurtz helen,125085322000077,SVP and GM - Prepared,female,17732000.0
+32164.0,,1133470,calavo growers inc,1,0,0,0.0,20221007,hollister steve,125085322000088,,male,17731661.0
+26314.0,,1133470,calavo growers inc,1,0,0,0.0,20221018,helin james d,125085322000092,,male,17731661.0
+31495.0,,1133470,calavo growers inc,0,1,0,0.0,20221102,kocher brian w,125085322000093,Chief Executive Officer,male,17732000.0
+438.0,,1133470,calavo growers inc,0,1,0,0.0,20221102,montgomery graciela,125085322000094,Chief Human Resources Officer,female,17732000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20221202,dumas danny,125085322000112,SVP & GM - Grown,male,17731661.0
+7792.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,aslam farha,125085322000111,,male,17731661.0
+35642.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,hollister steve,125085322000099,,male,17731661.0
+21292.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,brown marc laurence,125085322000109,,male,17731661.0
+15542.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,holmgren kathleen m,125085322000100,,female,17731661.0
+40042.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,hunt john m,125085322000101,,male,17731661.0
+24179.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,sanders donald m,125085322000102,,male,17731661.0
+,,1133470,calavo growers inc,0,1,0,0.0,20221202,kocher brian w,125085322000103,Chief Executive Officer,male,17731661.0
+26042.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,digregorio michael anthony,125085322000104,,male,17731661.0
+98970.0,282572.0,1133470,calavo growers inc,1,0,0,0.0,20221202,leavens j link,125085322000110,,male,17731661.0
+,,1133470,calavo growers inc,0,1,0,0.0,20221202,kurtz helen,125085322000106,SVP & GM - Prepared,female,17731661.0
+,,1133470,calavo growers inc,0,1,0,0.0,20221202,montgomery graciela,125085322000107,Chief Human Resources Officer,female,17731661.0
+,,1133470,calavo growers inc,0,1,0,0.0,20221202,munsell shawn,125085322000108,Chief Financial Officer,male,17731661.0
+29792.0,,1133470,calavo growers inc,1,0,0,0.0,20221202,helin james d,125085322000105,,male,17731661.0
+6292.0,,1133470,calavo growers inc,1,0,0,0.0,20221205,mendizabal adriana,125085322000113,,female,17731661.0
+33981.0,,1133470,calavo growers inc,0,1,0,0.0,20221223,kocher brian w,125085322000124,Chief Executive Officer,male,17731661.0
+28042.0,,1133470,calavo growers inc,1,0,0,0.0,20230119,digregorio michael anthony,125085323000004,,male,17731661.0
+34702.0,,1133470,calavo growers inc,1,0,0,0.0,20230120,hollister steve,125085323000005,,male,17731661.0
+86470.0,282572.0,1133470,calavo growers inc,1,0,0,0.0,20230120,leavens j link,125085323000006,,male,17731661.0
+31380.0,,1133470,calavo growers inc,1,1,0,0.0,20230202,kocher brian w,125085323000007,Chief Executive Officer,male,17743000.0
+,,1133470,calavo growers inc,0,1,0,0.0,20230314,cole lecil e,125085323000011,Chief Executive Officer,male,17742661.0
+390000.0,,1133470,calavo growers inc,0,1,0,0.0,20230323,cole lecil e,125085323000014,Chief Executive Officer,male,17742661.0
+440000.0,,1133470,calavo growers inc,0,1,0,0.0,20230329,cole lecil e,125085323000016,Chief Executive Officer,male,17742661.0
+2111.0,,1133470,calavo growers inc,0,1,0,0.0,20230621,munsell shawn,125085323000036,Chief Financial Officer,male,17784326.0
+515000.0,,1133470,calavo growers inc,0,1,0,0.0,20230714,cole lecil e,125085323000042,Chief Executive Officer,male,17784326.0
+36702.0,,1133470,calavo growers inc,1,0,0,0.0,20230717,hollister steve,125085323000043,,male,17784326.0
+900.0,,1133470,calavo growers inc,0,1,0,0.0,20230920,browne michael a,125085323000060,Executive Vice President,male,17761061.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,holmgren kathleen m,125085323000063,,female,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,hollister steve,125085323000067,,male,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,digregorio michael anthony,125085323000066,,male,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,brown marc laurence,125085323000065,,male,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,leavens j link,125085323000064,,male,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,helin james d,125085323000062,,male,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231102,aslam farha,125085323000061,,male,17761000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20231103,mendizabal adriana,125085323000070,,female,17761000.0
+2953.0,,1133470,calavo growers inc,0,1,0,0.0,20231103,munsell shawn,125085323000072,Chief Financial Officer,male,17761000.0
+1384.0,,1133470,calavo growers inc,0,1,0,0.0,20231103,montgomery graciela,125085323000071,Chief Human Resources Officer,female,17761000.0
+846.0,172.0,1133470,calavo growers inc,0,1,0,0.0,20231103,harrison paul alan,125085323000069,Executive Vice President,male,17761000.0
+78450.0,282572.0,1133470,calavo growers inc,1,0,0,0.0,20240322,leavens j link,125085324000005,,male,17800265.0
+,,1133470,calavo growers inc,1,0,0,0.0,20240604,lindeman bruce john,125085324000007,,male,17800095.0
+4432.0,,1133470,calavo growers inc,0,1,0,0.0,20240621,munsell shawn,125085324000008,Chief Financial Officer,male,17800095.0
+6645.0,,1133470,calavo growers inc,1,0,0,0.0,20241105,lindeman bruce john,125085324000012,,male,17802000.0
+20471.0,,1133470,calavo growers inc,1,0,0,0.0,20241105,holmgren kathleen m,125085324000013,,female,17802000.0
+26221.0,,1133470,calavo growers inc,1,0,0,0.0,20241105,brown marc laurence,125085324000015,,male,17802000.0
+41631.0,,1133470,calavo growers inc,1,0,0,0.0,20241105,hollister steve,125085324000016,,male,17802000.0
+11221.0,,1133470,calavo growers inc,1,0,0,0.0,20241105,mendizabal adriana,125085324000017,,female,17802000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20241105,helin james d,125085324000018,,male,17802000.0
+,,1133470,calavo growers inc,1,0,0,0.0,20241105,aslam farha,125085324000019,,male,17802000.0
+5089.0,,1133470,calavo growers inc,0,1,0,0.0,20241105,munsell shawn,125085324000020,Chief Financial Officer,male,17802000.0
+83379.0,282572.0,1133470,calavo growers inc,1,0,0,0.0,20241105,leavens j link,125085324000011,,male,17802000.0
+32971.0,,1133470,calavo growers inc,1,0,0,0.0,20241105,digregorio michael anthony,125085324000014,,male,17802000.0

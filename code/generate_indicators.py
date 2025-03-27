@@ -1,5 +1,6 @@
 from filer_names.dotcom_bubble import generate_dotcom_bubble_indicators
 from filer_names.name_changes import generate_name_changes_indicators
+from filer_metadata.summary import aggregate_filer_metadata
 from mentions.mentions import create_indicator
 import shutil
 import os
@@ -68,6 +69,9 @@ def generate_indicators_json():
 
 
 if __name__ == "__main__":
+    # old code
+    aggregate_filer_metadata("data/filer_metadata") 
+    
     # Delete indicators/ folder for fresh start
     if os.path.exists('indicators'):
         shutil.rmtree('indicators')
@@ -145,5 +149,7 @@ if __name__ == "__main__":
     
     # Generate the indicators.json file
     generate_indicators_json()
+
+
     
     print("All indicators created successfully!")

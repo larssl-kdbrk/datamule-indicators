@@ -23,7 +23,9 @@ CATEGORY_MAP = {
     'space' : "Technology",
     'nuclear' : "Technology",
     "sovereign-crisis" : "International",
-    "political-stability" : "International"
+    "political-stability" : "International",
+    'ipo-domestic': 'Corporate Finance',
+    'ipo-international': 'Corporate Finance'
 }
 
 def get_prefix(mention_key):

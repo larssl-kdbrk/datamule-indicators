@@ -69,8 +69,7 @@ def generate_indicators_json():
 
 
 if __name__ == "__main__":
-    # old code
-    aggregate_filer_metadata("data/filer_metadata") 
+
 
     # Delete indicators/ folder for fresh start
     if os.path.exists('indicators'):
@@ -156,6 +155,7 @@ if __name__ == "__main__":
     # Generate the indicators.json file
     generate_indicators_json()
 
-
+    # old code
+    aggregate_filer_metadata("data/filer_metadata") 
     
     print("All indicators created successfully!")

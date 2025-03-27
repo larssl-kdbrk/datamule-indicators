@@ -29,7 +29,12 @@ def create_indicator(format, category, indicator, components, interval, query_li
     # Process each component once
     for idx, component in enumerate(components):
         # Extract component name once
-        component_name = os.path.basename(component).split('_')[-1].split('.')[0]
+        component_base = os.path.basename(component).split('.')[0]  # Remove extension first
+        first_underscore_pos = component_base.find('_')
+        if first_underscore_pos >= 0:
+            component_name = component_base[first_underscore_pos + 1:]  # Everything after first underscore
+        else:
+            component_name = component_base  # No underscore case
         print(f"Processing component: {component_name}")
         
         # Load component data once

@@ -20,7 +20,7 @@ CATEGORY_MAP = {
     'war': 'War',
     'terrorism': 'Terrorism',
     'space' : "Technology",
-    'nuclear' : "Nuclear",
+    'nuclear' : "Technology",
     "sovereign-crisis" : "International",
     "political-stability" : "International"
 }
@@ -73,7 +73,7 @@ if __name__ == "__main__":
         shutil.rmtree('indicators')
 
     # Load the data from GitHub
-    data_json = urllib.request.urlopen("https://raw.githubusercontent.com/john-friedman/datamule-data/refs/heads/experimental/data.json").read()
+    data_json = urllib.request.urlopen("https://raw.githubusercontent.com/john-friedman/datamule-data/refs/heads/master/data.json").read()
 
     
     data_dict = json.loads(data_json)

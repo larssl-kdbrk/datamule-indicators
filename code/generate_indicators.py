@@ -19,6 +19,10 @@ CATEGORY_MAP = {
     'supplier-concentration': 'Market Dynamics',
     'war': 'War',
     'terrorism': 'Terrorism',
+    'space' : "Technology",
+    'nuclear' : "Nuclear",
+    "sovereign-crisis" : "International",
+    "political-stability" : "International"
 }
 
 def get_prefix(mention_key):
@@ -86,7 +90,7 @@ if __name__ == "__main__":
         # Get category and indicator name
         category = map_prefix_to_category(prefix)
         indicator_name = prefix
-        
+        print(f"Creating indicator: {category}/{indicator_name}")
         # Collect component URLs and query lists
         components = []
         query_list = []
@@ -101,7 +105,7 @@ if __name__ == "__main__":
             submission_types.add(submission_type)
             
             # Build URL
-            url = f"https://github.com/john-friedman/datamule-data/raw/refs/heads/experimental/data/mentions/{submission_type}/{document_type}/{mention_key}.csv.gz"
+            url = f"https://github.com/john-friedman/datamule-data/raw/refs/heads/master/data/mentions/{submission_type}/{document_type}/{mention_key}.csv.gz"
             components.append(url)
             
             # Add query list

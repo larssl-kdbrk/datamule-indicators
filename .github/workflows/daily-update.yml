@@ -23,8 +23,9 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install urllib3 requests
-             pip install pandas
+        run: |
+          pip install urllib3 requests
+          pip install pandas
       
       - name: Run update script
         run: python code/generate_indicators.py

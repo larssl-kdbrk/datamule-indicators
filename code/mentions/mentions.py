@@ -30,6 +30,7 @@ def create_indicator(format, category, indicator, components, interval, query_li
     for idx, component in enumerate(components):
         # Extract component name once
         component_name = os.path.basename(component).split('_')[-1].split('.')[0]
+        print(f"Processing component: {component_name}")
         
         # Load component data once
         df = pd.read_csv(component, compression='gzip')

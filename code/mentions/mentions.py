@@ -11,7 +11,7 @@ def create_indicator(format, category, indicator, components, interval, query_li
     # Load filer metadata once (outside the loop)
     filer_metadata = pd.read_csv('https://github.com/john-friedman/datamule-data/raw/refs/heads/master/data/filer_metadata/listed_filer_metadata.csv.gz',
                                 compression='gzip',
-                                usecols=['cik', 'ownerOrg'])
+                                usecols=['cik', 'ownerOrg', 'name'])  # Added 'name' to the columns
     
     # Remove leading numbers from ownerOrg once
     filer_metadata['ownerOrg'] = filer_metadata['ownerOrg'].str.replace(r'^\d+\s', '', regex=True)
@@ -65,6 +65,10 @@ def create_indicator(format, category, indicator, components, interval, query_li
         # 3. Create references data
         references_df = df[df['filing_date'] >= current_period_start].copy()
         
+        # Merge with filer_metadata to add ownerOrg and name
+        references_df = references_df.merge(filer_metadata[['cik', 'ownerOrg', 'name']], 
+                                            on='cik', how='left')
+        
         # Vectorize URL creation instead of using apply
         references_df['url'] = (
             "https://www.sec.gov/Archives/edgar/data/" + 
@@ -97,4 +101,6 @@ def create_indicator(format, category, indicator, components, interval, query_li
     # Combine and write references data once
     if references_data:
         combined_references = pd.concat(references_data)
+        # Select only the columns we want for references.csv
+        combined_references = combined_references[['filing_date', 'component', 'url', 'ownerOrg', 'name']]
         combined_references.to_csv(os.path.join(directory_path, "references.csv"), index=False)

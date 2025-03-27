@@ -24,8 +24,7 @@ CATEGORY_MAP = {
     'nuclear' : "Technology",
     "sovereign-crisis" : "International",
     "political-stability" : "International",
-    'ipo-domestic': 'Corporate Finance',
-    'ipo-international': 'Corporate Finance'
+    'ipo': 'Corporate Finance',
 }
 
 def get_prefix(mention_key):

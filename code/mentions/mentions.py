@@ -25,6 +25,7 @@ def create_indicator(format, category, indicator, components, interval, query_li
     overview_data = []
     sector_comparison_data = []
     references_data = []
+    cik_data = []  # New list to collect CIK data
     
     # Process each component once
     for idx, component in enumerate(components):
@@ -93,6 +94,38 @@ def create_indicator(format, category, indicator, components, interval, query_li
         # Then assign all at once
         references_df['url'] = new_urls
         references_data.append(references_df)
+        
+        # 4. Create CIK data - binary indicators by interval
+        cik_df = df[['filing_date', 'cik']].copy()
+        
+        # Use simpler approach with manual truncation to avoid period/offset conflicts
+        # Extract date components based on interval
+        if interval == 'ME':  # Monthly
+            # Truncate to month start
+            cik_df['date'] = cik_df['filing_date'].dt.to_period('M').dt.to_timestamp()
+        elif interval == 'YE':  # Yearly
+            # Truncate to year start
+            cik_df['date'] = cik_df['filing_date'].dt.to_period('Y').dt.to_timestamp()
+        elif interval == 'QE':  # Quarterly
+            # Truncate to quarter start
+            cik_df['date'] = cik_df['filing_date'].dt.to_period('Q').dt.to_timestamp()
+        else:
+            # Default case - use as is
+            cik_df['date'] = cik_df['filing_date']
+        
+        # Group by date and CIK
+        cik_binary = cik_df.groupby(['date', 'cik']).size().reset_index()
+        cik_binary.columns = ['date', 'cik', 'count']
+        
+        # Set binary indicator
+        cik_binary['value'] = 1
+        cik_binary['component'] = component_name
+        
+        # Select only the required columns in the right order
+        cik_binary = cik_binary[['cik', 'date', 'value', 'component']]
+        
+        # Append to the collection
+        cik_data.append(cik_binary)
     
     # Combine and write overview data once
     if overview_data:
@@ -110,3 +143,8 @@ def create_indicator(format, category, indicator, components, interval, query_li
         # Select only the columns we want for references.csv
         combined_references = combined_references[['filing_date', 'component', 'url', 'ownerOrg', 'name']]
         combined_references.to_csv(os.path.join(directory_path, "references.csv"), index=False)
+    
+    # Combine and write CIK data once
+    if cik_data:
+        combined_cik = pd.concat(cik_data)
+        combined_cik.to_csv(os.path.join(directory_path, "cik.csv"), index=False)

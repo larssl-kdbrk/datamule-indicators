@@ -131,6 +131,12 @@ if __name__ == "__main__":
         elif '6-K' in submission_types:
             interval = 'ME'
             period = 30
+        elif 'S-1' in submission_types:
+            interval = 'YE'
+            period = 365
+        elif 'F-1' in submission_types:
+            interval = 'YE'
+            period = 365
         else:
             interval = 'QE'
             period = 90

@@ -147,7 +147,7 @@ def create_indicator(format, category, indicator, components, interval, query_li
     if references_data:
         combined_references = pd.concat(references_data)
         # Select only the columns we want for references.csv
-        combined_references = combined_references[['filing_date', 'component', 'url', 'ownerOrg', 'name']]
+        combined_references = combined_references[['filing_date', 'component', 'url', 'ownerOrg', 'name','cik']]
         combined_references.to_csv(os.path.join(directory_path, "references.csv"), index=False)
     
     # Combine and write CIK data once

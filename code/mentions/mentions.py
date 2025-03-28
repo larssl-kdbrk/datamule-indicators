@@ -9,11 +9,17 @@ def create_indicator(format, category, indicator, components, interval, query_li
     os.makedirs(directory_path, exist_ok=True)
     
     # Load filer metadata once (outside the loop)
-    filer_metadata = pd.read_csv('https://github.com/john-friedman/datamule-data/raw/refs/heads/master/data/filer_metadata/listed_filer_metadata.csv.gz',
+    listed_filer_metadata  = pd.read_csv('https://github.com/john-friedman/datamule-data/raw/refs/heads/master/data/filer_metadata/listed_filer_metadata.csv.gz',
                                 compression='gzip',
                                 usecols=['cik', 'ownerOrg', 'name'])  # Added 'name' to the columns
     
-    # Remove leading numbers from ownerOrg once
+
+    unlisted_filer_metadata = pd.read_csv('https://github.com/john-friedman/datamule-data/raw/refs/heads/master/data/filer_metadata/unlisted_filer_metadata.csv.gz',
+                                compression='gzip',
+                                usecols=['cik', 'ownerOrg', 'name'])
+    
+    filer_metadata = pd.concat([listed_filer_metadata, unlisted_filer_metadata])
+
     filer_metadata['ownerOrg'] = filer_metadata['ownerOrg'].str.replace(r'^\d+\s', '', regex=True)
     
     # Define time periods once

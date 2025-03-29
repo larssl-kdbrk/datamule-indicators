@@ -27,14 +27,13 @@ CATEGORY_MAP = {
     'ipo': 'Corporate Finance',
     'explosive-materials' : "Resources",
     'metals' : 'Resources',
-    'semiconductor' : 'Resources',
-    'propellant' : 'Resources',
+    'semiconductor-materials' : 'Resources',
+    'propellant-components' : 'Resources',
     'raw-materials' : 'Resources',
     'electronic-components' : 'Resources',
     'chemicals' : 'Resources',
     'supply-chain' : 'Trade',
     'military-equipment' : 'War',
-    
     }
 
 def get_prefix(mention_key):

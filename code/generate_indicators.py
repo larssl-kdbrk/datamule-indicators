@@ -34,6 +34,9 @@ CATEGORY_MAP = {
     'chemicals' : 'Resources',
     'supply-chain' : 'Trade',
     'military-equipment' : 'War',
+    "llm" : "Technology",
+    "health" : "Health",
+    "pandemic" : "Health"
     }
 
 def get_prefix(mention_key):

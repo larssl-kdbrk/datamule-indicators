@@ -25,7 +25,17 @@ CATEGORY_MAP = {
     "sovereign-crisis" : "International",
     "political-stability" : "International",
     'ipo': 'Corporate Finance',
-}
+    'explosive-materials' : "Resources",
+    'metals' : 'Resources',
+    'semiconductor' : 'Resources',
+    'propellant' : 'Resources',
+    'raw-materials' : 'Resources',
+    'electronic-components' : 'Resources',
+    'chemicals' : 'Resources',
+    'supply-chain' : 'Trade',
+    'military-equipment' : 'War',
+    
+    }
 
 def get_prefix(mention_key):
     """Extract the prefix from a mention key (everything before the underscore)."""

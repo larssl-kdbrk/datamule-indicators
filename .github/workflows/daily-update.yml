@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-data:
+  update-data-and-graphs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -24,16 +24,18 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install urllib3 requests
-          pip install pandas
+          pip install urllib3 requests pandas matplotlib aquarel
       
-      - name: Run update script
+      - name: Run update script (generate indicators)
         run: python code/generate_indicators.py
+
+      - name: Generate graphs
+        run: python code/generate_graphs.py
       
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Daily data update"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Daily data and graph update"
           git push

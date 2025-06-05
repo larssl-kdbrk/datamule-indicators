@@ -37,7 +37,8 @@ CATEGORY_MAP = {
     "llm" : "Technology",
     "health" : "Health",
     "pandemic" : "Health",
-    "health-research" : "Health"
+    "health-research" : "Health",
+    "recession":"Economy"
     }
 
 def get_prefix(mention_key):
